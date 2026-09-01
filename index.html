@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Check your exam eligibility for SSC, UPSC, RRB, Banking, Defence, Teaching, State PSC and other government recruitment exams based on your age, category and qualification.">
+  <meta name="keywords" content="exam eligibility calculator, SSC eligibility, UPSC eligibility, RRB eligibility, bank exam eligibility, government job age limit, OBC age relaxation, SC ST relaxation">
+  <meta name="author" content="ROJGARDWAAR.IN">
+  <meta name="robots" content="index, follow">
+  <meta name="theme-color" content="#1a56db">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Check Your Exam Eligibility | ROJGARDWAAR.IN">
+  <meta property="og:description" content="Find which competitive exams you are eligible for based on your DOB, category and qualification.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://rojgardwaar.in/">
+  <meta property="og:site_name" content="ROJGARDWAAR.IN">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Check Your Exam Eligibility | ROJGARDWAAR.IN">
+  <meta name="twitter:description" content="Find which competitive exams you are eligible for based on your DOB, category and qualification.">
+
+  <title>Check Your Exam Eligibility | ROJGARDWAAR.IN</title>
+
+  <!-- Preconnect -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="./css/style.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📋%3C/text%3E%3C/svg%3E">
+  <link rel="manifest" href="./manifest.json">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "ROJGARDWAAR.IN Exam Eligibility Calculator",
+    "description": "Check your eligibility for SSC, UPSC, RRB, Banking, Defence and other government recruitment exams.",
+    "url": "https://rojgardwaar.in/",
+    "applicationCategory": "UtilityApplication",
+    "operatingSystem": "Any",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    }
+  }
+  </script>
+</head>
+<body>
+  <!-- Skip to content -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- Header -->
+  <header class="site-header" role="banner">
+    <div class="container header-inner">
+      <a href="./index.html" class="logo" aria-label="ROJGARDWAAR.IN Home">ROJGARDWAAR<span>.IN</span></a>
+
+      <nav class="main-nav" role="navigation" aria-label="Main navigation">
+        <a href="./index.html" class="nav-link">Home</a>
+        <a href="./pages/about.html" class="nav-link">About</a>
+        <a href="./pages/contact.html" class="nav-link">Contact</a>
+        <a href="./pages/disclaimer.html" class="nav-link">Disclaimer</a>
+      </nav>
+
+      <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="mobileMenu" aria-label="Toggle navigation menu">
+        <svg width="24" height="24" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Mobile Menu -->
+    <nav class="mobile-menu" id="mobileMenu" role="navigation" aria-label="Mobile navigation">
+      <a href="./index.html" class="nav-link">Home</a>
+      <a href="./pages/about.html" class="nav-link">About</a>
+      <a href="./pages/contact.html" class="nav-link">Contact</a>
+      <a href="./pages/disclaimer.html" class="nav-link">Disclaimer</a>
+    </nav>
+  </header>
+
+  <main id="main-content">
+    <!-- Hero Section -->
+    <section class="hero" aria-labelledby="hero-heading">
+      <div class="container">
+        <h1 id="hero-heading">Check Your Exam Eligibility</h1>
+        <p>Find the exams you may be eligible for based on your DOB, category and qualification.</p>
+      </div>
+    </section>
+
+    <!-- Calculator Section -->
+    <section class="main-content" aria-labelledby="calculator-heading">
+      <div class="container">
+        <div class="card calculator-card">
+          <div class="card-body">
+            <h2 id="calculator-heading" class="sr-only">Eligibility Calculator</h2>
+
+            <form id="eligibilityForm" novalidate>
+              <!-- Date of Birth -->
+              <div class="form-group">
+                <label for="dob" class="form-label">
+                  Date of Birth <span class="required" aria-label="required">*</span>
+                </label>
+                <input 
+                  type="date" 
+                  id="dob" 
+                  name="dob" 
+                  class="form-input" 
+                  required
+                  aria-required="true"
+                  aria-describedby="dobError"
+                  aria-invalid="false"
+                >
+                <div id="dobError" class="error-message" role="alert" aria-live="polite">
+                  <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                  <span></span>
+                </div>
+              </div>
+
+              <!-- Category -->
+              <div class="form-group">
+                <label for="category" class="form-label">
+                  Category <span class="required" aria-label="required">*</span>
+                </label>
+                <select 
+                  id="category" 
+                  name="category" 
+                  class="form-select" 
+                  required
+                  aria-required="true"
+                  aria-describedby="categoryError"
+                  aria-invalid="false"
+                >
+                  <option value="" disabled selected>Select your category</option>
+                  <option value="General">General</option>
+                  <option value="OBC">OBC (Other Backward Classes)</option>
+                  <option value="SC">SC (Scheduled Caste)</option>
+                  <option value="ST">ST (Scheduled Tribe)</option>
+                  <option value="EWS">EWS (Economically Weaker Section)</option>
+                  <option value="PwD">PwD (Persons with Disabilities)</option>
+                </select>
+                <div id="categoryError" class="error-message" role="alert" aria-live="polite">
+                  <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                  <span></span>
+                </div>
+              </div>
+
+              <!-- Qualification -->
+              <div class="form-group">
+                <label for="qualification" class="form-label">
+                  Qualification <span class="required" aria-label="required">*</span>
+                </label>
+                <select 
+                  id="qualification" 
+                  name="qualification" 
+                  class="form-select" 
+                  required
+                  aria-required="true"
+                  aria-describedby="qualificationError"
+                  aria-invalid="false"
+                >
+                  <option value="" disabled selected>Select your qualification</option>
+                  <option value="10th Pass">10th Pass (Matriculation)</option>
+                  <option value="12th Pass">12th Pass (Intermediate)</option>
+                  <option value="Graduation">Graduation (Bachelor's Degree)</option>
+                  <option value="Post-Graduation">Post-Graduation (Master's Degree)</option>
+                </select>
+                <div id="qualificationError" class="error-message" role="alert" aria-live="polite">
+                  <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+                  <span></span>
+                </div>
+              </div>
+
+              <!-- Submit Button -->
+              <button type="submit" id="scanButton" class="btn btn-primary">
+                <span class="spinner" aria-hidden="true"></span>
+                <span class="btn-text">
+                  <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" style="display: inline; vertical-align: middle; margin-right: 0.5rem;">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01"/>
+                  </svg>
+                  Scan My Eligibility
+                </span>
+              </button>
+            </form>
+          </div>
+        </div>
+
+        <!-- Results Section -->
+        <div id="resultsSection" class="results-section" aria-live="polite">
+          <h2 style="margin-bottom: 1.5rem;">Your Eligibility Scan</h2>
+
+          <!-- Summary Grid -->
+          <div id="summaryGrid" class="summary-grid" role="region" aria-label="Eligibility summary"></div>
+
+          <!-- Filter Tabs -->
+          <div id="filterTabs" class="filter-tabs" role="tablist" aria-label="Filter results by status"></div>
+
+          <!-- Mobile: Exam Cards -->
+          <div id="examCards" class="exam-cards" role="region" aria-label="Exam eligibility cards"></div>
+
+          <!-- Desktop: Exam Table -->
+          <div class="exam-table-wrapper" role="region" aria-label="Exam eligibility table">
+            <table class="exam-table" role="table" aria-label="Detailed exam eligibility results">
+              <thead>
+                <tr role="row">
+                  <th scope="col" role="columnheader">Exam Name</th>
+                  <th scope="col" role="columnheader">Organization</th>
+                  <th scope="col" role="columnheader">Age Limit</th>
+                  <th scope="col" role="columnheader">Your Age</th>
+                  <th scope="col" role="columnheader">Relaxation</th>
+                  <th scope="col" role="columnheader">Qualification</th>
+                  <th scope="col" role="columnheader">Status</th>
+                  <th scope="col" role="columnheader">Explanation</th>
+                  <th scope="col" role="columnheader">Actions</th>
+                </tr>
+              </thead>
+              <tbody id="examTableBody" role="rowgroup"></tbody>
+            </table>
+          </div>
+
+          <!-- No Results -->
+          <div id="noResults" class="no-results" style="display: none;">
+            <svg class="no-results-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <h3>No matching exams found</h3>
+            <p>No matching exams found for the selected criteria. Try adjusting your inputs or check back later as we update our database regularly.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section class="content-section" aria-labelledby="how-it-works-heading">
+      <div class="container">
+        <h2 id="how-it-works-heading">How This Eligibility Calculator Works</h2>
+        <p>Our eligibility calculator is designed to help Indian government job aspirants quickly determine which competitive examinations they may be qualified to apply for. The tool works by comparing your personal details against the official eligibility criteria of various recruitment examinations.</p>
+
+        <h3>Step-by-Step Process</h3>
+        <ol>
+          <li><strong>Enter Your Date of Birth:</strong> The calculator uses your exact date of birth to compute your age as of the specific cutoff date defined for each examination.</li>
+          <li><strong>Select Your Category:</strong> Choose your reservation category (General, OBC, SC, ST, EWS, or PwD). Each exam has specific age relaxation rules for different categories.</li>
+          <li><strong>Select Your Qualification:</strong> Indicate your highest educational qualification. The tool checks if your qualification meets or exceeds the requirement for each exam.</li>
+          <li><strong>Instant Analysis:</strong> The calculator processes all exams in our database and instantly shows your eligibility status for each one.</li>
+        </ol>
+
+        <h3>What Makes This Tool Accurate</h3>
+        <ul>
+          <li>Each exam uses its <strong>specific cutoff date</strong> — not today's date. Different exams use different reference dates for age calculation.</li>
+          <li>Category relaxation is applied <strong>per exam</strong>, not universally. Some exams may not offer relaxation for certain categories.</li>
+          <li>Qualification hierarchy is respected — higher qualifications are accepted for exams requiring lower qualifications.</li>
+          <li>The database is structured to be easily updated when official notifications change age limits or eligibility criteria.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Age Relaxation Section -->
+    <section class="content-section" aria-labelledby="relaxation-heading">
+      <div class="container">
+        <h2 id="relaxation-heading">How Age Relaxation Works</h2>
+        <p>Age relaxation in Indian government recruitment is not uniform across all examinations. Each recruiting organization defines its own relaxation policy in the official notification. Understanding how relaxation works is crucial for accurate eligibility assessment.</p>
+
+        <h3>Common Relaxation Patterns</h3>
+        <ul>
+          <li><strong>OBC (Other Backward Classes):</strong> Typically 3 years of age relaxation beyond the general category upper age limit.</li>
+          <li><strong>SC/ST (Scheduled Caste/Tribe):</strong> Typically 5 years of age relaxation beyond the general category upper age limit.</li>
+          <li><strong>PwD (Persons with Disabilities):</strong> Usually 10 years of age relaxation, though this varies significantly by exam.</li>
+          <li><strong>EWS (Economically Weaker Section):</strong> Generally no age relaxation, but eligible for reservation in seats.</li>
+        </ul>
+
+        <h3>Important Notes</h3>
+        <ul>
+          <li>Relaxation rules can change with each new recruitment notification.</li>
+          <li>Some exams (like CDS, NDA) do not offer any category-based age relaxation.</li>
+          <li>Certain state-level exams may have different relaxation policies than central government exams.</li>
+          <li>The calculator uses the most commonly observed relaxation values, but you must verify against the specific notification.</li>
+        </ul>
+
+        <div class="info-box">
+          <h3>
+            <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+            Key Insight
+          </h3>
+          <p>Always check the official notification for the exact relaxation applicable to your category for a specific examination. Our calculator provides an estimate based on standard patterns, but official notifications may have special provisions or exceptions.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Disclaimer Section -->
+    <section class="content-section" aria-labelledby="disclaimer-heading">
+      <div class="container">
+        <h2 id="disclaimer-heading">Important Eligibility Disclaimer</h2>
+
+        <div class="disclaimer-box">
+          <h3>
+            <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/></svg>
+            Important Notice
+          </h3>
+          <p>This tool provides an <strong>informational eligibility estimate</strong> based on the data available in its database. Age limits, cut-off dates, qualifications, category relaxations and other conditions may vary by recruitment notification. Always verify your eligibility from the official notification before applying. ROJGARDWAAR.IN is not responsible for any discrepancies between this calculator's results and official eligibility criteria.</p>
+        </div>
+
+        <h3>What This Tool Does Not Cover</h3>
+        <ul>
+          <li>Physical fitness requirements for defence and paramilitary examinations.</li>
+          <li>Nationality and domicile requirements for state-level examinations.</li>
+          <li>Specific subject requirements or stream restrictions (e.g., science stream for technical posts).</li>
+          <li>Experience requirements for certain specialized posts.</li>
+          <li>Number of attempts limitations (e.g., UPSC CSE attempt limits).</li>
+          <li>Marital status requirements for certain defence examinations.</li>
+        </ul>
+
+        <p>We strongly recommend that you read the complete official notification of any examination before filling out the application form. This calculator is a starting point for your research, not the final authority on your eligibility.</p>
+      </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="content-section" aria-labelledby="faq-heading">
+      <div class="container">
+        <h2 id="faq-heading">Frequently Asked Questions</h2>
+
+        <div class="faq-list" role="region" aria-label="Frequently asked questions">
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false" aria-controls="faq-1">
+              How is my age calculated for exam eligibility?
+              <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div id="faq-1" class="faq-answer">
+              <p>Your age is calculated from your date of birth to the specific cutoff date mentioned in each exam's official notification. Different exams use different cutoff dates — some use January 1st of the exam year, others use August 1st, and some use the date of notification release. Our calculator uses the standard cutoff dates for each examination.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false" aria-controls="faq-2">
+              Does OBC provide age relaxation for all exams?
+              <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div id="faq-2" class="faq-answer">
+              <p>No, OBC age relaxation is not universal. While most SSC and banking exams offer 3 years of relaxation for OBC candidates, some exams like CDS (Combined Defence Services) and NDA (National Defence Academy) do not provide any category-based age relaxation. Our calculator applies the correct relaxation for each specific exam based on its official rules.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false" aria-controls="faq-3">
+              Does qualification affect exam eligibility?
+              <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div id="faq-3" class="faq-answer">
+              <p>Yes, qualification is a critical eligibility factor. Each exam specifies a minimum educational qualification. Our calculator uses a qualification hierarchy: Post-Graduation > Graduation > 12th Pass > 10th Pass. If you have a higher qualification than required (e.g., Graduation for an exam requiring 12th Pass), you are generally eligible. However, some exams may have specific stream or subject requirements that this calculator does not verify.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false" aria-controls="faq-4">
+              Which date is used to calculate age for government exams?
+              <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div id="faq-4" class="faq-answer">
+              <p>Each examination notification specifies its own crucial date for age calculation. Common cutoff dates include: January 1st of the exam year (used by UPSC, many defence exams), August 1st of the exam year (used by SSC), and the date of notification publication (used by some banking and state PSC exams). Our calculator uses the most commonly accepted cutoff date for each exam type.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false" aria-controls="faq-5">
+              Can eligibility rules change after I check?
+              <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div id="faq-5" class="faq-answer">
+              <p>Yes, eligibility rules can and do change with each new recruitment cycle. The government may revise age limits, relaxation policies, or qualification requirements in new notifications. Our database is updated regularly, but there may be a delay between a notification change and our database update. Always verify with the latest official notification before applying.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false" aria-controls="faq-6">
+              Should I verify the official notification even if the calculator says I am eligible?
+              <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div id="faq-6" class="faq-answer">
+              <p><strong>Absolutely yes.</strong> This calculator is an informational tool designed to give you a quick overview. The final and binding eligibility decision always rests with the official recruitment notification and the recruiting organization. We provide direct links to official notifications for every exam in our database so you can verify all details yourself. Never rely solely on any third-party tool for eligibility confirmation.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <button class="faq-question" aria-expanded="false" aria-controls="faq-7">
+              What exams are currently included in the database?
+              <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+            </button>
+            <div id="faq-7" class="faq-answer">
+              <p>Our database currently includes major central government and popular state government examinations such as SSC CGL, SSC CHSL, SSC MTS, SSC GD, UPSC CSE, UPSC CDS, UPSC NDA, RRB NTPC, RRB Group D, IBPS PO, IBPS Clerk, SBI PO, SBI Clerk, AFCAT, CAPF AC, CTET, BPSC, MPPSC, UPPSC PCS, and RPSC RAS. We are continuously expanding our database. If you would like us to add a specific exam, please contact us through our <a href="./pages/contact.html">contact page</a>.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">ROJGARDWAAR.IN</div>
+          <p class="footer-desc">Your trusted resource for government job exam eligibility information. We help aspirants understand their eligibility for competitive examinations across India.</p>
+        </div>
+        <div>
+          <h4 class="footer-heading">Quick Links</h4>
+          <ul class="footer-links">
+            <li><a href="./index.html">Home</a></li>
+            <li><a href="./pages/about.html">About Us</a></li>
+            <li><a href="./pages/contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="footer-heading">Legal</h4>
+          <ul class="footer-links">
+            <li><a href="./pages/privacy-policy.html">Privacy Policy</a></li>
+            <li><a href="./pages/terms.html">Terms & Conditions</a></li>
+            <li><a href="./pages/disclaimer.html">Disclaimer</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4 class="footer-heading">Resources</h4>
+          <ul class="footer-links">
+            <li><a href="https://ssc.gov.in/" target="_blank" rel="noopener noreferrer">SSC Official</a></li>
+            <li><a href="https://upsc.gov.in/" target="_blank" rel="noopener noreferrer">UPSC Official</a></li>
+            <li><a href="https://rrbcdg.gov.in/" target="_blank" rel="noopener noreferrer">RRB Official</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 ROJGARDWAAR.IN. All rights reserved. This is an informational tool. Always verify eligibility from official notifications.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="./js/app.js"></script>
+</body>
+</html>
