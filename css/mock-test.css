@@ -1,0 +1,2674 @@
+/* =========================================================================
+   RojgarDwaar — Design Tokens
+   Signature idea: the site borrows the visual language of an Indian
+   government exam admit card / OMR answer sheet — perforated ticket
+   edges, roll-number-style code blocks, a digital-clock timer, and
+   circular OMR-bubble option letters. It's built for the subject
+   (mock tests, Railway exam prep) rather than a generic template.
+   ========================================================================= */
+:root {
+  --ink: #1b2a4a;
+  --ink-soft: #45557a;
+  --paper: #f1efe6;
+  --paper-deep: #e7e3d5;
+  --card: #ffffff;
+  --line: #d9d3c1;
+  --stamp-red: #b23a2e;
+  --stamp-red-soft: #f3e0dd;
+  --gold: #c1852c;
+  --gold-soft: #f6ead2;
+  --success: #2f6b4f;
+  --success-soft: #dcece3;
+  --shadow: 0 2px 10px rgba(27, 42, 74, 0.08);
+
+  --font-display: "Roboto Slab", "Noto Serif Devanagari", serif;
+  --font-body: "Inter", "Noto Sans Devanagari", -apple-system, sans-serif;
+  --font-mono: "Space Mono", "Noto Sans Mono", monospace;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --container: 880px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+.rjd-container {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+/* ---------- Header / Global Nav ---------------------------------------- */
+.rjd-site-header {
+  background: var(--ink);
+  color: #fff;
+  border-bottom: 4px solid var(--gold);
+}
+
+.rjd-site-header__inner {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 14px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.rjd-brand {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.rjd-brand__mark {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+}
+
+.rjd-brand__tag {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--gold);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border: 1px solid var(--gold);
+  padding: 2px 6px;
+  border-radius: 3px;
+  display: none;
+}
+
+@media (min-width: 480px) {
+  .rjd-brand__tag {
+    display: inline-block;
+  }
+}
+
+.rjd-lang-toggle {
+  display: flex;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 999px;
+  padding: 3px;
+  gap: 2px;
+}
+
+.rjd-lang-toggle button {
+  border: none;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 13px;
+  font-weight: 600;
+  padding: 7px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.rjd-lang-toggle button.is-active {
+  background: var(--gold);
+  color: var(--ink);
+}
+
+/* ---------- Buttons ------------------------------------------------------ */
+.rjd-btn {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 14px;
+  padding: 11px 18px;
+  border-radius: var(--radius-sm);
+  border: 1.5px solid transparent;
+  cursor: pointer;
+  transition: transform 0.06s ease, opacity 0.15s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+.rjd-btn:active {
+  transform: scale(0.98);
+}
+
+.rjd-btn:disabled,
+.rjd-btn.is-disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.rjd-btn--primary {
+  background: var(--ink);
+  color: #fff;
+}
+
+.rjd-btn--secondary {
+  background: var(--gold-soft);
+  color: var(--gold);
+  border-color: var(--gold);
+}
+
+.rjd-btn--danger {
+  background: var(--stamp-red);
+  color: #fff;
+}
+
+.rjd-btn--ghost {
+  background: transparent;
+  border-color: var(--line);
+  color: var(--ink);
+}
+
+.rjd-btn--block {
+  width: 100%;
+  margin-top: 14px;
+}
+
+/* ---------- Eyebrow / Section title -------------------------------------- */
+.rjd-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.rjd-section-title {
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 700;
+  margin: 22px 0 10px;
+  color: var(--ink);
+  border-bottom: 2px solid var(--line);
+  padding-bottom: 6px;
+}
+
+/* ---------- Chapter Hero (masthead) --------------------------------------- */
+.rjd-chapter-hero {
+  padding: 22px 0 16px;
+  border-bottom: 3px double var(--ink);
+  margin-bottom: 4px;
+}
+
+.rjd-chapter-hero__title {
+  font-family: var(--font-display);
+  font-size: clamp(22px, 5vw, 30px);
+  margin: 6px 0 8px;
+  color: var(--ink);
+}
+
+.rjd-chapter-hero__stat {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--stamp-red);
+  margin: 0;
+}
+
+/* ---------- Tabs ---------------------------------------------------------- */
+.rjd-tabs {
+  display: flex;
+  gap: 4px;
+  margin: 18px 0 4px;
+  border-bottom: 1px solid var(--line);
+  overflow-x: auto;
+}
+
+.rjd-tab {
+  background: transparent;
+  border: none;
+  border-bottom: 3px solid transparent;
+  padding: 10px 6px;
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--ink-soft);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.rjd-tab.is-active {
+  color: var(--ink);
+  border-bottom-color: var(--stamp-red);
+}
+
+.rjd-tab-panel {
+  padding: 18px 0 40px;
+}
+
+/* ---------- Notes card ----------------------------------------------------- */
+.rjd-notes-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  box-shadow: var(--shadow);
+}
+
+.rjd-notes-card p {
+  margin: 4px 0 12px;
+}
+
+.rjd-key-points {
+  margin: 0 0 12px;
+  padding-left: 20px;
+}
+
+.rjd-key-points li {
+  margin-bottom: 6px;
+}
+
+.rjd-quick-revision {
+  background: var(--gold-soft);
+  border-left: 4px solid var(--gold);
+  padding: 10px 14px;
+  border-radius: var(--radius-sm);
+  margin-bottom: 16px;
+  font-size: 14px;
+}
+
+/* ---------- Practice toolbar / cards --------------------------------------- */
+.rjd-practice-toolbar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 14px;
+  flex-wrap: wrap;
+}
+
+.rjd-chip {
+  border: 1.5px solid var(--line);
+  background: var(--card);
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  color: var(--ink-soft);
+}
+
+.rjd-chip.is-active {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: #fff;
+}
+
+.rjd-practice-card,
+.rjd-exam-card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  box-shadow: var(--shadow);
+}
+
+.rjd-practice-card__meta,
+.rjd-exam-card__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.rjd-question-text {
+  font-family: var(--font-display);
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 1.5;
+  margin: 0 0 16px;
+  color: var(--ink);
+}
+
+.rjd-question-text--sm {
+  font-size: 15px;
+}
+
+/* ---------- Options (OMR-bubble styled) ------------------------------------ */
+.rjd-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+
+.rjd-option {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  text-align: left;
+  background: var(--paper);
+  border: 1.5px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  cursor: pointer;
+  font-size: 15px;
+  color: var(--ink);
+  transition: border-color 0.12s ease, background 0.12s ease;
+}
+
+.rjd-option:hover:not(.is-disabled) {
+  border-color: var(--ink-soft);
+}
+
+.rjd-option__letter {
+  flex: none;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 2px solid var(--ink-soft);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+.rjd-option.is-selected {
+  border-color: var(--ink);
+  background: #eef1f8;
+}
+
+.rjd-option.is-selected .rjd-option__letter {
+  background: var(--ink);
+  color: #fff;
+  border-color: var(--ink);
+}
+
+.rjd-option.is-correct {
+  border-color: var(--success);
+  background: var(--success-soft);
+}
+
+.rjd-option.is-correct .rjd-option__letter {
+  background: var(--success);
+  border-color: var(--success);
+  color: #fff;
+}
+
+.rjd-option.is-wrong {
+  border-color: var(--stamp-red);
+  background: var(--stamp-red-soft);
+}
+
+.rjd-option.is-wrong .rjd-option__letter {
+  background: var(--stamp-red);
+  border-color: var(--stamp-red);
+  color: #fff;
+}
+
+.rjd-option.is-disabled {
+  cursor: default;
+}
+
+/* ---------- Feedback / Badges ---------------------------------------------- */
+.rjd-feedback {
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+  margin-bottom: 14px;
+  font-size: 14px;
+}
+
+.rjd-feedback--correct {
+  background: var(--success-soft);
+  border-left: 4px solid var(--success);
+}
+
+.rjd-feedback--wrong {
+  background: var(--stamp-red-soft);
+  border-left: 4px solid var(--stamp-red);
+}
+
+.rjd-feedback__verdict {
+  font-weight: 700;
+  margin: 0 0 6px;
+}
+
+.rjd-feedback__explanation {
+  margin: 0;
+}
+
+.rjd-badge {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 4px 9px;
+  border-radius: 999px;
+  font-weight: 700;
+}
+
+.rjd-badge--easy {
+  background: var(--success-soft);
+  color: var(--success);
+}
+
+.rjd-badge--medium {
+  background: var(--gold-soft);
+  color: var(--gold);
+}
+
+.rjd-badge--hard {
+  background: var(--stamp-red-soft);
+  color: var(--stamp-red);
+}
+
+.rjd-practice-card__actions,
+.rjd-exam-card__actions,
+.rjd-exam-card__nav {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 6px;
+}
+
+/* ---------- Mock Test Hub — "admit card" tickets --------------------------- */
+.rjd-testcard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 12px;
+  margin: 14px 0;
+}
+
+.rjd-testcard {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  background: var(--card);
+  border: 1.5px dashed var(--ink-soft);
+  border-radius: var(--radius-md);
+  padding: 16px 14px;
+  text-decoration: none;
+  color: var(--ink);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.rjd-testcard::before,
+.rjd-testcard::after {
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  background: var(--paper);
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.rjd-testcard::before {
+  left: -8px;
+}
+
+.rjd-testcard::after {
+  right: -8px;
+}
+
+.rjd-testcard__index {
+  font-family: var(--font-mono);
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--stamp-red);
+}
+
+.rjd-testcard__label {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.rjd-testcard__meta {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-soft);
+}
+
+.rjd-testcard--accent {
+  border-style: solid;
+  border-color: var(--gold);
+}
+
+.rjd-topic-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.rjd-topic-chip {
+  border: 1.5px solid var(--line);
+  background: var(--card);
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-size: 13px;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.rjd-history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.rjd-history-item {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 12px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 8px 12px;
+}
+
+/* ---------- Exam page (admit-card header + OMR palette) --------------------- */
+.rjd-exam {
+  padding-bottom: 40px;
+}
+
+.rjd-exam__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  background: var(--ink);
+  color: #fff;
+  border-radius: var(--radius-md);
+  padding: 14px 18px;
+  margin: 14px 0;
+  flex-wrap: wrap;
+}
+
+.rjd-exam__title {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.rjd-exam__title .rjd-eyebrow {
+  color: var(--gold);
+}
+
+.rjd-exam__admit-code {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.6);
+  letter-spacing: 0.04em;
+}
+
+.rjd-exam__timer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.rjd-exam__timer-label {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: rgba(255, 255, 255, 0.65);
+}
+
+.rjd-exam__timer-value {
+  font-family: var(--font-mono);
+  font-size: 24px;
+  font-weight: 700;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--gold);
+  padding: 2px 12px;
+  border-radius: var(--radius-sm);
+  letter-spacing: 0.05em;
+}
+
+.rjd-exam__timer-value.is-low {
+  color: #ffb3ab;
+  border-color: var(--stamp-red);
+  animation: rjd-pulse 1s infinite;
+}
+
+@keyframes rjd-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.55; }
+}
+
+.rjd-exam__body {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+@media (min-width: 760px) {
+  .rjd-exam__body {
+    grid-template-columns: 2fr 1fr;
+    align-items: start;
+  }
+}
+
+.rjd-exam__palette-area {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 16px;
+  box-shadow: var(--shadow);
+  position: sticky;
+  top: 12px;
+}
+
+.rjd-palette {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(38px, 1fr));
+  gap: 6px;
+  margin: 10px 0 14px;
+}
+
+.rjd-palette__cell {
+  aspect-ratio: 1;
+  border-radius: 50%;
+  border: 2px solid var(--line);
+  background: var(--paper);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 12px;
+  cursor: pointer;
+  color: var(--ink-soft);
+}
+
+.rjd-palette__cell--attempted {
+  background: var(--success);
+  border-color: var(--success);
+  color: #fff;
+}
+
+.rjd-palette__cell--marked {
+  background: var(--gold);
+  border-color: var(--gold);
+  color: #fff;
+}
+
+.rjd-palette__cell--unattempted {
+  background: var(--card);
+}
+
+.rjd-palette__cell.is-current {
+  outline: 2px solid var(--stamp-red);
+  outline-offset: 2px;
+}
+
+.rjd-palette-legend {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--ink-soft);
+  margin-bottom: 12px;
+}
+
+.rjd-palette-legend span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.rjd-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.rjd-dot--attempted { background: var(--success); }
+.rjd-dot--marked { background: var(--gold); }
+.rjd-dot--unattempted { background: var(--line); }
+
+/* ---------- Result page ----------------------------------------------------- */
+.rjd-result {
+  padding: 14px 0 40px;
+}
+
+.rjd-result__banner {
+  text-align: center;
+  padding: 26px 16px;
+  border-radius: var(--radius-lg);
+  margin-bottom: 18px;
+  background: var(--ink);
+  color: #fff;
+}
+
+.rjd-result__score {
+  font-family: var(--font-display);
+  font-size: 44px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.rjd-result__performance {
+  margin: 4px 0 0;
+  font-weight: 600;
+  color: var(--gold);
+}
+
+.rjd-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+@media (min-width: 560px) {
+  .rjd-stat-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.rjd-stat {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 12px;
+  text-align: center;
+}
+
+.rjd-stat__value {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.rjd-stat__label {
+  font-size: 11px;
+  color: var(--ink-soft);
+}
+
+.rjd-stat--correct .rjd-stat__value { color: var(--success); }
+.rjd-stat--wrong .rjd-stat__value { color: var(--stamp-red); }
+
+.rjd-result__actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.rjd-review-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rjd-review-item {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left-width: 5px;
+  border-radius: var(--radius-sm);
+  padding: 14px;
+}
+
+.rjd-review-item--correct { border-left-color: var(--success); }
+.rjd-review-item--wrong { border-left-color: var(--stamp-red); }
+.rjd-review-item--unattempted { border-left-color: var(--line); }
+
+.rjd-review-item__head {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  margin-bottom: 6px;
+  color: var(--ink-soft);
+}
+
+.rjd-review-item__answer,
+.rjd-review-item__explanation {
+  font-size: 13px;
+  margin: 4px 0;
+}
+
+/* ---------- Loading / Error / Empty ---------------------------------------- */
+.rjd-loading,
+.rjd-error,
+.rjd-empty-state {
+  text-align: center;
+  padding: 60px 16px;
+  color: var(--ink-soft);
+}
+
+.rjd-loading__spinner {
+  width: 34px;
+  height: 34px;
+  margin: 0 auto 14px;
+  border: 3px solid var(--line);
+  border-top-color: var(--stamp-red);
+  border-radius: 50%;
+  animation: rjd-spin 0.8s linear infinite;
+}
+
+@keyframes rjd-spin {
+  to { transform: rotate(360deg); }
+}
+
+.rjd-error__icon {
+  font-size: 30px;
+  margin-bottom: 6px;
+}
+
+/* ---------- Toasts ----------------------------------------------------------- */
+.rjd-toast-root {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 999;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: min(92vw, 420px);
+}
+
+.rjd-toast {
+  background: var(--ink);
+  color: #fff;
+  padding: 12px 16px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  box-shadow: var(--shadow);
+}
+
+.rjd-toast.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.rjd-toast--warn { background: var(--gold); color: var(--ink); }
+.rjd-toast--success { background: var(--success); }
+
+/* ---------- Modal ------------------------------------------------------------ */
+.rjd-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(27, 42, 74, 0.55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  opacity: 0;
+  transition: opacity 0.18s ease;
+  padding: 16px;
+}
+
+.rjd-modal-overlay.is-visible {
+  opacity: 1;
+}
+
+.rjd-modal {
+  background: var(--card);
+  border-radius: var(--radius-md);
+  padding: 22px;
+  width: 100%;
+  max-width: 360px;
+  box-shadow: var(--shadow);
+}
+
+.rjd-modal__title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 17px;
+  margin: 0 0 8px;
+}
+
+.rjd-modal__message {
+  font-size: 14px;
+  color: var(--ink-soft);
+  margin: 0 0 18px;
+}
+
+.rjd-modal__actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+
+/* ---------- Footer ------------------------------------------------------------ */
+.rjd-site-footer {
+  text-align: center;
+  padding: 24px 16px 40px;
+  font-size: 12px;
+  color: var(--ink-soft);
+}
+
+/* ---------- Reduced motion --------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------- Focus visibility --------------------------------------------------- */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--stamp-red);
+  outline-offset: 2px;
+}
+
+/* =========================================================
+   RojgarDwaar Premium Notes UI — Override Layer
+   Scope: .rjd-notes-premium and its children only.
+   Does NOT touch .rjd-practice-card, .rjd-exam-card,
+   .rjd-testcard, .rjd-palette, .rjd-result, .rjd-btn base,
+   or any other existing selector.
+   ========================================================= */
+
+/* ---------- Notes wrapper ------------------------------------------------ */
+.rjd-notes-premium {
+  padding: 0;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+}
+
+.rjd-notes-premium > * {
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+/* ---------- 1. EXAM READY NOTES intro / hero ----------------------------- */
+.rjd-notes-intro {
+  padding-top: 26px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 6px;
+  background: linear-gradient(180deg, var(--paper) 0%, var(--card) 100%);
+}
+
+.rjd-notes-badge {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink);
+  background: var(--gold-soft);
+  border: 1px solid var(--gold);
+  padding: 5px 12px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+}
+
+.rjd-notes-intro h2 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: clamp(20px, 4vw, 26px);
+  margin: 0 0 8px;
+  line-height: 1.3;
+}
+
+.rjd-notes-intro p {
+  color: var(--ink-soft);
+  font-size: 14.5px;
+  line-height: 1.65;
+  margin: 0;
+  max-width: 60ch;
+}
+
+/* ---------- Shared note-block rhythm ------------------------------------- */
+.rjd-notes-premium .rjd-note-block {
+  padding-top: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--line);
+}
+
+.rjd-notes-premium .rjd-note-block:last-of-type {
+  border-bottom: none;
+}
+
+.rjd-note-heading {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.rjd-note-icon {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+}
+
+.rjd-note-heading h3 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 17px;
+  margin: 0 0 3px;
+}
+
+.rjd-note-heading p {
+  color: var(--ink-soft);
+  font-size: 13px;
+  margin: 0;
+}
+
+/* ---------- 2. Concept / reading card ------------------------------------ */
+.rjd-note-reading {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 16px 18px;
+}
+
+.rjd-note-reading p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: var(--ink);
+  margin: 0;
+}
+
+.rjd-note-example {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--gold-soft);
+  border: 1px solid var(--gold);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+  margin-top: -4px;
+  margin-bottom: 24px;
+}
+
+.rjd-note-example > span {
+  font-size: 16px;
+  line-height: 1;
+}
+
+.rjd-note-example strong {
+  display: block;
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 13.5px;
+  margin-bottom: 4px;
+}
+
+.rjd-note-example p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.65;
+  color: var(--ink);
+}
+
+/* ---------- 3. Topic breakdown — numbered cards --------------------------- */
+.rjd-topic-notes-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+@media (min-width: 700px) {
+  .rjd-topic-notes-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.rjd-topic-note-card {
+  position: relative;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 18px 18px 16px;
+  box-shadow: var(--shadow);
+}
+
+.rjd-topic-note-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 30px;
+  height: 30px;
+  padding: 0 6px;
+  border-radius: var(--radius-sm);
+  background: var(--ink);
+  color: #fff;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.rjd-topic-note-card h4 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 15.5px;
+  margin: 0 0 8px;
+  line-height: 1.4;
+}
+
+.rjd-topic-note-card > p {
+  font-size: 14px;
+  line-height: 1.7;
+  color: var(--ink-soft);
+  margin: 0 0 10px;
+}
+
+.rjd-mini-example {
+  background: var(--paper);
+  border-left: 3px solid var(--gold);
+  border-radius: 4px;
+  padding: 8px 12px;
+  margin: 10px 0;
+}
+
+.rjd-mini-example strong {
+  display: block;
+  font-size: 12.5px;
+  color: var(--ink);
+  margin-bottom: 3px;
+}
+
+.rjd-mini-example p {
+  margin: 0;
+  font-size: 13.5px;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+.rjd-topic-note-card .rjd-key-points {
+  margin: 10px 0 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.rjd-topic-note-card .rjd-key-points li {
+  display: flex;
+  gap: 8px;
+  align-items: flex-start;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+.rjd-topic-note-card .rjd-key-points li span:first-child {
+  flex: none;
+  color: var(--success);
+  font-weight: 700;
+}
+
+/* ---------- Key Points (premium, top-level) ------------------------------ */
+.rjd-key-points-premium {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.rjd-key-points-premium li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.rjd-point-icon {
+  flex: none;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--success-soft);
+  color: var(--success);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+/* ---------- Shared "special" section heading ------------------------------ */
+.rjd-special-heading {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  padding: 6px 14px;
+  border-radius: 999px;
+  margin-bottom: 8px;
+}
+
+.rjd-special-description {
+  color: var(--ink-soft);
+  font-size: 13.5px;
+  margin: 0 0 16px;
+}
+
+/* ---------- 4. EXAM FOCUS -------------------------------------------------- */
+.rjd-exam-focus .rjd-special-heading {
+  background: var(--gold-soft);
+  color: var(--ink);
+  border: 1px solid var(--gold);
+}
+
+.rjd-exam-focus-list {
+  display: grid;
+  gap: 10px;
+}
+
+.rjd-exam-focus-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--gold);
+  border-radius: var(--radius-sm);
+  padding: 12px 14px;
+}
+
+.rjd-exam-focus-item > span {
+  flex: none;
+  width: 22px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gold);
+  color: #fff;
+  border-radius: 50%;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.rjd-exam-focus-item p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+/* ---------- 5. EXAM TRAP (warning-style, red) ------------------------------ */
+.rjd-exam-trap {
+  background: var(--stamp-red-soft);
+  border-radius: var(--radius-md);
+  margin-left: -22px;
+  margin-right: -22px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.rjd-exam-trap .rjd-special-heading {
+  background: var(--stamp-red);
+  color: #fff;
+}
+
+.rjd-exam-trap .rjd-special-description {
+  color: #7a2e26;
+}
+
+.rjd-exam-trap-list {
+  display: grid;
+  gap: 12px;
+}
+
+.rjd-trap-item {
+  background: var(--card);
+  border: 1px solid var(--stamp-red);
+  border-radius: var(--radius-sm);
+  padding: 14px 16px;
+}
+
+.rjd-trap-item h4 {
+  font-family: var(--font-display);
+  color: var(--stamp-red);
+  font-size: 15px;
+  margin: 0 0 6px;
+}
+
+.rjd-trap-item > p {
+  font-size: 13.5px;
+  line-height: 1.65;
+  color: var(--ink);
+  margin: 0 0 10px;
+}
+
+.rjd-trap-confusion {
+  background: var(--stamp-red-soft);
+  border-radius: 4px;
+  padding: 10px 12px;
+}
+
+.rjd-trap-confusion strong {
+  display: block;
+  color: var(--stamp-red);
+  font-size: 12.5px;
+  margin-bottom: 4px;
+}
+
+.rjd-trap-confusion p {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+/* ---------- 6. Think Before Answer ----------------------------------------- */
+.rjd-think-box .rjd-special-heading {
+  background: #eef1f8;
+  color: var(--ink);
+  border: 1px solid var(--ink-soft);
+}
+
+.rjd-think-list {
+  display: grid;
+  gap: 10px;
+}
+
+.rjd-think-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--card);
+  border: 1.5px dashed var(--ink-soft);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+}
+
+.rjd-think-item > span:first-child {
+  flex: none;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--ink);
+  color: #fff;
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.rjd-think-item strong {
+  display: block;
+  color: var(--ink);
+  font-size: 14.5px;
+  line-height: 1.5;
+  margin-bottom: 4px;
+}
+
+.rjd-think-item p {
+  margin: 4px 0;
+  font-size: 13.5px;
+  color: var(--ink-soft);
+}
+
+.rjd-think-item details summary {
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--gold);
+  margin-top: 4px;
+}
+
+.rjd-think-item details p {
+  margin-top: 6px;
+  color: var(--ink);
+}
+
+/* ---------- 7. Smart Memory -------------------------------------------------- */
+.rjd-memory-box .rjd-special-heading {
+  background: var(--success-soft);
+  color: var(--success);
+  border: 1px solid var(--success);
+}
+
+.rjd-memory-list {
+  display: grid;
+  gap: 10px;
+}
+
+@media (min-width: 700px) {
+  .rjd-memory-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.rjd-memory-item {
+  background: var(--success-soft);
+  border: 1px solid var(--success);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+/* ---------- 8. PYQ SIGNAL ----------------------------------------------------- */
+.rjd-pyq-box .rjd-special-heading {
+  background: var(--ink);
+  color: var(--gold);
+}
+
+.rjd-pyq-box .rjd-key-points {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.rjd-pyq-box .rjd-key-points li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  background: var(--paper);
+  border-left: 3px solid var(--ink);
+  border-radius: 4px;
+  padding: 10px 12px;
+  font-size: 13.5px;
+  line-height: 1.6;
+}
+
+.rjd-pyq-box .rjd-key-points li span:first-child {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+/* ---------- 9. MUST REMEMBER --------------------------------------------------- */
+.rjd-must-remember {
+  background: var(--gold-soft);
+  border-radius: var(--radius-md);
+  margin-left: -22px;
+  margin-right: -22px;
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.rjd-must-remember .rjd-special-heading {
+  background: var(--gold);
+  color: #fff;
+}
+
+.rjd-must-remember .rjd-key-points {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.rjd-must-remember .rjd-key-points li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+  background: var(--card);
+  border: 1px solid var(--gold);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.6;
+  color: var(--ink);
+}
+
+.rjd-must-remember .rjd-key-points li span:first-child {
+  color: var(--gold);
+  font-weight: 700;
+}
+
+/* ---------- 10. Quick Revision (final strong block) ---------------------------- */
+.rjd-quick-revision-premium {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  background: var(--ink);
+  border-left: none;
+  border-radius: var(--radius-md);
+  padding: 18px 20px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.rjd-quick-icon {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gold);
+  border-radius: 50%;
+  font-size: 15px;
+}
+
+.rjd-quick-revision-premium strong {
+  display: block;
+  color: var(--gold);
+  font-family: var(--font-display);
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+.rjd-quick-revision-premium p {
+  margin: 0;
+  color: #fff;
+  font-size: 14px;
+  line-height: 1.75;
+}
+
+/* ---------- 11. Practice CTA --------------------------------------------------- */
+.rjd-notes-cta {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: stretch;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 20px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+@media (min-width: 640px) {
+  .rjd-notes-cta {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}
+
+.rjd-notes-cta__eyebrow {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 4px;
+}
+
+.rjd-notes-cta h3 {
+  font-family: var(--font-display);
+  color: var(--ink);
+  font-size: 18px;
+  margin: 0 0 4px;
+}
+
+.rjd-notes-cta p {
+  margin: 0;
+  color: var(--ink-soft);
+  font-size: 13.5px;
+}
+
+.rjd-notes-cta .rjd-btn--primary {
+  flex: none;
+  padding: 13px 26px;
+  font-size: 15px;
+  border-radius: var(--radius-md);
+  box-shadow: 0 3px 0 rgba(27, 42, 74, 0.25);
+}
+
+/* ---------- Mobile tightening ---------------------------------------------------- */
+@media (max-width: 480px) {
+  .rjd-notes-premium > * {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .rjd-exam-trap,
+  .rjd-must-remember {
+    margin-left: -16px;
+    margin-right: -16px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .rjd-note-heading {
+    gap: 10px;
+  }
+
+  .rjd-quick-revision-premium {
+    flex-direction: column;
+  }
+}
+
+
+/* =========================================================================
+   RojgarDwaar — Homepage / "RailGaadi" Journey (home.html + js/home.js)
+   -------------------------------------------------------------------------
+   New, additive classes only. Nothing above this block is modified.
+   Reuses existing design tokens (--ink, --gold, --paper, --stamp-red,
+   --success, --font-display, --font-mono, --radius-*) so the homepage
+   matches the existing admit-card / OMR-sheet visual language.
+   ========================================================================= */
+
+/* ---------- Hero ---------------------------------------------------------- */
+.rjd-rail-hero {
+  text-align: center;
+  padding: 32px 16px 24px;
+}
+
+.rjd-rail-hero__badge {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--stamp-red);
+  background: var(--stamp-red-soft);
+  border: 1px dashed var(--stamp-red);
+  border-radius: 999px;
+  padding: 4px 14px;
+  margin-bottom: 14px;
+}
+
+.rjd-rail-hero__title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 26px;
+  color: var(--ink);
+  margin: 0 0 10px;
+  line-height: 1.3;
+}
+
+.rjd-rail-hero__subtitle {
+  font-family: var(--font-body);
+  font-size: 15px;
+  color: var(--ink-soft);
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+@media (min-width: 640px) {
+  .rjd-rail-hero__title {
+    font-size: 32px;
+  }
+}
+
+/* ---------- Track (progress: Class -> Subject -> Chapter) ----------------- */
+.rjd-rail-track {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 8px 16px 20px;
+  flex-wrap: wrap;
+}
+
+.rjd-rail-station {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--ink-soft);
+  opacity: 0.55;
+}
+
+.rjd-rail-station.is-current,
+.rjd-rail-station.is-done {
+  opacity: 1;
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.rjd-rail-station.is-done .rjd-rail-station__dot {
+  filter: none;
+}
+
+.rjd-rail-station__dot {
+  font-size: 14px;
+}
+
+.rjd-rail-track__line {
+  width: 24px;
+  height: 0;
+  border-top: 2px dashed var(--line);
+}
+
+/* ---------- Breadcrumb ------------------------------------------------------ */
+.rjd-rail-breadcrumb {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding-bottom: 18px;
+}
+
+.rjd-rail-crumb {
+  font-family: var(--font-body);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink-soft);
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.rjd-rail-crumb.is-active {
+  color: var(--ink);
+  border-color: var(--gold);
+  background: var(--gold-soft);
+}
+
+.rjd-rail-crumb__sep {
+  color: var(--ink-soft);
+  font-size: 13px;
+}
+
+/* ---------- Step title ------------------------------------------------------ */
+.rjd-rail-step-title {
+  font-family: var(--font-display);
+  font-size: 18px;
+  color: var(--ink);
+  text-align: center;
+  margin: 0 0 16px;
+}
+
+/* ---------- Card grid (stations / coaches / stops) -------------------------- */
+.rjd-rail-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 12px;
+  padding-bottom: 32px;
+}
+
+.rjd-rail-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow);
+  padding: 18px 12px;
+  cursor: pointer;
+  font-family: var(--font-body);
+  text-align: center;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+}
+
+.rjd-rail-card:hover:not(.is-locked) {
+  transform: translateY(-2px);
+  border-color: var(--gold);
+}
+
+.rjd-rail-card__icon {
+  font-size: 26px;
+}
+
+.rjd-rail-card__label {
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--ink);
+}
+
+.rjd-rail-card__meta {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--success);
+}
+
+.rjd-rail-card__cta {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--stamp-red);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.rjd-rail-card__badge {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--ink-soft);
+  background: var(--paper-deep);
+  border-radius: 999px;
+  padding: 2px 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.rjd-rail-card.is-locked {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.rjd-rail-card.is-locked:hover {
+  transform: none;
+  border-color: var(--line);
+}
+
+
+/* =========================================================================
+   RojgarDwaar — HOME PAGE LANDING STYLES
+   Mobile-first. Desktop overrides via min-width media queries.
+   Scoped to .rjd-home-* classes only. Does NOT touch existing selectors.
+   ========================================================================= */
+
+/* ---------- Hero Section ----------------------------------------------- */
+.rjd-home-hero {
+  background: linear-gradient(135deg, #0f1a30 0%, #1b2a4a 50%, #162447 100%);
+  color: #fff;
+  padding: 36px 0 44px;
+  position: relative;
+  overflow: hidden;
+}
+
+.rjd-home-hero__inner {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.rjd-home-hero__text {
+  order: 1;
+}
+
+.rjd-home-hero__visual {
+  order: 2;
+  position: relative;
+  min-height: 220px;
+}
+
+/* Desktop: side-by-side */
+@media (min-width: 900px) {
+  .rjd-home-hero__inner {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 40px;
+    align-items: center;
+  }
+  .rjd-home-hero__text {
+    order: 1;
+  }
+  .rjd-home-hero__visual {
+    order: 2;
+    min-height: 300px;
+  }
+}
+
+.rjd-home-hero__pill {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gold);
+  background: rgba(193, 133, 44, 0.15);
+  border: 1px solid rgba(193, 133, 44, 0.35);
+  border-radius: 999px;
+  padding: 5px 14px;
+  margin-bottom: 14px;
+}
+
+.rjd-home-hero__title {
+  font-family: var(--font-display);
+  font-size: clamp(24px, 5vw, 38px);
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0 0 12px;
+  color: #fff;
+}
+
+.rjd-home-hero__subtitle {
+  font-size: 15px;
+  line-height: 1.65;
+  color: rgba(255, 255, 255, 0.78);
+  margin: 0 0 22px;
+  max-width: 520px;
+}
+
+.rjd-home-hero__actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+@media (min-width: 480px) {
+  .rjd-home-hero__actions {
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+}
+
+.rjd-home-hero__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  border-radius: var(--radius-md);
+  padding: 14px 20px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  text-decoration: none;
+  transition: transform 0.1s ease, box-shadow 0.15s ease;
+  text-align: left;
+  min-height: 56px;
+  min-width: 44px;
+}
+
+.rjd-home-hero__btn:active {
+  transform: scale(0.98);
+}
+
+.rjd-home-hero__btn span:first-child {
+  font-size: 22px;
+  flex: none;
+}
+
+.rjd-home-hero__btn span:last-child {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.3;
+}
+
+.rjd-home-hero__btn b {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.rjd-home-hero__btn small {
+  font-size: 12px;
+  font-weight: 500;
+  opacity: 0.9;
+}
+
+.rjd-home-hero__btn--mock {
+  background: linear-gradient(135deg, #f4c430, #d4a017);
+  color: #1a1500;
+  box-shadow: 0 4px 14px rgba(244, 196, 48, 0.35);
+}
+
+.rjd-home-hero__btn--mock:hover {
+  box-shadow: 0 6px 20px rgba(244, 196, 48, 0.45);
+}
+
+.rjd-home-hero__btn--practice {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  border: 1.5px solid rgba(255, 255, 255, 0.25);
+}
+
+.rjd-home-hero__btn--practice:hover {
+  background: rgba(255, 255, 255, 0.18);
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.rjd-home-hero__features {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.65);
+}
+
+@media (min-width: 480px) {
+  .rjd-home-hero__features {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px 24px;
+  }
+}
+
+.rjd-home-hero__features span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Hero Visual — Pure CSS scene */
+.rjd-home-hero__scene {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 220px;
+}
+
+.rjd-home-books {
+  position: absolute;
+  right: 5%;
+  bottom: 15%;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  transform: rotate(-6deg);
+  z-index: 2;
+}
+
+@media (min-width: 900px) {
+  .rjd-home-books {
+    right: 10%;
+    bottom: 20%;
+  }
+}
+
+.rjd-home-book {
+  width: 130px;
+  height: 32px;
+  border-radius: 4px 10px 10px 4px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 0 12px;
+  font-family: var(--font-display);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #fff;
+  box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.25);
+}
+
+.rjd-home-book span {
+  font-size: 14px;
+}
+
+.rjd-home-book--bio {
+  background: linear-gradient(90deg, #2f6b4f, #3d8b65);
+  z-index: 3;
+}
+
+.rjd-home-book--phy {
+  background: linear-gradient(90deg, #1e5aa8, #2a75d1);
+  z-index: 2;
+  margin-left: -8px;
+}
+
+.rjd-home-book--chem {
+  background: linear-gradient(90deg, #6b2fa8, #8b4fd1);
+  z-index: 1;
+  margin-left: -16px;
+}
+
+.rjd-home-hero__microscope {
+  position: absolute;
+  right: 30%;
+  bottom: 20%;
+  font-size: 56px;
+  filter: drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3));
+  z-index: 3;
+  transform: rotate(-12deg);
+}
+
+@media (min-width: 900px) {
+  .rjd-home-hero__microscope {
+    right: 35%;
+    bottom: 25%;
+    font-size: 64px;
+  }
+}
+
+.rjd-home-floaters {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.rjd-home-floater {
+  position: absolute;
+  left: var(--f-x);
+  top: var(--f-y);
+  font-size: 24px;
+  opacity: 0.5;
+  animation: rjd-home-float var(--f-d, 4s) ease-in-out infinite alternate;
+}
+
+@media (min-width: 900px) {
+  .rjd-home-floater {
+    font-size: 28px;
+    opacity: 0.55;
+  }
+}
+
+@keyframes rjd-home-float {
+  0% { transform: translateY(0) scale(1); }
+  100% { transform: translateY(-14px) scale(1.08); }
+}
+
+/* ---------- Section wrapper -------------------------------------------- */
+.rjd-home-section {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 32px 16px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-section {
+    padding: 40px 16px;
+  }
+}
+
+.rjd-home-section__title {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  margin: 0 0 24px;
+  color: var(--ink);
+}
+
+/* ---------- Three Action Cards ----------------------------------------- */
+.rjd-home-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-cards {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px;
+  }
+}
+
+.rjd-home-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  padding: 0;
+  border: none;
+  font-family: inherit;
+  color: inherit;
+  min-height: 44px;
+}
+
+.rjd-home-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(27, 42, 74, 0.12);
+}
+
+.rjd-home-card:active {
+  transform: translateY(-1px);
+}
+
+.rjd-home-card__top {
+  height: 5px;
+  width: 100%;
+}
+
+.rjd-home-card--mock .rjd-home-card__top {
+  background: linear-gradient(90deg, #2563eb, #3b82f6);
+}
+
+.rjd-home-card--practice .rjd-home-card__top {
+  background: linear-gradient(90deg, #16a34a, #22c55e);
+}
+
+.rjd-home-card--notes .rjd-home-card__top {
+  background: linear-gradient(90deg, #9333ea, #a855f7);
+}
+
+.rjd-home-card__body {
+  padding: 22px 16px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.rjd-home-card__icon {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  margin-bottom: 4px;
+}
+
+.rjd-home-card--mock .rjd-home-card__icon {
+  background: #eff6ff;
+}
+
+.rjd-home-card--practice .rjd-home-card__icon {
+  background: #f0fdf4;
+}
+
+.rjd-home-card--notes .rjd-home-card__icon {
+  background: #faf5ff;
+}
+
+.rjd-home-card h3 {
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 700;
+  margin: 0;
+  color: var(--ink);
+}
+
+.rjd-home-card p {
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+.rjd-home-card__link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 9px 18px;
+  border-radius: var(--radius-sm);
+  transition: background 0.12s ease;
+}
+
+.rjd-home-card--mock .rjd-home-card__link {
+  background: #2563eb;
+  color: #fff;
+}
+
+.rjd-home-card--practice .rjd-home-card__link {
+  background: #16a34a;
+  color: #fff;
+}
+
+.rjd-home-card--notes .rjd-home-card__link {
+  background: #9333ea;
+  color: #fff;
+}
+
+/* ---------- RailGaadi Section ------------------------------------------ */
+.rjd-home-rail {
+  background: linear-gradient(180deg, var(--paper-deep), var(--paper));
+  padding: 36px 16px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-rail {
+    padding: 48px 16px;
+  }
+}
+
+.rjd-home-rail__card {
+  max-width: var(--container);
+  margin: 0 auto;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-rail__card {
+    display: grid;
+    grid-template-columns: 220px 1fr;
+  }
+}
+
+.rjd-home-rail__visual {
+  background: linear-gradient(135deg, #e8f5e9, #c8e6c9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  min-height: 150px;
+  overflow: hidden;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-rail__visual {
+    min-height: auto;
+  }
+}
+
+.rjd-home-rail__train {
+  font-size: 72px;
+  z-index: 2;
+  filter: drop-shadow(2px 4px 4px rgba(0, 0, 0, 0.15));
+}
+
+.rjd-home-rail__track {
+  position: absolute;
+  bottom: 20px;
+  left: 10%;
+  right: 10%;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+}
+
+.rjd-home-rail__track span {
+  display: block;
+  width: 28px;
+  height: 4px;
+  background: #8d6e63;
+  border-radius: 2px;
+  opacity: 0.5;
+}
+
+.rjd-home-rail__text {
+  padding: 24px 20px;
+  text-align: center;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-rail__text {
+    text-align: left;
+    padding: 32px 28px;
+  }
+}
+
+.rjd-home-rail__text h2 {
+  font-family: var(--font-display);
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0 0 8px;
+  color: var(--ink);
+}
+
+.rjd-home-rail__lead {
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 0 0 6px;
+}
+
+.rjd-home-rail__sub {
+  font-size: 13.5px;
+  line-height: 1.6;
+  color: var(--ink-soft);
+  margin: 0 0 16px;
+}
+
+.rjd-home-rail__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--stamp-red);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 12px 22px;
+  font-family: var(--font-body);
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.1s ease, background 0.15s ease;
+  min-height: 44px;
+}
+
+.rjd-home-rail__btn:hover {
+  background: #9c2f24;
+}
+
+.rjd-home-rail__btn:active {
+  transform: scale(0.98);
+}
+
+/* ---------- Exam Target Section ---------------------------------------- */
+.rjd-home-exams {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-exams {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.rjd-home-exam {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 20px 18px;
+  text-align: center;
+  box-shadow: var(--shadow);
+  transition: transform 0.15s ease;
+}
+
+.rjd-home-exam:hover {
+  transform: translateY(-2px);
+}
+
+.rjd-home-exam__badge {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 2px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  margin: 0 auto 12px;
+}
+
+.rjd-home-exam h4 {
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: var(--ink);
+}
+
+.rjd-home-exam p {
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0;
+}
+
+/* ---------- Stats Section ---------------------------------------------- */
+.rjd-home-stats-wrap {
+  background: linear-gradient(180deg, var(--paper), var(--paper-deep));
+  padding: 32px 16px;
+}
+
+.rjd-home-stats {
+  max-width: var(--container);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 14px;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-stats {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+  }
+}
+
+.rjd-home-stat {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 18px 12px;
+  text-align: center;
+  box-shadow: var(--shadow);
+}
+
+.rjd-home-stat__icon {
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+
+.rjd-home-stat__num {
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1;
+  margin-bottom: 6px;
+}
+
+.rjd-home-stat__label {
+  font-size: 12px;
+  color: var(--ink-soft);
+  line-height: 1.4;
+}
+
+.rjd-home-subjects {
+  max-width: var(--container);
+  margin: 18px auto 0;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.rjd-home-subject {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1.5px solid;
+}
+
+.rjd-home-subject--bio {
+  background: #f0fdf4;
+  color: #16a34a;
+  border-color: #bbf7d0;
+}
+
+.rjd-home-subject--phy {
+  background: #eff6ff;
+  color: #2563eb;
+  border-color: #bfdbfe;
+}
+
+.rjd-home-subject--chem {
+  background: #faf5ff;
+  color: #9333ea;
+  border-color: #e9d5ff;
+}
+
+/* ---------- Final CTA -------------------------------------------------- */
+.rjd-home-final {
+  background: linear-gradient(135deg, #0f1a30 0%, #1b2a4a 100%);
+  color: #fff;
+  padding: 40px 16px;
+  text-align: center;
+}
+
+@media (min-width: 640px) {
+  .rjd-home-final {
+    padding: 48px 16px;
+  }
+}
+
+.rjd-home-final__inner {
+  max-width: var(--container);
+  margin: 0 auto;
+}
+
+.rjd-home-final__rocket {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.rjd-home-final h2 {
+  font-family: var(--font-display);
+  font-size: clamp(20px, 4vw, 28px);
+  font-weight: 700;
+  margin: 0 0 8px;
+}
+
+.rjd-home-final p {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.75);
+  margin: 0 0 22px;
+}
+
+.rjd-home-final__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(135deg, #f4c430, #d4a017);
+  color: #1a1500;
+  border: none;
+  border-radius: var(--radius-md);
+  padding: 14px 28px;
+  font-family: var(--font-body);
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 14px rgba(244, 196, 48, 0.35);
+  transition: transform 0.1s ease, box-shadow 0.15s ease;
+  min-height: 48px;
+}
+
+.rjd-home-final__btn:hover {
+  box-shadow: 0 6px 20px rgba(244, 196, 48, 0.5);
+}
+
+.rjd-home-final__btn:active {
+  transform: scale(0.98);
+}
+
+/* ---------- Reduced motion --------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  .rjd-home-floater {
+    animation: none !important;
+  }
+}
