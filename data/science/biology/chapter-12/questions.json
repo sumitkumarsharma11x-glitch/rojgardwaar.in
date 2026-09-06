@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "ch12_q1201",
+      "topic": "environment-components",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'पर्यावरण' से क्या तात्पर्य है?",
+        "en": "What is meant by 'environment'?"
+      },
+      "options": {
+        "hi": [
+          "किसी जीव के चारों ओर के जैविक और अजैविक परिवेश का समग्र रूप",
+          "केवल जीवों की सूची",
+          "केवल घर की दीवारें",
+          "केवल मौसम का पूर्वानुमान"
+        ],
+        "en": [
+          "The overall form of the living and non-living surroundings of an organism",
+          "Only a list of organisms",
+          "Only the walls of a house",
+          "Only a weather forecast"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हवा, पानी, मिट्टी, धूप और साथ रहने वाले जीव — यह सब मिलकर किसी जीव का पर्यावरण बनाते हैं।",
+        "en": "Air, water, soil, sunshine and the organisms living together — all of these make an organism's environment."
+      }
+    },
+    {
+      "id": "ch12_q1202",
+      "topic": "environment-components",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पर्यावरण के 'जैविक घटक' (biotic components) किसे कहते हैं?",
+        "en": "What are called the 'biotic components' of the environment?"
+      },
+      "options": {
+        "hi": [
+          "केवल तापमान",
+          "सभी सजीव — पौधे, जंतु, सूक्ष्मजीव",
+          "केवल हवा और पानी",
+          "केवल चट्टानें"
+        ],
+        "en": [
+          "Only temperature",
+          "All living beings — plants, animals, microorganisms",
+          "Only air and water",
+          "Only rocks"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जो साँस लेते-बढ़ते-बदलते हैं, वही जैविक घटक — पेड़ से लेकर दिखने वाले कीटाणु तक।",
+        "en": "Those that breathe-grow-change are the biotic components — from trees down to invisible germs."
+      }
+    },
+    {
+      "id": "ch12_q1203",
+      "topic": "environment-components",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा पर्यावरण का अजैविक घटक है?",
+        "en": "Which of the following is an abiotic component of the environment?"
+      },
+      "options": {
+        "hi": [
+          "तालाब का पानी में रहने वाली मछली",
+          "मिट्टी में पलने वाले जीवाणु",
+          "मिट्टी की नमी",
+          "जंगल का हिरण"
+        ],
+        "en": [
+          "The fish living in the pond's water",
+          "The bacteria breeding in the soil",
+          "The moisture of the soil",
+          "The deer of the forest"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "नमी भौतिक कारक है — जीव नहीं; बाकी तीनों सजीव, अर्थात् जैविक घटक।",
+        "en": "Moisture is a physical factor — not a being; the other three are living, i.e. biotic components."
+      }
+    },
+    {
+      "id": "ch12_q1204",
+      "topic": "environment-components",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायुमंडल, जलमंडल और स्थलमंडल मिलकर किसका विस्तार बनाते हैं — जहाँ जीव पाया जाता है?",
+        "en": "The atmosphere, hydrosphere and lithosphere together form the extension of what — where life is found?"
+      },
+      "options": {
+        "hi": [
+          "केवल मरुस्थल",
+          "केवल समुद्र",
+          "केवल पहाड़",
+          "जीवमंडल (बायोस्फीयर)"
+        ],
+        "en": [
+          "Only the desert",
+          "Only the sea",
+          "Only the mountains",
+          "The biosphere"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हवा की परत, जल का भंडार और जमीन की तह — तीनों के मिलन-क्षेत्र में जो जीव-धारा बहती है, वही जीवमंडल है।",
+        "en": "The layer of air, the store of water and the sheet of land — the life-stream flowing in the meeting-zone of all three is the biosphere."
+      }
+    },
+    {
+      "id": "ch12_q1205",
+      "topic": "environment-components",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पर्यावरण में सूर्य का प्रकाश किस रूप में गिना जाता है?",
+        "en": "In what form is sunlight counted in the environment?"
+      },
+      "options": {
+        "hi": [
+          "अजैविक कारक के रूप में",
+          "जैविक कारक के रूप में",
+          "जीवाश्म के रूप में",
+          "मृत्तिका-जीव के रूप में"
+        ],
+        "en": [
+          "As an abiotic factor",
+          "As a biotic factor",
+          "As a fossil",
+          "As a soil-organism"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रकाश जड़ कारक है, पर पारितंत्र की सारी ऊर्जा-दौड़ की शुरुआत इसी से होती है।",
+        "en": "Light is an inert factor, yet the whole energy-race of the ecosystem begins from it."
+      }
+    },
+    {
+      "id": "ch12_q1206",
+      "topic": "environment-components",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नदी-तट पर रहने वाली मछली, उसमें उगे कमल और उसका जल — इनमें से जैविक घटक कौन?",
+        "en": "Among the fish of a riverbank, the lotus growing in it and its water — which is the biotic component?"
+      },
+      "options": {
+        "hi": [
+          "बहाव की गति",
+          "मछली और कमल",
+          "जल",
+          "कीचड़"
+        ],
+        "en": [
+          "The speed of the flow",
+          "The fish and the lotus",
+          "The water",
+          "The silt"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मछली-कमल सजीव; जल, कीचड़ और बहाव — जड़ परिस्थितियाँ।",
+        "en": "Fish-lotus are living; water, silt and flow — inert conditions."
+      }
+    },
+    {
+      "id": "ch12_q1207",
+      "topic": "environment-components",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समुद्र का खारा जल, गहरी खाई का अंधेरा दबाव और हिमशिखर की कड़ाके की ठंड — तीनों किस श्रेणी के कारक हैं?",
+        "en": "The sea's salty water, the dark pressure of the deep trench and the biting cold of the icepeak — factors of which category are all three?"
+      },
+      "options": {
+        "hi": [
+          "सामाजिक कारक",
+          "आर्थिक कारक",
+          "अजैविक कारक",
+          "जैविक कारक"
+        ],
+        "en": [
+          "Social factors",
+          "Economic factors",
+          "Abiotic factors",
+          "Biotic factors"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जल, दबाव, ताप — तीनों भौतिक दशाएँ; जीव इन्हें सहते-अनुकूलित होते हैं, पर ये स्वयं जीव नहीं।",
+        "en": "Water, pressure, temperature — all physical conditions; beings tolerate-adapt to them, but they themselves are not alive."
+      }
+    },
+    {
+      "id": "ch12_q1208",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सूर्य का प्रकाश पर्यावरण के लिए केवल 'कारक' नहीं — पारितंत्र के लिए वह और क्या है?",
+        "en": "Sunlight is not just a 'factor' for the environment — what else is it for the ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "एक जैविक सदस्य",
+          "एक उपभोक्ता",
+          "एक अपघटक",
+          "समस्त ऊर्जा-प्रवाह का मूल स्रोत"
+        ],
+        "en": [
+          "A biotic member",
+          "A consumer",
+          "A decomposer",
+          "The root source of the entire energy flow"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रकाश अजैविक है, पर पौधे उसी को भोजन में बाँधते हैं — श्रृंखला की हर धड़कन उसी धूप से चलती है।",
+        "en": "Light is abiotic, yet plants bind it into food — every heartbeat of the chain runs on that very sunshine."
+      }
+    },
+    {
+      "id": "ch12_q1209",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीवमंडल (बायोस्फीयर) की परिभाषा क्या है?",
+        "en": "What is the definition of the biosphere?"
+      },
+      "options": {
+        "hi": [
+          "पृथ्वी का वह भाग जहाँ वायु, जल और भूमि मिलकर जीव को सहारा देते हैं — अर्थात् जीवन की समग्र पट्टी",
+          "केवल वायुमंडल की सबसे ऊपरी परत",
+          "केवल समुद्र की तली",
+          "केवल पर्वतों की चोटियाँ"
+        ],
+        "en": [
+          "That part of the earth where air, water and land together support life — the whole band of life",
+          "Only the topmost layer of the atmosphere",
+          "Only the seabed",
+          "Only the mountain peaks"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गहरे सागर से ऊँची हवा तक जहाँ-जहाँ जीव की साँस चलती है, वह सारी पट्टी जीवमंडल है।",
+        "en": "From the deep sea to the high air, the whole band wherever life's breath runs is the biosphere."
+      }
+    },
+    {
+      "id": "ch12_q1210",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पर्यावरण के जैविक घटक आपस में मुख्यतः किस धागे में बँधे रहते हैं?",
+        "en": "The biotic components of the environment mainly remain tied together in which thread?"
+      },
+      "options": {
+        "hi": [
+          "नामों के धागे में",
+          "भोजन-संबंधों के धागे में",
+          "रंगों के धागे में",
+          "आवाज़ों के धागे में"
+        ],
+        "en": [
+          "In the thread of names",
+          "In the thread of food-relations",
+          "In the thread of colours",
+          "In the thread of sounds"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कौन किसे खाता है — यही एक धागा समूचे जीव-समाज को एक कपड़े में बुनता है।",
+        "en": "Who eats whom — this single thread weaves the whole living society into one cloth."
+      }
+    },
+    {
+      "id": "ch12_q1211",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु में ऑक्सीजन और कार्बन डाइऑक्साइड का संतुलन मुख्यतः किनके बीच चलता रहता है?",
+        "en": "The balance of oxygen and carbon dioxide in air mainly keeps running between whom?"
+      },
+      "options": {
+        "hi": [
+          "चाँद और सूर्य के बीच",
+          "बादल और बर्फ के बीच",
+          "पौधों और जंतुओं के बीच",
+          "चट्टानों और नदियों के बीच"
+        ],
+        "en": [
+          "Between the moon and the sun",
+          "Between cloud and ice",
+          "Between plants and animals",
+          "Between rocks and rivers"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पौधे गैस-विनिमय का एक छोर, जंतु दूसरा छोर — पारितंत्र-स्तर पर यही साँसों की साझेदारी हवा को संतुलित रखती है।",
+        "en": "Plants are one end of the gas-exchange, animals the other — this very partnership of breaths at the ecosystem level keeps the air balanced."
+      }
+    },
+    {
+      "id": "ch12_q1212",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीवों के वितरण (कहाँ कौन रहता है) पर सबसे बड़ा अजैविक नियंत्रण किसका है — मरुस्थल के उदाहरण से सोचिए?",
+        "en": "Which abiotic factor has the biggest control on the distribution of organisms (who lives where) — think from the desert's example?"
+      },
+      "options": {
+        "hi": [
+          "रेत का रंग",
+          "हवा की आवाज़",
+          "तारों की चमक",
+          "जल की उपलब्धता"
+        ],
+        "en": [
+          "The colour of the sand",
+          "The sound of the wind",
+          "The twinkle of stars",
+          "The availability of water"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मरुस्थल में जीव-घनत्व बिखर जाता है जहाँ पानी नहीं — जल ही वितरण की मुख्य ताला-चाबी।",
+        "en": "In the desert the density of life scatters wherever water is absent — water is the master key of distribution."
+      }
+    },
+    {
+      "id": "ch12_q1213",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मनुष्य पर्यावरण से बाहर है या भीतर — सही दृष्टि क्या है?",
+        "en": "Is man outside the environment or inside it — what is the right view?"
+      },
+      "options": {
+        "hi": [
+          "मनुष्य भी पर्यावरण का ही एक जैविक घटक है",
+          "मनुष्य पर्यावरण से पूरी तरह अलग है",
+          "मनुष्य केवल दर्शक है",
+          "मनुष्य का पर्यावरण से कोई लेना-देना नहीं"
+        ],
+        "en": [
+          "Man too is a biotic component of the environment",
+          "Man is entirely separate from the environment",
+          "Man is only a spectator",
+          "Man has nothing to do with the environment"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खाते-पीते-साँस लेते मनुष्य भी उसी जाल में एक गाँठ है — जाल बिगाड़ने वाली गाँठ भी उसी जाल पर असर उठाती है।",
+        "en": "Man who eats-drinks-breathes is a knot in the same net — the knot that spoils the net also bears the net's effect."
+      }
+    },
+    {
+      "id": "ch12_q1214",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'मानव-निर्मित पर्यावरण' में क्या सम्मिलित होता है?",
+        "en": "What is included in the 'man-made environment'?"
+      },
+      "options": {
+        "hi": [
+          "समुद्र और वर्षा",
+          "घर, शहर, सड़कें, खेत — मानव की बनाई संरचनाएँ",
+          "जंगल और नदियाँ",
+          "पहाड़ और ग्लेशियर"
+        ],
+        "en": [
+          "The sea and the rain",
+          "Houses, cities, roads, fields — structures made by humans",
+          "Forests and rivers",
+          "Mountains and glaciers"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रकृति का बनाया घर-आँगन अलग, मनुष्य की बसाई दुनिया अलग — दोनों परतें मिलकर आज का परिवेश बनती हैं।",
+        "en": "Nature's built home-courtyard is one layer, man's settled world another — the two together form today's surroundings."
+      }
+    },
+    {
+      "id": "ch12_q1215",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु में साँस के लिए उपलब्ध ऑक्सीजन लगभग कितने अंश पर बनी रहती है?",
+        "en": "About what fraction of breathable oxygen stays fixed in the air?"
+      },
+      "options": {
+        "hi": [
+          "पूरा वायुमंडल",
+          "पाँच प्रतिशत से भी कम",
+          "लगभग पाँचवाँ भाग (21%)",
+          "आधा भाग"
+        ],
+        "en": [
+          "The whole atmosphere",
+          "Even less than five percent",
+          "About a fifth part (21%)",
+          "Half"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हवा का लगभग पाँचवाँ हिस्सा ऑक्सीजन है — जीवमंडल की यही पाँचवीं कुर्सी साँस का काम चलाती है।",
+        "en": "About a fifth of air is oxygen — this very fifth seat of the biosphere runs the business of breathing."
+      }
+    },
+    {
+      "id": "ch12_q1216",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अजैविक घटक बदल जाएँ — जैसे नदी सूख जाए — तो जैविक घटकों का क्या होता है?",
+        "en": "If abiotic components change — say a river dries up — what happens to the biotic components?"
+      },
+      "options": {
+        "hi": [
+          "जैविक समुदाय पर कोई असर नहीं",
+          "जैविक समुदाय और बढ़ जाता है",
+          "जैविक समुदाय अजैविक बन जाता है",
+          "जैविक समुदाय भी बदल जाता है या हट जाता है"
+        ],
+        "en": [
+          "No effect on the biotic community",
+          "The biotic community increases further",
+          "The biotic community turns abiotic",
+          "The biotic community too changes or moves away"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जल गया, तो मछली-कमल-बगुला तीनों की कुर्सी छूट गई — जड़ का झोला गिरा तो जीव का घर भी गिरा।",
+        "en": "Water gone, and the chairs of fish-lotus-heron all lapse — when the inert satchel falls, the beings' house falls too."
+      }
+    },
+    {
+      "id": "ch12_q1217",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मिट्टी के निर्माण में जैविक घटकों का योगदान किस रूप में रहता है?",
+        "en": "In what form does the contribution of biotic components remain in the formation of soil?"
+      },
+      "options": {
+        "hi": [
+          "चट्टान के टुकड़ों पर जीवों की पीढ़ियाँ गलाकर जैव-पदार्थ मिलाती हैं",
+          "जीव मिट्टी खा जाते हैं",
+          "जीव मिट्टी बेच देते हैं",
+          "जीवों का मिट्टी से कोई संबंध नहीं"
+        ],
+        "en": [
+          "Generations of beings decay on rock-pieces and add organic matter",
+          "Beings eat up the soil",
+          "Beings sell the soil",
+          "Beings have no relation with soil"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मृत जड़ें, पत्ते और जीवों के शरीर गलते-घुलते चट्टान-चूरे में घुल मिल जाते हैं — मिट्टी जड़-जीव की साझा देन है।",
+        "en": "Dead roots, leaves and animal bodies decay and mingle into the rock-grit — soil is the joint gift of the inert and the living."
+      }
+    },
+    {
+      "id": "ch12_q1218",
+      "topic": "environment-components",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अजैविक घटक और जैविक घटक एक-दूसरे से 'अकेले' रह सकते हैं क्या?",
+        "en": "Can abiotic and biotic components exist 'alone', apart from each other?"
+      },
+      "options": {
+        "hi": [
+          "हाँ — मिट्टी बिना जीव के बनती है",
+          "नहीं — दोनों का निरंतर आदान-प्रदान चलता रहता है",
+          "हाँ — जीव बिना जल-वायु के चलते हैं",
+          "हाँ — पौधे बिना धूप के बढ़ते हैं"
+        ],
+        "en": [
+          "Yes — soil forms without beings",
+          "No — their continuous exchange keeps running",
+          "Yes — beings run without water-air",
+          "Yes — plants grow without sunshine"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "साँस, भोजन, जल, खनिज — हर कदम पर जड़ और चेतन का हाथ मिलता है; पर्यावरण एक ही धागे का ताना-बाना है।",
+        "en": "Breath, food, water, minerals — at every step the inert and the living clasp hands; the environment is the warp-weft of a single thread."
+      }
+    },
+    {
+      "id": "ch12_q1219",
+      "topic": "environment-components",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक पारितंत्र से यदि सभी पौधे हटा दिए जाएँ, तो केवल भोजन ही नहीं जाता — और क्या-क्या जाता है?",
+        "en": "If all plants are removed from an ecosystem, not only food goes — what else is lost?"
+      },
+      "options": {
+        "hi": [
+          "केवल छाया जाती है",
+          "केवल सुंदरता जाती है",
+          "आश्रय, ऑक्सीजन-पूर्ति और अनेक जीवों का प्रजनन-स्थान — अर्थात् समूचा जीव-जाल बिखरता है",
+          "कुछ नहीं जाता, जीव अन्यत्र खा लेंगे"
+        ],
+        "en": [
+          "Only the shade is lost",
+          "Only the beauty is lost",
+          "Shelter, oxygen supply and the breeding-ground of many beings — the whole living net scatters",
+          "Nothing is lost, beings will eat elsewhere"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पौधा केवल भोजन-कारखाना नहीं — घर, ऑक्सीजन-भंडार और जाल की मुख्य गाँठ; वह हटा तो जाल ही खुल जाता है।",
+        "en": "A plant is not just a food-factory — home, oxygen-store and the main knot of the net; remove it and the net itself comes undone."
+      }
+    },
+    {
+      "id": "ch12_q1220",
+      "topic": "environment-components",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'पर्यावरण पृष्ठभूमि नहीं, साझा घर है' — इस कथन की वैज्ञानिक पुष्टि कौन-सी सोच करती है?",
+        "en": "'The environment is not a background but a shared home' — which thinking scientifically confirms this statement?"
+      },
+      "options": {
+        "hi": [
+          "हर जीव अपनी जगह बंद रहता है",
+          "जीव पर्यावरण को नहीं बदल सकते",
+          "पर्यावरण जीवों को नहीं बदल सकता",
+          "हर जीव दूसरों के परिवर्तन से प्रभावित होता है — एक का बदलाव सबकी दीवार पर पहुँचता है"
+        ],
+        "en": [
+          "Every being stays sealed in its own place",
+          "Beings cannot change the environment",
+          "The environment cannot change beings",
+          "Every being is affected by others' changes — one's change reaches everyone's wall"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जाल की हर गाँठ बाकी गाँठों से बँधी है — 'बंद कमरे' वाली सोच पारितंत्र में चलती ही नहीं।",
+        "en": "Every knot of the net is bound to the rest — the 'closed room' thinking simply does not run in an ecosystem."
+      }
+    },
+    {
+      "id": "ch12_q1221",
+      "topic": "ecosystem-structure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'पारितंत्र' (ecosystem) किसे कहते हैं?",
+        "en": "What is called an 'ecosystem'?"
+      },
+      "options": {
+        "hi": [
+          "किसी क्षेत्र के जीवों और अजैविक परिवेश की आपस में जुड़ी कार्यशील इकाई",
+          "केवल पेड़ों का समूह",
+          "केवल तालाब का पानी",
+          "केवल जीवाश्मों का संग्रह"
+        ],
+        "en": [
+          "The interconnected working unit of the organisms and abiotic surroundings of an area",
+          "Only a group of trees",
+          "Only a pond's water",
+          "Only a collection of fossils"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जीव + जड़ परिवेश + दोनों की अंतर्क्रिया = पारितंत्र; तालाब से लेकर वन तक हर ऐसी इकाई पारितंत्र है।",
+        "en": "Beings + inert surroundings + the interaction of both = ecosystem; from pond to forest, every such unit is an ecosystem."
+      }
+    },
+    {
+      "id": "ch12_q1222",
+      "topic": "ecosystem-structure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तालाब एक पारितंत्र है — इसमें अजैविक पक्ष कौन-सा है?",
+        "en": "A pond is an ecosystem — which is its abiotic side?"
+      },
+      "options": {
+        "hi": [
+          "जल में पलने वाले कीट",
+          "जल, घुली गैसें, ताप और प्रकाश",
+          "तालाब की मछलियाँ",
+          "कमल के पत्ते"
+        ],
+        "en": [
+          "Insects breeding in the water",
+          "Water, dissolved gases, temperature and light",
+          "The pond's fish",
+          "Lotus leaves"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तालाब का जल-ताप-प्रकाश उसकी जड़ संरचना है — जीव इसी मंच पर अपना खेल खेलते हैं।",
+        "en": "The pond's water-temperature-light is its inert structure — beings play their game on this very stage."
+      }
+    },
+    {
+      "id": "ch12_q1223",
+      "topic": "ecosystem-structure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घर का एक्वेरियम (मछली-घर) किसे माना जाता है?",
+        "en": "What is the home aquarium regarded as?"
+      },
+      "options": {
+        "hi": [
+          "एक महासागर",
+          "एक जीवाश्म-संग्रह",
+          "एक छोटा कृत्रिम पारितंत्र",
+          "एक नदी"
+        ],
+        "en": [
+          "An ocean",
+          "A fossil collection",
+          "A small artificial ecosystem",
+          "A river"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पौधे-मछली-पानी-प्रकाश की छोटी-सी इकाई में भी पारितंत्र का पूरा ढाँचा बैठता है — बस मनुष्य उसका संचालक।",
+        "en": "In the tiny unit of plants-fish-water-light sits the whole frame of an ecosystem — only, man is its operator."
+      }
+    },
+    {
+      "id": "ch12_q1224",
+      "topic": "ecosystem-structure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी पारितंत्र के दो मुख्य घटक-वर्ग कौन-से हैं?",
+        "en": "Which are the two main component-classes of an ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "बड़े और छोटे",
+          "नए और पुराने",
+          "गीले और सूखे",
+          "जैविक और अजैविक"
+        ],
+        "en": [
+          "Big and small",
+          "New and old",
+          "Wet and dry",
+          "Biotic and abiotic"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हर पारितंत्र की पहली विभाजन-रेखा यही — जो जीवित है और जो जड़।",
+        "en": "The first dividing line of every ecosystem is this — the living and the inert."
+      }
+    },
+    {
+      "id": "ch12_q1225",
+      "topic": "ecosystem-structure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खाद्य-श्रृंखला की नींव यानी पहली मंजिल कौन-सी होती है?",
+        "en": "Which is the foundation, i.e. the first floor, of a food chain?"
+      },
+      "options": {
+        "hi": [
+          "भोजन बनाने वाले निर्माता (पौधे)",
+          "मांसाहारी",
+          "सर्वोच्च शिकारी",
+          "मृत पदार्थ"
+        ],
+        "en": [
+          "The food-making producers (plants)",
+          "Carnivores",
+          "The top predator",
+          "Dead matter"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "श्रृंखला जिधर से शुरू होती है — धूप-पानी से भोजन गढ़ने वाले हरे पौधे ही उसकी नींव हैं।",
+        "en": "The chain begins from where food is forged from sunshine-water — the green plants are its foundation."
+      }
+    },
+    {
+      "id": "ch12_q1226",
+      "topic": "ecosystem-structure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'उपभोक्ता' (consumers) किसे कहते हैं?",
+        "en": "Who are called 'consumers'?"
+      },
+      "options": {
+        "hi": [
+          "जो केवल पानी पीते हैं",
+          "जो अपना भोजन बनाकर नहीं, दूसरों पर निर्भर रहकर खाते हैं",
+          "जो भोजन बनाते हैं",
+          "जो मृत पदार्थ गलाते हैं"
+        ],
+        "en": [
+          "Those who only drink water",
+          "Those who eat not by making their own food but depending on others",
+          "Those who make food",
+          "Those who decay dead matter"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बकरी घास से, शेर बकरी से — जो खाता है वही उपभोक्ता; बनाने वाला निर्माता कहलाया।",
+        "en": "The goat from grass, the lion from goat — who eats is the consumer; the maker is called the producer."
+      }
+    },
+    {
+      "id": "ch12_q1227",
+      "topic": "ecosystem-structure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पारितंत्र का आकार उसकी पहचान का आधार है — यह कथन कैसा है?",
+        "en": "The size of an ecosystem is the basis of its identity — how is this statement?"
+      },
+      "options": {
+        "hi": [
+          "आधा सही",
+          "केवल जल-इकाइयों के लिए सही",
+          "गलत — छोटा तालाब और विशाल वन दोनों पारितंत्र हैं",
+          "बिल्कुल सही — छोटी इकाई पारितंत्र नहीं"
+        ],
+        "en": [
+          "Half right",
+          "Right only for water units",
+          "Wrong — a small pond and a vast forest are both ecosystems",
+          "Absolutely right — a small unit is not an ecosystem"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पारितंत्र की कसौटी आकार नहीं, क्रिया है — जहाँ जीव-जड़ का संगठित आदान-प्रदान चले, वहाँ पारितंत्र है।",
+        "en": "The yardstick of an ecosystem is not size but function — wherever an organised exchange of living-inert runs, there is an ecosystem."
+      }
+    },
+    {
+      "id": "ch12_q1228",
+      "topic": "ecosystem-structure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तालाब-पारितंत्र के जैविक सदस्यों में कौन-सा समूह सम्मिलित है?",
+        "en": "Which group is included among the biotic members of a pond ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "केवल तापमान",
+          "केवल घुली ऑक्सीजन",
+          "केवल कीचड़ की गहराई",
+          "पौधे, मछलियाँ, जलकीट और सूक्ष्मजीव"
+        ],
+        "en": [
+          "Only temperature",
+          "Only dissolved oxygen",
+          "Only the depth of silt",
+          "Plants, fish, aquatic insects and microorganisms"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कमल से कीटाणु तक — तालाब की हर साँस लेने वाली चीज़ उसका जैविक सदस्य है।",
+        "en": "From lotus to germs — every breathing thing of the pond is its biotic member."
+      }
+    },
+    {
+      "id": "ch12_q1229",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'जनसंख्या' (population) का पारिस्थितिक अर्थ क्या है?",
+        "en": "What is the ecological meaning of 'population'?"
+      },
+      "options": {
+        "hi": [
+          "किसी एक क्षेत्र में एक ही प्रजाति के जीवों का समूह",
+          "सभी प्रजातियों का मिलाजुला समूह",
+          "केवल मनुष्यों की गिनती",
+          "प्रदेश का कुल क्षेत्रफल"
+        ],
+        "en": [
+          "A group of organisms of one single species in one area",
+          "A mixed group of all species",
+          "Only the count of humans",
+          "The total area of a province"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तालाब की सारी मछलियाँ मिलकर 'मछली-जनसंख्या' — एक जाति, एक पता।",
+        "en": "All the fish of a pond together form the 'fish population' — one species, one address."
+      }
+    },
+    {
+      "id": "ch12_q1230",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'समुदाय' (community) से क्या तात्पर्य है?",
+        "en": "What is meant by 'community'?"
+      },
+      "options": {
+        "hi": [
+          "केवल एक पेड़",
+          "किसी क्षेत्र की विभिन्न प्रजातियों के जीवों का एक साथ रहने वाला समूह",
+          "एक ही प्रजाति का समूह",
+          "केवल निर्जीव वस्तुएँ"
+        ],
+        "en": [
+          "Only one tree",
+          "A group of organisms of different species of an area living together",
+          "A group of a single species",
+          "Only lifeless things"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तालाब में मछली + कमल + कीट + बगुला — सब मिलकर वहाँ का जीव-समुदाय।",
+        "en": "In the pond fish + lotus + insects + heron — together they form the community there."
+      }
+    },
+    {
+      "id": "ch12_q1231",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जनसंख्या → समुदाय → पारितंत्र — इस सीढ़ी का सही तर्क क्या है?",
+        "en": "Population → community → ecosystem — what is the correct logic of this ladder?"
+      },
+      "options": {
+        "hi": [
+          "तीनों एक ही का पर्यायवाची हैं",
+          "सीढ़ी उल्टी चढ़ी जाती है",
+          "एक जाति के समूह पर अनेक जातियाँ जुड़ती हैं, फिर अजैविक परिवेश जुड़कर पारितंत्र बनता है",
+          "पारितंत्र पहले, जनसंख्या बाद में"
+        ],
+        "en": [
+          "All three are synonyms",
+          "The ladder is climbed in reverse",
+          "Groups of one species are joined by many species, then adding the abiotic surroundings forms the ecosystem",
+          "Ecosystem first, population later"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इकाई से समूह, समूह से महासंघ, महासंघ + भूमि-जल-हवा = पारितंत्र — व्यवस्था की चढ़ाई यही है।",
+        "en": "From unit to group, group to federation, federation + land-water-air = ecosystem — this is the climb of organisation."
+      }
+    },
+    {
+      "id": "ch12_q1232",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शेर और हिरण के बीच का संबंध किस प्रकार की अंतर्क्रिया है?",
+        "en": "The relation between lion and deer is an interaction of which type?"
+      },
+      "options": {
+        "hi": [
+          "सहोपकारिता",
+          "प्रतिस्पर्धा",
+          "मृतभक्षण",
+          "परभक्षण (शिकार)"
+        ],
+        "en": [
+          "Mutualism",
+          "Competition",
+          "Scavenging",
+          "Predation (hunting)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक दूसरे को खाता है — हिरण घास का, शेर हिरण का; यही शिकार-संबंध खाद्य-श्रृंखला की रीढ़ है।",
+        "en": "One eats the other — deer of grass, lion of deer; this very predation-relation is the backbone of the food chain."
+      }
+    },
+    {
+      "id": "ch12_q1233",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही संसाधन (जल, भोजन, स्थान) के लिए जीवों के बीच संघर्ष को क्या कहते हैं?",
+        "en": "What is the struggle among organisms for the same resource (water, food, space) called?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिस्पर्धा",
+          "सहोपकारिता",
+          "परभक्षण",
+          "अपघटन"
+        ],
+        "en": [
+          "Competition",
+          "Mutualism",
+          "Predation",
+          "Decomposition"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक ही कुएँ पर दो झुंड — जब संसाधन साझा पर सीमित हो, तो हाथ-टकराव प्रतिस्पर्धा कहलाता है।",
+        "en": "Two herds at one well — when the resource is limited while shared, the clashing of claims is called competition."
+      }
+    },
+    {
+      "id": "ch12_q1234",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फूल और मधुमक्खी का संबंध किस श्रेणी में आता है?",
+        "en": "The relation of flower and bee falls in which category?"
+      },
+      "options": {
+        "hi": [
+          "अजैविक अंतर्क्रिया",
+          "सहोपकारिता — दोनों को लाभ",
+          "परभक्षण",
+          "प्रतिस्पर्धा"
+        ],
+        "en": [
+          "An abiotic interaction",
+          "Mutualism — benefit to both",
+          "Predation",
+          "Competition"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मक्खी को अमृत, फूल को पराग-पहुँच — एक ही सौदे में दोनों धनी; यही सहोपकार की मिसाल है।",
+        "en": "The bee gets nectar, the flower gets pollen-carriage — both rich in a single deal; this is the very specimen of mutualism."
+      }
+    },
+    {
+      "id": "ch12_q1235",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी पारितंत्र से सभी अपघटक हटा दिए जाएँ, तो सबसे पहले क्या उपजेगा?",
+        "en": "If all decomposers are removed from an ecosystem, what will arise first of all?"
+      },
+      "options": {
+        "hi": [
+          "उपभोक्ता तुरंत खत्म हो जाएँगे",
+          "कुछ नहीं बदलेगा",
+          "मृत-पदार्थ का ढेर लग जाना और पोषक तत्वों की वापसी रुक जाना",
+          "निर्माता बढ़ जाएँगे"
+        ],
+        "en": [
+          "Consumers will vanish instantly",
+          "Nothing will change",
+          "A heap of dead matter piling up and the return of nutrients stopping",
+          "Producers will increase"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सफाई-दास्ता चला गया तो कूड़ा जमेगा और मिट्टी को पोषक लौटने बंद — दोनों ही घातक।",
+        "en": "If the cleaning crew leaves, waste piles up and nutrients stop returning to the soil — both deadly."
+      }
+    },
+    {
+      "id": "ch12_q1236",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पारितंत्र के दो मूल कार्य (functions) कौन-से हैं?",
+        "en": "Which are the two basic functions of an ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "केवल जन्म और मृत्यु",
+          "केवल बारिश और धूप",
+          "केवल शिकार और भागना",
+          "ऊर्जा का प्रवाह और पोषक तत्वों का चक्रण"
+        ],
+        "en": [
+          "Only birth and death",
+          "Only rain and sunshine",
+          "Only hunting and fleeing",
+          "The flow of energy and the cycling of nutrients"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक ओर ऊर्जा सूर्य से श्रृंखला में बहती है, दूसरी ओर पोषक तत्व बार-बार घूमते हैं — यही दो चक्रधारी चलाती हैं।",
+        "en": "On one side energy streams from the sun through the chain, on the other nutrients circle round and round — these two currents run it."
+      }
+    },
+    {
+      "id": "ch12_q1237",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पोषक तत्व (नाइट्रोजन, कार्बन आदि) पारितंत्र में किस तरह घूमते हैं?",
+        "en": "How do nutrients (nitrogen, carbon etc.) move in an ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "चक्रीय मार्ग से — बार-बार जीव-मृत-मिट्टी-जीव होते हुए",
+          "एक ही दिशा में बाहर निकल जाते हैं",
+          "केवल हवा में रुके रहते हैं",
+          "केवल समुद्र में डूब जाते हैं"
+        ],
+        "en": [
+          "By a circular route — again and again through being-body-soil-being",
+          "They exit in one direction only",
+          "They stay halted in the air",
+          "They sink only into the sea"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मिट्टी से पौधे, पौधे से जंतु, जंतु से मृत्यु, मृत्यु से अपघटक, फिर मिट्टी — पोषकों का घेरा कभी बंद नहीं होता।",
+        "en": "From soil to plant, plant to animal, animal to death, death to decomposer, then again soil — the ring of nutrients never closes shut."
+      }
+    },
+    {
+      "id": "ch12_q1238",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फसल का खेत और जंगल — दोनों में से कौन-सा कृत्रिम पारितंत्र है?",
+        "en": "A crop field and a forest — which of the two is an artificial ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "कोई नहीं",
+          "फसल का खेत",
+          "जंगल",
+          "दोनों"
+        ],
+        "en": [
+          "Neither",
+          "The crop field",
+          "The forest",
+          "Both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खेत में क्या उगाना है, कब पानी देना है — फैसला मनुष्य करता है; जंगल अपने नियम से चलता है।",
+        "en": "What to grow in the field, when to water — man decides; the forest runs by its own rules."
+      }
+    },
+    {
+      "id": "ch12_q1239",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक्वेरियम जैसे छोटे कृत्रिम पारितंत्र को निरंतर मानव-देखरेख क्यों चाहिए?",
+        "en": "Why does a small artificial ecosystem like an aquarium need continuous human care?"
+      },
+      "options": {
+        "hi": [
+          "काँच को पॉलिश चाहिए",
+          "पानी का रंग बदलना जरूरी है",
+          "उसका जाल छोटा और अधूरा है — संतुलन अपने-आप टिकाऊ नहीं बन पाता",
+          "मछलियों को अकेलापन लगता है"
+        ],
+        "en": [
+          "The glass needs polish",
+          "The water's colour must change",
+          "Its net is small and incomplete — the balance cannot become self-sustaining on its own",
+          "The fish feel lonely"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "छोटे तालाब में कम विकल्प — एक कड़ी डगमगाए तो पूरा तंत्र डगमगाता है; इसीलिए मनुष्य हाथ बन जाता है।",
+        "en": "A small pond has few options — one link staggers and the whole system staggers; hence man becomes the hand."
+      }
+    },
+    {
+      "id": "ch12_q1240",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जिन पारितंत्रों में जीव-विविधता अधिक होती है, उनके बारे में सामान्य नियम क्या है?",
+        "en": "What is the general rule about ecosystems that have high biodiversity?"
+      },
+      "options": {
+        "hi": [
+          "वे अधिक नाजुक होते हैं",
+          "उनमें कभी बदलाव नहीं होता",
+          "वे केवल रेगिस्तान में मिलते हैं",
+          "वे अधिक स्थिर और संकट-सहनशील होते हैं"
+        ],
+        "en": [
+          "They are more fragile",
+          "They never change",
+          "They are found only in deserts",
+          "They are more stable and crisis-tolerant"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जितनी ज्यादा गाँठें, उतना मजबूत जाल — एक जाति गिरे तो बाकी संभाल लेती हैं; विविधता ही सहन-शक्ति है।",
+        "en": "The more knots, the stronger the net — if one species falls, the rest hold up; diversity itself is endurance."
+      }
+    },
+    {
+      "id": "ch12_q1241",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तालाब-पारितंत्र के जलीय जीवों की साँस का प्रबंध किस अजैविक कारक पर टिका है?",
+        "en": "On which abiotic factor rests the breathing arrangement of aquatic organisms of a pond ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "जल में घुली ऑक्सीजन",
+          "जल का रंग",
+          "तालाब की गहराई की चमक",
+          "किनारे की रेत"
+        ],
+        "en": [
+          "The oxygen dissolved in water",
+          "The colour of the water",
+          "The shine of the pond's depth",
+          "The sand of the bank"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मछली जल में घुली ऑक्सीजन से साँस लेती है — यही घुली गैस जलीय-जीवन की जड़ शर्त है।",
+        "en": "Fish breathe from the oxygen dissolved in water — this very dissolved gas is the root condition of aquatic life."
+      }
+    },
+    {
+      "id": "ch12_q1242",
+      "topic": "ecosystem-structure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी जाति की संख्या बहुत बढ़ जाए — जैसे तालाब में एक ही शैवाल की बाढ़ — तो पारितंत्र पर क्या असर पड़ता है?",
+        "en": "If a species' number grows too much — like a bloom of a single algae in a pond — what befalls the ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "सभी जातियाँ समान रूप से बढ़ती हैं",
+          "संतुलन बिगड़ता है — अन्य जीवों के लिए ऑक्सीजन-भोजन घटता है",
+          "संतुलन और मजबूत होता है",
+          "कोई असर नहीं होता"
+        ],
+        "en": [
+          "All species rise equally",
+          "The balance breaks — oxygen-food fall for the other beings",
+          "The balance grows stronger",
+          "No effect occurs"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक कुर्सी पर एक ही सवार बैठ जाए तो गाड़ी झुक जाती है — अति-बढ़ोत्तरी भी संतुलन की चोट है।",
+        "en": "If a single rider occupies one seat, the cart tilts — overgrowth too is a blow to balance."
+      }
+    },
+    {
+      "id": "ch12_q1243",
+      "topic": "ecosystem-structure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पोषक-चक्रण थम जाए, तो केवल गंदगी ही नहीं जमती — पारितंत्र की कौन-सी मूलभूत आपूर्ति रुक जाती है?",
+        "en": "If nutrient cycling stops, not only dirt piles up — which fundamental supply of the ecosystem halts?"
+      },
+      "options": {
+        "hi": [
+          "वर्षा का पानी",
+          "हवा की गति",
+          "निर्माताओं तक खनिज-पोषकों की वापसी — नई वृद्धि की कच्ची सामग्री",
+          "सूर्य की रोशनी"
+        ],
+        "en": [
+          "The rain's water",
+          "The motion of air",
+          "The return of mineral-nutrients to the producers — the raw material of new growth",
+          "The sun's light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चक्र रुका तो मिट्टी खाली, पौधे भूखे, श्रृंखला ऊपर से भूखी — पोषक-वापसी ही तंत्र की रगड़-तेल है।",
+        "en": "If the cycle halts, soil empty, plants hungry, the chain hungry from above — the nutrient-return is the system's lubricating oil."
+      }
+    },
+    {
+      "id": "ch12_q1244",
+      "topic": "ecosystem-structure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अपघटक खाद्य-श्रृंखला के आरेख में एक विशिष्ट स्थान पर क्यों दिखाए जाते हैं?",
+        "en": "Why are decomposers shown at a special place in the diagram of a food chain?"
+      },
+      "options": {
+        "hi": [
+          "वे सबसे ऊपर बैठते हैं",
+          "वे केवल शीर्ष शिकारी को खाते हैं",
+          "वे श्रृंखला में कोई काम नहीं करते",
+          "वे किसी एक स्तर पर नहीं बैठते — हर स्तर के मृत-अंश को गलाकर पोषकों को वापस मिट्टी तक ले जाते हैं"
+        ],
+        "en": [
+          "They sit at the very top",
+          "They eat only the top predator",
+          "They do no work in the chain",
+          "They sit at no single level — decaying the dead-remains of every level they carry the nutrients back to the soil"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊपर-नीचे हर मंजिल का कचरा एक ही दफ्तर संभालता है — अपघटक श्रृंखला के साथ-साथ चलती सफाई-सेवा हैं।",
+        "en": "The refuse of every floor is handled by a single office — decomposers are the cleaning-service that walks alongside the chain."
+      }
+    },
+    {
+      "id": "ch12_q1245",
+      "topic": "ecosystem-structure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मानव-हस्तक्षेप के बाद पारितंत्र स्वयं को कुछ हद तक सुधार लेता है — पर सीमा कहाँ समाप्त होती है?",
+        "en": "After human interference an ecosystem repairs itself to some extent — but where does the limit end?"
+      },
+      "options": {
+        "hi": [
+          "जब क्षति की गति वसूली की गति से बहुत आगे निकल जाए और मूल जातियाँ ही लुप्त हो जाएँ",
+          "जब एक भी पेड़ कटे",
+          "जब एक दिन धूप न निकले",
+          "सीमा कभी समाप्त नहीं होती"
+        ],
+        "en": [
+          "When the pace of damage runs far ahead of recovery and the original species themselves go extinct",
+          "When even one tree is cut",
+          "When the sun fails for a day",
+          "The limit never ends"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "छोटे जख्म भरते हैं, बड़े जख्म नहीं — जातियाँ गईं तो वापसी का दरवाज़ा हमेशा के लिए बंद।",
+        "en": "Small wounds heal, big ones do not — once species are gone, the door of return shuts forever."
+      }
+    },
+    {
+      "id": "ch12_q1246",
+      "topic": "food-chains-webs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'खाद्य-श्रृंखला' से क्या तात्पर्य है?",
+        "en": "What is meant by a 'food chain'?"
+      },
+      "options": {
+        "hi": [
+          "बादलों की कतार",
+          "किसी पारितंत्र में 'कौन किसे खाता है' का क्रमबद्ध तार",
+          "खेतों की कतार",
+          "दुकानों की कतार"
+        ],
+        "en": [
+          "A row of clouds",
+          "The ordered thread of 'who eats whom' in an ecosystem",
+          "A row of fields",
+          "A row of shops"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घास → हिरण → शेर — भोजन का जो तार नीचे से ऊपर चलता है, वही खाद्य-श्रृंखला।",
+        "en": "Grass → deer → lion — the thread of food running from below to above is the food chain."
+      }
+    },
+    {
+      "id": "ch12_q1247",
+      "topic": "food-chains-webs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'घास → हिरण → शेर' श्रृंखला की अंतिम कड़ी कौन-सी है?",
+        "en": "Which is the last link of the chain 'grass → deer → lion'?"
+      },
+      "options": {
+        "hi": [
+          "हिरण",
+          "मिट्टी",
+          "शेर",
+          "घास"
+        ],
+        "en": [
+          "The deer",
+          "The soil",
+          "The lion",
+          "The grass"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इस तार में शेर के बाद कोई खाने वाला नहीं — वही अंतिम कड़ी, यानी शीर्ष शिकारी।",
+        "en": "In this thread none eats after the lion — it is the last link, i.e. the top predator."
+      }
+    },
+    {
+      "id": "ch12_q1248",
+      "topic": "food-chains-webs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'पोषण-स्तर' (trophic level) किसे कहते हैं?",
+        "en": "What is called a 'trophic level'?"
+      },
+      "options": {
+        "hi": [
+          "घर की मंजिल",
+          "स्कूल की कक्षा",
+          "पहाड़ की चोटी",
+          "खाद्य-श्रृंखला की वह मंजिल जहाँ एक जैसे भोजन-स्थान वाले जीव बैठते हैं"
+        ],
+        "en": [
+          "The floor of a house",
+          "A class of school",
+          "The peak of a mountain",
+          "That floor of the food chain where organisms of a similar food-place sit"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सबसे नीचे निर्माता-मंजिल, उसपर शाकाहारी, फिर मांसाहारी — हर मंजिल एक पोषण-स्तर।",
+        "en": "At the very bottom the producer-floor, above it herbivores, then carnivores — every floor is a trophic level."
+      }
+    },
+    {
+      "id": "ch12_q1249",
+      "topic": "food-chains-webs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शाकाहारी जंतु खाद्य-श्रृंखला में किस क्रम के उपभोक्ता कहलाते हैं?",
+        "en": "Herivorous animals are called consumers of which order in the food chain?"
+      },
+      "options": {
+        "hi": [
+          "प्रथम क्रम (प्राथमिक उपभोक्ता)",
+          "दूसरे क्रम",
+          "तीसरे क्रम",
+          "किसी क्रम के नहीं"
+        ],
+        "en": [
+          "First order (primary consumers)",
+          "Second order",
+          "Third order",
+          "Of no order"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जो निर्माता को सीधे खाता है वही पहला उपभोक्ता — गाय, हिरण, टिड्डी सब इसी दर्जे के।",
+        "en": "Whoever eats the producer directly is the first consumer — cow, deer, locust all of this rank."
+      }
+    },
+    {
+      "id": "ch12_q1250",
+      "topic": "food-chains-webs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हिरण को खाने वाला शेर श्रृंखला में कैसा उपभोक्ता है?",
+        "en": "The lion eating the deer is what kind of consumer in the chain?"
+      },
+      "options": {
+        "hi": [
+          "अपघटक",
+          "द्वितीय क्रम (मांसाहारी)",
+          "प्रथम क्रम",
+          "निर्माता"
+        ],
+        "en": [
+          "A decomposer",
+          "Second order (carnivore)",
+          "First order",
+          "A producer"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पहला उपभोक्ता खाने वाला दूसरा उपभोक्ता — शेर-मछली सब इस मंजिल के रहने वाले।",
+        "en": "The eater of the first consumer is the second consumer — lion-fish all dwellers of this floor."
+      }
+    },
+    {
+      "id": "ch12_q1251",
+      "topic": "food-chains-webs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'खाद्य-जाल' (food web) क्या होता है?",
+        "en": "What is a 'food web'?"
+      },
+      "options": {
+        "hi": [
+          "केवल जल-जीवों का चित्र",
+          "मौसम का नक्शा",
+          "एक ही पारितंत्र की अनेक श्रृंखलाओं का आपस में उलझा जाल",
+          "एक ही सीधी रेखा"
+        ],
+        "en": [
+          "A picture of only aquatic beings",
+          "A map of weather",
+          "The tangled net of many chains of the same ecosystem among themselves",
+          "A single straight line"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हिरण एक श्रृंखला में शेर के पास, दूसरी में तेंदुए के पास — सारी श्रृंखलाएँ मिलकर जाल बुनती हैं।",
+        "en": "The deer in one chain beside the lion, in another beside the leopard — all chains together weave the web."
+      }
+    },
+    {
+      "id": "ch12_q1252",
+      "topic": "food-chains-webs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खाद्य-श्रृंखला के चित्र में तीर (→) किसकी ओर संकेत करता है?",
+        "en": "In the picture of a food chain, to whom does the arrow (→) point?"
+      },
+      "options": {
+        "hi": [
+          "भोजी से भोजन की ओर",
+          "हमेशा ऊपर की ओर",
+          "हमेशा पानी की ओर",
+          "भोजन से भोजी की ओर — जो खाता है उसकी ओर"
+        ],
+        "en": [
+          "From the eater to the eaten",
+          "Always upwards",
+          "Always towards water",
+          "From the eaten to the eater — towards the one who eats"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "घास → हिरण: तीर यह कहता है कि ऊर्जा-भोजन हिरण में गया — तीर हमेशा खाने वाले के नाम।",
+        "en": "Grass → deer: the arrow says the energy-food went into the deer — the arrow always bears the eater's name."
+      }
+    },
+    {
+      "id": "ch12_q1253",
+      "topic": "food-chains-webs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जलीय खाद्य-श्रृंखला का आधार-स्रोत आमतौर पर क्या होता है?",
+        "en": "What is usually the base source of an aquatic food chain?"
+      },
+      "options": {
+        "hi": [
+          "पानी में तैरते सूक्ष्म पौधे — फाइटोप्लांकटन",
+          "बड़ी मछलियाँ",
+          "समुद्री तेंदुआ",
+          "किनारे का रेत"
+        ],
+        "en": [
+          "The tiny plants floating in water — phytoplankton",
+          "Big fish",
+          "The sea leopard",
+          "The sand of the shore"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्थल की घास जैसे जल का प्लवक — छोटे-छोटे पौधे जिन पर पूरी जलीय-श्रृंखला टिकी रहती है।",
+        "en": "Like the grass of land, the plankton of water — tiny plants on which the whole aquatic chain rests."
+      }
+    },
+    {
+      "id": "ch12_q1254",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'घास → टिड्डी → मेंढक → साँप' श्रृंखला में पोषण-स्तरों की कुल संख्या कितनी है?",
+        "en": "In the chain 'grass → locust → frog → snake', what is the total number of trophic levels?"
+      },
+      "options": {
+        "hi": [
+          "पाँच",
+          "चार",
+          "दो",
+          "तीन"
+        ],
+        "en": [
+          "Five",
+          "Four",
+          "Two",
+          "Three"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घास (पहला), टिड्डी (दूसरा), मेंढक (तीसरा), साँप (चौथा) — हर कड़ी अपनी मंजिल रखती है।",
+        "en": "Grass (first), locust (second), frog (third), snake (fourth) — every link keeps its own floor."
+      }
+    },
+    {
+      "id": "ch12_q1255",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'घास → टिड्डी → मेंढक → साँप' श्रृंखला में मेंढक कौन-सी कड़ी है?",
+        "en": "In the chain 'grass → locust → frog → snake', which link is the frog?"
+      },
+      "options": {
+        "hi": [
+          "निर्माता",
+          "अपघटक",
+          "दूसरे क्रम का मांसाहारी — तीसरा पोषण-स्तर",
+          "प्रथम उपभोक्ता"
+        ],
+        "en": [
+          "A producer",
+          "A decomposer",
+          "A second-order carnivore — the third trophic level",
+          "A primary consumer"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मेंढक टिड्डी (प्रथम उपभोक्ता) को खाता है — इसलिए वह दूसरा उपभोक्ता और श्रृंखला का तीसरा स्तर।",
+        "en": "The frog eats the locust (a primary consumer) — so it is a second consumer and the chain's third level."
+      }
+    },
+    {
+      "id": "ch12_q1256",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मनुष्य खाद्य-श्रृंखला में किसी एक मंजिल पर क्यों नहीं बैठता?",
+        "en": "Why does man not sit on a single floor in the food chain?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह निर्माता है",
+          "क्योंकि वह अपघटक है",
+          "क्योंकि वह श्रृंखला से बाहर है",
+          "वह अनाज-फल भी खाता है और मांस-मछली भी — कई स्तरों पर उपभोक्ता"
+        ],
+        "en": [
+          "Because he is a producer",
+          "Because he is a decomposer",
+          "Because he is outside the chain",
+          "He eats grain-fruit as well as meat-fish — a consumer at many levels"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शाकाहारी भोजन में मनुष्य प्रथम उपभोक्ता, मांसाहार में तृतीय — उसकी कुर्सी एक नहीं, कई मंजिलों में बदलती है।",
+        "en": "In vegetarian food man is a first consumer, in non-veg a third — his chair shifts across many floors, not one."
+      }
+    },
+    {
+      "id": "ch12_q1257",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कौआ अनाज भी खाता है और कीट भी — खाद्य-जाल में उसकी स्थिति कैसी होती है?",
+        "en": "A crow eats grain as well as insects — what is its position in the food web?"
+      },
+      "options": {
+        "hi": [
+          "एक से अधिक श्रृंखलाओं-स्तरों में बँटी हुई",
+          "केवल निर्माता-स्तर में",
+          "केवल शीर्ष-स्तर में",
+          "जाल से बाहर"
+        ],
+        "en": [
+          "Spread across more than one chain-level",
+          "Only in the producer level",
+          "Only in the top level",
+          "Outside the web"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सर्वाहारी जीव जाल के कई धागों में एक साथ गुँथे रहते हैं — यही जाल की बुनाई का असली चेहरा है।",
+        "en": "Omnivores stay threaded in several strands of the web at once — this is the web's real woven face."
+      }
+    },
+    {
+      "id": "ch12_q1258",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खाद्य-जाल की तुलना में अकेली खाद्य-श्रृंखला कमजोर क्यों मानी जाती है?",
+        "en": "Why is a lone food chain considered weaker compared to a food web?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक समान कमजोर हैं",
+          "एक खाद्य-स्रोत गया तो श्रृंखला टूट जाती है; जाल में विकल्प बचे रहते हैं",
+          "श्रृंखला में ऊर्जा नहीं चलती",
+          "जाल में ऊर्जा नहीं चलती"
+        ],
+        "en": [
+          "Both are equally weak",
+          "If one food source goes the chain snaps; in a web alternatives remain",
+          "No energy runs in a chain",
+          "No energy runs in a web"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक ही रस्सी पर लटका ग्रामीण बाजार नहीं चलता — विकल्पों की अनेक रस्सियाँ ही संकट में काम आती हैं।",
+        "en": "A village market cannot hang on a single rope — only the many ropes of alternatives serve in crisis."
+      }
+    },
+    {
+      "id": "ch12_q1259",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही जीव कई श्रृंखलाओं में क्यों दिखता है — जाल के निर्माण का कारण क्या है?",
+        "en": "Why does the same organism appear in many chains — what is the reason of the web's formation?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि श्रृंखलाएँ गिनी नहीं जा सकतीं",
+          "क्योंकि जाल सुंदर दिखता है",
+          "अधिकांश जीव एक से अधिक वस्तुएँ खाते हैं और एक से अधिक शिकारी उन्हें खाते हैं",
+          "क्योंकि सभी जीव एक जैसे हैं"
+        ],
+        "en": [
+          "Because chains cannot be counted",
+          "Because the web looks beautiful",
+          "Most organisms eat more than one thing and more than one predator eats them",
+          "Because all organisms are alike"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हिरण घास खाता है, शेर-तेंदुआ दोनों हिरण को — खाने-खाने के अनेक रास्ते मिलकर जाल बनाते हैं।",
+        "en": "The deer eats grass; lion-leopard both eat the deer — many paths of eating-eaten together form the web."
+      }
+    },
+    {
+      "id": "ch12_q1260",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गिद्ध जैसे 'मृतभक्षी' (scavengers) पारितंत्र में क्या सेवा देते हैं?",
+        "en": "What service do 'scavengers' like vultures render to the ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "वे पेड़ लगाते हैं",
+          "वे पराग फैलाते हैं",
+          "वे पानी साफ करते हैं",
+          "मृत शरीरों को उठाकर सफाई में सहायक और पोषक-वापसी को तेज करते हैं"
+        ],
+        "en": [
+          "They plant trees",
+          "They spread pollen",
+          "They purify water",
+          "By lifting dead bodies they aid cleaning and hasten the nutrient-return"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गिद्ध प्रकृति की सफाई-गाड़ी है — मृतक को उठाते ही अपघटकों का काम आसान और तेज हो जाता है।",
+        "en": "The vulture is nature's cleaning-cart — the moment it lifts the dead, the decomposers' work turns easy and quick."
+      }
+    },
+    {
+      "id": "ch12_q1261",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्थलीय श्रृंखला घास से और जलीय श्रृंखला प्लवक से शुरू होती है — दोनों का साझा आधार क्या है?",
+        "en": "A land chain starts from grass and an aquatic chain from plankton — what is the shared base of both?"
+      },
+      "options": {
+        "hi": [
+          "दोनों प्रथम कड़ियाँ स्व-पोषित निर्माता हैं",
+          "दोनों मांसाहारी हैं",
+          "दोनों अपघटक हैं",
+          "दोनों मृतभक्षी हैं"
+        ],
+        "en": [
+          "Both first links are self-nourishing producers",
+          "Both are carnivores",
+          "Both are decomposers",
+          "Both are scavengers"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "घास या प्लवक — नाम भिन्न, काम एक: धूप से भोजन बनाकर श्रृंखला की पहली ईंट रखना।",
+        "en": "Grass or plankton — names differ, work one: making food from sunshine and laying the chain's first brick."
+      }
+    },
+    {
+      "id": "ch12_q1262",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'हरी पत्ती → फुदकी → बिल्ली' श्रृंखला में फुदकी का दर्जा क्या है?",
+        "en": "In the chain 'green leaf → hopper → cat', what is the hopper's rank?"
+      },
+      "options": {
+        "hi": [
+          "शीर्ष शिकारी",
+          "प्रथम क्रम का उपभोक्ता — दूसरा पोषण-स्तर",
+          "दूसरे क्रम का मांसाहारी",
+          "निर्माता"
+        ],
+        "en": [
+          "The top predator",
+          "A first-order consumer — the second trophic level",
+          "A second-order carnivore",
+          "A producer"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फुदकी पौधे को सीधे खाती है — प्रथम उपभोक्ता; बिल्ली दूसरी।",
+        "en": "The hopper eats the plant directly — a primary consumer; the cat the second."
+      }
+    },
+    {
+      "id": "ch12_q1263",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्रृंखला में जितना ऊपर चढ़ते जाएँ, उस स्तर के जीवों की संख्या का सामान्य रुझान कैसा रहता है?",
+        "en": "As one climbs higher in the chain, what is the usual trend of the number of organisms at that level?"
+      },
+      "options": {
+        "hi": [
+          "समान रहता है",
+          "अनियमित रूप से दोगुना होता है",
+          "क्रमशः कम होता जाता है",
+          "क्रमशः बढ़ता जाता है"
+        ],
+        "en": [
+          "It stays equal",
+          "It doubles erratically",
+          "It keeps decreasing progressively",
+          "It keeps increasing"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घास खरबों, हिरण सैकड़ों, शेर मुट्ठी भर — ऊपर की मंजिलें हमेशा छोटी होती हैं।",
+        "en": "Grass in crores, deer in hundreds, lions a handful — the upper floors are always smaller."
+      }
+    },
+    {
+      "id": "ch12_q1264",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मृत-पदार्थ से शुरू होने वाली श्रृंखला का नाम क्या है?",
+        "en": "What is the name of the chain that starts from dead matter?"
+      },
+      "options": {
+        "hi": [
+          "चरायी (ग्रेज़िंग) श्रृंखला",
+          "जलीय साँस-श्रृंखला",
+          "प्रकाश-श्रृंखला",
+          "अपघटक (डेट्रिटल) खाद्य-श्रृंखला"
+        ],
+        "en": [
+          "The grazing food chain",
+          "The aquatic breath-chain",
+          "The light-chain",
+          "The detrital (decomposer) food chain"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गिरे पत्ते से कवक-कीट-पक्षी तक — जो श्रृंखला मृत-मल से जन्म लेती है वह अपघटक-श्रृंखला कहलाती है।",
+        "en": "From fallen leaf to fungus-insect-bird — the chain born of dead-refuse is called the detrital chain."
+      }
+    },
+    {
+      "id": "ch12_q1265",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विभिन्न पारितंत्रों की शीर्ष-कड़ी भिन्न होती है — घास-भूमि, जंगल और सागर का सही शीर्ष-युग्म कौन-सा है?",
+        "en": "Different ecosystems have different top links — which is the correct top-pair of grassland, forest and sea?"
+      },
+      "options": {
+        "hi": [
+          "घास-भूमि-शेर, जंगल-बाघ/तेंदुआ, सागर-शार्क/सील-शिकारी",
+          "घास-भूमि-शार्क, जंगल-शेर, सागर-बाघ",
+          "तीनों में शेर",
+          "तीनों में गिद्ध"
+        ],
+        "en": [
+          "Grassland-lion, forest-tiger/leopard, sea-shark/seal-hunter",
+          "Grassland-shark, forest-lion, sea-tiger",
+          "Lion in all three",
+          "Vulture in all three"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मंच बदला तो नायक बदला — घास का शेर, जंगल का बाघ, जल का शार्क; हर पारितंत्र अपना शीर्ष चुनता है।",
+        "en": "Stage changed, hero changed — grassland's lion, forest's tiger, water's shark; every ecosystem picks its own top."
+      }
+    },
+    {
+      "id": "ch12_q1266",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'घास → हिरण → शेर' श्रृंखला में शेर का पोषण-स्तर और उपभोक्ता-क्रम का जोड़ा कौन-सा है?",
+        "en": "In the chain 'grass → deer → lion', which is the pair of the lion's trophic level and consumer-order?"
+      },
+      "options": {
+        "hi": [
+          "चौथा स्तर, तीसरा उपभोक्ता",
+          "तीसरा पोषण-स्तर, दूसरे क्रम का उपभोक्ता",
+          "दूसरा स्तर, पहला उपभोक्ता",
+          "पहला स्तर, निर्माता"
+        ],
+        "en": [
+          "Fourth level, third consumer",
+          "Third trophic level, second-order consumer",
+          "Second level, first consumer",
+          "First level, producer"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घास पहला स्तर, हिरण दूसरा (प्रथम उपभोक्ता), शेर तीसरा (द्वितीय उपभोक्ता) — स्तर और क्रम की गिनती एक साथ चलती है।",
+        "en": "Grass the first level, deer the second (first consumer), lion the third (second consumer) — the counting of level and order runs together."
+      }
+    },
+    {
+      "id": "ch12_q1267",
+      "topic": "food-chains-webs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'प्लवक → छोटी मछली → बड़ी मछली → मानव' जलीय श्रृंखला में मानव किस मंजिल पर बैठा है?",
+        "en": "In the aquatic chain 'plankton → small fish → big fish → human', on which floor does man sit?"
+      },
+      "options": {
+        "hi": [
+          "दूसरी मंजिल",
+          "मंजिल पर नहीं, जाल के बाहर",
+          "चौथी मंजिल — तीसरे क्रम का उपभोक्ता",
+          "पहली मंजिल"
+        ],
+        "en": [
+          "The second floor",
+          "On no floor, outside the web",
+          "The fourth floor — a third-order consumer",
+          "The first floor"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्लवक निर्माता, छोटी मछली पहला उपभोक्ता, बड़ी दूसरा, मानव तीसरा — सागर की मेज़ पर मनुष्य सबसे ऊँची कुर्सी पर।",
+        "en": "Plankton the producer, small fish the first consumer, big fish the second, man the third — at the sea's table man takes the highest chair."
+      }
+    },
+    {
+      "id": "ch12_q1268",
+      "topic": "food-chains-webs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "खेत में छिड़का कीटनाशक घास में, फिर गाय-गैबल? नहीं — श्रृंखला में यह रसायन सबसे अधिक कहाँ जमा होता है?",
+        "en": "A pesticide sprayed in the field — where does this chemical accumulate the MOST in the chain?"
+      },
+      "options": {
+        "hi": [
+          "निर्माता पौधों में",
+          "मिट्टी में ही रुक जाता है",
+          "पानी में घुलकर गायब",
+          "श्रृंखला के शीर्ष पर बैठे शिकारी में"
+        ],
+        "en": [
+          "In the producer plants",
+          "It stays halted in the soil",
+          "It dissolves in water and vanishes",
+          "In the predator sitting at the top of the chain"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हर स्तर पर जिंदा रहने के लिए और खाना पड़ता है — विष संकेंद्रित होता-होता शीर्ष पर सबसे मोटी तह बन जाता है; इसे जैव-आवर्धन कहते हैं।",
+        "en": "To stay alive at every level one must eat more — the poison keeps concentrating into its thickest layer at the top; this is called biological magnification."
+      }
+    },
+    {
+      "id": "ch12_q1269",
+      "topic": "food-chains-webs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "श्रृंखला से एक कड़ी गायब हो जाए तो जाल-वाले पारितंत्र और श्रृंखला-वाले पारितंत्र पर प्रभाव कैसा पड़ता है?",
+        "en": "If one link vanishes from a chain, what is the impact on a web-based ecosystem versus a chain-based one?"
+      },
+      "options": {
+        "hi": [
+          "जाल में बाकी कड़ियाँ विकल्प-खाद्य से संभल जाती हैं; अकेली श्रृंखला में ऊपर की पूरी कतार लटक जाती है",
+          "दोनों पर समान विनाश",
+          "जाल में विनाश, श्रृंखला में बचाव",
+          "दोनों में कोई प्रभाव नहीं"
+        ],
+        "en": [
+          "In a web the remaining links hold on via alternate food; in a lone chain the whole row above hangs loose",
+          "Equal ruin on both",
+          "Ruin in the web, safety in the chain",
+          "No effect on either"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जाल में हर गाँठ के कई धागे हैं — एक कटा तो दूसरे ने थाम लिया; सीधी रेखा में एक कटी तो सिरे से गिरी।",
+        "en": "In a web every knot has many strands — one cut, another holds; in a straight line one cut and it fell end to end."
+      }
+    },
+    {
+      "id": "ch12_q1270",
+      "topic": "food-chains-webs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही फसल से भरे बड़े खेत (मोनोकल्चर) में कीट-प्रकोप का जोखिम क्यों बढ़ जाता है?",
+        "en": "Why does the risk of pest-outbreak rise in vast fields filled with a single crop (monoculture)?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि खेत में पानी नहीं होता",
+          "खाद्य-जाल अत्यंत सरल हो जाता है — कीट का एक ही खाद्य भरपूर, प्राकृतिक शिकारियों की कमी",
+          "क्योंकि एक ही फसल में ऊर्जा नहीं होती",
+          "क्योंकि कीट नई फसल पसंद नहीं करते"
+        ],
+        "en": [
+          "Because fields have no water",
+          "The food web becomes extremely simple — one food in abundance for the pest, natural predators few",
+          "Because a single crop has no energy",
+          "Because pests do not like new crops"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जाल जितना सरल, तंत्र उतना नाजुक — कीट के मेज़ पर एक ही थाली खरबों में लगी हो और शिकारी कुर्सियाँ खाली, तो बाढ़ ही आएगी।",
+        "en": "The simpler the web, the frailer the system — with one dish served in crores on the pest's table and predator-chairs empty, a flood must come."
+      }
+    },
+    {
+      "id": "ch12_q1271",
+      "topic": "energy-flow-relations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पारितंत्र की समस्त ऊर्जा का मूल स्रोत कौन-सा है?",
+        "en": "What is the root source of all the energy of an ecosystem?"
+      },
+      "options": {
+        "hi": [
+          "तारे",
+          "ज्वालामुखी",
+          "सूर्य",
+          "चंद्रमा"
+        ],
+        "en": [
+          "The stars",
+          "Volcanoes",
+          "The sun",
+          "The moon"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धूप से पौधा, पौधे से श्रृंखला — पारितंत्र की हर ऊर्जा-बूँद की जन्मभूमि सूर्य ही है।",
+        "en": "From sunshine to plant, from plant to chain — the sun alone is the birthplace of every drop of the ecosystem's energy."
+      }
+    },
+    {
+      "id": "ch12_q1272",
+      "topic": "energy-flow-relations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूर्य की ऊर्जा खाद्य-श्रृंखला में सबसे पहले किसके द्वारा भोजन में बाँधी जाती है?",
+        "en": "By whom is the sun's energy first bound into food in a food chain?"
+      },
+      "options": {
+        "hi": [
+          "शिकारियों द्वारा",
+          "अपघटकों द्वारा",
+          "मृतभक्षियों द्वारा",
+          "हरे पौधों (निर्माताओं) द्वारा"
+        ],
+        "en": [
+          "By predators",
+          "By decomposers",
+          "By scavengers",
+          "By green plants (producers)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धूप को रोटी में बदलने का एकमात्र कारखाना हरा पौधा है — श्रृंखला की ऊर्जा-प्रवेश-द्वार यही।",
+        "en": "The only factory that turns sunshine into bread is the green plant — the energy-entry-door of the chain."
+      }
+    },
+    {
+      "id": "ch12_q1273",
+      "topic": "energy-flow-relations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खाद्य-श्रृंखला में ऊर्जा किस दिशा में चलती है?",
+        "en": "In which direction does energy travel in a food chain?"
+      },
+      "options": {
+        "hi": [
+          "निर्माता से उपभोक्ताओं की ओर — नीचे से ऊपर",
+          "शिकारी से शिकार की ओर",
+          "उपभोक्ता से निर्माता की ओर",
+          "किसी दिशा में नहीं"
+        ],
+        "en": [
+          "From producers towards consumers — bottom to top",
+          "From predator towards prey",
+          "From consumers towards producers",
+          "In no direction"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "घास से हिरण, हिरण से शेर — ऊर्जा का रास्ता हमेशा खाने से खाने वाले की ओर ऊपर की मंजिलों में चढ़ता है।",
+        "en": "From grass to deer, deer to lion — energy's path always climbs the floors from the eaten to the eater."
+      }
+    },
+    {
+      "id": "ch12_q1274",
+      "topic": "energy-flow-relations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खाद्य-श्रृंखला में 'भोजन' मूल रूप से किसका वाहक है?",
+        "en": "In a food chain, 'food' is basically the carrier of what?"
+      },
+      "options": {
+        "hi": [
+          "सुगंध का",
+          "ऊर्जा का",
+          "रंग का",
+          "ध्वनि का"
+        ],
+        "en": [
+          "Of fragrance",
+          "Of energy",
+          "Of colour",
+          "Of sound"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जो भोजन ऊपर जाता है, उसमें ऊर्जा बैठी होती है — श्रृंखला ऊर्जा की आपूर्ति-लाइन है।",
+        "en": "The food that goes up carries energy seated within — the chain is energy's supply-line."
+      }
+    },
+    {
+      "id": "ch12_q1275",
+      "topic": "energy-flow-relations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पारितंत्र में ऊर्जा का अंतिम रूप क्या बनता है — जो वापस काम में नहीं आता?",
+        "en": "What final form does energy take in an ecosystem — which does not come back into use?"
+      },
+      "options": {
+        "hi": [
+          "भोजन",
+          "खनिज",
+          "गर्मी (ऊष्मा)",
+          "प्रकाश"
+        ],
+        "en": [
+          "Food",
+          "Minerals",
+          "Heat",
+          "Light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हर स्तर पर बड़ा हिस्सा गर्मी बनकर हवा में बिखर जाता है — वह गर्मी फिर श्रृंखला में नहीं लौटती।",
+        "en": "At every level a large part scatters into air as heat — that heat does not return to the chain."
+      }
+    },
+    {
+      "id": "ch12_q1276",
+      "topic": "energy-flow-relations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक पोषण-स्तर से अगले स्तर तक पहुँचते समय ऊर्जा की मात्रा का सामान्य रुझान कैसा होता है?",
+        "en": "What is the usual trend of the amount of energy as it passes from one trophic level to the next?"
+      },
+      "options": {
+        "hi": [
+          "बढ़ जाती है",
+          "दोगुनी हो जाती है",
+          "अपरिवर्तित रहती है",
+          "कम हो जाती है"
+        ],
+        "en": [
+          "It increases",
+          "It doubles",
+          "It remains unchanged",
+          "It decreases"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हर मंजिल पर खर्च और बिखराव — ऊपर पहुँचते-पहुँचते बटुआ हल्का होता जाता है।",
+        "en": "Spending and scattering at every floor — the purse keeps getting lighter on the way up."
+      }
+    },
+    {
+      "id": "ch12_q1277",
+      "topic": "energy-flow-relations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्या ऊर्जा श्रृंखला में शेर से घास की ओर लौट सकती है?",
+        "en": "Can energy in a chain return from the lion towards the grass?"
+      },
+      "options": {
+        "hi": [
+          "नहीं — प्रवाह एकमुखी है",
+          "हाँ, रोज़ लौटती है",
+          "हाँ, सर्दियों में",
+          "हाँ, अपघटक वापस भेजते हैं"
+        ],
+        "en": [
+          "No — the flow is one-way",
+          "Yes, it returns daily",
+          "Yes, in winters",
+          "Yes, decomposers send it back"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊर्जा का प्रवाह नल की तरह नहीं, नदी की तरह है — बहती है आगे, लौटती नहीं।",
+        "en": "Energy's flow is not like a tap but like a river — it flows ahead, never back."
+      }
+    },
+    {
+      "id": "ch12_q1278",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊर्जा-स्थानांतरण का 10 प्रतिशत नियम क्या कहता है?",
+        "en": "What does the ten percent law of energy transfer say?"
+      },
+      "options": {
+        "hi": [
+          "10% ऊर्जा हर स्तर पर बनती है",
+          "एक स्तर की ऊर्जा का लगभग 10% ही अगले स्तर तक पहुँचता है",
+          "10% ऊर्जा मिट्टी में चली जाती है",
+          "10% ऊर्जा शिकारी छोड़ देता है"
+        ],
+        "en": [
+          "10% energy is created at every level",
+          "Only about 10% of a level's energy reaches the next level",
+          "10% of energy goes into the soil",
+          "The predator leaves 10% energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घास की सौ इकाइयों में से हिरण तक दस, हिरण की दस में से शेर तक एक — हर मंजिल पर 90% खर्च-बिखर जाता है।",
+        "en": "Of a hundred units of grass, ten reach the deer; of the deer's ten, one reaches the lion — at every floor 90% is spent-scattered."
+      }
+    },
+    {
+      "id": "ch12_q1279",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1000 किलो घास से चलने वाली श्रृंखला में 10% नियम से शेर-स्तर तक पहुँचने वाली ऊर्जा-मात्रा लगभग कितनी होगी?",
+        "en": "In a chain starting from 1000 kg of grass, by the 10% law roughly what amount of energy reaches the lion level?"
+      },
+      "options": {
+        "hi": [
+          "लगभग 1000 किलो-तुल्य",
+          "लगभग 100 किलो-तुल्य",
+          "लगभग 10 किलो-तुल्य",
+          "लगभग 500 किलो-तुल्य"
+        ],
+        "en": [
+          "About 1000 kg-equivalent",
+          "About 100 kg-equivalent",
+          "About 10 kg-equivalent",
+          "About 500 kg-equivalent"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1000 → हिरण पर 100 → शेर पर 10 — दो मंजिलों की चढ़ाई में सौगुना घटाव।",
+        "en": "1000 → 100 at the deer → 10 at the lion — a hundredfold cut in the climb of two floors."
+      }
+    },
+    {
+      "id": "ch12_q1280",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खाद्य-श्रृंखलाएँ प्रायः 4–5 स्तरों से अधिक लंबी क्यों नहीं होतीं?",
+        "en": "Why are food chains usually not longer than 4–5 levels?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि जीव थक जाते हैं",
+          "क्योंकि श्रृंखला टूट जाती है",
+          "क्योंकि सूर्य रात में नहीं निकलता",
+          "हर स्तर पर ऊर्जा घटती जाती है — अंतिम स्तरों तक जीवित रहने लायक बचती ही नहीं"
+        ],
+        "en": [
+          "Because organisms get tired",
+          "Because the chain breaks",
+          "Because the sun does not rise at night",
+          "Energy keeps falling at every level — nothing survival-worthy remains for the last levels"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जिस मंजिल पर भोजन की कमाई खर्च से कम पड़े, वहाँ कोई किरायेदार टिक नहीं पाता — ऊर्जा-घाटा ही श्रृंखला की लंबाई की सीमा है।",
+        "en": "On the floor where food's earning falls below the expense, no tenant can stay — the energy-deficit is the very limit of the chain's length."
+      }
+    },
+    {
+      "id": "ch12_q1281",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्रृंखला में सर्वाधिक ऊर्जा किस स्तर पर उपलब्ध रहती है?",
+        "en": "At which level does the maximum energy remain available in the chain?"
+      },
+      "options": {
+        "hi": [
+          "निर्माताओं के स्तर पर",
+          "शीर्ष शिकारी पर",
+          "दूसरे उपभोक्ता पर",
+          "अपघटकों पर"
+        ],
+        "en": [
+          "At the producers' level",
+          "At the top predator",
+          "At the second consumer",
+          "At the decomposers"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सबसे नीचे की मंजिल पर भंडार भरा — जितनी ऊँची मंजिल, उतना छोटा बटुआ।",
+        "en": "The store is full on the lowest floor — the higher the floor, the smaller the purse."
+      }
+    },
+    {
+      "id": "ch12_q1282",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक स्तर से दूसरे स्तर पर ऊर्जा का बड़ा हिस्सा कहाँ खर्च-बिखर जाता है?",
+        "en": "Where does the major share of energy get spent-scattered in passing from one level to another?"
+      },
+      "options": {
+        "hi": [
+          "हवा में रंग बनने में",
+          "जीव की जीवन-क्रियाओं में और गर्मी के रूप में वातावरण में",
+          "मिट्टी में दफन होने में",
+          "अंडों में संचित होने में"
+        ],
+        "en": [
+          "In turning into colour in the air",
+          "In the organism's life-processes and as heat into the surroundings",
+          "In getting buried in the soil",
+          "In being stored in eggs"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दौड़ना, पचाना, साँस लेना — हर काम का बिल ऊर्जा से चुकता होता है; बची ऊर्जा गर्मी बनकर हवा हो जाती है।",
+        "en": "Running, digesting, breathing — every task's bill is paid in energy; the leftover turns to heat and becomes air."
+      }
+    },
+    {
+      "id": "ch12_q1283",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'ऊर्जा-पिरामिड' का आकार नीचे चौड़ा और ऊपर संकरा क्यों होता है?",
+        "en": "Why is the shape of the 'energy pyramid' broad at the base and narrow at the top?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि ऊपर हवा तेज़ होती है",
+          "क्योंकि पिरामिड सुंदर लगता है",
+          "हर ऊपरी स्तर को कम ऊर्जा मिलती है — ढेर नीचे से ऊपर छोटा होता जाता है",
+          "क्योंकि नीचे के जीव मोटे होते हैं"
+        ],
+        "en": [
+          "Because the wind is strong above",
+          "Because a pyramid looks beautiful",
+          "Every upper level receives less energy — the pile keeps shrinking from bottom to top",
+          "Because the lower organisms are fat"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सौ की नींव पर दस की मंजिल, दस पर एक का कमरा — ऊर्जा-क्षरण की गिनती पिरामिड की बनावट में सही झलकती है।",
+        "en": "A floor of ten on a base of hundred, a room of one on ten — the count of energy-loss reflects truly in the pyramid's build."
+      }
+    },
+    {
+      "id": "ch12_q1284",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊपर के पोषण-स्तरों पर जैव-द्रव्य (biomass) की मात्रा का रुझान कैसा रहता है?",
+        "en": "What is the trend of the amount of biomass at the upper trophic levels?"
+      },
+      "options": {
+        "hi": [
+          "क्रमशः बढ़ता रहता है",
+          "समान रहता है",
+          "पहले बढ़ता फिर घटता है",
+          "क्रमशः घटता रहता है"
+        ],
+        "en": [
+          "It keeps increasing",
+          "It stays equal",
+          "It first rises then falls",
+          "It keeps decreasing progressively"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊर्जा जिधर घटे, वजन उधर घटे — कम ऊर्जा वाली मंजिल पर कम माल ढुलता है।",
+        "en": "Wherever energy falls, weight falls — less goods get unloaded on a low-energy floor."
+      }
+    },
+    {
+      "id": "ch12_q1285",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊर्जा पारितंत्र में 'प्रवाहित' होती है जबकि पोषक तत्व 'चक्रित' — दोनों की तुलना का सार क्या है?",
+        "en": "Energy 'flows' in an ecosystem while nutrients 'cycle' — what is the essence of the comparison?"
+      },
+      "options": {
+        "hi": [
+          "ऊर्जा एक बार गुजरकर गर्मी बन जाती है; पोषक बार-बार घूमते रहते हैं",
+          "दोनों बार-बार घूमते हैं",
+          "दोनों एक ही बार गुजरते हैं",
+          "ऊर्जा घूमती है, पोषक गुजरते हैं"
+        ],
+        "en": [
+          "Energy passes once and turns into heat; nutrients go round and round again",
+          "Both circle repeatedly",
+          "Both pass only once",
+          "Energy circles, nutrients pass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊर्जा टिकट-यात्री है — एक सफर, फिर गर्मी में विलय; पोषक स्थायी नागरिक — जन्म-मृत्यु के चक्र में सदा घर-घर।",
+        "en": "Energy is a ticketed passenger — one journey, then a merger into heat; nutrients are permanent citizens — ever circulating house to house in the cycle of birth-death."
+      }
+    },
+    {
+      "id": "ch12_q1286",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अपघटकों की ऊर्जा-प्राप्ति का स्रोत क्या है?",
+        "en": "What is the source of decomposers' energy gain?"
+      },
+      "options": {
+        "hi": [
+          "जीवित शाकाहारी",
+          "हर पोषण-स्तर के मृत-अवशेष और अपशिष्ट",
+          "केवल शीर्ष शिकारी का शिकार",
+          "सूर्य का सीधा प्रकाश"
+        ],
+        "en": [
+          "Living herbivores",
+          "The dead-remains and waste of every trophic level",
+          "Only the top predator's hunt",
+          "The sun's direct light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अपघटक ऊर्जा-बही के बाहरी पन्नों से नहीं, हर पंने के मार्जिन से खाते हैं — हर स्तर का बचा-खुचा उन्हीं की रोटी।",
+        "en": "Decomposers feed not from outside pages of the energy-ledger but from the margin of every page — every level's leftovers are their bread."
+      }
+    },
+    {
+      "id": "ch12_q1287",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मनुष्य शाकाहार से अधिक लोगों का पेट क्यों पाल सकता है — मांसाहार की तुलना में?",
+        "en": "Why can man feed more stomachs from vegetarian food — compared to non-vegetarian?"
+      },
+      "options": {
+        "hi": [
+          "मांस में ऊर्जा होती ही नहीं",
+          "शाकाहार से बीमारी नहीं होती",
+          "निम्न स्तर से भोजन लेने पर ऊर्जा-हानि की मंजिलें कम लगती हैं",
+          "शाकाहार में स्वाद कम होता है"
+        ],
+        "en": [
+          "Meat has no energy",
+          "Vegetarian food causes no disease",
+          "Taking food from a lower level, fewer floors of energy-loss are paid",
+          "Vegetarian food has less taste"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अनाज सीधे निर्माता से — एक मंजिल का टोल; अनाज→गाय→इंसान — दो मंजिल का टोल; जितनी कम मंजिलें, उतनी ज्यादा थालियाँ।",
+        "en": "Grain straight from the producer — one floor's toll; grain→cow→man — two floors' toll; the fewer the floors, the more the plates."
+      }
+    },
+    {
+      "id": "ch12_q1288",
+      "topic": "energy-flow-relations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊर्जा का गर्मी में बिखर जाना किस स्तर पर होता है?",
+        "en": "At which level does energy's scattering into heat occur?"
+      },
+      "options": {
+        "hi": [
+          "केवल निर्माताओं पर",
+          "केवल शीर्ष शिकारी पर",
+          "कहीं नहीं होता",
+          "हर पोषण-स्तर पर — जीवन-क्रियाओं के दौरान"
+        ],
+        "en": [
+          "Only at the producers",
+          "Only at the top predator",
+          "It happens nowhere",
+          "At every trophic level — during life-processes"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हर जीव हर पल ऊर्जा जलाता है — गर्मी का रास्ता हर मंजिल की खिड़की से खुला है।",
+        "en": "Every being burns energy every moment — the path of heat stays open through every floor's window."
+      }
+    },
+    {
+      "id": "ch12_q1289",
+      "topic": "energy-flow-relations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ऊर्जा को 'पुनर्चक्रित' क्यों नहीं किया जा सकता — पोषकों की तरह?",
+        "en": "Why can energy not be 'recycled' — like nutrients?"
+      },
+      "options": {
+        "hi": [
+          "ऊर्जा हर उपयोग में अंततः गर्मी बनकर बिखर जाती है — पारितंत्र उसे फिर भोजन में नहीं बाँध सकता",
+          "क्योंकि ऊर्जा हल्की होती है",
+          "क्योंकि अपघटक आलसी होते हैं",
+          "क्योंकि सूर्य रात में ऊर्जा ले जाता है"
+        ],
+        "en": [
+          "Energy in every use finally scatters as heat — the ecosystem cannot bind it back into food",
+          "Because energy is light",
+          "Because decomposers are lazy",
+          "Because the sun takes energy away at night"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पोषक ईंट हैं — गिरें तो फिर इमारत में चढ़ती हैं; ऊर्जा बालू-घड़ी का बीच है — गिरा तो गिरा, बाँधा नहीं जाता।",
+        "en": "Nutrients are bricks — fallen, they climb back into the building; energy is the sand of the hourglass — once fallen, it cannot be bound again."
+      }
+    },
+    {
+      "id": "ch12_q1290",
+      "topic": "energy-flow-relations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "संख्या-पिरामिड कभी-कभी उल्टा दिखता है (एक पेड़ पर हजार कीट), पर ऊर्जा-पिरामिड कभी उल्टा क्यों नहीं होता?",
+        "en": "The pyramid of numbers sometimes looks inverted (a thousand insects on one tree), but why is the energy pyramid never inverted?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि पेड़ छोटे जीवों से ऊर्जा लेते हैं",
+          "ऊर्जा हर स्तर पर अनिवार्य रूप से घटती है — संख्या छल सकती है, ऊर्जा नहीं",
+          "क्योंकि ऊर्जा गिनी नहीं जा सकती",
+          "क्योंकि कीट ऊर्जा खाते ही नहीं"
+        ],
+        "en": [
+          "Because trees take energy from small beings",
+          "Energy necessarily falls at every level — numbers can deceive, energy cannot",
+          "Because energy cannot be counted",
+          "Because insects do not eat energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक बड़े पेड़ की एक ही देह पर हजार छोटे मुँह — संख्या उल्टी दिखे; पर पेड़ की कुल ऊर्जा-पकड़ हजार कीटों से कई गुना बड़ी — ऊर्जा की तुला कभी झूठ नहीं बोलती।",
+        "en": "A thousand tiny mouths on the single body of one big tree — numbers may look inverted; but the tree's total energy-hold is many times the thousand insects — the scale of energy never lies."
+      }
+    },
+    {
+      "id": "ch12_q1291",
+      "topic": "natural-resources-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'प्राकृतिक संसाधन' किसे कहते हैं?",
+        "en": "What are called 'natural resources'?"
+      },
+      "options": {
+        "hi": [
+          "बाजार से खरीदा माल",
+          "केवल सोने के गहने",
+          "प्रकृति से बिना मानव-प्रयास के प्राप्त उपयोगी चीजें — जल, वायु, मिट्टी, वन, खनिज",
+          "मनुष्य की बनाई मशीनें"
+        ],
+        "en": [
+          "Goods bought from the market",
+          "Only gold ornaments",
+          "Useful things obtained from nature without human effort — water, air, soil, forests, minerals",
+          "Machines made by man"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हवा से लेकर कोयले तक — जो प्रकृति ने अपनी मर्ज़ी से दिया, वही प्राकृतिक संसाधन।",
+        "en": "From air to coal — whatever nature gave by its own will, that is a natural resource."
+      }
+    },
+    {
+      "id": "ch12_q1292",
+      "topic": "natural-resources-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'नवीकरणीय संसाधन' का अर्थ क्या है?",
+        "en": "What is the meaning of 'renewable resources'?"
+      },
+      "options": {
+        "hi": [
+          "जो कभी दोबारा नहीं बनते",
+          "जो केवल रात में बनते हैं",
+          "जो केवल शहरों में मिलते हैं",
+          "जो प्रकृति में लगातार फिर बनते रहते हैं"
+        ],
+        "en": [
+          "Those that never form again",
+          "Those that form only at night",
+          "Those found only in cities",
+          "Those that keep forming again continuously in nature"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लकीर की दीवार नहीं — बहता झरना; जो खर्च हो और फिर भरे, वही नवीकरणीय।",
+        "en": "Not a line drawn on stone but a flowing spring — what gets spent and refills is renewable."
+      }
+    },
+    {
+      "id": "ch12_q1293",
+      "topic": "natural-resources-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'अनवीकरणीय संसाधन' से क्या समझते हैं?",
+        "en": "What is understood by 'non-renewable resources'?"
+      },
+      "options": {
+        "hi": [
+          "जिनके बनने में लाखों वर्ष लगते हैं और दोबारा मानव-समय में नहीं बनते",
+          "जो एक हफ्ते में बनते हैं",
+          "जो अनंत हैं",
+          "जो सिर्फ बरसात में मिलते हैं"
+        ],
+        "en": [
+          "Those that take millions of years to form and do not reform within human time",
+          "Those that form in a week",
+          "Those that are infinite",
+          "Those found only in the rains"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कोयला-पेट्रोल पृथ्वी की गहरी बचत है — एक बार उठाई तो दोबारा जमा होने में युग लगेंगे।",
+        "en": "Coal-petrol are the earth's deep savings — once withdrawn, ages will pass before the deposit refills."
+      }
+    },
+    {
+      "id": "ch12_q1294",
+      "topic": "natural-resources-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कोयला और पेट्रोलियम किस श्रेणी के संसाधन हैं?",
+        "en": "Coal and petroleum are resources of which category?"
+      },
+      "options": {
+        "hi": [
+          "मानव-निर्मित",
+          "अनवीकरणीय — जीवाश्म ईंधन",
+          "नवीकरणीय",
+          "असीमित"
+        ],
+        "en": [
+          "Man-made",
+          "Non-renewable — fossil fuels",
+          "Renewable",
+          "Unlimited"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "करोड़ों वर्ष पुराने जीव-वनों की देह से बने ये ईंधन — इतिहास की जमा-पूँजी, ब्याज नहीं।",
+        "en": "These fuels formed from the bodies of organism-forests crores of years old — history's fixed deposit, not interest."
+      }
+    },
+    {
+      "id": "ch12_q1295",
+      "topic": "natural-resources-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सौर-ऊर्जा और पवन-ऊर्जा किस वर्ग में रखी जाती हैं?",
+        "en": "In which class are solar energy and wind energy placed?"
+      },
+      "options": {
+        "hi": [
+          "जीवाश्म",
+          "कृत्रिम",
+          "नवीकरणीय/अक्षय ऊर्जा",
+          "अनवीकरणीय"
+        ],
+        "en": [
+          "Fossil",
+          "Artificial",
+          "Renewable/inexhaustible energy",
+          "Non-renewable"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सूर्य रोज़ उदय होता है, हवा रोज़ बहती है — इनका खजाना खर्च से घटता नहीं।",
+        "en": "The sun rises daily, the wind blows daily — their treasure does not shrink by spending."
+      }
+    },
+    {
+      "id": "ch12_q1296",
+      "topic": "natural-resources-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मिठास वाला उपयोगी जल — नदियों-झीलों का जल — कुल जल की तुलना में कैसा है?",
+        "en": "Useful sweet water — the water of rivers-lakes — compared to total water is how?"
+      },
+      "options": {
+        "hi": [
+          "आधा भाग",
+          "लगभग पूरा",
+          "एक तिहाई",
+          "बहुत छोटा अंश"
+        ],
+        "en": [
+          "Half",
+          "Almost all",
+          "One third",
+          "A very small fraction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धरती का ज्यादातर जल खारा सागरीय — पीने-सिंचने लायक मीठे जल का हिस्सा बूँद-भर ही है, इसीलिए बचत जरूरी।",
+        "en": "Most of the earth's water is salty sea — the share of sweet water fit for drinking-irrigation is but a drop, hence saving is a must."
+      }
+    },
+    {
+      "id": "ch12_q1297",
+      "topic": "natural-resources-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल-चक्र पृथ्वी पर जल को किस रूप में रखता है?",
+        "en": "The water cycle keeps the earth's water in what state?"
+      },
+      "options": {
+        "hi": [
+          "निरंतर नवीनीकरण की स्थिति में",
+          "एक ही जगह जमा",
+          "केवल बर्फ में",
+          "केवल बादलों में"
+        ],
+        "en": [
+          "In a state of continuous renewal",
+          "Frozen in one place",
+          "Only in ice",
+          "Only in clouds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समुद्र से भाप, भाप से बादल, बादल से बरसात, बरसात से नदी — जल बदलते-बदलते हमेशा ताज़ा रहता है।",
+        "en": "Vapour from the sea, cloud from vapour, rain from cloud, river from rain — changing and changing, water stays ever fresh."
+      }
+    },
+    {
+      "id": "ch12_q1298",
+      "topic": "natural-resources-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वर्षा का जल जमीन में रिसकर कहाँ पहुँचता है?",
+        "en": "Where does rainwater reach after seeping into the ground?"
+      },
+      "options": {
+        "hi": [
+          "कहीं नहीं",
+          "भूजल (भूमिगत जल-भंडार) में",
+          "सीधे सूर्य में",
+          "केवल पत्तों पर"
+        ],
+        "en": [
+          "Nowhere",
+          "Into groundwater (the underground water-store)",
+          "Straight into the sun",
+          "Only on leaves"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रिसा हुआ जल धरती के नीचे की नम-तह में जमा होता है — कुएँ-नलकूप उसी की पाइपलाइन हैं।",
+        "en": "The seeped water collects in the moist layer beneath the earth — wells and tubewells are its pipeline."
+      }
+    },
+    {
+      "id": "ch12_q1299",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल-चक्र के अंदर आने वाली प्रक्रियाओं का सही क्रम कौन-सा है?",
+        "en": "Which is the correct order of the processes that occur within the water cycle?"
+      },
+      "options": {
+        "hi": [
+          "संघनन → वाष्पीकरण → वर्षा",
+          "प्रवाह → बादल → गर्मी",
+          "वाष्पीकरण → संघनन → वर्षा → प्रवाह/रिसाव",
+          "वर्षा → वाष्पीकरण → संघनन"
+        ],
+        "en": [
+          "Condensation → evaporation → rainfall",
+          "Flow → cloud → heat",
+          "Evaporation → condensation → rainfall → flow/seepage",
+          "Rainfall → evaporation → condensation"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सूरज ने खींचा, ऊपर ठंड ने भींचा, बादल फटे, जल नीचे उतरा — चक्र की सीढ़ियाँ इसी क्रम में चढ़ती-उतरती हैं।",
+        "en": "The sun drew it up, the cold above squeezed it, the clouds burst, the water descended — the cycle's stairs rise-fall in this very order."
+      }
+    },
+    {
+      "id": "ch12_q1300",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वर्षा-जल संचयन (rainwater harvesting) का मुख्य उद्देश्य क्या है?",
+        "en": "What is the main aim of rainwater harvesting?"
+      },
+      "options": {
+        "hi": [
+          "बारिश रोकना",
+          "नदियाँ सुखाना",
+          "छतों पर खेती करना",
+          "बहते वर्षा-जल को रोककर भूजल का पुनर्भरण/संग्रह करना"
+        ],
+        "en": [
+          "To stop the rain",
+          "To dry the rivers",
+          "To farm on rooftops",
+          "Stopping the flowing rainwater to recharge/store groundwater"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जो बूँद नाली से बहकर समुद्र जाती, उसे घर के नीचे खाते में जमा करना — यही संचयन की कला।",
+        "en": "The drop that would flow down the drain to the sea — depositing it in the account beneath the home is the art of harvesting."
+      }
+    },
+    {
+      "id": "ch12_q1301",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी क्षेत्र में भूजल का अति-दोहन (overuse) होने पर सबसे पहला दृश्य परिणाम क्या दिखता है?",
+        "en": "What is the first visible result when groundwater is over-drawn in an area?"
+      },
+      "options": {
+        "hi": [
+          "कुएँ-बोरिंग का जल-स्तर गिर जाना",
+          "बाढ़ आना",
+          "वर्षा दोगुनी होना",
+          "नदियाँ फैल जाना"
+        ],
+        "en": [
+          "The water level of wells-borings falls",
+          "Floods arrive",
+          "Rainfall doubles",
+          "Rivers spread out"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खाते से निकासी जमा से तेज़ — पहले ब्याज गिरता है, फिर मूल; गिरता जल-स्तर ही चेतावनी का पहला घंटा।",
+        "en": "Withdrawal from the account faster than deposit — first the interest falls, then the principal; the sinking water-level is the alarm's first bell."
+      }
+    },
+    {
+      "id": "ch12_q1302",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बाँध बनाने के लाभ और मूल्य — दोनों की सही पहचान वाला कथन कौन-सा है?",
+        "en": "Which statement rightly identifies both the benefit and the cost of building dams?"
+      },
+      "options": {
+        "hi": [
+          "न लाभ न मूल्य",
+          "जल-भंडारण-सिंचाई-विद्युत का लाभ, पर विस्थापन-पारिस्थितिक-क्षति का मूल्य भी",
+          "केवल लाभ, कोई मूल्य नहीं",
+          "केवल मूल्य, कोई लाभ नहीं"
+        ],
+        "en": [
+          "Neither benefit nor cost",
+          "The benefit of water-storage-irrigation-power, but also the cost of displacement-ecological damage",
+          "Only benefit, no cost",
+          "Only cost, no benefit"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बाँध दोधारी औज़ार है — एक धार में फसल-बिजली, दूसरी में उजड़े गाँव-डूबे वन; सोच-समझकर चलाना ही समझदारी।",
+        "en": "A dam is a double-edged tool — one edge bears crop-electricity, the other uprooted villages-drowned forests; running it thoughtfully is the wisdom."
+      }
+    },
+    {
+      "id": "ch12_q1303",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वनों की अति-कटाई (deforestation) के बहुपक्षीय परिणामों में कौन-सा समूह सही है?",
+        "en": "Which group is correct among the many-sided results of deforestation?"
+      },
+      "options": {
+        "hi": [
+          "केवल लकड़ी की कीमत बढ़ना",
+          "कोई परिणाम नहीं",
+          "मिट्टी-क्षरण, बाढ़-सूखा की बढ़ती आवृत्ति, वर्षा-पैटर्न का बिगड़ना, वन्य-जीव आवास का विनाश",
+          "केवल सुंदरता में कमी"
+        ],
+        "en": [
+          "Only a rise in timber price",
+          "No results",
+          "Soil erosion, rising frequency of floods-droughts, disturbed rainfall pattern, destruction of wildlife habitat",
+          "Only a decline in beauty"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पेड़ जाते हैं तो जड़ें भी जाती हैं, छाया भी, आर्द्रता भी, घर भी — कटाई का बिल कई मोर्चों पर भरता है।",
+        "en": "When trees go, the roots too go, the shade too, the moisture too, the homes too — the bill of felling is paid on many fronts."
+      }
+    },
+    {
+      "id": "ch12_q1304",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'वनरोपण' (afforestation) से क्या तात्पर्य है?",
+        "en": "What is meant by 'afforestation'?"
+      },
+      "options": {
+        "hi": [
+          "पुराने जंगल काटना",
+          "जंगल में घर बनाना",
+          "जंगल को बेचना",
+          "कटे/बियाबान क्षेत्रों में नए पेड़ रोपकर वन फिर से खड़े करना"
+        ],
+        "en": [
+          "Cutting old forests",
+          "Building houses in forests",
+          "Selling forests",
+          "Raising forests anew by planting new trees in cut/waste areas"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जो मंज़िर गिरी, उसी जगह नई ईंट — वनरोपण ऋण चुकाने की किश्त है, प्रकृति के खाते में जमा।",
+        "en": "A new brick where the old one fell — afforestation is an instalment of debt-repayment, a deposit in nature's account."
+      }
+    },
+    {
+      "id": "ch12_q1305",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वन प्राकृतिक संसाधनों की सूची में 'बहु-कार्य' क्यों कहलाते हैं?",
+        "en": "Why are forests called 'multi-function' in the list of natural resources?"
+      },
+      "options": {
+        "hi": [
+          "वर्षा-अनुकूल जलवायु, जल-रिसाव-रोक, मिट्टी-संरक्षण, वन्य-आवास, लकड़ी-ईंधन — सब एक साथ",
+          "वे केवल लकड़ी देते हैं",
+          "वे केवल छाया देते हैं",
+          "वे कोई काम नहीं करते"
+        ],
+        "en": [
+          "Rain-friendly climate, checking water-runoff, soil conservation, wildlife habitat, timber-fuel — all together",
+          "They only give timber",
+          "They only give shade",
+          "They do no work"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक ही पेड़ सौ दफ़्तरों का कर्मचारी — जल, मिट्टी, जलवायु, जीव, अर्थ — हर विभाग में उसकी ड्यूटी।",
+        "en": "A single tree is the employee of a hundred offices — water, soil, climate, beings, economy — its duty lies in every department."
+      }
+    },
+    {
+      "id": "ch12_q1306",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मिट्टी-क्षरण (soil erosion) के प्रमुख कारणों में कौन-से गिने जाते हैं?",
+        "en": "Which are counted among the chief causes of soil erosion?"
+      },
+      "options": {
+        "hi": [
+          "केवल सर्दी पड़ना",
+          "वन-निर्माण और अतिचारण",
+          "केवल बारिश होना",
+          "केवल हवा चलना"
+        ],
+        "en": [
+          "Only the onset of winter",
+          "Deforestation and overgrazing",
+          "Only the falling of rain",
+          "Only the blowing of wind"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ढकने वाली हरियाली हटी, तो बारिश-हवा ने उधेड़ना शुरू कर दिया — खुली मिट्टी ही बहती है।",
+        "en": "Once the covering greenery left, rain-wind began plucking — only uncovered soil flows away."
+      }
+    },
+    {
+      "id": "ch12_q1307",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मिट्टी की उर्वरता की रक्षा का सबसे स्वाभाविक तरीका क्या है?",
+        "en": "What is the most natural way of protecting soil fertility?"
+      },
+      "options": {
+        "hi": [
+          "खेत कंक्रीट कर देना",
+          "मिट्टी जलाना",
+          "भूमि पर वनस्पति-आवरण बनाए रखना और अतिचारण रोकना",
+          "मिट्टी को बोरों में भरना"
+        ],
+        "en": [
+          "Concreting the field",
+          "Burning the soil",
+          "Keeping a vegetal cover on the land and stopping overgrazing",
+          "Filling the soil in bags"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जड़ें जाल बुनती हैं, पत्तियाँ चादर ओढ़ाती हैं — ढकी मिट्टी ही तैयार मिट्टी रहती है।",
+        "en": "Roots weave the net, leaves spread the sheet — only covered soil stays composed."
+      }
+    },
+    {
+      "id": "ch12_q1308",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीवाश्म-ईंधन (कोयला, पेट्रोल) सीमित होने के साथ-साथ और किस दोष के साथ जुड़े हैं?",
+        "en": "Along with being limited, with what other fault are fossil fuels (coal, petrol) linked?"
+      },
+      "options": {
+        "hi": [
+          "जलने पर बारिश",
+          "जलने पर फसल",
+          "जलने पर छाया",
+          "जलने पर वायु-प्रदूषण"
+        ],
+        "en": [
+          "Rain on burning",
+          "Crop on burning",
+          "Shade on burning",
+          "Air pollution on burning"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक ही थैली में दो काँटे — भंडार खत्म होगा और जलते हुए धुआँ आज भी फेफड़ों पर चढ़ रहा है।",
+        "en": "Two thorns in one pouch — the store will end, and the burning smoke is even now climbing onto lungs."
+      }
+    },
+    {
+      "id": "ch12_q1309",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सौर-ऊर्जा और पवन-ऊर्जा को 'विकल्प' क्यों कहा जाता है?",
+        "en": "Why are solar energy and wind energy called 'alternatives'?"
+      },
+      "options": {
+        "hi": [
+          "जीवाश्म-ईंधन के प्रदूषण-रहित, अखर्चनीय विकल्प के रूप में",
+          "क्योंकि वे महँगी हैं",
+          "क्योंकि वे रात में काम नहीं करतीं",
+          "क्योंकि वे नई नहीं हैं"
+        ],
+        "en": [
+          "As pollution-free, inexhaustible alternatives to fossil fuels",
+          "Because they are costly",
+          "Because they do not work at night",
+          "Because they are not new"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धुएँ वाली सवारी की जगह हवा-धूप की सवारी — टिकट नहीं चाहिए, सफर अनंत।",
+        "en": "In place of the smoky ride, the ride of wind-sunshine — no ticket needed, the journey endless."
+      }
+    },
+    {
+      "id": "ch12_q1310",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नाइट्रोजन-चक्र में वायु की नाइट्रोजन पौधों तक किस क्रम से पहुँचती है?",
+        "en": "In the nitrogen cycle, in what order does the air's nitrogen reach the plants?"
+      },
+      "options": {
+        "hi": [
+          "मिट्टी → वायु → बादल",
+          "वायु → स्थिरीकरण (मिट्टी/जड़ों में) → पौधे → जंतु → मृत्यु-अपघटन → वापस वायु",
+          "वायु → सीधे जंतु → पौधे",
+          "पौधे → वायु → मिट्टी"
+        ],
+        "en": [
+          "Soil → air → clouds",
+          "Air → fixation (in soil/roots) → plants → animals → death-decay → back to air",
+          "Air → directly animals → plants",
+          "Plants → air → soil"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वायु की कड़ी नाइट्रोजन को जड़ें-मिट्टी पकड़ती हैं, पौधा भोजन बनाता है, जंतु खाते हैं, मृत शरीर गलते हैं और जीवाणु उसे फिर हवा में छोड़ देते हैं।",
+        "en": "The roots-soil catch the air's linked nitrogen, the plant makes food, animals eat, dead bodies decay and bacteria release it back to the air."
+      }
+    },
+    {
+      "id": "ch12_q1311",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कार्बन-चक्र में 'दहन' की भूमिका क्या है?",
+        "en": "What is the role of 'burning' in the carbon cycle?"
+      },
+      "options": {
+        "hi": [
+          "जलने से कार्बन बढ़ता है",
+          "जलने का कोई संबंध नहीं",
+          "जीवाश्म/वनों के जलने से जमा कार्बन CO₂ बनकर वायु में लौटता है",
+          "जलने से कार्बन खत्म हो जाता है"
+        ],
+        "en": [
+          "Burning increases carbon",
+          "Burning has no relation",
+          "On the burning of fossils/forests the stored carbon returns to air as CO₂",
+          "Burning finishes carbon"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "करोड़ों वर्ष की तिजोरी एक सदी में खोल दी — दहन कार्बन-चक्र का वह मोड़ है जहाँ जमा अचानक खर्च हो जाती है।",
+        "en": "The treasury of crores of years opened within a century — burning is that turn of the carbon cycle where the deposit is suddenly spent."
+      }
+    },
+    {
+      "id": "ch12_q1312",
+      "topic": "natural-resources-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आज जल की माँग बढ़ती ही जा रही है — इसके प्रमुख कारणों का सही समूह कौन-सा है?",
+        "en": "Today the demand for water keeps rising — which is the correct group of its chief causes?"
+      },
+      "options": {
+        "hi": [
+          "घटती जनसंख्या",
+          "बंद पड़े कारखाने",
+          "कम होती खेती",
+          "बढ़ती जनसंख्या, औद्योगिकीकरण, फैलती कृषि"
+        ],
+        "en": [
+          "Falling population",
+          "Closed factories",
+          "Shrinking farming",
+          "Rising population, industrialisation, spreading agriculture"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक-एक नागरिक, एक-एक कारखाना, एक-एक बीघा — तीनों गिनती में बढ़ते हैं और बाल्टी में से पानी घटता है।",
+        "en": "Each citizen, each factory, each acre — all three grow in count and the water falls from the bucket."
+      }
+    },
+    {
+      "id": "ch12_q1313",
+      "topic": "natural-resources-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'नवीकरणीय संसाधन अक्षय हैं, जितना चाहो खर्चो' — यह कथन कहाँ गलत है?",
+        "en": "Where is the statement 'renewable resources are inexhaustible, spend as you wish' wrong?"
+      },
+      "options": {
+        "hi": [
+          "प्रकृति की पुनर्भरण-दर से तेज़ दोहन पर नवीकरणीय भी क्षय हो जाते हैं",
+          "यह कथन पूरी तरह सही है",
+          "केवल रेगिस्तान में गलत है",
+          "केवल समुद्र में गलत है"
+        ],
+        "en": [
+          "When drawn faster than nature's refill-rate, even renewables deplete",
+          "The statement is fully right",
+          "Wrong only in deserts",
+          "Wrong only in the sea"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भंडार भरता बाल्टी से, खाली होता बाल्टी से — पानी अनंत, बाल्टी नहीं; दोहन की रफ्तार ही अक्षयता तय करती है।",
+        "en": "The store refills bucket by bucket and empties bucket by bucket — the water may be endless, the bucket is not; the pace of draw alone decides inexhaustibility."
+      }
+    },
+    {
+      "id": "ch12_q1314",
+      "topic": "natural-resources-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ऊपरी मिट्टी की परत को 'सदियों की देन' क्यों कहा जाता है?",
+        "en": "Why is the topsoil layer called 'the gift of centuries'?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि उसमें सोना होता है",
+          "चट्टान-जीव-जड़ों के मिलन से यह पतली उपजाऊ परत बनने में बहुत लंबा समय लगता है, पर बहने में कुछ वर्ष",
+          "क्योंकि वह रात में बनती है",
+          "क्योंकि वह केवल पहाड़ों पर होती है"
+        ],
+        "en": [
+          "Because it contains gold",
+          "This thin fertile layer takes very long to form from the meeting of rock-beings-roots, but washes away in a few years",
+          "Because it forms at night",
+          "Because it occurs only on mountains"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक मुट्ठी उपजाऊ मिट्टी के पीछे सैकड़ों बरसों की भूमिका — और एक बाढ़ में सारा लेखा मिट जाना; इसीलिए इसे 'दुर्लभ पूँजी' कहना अत्युक्ति नहीं।",
+        "en": "Behind one fistful of fertile soil lie hundreds of years of groundwork — and one flood can wipe the whole account; calling it 'rare capital' is no exaggeration."
+      }
+    },
+    {
+      "id": "ch12_q1315",
+      "topic": "natural-resources-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'सतत विकास' (sustainable development) की मूल शर्त पीढ़ियों के बीच क्या तय करती है?",
+        "en": "What does the basic condition of 'sustainable development' decide between generations?"
+      },
+      "options": {
+        "hi": [
+          "कल की पीढ़ी अपना इंतज़ाम करे",
+          "संसाधन सिर्फ अमीरों के लिए",
+          "आज का उपयोग ऐसा हो कि आने वाली पीढ़ियों का हक भी बचा रहे",
+          "आज सब खपा लेना, कल देखा जाएगा"
+        ],
+        "en": [
+          "Let tomorrow's generation arrange its own",
+          "Resources only for the rich",
+          "Today's use should be such that the right of coming generations too remains saved",
+          "Consume all today, tomorrow will be seen"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संसाधन पीढ़ी-दर-पीढ़ी चलने वाली विरासत है — सततता का अर्थ है बंटवारे में आने वाले मेहमानों की थाली भी पहले से रख देना।",
+        "en": "Resources are a heritage passing generation to generation — sustainability means setting the plate of the guests-to-come in the division beforehand."
+      }
+    },
+    {
+      "id": "ch12_q1316",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'प्रदूषण' किसे कहते हैं?",
+        "en": "What is called 'pollution'?"
+      },
+      "options": {
+        "hi": [
+          "पर्यावरण की सफाई",
+          "पेड़ लगाना",
+          "जल इकट्ठा करना",
+          "पर्यावरण में अवांछित पदार्थों का मिलकर उसे जीवों के लिए हानिकारक बना देना"
+        ],
+        "en": [
+          "The cleaning of the environment",
+          "Planting trees",
+          "Collecting water",
+          "The mixing of unwanted substances into the environment making it harmful for beings"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जो अपनी जगह नहीं और जितनी मात्रा में नहीं होना चाहिए — पर्यावरण में घुसा वही प्रदूषक।",
+        "en": "What is not in its place and not in the amount it should be — that intruder in the environment is the pollutant."
+      }
+    },
+    {
+      "id": "ch12_q1317",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल-प्रदूषण के सामान्य स्रोतों में कौन-से गिने जाते हैं?",
+        "en": "Which are counted among the common sources of water pollution?"
+      },
+      "options": {
+        "hi": [
+          "घरेलू सीवेज, उद्योग-अपशिष्ट, खाद-कीटनाशक की बहाव",
+          "केवल बारिश",
+          "केवल नदी की गति",
+          "केवल सूरज की रोशनी"
+        ],
+        "en": [
+          "Domestic sewage, industrial waste, the runoff of fertiliser-pesticide",
+          "Only rain",
+          "Only the river's flow",
+          "Only the sun's light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शहर का गंदा जल, कारखाने का जहरीला बहाव और खेतों का रासायनिक बहाव — तीनों मिलकर जल-शरीर बिगाड़ते हैं।",
+        "en": "The city's dirty water, the factory's poisonous discharge and the fields' chemical runoff — all three together spoil the water-body."
+      }
+    },
+    {
+      "id": "ch12_q1318",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शोर से होने वाले प्रदूषण का नाम क्या है?",
+        "en": "What is the name of the pollution caused by loud sound?"
+      },
+      "options": {
+        "hi": [
+          "तापीय-प्रदूषण",
+          "ध्वनि-प्रदूषण",
+          "जल-प्रदूषण",
+          "मृदा-प्रदूषण"
+        ],
+        "en": [
+          "Thermal pollution",
+          "Noise pollution",
+          "Water pollution",
+          "Soil pollution"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कान की सीमा से ऊपर का शोर भी एक प्रदूषक है — नींद, सुनना और मन तीनों पर भारी।",
+        "en": "Sound above the ear's limit too is a pollutant — heavy on sleep, hearing and mind alike."
+      }
+    },
+    {
+      "id": "ch12_q1319",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'ग्रीनहाउस गैसों' में कौन-सी गैस प्रमुखतः गिनी जाती है?",
+        "en": "Which gas is chiefly counted among the 'greenhouse gases'?"
+      },
+      "options": {
+        "hi": [
+          "नाइट्रोजन",
+          "हीलियम",
+          "कार्बन डाइऑक्साइड",
+          "ऑक्सीजन"
+        ],
+        "en": [
+          "Nitrogen",
+          "Helium",
+          "Carbon dioxide",
+          "Oxygen"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जले ईंधन की CO₂ और दूसरी गैसें वायु में गर्मी-जकड़ा चादर बुनती हैं — यही ग्रीनहाउस-परत।",
+        "en": "The burnt fuel's CO₂ and other gases weave a heat-trapping sheet in the air — this very greenhouse-layer."
+      }
+    },
+    {
+      "id": "ch12_q1320",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वैश्विक तापन (global warming) से जुड़ा मुख्य कारण क्या माना जाता है?",
+        "en": "What is considered the main cause linked with global warming?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन का बढ़ना",
+          "वर्षा का घटना",
+          "हवा का तेज़ चलना",
+          "वायुमंडल में ग्रीनहाउस गैसों (जैसे CO₂) का बढ़ना"
+        ],
+        "en": [
+          "The rise of oxygen",
+          "The fall of rainfall",
+          "The blowing of fast wind",
+          "The rise of greenhouse gases (like CO₂) in the atmosphere"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जितनी मोटी गर्म-चादर, उतना ज्यादा भीतर की गर्मी — CO₂ का ढेर धरती की बुखार की चादर है।",
+        "en": "The thicker the warm sheet, the more the heat inside — the pile of CO₂ is the sheet of the earth's fever."
+      }
+    },
+    {
+      "id": "ch12_q1321",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओजोन-परत का प्राकृतिक कार्य क्या है?",
+        "en": "What is the natural function of the ozone layer?"
+      },
+      "options": {
+        "hi": [
+          "सूर्य की हानिकारक पराबैंगनी किरणों को रोकना",
+          "वर्षा बरसाना",
+          "हवा चलाना",
+          "भूकंप रोकना"
+        ],
+        "en": [
+          "To block the sun's harmful ultraviolet rays",
+          "To cause rainfall",
+          "To blow the wind",
+          "To stop earthquakes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सांस के लिए ओजोन नहीं चाहिए, पर सूरज की तेज़-किरण की छाता वही परत तानती है — आसमान का सनस्क्रीन।",
+        "en": "Ozone is not needed for breath, yet that very layer spreads the umbrella against the sun's fierce rays — the sky's sunscreen."
+      }
+    },
+    {
+      "id": "ch12_q1322",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओजोन-परत को नुकसान पहुँचाने वाले रसायन किस नाम से जाने जाते हैं?",
+        "en": "By what name are the chemicals that damage the ozone layer known?"
+      },
+      "options": {
+        "hi": [
+          "जलवाष्प",
+          "CFC (क्लोरोफ्लोरोकार्बन)",
+          "ऑक्सीजन",
+          "नाइट्रोजन"
+        ],
+        "en": [
+          "Water vapour",
+          "CFCs (chlorofluorocarbons)",
+          "Oxygen",
+          "Nitrogen"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रेफ्रिजरेटर-एसी-स्प्रे में छुपे CFC ऊपर चढ़कर ओजोन की ढाल पर छेद करते हैं।",
+        "en": "CFCs hidden in refrigerators-ACs-sprays climb up and bore holes in the ozone shield."
+      }
+    },
+    {
+      "id": "ch12_q1323",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'जैव-अपघटनीय' (biodegradable) पदार्थ किसे कहते हैं?",
+        "en": "What are called 'biodegradable' materials?"
+      },
+      "options": {
+        "hi": [
+          "जो केवल पिघलते हैं",
+          "जो केवल जलते हैं",
+          "जिन्हें सूक्ष्मजीव गलाकर सरल पदार्थों में बदल सकते हैं",
+          "जो कभी नहीं गलते"
+        ],
+        "en": [
+          "Those that only melt",
+          "Those that only burn",
+          "Those that microbes can decay and convert into simple substances",
+          "Those that never decay"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सब्जी-छिलका, कागज, कपड़ा — प्रकृति की रसोई में पच जाने वाली चीज़ें।",
+        "en": "Vegetable-peel, paper, cloth — things that digest in nature's kitchen."
+      }
+    },
+    {
+      "id": "ch12_q1324",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'अजैव-अपघटनीय' (non-biodegradable) किसे कहते हैं?",
+        "en": "What are called 'non-biodegradable'?"
+      },
+      "options": {
+        "hi": [
+          "जो एक दिन में गल जाते हैं",
+          "जो खाने योग्य हैं",
+          "जो पानी में घुल जाते हैं",
+          "जिन्हें सूक्ष्मजीव नहीं गला सकते — जैसे प्लास्टिक"
+        ],
+        "en": [
+          "Those that decay in a day",
+          "Those that are edible",
+          "Those that dissolve in water",
+          "Those that microbes cannot decay — like plastic"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रकृति के पाचक-रस से अछूते ये पदार्थ सदियों जमे रहते हैं — मिट्टी-जल की बेडी पर।",
+        "en": "Untouched by nature's digestive juices, these materials lie piled for ages — on the bed of soil-water."
+      }
+    },
+    {
+      "id": "ch12_q1325",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्लास्टिक की थैली किस श्रेणी में आती है?",
+        "en": "In which category does the plastic bag fall?"
+      },
+      "options": {
+        "hi": [
+          "अजैव-अपघटनीय",
+          "जैव-अपघटनीय",
+          "उर्वरक",
+          "जैव-ईंधन"
+        ],
+        "en": [
+          "Non-biodegradable",
+          "Biodegradable",
+          "A fertiliser",
+          "A biofuel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्लास्टिक को गलाने वाला जीवाणु प्रकृति में नहीं — थैली सड़ती नहीं, सदियों जमा रहती है।",
+        "en": "No plastic-decaying bacterium exists in nature — the bag does not rot, it stays piled for ages."
+      }
+    },
+    {
+      "id": "ch12_q1326",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सब्जी के छिलके और गीले कचरे को किस श्रेणी में रखा जाता है?",
+        "en": "In which category are vegetable peels and wet waste placed?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रॉनिक कचरा",
+          "जैव-अपघटनीय",
+          "अजैव-अपघटनीय",
+          "रेडियोधर्मी"
+        ],
+        "en": [
+          "Electronic waste",
+          "Biodegradable",
+          "Non-biodegradable",
+          "Radioactive"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गीला-जैविक कचरा शीघ्र गलकर खाद का कच्चा माल बनता है — प्रकृति की रसोई का राशन।",
+        "en": "Wet-organic waste soon decays into raw material of compost — the ration of nature's kitchen."
+      }
+    },
+    {
+      "id": "ch12_q1327",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धुएँ और कोहरे के मिले रूप को क्या कहते हैं?",
+        "en": "What is the combined form of smoke and fog called?"
+      },
+      "options": {
+        "hi": [
+          "अम्ल-वर्षा",
+          "साइक्लोन",
+          "धुंध (स्मॉग)",
+          "ओजोन"
+        ],
+        "en": [
+          "Acid rain",
+          "A cyclone",
+          "Smog",
+          "Ozone"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "smoke + fog = smog — सर्दियों के शहर में जहरीली धुंध की दीवार यही बनती है।",
+        "en": "smoke + fog = smog — the wall of poisonous haze in the winter city is formed of this very thing."
+      }
+    },
+    {
+      "id": "ch12_q1328",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वाहनों और कारखानों की गैसों से बनी 'अम्ल-वर्षा' का कारण-युग्म क्या है?",
+        "en": "What is the cause-pair of 'acid rain' formed from the gases of vehicles and factories?"
+      },
+      "options": {
+        "hi": [
+          "ऑक्सीजन और हीलियम",
+          "नाइट्रोजन और आर्गन",
+          "जलवाष्प और धूल",
+          "सल्फर और नाइट्रोजन के ऑक्साइड हवा में घुलकर बारिश के पानी को अम्लीय बनाना"
+        ],
+        "en": [
+          "Oxygen and helium",
+          "Nitrogen and argon",
+          "Water vapour and dust",
+          "Oxides of sulphur and nitrogen dissolving in air and turning rainwater acidic"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चिमनी-नली की गैसें बादल के पानी में घुलकर उसे खट्टा कर देती हैं — वही अम्लीय बूँदें फसल-इमारत-जल को खाती हैं।",
+        "en": "The chimney-pipe gases dissolve into the cloud's water and sour it — those very acidic drops eat into crop-building-water."
+      }
+    },
+    {
+      "id": "ch12_q1329",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कार्बन मोनोऑक्साइड (CO) घातक क्यों है?",
+        "en": "Why is carbon monoxide (CO) deadly?"
+      },
+      "options": {
+        "hi": [
+          "वह रुधिर में ऑक्सीजन की जगह जकड़ लेता है — शरीर को ऑक्सीजन नहीं मिल पाता",
+          "वह दिखता ही नहीं",
+          "वह बहुत भारी है",
+          "वह आवाज़ निकालता है"
+        ],
+        "en": [
+          "It grips oxygen's place in the blood — the body cannot get oxygen",
+          "It is invisible",
+          "It is very heavy",
+          "It makes noise"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "CO रुधिर की ऑक्सीजन-कुर्सी पर चुपचाप बैठ जाता है — कमरे भर ऑक्सीजन हो, फिर भी शरीर भूखा।",
+        "en": "CO silently occupies the oxygen-chair of the blood — the room may be full of oxygen, yet the body starves."
+      }
+    },
+    {
+      "id": "ch12_q1330",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खेतों की अतिरिक्त खाद नदी-तालाब में बहने पर जल-जीवन पर क्या आफत आती है?",
+        "en": "What calamity befalls aquatic life when excess fertiliser from fields flows into a river-pond?"
+      },
+      "options": {
+        "hi": [
+          "कुछ नहीं होता",
+          "शैवाल की तेज बाढ़ जल की घुली ऑक्सीजन खा जाती है — मछलियाँ दम तोड़ती हैं",
+          "जल मीठा हो जाता है",
+          "मछलियाँ दोगुनी हो जाती हैं"
+        ],
+        "en": [
+          "Nothing happens",
+          "A fast bloom of algae eats the water's dissolved oxygen — fish suffocate",
+          "The water turns sweet",
+          "The fish double"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खाद की दावत पाकर शैवाल दबोच लेते हैं पूरा जल-घर — ऑक्सीजन की मोहलत खत्म, जल-जीव ठिठक जाते हैं।",
+        "en": "Feasting on the fertiliser, the algae seize the whole water-house — oxygen's lease ends, the aquatic beings fall still."
+      }
+    },
+    {
+      "id": "ch12_q1331",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ग्रीनहाउस-प्रभाव की कार्यप्रणाली क्या है?",
+        "en": "What is the working mechanism of the greenhouse effect?"
+      },
+      "options": {
+        "hi": [
+          "गैसें बारिश बंद करती हैं",
+          "गैसें हवा खा जाती हैं",
+          "गैसें वायुमंडल में ऐसा आवरण बनाती हैं जो धरती की गर्मी को बाहर जाने से रोक देता है",
+          "गैसें धूप को रोकती हैं"
+        ],
+        "en": [
+          "The gases stop the rain",
+          "The gases eat the air",
+          "The gases form a cover in the atmosphere that stops the earth's heat from going out",
+          "The gases stop the sunshine"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शीशे के ग्रीनहाउस की तरह — धूप भीतर, गर्मी भीतर ही जकड़ी; गैस-चादर जितनी मोटी, भीतर उतना तपा।",
+        "en": "Like a glass greenhouse — sunshine within, the heat held within; the thicker the gas-sheet, the hotter inside."
+      }
+    },
+    {
+      "id": "ch12_q1332",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वैश्विक तापन के चलते हिम-ढलानों के पिघलने का सीधा परिणाम क्या देखा जाता है?",
+        "en": "What direct result of the melting of glaciers under global warming is seen?"
+      },
+      "options": {
+        "hi": [
+          "समुद्र का सूखना",
+          "नदियों का खारा होना",
+          "वर्षा का पूरी तरह बंद होना",
+          "समुद्र-स्तर का धीरे-धीरे बढ़ना — तटीय बस्तियों पर खतरा"
+        ],
+        "en": [
+          "The drying of the sea",
+          "The turning of rivers salty",
+          "The total stop of rain",
+          "The slow rise of sea level — danger to coastal settlements"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पहाड़ों की बर्फ-बचत पिघलकर सागर में गिरती है — सागर की धारा चढ़ती है और किनारों की साँस ऊपर।",
+        "en": "The snow-savings of mountains melt and drop into the sea — the sea's level climbs and the coasts' breath rises."
+      }
+    },
+    {
+      "id": "ch12_q1333",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ओजोन-छिद्र से बढ़ती पराबैंगनी किरणें मनुष्य के लिए खतरा क्यों?",
+        "en": "Why are the rising ultraviolet rays from the ozone hole a danger for humans?"
+      },
+      "options": {
+        "hi": [
+          "अधिक UV त्वचा-आँखों के लिए हानिकारक",
+          "UV से भूख लगती है",
+          "UV से बाल काले होते हैं",
+          "UV से नींद आती है"
+        ],
+        "en": [
+          "Excess UV is harmful for the skin-eyes",
+          "UV brings hunger",
+          "UV turns hair black",
+          "UV brings sleep"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आसमान की छाता पतली पड़ी तो तेज़ किरण सीधे त्वचा पर — सुरक्षा-परत का छेद स्वास्थ्य का जोखिम।",
+        "en": "As the sky's umbrella thins, the fierce rays fall straight on the skin — a hole in the shield is a risk to health."
+      }
+    },
+    {
+      "id": "ch12_q1334",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "घरेलू कचरे को 'गीले' और 'सूखे' में अलग करने (segregation) का लाभ क्या है?",
+        "en": "What is the benefit of separating household waste into 'wet' and 'dry' (segregation)?"
+      },
+      "options": {
+        "hi": [
+          "कोई लाभ नहीं",
+          "गीला खाद बनाने, सूखा रीसाइकिल करने के लिए सीधा चला जाता है",
+          "कचरा दोगुना हो जाता है",
+          "गंध बढ़ती है"
+        ],
+        "en": [
+          "No benefit",
+          "The wet goes straight to composting, the dry to recycling",
+          "The waste doubles",
+          "The smell rises"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्रोत पर अलग की हुई कचरा ही कारखाने के काम की — मिलीजुली कचरा न खाद बनती है न रीसाइकिल।",
+        "en": "Only waste separated at the source is fit for the factory's work — mixed waste becomes neither compost nor recycle."
+      }
+    },
+    {
+      "id": "ch12_q1335",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पुनर्चक्रण (recycling) के लिए सर्वाधिक उपयुक्त सामान्य पदार्थ कौन-से हैं?",
+        "en": "Which common materials are most suitable for recycling?"
+      },
+      "options": {
+        "hi": [
+          "जला हुआ प्लास्टिक",
+          "गीला कचरा",
+          "काँच, कागज, धातु (जैसे एल्युमिनियम)",
+          "प्रयुक्त टीके की शीशियाँ"
+        ],
+        "en": [
+          "Burnt plastic",
+          "Wet waste",
+          "Glass, paper, metals (like aluminium)",
+          "Used vaccine vials"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "काँच-धातु पिघलकर बार-बार नए बर्तन बनते हैं, कागज़ गूँथकर नया कागज़ — यही रीसाइकिल के सिपाही।",
+        "en": "Glass-metal melt into new vessels again and again, paper is kneaded into new paper — these are the soldiers of recycling."
+      }
+    },
+    {
+      "id": "ch12_q1336",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जैविक कचरे से 'कंपोस्ट' बनाने की प्रक्रिया में मुख्य कर्ता कौन है?",
+        "en": "Who is the main agent in the process of making 'compost' from organic waste?"
+      },
+      "options": {
+        "hi": [
+          "धूप",
+          "हवा ही पर्याप्त",
+          "प्लास्टिक की थैली",
+          "अपघटक सूक्ष्मजीव जो गीले कचरे को गलाकर खाद बनाते हैं"
+        ],
+        "en": [
+          "Sunshine",
+          "Air alone suffices",
+          "A plastic bag",
+          "Decomposer microbes that decay the wet waste into manure"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कूड़े के ढेर में अपघटकों की मेहनत — कच्चा गीला कचरा पक जाता है काली-भूरी उर्वर खाद।",
+        "en": "The labour of decomposers in the waste-heap — the raw wet waste ripens into black-brown fertile manure."
+      }
+    },
+    {
+      "id": "ch12_q1337",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कचरा-भराव (landfill) स्थलों की प्रमुख समस्या क्या होती है?",
+        "en": "What remains the major problem of landfill sites?"
+      },
+      "options": {
+        "hi": [
+          "जमीन-जल का रिसाव-दूषण और मिथेन-गैस-दुर्गंध जैसे दीर्घकालिक दोष",
+          "वहाँ खेल का मैदान बनता है",
+          "वहाँ फसल उगती है",
+          "वहाँ कोई दोष नहीं"
+        ],
+        "en": [
+          "Long-term faults like seepage-pollution of ground-water and methane-gas-odour",
+          "A playground forms there",
+          "A crop grows there",
+          "No fault there"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ढेर के नीचे से रिसता जहरीला रस और उठती गैस — भराव का बिल आस-पास की धरती-जल सालों तक चुकाती है।",
+        "en": "The poisonous juice seeping from under the heap and the rising gas — the surrounding soil-water pays the landfill's bill for years."
+      }
+    },
+    {
+      "id": "ch12_q1338",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "3R का सही अर्थ-क्रम क्या है?",
+        "en": "What is the correct meaning-order of the 3Rs?"
+      },
+      "options": {
+        "hi": [
+          "तीनों एक ही बात हैं",
+          "Reduce (घटाओ) → Reuse (दोबारा इस्तेमाल) → Recycle (पुनर्चक्रित करो)",
+          "Recycle → Reject → Reply",
+          "Repair → Rent → Repeat"
+        ],
+        "en": [
+          "All three mean the same",
+          "Reduce → Reuse → Recycle",
+          "Recycle → Reject → Reply",
+          "Repair → Rent → Repeat"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पहले कचरा होने से बचो, फिर जो हुआ उसे दोबारा चलाओ, तब बचे तो रीसाइकिल — क्रम भी वैज्ञानिक है।",
+        "en": "First avoid the waste, then run what happened once more, only if still left recycle — the order too is scientific."
+      }
+    },
+    {
+      "id": "ch12_q1339",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'Reduce' का व्यावहारिक उदाहरण कौन-सा है?",
+        "en": "Which is a practical example of 'Reduce'?"
+      },
+      "options": {
+        "hi": [
+          "थैली नदी में बहा देना",
+          "थैलियाँ इकट्ठी करना",
+          "खरीदारी पर थैली लेने से मना करना",
+          "थैली जला देना"
+        ],
+        "en": [
+          "Flowing the bag into a river",
+          "Hoarding bags",
+          "Refusing to take a bag on shopping",
+          "Burning the bag"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जो पैदा ही नहीं हुआ, उसका निपटान सवाल ही नहीं — इनकार सबसे पहली और सबसे सस्ती सीढ़ी।",
+        "en": "What was never produced has no disposal question — refusal is the first and cheapest stair."
+      }
+    },
+    {
+      "id": "ch12_q1340",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'Reuse' और 'Recycle' का अंतर स्पष्ट करने वाला युग्म कौन-सा है?",
+        "en": "Which pair makes the difference between 'Reuse' and 'Recycle' clear?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक ही हैं",
+          "reuse = जलाना",
+          "recycle = फेंकना",
+          "काँच की बोतल दोबारा भरकर इस्तेमाल = reuse; वही बोतल तोड़कर पिघलाना = recycle"
+        ],
+        "en": [
+          "Both are the same",
+          "Reuse = burning",
+          "Recycle = throwing",
+          "Refilling and using a glass bottle again = reuse; breaking and melting the same bottle = recycle"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दोबारा इस्तेमाल वस्तु को वैसे ही चलाना है; रीसाइकिल उसे तोड़कर नए रूप में ढालना — एक मरम्मत, दूसरा पुनर्जन्म।",
+        "en": "Reuse runs the object as it is; recycle breaks and recasts it into a new form — one is repair, the other rebirth."
+      }
+    },
+    {
+      "id": "ch12_q1341",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्लास्टिक पर्यावरण के लिए विशेष सिरदर्द क्यों बना है?",
+        "en": "Why has plastic become a special headache for the environment?"
+      },
+      "options": {
+        "hi": [
+          "वह सदियों तक नहीं गलता, जल-निकास जाम करता है, जल-जीवों को घेरता है और जलने पर जहर छोड़ता है",
+          "वह बहुत सस्ता है",
+          "वह बहुत हल्का है",
+          "वह रंगीन होता है"
+        ],
+        "en": [
+          "It does not decay for ages, chokes drains, entraps aquatic life and releases poison on burning",
+          "It is very cheap",
+          "It is very light",
+          "It is colourful"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "न गलने वाली चीज़ जितनी उपयोगी, उतनी ही हठी — इस्तेमाल की सुविधा निपटान के सिरदर्द में बदल जाती है।",
+        "en": "A thing that will not decay is as stubborn as it is useful — the convenience of use turns into the headache of disposal."
+      }
+    },
+    {
+      "id": "ch12_q1342",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "घरों-नगरों का सीवेज नदी में बिना उपचार सीधा नहीं छोड़ा जाना चाहिए — मुख्य कारण?",
+        "en": "Why should the sewage of homes-cities not be released straight into a river without treatment?"
+      },
+      "options": {
+        "hi": [
+          "नदियाँ गंदगी पसंद करती हैं",
+          "उसमें घुले हानिकारक पदार्थ-रोगाणु जल-जीवन और नदी-तट आबादी दोनों बिगाड़ते हैं",
+          "नदी को जल नहीं चाहिए",
+          "सीवेज में सोना होता है"
+        ],
+        "en": [
+          "Rivers like dirt",
+          "The harmful matter-germs dissolved in it spoil both aquatic life and the river-bank population",
+          "The river needs no water",
+          "Sewage contains gold"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक नगर का गंदा जल पूरी नदी की धारा बदल देता है — उपचार-द्वार पार करके ही उसे नदी तक जाना चाहिए।",
+        "en": "One city's dirty water can change a whole river's current — it must pass the treatment-gate before reaching the river."
+      }
+    },
+    {
+      "id": "ch12_q1343",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पराली (फसल-अवशेष) जलाने से होने वाली समस्या किस प्रकार की है?",
+        "en": "The problem from burning stubble (crop-residue) is of which type?"
+      },
+      "options": {
+        "hi": [
+          "शोर-प्रदूषण",
+          "कोई समस्या नहीं",
+          "वायु-प्रदूषण — धुएँ की चादर क्षेत्र से आगे शहरों तक फैलती है",
+          "जल-प्रदूषण"
+        ],
+        "en": [
+          "Noise pollution",
+          "No problem",
+          "Air pollution — the sheet of smoke spreads from the region to the cities beyond",
+          "Water pollution"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खेत की सफाई का आग का रास्ता शहर की साँस पर भारी — जलाना नहीं, वापस मिट्टी में मिलाना ही उपाय।",
+        "en": "Fire's road of field-cleaning weighs heavy on the city's breath — not burning but mixing back into the soil is the remedy."
+      }
+    },
+    {
+      "id": "ch12_q1344",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल-प्रदूषण का सीधा प्रभाव जलीय-जीवों पर क्यों गहरा पड़ता है?",
+        "en": "Why does water pollution's direct impact fall deep on aquatic organisms?"
+      },
+      "options": {
+        "hi": [
+          "वे जमीन पर रह सकते हैं",
+          "उन्हें प्रदूषण पसंद है",
+          "वे उड़ जाते हैं",
+          "उनका पूरा घर-श्वास-भोजन उसी जल में डूबा है — बचने का कोई दूसरा घर नहीं"
+        ],
+        "en": [
+          "They can live on land",
+          "They like pollution",
+          "They fly away",
+          "Their whole home-breath-food is sunk in that very water — no second house to escape to"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मछली का घर जल ही है — घर ही जहर हो जाए तो प्रवास नहीं, मृत्यु बचती है।",
+        "en": "The fish's home is the water itself — when the home turns poison, no migration remains, only death."
+      }
+    },
+    {
+      "id": "ch12_q1345",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मृदा-प्रदूषण के सामान्य कारणों में कौन-सा समूह सही है?",
+        "en": "Which group is correct among the common causes of soil pollution?"
+      },
+      "options": {
+        "hi": [
+          "प्लास्टिक-कचरा, कीटनाशियों-खादों का अत्यधिक प्रयोग, ठोस अपशिष्ट का ढेर",
+          "केवल वर्षा",
+          "केवल हवा",
+          "केवल धूप"
+        ],
+        "en": [
+          "Plastic-waste, excessive use of pesticides-fertilisers, heaps of solid waste",
+          "Only rainfall",
+          "Only wind",
+          "Only sunshine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जो जमीन पर गिरा वह जमीन में उतरा — मिट्टी का शरीर भी अपनी सीमा से ज्यादा जहर नहीं झेलता।",
+        "en": "What fell on the ground sank into it — even the soil's body cannot bear poison beyond its limit."
+      }
+    },
+    {
+      "id": "ch12_q1346",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'पर्यावरण-मित्र' जीवन-शैली का पहचान-चिह्न क्या है?",
+        "en": "What is the identifying mark of an 'eco-friendly' lifestyle?"
+      },
+      "options": {
+        "hi": [
+          "जलाना-बहाना ही उपाय",
+          "कम खर्च, दोबारा उपयोग, जैविक पसंद, कचरे का अलग-अलग निपटान",
+          "ज्यादा खर्च, ज्यादा फेंकना",
+          "एक बार उपयोग की हर चीज़"
+        ],
+        "en": [
+          "Burning-flowing as the only remedy",
+          "Less spending, reuse, organic choice, separate disposal of waste",
+          "More spending, more throwing",
+          "Single-use everything"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हल्का पदचाप — पृथ्वी पर जितना कम बोझ, जीवन-शैली उतनी पर्यावरण-मित्र।",
+        "en": "A light footfall — the less the load on the earth, the more eco-friendly the lifestyle."
+      }
+    },
+    {
+      "id": "ch12_q1347",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गाँव-शहर के 'हरित-पट्टी' (green belt) बनाने का प्रदूषण-लाभ क्या है?",
+        "en": "What is the pollution-benefit of creating 'green belts' in villages-cities?"
+      },
+      "options": {
+        "hi": [
+          "पेड़ केवल लकड़ी देते हैं",
+          "कोई लाभ नहीं",
+          "पेड़ धूल-धुएँ-शोर तीनों को छानने-सोखने-काटने में सहायक",
+          "पेड़ प्रदूषण बढ़ाते हैं"
+        ],
+        "en": [
+          "Trees only give timber",
+          "No benefit",
+          "Trees help filter-absorb-cut dust, smoke and noise — all three",
+          "Trees raise pollution"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पेड़ों की दीवार शहर की साँस की छलनी — हरियाली की पट्टी सस्ती और सुंदर शुद्धि-मशीन।",
+        "en": "The wall of trees is the sieve of the city's breath — a belt of green is a cheap and beautiful purification-machine."
+      }
+    },
+    {
+      "id": "ch12_q1348",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि ओजोन-परत पूरी गायब हो जाए, तो धरती पर जीवन की स्थिति की सोच-परीक्षा क्या बताती है?",
+        "en": "If the ozone layer vanished entirely, what does the thought-experiment of life's condition on earth tell?"
+      },
+      "options": {
+        "hi": [
+          "कुछ भी नहीं बदलता",
+          "रातें ठंडी हो जाती हैं",
+          "वर्षा दोगुनी हो जाती है",
+          "तीव्र UV बौछार जीवों की त्वचा-आँख-डीएनए पर सीधा प्रहार — जमीनी जीव के लिए अस्तित्व कठिन"
+        ],
+        "en": [
+          "Nothing changes",
+          "Nights turn cold",
+          "Rainfall doubles",
+          "A fierce UV shower strikes the skin-eyes-DNA of beings straight — existence turns difficult for ground-life"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आसमान की सनस्क्रीन उतर जाए तो तेज़ किरणों का सीधा दौर — इसीलिए परत की एक-एक बूँद की रक्षा जरूरी।",
+        "en": "If the sky's sunscreen descends, a direct barrage of fierce rays — hence the defence of every drop of the layer matters."
+      }
+    },
+    {
+      "id": "ch12_q1349",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'ग्रीनहाउस-प्रभाव बुरा है' — इस कथन में क्या भूल छिपी है?",
+        "en": "What mistake lies hidden in the statement 'the greenhouse effect is bad'?"
+      },
+      "options": {
+        "hi": [
+          "प्राकृतिक मात्रा में यह प्रभाव धरती को रहने योग्य गर्म रखता है — बुरा है उसका अति-बढ़ना",
+          "कथन पूरी तरह सही है",
+          "ग्रीनहाउस-प्रभाव होता ही नहीं",
+          "यह केवल शुक्र ग्रह पर होता है"
+        ],
+        "en": [
+          "In natural measure this effect keeps the earth livably warm — what is bad is its excess rise",
+          "The statement is fully right",
+          "The greenhouse effect does not occur",
+          "It occurs only on Venus"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बुखार बुरा है, पर शरीर का स्वाभाविक ताप जीवन की शर्त है — गर्म-चादर चाहिए भी, बस नाप में।",
+        "en": "Fever is bad, but the body's natural warmth is life's condition — the warm sheet is needed too, only in measure."
+      }
+    },
+    {
+      "id": "ch12_q1350",
+      "topic": "pollution-waste-sustainability",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पुराने मोबाइल-कंप्यूटर का 'ई-कचरा' साधारण कचरे से अधिक खतरनाक क्यों गिना जाता है?",
+        "en": "Why is the 'e-waste' of old mobiles-computers counted as more dangerous than ordinary waste?"
+      },
+      "options": {
+        "hi": [
+          "वह जल्दी गल जाता है",
+          "उसमें सीसा-पारा जैसी भारी विषधातुएँ जड़े हैं जो रिसकर मिट्टी-जल में बैठ जाती हैं",
+          "वह बहुत बड़ा होता है",
+          "वह रंगीन होता है"
+        ],
+        "en": [
+          "It decays quickly",
+          "Heavy toxic metals like lead-mercury are seated in it, which seep and settle into soil-water",
+          "It is very big",
+          "It is colourful"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "साधारण कूड़ा गलता है पर ई-कचरा टपकता है — धातु-जहर की बूँदें सालों तक जमीन की नसों में उतरती रहती हैं; इसीलिए उसका पृथक्-निपटान विशेष जरूरी।",
+        "en": "Ordinary waste rots but e-waste drips — drops of metal-venom keep descending into the ground's veins for years; hence its separate disposal is specially necessary."
+      }
+    }
+  ]
+}

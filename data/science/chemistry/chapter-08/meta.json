@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-08",
+  "chapterNumber": 8,
+  "code": "C08",
+  "chapterName": {
+    "hi": "अम्ल, क्षार, लवण एवं सूचक",
+    "en": "Acids, Bases, Salts & Indicators"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "अम्ल खट्टे स्वाद वाले पदार्थ हैं जो जल में घुलकर H⁺ आयन देते हैं, जबकि क्षार कड़वे होते हैं और OH⁻ आयन देते हैं। सूचक (लिटमस, टर्मेरिक, फिनॉल्फथैलीन) अम्ल-क्षार की पहचान कराते हैं। अम्ल और क्षार की अभिक्रिया से लवण और जल बनता है — उदासीनीकरण।",
+      "example": "चींटी के काटने पर नमीन (फार्मिक अम्ल) के प्रभाव को बेकिंग सोडा लगाकर उदासीन किया जाता है।",
+      "sections": [
+        {
+          "heading": "अम्ल एवं क्षार",
+          "content": "अम्ल — नींबू (साइट्रिक), विनegar (एसीटिक), HCl; क्षार — साबुन, चूना, NaOH; दोनों जलीय विलयन में आयन देते हैं।"
+        },
+        {
+          "heading": "सूचक",
+          "content": "प्राकृतिक — लिटमस, टर्मेरिक, चुकंदर का रस; संश्लिष्ट — मेथिल ऑरेंज, फिनॉल्फथैलीन; गंधहीन वाष्पीकरण से लिटमस कागज बनता है।"
+        },
+        {
+          "heading": "उदासीनीकरण एवं pH",
+          "content": "अम्ल + क्षार → लवण + जल; pH पैमाना 0–14 — 7 उदासीन, 7 से कम अम्लीय, अधिक क्षारीय; पाचन में HCl और एंटासिड का सिद्धांत इसी पर है।"
+        },
+        {
+          "heading": "दैनिक जीवन के लवण",
+          "content": "सोडियम बाइकार्बोनेट (बेकिंग सोडा), सोडियम कार्बोनेट (धोने का सोडा), कैल्शियम सल्फेट (प्लास्टर ऑफ पेरिस), अमोनियम हाइड्रॉक्साइड-सोडा वोटर शीतल पेय।"
+        }
+      ],
+      "keyPoints": [
+        "अम्ल H⁺ और क्षार OH⁻ आयन देते हैं",
+        "अम्ल नीले लिटमस को लाल, क्षार लाल को नीला करते हैं",
+        "उदासीनीकरण: अम्ल + क्षार → लवण + जल",
+        "pH 7 उदासीन, <7 अम्लीय, >7 क्षारीय",
+        "सूचक प्राकृतिक और संश्लिष्ट दोनों प्रकार के होते हैं",
+        "बेकिंग सोडा NaHCO₃ और धोने का सोडा Na₂CO₃ है"
+      ],
+      "examFocus": [
+        "pH पैमाने की दिशा और उदाहरण याद रखें",
+        "प्राकृतिक सूचकों के नाम और रंग परिवर्तन रटें",
+        "दैनिक लवणों के रासायनिक नाम और उपयोग जोड़कर याद करें"
+      ],
+      "examTraps": [
+        "सभी खट्टे पदार्थ खतरनाक अम्ल नहीं — नींबू का साइट्रिक अम्ल कमजोर अम्ल है",
+        "क्षार और क्षारीय विलयन में अंतर है — प्रत्येक क्षार विलेय नहीं होता"
+      ],
+      "thinkBeforeAnswer": [
+        "रंग परिवर्तन का प्रश्न हो तो पहले अम्ल/क्षार पहचानें",
+        "pH का प्रश्न हो तो 7 की तुलना करें"
+      ],
+      "memoryTricks": [
+        "'BLUE-BASE' — क्षार नीला करता है लाल लिटमस को",
+        "pH पैमाने को 0-7-14 सीढ़ी बनाकर याद करें"
+      ],
+      "pyqSignals": [
+        "लिटमस परिवर्तन और pH पर सीधे प्रश्न आते हैं",
+        "बेकिंग सोडा और धोने का सोडा अक्सर पूछे जाते हैं"
+      ],
+      "mustRemember": [
+        "अम्ल-क्षार की परिभाषा",
+        "सूचक और रंग परिवर्तन",
+        "उदासीनीकरण अभिक्रिया",
+        "pH पैमाना और दैनिक लवण"
+      ],
+      "quickRevision": "अम्ल H⁺ तथा क्षार OH⁻ आयन देते हैं और सूचक इनकी पहचान कराते हैं। अम्ल-क्षार की अभिक्रिया से लवण और जल बनता है। pH पैमाना 0–14 पर अम्लीयता-क्षारीयता बताता है। बेकिंग सोडा, धोने का सोडा और प्लास्टर ऑफ पेरिस दैनिक जीवन के महत्वपूर्ण लवण हैं।"
+    },
+    "en": {
+      "concept": "Acids are sour substances that give H⁺ ions in water, while bases are bitter and give OH⁻ ions. Indicators (litmus, turmeric, phenolphthalein) identify acids and bases. Acid-base reaction gives salt and water — neutralisation.",
+      "example": "The effect of formic acid from an ant bite is neutralised by applying baking soda.",
+      "sections": [
+        {
+          "heading": "Acids and Bases",
+          "content": "Acids — lemon (citric), vinegar (acetic), HCl; bases — soap, lime, NaOH; both give ions in aqueous solution."
+        },
+        {
+          "heading": "Indicators",
+          "content": "Natural — litmus, turmeric, beetroot juice; synthetic — methyl orange, phenolphthalein."
+        },
+        {
+          "heading": "Neutralisation and pH",
+          "content": "Acid + base → salt + water; the pH scale is 0–14 — 7 neutral, below 7 acidic, above 7 basic; antacids work on this principle."
+        },
+        {
+          "heading": "Salts in Daily Life",
+          "content": "Sodium bicarbonate (baking soda), sodium carbonate (washing soda), calcium sulphate (plaster of Paris), soda water cool drinks."
+        }
+      ],
+      "keyPoints": [
+        "Acids give H⁺ and bases give OH⁻ ions",
+        "Acids turn blue litmus red; bases turn red litmus blue",
+        "Neutralisation: acid + base → salt + water",
+        "pH 7 neutral, <7 acidic, >7 basic",
+        "Indicators are of natural and synthetic types",
+        "Baking soda is NaHCO₃ and washing soda is Na₂CO₃"
+      ],
+      "examFocus": [
+        "Remember the pH scale direction with examples",
+        "Learn names of natural indicators and their colour changes",
+        "Memorise chemical names and uses of daily salts"
+      ],
+      "examTraps": [
+        "Not all sour substances are dangerous acids — citric acid in lemon is weak",
+        "Base and alkaline solution differ — not every base is soluble"
+      ],
+      "thinkBeforeAnswer": [
+        "For colour-change questions, first identify acid or base",
+        "For pH questions, compare with 7"
+      ],
+      "memoryTricks": [
+        "'BLUE-BASE' — a base turns red litmus blue",
+        "Remember the pH scale as a 0-7-14 ladder"
+      ],
+      "pyqSignals": [
+        "Direct questions on litmus change and pH are common",
+        "Baking soda and washing soda are frequently asked"
+      ],
+      "mustRemember": [
+        "Definitions of acid and base",
+        "Indicators and colour changes",
+        "Neutralisation reaction",
+        "pH scale and daily salts"
+      ],
+      "quickRevision": "Acids give H⁺ and bases give OH⁻ ions; indicators identify them. Acid-base reaction gives salt and water. The 0–14 pH scale shows acidity-alkalinity. Baking soda, washing soda and plaster of Paris are important daily-life salts."
+    }
+  }
+}

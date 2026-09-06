@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-09",
+  "chapterNumber": 9,
+  "code": "P09",
+  "chapterName": {
+    "hi": "विद्युत एवं विद्युत परिपथ",
+    "en": "Electricity & Electric Circuits"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "विद्युत धारा आवेश का प्रवाह है जिसका मात्रक एम्पियर है। विभवांतर, प्रतिरोध और धारा का संबंध ओम का नियम V = IR देता है। प्रतिरोधों को श्रेणी और समांतर क्रम में जोड़ा जाता है और विद्युत शक्ति P = VI से निकलती है।",
+      "example": "घरेलू MCB और फ्यूज अत्यधिक धारा पर परिपथ काटकर उपकरणों को बचाते हैं।",
+      "sections": [
+        {
+          "heading": "आवेश एवं धारा",
+          "content": "आवेश का मात्रक कूलॉम; धारा I = Q/t का मात्रक एम्पियर — इसे अमीटर से मापा जाता है।"
+        },
+        {
+          "heading": "विभवांतर एवं ओम का नियम",
+          "content": "विभवांतर का मात्रक वोल्ट, मापक वोल्टमीटर; V = IR — नियत ताप पर प्रतिरोध स्थिर रहता है।"
+        },
+        {
+          "heading": "प्रतिरोध एवं संयोजन",
+          "content": "प्रतिरोध R = ρl/A — लंबाई बढ़ने पर बढ़ता और मोटाई बढ़ने पर घटता है; श्रेणी में R = R₁+R₂, समांतर में 1/R = 1/R₁+1/R₂।"
+        },
+        {
+          "heading": "विद्युत शक्ति एवं सुरक्षा",
+          "content": "P = VI = I²R; इकाई वाट; फ्यूज-अर्थिंग और MCB अति-धारा से सुरक्षा देते हैं।"
+        }
+      ],
+      "keyPoints": [
+        "धारा का मात्रक एम्पियर, आवेश का कूलॉम, विभवांतर का वोल्ट",
+        "ओम का नियम V = IR",
+        "प्रतिरोध लंबाई के समानुपाती और अनुप्रस्थ काट के व्युत्क्रमानुपाती है",
+        "श्रेणी क्रम में प्रतिरोध जुड़ता है, समांतर में घटता है",
+        "विद्युत शक्ति P = VI, मात्रक वाट",
+        "अमीटर श्रेणी में और वोल्टमीटर समांतर में जोड़ा जाता है"
+      ],
+      "examFocus": [
+        "V = IR और P = VI से सरल संख्यात्मक प्रश्न हल करें",
+        "श्रेणी-समांतर संयोजन के गुण और उदाहरण याद रखें",
+        "फ्यूज और अर्थिंग का कार्य समझें"
+      ],
+      "examTraps": [
+        "अमीटर और वोल्टमीटर के जोड़ने का क्रम उलटना सामान्य त्रुटि है",
+        "समांतर क्रम कुल प्रतिरोध सबसे छोटे प्रतिरोध से भी कम होता है — इसे ध्यान रखें"
+      ],
+      "thinkBeforeAnswer": [
+        "धारा पूछी जाए तो I = V/R लगाएँ",
+        "बिजली बिल की गणना kWh में होती है — P × t उपयोग करें"
+      ],
+      "memoryTricks": [
+        "'V-R-I त्रिकोण' बनाकर V=IR, I=V/R, R=V/I तीनों याद करें",
+        "श्रेणी = जोड़ (Add), समांतर = भाग (divide by reciprocals)"
+      ],
+      "pyqSignals": [
+        "ओम के नियम के संख्यात्मक प्रश्न बार-बार आते हैं",
+        "श्रेणी-समांतर कुल प्रतिरोध की तुलना सामान्य प्रश्न है"
+      ],
+      "mustRemember": [
+        "धारा, आवेश और विभवांतर के मात्रक",
+        "ओम का नियम",
+        "प्रतिरोध के कारक और संयोजन",
+        "विद्युत शक्ति और सुरक्षा उपकरण"
+      ],
+      "quickRevision": "विद्युत धारा आवेश का प्रवाह है जिसका मात्रक एम्पियर है। ओम के नियम V = IR अनुसार नियत ताप प्रतिरोध स्थिर रहता है। प्रतिरोध लंबाई और अनुप्रस्थ काट पर निर्भर करता है; श्रेणी में जुड़ता और समांतर में घटता है। विद्युत शक्ति P = VI है और फ्यूज-अर्थिंग सुरक्षा देते हैं।"
+    },
+    "en": {
+      "concept": "Electric current is the flow of charge, measured in amperes. Potential difference, resistance and current are related by Ohm's law V = IR. Resistances are combined in series and parallel, and electric power comes from P = VI.",
+      "example": "Household MCBs and fuses break the circuit on excess current and protect appliances.",
+      "sections": [
+        {
+          "heading": "Charge and Current",
+          "content": "The unit of charge is the coulomb; current I = Q/t in amperes, measured by an ammeter."
+        },
+        {
+          "heading": "Potential Difference and Ohm's Law",
+          "content": "Potential difference is in volts, measured by a voltmeter; V = IR — resistance stays constant at fixed temperature."
+        },
+        {
+          "heading": "Resistance and Combinations",
+          "content": "Resistance R = ρl/A — increases with length, decreases with thickness; in series R = R₁+R₂, in parallel 1/R = 1/R₁+1/R₂."
+        },
+        {
+          "heading": "Electric Power and Safety",
+          "content": "P = VI = I²R; unit watt; fuse, earthing and MCB protect from excess current."
+        }
+      ],
+      "keyPoints": [
+        "Unit of current ampere, charge coulomb, potential difference volt",
+        "Ohm's law V = IR",
+        "Resistance is proportional to length and inversely to cross-section",
+        "Series combination adds resistance; parallel reduces it",
+        "Electric power P = VI, unit watt",
+        "An ammeter connects in series and a voltmeter in parallel"
+      ],
+      "examFocus": [
+        "Solve simple numericals with V = IR and P = VI",
+        "Remember properties and examples of series-parallel combinations",
+        "Understand the working of fuse and earthing"
+      ],
+      "examTraps": [
+        "Swapping the connections of ammeter and voltmeter is a common error",
+        "Note that total parallel resistance is less than the smallest resistance"
+      ],
+      "thinkBeforeAnswer": [
+        "For current, apply I = V/R",
+        "Electricity bills are calculated in kWh — use P × t"
+      ],
+      "memoryTricks": [
+        "Draw the 'V-R-I triangle' to remember V=IR, I=V/R, R=V/I",
+        "Series = Add; parallel = reciprocals"
+      ],
+      "pyqSignals": [
+        "Numericals on Ohm's law appear repeatedly",
+        "Comparing total resistance of series-parallel is common"
+      ],
+      "mustRemember": [
+        "Units of current, charge and potential difference",
+        "Ohm's law",
+        "Factors of resistance and combinations",
+        "Electric power and safety devices"
+      ],
+      "quickRevision": "Electric current is the flow of charge in amperes. Ohm's law V = IR holds at constant temperature. Resistance depends on length and cross-section; it adds in series and reduces in parallel. Power is P = VI and fuses with earthing give protection."
+    }
+  }
+}

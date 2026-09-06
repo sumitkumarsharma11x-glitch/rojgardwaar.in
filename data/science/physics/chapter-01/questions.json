@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "phy1_q101",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विज्ञान में मापन (measurement) किन दो चीज़ों से मिलकर बनता है?",
+        "en": "In science, what two things together make a measurement?"
+      },
+      "options": {
+        "hi": [
+          "संख्यात्मक मान और मात्रक",
+          "संख्या और रंग",
+          "आकार और भार",
+          "समय और दिशा"
+        ],
+        "en": [
+          "A numerical value and a unit",
+          "A number and a colour",
+          "Shape and weight",
+          "Time and direction"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मापन = संख्या + मात्रक — दोनों साथ हों तभी मापन पूरा होता है।",
+        "en": "Measurement = number + unit — only together do they make a complete measurement."
+      }
+    },
+    {
+      "id": "phy1_q102",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "केवल संख्या लिखना (जैसे 'लंबाई 5') विज्ञान में अर्थहीन क्यों है?",
+        "en": "Why is writing only a number (like 'length 5') meaningless in science?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि 5 छोटी संख्या है",
+          "क्योंकि बिना मात्रक के यह ज्ञात नहीं होता कि 5 किस राशि में और कितना है",
+          "क्योंकि संख्याएँ गलत होती हैं",
+          "क्योंकि विज्ञान में संख्या नहीं लिखते"
+        ],
+        "en": [
+          "Because 5 is a small number",
+          "Because without a unit it is not known what the 5 is a quantity of, or how much",
+          "Because numbers are wrong",
+          "Because numbers are not written in science"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "5 मीटर, 5 किग्रा या 5 सेकंड — बिना मात्रक सब अधूरा; संख्या अकेली कुछ नहीं बताती।",
+        "en": "5 metres, 5 kilograms or 5 seconds — without a unit all is incomplete; a number alone says nothing."
+      }
+    },
+    {
+      "id": "phy1_q103",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मात्रक (unit) किसे कहते हैं?",
+        "en": "What is a unit?"
+      },
+      "options": {
+        "hi": [
+          "गणित का एक नियम",
+          "विज्ञान का एक यंत्र",
+          "किसी भौतिक राशि को मापने के लिए चुना गया निश्चित, मानक संदर्भ",
+          "कोई भी बड़ी संख्या"
+        ],
+        "en": [
+          "A rule of mathematics",
+          "A scientific machine",
+          "A fixed, standard reference chosen to measure a physical quantity",
+          "Any large number"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मात्रक वह तय किया गया मानक है जिससे तुलना करके राशि की संख्या निकलती है।",
+        "en": "A unit is the fixed standard against which a quantity is compared to get its number."
+      }
+    },
+    {
+      "id": "phy1_q104",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तुलना करने के लिए किसका होना आवश्यक है?",
+        "en": "What is necessary for making a proper comparison?"
+      },
+      "options": {
+        "hi": [
+          "केवल अनुमान",
+          "केवल आँख का अंदाज़ा",
+          "केवल वर्णन",
+          "मानक मात्रक में मापन"
+        ],
+        "en": [
+          "Only guesswork",
+          "Only a visual estimate",
+          "Only a description",
+          "Measurement in standard units"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बिना मापन के तुलना अधूरी है — मानक मात्रक ही तुलना को निष्पक्ष बनाता है।",
+        "en": "Comparison is incomplete without measurement — standard units make it fair."
+      }
+    },
+    {
+      "id": "phy1_q105",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा मापन पूर्ण (complete) है?",
+        "en": "Which of the following is a complete measurement?"
+      },
+      "options": {
+        "hi": [
+          "किताब की लंबाई 25 सेंटीमीटर",
+          "किताब की लंबाई 25",
+          "किताब काफी लंबी है",
+          "किताब बहुत अच्छी है"
+        ],
+        "en": [
+          "The length of the book is 25 centimetres",
+          "The length of the book is 25",
+          "The book is quite long",
+          "The book is very good"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "25 सेंटीमीटर में संख्या (25) और मात्रक (सेंटीमीटर) दोनों हैं — बाकी कथन अनुमान या राय हैं।",
+        "en": "'25 centimetres' has both the number (25) and the unit (centimetre) — the rest are estimates or opinions."
+      }
+    },
+    {
+      "id": "phy1_q106",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मापन के बिना विज्ञान का प्रयोग क्यों अधूरा माना जाता है?",
+        "en": "Why is a scientific experiment considered incomplete without measurement?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि मापन से प्रयोग सुंदर दिखता है",
+          "क्योंकि परिणाम की तुलना और जाँच संख्या + मात्रक के बिना संभव नहीं",
+          "क्योंकि प्रयोग बिना मापन के खतरनाक हैं",
+          "क्योंकि विज्ञान में केवल संख्याएँ देखी जाती हैं"
+        ],
+        "en": [
+          "Because measurement makes experiments beautiful",
+          "Because results cannot be compared or checked without number + unit",
+          "Because experiments are dangerous without measurement",
+          "Because only numbers are watched in science"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रयोग की पुष्टि तभी होती है जब परिणाम मापा और तुलना किया जा सके।",
+        "en": "An experiment is verified only when its results can be measured and compared."
+      }
+    },
+    {
+      "id": "phy1_q107",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'SI' प्रणाली का पूरा रूप क्या है?",
+        "en": "What is the full form of the 'SI' system?"
+      },
+      "options": {
+        "hi": [
+          "Standard India",
+          "Simple Instruments",
+          "International System of Units",
+          "Scientific Instruments"
+        ],
+        "en": [
+          "Standard India",
+          "Simple Instruments",
+          "International System of Units",
+          "Scientific Instruments"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "SI = International System of Units — दुनिया भर के वैज्ञानिकों की सहमति वाली मात्रक-प्रणाली।",
+        "en": "SI = International System of Units — the unit system agreed upon by scientists worldwide."
+      }
+    },
+    {
+      "id": "phy1_q108",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी राशि का मान '7 सेकंड' है — यहाँ मापी गई राशि कौन-सी है?",
+        "en": "A quantity's value is '7 seconds' — which quantity is measured here?"
+      },
+      "options": {
+        "hi": [
+          "लंबाई",
+          "द्रव्यमान",
+          "ताप",
+          "समय"
+        ],
+        "en": [
+          "Length",
+          "Mass",
+          "Temperature",
+          "Time"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मात्रक पहचानो तो राशि मिलती है — सेकंड समय का मात्रक है।",
+        "en": "Identify the unit and you find the quantity — the second is the unit of time."
+      }
+    },
+    {
+      "id": "phy1_q109",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'15 किलोग्राम' में मापी गई राशि कौन-सी है?",
+        "en": "Which quantity is measured in '15 kilograms'?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान",
+          "भार",
+          "लंबाई",
+          "विद्युत धारा"
+        ],
+        "en": [
+          "Mass",
+          "Weight",
+          "Length",
+          "Electric current"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "किलोग्राम द्रव्यमान का SI मात्रक है।",
+        "en": "The kilogram is the SI unit of mass."
+      }
+    },
+    {
+      "id": "phy1_q110",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दुकानदार कपड़ा मापते समय कौन-सी राशि माप रहा है?",
+        "en": "While measuring cloth, which quantity is the shopkeeper measuring?"
+      },
+      "options": {
+        "hi": [
+          "ताप",
+          "लंबाई",
+          "द्रव्यमान",
+          "समय"
+        ],
+        "en": [
+          "Temperature",
+          "Length",
+          "Mass",
+          "Time"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कपड़ा मीटर में मापा जाता है — यह लंबाई की माप है।",
+        "en": "Cloth is measured in metres — a measurement of length."
+      }
+    },
+    {
+      "id": "phy1_q111",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानक मात्रक (standard unit) की सबसे जरूरी शर्त क्या है?",
+        "en": "What is the most essential condition for a standard unit?"
+      },
+      "options": {
+        "hi": [
+          "वह केवल एक देश में मान्य हो",
+          "वह बार-बार बदलता रहे",
+          "वह सबके लिए एक जैसा और स्थिर (न बदलने वाला) हो",
+          "वह बहुत बड़ा हो"
+        ],
+        "en": [
+          "It must be valid in only one country",
+          "It must keep changing",
+          "It must be the same and fixed (unchanging) for everyone",
+          "It must be very large"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मानक का अर्थ ही है — हर जगह, हर समय, हर व्यक्ति के लिए समान।",
+        "en": "The very meaning of a standard is — same for every place, time and person."
+      }
+    },
+    {
+      "id": "phy1_q112",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक व्यक्ति की 'बित्ती' (अंगुली की चौड़ाई) से मापने पर समस्या क्यों होती है?",
+        "en": "Why is measuring with a person's 'finger width' (anguli) problematic?"
+      },
+      "options": {
+        "hi": [
+          "अंगुली से मापना मना है",
+          "अंगुली में मात्रक नहीं होता",
+          "अंगुली टूट जाती है",
+          "अलग-अलग व्यक्तियों की अंगुलियाँ अलग-अलग मोटी होती हैं — मापन सबके लिए समान नहीं रहता"
+        ],
+        "en": [
+          "Measuring by finger is forbidden",
+          "A finger has no unit inside",
+          "The finger breaks",
+          "Different people's fingers differ in width — the measurement is not the same for all"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शरीर-आधारित मापन व्यक्ति-दर-व्यक्ति बदलता है, इसलिए मानक नहीं कहलाता।",
+        "en": "Body-based measures vary person to person, hence they are not standard."
+      }
+    },
+    {
+      "id": "phy1_q113",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पुराने समय की 'हाथ की फैलाव' (बित्त/हस्त) जैसी इकाइयाँ अवैज्ञानिक क्यों मानी गईं?",
+        "en": "Why were old units like the 'hand span' (hasta) considered unscientific?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि ये व्यक्ति के शरीर के अनुसार बदलती थीं — निश्चित मानक नहीं थीं",
+          "क्योंकि ये बहुत पुरानी थीं",
+          "क्योंकि इनका उच्चारण कठिन था",
+          "क्योंकि ये केवल बच्चों के लिए थीं"
+        ],
+        "en": [
+          "Because they changed from person to person — no fixed standard",
+          "Because they were very old",
+          "Because they were hard to pronounce",
+          "Because they were only for children"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मापन की निर्भरता व्यक्ति पर नहीं, मानक पर होनी चाहिए।",
+        "en": "Measurement must depend on a standard, not on the person measuring."
+      }
+    },
+    {
+      "id": "phy1_q114",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मेज की लंबाई नापने के लिए उपयुक्त इकाई कौन-सी है?",
+        "en": "Which unit is appropriate for measuring the length of a table?"
+      },
+      "options": {
+        "hi": [
+          "किलोग्राम",
+          "सेंटीमीटर/मीटर",
+          "किलोमीटर",
+          "मिलीमीटर ही एकमात्र विकल्प"
+        ],
+        "en": [
+          "Kilogram",
+          "Centimetre/metre",
+          "Kilometre",
+          "Millimetre as the only option"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वस्तु के आकार के अनुसार इकाई चुनते हैं — मेज के लिए सेंटीमीटर/मीटर उपयुक्त।",
+        "en": "The unit is chosen to suit the object's size — cm/m suit a table."
+      }
+    },
+    {
+      "id": "phy1_q115",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दो शहरों के बीच की दूरी बताने के लिए कौन-सी इकाई सर्वाधिक उपयुक्त है?",
+        "en": "Which unit is most appropriate for the distance between two cities?"
+      },
+      "options": {
+        "hi": [
+          "मिलीमीटर",
+          "ग्राम",
+          "किलोमीटर",
+          "सेंटीमीटर"
+        ],
+        "en": [
+          "Millimetre",
+          "Gram",
+          "Kilometre",
+          "Centimetre"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बड़ी दूरियों के लिए बड़ी इकाई — किलोमीटर — सुविधाजनक और सार्थक है।",
+        "en": "Large distances call for a large unit — the kilometre is convenient and meaningful."
+      }
+    },
+    {
+      "id": "phy1_q116",
+      "topic": "need-for-measurement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विज्ञान में मापन को 'भाषा' क्यों कहा जाता है?",
+        "en": "Why is measurement called the 'language' of science?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि इसमें व्याकरण होता है",
+          "क्योंकि यह केवल पुस्तकों में होता है",
+          "क्योंकि यह अनुवाद करता है",
+          "क्योंकि यह वैज्ञानिकों को संख्या + मात्रक के माध्यम से निर्द्वंद्व रूप से संवाद करने देता है"
+        ],
+        "en": [
+          "Because it has grammar",
+          "Because it happens only in books",
+          "Because it translates",
+          "Because it lets scientists communicate unambiguously through number + unit"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दो वैज्ञानिक — दो देश, एक मात्रक, एक ही मत: यही मापन की साझा भाषा है।",
+        "en": "Two scientists — two countries, one unit, one conclusion: that is measurement's shared language."
+      }
+    },
+    {
+      "id": "phy1_q117",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो छात्र एक ही डंडी मापते हैं — एक 'हाथ' (हस्त) में, दूसरा मीटर स्केल से। किसका परिणाम सभी के लिए उपयोगी है और क्यों?",
+        "en": "Two students measure the same stick — one in hand spans, one with a metre scale. Whose result is useful to all, and why?"
+      },
+      "options": {
+        "hi": [
+          "मीटर स्केल वाला — क्योंकि मीटर सबके लिए एक जैसा मानक है",
+          "हाथ वाला — क्योंकि हाथ सदा उपलब्ध है",
+          "दोनों समान रूप से",
+          "कोई नहीं"
+        ],
+        "en": [
+          "The metre-scale one — because the metre is the same standard for everyone",
+          "The hand-span one — because the hand is always available",
+          "Both equally",
+          "Neither"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "उपयोगिता का आधार पुनरावृत्ति (reproducibility) है — मानक मात्रक ही सबके परिणाम मेलाता है।",
+        "en": "Usefulness rests on reproducibility — only a standard unit aligns everyone's results."
+      }
+    },
+    {
+      "id": "phy1_q118",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 मीटर + 100 सेंटीमीटर का योग कितना होगा?",
+        "en": "What is the sum of 5 metres + 100 centimetres?"
+      },
+      "options": {
+        "hi": [
+          "600 मीटर",
+          "6 मीटर",
+          "5.1 मीटर",
+          "105 मीटर"
+        ],
+        "en": [
+          "600 metres",
+          "6 metres",
+          "5.1 metres",
+          "105 metres"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "100 सेंटीमीटर = 1 मीटर; इसलिए 5 + 1 = 6 मीटर — योग से पहले इकाई समान करनी जरूरी है।",
+        "en": "100 cm = 1 m; hence 5 + 1 = 6 m — units must be matched before adding."
+      }
+    },
+    {
+      "id": "phy1_q119",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 मीटर और 5 किलोग्राम को जोड़ा नहीं जा सकता — क्यों?",
+        "en": "5 metres and 5 kilograms cannot be added — why?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि मात्रक जुड़ते नहीं",
+          "क्योंकि किलोग्राम बड़ा होता है",
+          "क्योंकि दोनों भिन्न राशियाँ हैं — लंबाई और द्रव्यमान का योग भौतिक रूप से अर्थहीन है",
+          "क्योंकि 5 विषम संख्या है"
+        ],
+        "en": [
+          "Because units do not join",
+          "Because the kilogram is bigger",
+          "Because they are different quantities — adding length and mass is physically meaningless",
+          "Because 5 is an odd number"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "योग एक ही राशि के मानों में ही होता है — सेब और आम की गिनती एक टोकरी में वैज्ञानिक नहीं।",
+        "en": "Addition works only within one quantity — counting apples and mangoes into one basket is not science."
+      }
+    },
+    {
+      "id": "phy1_q120",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "250 सेंटीमीटर और 2.5 मीटर में से कौन लंबा है?",
+        "en": "Between 250 centimetres and 2.5 metres, which is longer?"
+      },
+      "options": {
+        "hi": [
+          "250 सेंटीमीटर लंबा",
+          "2.5 मीटर लंबा",
+          "तुलना संभव नहीं",
+          "दोनों बराबर लंबे हैं"
+        ],
+        "en": [
+          "250 centimetres is longer",
+          "2.5 metres is longer",
+          "Comparison is impossible",
+          "Both are equally long"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "250 सेंटीमीटर = 2.5 मीटर — इकाई बदलने पर मान बदलता है, लंबाई नहीं।",
+        "en": "250 cm = 2.5 m — converting the unit changes the number, not the length."
+      }
+    },
+    {
+      "id": "phy1_q121",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक दर्जी (tailor) के लिए मापन क्यों आवश्यक है?",
+        "en": "Why is measurement necessary for a tailor?"
+      },
+      "options": {
+        "hi": [
+          "कपड़ा काटने से पहले शरीर की लंबाइयों का सही मान चाहिए, वरना कपड़ा फिट नहीं होगा",
+          "क्योंकि दर्जी को गणित आता है",
+          "क्योंकि कानून ऐसा कहता है",
+          "क्योंकि कपड़ा बिकता नहीं"
+        ],
+        "en": [
+          "Correct body measurements are needed before cutting cloth, else the garment will not fit",
+          "Because the tailor knows mathematics",
+          "Because the law says so",
+          "Because cloth does not sell"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मापन केवल प्रयोगशाला नहीं, दैनिक काम की सटीकता की कुंजी है।",
+        "en": "Measurement is the key to accuracy in daily work, not just in laboratories."
+      }
+    },
+    {
+      "id": "phy1_q122",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अलग-अलग देशों के वैज्ञानिकों के परिणाम आपस में तुलनीय बनाने के लिए क्या सर्वाधिक आवश्यक है?",
+        "en": "What is most needed to make results of scientists from different countries comparable?"
+      },
+      "options": {
+        "hi": [
+          "एक ही यंत्र खरीदना",
+          "सबके द्वारा समान मानक मात्रक (SI) का प्रयोग",
+          "सबका एक ही देश में रहना",
+          "एक ही भाषा बोलना"
+        ],
+        "en": [
+          "Buying the same instrument",
+          "Use of the same standard units (SI) by all",
+          "Living in the same country",
+          "Speaking the same language"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "SI एक विश्व-भाषा की तरह काम करती है — इकाई साझी तो तुलना साझी।",
+        "en": "SI works like a world language — shared units make shared comparison."
+      }
+    },
+    {
+      "id": "phy1_q123",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: मापन में संख्या आवश्यक है। कथन B: मापन में मात्रक आवश्यक है। कौन-सा सही है?",
+        "en": "Statement A: a measurement needs a number. Statement B: a measurement needs a unit. Which is correct?"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is correct",
+          "Both are wrong",
+          "Both A and B are correct",
+          "Only A is correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मापन संख्या और मात्रक की जोड़ी है — एक भी अधूरा तो मापन अधूरा।",
+        "en": "Measurement is the pair of number and unit — missing either leaves it incomplete."
+      }
+    },
+    {
+      "id": "phy1_q124",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक बच्चा कहता है 'मेरा बस्ता भारी है'। वैज्ञानिक दृष्टि से इस कथन में क्या कमी है?",
+        "en": "A child says 'my bag is heavy'. What does this statement lack from a scientific viewpoint?"
+      },
+      "options": {
+        "hi": [
+          "वर्तनी की गलती",
+          "व्याकरण",
+          "कोई कमी नहीं",
+          "मापा हुआ मान और मात्रक — 'भारी' केवल अनुभव है, मापन नहीं"
+        ],
+        "en": [
+          "A spelling mistake",
+          "Grammar",
+          "Nothing is lacking",
+          "A measured value with a unit — 'heavy' is only a feeling, not a measurement"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विज्ञान अनुभव को संख्या + मात्रक में बदलता है — जैसे 'बस्ता का द्रव्यमान 4 किलोग्राम'।",
+        "en": "Science converts experience into number + unit — e.g. 'the bag's mass is 4 kilograms'."
+      }
+    },
+    {
+      "id": "phy1_q125",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि सब्जी बेचने वाला प्रत्येक ग्राहक को अपनी 'मुट्ठी' से तौल दे, तो समस्या क्या होगी?",
+        "en": "If a vegetable seller weighs out using his own 'fistful' for every customer, what problem arises?"
+      },
+      "options": {
+        "hi": [
+          "मुट्ठी का आकार निश्चित नहीं — हर बार मात्रा अलग, कोई निष्पक्ष मापन नहीं",
+          "ग्राहक खुश होंगे",
+          "सब्जी खराब होगी",
+          "कोई समस्या नहीं"
+        ],
+        "en": [
+          "A fistful is not a fixed size — the amount differs every time, no fair measurement",
+          "Customers will be happy",
+          "Vegetables will spoil",
+          "No problem"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मापन का आधार निश्चितता है; शरीर के अंग निश्चित मानक नहीं दे सकते।",
+        "en": "Measurement rests on fixity; body parts cannot provide a fixed standard."
+      }
+    },
+    {
+      "id": "phy1_q126",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "राशि (quantity) और मात्रक (unit) में सही युग्म चुनिए —",
+        "en": "Pick the correct quantity–unit pair —"
+      },
+      "options": {
+        "hi": [
+          "समय — किलोग्राम",
+          "ताप — केल्विन",
+          "ताप — मीटर",
+          "द्रव्यमान — सेकंड"
+        ],
+        "en": [
+          "Time — kilogram",
+          "Temperature — kelvin",
+          "Temperature — metre",
+          "Mass — second"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पहले राशि पहचानो, फिर उसका SI मात्रक लगाओ — ताप का मात्रक केल्विन है।",
+        "en": "First identify the quantity, then attach its SI unit — kelvin belongs to temperature."
+      }
+    },
+    {
+      "id": "phy1_q127",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चीनी में '2 किलो' और नमक में '2 किलो' — दोनों की तुलना वैज्ञानिक रूप से किस आधार पर होती है?",
+        "en": "Sugar '2 kg' and salt '2 kg' — on what basis is the comparison scientifically made?"
+      },
+      "options": {
+        "hi": [
+          "दोनों खाने के काम आते हैं",
+          "दोनों बाजार से आए",
+          "दोनों का द्रव्यमान समान मानक इकाई (किलोग्राम) में समान है",
+          "दोनों सफेद हैं"
+        ],
+        "en": [
+          "Both are edible",
+          "Both came from the market",
+          "Both have equal mass in the same standard unit (kilogram)",
+          "Both are white"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पदार्थ भिन्न, राशि एक — द्रव्यमान; इकाई एक — किग्रा; तुलना सही।",
+        "en": "Different substances, same quantity — mass; same unit — kg; the comparison stands."
+      }
+    },
+    {
+      "id": "phy1_q128",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी प्रयोग की रिपोर्ट में केवल 'लंबाई = 3' लिखा है। यह रिपोर्ट किस कारण अस्वीकार्य है?",
+        "en": "A report states only 'length = 3'. Why is this report unacceptable?"
+      },
+      "options": {
+        "hi": [
+          "संख्या बहुत छोटी है",
+          "अंग्रेजी में नहीं लिखा",
+          "हस्तलेखन खराब है",
+          "मात्रक अनुपस्थित — सूचना अधूरी, दोहराया (verify) नहीं जा सकती"
+        ],
+        "en": [
+          "The number is too small",
+          "It is not written in English",
+          "The handwriting is poor",
+          "The unit is missing — the information is incomplete and cannot be verified"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बिना मात्रक का मान दोहराया नहीं जा सकता — विज्ञान में पुनरीक्षण ही सबूत है।",
+        "en": "A unitless value cannot be reproduced — and reproducibility is proof in science."
+      }
+    },
+    {
+      "id": "phy1_q129",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मापन का मान '40' है और मात्रक 'सेंटीमीटर' — पूरी सूचना से हमें क्या-क्या पता चलता है?",
+        "en": "The value is '40' and the unit is 'centimetre' — what all does the complete information tell us?"
+      },
+      "options": {
+        "hi": [
+          "राशि का प्रकार (लंबाई) और उसका संख्यात्मक मान दोनों",
+          "केवल संख्या",
+          "केवल राशि",
+          "कुछ नहीं"
+        ],
+        "en": [
+          "Both the type of quantity (length) and its numerical value",
+          "Only the number",
+          "Only the quantity",
+          "Nothing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "इकाई राशि बताती है, संख्या परिमाण — साथ में मापन संपूर्ण।",
+        "en": "The unit names the quantity, the number gives the size — together the measurement is complete."
+      }
+    },
+    {
+      "id": "phy1_q130",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पग/कदम (footstep) से दूरी मापने पर एक ही सड़क की दूरी अलग-अलग क्यों आती है?",
+        "en": "Why does the same road give different distances when measured by footsteps?"
+      },
+      "options": {
+        "hi": [
+          "मौसम का प्रभाव",
+          "हर व्यक्ति के कदम की लंबाई भिन्न होती है — इकाई अमानक है",
+          "सड़क बदल जाती है",
+          "कदम गिनने में गलती होती है"
+        ],
+        "en": [
+          "Effect of weather",
+          "Each person's step length differs — the unit is non-standard",
+          "The road changes",
+          "Mistakes in counting steps"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "इकाई ही अस्थिर तो मापन अस्थिर — इसीलिए निश्चिक मानक जरूरी हैं।",
+        "en": "An unstable unit makes unstable measurement — hence fixed standards are needed."
+      }
+    },
+    {
+      "id": "phy1_q131",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किस मापन-श्रेणी में 'समय' राशि आती है — वर्णन करें कि 100 मीटर दौड़ का परिणाम किस राशि में मिलता है?",
+        "en": "In what quantity is the result of a 100-metre race expressed?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान",
+          "ताप",
+          "समय (जैसे सेकंड में)",
+          "लंबाई"
+        ],
+        "en": [
+          "Mass",
+          "Temperature",
+          "Time (e.g. in seconds)",
+          "Length"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दौड़ की रिपोर्ट घड़ी से आती है — विजेता समय-मापन से तय होता है।",
+        "en": "The race report comes from the clock — timing decides the winner."
+      }
+    },
+    {
+      "id": "phy1_q132",
+      "topic": "need-for-measurement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि कोई राशि 'मात्रक-रहित संख्या' में रिकॉर्ड की जाती रही हो, तो सबसे गंभीर परिणाम क्या होगा?",
+        "en": "If quantities keep being recorded as unit-less numbers, what is the gravest consequence?"
+      },
+      "options": {
+        "hi": [
+          "फाइलें भारी होंगी",
+          "संख्याएँ खराब हो जाएँगी",
+          "कलम खत्म हो जाएगी",
+          "आगे की तुलना, सत्यापन और गणना — तीनों असंभव"
+        ],
+        "en": [
+          "Files become heavy",
+          "Numbers get spoilt",
+          "Pens run out",
+          "All later comparison, verification and calculation become impossible"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "इकाई-हीन रिकॉर्ड विज्ञान की स्मृति भ्रष्ट कर देता है — तुलना की जड़ कट जाती है।",
+        "en": "Unit-less records corrupt science's memory — the root of comparison is severed."
+      }
+    },
+    {
+      "id": "phy1_q133",
+      "topic": "need-for-measurement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कोई लेखा 'ताप = 25' लिखकर छोड़ देता है। इस अधूरे कथन से कौन-सी जानकारी अनिश्चित रह जाती है?",
+        "en": "A record reads 'temperature = 25' and stops. What information stays uncertain from this incomplete statement?"
+      },
+      "options": {
+        "hi": [
+          "यह केल्विन है या डिग्री सेल्सियस — दोनों में 25 का अर्थ भिन्न है",
+          "केवल यह कि संख्या दशमलव में है",
+          "केवल यह कि ताप गर्मी है",
+          "कोई अनिश्चितता नहीं"
+        ],
+        "en": [
+          "Whether it is kelvin or degree Celsius — 25 means different things in each",
+          "Only that the number is decimal",
+          "Only that it is warm",
+          "No uncertainty at all"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "25 K = −248 °C और 25 °C सामान्य गर्मी — मात्रक के बिना ताप की व्याख्या ही उलझ जाती है।",
+        "en": "25 K is −248 °C while 25 °C is ordinary warmth — without a unit even the interpretation flips."
+      }
+    },
+    {
+      "id": "phy1_q134",
+      "topic": "need-for-measurement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी अनुसंधान-पत्र (research paper) में सभी मान SI मात्रकों में होने चाहिए — इस पद्धति का तर्क क्या है?",
+        "en": "Research papers should state all values in SI units — what is the reasoning behind this practice?"
+      },
+      "options": {
+        "hi": [
+          "अन्य इकाइयाँ प्रतिबंधित हैं",
+          "किसी भी देश का पाठक मानक मात्रकों में ही परिणाम दोहरा सकता है",
+          "SI लिखने में छोटा होता है",
+          "SI केवल सुंदर दिखता है"
+        ],
+        "en": [
+          "Other units are banned",
+          "A reader in any country can reproduce the results only in standard units",
+          "SI is shorter to write",
+          "SI just looks nicer"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "साझा मानक = साझा विश्वास; पुनरुत्पादन विज्ञान की कसौटी है।",
+        "en": "Shared standard = shared trust; reproducibility is science's touchstone."
+      }
+    },
+    {
+      "id": "phy1_q135",
+      "topic": "need-for-measurement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सोचिए — दो कारखानों के पुर्ज़ों को जोड़ा जाना है। एक 'इंच' में और दूसरा 'मिलीमीटर' में माप रहा है और किसी ने मात्रक नहीं लिखा। सबसे संभावित परिणाम क्या होगा?",
+        "en": "Two factories must fit parts together. One measures in inches, the other in millimetres, and neither writes the unit. What is the most likely outcome?"
+      },
+      "options": {
+        "hi": [
+          "पुर्ज़े मजबूत बनेंगे",
+          "कोई प्रभाव नहीं",
+          "पुर्ज़े फिट नहीं होंगे — मात्रक-भ्रम से आकार बेमेल",
+          "सब कुछ सही जुड़ेगा"
+        ],
+        "en": [
+          "The parts become stronger",
+          "No effect",
+          "The parts will not fit — unit confusion mismatches sizes",
+          "Everything will fit perfectly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इतिहास में इकाई-भ्रम से महँगी विफलताएँ हुई हैं — मात्रक लिखना विवेक है, औपचारिकता नहीं।",
+        "en": "History holds costly failures from unit confusion — writing the unit is wisdom, not formality."
+      }
+    },
+    {
+      "id": "phy1_q136",
+      "topic": "need-for-measurement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'संख्या मात्रक के बिना अर्थहीन है' — इस कथन का सबसे गहरा कारण क्या है?",
+        "en": "What is the deepest reason behind 'a number without a unit is meaningless'?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि संख्याएँ बनाई गई हैं",
+          "क्योंकि मात्रक सुंदर हैं",
+          "क्योंकि शिक्षक ऐसा कहते हैं",
+          "संख्या केवल अनुपात है — मात्रक ही उसे भौतिक वास्तविकता से जोड़ता है"
+        ],
+        "en": [
+          "Because numbers are invented",
+          "Because units are beautiful",
+          "Because teachers say so",
+          "A number is only a ratio — the unit alone ties it to physical reality"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "5 क्या है — कुछ नहीं; 5 किग्रा — अब यह पदार्थ की सूचना है: मात्रक संख्या को देह देता है।",
+        "en": "What is 5 — nothing; 5 kg — now it is information about matter: the unit gives the number a body."
+      }
+    },
+    {
+      "id": "phy1_q137",
+      "topic": "need-for-measurement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मापन-पद्धति के विकास क्रम में सही क्रम कौन-सा है?",
+        "en": "Which is the correct order in the evolution of measurement methods?"
+      },
+      "options": {
+        "hi": [
+          "शरीर-आधारित इकाइाँ → स्थानीय मानक → अंतरराष्ट्रीय मानक (SI)",
+          "SI → शरीर-आधारित इकाइयाँ → स्थानीय मानक",
+          "स्थानीय मानक → शरीर-आधारित → SI",
+          "तीनों एक साथ बने"
+        ],
+        "en": [
+          "Body-based units → local standards → international standards (SI)",
+          "SI → body-based units → local standards",
+          "Local standards → body-based → SI",
+          "All three arose together"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मापन की यात्रा व्यक्तिगत अनुमान से विश्व-मानक तक — समस्या वही: सबके लिए एक जैसा मान।",
+        "en": "Measurement's journey runs from personal guess to world standard — the quest unchanged: one value for all."
+      }
+    },
+    {
+      "id": "phy1_q138",
+      "topic": "need-for-measurement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कोई वैज्ञानिक दावा करता है: 'मेरी विधि इतनी सटीक है कि मात्रक की जरूरत नहीं।' इस दावे की सबसे बड़ी त्रुटि क्या है?",
+        "en": "A scientist claims: 'My method is so precise that units are unnecessary.' What is the biggest flaw in this claim?"
+      },
+      "options": {
+        "hi": [
+          "कोई त्रुटि नहीं",
+          "मात्रक के बिना परिणाम की तुलना करने वाला दूसरा वैज्ञानिक उसे समझ ही नहीं सकता — सटीकता व्यर्थ",
+          "सटीक विधियाँ नहीं होतीं",
+          "वैज्ञानिक झूठ बोलते हैं"
+        ],
+        "en": [
+          "No flaw",
+          "Without a unit, no other scientist can even interpret the result for comparison — the precision is wasted",
+          "Precise methods do not exist",
+          "Scientists lie"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जिसे पढ़ा नहीं जा सके, उसे जाँचा नहीं जा सकता — मात्रक संवाद की शर्त है, सजावट नहीं।",
+        "en": "What cannot be read cannot be checked — the unit is a condition of communication, not decoration."
+      }
+    },
+    {
+      "id": "phy1_q139",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "3 मिनट 20 सेकंड में कुल कितने सेकंड होंगे?",
+        "en": "How many total seconds are there in 3 minutes 20 seconds?"
+      },
+      "options": {
+        "hi": [
+          "180 सेकंड",
+          "100 सेकंड",
+          "200 सेकंड",
+          "320 सेकंड"
+        ],
+        "en": [
+          "180 seconds",
+          "100 seconds",
+          "200 seconds",
+          "320 seconds"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "3 × 60 + 20 = 180 + 20 = 200 सेकंड — मिश्र इकाई को पहले एक इकाई में खोलें।",
+        "en": "3 × 60 + 20 = 180 + 20 = 200 s — first unfold the mixed unit into one."
+      }
+    },
+    {
+      "id": "phy1_q140",
+      "topic": "si-unit-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'0 K' (शून्य केल्विन) की भौतिक सार्थकता क्या है?",
+        "en": "What is the physical significance of '0 K' (zero kelvin)?"
+      },
+      "options": {
+        "hi": [
+          "यह पानी का हिमांक है",
+          "यह कमरे का ताप है",
+          "यह ताप का ऊपरी छोर है",
+          "यह परम शून्य है — सैद्धांतिक रूप से सबसे निम्न संभव ताप, जो −273°C के बराबर है"
+        ],
+        "en": [
+          "It is water's freezing point",
+          "It is room temperature",
+          "It is the upper limit of temperature",
+          "It is absolute zero — theoretically the lowest possible temperature, equal to −273°C"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "केल्विन पैमाने का शून्य सार्थक है — वही परम ठंड की सैद्धांतिक सीमा; सेल्सियस में वह −273°C।",
+        "en": "Zero on the kelvin scale is meaningful — the theoretical limit of ultimate cold; in Celsius that is −273°C."
+      }
+    },
+    {
+      "id": "phy1_q141",
+      "topic": "si-unit-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन: 'हर भौतिक राशि का अपना एक अलग SI मूल मात्रक होता है।' इस कथन की गलती क्या है?",
+        "en": "Statement: 'Every physical quantity has its own separate SI base unit.' What is wrong with it?"
+      },
+      "options": {
+        "hi": [
+          "बहुत सी राशियाँ (जैसे क्षेत्रफल, आयतन, बल) मूल मात्रकों से बनी व्युत्पन्न मात्रकों में मापी जाती हैं",
+          "कथन पूरी तरह सही है",
+          "मूल मात्रक केवल दो हैं",
+          "व्युत्पन्न मात्रक होते ही नहीं"
+        ],
+        "en": [
+          "Many quantities (like area, volume, force) are measured in derived units built from base units",
+          "The statement is fully correct",
+          "There are only two base units",
+          "Derived units do not exist"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मूल मात्रक सात ही हैं; बाकी राशियाँ इन्हीं के संयोजन से बनी इकाइयों में व्यक्त होती हैं।",
+        "en": "Base units are only seven; the rest of the quantities speak in units combined from these."
+      }
+    },
+    {
+      "id": "phy1_q142",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "SI प्रणाली में लंबाई का मूल मात्रक (base unit) क्या है?",
+        "en": "What is the SI base unit of length?"
+      },
+      "options": {
+        "hi": [
+          "किलोग्राम",
+          "मीटर (m)",
+          "सेंटीमीटर",
+          "किलोमीटर"
+        ],
+        "en": [
+          "Kilogram",
+          "Metre (m)",
+          "Centimetre",
+          "Kilometre"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लंबाई का SI मूल मात्रक मीटर है; सेंटीमीटर-किलोमीटर उपसर्गों से बनी इकाइयाँ हैं।",
+        "en": "The SI base unit of length is the metre; cm and km are prefix-derived units."
+      }
+    },
+    {
+      "id": "phy1_q143",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान (mass) का SI मूल मात्रक कौन-सा है?",
+        "en": "Which is the SI base unit of mass?"
+      },
+      "options": {
+        "hi": [
+          "न्यूटन",
+          "पाउंड",
+          "किलोग्राम (kg)",
+          "ग्राम"
+        ],
+        "en": [
+          "Newton",
+          "Pound",
+          "Kilogram (kg)",
+          "Gram"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव्यमान का मूल मात्रक किलोग्राम — ग्राम नहीं; यही परीक्षा का प्रिय जाल है।",
+        "en": "The base unit of mass is the kilogram — not the gram; a favourite exam trap."
+      }
+    },
+    {
+      "id": "phy1_q144",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समय का SI मात्रक क्या है?",
+        "en": "What is the SI unit of time?"
+      },
+      "options": {
+        "hi": [
+          "मिनट",
+          "घंटा",
+          "दिन",
+          "सेकंड (s)"
+        ],
+        "en": [
+          "Minute",
+          "Hour",
+          "Day",
+          "Second (s)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सेकंड ही समय का मूल मात्रक है; मिनट-घंटा उसके गुणज हैं।",
+        "en": "The second alone is the base unit of time; minutes and hours are its multiples."
+      }
+    },
+    {
+      "id": "phy1_q145",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत धारा (electric current) का SI मूल मात्रक कौन-सा है?",
+        "en": "Which is the SI base unit of electric current?"
+      },
+      "options": {
+        "hi": [
+          "एम्पियर (A)",
+          "वोल्ट",
+          "ओम",
+          "वाट"
+        ],
+        "en": [
+          "Ampere (A)",
+          "Volt",
+          "Ohm",
+          "Watt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एम्पियर विद्युत धारा का मूल मात्रक; वोल्ट-ओम-वाट अन्य राशियों की इकाइयाँ हैं।",
+        "en": "The ampere is the base unit of current; volt-ohm-watt belong to other quantities."
+      }
+    },
+    {
+      "id": "phy1_q146",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ताप (temperature) का SI मूल मात्रक क्या है?",
+        "en": "What is the SI base unit of temperature?"
+      },
+      "options": {
+        "hi": [
+          "जूल",
+          "केल्विन (K)",
+          "डिग्री सेल्सियस",
+          "फैरेनहाइट"
+        ],
+        "en": [
+          "Joule",
+          "Kelvin (K)",
+          "Degree Celsius",
+          "Fahrenheit"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "SI में ताप का मूल मात्रक केल्विन है; सेल्सियस-फैरेनहाइट व्यावहारिक पैमाने हैं।",
+        "en": "In SI the base unit of temperature is the kelvin; Celsius and Fahrenheit are practical scales."
+      }
+    },
+    {
+      "id": "phy1_q147",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ की मात्रा (amount of substance) का SI मात्रक कौन-सा है?",
+        "en": "Which is the SI unit of amount of substance?"
+      },
+      "options": {
+        "hi": [
+          "लीटर",
+          "मीटर",
+          "मोल (mol)",
+          "किलोग्राम"
+        ],
+        "en": [
+          "Litre",
+          "Metre",
+          "Mole (mol)",
+          "Kilogram"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मोल पदार्थ की मात्रा (कणों की संख्या-आधारित) की इकाई है — द्रव्यमान से भिन्न राशि।",
+        "en": "The mole measures amount of substance (particle-count based) — a quantity distinct from mass."
+      }
+    },
+    {
+      "id": "phy1_q148",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ज्योति तीव्रता (luminous intensity) का SI मूल मात्रक क्या है?",
+        "en": "What is the SI base unit of luminous intensity?"
+      },
+      "options": {
+        "hi": [
+          "ल्यूमेन",
+          "वाट",
+          "डेसिबल",
+          "कैंडेला (cd)"
+        ],
+        "en": [
+          "Lumen",
+          "Watt",
+          "Decibel",
+          "Candela (cd)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कैंडेला ज्योति तीव्रता का मूल मात्रक है — सात मूल मात्रकों की सूची का सातवाँ सदस्य।",
+        "en": "The candela is the base unit of luminous intensity — seventh member of the base-unit list."
+      }
+    },
+    {
+      "id": "phy1_q149",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "SI प्रणाली में मूल (base) मात्रक कुल कितने हैं?",
+        "en": "How many base units does the SI system have in total?"
+      },
+      "options": {
+        "hi": [
+          "7",
+          "5",
+          "10",
+          "12"
+        ],
+        "en": [
+          "7",
+          "5",
+          "10",
+          "12"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सात — मीटर, किलोग्राम, सेकंड, एम्पियर, केल्विन, मोल, कैंडेला।",
+        "en": "Seven — metre, kilogram, second, ampere, kelvin, mole, candela."
+      }
+    },
+    {
+      "id": "phy1_q150",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्षेत्रफल (area) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of area?"
+      },
+      "options": {
+        "hi": [
+          "वर्ग किलोग्राम",
+          "वर्ग मीटर (m²)",
+          "घन मीटर",
+          "मीटर"
+        ],
+        "en": [
+          "Square kilogram",
+          "Square metre (m²)",
+          "Cubic metre",
+          "Metre"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लंबाई × लंबाई = वर्ग मीटर — क्षेत्रफल दो-विमीय है।",
+        "en": "Length × length = square metre — area is two-dimensional."
+      }
+    },
+    {
+      "id": "phy1_q151",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आयतन (volume) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of volume?"
+      },
+      "options": {
+        "hi": [
+          "मीटर",
+          "लीटर",
+          "घन मीटर (m³)",
+          "वर्ग मीटर"
+        ],
+        "en": [
+          "Metre",
+          "Litre",
+          "Cubic metre (m³)",
+          "Square metre"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लंबाई × चौड़ाई × ऊँचाई = घन मीटर; लीटर व्यावहारिक इकाई है।",
+        "en": "Length × breadth × height = cubic metre; the litre is a practical unit."
+      }
+    },
+    {
+      "id": "phy1_q152",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किलोग्राम का सही प्रतीक (symbol) कौन-सा है?",
+        "en": "Which is the correct symbol for kilogram?"
+      },
+      "options": {
+        "hi": [
+          "KG",
+          "Kg",
+          "kG",
+          "kg"
+        ],
+        "en": [
+          "KG",
+          "Kg",
+          "kG",
+          "kg"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "SI प्रतीक निश्चित लिखित रूप के साथ आते हैं — kg छोटे अक्षरों में।",
+        "en": "SI symbols come in fixed written forms — kg in lowercase."
+      }
+    },
+    {
+      "id": "phy1_q153",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "केल्विन का सही प्रतीक कौन-सा है?",
+        "en": "Which is the correct symbol for kelvin?"
+      },
+      "options": {
+        "hi": [
+          "K",
+          "k",
+          "°K",
+          "Ke"
+        ],
+        "en": [
+          "K",
+          "k",
+          "°K",
+          "Ke"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "केल्विन का प्रतीक बड़ा K है और इसके साथ डिग्री (°) का चिह्न नहीं लगता।",
+        "en": "Kelvin's symbol is capital K, and it never carries the degree (°) sign."
+      }
+    },
+    {
+      "id": "phy1_q154",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'सेकंड' राशि किस भौतिक राशि से संबंधित है?",
+        "en": "The unit 'second' belongs to which physical quantity?"
+      },
+      "options": {
+        "hi": [
+          "ताप",
+          "समय",
+          "लंबाई",
+          "द्रव्यमान"
+        ],
+        "en": [
+          "Temperature",
+          "Time",
+          "Length",
+          "Mass"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सेकंड समय की इकाई — सात मूल मात्रकों में तीसरा।",
+        "en": "The second is the unit of time — third of the seven base units."
+      }
+    },
+    {
+      "id": "phy1_q155",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा मूल मात्रक नहीं है?",
+        "en": "Which of the following is NOT a base unit?"
+      },
+      "options": {
+        "hi": [
+          "सेकंड",
+          "मोल",
+          "लीटर",
+          "मीटर"
+        ],
+        "en": [
+          "Second",
+          "Mole",
+          "Litre",
+          "Metre"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लीटर आयतन की सामान्य इकाई है, SI मूल मात्रक नहीं — आयतन का SI मात्रक घन मीटर है।",
+        "en": "The litre is a common unit of volume, not an SI base unit — volume's SI unit is the cubic metre."
+      }
+    },
+    {
+      "id": "phy1_q156",
+      "topic": "si-unit-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'कैंडेला' मात्रक किस राशि के लिए है?",
+        "en": "The unit 'candela' is for which quantity?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि तीव्रता",
+          "विद्युत धारा",
+          "द्रव्यमान",
+          "ज्योति तीव्रता"
+        ],
+        "en": [
+          "Sound intensity",
+          "Electric current",
+          "Mass",
+          "Luminous intensity"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मोमबत्ती (candle) शब्द से बना कैंडेला — प्रकाश की तीव्रता की इकाई।",
+        "en": "From 'candle' comes candela — the unit of light intensity."
+      }
+    },
+    {
+      "id": "phy1_q157",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उपसर्ग 'मिली' (milli) का मान क्या है?",
+        "en": "What is the value of the prefix 'milli'?"
+      },
+      "options": {
+        "hi": [
+          "1/1000",
+          "1/100",
+          "1000",
+          "100"
+        ],
+        "en": [
+          "1/1000",
+          "1/100",
+          "1000",
+          "100"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मिली = हज़ारवाँ भाग — 1 मीटर = 1000 मिलीमीटर।",
+        "en": "milli = one-thousandth — 1 m = 1000 mm."
+      }
+    },
+    {
+      "id": "phy1_q158",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उपसर्ग 'मेगा' (mega) का मान क्या होता है?",
+        "en": "What is the value of the prefix 'mega'?"
+      },
+      "options": {
+        "hi": [
+          "1/1000",
+          "10 लाख (10⁶)",
+          "1000",
+          "100"
+        ],
+        "en": [
+          "1/1000",
+          "One million (10⁶)",
+          "1000",
+          "100"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मेगा = 10⁶ — किलो (10³) से एक सीढ़ी ऊपर।",
+        "en": "mega = 10⁶ — one ladder step above kilo (10³)."
+      }
+    },
+    {
+      "id": "phy1_q159",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2.5 किलोमीटर में कितने मीटर होते हैं?",
+        "en": "How many metres are there in 2.5 kilometres?"
+      },
+      "options": {
+        "hi": [
+          "25 मीटर",
+          "25000 मीटर",
+          "2500 मीटर",
+          "250 मीटर"
+        ],
+        "en": [
+          "25 metres",
+          "25000 metres",
+          "2500 metres",
+          "250 metres"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "2.5 × 1000 = 2500 मीटर — किलो लगाने पर 1000 से गुणा।",
+        "en": "2.5 × 1000 = 2500 m — applying kilo multiplies by 1000."
+      }
+    },
+    {
+      "id": "phy1_q160",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "300 सेंटीमीटर को मीटर में बदलने पर क्या मिलेगा?",
+        "en": "Converting 300 centimetres into metres gives —"
+      },
+      "options": {
+        "hi": [
+          "30 मीटर",
+          "0.3 मीटर",
+          "3000 मीटर",
+          "3 मीटर"
+        ],
+        "en": [
+          "30 metres",
+          "0.3 metres",
+          "3000 metres",
+          "3 metres"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "300 ÷ 100 = 3 मीटर — सेंटी हटाने पर 100 से भाग।",
+        "en": "300 ÷ 100 = 3 m — removing centi divides by 100."
+      }
+    },
+    {
+      "id": "phy1_q161",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.5 किलोग्राम में कितने ग्राम होंगे?",
+        "en": "How many grams are there in 0.5 kilograms?"
+      },
+      "options": {
+        "hi": [
+          "500 ग्राम",
+          "50 ग्राम",
+          "5 ग्राम",
+          "5000 ग्राम"
+        ],
+        "en": [
+          "500 grams",
+          "50 grams",
+          "5 grams",
+          "5000 grams"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "0.5 × 1000 = 500 ग्राम।",
+        "en": "0.5 × 1000 = 500 g."
+      }
+    },
+    {
+      "id": "phy1_q162",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 घंटे में कितने सेकंड होते हैं?",
+        "en": "How many seconds are there in 2 hours?"
+      },
+      "options": {
+        "hi": [
+          "720 सेकंड",
+          "7200 सेकंड",
+          "3600 सेकंड",
+          "1200 सेकंड"
+        ],
+        "en": [
+          "720 seconds",
+          "7200 seconds",
+          "3600 seconds",
+          "1200 seconds"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "2 × 60 × 60 = 7200 सेकंड — घंटा → मिनट → सेकंड की सीढ़ी।",
+        "en": "2 × 60 × 60 = 7200 s — the hour → minute → second ladder."
+      }
+    },
+    {
+      "id": "phy1_q163",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "250 मिलीमीटर कितने सेंटीमीटर बनते हैं?",
+        "en": "250 millimetres equal how many centimetres?"
+      },
+      "options": {
+        "hi": [
+          "2500 सेंटीमीटर",
+          "25000 सेंटीमीटर",
+          "25 सेंटीमीटर",
+          "2.5 सेंटीमीटर"
+        ],
+        "en": [
+          "2500 centimetres",
+          "25000 centimetres",
+          "25 centimetres",
+          "2.5 centimetres"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "250 × (1/1000) मीटर = 0.25 मीटर = 25 सेंटीमीटर; या 250 ÷ 10 = 25 सेमी।",
+        "en": "250 × (1/1000) m = 0.25 m = 25 cm; or 250 ÷ 10 = 25 cm."
+      }
+    },
+    {
+      "id": "phy1_q164",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0°C को केल्विन में व्यक्त करने पर क्या मिलता है?",
+        "en": "Expressing 0°C in kelvin gives —"
+      },
+      "options": {
+        "hi": [
+          "0 K",
+          "100 K",
+          "−273 K",
+          "273 K"
+        ],
+        "en": [
+          "0 K",
+          "100 K",
+          "−273 K",
+          "273 K"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "K = °C + 273 → 0 + 273 = 273 K — पानी का हिमांक 273 K।",
+        "en": "K = °C + 273 → 0 + 273 = 273 K — water's freezing point."
+      }
+    },
+    {
+      "id": "phy1_q165",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "27°C को केल्विन पैमाने में कितना होगा?",
+        "en": "What is 27°C on the kelvin scale?"
+      },
+      "options": {
+        "hi": [
+          "300 K",
+          "273 K",
+          "300°K",
+          "54 K"
+        ],
+        "en": [
+          "300 K",
+          "273 K",
+          "300°K",
+          "54 K"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "27 + 273 = 300 K; K के साथ डिग्री चिह्न नहीं लिखते।",
+        "en": "27 + 273 = 300 K; no degree sign with K."
+      }
+    },
+    {
+      "id": "phy1_q166",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सामान्य दाब पर पानी का क्वथनांक 100°C है — केल्विन में यह कितना होगा?",
+        "en": "Water boils at 100°C at normal pressure — what is this in kelvin?"
+      },
+      "options": {
+        "hi": [
+          "100 K",
+          "373 K",
+          "273 K",
+          "173 K"
+        ],
+        "en": [
+          "100 K",
+          "373 K",
+          "273 K",
+          "173 K"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "100 + 273 = 373 K — केल्विन पैमाने पर उबलने का आंकिक मान हमेशा बड़ा।",
+        "en": "100 + 273 = 373 K — boiling reads numerically larger on the kelvin scale."
+      }
+    },
+    {
+      "id": "phy1_q167",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 मीटर × 3 मीटर की दीवार का क्षेत्रफल किस इकाई और कितना होगा?",
+        "en": "A wall 2 m × 3 m has an area of what size and unit?"
+      },
+      "options": {
+        "hi": [
+          "5 मीटर",
+          "6 मीटर",
+          "6 वर्ग मीटर (m²)",
+          "6 घन मीटर"
+        ],
+        "en": [
+          "5 metres",
+          "6 metres",
+          "6 square metres (m²)",
+          "6 cubic metres"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्षेत्रफल = 2 × 3 = 6 m² — मीटर × मीटर वर्ग मीटर देता है।",
+        "en": "Area = 2 × 3 = 6 m² — metre × metre yields square metres."
+      }
+    },
+    {
+      "id": "phy1_q168",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 सेंटीमीटर भुजा वाले घन (cube) का आयतन कितना होगा?",
+        "en": "What is the volume of a cube of side 10 centimetres?"
+      },
+      "options": {
+        "hi": [
+          "100 घन सेंटीमीटर",
+          "30 घन सेंटीमीटर",
+          "10 घन सेंटीमीटर",
+          "1000 घन सेंटीमीटर"
+        ],
+        "en": [
+          "100 cubic centimetres",
+          "30 cubic centimetres",
+          "10 cubic centimetres",
+          "1000 cubic centimetres"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आयतन = 10 × 10 × 10 = 1000 सेमी³ — तीन विमाओं का गुणन।",
+        "en": "Volume = 10 × 10 × 10 = 1000 cm³ — a product of three dimensions."
+      }
+    },
+    {
+      "id": "phy1_q169",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सी इकाई SI मूल मात्रक नहीं है — न्यूटन, सेकंड, मोल, कैंडेला?",
+        "en": "Which of these is NOT an SI base unit — newton, second, mole, candela?"
+      },
+      "options": {
+        "hi": [
+          "न्यूटन",
+          "सेकंड",
+          "मोल",
+          "कैंडेला"
+        ],
+        "en": [
+          "Newton",
+          "Second",
+          "Mole",
+          "Candela"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "न्यूटन बल का (व्युत्पन्न) मात्रक है — भार की इकाई; मूल सूची में नहीं।",
+        "en": "The newton is a (derived) unit of force — the unit of weight; not in the base list."
+      }
+    },
+    {
+      "id": "phy1_q170",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "राशि→मात्रक का गलत युग्म कौन-सा है?",
+        "en": "Which quantity→unit pair is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "ताप — केल्विन",
+          "भार — किलोग्राम",
+          "लंबाई — मीटर",
+          "समय — सेकंड"
+        ],
+        "en": [
+          "Temperature — kelvin",
+          "Weight — kilogram",
+          "Length — metre",
+          "Time — second"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "भार बल है, उसकी इकाई न्यूटन; किलोग्राम द्रव्यमान की इकाई — यही परीक्षा-जाल है।",
+        "en": "Weight is a force measured in newtons; the kilogram measures mass — the classic exam trap."
+      }
+    },
+    {
+      "id": "phy1_q171",
+      "topic": "si-unit-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'मोल' और 'किलोग्राम' दोनों पदार्थ से जुड़ी इकाइयाँ हैं — दोनों की मापी राशि भिन्न क्यों है?",
+        "en": "Both 'mole' and 'kilogram' relate to substances — why are the quantities they measure different?"
+      },
+      "options": {
+        "hi": [
+          "मोल ग्राम का पर्याय है",
+          "किलोग्राम संख्या गिनता है",
+          "मोल कणों की संख्या-आधारित मात्रा है, किलोग्राम द्रव्यमान — दो अलग भौतिक राशियाँ",
+          "दोनों एक ही हैं"
+        ],
+        "en": [
+          "Mole is a synonym of gram",
+          "Kilogram counts numbers",
+          "The mole counts particle-amount, the kilogram measures mass — two distinct physical quantities",
+          "Both are the same"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक ही थैली चीनी: द्रव्यमान 1 किग्रा, पर मोल उसमें छुपे कणों की गिनती बताता है।",
+        "en": "One bag of sugar: mass 1 kg, but the mole counts the particles hidden within."
+      }
+    },
+    {
+      "id": "phy1_q172",
+      "topic": "si-unit-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "केल्विन और डिग्री सेल्सियस — दोनों के 'एक अंश' (degree size) का आकार समान होता है, फिर भी दोनों भिन्न क्यों गिने जाते हैं?",
+        "en": "Kelvin and degree Celsius have the same step size — why are they still counted as different?"
+      },
+      "options": {
+        "hi": [
+          "केल्विन छोटा होता है",
+          "सेल्सियस वैज्ञानिक नहीं है",
+          "कोई भेद नहीं",
+          "दोनों के शून्य-बिंदु भिन्न हैं: 0 K परम शून्य है, 0°C पानी का हिमांक"
+        ],
+        "en": [
+          "Kelvin is smaller",
+          "Celsius is unscientific",
+          "No difference",
+          "Their zero points differ: 0 K is absolute zero, 0°C is water's freezing point"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सीढ़ियों की चौड़ाई बराबर, पर फर्श से पहली सीढ़ी की ऊँचाई अलग — शून्य का फर्क ही दोनों को अलग करता है।",
+        "en": "Equal step widths, but the first step sits at a different height — the zero offset is what separates them."
+      }
+    },
+    {
+      "id": "phy1_q173",
+      "topic": "si-unit-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन जाँचिए — A: ताप का SI मात्रक सेल्सियस है। B: 0°C = 273 K। कौन-सा सही/गलत है?",
+        "en": "Evaluate — A: the SI unit of temperature is Celsius. B: 0°C = 273 K. Which is right/wrong?"
+      },
+      "options": {
+        "hi": [
+          "A गलत, B सही",
+          "A सही, B गलत",
+          "दोनों सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "A wrong, B right",
+          "A right, B wrong",
+          "Both right",
+          "Both wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "SI में केल्विन; और 0°C + 273 = 273 K — पहला कथन मात्रक-जाल, दूसरा परिवर्तन-सूत्र।",
+        "en": "In SI it is kelvin; and 0°C + 273 = 273 K — the first is a unit trap, the second the conversion."
+      }
+    },
+    {
+      "id": "phy1_q174",
+      "topic": "si-unit-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक विद्यार्थी 2 मेगामीटर को '2000 मीटर' लिखता है। गलती कहाँ है?",
+        "en": "A student writes 2 megametres as '2000 metres'. Where is the mistake?"
+      },
+      "options": {
+        "hi": [
+          "मेगामीटर मात्रक ही नहीं होता",
+          "मेगा = 10⁶ है, अतः 2 मेगामीटर = 2,000,000 मीटर — उसने मेगा को किलो मान लिया",
+          "कोई गलती नहीं",
+          "उसने गुणा की जगह भाग किया"
+        ],
+        "en": [
+          "Megametre is not a unit",
+          "Mega = 10⁶, so 2 Mm = 2,000,000 m — the student treated mega as kilo",
+          "No mistake",
+          "The student divided instead of multiplying"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "किलो की सीढ़ी 10³, मेगा की 10⁶ — एक सीढ़ी की भूल दस गुना फर्क देती है।",
+        "en": "Kilo's ladder is 10³, mega's is 10⁶ — a one-step slip makes a tenfold error."
+      }
+    },
+    {
+      "id": "phy1_q175",
+      "topic": "si-unit-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किलोग्राम और वर्ग मीटर क्रमशः किस प्रकार की इकाइयाँ हैं?",
+        "en": "What kinds of units are the kilogram and the square metre, respectively?"
+      },
+      "options": {
+        "hi": [
+          "दोनों व्युत्पन्न",
+          "दोनों गैर-SI",
+          "मूल मात्रक और व्युत्पन्न (derived) मात्रक",
+          "दोनों मूल"
+        ],
+        "en": [
+          "Both derived",
+          "Both non-SI",
+          "A base unit and a derived unit",
+          "Both base"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "किग्रा सात मूल में से एक; वर्ग मीटर मीटर से निकला व्युत्पन्न मात्रक।",
+        "en": "kg is one of the seven base units; m² is derived from the metre."
+      }
+    },
+    {
+      "id": "phy1_q176",
+      "topic": "si-unit-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि कोई राशि 'कैंडेला में' दी गई हो, तो वह राशि किस आयाम (dimension) से संबंधित है?",
+        "en": "If a quantity is given 'in candela', which aspect of the world does it relate to?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि का स्तर",
+          "ऊष्मा की मात्रा",
+          "बल का प्रभाव",
+          "प्रकाश की तीव्रता (दीप्ति)"
+        ],
+        "en": [
+          "Level of sound",
+          "Amount of heat",
+          "Effect of force",
+          "Intensity of light (luminosity)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कैंडेला केवल प्रकाश-तीव्रता की दुनिया में बोलता है — सात मूल मात्रकों में सबसे कम जाना-पहचाना।",
+        "en": "Candela speaks only in the world of light intensity — the least familiar of the seven base units."
+      }
+    },
+    {
+      "id": "phy1_q177",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लंबाई मापने का सामान्य उपकरण कौन-सा है?",
+        "en": "Which is the common instrument for measuring length?"
+      },
+      "options": {
+        "hi": [
+          "मीटर स्केल",
+          "तुला",
+          "स्टॉपवॉच",
+          "थर्मामीटर"
+        ],
+        "en": [
+          "Metre scale",
+          "Balance",
+          "Stopwatch",
+          "Thermometer"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लंबाई की सामान्य माप मीटर स्केल से होती है।",
+        "en": "Ordinary length measurement is done with a metre scale."
+      }
+    },
+    {
+      "id": "phy1_q178",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान (mass) मापने का उपकरण कौन-सा है?",
+        "en": "Which instrument is used to measure mass?"
+      },
+      "options": {
+        "hi": [
+          "पेंचमापी",
+          "तुला (balance)",
+          "मीटर स्केल",
+          "स्टॉपवॉच"
+        ],
+        "en": [
+          "Screw gauge",
+          "Balance",
+          "Metre scale",
+          "Stopwatch"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "द्रव्यमान तुला से मापा जाता है — सेकंडों में नहीं, किलोग्राम में।",
+        "en": "Mass is measured with a balance — in kilograms, not seconds."
+      }
+    },
+    {
+      "id": "phy1_q179",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समय मापने के लिए कौन-से उपकरण प्रयुक्त होते हैं?",
+        "en": "Which instruments are used to measure time?"
+      },
+      "options": {
+        "hi": [
+          "स्क्रू गेज और घड़ी",
+          "थर्मामीटर और तुला",
+          "घड़ी और स्टॉपवॉच",
+          "तुला और स्केल"
+        ],
+        "en": [
+          "Screw gauge and clock",
+          "Thermometer and balance",
+          "Clock and stopwatch",
+          "Balance and scale"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घड़ी सामान्य समय के लिए, स्टॉपवॉच दौड़-प्रयोग जैसे छोटे अंतराल के लिए।",
+        "en": "The clock for ordinary time, the stopwatch for short intervals like races and experiments."
+      }
+    },
+    {
+      "id": "phy1_q180",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कमरे की लंबाई मापने के लिए सबसे उपयुक्त उपकरण क्या है?",
+        "en": "What is the most suitable instrument for measuring a room's length?"
+      },
+      "options": {
+        "hi": [
+          "पेंचमापी (स्क्रू गेज)",
+          "वर्नियर कैलिपर्स",
+          "स्टॉपवॉच",
+          "मीटर की फीता/स्केल"
+        ],
+        "en": [
+          "Screw gauge",
+          "Vernier callipers",
+          "Stopwatch",
+          "A metre tape/scale"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "राशि के आकार के अनुसार उपकरण — कमरे जैसी बड़ी लंबाई मीटर फीते से।",
+        "en": "The instrument follows the size of the job — room-sized lengths need a metre tape."
+      }
+    },
+    {
+      "id": "phy1_q181",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तार की मोटाई जैसी बहुत छोटी लंबाई कौन-सा उपकरण मापता है?",
+        "en": "Which instrument measures very small lengths like a wire's thickness?"
+      },
+      "options": {
+        "hi": [
+          "पेंचमापी (स्क्रू गेज)",
+          "मीटर स्केल",
+          "घड़ी",
+          "तुला"
+        ],
+        "en": [
+          "Screw gauge",
+          "Metre scale",
+          "Clock",
+          "Balance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जितना बारीक काम, उतना बारीक औज़ार — तार की मोटाई स्क्रू गेज का काम।",
+        "en": "The finer the job, the finer the tool — wire thickness is the screw gauge's work."
+      }
+    },
+    {
+      "id": "phy1_q182",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वर्नियर कैलिपर्स किस राशि के मापन में प्रयुक्त होते हैं?",
+        "en": "Vernier callipers are used to measure which quantity?"
+      },
+      "options": {
+        "hi": [
+          "ताप",
+          "लंबाई",
+          "द्रव्यमान",
+          "समय"
+        ],
+        "en": [
+          "Temperature",
+          "Length",
+          "Mass",
+          "Time"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वर्नियर कैलिपर्स लंबाई के सूक्ष्म मापन का उपकरण है।",
+        "en": "Vernier callipers are an instrument for fine length measurement."
+      }
+    },
+    {
+      "id": "phy1_q183",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान का SI मात्रक क्या है?",
+        "en": "What is the SI unit of mass?"
+      },
+      "options": {
+        "hi": [
+          "सेकंड",
+          "मीटर",
+          "किलोग्राम",
+          "न्यूटन"
+        ],
+        "en": [
+          "Second",
+          "Metre",
+          "Kilogram",
+          "Newton"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव्यमान — किलोग्राम; न्यूटन भार की इकाई है।",
+        "en": "Mass — kilogram; the newton is the unit of weight."
+      }
+    },
+    {
+      "id": "phy1_q184",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भार (weight) किस प्रकार की भौतिक राशि है?",
+        "en": "What kind of physical quantity is weight?"
+      },
+      "options": {
+        "hi": [
+          "लंबाई",
+          "समय",
+          "पदार्थ की मात्रा",
+          "बल"
+        ],
+        "en": [
+          "A length",
+          "A time",
+          "An amount of substance",
+          "A force"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "भार वह बल है जिससे पृथ्वी पिंड को खींचती है — इसलिए उसकी इकाई न्यूटन।",
+        "en": "Weight is the force with which the earth pulls a body — hence its unit is the newton."
+      }
+    },
+    {
+      "id": "phy1_q185",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तुला (balance) वास्तव में क्या मापती है?",
+        "en": "What does a balance actually measure?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान",
+          "भार",
+          "आयतन",
+          "लंबाई"
+        ],
+        "en": [
+          "Mass",
+          "Weight",
+          "Volume",
+          "Length"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तुला दोनों पहलुओं के द्रव्यमान की तुलना करती है — भार नहीं।",
+        "en": "A balance compares the masses on its two pans — not their weights."
+      }
+    },
+    {
+      "id": "phy1_q186",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किताब की लंबाई मापते समय आँख कहाँ रखनी चाहिए?",
+        "en": "Where should the eye be placed while measuring the length of a book?"
+      },
+      "options": {
+        "hi": [
+          "दाईं ओर से",
+          "पाठ्यांक (mark) के ठीक ऊपर, लंबवत दिशा में",
+          "तिरछी दिशा में",
+          "बाईं ओर से"
+        ],
+        "en": [
+          "From the right side",
+          "Directly above the mark, perpendicular",
+          "At a slant",
+          "From the left side"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लंबवत दृष्टि ही वह देखती है जो स्केल पर है — तिरछी नज़र पाठ्यांक बदल देती है।",
+        "en": "Only a perpendicular gaze sees what the scale shows — a slanted view shifts the reading."
+      }
+    },
+    {
+      "id": "phy1_q187",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्कूल की दौड़ में समय कौन-सा उपकरण रिकॉर्ड करता है?",
+        "en": "Which instrument records time in a school race?"
+      },
+      "options": {
+        "hi": [
+          "मीटर स्केल",
+          "वर्नियर कैलिपर्स",
+          "स्टॉपवॉच",
+          "तुला"
+        ],
+        "en": [
+          "Metre scale",
+          "Vernier callipers",
+          "Stopwatch",
+          "Balance"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्टॉपवॉच के बटन से सेकंडों का हिसाब — दौड़ का साथी।",
+        "en": "The stopwatch's button counts the seconds — the runner's companion."
+      }
+    },
+    {
+      "id": "phy1_q188",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कपड़े की दुकान पर कपड़ा किस उपकरण से मापा जाता है?",
+        "en": "In a cloth shop, cloth is measured with which instrument?"
+      },
+      "options": {
+        "hi": [
+          "स्क्रू गेज",
+          "तुला",
+          "स्टॉपवॉच",
+          "मीटर की पैमाइश/फीता"
+        ],
+        "en": [
+          "Screw gauge",
+          "Balance",
+          "Stopwatch",
+          "A metre scale/tape"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कपड़े की लंबाई मीटर में — मीटर की छड़ी/फीता से।",
+        "en": "Cloth length in metres — measured by the metre stick or tape."
+      }
+    },
+    {
+      "id": "phy1_q189",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भार की SI इकाई क्या है?",
+        "en": "What is the SI unit of weight?"
+      },
+      "options": {
+        "hi": [
+          "न्यूटन",
+          "किलोग्राम",
+          "जूल",
+          "वाट"
+        ],
+        "en": [
+          "Newton",
+          "Kilogram",
+          "Joule",
+          "Watt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भार बल है → न्यूटन; किलोग्राम द्रव्यमान की इकाई है।",
+        "en": "Weight is a force → newton; the kilogram belongs to mass."
+      }
+    },
+    {
+      "id": "phy1_q190",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से त्रुटिपूर्ण कथन कौन-सा है?",
+        "en": "Which statement is INCORRECT?"
+      },
+      "options": {
+        "hi": [
+          "भार की इकाई न्यूटन है",
+          "द्रव्यमान और भार एक ही राशि हैं",
+          "द्रव्यमान की इकाई किलोग्राम है",
+          "भार एक बल है"
+        ],
+        "en": [
+          "The unit of weight is newton",
+          "Mass and weight are the same quantity",
+          "The unit of mass is kilogram",
+          "Weight is a force"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पहला कथन ही जाल है — द्रव्यमान पदार्थ की मात्रा, भार खिंचाव का बल।",
+        "en": "The first statement is the trap — mass is the amount of matter, weight the pull of gravity."
+      }
+    },
+    {
+      "id": "phy1_q191",
+      "topic": "length-mass-time",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किराना दुकान पर तौलने के लिए कौन-सा उपकरण उपयुक्त है?",
+        "en": "Which instrument is appropriate for weighing goods at a grocery shop?"
+      },
+      "options": {
+        "hi": [
+          "वर्नियर कैलिपर्स",
+          "मीटर स्केल",
+          "तुला",
+          "स्टॉपवॉच"
+        ],
+        "en": [
+          "Vernier callipers",
+          "Metre scale",
+          "Balance",
+          "Stopwatch"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तौल = द्रव्यमान की माप = तुला का काम।",
+        "en": "Weighing = measuring mass = the balance's job."
+      }
+    },
+    {
+      "id": "phy1_q192",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "डोरी की मोटाई और कमरे की लंबाई मापने के लिए क्रमशः कौन-से उपकरण उपयुक्त हैं?",
+        "en": "Which instruments suit measuring a rope's thickness and a room's length, respectively?"
+      },
+      "options": {
+        "hi": [
+          "मीटर फीता और पेंचमापी",
+          "तुला और स्टॉपवॉच",
+          "दोनों के लिए स्टॉपवॉच",
+          "पेंचमापी और मीटर फीता"
+        ],
+        "en": [
+          "Metre tape and screw gauge",
+          "Balance and stopwatch",
+          "Stopwatch for both",
+          "Screw gauge and metre tape"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बारीक काम को बारीक औज़ार, बड़े काम को लंबा औज़ार — राशि के आकार से उपकरण बदलता है।",
+        "en": "Fine job, fine tool; large job, long tool — the instrument changes with the size of the quantity."
+      }
+    },
+    {
+      "id": "phy1_q193",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किताब की मोटाई नापने के लिए मीटर स्केल की तुलना में वर्नियर कैलिपर्स क्यों बेहतर हैं?",
+        "en": "Why are vernier callipers better than a metre scale for measuring a book's thickness?"
+      },
+      "options": {
+        "hi": [
+          "कैलिपर्स में लघुत्तम माप (अंतराल) बहुत छोटा होता है — सूक्ष्म अंतर भी पकड़ में आता है",
+          "कैलिपर्स में रंग अच्छा होता है",
+          "स्केल टूट जाता है",
+          "कैलिपर्स हल्के होते हैं"
+        ],
+        "en": [
+          "The callipers' least interval is very small — even tiny differences are caught",
+          "The callipers have a nicer colour",
+          "The scale breaks",
+          "The callipers are lighter"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जिस उपकरण की न्यूनतम पहचान जितनी बारीक, मापन उतना सूक्ष्म।",
+        "en": "The finer an instrument's smallest readable step, the finer its measurement."
+      }
+    },
+    {
+      "id": "phy1_q194",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चाँद पर जाने पर किसी व्यक्ति का द्रव्यमान क्या होगा?",
+        "en": "What happens to a person's mass on going to the moon?"
+      },
+      "options": {
+        "hi": [
+          "आधी हो जाती है",
+          "वह अपरिवर्तित रहती है",
+          "शून्य हो जाती है",
+          "छह गुना बढ़ जाती है"
+        ],
+        "en": [
+          "It halves",
+          "It remains unchanged",
+          "It becomes zero",
+          "It becomes six times"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "द्रव्यमान पदार्थ की अपनी संपत्ति है — जगह बदलने से नहीं बदलती।",
+        "en": "Mass is the matter's own property — changing place does not change it."
+      }
+    },
+    {
+      "id": "phy1_q195",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चाँद पर व्यक्ति का भार क्यों कम हो जाता है?",
+        "en": "Why does a person's weight decrease on the moon?"
+      },
+      "options": {
+        "hi": [
+          "चाँद पर कोई बल नहीं होता",
+          "वहाँ तुला नहीं होती",
+          "चाँद का गुरुत्वीय खिंचाव पृथ्वी से कम है, और भार वही बल है",
+          "द्रव्यमान कम हो जाता है"
+        ],
+        "en": [
+          "No force exists on the moon",
+          "There is no balance there",
+          "The moon's gravitational pull is less than the earth's, and weight is exactly that force",
+          "The mass decreases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "भार खिंचाव पर टिका है — खिंचाव घटा तो भार घटा; द्रव्यमान ज्यों का त्यों।",
+        "en": "Weight rides on pull — less pull, less weight; the mass stays put."
+      }
+    },
+    {
+      "id": "phy1_q196",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दुकान की मशीन '5 किलो' बताती है — यह तकनीकी रूप से क्या है?",
+        "en": "A shop machine shows '5 kilos' — what is this technically?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु का भार (न्यूटन में)",
+          "वस्तु का आयतन",
+          "वस्तु की लंबाई",
+          "वस्तु का द्रव्यमान (किलोग्राम में)"
+        ],
+        "en": [
+          "The goods' weight (in newtons)",
+          "The goods' volume",
+          "The goods' length",
+          "The goods' mass (in kilograms)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दैनिक भाषा का 'वज़न' विज्ञान का द्रव्यमान है — किग्रा में; न्यूटन वाला भार अलग राशि।",
+        "en": "Daily-life 'weight' is science's mass — in kg; the newton-weight is a different quantity."
+      }
+    },
+    {
+      "id": "phy1_q197",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो-पलड़ी तुला में एक पलड़े पर वस्तु और दूसरे पर मानक बाट — तुला संतुलन पर क्या सिद्ध होता है?",
+        "en": "On a two-pan balance, goods on one pan and standard weights on the other — what does balance prove?"
+      },
+      "options": {
+        "hi": [
+          "दोनों पलड़ों के द्रव्यमान बराबर हैं",
+          "दोनों के भार अलग हैं",
+          "आयतन बराबर है",
+          "लंबाई बराबर है"
+        ],
+        "en": [
+          "The masses on both pans are equal",
+          "Their weights differ",
+          "Their volumes are equal",
+          "Their lengths are equal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "संतुलन = द्रव्यमानों की बराबरी की जाँच — इसी से बाट काम करते हैं।",
+        "en": "Balance = a test of equal masses — that is how standard weights work."
+      }
+    },
+    {
+      "id": "phy1_q198",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पैमाइश करते समय आँख तिरछी रखने से पाठ्यांक कैसा हो जाता है?",
+        "en": "What happens to the reading if the eye is kept at a slant while measuring?"
+      },
+      "options": {
+        "hi": [
+          "कोई प्रभाव नहीं",
+          "पाठ्यांक गलत (त्रुटिपूर्ण) हो जाता है",
+          "पाठ्यांक बिल्कुल सही रहता है",
+          "पाठ्यांक दोगुना हो जाता है"
+        ],
+        "en": [
+          "No effect",
+          "The reading becomes wrong (erroneous)",
+          "The reading stays perfectly correct",
+          "The reading doubles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तिरछी दृष्टि स्केल के चिह्नों को खिसका देखती है — यही दृष्टि-त्रुटि (parallax) है।",
+        "en": "A slanted gaze sees the marks shifted — this is the parallax error."
+      }
+    },
+    {
+      "id": "phy1_q199",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्केल का शून्य-छोर घिस जाने पर उस स्केल से मापने पर क्या संभावना है?",
+        "en": "If the zero end of a scale is worn out, what is likely when measuring with it?"
+      },
+      "options": {
+        "hi": [
+          "स्केल लंबा हो जाता है",
+          "कोई फर्क नहीं पड़ता",
+          "पाठ्यांक में त्रुटि आ सकती है",
+          "मापन ज्यादा सही हो जाता है"
+        ],
+        "en": [
+          "The scale becomes longer",
+          "It makes no difference",
+          "An error can creep into the reading",
+          "The measurement becomes more correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घिसा शून्य आरंभ ही गलत कर देता है — ऐसी स्थिति में किसी पूर्ण चिह्न से मापना बेहतर।",
+        "en": "A worn zero corrupts the very start — better to measure from a fully intact mark."
+      }
+    },
+    {
+      "id": "phy1_q200",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: द्रव्यमान हर जगह समान रहता है। कथन B: भार हर जगह समान रहता है। कौन-सा सही है?",
+        "en": "Statement A: mass stays the same everywhere. Statement B: weight stays the same everywhere. Which is correct?"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "A और B दोनों सही",
+          "दोनों गलत",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is correct",
+          "Both A and B",
+          "Both wrong",
+          "Only A is correct"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव्यमान यात्री के साथ नहीं बदलता; भार ग्रह के खिंचाव के साथ बदलता है।",
+        "en": "Mass does not change with travel; weight changes with each body's pull."
+      }
+    },
+    {
+      "id": "phy1_q201",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एयरपोर्ट पर सामान की जाँच 'किलोग्राम' में होती है — यह किस राशि की जाँच है?",
+        "en": "Airport baggage is checked in 'kilograms' — which quantity is being checked?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान",
+          "भार (बल)",
+          "क्षेत्रफल",
+          "समय"
+        ],
+        "en": [
+          "Mass",
+          "Weight (force)",
+          "Area",
+          "Time"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "किलोग्राम बोलते ही राशि द्रव्यमान — भार होता तो न्यूटन बोलते।",
+        "en": "Say kilogram and the quantity is mass — were it weight, newtons would be spoken."
+      }
+    },
+    {
+      "id": "phy1_q202",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेंचमापी (स्क्रू गेज) 'पेंच' के घूमने पर छोटी दूरी कैसे पकड़ता है?",
+        "en": "How does a screw gauge catch tiny distances through the turning of its screw?"
+      },
+      "options": {
+        "hi": [
+          "पेंच को गर्म किया जाता है",
+          "पेंच का एक पूरा चक्र बहुत छोटी सीधी गति से जुड़ता है — बड़ा घुमाव, बारीक विस्थापन",
+          "पेंच तार को खा जाता है",
+          "पेंच से तार लंबा हो जाता है"
+        ],
+        "en": [
+          "The screw is heated",
+          "One full turn of the screw advances only a very small straight step — a big rotation, a fine displacement",
+          "The screw eats the wire",
+          "The screw lengthens the wire"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घूमने-चढ़ने वाले पेंच की सूक्ष्म चाल ही स्क्रू गेज की सूक्ष्म पकड़ का रहस्य है।",
+        "en": "The fine travel of the turning screw is the very secret of the screw gauge's fine grip."
+      }
+    },
+    {
+      "id": "phy1_q203",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्टॉपवॉच की तुलना में साधारण दीवार-घड़ी दौड़ के समय के लिए अनुपयुक्त क्यों है?",
+        "en": "Why is an ordinary wall clock unsuitable for timing a race compared to a stopwatch?"
+      },
+      "options": {
+        "hi": [
+          "स्टॉपवॉच सस्ती होती है",
+          "दीवार घड़ी चलती ही नहीं",
+          "स्टॉपवॉच सेकंड-वाले छोटे अंतरालों को तुरंत शुरू-रोक कर पकड़ती है; दीवार घड़ी नहीं",
+          "दीवार घड़ी में बिजली नहीं होती"
+        ],
+        "en": [
+          "A stopwatch is cheaper",
+          "A wall clock does not run",
+          "A stopwatch starts-stops instantly to catch small second-intervals; a wall clock cannot",
+          "A wall clock has no electricity"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दौड़ का समय क्षण-क्षण का खेल है — तत्काल रोकने-चलाने वाला घड़ा चाहिए।",
+        "en": "A race is a game of instants — it needs a clock that stops and starts on command."
+      }
+    },
+    {
+      "id": "phy1_q204",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी वस्तु का द्रव्यमान 2 किलोग्राम है — इस कथन से भार के बारे में क्या कहा जा सकता है?",
+        "en": "An object's mass is 2 kilograms — what can be said about its weight from this statement?"
+      },
+      "options": {
+        "hi": [
+          "भार भी 2 न्यूटन है",
+          "भार भी 2 किलोग्राम है",
+          "भार शून्य है",
+          "सीधे कुछ नहीं — भार बल है जिसकी इकाई न्यूटन है और वह अलग से व्यक्त होता है"
+        ],
+        "en": [
+          "Weight is also 2 newtons",
+          "Weight is also 2 kilograms",
+          "Weight is zero",
+          "Nothing directly — weight is a force in newtons, expressed separately"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव्यमान-कथन भार-कथन नहीं — दोनों राशियों की डोरियाँ अलग।",
+        "en": "A statement of mass is not a statement of weight — the two quantities hang from separate ropes."
+      }
+    },
+    {
+      "id": "phy1_q205",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन वस्तुएँ — (i) टेबल की लंबाई, (ii) रुई का गुच्छा, (iii) 100 मीटर दौड़। इनके लिए सही उपकरण-क्रम है —",
+        "en": "Three jobs — (i) a table's length, (ii) a lump of cotton, (iii) a 100 m race. The correct instrument order is —"
+      },
+      "options": {
+        "hi": [
+          "मीटर स्केल, तुला, स्टॉपवॉच",
+          "तुला, स्टॉपवॉच, मीटर स्केल",
+          "स्टॉपवॉच, मीटर स्केल, तुला",
+          "स्क्रू गेज, तुला, घड़ी की कैलाई"
+        ],
+        "en": [
+          "Metre scale, balance, stopwatch",
+          "Balance, stopwatch, metre scale",
+          "Stopwatch, metre scale, balance",
+          "Screw gauge, balance, a wristwatch"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "राशि पहचानो — लंबाई→स्केल, द्रव्यमान→तुला, समय→स्टॉपवॉच।",
+        "en": "Identify the quantity — length→scale, mass→balance, time→stopwatch."
+      }
+    },
+    {
+      "id": "phy1_q206",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही तराजू पर ग्राम-बाट और किलोग्राम-बाट मिले हों — मापन में यह विविधता किस सूत्र से सटीक रहती है?",
+        "en": "A balance set has gram and kilogram weights — by what principle does measurement stay accurate with this mix?"
+      },
+      "options": {
+        "hi": [
+          "तुला को गोल घुमाया जाता है",
+          "सभी बाट मानक इकाइयों के दशमलव गुणज हैं — परस्पर निश्चित अनुपात में",
+          "बाटों का रंग एक जैसा है",
+          "बाट किसी भी वज़न के बराबर माने जाते हैं"
+        ],
+        "en": [
+          "The balance is spun around",
+          "All weights are decimal multiples of the standard unit — in fixed ratios to one another",
+          "The weights share a colour",
+          "Weights are taken equal to any value"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1 किग्रा = 1000 ग्राम का निश्चित संबंध ही बाटों की मिलीजुली टोकरी को सटीक रखता है।",
+        "en": "The fixed relation 1 kg = 1000 g keeps the mixed basket of weights accurate."
+      }
+    },
+    {
+      "id": "phy1_q207",
+      "topic": "length-mass-time",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यात्रा करते समय द्रव्यमान और भार में से कौन-सी राशि व्यक्ति के साथ 'स्थिर' रहती है?",
+        "en": "While travelling, which of the two — mass or weight — stays 'fixed' with the person?"
+      },
+      "options": {
+        "hi": [
+          "दोनों",
+          "कोई नहीं",
+          "द्रव्यमान",
+          "भार"
+        ],
+        "en": [
+          "Both",
+          "Neither",
+          "Mass",
+          "Weight"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पदार्थ की मात्रा जहाँ वह वहीं; खिंचाव जितना, भार उतना।",
+        "en": "The amount of matter travels as it is; the weight answers to each pull."
+      }
+    },
+    {
+      "id": "phy1_q208",
+      "topic": "length-mass-time",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो-पलड़ी तुला से कोई अज्ञात वस्तु 200 ग्राम + 50 ग्राम + 10 ग्राम के बाटों से संतुलित होती है — वस्तु का द्रव्यमान कितना है?",
+        "en": "On a two-pan balance an unknown object balances with 200 g + 50 g + 10 g weights — what is the object's mass?"
+      },
+      "options": {
+        "hi": [
+          "250 ग्राम",
+          "200 ग्राम",
+          "310 ग्राम",
+          "260 ग्राम"
+        ],
+        "en": [
+          "250 grams",
+          "200 grams",
+          "310 grams",
+          "260 grams"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "200 + 50 + 10 = 260 ग्राम — संतुलन क्षण में दोनों पलड़ों का द्रव्यमान समान।",
+        "en": "200 + 50 + 10 = 260 g — at balance the two pans carry equal mass."
+      }
+    },
+    {
+      "id": "phy1_q209",
+      "topic": "length-mass-time",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किराने की दुकान की भाषा में 'वज़न 5 किलो' और भौतिकी की भाषा में 'भार' — दोनों के बीच का संबंध स्पष्ट कीजिए।",
+        "en": "Clarify the relation between the grocery phrase 'weight 5 kilos' and the physics term 'weight'."
+      },
+      "options": {
+        "hi": [
+          "दुकान का 'वज़न' वास्तव में द्रव्यमान है; भौतिकी का भार न्यूटन में मापा जाने वाला बल है",
+          "दोनों एक ही हैं",
+          "दुकान का वज़न भार है और भौतिकी का भार द्रव्यमान",
+          "दोनों आयतन हैं"
+        ],
+        "en": [
+          "The grocer's 'weight' is actually mass; physics' weight is the force measured in newtons",
+          "Both are the same",
+          "The grocer's weight is force and physics' weight is mass",
+          "Both are volume"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दैनिक भाषा का 'वज़न' विज्ञान की कसौटी पर द्रव्यमान निकलता है — यही अनुवाद-जाल है।",
+        "en": "On science's touchstone, daily 'weight' turns out to be mass — the classic translation trap."
+      }
+    },
+    {
+      "id": "phy1_q210",
+      "topic": "length-mass-time",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चाँद पर तुला से वस्तु का मापन करने पर परिणाम पृथ्वी जैसा ही क्यों मिलेगा?",
+        "en": "Why would measuring an object with a balance on the moon give the same result as on the earth?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु चाँद पर हल्की हो जाती है",
+          "तुला द्रव्यमान तुलना करती है, और द्रव्यमान गुरुत्व से नहीं बदलता",
+          "चाँद पर तुला नहीं चलती",
+          "चाँद का गुरुत्व पृथ्वी जैसा ही है"
+        ],
+        "en": [
+          "The object becomes lighter on the moon",
+          "A balance compares masses, and mass does not change with gravity",
+          "A balance does not work on the moon",
+          "The moon's gravity equals the earth's"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दोनों पलड़ों पर खिंचाव साथ घटता-बढ़ता है — तुलना वही, द्रव्यमान वही।",
+        "en": "The pull on both pans rises and falls together — the comparison, and the mass, stay unchanged."
+      }
+    },
+    {
+      "id": "phy1_q211",
+      "topic": "length-mass-time",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि भार और द्रव्यमान में से किसी एक को 'पिंड का गुण' और दूसरे को 'पिंड पर पड़ने वाला प्रभाव' कहना हो, तो सही मिलान है —",
+        "en": "If one of mass/weight is to be called 'the body's own property' and the other 'an effect on the body', the correct matching is —"
+      },
+      "options": {
+        "hi": [
+          "दोनों पिंड के गुण हैं",
+          "दोनों बाहरी प्रभाव हैं",
+          "द्रव्यमान = पिंड का गुण; भार = पिंड पर पड़ने वाला प्रभाव (गुरुत्वीय बल)",
+          "भार = पिंड का गुण; द्रव्यमान = प्रभाव"
+        ],
+        "en": [
+          "Both are the body's properties",
+          "Both are external effects",
+          "Mass = the body's own property; weight = an effect on the body (the gravitational force)",
+          "Weight = the body's property; mass = the effect"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव्यमान पदार्थ के साथ पैदा होता है; भार वहाँ के खिंचाव से जन्म लेता है।",
+        "en": "Mass is born with the matter; weight is born of the pull wherever the matter stands."
+      }
+    },
+    {
+      "id": "phy1_q212",
+      "topic": "length-mass-time",
+      "difficulty": "hard",
+      "question": {
+        "hi": "स्क्रू गेज बनाम मीटर स्केल — दोनों लंबाई मापते हैं, फिर भी उन्हें अलग-अलग कामों के लिए रखा जाता है। इसका गहरा कारण है —",
+        "en": "Screw gauge vs metre scale — both measure length, yet they are reserved for different jobs. The deeper reason is —"
+      },
+      "options": {
+        "hi": [
+          "एक लोहे का और दूसरा लकड़ी का होता है",
+          "एक नई और दूसरा पुरानी होती है",
+          "दोनों में कोई भेद नहीं",
+          "दोनों की न्यूनतम पहचान-क्षमता (बारीकी) भिन्न है — उसी के अनुसार सूक्ष्म/स्थूल काम बँटते हैं"
+        ],
+        "en": [
+          "One is of iron and the other of wood",
+          "One is new and the other old",
+          "There is no difference",
+          "Their smallest readable fineness differs — fine and coarse jobs are divided accordingly"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "औज़ार की बारीकी ही योग्यता है — सूक्ष्म माप सूक्ष्म उपकरण से ही।",
+        "en": "An instrument's fineness is its qualification — fine measurements need fine instruments."
+      }
+    },
+    {
+      "id": "phy1_q213",
+      "topic": "length-mass-time",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक प्रयोग में गेंद गिराने का समय स्टॉपवॉच से नापा जाता है और गेंद की मात्रा तुला से — रिपोर्ट में 'समय' और 'द्रव्यमान' के साथ क्या अनिवार्य है?",
+        "en": "An experiment times a falling ball with a stopwatch and measures its mass with a balance — what must accompany 'time' and 'mass' in the report?"
+      },
+      "options": {
+        "hi": [
+          "संख्या के साथ सही मात्रक (सेकंड, किलोग्राम) — अन्यथा रिपोर्ट अर्थहीन",
+          "केवल रंगीन चार्ट",
+          "केवल फोटो",
+          "कुछ भी जरूरी नहीं"
+        ],
+        "en": [
+          "Correct units with the numbers (seconds, kilograms) — otherwise the report is meaningless",
+          "Only colourful charts",
+          "Only photographs",
+          "Nothing is necessary"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मापन की रिपोर्ट संख्या-मात्रक की जोड़ी से विधिवत बनती है।",
+        "en": "A measurement report is made proper only by the pair of number and unit."
+      }
+    },
+    {
+      "id": "phy1_q214",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्या कोई भी मापन बिल्कुल शुद्ध (error-free) हो सकता है?",
+        "en": "Can any measurement be absolutely error-free?"
+      },
+      "options": {
+        "hi": [
+          "केवल वैज्ञानिकों के लिए",
+          "नहीं — हर मापन में कुछ त्रुटि संभव है",
+          "हाँ, हमेशा",
+          "केवल महँगे यंत्रों में"
+        ],
+        "en": [
+          "Only for scientists",
+          "No — some error is possible in every measurement",
+          "Yes, always",
+          "Only in costly instruments"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "त्रुटि मापन की छाया है — कम की जा सकती है, मिटाई नहीं।",
+        "en": "Error is measurement's shadow — it can be reduced, never erased."
+      }
+    },
+    {
+      "id": "phy1_q215",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मापन की त्रुटि कम करने का सरल उपाय क्या है?",
+        "en": "What is the simple way to reduce error in measurement?"
+      },
+      "options": {
+        "hi": [
+          "अंदाज़ा लगाना",
+          "मापन छोड़ देना",
+          "कई बार मापकर औसत लेना",
+          "एक ही बार मापना"
+        ],
+        "en": [
+          "Making a guess",
+          "Giving up measuring",
+          "Measuring several times and taking the average",
+          "Measuring just once"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बार-बार मापने से उतार-चढ़ाव औसत में संतुलित हो जाता है।",
+        "en": "Repeated measurements let the ups and downs balance out in the average."
+      }
+    },
+    {
+      "id": "phy1_q216",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्केल से पढ़ते समय सही दृष्टि (eye position) क्यों जरूरी है?",
+        "en": "Why is the correct eye position necessary while reading a scale?"
+      },
+      "options": {
+        "hi": [
+          "आँख सुंदर लगती है",
+          "स्केल चमकता है",
+          "इससे समय बचता है",
+          "तिरछी दृष्टि पाठ्यांक बदल देती है — त्रुटि आती है"
+        ],
+        "en": [
+          "The eye looks nice",
+          "The scale shines",
+          "It saves time",
+          "A slanted view changes the reading — error creeps in"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सीधी दृष्टि = सही पाठ्यांक की पहली शर्त।",
+        "en": "A straight gaze = the first condition of a true reading."
+      }
+    },
+    {
+      "id": "phy1_q217",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी राशि का एक ही मान बार-बार मापा गया — सबसे भरोसेमंद प्रतिनिधि मान कौन-सा माना जाता है?",
+        "en": "The same quantity was measured repeatedly — which value is taken as the most trustworthy representative?"
+      },
+      "options": {
+        "hi": [
+          "सभी पाठ्यांकों का औसत",
+          "सबसे बड़ा पाठ्यांक",
+          "सबसे छोटा पाठ्यांक",
+          "पहला पाठ्यांक"
+        ],
+        "en": [
+          "The average of all the readings",
+          "The largest reading",
+          "The smallest reading",
+          "The first reading"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "औसत उतार-चढ़ाव को समेटकर सबसे निकट का अनुमान देता है।",
+        "en": "The average gathers the swings and gives the closest estimate."
+      }
+    },
+    {
+      "id": "phy1_q218",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'त्रुटि' (error) और 'गलती' (mistake) — दैनिक भाषा में एक जैसे लगते हैं। विज्ञान में त्रुटि का अर्थ है —",
+        "en": "'Error' and 'mistake' sound alike in daily language. In science, error means —"
+      },
+      "options": {
+        "hi": [
+          "यंत्र चोरी",
+          "मापन और वास्तविक मान के बीच का स्वाभाविक अंतर",
+          "जान-बूझकर की गई भूल",
+          "नैतिक कमी"
+        ],
+        "en": [
+          "Stealing an instrument",
+          "The natural difference between the measured and the true value",
+          "A deliberate slip",
+          "A moral flaw"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "त्रुटि सही विधि में भी रहती है; गलती लापरवाही से आती है।",
+        "en": "Error remains even in a careful method; a mistake comes from carelessness."
+      }
+    },
+    {
+      "id": "phy1_q219",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक ही पेंसिल को चार बार मापा गया — 15.1 सेमी, 15.3 सेमी, 15.2 सेमी, 15.2 सेमी। रिपोर्ट के लिए सर्वोत्तम मान क्या होगा?",
+        "en": "One pencil was measured four times — 15.1 cm, 15.3 cm, 15.2 cm, 15.2 cm. What is the best value to report?"
+      },
+      "options": {
+        "hi": [
+          "15.3 सेमी",
+          "15 सेमी",
+          "औसत ≈ 15.2 सेमी",
+          "15.1 सेमी"
+        ],
+        "en": [
+          "15.3 cm",
+          "15 cm",
+          "The average ≈ 15.2 cm",
+          "15.1 cm"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "(15.1 + 15.3 + 15.2 + 15.2) ÷ 4 = 60.8 ÷ 4 = 15.2 सेमी।",
+        "en": "(15.1 + 15.3 + 15.2 + 15.2) ÷ 4 = 60.8 ÷ 4 = 15.2 cm."
+      }
+    },
+    {
+      "id": "phy1_q220",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पाठ्यांक लेते समय आँख स्केल के चिह्न के ठीक ऊपर हो — इस नियम का कारण है —",
+        "en": "The rule 'keep the eye directly above the mark' exists because —"
+      },
+      "options": {
+        "hi": [
+          "इससे रोशनी बढ़ती है",
+          "इससे स्केल गर्म होता है",
+          "यह केवल शिष्टाचार है",
+          "तिरछी दृष्टि चिह्न को खिसका दिखाती है"
+        ],
+        "en": [
+          "It increases light",
+          "It warms the scale",
+          "It is mere etiquette",
+          "A slanted view shows the mark shifted"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सीधा देखना ही चिह्न को उसकी जगह दिखाता है।",
+        "en": "Only a straight look shows the mark in its own place."
+      }
+    },
+    {
+      "id": "phy1_q221",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अधिक बार मापने से परिणाम कैसा होता है?",
+        "en": "What does measuring more number of times do to the result?"
+      },
+      "options": {
+        "hi": [
+          "परिणाम अधिक विश्वसनीय (औसत के रूप में) हो जाता है",
+          "परिणाम बिगड़ जाता है",
+          "परिणाम दोगुना हो जाता है",
+          "कोई असर नहीं"
+        ],
+        "en": [
+          "The result becomes more reliable (as an average)",
+          "The result worsens",
+          "The result doubles",
+          "No effect"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अधिक पाठ्यांक = अधिक संतुलन = अधिक विश्वास।",
+        "en": "More readings = more balancing = more confidence."
+      }
+    },
+    {
+      "id": "phy1_q222",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी स्केल का लघुत्तम अंश (smallest division) जितना छोटा हो, मापन उतना —",
+        "en": "The smaller the smallest division of a scale, the more —— the measurement."
+      },
+      "options": {
+        "hi": [
+          "तेज़",
+          "सूक्ष्म/बारीक (precise)",
+          "लंबा",
+          "भारी"
+        ],
+        "en": [
+          "Fast",
+          "Fine/precise",
+          "Long",
+          "Heavy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बारीक बँटवारा बारीक माप देती है।",
+        "en": "A finer division yields a finer measurement."
+      }
+    },
+    {
+      "id": "phy1_q223",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक विद्यार्थी ने केवल एक बार मापकर परिणाम लिख दिया — उसकी विधि की कमी क्या है?",
+        "en": "A student measured only once and wrote the result — what is the weakness of the method?"
+      },
+      "options": {
+        "hi": [
+          "पेंसिल खराब होगी",
+          "स्केल गायब होगा",
+          "एक पाठ्यांक की संयोग-त्रुटि पकड़ में नहीं आती; औसत का मौका ही नहीं",
+          "मापन बहुत सही है"
+        ],
+        "en": [
+          "The pencil must be faulty",
+          "The scale must be lost",
+          "A single reading can hide a chance error; there is no chance to average",
+          "The measurement is very correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक गवाह पर भरोसा कम — पाठ्यांकों की भीड़ जाँच बनाती है।",
+        "en": "One witness earns little trust — a crowd of readings builds the check."
+      }
+    },
+    {
+      "id": "phy1_q224",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रयोग के परिणाम में त्रुटि की उपस्थिति उसे 'बेकार' नहीं बनाती — शर्त क्या है?",
+        "en": "The presence of some error does not make a result useless — what is the condition?"
+      },
+      "options": {
+        "hi": [
+          "त्रुटि को छिपाया गया हो",
+          "त्रुटि को दोगुना किया गया हो",
+          "परिणाम रंग-बिरंगा हो",
+          "त्रुटि को मापन-विधि के साथ ईमानदारी से बताया गया हो और उसे कम करने का प्रयास हो"
+        ],
+        "en": [
+          "The error is hidden",
+          "The error is doubled",
+          "The result is colourful",
+          "The error is honestly stated with the method and efforts are made to reduce it"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "त्रुटि की स्वीकृति विज्ञान की ईमानदारी है — छिपाना बेईमानी।",
+        "en": "Admitting error is science's honesty — hiding it is the opposite."
+      }
+    },
+    {
+      "id": "phy1_q225",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दोहराया मापन (repeated measurement) मुख्यतः किसे कम करता है?",
+        "en": "Repeated measurement mainly reduces —"
+      },
+      "options": {
+        "hi": [
+          "पाठ्यांकों के उतार-चढ़ाव (संयोग-भिन्नता) का प्रभाव",
+          "यंत्र की कीमत",
+          "प्रयोग का समय",
+          "कमरे की रोशनी"
+        ],
+        "en": [
+          "The effect of ups and downs (chance variation) among readings",
+          "The instrument's cost",
+          "The experiment's duration",
+          "The room's lighting"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "औसत संयोग-उतार-चढ़ाव को दबाता है।",
+        "en": "Averaging damps the chance swings."
+      }
+    },
+    {
+      "id": "phy1_q226",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मापन-पुस्तिका (record book) में पाठ्यांक के साथ क्या सदा लिखा जाना चाहिए?",
+        "en": "What should always be written along with the reading in a record book?"
+      },
+      "options": {
+        "hi": [
+          "मनपसंद गाना",
+          "मात्रक",
+          "मौसम",
+          "जूते का नंबर"
+        ],
+        "en": [
+          "A favourite song",
+          "The unit",
+          "The weather",
+          "The shoe size"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बिना मात्रक पाठ्यांक अधूरा — रिकॉर्ड अर्थहीन।",
+        "en": "A unitless reading is incomplete — a meaningless record."
+      }
+    },
+    {
+      "id": "phy1_q227",
+      "topic": "error-precision",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक पाठ्यांक दूसरों से बहुत अलग (जैसे 15.2, 15.3, 15.2, 19.9) आए तो पहला कदम क्या होना चाहिए?",
+        "en": "If one reading is far apart from the others (like 15.2, 15.3, 15.2, 19.9), what should be the first step?"
+      },
+      "options": {
+        "hi": [
+          "सभी पाठ्यांक फेंक देना",
+          "कुछ न करना",
+          "उस असामान्य पाठ्यांक की जाँच करना/दोबारा मापना",
+          "उसे चुपचाप सबसे बड़ा मान लेना"
+        ],
+        "en": [
+          "Throw away all readings",
+          "Do nothing",
+          "Re-check/re-measure that unusual reading",
+          "Silently accept it as the largest"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "झूलता हुआ मान पहले जाँचो — गलती हो सकती है, त्रुटि नहीं।",
+        "en": "First examine the outlier — it may be a mistake, not an error."
+      }
+    },
+    {
+      "id": "phy1_q228",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी छड़ की लंबाई के चार पाठ्यांक: 2.0 सेमी, 2.2 सेमी, 1.8 सेमी, 2.0 सेमी — औसत पाठ्यांक कितना है?",
+        "en": "Four readings of a rod's length: 2.0 cm, 2.2 cm, 1.8 cm, 2.0 cm — what is the average reading?"
+      },
+      "options": {
+        "hi": [
+          "2.2 सेमी",
+          "1.8 सेमी",
+          "8.0 सेमी",
+          "2.0 सेमी"
+        ],
+        "en": [
+          "2.2 cm",
+          "1.8 cm",
+          "8.0 cm",
+          "2.0 cm"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "(2.0 + 2.2 + 1.8 + 2.0) ÷ 4 = 8.0 ÷ 4 = 2.0 सेमी।",
+        "en": "(2.0 + 2.2 + 1.8 + 2.0) ÷ 4 = 8.0 ÷ 4 = 2.0 cm."
+      }
+    },
+    {
+      "id": "phy1_q229",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तापमान पाठ्यांक: 10.0, 10.2, 9.8, 10.0 (सेल्सियस में) — रिपोर्ट का औसत मान क्या होगा?",
+        "en": "Temperature readings: 10.0, 10.2, 9.8, 10.0 (in Celsius) — what is the average value for the report?"
+      },
+      "options": {
+        "hi": [
+          "10.0 °C",
+          "10.2 °C",
+          "9.8 °C",
+          "40.0 °C"
+        ],
+        "en": [
+          "10.0 °C",
+          "10.2 °C",
+          "9.8 °C",
+          "40.0 °C"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "योग 40.0 ÷ 4 = 10.0 °C — ऊपर-नीचे के झोले औसत में संतुलित।",
+        "en": "Sum 40.0 ÷ 4 = 10.0 °C — the swings above and below balance in the mean."
+      }
+    },
+    {
+      "id": "phy1_q230",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'शुद्धता' (accuracy) का अर्थ क्या है?",
+        "en": "What does 'accuracy' mean?"
+      },
+      "options": {
+        "hi": [
+          "जल्दी नापना",
+          "मापा मान वास्तविक (सही) मान के कितने निकट है",
+          "पाठ्यांकों का आपस में निकट होना",
+          "यंत्र का महँगा होना"
+        ],
+        "en": [
+          "Measuring quickly",
+          "How close the measured value is to the true value",
+          "How close the readings are to each other",
+          "How costly the instrument is"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शुद्धता लक्ष्य से निकटता की बात है — निशाने पर लगाना।",
+        "en": "Accuracy is closeness to the target — hitting the mark."
+      }
+    },
+    {
+      "id": "phy1_q231",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'परिशुद्धता' (precision) का अर्थ क्या है?",
+        "en": "What does 'precision' mean?"
+      },
+      "options": {
+        "hi": [
+          "केवल कीमत",
+          "केवल रंग",
+          "बार-बार किए पाठ्यांक आपस में कितने निकट/संगत हैं",
+          "वास्तविक मान के निकट पहुँचना"
+        ],
+        "en": [
+          "Only the cost",
+          "Only the colour",
+          "How close/consistent repeated readings are with each other",
+          "Approaching the true value"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "परिशुद्धता बाणों का गुच्छा बनाना है — कहीं भी हो, पर साथ-साथ।",
+        "en": "Precision is clustering the arrows — anywhere, but together."
+      }
+    },
+    {
+      "id": "phy1_q232",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निशानेबाज़ी में बाण एक जगह गुच्छे में लगे, पर वह जगह केंद्र (लक्ष्य) से दूर है — यह स्थिति किसका उदाहरण है?",
+        "en": "In archery, arrows land clustered at one spot away from the centre — which concept does this illustrate?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध लेकिन अपरिशुद्ध",
+          "शुद्ध और परिशुद्ध दोनों",
+          "न शुद्ध न परिशुद्ध",
+          "परिशुद्ध लेकिन अशुद्ध (precise but not accurate)"
+        ],
+        "en": [
+          "Accurate but not precise",
+          "Both accurate and precise",
+          "Neither",
+          "Precise but not accurate"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुच्छा = परिशुद्धता; गुच्छा लक्ष्य से दूर = अशुद्धता — दोनों अलग गुण हैं।",
+        "en": "The cluster = precision; the cluster off-target = inaccuracy — two separate virtues."
+      }
+    },
+    {
+      "id": "phy1_q233",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निशानेबाज़ी में बाण केंद्र के चारों ओर बिखरे, पर उनका औसत केंद्र पर है — यह कैसी स्थिति है?",
+        "en": "Arrows scatter around the centre whose average lies on it — what kind of situation is this?"
+      },
+      "options": {
+        "hi": [
+          "औसतन शुद्ध, पर अपरिशुद्ध",
+          "परिशुद्ध और शुद्ध",
+          "दोनों नहीं",
+          "केवल परिशुद्ध"
+        ],
+        "en": [
+          "Accurate on average, but not precise",
+          "Precise and accurate",
+          "Neither",
+          "Only precise"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बिखराव बताता है — पाठ्यांक संगत नहीं; फिर भी औसत लक्ष्य के पास।",
+        "en": "The scatter tells — readings not consistent; and yet their average lies near the aim."
+      }
+    },
+    {
+      "id": "phy1_q234",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक स्केल के चिह्न 1 मिमी अंतराल पर हैं और दूसरे के 1 सेमी पर — सूक्ष्म मापन के लिए कौन-सा उपयुक्त और क्यों?",
+        "en": "One scale has marks 1 mm apart, another 1 cm apart — which suits fine measurement and why?"
+      },
+      "options": {
+        "hi": [
+          "कोई नहीं",
+          "1 मिमी वाला — उसकी न्यूनतम पहचान बारीक है",
+          "1 सेमी वाला — वह लंबा है",
+          "दोनों समान"
+        ],
+        "en": [
+          "Neither",
+          "The 1 mm one — its smallest readable step is finer",
+          "The 1 cm one — it is longer",
+          "Both equal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जितने बारीक चिह्न, उतना बारीक निर्णय।",
+        "en": "The finer the marks, the finer the verdict."
+      }
+    },
+    {
+      "id": "phy1_q235",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पाठ्यांक लेते समय सिर बाएँ-दाएँ हिलाने से पाठ्यांक बदल दिखता है — इस प्रभाव का नाम क्या है?",
+        "en": "While taking a reading, moving the head left-right makes the reading appear to shift — what is this effect called?"
+      },
+      "options": {
+        "hi": [
+          "घर्षण",
+          "चुंबकत्व",
+          "दृष्टि-त्रुटि (पैरालैक्स)",
+          "शून्य-त्रुटि का रोग"
+        ],
+        "en": [
+          "Friction",
+          "Magnetism",
+          "Parallax error",
+          "Zero-error disease"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दृष्टि की दिशा बदली तो चिह्न खिसका दिखा — यही पैरालैक्स।",
+        "en": "Change the gaze direction and the mark seems to slide — that is parallax."
+      }
+    },
+    {
+      "id": "phy1_q236",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पैरालैक्स-त्रुटि से बचने का उपाय क्या है?",
+        "en": "What is the way to avoid parallax error?"
+      },
+      "options": {
+        "hi": [
+          "आँख बंद कर नापना",
+          "स्केल को पानी में डुबोना",
+          "दो बार गहरी साँस लेना",
+          "आँख को चिह्न के ठीक ऊपर (लंबवत) रखना"
+        ],
+        "en": [
+          "Measuring with eyes closed",
+          "Dipping the scale in water",
+          "Taking two deep breaths",
+          "Keeping the eye directly above the mark (perpendicular)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लंबवत दृष्टि ही शुद्ध दृष्टि।",
+        "en": "The perpendicular gaze alone is the true gaze."
+      }
+    },
+    {
+      "id": "phy1_q237",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक विद्यार्थी के चार पाठ्यांक: 12.1, 12.0, 12.2, 12.1 सेमी — ये परिणाम किस गुण दिखाते हैं?",
+        "en": "A student's four readings: 12.1, 12.0, 12.2, 12.1 cm — which quality do these results show?"
+      },
+      "options": {
+        "hi": [
+          "अच्छी परिशुद्धता (पाठ्यांक संगत हैं)",
+          "अशुद्धता",
+          "कोई गुण नहीं",
+          "मापन-मात्रा में वृद्धि"
+        ],
+        "en": [
+          "Good precision (the readings are consistent)",
+          "Inaccuracy",
+          "No quality",
+          "An increase in the quantity measured"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पाठ्यांकों का साथ-साथ रहना ही परिशुद्धता की पहचान।",
+        "en": "Readings staying together is the very signature of precision."
+      }
+    },
+    {
+      "id": "phy1_q238",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उसी छड़ के दूसरे विद्यार्थी के पाठ्यांक: 11.5, 12.8, 12.1, 11.9 सेमी — इस सेट की कमजोरी क्या है?",
+        "en": "Another student's readings of the same rod: 11.5, 12.8, 12.1, 11.9 cm — what is this set's weakness?"
+      },
+      "options": {
+        "hi": [
+          "कोई कमजोरी नहीं",
+          "पाठ्यांक बिखरे हुए — परिशुद्धता कम",
+          "पाठ्यांक बहुत संगत हैं",
+          "सभी पाठ्यांक गलत इकाई में"
+        ],
+        "en": [
+          "No weakness",
+          "The readings are scattered — low precision",
+          "The readings are highly consistent",
+          "All readings are in wrong units"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फैलाव जितना, संगति उतनी कम।",
+        "en": "The wider the spread, the weaker the consistency."
+      }
+    },
+    {
+      "id": "phy1_q239",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "औसत लेने से पहले सभी पाठ्यांकों को किसी एक मात्रक में क्यों बदलना चाहिए?",
+        "en": "Why should all readings be converted to one unit before averaging?"
+      },
+      "options": {
+        "hi": [
+          "मात्रक रंगीन दिखते हैं",
+          "ऐसा कोई नियम नहीं",
+          "अलग मात्रकों का औसत अर्थहीन होता है",
+          "इससे कागज बचता है"
+        ],
+        "en": [
+          "Units look colourful",
+          "No such rule exists",
+          "An average of mixed units is meaningless",
+          "It saves paper"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सेबों और संतरों का औसत नहीं होता — पहले एक जैसा फल बनाओ।",
+        "en": "You cannot average apples and oranges — first make the fruit uniform."
+      }
+    },
+    {
+      "id": "phy1_q240",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी मापन को 'विश्वसनीय' कहने के लिए विधि-वर्णन में क्या शामिल होना चाहिए?",
+        "en": "For a measurement to be called reliable, what should the method description include?"
+      },
+      "options": {
+        "hi": [
+          "केवल अंतिम संख्या",
+          "केवल उपकरण की तस्वीर",
+          "कुछ भी नहीं",
+          "उपकरण, इकाई, पाठ्यांकों की संख्या और औसत"
+        ],
+        "en": [
+          "Only the final number",
+          "Only a photo of the instrument",
+          "Nothing",
+          "Instrument, unit, number of readings and the average"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पारदर्शी विधि ही परीक्षक की नज़र में विश्वास जीतती है।",
+        "en": "A transparent method alone wins the examiner's trust."
+      }
+    },
+    {
+      "id": "phy1_q241",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक पाठ्यांक में 4.5 सेमी लिखने की जगह 45 सेमी लिख गया — यह क्या है?",
+        "en": "A reading of 4.5 cm was written as 45 cm — what is this?"
+      },
+      "options": {
+        "hi": [
+          "गलती (mistake), त्रुटि (error) नहीं",
+          "शुद्ध त्रुटि",
+          "परिशुद्धता",
+          "इकाई-परिवर्तन"
+        ],
+        "en": [
+          "A mistake, not an error",
+          "A pure error",
+          "Precision",
+          "Unit conversion"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लिपि-चूक विधि की त्रुटि नहीं — सावधानी से टलने वाली गलती।",
+        "en": "A slip of the pen is not the method's error — a carelessness that care removes."
+      }
+    },
+    {
+      "id": "phy1_q242",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही विद्यार्थी एक ही स्केल से पाँच बार मापता है और हर बार लगभग वही मान आता है — फिर भी वास्तविक मान से थोड़ा अंतर रह सकता है। क्यों?",
+        "en": "The same student measures five times with the same scale and gets nearly the same value — yet a gap from the true value can remain. Why?"
+      },
+      "options": {
+        "hi": [
+          "वास्तविक मान हर दिन बदलता है",
+          "स्केल की अपनी (नियत) त्रुटि दोहराव से नहीं बदलती — संगति शुद्धता की गारंटी नहीं",
+          "विद्यार्थी ने धोखा दिया",
+          "स्केल रोज़ बदल जाता है"
+        ],
+        "en": [
+          "The true value changes daily",
+          "The scale's own fixed error does not change with repetition — consistency is no guarantee of accuracy",
+          "The student cheated",
+          "The scale changes daily"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक ही औज़ार की सारी बातें एक ही तराज़ू पर — दोहराव उस तराज़ू को नहीं बदलता।",
+        "en": "Every word of one instrument sits on one scale — repetition does not change that scale."
+      }
+    },
+    {
+      "id": "phy1_q243",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कक्षा में दो छात्रों ने एक ही मेज़ मापी — अंतिम रिपोर्ट में अंतर आया। सबसे वैज्ञानिक कदम क्या है?",
+        "en": "Two students measured the same table — a difference appeared in the final reports. What is the most scientific step?"
+      },
+      "options": {
+        "hi": [
+          "तीसरे से न मिलने दें",
+          "मेज़ को छोटा कर दें",
+          "दोनों अपने-अपने सभी पाठ्यांक औसतों सहित साझा करें और विधि की जाँच करें",
+          "अपना ही परिणाम सही मान लें"
+        ],
+        "en": [
+          "Hide it from a third student",
+          "Cut the table shorter",
+          "Share all readings with averages and examine each other's method",
+          "Assume one's own result correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मतभेद जाँच का न्योता है — विधि खुले तो सत्य खुलेगा।",
+        "en": "A difference is an invitation to examine — open the method and the truth opens too."
+      }
+    },
+    {
+      "id": "phy1_q244",
+      "topic": "error-precision",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी पाठ्यांक-समूह का सबसे बड़ा मान 20.4 सेमी और सबसे छोटा 20.0 सेमी है — यह 0.4 सेमी का अंतर किसका संकेत देता है?",
+        "en": "In a set of readings the largest is 20.4 cm and the smallest 20.0 cm — what does this 0.4 cm gap indicate?"
+      },
+      "options": {
+        "hi": [
+          "मापी गई वस्तु की लंबाई का",
+          "मात्रक की गलती का",
+          "किसी नियम का उल्लंघन",
+          "पाठ्यांकों के बिखराव (परिशुद्धता की सीमा) का"
+        ],
+        "en": [
+          "The length of the object measured",
+          "A unit mistake",
+          "A violation of law",
+          "The spread of the readings (the limit of precision)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सबसे ऊँचा-नीचे पाठ्यांक का फासला बिखराव की नाप है।",
+        "en": "The gap between highest and lowest readings measures the scatter."
+      }
+    },
+    {
+      "id": "phy1_q245",
+      "topic": "error-precision",
+      "difficulty": "hard",
+      "question": {
+        "hi": "छात्र A के पाठ्यांक वास्तविक मान 20.0 सेमी के बहुत निकट हैं पर आपस में बिखरे; छात्र B के पाठ्यांक परस्पर बहुत निकट हैं पर 19.0 सेमी के आसपास हैं। सही वर्णन है —",
+        "en": "Student A's readings lie very near the true value 20.0 cm but scatter among themselves; student B's readings are mutually very close but hover around 19.0 cm. The correct description is —"
+      },
+      "options": {
+        "hi": [
+          "A अधिक शुद्ध, B अधिक परिशुद्ध",
+          "A अधिक परिशुद्ध, B अधिक शुद्ध",
+          "दोनों समान",
+          "दोनों में कोई अंतर नहीं"
+        ],
+        "en": [
+          "A is more accurate, B is more precise",
+          "A is more precise, B is more accurate",
+          "Both are equal",
+          "No difference between them"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लक्ष्य के पास = शुद्ध; आपस में पास = परिशुद्ध — दो अलग समीक्षाएँ।",
+        "en": "Near the target = accurate; near each other = precise — two separate verdicts."
+      }
+    },
+    {
+      "id": "phy1_q246",
+      "topic": "error-precision",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि किसी स्केल का शून्य चिह्न हर पाठ्यांक में ही एक निश्चित खिसकाव देता हो, तो केवल बार-बार मापकर औसत लेने से यह खिसकाव —",
+        "en": "If a scale's zero mark imparts a fixed shift to every reading, then merely repeating and averaging will make this shift —"
+      },
+      "options": {
+        "hi": [
+          "अपने आप उलट जाएगा",
+          "नहीं हटेगा, क्योंकि वह हर पाठ्यांक में एक जैसा है — औसत में भी वही रहेगा",
+          "तुरंत हट जाएगा",
+          "दोगुना हो जाएगा"
+        ],
+        "en": [
+          "Reverse by itself",
+          "Not go away, because it sits identically in every reading — the average keeps it",
+          "Disappear at once",
+          "Double itself"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "साझा खिसकाव औसत की छलाँग में भी सवार रहता है — विधि की समीक्षा चाहिए, केवल दोहराव नहीं।",
+        "en": "A shared shift rides along even in the average's leap — it needs a review of method, not mere repetition."
+      }
+    },
+    {
+      "id": "phy1_q247",
+      "topic": "error-precision",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: औसत लेने से पाठ्यांकों का बिखराव कम प्रभावी होता है। कथन B: औसत लेने से यंत्र की बारीकी (लघुत्तम माप) बदल जाती है। सही विकल्प —",
+        "en": "Statement A: averaging weakens the effect of the readings' scatter. Statement B: averaging changes the instrument's fineness (least count). The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत",
+          "A गलत, B सही"
+        ],
+        "en": [
+          "Both right",
+          "Both wrong",
+          "A right, B wrong",
+          "A wrong, B right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "औसत सांख्यिकी का उपाय है, यंत्र की सीमा का नहीं — बारीकी औज़ार की अपनी धरोहर।",
+        "en": "Averaging is a statistical remedy, not the instrument's — fineness stays the tool's own inheritance."
+      }
+    },
+    {
+      "id": "phy1_q248",
+      "topic": "error-precision",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक टीम चाहती है कि परिणाम शुद्ध और परिशुद्ध दोनों बनें। सबसे उपयुक्त रणनीति कौन-सी है?",
+        "en": "A team wants results to be both accurate and precise. Which is the most suitable strategy?"
+      },
+      "options": {
+        "hi": [
+          "केवल एक बार मापना",
+          "महँगा उपकरण खरीदना ही पर्याप्त",
+          "केवल तेज़ गति से मापना",
+          "बारीक-पहचान वाला शुद्ध (मानक) उपकरण + शुद्ध विधि (लंबवत दृष्टि) + बार-बार मापकर औसत"
+        ],
+        "en": [
+          "Measuring only once",
+          "Buying a costly instrument alone suffices",
+          "Measuring very fast alone",
+          "A fine, correctly-calibrated instrument + correct method (perpendicular view) + repeated averaging"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शुद्धता औज़ार-विधि से, परिशुद्धता दोहराव से — दोनों की संधि ही आदर्श।",
+        "en": "Accuracy from tool-and-method, precision from repetition — their union is the ideal."
+      }
+    },
+    {
+      "id": "phy1_q249",
+      "topic": "error-precision",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो स्केल — P की बारीकी 1 मिमी, Q की बारीकी 1 सेमी। एक छोटा अंतर (जैसे किताब की मोटाई में बढ़ोतरी) जाँचना है। कौन-सा चुनें और इस चुनाव का औचित्य क्या है?",
+        "en": "Two scales — P's fineness 1 mm, Q's 1 cm. A small difference (like a change in a book's thickness) must be detected. Which to choose and why?"
+      },
+      "options": {
+        "hi": [
+          "P — क्योंकि जो अंतर 1 सेमी की बारीकी में छुपा रहेगा, वह 1 मिमी में पकड़ा जाएगा",
+          "Q — वह लंबी है",
+          "कोई भी — दोनों एक जैसे",
+          "दोनों नहीं — तुला चाहिए"
+        ],
+        "en": [
+          "P — a change hidden at 1 cm fineness becomes visible at 1 mm",
+          "Q — it is longer",
+          "Either — both alike",
+          "Neither — a balance is needed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बारीक जाँच के लिए बारीक पैमाना — मिमी की नज़र से ही मिमी का फर्क दिखता है।",
+        "en": "A fine test needs a fine yardstick — only a mm-scale eye can see a mm-scale change."
+      }
+    },
+    {
+      "id": "phy1_q250",
+      "topic": "error-precision",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही छड़ के दो पाठ्यांक: 1.5 मीटर और 100 सेंटीमीटर। सही औसत निकालने की प्रक्रिया और परिणाम क्या है?",
+        "en": "Two readings of the same rod: 1.5 metres and 100 centimetres. What is the correct averaging procedure and result?"
+      },
+      "options": {
+        "hi": [
+          "औसत 100 सेमी ही रहेगा",
+          "पहले एक इकाई में बदलो (150 सेमी, 100 सेमी) → औसत 125 सेमी = 1.25 मीटर",
+          "सीधे (1.5 + 100) ÷ 2 = 50.75 मीटर",
+          "औसत 1.5 मीटर ही रहेगा"
+        ],
+        "en": [
+          "The average stays 100 cm",
+          "First convert to one unit (150 cm, 100 cm) → average 125 cm = 1.25 metres",
+          "Directly (1.5 + 100) ÷ 2 = 50.75 metres",
+          "The average stays 1.5 metres"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "(150 + 100) ÷ 2 = 125 सेमी — मिश्रित इकाइयों का औसत पहले एकरूप करना जरूरी; अन्यथा 50.75 मीटर जैसी बेतुकी संख्या आती है।",
+        "en": "(150 + 100) ÷ 2 = 125 cm — mixed units must first be unified; otherwise an absurdity like 50.75 metres appears."
+      }
+    }
+  ]
+}

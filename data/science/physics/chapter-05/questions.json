@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "phy5_q101",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विज्ञान में कार्य किसे कहते हैं?",
+        "en": "What is work in science?"
+      },
+      "options": {
+        "hi": [
+          "बल और बल की दिशा में विस्थापन का गुणनफल",
+          "केवल मेहनत करना",
+          "केवल बल लगाना",
+          "समय में बल"
+        ],
+        "en": [
+          "The product of force and the displacement along the force",
+          "Merely making an effort",
+          "Merely applying a force",
+          "Force times time"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "W = F × s — बल लगे और बल की दिशा में विस्थापन भी हो, तभी भौतिकी में कार्य होता है।",
+        "en": "W = F × s — a force must act and a displacement must occur along it for physical work."
+      }
+    },
+    {
+      "id": "phy5_q102",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कार्य का SI मात्रक क्या है?",
+        "en": "What is the SI unit of work?"
+      },
+      "options": {
+        "hi": [
+          "पास्कल (Pa)",
+          "जूल (J)",
+          "न्यूटन (N)",
+          "वाट (W)"
+        ],
+        "en": [
+          "Pascal (Pa)",
+          "Joule (J)",
+          "Newton (N)",
+          "Watt (W)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कार्य का मात्रक जूल है, जो न्यूटन-मीटर के बराबर है।",
+        "en": "The unit of work is the joule, equal to a newton-metre."
+      }
+    },
+    {
+      "id": "phy5_q103",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक जूल किसके बराबर होता है?",
+        "en": "One joule equals —"
+      },
+      "options": {
+        "hi": [
+          "1 किलोग्राम × 1 मीटर",
+          "1 वाट × 1 सेकंड का वर्ग",
+          "1 न्यूटन बल से 1 मीटर विस्थापन",
+          "1 न्यूटन बल प्रति सेकंड"
+        ],
+        "en": [
+          "1 kilogram × 1 metre",
+          "1 watt × 1 second squared",
+          "A displacement of 1 metre under a 1 newton force",
+          "1 newton of force per second"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1 J = 1 N × 1 m = 1 N·m।",
+        "en": "1 J = 1 N × 1 m = 1 N·m."
+      }
+    },
+    {
+      "id": "phy5_q104",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कार्य होने के लिए कौन-सी दो शर्तें आवश्यक हैं?",
+        "en": "Which two conditions are necessary for work to be done?"
+      },
+      "options": {
+        "hi": [
+          "केवल बल लगे",
+          "केवल वस्तु गतिमान हो",
+          "बल और समय दोनों बढ़ें",
+          "बल लगे और विस्थापन हो"
+        ],
+        "en": [
+          "Only a force acts",
+          "Only the object moves",
+          "Both force and time increase",
+          "A force acts and a displacement occurs"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बिना विस्थापन के बल व्यर्थ — कार्य शून्य।",
+        "en": "Force without displacement is useless — zero work."
+      }
+    },
+    {
+      "id": "phy5_q105",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दीवार को धक्का दिया पर दीवार नहीं हिली — किया गया कार्य —",
+        "en": "A wall is pushed but it does not move — the work done is —"
+      },
+      "options": {
+        "hi": [
+          "शून्य (विस्थापन शून्य)",
+          "बहुत अधिक",
+          "धक्के के बराबर",
+          "अनंत"
+        ],
+        "en": [
+          "Zero (the displacement is zero)",
+          "Very large",
+          "Equal to the push",
+          "Infinite"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "s = 0 होने से W = F × 0 = 0 — थकान हो, कार्य नहीं।",
+        "en": "With s = 0, W = F × 0 = 0 — fatigue yes, work no."
+      }
+    },
+    {
+      "id": "phy5_q106",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जब विस्थापन बल के लंबवत हो, तो उस बल द्वारा किया गया कार्य —",
+        "en": "When the displacement is perpendicular to the force, the work done by that force is —"
+      },
+      "options": {
+        "hi": [
+          "आधा",
+          "शून्य",
+          "अधिकतम",
+          "ऋणात्मक"
+        ],
+        "en": [
+          "Half",
+          "Zero",
+          "Maximum",
+          "Negative"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बल की दिशा में विस्थापन शून्य होने से कार्य शून्य।",
+        "en": "No displacement along the force means zero work."
+      }
+    },
+    {
+      "id": "phy5_q107",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कार्य किस प्रकार की राशि है?",
+        "en": "What kind of quantity is work?"
+      },
+      "options": {
+        "hi": [
+          "न अदिश न सदिश",
+          "सदा शून्य",
+          "अदिश (केवल परिमाण)",
+          "सदिश (परिमाण + दिशा)"
+        ],
+        "en": [
+          "Neither scalar nor vector",
+          "Always zero",
+          "A scalar (magnitude only)",
+          "A vector (magnitude + direction)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कार्य का कोई दिशा-मान नहीं होता — यह अदिश राशि है।",
+        "en": "Work carries no direction — it is a scalar."
+      }
+    },
+    {
+      "id": "phy5_q108",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "W = F × s में s का अर्थ है —",
+        "en": "In W = F × s, s stands for —"
+      },
+      "options": {
+        "hi": [
+          "कुल दूरी",
+          "लगने वाला समय",
+          "वस्तु का द्रव्यमान",
+          "बल की दिशा में विस्थापन"
+        ],
+        "en": [
+          "The total distance",
+          "The time taken",
+          "The object's mass",
+          "The displacement along the direction of the force"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सूत्र में केवल बल-दिशा वाला विस्थापन गिना जाता है।",
+        "en": "Only the displacement along the force counts in the formula."
+      }
+    },
+    {
+      "id": "phy5_q109",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बिना किसी बल के गतिमान वस्तु पर किया गया कार्य —",
+        "en": "The work done on an object moving with no force acting is —"
+      },
+      "options": {
+        "hi": [
+          "शून्य (F = 0)",
+          "धनात्मक",
+          "ऋणात्मक",
+          "अनंत"
+        ],
+        "en": [
+          "Zero (F = 0)",
+          "Positive",
+          "Negative",
+          "Infinite"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F = 0 होने से W = 0 × s = 0।",
+        "en": "With F = 0, W = 0 × s = 0."
+      }
+    },
+    {
+      "id": "phy5_q110",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 न्यूटन बल से वस्तु 1 मीटर खिसकी — कार्य —",
+        "en": "A 1 newton force moves an object 1 metre — the work done is —"
+      },
+      "options": {
+        "hi": [
+          "0.1 जूल",
+          "1 जूल",
+          "0 जूल",
+          "10 जूल"
+        ],
+        "en": [
+          "0.1 joule",
+          "1 joule",
+          "0 joule",
+          "10 joule"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "W = 1 × 1 = 1 J।",
+        "en": "W = 1 × 1 = 1 J."
+      }
+    },
+    {
+      "id": "phy5_q111",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जूल किन दो मात्रकों का गुणनफल है?",
+        "en": "One joule is the product of which two units?"
+      },
+      "options": {
+        "hi": [
+          "किलोग्राम × मीटर",
+          "वाट × सेकंड का वर्ग",
+          "न्यूटन × मीटर",
+          "न्यूटन × सेकंड"
+        ],
+        "en": [
+          "Kilogram × metre",
+          "Watt × second squared",
+          "Newton × metre",
+          "Newton × second"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "J = N·m — बल-मात्रक और विस्थापन-मात्रक का गुणनफल।",
+        "en": "J = N·m — force unit times displacement unit."
+      }
+    },
+    {
+      "id": "phy5_q112",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कार्य ऋणात्मक कब होता है?",
+        "en": "When is the work negative?"
+      },
+      "options": {
+        "hi": [
+          "जब बल व विस्थापन समान दिशा में हों",
+          "जब विस्थापन शून्य हो",
+          "जब बल बहुत बड़ा हो",
+          "जब बल व विस्थापन विपरीत दिशाओं में हों"
+        ],
+        "en": [
+          "When the force and displacement are in the same direction",
+          "When the displacement is zero",
+          "When the force is very large",
+          "When the force and displacement are in opposite directions"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विपरीत दिशा में बल कार्य घटाता है — W ऋणात्मक।",
+        "en": "A force opposing the motion subtracts — W is negative."
+      }
+    },
+    {
+      "id": "phy5_q113",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चलती वस्तु पर घर्षण बल का कार्य होता है —",
+        "en": "The work done by friction on a moving object is —"
+      },
+      "options": {
+        "hi": [
+          "ऋणात्मक",
+          "धनात्मक",
+          "शून्य",
+          "अनंत"
+        ],
+        "en": [
+          "Negative",
+          "Positive",
+          "Zero",
+          "Infinite"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "घर्षण गति के विपरीत है — ऋणात्मक कार्य।",
+        "en": "Friction opposes the motion — negative work."
+      }
+    },
+    {
+      "id": "phy5_q114",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल और विस्थापन एक ही दिशा में हों तो कार्य —",
+        "en": "If the force and displacement are in the same direction, the work is —"
+      },
+      "options": {
+        "hi": [
+          "दिशा-निरपेक्ष",
+          "धनात्मक",
+          "ऋणात्मक",
+          "शून्य"
+        ],
+        "en": [
+          "Direction-free",
+          "Positive",
+          "Negative",
+          "Zero"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समान दिशा में कार्य जुड़ता है — धनात्मक।",
+        "en": "Same direction adds work — positive."
+      }
+    },
+    {
+      "id": "phy5_q115",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी वस्तु को ऊपर उठाने में किया गया कार्य किसके बराबर होता है?",
+        "en": "The work done in lifting an object equals —"
+      },
+      "options": {
+        "hi": [
+          "केवल लगाया बल",
+          "समय × चाल",
+          "उसकी स्थितिज ऊर्जा में वृद्धि (भार × ऊँचाई)",
+          "उसकी गतिज ऊर्जा"
+        ],
+        "en": [
+          "Only the applied force",
+          "Time × speed",
+          "Its gain in potential energy (weight × height)",
+          "Its kinetic energy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "W = भार × ऊँचाई — वही ऊर्जा स्थितिज रूप में जमा हो जाती है।",
+        "en": "W = weight × height — that energy is stored as potential energy."
+      }
+    },
+    {
+      "id": "phy5_q116",
+      "topic": "work",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 जूल ऊर्जा से अधिकतम कितना कार्य हो सकता है?",
+        "en": "At most how much work can 1 joule of energy do?"
+      },
+      "options": {
+        "hi": [
+          "अनंत कार्य",
+          "100 जूल",
+          "कोई कार्य नहीं",
+          "1 जूल (ऊर्जा पूर्णतः कार्य में बदल सकती है)"
+        ],
+        "en": [
+          "Infinite work",
+          "100 joules",
+          "No work at all",
+          "1 joule (energy can convert fully into work)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊर्जा कार्य करने की क्षमता है — 1 J ऊर्जा अधिकतम 1 J कार्य कर सकती है।",
+        "en": "Energy is the capacity to work — 1 J of energy can do at most 1 J of work."
+      }
+    },
+    {
+      "id": "phy5_q117",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 N के बल से वस्तु 5 मीटर खिसकती है — कार्य —",
+        "en": "A 10 N force moves an object 5 metres — the work done is —"
+      },
+      "options": {
+        "hi": [
+          "50 J",
+          "2 J",
+          "15 J",
+          "5 J"
+        ],
+        "en": [
+          "50 J",
+          "2 J",
+          "15 J",
+          "5 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "W = 10 × 5 = 50 J।",
+        "en": "W = 10 × 5 = 50 J."
+      }
+    },
+    {
+      "id": "phy5_q118",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "20 N बल, 3 मीटर विस्थापन — कार्य —",
+        "en": "A 20 N force, 3 metres of displacement — the work is —"
+      },
+      "options": {
+        "hi": [
+          "30 J",
+          "60 J",
+          "23 J",
+          "6.7 J"
+        ],
+        "en": [
+          "30 J",
+          "60 J",
+          "23 J",
+          "6.7 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "W = 20 × 3 = 60 J।",
+        "en": "W = 20 × 3 = 60 J."
+      }
+    },
+    {
+      "id": "phy5_q119",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "25 N का बल 4 मीटर तक लगा — कार्य —",
+        "en": "A 25 N force acts over 4 metres — the work is —"
+      },
+      "options": {
+        "hi": [
+          "6.25 J",
+          "40 J",
+          "100 J",
+          "29 J"
+        ],
+        "en": [
+          "6.25 J",
+          "40 J",
+          "100 J",
+          "29 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "W = 25 × 4 = 100 J।",
+        "en": "W = 25 × 4 = 100 J."
+      }
+    },
+    {
+      "id": "phy5_q120",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "8 N बल से 2 मीटर विस्थापन — कार्य —",
+        "en": "An 8 N force produces a 2 m displacement — the work is —"
+      },
+      "options": {
+        "hi": [
+          "4 J",
+          "10 J",
+          "82 J",
+          "16 J"
+        ],
+        "en": [
+          "4 J",
+          "10 J",
+          "82 J",
+          "16 J"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "W = 8 × 2 = 16 J।",
+        "en": "W = 8 × 2 = 16 J."
+      }
+    },
+    {
+      "id": "phy5_q121",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "6 N का बल 0.5 मीटर विस्थापन देता है — कार्य —",
+        "en": "A 6 N force gives a 0.5 m displacement — the work is —"
+      },
+      "options": {
+        "hi": [
+          "3 J",
+          "12 J",
+          "6.5 J",
+          "30 J"
+        ],
+        "en": [
+          "3 J",
+          "12 J",
+          "6.5 J",
+          "30 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "W = 6 × 0.5 = 3 J।",
+        "en": "W = 6 × 0.5 = 3 J."
+      }
+    },
+    {
+      "id": "phy5_q122",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "12 N बल से 6 मीटर चली गाड़ी पर कार्य —",
+        "en": "The work done on a cart moved 6 m by a 12 N force is —"
+      },
+      "options": {
+        "hi": [
+          "60 J",
+          "72 J",
+          "2 J",
+          "18 J"
+        ],
+        "en": [
+          "60 J",
+          "72 J",
+          "2 J",
+          "18 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "W = 12 × 6 = 72 J।",
+        "en": "W = 12 × 6 = 72 J."
+      }
+    },
+    {
+      "id": "phy5_q123",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 मीटर विस्थापन में 100 J कार्य हुआ — औसत बल —",
+        "en": "100 J of work is done over a 5 m displacement — the average force is —"
+      },
+      "options": {
+        "hi": [
+          "95 N",
+          "25 N",
+          "20 N",
+          "500 N"
+        ],
+        "en": [
+          "95 N",
+          "25 N",
+          "20 N",
+          "500 N"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "F = W/s = 100/5 = 20 N।",
+        "en": "F = W/s = 100/5 = 20 N."
+      }
+    },
+    {
+      "id": "phy5_q124",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "60 J कार्य 20 N बल से हुआ — विस्थापन —",
+        "en": "60 J of work is done by a 20 N force — the displacement is —"
+      },
+      "options": {
+        "hi": [
+          "1200 m",
+          "40 m",
+          "30 m",
+          "3 m"
+        ],
+        "en": [
+          "1200 m",
+          "40 m",
+          "30 m",
+          "3 m"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "s = W/F = 60/20 = 3 m।",
+        "en": "s = W/F = 60/20 = 3 m."
+      }
+    },
+    {
+      "id": "phy5_q125",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "8 मीटर विस्थापन में 40 J कार्य — लगा बल —",
+        "en": "40 J of work over an 8 m displacement — the force applied is —"
+      },
+      "options": {
+        "hi": [
+          "5 N",
+          "32 N",
+          "48 N",
+          "320 N"
+        ],
+        "en": [
+          "5 N",
+          "32 N",
+          "48 N",
+          "320 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F = 40/8 = 5 N।",
+        "en": "F = 40/8 = 5 N."
+      }
+    },
+    {
+      "id": "phy5_q126",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "80 J कार्य करने में 16 N बल ने वस्तु को कितनी दूर खिसकाया?",
+        "en": "A 16 N force performing 80 J of work moves the object how far?"
+      },
+      "options": {
+        "hi": [
+          "64 m",
+          "5 m",
+          "4 m",
+          "96 m"
+        ],
+        "en": [
+          "64 m",
+          "5 m",
+          "4 m",
+          "96 m"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "s = 80/16 = 5 m।",
+        "en": "s = 80/16 = 5 m."
+      }
+    },
+    {
+      "id": "phy5_q127",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बक्सा धकेलते रहे पर वह हिला नहीं — 1 मिनट की मेहनत का भौतिक कार्य —",
+        "en": "You keep pushing a box but it never moves — the physical work done in 1 minute is —"
+      },
+      "options": {
+        "hi": [
+          "धक्के के समानुपाती",
+          "समय के समानुपाती",
+          "शून्य",
+          "बहुत अधिक"
+        ],
+        "en": [
+          "Proportional to the push",
+          "Proportional to the time",
+          "Zero",
+          "Very large"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विस्थापन शून्य → W = 0 — यह प्रसिद्ध परीक्षा-जाल है।",
+        "en": "Zero displacement → W = 0 — a famous exam trap."
+      }
+    },
+    {
+      "id": "phy5_q128",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान बल में विस्थापन दोगुना कर दें तो कार्य —",
+        "en": "Keeping the same force, double the displacement — the work —"
+      },
+      "options": {
+        "hi": [
+          "आधा रह जाता है",
+          "चार गुना",
+          "समान",
+          "दोगुना हो जाता है"
+        ],
+        "en": [
+          "Halves",
+          "Quadruples",
+          "Stays the same",
+          "Doubles"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "W ∝ s (बल स्थिर) — विस्थापन ×2 → कार्य ×2।",
+        "en": "W ∝ s (fixed force) — double s, double W."
+      }
+    },
+    {
+      "id": "phy5_q129",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान विस्थापन पर बल आधा कर दें — कार्य —",
+        "en": "Halve the force over the same displacement — the work —"
+      },
+      "options": {
+        "hi": [
+          "आधा रह जाता है",
+          "दोगुना",
+          "चार गुना",
+          "समान"
+        ],
+        "en": [
+          "Halves",
+          "Doubles",
+          "Quadruples",
+          "Stays the same"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "W ∝ F — बल आधा तो कार्य आधा।",
+        "en": "W ∝ F — half the force, half the work."
+      }
+    },
+    {
+      "id": "phy5_q130",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: केवल बल लगाना कार्य नहीं है। कथन B: विस्थापन के बिना कार्य शून्य है। सही विकल्प —",
+        "en": "Statement A: merely applying a force is not work. Statement B: without displacement the work is zero. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही"
+        ],
+        "en": [
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दोनों कथन एक ही सिद्धांत के दो पहलू हैं।",
+        "en": "Both statements express the same principle."
+      }
+    },
+    {
+      "id": "phy5_q131",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गाड़ी पर 500 N का बल 20 मीटर तक लगा — कार्य —",
+        "en": "A 500 N force acts on a cart for 20 metres — the work is —"
+      },
+      "options": {
+        "hi": [
+          "25 J",
+          "1000 J",
+          "10,000 J (10 kJ)",
+          "520 J"
+        ],
+        "en": [
+          "25 J",
+          "1000 J",
+          "10,000 J (10 kJ)",
+          "520 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "W = 500 × 20 = 10,000 J = 10 kJ।",
+        "en": "W = 500 × 20 = 10,000 J = 10 kJ."
+      }
+    },
+    {
+      "id": "phy5_q132",
+      "topic": "work",
+      "difficulty": "medium",
+      "question": {
+        "hi": "50 N का घर्षण-विरोधी बल और 2 मीटर विस्थापन (गति की विपरीत दिशा में बल) — घर्षण का कार्य —",
+        "en": "A 50 N frictional force opposes a 2 m displacement — the work done by friction is —"
+      },
+      "options": {
+        "hi": [
+          "+100 J",
+          "शून्य",
+          "25 J",
+          "−100 J"
+        ],
+        "en": [
+          "+100 J",
+          "Zero",
+          "25 J",
+          "−100 J"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल विस्थापन के विपरीत → W = −50 × 2 = −100 J।",
+        "en": "Force opposite to displacement → W = −50 × 2 = −100 J."
+      }
+    },
+    {
+      "id": "phy5_q133",
+      "topic": "work",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गाड़ी पर आगे का बल 30 N, पीछे घर्षण 10 N, विस्थापन 4 m — नेट कार्य —",
+        "en": "A cart feels a 30 N forward force and 10 N backward friction over 4 m — the net work is —"
+      },
+      "options": {
+        "hi": [
+          "80 J",
+          "120 J",
+          "40 J",
+          "20 J"
+        ],
+        "en": [
+          "80 J",
+          "120 J",
+          "40 J",
+          "20 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शुद्ध बल = 30 − 10 = 20 N; W = 20 × 4 = 80 J।",
+        "en": "Net force = 30 − 10 = 20 N; W = 20 × 4 = 80 J."
+      }
+    },
+    {
+      "id": "phy5_q134",
+      "topic": "work",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सिर पर 100 N का बोझ लेकर व्यक्ति क्षैतिज 10 मीटर चलता है — बोझ को सहारा देने वाले ऊर्ध्वाधर बल का कार्य —",
+        "en": "A person carries a 100 N load on his head while walking 10 m horizontally — the work done by the carrying force during the horizontal walk is —"
+      },
+      "options": {
+        "hi": [
+          "10 J",
+          "शून्य (बल ऊर्ध्वाधर, विस्थापन क्षैतिज)",
+          "1000 J",
+          "100 J"
+        ],
+        "en": [
+          "10 J",
+          "Zero (the force is vertical, the displacement horizontal)",
+          "1000 J",
+          "100 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऊर्ध्वाधर बल क्षैतिज विस्थापन पर कार्य नहीं करता — W = 0।",
+        "en": "A vertical force does no work on a horizontal displacement — W = 0."
+      }
+    },
+    {
+      "id": "phy5_q135",
+      "topic": "work",
+      "difficulty": "hard",
+      "question": {
+        "hi": "20 N का बल नीचे की ओर है पर वस्तु 5 मीटर ऊपर जाती है — उस बल का कार्य —",
+        "en": "A 20 N force points downward while the object moves 5 m up — the work done by that force is —"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "4 J",
+          "−100 J",
+          "+100 J"
+        ],
+        "en": [
+          "Zero",
+          "4 J",
+          "−100 J",
+          "+100 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विपरीत दिशाएँ → W = −20 × 5 = −100 J।",
+        "en": "Opposite directions → W = −20 × 5 = −100 J."
+      }
+    },
+    {
+      "id": "phy5_q136",
+      "topic": "work",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बल दोगुना और विस्थापन आधा कर दिया जाए — कार्य —",
+        "en": "The force is doubled and the displacement halved — the work —"
+      },
+      "options": {
+        "hi": [
+          "दोगुना",
+          "आधा",
+          "चार गुना",
+          "समान रहता है"
+        ],
+        "en": [
+          "Doubles",
+          "Halves",
+          "Quadruples",
+          "Stays the same"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "W = (2F) × (s/2) = F × s — अपरिवर्तित।",
+        "en": "W = (2F) × (s/2) = F × s — unchanged."
+      }
+    },
+    {
+      "id": "phy5_q137",
+      "topic": "work",
+      "difficulty": "hard",
+      "question": {
+        "hi": "0.4 kJ कार्य 8 मीटर विस्थापन में हुआ — बल —",
+        "en": "0.4 kJ of work is done over an 8 m displacement — the force is —"
+      },
+      "options": {
+        "hi": [
+          "50 N",
+          "3200 N",
+          "20 N",
+          "5 N"
+        ],
+        "en": [
+          "50 N",
+          "3200 N",
+          "20 N",
+          "5 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "0.4 kJ = 400 J; F = 400/8 = 50 N।",
+        "en": "0.4 kJ = 400 J; F = 400/8 = 50 N."
+      }
+    },
+    {
+      "id": "phy5_q138",
+      "topic": "work",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: घर्षण बल का कार्य सदा ऋणात्मक होता है (गतिमान वस्तु पर)। कथन B: लंबवत बल का कार्य शून्य होता है। सही विकल्प —",
+        "en": "Statement A: the work of friction (on a moving object) is always negative. Statement B: the work of a perpendicular force is zero. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही"
+        ],
+        "en": [
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घर्षण गति का विरोधी (ऋणात्मक), लंबवत बल की दिशा में विस्थापन शून्य — दोनों सही।",
+        "en": "Friction opposes motion (negative); a perpendicular force sees zero displacement along it — both right."
+      }
+    },
+    {
+      "id": "phy5_q139",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गतिज ऊर्जा किसे कहते हैं?",
+        "en": "What is kinetic energy?"
+      },
+      "options": {
+        "hi": [
+          "रंग के कारण ऊर्जा",
+          "समय के कारण ऊर्जा",
+          "गति के कारण वस्तु में धारित ऊर्जा",
+          "ऊँचाई के कारण ऊर्जा"
+        ],
+        "en": [
+          "Energy due to colour",
+          "Energy due to time",
+          "The energy an object has due to its motion",
+          "Energy due to height"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गतिमान वस्तु कार्य कर सकती है — वही गतिज ऊर्जा है।",
+        "en": "A moving object can do work — that is kinetic energy."
+      }
+    },
+    {
+      "id": "phy5_q140",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गतिज ऊर्जा का सूत्र क्या है?",
+        "en": "What is the formula for kinetic energy?"
+      },
+      "options": {
+        "hi": [
+          "KE = mgh",
+          "KE = mv",
+          "KE = ½mv",
+          "KE = ½mv²"
+        ],
+        "en": [
+          "KE = mgh",
+          "KE = mv",
+          "KE = ½mv",
+          "KE = ½mv²"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गतिज ऊर्जा = आधा × द्रव्यमान × वेग का वर्ग।",
+        "en": "Kinetic energy = half × mass × velocity squared."
+      }
+    },
+    {
+      "id": "phy5_q141",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विरामावस्था वस्तु की गतिज ऊर्जा —",
+        "en": "The kinetic energy of an object at rest is —"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "अधिकतम",
+          "द्रव्यमान के बराबर",
+          "अनंत"
+        ],
+        "en": [
+          "Zero",
+          "Maximum",
+          "Equal to its mass",
+          "Infinite"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "v = 0 → KE = ½m×0 = 0।",
+        "en": "v = 0 → KE = ½m×0 = 0."
+      }
+    },
+    {
+      "id": "phy5_q142",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गतिज ऊर्जा का SI मात्रक —",
+        "en": "The SI unit of kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "मीटर/सेकंड",
+          "जूल (J)",
+          "वाट (W)",
+          "न्यूटन (N)"
+        ],
+        "en": [
+          "Metre/second",
+          "Joule (J)",
+          "Watt (W)",
+          "Newton (N)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सभी ऊर्जाओं का मात्रक जूल है।",
+        "en": "Every form of energy is measured in joules."
+      }
+    },
+    {
+      "id": "phy5_q143",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गतिज ऊर्जा किन राशियों पर निर्भर करती है?",
+        "en": "On which quantities does kinetic energy depend?"
+      },
+      "options": {
+        "hi": [
+          "केवल ऊँचाई",
+          "रंग और आकार",
+          "द्रव्यमान और वेग",
+          "केवल द्रव्यमान"
+        ],
+        "en": [
+          "Height only",
+          "Colour and shape",
+          "Mass and velocity",
+          "Mass only"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "KE = ½mv² — दोनों निर्धारक हैं।",
+        "en": "KE = ½mv² — both decide it."
+      }
+    },
+    {
+      "id": "phy5_q144",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान समान रखकर वेग दोगुना कर दें — गतिज ऊर्जा —",
+        "en": "Keeping the mass fixed, double the velocity — the kinetic energy —"
+      },
+      "options": {
+        "hi": [
+          "दोगुनी",
+          "आधी",
+          "समान",
+          "चार गुना हो जाती है"
+        ],
+        "en": [
+          "Doubles",
+          "Halves",
+          "Stays the same",
+          "Becomes four times"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "KE ∝ v² — (2v)² = 4v² → चार गुना।",
+        "en": "KE ∝ v² — (2v)² = 4v² → four times."
+      }
+    },
+    {
+      "id": "phy5_q145",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग आधा हो जाए तो गतिज ऊर्जा —",
+        "en": "If the velocity is halved, the kinetic energy —"
+      },
+      "options": {
+        "hi": [
+          "एक चौथाई रह जाती है",
+          "आधी",
+          "दोगुनी",
+          "समान"
+        ],
+        "en": [
+          "Becomes one-fourth",
+          "Halves",
+          "Doubles",
+          "Stays the same"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "(v/2)² = v²/4 → KE एक चौथाई।",
+        "en": "(v/2)² = v²/4 → one-fourth the KE."
+      }
+    },
+    {
+      "id": "phy5_q146",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वस्तु की चाल बढ़ने पर उसकी गतिज ऊर्जा —",
+        "en": "As an object's speed increases, its kinetic energy —"
+      },
+      "options": {
+        "hi": [
+          "शून्य हो जाती है",
+          "बढ़ती है",
+          "घटती है",
+          "समान रहती है"
+        ],
+        "en": [
+          "Becomes zero",
+          "Increases",
+          "Decreases",
+          "Remains the same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वेग बढ़ा → v² बढ़ा → KE बढ़ी।",
+        "en": "Higher speed → higher v² → higher KE."
+      }
+    },
+    {
+      "id": "phy5_q147",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समान वेग से चलती दो वस्तुओं में भारी वस्तु की गतिज ऊर्जा —",
+        "en": "Of two objects moving at the same speed, the heavier one's kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "बराबर",
+          "शून्य",
+          "अधिक",
+          "कम"
+        ],
+        "en": [
+          "Equal",
+          "Zero",
+          "Greater",
+          "Smaller"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "KE ∝ m — समान v पर अधिक द्रव्यमान = अधिक KE।",
+        "en": "KE ∝ m — at the same v, more mass means more KE."
+      }
+    },
+    {
+      "id": "phy5_q148",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तेज़ चलती गोली में मुख्य रूप से कौन-सी ऊर्जा होती है?",
+        "en": "A fast-moving bullet mainly carries which energy?"
+      },
+      "options": {
+        "hi": [
+          "स्थितिज ऊर्जा",
+          "रासायनिक ऊर्जा",
+          "नाभिकीय ऊर्जा",
+          "गतिज ऊर्जा"
+        ],
+        "en": [
+          "Potential energy",
+          "Chemical energy",
+          "Nuclear energy",
+          "Kinetic energy"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गोली का वेग ही उसकी ऊर्जा — गतिज।",
+        "en": "The bullet's speed is its energy — kinetic."
+      }
+    },
+    {
+      "id": "phy5_q149",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बहती हवा और बहता जल किस ऊर्जा के स्रोत हैं?",
+        "en": "Moving wind and flowing water are sources of which energy?"
+      },
+      "options": {
+        "hi": [
+          "गतिज ऊर्जा",
+          "स्थितिज ऊर्जा",
+          "ऊष्मीय ऊर्जा",
+          "प्रकाश ऊर्जा"
+        ],
+        "en": [
+          "Kinetic energy",
+          "Potential energy",
+          "Heat energy",
+          "Light energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गति करते द्रव/गैस में गतिज ऊर्जा होती है।",
+        "en": "A moving fluid or gas carries kinetic energy."
+      }
+    },
+    {
+      "id": "phy5_q150",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गतिज ऊर्जा किस प्रकार की राशि है?",
+        "en": "What kind of quantity is kinetic energy?"
+      },
+      "options": {
+        "hi": [
+          "सदा ऋणात्मक",
+          "अदिश",
+          "सदिश",
+          "न अदिश न सदिश"
+        ],
+        "en": [
+          "Always negative",
+          "A scalar",
+          "A vector",
+          "Neither scalar nor vector"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऊर्जा की कोई दिशा नहीं — अदिश।",
+        "en": "Energy has no direction — a scalar."
+      }
+    },
+    {
+      "id": "phy5_q151",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समान द्रव्यमान की वस्तु के वेग 2 m/s और 4 m/s हों — गतिज ऊर्जाओं का अनुपात —",
+        "en": "An object of fixed mass has speeds 2 m/s and 4 m/s — the ratio of its kinetic energies is —"
+      },
+      "options": {
+        "hi": [
+          "2 : 1",
+          "1 : 8",
+          "1 : 4",
+          "1 : 2"
+        ],
+        "en": [
+          "2 : 1",
+          "1 : 8",
+          "1 : 4",
+          "1 : 2"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "KE ∝ v² → 2² : 4² = 4 : 16 = 1 : 4।",
+        "en": "KE ∝ v² → 2² : 4² = 4 : 16 = 1 : 4."
+      }
+    },
+    {
+      "id": "phy5_q152",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पवन चक्की किस ऊर्जा को उपयोगी कार्य में बदलती है?",
+        "en": "A windmill converts which energy into useful work?"
+      },
+      "options": {
+        "hi": [
+          "जल की स्थितिज ऊर्जा",
+          "सूर्य की प्रकाश ऊर्जा",
+          "भोजन की रासायनिक ऊर्जा",
+          "चलती हवा की गतिज ऊर्जा"
+        ],
+        "en": [
+          "The potential energy of water",
+          "The sun's light energy",
+          "The chemical energy of food",
+          "The kinetic energy of moving air"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हवा की गति (गतिज ऊर्जा) पंखुड़ियाँ घुमाती है।",
+        "en": "The wind's motion (kinetic energy) turns the blades."
+      }
+    },
+    {
+      "id": "phy5_q153",
+      "topic": "kinetic-energy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गतिज ऊर्जा का मान सदा होता है —",
+        "en": "The value of kinetic energy is always —"
+      },
+      "options": {
+        "hi": [
+          "धनात्मक या शून्य (कभी ऋणात्मक नहीं)",
+          "ऋणात्मक",
+          "अनंत",
+          "एक से कम"
+        ],
+        "en": [
+          "Positive or zero (never negative)",
+          "Negative",
+          "Infinite",
+          "Less than one"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "v² कभी ऋणात्मक नहीं होता — KE सदा शून्य या धनात्मक।",
+        "en": "v² is never negative — KE is zero or positive."
+      }
+    },
+    {
+      "id": "phy5_q154",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 kg वस्तु 5 m/s से चल रही है — गतिज ऊर्जा —",
+        "en": "A 2 kg object moves at 5 m/s — its kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "50 J",
+          "25 J",
+          "10 J",
+          "5 J"
+        ],
+        "en": [
+          "50 J",
+          "25 J",
+          "10 J",
+          "5 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "KE = ½ × 2 × 5² = 25 J।",
+        "en": "KE = ½ × 2 × 5² = 25 J."
+      }
+    },
+    {
+      "id": "phy5_q155",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "4 kg वस्तु 3 m/s के वेग से — गतिज ऊर्जा —",
+        "en": "A 4 kg object at 3 m/s — the kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "36 J",
+          "6 J",
+          "18 J",
+          "12 J"
+        ],
+        "en": [
+          "36 J",
+          "6 J",
+          "18 J",
+          "12 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "KE = ½ × 4 × 9 = 18 J।",
+        "en": "KE = ½ × 4 × 9 = 18 J."
+      }
+    },
+    {
+      "id": "phy5_q156",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1 kg पत्थर 10 m/s से फेंका गया — गतिज ऊर्जा —",
+        "en": "A 1 kg stone is thrown at 10 m/s — its kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "10 J",
+          "100 J",
+          "5 J",
+          "50 J"
+        ],
+        "en": [
+          "10 J",
+          "100 J",
+          "5 J",
+          "50 J"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "KE = ½ × 1 × 100 = 50 J।",
+        "en": "KE = ½ × 1 × 100 = 50 J."
+      }
+    },
+    {
+      "id": "phy5_q157",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "6 kg की गेंद 2 m/s से लुढ़क रही है — उसकी गतिज ऊर्जा —",
+        "en": "A 6 kg ball rolls at 2 m/s — its kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "12 J",
+          "24 J",
+          "6 J",
+          "3 J"
+        ],
+        "en": [
+          "12 J",
+          "24 J",
+          "6 J",
+          "3 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "KE = ½ × 6 × 4 = 12 J।",
+        "en": "KE = ½ × 6 × 4 = 12 J."
+      }
+    },
+    {
+      "id": "phy5_q158",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 kg की साइकिल 4 m/s से — गतिज ऊर्जा —",
+        "en": "A 10 kg bicycle at 4 m/s — the kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "20 J",
+          "80 J",
+          "40 J",
+          "160 J"
+        ],
+        "en": [
+          "20 J",
+          "80 J",
+          "40 J",
+          "160 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "KE = ½ × 10 × 16 = 80 J।",
+        "en": "KE = ½ × 10 × 16 = 80 J."
+      }
+    },
+    {
+      "id": "phy5_q159",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.5 kg की गेंद 8 m/s से उड़ रही है — गतिज ऊर्जा —",
+        "en": "A 0.5 kg ball flies at 8 m/s — the kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "32 J",
+          "8 J",
+          "16 J",
+          "4 J"
+        ],
+        "en": [
+          "32 J",
+          "8 J",
+          "16 J",
+          "4 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "KE = ½ × 0.5 × 64 = 16 J।",
+        "en": "KE = ½ × 0.5 × 64 = 16 J."
+      }
+    },
+    {
+      "id": "phy5_q160",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 kg वस्तु का वेग 5 m/s से बढ़ाकर 10 m/s किया गया — नई गतिज ऊर्जा —",
+        "en": "A 2 kg object's speed rises from 5 m/s to 10 m/s — the new kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "50 J",
+          "200 J",
+          "25 J",
+          "100 J"
+        ],
+        "en": [
+          "50 J",
+          "200 J",
+          "25 J",
+          "100 J"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नई KE = ½ × 2 × 10² = 100 J (पुरानी 25 J की चार गुनी)।",
+        "en": "New KE = ½ × 2 × 10² = 100 J (four times the old 25 J)."
+      }
+    },
+    {
+      "id": "phy5_q161",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "द्रव्यमान दोगुना (वेग समान) — गतिज ऊर्जा —",
+        "en": "Mass doubled (same velocity) — the kinetic energy —"
+      },
+      "options": {
+        "hi": [
+          "दोगुनी",
+          "आधी",
+          "चार गुना",
+          "समान"
+        ],
+        "en": [
+          "Doubles",
+          "Halves",
+          "Quadruples",
+          "Stays the same"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "KE ∝ m — द्रव्यमान ×2 → KE ×2।",
+        "en": "KE ∝ m — double mass, double KE."
+      }
+    },
+    {
+      "id": "phy5_q162",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी वस्तु की गतिज ऊर्जा 200 J है और वेग 10 m/s — द्रव्यमान —",
+        "en": "An object's kinetic energy is 200 J at 10 m/s — its mass is —"
+      },
+      "options": {
+        "hi": [
+          "40 kg",
+          "4 kg",
+          "2 kg",
+          "20 kg"
+        ],
+        "en": [
+          "40 kg",
+          "4 kg",
+          "2 kg",
+          "20 kg"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "m = 2×KE/v² = 400/100 = 4 kg।",
+        "en": "m = 2×KE/v² = 400/100 = 4 kg."
+      }
+    },
+    {
+      "id": "phy5_q163",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: गतिज ऊर्जा वेग के वर्ग के समानुपाती है। कथन B: विरामावस्था में गतिज ऊर्जा शून्य होती है। सही विकल्प —",
+        "en": "Statement A: kinetic energy is proportional to the square of the velocity. Statement B: at rest the kinetic energy is zero. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "½mv² सूत्र दोनों कथनों को सिद्ध करता है।",
+        "en": "The ½mv² formula establishes both statements."
+      }
+    },
+    {
+      "id": "phy5_q164",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान गतिज ऊर्जा वाली हल्की व भारी वस्तुओं में किसका वेग अधिक होता है?",
+        "en": "Of a light and a heavy object with equal kinetic energies, which has the greater velocity?"
+      },
+      "options": {
+        "hi": [
+          "भारी वस्तु का",
+          "दोनों का समान",
+          "कोई नहीं",
+          "हल्की वस्तु का"
+        ],
+        "en": [
+          "The heavy one",
+          "Both the same",
+          "Neither",
+          "The light one"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समान KE पर v = √(2KE/m) — m कम तो v अधिक।",
+        "en": "At equal KE, v = √(2KE/m) — smaller m, larger v."
+      }
+    },
+    {
+      "id": "phy5_q165",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही वेग से चलते ट्रक और साइकिल में किसकी गतिज ऊर्जा अधिक?",
+        "en": "A truck and a bicycle move at the same speed — which has more kinetic energy?"
+      },
+      "options": {
+        "hi": [
+          "ट्रक की (द्रव्यमान बहुत अधिक)",
+          "साइकिल की",
+          "बराबर",
+          "निर्भर नहीं करता"
+        ],
+        "en": [
+          "The truck's (far greater mass)",
+          "The bicycle's",
+          "Equal",
+          "It does not depend"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समान v पर KE द्रव्यमान से — ट्रक विजेता।",
+        "en": "At the same v, KE follows mass — the truck wins."
+      }
+    },
+    {
+      "id": "phy5_q166",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.2 kg की गोली 20 m/s से — गतिज ऊर्जा —",
+        "en": "A 0.2 kg bullet at 20 m/s — the kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "20 J",
+          "40 J",
+          "4 J",
+          "80 J"
+        ],
+        "en": [
+          "20 J",
+          "40 J",
+          "4 J",
+          "80 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "KE = ½ × 0.2 × 400 = 40 J।",
+        "en": "KE = ½ × 0.2 × 400 = 40 J."
+      }
+    },
+    {
+      "id": "phy5_q167",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "3 kg वस्तु 4 m/s से दौड़ रही है — गतिज ऊर्जा —",
+        "en": "A 3 kg object runs at 4 m/s — the kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "48 J",
+          "6 J",
+          "24 J",
+          "12 J"
+        ],
+        "en": [
+          "48 J",
+          "6 J",
+          "24 J",
+          "12 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "KE = ½ × 3 × 16 = 24 J।",
+        "en": "KE = ½ × 3 × 16 = 24 J."
+      }
+    },
+    {
+      "id": "phy5_q168",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 kg की गेंद 6 m/s से — गतिज ऊर्जा —",
+        "en": "A 5 kg ball at 6 m/s — the kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "30 J",
+          "180 J",
+          "60 J",
+          "90 J"
+        ],
+        "en": [
+          "30 J",
+          "180 J",
+          "60 J",
+          "90 J"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "KE = ½ × 5 × 36 = 90 J।",
+        "en": "KE = ½ × 5 × 36 = 90 J."
+      }
+    },
+    {
+      "id": "phy5_q169",
+      "topic": "kinetic-energy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गतिमान वस्तु रुक जाए तो उसकी गतिज ऊर्जा का क्या होता है?",
+        "en": "When a moving object stops, what happens to its kinetic energy?"
+      },
+      "options": {
+        "hi": [
+          "रूपांतरित हो जाती है (ऊष्मा, ध्वनि आदि में)",
+          "नष्ट हो जाती है",
+          "द्रव्यमान बन जाती है",
+          "रिक्त स्थान में चली जाती है"
+        ],
+        "en": [
+          "It gets transformed (into heat, sound, etc.)",
+          "It is destroyed",
+          "It turns into mass",
+          "It escapes into vacuum"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ब्रेक में घर्षण KE को ऊष्मा में बदलता है — ऊर्जा बनी रहती है।",
+        "en": "Brake friction converts KE to heat — the energy survives."
+      }
+    },
+    {
+      "id": "phy5_q170",
+      "topic": "kinetic-energy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वेग तीन गुना कर दें — गतिज ऊर्जा —",
+        "en": "Triple the velocity — the kinetic energy —"
+      },
+      "options": {
+        "hi": [
+          "समान",
+          "नौ गुना हो जाती है",
+          "तीन गुना",
+          "छह गुना"
+        ],
+        "en": [
+          "Stays the same",
+          "Becomes nine times",
+          "Triples",
+          "Six times"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "(3v)² = 9v² → KE नौ गुना।",
+        "en": "(3v)² = 9v² → nine times the KE."
+      }
+    },
+    {
+      "id": "phy5_q171",
+      "topic": "kinetic-energy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "4 kg वस्तु 5 m/s से चल रही थी; वेग बढ़ाकर 10 m/s किया गया — गतिज ऊर्जा में वृद्धि —",
+        "en": "A 4 kg object was moving at 5 m/s; its speed is raised to 10 m/s — the gain in kinetic energy is —"
+      },
+      "options": {
+        "hi": [
+          "200 J",
+          "100 J",
+          "150 J",
+          "50 J"
+        ],
+        "en": [
+          "200 J",
+          "100 J",
+          "150 J",
+          "50 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पुरानी KE = 50 J, नई = 200 J → वृद्धि 150 J।",
+        "en": "Old KE = 50 J, new = 200 J → a gain of 150 J."
+      }
+    },
+    {
+      "id": "phy5_q172",
+      "topic": "kinetic-energy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "द्रव्यमान आधा और वेग दोगुना कर दें — गतिज ऊर्जा —",
+        "en": "Halve the mass and double the velocity — the kinetic energy —"
+      },
+      "options": {
+        "hi": [
+          "आधी",
+          "समान",
+          "चार गुना",
+          "दोगुनी हो जाती है"
+        ],
+        "en": [
+          "Halves",
+          "Stays the same",
+          "Quadruples",
+          "Doubles"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "½(m/2)(2v)² = 2 × ½mv² → दोगुनी।",
+        "en": "½(m/2)(2v)² = 2 × ½mv² → double."
+      }
+    },
+    {
+      "id": "phy5_q173",
+      "topic": "kinetic-energy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी वस्तु की गतिज ऊर्जा 100 J है — वेग आधा करने पर नई गतिज ऊर्जा —",
+        "en": "An object has 100 J of kinetic energy — halving its velocity gives a new kinetic energy of —"
+      },
+      "options": {
+        "hi": [
+          "25 J",
+          "50 J",
+          "100 J",
+          "200 J"
+        ],
+        "en": [
+          "25 J",
+          "50 J",
+          "100 J",
+          "200 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "KE ∝ v² → (½)² = ¼ → 25 J।",
+        "en": "KE ∝ v² → (½)² = ¼ → 25 J."
+      }
+    },
+    {
+      "id": "phy5_q174",
+      "topic": "kinetic-energy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "25 kg वस्तु की गतिज ऊर्जा 800 J है — उसका वेग —",
+        "en": "A 25 kg object has 800 J of kinetic energy — its velocity is —"
+      },
+      "options": {
+        "hi": [
+          "4 m/s",
+          "8 m/s",
+          "32 m/s",
+          "64 m/s"
+        ],
+        "en": [
+          "4 m/s",
+          "8 m/s",
+          "32 m/s",
+          "64 m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "v = √(2×800/25) = √64 = 8 m/s।",
+        "en": "v = √(2×800/25) = √64 = 8 m/s."
+      }
+    },
+    {
+      "id": "phy5_q175",
+      "topic": "kinetic-energy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: गतिज ऊर्जा सदा धनात्मक होती है। कथन B: वेग की दिशा बदलने पर गतिज ऊर्जा नहीं बदलती। सही विकल्प —",
+        "en": "Statement A: kinetic energy is always positive. Statement B: reversing the direction of velocity does not change the kinetic energy. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "v² दिशा-निरपेक्ष और धनात्मक — दोनों कथन सही।",
+        "en": "v² is direction-free and positive — both statements hold."
+      }
+    },
+    {
+      "id": "phy5_q176",
+      "topic": "kinetic-energy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "समान गतिज ऊर्जा की दो गेंदें: द्रव्यमान 1 kg और 4 kg — उनके वेगों का अनुपात —",
+        "en": "Two balls with equal kinetic energy: masses 1 kg and 4 kg — the ratio of their velocities is —"
+      },
+      "options": {
+        "hi": [
+          "1 : 2",
+          "4 : 1",
+          "1 : 4",
+          "2 : 1"
+        ],
+        "en": [
+          "1 : 2",
+          "4 : 1",
+          "1 : 4",
+          "2 : 1"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "v ∝ 1/√m (समान KE) → v₁ : v₂ = √4 : √1 = 2 : 1।",
+        "en": "v ∝ 1/√m (equal KE) → v₁ : v₂ = √4 : √1 = 2 : 1."
+      }
+    },
+    {
+      "id": "phy5_q177",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्थितिज ऊर्जा किसे कहते हैं?",
+        "en": "What is potential energy?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु की स्थिति या ऊँचाई के कारण धारित ऊर्जा",
+          "गति के कारण ऊर्जा",
+          "रंग के कारण ऊर्जा",
+          "तापमान के कारण ऊर्जा"
+        ],
+        "en": [
+          "The energy stored due to an object's position or height",
+          "Energy due to motion",
+          "Energy due to colour",
+          "Energy due to temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊँचाई पर रखी वस्तु गिरकर कार्य कर सकती है — यही स्थितिज ऊर्जा है।",
+        "en": "An object held high can do work on falling — that stored energy is potential energy."
+      }
+    },
+    {
+      "id": "phy5_q178",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्थितिज ऊर्जा का सूत्र क्या है?",
+        "en": "What is the formula for potential energy?"
+      },
+      "options": {
+        "hi": [
+          "PE = mg",
+          "PE = mgh",
+          "PE = ½mv²",
+          "PE = mv"
+        ],
+        "en": [
+          "PE = mg",
+          "PE = mgh",
+          "PE = ½mv²",
+          "PE = mv"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्थितिज ऊर्जा = द्रव्यमान × g × ऊँचाई।",
+        "en": "Potential energy = mass × g × height."
+      }
+    },
+    {
+      "id": "phy5_q179",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्थितिज ऊर्जा का SI मात्रक —",
+        "en": "The SI unit of potential energy is —"
+      },
+      "options": {
+        "hi": [
+          "न्यूटन-मीटर-सेकंड",
+          "किलोग्राम",
+          "जूल (J)",
+          "वाट (W)"
+        ],
+        "en": [
+          "Newton-metre-second",
+          "Kilogram",
+          "Joule (J)",
+          "Watt (W)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रत्येक ऊर्जा-रूप का मात्रक जूल ही है।",
+        "en": "Every form of energy shares the joule."
+      }
+    },
+    {
+      "id": "phy5_q180",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धरती पर रखी वस्तु की (धरती को संदर्भ मानकर) स्थितिज ऊर्जा —",
+        "en": "Taking the ground as reference, the potential energy of an object lying on it is —"
+      },
+      "options": {
+        "hi": [
+          "अधिकतम",
+          "द्रव्यमान के बराबर",
+          "अनंत",
+          "शून्य (h = 0)"
+        ],
+        "en": [
+          "Maximum",
+          "Equal to its mass",
+          "Infinite",
+          "Zero (h = 0)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "h = 0 → PE = mg × 0 = 0।",
+        "en": "h = 0 → PE = mg × 0 = 0."
+      }
+    },
+    {
+      "id": "phy5_q181",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊँचाई बढ़ने पर स्थितिज ऊर्जा —",
+        "en": "As the height increases, the potential energy —"
+      },
+      "options": {
+        "hi": [
+          "बढ़ती है",
+          "घटती है",
+          "समान रहती है",
+          "शून्य हो जाती है"
+        ],
+        "en": [
+          "Increases",
+          "Decreases",
+          "Remains the same",
+          "Becomes zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "PE ∝ h — ऊँचाई दोगुनी तो PE दोगुनी।",
+        "en": "PE ∝ h — double the height, double the PE."
+      }
+    },
+    {
+      "id": "phy5_q182",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खींची हुई रबर की पट्टी में कौन-सी ऊर्जा संचित होती है?",
+        "en": "Which energy is stored in a stretched rubber band?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश ऊर्जा",
+          "स्थितिज (प्रत्यास्थ) ऊर्जा",
+          "गतिज ऊर्जा",
+          "नाभिकीय ऊर्जा"
+        ],
+        "en": [
+          "Light energy",
+          "Potential (elastic) energy",
+          "Kinetic energy",
+          "Nuclear energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खिंचाव की स्थिति में ऊर्जा संचित रहती है — स्थितिज रूप।",
+        "en": "The stretched state stores energy — a potential form."
+      }
+    },
+    {
+      "id": "phy5_q183",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊर्जा किसे कहते हैं?",
+        "en": "What is energy?"
+      },
+      "options": {
+        "hi": [
+          "केवल गति",
+          "पदार्थ का रंग",
+          "कार्य करने की क्षमता",
+          "केवल बल"
+        ],
+        "en": [
+          "Only motion",
+          "The colour of matter",
+          "The capacity to do work",
+          "Only force"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जितनी ऊर्जा, उतना संभावित कार्य।",
+        "en": "As much energy, that much possible work."
+      }
+    },
+    {
+      "id": "phy5_q184",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊर्जा का SI मात्रक क्या है?",
+        "en": "What is the SI unit of energy?"
+      },
+      "options": {
+        "hi": [
+          "न्यूटन (N)",
+          "वाट (W)",
+          "पास्कल (Pa)",
+          "जूल (J)"
+        ],
+        "en": [
+          "Newton (N)",
+          "Watt (W)",
+          "Pascal (Pa)",
+          "Joule (J)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊर्जा और कार्य एक ही मात्रक — जूल — में मापे जाते हैं।",
+        "en": "Energy and work share the same unit — the joule."
+      }
+    },
+    {
+      "id": "phy5_q185",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊर्जा संरक्षण का नियम क्या कहता है?",
+        "en": "What does the law of conservation of energy state?"
+      },
+      "options": {
+        "hi": [
+          "ऊर्जा न बनती है न नष्ट — केवल रूप बदलती है",
+          "ऊर्जा नष्ट हो सकती है",
+          "ऊर्जा सदा बनती रहती है",
+          "ऊर्जा द्रव्यमान में बदलती है"
+        ],
+        "en": [
+          "Energy is neither created nor destroyed — only transformed",
+          "Energy can be destroyed",
+          "Energy keeps creating itself",
+          "Energy turns into mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कुल ऊर्जा स्थिर रहती है — रूप ही बदलते हैं।",
+        "en": "The total energy stays fixed — only its form changes."
+      }
+    },
+    {
+      "id": "phy5_q186",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गिरती हुई वस्तु में स्थितिज ऊर्जा का रूपांतरण —",
+        "en": "In a falling object, the potential energy transforms into —"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश ऊर्जा",
+          "गतिज ऊर्जा",
+          "रासायनिक ऊर्जा",
+          "नाभिकीय ऊर्जा"
+        ],
+        "en": [
+          "Light energy",
+          "Kinetic energy",
+          "Chemical energy",
+          "Nuclear energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गिरने पर ऊँचाई घटती, चाल बढ़ती — PE से KE।",
+        "en": "Falling lowers the height and raises the speed — PE to KE."
+      }
+    },
+    {
+      "id": "phy5_q187",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊपर फेंकी गई गेंद ऊपर जाते समय किस रूपांतरण दिखाती है?",
+        "en": "A ball thrown upwards shows which transformation while rising?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक से ऊष्मीय",
+          "प्रकाश से गतिज",
+          "गतिज ऊर्जा से स्थितिज ऊर्जा",
+          "स्थितिज से गतिज"
+        ],
+        "en": [
+          "Chemical into heat",
+          "Light into kinetic",
+          "Kinetic energy into potential energy",
+          "Potential into kinetic"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चाल घटती, ऊँचाई बढ़ती — KE का PE में रूपांतरण।",
+        "en": "Speed falls, height rises — KE converting to PE."
+      }
+    },
+    {
+      "id": "phy5_q188",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साधारण पेंडुलम के निचले बिंदु पर कौन-सी ऊर्जा सर्वाधिक होती है?",
+        "en": "At the lowest point of a simple pendulum, which energy is maximum?"
+      },
+      "options": {
+        "hi": [
+          "स्थितिज ऊर्जा",
+          "रासायनिक ऊर्जा",
+          "शून्य ऊर्जा",
+          "गतिज ऊर्जा"
+        ],
+        "en": [
+          "Potential energy",
+          "Chemical energy",
+          "Zero energy",
+          "Kinetic energy"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "निचले बिंदु पर चाल सर्वाधिक — KE सर्वाधिक।",
+        "en": "The speed is greatest at the bottom — maximum KE."
+      }
+    },
+    {
+      "id": "phy5_q189",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हमारे भोजन में कौन-सी ऊर्जा संचित रहती है?",
+        "en": "Which energy is stored in our food?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक ऊर्जा",
+          "गतिज ऊर्जा",
+          "प्रकाश ऊर्जा",
+          "चुंबकीय ऊर्जा"
+        ],
+        "en": [
+          "Chemical energy",
+          "Kinetic energy",
+          "Light energy",
+          "Magnetic energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भोजन के अणुओं में रासायनिक बंधों में ऊर्जा जमा रहती है।",
+        "en": "Energy sits in the chemical bonds of food molecules."
+      }
+    },
+    {
+      "id": "phy5_q190",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूर्य से प्राप्त ऊर्जा का मुख्य रूप —",
+        "en": "The chief form of energy we receive from the sun is —"
+      },
+      "options": {
+        "hi": [
+          "चुंबकीय ऊर्जा",
+          "प्रकाश (और ऊष्मा) ऊर्जा",
+          "गतिज ऊर्जा",
+          "ध्वनि ऊर्जा"
+        ],
+        "en": [
+          "Magnetic energy",
+          "Light (and heat) energy",
+          "Kinetic energy",
+          "Sound energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सौर ऊर्जा प्रकाश व ऊष्मा के रूप में आती है।",
+        "en": "Solar energy arrives as light and heat."
+      }
+    },
+    {
+      "id": "phy5_q191",
+      "topic": "potential-energy-conservation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बाँध के ऊँचे जल में मुख्यतः कौन-सी ऊर्जा होती है?",
+        "en": "The water high behind a dam mainly holds which energy?"
+      },
+      "options": {
+        "hi": [
+          "नाभिकीय ऊर्जा",
+          "ध्वनि ऊर्जा",
+          "स्थितिज ऊर्जा",
+          "रासायनिक ऊर्जा"
+        ],
+        "en": [
+          "Nuclear energy",
+          "Sound energy",
+          "Potential energy",
+          "Chemical energy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऊँचाई पर जल — स्थितिज ऊर्जा — गिरकर टरबाइन घुमाता है।",
+        "en": "Water at height is potential energy — falling, it spins the turbines."
+      }
+    },
+    {
+      "id": "phy5_q192",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 kg वस्तु 2 मीटर ऊँचाई पर (g = 10 m/s²) — स्थितिज ऊर्जा —",
+        "en": "A 5 kg object at a height of 2 m (g = 10 m/s²) — its potential energy is —"
+      },
+      "options": {
+        "hi": [
+          "25 J",
+          "10 J",
+          "50 J",
+          "100 J"
+        ],
+        "en": [
+          "25 J",
+          "10 J",
+          "50 J",
+          "100 J"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "PE = 5 × 10 × 2 = 100 J।",
+        "en": "PE = 5 × 10 × 2 = 100 J."
+      }
+    },
+    {
+      "id": "phy5_q193",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 kg वस्तु 5 मीटर ऊँचाई पर (g = 9.8 m/s²) — स्थितिज ऊर्जा —",
+        "en": "A 10 kg object at 5 m height (g = 9.8 m/s²) — the potential energy is —"
+      },
+      "options": {
+        "hi": [
+          "490 J",
+          "50 J",
+          "98 J",
+          "980 J"
+        ],
+        "en": [
+          "490 J",
+          "50 J",
+          "98 J",
+          "980 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "PE = 10 × 9.8 × 5 = 490 J।",
+        "en": "PE = 10 × 9.8 × 5 = 490 J."
+      }
+    },
+    {
+      "id": "phy5_q194",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 kg वस्तु 3 मीटर ऊँचाई पर (g = 9.8) — PE —",
+        "en": "A 2 kg object at 3 m (g = 9.8) — the PE is —"
+      },
+      "options": {
+        "hi": [
+          "588 J",
+          "58.8 J",
+          "6 J",
+          "19.6 J"
+        ],
+        "en": [
+          "588 J",
+          "58.8 J",
+          "6 J",
+          "19.6 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "PE = 2 × 9.8 × 3 = 58.8 J।",
+        "en": "PE = 2 × 9.8 × 3 = 58.8 J."
+      }
+    },
+    {
+      "id": "phy5_q195",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "20 kg बस्ता 1.5 मीटर ऊँचाई पर (g = 10) — स्थितिज ऊर्जा —",
+        "en": "A 20 kg bag at 1.5 m height (g = 10) — the potential energy is —"
+      },
+      "options": {
+        "hi": [
+          "200 J",
+          "3000 J",
+          "300 J",
+          "30 J"
+        ],
+        "en": [
+          "200 J",
+          "3000 J",
+          "300 J",
+          "30 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "PE = 20 × 10 × 1.5 = 300 J।",
+        "en": "PE = 20 × 10 × 1.5 = 300 J."
+      }
+    },
+    {
+      "id": "phy5_q196",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "PE = 196 J, ऊँचाई 4 m, g = 9.8 — द्रव्यमान —",
+        "en": "PE = 196 J at a height of 4 m with g = 9.8 — the mass is —"
+      },
+      "options": {
+        "hi": [
+          "50 kg",
+          "2 kg",
+          "20 kg",
+          "5 kg"
+        ],
+        "en": [
+          "50 kg",
+          "2 kg",
+          "20 kg",
+          "5 kg"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "m = PE/(gh) = 196/(9.8 × 4) = 5 kg।",
+        "en": "m = PE/(gh) = 196/(9.8 × 4) = 5 kg."
+      }
+    },
+    {
+      "id": "phy5_q197",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "600 J की स्थितिज ऊर्जा, द्रव्यमान 15 kg, g = 10 — ऊँचाई —",
+        "en": "A potential energy of 600 J with mass 15 kg and g = 10 — the height is —"
+      },
+      "options": {
+        "hi": [
+          "4 m",
+          "40 m",
+          "2 m",
+          "6 m"
+        ],
+        "en": [
+          "4 m",
+          "40 m",
+          "2 m",
+          "6 m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "h = PE/(mg) = 600/150 = 4 m।",
+        "en": "h = PE/(mg) = 600/150 = 4 m."
+      }
+    },
+    {
+      "id": "phy5_q198",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊँचाई दोगुनी कर दें (द्रव्यमान समान) — स्थितिज ऊर्जा —",
+        "en": "Double the height (same mass) — the potential energy —"
+      },
+      "options": {
+        "hi": [
+          "समान",
+          "दोगुनी",
+          "आधी",
+          "चार गुना"
+        ],
+        "en": [
+          "Stays the same",
+          "Doubles",
+          "Halves",
+          "Quadruples"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "PE ∝ h — ऊँचाई ×2 → PE ×2।",
+        "en": "PE ∝ h — double height, double PE."
+      }
+    },
+    {
+      "id": "phy5_q199",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "द्रव्यमान आधा कर दें (ऊँचाई समान) — स्थितिज ऊर्जा —",
+        "en": "Halve the mass (same height) — the potential energy —"
+      },
+      "options": {
+        "hi": [
+          "चार गुना",
+          "समान",
+          "आधी",
+          "दोगुनी"
+        ],
+        "en": [
+          "Quadruples",
+          "Stays the same",
+          "Halves",
+          "Doubles"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "PE ∝ m — द्रव्यमान आधा तो PE आधी।",
+        "en": "PE ∝ m — half the mass, half the PE."
+      }
+    },
+    {
+      "id": "phy5_q200",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गिरती वस्तु अपनी आधी ऊँचाई पर पहुँची — उस क्षण —",
+        "en": "A falling object has reached half its drop — at that instant —"
+      },
+      "options": {
+        "hi": [
+          "PE पूरी, KE शून्य",
+          "कुल ऊर्जा आधी",
+          "KE शून्य हो गई",
+          "PE आधी, शेष ऊर्जा गतिज रूप में"
+        ],
+        "en": [
+          "Full PE and zero KE",
+          "The total energy has halved",
+          "The KE has become zero",
+          "Half is PE and the rest has become kinetic"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कुल स्थिर; आधी ऊँचाई पर PE आधी — बाकी KE।",
+        "en": "The total is fixed; at half height PE is half — the rest is KE."
+      }
+    },
+    {
+      "id": "phy5_q201",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 kg वस्तु 5 मीटर से मुक्त गिरी (g = 10) — जमीन से ठीक पहले उसकी गतिज ऊर्जा —",
+        "en": "A 2 kg object falls freely from 5 m (g = 10) — its kinetic energy just before hitting the ground is —"
+      },
+      "options": {
+        "hi": [
+          "100 J",
+          "20 J",
+          "50 J",
+          "10 J"
+        ],
+        "en": [
+          "100 J",
+          "20 J",
+          "50 J",
+          "10 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "PE = 2 × 10 × 5 = 100 J → पूरी KE में बदल जाती है।",
+        "en": "PE = 2 × 10 × 5 = 100 J → fully converted to KE."
+      }
+    },
+    {
+      "id": "phy5_q202",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: मुक्त पतन में PE + KE कुल स्थिर रहती है। कथन B: PE और KE अलग-अलग स्थिर रहती हैं। सही विकल्प —",
+        "en": "Statement A: in free fall the total PE + KE stays constant. Statement B: PE and KE each stay constant separately. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "A सही, B गलत",
+          "A गलत, B सही",
+          "दोनों सही"
+        ],
+        "en": [
+          "Both wrong",
+          "A right, B wrong",
+          "A wrong, B right",
+          "Both right"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कुल स्थिर; दोनों आपस में बदलती रहती हैं — B गलत।",
+        "en": "The total is fixed while the two keep exchanging — B is wrong."
+      }
+    },
+    {
+      "id": "phy5_q203",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत पंखे में ऊर्जा-रूपांतरण —",
+        "en": "The energy transformation in an electric fan is —"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक से प्रकाश",
+          "ऊष्मीय से विद्युत",
+          "विद्युत ऊर्जा से यांत्रिक (गतिज) ऊर्जा",
+          "यांत्रिक से विद्युत"
+        ],
+        "en": [
+          "Chemical to light",
+          "Heat to electrical",
+          "Electrical energy to mechanical (kinetic) energy",
+          "Mechanical to electrical"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मोटर विद्युत लेकर पंखुड़ियाँ घुमाती (गतिज) है।",
+        "en": "The motor takes electricity and spins the blades (kinetic)."
+      }
+    },
+    {
+      "id": "phy5_q204",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत बल्ब में विद्युत ऊर्जा बदलती है —",
+        "en": "In an electric bulb, electrical energy changes into —"
+      },
+      "options": {
+        "hi": [
+          "केवल गतिज ऊर्जा",
+          "रासायनिक ऊर्जा",
+          "चुंबकीय ऊर्जा",
+          "प्रकाश और ऊष्मा ऊर्जा"
+        ],
+        "en": [
+          "Only kinetic energy",
+          "Chemical energy",
+          "Magnetic energy",
+          "Light and heat energy"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल्ब प्रकाश देता है और गर्म भी होता है — दोनों रूप।",
+        "en": "A bulb gives light and gets hot — both forms."
+      }
+    },
+    {
+      "id": "phy5_q205",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटरगाड़ी का इंजन ईंधन की ऊर्जा को किसमें बदलता है?",
+        "en": "A car engine converts the fuel's energy into —"
+      },
+      "options": {
+        "hi": [
+          "यांत्रिक (गतिज) ऊर्जा",
+          "प्रकाश ऊर्जा",
+          "चुंबकीय ऊर्जा",
+          "नाभिकीय ऊर्जा"
+        ],
+        "en": [
+          "Mechanical (kinetic) energy",
+          "Light energy",
+          "Magnetic energy",
+          "Nuclear energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ईंधन की रासायनिक ऊर्जा → इंजन → गाड़ी की गति।",
+        "en": "The fuel's chemical energy → engine → the car's motion."
+      }
+    },
+    {
+      "id": "phy5_q206",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.5 kg की गेंद 4 मीटर ऊँचाई पर है (g = 10) — स्थितिज ऊर्जा —",
+        "en": "A 0.5 kg ball is at 4 m height (g = 10) — the potential energy is —"
+      },
+      "options": {
+        "hi": [
+          "5 J",
+          "20 J",
+          "2 J",
+          "40 J"
+        ],
+        "en": [
+          "5 J",
+          "20 J",
+          "2 J",
+          "40 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "PE = 0.5 × 10 × 4 = 20 J।",
+        "en": "PE = 0.5 × 10 × 4 = 20 J."
+      }
+    },
+    {
+      "id": "phy5_q207",
+      "topic": "potential-energy-conservation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खिंचे धनुष-कमान में तीर चलने तक ऊर्जा-क्रम है —",
+        "en": "In a drawn bow, up to the arrow's flight, the energy sequence is —"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मीय से प्रकाश",
+          "विद्युत से रासायनिक",
+          "स्थितिज (प्रत्यास्थ) ऊर्जा से गतिज ऊर्जा",
+          "गतिज से स्थितिज"
+        ],
+        "en": [
+          "Heat to light",
+          "Electrical to chemical",
+          "Potential (elastic) energy to kinetic energy",
+          "Kinetic to potential"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खिंचाव की स्थितिज ऊर्जा तीर की गतिज ऊर्जा बनती है।",
+        "en": "The stretch's potential energy becomes the arrow's kinetic energy."
+      }
+    },
+    {
+      "id": "phy5_q208",
+      "topic": "potential-energy-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "10 मीटर से मुक्त गिरती वस्तु की जमीन पर चाल (g = 10, ऊर्जा-संरक्षण से) लगभग —",
+        "en": "The speed of an object dropped freely from 10 m on reaching the ground (g = 10, via energy conservation) is about —"
+      },
+      "options": {
+        "hi": [
+          "10 m/s",
+          "100 m/s",
+          "20 m/s",
+          "14.14 m/s"
+        ],
+        "en": [
+          "10 m/s",
+          "100 m/s",
+          "20 m/s",
+          "14.14 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "mgh = ½mv² → v = √(2 × 10 × 10) = √200 ≈ 14.14 m/s।",
+        "en": "mgh = ½mv² → v = √(2 × 10 × 10) = √200 ≈ 14.14 m/s."
+      }
+    },
+    {
+      "id": "phy5_q209",
+      "topic": "potential-energy-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "3 kg वस्तु 10 मीटर ऊँचाई से गिरी (g = 10) — जमीन पर उसकी गतिज ऊर्जा —",
+        "en": "A 3 kg object falls from 10 m (g = 10) — its kinetic energy at the ground is —"
+      },
+      "options": {
+        "hi": [
+          "300 J",
+          "30 J",
+          "3000 J",
+          "150 J"
+        ],
+        "en": [
+          "300 J",
+          "30 J",
+          "3000 J",
+          "150 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "KE = PE = 3 × 10 × 10 = 300 J।",
+        "en": "KE = PE = 3 × 10 × 10 = 300 J."
+      }
+    },
+    {
+      "id": "phy5_q210",
+      "topic": "potential-energy-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गेंद को ऊपर फेंका; शीर्ष पर उसका वेग क्षणभर शून्य — उस क्षण —",
+        "en": "A ball is thrown up; at the top its velocity is momentarily zero — at that instant —"
+      },
+      "options": {
+        "hi": [
+          "दोनों अधिकतम",
+          "KE शून्य, PE अधिकतम",
+          "KE अधिकतम, PE शून्य",
+          "दोनों शून्य"
+        ],
+        "en": [
+          "Both maximum",
+          "KE is zero and PE is maximum",
+          "KE is maximum and PE zero",
+          "Both zero"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चाल शून्य → KE शून्य; ऊँचाई सर्वाधिक → PE चरम।",
+        "en": "Zero speed → zero KE; greatest height → peak PE."
+      }
+    },
+    {
+      "id": "phy5_q211",
+      "topic": "potential-energy-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "द्रव्यमान दोगुना और ऊँचाई आधी कर दें — स्थितिज ऊर्जा —",
+        "en": "Double the mass and halve the height — the potential energy —"
+      },
+      "options": {
+        "hi": [
+          "आधी",
+          "चार गुना",
+          "समान रहती है",
+          "दोगुनी"
+        ],
+        "en": [
+          "Halves",
+          "Quadruples",
+          "Stays the same",
+          "Doubles"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "PE = (2m) × g × (h/2) = mgh — अपरिवर्तित।",
+        "en": "PE = (2m) × g × (h/2) = mgh — unchanged."
+      }
+    },
+    {
+      "id": "phy5_q212",
+      "topic": "potential-energy-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: घर्षण रहित पतन में कुल ऊर्जा जूल में स्थिर रहती है। कथन B: घर्षण होने पर ऊर्जा नष्ट हो जाती है। सही विकल्प —",
+        "en": "Statement A: in frictionless fall the total energy in joules stays constant. Statement B: with friction present, the energy is destroyed. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A गलत, B सही",
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत (ऊर्जा ऊष्मा में रूपांतरित होती है)"
+        ],
+        "en": [
+          "A wrong, B right",
+          "Both right",
+          "Both wrong",
+          "A right, B wrong (the energy transforms into heat)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "घर्षण भी ऊर्जा को ऊष्मा रूप में बदलता है — नष्ट नहीं करता।",
+        "en": "Friction too merely converts energy into heat — it destroys nothing."
+      }
+    },
+    {
+      "id": "phy5_q213",
+      "topic": "potential-energy-conservation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मिट्टी में धंसकर रुकी गिरती वस्तु की 100 J स्थितिज ऊर्जा का अंतिम गंतव्य —",
+        "en": "A falling object with 100 J of potential energy stops by plunging into soil — the final destination of that energy is —"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा और ध्वनि ऊर्जा के रूप में",
+          "नष्ट",
+          "द्रव्यमान में परिवर्तित",
+          "वापस ऊपर चली जाती है"
+        ],
+        "en": [
+          "Into heat and sound energy",
+          "Destroyed",
+          "Converted into mass",
+          "It climbs back up"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धंसने में घर्षण व संपीड़न — ऊर्जा ऊष्मा/ध्वनि बनती है, संरक्षण बना रहता है।",
+        "en": "Friction and compression during the plunge turn energy into heat/sound — conservation holds."
+      }
+    },
+    {
+      "id": "phy5_q214",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शक्ति किसे कहते हैं?",
+        "en": "What is power?"
+      },
+      "options": {
+        "hi": [
+          "लगाया गया बल",
+          "कार्य करने की दर (प्रति सेकंड कार्य)",
+          "कुल किया गया कार्य",
+          "कुल ऊर्जा"
+        ],
+        "en": [
+          "The force applied",
+          "The rate of doing work (work per second)",
+          "The total work done",
+          "The total energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शक्ति बताती है कि कितनी तेज़ी से कार्य हुआ।",
+        "en": "Power tells how fast the work was done."
+      }
+    },
+    {
+      "id": "phy5_q215",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शक्ति का सूत्र क्या है?",
+        "en": "What is the formula for power?"
+      },
+      "options": {
+        "hi": [
+          "P = t/W",
+          "P = W + t",
+          "P = W/t",
+          "P = W × t"
+        ],
+        "en": [
+          "P = t/W",
+          "P = W + t",
+          "P = W/t",
+          "P = W × t"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शक्ति = कार्य ÷ समय।",
+        "en": "Power = work ÷ time."
+      }
+    },
+    {
+      "id": "phy5_q216",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शक्ति का SI मात्रक क्या है?",
+        "en": "What is the SI unit of power?"
+      },
+      "options": {
+        "hi": [
+          "जूल (J)",
+          "न्यूटन (N)",
+          "सेकंड (s)",
+          "वाट (W)"
+        ],
+        "en": [
+          "Joule (J)",
+          "Newton (N)",
+          "Second (s)",
+          "Watt (W)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शक्ति का मात्रक वाट है।",
+        "en": "The unit of power is the watt."
+      }
+    },
+    {
+      "id": "phy5_q217",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक वाट किसके बराबर है?",
+        "en": "One watt equals —"
+      },
+      "options": {
+        "hi": [
+          "1 जूल प्रति सेकंड",
+          "1 सेकंड प्रति जूल",
+          "1 न्यूटन प्रति मीटर",
+          "1 जूल प्रति मीटर"
+        ],
+        "en": [
+          "1 joule per second",
+          "1 second per joule",
+          "1 newton per metre",
+          "1 joule per metre"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "1 W = 1 J/s।",
+        "en": "1 W = 1 J/s."
+      }
+    },
+    {
+      "id": "phy5_q218",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 किलोवाट (kW) कितने वाट होते हैं?",
+        "en": "How many watts make 1 kilowatt (kW)?"
+      },
+      "options": {
+        "hi": [
+          "10,000 W",
+          "1000 W",
+          "100 W",
+          "10 W"
+        ],
+        "en": [
+          "10,000 W",
+          "1000 W",
+          "100 W",
+          "10 W"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1 kW = 1000 W।",
+        "en": "1 kW = 1000 W."
+      }
+    },
+    {
+      "id": "phy5_q219",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शक्ति किस प्रकार की राशि है?",
+        "en": "What kind of quantity is power?"
+      },
+      "options": {
+        "hi": [
+          "न अदिश न सदिश",
+          "सदा ऋणात्मक",
+          "अदिश",
+          "सदिश"
+        ],
+        "en": [
+          "Neither scalar nor vector",
+          "Always negative",
+          "A scalar",
+          "A vector"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शक्ति दर है — दिशा नहीं, केवल मान।",
+        "en": "Power is a rate — no direction, only magnitude."
+      }
+    },
+    {
+      "id": "phy5_q220",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समान कार्य कम समय में पूरा किया जाए तो शक्ति —",
+        "en": "If the same work is finished in less time, the power is —"
+      },
+      "options": {
+        "hi": [
+          "कम",
+          "समान",
+          "शून्य",
+          "अधिक"
+        ],
+        "en": [
+          "Smaller",
+          "The same",
+          "Zero",
+          "Greater"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "t घटा (W समान) → P = W/t बढ़ी।",
+        "en": "Smaller t with the same W → P = W/t rises."
+      }
+    },
+    {
+      "id": "phy5_q221",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अधिक शक्तिशाली मशीन क्या करती है?",
+        "en": "What does a more powerful machine do?"
+      },
+      "options": {
+        "hi": [
+          "एक सेकंड में अधिक कार्य",
+          "कुल अधिक कार्य जरूर करे",
+          "कम ऊर्जा खाती है",
+          "धीमी चलती है"
+        ],
+        "en": [
+          "More work in one second",
+          "Necessarily more total work",
+          "Consumes less energy",
+          "Runs slower"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शक्ति = दर — शक्तिशाली मशीन प्रति सेकंड अधिक कार्य करती है।",
+        "en": "Power = rate — a powerful machine does more work each second."
+      }
+    },
+    {
+      "id": "phy5_q222",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल्ब पर लिखा '100 W' क्या बताता है?",
+        "en": "What does '100 W' printed on a bulb indicate?"
+      },
+      "options": {
+        "hi": [
+          "100 जूल प्रति मीटर",
+          "प्रति सेकंड 100 जूल ऊर्जा की खपत",
+          "कुल 100 जूल ऊर्जा",
+          "100 न्यूटन बल"
+        ],
+        "en": [
+          "100 joules per metre",
+          "It consumes 100 joules of energy per second",
+          "A total of 100 joules",
+          "A force of 100 newtons"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वाट-रेटिंग = ऊर्जा खपत की दर।",
+        "en": "The watt rating = the rate of energy consumption."
+      }
+    },
+    {
+      "id": "phy5_q223",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अश्वशक्ति (horse power) किस राशि की इकाई है?",
+        "en": "Horse power is a unit of which quantity?"
+      },
+      "options": {
+        "hi": [
+          "बल",
+          "द्रव्यमान",
+          "शक्ति",
+          "ऊर्जा"
+        ],
+        "en": [
+          "Force",
+          "Mass",
+          "Power",
+          "Energy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अश्वशक्ति (≈746 W) शक्ति की पुरानी इकाई है।",
+        "en": "Horse power (≈746 W) is an old unit of power."
+      }
+    },
+    {
+      "id": "phy5_q224",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शक्ति ऊर्जा की दर है — अतः ऊर्जा = —",
+        "en": "Power is the rate of energy — hence energy equals —"
+      },
+      "options": {
+        "hi": [
+          "शक्ति ÷ समय",
+          "शक्ति + समय",
+          "समय ÷ शक्ति",
+          "शक्ति × समय"
+        ],
+        "en": [
+          "Power ÷ time",
+          "Power + time",
+          "Time ÷ power",
+          "Power × time"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "E = P × t — जैसे वाट × सेकंड = जूल।",
+        "en": "E = P × t — as watt × second = joule."
+      }
+    },
+    {
+      "id": "phy5_q225",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "100 W का बल्ब 1 सेकंड में कितनी ऊर्जा खाता है?",
+        "en": "How much energy does a 100 W bulb consume in 1 second?"
+      },
+      "options": {
+        "hi": [
+          "100 J",
+          "1 J",
+          "1000 J",
+          "0.01 J"
+        ],
+        "en": [
+          "100 J",
+          "1 J",
+          "1000 J",
+          "0.01 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "E = 100 W × 1 s = 100 J।",
+        "en": "E = 100 W × 1 s = 100 J."
+      }
+    },
+    {
+      "id": "phy5_q226",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शक्ति किन कारकों पर निर्भर करती है?",
+        "en": "On which factors does power depend?"
+      },
+      "options": {
+        "hi": [
+          "बल और दिशा",
+          "कार्य और समय",
+          "केवल कार्य",
+          "केवल समय"
+        ],
+        "en": [
+          "Force and direction",
+          "Work and time",
+          "Work only",
+          "Time only"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "P = W/t — दोनों निर्धारक।",
+        "en": "P = W/t — both decide it."
+      }
+    },
+    {
+      "id": "phy5_q227",
+      "topic": "power",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साइकिल सवार और मोटरसाइकिल में अधिक शक्तिशाली कौन?",
+        "en": "Between a cyclist and a motorcycle, which is more powerful?"
+      },
+      "options": {
+        "hi": [
+          "दोनों समान",
+          "तुलना असंभव",
+          "मोटरसाइकिल (प्रति सेकंड अधिक कार्य)",
+          "साइकिल सवार"
+        ],
+        "en": [
+          "Both equal",
+          "Comparison impossible",
+          "The motorcycle (more work per second)",
+          "The cyclist"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इंजन प्रति सेकंड बहुत अधिक ऊर्जा खर्च करता है — शक्ति अधिक।",
+        "en": "The engine spends far more energy per second — higher power."
+      }
+    },
+    {
+      "id": "phy5_q228",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "100 J कार्य 5 सेकंड में — शक्ति —",
+        "en": "100 J of work in 5 seconds — the power is —"
+      },
+      "options": {
+        "hi": [
+          "500 W",
+          "50 W",
+          "5 W",
+          "20 W"
+        ],
+        "en": [
+          "500 W",
+          "50 W",
+          "5 W",
+          "20 W"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P = 100/5 = 20 W।",
+        "en": "P = 100/5 = 20 W."
+      }
+    },
+    {
+      "id": "phy5_q229",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1000 J कार्य 10 सेकंड में — शक्ति —",
+        "en": "1000 J of work in 10 s — the power is —"
+      },
+      "options": {
+        "hi": [
+          "100 W",
+          "10,000 W",
+          "1000 W",
+          "10 W"
+        ],
+        "en": [
+          "100 W",
+          "10,000 W",
+          "1000 W",
+          "10 W"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "P = 1000/10 = 100 W।",
+        "en": "P = 1000/10 = 100 W."
+      }
+    },
+    {
+      "id": "phy5_q230",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "500 J कार्य 50 सेकंड में — शक्ति —",
+        "en": "500 J of work in 50 s — the power is —"
+      },
+      "options": {
+        "hi": [
+          "45 W",
+          "10 W",
+          "25,000 W",
+          "550 W"
+        ],
+        "en": [
+          "45 W",
+          "10 W",
+          "25,000 W",
+          "550 W"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "P = 500/50 = 10 W।",
+        "en": "P = 500/50 = 10 W."
+      }
+    },
+    {
+      "id": "phy5_q231",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "600 J कार्य 20 सेकंड में — शक्ति —",
+        "en": "600 J of work in 20 s — the power is —"
+      },
+      "options": {
+        "hi": [
+          "60 W",
+          "3 W",
+          "30 W",
+          "12,000 W"
+        ],
+        "en": [
+          "60 W",
+          "3 W",
+          "30 W",
+          "12,000 W"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P = 600/20 = 30 W।",
+        "en": "P = 600/20 = 30 W."
+      }
+    },
+    {
+      "id": "phy5_q232",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "750 J का कार्य 15 सेकंड में — शक्ति —",
+        "en": "750 J of work in 15 s — the power is —"
+      },
+      "options": {
+        "hi": [
+          "11,250 W",
+          "735 W",
+          "5 W",
+          "50 W"
+        ],
+        "en": [
+          "11,250 W",
+          "735 W",
+          "5 W",
+          "50 W"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P = 750/15 = 50 W।",
+        "en": "P = 750/15 = 50 W."
+      }
+    },
+    {
+      "id": "phy5_q233",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "300 J कार्य 1 मिनट में — शक्ति —",
+        "en": "300 J of work in 1 minute — the power is —"
+      },
+      "options": {
+        "hi": [
+          "5 W",
+          "300 W",
+          "0.2 W",
+          "50 W"
+        ],
+        "en": [
+          "5 W",
+          "300 W",
+          "0.2 W",
+          "50 W"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "t = 60 s; P = 300/60 = 5 W।",
+        "en": "t = 60 s; P = 300/60 = 5 W."
+      }
+    },
+    {
+      "id": "phy5_q234",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "50 W शक्ति से 10 सेकंड तक कार्य — कुल कार्य —",
+        "en": "Work done at 50 W for 10 s — the total work is —"
+      },
+      "options": {
+        "hi": [
+          "5000 J",
+          "500 J",
+          "5 J",
+          "60 J"
+        ],
+        "en": [
+          "5000 J",
+          "500 J",
+          "5 J",
+          "60 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "W = P × t = 50 × 10 = 500 J।",
+        "en": "W = P × t = 50 × 10 = 500 J."
+      }
+    },
+    {
+      "id": "phy5_q235",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "200 W की मशीन 5 सेकंड चली — किया कार्य —",
+        "en": "A 200 W machine runs for 5 s — the work done is —"
+      },
+      "options": {
+        "hi": [
+          "205 J",
+          "200 J",
+          "1000 J",
+          "40 J"
+        ],
+        "en": [
+          "205 J",
+          "200 J",
+          "1000 J",
+          "40 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "W = 200 × 5 = 1000 J।",
+        "en": "W = 200 × 5 = 1000 J."
+      }
+    },
+    {
+      "id": "phy5_q236",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "400 J कार्य 40 W शक्ति से — लगा समय —",
+        "en": "400 J of work at 40 W — the time taken is —"
+      },
+      "options": {
+        "hi": [
+          "16,000 s",
+          "360 s",
+          "4 s",
+          "10 s"
+        ],
+        "en": [
+          "16,000 s",
+          "360 s",
+          "4 s",
+          "10 s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "t = W/P = 400/40 = 10 s।",
+        "en": "t = W/P = 400/40 = 10 s."
+      }
+    },
+    {
+      "id": "phy5_q237",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 kW की मशीन 10 सेकंड चलती है — कुल कार्य —",
+        "en": "A 2 kW machine works for 10 s — the total work is —"
+      },
+      "options": {
+        "hi": [
+          "20,000 J",
+          "2000 J",
+          "200 J",
+          "0.2 J"
+        ],
+        "en": [
+          "20,000 J",
+          "2000 J",
+          "200 J",
+          "0.2 J"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "2 kW = 2000 W; W = 2000 × 10 = 20,000 J।",
+        "en": "2 kW = 2000 W; W = 2000 × 10 = 20,000 J."
+      }
+    },
+    {
+      "id": "phy5_q238",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "100 W का बल्ब 1 घंटा जलता है — खपत ऊर्जा —",
+        "en": "A 100 W bulb burns for 1 hour — the energy consumed is —"
+      },
+      "options": {
+        "hi": [
+          "3600 J",
+          "360,000 J (3.6 लाख जूल)",
+          "100 J",
+          "6000 J"
+        ],
+        "en": [
+          "3600 J",
+          "360,000 J (0.36 million joules)",
+          "100 J",
+          "6000 J"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "t = 3600 s; E = 100 × 3600 = 360,000 J।",
+        "en": "t = 3600 s; E = 100 × 3600 = 360,000 J."
+      }
+    },
+    {
+      "id": "phy5_q239",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: शक्ति कार्य की दर है। कथन B: शक्ति का मात्रक जूल प्रति सेकंड है। सही विकल्प —",
+        "en": "Statement A: power is the rate of doing work. Statement B: the unit of power is joule per second. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "परिभाषा और मात्रक दोनों एक सिद्धांत के हिस्से।",
+        "en": "The definition and the unit belong to the same principle."
+      }
+    },
+    {
+      "id": "phy5_q240",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान कार्य को दोगुने समय में किया जाए — शक्ति —",
+        "en": "The same work is done in double the time — the power —"
+      },
+      "options": {
+        "hi": [
+          "दोगुनी",
+          "चार गुनी",
+          "समान",
+          "आधी रह जाती है"
+        ],
+        "en": [
+          "Doubles",
+          "Quadruples",
+          "Stays the same",
+          "Halves"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P ∝ 1/t (W समान) — समय ×2 → शक्ति ½।",
+        "en": "P ∝ 1/t (same W) — double time, half power."
+      }
+    },
+    {
+      "id": "phy5_q241",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "A 10 सेकंड में 500 J, B 20 सेकंड में 500 J — शक्तियों का अनुपात —",
+        "en": "A does 500 J in 10 s, B does 500 J in 20 s — the ratio of their powers is —"
+      },
+      "options": {
+        "hi": [
+          "2 : 1",
+          "1 : 2",
+          "1 : 1",
+          "4 : 1"
+        ],
+        "en": [
+          "2 : 1",
+          "1 : 2",
+          "1 : 1",
+          "4 : 1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "P_A = 50 W, P_B = 25 W → 2 : 1।",
+        "en": "P_A = 50 W, P_B = 25 W → 2 : 1."
+      }
+    },
+    {
+      "id": "phy5_q242",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लोहार और मशीन समान कार्य करते हैं, मशीन जल्दी — शक्ति और कार्य का सही कथन —",
+        "en": "A blacksmith and a machine do the same work, the machine faster — the correct statement about power and work is —"
+      },
+      "options": {
+        "hi": [
+          "लोहार की शक्ति अधिक",
+          "कार्य समान, मशीन की शक्ति अधिक",
+          "दोनों की शक्ति समान",
+          "मशीन का कार्य अधिक"
+        ],
+        "en": [
+          "The blacksmith's power is greater",
+          "The work is equal, the machine's power is greater",
+          "Their powers are equal",
+          "The machine did more work"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शक्ति = कार्य की दर — जल्दी करने वाली मशीन अधिक शक्तिशाली, कार्य समान।",
+        "en": "Power = rate of work — the faster machine is more powerful, the work being equal."
+      }
+    },
+    {
+      "id": "phy5_q243",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "60 W का पंखा 2 मिनट चला — खपत ऊर्जा —",
+        "en": "A 60 W fan runs for 2 minutes — the energy consumed is —"
+      },
+      "options": {
+        "hi": [
+          "3600 J",
+          "720 J",
+          "7200 J",
+          "120 J"
+        ],
+        "en": [
+          "3600 J",
+          "720 J",
+          "7200 J",
+          "120 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "t = 120 s; E = 60 × 120 = 7200 J।",
+        "en": "t = 120 s; E = 60 × 120 = 7200 J."
+      }
+    },
+    {
+      "id": "phy5_q244",
+      "topic": "power",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किलोवाट-घंटा (kWh) किसकी इकाई है?",
+        "en": "The kilowatt-hour (kWh) is a unit of which quantity?"
+      },
+      "options": {
+        "hi": [
+          "शक्ति",
+          "बल",
+          "समय",
+          "ऊर्जा"
+        ],
+        "en": [
+          "Power",
+          "Force",
+          "Time",
+          "Energy"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "kWh = किलोवाट × घंटा = ऊर्जा — विद्युत की व्यावसायिक इकाई; यह प्रसिद्ध जाल है।",
+        "en": "kWh = kilowatt × hour = energy — the commercial unit of electricity; a famous trap."
+      }
+    },
+    {
+      "id": "phy5_q245",
+      "topic": "power",
+      "difficulty": "hard",
+      "question": {
+        "hi": "50 kg व्यक्ति 10 सेकंड में 4 मीटर ऊँची सीढ़ी चढ़ता है (g = 10) — उसकी शक्ति —",
+        "en": "A 50 kg person climbs a 4 m staircase in 10 s (g = 10) — the power is —"
+      },
+      "options": {
+        "hi": [
+          "200 W",
+          "20 W",
+          "2000 W",
+          "50 W"
+        ],
+        "en": [
+          "200 W",
+          "20 W",
+          "2000 W",
+          "50 W"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "W = mgh = 50 × 10 × 4 = 2000 J; P = 2000/10 = 200 W।",
+        "en": "W = mgh = 50 × 10 × 4 = 2000 J; P = 2000/10 = 200 W."
+      }
+    },
+    {
+      "id": "phy5_q246",
+      "topic": "power",
+      "difficulty": "hard",
+      "question": {
+        "hi": "60 kg व्यक्ति 20 सेकंड में 5 मीटर ऊपर जाता है (g = 10) — शक्ति —",
+        "en": "A 60 kg person ascends 5 m in 20 s (g = 10) — the power is —"
+      },
+      "options": {
+        "hi": [
+          "1500 W",
+          "150 W",
+          "300 W",
+          "30 W"
+        ],
+        "en": [
+          "1500 W",
+          "150 W",
+          "300 W",
+          "30 W"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "W = 60 × 10 × 5 = 3000 J; P = 3000/20 = 150 W।",
+        "en": "W = 60 × 10 × 5 = 3000 J; P = 3000/20 = 150 W."
+      }
+    },
+    {
+      "id": "phy5_q247",
+      "topic": "power",
+      "difficulty": "hard",
+      "question": {
+        "hi": "इंजन 1 मिनट में 18,000 J कार्य करता है — शक्ति —",
+        "en": "An engine does 18,000 J of work in 1 minute — the power is —"
+      },
+      "options": {
+        "hi": [
+          "3000 W",
+          "18 W",
+          "300 W",
+          "180 W"
+        ],
+        "en": [
+          "3000 W",
+          "18 W",
+          "300 W",
+          "180 W"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "t = 60 s; P = 18,000/60 = 300 W।",
+        "en": "t = 60 s; P = 18,000/60 = 300 W."
+      }
+    },
+    {
+      "id": "phy5_q248",
+      "topic": "power",
+      "difficulty": "hard",
+      "question": {
+        "hi": "400 W की मशीन 5 मिनट काम करती है — कुल ऊर्जा —",
+        "en": "A 400 W machine works for 5 minutes — the total energy is —"
+      },
+      "options": {
+        "hi": [
+          "2000 J",
+          "4000 J",
+          "2400 J",
+          "120,000 J (120 kJ)"
+        ],
+        "en": [
+          "2000 J",
+          "4000 J",
+          "2400 J",
+          "120,000 J (120 kJ)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "t = 300 s; E = 400 × 300 = 120,000 J।",
+        "en": "t = 300 s; E = 400 × 300 = 120,000 J."
+      }
+    },
+    {
+      "id": "phy5_q249",
+      "topic": "power",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: kWh ऊर्जा की इकाई है। कथन B: वाट शक्ति की इकाई है। सही विकल्प —",
+        "en": "Statement A: the kWh is a unit of energy. Statement B: the watt is a unit of power. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "kWh ऊर्जा (व्यावसायिक), वाट शक्ति — दोनों सही।",
+        "en": "kWh measures energy (commercial), watt measures power — both right."
+      }
+    },
+    {
+      "id": "phy5_q250",
+      "topic": "power",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मशीन A 5 सेकंड में 500 J, मशीन B 15 सेकंड में 1500 J — शक्तियों की तुलना —",
+        "en": "Machine A does 500 J in 5 s, machine B does 1500 J in 15 s — comparing their powers —"
+      },
+      "options": {
+        "hi": [
+          "तुलना असंभव",
+          "समान (दोनों 100 W)",
+          "A अधिक शक्तिशाली",
+          "B अधिक शक्तिशाली"
+        ],
+        "en": [
+          "Comparison impossible",
+          "Equal (both 100 W)",
+          "A is more powerful",
+          "B is more powerful"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "P_A = 500/5 = 100 W; P_B = 1500/15 = 100 W — बड़ा कार्य बड़ी शक्ति नहीं; यही जाल है।",
+        "en": "P_A = 500/5 = 100 W; P_B = 1500/15 = 100 W — bigger work does not mean bigger power; that is the trap."
+      }
+    }
+  ]
+}

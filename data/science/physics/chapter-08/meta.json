@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-08",
+  "chapterNumber": 8,
+  "code": "P08",
+  "chapterName": {
+    "hi": "प्रकाश, परावर्तन एवं अपवर्तन",
+    "en": "Light, Reflection & Refraction"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "प्रकाश सीधी रेखा में चलती है और दर्पण से परावर्तित, लेंस-प्रिज्म से अपवर्तित होकर विभिन्न प्रतिबिंब बनाती है। परावर्तन के नियम समतल व गोलीय दर्पण के प्रतिबिंब निर्धारित करते हैं, जबकि अपवर्तन से लेंस की क्षमता और विक्षेपण की व्याख्या होती है।",
+      "example": "पानी में डूबी पेंसिल मुड़ी दिखती है — यह अपवर्तन का प्रभाव है।",
+      "sections": [
+        {
+          "heading": "प्रकाश का सीधा व वर्तन",
+          "content": "प्रकाश एकसमान माध्यम में सीधी रेखा में चलती है; छाया और ग्रहण इसी का प्रमाण हैं।"
+        },
+        {
+          "heading": "परावर्तन एवं दर्पण",
+          "content": "आपतन कोण = परावर्तन कोण; समतल दर्पण का प्रतिबिंब आभासी, समान और पीछे बनता है; अवतल दर्पण अभिसारी तथा उत्तल दर्पण अपसारी होता है।"
+        },
+        {
+          "heading": "अपवर्तन एवं लेंस",
+          "content": "प्रकाश माध्यम बदलने पर दिशा बदलती है; उत्तल लेंस अभिसारी और अवतल लेंस अपसारी होता है; लेंस की क्षमता P = 1/f (डाइऑप्टर)।"
+        },
+        {
+          "heading": "विक्षेपण एवं मानव नेत्र",
+          "content": "प्रिज्म प्रकाश को सात रंगों में बाँटता है; निकट-दृष्टि दोष अवतल लेंस और दीर्घ-दृष्टि दोष उत्तल लेंस से सुधारा जाता है।"
+        }
+      ],
+      "keyPoints": [
+        "प्रकाश सीधी रेखा में चलती है",
+        "परावर्तन का नियम — आपतन कोण = परावर्तन कोण",
+        "समतल दर्पण का प्रतिबिंब आभासी और समान आकार का होता है",
+        "अवतल दर्पण और उत्तल लेंस अभिसारी होते हैं",
+        "अपवर्तन माध्यम बदलने पर प्रकाश की दिशा परिवर्तन है",
+        "श्वेत प्रकाश सात रंगों का मिश्रण है"
+      ],
+      "examFocus": [
+        "दर्पण और लेंस के प्रतिबिंब-बिंदु आरेख बनाकर समझें",
+        "अभिसारी-अपसारी युग्म (अवतल दर्पण/उत्तल दर्पण; उत्तल लेंस/अवतल लेंस) रटें",
+        "नेत्र-दोषों और उनके सुधार के जोड़े याद रखें"
+      ],
+      "examTraps": [
+        "अवतल-उत्तल को उलटना सामान्य त्रुटि है — दर्पण और लेंस के लिए अलग याद रखें",
+        "समतल दर्पण का प्रतिबिंब वास्तविक नहीं होता"
+      ],
+      "thinkBeforeAnswer": [
+        "लेंस की क्षमता पूछी जाए तो P = 1/f लगाएँ",
+        "इंद्रधनुष/सात रंग का प्रश्न हो तो विक्षेपण चुनें"
+      ],
+      "memoryTricks": [
+        "'कैवी-कोन्वेक्स कन्वर्ज' — उत्तल (convex) लेंस जोड़ता (converge) है",
+        "VIBGYOR क्रम — बैंगनी से लाल तक तरंगदैर्घ्य क्रम याद रखें"
+      ],
+      "pyqSignals": [
+        "दर्पण/लेंस के प्रतिबिंब गठन के प्रश्न बार-बार आते हैं",
+        "नेत्र-दोष सुधार के जोड़े परीक्षा में सामान्य हैं"
+      ],
+      "mustRemember": [
+        "परावर्तन के नियम",
+        "समतल व गोलीय दर्पण के प्रतिबिंब",
+        "अपवर्तन और लेंस की क्षमता",
+        "विक्षेपण और नेत्र-दोष"
+      ],
+      "quickRevision": "प्रकाश सीधी रेखा में चलती है और दर्पणों से परावर्तन के नियमों पर प्रतिबिंब बनाती है। माध्यम बदलने पर अपवर्तन होता है जिससे लेंस कार्य करते हैं। प्रिज्म प्रकाश का विक्षेपण कर सात रंग दिखाता है और नेत्र-दोष लेंस से सुधारे जाते हैं।"
+    },
+    "en": {
+      "concept": "Light travels in straight lines and, on reflection from mirrors and refraction through lenses and prisms, forms various images. Laws of reflection decide images formed by plane and spherical mirrors, while refraction explains lens power and dispersion.",
+      "example": "A pencil dipped in water appears bent — an effect of refraction.",
+      "sections": [
+        {
+          "heading": "Rectilinear Propagation",
+          "content": "Light travels in a straight line in a uniform medium; shadows and eclipses prove it."
+        },
+        {
+          "heading": "Reflection and Mirrors",
+          "content": "Angle of incidence = angle of reflection; a plane mirror forms a virtual, same-size image behind it; concave mirrors converge and convex mirrors diverge."
+        },
+        {
+          "heading": "Refraction and Lenses",
+          "content": "Light changes direction when the medium changes; a convex lens converges and a concave lens diverges; lens power P = 1/f (dioptre)."
+        },
+        {
+          "heading": "Dispersion and the Eye",
+          "content": "A prism splits light into seven colours; short-sightedness is corrected by a concave lens and long-sightedness by a convex lens."
+        }
+      ],
+      "keyPoints": [
+        "Light travels in a straight line",
+        "Law of reflection — angle of incidence = angle of reflection",
+        "A plane mirror image is virtual and of the same size",
+        "Concave mirrors and convex lenses converge",
+        "Refraction is the change of direction when the medium changes",
+        "White light is a mixture of seven colours"
+      ],
+      "examFocus": [
+        "Understand image formation by ray diagrams of mirrors and lenses",
+        "Learn converging-diverging pairs (concave/convex mirror; convex/concave lens)",
+        "Remember pairs of eye defects and their corrections"
+      ],
+      "examTraps": [
+        "Swapping concave-convex is a common mistake — learn them separately for mirrors and lenses",
+        "The image of a plane mirror is never real"
+      ],
+      "thinkBeforeAnswer": [
+        "For lens power, apply P = 1/f",
+        "For rainbow/seven colours, choose dispersion"
+      ],
+      "memoryTricks": [
+        "'Convex Converges' — a convex lens brings rays together",
+        "VIBGYOR — remember the colour order from violet to red"
+      ],
+      "pyqSignals": [
+        "Image formation questions of mirrors/lenses come repeatedly",
+        "Eye-defect correction pairs are common in exams"
+      ],
+      "mustRemember": [
+        "Laws of reflection",
+        "Images of plane and spherical mirrors",
+        "Refraction and lens power",
+        "Dispersion and eye defects"
+      ],
+      "quickRevision": "Light travels straight and forms images by the laws of reflection at mirrors. Refraction on changing media makes lenses work. A prism disperses light into seven colours, and eye defects are corrected with suitable lenses."
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-02",
+  "chapterNumber": 2,
+  "code": "C02",
+  "chapterName": {
+    "hi": "भौतिक एवं रासायनिक परिवर्तन",
+    "en": "Physical & Chemical Changes"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "परिवर्तन दो प्रकार के होते हैं — भौतिक, जिसमें केवल भौतिक गुण बदलते हैं और नया पदार्थ नहीं बनता, और रासायनिक, जिसमें नया पदार्थ बनता है। रासायनिक परिवर्तन प्रायः अनुक्रमणीय होते हैं और इनमें ऊर्जा का अवशोषण या उत्सर्जन होता है।",
+      "example": "जले हुए चाकमाक से नया गंधक डाइऑक्साइड बनता है — रासायनिक परिवर्तन; जबकि चीनी के घुलने पर कोई नया पदार्थ नहीं बनता — भौतिक परिवर्तन।",
+      "sections": [
+        {
+          "heading": "भौतिक परिवर्तन",
+          "content": "अवस्था, आकार या आकृति बदलती है पर मूल पदार्थ वही रहता है; जैसे पिघलना, भंगन, घुलना — प्रायः उत्क्रमणीय।"
+        },
+        {
+          "heading": "रासायनिक परिवर्तन",
+          "content": "नया पदार्थ बनता है जिसके गुण भिन्न होते हैं; संकेत — रंग परिवर्तन, गैस निकलना, ताप परिवर्तन, अवक्षेप बनना।"
+        },
+        {
+          "heading": "मोचन (जंग) एवं उसकी रोकथाम",
+          "content": "लोहे में ऑक्सीजन-जल के संपर्क से जंग लगता है; रंगना, गैल्वनाइज़िंग (जस्तीकरण), तेल लगाना और मिश्र धातु बनाना रोकथाम के उपाय हैं।"
+        },
+        {
+          "heading": "दैनिक जीवन के रासायनिक परिवर्तन",
+          "content": "पाचन, श्वसन, प्रकाश संश्लेषण, दहन, दही जमना और विद्युत लेपन — सभी रासायनिक परिवर्तन हैं।"
+        }
+      ],
+      "keyPoints": [
+        "भौतिक परिवर्तन में नया पदार्थ नहीं बनता",
+        "रासायनिक परिवर्तन में नया पदार्थ बनता है",
+        "रासायनिक परिवर्तन के संकेत — रंग, गैस, ताप, अवक्षेप",
+        "जंग लगना लोहे का ऑक्सीकरण है",
+        "गैल्वनाइज़िंग में जस्ते की परत चढ़ाई जाती है",
+        "पाचन और श्वसन रासायनिक परिवर्तन हैं"
+      ],
+      "examFocus": [
+        "दोनों परिवर्तनों के उदाहरण अलग-अलग सूचीबद्ध करके रटें",
+        "जंग रोकथाम के उपाय याद रखें",
+        "परिवर्तन देखकर उसका प्रकार पहचानने का अभ्यास करें"
+      ],
+      "examTraps": [
+        "घुलना सदैव भौतिक परिवर्तन नहीं — चूने का जल में घुलने पर ऊष्मा और नया पदार्थ बनता है",
+        "जंग लगना भौतिक क्षरण नहीं, रासायनिक परिवर्तन है"
+      ],
+      "thinkBeforeAnswer": [
+        "नया पदार्थ बनता है या नहीं — यही पहला प्रश्न पूछें",
+        "गैस/रंग/ताप का संकेत मिले तो रासायनिक परिवर्तन चुनें"
+      ],
+      "memoryTricks": [
+        "'P = Same substance, C = Completely new' — भौतिक बनाम रासायनिक",
+        "जंग-जस्ता (Zn) जोड़ी याद रखें — गैल्वनाइज़िंग में जस्ता"
+      ],
+      "pyqSignals": [
+        "भौतिक-रासायनिक अंतर परीक्षा का सामान्य प्रश्न है",
+        "जंग और उसकी रोकथाम पूछी जाती है"
+      ],
+      "mustRemember": [
+        "दोनों परिवर्तनों की परिभाषा",
+        "रासायनिक परिवर्तन के संकेत",
+        "जंग लगने की शर्तें और रोकथाम",
+        "दैनिक जीवन के उदाहरण"
+      ],
+      "quickRevision": "भौतिक परिवर्तन में केवल भौतिक गुण बदलते हैं और मूल पदार्थ बना रहता है, जबकि रासायनिक परिवर्तन में नया पदार्थ बनता है। रंग, गैस, ताप व अवक्षेप रासायनिक परिवर्तन के संकेत हैं। जंग लगना रासायनिक परिवर्तन है जिसे रंगना व जस्तीकरण से रोका जाता है।"
+    },
+    "en": {
+      "concept": "Changes are of two types — physical, where only physical properties change and no new substance forms, and chemical, where a new substance is produced. Chemical changes are mostly irreversible and involve absorption or release of energy.",
+      "example": "Burning magnesium gives new magnesium oxide — a chemical change; dissolving sugar forms no new substance — a physical change.",
+      "sections": [
+        {
+          "heading": "Physical Change",
+          "content": "State, shape or form changes but the original substance remains, e.g. melting, breaking, dissolving — usually reversible."
+        },
+        {
+          "heading": "Chemical Change",
+          "content": "A new substance with different properties forms; signs — colour change, gas evolution, temperature change, precipitate formation."
+        },
+        {
+          "heading": "Rusting and its Prevention",
+          "content": "Iron rusts on contact with oxygen and water; painting, galvanising, oiling and alloying prevent it."
+        },
+        {
+          "heading": "Chemical Changes in Daily Life",
+          "content": "Digestion, respiration, photosynthesis, burning, curd formation and electroplating are all chemical changes."
+        }
+      ],
+      "keyPoints": [
+        "No new substance forms in a physical change",
+        "A new substance forms in a chemical change",
+        "Signs of chemical change — colour, gas, heat, precipitate",
+        "Rusting is oxidation of iron",
+        "Galvanising coats iron with a layer of zinc",
+        "Digestion and respiration are chemical changes"
+      ],
+      "examFocus": [
+        "List examples of both types separately and learn them",
+        "Remember methods of preventing rusting",
+        "Practise identifying the type from a described change"
+      ],
+      "examTraps": [
+        "Dissolving is not always physical — dissolving lime in water gives heat and a new substance",
+        "Rusting is not physical erosion but a chemical change"
+      ],
+      "thinkBeforeAnswer": [
+        "First ask whether a new substance forms",
+        "Gas/colour/heat signs point to a chemical change"
+      ],
+      "memoryTricks": [
+        "'P = Same substance, C = Completely new' — physical vs chemical",
+        "Remember the rust-zinc pair — zinc in galvanising"
+      ],
+      "pyqSignals": [
+        "The physical-chemical difference is a common exam question",
+        "Rusting and its prevention are frequently asked"
+      ],
+      "mustRemember": [
+        "Definitions of both changes",
+        "Signs of chemical change",
+        "Conditions and prevention of rusting",
+        "Daily-life examples"
+      ],
+      "quickRevision": "In a physical change only physical properties change and the substance remains; in a chemical change a new substance forms. Colour, gas, heat and precipitate signal chemical changes. Rusting is a chemical change prevented by painting and galvanising."
+    }
+  }
+}

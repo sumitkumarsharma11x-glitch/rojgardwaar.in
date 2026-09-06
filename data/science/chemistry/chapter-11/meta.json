@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-11",
+  "chapterNumber": 11,
+  "code": "C11",
+  "chapterName": {
+    "hi": "वायु, जल एवं पर्यावरणीय रसायन",
+    "en": "Air, Water & Environmental Chemistry"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "वायु गैसों का मिश्रण है — नाइट्रोजन लगभग 78%, ऑक्सीजन 21% और शेष CO₂, आर्गन आदि। जल विलायक के रूप में अद्वितीय है पर प्राकृतिक जल में अशुद्धियाँ होती हैं जिन्हें विभिन्न विधियों से दूर किया जाता है। वायु-जल प्रदूषण और ग्रीनहाउस प्रभाव आधुनिक पर्यावरणीय चिंताएँ हैं।",
+      "example": "चूने के पानी पर फूँक मारने पर दूधिया सफेद होना CO₂ की उपस्थिति का परीक्षण है।",
+      "sections": [
+        {
+          "heading": "वायु की संरचना",
+          "content": "N₂ 78%, O₂ 21%, Ar 0.9%, CO₂ 0.03% और जलवाष्प; ऑक्सीजन दहन के लिए आवश्यक है।"
+        },
+        {
+          "heading": "जल एवं उसकी शुद्धि",
+          "content": "जल सार्वत्रिक विलायक है; निस्पंदन, क्लोरीनीकरण, उबालना और आसवन से शुद्धिकरण; खनिज-जल vs मृदु जल।"
+        },
+        {
+          "heading": "जल प्रदूषण",
+          "content": "गृह-औद्योगिक अपशिष्ट और उर्वरक जल को प्रदूषित करते हैं; जलजनित रोगों से बचाव शुद्ध जल से होता है।"
+        },
+        {
+          "heading": "वायु प्रदूषण एवं ग्रीनहाउस प्रभाव",
+          "content": "CO, SO₂, NOₓ और पार्टिकुलेट द्वारा वायु प्रदूषण; CO₂-मेथेन ग्रीनहाउस प्रभाव और वैश्विक तापन बढ़ाते हैं; ओजोन क्षय CFC से होता है।"
+        }
+      ],
+      "keyPoints": [
+        "वायु में N₂ सर्वाधिक (78%) और O₂ दूसरे स्थान पर (21%) है",
+        "ऑक्सीजन दहन में सहायक, CO₂ दहन में सहायक नहीं",
+        "जल 'सार्वत्रिक विलायक' कहलाता है",
+        "क्लोरीनीकरण जीवाणुनाशक शुद्धिकरण विधि है",
+        "ग्रीनहाउस गैसें — CO₂, मेथेन, जलवाष्प",
+        "CFC ओजोस्फीयर को हानि पहुँचाते हैं"
+      ],
+      "examFocus": [
+        "वायु के प्रतिशत घटक रटें",
+        "जल शुद्धिकरण विधियों के उदाहरण जोड़ें",
+        "ग्रीनहाउस गैसों और ओजोन क्षय के कारण याद रखें"
+      ],
+      "examTraps": [
+        "वायु में ऑक्सीजन सर्वाधिक है ऐसा नहीं — नाइट्रोजन सर्वाधिक है",
+        "भारी जल और कठोर जल भिन्न अवधारणाएँ हैं"
+      ],
+      "thinkBeforeAnswer": [
+        "दहन का प्रश्न हो तो ऑक्सीजन की भूमिका देखें",
+        "वैश्विक तापन का कारण पूछा जाए तो ग्रीनहाउस गैसें चुनें"
+      ],
+      "memoryTricks": [
+        "'78-21-1' नियम — N₂, O₂, शेष गैसें",
+        "'GGC' — Greenhouse gases: CO₂, CH₄, H₂O वाष्प"
+      ],
+      "pyqSignals": [
+        "वायु की संरचना के प्रतिशत सीधे पूछे जाते हैं",
+        "ओजोन क्षय और ग्रीनहाउस प्रभाव पर प्रश्न आम हैं"
+      ],
+      "mustRemember": [
+        "वायु के प्रमुख घटक और प्रतिशत",
+        "जल शुद्धिकरण की विधियाँ",
+        "जल प्रदूषण के स्रोत",
+        "ग्रीनहाउस प्रभाव और ओजोन क्षय"
+      ],
+      "quickRevision": "वायु मुख्यतः नाइट्रोजन (78%) और ऑक्सीजन (21%) का मिश्रण है। जल सार्वत्रिक विलायक है जिसे निस्पंदन-क्लोरीनीकरण-आसवन से शुद्ध किया जाता है। अपशिष्ट से जल प्रदूषण और CO, SO₂ से वायु प्रदूषण होता है। ग्रीनहाउस गैसें वैश्विक तापन और CFC ओजोन क्षय करते हैं।"
+    },
+    "en": {
+      "concept": "Air is a mixture of gases — about 78% nitrogen, 21% oxygen and the rest CO₂, argon etc. Water is a unique solvent but natural water carries impurities removed by various methods. Air-water pollution and the greenhouse effect are modern environmental concerns.",
+      "example": "Blowing air through lime water turns it milky white — the test for CO₂.",
+      "sections": [
+        {
+          "heading": "Composition of Air",
+          "content": "N₂ 78%, O₂ 21%, Ar 0.9%, CO₂ 0.03% and water vapour; oxygen supports combustion."
+        },
+        {
+          "heading": "Water and its Purification",
+          "content": "Water is the universal solvent; purification by filtration, chlorination, boiling and distillation; mineral vs soft water."
+        },
+        {
+          "heading": "Water Pollution",
+          "content": "Household-industrial waste and fertilisers pollute water; protection from water-borne diseases needs pure water."
+        },
+        {
+          "heading": "Air Pollution and Greenhouse Effect",
+          "content": "CO, SO₂, NOₓ and particulates pollute air; CO₂-methane raise the greenhouse effect and global warming; CFCs deplete ozone."
+        }
+      ],
+      "keyPoints": [
+        "Air has the most N₂ (78%) and O₂ second (21%)",
+        "Oxygen supports combustion; CO₂ does not",
+        "Water is called the 'universal solvent'",
+        "Chlorination is a germicidal purification method",
+        "Greenhouse gases — CO₂, methane, water vapour",
+        "CFCs harm the ozone layer"
+      ],
+      "examFocus": [
+        "Learn the percentage composition of air",
+        "Link water-purification methods with examples",
+        "Remember causes of the greenhouse effect and ozone depletion"
+      ],
+      "examTraps": [
+        "Nitrogen, not oxygen, is the most abundant gas in air",
+        "Heavy water and hard water are different concepts"
+      ],
+      "thinkBeforeAnswer": [
+        "For combustion questions, note oxygen's role",
+        "For global warming, choose greenhouse gases"
+      ],
+      "memoryTricks": [
+        "The '78-21-1' rule — N₂, O₂, remaining gases",
+        "'GGC' — greenhouse gases: CO₂, CH₄, water vapour"
+      ],
+      "pyqSignals": [
+        "Percentage composition of air is asked directly",
+        "Ozone depletion and the greenhouse effect are common questions"
+      ],
+      "mustRemember": [
+        "Main components and percentages of air",
+        "Methods of water purification",
+        "Sources of water pollution",
+        "Greenhouse effect and ozone depletion"
+      ],
+      "quickRevision": "Air is mainly a mixture of nitrogen (78%) and oxygen (21%). Water, the universal solvent, is purified by filtration, chlorination and distillation. Waste pollutes water while CO and SO₂ pollute air. Greenhouse gases cause global warming and CFCs deplete ozone."
+    }
+  }
+}

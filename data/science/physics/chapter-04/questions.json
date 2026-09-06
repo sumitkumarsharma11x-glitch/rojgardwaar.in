@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "phy4_q101",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुरुत्वाकर्षण किसे कहते हैं?",
+        "en": "What is gravitation?"
+      },
+      "options": {
+        "hi": [
+          "किन्हीं दो वस्तुओं के बीच लगने वाला आकर्षण बल",
+          "केवल चुंबकों के बीच बल",
+          "केवल विद्युत आवेशों के बीच बल",
+          "वस्तुओं के ठक्कर का बल"
+        ],
+        "en": [
+          "The attractive force acting between any two objects",
+          "A force only between magnets",
+          "A force only between electric charges",
+          "The force of collision between objects"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण दो द्रव्यमान वाली वस्तुओं को एक-दूसरे की ओर खींचता है।",
+        "en": "Gravitation pulls any two masses towards each other."
+      }
+    },
+    {
+      "id": "phy4_q102",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुरुत्वाकर्षण किस प्रकार का बल है?",
+        "en": "What kind of force is gravitation?"
+      },
+      "options": {
+        "hi": [
+          "घर्षण बल",
+          "आकर्षण बल",
+          "प्रतिकर्षण बल",
+          "कभी आकर्षण, कभी प्रतिकर्षण"
+        ],
+        "en": [
+          "A frictional force",
+          "An attractive force",
+          "A repulsive force",
+          "Sometimes attraction, sometimes repulsion"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण सदा आकर्षण करता है, कभी प्रतिकर्षण नहीं।",
+        "en": "Gravitation always attracts, never repels."
+      }
+    },
+    {
+      "id": "phy4_q103",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुरुत्वाकर्षण को सार्वत्रिक बल क्यों कहा जाता है?",
+        "en": "Why is gravitation called a universal force?"
+      },
+      "options": {
+        "hi": [
+          "यह केवल चाँद पर लगता है",
+          "यह केवल विशाल ग्रहों पर लगता है",
+          "यह किन्हीं भी दो वस्तुओं के बीच, कहीं भी लगता है",
+          "यह केवल पृथ्वी पर लगता है"
+        ],
+        "en": [
+          "It acts only on the moon",
+          "It acts only on giant planets",
+          "It acts between any two objects, anywhere",
+          "It acts only on the earth"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सार्वत्रिक = हर स्थान, हर वस्तु-युग्म पर लागू।",
+        "en": "Universal = it applies to every pair of objects, everywhere."
+      }
+    },
+    {
+      "id": "phy4_q104",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पेड़ से सेब नीचे ही क्यों गिरता है?",
+        "en": "Why does an apple fall only downwards from a tree?"
+      },
+      "options": {
+        "hi": [
+          "हवा उसे नीचे दबाती है",
+          "सेब में बिजली होती है",
+          "पत्ते उसे खींचते हैं",
+          "पृथ्वी उसे गुरुत्वाकर्षण से नीचे खींचती है"
+        ],
+        "en": [
+          "The air presses it down",
+          "The apple carries electricity",
+          "The leaves pull it",
+          "The earth pulls it down by gravitation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पृथ्वी का गुरुत्वाकर्षण ही सेब को नीचे लाता है।",
+        "en": "The earth's gravitation brings the apple down."
+      }
+    },
+    {
+      "id": "phy4_q105",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी चाँद को किस बल से अपने पास बनाए रखती है?",
+        "en": "Which force keeps the moon bound to the earth?"
+      },
+      "options": {
+        "hi": [
+          "गुरुत्वाकर्षण बल",
+          "चुंबकीय बल",
+          "विद्युत बल",
+          "घर्षण बल"
+        ],
+        "en": [
+          "Gravitational force",
+          "Magnetic force",
+          "Electric force",
+          "Frictional force"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चाँद पृथ्वी की परिक्रमा गुरुत्वाकर्षण ही संभव बनाता है।",
+        "en": "Only gravitation makes the moon orbit the earth."
+      }
+    },
+    {
+      "id": "phy4_q106",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुरुत्वाकर्षण का सार्वत्रिक नियम किसने दिया?",
+        "en": "Who gave the universal law of gravitation?"
+      },
+      "options": {
+        "hi": [
+          "कोपरनिकस",
+          "न्यूटन",
+          "गैलीलियो",
+          "आइंस्टीन"
+        ],
+        "en": [
+          "Copernicus",
+          "Newton",
+          "Galileo",
+          "Einstein"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "न्यूटन ने 1687 में गुरुत्वाकर्षण का सार्वत्रिक नियम प्रतिपादित किया।",
+        "en": "Newton formulated the universal law of gravitation in 1687."
+      }
+    },
+    {
+      "id": "phy4_q107",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दो वस्तुओं का द्रव्यमान बढ़ाने पर उनके बीच गुरुत्वाकर्षण बल —",
+        "en": "If the masses of two objects are increased, the gravitational force between them —"
+      },
+      "options": {
+        "hi": [
+          "समान रहता है",
+          "शून्य हो जाता है",
+          "बढ़ता है",
+          "घटता है"
+        ],
+        "en": [
+          "Remains the same",
+          "Becomes zero",
+          "Increases",
+          "Decreases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बल ∝ द्रव्यमानों का गुणनफल — द्रव्यमान बढ़ा तो बल बढ़ा।",
+        "en": "Force ∝ product of masses — more mass, more force."
+      }
+    },
+    {
+      "id": "phy4_q108",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दो वस्तुओं के बीच की दूरी बढ़ाने पर गुरुत्वाकर्षण बल —",
+        "en": "If the distance between two objects is increased, the gravitational force —"
+      },
+      "options": {
+        "hi": [
+          "बढ़ता है",
+          "अपरिवर्तित रहता है",
+          "पहले बढ़ता फिर घटता है",
+          "घटता है"
+        ],
+        "en": [
+          "Increases",
+          "Stays unchanged",
+          "First increases then decreases",
+          "Decreases"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल ∝ 1/दूरी² — दूरी बढ़ी तो बल घटा।",
+        "en": "Force ∝ 1/distance² — more distance, less force."
+      }
+    },
+    {
+      "id": "phy4_q109",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुरुत्वाकर्षण बल किन दो कारकों पर निर्भर करता है?",
+        "en": "On which two factors does the gravitational force depend?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान और दूरी",
+          "रंग और आकार",
+          "तापमान और रंग",
+          "गति और दिशा"
+        ],
+        "en": [
+          "Mass and distance",
+          "Colour and shape",
+          "Temperature and colour",
+          "Speed and direction"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "द्रव्यमान बढ़ाए → बल ↑; दूरी बढ़ाए → बल ↓।",
+        "en": "More mass → force up; more distance → force down."
+      }
+    },
+    {
+      "id": "phy4_q110",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हम जमीन पर स्थिर क्यों बने रहते हैं?",
+        "en": "Why do we stay fixed to the ground?"
+      },
+      "options": {
+        "hi": [
+          "हमारा वजन शून्य है",
+          "पृथ्वी का गुरुत्वाकर्षण हमें खींचता है",
+          "हवा हमें दबाती है",
+          "जमीन चिपचिपी है"
+        ],
+        "en": [
+          "Our weight is zero",
+          "The earth's gravitation pulls us",
+          "The air presses on us",
+          "The ground is sticky"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पृथ्वी हर वस्तु को अपने केंद्र की ओर खींचती है।",
+        "en": "The earth pulls every object towards its centre."
+      }
+    },
+    {
+      "id": "phy4_q111",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चाँद पर खड़ा व्यक्ति वहाँ की मिट्टी पर क्यों टिका रहता है?",
+        "en": "Why does a person on the moon stay held to its surface?"
+      },
+      "options": {
+        "hi": [
+          "सूट चुंबकीय है",
+          "वहाँ गुरुत्वाकर्षण नहीं है",
+          "चाँद का अपना गुरुत्वाकर्षण है",
+          "वहाँ हवा बहुत है"
+        ],
+        "en": [
+          "The suit is magnetic",
+          "There is no gravitation there",
+          "The moon has its own gravitation",
+          "There is plenty of air there"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हर द्रव्यमान गुरुत्वाकर्षण डालता है — छोटा चाँद भी।",
+        "en": "Every mass exerts gravitation — the small moon too."
+      }
+    },
+    {
+      "id": "phy4_q112",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वर्षा की बूँदें नीचे क्यों गिरती हैं?",
+        "en": "Why do raindrops fall downwards?"
+      },
+      "options": {
+        "hi": [
+          "बादल उन्हें फेंकते हैं",
+          "वे हल्की होती हैं",
+          "हवा उन्हें खींचती है",
+          "पृथ्वी का गुरुत्वाकर्षण उन्हें खींचता है"
+        ],
+        "en": [
+          "The clouds throw them",
+          "They are light",
+          "The wind pulls them",
+          "The earth's gravitation pulls them"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण ही जल-बूँदों को धरती पर लाता है।",
+        "en": "Gravitation brings the water drops to the earth."
+      }
+    },
+    {
+      "id": "phy4_q113",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दो वस्तुओं के बीच गुरुत्वाकर्षण बल किस रेखा के अनुदिश कार्य करता है?",
+        "en": "Along which line does the gravitational force between two objects act?"
+      },
+      "options": {
+        "hi": [
+          "दोनों को जोड़ने वाली रेखा के अनुदिश",
+          "दोनों के लंबवत",
+          "किसी भी दिशा में",
+          "वृत्ताकार पथ में"
+        ],
+        "en": [
+          "Along the line joining the two",
+          "Perpendicular to both",
+          "In any direction",
+          "Along a circular path"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आकर्षण दोनों केंद्रों को मिलाने वाली सीधी रेखा में रहता है।",
+        "en": "The attraction stays along the straight line joining the two centres."
+      }
+    },
+    {
+      "id": "phy4_q114",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समान दूरी पर रखी दो वस्तुओं में से अधिक द्रव्यमान वाली वस्तुओं के युग्म पर गुरुत्वाकर्षण बल —",
+        "en": "For pairs kept at the same distance, the pair with greater masses experiences a gravitational force that is —"
+      },
+      "options": {
+        "hi": [
+          "शून्य होता है",
+          "अधिक होता है",
+          "कम होता है",
+          "समान रहता है"
+        ],
+        "en": [
+          "Zero",
+          "Greater",
+          "Smaller",
+          "The same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बल ∝ m₁×m₂ — बड़े द्रव्यमान-युग्म पर बल बड़ा।",
+        "en": "Force ∝ m₁×m₂ — a heavier pair feels a stronger pull."
+      }
+    },
+    {
+      "id": "phy4_q115",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायुमंडल पृथ्वी से चिपका क्यों रहता है?",
+        "en": "Why does the atmosphere stay attached to the earth?"
+      },
+      "options": {
+        "hi": [
+          "आकाश वायु को रोकता है",
+          "वायु भारी नहीं होती",
+          "पृथ्वी वायु को गुरुत्वाकर्षण से बाँधे रखती है",
+          "वायु चुंबकीय है"
+        ],
+        "en": [
+          "The sky stops the air",
+          "Air has no weight",
+          "The earth holds the air by gravitation",
+          "The air is magnetic"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण ही वायु के चारों ओर आवरण को बनाए रखता है।",
+        "en": "Gravitation alone keeps the blanket of air around the earth."
+      }
+    },
+    {
+      "id": "phy4_q116",
+      "topic": "gravitation-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दो बड़े पिंडों (जैसे पृथ्वी-सूर्य) के बीच गुरुत्वाकर्षण दो छोटी गेंदों की तुलना में —",
+        "en": "The gravitation between two huge bodies (say earth-sun) compared with that between two small balls is —"
+      },
+      "options": {
+        "hi": [
+          "बहुत कम",
+          "बराबर",
+          "शून्य",
+          "बहुत अधिक"
+        ],
+        "en": [
+          "Much smaller",
+          "Equal",
+          "Zero",
+          "Much greater"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विशाल द्रव्यमान → विशाल गुणनफल → अत्यधिक बल।",
+        "en": "Huge masses → huge product → an enormous force."
+      }
+    },
+    {
+      "id": "phy4_q117",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो वस्तुओं के बीच दूरी दोगुनी कर दी जाए तो गुरुत्वाकर्षण बल —",
+        "en": "If the distance between two objects is doubled, the gravitational force becomes —"
+      },
+      "options": {
+        "hi": [
+          "एक चौथाई",
+          "आधा",
+          "दोगुना",
+          "चार गुना"
+        ],
+        "en": [
+          "One-fourth",
+          "Half",
+          "Double",
+          "Four times"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F ∝ 1/r² → r दोगुना तो F, (1/2)² = 1/4 गुना।",
+        "en": "F ∝ 1/r² → doubling r quarters the force."
+      }
+    },
+    {
+      "id": "phy4_q118",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वस्तु का द्रव्यमान दोगुना कर दें (दूरी वही) — बल —",
+        "en": "One object's mass is doubled (same distance) — the force —"
+      },
+      "options": {
+        "hi": [
+          "समान",
+          "दोगुना हो जाता है",
+          "आधा रह जाता है",
+          "चार गुना"
+        ],
+        "en": [
+          "Stays the same",
+          "Doubles",
+          "Halves",
+          "Quadruples"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "F ∝ m₁m₂ — एक द्रव्यमान ×2 → बल ×2।",
+        "en": "F ∝ m₁m₂ — doubling one mass doubles the force."
+      }
+    },
+    {
+      "id": "phy4_q119",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दोनों वस्तुओं के द्रव्यमान दोगुने कर दें — बल —",
+        "en": "Both objects' masses are doubled — the force —"
+      },
+      "options": {
+        "hi": [
+          "आठ गुना",
+          "समान",
+          "चार गुना हो जाता है",
+          "दोगुना"
+        ],
+        "en": [
+          "Eight times",
+          "Unchanged",
+          "Becomes four times",
+          "Doubles"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "F ∝ (2m₁)(2m₂) = 4m₁m₂ — बल चार गुना।",
+        "en": "F ∝ (2m₁)(2m₂) = 4m₁m₂ — four times the force."
+      }
+    },
+    {
+      "id": "phy4_q120",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो वस्तुओं के बीच की दूरी आधी कर दी जाए तो बल —",
+        "en": "If the distance between two objects is halved, the force —"
+      },
+      "options": {
+        "hi": [
+          "दोगुना",
+          "आधा",
+          "एक चौथाई",
+          "चार गुना हो जाता है"
+        ],
+        "en": [
+          "Doubles",
+          "Halves",
+          "Becomes one-fourth",
+          "Becomes four times"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "r → r/2, F ∝ 1/r² → F ×4।",
+        "en": "r → r/2 with F ∝ 1/r² gives F ×4."
+      }
+    },
+    {
+      "id": "phy4_q121",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: गुरुत्वाकर्षण बल द्रव्यमानों के गुणनफल के समानुपाती है। कथन B: यह दूरी के वर्ग के समानुपाती है। सही विकल्प —",
+        "en": "Statement A: the gravitational force is proportional to the product of the masses. Statement B: it is proportional to the square of the distance. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A सही, B गलत (दूरी के वर्ग के व्युत्क्रमानुपाती)",
+          "A गलत, B सही",
+          "दोनों सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "A right, B wrong (it varies inversely as the square of the distance)",
+          "A wrong, B right",
+          "Both right",
+          "Both wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समानुपाती गुणनफल से, व्युत्क्रमानुपाती दूरी-वर्ग से।",
+        "en": "Proportional to the product; inversely proportional to distance-squared."
+      }
+    },
+    {
+      "id": "phy4_q122",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो मित्र एक-दूसरे के पास बैठे हैं पर एक-दूसरे का गुरुत्वाकर्षण खींच अनुभव नहीं करते — क्यों?",
+        "en": "Two friends sit close by yet feel no gravitational pull of each other — why?"
+      },
+      "options": {
+        "hi": [
+          "कपड़े बल रोकते हैं",
+          "द्रव्यमान छोटा होने से बल अत्यंत लघु होता है",
+          "मनुष्यों के बीच गुरुत्वाकर्षण नहीं होता",
+          "दूरी बहुत अधिक है"
+        ],
+        "en": [
+          "Clothes block the force",
+          "With small masses the force is extremely tiny",
+          "Gravitation does not act between humans",
+          "The distance is too large"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बल है, पर मान इतना लघु कि महसूस नहीं होता।",
+        "en": "The force exists but is far too small to feel."
+      }
+    },
+    {
+      "id": "phy4_q123",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समुद्र में ज्वार-भाटा मुख्यतः किसके कारण आते हैं?",
+        "en": "What mainly causes tides in the sea?"
+      },
+      "options": {
+        "hi": [
+          "मछलियों की गति से",
+          "जहाजों के वजन से",
+          "चंद्रमा (और सूर्य) का गुरुत्वाकर्षण",
+          "समुद्री हवाओं के कारण"
+        ],
+        "en": [
+          "The motion of fish",
+          "The weight of ships",
+          "The gravitation of the moon (and the sun)",
+          "Sea winds"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चंद्रमा का गुरुत्वाकर्षण जल को खींचकर ज्वार बनाता है।",
+        "en": "The moon's pull lifts the water into tides."
+      }
+    },
+    {
+      "id": "phy4_q124",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ग्रह सूर्य के चारों ओर निरंतर क्यों घूमते रहते हैं?",
+        "en": "Why do the planets keep revolving around the sun?"
+      },
+      "options": {
+        "hi": [
+          "सूर्य उन्हें धकेलता है",
+          "ग्रह चुंबक हैं",
+          "वायु उन्हें घुमाती है",
+          "सूर्य का गुरुत्वाकर्षण उन्हें बाँधे रखता है"
+        ],
+        "en": [
+          "The sun pushes them away",
+          "The planets are magnets",
+          "Air swirls them around",
+          "The sun's gravitation keeps them bound"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण ही ग्रहों को कक्षा में बाँधता है।",
+        "en": "Gravitation alone binds the planets in their orbits."
+      }
+    },
+    {
+      "id": "phy4_q125",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: गुरुत्वाकर्षण केवल पृथ्वी से जुड़ा बल है। कथन B: यह किन्हीं दो वस्तुओं के बीच काम करता है। सही विकल्प —",
+        "en": "Statement A: gravitation is a force tied only to the earth. Statement B: it acts between any two objects. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A गलत, B सही",
+          "A सही, B गलत",
+          "दोनों सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "A wrong, B right",
+          "A right, B wrong",
+          "Both right",
+          "Both wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण सार्वत्रिक है — हर वस्तु-युग्म पर।",
+        "en": "Gravitation is universal — it acts on every pair."
+      }
+    },
+    {
+      "id": "phy4_q126",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि पृथ्वी का गुरुत्वाकर्षण अचानक लुप्त हो जाए, तो वायुमंडल का क्या होगा?",
+        "en": "If the earth's gravitation suddenly vanished, what would happen to the atmosphere?"
+      },
+      "options": {
+        "hi": [
+          "वायु पानी बन जाएगी",
+          "वायु धीरे-धीरे अंतरिक्ष में फैल जाएगी",
+          "वायु और भी कसकर चिपक जाएगी",
+          "कुछ नहीं होगा"
+        ],
+        "en": [
+          "The air would turn into water",
+          "The air would gradually escape into space",
+          "The air would cling even more tightly",
+          "Nothing would happen"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण ही वायु को बाँधता है; वह गया तो आवरण फैल जाएगा।",
+        "en": "Gravitation binds the air; without it the envelope would disperse."
+      }
+    },
+    {
+      "id": "phy4_q127",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो वस्तुओं A और B के बीच बल F है। A का द्रव्यमान दोगुना और दूरी भी दोगुनी कर दी जाए — नया बल —",
+        "en": "The force between two objects A and B is F. A's mass is doubled and the distance too is doubled — the new force is —"
+      },
+      "options": {
+        "hi": [
+          "4F",
+          "F",
+          "F/2",
+          "2F"
+        ],
+        "en": [
+          "4F",
+          "F",
+          "F/2",
+          "2F"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "F′ ∝ 2m/(2r)² = 2/4 = 1/2 → F/2।",
+        "en": "F′ ∝ 2m/(2r)² = 2/4 = 1/2 → F/2."
+      }
+    },
+    {
+      "id": "phy4_q128",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गुरुत्वाकर्षण बल विकर्षण कर सकता है या नहीं?",
+        "en": "Can the gravitational force ever repel?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, दूरी बढ़ने पर",
+          "हाँ, रात में",
+          "यह द्रव्यमान पर निर्भर करता है",
+          "नहीं, यह सदा आकर्षण है"
+        ],
+        "en": [
+          "Yes, at large distances",
+          "Yes, at night",
+          "It depends on the mass",
+          "No, it always attracts"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण कभी विकर्षण नहीं करता — केवल खिंचाव।",
+        "en": "Gravitation never repels — it only pulls."
+      }
+    },
+    {
+      "id": "phy4_q129",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही द्रव्यमान की दो वस्तुओं को पहले 1 m फिर 3 m दूरी पर रखा — बल का नया मान पुराने का —",
+        "en": "Two equal masses are kept first 1 m apart and then 3 m apart — the new force is —"
+      },
+      "options": {
+        "hi": [
+          "1/9 गुना",
+          "1/3 गुना",
+          "3 गुना",
+          "9 गुना"
+        ],
+        "en": [
+          "One-ninth",
+          "One-third",
+          "Triple",
+          "Nine times"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F ∝ 1/r² → r ×3 से F ÷9।",
+        "en": "F ∝ 1/r² → tripling r divides the force by 9."
+      }
+    },
+    {
+      "id": "phy4_q130",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पृथ्वी सेब को जितना खींचती है, सेब पृथ्वी को उतना ही खींचता है — फिर भी हम सेब को गिरते देखते हैं, पृथ्वी को नहीं — कारण —",
+        "en": "The earth pulls the apple as hard as the apple pulls the earth — yet we see the apple fall, not the earth — because —"
+      },
+      "options": {
+        "hi": [
+          "यह केवल दिखावा है",
+          "पृथ्वी का द्रव्यमान अत्यधिक होने से उसका त्वरण नगण्य रह जाता है",
+          "सेब पृथ्वी को खींचता ही नहीं",
+          "पृथ्वी पर सेब का बल नहीं पहुँचता"
+        ],
+        "en": [
+          "It is only an illusion",
+          "The earth's huge mass makes its acceleration negligible",
+          "The apple does not pull the earth",
+          "The apple's force never reaches the earth"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बल समान, पर a = F/m — पृथ्वी का m विशाल → उसका त्वरण अनुभव से बाहर।",
+        "en": "The force is equal, but a = F/m — the earth's vast mass makes its acceleration immeasurably small."
+      }
+    },
+    {
+      "id": "phy4_q131",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊपर फेंकी गई वस्तु वापस नीचे क्यों आती है?",
+        "en": "Why does an object thrown up come back down?"
+      },
+      "options": {
+        "hi": [
+          "ऊपर की जगह खत्म हो जाती है",
+          "वस्तु थक जाती है",
+          "पृथ्वी का गुरुत्वाकर्षण उसे लगातार नीचे खींचता है",
+          "हवा उसे नीचे दबाती है"
+        ],
+        "en": [
+          "The space above runs out",
+          "The object gets tired",
+          "The earth's gravitation keeps pulling it down",
+          "The air presses it down"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण नीचे की ओर ही कार्य करता रहता है।",
+        "en": "Gravitation keeps acting downwards throughout."
+      }
+    },
+    {
+      "id": "phy4_q132",
+      "topic": "gravitation-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सूर्य और पृथ्वी दोनों एक-दूसरे को खींचते हैं — इस युग्म में बल का आकार —",
+        "en": "The sun and the earth pull each other — in this pair the magnitude of the force —"
+      },
+      "options": {
+        "hi": [
+          "सूर्य पर अधिक है",
+          "पृथ्वी पर अधिक है",
+          "किसी पर नहीं है",
+          "दोनों पर समान है"
+        ],
+        "en": [
+          "Is greater on the sun",
+          "Is greater on the earth",
+          "Acts on neither",
+          "Is the same on both"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुरुत्वाकर्षण युग्म में दोनों बल बराबर होते हैं; त्वरण द्रव्यमान के कारण भिन्न दिखता है।",
+        "en": "Both forces in a gravitational pair are equal; the accelerations differ because of mass."
+      }
+    },
+    {
+      "id": "phy4_q133",
+      "topic": "gravitation-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो वस्तुओं के बीच दूरी तीन गुना कर दी जाए तो गुरुत्वाकर्षण बल बन जाएगा —",
+        "en": "If the distance between two objects is tripled, the gravitational force becomes —"
+      },
+      "options": {
+        "hi": [
+          "F/9",
+          "F/3",
+          "3F",
+          "9F"
+        ],
+        "en": [
+          "F/9",
+          "F/3",
+          "3F",
+          "9F"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F ∝ 1/r² → r ×3 ⇒ F ÷ 3² = F/9।",
+        "en": "F ∝ 1/r² → r ×3 ⇒ F ÷ 9."
+      }
+    },
+    {
+      "id": "phy4_q134",
+      "topic": "gravitation-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो द्रव्यमानों m और 2m के बीच दूरी d पर बल F है। यदि द्रव्यमान m, m कर दें और दूरी 2d — नया बल —",
+        "en": "Masses m and 2m at distance d feel a force F. If the masses are made m, m and the distance 2d — the new force is —"
+      },
+      "options": {
+        "hi": [
+          "F",
+          "F/8",
+          "F/4",
+          "F/2"
+        ],
+        "en": [
+          "F",
+          "F/8",
+          "F/4",
+          "F/2"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "F ∝ 2m²/d²; F′ ∝ m²/4d² = (1/8)×2m²/d² → F/8।",
+        "en": "F ∝ 2m²/d²; F′ ∝ m²/4d² = one-eighth of that → F/8."
+      }
+    },
+    {
+      "id": "phy4_q135",
+      "topic": "gravitation-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो वस्तुओं के बीच बल 10 N है। दूरी आधी कर दें (द्रव्यमान वही) — नया बल —",
+        "en": "The force between two objects is 10 N. The distance is halved (same masses) — the new force is —"
+      },
+      "options": {
+        "hi": [
+          "5 N",
+          "2.5 N",
+          "40 N",
+          "20 N"
+        ],
+        "en": [
+          "5 N",
+          "2.5 N",
+          "40 N",
+          "20 N"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "F ∝ 1/r² → r/2 से F ×4 = 40 N।",
+        "en": "F ∝ 1/r² → halving r quadruples F to 40 N."
+      }
+    },
+    {
+      "id": "phy4_q136",
+      "topic": "gravitation-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि दूरी d पर बल F हो, तो किस दूरी पर बल F/4 हो जाएगा?",
+        "en": "If the force is F at distance d, at what distance does it become F/4?"
+      },
+      "options": {
+        "hi": [
+          "d/2",
+          "4d",
+          "d/4",
+          "2d"
+        ],
+        "en": [
+          "d/2",
+          "4d",
+          "d/4",
+          "2d"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "F ∝ 1/r² → बल चौथाई के लिए r दोगुना = 2d।",
+        "en": "F ∝ 1/r² → quarter the force needs twice the distance, 2d."
+      }
+    },
+    {
+      "id": "phy4_q137",
+      "topic": "gravitation-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: गुरुत्वाकर्षण बल कभी शून्य नहीं होता, चाहे दूरी कितनी भी हो। कथन B: बल बहुत बड़ी दूरी पर नगण्य हो जाता है। सही विकल्प —",
+        "en": "Statement A: the gravitational force is never exactly zero, however large the distance. Statement B: at very large distances the force becomes negligible. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "1/r² शून्य नहीं होता, पर अत्यधिक r पर मान नगण्य — दोनों कथन सही।",
+        "en": "1/r² never reaches zero, yet at huge r the value is negligible — both hold."
+      }
+    },
+    {
+      "id": "phy4_q138",
+      "topic": "gravitation-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो समान गेंदों के बीच बल F है। एक गेंद का द्रव्यमान तीन गुना और दूरी तीन गुना कर दी जाए — नया बल —",
+        "en": "Two identical balls feel a force F. One ball's mass is tripled and the distance too is tripled — the new force is —"
+      },
+      "options": {
+        "hi": [
+          "F",
+          "F/3",
+          "3F",
+          "F/9"
+        ],
+        "en": [
+          "F",
+          "F/3",
+          "3F",
+          "F/9"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "F′ ∝ 3m²/(3r)² = 3/9 = 1/3 → F/3।",
+        "en": "F′ ∝ 3m²/(3r)² = 3/9 = 1/3 → F/3."
+      }
+    },
+    {
+      "id": "phy4_q139",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी पर गुरुत्वीय त्वरण g का लगभग मान —",
+        "en": "The approximate value of the acceleration due to gravity g on the earth is —"
+      },
+      "options": {
+        "hi": [
+          "9.8 m/s",
+          "0.98 m/s²",
+          "9.8 m/s²",
+          "98 m/s²"
+        ],
+        "en": [
+          "9.8 m/s",
+          "0.98 m/s²",
+          "9.8 m/s²",
+          "98 m/s²"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "g ≈ 9.8 m/s² (लगभग 10 m/s² भी प्रयोग होता है)।",
+        "en": "g ≈ 9.8 m/s² (about 10 m/s² is also used)."
+      }
+    },
+    {
+      "id": "phy4_q140",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भार किसे कहते हैं?",
+        "en": "What is weight?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु में भरा पदार्थ",
+          "वस्तु का आयतन",
+          "वस्तु की चाल",
+          "पृथ्वी द्वारा वस्तु पर लगाया गया गुरुत्वाकर्षण बल"
+        ],
+        "en": [
+          "The matter packed in the object",
+          "The object's volume",
+          "The object's speed",
+          "The gravitational force the earth exerts on the object"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "भार = पृथ्वी का वस्तु पर गुरुत्वीय खिंचाव — यह एक बल है।",
+        "en": "Weight = the earth's gravitational pull on the object — a force."
+      }
+    },
+    {
+      "id": "phy4_q141",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भार का सूत्र क्या है?",
+        "en": "What is the formula for weight?"
+      },
+      "options": {
+        "hi": [
+          "W = mg",
+          "W = m + g",
+          "W = m/g",
+          "W = g/m"
+        ],
+        "en": [
+          "W = mg",
+          "W = m + g",
+          "W = m/g",
+          "W = g/m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भार = द्रव्यमान × गुरुत्वीय त्वरण।",
+        "en": "Weight = mass × gravitational acceleration."
+      }
+    },
+    {
+      "id": "phy4_q142",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान और भार के SI मात्रक क्रमशः हैं —",
+        "en": "The SI units of mass and weight respectively are —"
+      },
+      "options": {
+        "hi": [
+          "N और N",
+          "kg और N",
+          "N और kg",
+          "kg और kg"
+        ],
+        "en": [
+          "N and N",
+          "kg and N",
+          "N and kg",
+          "kg and kg"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "द्रव्यमान → किलोग्राम; भार बल है → न्यूटन।",
+        "en": "Mass → kilogram; weight is a force → newton."
+      }
+    },
+    {
+      "id": "phy4_q143",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्थान बदलने पर (पृथ्वी से चाँद पर) द्रव्यमान —",
+        "en": "On changing place (earth to moon), the mass —"
+      },
+      "options": {
+        "hi": [
+          "घट जाता है",
+          "शून्य हो जाता है",
+          "वही रहता है",
+          "बढ़ जाता है"
+        ],
+        "en": [
+          "Decreases",
+          "Becomes zero",
+          "Stays the same",
+          "Increases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव्यमान पदार्थ की मात्रा है — स्थान से स्वतंत्र।",
+        "en": "Mass is the amount of matter — independent of place."
+      }
+    },
+    {
+      "id": "phy4_q144",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चाँद पर वस्तु का भार पृथ्वी की तुलना में लगभग —",
+        "en": "On the moon, an object's weight compared with the earth's is about —"
+      },
+      "options": {
+        "hi": [
+          "1/2",
+          "6 गुना",
+          "समान",
+          "1/6"
+        ],
+        "en": [
+          "Half",
+          "Six times",
+          "The same",
+          "One-sixth"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चाँद का गुरुत्वाकर्षण कमजोर है → भार लगभग छठा भाग।",
+        "en": "The moon's weaker pull gives about one-sixth the weight."
+      }
+    },
+    {
+      "id": "phy4_q145",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुरुत्वीय त्वरण की दिशा हमेशा कहाँ की ओर होती है?",
+        "en": "In which direction does the acceleration due to gravity always point?"
+      },
+      "options": {
+        "hi": [
+          "पृथ्वी के केंद्र की ओर (नीचे)",
+          "आकाश की ओर",
+          "उत्तर की ओर",
+          "गति की दिशा में"
+        ],
+        "en": [
+          "Towards the earth's centre (down)",
+          "Towards the sky",
+          "Towards the north",
+          "Along the direction of motion"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "g सदा नीचे, अर्थात् पृथ्वी-केंद्र की ओर रहता है।",
+        "en": "g always points down, i.e. towards the earth's centre."
+      }
+    },
+    {
+      "id": "phy4_q146",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्प्रिंग बैलेंस किसे मापता है?",
+        "en": "What does a spring balance measure?"
+      },
+      "options": {
+        "hi": [
+          "घनत्व",
+          "भार",
+          "द्रव्यमान",
+          "आयतन"
+        ],
+        "en": [
+          "Density",
+          "Weight",
+          "Mass",
+          "Volume"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्प्रिंग का खिंचाव बल (भार) बताता है।",
+        "en": "The spring's stretch indicates the force (weight)."
+      }
+    },
+    {
+      "id": "phy4_q147",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान मापने की सामान्य युक्ति —",
+        "en": "The common device for measuring mass is —"
+      },
+      "options": {
+        "hi": [
+          "थर्मामीटर",
+          "बैरोमीटर",
+          "समता (बीम) तुला",
+          "स्प्रिंग बैलेंस"
+        ],
+        "en": [
+          "A thermometer",
+          "A barometer",
+          "A beam (physical) balance",
+          "A spring balance"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बीम तुला द्रव्यमान की तुलना करती है, स्थान कोई भी हो।",
+        "en": "A beam balance compares mass, whatever the place."
+      }
+    },
+    {
+      "id": "phy4_q148",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी पर 1 kg वस्तु का भार लगभग —",
+        "en": "The weight of a 1 kg object on the earth is about —"
+      },
+      "options": {
+        "hi": [
+          "1 N",
+          "98 N",
+          "0.98 N",
+          "9.8 N"
+        ],
+        "en": [
+          "1 N",
+          "98 N",
+          "0.98 N",
+          "9.8 N"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "W = 1 × 9.8 = 9.8 N।",
+        "en": "W = 1 × 9.8 = 9.8 N."
+      }
+    },
+    {
+      "id": "phy4_q149",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायुरहित स्थान में पंख और पत्थर एक साथ गिरते हैं — कारण —",
+        "en": "In an air-free space a feather and a stone fall together — because —"
+      },
+      "options": {
+        "hi": [
+          "g सभी वस्तुओं के लिए समान है",
+          "पंख भारी हो जाता है",
+          "पत्थर हल्का हो जाता है",
+          "वहाँ गुरुत्वाकर्षण नहीं होता"
+        ],
+        "en": [
+          "g is the same for all objects",
+          "The feather becomes heavy",
+          "The stone becomes light",
+          "There is no gravitation there"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वायु-प्रतिरोध हटते ही सभी वस्तुएँ समान g से गिरती हैं।",
+        "en": "With air resistance removed, everything falls with the same g."
+      }
+    },
+    {
+      "id": "phy4_q150",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अंतरिक्ष यान में यात्री तैरते दिखते हैं — क्योंकि —",
+        "en": "Astronauts appear to float in a spacecraft — because —"
+      },
+      "options": {
+        "hi": [
+          "वे हल्के पदार्थ के बने हैं",
+          "वहाँ भार अनुभव नहीं होता (मुक्त पतन जैसी अवस्था)",
+          "उनका द्रव्यमान शून्य हो जाता है",
+          "गुरुत्वाकर्षण वहाँ काम नहीं करता"
+        ],
+        "en": [
+          "They are made of light material",
+          "There they feel no weight (a free-fall-like state)",
+          "Their mass becomes zero",
+          "Gravitation does not act there"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "यान और यात्री साथ-साथ गिरते हैं — भार-अनुभव शून्य जैसा।",
+        "en": "The craft and crew fall together — the felt weight is near zero."
+      }
+    },
+    {
+      "id": "phy4_q151",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "g का मान पृथ्वी पर सर्वाधिक कहाँ होता है?",
+        "en": "Where on the earth is the value of g greatest?"
+      },
+      "options": {
+        "hi": [
+          "मैदानों में",
+          "पर्वतों की चोटी पर",
+          "ध्रुवों पर",
+          "भूमध्य रेखा पर"
+        ],
+        "en": [
+          "In the plains",
+          "On mountain tops",
+          "At the poles",
+          "At the equator"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ध्रुवों पर पृथ्वी-त्रिज्या कम → दूरी कम → g अधिक।",
+        "en": "The poles are nearer the centre → smaller distance → larger g."
+      }
+    },
+    {
+      "id": "phy4_q152",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी वस्तु के भार की दिशा कहाँ की ओर होती है?",
+        "en": "In which direction does the weight of an object act?"
+      },
+      "options": {
+        "hi": [
+          "आकाश की ओर",
+          "क्षैतिज दिशा में",
+          "भार की कोई दिशा नहीं",
+          "पृथ्वी के केंद्र की ओर (नीचे)"
+        ],
+        "en": [
+          "Towards the sky",
+          "Horizontally",
+          "Weight has no direction",
+          "Towards the earth's centre (downwards)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "भार पृथ्वी का गुरुत्वीय खिंचाव है — सदा पृथ्वी-केंद्र की ओर।",
+        "en": "Weight is the earth's gravitational pull — always towards the earth's centre."
+      }
+    },
+    {
+      "id": "phy4_q153",
+      "topic": "gravity-and-weight",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक ही वस्तु का भार —",
+        "en": "The weight of one and the same object —"
+      },
+      "options": {
+        "hi": [
+          "स्थान बदलने पर बदल सकता है",
+          "कहीं भी स्थिर रहता है",
+          "कभी नहीं बदलता",
+          "केवल रात में बदलता है"
+        ],
+        "en": [
+          "Can change from place to place",
+          "Stays fixed everywhere",
+          "Never changes",
+          "Changes only at night"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "W = mg — g स्थान से बदलता है, इसलिए भार भी बदलता है।",
+        "en": "W = mg — g varies with place, hence so does weight."
+      }
+    },
+    {
+      "id": "phy4_q154",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 kg वस्तु का पृथ्वी पर भार (g = 9.8 m/s²) —",
+        "en": "The weight of a 5 kg object on the earth (g = 9.8 m/s²) is —"
+      },
+      "options": {
+        "hi": [
+          "59 N",
+          "49 N",
+          "5 N",
+          "9.8 N"
+        ],
+        "en": [
+          "59 N",
+          "49 N",
+          "5 N",
+          "9.8 N"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "W = 5 × 9.8 = 49 N।",
+        "en": "W = 5 × 9.8 = 49 N."
+      }
+    },
+    {
+      "id": "phy4_q155",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 kg वस्तु का भार लगभग —",
+        "en": "The weight of a 10 kg object is about —"
+      },
+      "options": {
+        "hi": [
+          "9.8 N",
+          "980 N",
+          "98 N",
+          "10 N"
+        ],
+        "en": [
+          "9.8 N",
+          "980 N",
+          "98 N",
+          "10 N"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "W = 10 × 9.8 = 98 N।",
+        "en": "W = 10 × 9.8 = 98 N."
+      }
+    },
+    {
+      "id": "phy4_q156",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "20 kg वस्तु का भार —",
+        "en": "The weight of a 20 kg object is —"
+      },
+      "options": {
+        "hi": [
+          "98 N",
+          "20 N",
+          "1960 N",
+          "196 N"
+        ],
+        "en": [
+          "98 N",
+          "20 N",
+          "1960 N",
+          "196 N"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "W = 20 × 9.8 = 196 N।",
+        "en": "W = 20 × 9.8 = 196 N."
+      }
+    },
+    {
+      "id": "phy4_q157",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "50 kg व्यक्ति का भार (g = 9.8 m/s²) —",
+        "en": "The weight of a 50 kg person (g = 9.8 m/s²) is —"
+      },
+      "options": {
+        "hi": [
+          "490 N",
+          "50 N",
+          "98 N",
+          "4900 N"
+        ],
+        "en": [
+          "490 N",
+          "50 N",
+          "98 N",
+          "4900 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "W = 50 × 9.8 = 490 N।",
+        "en": "W = 50 × 9.8 = 490 N."
+      }
+    },
+    {
+      "id": "phy4_q158",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "60 kg यात्री का चाँद पर भार लगभग —",
+        "en": "The weight of a 60 kg passenger on the moon is about —"
+      },
+      "options": {
+        "hi": [
+          "10 N",
+          "98 N",
+          "588 N",
+          "60 N"
+        ],
+        "en": [
+          "10 N",
+          "98 N",
+          "588 N",
+          "60 N"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चाँद पर g ≈ 9.8/6 ≈ 1.63 m/s² → W ≈ 60 × 1.63 ≈ 98 N।",
+        "en": "On the moon g ≈ 9.8/6 ≈ 1.63 m/s² → W ≈ 60 × 1.63 ≈ 98 N."
+      }
+    },
+    {
+      "id": "phy4_q159",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी वस्तु का भार 98 N है — द्रव्यमान (g = 9.8 m/s²) —",
+        "en": "An object weighs 98 N — its mass (g = 9.8 m/s²) is —"
+      },
+      "options": {
+        "hi": [
+          "9.8 kg",
+          "49 kg",
+          "10 kg",
+          "98 kg"
+        ],
+        "en": [
+          "9.8 kg",
+          "49 kg",
+          "10 kg",
+          "98 kg"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "m = W/g = 98/9.8 = 10 kg।",
+        "en": "m = W/g = 98/9.8 = 10 kg."
+      }
+    },
+    {
+      "id": "phy4_q160",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भार 49 N वस्तु का द्रव्यमान —",
+        "en": "The mass of an object weighing 49 N is —"
+      },
+      "options": {
+        "hi": [
+          "49 kg",
+          "4.9 kg",
+          "10 kg",
+          "5 kg"
+        ],
+        "en": [
+          "49 kg",
+          "4.9 kg",
+          "10 kg",
+          "5 kg"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "m = 49/9.8 = 5 kg।",
+        "en": "m = 49/9.8 = 5 kg."
+      }
+    },
+    {
+      "id": "phy4_q161",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भार 29.4 N वस्तु का द्रव्यमान —",
+        "en": "The mass of an object weighing 29.4 N is —"
+      },
+      "options": {
+        "hi": [
+          "3 kg",
+          "2.94 kg",
+          "30 kg",
+          "6 kg"
+        ],
+        "en": [
+          "3 kg",
+          "2.94 kg",
+          "30 kg",
+          "6 kg"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "m = 29.4/9.8 = 3 kg।",
+        "en": "m = 29.4/9.8 = 3 kg."
+      }
+    },
+    {
+      "id": "phy4_q162",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पृथ्वी पर वस्तु का भार 60 N है — चाँद पर भार लगभग —",
+        "en": "An object weighs 60 N on the earth — on the moon it weighs about —"
+      },
+      "options": {
+        "hi": [
+          "6 N",
+          "10 N",
+          "60 N",
+          "360 N"
+        ],
+        "en": [
+          "6 N",
+          "10 N",
+          "60 N",
+          "360 N"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "60 ÷ 6 = 10 N।",
+        "en": "60 ÷ 6 = 10 N."
+      }
+    },
+    {
+      "id": "phy4_q163",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वस्तु का द्रव्यमान 30 kg है — चाँद पर उसका द्रव्यमान —",
+        "en": "An object has a mass of 30 kg — on the moon its mass is —"
+      },
+      "options": {
+        "hi": [
+          "180 kg",
+          "शून्य",
+          "30 kg ही",
+          "5 kg"
+        ],
+        "en": [
+          "180 kg",
+          "Zero",
+          "Still 30 kg",
+          "5 kg"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव्यमान स्थान से नहीं बदलता — केवल भार बदलता है।",
+        "en": "Mass does not change with place — only weight does."
+      }
+    },
+    {
+      "id": "phy4_q164",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊपर की ओर फेंकी गई गेंद पर गुरुत्वीय त्वरण की दिशा —",
+        "en": "For a ball thrown upwards, the direction of the gravitational acceleration is —"
+      },
+      "options": {
+        "hi": [
+          "ऊपर की ओर (गति के साथ)",
+          "क्षैतिज",
+          "शून्य",
+          "नीचे की ओर ही (गति की दिशा के बावजूद)"
+        ],
+        "en": [
+          "Upwards (with the motion)",
+          "Horizontal",
+          "Zero",
+          "Still downwards (despite the direction of motion)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "g गति की दिशा से स्वतंत्र है — सदा नीचे।",
+        "en": "g is independent of the motion's direction — always downward."
+      }
+    },
+    {
+      "id": "phy4_q165",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: द्रव्यमान अदिश है। कथन B: भार सदिश है। सही विकल्प —",
+        "en": "Statement A: mass is a scalar. Statement B: weight is a vector. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "द्रव्यमान केवल परिमाण; भार बल — परिमाण और दिशा।",
+        "en": "Mass is magnitude only; weight is a force — magnitude and direction."
+      }
+    },
+    {
+      "id": "phy4_q166",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पहाड़ की चोटी पर वस्तु का भार समुद्र तल की तुलना में —",
+        "en": "On a mountain peak an object's weight compared with sea level is —"
+      },
+      "options": {
+        "hi": [
+          "बहुत अधिक",
+          "थोड़ा कम (g घटता है)",
+          "थोड़ा अधिक",
+          "बिल्कुल समान"
+        ],
+        "en": [
+          "Much greater",
+          "Slightly less (g decreases)",
+          "Slightly more",
+          "Exactly the same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऊँचाई से पृथ्वी-केंद्र की दूरी बढ़ती है → g व भार घटते हैं।",
+        "en": "Altitude increases the distance from the centre → g and weight fall."
+      }
+    },
+    {
+      "id": "phy4_q167",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ध्रुवों पर भार भूमध्य रेखा की तुलना में अधिक क्यों?",
+        "en": "Why is weight greater at the poles than at the equator?"
+      },
+      "options": {
+        "hi": [
+          "वहाँ द्रव्यमान बढ़ जाता है",
+          "घूर्णन से भार बढ़ता है",
+          "ध्रुवों पर g अधिक होता है (त्रिज्या कम)",
+          "वहाँ बर्फ का खिंचाव है"
+        ],
+        "en": [
+          "Mass increases there",
+          "Rotation adds weight",
+          "g is larger at the poles (smaller radius)",
+          "The ice pulls there"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पृथ्वी ध्रुवों पर थोड़ी चपटी है — दूरी कम, g अधिक, भार अधिक।",
+        "en": "The earth is slightly flattened at the poles — less distance, more g, more weight."
+      }
+    },
+    {
+      "id": "phy4_q168",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पानी में पत्थर उठाना हवा में उठाने से सरल क्यों लगता है? (संकेत: इस अध्याय के दायरे में सोचें)",
+        "en": "Why does lifting a stone inside water feel easier than in air? (think within this chapter's scope)"
+      },
+      "options": {
+        "hi": [
+          "पत्थर पानी में हल्का बन जाता है",
+          "पानी में g शून्य है",
+          "पत्थर का द्रव्यमान घटता है",
+          "जल ऊपर की ओर उत्प्लावक बल देता है, अनुभूत भार घटता है"
+        ],
+        "en": [
+          "The stone becomes light in water",
+          "g is zero in water",
+          "The stone's mass decreases",
+          "Water gives an upward buoyant force, so the felt weight drops"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उत्प्लावक बल भार का हिस्सा वहन करता है — उठाना सरल।",
+        "en": "The buoyant force carries part of the weight — lifting feels easy."
+      }
+    },
+    {
+      "id": "phy4_q169",
+      "topic": "gravity-and-weight",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि किसी ग्रह पर g = 20 m/s² हो, तो 5 kg वस्तु का वहाँ भार —",
+        "en": "If on a planet g = 20 m/s², the weight of a 5 kg object there is —"
+      },
+      "options": {
+        "hi": [
+          "100 N",
+          "49 N",
+          "25 N",
+          "4 N"
+        ],
+        "en": [
+          "100 N",
+          "49 N",
+          "25 N",
+          "4 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "W = 5 × 20 = 100 N।",
+        "en": "W = 5 × 20 = 100 N."
+      }
+    },
+    {
+      "id": "phy4_q170",
+      "topic": "gravity-and-weight",
+      "difficulty": "hard",
+      "question": {
+        "hi": "g = 9.8 m/s² का अर्थ है —",
+        "en": "g = 9.8 m/s² means —"
+      },
+      "options": {
+        "hi": [
+          "भार 9.8 N होता है",
+          "गिरती वस्तु का वेग प्रत्येक सेकंड लगभग 9.8 m/s बढ़ता है",
+          "वस्तु 9.8 m गिरती है",
+          "वेग 9.8 m/s स्थिर रहता है"
+        ],
+        "en": [
+          "The weight is 9.8 N",
+          "A falling object's velocity grows by about 9.8 m/s every second",
+          "The object falls 9.8 m",
+          "The velocity stays fixed at 9.8 m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "त्वरण = प्रति सेकंड वेग-वृद्धि — प्रत्येक सेकंड 9.8 m/s की वृद्धि।",
+        "en": "Acceleration = velocity gain per second — 9.8 m/s more each second."
+      }
+    },
+    {
+      "id": "phy4_q171",
+      "topic": "gravity-and-weight",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ऊपर फेंकी गेंद शीर्ष बिंदु पर क्षणभर विराम में रहती है — उस क्षण उस पर g —",
+        "en": "A ball thrown up rests momentarily at the highest point — at that instant g on it is —"
+      },
+      "options": {
+        "hi": [
+          "9.8 m/s² ऊपर की ओर",
+          "अनंत",
+          "9.8 m/s² नीचे की ओर ही",
+          "शून्य"
+        ],
+        "en": [
+          "9.8 m/s² upwards",
+          "Infinite",
+          "Still 9.8 m/s² downwards",
+          "Zero"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वेग शून्य होने पर भी गुरुत्वाकर्षण लगा रहता है — g अपरिवर्तित नीचे।",
+        "en": "Even at zero velocity gravitation acts — g stays 9.8 m/s² down."
+      }
+    },
+    {
+      "id": "phy4_q172",
+      "topic": "gravity-and-weight",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चाँद पर g लगभग 1.63 m/s² है — यह पृथ्वी के g का लगभग —",
+        "en": "g on the moon is about 1.63 m/s² — this is roughly —"
+      },
+      "options": {
+        "hi": [
+          "आधा",
+          "एक तिहाई",
+          "दोगुना",
+          "एक छठाई"
+        ],
+        "en": [
+          "Half",
+          "One-third",
+          "Double",
+          "One-sixth"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "9.8/6 ≈ 1.63 — चाँद का g पृथ्वी का लगभग छठा भाग।",
+        "en": "9.8/6 ≈ 1.63 — the moon's g is about one-sixth of the earth's."
+      }
+    },
+    {
+      "id": "phy4_q173",
+      "topic": "gravity-and-weight",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वस्तु का चाँद पर भार 16.3 N है — पृथ्वी पर उसका भार लगभग —",
+        "en": "An object weighs 16.3 N on the moon — its weight on the earth is about —"
+      },
+      "options": {
+        "hi": [
+          "98 N",
+          "16.3 N",
+          "49 N",
+          "196 N"
+        ],
+        "en": [
+          "98 N",
+          "16.3 N",
+          "49 N",
+          "196 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पृथ्वी-भार = 6 × चाँद-भार = 6 × 16.3 ≈ 98 N।",
+        "en": "Earth-weight = 6 × moon-weight = 6 × 16.3 ≈ 98 N."
+      }
+    },
+    {
+      "id": "phy4_q174",
+      "topic": "gravity-and-weight",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि किसी स्थान पर g शून्य हो जाए, तो वहाँ —",
+        "en": "If at some place g became zero, then there —"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान दोगुना हो जाएगा",
+          "भार शून्य होगा पर द्रव्यमान वही रहेगा",
+          "द्रव्यमान भी शून्य हो जाएगा",
+          "भार अनंत हो जाएगा"
+        ],
+        "en": [
+          "Mass would double",
+          "Weight would be zero but the mass would stay the same",
+          "Mass too would become zero",
+          "Weight would become infinite"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "W = mg — g = 0 से W = 0; द्रव्यमान पदार्थ का गुण है, बना रहता है।",
+        "en": "W = mg — g = 0 gives W = 0; mass is the object's own property and remains."
+      }
+    },
+    {
+      "id": "phy4_q175",
+      "topic": "gravity-and-weight",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही वस्तु को स्प्रिंग बैलेंस और बीम तुला से चाँद पर तौला गया — सही कथन —",
+        "en": "The same object is weighed on the moon with a spring balance and a beam balance — the correct statement is —"
+      },
+      "options": {
+        "hi": [
+          "दोनों बढ़ेंगे",
+          "दोनों अपरिवर्तित रहेंगे",
+          "स्प्रिंग बैलेंस का पाठ्यांक घटेगा, बीम तुला वही दिखाएगी",
+          "दोनों घटेंगे"
+        ],
+        "en": [
+          "Both increase",
+          "Both stay unchanged",
+          "The spring balance reading falls; the beam balance shows the same",
+          "Both decrease"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्प्रिंग बैलेंस भार (बल) पढ़ता है → 1/6; बीम तुला द्रव्यमान तुलना करती है → अपरिवर्तित।",
+        "en": "A spring balance reads weight → one-sixth; a beam balance compares mass → unchanged."
+      }
+    },
+    {
+      "id": "phy4_q176",
+      "topic": "gravity-and-weight",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: भार पृथ्वी के केंद्र की ओर सदिश है। कथन B: भार द्रव्यमान और g के गुणनफल है। सही विकल्प —",
+        "en": "Statement A: weight is a vector pointing towards the earth's centre. Statement B: weight is the product of mass and g. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "भार नीचे की ओर बल-सदिश है और W = mg से परिभाषित।",
+        "en": "Weight is a downward force-vector defined by W = mg."
+      }
+    },
+    {
+      "id": "phy4_q177",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दाब किसे कहते हैं?",
+        "en": "What is pressure?"
+      },
+      "options": {
+        "hi": [
+          "एकांक क्षेत्रफल पर लगने वाला अभिलंब बल",
+          "कुल लगने वाला बल",
+          "केवल द्रवों में लगने वाला बल",
+          "वस्तु का कुल भार"
+        ],
+        "en": [
+          "The normal force acting on unit area",
+          "The total force applied",
+          "A force acting only in liquids",
+          "The total weight of an object"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दाब = क्षेत्रफल पर बल का घनत्व जैसा — प्रति एकांक क्षेत्रफल बल।",
+        "en": "Pressure = force per unit area."
+      }
+    },
+    {
+      "id": "phy4_q178",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दाब का सूत्र क्या है?",
+        "en": "What is the formula for pressure?"
+      },
+      "options": {
+        "hi": [
+          "P = F + A",
+          "P = F/A",
+          "P = A/F",
+          "P = F×A"
+        ],
+        "en": [
+          "P = F + A",
+          "P = F/A",
+          "P = A/F",
+          "P = F×A"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दाब = बल ÷ क्षेत्रफल।",
+        "en": "Pressure = force ÷ area."
+      }
+    },
+    {
+      "id": "phy4_q179",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दाब का SI मात्रक क्या है?",
+        "en": "What is the SI unit of pressure?"
+      },
+      "options": {
+        "hi": [
+          "जूल (J)",
+          "वाट (W)",
+          "पास्कल (Pa)",
+          "न्यूटन (N)"
+        ],
+        "en": [
+          "Joule (J)",
+          "Watt (W)",
+          "Pascal (Pa)",
+          "Newton (N)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1 Pa = 1 N/m² — दाब का SI मात्रक पास्कल।",
+        "en": "1 Pa = 1 N/m² — the SI unit of pressure is the pascal."
+      }
+    },
+    {
+      "id": "phy4_q180",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक पास्कल किसके बराबर होता है?",
+        "en": "One pascal equals —"
+      },
+      "options": {
+        "hi": [
+          "1 N·m",
+          "1 kg/m²",
+          "1 m/N",
+          "1 N/m²"
+        ],
+        "en": [
+          "1 N·m",
+          "1 kg/m²",
+          "1 m/N",
+          "1 N/m²"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "1 Pa = 1 न्यूटन प्रति वर्ग मीटर।",
+        "en": "1 Pa = 1 newton per square metre."
+      }
+    },
+    {
+      "id": "phy4_q181",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दाब किन कारकों पर निर्भर करता है?",
+        "en": "Pressure depends on which factors?"
+      },
+      "options": {
+        "hi": [
+          "बल और क्षेत्रफल",
+          "केवल बल",
+          "केवल क्षेत्रफल",
+          "रंग और आकार"
+        ],
+        "en": [
+          "Force and area",
+          "Force only",
+          "Area only",
+          "Colour and shape"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "P = F/A — दोनों निर्धारक हैं।",
+        "en": "P = F/A — both decide it."
+      }
+    },
+    {
+      "id": "phy4_q182",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल समान रखकर क्षेत्रफल घटाएँ तो दाब —",
+        "en": "Keeping the force the same, if the area is reduced, the pressure —"
+      },
+      "options": {
+        "hi": [
+          "शून्य हो जाता है",
+          "बढ़ता है",
+          "घटता है",
+          "समान रहता है"
+        ],
+        "en": [
+          "Becomes zero",
+          "Increases",
+          "Decreases",
+          "Remains the same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "P ∝ 1/A — क्षेत्रफल कम, दाब अधिक।",
+        "en": "P ∝ 1/A — smaller area, larger pressure."
+      }
+    },
+    {
+      "id": "phy4_q183",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव में गहराई बढ़ने के साथ दाब —",
+        "en": "As depth in a liquid increases, the pressure —"
+      },
+      "options": {
+        "hi": [
+          "समान रहता है",
+          "पहले घटता फिर बढ़ता है",
+          "बढ़ता है",
+          "घटता है"
+        ],
+        "en": [
+          "Stays constant",
+          "First falls then rises",
+          "Increases",
+          "Decreases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऊपर के द्रव-स्तंभ का भार बढ़ता है — दाब गहराई के साथ बढ़ता है।",
+        "en": "The weight of the liquid column above grows — pressure rises with depth."
+      }
+    },
+    {
+      "id": "phy4_q184",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्थिर द्रव अपने भीतर दाब किन दिशाओं में लगाता है?",
+        "en": "In which directions does a liquid at rest exert pressure inside itself?"
+      },
+      "options": {
+        "hi": [
+          "केवल नीचे",
+          "केवल ऊपर",
+          "केवल किनारों पर",
+          "सभी दिशाओं में समान रूप से"
+        ],
+        "en": [
+          "Only downwards",
+          "Only upwards",
+          "Only on the walls",
+          "Equally in all directions"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव दाब निर्देश-विहीन होता है — हर दिशा में उतना ही।",
+        "en": "Liquid pressure has no preferred direction — the same in every direction."
+      }
+    },
+    {
+      "id": "phy4_q185",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायुमंडलीय दाब किसके कारण होता है?",
+        "en": "Atmospheric pressure is caused by —"
+      },
+      "options": {
+        "hi": [
+          "वायुमंडल की वायु के भार (गुरुत्वाकर्षण)",
+          "सूर्य के प्रकाश से",
+          "चाँद के खिंचाव से",
+          "बादलों के रंग से"
+        ],
+        "en": [
+          "The weight of the air in the atmosphere (gravitation)",
+          "Sunlight",
+          "The moon's pull",
+          "The colour of clouds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हवा का अपना भार है — वही वायुमंडलीय दाब डालता है।",
+        "en": "Air itself has weight — that weight creates atmospheric pressure."
+      }
+    },
+    {
+      "id": "phy4_q186",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नुकीली कील लकड़ी में आसानी से क्यों घुसती है?",
+        "en": "Why does a sharp nail enter wood easily?"
+      },
+      "options": {
+        "hi": [
+          "कील भारी होती है",
+          "नोक का क्षेत्रफल बहुत कम → दाब बहुत अधिक",
+          "कील में बिजली होती है",
+          "लकड़ी नरम होती है"
+        ],
+        "en": [
+          "The nail is heavy",
+          "The tip's area is tiny → enormous pressure",
+          "The nail carries electricity",
+          "The wood is soft"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वही बल छोटे क्षेत्रफल पर — दाब अधिक।",
+        "en": "The same force on a tiny area — high pressure."
+      }
+    },
+    {
+      "id": "phy4_q187",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चौड़े स्कूल-बैग के पट्टे कंधे में क्यों नहीं घुसते?",
+        "en": "Why don't the broad straps of a school bag dig into the shoulder?"
+      },
+      "options": {
+        "hi": [
+          "बैग हल्का होता है",
+          "कंधा मजबूत होता है",
+          "चौड़े पट्टे से क्षेत्रफल अधिक → दाब कम",
+          "पट्टे नरम रंग के होते हैं"
+        ],
+        "en": [
+          "The bag is light",
+          "The shoulder is strong",
+          "Broad straps give more area → less pressure",
+          "The straps are softly coloured"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्षेत्रफल बढ़ाने से उतने ही बल का दाब घट जाता है।",
+        "en": "A larger area spreads the same force into a smaller pressure."
+      }
+    },
+    {
+      "id": "phy4_q188",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊँट रेत में क्यों नहीं धंसता?",
+        "en": "Why does a camel not sink into the sand?"
+      },
+      "options": {
+        "hi": [
+          "ऊँट हल्का होता है",
+          "रेत कठोर होती है",
+          "ऊँट तैरता है",
+          "चौड़े पैरों से क्षेत्रफल बड़ा, दाब कम"
+        ],
+        "en": [
+          "The camel is light",
+          "The sand is hard",
+          "The camel swims",
+          "Broad feet make a large area and low pressure"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "भार समान, क्षेत्रफल अधिक — दाब कम — धंसना नहीं।",
+        "en": "Same weight over more area — less pressure — no sinking."
+      }
+    },
+    {
+      "id": "phy4_q189",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चाकू या कैंची की धार तेज़ रखी जाती है — कारण —",
+        "en": "Knives and scissors are kept sharp-edged — because —"
+      },
+      "options": {
+        "hi": [
+          "कम क्षेत्रफल से अधिक दाब, काटना सरल",
+          "तेज़ धार सुंदर लगती है",
+          "धार भारी बनाती है",
+          "क्षेत्रफल बढ़ता है"
+        ],
+        "en": [
+          "A small area gives high pressure and easy cutting",
+          "A sharp edge looks beautiful",
+          "The edge adds weight",
+          "The area increases"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "काटने का बल धार के छोटे क्षेत्रफल पर केंद्रित होता है।",
+        "en": "The cutting force concentrates on the blade's small edge."
+      }
+    },
+    {
+      "id": "phy4_q190",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बर्फीली सतह पर स्की के तलवे चौड़े क्यों होते हैं?",
+        "en": "Why are skis made broad-bottomed for snowy surfaces?"
+      },
+      "options": {
+        "hi": [
+          "स्की हल्की बनती है",
+          "चौड़े तल से दाब घटता है, बर्फ में धंसना कम",
+          "चौड़े तल तेज़ चलाते हैं",
+          "बर्फ पिघल जाती है"
+        ],
+        "en": [
+          "The ski becomes light",
+          "A broad base lowers the pressure so it sinks less into snow",
+          "Broad bases go faster",
+          "The snow melts away"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वजन फैल जाता है — दाब कम — बर्फ पर टिके रहना।",
+        "en": "The weight spreads out — lower pressure — staying atop the snow."
+      }
+    },
+    {
+      "id": "phy4_q191",
+      "topic": "pressure",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल समान रखकर क्षेत्रफल आधा कर दें — दाब —",
+        "en": "Keeping the same force, halve the area — the pressure —"
+      },
+      "options": {
+        "hi": [
+          "चार गुना",
+          "समान",
+          "दोगुना हो जाता है",
+          "आधा रह जाता है"
+        ],
+        "en": [
+          "Quadruples",
+          "Stays the same",
+          "Doubles",
+          "Halves"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P = F/A — A आधा तो P दोगुना।",
+        "en": "P = F/A — halve A and P doubles."
+      }
+    },
+    {
+      "id": "phy4_q192",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "200 N का बल 4 m² क्षेत्रफल पर लगे — दाब —",
+        "en": "A force of 200 N acts on an area of 4 m² — the pressure is —"
+      },
+      "options": {
+        "hi": [
+          "800 Pa",
+          "200 Pa",
+          "0.02 Pa",
+          "50 Pa"
+        ],
+        "en": [
+          "800 Pa",
+          "200 Pa",
+          "0.02 Pa",
+          "50 Pa"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P = 200/4 = 50 Pa।",
+        "en": "P = 200/4 = 50 Pa."
+      }
+    },
+    {
+      "id": "phy4_q193",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "500 N बल 5 m² क्षेत्रफल पर — दाब —",
+        "en": "A 500 N force on a 5 m² area gives a pressure of —"
+      },
+      "options": {
+        "hi": [
+          "100 Pa",
+          "2500 Pa",
+          "50 Pa",
+          "500 Pa"
+        ],
+        "en": [
+          "100 Pa",
+          "2500 Pa",
+          "50 Pa",
+          "500 Pa"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "P = 500/5 = 100 Pa।",
+        "en": "P = 500/5 = 100 Pa."
+      }
+    },
+    {
+      "id": "phy4_q194",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "60 N का बल 0.2 m² क्षेत्रफल पर — दाब —",
+        "en": "A 60 N force acts on 0.2 m² — the pressure is —"
+      },
+      "options": {
+        "hi": [
+          "120 Pa",
+          "300 Pa",
+          "12 Pa",
+          "30 Pa"
+        ],
+        "en": [
+          "120 Pa",
+          "300 Pa",
+          "12 Pa",
+          "30 Pa"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "P = 60/0.2 = 300 Pa।",
+        "en": "P = 60/0.2 = 300 Pa."
+      }
+    },
+    {
+      "id": "phy4_q195",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दाब 400 Pa है और क्षेत्रफल 0.5 m² — लगा बल —",
+        "en": "The pressure is 400 Pa over an area of 0.5 m² — the force applied is —"
+      },
+      "options": {
+        "hi": [
+          "400 N",
+          "100 N",
+          "200 N",
+          "800 N"
+        ],
+        "en": [
+          "400 N",
+          "100 N",
+          "200 N",
+          "800 N"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "F = P × A = 400 × 0.5 = 200 N।",
+        "en": "F = P × A = 400 × 0.5 = 200 N."
+      }
+    },
+    {
+      "id": "phy4_q196",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "500 N बल लगाने पर दाब 1000 Pa आया — क्षेत्रफल —",
+        "en": "A 500 N force produces a pressure of 1000 Pa — the area is —"
+      },
+      "options": {
+        "hi": [
+          "2 m²",
+          "5 m²",
+          "500 m²",
+          "0.5 m²"
+        ],
+        "en": [
+          "2 m²",
+          "5 m²",
+          "500 m²",
+          "0.5 m²"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "A = F/P = 500/1000 = 0.5 m²।",
+        "en": "A = F/P = 500/1000 = 0.5 m²."
+      }
+    },
+    {
+      "id": "phy4_q197",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही पात्र में पानी की गहराई तीन गुना कर दें — तल पर दाब —",
+        "en": "In the same vessel the water depth is tripled — the pressure at the bottom —"
+      },
+      "options": {
+        "hi": [
+          "लगभग तीन गुना",
+          "नौ गुना",
+          "समान",
+          "एक तिहाई"
+        ],
+        "en": [
+          "About three times",
+          "Nine times",
+          "The same",
+          "One-third"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "द्रव दाब ∝ गहराई — तीन गुना गहराई, तीन गुना दाब।",
+        "en": "Liquid pressure ∝ depth — triple depth, triple pressure."
+      }
+    },
+    {
+      "id": "phy4_q198",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बाँधों की नींव (तल) ऊपर से मोटी क्यों बनाई जाती है?",
+        "en": "Why are dams made thicker at the bottom than at the top?"
+      },
+      "options": {
+        "hi": [
+          "सौंदर्य के लिए",
+          "गहरे पानी का दाब अधिक होता है — मोटी दीवार उसे सहती है",
+          "नीचे पानी ठंडा होता है",
+          "ऊपर मजबूती कम चाहिए"
+        ],
+        "en": [
+          "For beauty",
+          "Deep water exerts greater pressure — the thick base bears it",
+          "The water below is cold",
+          "The top needs less strength"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दाब गहराई के साथ बढ़ता है — तल पर सर्वाधिक।",
+        "en": "Pressure grows with depth — greatest at the bottom."
+      }
+    },
+    {
+      "id": "phy4_q199",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गोताखोर जितना गहरा जाता है, कान पर दबाव —",
+        "en": "The deeper a diver goes, the pressure on the ears —"
+      },
+      "options": {
+        "hi": [
+          "समान रहता है",
+          "शून्य हो जाता है",
+          "बढ़ता जाता है",
+          "घटता जाता है"
+        ],
+        "en": [
+          "Stays the same",
+          "Becomes zero",
+          "Keeps increasing",
+          "Keeps decreasing"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऊपर जल-स्तंभ लंबा होता जाता है — दाब बढ़ता ही जाता है।",
+        "en": "The water column above lengthens — pressure keeps rising."
+      }
+    },
+    {
+      "id": "phy4_q200",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मकान का पानी टंकी छत पर क्यों रखा जाता है?",
+        "en": "Why is a house's water tank placed on the roof?"
+      },
+      "options": {
+        "hi": [
+          "छत खाली होती है",
+          "टंकी वहाँ सुंदर लगती है",
+          "पानी गरम रहता है",
+          "ऊँचाई से नलों तक पानी दाब के साथ पहुँचता है"
+        ],
+        "en": [
+          "The roof is empty",
+          "The tank looks good there",
+          "The water stays warm",
+          "The height sends water to the taps with pressure"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊँची टंकी = बड़ा शिर (height) = अच्छा दाब नलों में।",
+        "en": "A high tank gives a big head of pressure at the taps."
+      }
+    },
+    {
+      "id": "phy4_q201",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भवन की निचली मंज़िल के नल से पानी तेज़ और ऊपरी से धीमा क्यों?",
+        "en": "Why does water rush out faster from a ground-floor tap than an upper-floor one?"
+      },
+      "options": {
+        "hi": [
+          "निचले नल पर जल-स्तंभ लंबा → दाब अधिक",
+          "ऊपर हवा तेज़ होती है",
+          "निचले नल चौड़े होते हैं",
+          "ऊपर पानी ठंडा होता है"
+        ],
+        "en": [
+          "A taller water column acts on the lower tap → more pressure",
+          "The wind is stronger upstairs",
+          "Lower taps are wider",
+          "Upstairs water is cold"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गहराई/ऊँचाई-अंतर अधिक → दाब अधिक → प्रवाह तेज़।",
+        "en": "A greater height difference → more pressure → a faster flow."
+      }
+    },
+    {
+      "id": "phy4_q202",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सॉफ्ट ड्रिंक की पाइप (straw) से पीना संभव किस दाब से होता है?",
+        "en": "Drinking through a straw is made possible by which pressure?"
+      },
+      "options": {
+        "hi": [
+          "गुरुत्वीय त्वरण",
+          "वायुमंडलीय दाब",
+          "जल दाब",
+          "घर्षण"
+        ],
+        "en": [
+          "Gravitational acceleration",
+          "Atmospheric pressure",
+          "Water pressure",
+          "Friction"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सॉर्ब में दाब घटता है → वायुमंडल तरल को ऊपर धकेलता है।",
+        "en": "Sucking lowers the pressure inside; the atmosphere pushes the liquid up."
+      }
+    },
+    {
+      "id": "phy4_q203",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चिम्मी (dropper) में दवा कैसे चढ़ती है?",
+        "en": "How does medicine rise into a dropper?"
+      },
+      "options": {
+        "hi": [
+          "चिम्मी चुंबकीय है",
+          "गुरुत्वाकर्षण दवा ऊपर ले जाता है",
+          "बल्ब दबाकर छोड़ने पर भीतर दाब घटता है, वायुमंडलीय दाब दवा ऊपर धकेलता है",
+          "दवा ऊपर खिंचती है"
+        ],
+        "en": [
+          "The dropper is magnetic",
+          "Gravitation lifts the liquid",
+          "Releasing the squeezed bulb lowers the inside pressure; atmospheric pressure pushes the liquid up",
+          "The liquid climbs by itself"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "भीतर कम दाब, बाहर वायुमंडलीय दाब — द्रव ऊपर।",
+        "en": "Low pressure inside, atmospheric outside — the liquid rises."
+      }
+    },
+    {
+      "id": "phy4_q204",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: द्रव दाब सभी दिशाओं में समान रूप से कार्य करता है। कथन B: द्रव केवल पात्र के तल पर दबाव डालता है। सही विकल्प —",
+        "en": "Statement A: liquid pressure acts equally in all directions. Statement B: a liquid presses only on the base of the vessel. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A गलत, B सही",
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत"
+        ],
+        "en": [
+          "A wrong, B right",
+          "Both right",
+          "Both wrong",
+          "A right, B wrong"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव दीवारों, तल — हर सतह पर, हर दिशा में दबाव डालता है।",
+        "en": "A liquid presses on walls and base alike — every direction."
+      }
+    },
+    {
+      "id": "phy4_q205",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हील वाले जूते कीचड़/घास में अधिक क्यों धंसते हैं?",
+        "en": "Why do heeled shoes sink more into mud or grass?"
+      },
+      "options": {
+        "hi": [
+          "हील का क्षेत्रफल छोटा → उतने ही भार पर दाब अधिक",
+          "हील भारी धातु की होती है",
+          "कीचड़ हील को पसंद करता है",
+          "जूते नरम होते हैं"
+        ],
+        "en": [
+          "A heel's small area gives more pressure under the same weight",
+          "Heels are of heavy metal",
+          "The mud likes heels",
+          "The shoes are soft"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वही भार, छोटा क्षेत्रफल — दाब बढ़ जाता है।",
+        "en": "The same weight on a smaller area — higher pressure."
+      }
+    },
+    {
+      "id": "phy4_q206",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हाइड्रोलिक लिफ्ट छोटे बल से भारी गाड़ी कैसे उठाता है?",
+        "en": "How does a hydraulic lift raise a heavy car with a small force?"
+      },
+      "options": {
+        "hi": [
+          "हवा गाड़ी को खींचती है",
+          "द्रव में दाब समान रूप से संचारित होकर बड़े पिस्टन पर बड़ा बल देता है",
+          "द्रव हल्का होता है",
+          "गाड़ी खुद उछलती है"
+        ],
+        "en": [
+          "Air pulls the car up",
+          "The pressure transmitted equally through the liquid yields a big force on the big piston",
+          "The liquid is light",
+          "The car jumps itself"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "छोटे पिस्टन का दाब द्रव में वैसा ही बड़े पिस्टन तक — बड़ा बल।",
+        "en": "The small piston's pressure passes undiminished to the large piston — a large force."
+      }
+    },
+    {
+      "id": "phy4_q207",
+      "topic": "pressure",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान बल से दो सतहों पर दाब — क्षेत्रफल 1 m² और 5 m² — दाबों का अनुपात —",
+        "en": "The same force acts on areas of 1 m² and 5 m² — the ratio of the pressures is —"
+      },
+      "options": {
+        "hi": [
+          "1 : 1",
+          "25 : 1",
+          "5 : 1",
+          "1 : 5"
+        ],
+        "en": [
+          "1 : 1",
+          "25 : 1",
+          "5 : 1",
+          "1 : 5"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P ∝ 1/A → 1/1 : 1/5 = 5 : 1।",
+        "en": "P ∝ 1/A → 1/1 : 1/5 = 5 : 1."
+      }
+    },
+    {
+      "id": "phy4_q208",
+      "topic": "pressure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "250 N बल 0.25 m² क्षेत्रफल पर — दाब —",
+        "en": "A 250 N force acts on 0.25 m² — the pressure is —"
+      },
+      "options": {
+        "hi": [
+          "62.5 Pa",
+          "250 Pa",
+          "2500 Pa",
+          "1000 Pa"
+        ],
+        "en": [
+          "62.5 Pa",
+          "250 Pa",
+          "2500 Pa",
+          "1000 Pa"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P = 250/0.25 = 1000 Pa।",
+        "en": "P = 250/0.25 = 1000 Pa."
+      }
+    },
+    {
+      "id": "phy4_q209",
+      "topic": "pressure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दाब 200 Pa, क्षेत्रफल 4 m² — बल —",
+        "en": "Pressure 200 Pa over an area of 4 m² — the force is —"
+      },
+      "options": {
+        "hi": [
+          "800 N",
+          "50 N",
+          "200 N",
+          "204 N"
+        ],
+        "en": [
+          "800 N",
+          "50 N",
+          "200 N",
+          "204 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F = P × A = 200 × 4 = 800 N।",
+        "en": "F = P × A = 200 × 4 = 800 N."
+      }
+    },
+    {
+      "id": "phy4_q210",
+      "topic": "pressure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "600 N का बल पहले 2 m² फिर 0.5 m² क्षेत्रफल पर लगे — दाबों का अनुपात —",
+        "en": "A 600 N force acts first on 2 m² then on 0.5 m² — the ratio of the pressures is —"
+      },
+      "options": {
+        "hi": [
+          "1 : 2",
+          "1 : 4",
+          "4 : 1",
+          "1 : 1"
+        ],
+        "en": [
+          "1 : 2",
+          "1 : 4",
+          "4 : 1",
+          "1 : 1"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "P₁ = 300 Pa, P₂ = 1200 Pa → 1 : 4।",
+        "en": "P₁ = 300 Pa, P₂ = 1200 Pa → 1 : 4."
+      }
+    },
+    {
+      "id": "phy4_q211",
+      "topic": "pressure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही द्रव में 2 m और 6 m की गहराई पर दाबों का अनुपात —",
+        "en": "In the same liquid at depths of 2 m and 6 m, the ratio of pressures is —"
+      },
+      "options": {
+        "hi": [
+          "1 : 9",
+          "1 : 6",
+          "1 : 3",
+          "3 : 1"
+        ],
+        "en": [
+          "1 : 9",
+          "1 : 6",
+          "1 : 3",
+          "3 : 1"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P ∝ h → 2 : 6 = 1 : 3।",
+        "en": "P ∝ h → 2 : 6 = 1 : 3."
+      }
+    },
+    {
+      "id": "phy4_q212",
+      "topic": "pressure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: 1 पास्कल = 1 न्यूटन प्रति वर्ग मीटर। कथन B: दाब = क्षेत्रफल/बल। सही विकल्प —",
+        "en": "Statement A: 1 pascal = 1 newton per square metre. Statement B: pressure = area/force. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A गलत, B सही",
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत (सूत्र उल्टा है)"
+        ],
+        "en": [
+          "A wrong, B right",
+          "Both right",
+          "Both wrong",
+          "A right, B wrong (the formula is inverted)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P = F/A है, A/F नहीं — B उल्टा कथन है।",
+        "en": "P = F/A, not A/F — statement B inverts it."
+      }
+    },
+    {
+      "id": "phy4_q213",
+      "topic": "pressure",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ईमानदार तुलना: व्यक्ति A (500 N) 0.01 m² तल पर खड़ा है, व्यक्ति B (1000 N) 0.1 m² तल पर — किसका जमीन पर दाब अधिक?",
+        "en": "Compare: person A (500 N) stands on 0.01 m² of sole; person B (1000 N) on 0.1 m² — who exerts more pressure on the ground?"
+      },
+      "options": {
+        "hi": [
+          "A (50,000 Pa बनाम B के 10,000 Pa)",
+          "B (भार दोगुना है)",
+          "दोनों समान",
+          "बताया नहीं जा सकता"
+        ],
+        "en": [
+          "A (50,000 Pa against B's 10,000 Pa)",
+          "B (his weight is double)",
+          "Both equal",
+          "Cannot be determined"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "A: 500/0.01 = 50,000 Pa; B: 1000/0.1 = 10,000 Pa — A का दाब पाँच गुना।",
+        "en": "A: 500/0.01 = 50,000 Pa; B: 1000/0.1 = 10,000 Pa — A exerts five times more."
+      }
+    },
+    {
+      "id": "phy4_q214",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्प्लावक बल किसे कहते हैं?",
+        "en": "What is the buoyant force?"
+      },
+      "options": {
+        "hi": [
+          "घर्षण बल",
+          "द्रव द्वारा डूबी वस्तु पर ऊपर की ओर लगाया गया बल",
+          "वस्तु का अपना भार",
+          "वायु का नीचे का बल"
+        ],
+        "en": [
+          "The frictional force",
+          "The upward force a fluid exerts on an immersed object",
+          "The object's own weight",
+          "The downward push of air"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "द्रव का दबाव नीचे से ऊपर अधिक होता है — शुद्ध बल ऊपर।",
+        "en": "Fluid pressure is greater on the underside — a net upward force."
+      }
+    },
+    {
+      "id": "phy4_q215",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्प्लावक बल की दिशा —",
+        "en": "The direction of the buoyant force is —"
+      },
+      "options": {
+        "hi": [
+          "क्षैतिज",
+          "गति की दिशा में",
+          "ऊपर की ओर",
+          "नीचे की ओर"
+        ],
+        "en": [
+          "Horizontal",
+          "Along the motion",
+          "Upwards",
+          "Downwards"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "उत्प्लावकता वस्तु को ऊपर धकेलती है।",
+        "en": "Buoyancy pushes the object up."
+      }
+    },
+    {
+      "id": "phy4_q216",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आर्किमिडीज सिद्धांत के अनुसार उत्प्लावक बल किसके बराबर होता है?",
+        "en": "According to Archimedes' principle, the buoyant force equals —"
+      },
+      "options": {
+        "hi": [
+          "वस्तु का संपूर्ण भार",
+          "वस्तु का द्रव्यमान",
+          "द्रव का संपूर्ण भार",
+          "विस्थापित द्रव का भार"
+        ],
+        "en": [
+          "The object's total weight",
+          "The object's mass",
+          "The entire fluid's weight",
+          "The weight of the displaced fluid"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जितना द्रव वस्तु ने हटाया, उतने भार का बल ऊपर।",
+        "en": "The weight of the fluid pushed aside comes back as the upward force."
+      }
+    },
+    {
+      "id": "phy4_q217",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पानी में डूबी वस्तु हल्की क्यों लगती है?",
+        "en": "Why does an immersed object feel lighter?"
+      },
+      "options": {
+        "hi": [
+          "उत्प्लावक बल भार का कुछ भाग वहन कर लेता है",
+          "वस्तु का द्रव्यमान घटता है",
+          "पानी में g कम हो जाता है",
+          "वस्तु छोटी दिखती है"
+        ],
+        "en": [
+          "The buoyant force bears part of the weight",
+          "The object's mass decreases",
+          "g becomes less in water",
+          "The object looks smaller"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अनुभूत भार = वास्तविक भार − उत्प्लावक बल।",
+        "en": "Felt weight = true weight − buoyant force."
+      }
+    },
+    {
+      "id": "phy4_q218",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कोई वस्तु पानी पर तैरती है यदि उसका घनत्व —",
+        "en": "An object floats on water if its density is —"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "पानी से कम",
+          "पानी से अधिक",
+          "पानी के बराबर"
+        ],
+        "en": [
+          "Zero",
+          "Less than water's",
+          "Greater than water's",
+          "Equal to water's"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कम घनत्व → समान भार में अधिक आयतन → पर्याप्त विस्थापन → तैरना।",
+        "en": "Lower density → more volume for the same weight → enough displacement to float."
+      }
+    },
+    {
+      "id": "phy4_q219",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लोहे की छड़ पानी में डूब जाती है क्योंकि —",
+        "en": "An iron rod sinks in water because —"
+      },
+      "options": {
+        "hi": [
+          "लोहा ठंडा होता है",
+          "पानी उसे नहीं पहचानता",
+          "लोहे का घनत्व पानी से बहुत अधिक है",
+          "लोहा चिकना होता है"
+        ],
+        "en": [
+          "Iron is cold",
+          "Water does not recognise it",
+          "Iron's density is far greater than water's",
+          "Iron is smooth"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घनत्व अधिक → पूरा डूबने पर भी उत्प्लावक बल भार से कम।",
+        "en": "Higher density → even fully immersed, buoyancy stays below the weight."
+      }
+    },
+    {
+      "id": "phy4_q220",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लोहे का बना जहाज तैरता है — कारण —",
+        "en": "A ship made of iron floats — because —"
+      },
+      "options": {
+        "hi": [
+          "लोहा पानी से डरता है",
+          "जहाज तेज़ चलता है",
+          "पानी जहाज को उठाता नहीं",
+          "इसका औसत घनत्व (खोखलेपन से) पानी से कम हो जाता है"
+        ],
+        "en": [
+          "Iron fears water",
+          "The ship moves fast",
+          "Water does not lift it",
+          "Its average density (due to hollowness) becomes less than water's"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खोखले भाग हवा से भरे → कुल घनत्व घटता है → तैराव।",
+        "en": "The hollow air-filled parts lower the overall density → flotation."
+      }
+    },
+    {
+      "id": "phy4_q221",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्लवन के नियम के अनुसार तैरती वस्तु पर उत्प्लावक बल —",
+        "en": "By the law of flotation, the buoyant force on a floating object —"
+      },
+      "options": {
+        "hi": [
+          "वस्तु के भार के बराबर होता है",
+          "वस्तु के भार से कम होता है",
+          "वस्तु के भार से अधिक होता है",
+          "शून्य होता है"
+        ],
+        "en": [
+          "Equals the object's weight",
+          "Is less than the object's weight",
+          "Exceeds the object's weight",
+          "Is zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तैरती अवस्था संतुलन की अवस्था है — ऊपर का बल = नीचे का भार।",
+        "en": "Floating is equilibrium — the upward force equals the weight."
+      }
+    },
+    {
+      "id": "phy4_q222",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पानी पर तैरती वस्तु का भार 50 N है — उस पर उत्प्लावक बल —",
+        "en": "A floating object weighs 50 N — the buoyant force on it is —"
+      },
+      "options": {
+        "hi": [
+          "500 N",
+          "50 N",
+          "शून्य",
+          "25 N"
+        ],
+        "en": [
+          "500 N",
+          "50 N",
+          "Zero",
+          "25 N"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तैरना = संतुलन → उत्प्लावक बल = भार = 50 N।",
+        "en": "Floating = balance → buoyant force = weight = 50 N."
+      }
+    },
+    {
+      "id": "phy4_q223",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हीलियम गुब्बारा हवा में ऊपर क्यों जाता है?",
+        "en": "Why does a helium balloon rise in air?"
+      },
+      "options": {
+        "hi": [
+          "हीलियम पक्षी जैसा है",
+          "हवा नीचे की ओर जाती है",
+          "हीलियम का घनत्व हवा से कम — वायु में उत्प्लावकता ऊपर धकेलती है",
+          "गुब्बारा गरम होता है"
+        ],
+        "en": [
+          "Helium acts like a bird",
+          "Air moves downwards",
+          "Helium is less dense than air — buoyancy in air pushes it up",
+          "The balloon is hot"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गैसों में भी उत्प्लावकता होती है — हल्की गैस ऊपर रहती है।",
+        "en": "Buoyancy works in gases too — the lighter gas stays on top."
+      }
+    },
+    {
+      "id": "phy4_q224",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विस्थापित द्रव का भार 20 N है — उत्प्लावक बल —",
+        "en": "The displaced fluid weighs 20 N — the buoyant force is —"
+      },
+      "options": {
+        "hi": [
+          "10 N",
+          "40 N",
+          "पता नहीं चल सकता",
+          "20 N"
+        ],
+        "en": [
+          "10 N",
+          "40 N",
+          "Cannot be found",
+          "20 N"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आर्किमिडीज: उत्प्लावक बल = विस्थापित द्रव का भार = 20 N।",
+        "en": "Archimedes: buoyant force = weight of displaced fluid = 20 N."
+      }
+    },
+    {
+      "id": "phy4_q225",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नाव में और लोग चढ़ने पर वह पहले से —",
+        "en": "When more people board a boat, it sits —"
+      },
+      "options": {
+        "hi": [
+          "और गहरी धंसती है",
+          "और ऊपर उठती है",
+          "उतनी ही रहती है",
+          "डूब जाती है हमेशा"
+        ],
+        "en": [
+          "Deeper in the water",
+          "Higher in the water",
+          "Just the same",
+          "Always sinks"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भार बढ़ा → उतना ही अधिक द्रव विस्थापन चाहिए → गहराई बढ़ती है।",
+        "en": "More weight → more displaced fluid needed → it rides lower."
+      }
+    },
+    {
+      "id": "phy4_q226",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पनडुब्बा (submarine) डूबती-तैरती कैसे रहती है?",
+        "en": "How does a submarine keep diving and surfacing?"
+      },
+      "options": {
+        "hi": [
+          "हवा फूँककर भारी होती है",
+          "अपने टैंकों में पानी भरकर/निकालकर औसत घनत्व बदलकर",
+          "पंखों से तैरती है",
+          "चुंबक से जुड़ती है"
+        ],
+        "en": [
+          "It gets heavier by blowing air",
+          "By filling/emptying its tanks with water, changing its average density",
+          "It swims with fins",
+          "It clings by magnets"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "टैंक भरे → घनत्व ↑ → डूबती है; खाली → घनत्व ↓ → तैरती है।",
+        "en": "Tanks full → density up → dives; tanks blown → density down → surfaces."
+      }
+    },
+    {
+      "id": "phy4_q227",
+      "topic": "buoyancy-flotation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लकड़ी का टुकड़ा पानी पर तैरता है पर लोहे की छड़ नहीं — अंतर का कारण —",
+        "en": "A piece of wood floats but an iron rod does not — the cause of the difference is —"
+      },
+      "options": {
+        "hi": [
+          "लोहा चिकना होता है",
+          "पानी लकड़ी पसंद करता है",
+          "लकड़ी का घनत्व पानी से कम, लोहे का अधिक",
+          "लकड़ी हल्के रंग की होती है"
+        ],
+        "en": [
+          "Iron is smooth",
+          "Water likes wood",
+          "Wood's density is below water's, iron's is above it",
+          "Wood is light-coloured"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्लवन-डूबन का निर्णय घनत्व-तुलना से होता है।",
+        "en": "Float-or-sink is decided purely by the density comparison."
+      }
+    },
+    {
+      "id": "phy4_q228",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हवा में 50 N वस्तु पानी में 30 N दिखती है — उत्प्लावक बल —",
+        "en": "An object weighs 50 N in air but 30 N in water — the buoyant force is —"
+      },
+      "options": {
+        "hi": [
+          "50 N",
+          "30 N",
+          "80 N",
+          "20 N"
+        ],
+        "en": [
+          "50 N",
+          "30 N",
+          "80 N",
+          "20 N"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उत्प्लावक बल = 50 − 30 = 20 N।",
+        "en": "Buoyant force = 50 − 30 = 20 N."
+      }
+    },
+    {
+      "id": "phy4_q229",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हवा में 100 N, पानी में 80 N — विस्थापित जल का भार —",
+        "en": "100 N in air, 80 N in water — the weight of the displaced water is —"
+      },
+      "options": {
+        "hi": [
+          "20 N",
+          "100 N",
+          "80 N",
+          "180 N"
+        ],
+        "en": [
+          "20 N",
+          "100 N",
+          "80 N",
+          "180 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विस्थापित जल का भार = भार-हानि = 100 − 80 = 20 N।",
+        "en": "Displaced water's weight = loss of weight = 100 − 80 = 20 N."
+      }
+    },
+    {
+      "id": "phy4_q230",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तैरती वस्तु का भार 200 N — विस्थापित द्रव का भार —",
+        "en": "A floating object weighs 200 N — the displaced fluid weighs —"
+      },
+      "options": {
+        "hi": [
+          "इससे कम",
+          "200 N",
+          "100 N",
+          "400 N"
+        ],
+        "en": [
+          "Less than this",
+          "200 N",
+          "100 N",
+          "400 N"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्लवन का नियम: विस्थापित द्रव-भार = वस्तु-भार।",
+        "en": "Law of flotation: displaced fluid's weight = object's weight."
+      }
+    },
+    {
+      "id": "phy4_q231",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भार 500 N व्यक्ति पानी में खड़ा होकर 400 N अनुभव करता है — उत्प्लावक बल —",
+        "en": "A 500 N person standing in water feels 400 N — the buoyant force is —"
+      },
+      "options": {
+        "hi": [
+          "400 N",
+          "900 N",
+          "100 N",
+          "500 N"
+        ],
+        "en": [
+          "400 N",
+          "900 N",
+          "100 N",
+          "500 N"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "500 − 400 = 100 N ऊपर की ओर।",
+        "en": "500 − 400 = 100 N upward."
+      }
+    },
+    {
+      "id": "phy4_q232",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वस्तु का भार 20 N, उत्प्लावक बल 12 N — परिणाम —",
+        "en": "An object's weight is 20 N and the buoyant force 12 N — the result —"
+      },
+      "options": {
+        "hi": [
+          "वस्तु तैरेगी",
+          "वस्तु खुद ऊपर आएगी",
+          "वस्तु गायब होगी",
+          "शुद्ध 8 N नीचे — वस्तु डूबेगी"
+        ],
+        "en": [
+          "It will float",
+          "It will rise by itself",
+          "It will vanish",
+          "A net 8 N downwards — it will sink"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "20 − 12 = 8 N नीचे की ओर — डूबना निश्चित।",
+        "en": "20 − 12 = 8 N downward — it surely sinks."
+      }
+    },
+    {
+      "id": "phy4_q233",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वस्तु का भार 20 N, उत्प्लावक बल 25 N — क्या होगा?",
+        "en": "Weight 20 N, buoyant force 25 N — what happens?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध 5 N ऊपर — वस्तु ऊपर उठेगी/तैरेगी",
+          "वस्तु डूबेगी",
+          "वस्तु स्थिर रहेगी",
+          "वस्तु पिघल जाएगी"
+        ],
+        "en": [
+          "A net 5 N upward — it rises/floats",
+          "It sinks",
+          "It stays put",
+          "It melts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "उत्प्लावक बल > भार → ऊपर की ओर शुद्ध बल।",
+        "en": "Buoyancy exceeding weight → a net upward force."
+      }
+    },
+    {
+      "id": "phy4_q234",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तेल पानी पर क्यों तैरता है?",
+        "en": "Why does oil float on water?"
+      },
+      "options": {
+        "hi": [
+          "तेल गरम होता है",
+          "तेल का घनत्व पानी से कम है",
+          "तेल चिपचिपा होता है",
+          "पानी तेल में घुलता है"
+        ],
+        "en": [
+          "Oil is hot",
+          "Oil's density is less than water's",
+          "Oil is sticky",
+          "Water dissolves in oil"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कम घनत्व वाला द्रव ऊपर रहता है।",
+        "en": "The lower-density liquid stays on top."
+      }
+    },
+    {
+      "id": "phy4_q235",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अंडा सामान्य पानी में डूबता है पर खारे पानी में तैरता है — कारण —",
+        "en": "An egg sinks in plain water but floats in salty water — because —"
+      },
+      "options": {
+        "hi": [
+          "नमक अंडे को हल्का करता है",
+          "खारा पानी गाढ़ा दिखता है",
+          "खारे पानी का घनत्व अधिक → अधिक उत्प्लावक बल",
+          "अंडा नमक पसंद करता है"
+        ],
+        "en": [
+          "Salt makes the egg lighter",
+          "Salty water looks thick",
+          "Salty water is denser → a bigger buoyant force",
+          "The egg likes salt"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घुला नमक जल का घनत्व बढ़ाता है — वही अंडे को ऊपर रखता है।",
+        "en": "Dissolved salt raises water's density — that holds the egg up."
+      }
+    },
+    {
+      "id": "phy4_q236",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मृत सागर में व्यक्ति आसानी से क्यों तैरता है?",
+        "en": "Why does a person float easily in the Dead Sea?"
+      },
+      "options": {
+        "hi": [
+          "वहाँ गहराई कम है",
+          "वहाँ लहरें नहीं हैं",
+          "वहाँ g कम है",
+          "वहाँ का जल अत्यधिक नमकीन (घनत्व अधिक) है — उत्प्लावक बल बड़ा"
+        ],
+        "en": [
+          "It is shallow there",
+          "There are no waves",
+          "g is lower there",
+          "Its water is extremely salty (high density) — a large buoyant force"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उच्च घनत्व का जल शरीर को आसानी से ऊपर रखता है।",
+        "en": "The dense water easily holds the body up."
+      }
+    },
+    {
+      "id": "phy4_q237",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जहाज नदी की तुलना में समुद्र में थोड़ा —",
+        "en": "Compared with a river, a ship at sea sits —"
+      },
+      "options": {
+        "hi": [
+          "कम डूबता है (समुद्री जल का घनत्व अधिक)",
+          "अधिक डूबता है",
+          "समान डूबता है",
+          "पूरा डूब जाता है"
+        ],
+        "en": [
+          "A little higher (sea water is denser)",
+          "A little deeper",
+          "Just the same",
+          "Completely sinks"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "घने जल में कम विस्थापन ही पर्याप्त उत्प्लावक बल देता है।",
+        "en": "In denser water, less displacement supplies enough buoyancy."
+      }
+    },
+    {
+      "id": "phy4_q238",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हाइड्रोमीटर किस राशि की माप के लिए है?",
+        "en": "A hydrometer is used to measure —"
+      },
+      "options": {
+        "hi": [
+          "द्रव का ताप",
+          "द्रव का (आपेक्षिक) घनत्व",
+          "द्रव का भार",
+          "द्रव का दाब"
+        ],
+        "en": [
+          "A liquid's temperature",
+          "A liquid's (relative) density",
+          "A liquid's weight",
+          "A liquid's pressure"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हाइड्रोमीटर प्लवन के सिद्धांत पर घनत्व बताता है।",
+        "en": "A hydrometer reads density using the flotation principle."
+      }
+    },
+    {
+      "id": "phy4_q239",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भरी हुई बाल्टी में तैरती वस्तु डालने पर जल स्तर —",
+        "en": "A floating object is dropped into a brim-full bucket — the water level —"
+      },
+      "options": {
+        "hi": [
+          "समान रहता है",
+          "पहले घटता फिर बढ़ता है",
+          "बढ़ता है (विस्थापन से), जल बाहर गिरता है",
+          "घटता है"
+        ],
+        "en": [
+          "Stays the same",
+          "Falls first then rises",
+          "Rises (displacement) and water spills over",
+          "Falls"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वस्तु अपने भार के बराबर जल हटाती है — स्तर बढ़ता है।",
+        "en": "The object pushes aside water equal to its weight — the level rises."
+      }
+    },
+    {
+      "id": "phy4_q240",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: आर्किमिडीज सिद्धांत पूर्ण या आंशिक रूप से डूबी वस्तुओं पर लागू है। कथन B: उत्प्लावक बल वस्तु के पदार्थ पर नहीं, विस्थापित द्रव पर निर्भर करता है। सही विकल्प —",
+        "en": "Statement A: Archimedes' principle applies to fully or partly immersed objects. Statement B: the buoyant force depends on the displaced fluid, not the object's material. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सिद्धांत डूबे भाग पर विस्थापित द्रव के भार से बल देता है — दोनों सही।",
+        "en": "The principle keys the force to the displaced fluid — both hold."
+      }
+    },
+    {
+      "id": "phy4_q241",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पानी में मुट्ठी भींचना/व्यायाम जमीन पर करने से सरल क्यों लगता है?",
+        "en": "Why does squeezing a fist or exercising feel easier in water than on ground?"
+      },
+      "options": {
+        "hi": [
+          "जल ऊपर का उत्प्लावक बल अनुभूत भार घटाता है",
+          "पानी में मांसपेशियाँ गायब होती हैं",
+          "पानी शरीर को ऊर्जा देता है",
+          "जमीन पर g अधिक है"
+        ],
+        "en": [
+          "The water's upward buoyancy lowers the felt weight",
+          "Muscles vanish in water",
+          "Water gives the body energy",
+          "g is more on the ground"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "उत्प्लावकता जोड़ों का भार हल्का करती है — चिकित्सीय पूल का आधार।",
+        "en": "Buoyancy unloads the joints — the basis of therapy pools."
+      }
+    },
+    {
+      "id": "phy4_q242",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चादर की गेंद बनाकर डूबाने पर वह डूब जाती है पर उसी चादर की कटोरी पानी पर तैरती है — कारण —",
+        "en": "A metal sheet crumpled into a ball sinks, but the same sheet shaped as a bowl floats — because —"
+      },
+      "options": {
+        "hi": [
+          "पानी गेंद को नापसंद करता है",
+          "कटोरी के आकार में औसत घनत्व घट जाता है (खोखलापन + हवा)",
+          "गेंद भारी हो जाती है",
+          "कटोरी में चुंबकत्व आ जाता है"
+        ],
+        "en": [
+          "Water dislikes the ball",
+          "The bowl shape lowers the average density (hollowness + air)",
+          "The ball becomes heavier",
+          "The bowl turns magnetic"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आकार बदलकर विस्थापन बढ़ता है — उतना उत्प्लावक बल कि भार को संभाले।",
+        "en": "The shape raises displacement — enough buoyancy to hold the weight."
+      }
+    },
+    {
+      "id": "phy4_q243",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "डूबती वस्तु का 'पानी में भार' सदा हवा के भार से —",
+        "en": "The 'weight in water' of a sinking object is always — than its weight in air —"
+      },
+      "options": {
+        "hi": [
+          "बराबर",
+          "दोगुना",
+          "कम (उत्प्लावक बल घटाता है)",
+          "अधिक"
+        ],
+        "en": [
+          "Equal",
+          "Double",
+          "Less (the buoyant force subtracts)",
+          "More"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अनुभूत भार = भार − उत्प्लावक बल, जो वास्तविक भार से कम होता है।",
+        "en": "Felt weight = weight − buoyancy, which is less than the true weight."
+      }
+    },
+    {
+      "id": "phy4_q244",
+      "topic": "buoyancy-flotation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मछली अपने तैरने की सतह (depth) कैसे बदलती है?",
+        "en": "How does a fish change its depth in water?"
+      },
+      "options": {
+        "hi": [
+          "पूँछ से जमीन खोदती है",
+          "हवा में उड़ती है",
+          "पत्थर निगलती है",
+          "वायु-कोथ (swim bladder) फुलाकर/सिकोड़कर अपना औसत घनत्व बदलती है"
+        ],
+        "en": [
+          "It digs the bed with its tail",
+          "It flies into the air",
+          "It swallows stones",
+          "By inflating/deflating its swim bladder, changing its average density"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कोथ भरा → घनत्व ↓ → ऊपर; खाली → घनत्व ↑ → नीचे।",
+        "en": "Bladder full → density down → up; empty → density up → down."
+      }
+    },
+    {
+      "id": "phy4_q245",
+      "topic": "buoyancy-flotation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "हवा में 49 N वस्तु पानी में 39.2 N — विस्थापित जल का द्रव्यमान (g = 9.8) —",
+        "en": "49 N in air, 39.2 N in water — the mass of the displaced water (g = 9.8) is —"
+      },
+      "options": {
+        "hi": [
+          "1 kg",
+          "5 kg",
+          "0.8 kg",
+          "4 kg"
+        ],
+        "en": [
+          "1 kg",
+          "5 kg",
+          "0.8 kg",
+          "4 kg"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भार-हानि = 49 − 39.2 = 9.8 N → द्रव्यमान = 9.8/9.8 = 1 kg।",
+        "en": "Loss of weight = 49 − 39.2 = 9.8 N → mass = 9.8/9.8 = 1 kg."
+      }
+    },
+    {
+      "id": "phy4_q246",
+      "topic": "buoyancy-flotation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "नाव में बैठा व्यक्ति तालाब में पत्थर डुबो देता है — तालाब का जल स्तर —",
+        "en": "From a boat a person drops a stone into the pond — the pond's water level —"
+      },
+      "options": {
+        "hi": [
+          "पहले बढ़ेगा फिर घटेगा",
+          "थोड़ा घट जाएगा",
+          "थोड़ा बढ़ जाएगा",
+          "अपरिवर्तित रहेगा"
+        ],
+        "en": [
+          "Rises then falls",
+          "Falls slightly",
+          "Rises slightly",
+          "Stays unchanged"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "नाव में पत्थर अपना भार विस्थापित करता था; डूबने पर केवल अपना आयतन — विस्थापन घटता है → स्तर घटता है।",
+        "en": "In the boat it displaced its weight; sunken it displaces only its volume — less displacement → level falls."
+      }
+    },
+    {
+      "id": "phy4_q247",
+      "topic": "buoyancy-flotation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "घनत्व 0.8 g/cm³, 1.2 g/cm³, 2.5 g/cm³ और 3.0 g/cm³ की वस्तुओं में पानी (1.0 g/cm³) पर तैरेगी —",
+        "en": "Among objects of density 0.8, 1.2, 2.5 and 3.0 g/cm³, the one that floats on water (1.0 g/cm³) is —"
+      },
+      "options": {
+        "hi": [
+          "2.5 g/cm³ वाली",
+          "3.0 g/cm³ वाली",
+          "0.8 g/cm³ वाली",
+          "1.2 g/cm³ वाली"
+        ],
+        "en": [
+          "The 2.5 g/cm³ one",
+          "The 3.0 g/cm³ one",
+          "The 0.8 g/cm³ one",
+          "The 1.2 g/cm³ one"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "केवल 0.8, 1.0 से कम — बाकी सभी पानी से सघन → डूबेंगी।",
+        "en": "Only 0.8 lies below 1.0 — the rest are denser than water and sink."
+      }
+    },
+    {
+      "id": "phy4_q248",
+      "topic": "buoyancy-flotation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: जहाज का बनाने वाला लोहा पानी में अकेले डूबता है। कथन B: उसी लोहे का जहाज तैरता है। सही विकल्प —",
+        "en": "Statement A: the iron that makes a ship sinks in water alone. Statement B: a ship of that same iron floats. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A सही, B गलत",
+          "A गलत, B सही",
+          "दोनों गलत",
+          "A और B दोनों सही (आकार से औसत घनत्व बदलता है)"
+        ],
+        "en": [
+          "A right, B wrong",
+          "A wrong, B right",
+          "Both are wrong",
+          "Both A and B are right (shape changes the average density)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लोहे का घनत्व जल से अधिक, पर जहाज का औसत घनत्व (खोखलापन) जल से कम।",
+        "en": "Iron is denser than water, but the ship's average density (hollowness) is lower."
+      }
+    },
+    {
+      "id": "phy4_q249",
+      "topic": "buoyancy-flotation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक तैरती वस्तु का द्रव में डूबा भाग —",
+        "en": "The immersed fraction of a floating object —"
+      },
+      "options": {
+        "hi": [
+          "विस्थापित द्रव का भार = वस्तु के कुल भार, इतना होता है कि संतुलन बने",
+          "सदा आधा होता है",
+          "सदा पूरा होता है",
+          "सदा एक तिहाई होता है"
+        ],
+        "en": [
+          "Is just enough that the displaced fluid's weight equals the object's whole weight",
+          "Is always half",
+          "Is always full",
+          "Is always one-third"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "डूबा भाग तब तक बढ़ता है जब तक उत्प्लावक बल = भार।",
+        "en": "The immersed part grows until buoyancy equals the weight."
+      }
+    },
+    {
+      "id": "phy4_q250",
+      "topic": "buoyancy-flotation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही वस्तु को पानी में छोड़ा गया — पहले केवल 1/3 डूबी रहती है; द्रव बदलकर घनत्व आधा कर दिया जाए तो वस्तु —",
+        "en": "The same object floats with 1/3 immersed in water; if the liquid's density is halved, the object will —"
+      },
+      "options": {
+        "hi": [
+          "उतनी ही रहेगी",
+          "2/3 डूबेगी (विस्थापन दोगुना)",
+          "1/6 डूबेगी",
+          "पूरी डूब जाएगी निश्चित रूप से"
+        ],
+        "en": [
+          "Stay as before",
+          "Sit 2/3 immersed (double the displacement)",
+          "Sit 1/6 immersed",
+          "Certainly sink fully"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "संतुलन: ρल × डूबा-आयतन = वस्तु-घनत्व × कुल आयतन; द्रव-घनत्व आधा → डूबा भाग दोगुना।",
+        "en": "Balance: ρ_liq × immersed volume = object's ρV; halving the liquid's density doubles the immersed fraction."
+      }
+    }
+  ]
+}

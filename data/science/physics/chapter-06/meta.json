@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-06",
+  "chapterNumber": 6,
+  "code": "P06",
+  "chapterName": {
+    "hi": "ऊष्मा एवं ताप",
+    "en": "Heat & Temperature"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "ऊष्मा ऊर्जा का रूप है जो गर्म पिंड से ठंडे पिंड की ओर प्रवाहित होती है, जबकि ताप वस्तु की गर्मी की डिग्री बताता है। ऊष्मा चालन, संवहन और विकिरण तीन विधियों से संचरित होती है। अवस्था परिवर्तन में ताप स्थिर रहता है और गुप्त ऊष्मा अवशोषित होती है।",
+      "example": "बर्फ पिघलते समय तापमान 0°C पर स्थिर रहता है — यह गुप्त ऊष्मा का प्रभाव है।",
+      "sections": [
+        {
+          "heading": "ताप एवं ऊष्मा",
+          "content": "ताप को थर्मामीटर से मापा जाता है; ऊष्मा का मात्रक जूल या कैलोरी है और यह कुल ऊर्जा है।"
+        },
+        {
+          "heading": "ऊष्मा संचरण",
+          "content": "चालन में कण अपने स्थान पर रहकर ऊष्मा देते हैं (धातुएँ), संवहन में कण स्वयं चलते हैं (द्रव-गैस) और विकिरण में बिना माध्यम ऊष्मा मिलती है (सूर्य की गर्मी)।"
+        },
+        {
+          "heading": "अवस्था परिवर्तन एवं गुप्त ऊष्मा",
+          "content": "पिघलने और क्वथन बिंदु पर ताप स्थिर रहता है; बर्फ का पिघलने का गुप्त ऊष्मा 80 cal/g और जल का क्वथन का 540 cal/g होता है।"
+        },
+        {
+          "heading": "दैनिक जीवन में ऊष्मा",
+          "content": "समुद्री-स्थलीय समीरण, ठंडे पदार्थ का गर्म पानी से उबलना, गर्म वस्त्र पहनना आदि ऊष्मा संचरण के उदाहरण हैं।"
+        }
+      ],
+      "keyPoints": [
+        "ऊष्मा ऊर्जा है, ताप उसकी तीव्रता का माप है",
+        "ताप का SI मात्रक केल्विन; सामान्य पैमाना डिग्री सेल्सियस",
+        "संचरण की तीन विधियाँ — चालन, संवहन, विकिरण",
+        "विकिरण को कोई माध्यम नहीं चाहिए",
+        "अवस्था परिवर्तन के समय ताप स्थिर रहता है",
+        "धातुएँ ऊष्मा की सुचालक और लकड़ी-प्लास्टिक कुचालक हैं"
+      ],
+      "examFocus": [
+        "चालन-संवहन-विकिरण के दो-दो उदाहरण याद रखें",
+        "समुद्री-स्थलीय समीरण की दिशा (दिन/रात) समझें",
+        "गुप्त ऊष्मा की अवधारणा स्पष्ट करें"
+      ],
+      "examTraps": [
+        "गर्म पिंड में 'अधिक ऊष्मा' और 'अधिक ताप' को एक न मानें — द्रव्यमान भी मायने रखता है",
+        "सभी विधियों को माध्यम नहीं चाहिए ऐसा नहीं — केवल विकिरण को"
+      ],
+      "thinkBeforeAnswer": [
+        "ऊष्मा प्रवाह की दिशा पूछी जाए तो गर्म से ठंडे की ओर उत्तर दें",
+        "ताप स्थिर क्यों — प्रश्न पर गुप्त ऊष्मा याद करें"
+      ],
+      "memoryTricks": [
+        "'C-C-R' — Conduction, Convection, Radiation क्रम से दोहराएँ",
+        "बर्फ-80, जल-540 — गुप्त ऊष्मा के आंकिक मान जोड़कर याद करें"
+      ],
+      "pyqSignals": [
+        "चालन-संवहन-विकिरण अंतर परीक्षा में बार-बार पूछा जाता है",
+        "गुप्त ऊष्मा पर सीधे प्रश्न आते हैं"
+      ],
+      "mustRemember": [
+        "ताप और ऊष्मा में अंतर",
+        "संचरण की तीन विधियाँ और उदाहरण",
+        "अवस्था परिवर्तन में ताप का स्थिर रहना",
+        "सुचालक और कुचालक पदार्थ"
+      ],
+      "quickRevision": "ऊष्मा गर्म से ठंडे पिंड की ओर बहने वाली ऊर्जा है और ताप गर्मी की डिग्री है। ऊष्मा चालन, संवहन और विकिरण से संचरित होती है। पिघलने-क्वथन बिंदु पर ताप स्थिर रहता है क्योंकि गुप्त ऊष्मा अवशोषित होती है। धातुएँ सुचालक और अधातुएँ कुचालक होती हैं।"
+    },
+    "en": {
+      "concept": "Heat is a form of energy that flows from a hot body to a cold one, while temperature tells the degree of hotness. Heat is transferred by conduction, convection and radiation. During change of state the temperature stays constant as latent heat is absorbed.",
+      "example": "While ice melts, the temperature stays at 0°C — the effect of latent heat.",
+      "sections": [
+        {
+          "heading": "Temperature and Heat",
+          "content": "Temperature is measured by a thermometer; heat is total energy with unit joule or calorie."
+        },
+        {
+          "heading": "Transfer of Heat",
+          "content": "In conduction particles pass heat without moving (metals), in convection particles themselves move (liquids-gases), and radiation needs no medium (sunlight)."
+        },
+        {
+          "heading": "Change of State and Latent Heat",
+          "content": "At melting and boiling points temperature remains constant; latent heat of ice is 80 cal/g and of boiling water 540 cal/g."
+        },
+        {
+          "heading": "Heat in Daily Life",
+          "content": "Sea-land breezes, cold things warming in hot water, and wearing warm clothes are examples of heat transfer."
+        }
+      ],
+      "keyPoints": [
+        "Heat is energy; temperature is the measure of its intensity",
+        "The SI unit of temperature is kelvin; the common scale is degree Celsius",
+        "Three modes of transfer — conduction, convection, radiation",
+        "Radiation needs no medium",
+        "Temperature stays constant during change of state",
+        "Metals are good conductors; wood-plastic are insulators"
+      ],
+      "examFocus": [
+        "Remember two examples each of conduction-convection-radiation",
+        "Understand the direction of sea-land breezes (day/night)",
+        "Clarify the concept of latent heat"
+      ],
+      "examTraps": [
+        "Do not equate 'more heat' with 'more temperature' — mass also matters",
+        "Not all modes need a medium — only radiation does not"
+      ],
+      "thinkBeforeAnswer": [
+        "For heat-flow direction, answer: hot to cold",
+        "For 'why constant temperature', recall latent heat"
+      ],
+      "memoryTricks": [
+        "Repeat 'C-C-R' — Conduction, Convection, Radiation",
+        "Ice-80, water-540 — remember latent heat values in pairs"
+      ],
+      "pyqSignals": [
+        "The conduction-convection-radiation difference is asked repeatedly",
+        "Direct questions on latent heat appear often"
+      ],
+      "mustRemember": [
+        "Difference between heat and temperature",
+        "Three modes of transfer with examples",
+        "Constant temperature during change of state",
+        "Conductors and insulators"
+      ],
+      "quickRevision": "Heat flows from hot to cold bodies and temperature measures hotness. Heat transfers by conduction, convection and radiation. At melting-boiling points temperature stays constant because latent heat is absorbed. Metals conduct well while non-metals insulate."
+    }
+  }
+}

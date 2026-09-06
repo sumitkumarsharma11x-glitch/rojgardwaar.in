@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "ch4_q401",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्पंज जैसे जीव, जिनके शरीर में अनेक छिद्र (pores) होते हैं, किस संघ के अंतर्गत आते हैं?",
+        "en": "Sponge-like animals, whose bodies bear many pores, fall under which phylum?"
+      },
+      "options": {
+        "hi": [
+          "पोरिफेरा",
+          "सीलेंटरेटा",
+          "एनीलिडा",
+          "मोलस्का"
+        ],
+        "en": [
+          "Porifera",
+          "Coelenterata",
+          "Annelida",
+          "Mollusca"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पोरिफेरा का अर्थ ही 'छिद्र धारक' है; इन छिद्रों से जल शरीर में प्रवाहित होता है और भोजन पकड़ा जाता है।",
+        "en": "Porifera literally means 'pore-bearers'; water flows through these pores and food is captured."
+      }
+    },
+    {
+      "id": "ch4_q402",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हाइड्रा (Hydra) किस संघ का उदाहरण है?",
+        "en": "Hydra is an example of which phylum?"
+      },
+      "options": {
+        "hi": [
+          "प्लेटीहेल्मिन्थीज",
+          "सीलेंटरेटा",
+          "निमेटोडा",
+          "इकाइनोडर्मेटा"
+        ],
+        "en": [
+          "Platyhelminthes",
+          "Coelenterata",
+          "Nematoda",
+          "Echinodermata"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हाइड्रा की देह में खोखला गुहा और वेष्टनी (tentacles) होती हैं — यही सीलेंटरेटा की पहचान है।",
+        "en": "Hydra has a hollow gut and tentacles — the defining features of Coelenterata."
+      }
+    },
+    {
+      "id": "ch4_q403",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फीताकृमि (tapeworm) और यकृत-फ्लूक किस संघ के परजीवी हैं?",
+        "en": "Tapeworm and liver fluke are parasites of which phylum?"
+      },
+      "options": {
+        "hi": [
+          "आर्थ्रोपोडा",
+          "मोलस्का",
+          "प्लेटीहेल्मिन्थीज (फैटवर्म)",
+          "एनीलिडा"
+        ],
+        "en": [
+          "Arthropoda",
+          "Mollusca",
+          "Platyhelminthes (flatworms)",
+          "Annelida"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इनकी देह चपटी, पत्ते के समान होती है; इसीलिए इन्हें फैटवर्म यानी प्लेटीहेल्मिन्थीज कहा जाता है।",
+        "en": "Their bodies are flat and leaf-like; hence they are called flatworms, i.e. Platyhelminthes."
+      }
+    },
+    {
+      "id": "ch4_q404",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गोलकृमि (roundworm) जैसे आस्केरिस के शरीर की बनावट कैसी होती है?",
+        "en": "What is the body shape of roundworms like Ascaris?"
+      },
+      "options": {
+        "hi": [
+          "खंडों में विभाजित",
+          "काँटेदार और तारे जैसी",
+          "चपटी और फीते जैसी",
+          "बेलनाकार (cylindrical) और नली जैसी"
+        ],
+        "en": [
+          "Divided into segments",
+          "Spiny and star-like",
+          "Flat and ribbon-like",
+          "Cylindrical and tube-like"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "निमेटोडा के जीव लंबी गोल नली के समान होते हैं, इसीलिए इन्हें गोलकृमि कहा जाता है।",
+        "en": "Nematodes are elongated like a round tube, which is why they are called roundworms."
+      }
+    },
+    {
+      "id": "ch4_q405",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "केंचुआ और जोंक किस संघ के उदाहरण हैं?",
+        "en": "Earthworm and leech are examples of which phylum?"
+      },
+      "options": {
+        "hi": [
+          "एनीलिडा",
+          "आर्थ्रोपोडा",
+          "मोलस्का",
+          "पोरिफेरा"
+        ],
+        "en": [
+          "Annelida",
+          "Arthropoda",
+          "Mollusca",
+          "Porifera"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "इन दोनों की देह लगभग समान वलयों (खंडों) में बँटी होती है — यह एनीलिडा की मुख्य पहचान है।",
+        "en": "Both bodies are divided into similar ring-like segments — the chief hallmark of Annelida."
+      }
+    },
+    {
+      "id": "ch4_q406",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एनीलिडा संघ के जीवों की सबसे बड़ी पहचान क्या मानी जाती है?",
+        "en": "What is considered the biggest identifying feature of annelids?"
+      },
+      "options": {
+        "hi": [
+          "देह का बाहरी काइटिन कवच",
+          "देह का समान खंडों (metameres) में विभाजित होना",
+          "नंगी और गीली त्वचा",
+          "कवच के भीतर बंद देह"
+        ],
+        "en": [
+          "An outer chitinous covering",
+          "Division of the body into similar segments (metameres)",
+          "Naked moist skin",
+          "A shell-enclosed body"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "'एनीलिडा' नाम वलय/खंड से बना है — केंचुए की देह एक-से-एक दिखने वाले खंडों की माला जैसी होती है।",
+        "en": "The name Annelida comes from 'little rings' — an earthworm's body is a chain of look-alike segments."
+      }
+    },
+    {
+      "id": "ch4_q407",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पृथ्वी पर जीवों का सबसे बड़ा संघ (सर्वाधिक प्रजातियाँ वाला) कौन-सा है?",
+        "en": "Which is the largest phylum of organisms on Earth (with the most species)?"
+      },
+      "options": {
+        "hi": [
+          "इकाइनोडर्मेटा",
+          "मोलस्का",
+          "आर्थ्रोपोडा",
+          "कॉर्डेटा"
+        ],
+        "en": [
+          "Echinodermata",
+          "Mollusca",
+          "Arthropoda",
+          "Chordata"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कीट, मकड़ी, केकड़ा, झींगुरा — आर्थ्रोपोडा में प्रजातियों की संख्या सबसे अधिक है; वर्णित प्रजातियों में बहुमत इसी का है।",
+        "en": "Insects, spiders, crabs, centipedes — Arthropoda has the most species; the majority of all described species belong to it."
+      }
+    },
+    {
+      "id": "ch4_q408",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आर्थ्रोपोडा संघ के जीवों की पहचान उनकी किन संरचनाओं से होती है?",
+        "en": "By which structures are arthropods identified?"
+      },
+      "options": {
+        "hi": [
+          "वेष्टनी",
+          "छिद्र",
+          "पंख",
+          "जुड़े हुए टाँगें (jointed appendages)"
+        ],
+        "en": [
+          "Tentacles",
+          "Pores",
+          "Wings",
+          "Jointed appendages (legs)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "'आर्थ्रोपोडा' का अर्थ है 'जुड़े पाँव' — टाँगों के जोड़ इस संघ की सबसे पक्की पहचान है।",
+        "en": "'Arthropoda' means 'jointed feet' — joints in the legs are the firmest identification of this phylum."
+      }
+    },
+    {
+      "id": "ch4_q409",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कीटों (insects) के पैरों के कितने जोड़े होते हैं?",
+        "en": "How many pairs of legs do insects have?"
+      },
+      "options": {
+        "hi": [
+          "तीन",
+          "चार",
+          "पाँच",
+          "दो"
+        ],
+        "en": [
+          "Three",
+          "Four",
+          "Five",
+          "Two"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कीटों के तीन जोड़े यानी छह टाँगें होती हैं; मकड़ी के चार जोड़े और झींगुरे के अनेक जोड़े होते हैं।",
+        "en": "Insects have three pairs, i.e. six legs; spiders have four pairs and centipedes many pairs."
+      }
+    },
+    {
+      "id": "ch4_q410",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "झींगा (prawn) और केकड़ा आर्थ्रोपोडा के किस वर्ग के सदस्य हैं?",
+        "en": "Prawn and crab belong to which class of Arthropoda?"
+      },
+      "options": {
+        "hi": [
+          "अरैक्निडा",
+          "क्रस्टेशिया",
+          "मायरियापोडा",
+          "इन्सेक्टा"
+        ],
+        "en": [
+          "Arachnida",
+          "Crustacea",
+          "Myriapoda",
+          "Insecta"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जलीय, कवचयुक्त आर्थ्रोपोड जिनके शरीर के खंडों पर अनेक टाँगें होती हैं, क्रस्टेशिया वर्ग में रखे जाते हैं।",
+        "en": "Aquatic, armoured arthropods with several legs on their body segments are placed in the class Crustacea."
+      }
+    },
+    {
+      "id": "ch4_q411",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बिच्छू और मकड़ी के पैरों के जोड़े कितने होते हैं?",
+        "en": "How many pairs of legs do scorpion and spider have?"
+      },
+      "options": {
+        "hi": [
+          "अनेक",
+          "तीन",
+          "चार",
+          "पाँच"
+        ],
+        "en": [
+          "Many",
+          "Three",
+          "Four",
+          "Five"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अरैक्निडा वर्ग के सदस्यों (बिच्छू, मकड़ी) के चार जोड़े टाँगें होती हैं — कीटों के तीन से भिन्न।",
+        "en": "Members of the class Arachnida (scorpion, spider) have four pairs of legs — unlike the three pairs of insects."
+      }
+    },
+    {
+      "id": "ch4_q412",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घोंघा और ऑक्टोपस किस संघ के जीव हैं?",
+        "en": "Snail and octopus belong to which phylum?"
+      },
+      "options": {
+        "hi": [
+          "इकाइनोडर्मेटा",
+          "एनीलिडा",
+          "निमेटोडा",
+          "मोलस्का"
+        ],
+        "en": [
+          "Echinodermata",
+          "Annelida",
+          "Nematoda",
+          "Mollusca"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मोलस्का का अर्थ है 'नरम देह' — घोंघे की नरम देह कवच में और ऑक्टोपस की देह बाह्य कवच के बिना होती है।",
+        "en": "Mollusca means 'soft body' — the snail's soft body sits in a shell while the octopus lacks an external shell."
+      }
+    },
+    {
+      "id": "ch4_q413",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोलस्का के अधिकांश जीवों की देह किससे ढकी रहती है?",
+        "en": "The body of most molluscs remains covered by what?"
+      },
+      "options": {
+        "hi": [
+          "चूने का कवच (shell) से",
+          "रोएँदार त्वचा से",
+          "शल्कों से",
+          "काइटिन के कवच से"
+        ],
+        "en": [
+          "A calcareous shell",
+          "Hairy skin",
+          "Scales",
+          "A chitinous coat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "घोंघे-क्लैम जैसे मोलस्क की नरम देह के ऊपर प्रायः चूने का बना कठोर कवच रहता है।",
+        "en": "In molluscs like snails and clams, a hard shell of lime usually covers the soft body."
+      }
+    },
+    {
+      "id": "ch4_q414",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्टारफिश (तारा मछली) किस संघ का जीव है?",
+        "en": "Starfish belongs to which phylum?"
+      },
+      "options": {
+        "hi": [
+          "सीलेंटरेटा",
+          "इकाइनोडर्मेटा",
+          "पिसेस",
+          "मोलस्का"
+        ],
+        "en": [
+          "Coelenterata",
+          "Echinodermata",
+          "Pisces",
+          "Mollusca"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "इकाइनोडर्मेटा का अर्थ है 'काँटेदार त्वचा'; स्टारफिश की त्वचा पर कैल्शियम के काँटे होते हैं और देह तारे जैसी होती है।",
+        "en": "Echinodermata means 'spiny skin'; a starfish has calcium spines on its skin and a star-shaped body."
+      }
+    },
+    {
+      "id": "ch4_q415",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "इकाइनोडर्मेटा संघ के जीव केवल कहाँ पाए जाते हैं?",
+        "en": "Where are echinoderms exclusively found?"
+      },
+      "options": {
+        "hi": [
+          "घने वनों में",
+          "मीठे जल में",
+          "समुद्र में",
+          "रेगिस्तान में"
+        ],
+        "en": [
+          "In dense forests",
+          "In fresh water",
+          "In the sea",
+          "In deserts"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्टारफिश, समुद्री अर्चिन जैसे इकाइनोडर्म सब समुद्री जीव हैं; इनके जीवन का संपूर्ण चक्र खारे जल में ही चलता है।",
+        "en": "Starfish, sea urchins and other echinoderms are all marine; their entire life cycle runs in salt water."
+      }
+    },
+    {
+      "id": "ch4_q416",
+      "topic": "animal-diversity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कॉर्डेटा संघ के सभी जीवों में जीवन के किसी न किसी अवस्था में कौन-सी संरचना अवश्य पाई जाती है?",
+        "en": "Which structure is found at some stage of life in all chordates?"
+      },
+      "options": {
+        "hi": [
+          "कवच",
+          "वेष्टनी",
+          "रीढ़ की हड्डी",
+          "नोटोकॉर्ड (दृढ़ रज्जु)"
+        ],
+        "en": [
+          "Shell",
+          "Tentacles",
+          "Vertebral column",
+          "Notochord"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कॉर्डेटा की पहचान नोटोकॉर्ड है — तंत्रिका रज्जु के नीचे पाई जाने वाली दृढ़ छड़; कशेरुकियों में यही रीढ़ की हड्डी बन जाती है।",
+        "en": "Chordates are defined by the notochord — a stiff rod below the nerve cord; in vertebrates it develops into the vertebral column."
+      }
+    },
+    {
+      "id": "ch4_q417",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मछलियाँ जल में घुली किस गैस का श्वसन करती हैं?",
+        "en": "Fish respire using which gas dissolved in water?"
+      },
+      "options": {
+        "hi": [
+          "घुली ऑक्सीजन",
+          "नाइट्रोजन",
+          "जलवाष्प",
+          "कार्बन डाइऑक्साइड"
+        ],
+        "en": [
+          "Dissolved oxygen",
+          "Nitrogen",
+          "Water vapour",
+          "Carbon dioxide"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मछलियों के गलफड़े (gills) जल में घुली ऑक्सीजन लेते और कार्बन डाइऑक्साइड छोड़ते हैं।",
+        "en": "The gills of fish take in oxygen dissolved in water and release carbon dioxide."
+      }
+    },
+    {
+      "id": "ch4_q418",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पिसेस (मछलियों) के हृदय के कक्ष कितने होते हैं?",
+        "en": "How many chambers does the heart of Pisces (fishes) have?"
+      },
+      "options": {
+        "hi": [
+          "चार",
+          "दो",
+          "तीन",
+          "तीन और एक आधा"
+        ],
+        "en": [
+          "Four",
+          "Two",
+          "Three",
+          "Three and a half"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मछलियों का हृदय दो कक्षीय होता है — एक अलिंद और एक निलय; रुधिर शीतल रहता है।",
+        "en": "A fish's heart is two-chambered — one auricle and one ventricle; the blood stays cold."
+      }
+    },
+    {
+      "id": "ch4_q419",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उभयचरों की त्वचा कैसी होती है?",
+        "en": "What kind of skin do amphibians have?"
+      },
+      "options": {
+        "hi": [
+          "मोटी और सींगदार प्लेटों वाली",
+          "सूखी और शल्की",
+          "नम और बिना शल्कों की",
+          "रोएँदार"
+        ],
+        "en": [
+          "Thick with horny plates",
+          "Dry and scaly",
+          "Moist and without scales",
+          "Hairy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मेंढक-टोड की त्वचा नम और चिकनी होती है; शल्क नहीं होते — यही सरीसृपों से अंतर है जिनकी त्वचा शुष्क-शल्की होती है।",
+        "en": "Frog and toad skin is moist and smooth, without scales — unlike reptiles whose skin is dry and scaly."
+      }
+    },
+    {
+      "id": "ch4_q420",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साँप, छिपकली और कछुआ किस वर्ग के जीव हैं?",
+        "en": "Snake, lizard and turtle belong to which class?"
+      },
+      "options": {
+        "hi": [
+          "एवीज़",
+          "पिसेस",
+          "एम्फीबिया",
+          "रेप्टिलिया"
+        ],
+        "en": [
+          "Aves",
+          "Pisces",
+          "Amphibia",
+          "Reptilia"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शुष्क शल्की त्वचा और स्थल पर चर्मसार अंडे देने वाले ये जीव सरीसृप (रेप्टिलिया) वर्ग के हैं।",
+        "en": "With dry scaly skin and leathery eggs laid on land, these are reptiles (class Reptilia)."
+      }
+    },
+    {
+      "id": "ch4_q421",
+      "topic": "animal-diversity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निम्न में से कौन-सा सरीसृप अपवाद स्वरूप चार-कक्षीय हृदय रखता है?",
+        "en": "Which reptile, as an exception, has a four-chambered heart?"
+      },
+      "options": {
+        "hi": [
+          "मगरमच्छ",
+          "कछुआ",
+          "साँप",
+          "छिपकली"
+        ],
+        "en": [
+          "Crocodile",
+          "Turtle",
+          "Snake",
+          "Lizard"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सरीसृपों का हृदय प्रायः तीन-कक्षीय होता है, पर मगरमच्छ का हृदय चार कक्षों वाला है — यही इस वर्ग का प्रसिद्ध अपवाद है।",
+        "en": "Reptile hearts are generally three-chambered, but the crocodile's heart has four chambers — the famous exception of this class."
+      }
+    },
+    {
+      "id": "ch4_q422",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जलपक्षियों जैसे बतख के पैरों में झिल्ली (webbed feet) किस कारण उपयोगी है?",
+        "en": "Why are webbed feet useful in water birds like ducks?"
+      },
+      "options": {
+        "hi": [
+          "पेड़ों पर पकड़ के लिए",
+          "जल में तैरते समय खेने (paddling) में सहायता के लिए",
+          "शिकार पकड़ने के लिए",
+          "उड़ान के लिए"
+        ],
+        "en": [
+          "For gripping branches",
+          "For paddling while swimming in water",
+          "For catching prey",
+          "For flight"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "उंगलियों के बीच की झिल्ली चपटी तथा चौड़ी सतह बनाती है जिससे बतख पानी को धकेलकर आसानी से तैरती है।",
+        "en": "The membrane between the toes forms a broad paddle surface, letting the duck push water and swim easily."
+      }
+    },
+    {
+      "id": "ch4_q423",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पक्षियों के हृदय के कक्ष कितने होते हैं?",
+        "en": "How many chambers does a bird's heart have?"
+      },
+      "options": {
+        "hi": [
+          "दो",
+          "तीन",
+          "चार",
+          "एक"
+        ],
+        "en": [
+          "Two",
+          "Three",
+          "Four",
+          "One"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पक्षी और स्तनधारी दोनों का हृदय चार-कक्षीय होता है — शुद्ध और अशुद्ध रुधिर पूर्णतः अलग रहता है।",
+        "en": "Both birds and mammals have four-chambered hearts — oxygenated and deoxygenated blood stay fully separate."
+      }
+    },
+    {
+      "id": "ch4_q424",
+      "topic": "animal-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्तनधारियों (mammals) की सबसे अनूठी पहचान क्या है?",
+        "en": "What is the most unique identification of mammals?"
+      },
+      "options": {
+        "hi": [
+          "शल्क",
+          "गलफड़े",
+          "पंख",
+          "स्तन ग्रंथियाँ (mammary glands)"
+        ],
+        "en": [
+          "Scales",
+          "Gills",
+          "Wings",
+          "Mammary glands"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्तन ग्रंथियाँ जो शावकों को दूध पिलाती हैं, केवल स्तनधारियों में पाई जाती हैं — इसी से इनका नाम पड़ा।",
+        "en": "Mammary glands, which suckle the young with milk, occur only in mammals — the group is named after them."
+      }
+    },
+    {
+      "id": "ch4_q425",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शुद्ध और अशुद्ध रुधिर को पूर्णतः अलग रखने वाला हृदय किन दो वर्गों के जीवों में होता है?",
+        "en": "A heart keeping oxygenated and deoxygenated blood fully separate occurs in the animals of which two classes?"
+      },
+      "options": {
+        "hi": [
+          "एवीज़ और मैमेलिया",
+          "पिसेस और रेप्टिलिया",
+          "पिसेस और एम्फीबिया",
+          "रेप्टिलिया और एम्फीबिया"
+        ],
+        "en": [
+          "Aves and Mammalia",
+          "Pisces and Reptilia",
+          "Pisces and Amphibia",
+          "Reptilia and Amphibia"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चार-कक्षीय हृदय केवल पक्षियों और स्तनधारियों में होता है — दोनों गर्म-रुधिर वर्ग हैं।",
+        "en": "Only birds and mammals possess a four-chambered heart — both are warm-blooded classes."
+      }
+    },
+    {
+      "id": "ch4_q426",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म-रुधिर (warm-blooded) जीवों की परिभाषा क्या है?",
+        "en": "How are warm-blooded animals defined?"
+      },
+      "options": {
+        "hi": [
+          "जिनका शरीर-ताप बाहर के ताप के साथ बदलता रहता है",
+          "जिनका शरीर-ताप परिवेश से स्वतंत्र रहकर स्थिर रहता है",
+          "जो केवल गर्मियों में सक्रिय रहते हैं",
+          "जिनका रुधिर गर्म होता है पर ताप बदलता है"
+        ],
+        "en": [
+          "Whose body temperature keeps changing with the surroundings",
+          "Whose body temperature stays constant regardless of the surroundings",
+          "Who are active only in summers",
+          "Whose blood is warm but temperature fluctuates"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पक्षी और स्तनधारी अपने शरीर-ताप को स्थिर रखते हैं — यही गर्म-रुधिरता है; मछली, उभयचर, सरीसृप शीतल-रुधिर हैं।",
+        "en": "Birds and mammals hold their body temperature steady — that is warm-bloodedness; fish, amphibians and reptiles are cold-blooded."
+      }
+    },
+    {
+      "id": "ch4_q427",
+      "topic": "animal-diversity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "प्लैटिपस अंडे देता है फिर भी उसे स्तनधारी क्यों माना जाता है?",
+        "en": "The platypus lays eggs, so why is it still considered a mammal?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह जल में रहता है",
+          "क्योंकि उसके पंख होते हैं",
+          "क्योंकि उसमें बाल और स्तन ग्रंथियाँ होती हैं",
+          "क्योंकि वह चार-कक्षीय हृदय वाला नहीं है"
+        ],
+        "en": [
+          "Because it lives in water",
+          "Because it has wings",
+          "Because it has hair and mammary glands",
+          "Because it lacks a four-chambered heart"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वर्गीकरण मूल संरचनात्मक लक्षणों पर होता है — बाल और दुग्ध-ग्रंथियाँ पाए जाने से प्लैटिपस अंडे देने के बावजूद स्तनधारी है; यह अपवाद है।",
+        "en": "Classification rests on core structural traits — having hair and milk glands makes the platypus a mammal despite egg-laying; it is an exception."
+      }
+    },
+    {
+      "id": "ch4_q428",
+      "topic": "animal-diversity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी जीव की देह पर संधित उपांग, काइटिन का बाह्य कवच और खुला रुधिर-परिसंचरण पाया जाता है — यह जीव किस संघ का होगा?",
+        "en": "An animal shows jointed appendages, a chitinous outer covering and open circulation — which phylum does it belong to?"
+      },
+      "options": {
+        "hi": [
+          "एनीलिडा",
+          "इकाइनोडर्मेटा",
+          "मोलस्का",
+          "आर्थ्रोपोडा"
+        ],
+        "en": [
+          "Annelida",
+          "Echinodermata",
+          "Mollusca",
+          "Arthropoda"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ये तीनों लक्षण — संधित पाँव, काइटिन कवच, खुला परिसंचरण — आर्थ्रोपोडा की निशानी हैं।",
+        "en": "All three traits — jointed legs, chitinous coat, open circulation — are signatures of Arthropoda."
+      }
+    },
+    {
+      "id": "ch4_q429",
+      "topic": "animal-diversity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निम्न जीव-संघ युग्मों में से गलत सुमेलित कौन-सा है?",
+        "en": "Among these animal-phylum pairs, which one is wrongly matched?"
+      },
+      "options": {
+        "hi": [
+          "लीच — आर्थ्रोपोडा",
+          "नीरिस — एनीलिडा",
+          "स्पंजिला — पोरिफेरा",
+          "प्लैनेरिया — प्लेटीहेल्मिन्थीज"
+        ],
+        "en": [
+          "Leech — Arthropoda",
+          "Nereis — Annelida",
+          "Spongilla — Porifera",
+          "Planaria — Platyhelminthes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जोंक आर्थ्रोपोडा नहीं, बल्कि एनीलिडा की सदस्य है (खंडित देह); शेष तीनों युग्म सही हैं।",
+        "en": "The leech is not an arthropod but a member of Annelida (segmented body); the other three pairs are correct."
+      }
+    },
+    {
+      "id": "ch4_q430",
+      "topic": "animal-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "व्हेल और डॉल्फिन समुद्र में रहते हुए भी मछलियाँ क्यों नहीं मानी जातीं?",
+        "en": "Why are the whale and the dolphin not considered fish despite living in the sea?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि उनकी देह बड़ी होती है",
+          "क्योंकि वे स्तनधारी हैं — फेफड़ों से श्वास लेती हैं, बच्चों को दूध पिलाती हैं",
+          "क्योंकि वे अंडे देती हैं",
+          "क्योंकि उनमें पूँछ नहीं होती"
+        ],
+        "en": [
+          "Because their bodies are huge",
+          "Because they are mammals — they breathe with lungs and suckle their young",
+          "Because they lay eggs",
+          "Because they lack a tail"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आवास के बजाय संरचना और कार्य तय करते हैं — फेफड़े, बाल, स्तन ग्रंथियाँ और चार-कक्षीय हृदय व्हेल-डॉल्फिन को स्तनधारी बनाते हैं।",
+        "en": "Structure and function decide, not habitat — lungs, hair, mammary glands and a four-chambered heart make whales and dolphins mammals."
+      }
+    },
+    {
+      "id": "ch4_q431",
+      "topic": "classification-hierarchy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्विपद नामकरण (binomial nomenclature) की खोज का श्रेय किसे दिया जाता है?",
+        "en": "Who is credited with developing binomial nomenclature?"
+      },
+      "options": {
+        "hi": [
+          "चार्ल्स डार्विन",
+          "आर.एच. व्हिटेकर",
+          "कैरोलस लिनियस",
+          "ग्रेगर मेंडल"
+        ],
+        "en": [
+          "Charles Darwin",
+          "R.H. Whittaker",
+          "Carolus Linnaeus",
+          "Gregor Mendel"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लिनियस ने प्रत्येक जीव को दो शब्दों वाला वैज्ञानिक नाम देने की पद्धति दी, इसीलिए उन्हें वर्गीकरण का जनक भी कहते हैं।",
+        "en": "Linnaeus gave the system of two-word scientific names for every organism, and is also called the father of classification."
+      }
+    },
+    {
+      "id": "ch4_q432",
+      "topic": "classification-hierarchy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जीव वर्गीकरण की श्रेणियों का सही क्रम (बड़े से छोटे की ओर) कौन-सा है?",
+        "en": "Which is the correct sequence of taxonomic categories (from largest to smallest)?"
+      },
+      "options": {
+        "hi": [
+          "जगत → वर्ग → संघ → गण → कुल → जाति → वंश",
+          "संघ → जगत → गण → वर्ग → वंश → कुल → जाति",
+          "जगत → संघ → गण → वर्ग → कुल → वंश → जाति",
+          "जगत → संघ → वर्ग → गण → कुल → वंश → जाति"
+        ],
+        "en": [
+          "Kingdom → Class → Phylum → Order → Family → Species → Genus",
+          "Phylum → Kingdom → Order → Class → Genus → Family → Species",
+          "Kingdom → Phylum → Order → Class → Family → Genus → Species",
+          "Kingdom → Phylum → Class → Order → Family → Genus → Species"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जगत सबसे बड़ी और जाति सबसे छोटी श्रेणी है; क्रम याद रखें — जगत, संघ, वर्ग, गण, कुल, वंश, जाति।",
+        "en": "Kingdom is the largest and species the smallest category; remember the order — Kingdom, Phylum, Class, Order, Family, Genus, Species."
+      }
+    },
+    {
+      "id": "ch4_q433",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वर्गीकरण की सबसे छोटी और मूल श्रेणी कौन-सी मानी जाती है?",
+        "en": "Which is considered the smallest and basic unit of classification?"
+      },
+      "options": {
+        "hi": [
+          "जाति (species)",
+          "गण (order)",
+          "वंश (genus)",
+          "कुल (family)"
+        ],
+        "en": [
+          "Species",
+          "Order",
+          "Genus",
+          "Family"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जाति मूल श्रेणी है — इसके सदस्य समान होते हैं और आपस में प्रजनन कर सकते हैं।",
+        "en": "Species is the basic unit — its members are alike and can interbreed."
+      }
+    },
+    {
+      "id": "ch4_q434",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जाति (species) को परिभाषित करने वाली मुख्य क्षमता क्या है?",
+        "en": "What key ability defines a species?"
+      },
+      "options": {
+        "hi": [
+          "एक ही क्षेत्र में रहना",
+          "आपस में स्वतंत्र रूप से प्रजनन कर की उपजाऊ संतति देना",
+          "एक ही आकार का होना",
+          "एक ही रंग का होना"
+        ],
+        "en": [
+          "Living in the same area",
+          "Freely interbreeding among themselves to produce fertile offspring",
+          "Having the same size",
+          "Having the same colour"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक जाति के सदस्य आपस में प्रजनन कर उपजाऊ संतति दे सकते हैं — यही जाति की कसौटी है।",
+        "en": "Members of one species can interbreed to produce fertile offspring — that is the test of a species."
+      }
+    },
+    {
+      "id": "ch4_q435",
+      "topic": "classification-hierarchy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वैज्ञानिक नाम के दो शब्द क्रमशः क्या दर्शाते हैं?",
+        "en": "The two words of a scientific name respectively denote what?"
+      },
+      "options": {
+        "hi": [
+          "जगत और वंश",
+          "कुल और गण",
+          "वंश और जाति",
+          "वर्ग और संघ"
+        ],
+        "en": [
+          "Kingdom and genus",
+          "Family and order",
+          "Genus and species",
+          "Class and phylum"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पहला शब्द वंश (genus) और दूसरा जाति (species) होता है — जैसे Mangifera में Mangifera वंश है।",
+        "en": "The first word is the genus and the second the species — as in Mangifera, where Mangifera is the genus."
+      }
+    },
+    {
+      "id": "ch4_q436",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वैज्ञानिक नाम लिखते समय कौन-सा नियम पालनीय है?",
+        "en": "Which rule must be followed while writing a scientific name?"
+      },
+      "options": {
+        "hi": [
+          "दोनों शब्द छोटे अक्षरों में",
+          "नाम हमेशा अलग-अलग रेखा में लिखे जाएँ",
+          "दोनों शब्द बड़े अक्षरों में",
+          "पहला शब्द बड़े अक्षर में, दूसरा छोटे अक्षर में और नाम तिरछा (italic) लिखा जाए"
+        ],
+        "en": [
+          "Both words in small letters",
+          "The words must always be on separate lines",
+          "Both words in capitals",
+          "First word capital, second small, and the name in italics"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उदाहरण — Homo sapiens: वंश Homo बड़े अक्षर से, जाति sapiens छोटे अक्षर से, और पूरा नाम इटैलिक में लिखा जाता है।",
+        "en": "Example — Homo sapiens: genus Homo with a capital, species sapiens in lower case, the whole name in italics."
+      }
+    },
+    {
+      "id": "ch4_q437",
+      "topic": "classification-hierarchy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "Mangifera indica किस फल-वृक्ष का वैज्ञानिक नाम है?",
+        "en": "Mangifera indica is the scientific name of which fruit tree?"
+      },
+      "options": {
+        "hi": [
+          "आम",
+          "केला",
+          "पपीता",
+          "नारियल"
+        ],
+        "en": [
+          "Mango",
+          "Banana",
+          "Papaya",
+          "Coconut"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "Mangifera indica आम का द्विपद नाम है — Mangifera वंश और indica जाति सूचक शब्द है।",
+        "en": "Mangifera indica is the binomial name of the mango — Mangifera the genus and indica the species epithet."
+      }
+    },
+    {
+      "id": "ch4_q438",
+      "topic": "classification-hierarchy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "Panthera tigris किस जीव का वैज्ञानिक नाम है?",
+        "en": "Panthera tigris is the scientific name of which animal?"
+      },
+      "options": {
+        "hi": [
+          "शेर",
+          "बाघ",
+          "चीता",
+          "तेंदुआ"
+        ],
+        "en": [
+          "Lion",
+          "Tiger",
+          "Cheetah",
+          "Leopard"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बाघ का नाम Panthera tigris है; tigris जाति-वाचक शब्द है और Panthera वंश शेर-बाघ-तेंदुए साझा रखते हैं।",
+        "en": "The tiger is Panthera tigris; tigris is the species epithet, while the genus Panthera is shared with lion and leopard."
+      }
+    },
+    {
+      "id": "ch4_q439",
+      "topic": "classification-hierarchy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "शेर (Panthera leo) और बाघ (Panthera tigris) के नामों से क्या पता चलता है?",
+        "en": "What do the names Panthera leo (lion) and Panthera tigris (tiger) tell us?"
+      },
+      "options": {
+        "hi": [
+          "दोनों के वंश भिन्न हैं",
+          "दोनों एक ही जाति के हैं",
+          "दोनों एक ही वंश के भिन्न जातियाँ हैं",
+          "दोनों एक ही कुल के भिन्न वंश हैं"
+        ],
+        "en": [
+          "Their genera are different",
+          "Both belong to the same species",
+          "Both are different species of the same genus",
+          "Both are different genera of the same family"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "साझा पहला शब्द Panthera समान वंश दर्शाता है; दूसरा शब्द leo बनाम tigris उन्हें अलग जातियाँ बनाता है।",
+        "en": "The shared first word Panthera marks the same genus; the second words leo versus tigris make them separate species."
+      }
+    },
+    {
+      "id": "ch4_q440",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्रेणी-सीढ़ी में कुल (family) का स्थान कहाँ है?",
+        "en": "Where does the family category sit in the taxonomic ladder?"
+      },
+      "options": {
+        "hi": [
+          "संघ के ऊपर, जगत के नीचे",
+          "गण के ऊपर, वर्ग के नीचे",
+          "वंश के नीचे, जाति के ऊपर",
+          "गण के नीचे, वंश के ऊपर"
+        ],
+        "en": [
+          "Above phylum, below kingdom",
+          "Above order, below class",
+          "Below genus, above species",
+          "Below order, above genus"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "क्रम है — ...वर्ग → गण → कुल → वंश → जाति; अतः कुल गण के नीचे और वंश के ऊपर आता है।",
+        "en": "The rung order is ...Class → Order → Family → Genus → Species; so family lies below order and above genus."
+      }
+    },
+    {
+      "id": "ch4_q441",
+      "topic": "classification-hierarchy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "श्रेणियों की सीढ़ी में नीचे की ओर जाने पर क्या होता है?",
+        "en": "What happens as we move down the taxonomic ladder?"
+      },
+      "options": {
+        "hi": [
+          "समानताएँ बढ़ती हैं और सम्मिलित जीवों की संख्या घटती है",
+          "समानताएँ और संख्या दोनों बढ़ती हैं",
+          "कोई परिवर्तन नहीं होता",
+          "समानताएँ घटती हैं और सदस्य संख्या बढ़ती है"
+        ],
+        "en": [
+          "Similarities increase while the number of organisms included decreases",
+          "Both similarities and numbers increase",
+          "Nothing changes",
+          "Similarities decrease while membership increases"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जगत में असंख्य जीव हैं पर समानता कम; जाति में बहुत कम सदस्य पर समानता सर्वाधिक — सीढ़ी जाते ही समानता घनी होती जाती है।",
+        "en": "A kingdom holds countless but dissimilar members; a species holds very few but nearly identical ones — similarity tightens as you descend."
+      }
+    },
+    {
+      "id": "ch4_q442",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वर्गीकरण में वंश (genus) की स्थिति क्या है?",
+        "en": "What is the position of genus in classification?"
+      },
+      "options": {
+        "hi": [
+          "कुल और गण के बीच",
+          "जाति और कुल के बीच",
+          "वर्ग और संघ के बीच",
+          "जगत और संघ के बीच"
+        ],
+        "en": [
+          "Between family and order",
+          "Between species and family",
+          "Between class and phylum",
+          "Between kingdom and phylum"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वंश, जाति से ठीक ऊपर और कुल से ठीक नीचे की श्रेणी है।",
+        "en": "Genus sits just above species and just below family."
+      }
+    },
+    {
+      "id": "ch4_q443",
+      "topic": "classification-hierarchy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जीवों का वर्गीकरण आवश्यक क्यों है?",
+        "en": "Why is classification of organisms necessary?"
+      },
+      "options": {
+        "hi": [
+          "सभी जीव एक-समान हो गए हैं",
+          "केवल सुंदर नाम देने के लिए",
+          "जीवों की संख्या बहुत विशाल है — अध्ययन व्यवस्थित और सरल बनाने के लिए",
+          "जीवों को नाम देना अनावश्यक है"
+        ],
+        "en": [
+          "All organisms have become alike",
+          "Just to give fancy names",
+          "The number of organisms is vast — to make their study systematic and easy",
+          "Naming organisms is unnecessary"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लाखों प्रजातियों के बीच वर्गीकरण ही समानता-भिन्नता पहचानने, नामकरण और अध्ययन को सरल बनाता है।",
+        "en": "Amid millions of species, classification alone makes spotting similarities, naming and study manageable."
+      }
+    },
+    {
+      "id": "ch4_q444",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीवों को संघों में बाँटने का आधार कौन-से लक्षण नहीं हैं?",
+        "en": "Which of these is NOT a basis for dividing animals into phyla?"
+      },
+      "options": {
+        "hi": [
+          "नोटोकॉर्ड का होना या न होना",
+          "देह-गुहा (coelom) का प्रकार",
+          "देह की सममिति",
+          "जीव का आवास"
+        ],
+        "en": [
+          "Presence or absence of notochord",
+          "Type of body cavity (coelom)",
+          "Body symmetry",
+          "Habitat of the organism"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आवास वर्गीकरण का आधार नहीं है — एक ही आवास में भिन्न संघ के अनेक जीव रहते हैं; संरचनात्मक लक्षण ही आधार हैं।",
+        "en": "Habitat is not a classificatory basis — many phyla share one habitat; structural characters are the basis."
+      }
+    },
+    {
+      "id": "ch4_q445",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "द्विपार्श्विक (bilateral) सममिति से क्या तात्पर्य है?",
+        "en": "What is meant by bilateral symmetry?"
+      },
+      "options": {
+        "hi": [
+          "केवल एक विशेष अक्ष-तल से देह दो समान दर्पण-अर्धों में बँटती हो",
+          "देह तीन बराबर भागों में बँटती हो",
+          "देह के टुकड़े पुनर्जनित होते हों",
+          "किसी भी तल से दो समान अर्ध बनते हों"
+        ],
+        "en": [
+          "The body splits into two mirror halves by one particular plane only",
+          "The body divides into three equal parts",
+          "Body parts regenerate",
+          "Two equal halves form by any plane"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मनुष्य-मछली की भाँति बायाँ-दायाँ आधा समान होता है — केवल मध्य-तल से; यह द्विपार्श्विक सममिति है।",
+        "en": "As in humans and fish, left and right halves match — only through the midline plane; this is bilateral symmetry."
+      }
+    },
+    {
+      "id": "ch4_q446",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "त्रिज्य (radial) सममिति किस जीव में देखी जाती है?",
+        "en": "Radial symmetry is seen in which of the following?"
+      },
+      "options": {
+        "hi": [
+          "मेंढक",
+          "हाइड्रा",
+          "केंचुआ",
+          "मनुष्य"
+        ],
+        "en": [
+          "Frog",
+          "Hydra",
+          "Earthworm",
+          "Human"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हाइड्रा की देह केंद्र से गुजरने वाले किसी भी तल से समान अर्धों में बँटती है — यह त्रिज्य सममिति है।",
+        "en": "Hydra's body splits into equal halves by any plane passing through the axis — that is radial symmetry."
+      }
+    },
+    {
+      "id": "ch4_q447",
+      "topic": "classification-hierarchy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "असममित (asymmetrical) देह वाले जीवों में से एक कौन-सा है?",
+        "en": "Which of the following animals has an asymmetrical body?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रा",
+          "केंचुआ",
+          "स्पंज",
+          "स्टारफिश"
+        ],
+        "en": [
+          "Hydra",
+          "Earthworm",
+          "Sponge",
+          "Starfish"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अधिकांश स्पंजों की देह किसी तल से समान अर्धों में नहीं बँटती — यही असममिति है; शेष तीनों में किसी न किसी सममिति है।",
+        "en": "Most sponges cannot be divided into equal halves by any plane — true asymmetry; the other three show some symmetry."
+      }
+    },
+    {
+      "id": "ch4_q448",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सही देह-गुहा (true coelom) से क्या तात्पर्य है?",
+        "en": "What is meant by a true coelom?"
+      },
+      "options": {
+        "hi": [
+          "देह के बाहर की खाली जगह",
+          "रुधिर वाहिकाओं का जाल",
+          "कोशिकाओं के बीच का जल",
+          "ऊतकों से निर्मित पूर्ण देह-गुहा जो भीतर के अंगों को स्थान देती है"
+        ],
+        "en": [
+          "Empty space outside the body",
+          "A network of blood vessels",
+          "Water between cells",
+          "A full body cavity lined by tissue that houses the internal organs"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सही सीलोम देह-भित्ति की परतों से ढका हुआ गुहा है जिसमें पाचन-अंग जैसे अंग सुरक्षित रहते हैं।",
+        "en": "A true coelom is a cavity fully lined by body-wall tissue, housing and cushioning organs like the gut."
+      }
+    },
+    {
+      "id": "ch4_q449",
+      "topic": "classification-hierarchy",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'कूट-सीलोम' (pseudocoelom) वाले जीव किस संघ के होते हैं?",
+        "en": "Animals with a 'pseudocoelom' belong to which phylum?"
+      },
+      "options": {
+        "hi": [
+          "निमेटोडा",
+          "एनीलिडा",
+          "मोलस्का",
+          "प्लेटीहेल्मिन्थीज"
+        ],
+        "en": [
+          "Nematoda",
+          "Annelida",
+          "Mollusca",
+          "Platyhelminthes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गोलकृमियों (निमेटोडा) में देह-गुहा पूर्ण ऊतक-आवरण से ढकी नहीं होती — इसलिए उसे कूट-सीलोम कहते हैं।",
+        "en": "In roundworms (Nematoda) the body cavity is not fully lined by tissue — hence it is called a pseudocoelom."
+      }
+    },
+    {
+      "id": "ch4_q450",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "द्विस्तरीय (diploblastic) जीवों की पहचान क्या है?",
+        "en": "How are diploblastic animals identified?"
+      },
+      "options": {
+        "hi": [
+          "देह भित्ति में तीन कोशिका-स्तर होते हैं",
+          "देह भित्ति में दो कोशिका-स्तर होते हैं — बाह्य और भीतरी",
+          "देह में कोई स्तर नहीं होता",
+          "देह भित्ति चार स्तरों की होती है"
+        ],
+        "en": [
+          "Their body wall has three cell layers",
+          "Their body wall has two cell layers — outer and inner",
+          "Their body has no layers",
+          "Their body wall has four layers"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सीलेंटरेटा जैसे जीवों में केवल दो जनन स्तर होते हैं; तीन स्तर वाले जीव त्रिस्तरीय कहलाते हैं (प्लेटीहेल्मिन्थीज से आगे के अधिकांश जीव)।",
+        "en": "Animals like coelenterates have just two germ layers; three-layered animals are triploblastic (most animals from flatworms onwards)."
+      }
+    },
+    {
+      "id": "ch4_q451",
+      "topic": "classification-hierarchy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वर्गीकरण में 'वर्ग' (class) और 'गण' (order) में से कौन अधिक व्यापक श्रेणी है?",
+        "en": "Between class and order, which is the broader category?"
+      },
+      "options": {
+        "hi": [
+          "निर्भर करता है जीव पर",
+          "गण",
+          "वर्ग",
+          "दोनों बराबर"
+        ],
+        "en": [
+          "Depends on the organism",
+          "Order",
+          "Class",
+          "Both are equal"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वर्ग, गण से ऊपर की श्रेणी है और उसमें अनेक गण समाहित होते हैं — जैसे स्तनधारी वर्ग में अनेक गण।",
+        "en": "Class sits above order and contains many orders — as the mammal class holds several orders."
+      }
+    },
+    {
+      "id": "ch4_q452",
+      "topic": "classification-hierarchy",
+      "difficulty": "easy",
+      "question": {
+        "hi": "टैक्सोनोमी (taxonomy) का कार्य क्या है?",
+        "en": "What is the work of taxonomy?"
+      },
+      "options": {
+        "hi": [
+          "जीवों का शिकार करना",
+          "जीवों को पालना",
+          "केवल जीवों का चित्र बनाना",
+          "जीवों की पहचान, वर्गीकरण और नामकरण करना"
+        ],
+        "en": [
+          "Hunting organisms",
+          "Rearing organisms",
+          "Only drawing pictures of organisms",
+          "Identification, classification and naming of organisms"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "टैक्सोनोमी के तीन कार्य हैं — पहचान (identification), वर्गीकरण और नामकरण।",
+        "en": "Taxonomy does three jobs — identification, classification and nomenclature of organisms."
+      }
+    },
+    {
+      "id": "ch4_q453",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्थानीय नामों के बजाय वैज्ञानिक द्विपद नाम क्यों अपनाए गए?",
+        "en": "Why were scientific binomial names adopted instead of local names?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि प्रत्येक क्षेत्र के स्थानीय नाम भिन्न होते हैं — एक सार्वभौमिक नाम भ्रम दूर करता है",
+          "क्योंकि कानून ऐसा माँगता है",
+          "क्योंकि स्थानीय नाम लिखे नहीं जा सकते",
+          "क्योंकि स्थानीय नाम सुनने में अच्छे नहीं होते"
+        ],
+        "en": [
+          "Because local names differ from region to region — one universal name removes confusion",
+          "Because the law demands it",
+          "Because local names cannot be written",
+          "Because local names sound bad"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक ही जीव के अनेक स्थानीय नाम और एक नाम के अनेक अर्थ — वैज्ञानिक नाम इस अराजकता को समाप्त कर विश्वभर में एकरूपता लाता है।",
+        "en": "One creature, many local names; one name, many creatures — the scientific name ends this chaos with worldwide uniformity."
+      }
+    },
+    {
+      "id": "ch4_q454",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "द्विपद नामकरण पद्धति में प्रत्येक जीव का वैज्ञानिक नाम कितने शब्दों का होता है?",
+        "en": "In the binomial system, how many words make up an organism's scientific name?"
+      },
+      "options": {
+        "hi": [
+          "एक",
+          "दो",
+          "तीन",
+          "चार"
+        ],
+        "en": [
+          "One",
+          "Two",
+          "Three",
+          "Four"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "'द्विपद' का अर्थ ही दो शब्द है — वंश और जाति; यही नाम संपूर्ण विश्व में उस जीव की पहचान है।",
+        "en": "'Binomial' itself means two words — genus and species; this name identifies the organism worldwide."
+      }
+    },
+    {
+      "id": "ch4_q455",
+      "topic": "classification-hierarchy",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लिनियस ने पहले कितने जगतों (kingdoms) वाला वर्गीकरण प्रस्तावित किया था?",
+        "en": "How many kingdoms did Linnaeus originally propose in his classification?"
+      },
+      "options": {
+        "hi": [
+          "छह",
+          "तीन",
+          "दो",
+          "पाँच"
+        ],
+        "en": [
+          "Six",
+          "Three",
+          "Two",
+          "Five"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लिनियस का वर्गीकरण दो जगतों — पादप (Plantae) और जंतु (Animalia) — पर आधारित था; बाद में यह अपर्याप्त सिद्ध हुआ।",
+        "en": "Linnaeus's scheme rested on two kingdoms — Plantae and Animalia; it later proved inadequate."
+      }
+    },
+    {
+      "id": "ch4_q456",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पाँच जगतों वाला वर्गीकरण किसने प्रस्तावित किया?",
+        "en": "Who proposed the five-kingdom classification?"
+      },
+      "options": {
+        "hi": [
+          "ग्रेगर मेंडल",
+          "रॉबर्ट हुक",
+          "कैरोलस लिनियस",
+          "आर.एच. व्हिटेकर"
+        ],
+        "en": [
+          "Gregor Mendel",
+          "Robert Hooke",
+          "Carolus Linnaeus",
+          "R.H. Whittaker"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "व्हिटेकर ने जीवों को पाँच जगतों — मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी और एनिमेलिया — में बाँटा।",
+        "en": "Whittaker divided organisms into five kingdoms — Monera, Protista, Fungi, Plantae and Animalia."
+      }
+    },
+    {
+      "id": "ch4_q457",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "व्हिटेकर के वर्गीकरण में पाँचों जगतों के नाम बताने वाला सही विकल्प कौन-सा है?",
+        "en": "Which option correctly names all five kingdoms in Whittaker's classification?"
+      },
+      "options": {
+        "hi": [
+          "मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी, एनिमेलिया",
+          "मोनेरा, वायरल, फंजाई, प्लांटी, एनिमेलिया",
+          "प्रोटिस्टा, बैक्टीरिया, शैवाल, कवक, प्राणी",
+          "प्लांटी, एनिमेलिया, फंजाई, वायरस, मोनेरा"
+        ],
+        "en": [
+          "Monera, Protista, Fungi, Plantae, Animalia",
+          "Monera, Viral, Fungi, Plantae, Animalia",
+          "Protista, Bacteria, Algae, Fungi, Animals",
+          "Plantae, Animalia, Fungi, Virus, Monera"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पाँच जगत हैं — मोनेरा (प्रोकैरियोट), प्रोटिस्टा (एककोशिकीय यूकैरियोट), फंजाई (कवक), प्लांटी (पादप) और एनिमेलिया (प्राणी)।",
+        "en": "The five kingdoms are Monera (prokaryotes), Protista (unicellular eukaryotes), Fungi, Plantae and Animalia."
+      }
+    },
+    {
+      "id": "ch4_q458",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन व्हिटेकर के पाँच जगतों में से नहीं है?",
+        "en": "Which of the following is NOT one of Whittaker's five kingdoms?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटिस्टा",
+          "वायरस",
+          "फंजाई",
+          "मोनेरा"
+        ],
+        "en": [
+          "Protista",
+          "Virus",
+          "Fungi",
+          "Monera"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वायरस किसी जगत में नहीं रखा गया क्योंकि वे विशिष्ट जीव-लक्षणों से रहित, कोशिका-रहित संरचनाएँ हैं।",
+        "en": "Viruses are placed in no kingdom because they are acellular structures lacking definitive living characters."
+      }
+    },
+    {
+      "id": "ch4_q459",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पाँच जगतों का वर्गीकरण किन मुख्य आधारों पर किया गया?",
+        "en": "On which main bases was the five-kingdom classification made?"
+      },
+      "options": {
+        "hi": [
+          "केवल रंग",
+          "केवल आवास",
+          "कोशिका-संरचना, देह-संगठन, पोषण-विधि",
+          "केवल आकार"
+        ],
+        "en": [
+          "Colour alone",
+          "Habitat alone",
+          "Cell structure, body organisation and mode of nutrition",
+          "Size alone"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कोशिका का प्रकार (प्रोकैरियोटिक/यूकैरियोटिक), शरीर का संगठन (एककोशिकी/बहुकोशिकी) और पोषण का तरीका — ये तीन मुख्य आधार रहे।",
+        "en": "Type of cell (prokaryotic/eukaryotic), body organisation (unicellular/multicellular) and mode of nutrition — these were the three main bases."
+      }
+    },
+    {
+      "id": "ch4_q460",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मोनेरा जगत के जीव किस प्रकार के होते हैं?",
+        "en": "Organisms of the kingdom Monera are of which type?"
+      },
+      "options": {
+        "hi": [
+          "यूकैरियोटिक और एककोशिकीय",
+          "निर्जीव",
+          "यूकैरियोटिक और बहुकोशिकीय",
+          "प्रोकैरियोटिक और एककोशिकीय"
+        ],
+        "en": [
+          "Eukaryotic and unicellular",
+          "Non-living",
+          "Eukaryotic and multicellular",
+          "Prokaryotic and unicellular"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मोनेरा में बैक्टीरिया जैसे प्रोकैरियोटिक जीव आते हैं — इनकी कोशिकाओं में संगठित केंद्रक नहीं होता।",
+        "en": "Monera contains prokaryotic organisms like bacteria — their cells lack an organised nucleus."
+      }
+    },
+    {
+      "id": "ch4_q461",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नीली-हरी शैवाल (cyanobacteria) किस जगत में रखी जाती हैं?",
+        "en": "Blue-green algae (cyanobacteria) are placed in which kingdom?"
+      },
+      "options": {
+        "hi": [
+          "मोनेरा",
+          "प्रोटिस्टा",
+          "फंजाई",
+          "प्लांटी"
+        ],
+        "en": [
+          "Monera",
+          "Protista",
+          "Fungi",
+          "Plantae"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रकाश-संश्लेषण करने के बावजूद ये प्रोकैरियोटिक हैं, इसलिए इन्हें पादप जगत नहीं बल्कि मोनेरा में रखा जाता है।",
+        "en": "Despite photosynthesising, they are prokaryotes, so they sit in Monera rather than the plant kingdom."
+      }
+    },
+    {
+      "id": "ch4_q462",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रोटिस्टा जगत के जीवों की मुख्य विशेषता क्या है?",
+        "en": "What is the main feature of organisms of the kingdom Protista?"
+      },
+      "options": {
+        "hi": [
+          "एककोशिकीय प्रोकैरियोट",
+          "एककोशिकीय यूकैरियोट",
+          "बहुकोशिकीय प्रोकैरियोट",
+          "बहुकोशिकीय निर्जीव"
+        ],
+        "en": [
+          "Unicellular prokaryotes",
+          "Unicellular eukaryotes",
+          "Multicellular prokaryotes",
+          "Multicellular non-living"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अमीबा, पैरामीशियम जैसे एककोशिकीय यूकैरियोटिक जीव प्रोटिस्टा में रखे जाते हैं — केंद्रक अच्छी तरह संगठित होता है।",
+        "en": "Unicellular eukaryotes like Amoeba and Paramecium are placed in Protista — with a well-organised nucleus."
+      }
+    },
+    {
+      "id": "ch4_q463",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अमीबा और पैरामीशियम किस जगत के सदस्य हैं?",
+        "en": "Amoeba and Paramecium are members of which kingdom?"
+      },
+      "options": {
+        "hi": [
+          "मोनेरा",
+          "फंजाई",
+          "प्रोटिस्टा",
+          "प्लांटी"
+        ],
+        "en": [
+          "Monera",
+          "Fungi",
+          "Protista",
+          "Plantae"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ये एककोशिकीय यूकैरियोट हैं, इसलिए प्रोटिस्टा जगत में रखे जाते हैं।",
+        "en": "Being unicellular eukaryotes, they are kept in the kingdom Protista."
+      }
+    },
+    {
+      "id": "ch4_q464",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यूग्लीना (Euglena) को प्रोटिस्टा में क्यों रखा गया है?",
+        "en": "Why is Euglena placed in Protista?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह प्रोकैरियोटिक है",
+          "क्योंकि वह मृत नहीं होता",
+          "क्योंकि वह बहुकोशिकीय है",
+          "क्योंकि वह एक ही जीव में पौधे जैसा (प्रकाश-संश्लेषण) और जंतु जैसा (गति-पोषण) लक्षण दोनों दिखाता है"
+        ],
+        "en": [
+          "Because it is prokaryotic",
+          "Because it is immortal",
+          "Because it is multicellular",
+          "Because in one organism it shows both plant-like (photosynthesis) and animal-like (motility-nutrition) traits"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "यूग्लीना में हरितलवक होने से भोजन बनाता है पर जंतुओं की तरह गति और परपोषण भी करता है — ऐसे मिश्र-लक्षण जगत-निर्धारण कठिन बनाते हैं।",
+        "en": "Euglena makes food with chloroplasts yet moves and feeds like an animal — such mixed traits make its kingdom-placement tricky."
+      }
+    },
+    {
+      "id": "ch4_q465",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फंजाई (कवक) अपना भोजन कैसे प्राप्त करते हैं?",
+        "en": "How do fungi obtain their food?"
+      },
+      "options": {
+        "hi": [
+          "मृत जीव-पदार्थों से अवशोषण द्वारा (अपघटक/परपोषी)",
+          "जल को तोड़कर",
+          "प्रकाश-संश्लेषण से",
+          "स्वपोषी होकर"
+        ],
+        "en": [
+          "By absorption from dead organic matter (decomposers/parasites)",
+          "By splitting water",
+          "By photosynthesis",
+          "As autotrophs"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कवकों में हरितलवक नहीं होते; वे मृत पदार्थों पर उगकर भोजन अवशोषित करते हैं या जीव-होस्ट पर परजीवी बनते हैं।",
+        "en": "Fungi lack chlorophyll; they grow on dead matter absorbing food or live as parasites on hosts."
+      }
+    },
+    {
+      "id": "ch4_q466",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मशरूम और मोल्ड किस जगत के जीव हैं?",
+        "en": "Mushroom and mould belong to which kingdom?"
+      },
+      "options": {
+        "hi": [
+          "प्लांटी",
+          "फंजाई",
+          "प्रोटिस्टा",
+          "एनिमेलिया"
+        ],
+        "en": [
+          "Plantae",
+          "Fungi",
+          "Protista",
+          "Animalia"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "छत्रक (मशरूम), मोल्ड, यीस्ट — सभी कवक हैं और फंजाई जगत में रखे जाते हैं।",
+        "en": "Mushroom, mould and yeast are all fungi, placed in the kingdom Fungi."
+      }
+    },
+    {
+      "id": "ch4_q467",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फंजाई की कोशिका भित्ति मुख्यतः किससे बनी होती है?",
+        "en": "The cell wall of fungi is mainly made of what?"
+      },
+      "options": {
+        "hi": [
+          "सुबेरिन",
+          "सेल्युलोज",
+          "काइटिन",
+          "लिग्निन"
+        ],
+        "en": [
+          "Suberin",
+          "Cellulose",
+          "Chitin",
+          "Lignin"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पौधों की भित्ति सेल्युलोज की होती है जबकि कवकों की भित्ति काइटिन की — यही अंतर दोनों जगतों को अलग करता है।",
+        "en": "Plant walls are of cellulose while fungal walls are of chitin — a key difference separating the two kingdoms."
+      }
+    },
+    {
+      "id": "ch4_q468",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लाइकेन (lichen) में कौन-से दो जीव सहजीवी रूप से रहते हैं?",
+        "en": "Which two organisms live symbiotically in a lichen?"
+      },
+      "options": {
+        "hi": [
+          "कवक और बैक्टीरिया-जड़",
+          "शैवाल और मॉस",
+          "कवक और फर्न",
+          "कवक और शैवाल"
+        ],
+        "en": [
+          "A fungus and a root-bacterium",
+          "An alga and a moss",
+          "A fungus and a fern",
+          "A fungus and an alga"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लाइकेन में कवक जल-खनिज अवशोषित करता है और शैवाल भोजन बनाता है — दोनों का साझा लाभ सहजीवन है।",
+        "en": "In a lichen the fungus absorbs water and minerals while the alga makes food — mutual benefit in symbiosis."
+      }
+    },
+    {
+      "id": "ch4_q469",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्लांटी (पादप) जगत के जीवों की पोषण-विधि क्या है?",
+        "en": "What is the mode of nutrition of organisms of the kingdom Plantae?"
+      },
+      "options": {
+        "hi": [
+          "स्वपोषी (प्रकाश-संश्लेषण)",
+          "अपघटक",
+          "मिश्रित",
+          "परपोषी"
+        ],
+        "en": [
+          "Autotrophic (photosynthesis)",
+          "Saprophytic",
+          "Mixed",
+          "Heterotrophic"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पादप हरितलवकों की सहायता से सूर्य-प्रकाश में भोजन स्वयं बनाते हैं — यही स्वपोषण है।",
+        "en": "Plants prepare their own food in sunlight with the help of chloroplasts — this is autotrophic nutrition."
+      }
+    },
+    {
+      "id": "ch4_q470",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एनिमेलिया जगत के जीव भोजन कैसे प्राप्त करते हैं?",
+        "en": "How do animals of the kingdom Animalia obtain food?"
+      },
+      "options": {
+        "hi": [
+          "स्वयं बनाकर",
+          "अन्य जीवों का सेवन करके (परपोषी)",
+          "अवशोषण द्वारा",
+          "प्रकाश से"
+        ],
+        "en": [
+          "By making it themselves",
+          "By consuming other organisms (heterotrophic)",
+          "By absorption",
+          "From light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्राणी हरितलवकविहीन हैं, अतः भोजन पचाने-ग्रहण करने के लिए अन्य जीवों पर निर्भर रहते हैं।",
+        "en": "Animals lack chlorophyll, so they depend on ingesting and digesting other organisms."
+      }
+    },
+    {
+      "id": "ch4_q471",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बैक्टीरिया को पौधों से अलग किसने बताकर मोनेरा जगत बनाया गया — उनकी कोशिकाओं की क्या कमी इसका कारण है?",
+        "en": "Bacteria were separated into Monera — what deficiency in their cells is the reason?"
+      },
+      "options": {
+        "hi": [
+          "झिल्ली का अभाव",
+          "कोशिका भित्ति का अभाव",
+          "संगठित केंद्रक व केंद्रकीय झिल्ली का अभाव",
+          "राइबोसोम का अभाव"
+        ],
+        "en": [
+          "Absence of a cell membrane",
+          "Absence of cell wall",
+          "Absence of an organised nucleus and nuclear membrane",
+          "Absence of ribosomes"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बैक्टीरिया प्रोकैरियोट हैं — केंद्रक-पदार्थ झिल्ली से घिरा नहीं होता; यही मौलिक भिन्नता उन्हें अलग जगत का अधिकारी बनाती है।",
+        "en": "Bacteria are prokaryotes — nuclear material is not membrane-bound; this fundamental difference earns them a separate kingdom."
+      }
+    },
+    {
+      "id": "ch4_q472",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "डायटम (सिलिका-कवक जैसे सूक्ष्म शैवाल) किस जगत में वर्गीकृत हैं?",
+        "en": "Diatoms (microscopic silica-shelled algae) are classified in which kingdom?"
+      },
+      "options": {
+        "hi": [
+          "प्लांटी",
+          "मोनेरा",
+          "फंजाई",
+          "प्रोटिस्टा"
+        ],
+        "en": [
+          "Plantae",
+          "Monera",
+          "Fungi",
+          "Protista"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एककोशिकीय होने के कारण डायटम जैसे सूक्ष्म शैवाल प्रोटिस्टा में रखे जाते हैं, भले ही वे प्रकाश-संश्लेषण करते हों।",
+        "en": "Being unicellular, microscopic algae like diatoms go to Protista even though they photosynthesise."
+      }
+    },
+    {
+      "id": "ch4_q473",
+      "topic": "five-kingdoms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "व्हिटेकर ने कवकों को पौधों से अलग जगत देने का सबसे बड़ा कारण क्या था?",
+        "en": "What was Whittaker's biggest reason for giving fungi a kingdom separate from plants?"
+      },
+      "options": {
+        "hi": [
+          "कवकों की पोषण-विधि भिन्न है — हरितलवक रहित अवशोषण-पोषी",
+          "कवक जल में नहीं रहते",
+          "कवकों में कोशिका नहीं होती",
+          "कवक बड़े होते हैं"
+        ],
+        "en": [
+          "Their mode of nutrition differs — chlorophyll-less absorbers",
+          "Fungi do not live in water",
+          "Fungi have no cells",
+          "Fungi are large"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पोषण-विधि को व्हिटेकर का मुख्य आधार माना गया — पौधे स्वपोषी, कवक अवशोषण-पोषी; इसी भिन्नता से फंजाई अलग जगत बना।",
+        "en": "Nutrition was Whittaker's chief axis — plants autotrophic, fungi absorptive; this difference created the separate kingdom Fungi."
+      }
+    },
+    {
+      "id": "ch4_q474",
+      "topic": "five-kingdoms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कवकों और पौधों में एक साथ दो अंतर बताने वाला सही विकल्प कौन-सा है?",
+        "en": "Which option states TWO differences between fungi and plants together correctly?"
+      },
+      "options": {
+        "hi": [
+          "कवकों में हरितलवक होते हैं, भित्ति सेल्युलोज की",
+          "कवकों में हरितलवक नहीं होते और भित्ति काइटिन की होती है",
+          "कवक एककोशिकीय होते हैं, पौधे प्रोकैरियोटिक",
+          "कवक स्वपोषी होते हैं, पौधे अपघटक"
+        ],
+        "en": [
+          "Fungi have chlorophyll and cellulose walls",
+          "Fungi lack chlorophyll and have chitin walls",
+          "Fungi are unicellular and plants prokaryotic",
+          "Fungi are autotrophs and plants decomposers"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दोनों अंतर एक साथ केवल दूसरे विकल्प में सही हैं — हरितलवक का अभाव और काइटिन भित्ति।",
+        "en": "Only the second option holds both differences together — absence of chlorophyll and chitinous wall."
+      }
+    },
+    {
+      "id": "ch4_q475",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बहुकोशिकीय, स्वपोषी और सेल्युलोज भित्ति वाला जीव किस जगत का सदस्य होगा?",
+        "en": "A multicellular, autotrophic organism with cellulose cell walls belongs to which kingdom?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटिस्टा",
+          "फंजाई",
+          "प्लांटी",
+          "एनिमेलिया"
+        ],
+        "en": [
+          "Protista",
+          "Fungi",
+          "Plantae",
+          "Animalia"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बहुकोशिकीयता + स्वपोषण + सेल्युलोज भित्ति = पादप जगत की तीनों निशानियाँ।",
+        "en": "Multicellularity + autotrophy + cellulose walls = the three signatures of the plant kingdom."
+      }
+    },
+    {
+      "id": "ch4_q476",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'प्रोटोजोआ' कहलाने वाले अमीबा-जैसे जीव आधुनिक वर्गीकरण में कहाँ गए?",
+        "en": "Where did Amoeba-like organisms, once called 'protozoa', go in modern classification?"
+      },
+      "options": {
+        "hi": [
+          "एनिमेलिया में",
+          "फंजाई में",
+          "मोनेरा में",
+          "प्रोटिस्टा में"
+        ],
+        "en": [
+          "Into Animalia",
+          "Into Fungi",
+          "Into Monera",
+          "Into Protista"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पुराने 'प्रोटोजोआ' (अमीबा, पैरामीशियम) अब प्रोटिस्टा जगत में रखे जाते हैं — एककोशिकीय यूकैरियोट होने से।",
+        "en": "The old 'protozoa' (Amoeba, Paramecium) now sit in Protista — for being unicellular eukaryotes."
+      }
+    },
+    {
+      "id": "ch4_q477",
+      "topic": "five-kingdoms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निम्न में से किस जगत-उदाहरण युग्म सही है?",
+        "en": "Which kingdom-example pair among these is correct?"
+      },
+      "options": {
+        "hi": [
+          "स्लाइम-मोल्ड — प्रोटिस्टा",
+          "साइनोबैक्टीरिया — फंजाई",
+          "यीस्ट — प्रोटिस्टा",
+          "स्पाइरोगाइरा — मोनेरा"
+        ],
+        "en": [
+          "Slime mould — Protista",
+          "Cyanobacteria — Fungi",
+          "Yeast — Protista",
+          "Spirogyra — Monera"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्लाइम-मोल्ड प्रोटिस्टा के सदस्य हैं; यीस्ट फंजाई का, स्पाइरोगाइरा थैलोफाइटा (पादप) का और साइनोबैक्टीरिया मोनेरा का सदस्य है।",
+        "en": "Slime moulds are protists; yeast belongs to Fungi, Spirogyra to Thallophyta (plants) and cyanobacteria to Monera."
+      }
+    },
+    {
+      "id": "ch4_q478",
+      "topic": "five-kingdoms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पाँच जगतों में सबसे सरल (कम जटिल) जीवों का जगत कौन-सा माना जाता है?",
+        "en": "Which kingdom is considered to have the simplest (least complex) organisms?"
+      },
+      "options": {
+        "hi": [
+          "प्लांटी",
+          "मोनेरा",
+          "फंजाई",
+          "एनिमेलिया"
+        ],
+        "en": [
+          "Plantae",
+          "Monera",
+          "Fungi",
+          "Animalia"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मोनेरा के प्रोकैरियोटिक जीव संगठित केंद्रक जैसी जटिलता से रहित हैं — इसीलिए सबसे सरल कहलाते हैं।",
+        "en": "Monera's prokaryotes lack complexities like an organised nucleus — hence called the simplest."
+      }
+    },
+    {
+      "id": "ch4_q479",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यीस्ट (yeast) सतही रूप से पौधों जैसा जीव होने के बावजूद किस जगत में रखा जाता है?",
+        "en": "Despite superficially plant-like appearance, in which kingdom is yeast placed?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटिस्टा",
+          "प्लांटी",
+          "फंजाई",
+          "मोनेरा"
+        ],
+        "en": [
+          "Protista",
+          "Plantae",
+          "Fungi",
+          "Monera"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "यीस्ट एककोशिकीय कवक है — हरितलवक नहीं, काइटिन भित्ति, अवशोषण-पोषण; अतः फंजाई में।",
+        "en": "Yeast is a unicellular fungus — no chlorophyll, chitin wall, absorptive feeding; hence Fungi."
+      }
+    },
+    {
+      "id": "ch4_q480",
+      "topic": "five-kingdoms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "व्हिटेकर के वर्गीकरण में एक जगत से दूसरे जगत में रखने का निर्णय सबसे अधिक किस लक्षण पर टिका है?",
+        "en": "In Whittaker's scheme, the decision to place an organism in one kingdom over another rests most on which character?"
+      },
+      "options": {
+        "hi": [
+          "गति की गति",
+          "आकार",
+          "रंग",
+          "कोशिका-प्रकार और पोषण-विधि"
+        ],
+        "en": [
+          "Speed of movement",
+          "Size",
+          "Colour",
+          "Cell type and mode of nutrition"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रोकैरियोट/यूकैरियोट और स्वपोषी/परपोषी का संयोजन ही जगत-निर्धारण की रीढ़ है — बाकी लक्षण गौण हैं।",
+        "en": "The prokaryote/eukaryote and autotroph/heterotroph combinations form the backbone of kingdom-assignment; other traits are secondary."
+      }
+    },
+    {
+      "id": "ch4_q481",
+      "topic": "plant-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "थैलोफाइटा (Thallophyta) के पौधों की देह कैसी होती है?",
+        "en": "What is the body of thallophyte plants like?"
+      },
+      "options": {
+        "hi": [
+          "जड़-तना-पत्ती में विभाजित नहीं (थैलस जैसी)",
+          "केवल जड़ों वाली",
+          "केवल पुष्पों वाली",
+          "अच्छी तरह जड़-तना-पत्ती में विभाजित"
+        ],
+        "en": [
+          "Not differentiated into root, stem and leaves (thallus-like)",
+          "Only roots",
+          "Only flowers",
+          "Well differentiated into root, stem and leaves"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शैवाल जैसे थैलोफाइटों की देह सरल थैलस होती है जिसमें विशेष जड़-तना-पत्तियों का विभाजन नहीं होता।",
+        "en": "In algae-like thallophytes the body is a simple thallus without distinct root, stem or leaves."
+      }
+    },
+    {
+      "id": "ch4_q482",
+      "topic": "plant-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्पाइरोगाइरा और उल्वा किस पादप-समूह के उदाहरण हैं?",
+        "en": "Spirogyra and Ulva are examples of which plant group?"
+      },
+      "options": {
+        "hi": [
+          "ब्रायोफाइटा",
+          "थैलोफाइटा",
+          "टेरिडोफाइटा",
+          "जिम्नोस्पर्म"
+        ],
+        "en": [
+          "Bryophyta",
+          "Thallophyta",
+          "Pteridophyta",
+          "Gymnospermae"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ये सरल शरीर-विन्यास वाले शैवाल हैं — थैलोफाइटा के सदस्य।",
+        "en": "These are simple-bodied algae — members of Thallophyta."
+      }
+    },
+    {
+      "id": "ch4_q483",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शैवाल (algae) में पाए जाने वाले वर्णक मुख्यतः किस कार्य करते हैं?",
+        "en": "The pigments found in algae mainly serve which function?"
+      },
+      "options": {
+        "hi": [
+          "भूमि में एंकर बनाना",
+          "जल सोखना",
+          "प्रकाश-संश्लेषण करना",
+          "स्वाभाविक रूप से वाष्प छोड़ना"
+        ],
+        "en": [
+          "Anchoring in soil",
+          "Absorbing water",
+          "Carrying out photosynthesis",
+          "Releasing vapour"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शैवालों में हरित व अन्य वर्णक प्रकाश ग्रहण कर भोजन-निर्माण में सहायक होते हैं।",
+        "en": "Green and other pigments in algae capture light to help build food."
+      }
+    },
+    {
+      "id": "ch4_q484",
+      "topic": "plant-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किस पादप-समूह को 'पादप जगत के उभयचर' कहा जाता है?",
+        "en": "Which plant group is called the 'amphibians of the plant kingdom'?"
+      },
+      "options": {
+        "hi": [
+          "जिम्नोस्पर्म",
+          "एंजियोस्पर्म",
+          "थैलोफाइटा",
+          "ब्रायोफाइटा"
+        ],
+        "en": [
+          "Gymnospermae",
+          "Angiospermae",
+          "Thallophyta",
+          "Bryophyta"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मॉस-लिवरवर्ट जमीन पर तो रहते हैं पर लैंगिक प्रजनन के लिए जल के छिछले जल-स्त्रोत पर निर्भर रहते हैं — इसीलिए उभयचर कहलाते हैं।",
+        "en": "Mosses and liverworts live on land yet need a film of water for sexual reproduction — hence plant-amphibians."
+      }
+    },
+    {
+      "id": "ch4_q485",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मॉस (काई) की जड़ों की जगह क्या होता है?",
+        "en": "What takes the place of true roots in moss?"
+      },
+      "options": {
+        "hi": [
+          "राइज़ॉइड (बाल जैसी संरचनाएँ)",
+          "स्टोलोन",
+          "बल्ब",
+          "ट्यूबर"
+        ],
+        "en": [
+          "Rhizoids (hair-like structures)",
+          "Stolons",
+          "Bulbs",
+          "Tubers"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ब्रायोफाइटों में सच्ची जड़ें नहीं — केवल राइज़ॉइड होते हैं जो देह को टिकाने और जल सोखने का काम करते हैं।",
+        "en": "Bryophytes lack true roots — only rhizoids anchor the body and soak water."
+      }
+    },
+    {
+      "id": "ch4_q486",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ब्रायोफाइटों में जल-संवहन के लिए विशेष ऊतक (xylem-phloem) की स्थिति क्या है?",
+        "en": "What is the status of special conducting tissue (xylem-phloem) in bryophytes?"
+      },
+      "options": {
+        "hi": [
+          "पूर्ण रूप से विकसित",
+          "अनुपस्थित",
+          "केवल जड़ों में",
+          "केवल पत्तियों में"
+        ],
+        "en": [
+          "Fully developed",
+          "Absent",
+          "Only in roots",
+          "Only in leaves"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ब्रायोफाइटों में संवहन ऊतक नहीं होता; इसीलिए ये छोटे आकार के और नम स्थानों के होते हैं।",
+        "en": "Bryophytes lack vascular tissue; hence they stay small and confined to moist spots."
+      }
+    },
+    {
+      "id": "ch4_q487",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "टेरिडोफाइटा (फर्न-समूह) की पहचान क्या है?",
+        "en": "What identifies the Pteridophyta (fern group)?"
+      },
+      "options": {
+        "hi": [
+          "फूल बनाते हैं",
+          "बीज बनाते हैं",
+          "वास्तविक जड़, तना, पत्तियाँ और संवहन ऊतक — पर बीज नहीं, बीजाणु बनाते हैं",
+          "केवल एककोशिकीय होते हैं"
+        ],
+        "en": [
+          "They produce flowers",
+          "They produce seeds",
+          "True roots, stem, leaves and vascular tissue — but no seeds, they make spores",
+          "They are unicellular"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फर्न में जड़-तना-पत्ती का पूर्ण विभाजन और जाइलम-फ्लोएम होते हैं, फिर भी ये बीज नहीं बीजाणु से बढ़ते हैं।",
+        "en": "Ferns have full root-stem-leaf differentiation and xylem-phloem, yet they multiply by spores, not seeds."
+      }
+    },
+    {
+      "id": "ch4_q488",
+      "topic": "plant-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मार्सीलिया और फर्न किस पादप-समूह के उदाहरण हैं?",
+        "en": "Marsilea and ferns are examples of which plant group?"
+      },
+      "options": {
+        "hi": [
+          "एंजियोस्पर्म",
+          "थैलोफाइटा",
+          "ब्रायोफाइटा",
+          "टेरिडोफाइटा"
+        ],
+        "en": [
+          "Angiospermae",
+          "Thallophyta",
+          "Bryophyta",
+          "Pteridophyta"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फर्न, हॉर्सटेल, मार्सीलिया — ये सब टेरिडोफाइटा के सदस्य हैं।",
+        "en": "Fern, horsetail and Marsilea are all members of Pteridophyta."
+      }
+    },
+    {
+      "id": "ch4_q489",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जिम्नोस्पर्म का शाब्दिक अर्थ उनकी किस विशेषता से जुड़ा है?",
+        "en": "The literal meaning of 'gymnosperm' is tied to which of their features?"
+      },
+      "options": {
+        "hi": [
+          "नग्न बीज — बिना फल-ावरण के",
+          "खुली जड़ें",
+          "नग्न तना",
+          "खुले फूल"
+        ],
+        "en": [
+          "Naked seeds — without a fruit covering",
+          "Exposed roots",
+          "Naked stem",
+          "Naked flowers"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "'जिम्नोस्पर्म' = नग्न बीज; इनके बीज अंडाशय से ढके नहीं होते, फल नहीं बनता।",
+        "en": "'Gymnosperm' = naked seed; their seeds are not enclosed in an ovary and no fruit forms."
+      }
+    },
+    {
+      "id": "ch4_q490",
+      "topic": "plant-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चीड़ (Pinus) और साइकस किस पादप-समूह के हैं?",
+        "en": "Pinus (pine) and Cycas belong to which plant group?"
+      },
+      "options": {
+        "hi": [
+          "थैलोफाइटा",
+          "जिम्नोस्पर्म",
+          "टेरिडोफाइटा",
+          "ब्रायोफाइटा"
+        ],
+        "en": [
+          "Thallophyta",
+          "Gymnospermae",
+          "Pteridophyta",
+          "Bryophyta"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चीड़, साइकस, देवदार जैसे शंकुधारी वृक्ष जिम्नोस्पर्म हैं।",
+        "en": "Cone-bearing trees like pine, Cycas and deodar are gymnosperms."
+      }
+    },
+    {
+      "id": "ch4_q491",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जिम्नोस्पर्म के शंकु (cones) में क्या विकसित होते हैं?",
+        "en": "What develops in the cones of gymnosperms?"
+      },
+      "options": {
+        "hi": [
+          "कंद",
+          "फल",
+          "अनावृत बीज",
+          "फूल की पंखुड़ियाँ"
+        ],
+        "en": [
+          "Tubers",
+          "Fruits",
+          "Naked seeds",
+          "Flower petals"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शंकुओं के भीतर बीज खुले रूप में विकसित होते हैं; फल का निर्माण नहीं होता।",
+        "en": "Seeds develop exposed inside the cones; no fruit is formed."
+      }
+    },
+    {
+      "id": "ch4_q492",
+      "topic": "plant-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एंजियोस्पर्म (आवृतबीज) के बीज कैसे होते हैं?",
+        "en": "How are the seeds of angiosperms?"
+      },
+      "options": {
+        "hi": [
+          "शंकु में खुले",
+          "पानी में तैरते खुले",
+          "नग्न रूप से खुले",
+          "फल के भीतर ढके हुए"
+        ],
+        "en": [
+          "Exposed in cones",
+          "Floating exposed in water",
+          "Naked and exposed",
+          "Enclosed inside a fruit"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एंजियोस्पर्म के बीज अंडाशय-व्युत्पन्न फल के भीतर सुरक्षित रहते हैं — इसीलिए 'आवृतबीज' कहलाते हैं।",
+        "en": "Angiosperm seeds stay protected inside a fruit derived from the ovary — hence 'covered seeds'."
+      }
+    },
+    {
+      "id": "ch4_q493",
+      "topic": "plant-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फूल और फल केवल किस पादप-समूह में पाए जाते हैं?",
+        "en": "Flowers and fruits are found only in which plant group?"
+      },
+      "options": {
+        "hi": [
+          "एंजियोस्पर्म",
+          "टेरिडोफाइटा",
+          "ब्रायोफाइटा",
+          "जिम्नोस्पर्म"
+        ],
+        "en": [
+          "Angiospermae",
+          "Pteridophyta",
+          "Bryophyta",
+          "Gymnospermae"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फूल बनाना और फल में बीज ढकना केवल एंजियोस्पर्म की विशेषता है।",
+        "en": "Bearing flowers and enclosing seeds in fruits is exclusive to angiosperms."
+      }
+    },
+    {
+      "id": "ch4_q494",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एंजियोस्पर्म को एकबीजपत्री और द्विबीजपत्री में किस आधार पर बाँटा जाता है?",
+        "en": "On what basis are angiosperms divided into monocots and dicots?"
+      },
+      "options": {
+        "hi": [
+          "बीजों के रंग से",
+          "भ्रूणपत्र (cotyledon) की संख्या से",
+          "तने की मोटाई से",
+          "जड़ की लंबाई से"
+        ],
+        "en": [
+          "Colour of seeds",
+          "Number of cotyledons",
+          "Thickness of stem",
+          "Length of root"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "भ्रूण में एक भ्रूणपत्र = एकबीजपत्री (गेहूँ), दो = द्विबीजपत्री (चना) — यही विभाजन-आधार है।",
+        "en": "One cotyledon in the embryo = monocot (wheat); two = dicot (gram) — that is the dividing basis."
+      }
+    },
+    {
+      "id": "ch4_q495",
+      "topic": "plant-diversity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गेहूँ और मक्का किस श्रेणी के एंजियोस्पर्म हैं?",
+        "en": "Wheat and maize are angiosperms of which category?"
+      },
+      "options": {
+        "hi": [
+          "बीजाणुजन्य",
+          "द्विबीजपत्री",
+          "एकबीजपत्री",
+          "नग्नबीजी"
+        ],
+        "en": [
+          "Spore-bearing",
+          "Dicots",
+          "Monocots",
+          "Naked-seeded"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गेहूँ, मक्का, धान के बीज में एक ही भ्रूणपत्र होता है — अतः एकबीजपत्री।",
+        "en": "Wheat, maize and rice seeds hold a single cotyledon — hence monocots."
+      }
+    },
+    {
+      "id": "ch4_q496",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चना, मटर और आम के पौधे किस श्रेणी में आते हैं?",
+        "en": "Gram, pea and mango plants fall under which category?"
+      },
+      "options": {
+        "hi": [
+          "जिम्नोस्पर्म",
+          "पर्णहरी शैवाल",
+          "एकबीजपत्री",
+          "द्विबीजपत्री"
+        ],
+        "en": [
+          "Gymnosperms",
+          "Leafy algae",
+          "Monocots",
+          "Dicots"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "इनके बीजों में दो भ्रूणपत्र होते हैं — ये द्विबीजपत्री एंजियोस्पर्म हैं।",
+        "en": "Their seeds carry two cotyledons — they are dicot angiosperms."
+      }
+    },
+    {
+      "id": "ch4_q497",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'क्रिप्टोगैम' (गुप्त जननांगी) किन पादप-समूहों को कहा जाता है?",
+        "en": "Which plant groups are called 'cryptogams' (hidden reproductive organs)?"
+      },
+      "options": {
+        "hi": [
+          "थैलोफाइटा, ब्रायोफाइटा, टेरिडोफाइटा",
+          "केवल जिम्नोस्पर्म",
+          "केवल एंजियोस्पर्म",
+          "जिम्नोस्पर्म और एंजियोस्पर्म"
+        ],
+        "en": [
+          "Thallophyta, Bryophyta, Pteridophyta",
+          "Only gymnosperms",
+          "Only angiosperms",
+          "Gymnosperms and angiosperms"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "इन तीनों समूहों में बीज नहीं बनते — जननांग छिपे होते हैं और बीजाणु से वृद्धि होती है।",
+        "en": "These three groups make no seeds — reproductive organs stay hidden and growth occurs via spores."
+      }
+    },
+    {
+      "id": "ch4_q498",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'फैनेरोगैम' (प्रकट जननांगी) पौधों की पहचान क्या है?",
+        "en": "How are 'phanerogams' (visible reproductive organs) identified?"
+      },
+      "options": {
+        "hi": [
+          "ये बीजाणु से बढ़ते हैं",
+          "इनमें सुविकसित बीज बनते हैं",
+          "इनमें जड़ें नहीं होतीं",
+          "ये सभी जलीय होते हैं"
+        ],
+        "en": [
+          "They grow from spores",
+          "They produce well-developed seeds",
+          "They lack roots",
+          "They are all aquatic"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जिम्नोस्पर्म और एंजियोस्पर्म में बीज बनते हैं जिनके जननांग स्पष्ट दिखते हैं — यही फैनेरोगैम हैं।",
+        "en": "Gymnosperms and angiosperms bear seeds with clearly visible reproductive organs — the phanerogams."
+      }
+    },
+    {
+      "id": "ch4_q499",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संवहन ऊतक (जाइलम-फ्लोएम) किस क्रम में पौधों में पहली बार पूर्ण रूप से दिखते हैं?",
+        "en": "Vascular tissue (xylem-phloem) appears fully for the first time in which group of plants?"
+      },
+      "options": {
+        "hi": [
+          "थैलोफाइटा",
+          "ब्रायोफाइटा",
+          "टेरिडोफाइटा",
+          "शैवाल"
+        ],
+        "en": [
+          "Thallophyta",
+          "Bryophyta",
+          "Pteridophyta",
+          "Algae"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "थैलोफाइटा-ब्रायोफाइटा में संवहन ऊतक नहीं; टेरिडोफाइटा से आगे के सभी पौधों में जाइलम-फ्लोएम पाए जाते हैं।",
+        "en": "Thallophytes and bryophytes lack vascular tissue; from pteridophytes onwards all plants have xylem and phloem."
+      }
+    },
+    {
+      "id": "ch4_q500",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मॉस-लिवरवर्ट सामान्यतः कैसे स्थानों पर उगते हैं?",
+        "en": "Mosses and liverworts usually grow in what kind of places?"
+      },
+      "options": {
+        "hi": [
+          "समुद्र के खारे जल में",
+          "ऊँची चट्टानों की धूप में",
+          "शुष्क रेगिस्तान में",
+          "नम और छायादार स्थानों पर"
+        ],
+        "en": [
+          "Salty sea water",
+          "Sunny high rocks",
+          "Dry deserts",
+          "Moist and shady places"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "संवहन ऊतक न होने और जल-आवश्यकता के कारण ब्रायोफाइटा नम-छायादार भूमि पर ही जीवित रह पाते हैं।",
+        "en": "Lacking vascular tissue and needing water, bryophytes survive only on moist shady ground."
+      }
+    },
+    {
+      "id": "ch4_q501",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फर्न की पत्तियों की पीठ (नीचे की सतह) पर बीजाणु कहाँ बनते हैं?",
+        "en": "Where on the underside of fern leaves are the spores formed?"
+      },
+      "options": {
+        "hi": [
+          "पत्तियों की निचली सतह पर बीजाणु-थैलों में",
+          "तने के भीतर",
+          "फूलों में",
+          "जड़ों पर"
+        ],
+        "en": [
+          "In spore sacs on the lower surface of leaves",
+          "Inside the stem",
+          "In flowers",
+          "On the roots"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फर्न की पत्तियों के नीचे धब्बेदार बीजाणु-थैले (sori) दिखते हैं जिनसे सूक्ष्म बीजाणु गिरते हैं।",
+        "en": "Spotted spore sacs (sori) on the fern's leaf underside release the tiny spores."
+      }
+    },
+    {
+      "id": "ch4_q502",
+      "topic": "plant-diversity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक पेड़ में बीज हैं पर फल नहीं बनता — शंकुओं में बीज खुले दिखते हैं; यह पेड़ किस समूह का है?",
+        "en": "A tree bears seeds but forms no fruit — its seeds lie exposed in cones; which group does it belong to?"
+      },
+      "options": {
+        "hi": [
+          "एंजियोस्पर्म",
+          "जिम्नोस्पर्म",
+          "टेरिडोफाइटा",
+          "ब्रायोफाइटा"
+        ],
+        "en": [
+          "Angiosperm",
+          "Gymnosperm",
+          "Pteridophyta",
+          "Bryophyta"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फल-कवच के अभाव में शंकुओं में खुले बीज = जिम्नोस्पर्म की निशानी; फल में बंद बीज एंजियोस्पर्म बनाते हैं।",
+        "en": "Seeds exposed in cones with no fruit coat = gymnosperm hallmark; seeds sealed in fruit mark angiosperms."
+      }
+    },
+    {
+      "id": "ch4_q503",
+      "topic": "plant-diversity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "देह-जटिलता बढ़ने का सही क्रम (सरल से जटिल की ओर) कौन-सा है?",
+        "en": "Which is the correct sequence of increasing body complexity (simple to complex)?"
+      },
+      "options": {
+        "hi": [
+          "ब्रायोफाइटा → थैलोफाइटा → एंजियोस्पर्म → टेरिडोफाइटा",
+          "टेरिडोफाइटा → ब्रायोफाइटा → थैलोफाइटा → जिम्नोस्पर्म",
+          "थैलोफाइटा → ब्रायोफाइटा → टेरिडोफाइटा → जिम्नोस्पर्म → एंजियोस्पर्म",
+          "एंजियोस्पर्म → जिम्नोस्पर्म → टेरिडोफाइटा → ब्रायोफाइटा"
+        ],
+        "en": [
+          "Bryophyta → Thallophyta → Angiospermae → Pteridophyta",
+          "Pteridophyta → Bryophyta → Thallophyta → Gymnospermae",
+          "Thallophyta → Bryophyta → Pteridophyta → Gymnospermae → Angiospermae",
+          "Angiospermae → Gymnospermae → Pteridophyta → Bryophyta"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सरल थैलस से लेकर फूल-फल वाले जटिल पौधों तक क्रम है — थैलो → ब्रायो → टेरिडो → जिम्नो → एंजियो।",
+        "en": "From a simple thallus to complex flowering plants the order runs — thallo → bryo → pterido → gymno → angio."
+      }
+    },
+    {
+      "id": "ch4_q504",
+      "topic": "plant-diversity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बीजाणु (spores) से नई संतति बनाने वाले पौधे कौन-से हैं?",
+        "en": "Which plants raise new progeny from spores?"
+      },
+      "options": {
+        "hi": [
+          "केवल एंजियोस्पर्म",
+          "जिम्नोस्पर्म और एंजियोस्पर्म दोनों",
+          "केवल जिम्नोस्पर्म",
+          "थैलोफाइटा, ब्रायोफाइटा और टेरिडोफाइटा"
+        ],
+        "en": [
+          "Only angiosperms",
+          "Both gymnosperms and angiosperms",
+          "Only gymnosperms",
+          "Thallophyta, Bryophyta and Pteridophyta"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शैवाल, मॉस और फर्न बीज नहीं बनाते — बीजाणुओं से बढ़ते हैं; जिम्नोस्पर्म/एंजियोस्पर्म बीज से बढ़ते हैं।",
+        "en": "Algae, mosses and ferns make no seeds — they grow from spores; gymnosperms and angiosperms grow from seeds."
+      }
+    },
+    {
+      "id": "ch4_q505",
+      "topic": "plant-diversity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "फर्न किसी बगीचे में उगा है — उसकी पहचान के लिए सबसे उपयुक्त लक्षण-त्रयी कौन-सी है?",
+        "en": "A fern grows in a garden — which triad of features best identifies it?"
+      },
+      "options": {
+        "hi": [
+          "जड़-तना-पत्ती का विभाजन, संवहन ऊतक, बीजाणु बनना",
+          "फूल, फल, दो भ्रूणपत्र",
+          "राइज़ॉइड, थैलस, बीज",
+          "नग्न बीज, शंकु, सदाबहार"
+        ],
+        "en": [
+          "Root-stem-leaf differentiation, vascular tissue, spore formation",
+          "Flower, fruit, two cotyledons",
+          "Rhizoids, thallus, seeds",
+          "Naked seeds, cones, evergreen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फर्न = टेरिडोफाइटा — पूर्ण देह-विभाजन + जाइलम-फ्लोएम + बीजाणु-प्रजनन; यही तीन लक्षण मिलकर पहचान देते हैं।",
+        "en": "Fern = pteridophyte — full body differentiation + xylem-phloem + spore reproduction; together these three clinch the ID."
+      }
+    },
+    {
+      "id": "ch4_q506",
+      "topic": "heredity-variation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आनुवंशिकता (heredity) के अध्ययन का आधार बनने वाले प्रयोग किसने किए?",
+        "en": "Who performed the experiments that became the foundation of the study of heredity?"
+      },
+      "options": {
+        "hi": [
+          "कार्ल लिनियस",
+          "ग्रेगर जोहान मेंडल",
+          "आर.एच. व्हिटेकर",
+          "रॉबर्ट हुक"
+        ],
+        "en": [
+          "Carl Linnaeus",
+          "Gregor Johann Mendel",
+          "R.H. Whittaker",
+          "Robert Hooke"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मेंडल ने मटर के पौधों पर प्रयोग कर आनुवंशिकता के नियम दिए; इसीलिए उन्हें आनुवंशिकी का जनक कहते हैं।",
+        "en": "Mendel derived the laws of inheritance from pea-plant experiments; hence he is called the father of genetics."
+      }
+    },
+    {
+      "id": "ch4_q507",
+      "topic": "heredity-variation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मेंडल ने अपने प्रयोग किस पौधे पर किए थे?",
+        "en": "On which plant did Mendel conduct his experiments?"
+      },
+      "options": {
+        "hi": [
+          "धान",
+          "सरसों",
+          "मटर (Pisum sativum)",
+          "गेहूँ"
+        ],
+        "en": [
+          "Rice",
+          "Mustard",
+          "Garden pea (Pisum sativum)",
+          "Wheat"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मटर के पौधे में स्पष्ट विपरीत लक्षणों वाली किस्में उपलब्ध थीं और जीवन-चक्र छोटा था — यही कारण चुनाव का था।",
+        "en": "Pea plants offered varieties with clearly contrasting traits and a short life cycle — the reason for the choice."
+      }
+    },
+    {
+      "id": "ch4_q508",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेंडल ने मटर को ही अपना प्रयोग-पौधा क्यों चुना?",
+        "en": "Why did Mendel choose the pea as his experimental plant?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह बिना पानी के जीता है",
+          "क्योंकि उसके फूल रंग-बिरंगे होते हैं",
+          "क्योंकि वह बहुत बड़ा होता है",
+          "क्योंकि उसमें स्पष्ट विपरीत लक्षण जोड़े थे और आत्मपरागण संभव था"
+        ],
+        "en": [
+          "Because it survives without water",
+          "Because its flowers are colourful",
+          "Because it grows very large",
+          "Because it had clear contrasting trait pairs and allowed self-pollination"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लंबा-बौना, गोल-झुर्रुआ जैसे सात स्पष्ट विपरीत लक्षण, आत्मपरागण की सुविधा और छोटा जीवन-चक्र — ये गुण मटर को आदर्श बनाते हैं।",
+        "en": "Seven clear contrasting traits (tall-dwarf, round-wrinkled), easy self-pollination and a short life cycle made the pea ideal."
+      }
+    },
+    {
+      "id": "ch4_q509",
+      "topic": "heredity-variation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रभावी (dominant) लक्षण की परिभाषा क्या है?",
+        "en": "How is a dominant trait defined?"
+      },
+      "options": {
+        "hi": [
+          "जो लक्षण संकरण में अपने विपरीत लक्षण को ढककर स्वयं प्रकट होता है",
+          "जो लक्षण केवल बीज में होता है",
+          "जो लक्षण कभी वंश में नहीं आता",
+          "जो लक्षण F1 में अदृश्य रह जाता है"
+        ],
+        "en": [
+          "The trait that masks its opposite partner and expresses itself in a cross",
+          "The trait present only in seeds",
+          "The trait that never reaches the progeny",
+          "The trait that stays hidden in F1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रभावी लक्षण युग्मविकल्पी में से स्वयं प्रकट हो जाता है; अप्रभावी (recessive) लक्षण उसके सामने छिप जाता है।",
+        "en": "Of a pair, the dominant trait expresses itself; the recessive partner stays hidden before it."
+      }
+    },
+    {
+      "id": "ch4_q510",
+      "topic": "heredity-variation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जीन-प्ररूप (genotype) और लक्षण-प्ररूप (phenotype) में क्या अंतर है?",
+        "en": "What is the difference between genotype and phenotype?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक ही हैं",
+          "जीन-प्ररूप = जीनों की आंतरिक संरचना; लक्षण-प्ररूप = दिखने वाला बाह्य लक्षण",
+          "जीन-प्ररूप केवल पौधों में होता है",
+          "लक्षण-प्ररूप केवल जानवरों में होता है"
+        ],
+        "en": [
+          "Both are the same",
+          "Genotype = internal genetic makeup; phenotype = observable outward trait",
+          "Genotype occurs only in plants",
+          "Phenotype occurs only in animals"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Tt का जीन-प्ररूप भिन्न है पर लक्षण-प्ररूप (लंबा) TT जैसा ही — आंतरिक बनाम बाह्य का यही अंतर है।",
+        "en": "Tt differs in genotype yet matches TT in phenotype (tall) — internal makeup versus outward appearance."
+      }
+    },
+    {
+      "id": "ch4_q511",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समयुग्मजी (homozygous) और विषमयुग्मजी (heterozygous) में क्या भेद है?",
+        "en": "What distinguishes homozygous from heterozygous?"
+      },
+      "options": {
+        "hi": [
+          "विषमयुग्मजी सदैव अप्रभावी होता है",
+          "कोई भेद नहीं",
+          "समयुग्मजी में दोनों जीन-प्रतिरूप समान होते हैं, विषमयुग्मजी में भिन्न",
+          "समयुग्मजी में जीन नहीं होते"
+        ],
+        "en": [
+          "Heterozygous is always recessive",
+          "No difference",
+          "Homozygous has both gene copies alike; heterozygous has different copies",
+          "Homozygous lacks genes"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "TT या tt = समयुग्मजी (एक जैसे प्रतिरूप); Tt = विषमयुग्मजी (एक प्रभावी + एक अप्रभावी)।",
+        "en": "TT or tt = homozygous (alike copies); Tt = heterozygous (one dominant + one recessive)."
+      }
+    },
+    {
+      "id": "ch4_q512",
+      "topic": "heredity-variation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "TT (लंबा) × tt (बौना) संकरण की F1 पीढ़ी कैसी होगी?",
+        "en": "What will the F1 generation of a TT (tall) × tt (dwarf) cross be like?"
+      },
+      "options": {
+        "hi": [
+          "आधे लंबे, आधे बौने",
+          "मध्यम ऊँचाई",
+          "सभी बौने",
+          "सभी लंबे (Tt)"
+        ],
+        "en": [
+          "Half tall, half dwarf",
+          "Intermediate height",
+          "All dwarf",
+          "All tall (Tt)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रत्येक F1 पौधे को जनकों से T और t मिलता है — सभी Tt; T प्रभावी होने से सब लंबे दिखते हैं।",
+        "en": "Every F1 plant receives T from one parent and t from the other — all Tt; with T dominant, all appear tall."
+      }
+    },
+    {
+      "id": "ch4_q513",
+      "topic": "heredity-variation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "Tt × Tt संकरण की F2 पीढ़ी में लंबे : बौने का अनुपात क्या होता है?",
+        "en": "In the F2 generation of a Tt × Tt cross, what is the ratio of tall : dwarf?"
+      },
+      "options": {
+        "hi": [
+          "3 : 1",
+          "9 : 3",
+          "1 : 1",
+          "2 : 1"
+        ],
+        "en": [
+          "3 : 1",
+          "9 : 3",
+          "1 : 1",
+          "2 : 1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F2 में TT, Tt, Tt, tt बनते हैं — तीन लंबे एक बौना; अर्थात् 3 : 1 लक्षण-प्ररूप अनुपात।",
+        "en": "F2 yields TT, Tt, Tt, tt — three tall to one dwarf; the 3:1 phenotypic ratio."
+      }
+    },
+    {
+      "id": "ch4_q514",
+      "topic": "heredity-variation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "Tt × Tt की F2 पीढ़ी में जीन-प्ररूप (genotypic) अनुपात क्या है?",
+        "en": "What is the genotypic ratio in the F2 generation of Tt × Tt?"
+      },
+      "options": {
+        "hi": [
+          "3 : 1",
+          "1 : 2 : 1",
+          "9 : 3 : 3 : 1",
+          "2 : 2"
+        ],
+        "en": [
+          "3 : 1",
+          "1 : 2 : 1",
+          "9 : 3 : 3 : 1",
+          "2 : 2"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "TT : Tt : tt = 1 : 2 : 1 — यही जीन-प्ररूप अनुपात है; लक्षण-प्ररूप 3 : 1 से इसे भ्रमित न करें।",
+        "en": "TT : Tt : tt = 1 : 2 : 1 — the genotypic ratio; do not confuse it with the 3:1 phenotypic ratio."
+      }
+    },
+    {
+      "id": "ch4_q515",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अप्रभावी (recessive) लक्षण कब प्रकट होता है?",
+        "en": "When does a recessive trait express itself?"
+      },
+      "options": {
+        "hi": [
+          "केवल F1 में",
+          "जब एक भी प्रभावी जीन हो",
+          "जब दोनों जीन-प्रतिरूप अप्रभावी हों (जैसे tt)",
+          "कभी नहीं"
+        ],
+        "en": [
+          "Only in F1",
+          "Even when one dominant gene is present",
+          "Only when both gene copies are recessive (as in tt)",
+          "Never"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अप्रभावी लक्षण केवल समयुग्मजी अप्रभावी अवस्था (tt) में ही दिखता है; एक T आते ही वह ढक जाता है।",
+        "en": "A recessive trait appears only in the double-recessive state (tt); a single T masks it."
+      }
+    },
+    {
+      "id": "ch4_q516",
+      "topic": "heredity-variation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "Tt × Tt संकरण के F2 में बौने पौधों का प्रतिशत कितना होगा?",
+        "en": "What percentage of the F2 of a Tt × Tt cross will be dwarf?"
+      },
+      "options": {
+        "hi": [
+          "50%",
+          "75%",
+          "100%",
+          "25%"
+        ],
+        "en": [
+          "50%",
+          "75%",
+          "100%",
+          "25%"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चार संततियों में एक tt होता है — यानी 25% बौने; 75% लंबे।",
+        "en": "One of the four offspring is tt — 25% dwarf; the other 75% are tall."
+      }
+    },
+    {
+      "id": "ch4_q517",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेंडल के 'कारक' आज किस नाम से जाने जाते हैं?",
+        "en": "By what name are Mendel's 'factors' known today?"
+      },
+      "options": {
+        "hi": [
+          "जीन",
+          "प्रोटीन",
+          "वायरस",
+          "कोशिकाएँ"
+        ],
+        "en": [
+          "Genes",
+          "Proteins",
+          "Viruses",
+          "Cells"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मेंडल ने लक्षणों को संचारित करने वाली इकाइयों को कारक कहा; आज ये जीन कहलाती हैं।",
+        "en": "Mendel called the units transmitting traits 'factors'; today we know them as genes."
+      }
+    },
+    {
+      "id": "ch4_q518",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "युग्मविकल्पी (alleles) क्या होते हैं?",
+        "en": "What are alleles?"
+      },
+      "options": {
+        "hi": [
+          "दो अलग गुणसूत्र",
+          "एक ही जीन के दो वैकल्पिक रूप जो एक ही लक्षण को नियंत्रित करते हैं",
+          "दो भिन्न जीन",
+          "कोशिका के दो अंग"
+        ],
+        "en": [
+          "Two separate chromosomes",
+          "Two alternative forms of the same gene controlling one trait",
+          "Two different genes",
+          "Two cell organelles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लंबाई जीन के T और t रूप युग्मविकल्पी हैं — एक ही लक्षण के दो प्रतिरूप।",
+        "en": "The T and t forms of the height gene are alleles — two versions of the one trait."
+      }
+    },
+    {
+      "id": "ch4_q519",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गुणसूत्रों के युग्म से संतति को जीन कैसे मिलते हैं?",
+        "en": "How does an offspring receive its genes from a chromosome pair?"
+      },
+      "options": {
+        "hi": [
+          "यादृच्छिक तीन जनकों से",
+          "दोनों जीन एक ही जनक से",
+          "प्रत्येक जनक से एक-एक प्रतिरूप (गुणसूत्र के वियोजन से)",
+          "केवल माता से दोनों"
+        ],
+        "en": [
+          "Randomly from three parents",
+          "Both genes from one parent",
+          "One copy from each parent (through separation of chromosomes)",
+          "Both only from the mother"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रत्येक जनक अपने युग्म में से एक गुणसूत्र यादृच्छिक रूप से देता है — इसी वियोजन से संतति को एक-एक प्रतिरूप मिलता है।",
+        "en": "Each parent passes one chromosome of the pair at random — through this separation the young gets one copy apiece."
+      }
+    },
+    {
+      "id": "ch4_q520",
+      "topic": "heredity-variation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'विविधता' (variation) से क्या तात्पर्य है?",
+        "en": "What is meant by 'variation'?"
+      },
+      "options": {
+        "hi": [
+          "सभी जीवों की समानता",
+          "जीवों का एक-सा भोजन",
+          "निर्जीव वस्तुओं के अंतर",
+          "एक ही जाति के जीवों में पाए जाने वाले अंतर"
+        ],
+        "en": [
+          "Similarity of all organisms",
+          "Identical food of organisms",
+          "Differences among non-living things",
+          "The differences found among individuals of the same species"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक ही जाति के सदस्य भी रंग, ऊँचाई, रूप में भिन्न होते हैं — यही विविधता है।",
+        "en": "Members of one species still differ in colour, height and form — that is variation."
+      }
+    },
+    {
+      "id": "ch4_q521",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नई संततियों में विविधताएँ किन प्रक्रियाओं से उत्पन्न होती हैं?",
+        "en": "By which processes do variations arise in new progeny?"
+      },
+      "options": {
+        "hi": [
+          "लैंगिक प्रजनन के दौरान जीन-संयोजन और डीएनए-प्रतिरूपण की लघु त्रुटियों से",
+          "केवल व्यायाम से",
+          "केवल जलवायु से",
+          "केवल भोजन से"
+        ],
+        "en": [
+          "From gene combinations during sexual reproduction and minor errors of DNA copying",
+          "From exercise alone",
+          "From climate alone",
+          "From food alone"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दो जनकों के जीन मिलने के अनगिनत संयोजन और डीएनए कॉपी में आने वाली सूक्ष्म गलतियाँ — दोनों विविधता के स्रोत हैं।",
+        "en": "Countless combinations of two parents' genes and tiny DNA-copying slips — both feed variation."
+      }
+    },
+    {
+      "id": "ch4_q522",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी जाति के लिए विविधता (variation) महत्वपूर्ण क्यों है?",
+        "en": "Why is variation important for a species?"
+      },
+      "options": {
+        "hi": [
+          "यह सभी जीवों को समान बनाती है",
+          "परिस्थितियाँ बदलने पर कम-से-कम कुछ सदस्यों के जीवित रहने की संभावना बढ़ाती है",
+          "यह प्रजनन रोकती है",
+          "इसका कोई महत्व नहीं"
+        ],
+        "en": [
+          "It makes all organisms identical",
+          "If conditions change, it raises the chance that at least some members survive",
+          "It stops reproduction",
+          "It has no importance"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "यदि पर्यावरण में प्रतिकूल बदलाव आए तो विविध लक्षणों वाली आबादी में से कुछ जीव उसे झेल लेते हैं — जाति बची रहती है।",
+        "en": "Should the environment turn hostile, some members of a varied population withstand it — the species persists."
+      }
+    },
+    {
+      "id": "ch4_q523",
+      "topic": "heredity-variation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव नर (पुरुष) के लिंग-गुणसूत्र कौन-से होते हैं?",
+        "en": "Which are the sex chromosomes of a human male?"
+      },
+      "options": {
+        "hi": [
+          "XO",
+          "XX",
+          "XY",
+          "YY"
+        ],
+        "en": [
+          "XO",
+          "XX",
+          "XY",
+          "YY"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पुरुष में एक X और एक Y गुणसूत्र होता है; स्त्री में दोनों X होते हैं।",
+        "en": "A male has one X and one Y chromosome; a female has two X chromosomes."
+      }
+    },
+    {
+      "id": "ch4_q524",
+      "topic": "heredity-variation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव मादा (स्त्री) के लिंग-गुणसूत्र कौन-से होते हैं?",
+        "en": "Which are the sex chromosomes of a human female?"
+      },
+      "options": {
+        "hi": [
+          "YY",
+          "XYY",
+          "XY",
+          "XX"
+        ],
+        "en": [
+          "YY",
+          "XYY",
+          "XY",
+          "XX"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्त्री में दोनों लिंग-गुणसूत्र X होते हैं — इसीलिए अंडे में सदैव X ही जाता है।",
+        "en": "Both sex chromosomes of a female are X — hence her egg always carries an X."
+      }
+    },
+    {
+      "id": "ch4_q525",
+      "topic": "heredity-variation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "संतान का लिंग निर्धारण में वास्तव में किसके शुक्राणु पर निर्भर करता है?",
+        "en": "The sex of the child in fact depends on whose gamete?"
+      },
+      "options": {
+        "hi": [
+          "पिता के शुक्राणु पर (X या Y वहन करने पर)",
+          "दोनों पर समान रूप से",
+          "निर्भर नहीं करता",
+          "माता के अंडे पर"
+        ],
+        "en": [
+          "The father's sperm (carrying either X or Y)",
+          "Equally on both",
+          "It depends on neither",
+          "The mother's egg"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "माता का अंडा तो सदैव X देता है; पिता का शुक्राणु X दे तो कन्या (XX), Y दे तो पुत्र (XY) — अतः निर्णायक पिता है।",
+        "en": "The mother's egg always gives an X; the father's sperm gives X for a girl (XX) or Y for a boy (XY) — the father is decisive."
+      }
+    },
+    {
+      "id": "ch4_q526",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मानव में पुत्र या पुत्री होने की प्रायिकता कितनी होती है?",
+        "en": "What is the probability of a human child being a boy or a girl?"
+      },
+      "options": {
+        "hi": [
+          "पुत्र 75%, पुत्री 25%",
+          "दोनों 50%–50%",
+          "पुत्री 75%, पुत्र 25%",
+          "निश्चित क्रम में बदलती है"
+        ],
+        "en": [
+          "Boy 75%, girl 25%",
+          "Both 50%–50%",
+          "Girl 75%, boy 25%",
+          "Changes in a fixed order"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "X-शुक्राणु और Y-शुक्राणु बनने की संख्या बराबर होती है, इसलिए दोनों लिंग की संभावना समान 50% रहती है।",
+        "en": "X-bearing and Y-bearing sperms form in equal numbers, so each sex has an equal 50% chance."
+      }
+    },
+    {
+      "id": "ch4_q527",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मानव मादा के अंडे (ovum) में लिंग-गुणसूत्र क्या होता है?",
+        "en": "What sex chromosome does a human female's egg always carry?"
+      },
+      "options": {
+        "hi": [
+          "कोई नहीं",
+          "सदैव Y",
+          "सदैव X",
+          "कभी X कभी Y"
+        ],
+        "en": [
+          "None",
+          "Always Y",
+          "Always X",
+          "Sometimes X, sometimes Y"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्त्री का लिंग-युग्म XX है, अतः हर अंडे में X ही जाता है; Y तो केवल शुक्राणु से आ सकता है।",
+        "en": "A female's pair is XX, so every egg carries an X; a Y can only come from the sperm."
+      }
+    },
+    {
+      "id": "ch4_q528",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संतान का लिंग किस क्षण तय हो जाता है?",
+        "en": "At which moment is a child's sex decided?"
+      },
+      "options": {
+        "hi": [
+          "भोजन के प्रकार से बाद में",
+          "जन्म के समय",
+          "गर्भ के पाँचवें माह में",
+          "निषेचन (fertilisation) के समय जब शुक्राणु अंडे से मिलता है"
+        ],
+        "en": [
+          "Later, depending on food type",
+          "At birth",
+          "In the fifth month of pregnancy",
+          "At fertilisation, when the sperm meets the egg"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शुक्राणु (X/Y) और अंडे (X) के मिलने पर ही युग्म तय हो जाता है — लिंग निषेचन के क्षण निर्धारित है।",
+        "en": "The pairing of sperm (X/Y) with the egg (X) settles the combo — sex is fixed at the moment of fertilisation."
+      }
+    },
+    {
+      "id": "ch4_q529",
+      "topic": "heredity-variation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तैरना सीख लेने से बनी मजबूत बाँहें अगली पीढ़ी में क्यों नहीं जातीं?",
+        "en": "Why are stronger arms acquired by learning to swim not passed to the next generation?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि अर्जित लक्षण जीन में परिवर्तन नहीं करते — केवल जन्यु (inherited) लक्षण ही संतति को मिलते हैं",
+          "क्योंकि बाँहें जीन से नहीं बनतीं",
+          "क्योंकि तैरना निषेध है",
+          "क्योंकि जीन जन्म के बाद बदल जाते हैं"
+        ],
+        "en": [
+          "Because acquired traits do not alter genes — only inherited traits reach the progeny",
+          "Because arms are not built by genes",
+          "Because swimming is forbidden",
+          "Because genes change after birth"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जीवनकाल में अर्जित (acquired) परिवर्तन जनन कोशिकाओं के डीएनए में नहीं लिखे जाते; केवल जन्यु लक्षण ही संतान को मिलते हैं।",
+        "en": "Changes acquired during a lifetime are not written into the DNA of germ cells; only inherited traits reach offspring."
+      }
+    },
+    {
+      "id": "ch4_q530",
+      "topic": "heredity-variation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा मानवीय लक्षण जन्यु (inherited) है, अर्जित नहीं?",
+        "en": "Which of the following human traits is inherited, not acquired?"
+      },
+      "options": {
+        "hi": [
+          "मोटी हो गई बाहें",
+          "कान की पतली निचली पत्ती (free earlobe)",
+          "तेज चलने की आदत",
+          "साइकिल चलाना"
+        ],
+        "en": [
+          "Thickened arms",
+          "Free earlobe",
+          "The habit of walking fast",
+          "Cycling"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कान-पत्ती का जुड़ा होना या मुक्त होना जीनों से तय होता है; साइकिल चलाने जैसे गुण अनुभव से अर्जित होते हैं।",
+        "en": "Whether the earlobe is attached or free is gene-decided; skills like cycling are acquired by experience."
+      }
+    },
+    {
+      "id": "ch4_q531",
+      "topic": "habitats-adaptations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'आवास' (habitat) से क्या तात्पर्य है?",
+        "en": "What is meant by 'habitat'?"
+      },
+      "options": {
+        "hi": [
+          "जीव की आयु",
+          "जीव का भोजन",
+          "वह स्थान जहाँ जीव रहता है और जहाँ उसे भोजन-जल-आश्रय मिलता है",
+          "जीव का रंग"
+        ],
+        "en": [
+          "An organism's age",
+          "An organism's food",
+          "The place where an organism lives and finds food, water and shelter",
+          "An organism's colour"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "आवास जीव का घर-क्षेत्र है — जैसे मछली का जल और ऊँट का रेगिस्तान।",
+        "en": "A habitat is an organism's home ground — water for a fish, desert for a camel."
+      }
+    },
+    {
+      "id": "ch4_q532",
+      "topic": "habitats-adaptations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'अनुकूलन' (adaptation) किसे कहते हैं?",
+        "en": "What is called an 'adaptation'?"
+      },
+      "options": {
+        "hi": [
+          "जीव का सो जाना",
+          "जीवों का परस्पर भोजन",
+          "जीव का एक स्थान से दूसरे स्थान जाना",
+          "अपने आवास में जीवित रहने के लिए जीव में पाई जाने वाली विशेष विशेषताएँ"
+        ],
+        "en": [
+          "An organism sleeping",
+          "Organisms feeding each other",
+          "An organism moving from one place to another",
+          "Special features found in an organism that help it survive in its habitat"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊँट की पलकें, मछली के पंख — ये अनुकूलन हैं जो अपने-अपने आवास में जीवन सुगम बनाते हैं।",
+        "en": "A camel's eyelashes, a fish's fins — adaptations that ease life in their respective habitats."
+      }
+    },
+    {
+      "id": "ch4_q533",
+      "topic": "habitats-adaptations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल में रहने वाले जीवों का आवास किस प्रकार का होता है?",
+        "en": "What type of habitat do water-dwelling organisms have?"
+      },
+      "options": {
+        "hi": [
+          "जलीय (aquatic)",
+          "वायवीय",
+          "भूमिगत",
+          "स्थलीय"
+        ],
+        "en": [
+          "Aquatic",
+          "Aerial",
+          "Underground",
+          "Terrestrial"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मछली, झींगा, उल्ली जैसे जीव जलीय आवास के हैं; स्थलीय आवास ज़मीन पर होता है।",
+        "en": "Fish, prawn, octopus live in aquatic habitats; terrestrial ones lie on land."
+      }
+    },
+    {
+      "id": "ch4_q534",
+      "topic": "habitats-adaptations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मछली की श्वसन-संरचना कौन-सी है जो उसे जल में साँस लेने देती है?",
+        "en": "Which respiratory structure lets a fish breathe in water?"
+      },
+      "options": {
+        "hi": [
+          "फेफड़े",
+          "गलफड़े (gills)",
+          "त्वचा",
+          "श्वासनली"
+        ],
+        "en": [
+          "Lungs",
+          "Gills",
+          "Skin",
+          "Trachea"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गलफड़े जल से घुली ऑक्सीजन लेते हैं — यह जलीय जीवन का मुख्य अनुकूलन है।",
+        "en": "Gills extract oxygen dissolved in water — the prime adaptation for aquatic life."
+      }
+    },
+    {
+      "id": "ch4_q535",
+      "topic": "habitats-adaptations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मछली की धारारेखीय (streamlined) देह उसे कैसे सहायक है?",
+        "en": "How does a fish's streamlined body help it?"
+      },
+      "options": {
+        "hi": [
+          "उड़ने में",
+          "गहराई में ऑक्सीजन बनाने में",
+          "जल में घर्षण घटाकर सरलता से तैरने में",
+          "जमीन पर चलने में"
+        ],
+        "en": [
+          "In flying",
+          "In producing oxygen at depth",
+          "By reducing water resistance for easy swimming",
+          "In walking on land"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संकरी-पतली देह जल को आसानी से काटती है — तेज़ और ऊर्जा-कुशल तैराकी धारारेखीय आकार का लाभ है।",
+        "en": "The narrow tapering body cuts water easily — fast, energy-efficient swimming is the payoff of the stream shape."
+      }
+    },
+    {
+      "id": "ch4_q536",
+      "topic": "habitats-adaptations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मछली के पंख (fins) मुख्यतः क्या करते हैं?",
+        "en": "What do the fins of a fish mainly do?"
+      },
+      "options": {
+        "hi": [
+          "भोजन पचाना",
+          "जनन",
+          "श्वसन",
+          "तैरते समय संतुलन और दिशा-नियंत्रण"
+        ],
+        "en": [
+          "Digesting food",
+          "Reproduction",
+          "Breathing",
+          "Balance and steering while swimming"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पंख रुड़ी का काम करते हैं — मोड़ना, रुकना और संतुलन रखना।",
+        "en": "Fins work like rudders — turning, stopping and keeping balance."
+      }
+    },
+    {
+      "id": "ch4_q537",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेगिस्तान में कैक्टस जैसे पौधों की पत्तियाँ काँटों में क्यों बदल गई हैं?",
+        "en": "Why have leaves of desert plants like cactus turned into spines?"
+      },
+      "options": {
+        "hi": [
+          "जिससे जल की हानि कम से कम हो",
+          "जिससे प्रकाश अधिक मिले",
+          "जिससे जड़ें गहरी जाएँ",
+          "जिससे फूल सुंदर लगें"
+        ],
+        "en": [
+          "To minimise the loss of water",
+          "To receive more light",
+          "To send roots deeper",
+          "To make flowers attractive"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "काँटे बनने से पत्ती-सतह लगभग समाप्त हो जाती है — वाष्पीकरण से जल की बचत होती है; भोजन तने में बनता है।",
+        "en": "Becoming spines removes almost all leaf surface — water saved from vapour loss; food is made in the stem."
+      }
+    },
+    {
+      "id": "ch4_q538",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेगिस्तान के ऊँट के कूबड़ (hump) में सामान्यतः क्या भरा रहता है?",
+        "en": "What does the hump of a desert camel generally store?"
+      },
+      "options": {
+        "hi": [
+          "जल",
+          "वसा",
+          "प्रोटीन",
+          "वायु"
+        ],
+        "en": [
+          "Water",
+          "Fat",
+          "Protein",
+          "Air"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कूबड़ वसा का भंडार है, पानी का नहीं — यही वसा जरूरत पर ऊर्जा और उप-उत्पाद के रूप में जल देती है; 'कूबड़=पानी' एक प्रसिद्ध भ्रम है।",
+        "en": "The hump stores fat, not water — on demand it yields energy plus metabolic water; 'hump = water' is a famous myth."
+      }
+    },
+    {
+      "id": "ch4_q539",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ध्रुवीय भालू के शरीर की मोटी वसा-परत (blubber) क्या कार्य करती है?",
+        "en": "What does the thick fat layer (blubber) of a polar bear do?"
+      },
+      "options": {
+        "hi": [
+          "गर्मी में शीतलन",
+          "रंग बदलना",
+          "ठंड से रक्षा और ऊर्जा-भंडार",
+          "जल में डूबने में सहायता"
+        ],
+        "en": [
+          "Cooling in summer",
+          "Changing colour",
+          "Protection from cold and an energy store",
+          "Help in sinking in water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बर्फीले आवास में वसा-परत शरीर की गर्मी रोकती है और भुखमरी के दिनों में ऊर्जा देती है।",
+        "en": "In an icy habitat the fat layer traps body heat and supplies energy through starving days."
+      }
+    },
+    {
+      "id": "ch4_q540",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पहाड़ी बकरी जैसे जीवों की खुर (hooves) कैसे होते हैं?",
+        "en": "What are the hooves of mountain goats like?"
+      },
+      "options": {
+        "hi": [
+          "लंबे नाखूनदार",
+          "झिल्लीदार",
+          "चौड़े और चपटे",
+          "मजबूत और खुरों वाले — चट्टानों पर पकड़ के लिए"
+        ],
+        "en": [
+          "Long clawed",
+          "Webbed",
+          "Broad and flat",
+          "Strong and split — for grip on rocks"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खुरों वाले मजबूत पैर ढलानों पर चिपकने और कूदने में सहायक हैं — पहाड़ी आवास का अनुकूलन।",
+        "en": "Strong hoofed legs grip and leap on slopes — the mountain-habitat adaptation."
+      }
+    },
+    {
+      "id": "ch4_q541",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेंढक अपना जीवन कैसे व्यतीत करता है?",
+        "en": "How does the frog spend its life?"
+      },
+      "options": {
+        "hi": [
+          "जल में भी और स्थल पर भी — दोनों जगह",
+          "केवल पेड़ों पर",
+          "पूर्णतः जल में",
+          "पूर्णतः स्थल पर"
+        ],
+        "en": [
+          "Both in water and on land",
+          "Only on trees",
+          "Entirely in water",
+          "Entirely on land"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मेंढक जल के पास रहता है — नम त्वचा और जल में अंडे देने के कारण वह दोनों जगहों से जुड़ा है।",
+        "en": "The frog stays near water — its moist skin and water-laid eggs tie it to both worlds."
+      }
+    },
+    {
+      "id": "ch4_q542",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेगिस्तान के कई जीव (जैसे कंगारू-चूहा) दिन में बिल में छिपे रहते और रात में सक्रिय होते हैं — क्यों?",
+        "en": "Many desert animals (like the kangaroo rat) hide in burrows by day and stay active at night — why?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि रात में शिकारी सो जाते हैं",
+          "दिन की तेज़ गर्मी और जल-हानि से बचने के लिए",
+          "क्योंकि उन्हें अंधेरा पसंद है",
+          "क्योंकि दिन में भोजन उपलब्ध नहीं"
+        ],
+        "en": [
+          "Because predators sleep at night",
+          "To avoid the intense daytime heat and water loss",
+          "Because they like darkness",
+          "Because food is unavailable by day"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रात्रिचर होना रेगिस्तान का क्लासिक अनुकूलन है — ठंडी रात में घूमने से जल की बचत होती है।",
+        "en": "Being nocturnal is the classic desert adaptation — roaming in the cool night saves body water."
+      }
+    },
+    {
+      "id": "ch4_q543",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सभी जीवों में समान रूप से पाई जाने वाली जीवन-प्रक्रिया कौन-सी है?",
+        "en": "Which life process is found equally in all living beings?"
+      },
+      "options": {
+        "hi": [
+          "डिंब-जनन",
+          "प्रकाश-संश्लेषण",
+          "श्वसन",
+          "पुष्पन"
+        ],
+        "en": [
+          "Egg-laying",
+          "Photosynthesis",
+          "Respiration",
+          "Flowering"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एककोशिकीय से मानव तक सब जीव ऊर्जा के लिए श्वसन करते हैं; प्रकाश-संश्लेषण केवल हरे पौधों में।",
+        "en": "From single-celled life to humans, all respire for energy; photosynthesis belongs only to green plants."
+      }
+    },
+    {
+      "id": "ch4_q544",
+      "topic": "habitats-adaptations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बच्चे का शरीर समय के साथ बढ़ता है — यह किस जीवन-लक्षण का उदाहरण है?",
+        "en": "A child's body increases in size with time — this exemplifies which life characteristic?"
+      },
+      "options": {
+        "hi": [
+          "उत्सर्जन",
+          "प्रजनन",
+          "चालन",
+          "वृद्धि (growth)"
+        ],
+        "en": [
+          "Excretion",
+          "Reproduction",
+          "Locomotion",
+          "Growth"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जीव अपने शरीर के भीतर से नई कोशिकाएँ जोड़कर बढ़ते हैं — वृद्धि जीवन की मूल पहचान है।",
+        "en": "Living beings grow by adding new cells from within — growth is a basic signature of life."
+      }
+    },
+    {
+      "id": "ch4_q545",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "छूने पर छुई-मुई (Mimosa) की पत्तियाँ मुड़ जाती हैं — यह किस लक्षण का प्रमाण है?",
+        "en": "The leaves of the touch-me-not (Mimosa) fold on touching — proof of which characteristic?"
+      },
+      "options": {
+        "hi": [
+          "उद्दीपन के प्रति अनुक्रिया (responsiveness)",
+          "उत्सर्जन",
+          "प्रजनन",
+          "वृद्धि"
+        ],
+        "en": [
+          "Response to stimulus (responsiveness)",
+          "Excretion",
+          "Reproduction",
+          "Growth"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जड़ें-तने होते हुए भी स्पर्श की अनुभूति और तुरंत प्रतिक्रिया पौधे के जीवित होने का संकेत देती है।",
+        "en": "Despite having no nerves, sensing touch and reacting instantly marks the plant as living."
+      }
+    },
+    {
+      "id": "ch4_q546",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उत्सर्जन (excretion) की परिभाषा क्या है?",
+        "en": "How is excretion defined?"
+      },
+      "options": {
+        "hi": [
+          "भोजन का पचाया जाना",
+          "शरीर में बने हानिकारक अपशिष्ट को शरीर से बाहर निकालना",
+          "ऑक्सीजन का लेना",
+          "जल का सोखना"
+        ],
+        "en": [
+          "Digestion of food",
+          "Removal of harmful wastes produced in the body",
+          "Taking in oxygen",
+          "Absorbing water"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "उत्सर्जन जीवन-प्रक्रियाओं में बने निकम्मे-हानिकारक पदार्थों को बाहर करना है — मानव में मूत्र-प्रणाली द्वारा।",
+        "en": "Excretion is throwing out the useless-harmful by-products of life processes — via the urinary system in humans."
+      }
+    },
+    {
+      "id": "ch4_q547",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेगिस्तानी पौधों की जड़ें प्रायः बहुत गहरी जाती हैं — इससे लाभ क्या है?",
+        "en": "Desert plant roots usually go very deep — what is the benefit?"
+      },
+      "options": {
+        "hi": [
+          "कीटों को दूर भगाना",
+          "हवा में ऑक्सीजन सीधी लेना",
+          "भूजल-स्तर तक पहुँचकर जल प्राप्त करना",
+          "पत्तियों को ठंडा करना"
+        ],
+        "en": [
+          "To chase insects away",
+          "To take oxygen straight from air",
+          "To reach the water table and obtain water",
+          "To cool the leaves"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गहरी मुख्य-जड़ें सतही सुखाव से नीचे छिपे भूजल तक पहुँचती हैं — रेगिस्तान में जल-प्राप्ति का यही अनुकूलन है।",
+        "en": "Deep taproots pass the dry surface to the hidden water table — the desert adaptation for water supply."
+      }
+    },
+    {
+      "id": "ch4_q548",
+      "topic": "habitats-adaptations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पहाड़ों पर रहने वाले लोगों में श्वसन कुशलता धीरे-धीरे बढ़ जाती है — यह बदलाव उनकी संतानों में जन्म से ही क्यों नहीं मिलता?",
+        "en": "Mountain dwellers gradually become efficient breathers — why is this change not found in their children from birth?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि बच्चे कमज़ोर पैदा होते हैं",
+          "क्योंकि पहाड़ों की हवा विषैली है",
+          "क्योंकि जीन पहाड़ों पर बदल जाते हैं",
+          "क्योंकि यह अर्जित लक्षण है जो जीन में नहीं लिखा जाता"
+        ],
+        "en": [
+          "Because children are born weak",
+          "Because mountain air is toxic",
+          "Because genes change on mountains",
+          "Because it is an acquired trait that is not written into the genes"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वातावरण के कारण जीवन में अर्जित गुण जनन कोशिकाओं तक नहीं पहुँचते — केवल जन्यु लक्षण ही संतान में जाते हैं।",
+        "en": "Qualities acquired from the environment during life never reach the germ cells — only inherited traits pass to offspring."
+      }
+    },
+    {
+      "id": "ch4_q549",
+      "topic": "habitats-adaptations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीवित रहने हेतु ऊर्जा किससे मिलती है?",
+        "en": "Where do living beings get the energy to stay alive?"
+      },
+      "options": {
+        "hi": [
+          "भोजन के श्वसन द्वारा विघटन से",
+          "जल पीने से",
+          "नींद से",
+          "केवल सूर्य-स्नान से"
+        ],
+        "en": [
+          "From breaking down food through respiration",
+          "From drinking water",
+          "From sleep",
+          "Only from sunbathing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भोजन का ऑक्सीजन में विघटन (श्वसन) ही ऊर्जा की देनदार प्रक्रिया है — सभी जीवों में।",
+        "en": "Breaking down food with oxygen (respiration) is the energy-paying process — in every organism."
+      }
+    },
+    {
+      "id": "ch4_q550",
+      "topic": "habitats-adaptations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी नदी-किनारे रहते जीव के लिए निम्न में से कौन-सा अनुकूलन-युग्म सही नहीं है?",
+        "en": "For an organism living on a riverbank, which adaptation pair is INCORRECT?"
+      },
+      "options": {
+        "hi": [
+          "जल-कीट के पैरों की झिल्ली — तैराकी",
+          "गोल शरीर और मुलायम त्वचा दरारों से भरी — जल बचाना",
+          "मछली की धारारेखीय देह — तेज़ तैराकी",
+          "पक्षी की खोखली अस्थियाँ — हल्की उड़ान"
+        ],
+        "en": [
+          "Webbed legs of a water insect — swimming",
+          "Round body with soft cracked skin — saving water",
+          "Streamlined fish body — fast swimming",
+          "Hollow bones of a bird — light flight"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दरारों से भरी त्वचा जल-संरक्षण की उलटी स्थिति है — जल-संरक्षण के लिए मोमी/शल्की आवरण चाहिए; शेष युग्म सही हैं।",
+        "en": "Cracked skin is the opposite of water conservation — waxy or scaly coverings do that; the other pairs are correct."
+      }
+    }
+  ]
+}

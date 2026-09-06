@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-11",
+  "chapterNumber": 11,
+  "code": "P11",
+  "chapterName": {
+    "hi": "विद्युत धारा के प्रभाव एवं ऊर्जा",
+    "en": "Effects of Electric Current & Energy"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "विद्युत धारा के तीन मुख्य प्रभाव हैं — तापीय (हीटर, बल्ब), रासायनिक (विद्युत अपघटन, विद्युतलेपन) और चुंबकीय (विद्युत-चुंबक, मोटर)। इन्हीं प्रभावों पर घरेलू उपकरण और औद्योगिक प्रक्रियाएँ चलती हैं। विद्युत ऊर्जा प्राप्त करने के पारंपरिक और गैर-पारंपरिक स्रोतों का ज्ञान परीक्षा के लिए आवश्यक है।",
+      "example": "पानी में डूबे दो इलेक्ट्रोड से गुजरने वाली धारा हाइड्रोजन-ऑक्सीजन गैसें देती है — विद्युत अपघटन का उदाहरण।",
+      "sections": [
+        {
+          "heading": "तापीय प्रभाव",
+          "content": "J = I²Rt (जूल का नियम) अनुसार धारा प्रतिरोध में ऊष्मा देती है; हीटर, इस्त्री, फ्यूज और इलेक्ट्रिक बल्ब इसी पर आधारित हैं।"
+        },
+        {
+          "heading": "रासायनिक प्रभाव",
+          "content": "अम्ल-क्षार-लवण के विलयन में धारा प्रवाहित करने पर विद्युत अपघटन होता है; विद्युतलेपन (electroplating) से वस्तुओं पर धातु-परत चढ़ती है।"
+        },
+        {
+          "heading": "चुंबकीय प्रभाव",
+          "content": "धारावाही चालक के चारों ओर चुंबकीय क्षेत्र बनता है — इसी से विद्युत-चुंबक, मोटर, घंटी और रिले कार्य करते हैं।"
+        },
+        {
+          "heading": "ऊर्जा स्रोत",
+          "content": "पारंपरिक — जीवाश्म ईंधन (कोयला, पेट्रोल), जल-ऊर्जा; गैर-पारंपरिक — सौर, पवन, ज्वारीय, भूतापीय, बायोगैस; नवीनीकरणीय स्रोत भविष्य की आवश्यकता हैं।"
+        }
+      ],
+      "keyPoints": [
+        "धारा के तीन प्रभाव — तापीय, रासायनिक, चुंबकीय",
+        "जूल का तापीय नियम H = I²Rt",
+        "विद्युतलेपन सजावटी और सुरक्षात्मक धातु-कलई करता है",
+        "फ्यूस तापीय प्रभाव पर आधारित सुरक्षा उपकरण है",
+        "सौर-पवन-ज्वारीय-भूतापीय नवीनीकरणीय स्रोत हैं",
+        "कोयला-पेट्रोल अनवीनीकरणीय जीवाश्म ईंधन हैं"
+      ],
+      "examFocus": [
+        "तीनों प्रभावों के दो-दो उदाहरण जोड़कर याद करें",
+        "नवीनीकरणीय बनाम अनवीनीकरणीय स्रोतों की सूची बनाएँ",
+        "H = I²Rt से सरल संख्यात्मक प्रश्न हल करें"
+      ],
+      "examTraps": [
+        "बल्ब का प्रकाश केवल तापीय प्रभाव नहीं — तंतु गर्म होकर चमकता है, यह समझें",
+        "विद्युतलेपन और विद्युत अपघटन को एक न मानें — लेपन अपघटन का अनुप्रयोग है"
+      ],
+      "thinkBeforeAnswer": [
+        "उपकरण देखकर प्रभाव पहचानें — हीटर (तापीय), विद्युत-चुंबक (चुंबकीय), कलई (रासायनिक)",
+        "ऊर्जा स्रोत के प्रश्न में पहले नवीनीकरणीय/अनवीनीकरणीय वर्ग तय करें"
+      ],
+      "memoryTricks": [
+        "'H-C-M' क्रम से तीन प्रभाप याद करें — Heating, Chemical, Magnetic",
+        "'SPIT-G' — सौर, पवन, ज्वारीय (Tidal), भूतापीय (Geothermal) नवीनीकरणीय चार"
+      ],
+      "pyqSignals": [
+        "धारा के प्रभाव पर सीधे प्रश्न परीक्षा में आते हैं",
+        "विद्युतलेपन के उपयोग पूछा जाता है"
+      ],
+      "mustRemember": [
+        "धारा के तीन प्रभाव और उदाहरण",
+        "जूल का तापीय नियम",
+        "विद्युतलेपन की प्रक्रिया",
+        "नवीनीकरणीय और अनवीनीकरणीय स्रोत"
+      ],
+      "quickRevision": "विद्युत धारा के तापीय (H = I²Rt), रासायनिक (विद्युत अपघटन-लेपन) और चुंबकीय (विद्युत-चुंबक) प्रभावों पर अनेक उपकरण चलते हैं। ऊर्जा के पारंपरिक स्रोत जीवाश्म ईंधन और जल हैं, जबकि सौर, पवन, ज्वारीय और भूतापीय नवीनीकरणीय विकल्प हैं।"
+    },
+    "en": {
+      "concept": "Electric current has three main effects — heating (heater, bulb), chemical (electrolysis, electroplating) and magnetic (electromagnet, motor). Household devices and industrial processes run on these effects. Knowledge of conventional and non-conventional sources of electrical energy is essential for exams.",
+      "example": "Passing current through two electrodes in water gives hydrogen and oxygen — an example of electrolysis.",
+      "sections": [
+        {
+          "heading": "Heating Effect",
+          "content": "By Joule's law H = I²Rt, current heats resistance; heaters, irons, fuses and bulbs work on this."
+        },
+        {
+          "heading": "Chemical Effect",
+          "content": "Current through solutions of acids, bases or salts causes electrolysis; electroplating deposits a metal layer on objects."
+        },
+        {
+          "heading": "Magnetic Effect",
+          "content": "A current-carrying conductor has a magnetic field around it — the basis of electromagnets, motors, bells and relays."
+        },
+        {
+          "heading": "Sources of Energy",
+          "content": "Conventional — fossil fuels (coal, petrol), hydropower; non-conventional — solar, wind, tidal, geothermal, biogas; renewable sources are the future need."
+        }
+      ],
+      "keyPoints": [
+        "Three effects of current — heating, chemical, magnetic",
+        "Joule's law of heating H = I²Rt",
+        "Electroplating gives decorative and protective metal coating",
+        "The fuse is a safety device based on the heating effect",
+        "Solar, wind, tidal and geothermal are renewable sources",
+        "Coal and petrol are non-renewable fossil fuels"
+      ],
+      "examFocus": [
+        "Learn two examples each of the three effects",
+        "Make lists of renewable vs non-renewable sources",
+        "Solve simple numericals with H = I²Rt"
+      ],
+      "examTraps": [
+        "A bulb's light is not only a 'heating effect' label — the filament glows because it becomes hot; understand this",
+        "Do not equate electroplating with electrolysis — plating is an application of electrolysis"
+      ],
+      "thinkBeforeAnswer": [
+        "Identify the effect from the device — heater (heating), electromagnet (magnetic), plating (chemical)",
+        "For energy-source questions, first fix the renewable/non-renewable class"
+      ],
+      "memoryTricks": [
+        "Remember the three effects in order — Heating, Chemical, Magnetic",
+        "'SWTG' — Solar, Wind, Tidal, Geothermal are the four renewables"
+      ],
+      "pyqSignals": [
+        "Direct questions on effects of current appear in exams",
+        "Uses of electroplating are commonly asked"
+      ],
+      "mustRemember": [
+        "Three effects of current with examples",
+        "Joule's law of heating",
+        "Process of electroplating",
+        "Renewable and non-renewable sources"
+      ],
+      "quickRevision": "Many devices run on the heating (H = I²Rt), chemical (electrolysis-electroplating) and magnetic (electromagnet) effects of current. Conventional energy sources are fossil fuels and water, while solar, wind, tidal and geothermal are renewable alternatives."
+    }
+  }
+}

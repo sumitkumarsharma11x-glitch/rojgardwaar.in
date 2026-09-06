@@ -1,0 +1,5604 @@
+{
+  "questions": [
+    {
+      "id": "phy10_q101",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबक के उन दो स्थानों को क्या कहते हैं जहाँ आकर्षण सबसे अधिक होता है?",
+        "en": "What are the two places on a magnet where attraction is strongest called?"
+      },
+      "options": {
+        "hi": [
+          "ध्रुवों (उत्तरी और दक्षिणी) को",
+          "मध्य-बिंदु को",
+          "किनारों को",
+          "सतह के केंद्र को"
+        ],
+        "en": [
+          "Poles (north and south)",
+          "The mid-point",
+          "The edges",
+          "The centre of the surface"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चुंबकीय बल ध्रुवों पर सांद्रित होता है।",
+        "en": "Magnetic force is concentrated at the poles."
+      }
+    },
+    {
+      "id": "phy10_q102",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबक के समान ध्रुव एक-दूसरे के प्रति क्या करते हैं?",
+        "en": "What do like poles of two magnets do to each other?"
+      },
+      "options": {
+        "hi": [
+          "पहले आकर्षित फिर प्रतिकर्षित",
+          "प्रतिकर्षित करते हैं",
+          "आकर्षित करते हैं",
+          "कुछ प्रभाव नहीं"
+        ],
+        "en": [
+          "First attract then repel",
+          "They repel each other",
+          "They attract each other",
+          "No effect"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "उत्तर-उत्तर या दक्षिण-दक्षिण — प्रतिकर्षण; उत्तर-दक्षिण — आकर्षण।",
+        "en": "North-north or south-south — repulsion; north-south — attraction."
+      }
+    },
+    {
+      "id": "phy10_q103",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबक के विपरीत (भिन्न) ध्रुव एक-दूसरे के प्रति क्या करते हैं?",
+        "en": "What do unlike poles of two magnets do to each other?"
+      },
+      "options": {
+        "hi": [
+          "कोई प्रभाव नहीं होता",
+          "एक-दूसरे को नष्ट करते हैं",
+          "आकर्षित करते हैं",
+          "प्रतिकर्षित करते हैं"
+        ],
+        "en": [
+          "No effect occurs",
+          "They destroy each other",
+          "They attract each other",
+          "They repel each other"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विपरीत ध्रुवों में आकर्षण होता है।",
+        "en": "Unlike poles attract."
+      }
+    },
+    {
+      "id": "phy10_q104",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दो चुंबकों के ध्रुवों के बीच प्रतिकर्षण देखा गया। ध्रुवों का प्रकार बताइए।",
+        "en": "Repulsion is observed between the poles of two magnets. State the type of the poles."
+      },
+      "options": {
+        "hi": [
+          "दोनों विपरीत ध्रुव हैं",
+          "एक समान एक विपरीत",
+          "पता नहीं लगाया जा सकता",
+          "दोनों समान ध्रुव हैं"
+        ],
+        "en": [
+          "Both are unlike poles",
+          "One like, one unlike",
+          "It cannot be determined",
+          "Both are like poles"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रतिकर्षण केवल समान ध्रुवों में होता है।",
+        "en": "Repulsion occurs only between like poles."
+      }
+    },
+    {
+      "id": "phy10_q105",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबक के बाहर चुंबकीय बल रेखाएँ किस ध्रुव से किस ध्रुव की ओर जाती हैं?",
+        "en": "Outside a magnet, magnetic field lines run from which pole to which pole?"
+      },
+      "options": {
+        "hi": [
+          "उत्तरी से दक्षिणी की ओर",
+          "दक्षिणी से उत्तरी की ओर",
+          "दोनों दिशाओं में",
+          "किसी भी दिशा में बेतरतीब"
+        ],
+        "en": [
+          "From north to south",
+          "From south to north",
+          "In both directions",
+          "Randomly in any direction"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बाहर का मार्ग N से S; चुंबक के भीतर S से N — रेखाएँ पूर्ण लूप बनाती हैं।",
+        "en": "Outside the path is N to S; inside the magnet S to N — the lines form complete loops."
+      }
+    },
+    {
+      "id": "phy10_q106",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सी चुंबकीय धातु नहीं है?",
+        "en": "Which of the following is NOT a magnetic metal?"
+      },
+      "options": {
+        "hi": [
+          "कोबाल्ट",
+          "ताँबा",
+          "लोहा",
+          "निकल"
+        ],
+        "en": [
+          "Cobalt",
+          "Copper",
+          "Iron",
+          "Nickel"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लोहा, निकल और कोबाल्ट प्रमुख चुंबकीय धातुएँ हैं; ताँबा अचुंबकीय।",
+        "en": "Iron, nickel and cobalt are the chief magnetic metals; copper is non-magnetic."
+      }
+    },
+    {
+      "id": "phy10_q107",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबक द्वारा आकर्षित नहीं किया जा सकता — इनमें से कौन?",
+        "en": "Which of these cannot be attracted by a magnet?"
+      },
+      "options": {
+        "hi": [
+          "निकल की चादर",
+          "कोबाल्ट का टुकड़ा",
+          "लकड़ी का टुकड़ा",
+          "लोहे की कील"
+        ],
+        "en": [
+          "A nickel sheet",
+          "A piece of cobalt",
+          "A piece of wood",
+          "An iron nail"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लकड़ी, प्लास्टिक, काँच, ताँबा जैसे पदार्थ अचुंबकीय हैं।",
+        "en": "Wood, plastic, glass and copper are non-magnetic."
+      }
+    },
+    {
+      "id": "phy10_q108",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लोहे की कील को चुंबक के पास लाने पर वह स्वयं चुंबक की तरह व्यवहार करने लगती है। इस घटना को क्या कहते हैं?",
+        "en": "An iron nail brought near a magnet itself starts behaving like a magnet. What is this phenomenon called?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत-चुंबकीय प्रेरण",
+          "प्रतिकर्षण",
+          "चुंबकीय पृथक्करण",
+          "चुंबकीय प्रेरण"
+        ],
+        "en": [
+          "Electromagnetic induction",
+          "Repulsion",
+          "Magnetic separation",
+          "Magnetic induction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चुंबक के प्रभाव से लोहे में अस्थायी चुंबकत्व आता है — चुंबकीय प्रेरण।",
+        "en": "A magnet induces temporary magnetism in iron — magnetic induction."
+      }
+    },
+    {
+      "id": "phy10_q109",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "छड़ चुंबक को दो बराबर टुकड़ों में तोड़ा गया। प्रत्येक टुकड़े का क्या होता है?",
+        "en": "A bar magnet is broken into two equal pieces. What happens to each piece?"
+      },
+      "options": {
+        "hi": [
+          "प्रत्येक टुकड़ा पूर्ण द्विध्रुवीय चुंबक बन जाता है",
+          "उत्तरी ध्रुव अलग, दक्षिणी ध्रुव अलग हो जाता है",
+          "टुकड़े चुंबकत्व खो देते हैं",
+          "एक टुकड़ा चुंबक रहता है, दूसरा नहीं"
+        ],
+        "en": [
+          "Each piece becomes a complete dipole magnet",
+          "The north pole separates from the south pole",
+          "The pieces lose their magnetism",
+          "One piece stays magnetic, the other does not"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एकध्रुवीय चुंबक संभव नहीं — हर टुकड़े में N और S दोनों ध्रुव बनते हैं।",
+        "en": "A monopole is impossible — every piece develops both N and S poles."
+      }
+    },
+    {
+      "id": "phy10_q110",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबकीय क्षेत्र का मात्रक क्या है?",
+        "en": "What is the unit of magnetic field?"
+      },
+      "options": {
+        "hi": [
+          "वाट",
+          "टेस्ला (T)",
+          "न्यूटन",
+          "वोल्ट"
+        ],
+        "en": [
+          "Watt",
+          "Tesla (T)",
+          "Newton",
+          "Volt"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चुंबकीय क्षेत्र की तीव्रता टेस्ला में मापी जाती है।",
+        "en": "Magnetic field strength is measured in tesla."
+      }
+    },
+    {
+      "id": "phy10_q111",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबकीय क्षेत्र रेखाएँ एक-दूसरे को क्यों नहीं काटतीं?",
+        "en": "Why do magnetic field lines never intersect each other?"
+      },
+      "options": {
+        "hi": [
+          "रेखाएँ बहुत मोटी होती हैं",
+          "काटने पर चुंबक टूट जाता है",
+          "प्रतिच्छेदन बिंदु पर क्षेत्र की दो दिशाएँ बन जाएँगी, जो असंभव है",
+          "रेखाएँ एक-दूसरे से डरती हैं"
+        ],
+        "en": [
+          "The lines are too thick",
+          "The magnet breaks on crossing",
+          "At a crossing point the field would have two directions, which is impossible",
+          "The lines fear each other"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्षेत्र के किसी बिंदु पर सुई को एक ही दिशा मिलती है — दो दिशाएँ असंभव।",
+        "en": "At any point a compass gets a single direction — two directions are impossible."
+      }
+    },
+    {
+      "id": "phy10_q112",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जिस क्षेत्र में चुंबकीय बल महसूस किया जा सकता है, उसे क्या कहते हैं?",
+        "en": "What is the region where a magnetic force can be felt called?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत क्षेत्र",
+          "गुरुत्वीय क्षेत्र",
+          "प्रकाश पुंज",
+          "चुंबकीय क्षेत्र"
+        ],
+        "en": [
+          "Electric field",
+          "Gravitational field",
+          "Light beam",
+          "Magnetic field"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चुंबक के चारों ओर बल-प्रभाव का क्षेत्र चुंबकीय क्षेत्र कहलाता है।",
+        "en": "The region of force influence around a magnet is its magnetic field."
+      }
+    },
+    {
+      "id": "phy10_q113",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबकीय क्षेत्र रेखाओं का घनत्व किस बात का संकेत देता है?",
+        "en": "What does the density of magnetic field lines indicate?"
+      },
+      "options": {
+        "hi": [
+          "क्षेत्र की तीव्रता — घनी रेखाएँ अधिक तीव्र क्षेत्र",
+          "चुंबक का रंग",
+          "चुंबक की आयु",
+          "ध्रुवों की संख्या"
+        ],
+        "en": [
+          "The field strength — denser lines mean a stronger field",
+          "The magnet's colour",
+          "The magnet's age",
+          "The number of poles"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जहाँ रेखाएँ सघन हैं वहाँ बल अधिक तीव्र होता है।",
+        "en": "Where the lines crowd together the force is stronger."
+      }
+    },
+    {
+      "id": "phy10_q114",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दिक्सूचक (कंपास) सुई किस धातु से बनी होती है?",
+        "en": "What metal is a compass needle made of?"
+      },
+      "options": {
+        "hi": [
+          "चाँदी की",
+          "चुंबकित लोहे (स्टील) की",
+          "ताँबे की",
+          "एल्युमिनियम की"
+        ],
+        "en": [
+          "Silver",
+          "Magnetised iron (steel)",
+          "Copper",
+          "Aluminium"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सुई चुंबकित स्टील की होती है ताकि वह क्षेत्र की दिशा दर्शाए।",
+        "en": "The needle is magnetised steel so that it aligns with the field."
+      }
+    },
+    {
+      "id": "phy10_q115",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लोहे की बुरादा यदि चुंबक के चारों ओर फेंकी जाए तो वह कहाँ चिपकेगी?",
+        "en": "If iron filings are sprinkled around a magnet, where do they stick?"
+      },
+      "options": {
+        "hi": [
+          "केवल मध्य में",
+          "कहीं नहीं चिपकती",
+          "ध्रुवों के पास सबसे अधिक",
+          "समान रूप से चारों ओर"
+        ],
+        "en": [
+          "Only at the middle",
+          "They do not stick anywhere",
+          "Most thickly near the poles",
+          "Uniformly all around"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बुरादे का विन्यास बल रेखाओं का चित्र बनाता है — ध्रुवों पर सबसे सघन।",
+        "en": "The filings trace the field-line pattern — densest at the poles."
+      }
+    },
+    {
+      "id": "phy10_q116",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्थायी चुंबक किस पदार्थ से बनाया जाता है?",
+        "en": "What material is a permanent magnet made of?"
+      },
+      "options": {
+        "hi": [
+          "नर्म लोहा",
+          "ताँबा",
+          "प्लास्टिक",
+          "स्टील (कठोर इस्पात)"
+        ],
+        "en": [
+          "Soft iron",
+          "Copper",
+          "Plastic",
+          "Steel (hard iron)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्टील का चुंबकत्व स्थायी रहता है इसलिए स्थायी चुंबक उसी से बनते हैं।",
+        "en": "Steel retains magnetism, so permanent magnets are made of it."
+      }
+    },
+    {
+      "id": "phy10_q117",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबक के पास रखी नर्म लोहे की छड़ का चुंबकत्व कैसा होता है?",
+        "en": "How does a soft iron rod kept near a magnet behave?"
+      },
+      "options": {
+        "hi": [
+          "प्रबल लेकिन अस्थायी चुंबकत्व धारण करती है",
+          "स्थायी चुंबक बन जाती है",
+          "कोई प्रभाव नहीं होता",
+          "चुंबक को हटा देती है"
+        ],
+        "en": [
+          "It acquires strong but temporary magnetism",
+          "It becomes a permanent magnet",
+          "No effect occurs",
+          "It pushes the magnet away"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नर्म लोहा शीघ्र चुंबकित और शीघ्र निष्चुंबकित होता है — इसीलिए विद्युत-चुंबक में उपयोगी।",
+        "en": "Soft iron magnetises and demagnetises quickly — hence its use in electromagnets."
+      }
+    },
+    {
+      "id": "phy10_q118",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी छड़ चुंबक को मुक्त रूप से लटकाया जाए तो वह किस दिशा में स्थिर होता है?",
+        "en": "When a bar magnet is suspended freely, in which direction does it come to rest?"
+      },
+      "options": {
+        "hi": [
+          "ऊपर-नीचे",
+          "लगभग उत्तर-दक्षिण दिशा में",
+          "पूर्व-पश्चिम में",
+          "किसी भी दिशा में"
+        ],
+        "en": [
+          "Up-down",
+          "Approximately in the north-south direction",
+          "East-west",
+          "In any direction"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पृथ्वी के चुंबकीय क्षेत्र के कारण निलंबित चुंबक N-S में विराजता है।",
+        "en": "Due to the earth's magnetic field a suspended magnet settles along N-S."
+      }
+    },
+    {
+      "id": "phy10_q119",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबकत्व किसके कारण उत्पन्न होता है?",
+        "en": "What gives rise to magnetism?"
+      },
+      "options": {
+        "hi": [
+          "पदार्थ के रंग से",
+          "घर्षण से",
+          "परमाणुओं में इलेक्ट्रॉनों की गति से बने लघु चुंबकीय प्रभावों से",
+          "परमाणुओं के भार से"
+        ],
+        "en": [
+          "The colour of the material",
+          "Friction",
+          "Tiny magnetic effects created by the motion of electrons inside atoms",
+          "The weight of atoms"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इलेक्ट्रॉनों की गति ही पदार्थ में चुंबकीय गुण का मूल स्रोत है।",
+        "en": "Electron motion is the basic source of magnetic behaviour in materials."
+      }
+    },
+    {
+      "id": "phy10_q120",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबकीय बल रेखाओं का पूर्ण विन्यास कैसा होता है?",
+        "en": "What is the overall pattern of magnetic field lines?"
+      },
+      "options": {
+        "hi": [
+          "मुक्त सीधी रेखाएँ",
+          "खुले वृत्त",
+          "बिखरे हुए बिंदु",
+          "संवृत (बंद) वक्र — जो कहीं आरंभ या अंत नहीं लेते"
+        ],
+        "en": [
+          "Open straight lines",
+          "Open circles",
+          "Scattered dots",
+          "Closed curves — they have no beginning or end"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बाहर N→S और भीतर S→N — रेखाएँ निरंतर लूप बनाती हैं।",
+        "en": "Outside N→S and inside S→N — the lines form continuous loops."
+      }
+    },
+    {
+      "id": "phy10_q121",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबक की कौन-सी विशेषता उसे विद्युत आवेश से पृथक करती है?",
+        "en": "Which feature distinguishes a magnet from an electric charge?"
+      },
+      "options": {
+        "hi": [
+          "चुंबक सदैव दो ध्रुव रखता है, जबकि आवेश अकेला (एकध्रुवीय) हो सकता है",
+          "चुंबक का कोई बल नहीं होता",
+          "आवेश प्रतिकर्षित नहीं करते",
+          "दोनों में कोई अंतर नहीं"
+        ],
+        "en": [
+          "A magnet always has two poles, whereas a charge can exist alone",
+          "A magnet exerts no force",
+          "Charges never repel",
+          "There is no difference"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चुंबकीय एकध्रुव अस्तित्व में नहीं; धनावेश या ऋणावेश अकेले मिलते हैं।",
+        "en": "Magnetic monopoles do not exist; positive or negative charges occur alone."
+      }
+    },
+    {
+      "id": "phy10_q122",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो चुंबकों को ऐसे पास लाया गया कि पहले आकर्षण हुआ। ध्रुवों के बारे में क्या कहा जा सकता है?",
+        "en": "Two magnets are brought close and attraction occurs. What can be said about the poles?"
+      },
+      "options": {
+        "hi": [
+          "कुछ कहा नहीं जा सकता",
+          "सामने वाले ध्रुव विपरीत प्रकार के हैं",
+          "सामने वाले ध्रुव समान हैं",
+          "दोनों चुंबक उत्तरी हैं"
+        ],
+        "en": [
+          "Nothing can be concluded",
+          "The facing poles are of opposite type",
+          "The facing poles are alike",
+          "Both magnets are north-type"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आकर्षण विपरीत ध्रुवों का प्रमाण है।",
+        "en": "Attraction is the signature of unlike poles."
+      }
+    },
+    {
+      "id": "phy10_q123",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लोहे की एक कील को छड़ चुंबक के उत्तरी ध्रुव से छुआ गया। कील में दूर वाले सिरे पर कौन-सा ध्रुव बनेगा?",
+        "en": "An iron nail is touched with the north pole of a bar magnet. Which pole develops at the far end of the nail?"
+      },
+      "options": {
+        "hi": [
+          "कोई ध्रुव नहीं बनता",
+          "दोनों सिरों पर दक्षिणी",
+          "उत्तरी ध्रुव — चुंबक के N के सामने वाला सिरा दक्षिणी बनता है",
+          "दक्षिणी ध्रुव"
+        ],
+        "en": [
+          "No pole develops",
+          "South at both ends",
+          "South pole — the near end turns north",
+          "North pole"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रेरित चुंबकत्व में चुंबक के N ध्रुव के सामने कील का सिरा S और दूर का सिरा N बनता है।",
+        "en": "In induced magnetism the nail's near face turns S (facing the magnet's N) and the far face turns N."
+      }
+    },
+    {
+      "id": "phy10_q124",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबकीय क्षेत्र रेखाओं पर विचार कीजिए — कौन-सा कथन गलत है?",
+        "en": "Consider magnetic field lines — which statement is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "रेखाएँ बंद वक्र हैं",
+          "धनी रेखाएँ प्रबल क्षेत्र दर्शाती हैं",
+          "बाहर N से S की ओर जाती हैं",
+          "दो रेखाएँ एक-दूसरे को काट सकती हैं"
+        ],
+        "en": [
+          "The lines are closed curves",
+          "Dense lines indicate a strong field",
+          "Outside they run N to S",
+          "Two lines can cross each other"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रतिच्छेदन असंभव है — एक बिंदु पर क्षेत्र की एक ही दिशा होती है।",
+        "en": "Crossing is impossible — the field has only one direction at a point."
+      }
+    },
+    {
+      "id": "phy10_q125",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान दूरी पर चुंबक के ध्रुव पर बल मध्य भाग से अधिक क्यों होता है?",
+        "en": "Why is the force at a magnet's pole greater than at its middle at the same distance?"
+      },
+      "options": {
+        "hi": [
+          "ध्रुवों पर बल रेखाएँ सबसे सघन होती हैं",
+          "मध्य भाग खोखला होता है",
+          "ध्रुव बड़े होते हैं",
+          "मध्य में रेखाएँ नहीं होतीं"
+        ],
+        "en": [
+          "Field lines are densest at the poles",
+          "The middle is hollow",
+          "The poles are larger",
+          "There are no lines at the middle"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रेखाओं का सघनतम बंडल ध्रुवों पर निकलता है — तीव्रता अधिकतम।",
+        "en": "The densest bundle of lines emerges at the poles — maximum intensity."
+      }
+    },
+    {
+      "id": "phy10_q126",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी निर्धारित बिंदु पर चुंबकीय क्षेत्र की दिशा कैसे ज्ञात की जाती है?",
+        "en": "How is the direction of the magnetic field at a given point found?"
+      },
+      "options": {
+        "hi": [
+          "वहाँ तापमान मापकर",
+          "उस बिंदु पर रखी कंपास सुई के उत्तरी ध्रुव की दिशा से",
+          "उस बिंदु की लंबाई से",
+          "चुंबक के रंग से"
+        ],
+        "en": [
+          "By measuring the temperature there",
+          "From the direction of the north pole of a compass needle placed at that point",
+          "From the length of that point",
+          "From the magnet's colour"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कंपास सुई का उत्तरी सिरा क्षेत्र की दिशा बताता है।",
+        "en": "The needle's north tip indicates the field direction."
+      }
+    },
+    {
+      "id": "phy10_q127",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक छड़ चुंबक को तीन बराबर टुकड़ों में काटा गया। कुल कितने चुंबक बनें और कितने ध्रुव होंगे?",
+        "en": "A bar magnet is cut into three equal pieces. How many magnets form and how many poles in all?"
+      },
+      "options": {
+        "hi": [
+          "1 चुंबक, 6 ध्रुव",
+          "2 चुंबक, 6 ध्रुव",
+          "3 चुंबक, 6 ध्रुव",
+          "3 चुंबक, 2 ध्रुव"
+        ],
+        "en": [
+          "1 magnet, 6 poles",
+          "2 magnets, 6 poles",
+          "3 magnets, 6 poles",
+          "3 magnets, 2 poles"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हर टुकड़ा द्विध्रुवीय — 3 × 2 = 6 ध्रुव।",
+        "en": "Every piece is a dipole — 3 × 2 = 6 poles."
+      }
+    },
+    {
+      "id": "phy10_q128",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: चुंबक लोहे को दूर से भी खींचता है। कथन B: चुंबक का प्रभाव बल-रेखाओं वाले पूरे क्षेत्र में रहता है। सही विकल्प चुनिए।",
+        "en": "Statement A: a magnet pulls iron even from a distance. Statement B: the magnet's influence exists throughout the field-line region. Choose the correct option."
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही हैं"
+        ],
+        "en": [
+          "Only A is true",
+          "Only B is true",
+          "Both are false",
+          "Both A and B are true"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दूरी पर बल घटता है पर समाप्त नहीं होता — दोनों कथन क्षेत्र-अवधारणा पर टिके हैं।",
+        "en": "The force weakens with distance but persists — both statements rest on the field idea."
+      }
+    },
+    {
+      "id": "phy10_q129",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लोहे की छड़ को चुंबक के संपर्क में रखकर उसका चुंबकत्व बढ़ाने की विधि क्या कहलाती है?",
+        "en": "What is the method of magnetising an iron rod by contact with a magnet called?"
+      },
+      "options": {
+        "hi": [
+          "स्पर्श विधि (एकल स्पर्श)",
+          "विद्युत-चुंबकीय प्रेरण विधि",
+          "प्रतिकर्षण विधि",
+          "शीतलन विधि"
+        ],
+        "en": [
+          "The contact (single touch) method",
+          "The electromagnetic induction method",
+          "The repulsion method",
+          "The cooling method"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चुंबक को छड़ के सिरे से रगड़ने/छूने से प्रेरित चुंबकत्व आता है।",
+        "en": "Stroking or touching with a magnet induces magnetism in the rod."
+      }
+    },
+    {
+      "id": "phy10_q130",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नर्म लोहा बनाम स्टील — अस्थायी चुंबकत्व किसमें अधिक उपयुक्त है?",
+        "en": "Soft iron versus steel — which suits temporary magnetism better?"
+      },
+      "options": {
+        "hi": [
+          "कोई नहीं",
+          "नर्म लोहा — धारा हटते ही चुंबकत्व समाप्त",
+          "स्टील — चुंबकत्व स्थायी बना रहता है",
+          "दोनों समान"
+        ],
+        "en": [
+          "Neither",
+          "Soft iron — its magnetism vanishes as soon as the current stops",
+          "Steel — its magnetism persists",
+          "Both equally"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "निष्चुंबकन की सरलता ही अस्थायी अनुप्रयोगों की शर्त है।",
+        "en": "Easy demagnetisation is the very condition for temporary applications."
+      }
+    },
+    {
+      "id": "phy10_q131",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक चुंबक को गर्म करने या पीटने पर उसका चुंबकत्व क्या होता है?",
+        "en": "What happens to a magnet's magnetism on heating or hammering it?"
+      },
+      "options": {
+        "hi": [
+          "अपरिवर्तित रहता है",
+          "दुगुना हो जाता है",
+          "कमज़ोर हो सकता है या समाप्त हो सकता है",
+          "बढ़ जाता है"
+        ],
+        "en": [
+          "It remains unchanged",
+          "It doubles",
+          "It may weaken or be lost",
+          "It increases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अव्यवस्थित ऊष्मीय/यांत्रिक कंपन अंदरूनी चुंबकीय विन्यास बिखेर देते हैं।",
+        "en": "Heat or mechanical shocks disorder the internal magnetic arrangement."
+      }
+    },
+    {
+      "id": "phy10_q132",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबकीय पदार्थों का वर्गीकरण बताइए — निम्न समूह में से सही समूह कौन-सा है?",
+        "en": "Classify magnetic materials — which of the following groups is correct?"
+      },
+      "options": {
+        "hi": [
+          "ताँबा, लोहा, काँच — चुंबकीय",
+          "एल्युमिनियम, निकल, लकड़ी — चुंबकीय",
+          "प्लास्टिक, कोबाल्ट, रबर — चुंबकीय",
+          "लोहा, निकल, कोबाल्ट — चुंबकीय"
+        ],
+        "en": [
+          "Copper, iron, glass — magnetic",
+          "Aluminium, nickel, wood — magnetic",
+          "Plastic, cobalt, rubber — magnetic",
+          "Iron, nickel, cobalt — magnetic"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "Fe, Ni, Co ही विद्यालय स्तर के प्रमुख चुंबकीय तत्व हैं।",
+        "en": "Fe, Ni and Co are the chief magnetic elements at school level."
+      }
+    },
+    {
+      "id": "phy10_q133",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबक द्वारा आकर्षित पदार्थ अपने आप में कैसा व्यवहार करने लगता है?",
+        "en": "How does a material attracted by a magnet start behaving itself?"
+      },
+      "options": {
+        "hi": [
+          "स्वयं एक अस्थायी चुंबक की तरह",
+          "विद्युत स्रोत की तरह",
+          "रोधी की तरह",
+          "ऊष्मा स्रोत की तरह"
+        ],
+        "en": [
+          "Like a temporary magnet itself",
+          "Like an electric source",
+          "Like an insulator",
+          "Like a heat source"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रेरित चुंबकत्व से वह अन्य लोहे की वस्तुओं को भी खींच सकता है।",
+        "en": "By induced magnetism it can even attract other iron objects."
+      }
+    },
+    {
+      "id": "phy10_q134",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कंपास सुइयों को नज़दीक रखा गया। उनके उत्तरी सिरे एक-दूसरे की ओर कैसे प्रतिक्रिया करेंगे?",
+        "en": "Two compass needles are placed close together. How do their north tips react to each other?"
+      },
+      "options": {
+        "hi": [
+          "घुमना बंद कर देंगे",
+          "प्रतिकर्षित करेंगे — समान ध्रुव",
+          "आकर्षित करेंगे",
+          "कोई प्रतिक्रिया नहीं"
+        ],
+        "en": [
+          "They stop rotating",
+          "They repel — like poles",
+          "They attract",
+          "No reaction"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रत्येक सुई लघु छड़ चुंबक है — N-N प्रतिकर्षण।",
+        "en": "Each needle is a tiny bar magnet — N-N repulsion."
+      }
+    },
+    {
+      "id": "phy10_q135",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबकीय क्षेत्र के भीतर रखी कंपास सुई विशेष दिशा में क्यों अनुगत होती है?",
+        "en": "Why does a compass needle inside a magnetic field align in a particular direction?"
+      },
+      "options": {
+        "hi": [
+          "हवा सुई को घुमाती है",
+          "सुई भार से घूमती है",
+          "क्षेत्र का बल सुई पर घूर्णी प्रभाव डालता है और सुई क्षेत्र-रेखा के अनुदिश स्थिर होती है",
+          "सुई में मोटर लगी होती है"
+        ],
+        "en": [
+          "Air turns the needle",
+          "Gravity rotates the needle",
+          "The field exerts a turning effect and the needle settles along the field line",
+          "The needle has a motor inside"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घूर्णी बल-आघूर्ण सुई को क्षेत्र की दिशा में संरेखित करता है।",
+        "en": "A turning torque aligns the needle with the field direction."
+      }
+    },
+    {
+      "id": "phy10_q136",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी तार को किसी चुंबकीय पदार्थ से बाँधकर चुंबक बनाने की आवश्यकता क्यों नहीं पड़ती?",
+        "en": "Why is there no need to tie a wire to any magnetic material to make an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "तार में पहले से चुंबकत्व होता है",
+          "चुंबक तार को खींचता है",
+          "बाँधने से धारा रुक जाती है",
+          "क्षेत्र वाहक तार के चारों ओर स्वयं उत्पन्न होता है"
+        ],
+        "en": [
+          "The wire is already magnetic",
+          "A magnet pulls the wire",
+          "Tying stops the current",
+          "The field arises around the current-carrying wire itself"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धारा का चुंबकीय प्रभाव तार के चारों ओर क्षेत्र सीधा उत्पन्न करता है।",
+        "en": "The magnetic effect of current creates the field around the wire directly."
+      }
+    },
+    {
+      "id": "phy10_q137",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निलंबित छड़ चुंबक का उत्तरी ध्रुव लगभग भौगोलिक उत्तर की ओर रहता है। इससे कौन-सा निष्कर्ष निकलता है?",
+        "en": "The north pole of a suspended bar magnet points roughly towards geographic north. What conclusion follows?"
+      },
+      "options": {
+        "hi": [
+          "पृथ्वी स्वयं एक विशाल चुंबक है",
+          "चुंबक में मोटर है",
+          "उत्तर दिशा में लोहा है",
+          "चुंबक गुरुत्व से घूमता है"
+        ],
+        "en": [
+          "The earth itself is a giant magnet",
+          "The magnet has a motor",
+          "There is iron in the north",
+          "The magnet turns by gravity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दिशा-निर्देशन पृथ्वी के चुंबकीय क्षेत्र का ही प्रमाण है।",
+        "en": "The directional setting is itself evidence of the earth's magnetic field."
+      }
+    },
+    {
+      "id": "phy10_q138",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किरण-चुंबक (horseshoe) का आकार क्यों चुना जाता है?",
+        "en": "Why is the horseshoe shape chosen for magnets?"
+      },
+      "options": {
+        "hi": [
+          "इसमें एक ही ध्रुव होता है",
+          "दोनों ध्रुव पास-पास आ जाते हैं — बीच के क्षेत्र में प्रबल आकर्षण",
+          "यह सस्ता पड़ता है",
+          "यह हल्का होता है"
+        ],
+        "en": [
+          "It has only one pole",
+          "Both poles come close together — strong attraction in the gap",
+          "It costs less",
+          "It is lighter"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "U-आकार में N और S निकट होने से बीच वाला क्षेत्र एकदम प्रबल होता है।",
+        "en": "The U-shape brings N and S near, making the gap field very strong."
+      }
+    },
+    {
+      "id": "phy10_q139",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि किसी वस्तु को चुंबक के पास लाने पर हल्का धक्का मिले तो वह वस्तु किस प्रकार की है?",
+        "en": "If an object is gently pushed away when brought near a magnet, what type of object is it?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत-रोधी",
+          "पारदर्शी",
+          "चुंबकीय — उसका समान ध्रुव सामने है",
+          "अचुंबकीय"
+        ],
+        "en": [
+          "An electrical insulator",
+          "Transparent",
+          "Magnetic — its like pole faces the magnet",
+          "Non-magnetic"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धक्का (प्रतिकर्षण) केवल चुंबकीय वस्तु से ही मिलता है — अचुंबकीय कोई प्रतिक्रिया नहीं देती।",
+        "en": "A push (repulsion) can come only from a magnetic object — non-magnetic ones show no reaction."
+      }
+    },
+    {
+      "id": "phy10_q140",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा समूह पूर्णतः अचुंबकीय पदार्थों का है?",
+        "en": "Which of the following groups consists entirely of non-magnetic materials?"
+      },
+      "options": {
+        "hi": [
+          "लोहा, निकल, कोबाल्ट",
+          "लोहा, ताँबा, काँच",
+          "निकल, लकड़ी, प्लास्टिक",
+          "ताँबा, काँच, लकड़ी"
+        ],
+        "en": [
+          "Iron, nickel, cobalt",
+          "Iron, copper, glass",
+          "Nickel, wood, plastic",
+          "Copper, glass, wood"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "केवल ताँबा-काँच-लकड़ी वाले समूह में कोई चुंबकीय धातु नहीं है।",
+        "en": "Only the copper-glass-wood group contains no magnetic metal."
+      }
+    },
+    {
+      "id": "phy10_q141",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेफ्रिजरेटर के दरवाज़े के किनारे चुंबकीय पट्टी क्यों लगी होती है?",
+        "en": "Why is a magnetic strip fitted along the edge of a refrigerator door?"
+      },
+      "options": {
+        "hi": [
+          "हल्के आकर्षण से दरवाज़ा बंद बना रहे और भीतर की ठंडक बनी रहे",
+          "दरवाज़ा रंगीन दिखने के लिए",
+          "पट्टी से बिजली बचती है",
+          "पट्टी दरवाज़ा स्वतः खोलती है"
+        ],
+        "en": [
+          "A light attraction keeps the door shut and the cold sealed in",
+          "To make the door look colourful",
+          "The strip saves electricity",
+          "The strip opens the door by itself"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चुंबकीय पट्टी दरवाज़े को ढीला नहीं होने देती — चुंबकत्व का घरेलू अनुप्रयोग।",
+        "en": "The magnetic strip keeps the door from staying ajar — a household use of magnetism."
+      }
+    },
+    {
+      "id": "phy10_q142",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चुंबक N के क्षेत्र में लटकी कंपास सुई का उत्तरी सिरा चुंबक से दूर मुड़ जाता है। चुंबक का निकट ध्रुव कौन-सा है?",
+        "en": "The north tip of a compass needle deflects away from a nearby magnet. Which pole of the magnet is facing the needle?"
+      },
+      "options": {
+        "hi": [
+          "कोई नहीं",
+          "उत्तरी ध्रुव",
+          "दक्षिणी ध्रुव",
+          "दोनों"
+        ],
+        "en": [
+          "Neither",
+          "The north pole",
+          "The south pole",
+          "Both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सुई के N का विकर्षण सामने चुंबक के N से — समान ध्रुव प्रतिकर्षित करते हैं।",
+        "en": "The needle's N is repelled by the magnet's facing N — like poles repel."
+      }
+    },
+    {
+      "id": "phy10_q143",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो समान छड़ चुंबक N-S और S-N क्रम में एक पंक्ति में रखे हैं। बीच के संपर्क बिंदु पर क्या होगा?",
+        "en": "Two identical bar magnets lie in a line in the order N-S S-N. What happens at the middle contact point?"
+      },
+      "options": {
+        "hi": [
+          "कुछ नहीं होता",
+          "चुंबक टूट जाते हैं",
+          "पहले चुंबक का S सिरा दूसरे के S सिरे से छूता है और प्रतिकर्षण होता है",
+          "आकर्षण होता है"
+        ],
+        "en": [
+          "Nothing happens",
+          "The magnets break",
+          "The first magnet's S touches the other's S and repulsion occurs",
+          "Attraction occurs"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्रम N-S S-N में बीच में S-S मिलते हैं — प्रतिकर्षण।",
+        "en": "In the order N-S S-N the middle faces are S-S — repulsion."
+      }
+    },
+    {
+      "id": "phy10_q144",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चुंबकीय क्षेत्र रेखाओं के गुणों पर तीन कथन: (i) ये बंद वक्र हैं (ii) ये एक-दूसरे को नहीं काटतीं (iii) इनका घनत्व क्षेत्र की तीव्रता बताता है। कितने सही हैं?",
+        "en": "Three statements about field lines: (i) they are closed curves (ii) they never cross (iii) their density shows field strength. How many are correct?"
+      },
+      "options": {
+        "hi": [
+          "केवल दो सही",
+          "केवल एक सही",
+          "कोई सही नहीं",
+          "तीनों सही"
+        ],
+        "en": [
+          "Only two are correct",
+          "Only one is correct",
+          "None is correct",
+          "All three are correct"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "तीनों गुण चुंबकीय बल रेखाओं की परिभाषित विशेषताएँ हैं।",
+        "en": "All three are defining properties of magnetic field lines."
+      }
+    },
+    {
+      "id": "phy10_q145",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक छड़ चुंबक को चार बराबर भागों में काटा गया। प्रत्येक भाग की चुंबकीय तीव्रता मूल चुंबक की तुलना में कैसी होगी?",
+        "en": "A bar magnet is cut into four equal parts. How does the magnetic strength of each part compare with the original?"
+      },
+      "options": {
+        "hi": [
+          "प्रत्येक भाग कमज़ोर चुंबक है पर दोनों ध्रुव रखता है",
+          "प्रत्येक भाग उतना ही प्रबल है",
+          "भागों में ध्रुव नहीं बचते",
+          "एक भाग N और एक भाग S हो जाता है"
+        ],
+        "en": [
+          "Each part is a weaker magnet but retains both poles",
+          "Each part is equally strong",
+          "The parts retain no poles",
+          "One part becomes N and another S"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "टुकड़े हर हाल में द्विध्रुवीय रहते हैं, यद्यपि तीव्रता घटती है।",
+        "en": "The pieces remain dipoles, though weaker."
+      }
+    },
+    {
+      "id": "phy10_q146",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चुंबक के अंदर बल रेखाओं की दिशा बाहर की तुलना में कैसी होती है?",
+        "en": "How is the direction of field lines inside a magnet compared with outside?"
+      },
+      "options": {
+        "hi": [
+          "भीतर रेखाएँ काटती हैं",
+          "भीतर दक्षिण से उत्तर की ओर — बाहर के विपरीत, लूप पूर्ण करती है",
+          "भीतर भी उत्तर से दक्षिण",
+          "भीतर कोई रेखा नहीं"
+        ],
+        "en": [
+          "The lines cross inside",
+          "Inside they run south to north — opposite to outside, completing the loop",
+          "Inside also north to south",
+          "There are no lines inside"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "संवृत लूप की निरंतरता भीतर S→N दिशा से पूरी होती है।",
+        "en": "Continuity of the closed loop is maintained by the inner S→N path."
+      }
+    },
+    {
+      "id": "phy10_q147",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन: चुंबक अपने क्षेत्र में रखे लोहे पर बल लगाता है, चुंबक और लोहे के बीच सीधा स्पर्श होना ज़रूरी नहीं। यह कथन —",
+        "en": "Statement: a magnet exerts force on iron placed in its field; direct contact between them is not necessary. This statement is —"
+      },
+      "options": {
+        "hi": [
+          "केवल बड़े चुंबकों के लिए सही",
+          "केवल विद्युत-चुंबक के लिए सही",
+          "सही है — बल क्षेत्र के माध्यम से कार्य करता है",
+          "गलत है"
+        ],
+        "en": [
+          "True only for large magnets",
+          "True only for electromagnets",
+          "True — the force acts through the field",
+          "False"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बल-क्षेत्र स्पर्श के बिना ही प्रभाव डालता है।",
+        "en": "The field acts without any contact."
+      }
+    },
+    {
+      "id": "phy10_q148",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक अचुंबकीय छड़ और एक चुंबकित छड़ एक जैसे दिखते हैं। बिना किसी उपकरण के इन्हें कैसे पहचानें?",
+        "en": "A non-magnetic rod and a magnetised rod look identical. How can you tell them apart without any apparatus?"
+      },
+      "options": {
+        "hi": [
+          "दोनों को तौलिए",
+          "रंग देखिए",
+          "पानी में डुबोइए",
+          "किसी एक छड़ को दूसरे के दोनों सिरों से क्रमशः लाइए — एक ही छड़ के एक सिरे से आकर्षण और दूसरे से प्रतिकर्षण मिलेगा तो वही चुंबक है"
+        ],
+        "en": [
+          "Weigh both",
+          "Look at the colours",
+          "Dip them in water",
+          "Bring one rod near both ends of the other in turn — if one end attracts and the other repels, that rod is the magnet"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आकर्षण तो लोहा भी दिखाए; प्रतिकर्षण केवल चुंबक ही दर्शाता है।",
+        "en": "Iron also shows attraction; only a magnet shows repulsion."
+      }
+    },
+    {
+      "id": "phy10_q149",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चुंबकीय बल रेखाएँ चुंबक के भीतर और बाहर मिलाकर कुल कितने प्रतिशत मार्ग बंद रखती हैं?",
+        "en": "Combining inside and outside the magnet, what fraction of their path do field lines keep closed?"
+      },
+      "options": {
+        "hi": [
+          "पूर्ण 100% — संवृत लूप",
+          "50%",
+          "75%",
+          "शून्य %"
+        ],
+        "en": [
+          "Fully 100% — closed loops",
+          "50%",
+          "75%",
+          "Zero %"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चुंबकीय बल रेखा कहीं भी आरंभ या विराम नहीं लेती — पूर्ण लूप।",
+        "en": "A field line begins and ends nowhere — a complete loop."
+      }
+    },
+    {
+      "id": "phy10_q150",
+      "topic": "magnetism-and-magnetic-field",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीन समान छड़ चुंबकों को एक-दूसरे के ऊपर N-S-N-S-N-S श्रृंखला में चिपकाया गया। संयुक्त विन्यास कितने प्रभावी ध्रुव दिखाएगा?",
+        "en": "Three identical bar magnets are stuck in a chain N-S N-S N-S. How many effective poles does the combined arrangement show?"
+      },
+      "options": {
+        "hi": [
+          "4",
+          "2 — श्रृंखला एक बड़ी द्विध्रुवीय छड़ जैसी",
+          "6",
+          "3"
+        ],
+        "en": [
+          "4",
+          "2 — the chain acts like one long dipolar bar",
+          "6",
+          "3"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "श्रेणी-श्रृंखला में बीच के ध्रुव आपस में निष्प्रभावी हो जाते हैं — सिरों पर N और S।",
+        "en": "In the chain the middle poles neutralise — only end N and end S remain effective."
+      }
+    },
+    {
+      "id": "phy10_q151",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी किस रूप में व्यवहार करती है?",
+        "en": "The earth behaves in which form?"
+      },
+      "options": {
+        "hi": [
+          "एक विशाल दर्पण के रूप में",
+          "एक विशाल प्रिज़्म के रूप में",
+          "एक विशाल चुंबक के रूप में",
+          "एक विशाल विद्युत सेल के रूप में"
+        ],
+        "en": [
+          "Like a giant mirror",
+          "Like a giant prism",
+          "Like a giant magnet",
+          "Like a giant electric cell"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पृथ्वी के चारों ओर चुंबकीय क्षेत्र है — इसीलिए कंपास काम करता है।",
+        "en": "The earth has a magnetic field all around — that is why a compass works."
+      }
+    },
+    {
+      "id": "phy10_q152",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कंपास (दिक्सूचक) की सुई किसके कारण दिशा बताती है?",
+        "en": "Because of what does a compass needle indicate direction?"
+      },
+      "options": {
+        "hi": [
+          "हवा के कारण",
+          "सूर्य के प्रकाश के कारण",
+          "गुरुत्वाकर्षण के कारण",
+          "पृथ्वी के चुंबकीय क्षेत्र के कारण"
+        ],
+        "en": [
+          "Due to wind",
+          "Due to sunlight",
+          "Due to gravity",
+          "Due to the earth's magnetic field"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सुई पृथ्वी के क्षेत्र रेखाओं के अनुदिश संरेखित हो जाती है।",
+        "en": "The needle aligns along the earth's field lines."
+      }
+    },
+    {
+      "id": "phy10_q153",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कंपास की सुई प्रायः किस दिशा में रुकती है?",
+        "en": "In which direction does a compass needle usually settle?"
+      },
+      "options": {
+        "hi": [
+          "लगभग उत्तर-दक्षिण",
+          "पूर्व-पश्चिम",
+          "ऊपर-नीचे",
+          "बेतरतीब"
+        ],
+        "en": [
+          "Approximately north-south",
+          "East-west",
+          "Up-down",
+          "Randomly"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पृथ्वी का चुंबकीय अक्ष लगभग भौगोलिक अक्ष के समीप है।",
+        "en": "The earth's magnetic axis lies close to its geographic axis."
+      }
+    },
+    {
+      "id": "phy10_q154",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नाविक और यात्री प्राचीन काल से किस यंत्र से दिशा जानते आए हैं?",
+        "en": "Since ancient times sailors and travellers have found direction using which instrument?"
+      },
+      "options": {
+        "hi": [
+          "माइक्रोस्कोप से",
+          "चुंबकीय कंपास से",
+          "दर्पण से",
+          "थर्मामीटर से"
+        ],
+        "en": [
+          "A microscope",
+          "The magnetic compass",
+          "A mirror",
+          "A thermometer"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चुंबकीय कंपास ने समुद्री यात्राओं की दिशा निर्धारित की।",
+        "en": "The magnetic compass guided sea voyages."
+      }
+    },
+    {
+      "id": "phy10_q155",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी के चुंबकीय क्षेत्र का मुख्य लाभ क्या है?",
+        "en": "What is the chief benefit of the earth's magnetic field?"
+      },
+      "options": {
+        "hi": [
+          "भोजन पकाना",
+          "रोशनी देना",
+          "सूर्य से आने वाले आवेशित कणों से रक्षा और दिशा-ज्ञान",
+          "वर्षा कराना"
+        ],
+        "en": [
+          "Cooking food",
+          "Giving light",
+          "Protection from charged particles of the sun and direction-finding",
+          "Bringing rain"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चुंबकीय क्षेत्र सौर कणों को विक्षेपित कर वायुमंडल की रक्षा करता है।",
+        "en": "The field deflects solar particles and shields the atmosphere."
+      }
+    },
+    {
+      "id": "phy10_q156",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्तर दिशा दिखाने वाले कंपास सुई के सिरे को क्या कहते हैं?",
+        "en": "What is the tip of a compass needle that points north called?"
+      },
+      "options": {
+        "hi": [
+          "दक्षिणी ध्रुव",
+          "निरपेक्ष सिरा",
+          "मध्य सिरा",
+          "उत्तरी ध्रुव (N सिरा)"
+        ],
+        "en": [
+          "The south pole",
+          "The neutral tip",
+          "The middle tip",
+          "The north pole (N tip)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सुई का लाल/चिह्नित सिरा प्रायः उत्तरी ध्रुव होता है।",
+        "en": "The red/marked tip is usually the north pole."
+      }
+    },
+    {
+      "id": "phy10_q157",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबकीय दिक्पात (magnetic declination) किसे कहते हैं?",
+        "en": "What is magnetic declination?"
+      },
+      "options": {
+        "hi": [
+          "भौगोलिक अक्ष और चुंबकीय अक्ष के बीच का कोण",
+          "दो चुंबकों के बीच का बल",
+          "कंपास की लंबाई",
+          "पृथ्वी का त्रिज्या-मान"
+        ],
+        "en": [
+          "The angle between the geographic axis and the magnetic axis",
+          "The force between two magnets",
+          "The length of a compass",
+          "The radius of the earth"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दोनों अक्ष पूरी तरह समान नहीं — इसी अंतर को दिक्पात कहते हैं।",
+        "en": "The two axes are not identical — the difference is declination."
+      }
+    },
+    {
+      "id": "phy10_q158",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी का चुंबकीय क्षेत्र किसके समान दूर तक फैला है?",
+        "en": "The earth's magnetic field extends around it like what?"
+      },
+      "options": {
+        "hi": [
+          "एक पंखे की हवा के समान",
+          "एक विशाल छड़ चुंबक के क्षेत्र के समान",
+          "एक बल्ब की रोशनी के समान",
+          "एक घंटी की ध्वनि के समान"
+        ],
+        "en": [
+          "Like a fan's breeze",
+          "Like the field of a giant bar magnet",
+          "Like the light of a bulb",
+          "Like the sound of a bell"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अंतरिक्ष में पृथ्वी का क्षेत्र छड़-चुंबक जैसा विन्यास दर्शाता है।",
+        "en": "In space the earth's field shows a bar-magnet-like pattern."
+      }
+    },
+    {
+      "id": "phy10_q159",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कंपास की सुई विशेषतः किस ग्रह के प्रभाव में दिशा दर्शाती है?",
+        "en": "Under the influence of which planet does a compass needle show direction?"
+      },
+      "options": {
+        "hi": [
+          "शुक्र",
+          "बृहस्पति",
+          "पृथ्वी",
+          "मंगल"
+        ],
+        "en": [
+          "Venus",
+          "Jupiter",
+          "The earth",
+          "Mars"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दिशा-बल स्थानीय रूप से पृथ्वी के ही क्षेत्र से आता है।",
+        "en": "The directional force comes from the local field of the earth itself."
+      }
+    },
+    {
+      "id": "phy10_q160",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबकीय उत्तरी ध्रुव किस भौगोलिक स्थान के निकट माना जाता है?",
+        "en": "The magnetic north pole of the earth is considered near which geographic place?"
+      },
+      "options": {
+        "hi": [
+          "भौगोलिक दक्षिणी ध्रुव के निकट",
+          "विषुवत रेखा के निकट",
+          "कोलकाता के निकट",
+          "भौगोलिक उत्तरी ध्रुव के निकट"
+        ],
+        "en": [
+          "Near the geographic south pole",
+          "Near the equator",
+          "Near Kolkata",
+          "Near the geographic north pole"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चुंबकीय ध्रुव भौगोलिक ध्रुवों के निकट (थोड़ा विचलित) स्थित हैं।",
+        "en": "The magnetic poles lie near (slightly offset from) the geographic poles."
+      }
+    },
+    {
+      "id": "phy10_q161",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पक्षी और कुछ प्राणी लंबी यात्राओं में दिशा कैसे पहचानते हैं ऐसा माना जाता है?",
+        "en": "How are birds and some animals believed to find direction on long journeys?"
+      },
+      "options": {
+        "hi": [
+          "पृथ्वी के चुंबकीय क्षेत्र को संवेदना से पहचानकर",
+          "चाँद की रोशनी से",
+          "तारों की गिनती से",
+          "हवा की गंध से"
+        ],
+        "en": [
+          "By sensing the earth's magnetic field",
+          "By moonlight",
+          "By counting stars",
+          "By the smell of air"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अनेक प्रवासी प्राणियों में चुंबकीय संवेदना के प्रमाण मिले हैं।",
+        "en": "Many migratory creatures show evidence of magnetic sense."
+      }
+    },
+    {
+      "id": "phy10_q162",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी के चुंबकीय क्षेत्र का कारण मुख्यतः क्या माना जाता है?",
+        "en": "What is chiefly believed to cause the earth's magnetic field?"
+      },
+      "options": {
+        "hi": [
+          "समुद्री लहरें",
+          "पृथ्वी के भीतर गले धातु (लोहा-निकल) की धाराएँ जैसी गति",
+          "पृथ्वी की घास",
+          "बादल"
+        ],
+        "en": [
+          "Sea waves",
+          "Motions in the molten iron-nickel material inside the earth",
+          "The earth's grass",
+          "Clouds"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "भीतरी तरल धातु की गति से विद्युत-चुंबकीय प्रभाव बनता है।",
+        "en": "Moving molten metal inside produces the electromagnetic effect."
+      }
+    },
+    {
+      "id": "phy10_q163",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्तर ध्रुव की ओर संकेत करने वाली सुई का उत्तरी सिरा पृथ्वी के चुंबकत्व के किस ध्रुव की ओर आकर्षित होता है?",
+        "en": "The north tip of a needle pointing north is attracted towards which magnetic pole of the earth?"
+      },
+      "options": {
+        "hi": [
+          "किसी की ओर नहीं",
+          "दोनों की ओर",
+          "पृथ्वी के चुंबकीय दक्षिणी ध्रुव की ओर (जो भौगोलिक उत्तर के पास है)",
+          "चुंबकीय उत्तरी ध्रुव की ओर"
+        ],
+        "en": [
+          "Towards neither",
+          "Towards both",
+          "Towards the earth's magnetic south pole (which lies near geographic north)",
+          "Towards the magnetic north pole"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "आकर्षण विपरीत ध्रुवों में — सुई का N पृथ्वी के चुंबकीय S की ओर।",
+        "en": "Attraction is between unlike poles — the needle's N faces the earth's magnetic S."
+      }
+    },
+    {
+      "id": "phy10_q164",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी के चुंबकत्व के कारण समुद्री नेविगेशन किस उपकरण से संभव हुआ?",
+        "en": "Navigation at sea became possible due to the earth's magnetism using which device?"
+      },
+      "options": {
+        "hi": [
+          "सोनार",
+          "रडार",
+          "पेरिस्कोप",
+          "चुंबकीय कंपास"
+        ],
+        "en": [
+          "SONAR",
+          "Radar",
+          "Periscope",
+          "The magnetic compass"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कंपास ने दिशा-ज्ञान से महासागरों की यात्रा सुगम की।",
+        "en": "The compass made ocean voyages navigable."
+      }
+    },
+    {
+      "id": "phy10_q165",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कंपास को चुंबकीय पदार्थों (जैसे लोहे की छड़) से दूर क्यों रखा जाता है?",
+        "en": "Why is a compass kept away from magnetic materials like an iron rod?"
+      },
+      "options": {
+        "hi": [
+          "लोहे का क्षेत्र सुई को गलत दिशा में घुमा सकता है",
+          "लोहा कंपास को गर्म करता है",
+          "लोहा काँच तोड़ता है",
+          "कंपास लोहे में घुल जाता है"
+        ],
+        "en": [
+          "The iron's field can deflect the needle the wrong way",
+          "Iron heats the compass",
+          "Iron breaks the glass",
+          "The compass dissolves into iron"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बाहरी चुंबकीय पदार्थ पृथ्वी-क्षेत्र पर हावी होकर पाठ्यांक बिगाड़ते हैं।",
+        "en": "External magnetic materials override the earth's field and spoil the reading."
+      }
+    },
+    {
+      "id": "phy10_q166",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पृथ्वी का चुंबकीय क्षेत्र वायुमंडल की रक्षा किस विकिरण-समूह से करता है?",
+        "en": "The earth's field protects the atmosphere from which group of radiations?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश किरणों से",
+          "सौर हवा के आवेशित कणों से",
+          "ध्वनि तरंगों से",
+          "रेडियो तरंगों से"
+        ],
+        "en": [
+          "From light rays",
+          "From the charged particles of the solar wind",
+          "From sound waves",
+          "From radio waves"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्षेत्र आवेशित कणों को विक्षेपित करता है; प्रकाश जैसी विद्युत-उदासीन विकिरण अप्रभावित रहती है।",
+        "en": "The field deflects charged particles; neutral radiation like light is unaffected."
+      }
+    },
+    {
+      "id": "phy10_q167",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्रुवीय ज्योति (aurora) किस कारण उत्पन्न होती है?",
+        "en": "What causes the aurora (polar lights)?"
+      },
+      "options": {
+        "hi": [
+          "बादलों की गरज से",
+          "ज्वालामुखी से",
+          "सौर आवेशित कण ऊपरी वायुमंडल से टकराने पर",
+          "वर्षा की बूँदों से"
+        ],
+        "en": [
+          "Thunderclouds",
+          "Volcanoes",
+          "Solar charged particles striking the upper atmosphere",
+          "Raindrops"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चुंबकीय क्षेत्र कणों को ध्रुवों की ओर मोड़ता है — वहीं चमक बनती है।",
+        "en": "The field steers the particles towards the poles — the glow forms there."
+      }
+    },
+    {
+      "id": "phy10_q168",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मुक्त रूप से लटकाई गई चुंबकीय सुई किसी स्थान पर क्षैतिज तल में कौन-सी दिशा दर्शाती है?",
+        "en": "A freely suspended magnetic needle at a place indicates which direction in the horizontal plane?"
+      },
+      "options": {
+        "hi": [
+          "पूर्व-पश्चिम",
+          "कोई निश्चित दिशा नहीं",
+          "सीधी नीचे",
+          "चुंबकीय उत्तर-दक्षिण दिशा"
+        ],
+        "en": [
+          "East-west",
+          "No definite direction",
+          "Straight down",
+          "The magnetic north-south direction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "क्षैतिज घूर्णन करने वाली सुई क्षेत्र की क्षैतिज दिशा पकड़ती है।",
+        "en": "A horizontally free needle takes the field's horizontal direction."
+      }
+    },
+    {
+      "id": "phy10_q169",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्तर-दक्षिण दिशा बताने के लिए प्राचीन भारत में किस साधन का उल्लेख मिलता है?",
+        "en": "Which device is mentioned in ancient India for finding the north-south direction?"
+      },
+      "options": {
+        "hi": [
+          "मत्स्य-यंत्र जैसा चुंबकीय दिक्सूचक",
+          "दर्पण",
+          "सूर्य-घड़ी",
+          "पानी की छलक"
+        ],
+        "en": [
+          "A fish-shaped magnetic direction-finder",
+          "A mirror",
+          "A sundial",
+          "A water spill"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समुद्रगुप्त काल के विवरणों में लोहे से बनी 'मत्स्य' दिशा बताती थी।",
+        "en": "Accounts from ancient India describe an iron 'fish' that pointed direction."
+      }
+    },
+    {
+      "id": "phy10_q170",
+      "topic": "earths-magnetism",
+      "difficulty": "easy",
+      "question": {
+        "hi": "यदि कंपास को चुंबकीय उत्तरी ध्रुव के ठीक ऊपर रखा जाए तो सुई का व्यवहार कैसा होगा?",
+        "en": "If a compass is placed right above the magnetic north pole, how does the needle behave?"
+      },
+      "options": {
+        "hi": [
+          "कोई परिवर्तन नहीं",
+          "सुई लगभग ऊध्र्वाधर झुक जाती है",
+          "सुई घूमना बंद कर देती है",
+          "सुई टूट जाती है"
+        ],
+        "en": [
+          "No change",
+          "The needle dips almost vertically",
+          "The needle stops turning",
+          "The needle breaks"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ध्रुव पर क्षेत्र लगभग ऊर्ध्वाधर प्रवेश करता है — सुई झुक जाती है।",
+        "en": "At the pole the field enters nearly vertically — the needle dips."
+      }
+    },
+    {
+      "id": "phy10_q171",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पृथ्वी के भौगोलिक उत्तर के पास स्थित चुंबकीय ध्रुव वास्तव में कौन-सा ध्रुव है?",
+        "en": "The magnetic pole located near the earth's geographic north is actually which pole?"
+      },
+      "options": {
+        "hi": [
+          "उत्तरी भी और दक्षिणी भी",
+          "कोई ध्रुव नहीं",
+          "चुंबकीय दक्षिणी ध्रुव",
+          "चुंबकीय उत्तरी ध्रुव"
+        ],
+        "en": [
+          "Both north and south",
+          "No pole at all",
+          "The magnetic south pole",
+          "The magnetic north pole"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सुई का N उसी की ओर खिंचता है, अतः वहाँ पृथ्वी-चुंबक का S ध्रुव है।",
+        "en": "The needle's N is drawn there, so the earth-magnet's S pole lies there."
+      }
+    },
+    {
+      "id": "phy10_q172",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपास सुई और निलंबित छड़ चुंबक दोनों ही उत्तर-दक्षिण क्यों रुकते हैं?",
+        "en": "Why do both a compass needle and a suspended bar magnet settle north-south?"
+      },
+      "options": {
+        "hi": [
+          "दोनों पर हवा चलती है",
+          "दोनों भारी होते हैं",
+          "संयोग से",
+          "दोनों पृथ्वी के चुंबकीय क्षेत्र में घूर्णी बल अनुभव करते हैं"
+        ],
+        "en": [
+          "Wind blows on both",
+          "Both are heavy",
+          "By coincidence",
+          "Both experience a turning torque in the earth's magnetic field"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक ही कारण — पृथ्वी-क्षेत्र का घूर्णी प्रभाव।",
+        "en": "One single cause — the turning effect of the earth's field."
+      }
+    },
+    {
+      "id": "phy10_q173",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबकीय दिक्पात के कारण कंपास द्वारा बताई उत्तर और भौगोलिक उत्तर में क्या संबंध है?",
+        "en": "Due to magnetic declination, what is the relation between compass north and geographic north?"
+      },
+      "options": {
+        "hi": [
+          "दोनों में थोड़ा अंतर (कोण) हो सकता है",
+          "दोनों सदैव बिल्कुल समान होते हैं",
+          "कंपास उत्तर पश्चिम दिखाता है",
+          "भौगोलिक उत्तर बदल जाता है"
+        ],
+        "en": [
+          "There can be a small angular difference between them",
+          "They are always exactly the same",
+          "The compass shows northwest",
+          "The geographic north changes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दो अक्षों के अंतर कोण के कारण विचलन आता है।",
+        "en": "The angle between the two axes produces the offset."
+      }
+    },
+    {
+      "id": "phy10_q174",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी स्थान पर निलंबित चुंबकीय सुई ऊपर की ओर क्षैतिज से कोण बनाती झुकी रहती है। इस झुकाव को क्या कहते हैं?",
+        "en": "At a place a suspended magnetic needle rests tilted at an angle to the horizontal. What is this tilt called?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकीय बल",
+          "चुंबकीय नति (dip)",
+          "चुंबकीय दिक्पात",
+          "चुंबकीय विषुवत"
+        ],
+        "en": [
+          "Magnetic force",
+          "Magnetic dip (inclination)",
+          "Magnetic declination",
+          "Magnetic equator"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्षेत्र-रेखाएँ सामान्यतः क्षैतिज नहीं होतीं — झुकाव 'नति' कहलाता है।",
+        "en": "Field lines are generally not horizontal — the tilt is called dip."
+      }
+    },
+    {
+      "id": "phy10_q175",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबकीय विषुवत रेखा पर चुंबकीय नति का मान कितना होता है?",
+        "en": "What is the value of magnetic dip at the magnetic equator?"
+      },
+      "options": {
+        "hi": [
+          "45 डिग्री",
+          "30 डिग्री",
+          "शून्य — सुई क्षैतिज रहती है",
+          "90 डिग्री"
+        ],
+        "en": [
+          "45 degrees",
+          "30 degrees",
+          "Zero — the needle stays horizontal",
+          "90 degrees"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विषुवत पर क्षेत्र रेखाएँ क्षैतिज होती हैं।",
+        "en": "At the equator the field lines are horizontal."
+      }
+    },
+    {
+      "id": "phy10_q176",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबकीय ध्रुवों पर नति का मान कितना होता है?",
+        "en": "What is the value of dip at the magnetic poles?"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "45 डिग्री",
+          "60 डिग्री",
+          "90 डिग्री — सुई ऊर्ध्वाधर"
+        ],
+        "en": [
+          "Zero",
+          "45 degrees",
+          "60 degrees",
+          "90 degrees — the needle stands vertical"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ध्रुव पर क्षेत्र-रेखाएँ ऊर्ध्वाधर प्रवेश करती हैं।",
+        "en": "At the poles the field lines enter vertically."
+      }
+    },
+    {
+      "id": "phy10_q177",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन: चुंबकीय उत्तरी ध्रुव भौगोलिक उत्तरी ध्रुव के ठीक बिंदु पर स्थित है। यह कथन —",
+        "en": "Statement: the magnetic north pole lies exactly at the geographic north pole. This statement is —"
+      },
+      "options": {
+        "hi": [
+          "गलत — दोनों में कुछ अंतर होता है",
+          "सही",
+          "आंशिक सही नहीं — पूर्ण सही",
+          "प्रमाणित नहीं किया जा सकता"
+        ],
+        "en": [
+          "False — there is some difference between the two",
+          "True",
+          "Not partly true — fully true",
+          "It cannot be verified"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दोनों अक्ष संपाती नहीं — इसी से दिक्पात परिभाषित होता है।",
+        "en": "The axes do not coincide — that defines declination."
+      }
+    },
+    {
+      "id": "phy10_q178",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भूचुंबकत्व के कारण कौन-सा उद्योग संभव हुआ?",
+        "en": "Which industry became possible due to geomagnetism?"
+      },
+      "options": {
+        "hi": [
+          "मिट्टी के बर्तन",
+          "समुद्री नेविगेशन और मानचित्रण",
+          "कपड़ा बुनाई",
+          "चीनी निर्माण"
+        ],
+        "en": [
+          "Pottery",
+          "Sea navigation and mapping",
+          "Textile weaving",
+          "Sugar manufacture"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कंपास के बिना विश्व-व्यापार मार्ग संभव नहीं थे।",
+        "en": "Without the compass, world trade routes were impossible."
+      }
+    },
+    {
+      "id": "phy10_q179",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपास सुई और लोहे की पट्टी एक साथ रखी हैं। कंपास का पाठ्यांक कैसा होगा?",
+        "en": "A compass needle and an iron strip are placed together. How will the compass reading be?"
+      },
+      "options": {
+        "hi": [
+          "सुई उलट जाएगी",
+          "कंपास खराब हो जाएगा",
+          "प्रभावित हो सकता है — पट्टी क्षेत्र में विक्षेप आ सकता है",
+          "पूर्णतः सही रहेगा"
+        ],
+        "en": [
+          "The needle reverses",
+          "The compass breaks",
+          "It may be affected — the strip can deflect the needle",
+          "It will stay perfectly correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "निकट लोहा स्थानीय क्षेत्र बदलता है — पाठ्यांक अशुद्ध।",
+        "en": "Nearby iron alters the local field — the reading turns faulty."
+      }
+    },
+    {
+      "id": "phy10_q180",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पृथ्वी के चुंबकीय क्षेत्र की तुलना किस रूप में की जाती है?",
+        "en": "The earth's magnetic field is compared to which form?"
+      },
+      "options": {
+        "hi": [
+          "बिजली के तार के क्षेत्र के रूप में",
+          "बल्ब के प्रकाश के रूप में",
+          "पंखे की हवा के रूप में",
+          "केंद्र में छड़ चुंबक वाले गोले के क्षेत्र के रूप में"
+        ],
+        "en": [
+          "To the field of a power line",
+          "To a bulb's light",
+          "To a fan's air",
+          "To the field of a sphere with a bar magnet at its centre"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गोलीय पृथ्वी के क्षेत्र का मॉडल केंद्रीय छड़-चुंबक है।",
+        "en": "The model of the spherical earth's field is a central bar magnet."
+      }
+    },
+    {
+      "id": "phy10_q181",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मानव शरीर में लगी शल्य-चुंबक क्या दर्शाता है?",
+        "en": "What does a surgical magnet implanted in the human body demonstrate?"
+      },
+      "options": {
+        "hi": [
+          "जीव-शरीर भी हल्का चुंबकीय अनुक्रिया दर्शाते हैं — अनुप्रयोग की विविधता",
+          "शरीर में बिजली भरी है",
+          "चुंबक शरीर को उड़ाता है",
+          "शरीर रोधी नहीं है"
+        ],
+        "en": [
+          "Living bodies also show mild magnetic response — variety of applications",
+          "The body is full of electricity",
+          "The magnet flies the body",
+          "The body is not an insulator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चुंबकत्व के चिकित्सा-अनुप्रयोग भी स्कूली ज्ञान का भाग हैं।",
+        "en": "Medical applications of magnetism are part of school knowledge too."
+      }
+    },
+    {
+      "id": "phy10_q182",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समुद्री मानचित्रों में चुंबकीय दिक्पात का उल्लेख क्यों किया जाता है?",
+        "en": "Why is magnetic declination mentioned on nautical charts?"
+      },
+      "options": {
+        "hi": [
+          "मौसम बताने के लिए",
+          "ताकि नाविक कंपास के पाठ्यांक को सही भौगोलिक दिशा में बदल सकें",
+          "जहाज़ का रंग बताने के लिए",
+          "समुद्र की गहराई बताने के लिए"
+        ],
+        "en": [
+          "To show the weather",
+          "So that sailors can convert compass readings into true geographic directions",
+          "To show the ship's colour",
+          "To show the sea's depth"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दिक्पात का ज्ञान कंपास-उत्तर को वास्तविक उत्तर में बदलने के लिए आवश्यक है।",
+        "en": "Knowing the declination is needed to convert compass north into true north."
+      }
+    },
+    {
+      "id": "phy10_q183",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पृथ्वी के चुंबकीय क्षेत्र में रखे निलंबित चुंबक का उत्तरी सिरा अचर रूप से किस ओर स्थिर होता है?",
+        "en": "In the earth's field, towards which side does the north end of a suspended magnet settle consistently?"
+      },
+      "options": {
+        "hi": [
+          "पूर्व की ओर",
+          "नीचे की ओर केवल",
+          "चुंबकीय उत्तर की ओर (लगभग भौगोलिक उत्तर)",
+          "चुंबकीय दक्षिण की ओर"
+        ],
+        "en": [
+          "Towards east",
+          "Only downwards",
+          "Towards magnetic north (roughly geographic north)",
+          "Towards magnetic south"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पृथ्वी-चुंबक का S (भौगोलिक उत्तर के पास) सुई के N को खींचता है।",
+        "en": "The earth-magnet's S (near geographic north) draws the needle's N."
+      }
+    },
+    {
+      "id": "phy10_q184",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो स्थानों A (विषुवत के पास) और B (ध्रुव के पास) में कंपास सुई की स्थिति में क्या अंतर होगा?",
+        "en": "What is the difference in the compass needle's position between place A (near the equator) and place B (near the pole)?"
+      },
+      "options": {
+        "hi": [
+          "दोनों पर ऊर्ध्वाधर",
+          "A पर झुकी; B पर क्षैतिज",
+          "दोनों पर समान क्षैतिज",
+          "A पर लगभग क्षैतिज; B पर अधिक झुकी (नति अधिक)"
+        ],
+        "en": [
+          "Vertical at both",
+          "Tilted at A; horizontal at B",
+          "Equally horizontal at both",
+          "Nearly horizontal at A; more tilted at B (greater dip)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नति विषुवत से ध्रुव तक बढ़ती है — 0° से 90°।",
+        "en": "Dip increases from equator to pole — 0° to 90°."
+      }
+    },
+    {
+      "id": "phy10_q185",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबकीय कंपास के आविष्कार से पूर्व नाविक किस साधन से दिशा जानते थे?",
+        "en": "Before the magnetic compass, what aids did sailors use for direction?"
+      },
+      "options": {
+        "hi": [
+          "तारों और सूर्य की स्थिति से",
+          "कंपास से ही",
+          "रडार से",
+          "GPS से"
+        ],
+        "en": [
+          "The positions of stars and the sun",
+          "The compass itself",
+          "Radar",
+          "GPS"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खगोलीय संदर्भ सीमित थे — कंपास ने दिशा-ज्ञान क्रांतिकारी बनाया।",
+        "en": "Celestial references were limited — the compass revolutionised navigation."
+      }
+    },
+    {
+      "id": "phy10_q186",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पृथ्वी के चुंबकीय क्षेत्र को 'ढाल' कहा जाता है क्योंकि —",
+        "en": "The earth's magnetic field is called a 'shield' because —"
+      },
+      "options": {
+        "hi": [
+          "यह ठंडी हवा रोकता है",
+          "यह आवेशित सौर कणों को विक्षेपित कर वायुमंडल की रक्षा करता है",
+          "यह वर्षा रोकता है",
+          "यह भूकंप रोकता है"
+        ],
+        "en": [
+          "It blocks cold winds",
+          "It deflects charged solar particles, protecting the atmosphere",
+          "It stops rain",
+          "It stops earthquakes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्षेत्र का विक्षेपण-कार्य ढाल जैसा ही है।",
+        "en": "The field's deflecting action works like a shield."
+      }
+    },
+    {
+      "id": "phy10_q187",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चंद्रमा पर कंपास काम नहीं करता। सबसे संभावित कारण क्या है?",
+        "en": "A compass does not work on the moon. What is the most likely reason?"
+      },
+      "options": {
+        "hi": [
+          "चंद्रमा दूर है",
+          "चंद्रमा ठंडा है",
+          "चंद्रमा का अपना चुंबकीय क्षेत्र लगभग नहीं के बराबर है",
+          "चंद्रमा पर हवा नहीं"
+        ],
+        "en": [
+          "The moon is far away",
+          "The moon is cold",
+          "The moon has almost no magnetic field of its own",
+          "There is no air on the moon"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सुई को दिशा देने वाला स्थानीय क्षेत्र ही वहाँ अनुपस्थित है।",
+        "en": "The local field that would steer the needle simply is absent there."
+      }
+    },
+    {
+      "id": "phy10_q188",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबकीय क्षेत्र में स्थित असंख्य बिंदुओं पर कंपास दिशा दर्शाते रखें तो क्या प्राप्त होता है?",
+        "en": "If compasses are placed at numerous points in a magnetic field, what is obtained?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत धारा",
+          "ऊष्मा मानचित्र",
+          "दाब मानचित्र",
+          "क्षेत्र-रेखाओं का पूरा चित्र"
+        ],
+        "en": [
+          "An electric current",
+          "A heat map",
+          "A pressure map",
+          "A complete picture of the field lines"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बिंदु-दर-बिंदु दिशाओं को मिलाने से बल-रेखा विन्यास उभरता है।",
+        "en": "Joining point-by-point directions brings out the field-line pattern."
+      }
+    },
+    {
+      "id": "phy10_q189",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भौगोलिक अक्ष और चुंबकीय अक्ष के बीच कोण किसका कारण है?",
+        "en": "The angle between the geographic axis and the magnetic axis is the reason for what?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकीय दिक्पात का",
+          "नति का",
+          "गुरुत्व का",
+          "दिन-रात का"
+        ],
+        "en": [
+          "Magnetic declination",
+          "Dip",
+          "Gravity",
+          "Day and night"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दिक्पात उसी कोण से परिभाषित है।",
+        "en": "Declination is defined by that very angle."
+      }
+    },
+    {
+      "id": "phy10_q190",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पृथ्वी-चुंबक के कारण ऊपरी वायुमंडल में आयनित गैस और प्रकाश की परत ध्रुवों पर दिखती है। इसका नाम क्या है?",
+        "en": "Due to the earth-magnet, glowing ionised layers appear near the poles in the upper atmosphere. What are they called?"
+      },
+      "options": {
+        "hi": [
+          "वायुमंडलीय दाब",
+          "ऑरोरा (ध्रुवीय ज्योति)",
+          "इंद्रधनुष",
+          "ओजोन छिद्र"
+        ],
+        "en": [
+          "Atmospheric pressure",
+          "Auroras (polar lights)",
+          "Rainbows",
+          "Ozone hole"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ध्रुवीय ज्योति चुंबकीय क्षेत्र-कण अंतःक्रिया का दृश्य परिणाम है।",
+        "en": "Auroras are the visible result of field-particle interaction."
+      }
+    },
+    {
+      "id": "phy10_q191",
+      "topic": "earths-magnetism",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि किसी ग्रह का प्रबल चुंबकीय क्षेत्र हो तो उसके वायुमंडल की स्थिति कैसी रहती है?",
+        "en": "If a planet has a strong magnetic field, what is the state of its atmosphere?"
+      },
+      "options": {
+        "hi": [
+          "गर्म हो जाता है",
+          "ठंडा हो जाता है",
+          "सौर कणों से बेहतर सुरक्षित रहता है",
+          "तुरंत समाप्त हो जाता है"
+        ],
+        "en": [
+          "It heats up",
+          "It cools down",
+          "Better protected from solar particles",
+          "It vanishes immediately"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रबल क्षेत्र अपक्षय (erosion) को घटाता है।",
+        "en": "A strong field reduces atmospheric erosion."
+      }
+    },
+    {
+      "id": "phy10_q192",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चुंबकीय दक्षिणी ध्रुव भौगोलिक उत्तर के निकट है — इस कथन की पुष्टि कंपास के किस व्यवहार से होती है?",
+        "en": "The magnetic south pole lies near geographic north — which compass behaviour confirms this statement?"
+      },
+      "options": {
+        "hi": [
+          "सुई घूमती नहीं",
+          "सुई दक्षिण दिखाती है",
+          "सुई ऊपर उठती है",
+          "सुई का उत्तरी सिरा उत्तर की ओर अभिविन्यस्त रहता है (विपरीत ध्रुव आकर्षण)"
+        ],
+        "en": [
+          "The needle does not turn",
+          "The needle points south",
+          "The needle rises up",
+          "The needle's north tip stays aligned north (unlike-pole attraction)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सुई का N उत्तर की ओर ही रहेगा यदि वहाँ पृथ्वी का S हो।",
+        "en": "The needle's N can face north only if the earth's S lies there."
+      }
+    },
+    {
+      "id": "phy10_q193",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक निलंबित छड़ चुंबक के नीचे लोहे की बड़ी प्लेट लाई गई। छड़ के विश्राम विन्यास पर क्या प्रभाव पड़ेगा?",
+        "en": "A large iron plate is brought beneath a suspended bar magnet. What happens to the magnet's resting orientation?"
+      },
+      "options": {
+        "hi": [
+          "लोहे के आकर्षण से विन्यास बिगड़ सकता है — पाठ्यांक अविश्वसनीय",
+          "कोई प्रभाव नहीं",
+          "छड़ और अधिक सटीक N-S दिखाएगी",
+          "छड़ ऊपर उड़ जाएगी"
+        ],
+        "en": [
+          "The iron's attraction can disturb the orientation — the reading turns unreliable",
+          "No effect",
+          "The magnet shows N-S more accurately",
+          "The magnet flies up"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्थानीय चुंबकीय पदार्थ भू-क्षेत्र पर हावी हो जाते हैं।",
+        "en": "Local magnetic material overpowers the earth's field."
+      }
+    },
+    {
+      "id": "phy10_q194",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कंपास सुई को विद्युत तारों के पास रखने पर विचलन क्यों होता है?",
+        "en": "Why does a compass needle deflect when placed near electric wires?"
+      },
+      "options": {
+        "hi": [
+          "तार प्रकाश छोड़ता है",
+          "धारावाही तार के चारों ओर चुंबकीय क्षेत्र बनता है",
+          "तार गर्म होता है",
+          "तार हवा बनाता है"
+        ],
+        "en": [
+          "The wire emits light",
+          "A magnetic field forms around the current-carrying wire",
+          "The wire heats up",
+          "The wire creates air currents"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धारा का चुंबकीय प्रभाव — कंपास उसका संवेदक है।",
+        "en": "The magnetic effect of current — the compass detects it."
+      }
+    },
+    {
+      "id": "phy10_q195",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मंगल ग्रह पर कंपास का उपयोग करना अविश्वसनीय क्यों माना जाता है?",
+        "en": "Why is using a compass on Mars considered unreliable?"
+      },
+      "options": {
+        "hi": [
+          "मंगल लाल है",
+          "वहाँ रात होती है",
+          "वहाँ का चुंबकीय क्षेत्र बहुत कमज़ोर और अनियमित है",
+          "मंगल पर हवा नहीं"
+        ],
+        "en": [
+          "Mars is red",
+          "Night occurs there",
+          "Its magnetic field is very weak and irregular",
+          "There is no air on Mars"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दिशा-संकेत के लिए क्षेत्र नियमित और पर्याप्त प्रबल होना चाहिए।",
+        "en": "For direction-finding the field must be regular and strong enough."
+      }
+    },
+    {
+      "id": "phy10_q196",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चुंबकीय नति (dip) को मापने वाले यंत्र को क्या कहते हैं?",
+        "en": "What is the instrument that measures magnetic dip called?"
+      },
+      "options": {
+        "hi": [
+          "गैल्वेनोमीटर",
+          "एमीटर",
+          "बैरोमीटर",
+          "नतिमापी (dip circle/needle)"
+        ],
+        "en": [
+          "Galvanometer",
+          "Ammeter",
+          "Barometer",
+          "Dip circle (dip needle)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नतिमापी सुई ऊर्ध्वाधर तल में घूमकर नति बताती है।",
+        "en": "A dip needle rotates in the vertical plane to show dip."
+      }
+    },
+    {
+      "id": "phy10_q197",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि पृथ्वी का चुंबकीय क्षेत्र उलट जाए तो कंपास सुइयों का क्या होगा?",
+        "en": "If the earth's magnetic field reversed, what would happen to compass needles?"
+      },
+      "options": {
+        "hi": [
+          "सुइयाँ उलट दिशा दिखाने लगेंगी",
+          "सुइयाँ काम करना बंद कर देंगी",
+          "सुइयाँ पिघल जाएँगी",
+          "कुछ नहीं होगा"
+        ],
+        "en": [
+          "The needles would indicate reversed directions",
+          "The needles would stop working",
+          "The needles would melt",
+          "Nothing would happen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भूवैज्ञानिक इतिहास में ध्रुव-पलट घटित हुए हैं — सुई नए क्षेत्र के अनुसार मुड़ेगी।",
+        "en": "Pole reversals have occurred in geological history — needles would follow the new field."
+      }
+    },
+    {
+      "id": "phy10_q198",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो स्थानों के बीच चुंबकीय क्षेत्र की तीव्रता — विषुवत बनाम ध्रुव — कहाँ अधिक होती है?",
+        "en": "Between two places — equator versus pole — where is the magnetic field stronger?"
+      },
+      "options": {
+        "hi": [
+          "कहीं नहीं",
+          "सामान्यतः ध्रुवों के पास अधिक",
+          "विषुवत पर अधिक",
+          "समान"
+        ],
+        "en": [
+          "Nowhere",
+          "Usually stronger near the poles",
+          "Stronger at the equator",
+          "Equal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ध्रुवों पर रेखाएँ अभिसृत होती हैं — क्षेत्र सघन।",
+        "en": "Field lines converge at the poles — the field is concentrated."
+      }
+    },
+    {
+      "id": "phy10_q199",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पृथ्वी के चुंबकीय क्षेत्र के बिना सौर विकिरण के आवेशित कणों का जीवन पर क्या प्रभाव पड़ता?",
+        "en": "Without the earth's magnetic field, what would be the impact of charged solar particles on life?"
+      },
+      "options": {
+        "hi": [
+          "जीवन खत्म हो जाता",
+          "प्रकाश बढ़ जाता",
+          "कण सीधे वायुमंडल-जीवन पर प्रहार करते — अनेक खतरे",
+          "कोई प्रभाव नहीं"
+        ],
+        "en": [
+          "Life would end completely",
+          "Light would increase",
+          "The particles would strike the atmosphere and life directly — many hazards",
+          "No effect"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्षेत्र की ढाल-भूमिका जीवन के अस्तित्व की दृष्टि से महत्वपूर्ण मानी जाती है।",
+        "en": "The field's shield role is considered vital for life's survival."
+      }
+    },
+    {
+      "id": "phy10_q200",
+      "topic": "earths-magnetism",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक अंतरिक्ष यान में यात्री कंपास से दिशा नहीं ले सकते जब वे पृथ्वी से बहुत दूर हों। कारण बताइए।",
+        "en": "Travellers in a spacecraft cannot use a compass for direction when far from the earth. State the reason."
+      },
+      "options": {
+        "hi": [
+          "अंतरिक्ष में दिशाएँ होती ही नहीं",
+          "कंपास को हवा चाहिए",
+          "कंपास को पानी चाहिए",
+          "पृथ्वी का क्षेत्र वहाँ अत्यंत दुर्बल हो जाता है"
+        ],
+        "en": [
+          "There are no directions in space",
+          "A compass needs air",
+          "A compass needs water",
+          "The earth's field becomes extremely weak there"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दूरी के साथ क्षेत्र तीव्रता घटती जाती है — सुई कोई निश्चित दिशा नहीं पकड़ पाती।",
+        "en": "Field strength falls with distance — the needle finds no firm direction."
+      }
+    },
+    {
+      "id": "phy10_q201",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक किसे कहते हैं?",
+        "en": "What is an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "धारावाही कुंडली में नर्म लोहे की छड़ डालकर बनाया गया अस्थायी चुंबक",
+          "स्थायी स्टील चुंबक",
+          "बिना धारा का चुंबक",
+          "प्राकृतिक चुंबक"
+        ],
+        "en": [
+          "A temporary magnet made by placing a soft iron rod inside a current-carrying coil",
+          "A permanent steel magnet",
+          "A magnet needing no current",
+          "A natural magnet"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धारा चालू तो चुंबकत्व, धारा बंद तो चुंबकत्व समाप्त।",
+        "en": "Current on — magnetism on; current off — magnetism gone."
+      }
+    },
+    {
+      "id": "phy10_q202",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक बनाने के लिए कुंडली के भीतर कौन-सी छड़ रखी जाती है?",
+        "en": "Which rod is placed inside the coil to make an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "प्लास्टिक की",
+          "नर्म लोहे की",
+          "ताँबे की",
+          "लकड़ी की"
+        ],
+        "en": [
+          "Plastic",
+          "Soft iron",
+          "Copper",
+          "Wood"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "नर्म लोहा प्रबल चुंबकत्व तुरंत ग्रहण और त्याग करता है।",
+        "en": "Soft iron picks up and drops strong magnetism instantly."
+      }
+    },
+    {
+      "id": "phy10_q203",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक का चुंबकत्व कब तक बना रहता है?",
+        "en": "How long does an electromagnet keep its magnetism?"
+      },
+      "options": {
+        "hi": [
+          "धारा बंद होने पर भी अनंत काल तक",
+          "कभी नहीं",
+          "जब तक कुंडली में धारा बहती है (अस्थायी चुंबक)",
+          "सदा के लिए"
+        ],
+        "en": [
+          "Infinitely long even after the current stops",
+          "Never",
+          "Only while current flows in the coil (a temporary magnet)",
+          "Forever"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धारा बंद होते ही नर्म लोहा निष्चुंबकित हो जाता है।",
+        "en": "As soon as the current stops, the soft iron demagnetises."
+      }
+    },
+    {
+      "id": "phy10_q204",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक का चुंबकत्व किस बटन से नियंत्रित होता है?",
+        "en": "The magnetism of an electromagnet is controlled by what?"
+      },
+      "options": {
+        "hi": [
+          "चुंबक के रंग से",
+          "मौसम से",
+          "कमरे की रोशनी से",
+          "धारा के चालू-बंद स्विच से"
+        ],
+        "en": [
+          "By the magnet's colour",
+          "By the weather",
+          "By the room's lighting",
+          "By the switch that turns the current on or off"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्विच से चुंबकत्व को तुरंत पाया या समाप्त किया जा सकता है।",
+        "en": "The switch can create or remove the magnetism instantly."
+      }
+    },
+    {
+      "id": "phy10_q205",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारावाही तार के चारों ओर क्या उत्पन्न होता है?",
+        "en": "What is produced around a current-carrying wire?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकीय क्षेत्र",
+          "गुरुत्वीय क्षेत्र",
+          "प्रकाशीय क्षेत्र",
+          "ध्वनि क्षेत्र"
+        ],
+        "en": [
+          "A magnetic field",
+          "A gravitational field",
+          "An optical field",
+          "A sound field"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धारा का चुंबकीय प्रभाव — ओरस्टेड के प्रयोग की खोज।",
+        "en": "The magnetic effect of current — Oersted's discovery."
+      }
+    },
+    {
+      "id": "phy10_q206",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारावाही तार के पास कंपास सुई विचलित हो जाती है। इसकी खोज किसने की?",
+        "en": "Who discovered that a compass needle deflects near a current-carrying wire?"
+      },
+      "options": {
+        "hi": [
+          "डार्विन",
+          "ओरस्टेड (Oersted)",
+          "न्यूटन",
+          "गैलीलियो"
+        ],
+        "en": [
+          "Darwin",
+          "Oersted",
+          "Newton",
+          "Galileo"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1820 में ओरस्टेड ने धारा-चुंबकत्व संबंध का प्रयोग दिखाया।",
+        "en": "In 1820 Oersted demonstrated the current-magnetism connection."
+      }
+    },
+    {
+      "id": "phy10_q207",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सोलेनोइड (कुंडली) के भीतर चुंबकीय क्षेत्र कैसा होता है?",
+        "en": "What is the magnetic field like inside a solenoid?"
+      },
+      "options": {
+        "hi": [
+          "बेतरतीब",
+          "वृत्ताकार घूर्णन",
+          "लगभग एकसमान (समांतर रेखाएँ)",
+          "शून्य"
+        ],
+        "en": [
+          "Random",
+          "Circular whirls",
+          "Nearly uniform (parallel lines)",
+          "Zero"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कुंडली के भीतर रेखाएँ समानांतर होती हैं — छड़ चुंबक जैसा व्यवहार।",
+        "en": "Inside the coil the lines run parallel — it behaves like a bar magnet."
+      }
+    },
+    {
+      "id": "phy10_q208",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारावाही सोलेनोइड किसके समान व्यवहार करता है?",
+        "en": "A current-carrying solenoid behaves like what?"
+      },
+      "options": {
+        "hi": [
+          "बल्ब",
+          "सेल",
+          "प्रतिरोध",
+          "छड़ चुंबक"
+        ],
+        "en": [
+          "A bulb",
+          "A cell",
+          "A resistor",
+          "A bar magnet"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सोलेनोइड के सिरों पर N और S जैसे ध्रुव बन जाते हैं।",
+        "en": "The solenoid's ends develop N- and S-like poles."
+      }
+    },
+    {
+      "id": "phy10_q209",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक की शक्ति बढ़ाने का एक उपाय क्या है?",
+        "en": "What is one way to increase the strength of an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "कुंडली के फेरों की संख्या बढ़ाना",
+          "फेरे घटाना",
+          "लोहे की छड़ हटाना",
+          "तार पतला करना"
+        ],
+        "en": [
+          "Increasing the number of turns in the coil",
+          "Reducing the turns",
+          "Removing the iron core",
+          "Making the wire thinner"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अधिक फेरे — अधिक क्षेत्र-योगदान — प्रबल चुंबक।",
+        "en": "More turns — more field contribution — a stronger magnet."
+      }
+    },
+    {
+      "id": "phy10_q210",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक की शक्ति बढ़ाने के लिए धारा का क्या करना चाहिए?",
+        "en": "What should be done to the current to strengthen an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "धारा उलटनी चाहिए",
+          "धारा बढ़ानी चाहिए",
+          "धारा घटानी चाहिए",
+          "धारा बंद करनी चाहिए"
+        ],
+        "en": [
+          "The current should be reversed",
+          "The current should be increased",
+          "The current should be decreased",
+          "The current should be switched off"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धारा बढ़ने पर क्षेत्र प्रबल होता है।",
+        "en": "A larger current makes a stronger field."
+      }
+    },
+    {
+      "id": "phy10_q211",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कचरा-पृथक्करण कार्यों में विद्युत-चुंबक का उपयोग कैसे होता है?",
+        "en": "How is an electromagnet used in waste-separation work?"
+      },
+      "options": {
+        "hi": [
+          "प्लास्टिक पिघलाया जाता है",
+          "काँच तोड़ा जाता है",
+          "लोहे के टुकड़े चुंबक से उठाकर अलग किए जाते हैं",
+          "कागज़ जलाया जाता है"
+        ],
+        "en": [
+          "Plastic is melted",
+          "Glass is broken",
+          "Iron pieces are lifted away with the magnet",
+          "Paper is burnt"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्रेन वाला विद्युत-चुंबक लोहा उठाता और छोड़ता है — अस्थायी चुंबकत्व का लाभ।",
+        "en": "A crane electromagnet lifts and releases iron — the benefit of temporary magnetism."
+      }
+    },
+    {
+      "id": "phy10_q212",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत घंटी (electric bell) में कौन-सा घटक घंटी बजाता है?",
+        "en": "Which component makes an electric bell ring?"
+      },
+      "options": {
+        "hi": [
+          "पंखा",
+          "हीटर",
+          "रेडियो",
+          "विद्युत-चुंबक से चुंबकित होकर घर्षित हथौड़ा"
+        ],
+        "en": [
+          "A fan",
+          "A heater",
+          "A radio",
+          "A hammer magnetised by the electromagnet striking the gong"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विद्युत-चुंबक हथौड़े को खींचता है; संपर्क टूटते ही वापस — बार-बार ध्वनि।",
+        "en": "The electromagnet pulls the hammer; breaking contact sends it back — repeated ringing."
+      }
+    },
+    {
+      "id": "phy10_q213",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रिले (relay) क्या है?",
+        "en": "What is a relay?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत-चुंबक से चलने वाला स्विच जो कमज़ोर संकेत से बड़ा परिपथ चालू करता है",
+          "एक प्रकार का मोटर",
+          "ऊर्जा का मात्रक",
+          "प्रकाश का स्रोत"
+        ],
+        "en": [
+          "An electromagnetic switch that turns a large circuit on with a weak signal",
+          "A type of motor",
+          "A unit of energy",
+          "A source of light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रिले छोटे संकेत से भारी धारा वाले परिपथ को सुरक्षित चालू करता है।",
+        "en": "A relay safely switches a heavy-current circuit using a small signal."
+      }
+    },
+    {
+      "id": "phy10_q214",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारावाही तार के चारों ओर बनने वाली क्षेत्र रेखाओं का आकार कैसा होता है?",
+        "en": "What is the shape of field lines around a straight current-carrying wire?"
+      },
+      "options": {
+        "hi": [
+          "बिखरे बिंदु",
+          "संकेंद्र वृत्त",
+          "सीधी रेखाएँ",
+          "परवलय"
+        ],
+        "en": [
+          "Scattered dots",
+          "Concentric circles",
+          "Straight lines",
+          "Parabolas"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तार के चारों ओर क्षेत्र वृत्ताकार लूपों में होता है।",
+        "en": "Around the wire the field forms circular loops."
+      }
+    },
+    {
+      "id": "phy10_q215",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तार में धारा की दिशा उलट देने पर चुंबकीय क्षेत्र का क्या होता है?",
+        "en": "What happens to the magnetic field if the current direction in the wire is reversed?"
+      },
+      "options": {
+        "hi": [
+          "क्षेत्र दुगुना हो जाता है",
+          "कोई परिवर्तन नहीं",
+          "क्षेत्र की दिशा उलट जाती है",
+          "क्षेत्र समाप्त हो जाता है"
+        ],
+        "en": [
+          "The field doubles",
+          "No change",
+          "The field direction reverses",
+          "The field vanishes"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्षेत्र की दिशा धारा की दिशा पर निर्भर करती है।",
+        "en": "The field direction depends on the current direction."
+      }
+    },
+    {
+      "id": "phy10_q216",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक की ध्रुवता बदलने के लिए क्या करते हैं?",
+        "en": "What is done to change the polarity of an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "धारा बंद की जाती है",
+          "फेरे गिने जाते हैं",
+          "छड़ लंबी की जाती है",
+          "धारा की दिशा उलट दी जाती है"
+        ],
+        "en": [
+          "The current is switched off",
+          "The turns are counted",
+          "The rod is lengthened",
+          "The direction of the current is reversed"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धारा-दिशा पलटने से कुंडली के N और S बदल जाते हैं।",
+        "en": "Reversing the current swaps the coil's N and S."
+      }
+    },
+    {
+      "id": "phy10_q217",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओरस्टेड के प्रयोग ने विद्युत और किसके बीच संबंध स्थापित किया?",
+        "en": "Oersted's experiment established the connection between electricity and what?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकत्व",
+          "प्रकाश",
+          "ध्वनि",
+          "ऊष्मा"
+        ],
+        "en": [
+          "Magnetism",
+          "Light",
+          "Sound",
+          "Heat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धारा का चुंबकीय प्रभाव दोनों क्षेत्रों को जोड़ता है।",
+        "en": "The magnetic effect of current links the two domains."
+      }
+    },
+    {
+      "id": "phy10_q218",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उद्योगों में भारी लोहा उठाने वाले क्रेन में कौन-सा चुंबक होता है?",
+        "en": "Which magnet is used in industrial cranes that lift heavy iron?"
+      },
+      "options": {
+        "hi": [
+          "प्राकृतिक चुंबक",
+          "विद्युत-चुंबक",
+          "अचुंबकीय पट्टिका",
+          "रबर चुंबक पट्टिका नहीं — प्लास्टिक"
+        ],
+        "en": [
+          "A natural magnet",
+          "An electromagnet",
+          "A non-magnetic plate",
+          "A plastic plate"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धारा बंद कर ही सामान छोड़ा जा सकता है — यही विद्युत-चुंबक की विशेषता।",
+        "en": "Switching off releases the load — the electromagnet's speciality."
+      }
+    },
+    {
+      "id": "phy10_q219",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक की तुलना में स्थायी चुंबक की कमी क्या है?",
+        "en": "What is a drawback of a permanent magnet compared to an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "वह टिकता नहीं",
+          "वह महँगा नहीं होता",
+          "उसकी शक्ति को आवश्यकतानुसार बंद करना कठिन",
+          "वह लोहा नहीं खींचता"
+        ],
+        "en": [
+          "It does not last",
+          "It is not costly",
+          "Its strength cannot be switched off at will",
+          "It does not attract iron"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "नियंत्रण की स्वतंत्रता ही विद्युत-चुंबक का बड़ा लाभ है।",
+        "en": "Freedom of control is the electromagnet's big advantage."
+      }
+    },
+    {
+      "id": "phy10_q220",
+      "topic": "electromagnet",
+      "difficulty": "easy",
+      "question": {
+        "hi": "टेलीफोन डायाफ्राम (स्पीकर) में ध्वनि किस प्रभाव से उत्पन्न होती है?",
+        "en": "In a telephone diaphragm (speaker), sound is produced by which effect?"
+      },
+      "options": {
+        "hi": [
+          "गुरुत्व से",
+          "घर्षण से",
+          "ऊष्मा से",
+          "विद्युत-चुंबकीय आकर्षण-प्रतिकर्षण से कंपन"
+        ],
+        "en": [
+          "Gravity",
+          "Friction",
+          "Heat",
+          "Vibrations from electromagnetic attraction-repulsion"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बदलती धारा विद्युत-चुंबक को कंपित करती है — ध्वनि तरंगें बनती हैं।",
+        "en": "A varying current vibrates the electromagnet — sound waves result."
+      }
+    },
+    {
+      "id": "phy10_q221",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत-चुंबक में नर्म लोहा ही क्यों चुना जाता है, स्टील क्यों नहीं?",
+        "en": "Why is soft iron, not steel, chosen for an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "नर्म लोहा धारा बंद होते ही चुंबकत्व छोड़ देता है, स्टील नहीं छोड़ता",
+          "नर्म लोहा सस्ता होता है",
+          "स्टील भारी होता है",
+          "नर्म लोहा चमकता है"
+        ],
+        "en": [
+          "Soft iron sheds magnetism the moment the current stops; steel does not",
+          "Soft iron is cheaper",
+          "Steel is heavy",
+          "Soft iron shines"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अस्थायी चुंबकत्व के लिए त्वरित निष्चुंबकन आवश्यक है।",
+        "en": "Temporary magnetism demands quick demagnetisation."
+      }
+    },
+    {
+      "id": "phy10_q222",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक विद्युत-चुंबक की कुंडली में 100 फेरे हैं। फेरे बढ़ाकर 300 करने पर चुंबकत्व कैसा होगा?",
+        "en": "An electromagnet's coil has 100 turns. What happens to its magnetism if the turns are raised to 300?"
+      },
+      "options": {
+        "hi": [
+          "समाप्त हो जाएगा",
+          "लगभग तीन गुना प्रबल (उसी धारा पर)",
+          "एक-तिहाई रह जाएगा",
+          "समान रहेगा"
+        ],
+        "en": [
+          "It vanishes",
+          "About three times stronger (at the same current)",
+          "It falls to one-third",
+          "It stays the same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्षेत्र फेरों के अनुक्रमानुपाती — 300/100 = 3 गुना।",
+        "en": "The field scales with turns — 300/100 = 3 times."
+      }
+    },
+    {
+      "id": "phy10_q223",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उसी कुंडली में धारा दुगुनी करने पर विद्युत-चुंबक की शक्ति का क्या होगा?",
+        "en": "What happens to an electromagnet's strength if the current is doubled in the same coil?"
+      },
+      "options": {
+        "hi": [
+          "समान रहती है",
+          "शून्य हो जाती है",
+          "बढ़ जाती है (लगभग दुगुनी)",
+          "आधी रह जाती है"
+        ],
+        "en": [
+          "It remains the same",
+          "It becomes zero",
+          "It increases (nearly doubles)",
+          "It halves"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धारा बढ़ने पर क्षेत्र तीव्रता बढ़ती है।",
+        "en": "Raising the current raises the field intensity."
+      }
+    },
+    {
+      "id": "phy10_q224",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत-चुंबक के दो फायदे गिनाइए।",
+        "en": "List two advantages of an electromagnet."
+      },
+      "options": {
+        "hi": [
+          "सदैव चुंबक रहता है; रखरखाव नहीं",
+          "सस्ता; रंगीन",
+          "हल्का; पारदर्शी",
+          "शक्ति इच्छानुसार नियंत्रित; चालू-बंद संभव"
+        ],
+        "en": [
+          "Always magnetic; no maintenance",
+          "Cheap; colourful",
+          "Light; transparent",
+          "Strength controlled at will; can be switched on/off"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नियंत्रण योग्यता और अस्थायीपन — दो मुख्य लाभ।",
+        "en": "Controllability and temporariness — the two main benefits."
+      }
+    },
+    {
+      "id": "phy10_q225",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सोलेनोइड में लोहे की छड़ डालने पर क्षेत्र क्यों प्रबल हो जाता है?",
+        "en": "Why does the field become stronger when an iron rod is inserted in a solenoid?"
+      },
+      "options": {
+        "hi": [
+          "लोहा स्वयं चुंबकित होकर कुंडली के क्षेत्र में योगदान जोड़ता है",
+          "लोहा धारा बढ़ाता है",
+          "लोहा प्रतिरोध घटाता है",
+          "लोहा ऊष्मा देता है"
+        ],
+        "en": [
+          "The iron magnetises and adds its own contribution to the coil's field",
+          "Iron increases the current",
+          "Iron lowers the resistance",
+          "Iron supplies heat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कुंडली-क्षेत्र + प्रेरित लोहे-क्षेत्र = कुल प्रबल क्षेत्र।",
+        "en": "Coil field + induced iron field = a much stronger total field."
+      }
+    },
+    {
+      "id": "phy10_q226",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत घंटी में हथौड़ा बार-बार किस प्रक्रिया से घंटी से टकराता है?",
+        "en": "In an electric bell, by what process does the hammer strike the gong repeatedly?"
+      },
+      "options": {
+        "hi": [
+          "गुरुत्व के बदलने से",
+          "विद्युत-चुंबक चालू-बंद होते रहने से हथौड़े का आगे-पीछे दोलन",
+          "मोटर के घूमने से",
+          "पंखे की हवा से"
+        ],
+        "en": [
+          "Changing gravity",
+          "Rapid to-and-fro oscillation of the hammer as the electromagnet switches on and off",
+          "A rotating motor",
+          "A fan's breeze"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "संपर्क टूटता-जुड़ता रहता है — हथौड़ा दोलन करता है।",
+        "en": "The contact breaks and remakes — the hammer oscillates."
+      }
+    },
+    {
+      "id": "phy10_q227",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चिकित्सा में चुंबकीय अनुनाद (MRI) परीक्षण किस पर आधारित है — स्कूली स्तर पर सर्वाधिक उपयुक्त उत्तर चुनिए?",
+        "en": "On what is the medical MRI test based — choose the most school-appropriate option?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि की प्रतिध्वनि",
+          "रासायनिक विरंजन",
+          "प्रबल चुंबकीय क्षेत्र और शरीर के भीतर उसकी अनुक्रिया",
+          "क्ष-किरण छायांकन"
+        ],
+        "en": [
+          "Echoes of sound",
+          "Chemical bleaching",
+          "A strong magnetic field and the body's response to it",
+          "X-ray imaging"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शरीर-ऊतक चुंबकीय क्षेत्र में संकेत देते हैं — चुंबकत्व का चिकित्सा-अनुप्रयोग।",
+        "en": "Body tissues signal in a magnetic field — a medical use of magnetism."
+      }
+    },
+    {
+      "id": "phy10_q228",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धारावाही तार के चारों ओर क्षेत्र की दिशा ज्ञात करने का सरल नियम कौन-सा है?",
+        "en": "Which simple rule gives the direction of the field around a current-carrying wire?"
+      },
+      "options": {
+        "hi": [
+          "फ्लेमिंग का वाम हस्त नियम",
+          "लेंज़ का नियम",
+          "पास्कल का नियम",
+          "दाहिने हाथ के अंगूठे का नियम"
+        ],
+        "en": [
+          "Fleming's left-hand rule",
+          "Lenz's law",
+          "Pascal's law",
+          "The right-hand thumb rule"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अंगूठा धारा की दिशा में — मुड़ी उँगलियाँ क्षेत्र की दिशा में।",
+        "en": "Thumb along the current — curled fingers give the field direction."
+      }
+    },
+    {
+      "id": "phy10_q229",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सोलेनोइड का जो सिरा क्षेत्र-रेखाएँ बाहर छोड़ता है, वह कौन-सा ध्रुव है?",
+        "en": "The end of a solenoid from which field lines emerge is which pole?"
+      },
+      "options": {
+        "hi": [
+          "उत्तरी ध्रुव",
+          "दक्षिणी ध्रुव",
+          "निरपेक्ष ध्रुव",
+          "कोई ध्रुव नहीं"
+        ],
+        "en": [
+          "The north pole",
+          "The south pole",
+          "A neutral pole",
+          "No pole"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बाहर निकलती रेखाएँ N से ही आती हैं — छड़ चुंबक जैसा।",
+        "en": "Emerging lines come from N — just like a bar magnet."
+      }
+    },
+    {
+      "id": "phy10_q230",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक परीक्षण में तार में धारा बढ़ाने पर निकट रखी कंपास सुई का विचलन बढ़ता गया। इसका क्या निष्कर्ष है?",
+        "en": "In a test, increasing the current increased the deflection of a nearby compass needle. What is the conclusion?"
+      },
+      "options": {
+        "hi": [
+          "धारा घट रही थी",
+          "क्षेत्र की तीव्रता धारा के साथ बढ़ती है",
+          "क्षेता धारा से स्वतंत्र है",
+          "सुई खराब है"
+        ],
+        "en": [
+          "The current was falling",
+          "The field strength grows with the current",
+          "The field is independent of current",
+          "The needle is faulty"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "विचलन क्षेत्र-तीव्रता का सीधा सूचक है।",
+        "en": "Deflection is a direct indicator of field strength."
+      }
+    },
+    {
+      "id": "phy10_q231",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत-चुंबक बनाम स्थायी चुंबक — ध्रुव बदलने की सुविधा किसमें है?",
+        "en": "Electromagnet versus permanent magnet — which offers the convenience of changing poles?"
+      },
+      "options": {
+        "hi": [
+          "केवल स्थायी चुंबक में",
+          "किसी में नहीं",
+          "केवल विद्युत-चुंबक में (धारा की दिशा पलटकर)",
+          "दोनों में"
+        ],
+        "en": [
+          "Only the permanent magnet",
+          "Neither",
+          "Only the electromagnet (by reversing the current)",
+          "Both"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्थायी चुंबक के ध्रुव स्थिर रहते हैं।",
+        "en": "A permanent magnet's poles are fixed."
+      }
+    },
+    {
+      "id": "phy10_q232",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: विद्युत-चुंबक की शक्ति नियंत्रण योग्य है। कथन B: स्थायी चुंबक की शक्ति सामान्यतः नियंत्रण योग्य नहीं। सही कौन-सा है?",
+        "en": "Statement A: an electromagnet's strength is controllable. Statement B: a permanent magnet's strength is generally not controllable. Which is correct?"
+      },
+      "options": {
+        "hi": [
+          "केवल A",
+          "केवल B",
+          "दोनों गलत",
+          "A और B दोनों"
+        ],
+        "en": [
+          "Only A",
+          "Only B",
+          "Both false",
+          "Both A and B"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धारा/फेरे बदलकर विद्युत-चुंबक की शक्ति घटाई-बढ़ाई जाती है।",
+        "en": "By varying current or turns, an electromagnet's strength is tuned."
+      }
+    },
+    {
+      "id": "phy10_q233",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भारी लोहे के स्क्रैप वाले यार्ड में स्थायी चुंबक के बजाए विद्युत-चुंबक क्यों?",
+        "en": "In a heavy scrap-iron yard, why an electromagnet instead of a permanent magnet?"
+      },
+      "options": {
+        "hi": [
+          "सामान जहाँ चाहिए वहीं छोड़ने के लिए चुंबकत्व बंद किया जा सकता है",
+          "स्थायी चुंबक लोहा नहीं उठाता",
+          "विद्युत-चुंबक सस्ता नहीं होता",
+          "स्थायी चुंबक ज़्यादा उठाता है"
+        ],
+        "en": [
+          "The magnetism can be switched off to drop the load exactly where needed",
+          "A permanent magnet cannot lift iron",
+          "An electromagnet is not cheaper",
+          "A permanent magnet lifts more"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "उतारने की सुविधा ही स्क्रैप-यार्ड की मुख्य ज़रूरत है।",
+        "en": "Controlled release is the scrap yard's core need."
+      }
+    },
+    {
+      "id": "phy10_q234",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी तार की कुंडली में धारा दिशा बदलने पर कुंडली के पास कंपास सुई का क्या होगा?",
+        "en": "What happens to a compass needle near a coil when the current direction in the coil is reversed?"
+      },
+      "options": {
+        "hi": [
+          "सुई टूटेगी",
+          "सुई विपरीत दिशा में विचलित होगी",
+          "सुई वहीं रहेगी",
+          "सुई घूमना बंद करेगी"
+        ],
+        "en": [
+          "The needle breaks",
+          "The needle deflects the opposite way",
+          "The needle stays put",
+          "The needle stops turning"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धारा-दिशा पलटने से क्षेत्र-दिशा पलटती है।",
+        "en": "Reversing current reverses the field."
+      }
+    },
+    {
+      "id": "phy10_q235",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत-चुंबक में फेरों की संख्या आधी करने पर (धारा व छड़ वही) शक्ति कैसी होगी?",
+        "en": "If the turns of an electromagnet are halved (same current and core), what happens to its strength?"
+      },
+      "options": {
+        "hi": [
+          "दुगुनी होगी",
+          "अपरिवर्तित रहेगी",
+          "घट जाएगी",
+          "बढ़ जाएगी"
+        ],
+        "en": [
+          "It doubles",
+          "It stays unchanged",
+          "It decreases",
+          "It increases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फेरे घटने से क्षेत्र-योगदान घटता है।",
+        "en": "Fewer turns mean less field contribution."
+      }
+    },
+    {
+      "id": "phy10_q236",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अस्पताल की मशीनरी वाले कमरे में प्रबल विद्युत-चुंबक लाने पर क्या खतरा हो सकता है?",
+        "en": "What risk can arise if a strong electromagnet is brought into a hospital machinery room?"
+      },
+      "options": {
+        "hi": [
+          "मशीनें ठंडी हो जाती हैं",
+          "बिजली का बिल घटता है",
+          "कमरा प्रकाशित होता है",
+          "मशीनों के चुंबकीय भाग/पेसमेकर जैसे उपकरण प्रभावित हो सकते हैं"
+        ],
+        "en": [
+          "Machines cool down",
+          "The bill falls",
+          "The room lights up",
+          "Magnetic parts of machines and devices like pacemakers can be affected"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चुंबकीय क्षेत्र संवेदनशील उपकरणों के कार्य में बाधा डालता है।",
+        "en": "Magnetic fields disturb sensitive equipment."
+      }
+    },
+    {
+      "id": "phy10_q237",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शृंखला में दो विद्युत-चुंबकों को जोड़ने पर एक ही धारा दोनों से बहती है। प्रत्येक की शक्ति अलग-अलग किस उपाय से बदली जा सकती है?",
+        "en": "Two electromagnets in series carry the same current. By what means can each one's strength be changed individually?"
+      },
+      "options": {
+        "hi": [
+          "प्रत्येक की फेरों की संख्या अलग रखकर",
+          "धारा बदलकर (दोनों बदलेंगे)",
+          "छड़ हटाकर (दोनों क्षीण)",
+          "स्विच से धारा बंद कर"
+        ],
+        "en": [
+          "By giving each a different number of turns",
+          "By changing the current (both change)",
+          "By removing the cores (both weaken)",
+          "By switching the current off"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "श्रेणी में धारा साझा है — फेरों से ही व्यक्तिगत अंतर आता है।",
+        "en": "In series the current is shared — only turns differentiate them."
+      }
+    },
+    {
+      "id": "phy10_q238",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपास सुई के नीचे धारावाही तार उत्तर-दक्षिण दिशा में रखा जाए तो सुई का व्यवहार कैसा होगा?",
+        "en": "A current-carrying wire is placed under a compass needle along the north-south direction. How does the needle behave?"
+      },
+      "options": {
+        "hi": [
+          "सुई पिघल जाती है",
+          "सुई विचलित होकर अपनी सामान्य दिशा से हट जाती है",
+          "सुई कोई परिवर्तन नहीं दिखाती",
+          "सुई उड़ जाती है"
+        ],
+        "en": [
+          "The needle melts",
+          "The needle deflects away from its usual direction",
+          "The needle shows no change",
+          "The needle flies off"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तार का क्षेत्र पृथ्वी-क्षेत्र पर अध्यारोपित होकर सुई घुमाता है।",
+        "en": "The wire's field superposes on the earth's field and turns the needle."
+      }
+    },
+    {
+      "id": "phy10_q239",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत-चुंबक का कोर बार-बार चुंबकित-निष्चुंबकित होता है। ऐसे कोर से होने वाली ऊर्जा-हानि को कम करने के लिए कोर कैसा चुना जाता है?",
+        "en": "An electromagnet's core is magnetised and demagnetised repeatedly. How is the core chosen to reduce the resulting energy loss?"
+      },
+      "options": {
+        "hi": [
+          "ताँबे से",
+          "रबर से",
+          "नर्म चुंबकीय पदार्थ से — प्रत्यावर्तन हानि न्यूनतम",
+          "कठोर स्टील से"
+        ],
+        "en": [
+          "Copper",
+          "Rubber",
+          "A soft magnetic material — minimum reversal loss",
+          "Hard steel"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "नर्म पदार्थ में चुंबकत्व बार-बार बदलने पर हानि कम रहती है।",
+        "en": "In soft materials repeated reversal wastes little energy."
+      }
+    },
+    {
+      "id": "phy10_q240",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक विद्युत-चुंबक उठा सकता है 20 किलोग्राम। यदि धारा बंद कर दें तो लोहा गिर जाएगा — यह किस गुण का परिणाम है?",
+        "en": "An electromagnet can lift 20 kg. If the current is switched off, the iron falls — this results from which property?"
+      },
+      "options": {
+        "hi": [
+          "स्थायी चुंबकत्व",
+          "अचुंबकत्व",
+          "प्रतिकर्षण",
+          "अस्थायी चुंबकत्व"
+        ],
+        "en": [
+          "Permanent magnetism",
+          "Non-magnetism",
+          "Repulsion",
+          "Temporary magnetism"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नियंत्रित उठाना-गिराना अस्थायीपन से ही संभव है।",
+        "en": "Controlled lift-and-drop is possible only because of temporariness."
+      }
+    },
+    {
+      "id": "phy10_q241",
+      "topic": "electromagnet",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साइकिल की डायनेमो किस सिद्धांत पर काम करती है?",
+        "en": "On what principle does a bicycle dynamo work?"
+      },
+      "options": {
+        "hi": [
+          "चालक की गति से चुंबकीय क्षेत्र में धारा प्रेरण",
+          "धारा से गति",
+          "ऊष्मा से धारा",
+          "प्रकाश से धारा"
+        ],
+        "en": [
+          "Current induced by a conductor moving in a magnetic field",
+          "Motion from current",
+          "Current from heat",
+          "Current from light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "डायनेमो = लघु जनित्र — गतिज ऊर्जा से विद्युत।",
+        "en": "A dynamo is a small generator — mechanical energy to electrical."
+      }
+    },
+    {
+      "id": "phy10_q242",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "विद्युत-चुंबक की कुंडली में 200 फेरे और 2 एम्पियर धारा है। फेरे 600 तथा धारा 1 एम्पियर कर दी जाए तो शक्ति की तुलना कीजिए।",
+        "en": "An electromagnet has 200 turns and 2 A current. If the turns are made 600 and the current 1 A, compare the strength."
+      },
+      "options": {
+        "hi": [
+          "समाप्त हो जाएगी",
+          "बढ़ेगी — लगभग 1.5 गुना (फेरे तीन गुने, धारा आधी)",
+          "आधी रह जाएगी",
+          "दुगुनी हो जाएगी"
+        ],
+        "en": [
+          "It vanishes",
+          "It increases — about 1.5 times (threefold turns, half current)",
+          "It halves",
+          "It doubles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्षेत्र ∝ फेरे × धारा: 200×2 = 400; 600×1 = 600 — शुद्ध 600/400 = 1.5 गुना।",
+        "en": "Field ∝ turns × current: 200×2 = 400; 600×1 = 600 — net 600/400 = 1.5 times."
+      }
+    },
+    {
+      "id": "phy10_q243",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दाहिने हाथ के अंगूठे के नियम में अंगूठा क्या दर्शाता है?",
+        "en": "In the right-hand thumb rule, what does the thumb indicate?"
+      },
+      "options": {
+        "hi": [
+          "बल की दिशा",
+          "विभवांतर",
+          "धारा की दिशा (सीधे तार में)",
+          "क्षेत्र की तीव्रता"
+        ],
+        "en": [
+          "The force direction",
+          "The potential difference",
+          "The direction of the current (in a straight wire)",
+          "The field strength"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मुड़ी उँगलियाँ क्षेत्र-वृत्तों की दिशा बताती हैं।",
+        "en": "The curled fingers show the direction of the field circles."
+      }
+    },
+    {
+      "id": "phy10_q244",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "फ्लेमिंग के वाम-हस्त नियम की तीन उँगलियाँ क्रमशः क्या दर्शाती हैं?",
+        "en": "What do the three fingers of Fleming's left-hand rule indicate respectively?"
+      },
+      "options": {
+        "hi": [
+          "आगे की उँगली — धारा, पीछे की — क्षेत्र, अंगूठा — बल",
+          "अंगूठा — क्षेत्र, सब — धारा",
+          "कोई नियम नहीं",
+          "आगे की उँगली — क्षेत्र, पीछे की — धारा, अंगूठा — बल"
+        ],
+        "en": [
+          "Forefinger — current, back finger — field, thumb — force",
+          "Thumb — field, all — current",
+          "No such rule",
+          "Forefinger — field, middle/back finger — current, thumb — force"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वाम हस्त नियम धारावाही चालक पर बल की दिशा देता है (मोटर प्रभाव)।",
+        "en": "The left-hand rule gives the force on a current-carrying conductor (motor effect)."
+      }
+    },
+    {
+      "id": "phy10_q245",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "फ्लेमिंग का वाम-हस्त नियम किस यंत्र की कार्यविधि समझाने में उपयोगी है?",
+        "en": "Fleming's left-hand rule is useful in explaining the working of which device?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत मोटर",
+          "विद्युत जनित्र",
+          "ट्रांसफार्मर",
+          "सोलर पैनल"
+        ],
+        "en": [
+          "The electric motor",
+          "The electric generator",
+          "A transformer",
+          "A solar panel"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मोटर में धारा + क्षेत्र → बल/गति — वाम हस्त नियम।",
+        "en": "In a motor, current + field → force/motion — the left-hand rule."
+      }
+    },
+    {
+      "id": "phy10_q246",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "फ्लेमिंग का दक्षिण-हस्त नियम किस स्थिति में लगाया जाता है?",
+        "en": "When is Fleming's right-hand rule applied?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिरोध निकालने में",
+          "चालक की गति से प्रेरित धारा की दिशा ज्ञात करने में (जनित्र)",
+          "धारावाही चालक पर बल ज्ञात करने में",
+          "क्षेत्र की तीव्रता नापने में"
+        ],
+        "en": [
+          "To calculate resistance",
+          "To find the direction of induced current from a conductor's motion (generator)",
+          "To find force on a current-carrying conductor",
+          "To measure field strength"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दक्षिण-हस्त नियम प्रेरण (जनित्र) से जुड़ा है।",
+        "en": "The right-hand rule belongs to induction (generator)."
+      }
+    },
+    {
+      "id": "phy10_q247",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक विद्युत-चुंबक की कुंडली का फेरा उलट दिया गया (धारा उसी दिशा में)। ध्रुवों पर क्या प्रभाव पड़ेगा?",
+        "en": "The winding sense of an electromagnet's coil is reversed (current direction unchanged at the terminals). What happens to its poles?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकत्व समाप्त",
+          "केवल शक्ति बढ़ेगी",
+          "ध्रुव आपस में बदल जाएँगे",
+          "ध्रुव वही रहेंगे"
+        ],
+        "en": [
+          "The magnetism vanishes",
+          "Only the strength grows",
+          "The poles swap",
+          "The poles stay the same"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कुंडली की लपेटन बदलने से क्षेत्र-दिशा उलट जाती है।",
+        "en": "Reversing the winding sense flips the field direction."
+      }
+    },
+    {
+      "id": "phy10_q248",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सोलेनोइड के ऊपरी फलक पर ऊपर से देखने पर धारा प्रति-घड़ी (anticlockwise) दिशा में बह रही है। ऊपरी फलक कौन-सा ध्रुव बनेगा?",
+        "en": "Viewed from above, current in a solenoid flows anticlockwise at the top face. Which pole does the top face become?"
+      },
+      "options": {
+        "hi": [
+          "दक्षिणी ध्रुव",
+          "कोई नहीं",
+          "दोनों",
+          "उत्तरी ध्रुव"
+        ],
+        "en": [
+          "The south pole",
+          "Neither",
+          "Both",
+          "The north pole"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रति-घड़ी धारा वाला फलक N ध्रुव बनाता है — अंगूठा नियम से।",
+        "en": "An anticlockwise current face acts as the N pole — by the thumb rule."
+      }
+    },
+    {
+      "id": "phy10_q249",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक कुंडली में 5 वोल्ट पर 2 एम्पियर बहता है। यदि फेरे दुगुने और उसी प्रकार की दूसरी कुंडली श्रेणी में जोड़ दी जाए तो चुंबकत्व की प्रवृत्ति क्या होगी (धारा लगभग समान मानकर)?",
+        "en": "A coil draws 2 A at 5 V. If the turns are doubled and an identical second coil is added in series (current nearly unchanged), what is the tendency of the magnetism?"
+      },
+      "options": {
+        "hi": [
+          "वृद्धि — कुल फेरे लगभग दुगुने से अधिक",
+          "कोई परिवर्तन नहीं",
+          "घटेगी",
+          "समाप्त होगी"
+        ],
+        "en": [
+          "It increases — total turns well beyond double",
+          "No change",
+          "It decreases",
+          "It vanishes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फेरों का योग बढ़ता है — क्षेत्र प्रबल होता है।",
+        "en": "The added turns raise the total — a stronger field results."
+      }
+    },
+    {
+      "id": "phy10_q250",
+      "topic": "electromagnet",
+      "difficulty": "hard",
+      "question": {
+        "hi": "विद्युत-चुंबक के कोर में स्टील प्रयोग करने पर स्विच बंद करने के बाद क्या होगा?",
+        "en": "What happens after switching off if steel is used as an electromagnet's core?"
+      },
+      "options": {
+        "hi": [
+          "धारा उलट जाएगी",
+          "स्टील चुंबकत्व बनाए रखेगा — सामान छोड़ना कठिन",
+          "सामान तुरंत गिरेगा",
+          "कोर पिघल जाएगा"
+        ],
+        "en": [
+          "The current reverses",
+          "The steel retains magnetism — releasing the load becomes difficult",
+          "The load drops instantly",
+          "The core melts"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्टील की शेष-चुंबकत्व (retentivity) अधिक है — नियंत्रण खो जाता है।",
+        "en": "Steel's high retentivity spoils the control."
+      }
+    },
+    {
+      "id": "phy10_q251",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबकीय क्षेत्र में रखे धारावाही चालक पर क्या लगता है?",
+        "en": "What is experienced by a current-carrying conductor placed in a magnetic field?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश",
+          "ध्वनि",
+          "बल",
+          "ऊष्मा"
+        ],
+        "en": [
+          "Light",
+          "Sound",
+          "A force",
+          "Heat"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्षेत्र और धारा का संयोग चालक पर बल उत्पन्न करता है — मोटर प्रभाव।",
+        "en": "The combination of field and current produces a force — the motor effect."
+      }
+    },
+    {
+      "id": "phy10_q252",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत मोटर किस ऊर्जा को किस ऊर्जा में बदलती है?",
+        "en": "An electric motor converts which energy into which?"
+      },
+      "options": {
+        "hi": [
+          "गतिज को विद्युत",
+          "ऊष्मीय को विद्युत",
+          "विद्युत को प्रकाश",
+          "विद्युत को गतिज"
+        ],
+        "en": [
+          "Mechanical into electrical",
+          "Thermal into electrical",
+          "Electrical into light",
+          "Electrical into mechanical"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मोटर धारा से घूर्णन बनाती है।",
+        "en": "A motor turns current into rotation."
+      }
+    },
+    {
+      "id": "phy10_q253",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत जनित्र किस ऊर्जा को किस ऊर्जा में बदलता है?",
+        "en": "An electric generator converts which energy into which?"
+      },
+      "options": {
+        "hi": [
+          "गतिज को विद्युत",
+          "विद्युत को गतिज",
+          "प्रकाश को ऊष्मा",
+          "रासायनिक को गतिज"
+        ],
+        "en": [
+          "Mechanical into electrical",
+          "Electrical into mechanical",
+          "Light into heat",
+          "Chemical into mechanical"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जनित्र घूर्णन से धारा बनाता है।",
+        "en": "A generator makes current from rotation."
+      }
+    },
+    {
+      "id": "phy10_q254",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबकीय प्रेरण किसे कहते हैं?",
+        "en": "What is electromagnetic induction?"
+      },
+      "options": {
+        "hi": [
+          "घर्षण से ऊष्मा बनना",
+          "चुंबकीय क्षेत्र में चालक की गति से उसमें धारा उत्पन्न होना",
+          "धारा से चुंबकत्व बनना",
+          "चुंबक से लोहा खिंचना"
+        ],
+        "en": [
+          "Heat produced by friction",
+          "The production of current in a conductor moving in a magnetic field",
+          "Magnetism produced by current",
+          "Iron pulled by a magnet"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गति + क्षेत्र → प्रेरित धारा — जनित्र का आधार।",
+        "en": "Motion + field → induced current — the generator's basis."
+      }
+    },
+    {
+      "id": "phy10_q255",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रेरित धारा की खोज किसने की?",
+        "en": "Who discovered induced current?"
+      },
+      "options": {
+        "hi": [
+          "आइंस्टीन",
+          "एडिसन",
+          "माइकल फैराडे",
+          "न्यूटन"
+        ],
+        "en": [
+          "Einstein",
+          "Edison",
+          "Michael Faraday",
+          "Newton"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1831 में फैराडे ने विद्युत-चुंबकीय प्रेरण की खोज की।",
+        "en": "In 1831 Faraday discovered electromagnetic induction."
+      }
+    },
+    {
+      "id": "phy10_q256",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जनित्र किस खोज पर आधारित है?",
+        "en": "The generator is based on which discovery?"
+      },
+      "options": {
+        "hi": [
+          "ओम का नियम",
+          "गुरुत्वाकर्षण",
+          "प्रकाश का विक्षेपण",
+          "विद्युत-चुंबकीय प्रेरण"
+        ],
+        "en": [
+          "Ohm's law",
+          "Gravitation",
+          "Dispersion of light",
+          "Electromagnetic induction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फैराडे का प्रेरण-प्रयोग ही जनित्र का मूल है।",
+        "en": "Faraday's induction experiment is the generator's root."
+      }
+    },
+    {
+      "id": "phy10_q257",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रेरित धारा किस यंत्र से जाँची जाती है?",
+        "en": "With which instrument is induced current detected?"
+      },
+      "options": {
+        "hi": [
+          "गैल्वेनोमीटर",
+          "वोल्टमीटर",
+          "थर्मामीटर",
+          "बैरोमीटर"
+        ],
+        "en": [
+          "A galvanometer",
+          "A voltmeter",
+          "A thermometer",
+          "A barometer"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गैल्वेनोमीटर सूक्ष्म धारा का विचलन दर्शाता है।",
+        "en": "A galvanometer shows a deflection for tiny currents."
+      }
+    },
+    {
+      "id": "phy10_q258",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कुंडली के पास चुंबक को ले जाने पर गैल्वेनोमीटर की सुई हरकत करती है। इसका कारण क्या है?",
+        "en": "The galvanometer needle moves when a magnet is moved near a coil. What is the reason?"
+      },
+      "options": {
+        "hi": [
+          "सुई टूटती है",
+          "कुंडली में प्रेरित धारा बनती है",
+          "कुंडली गरम होती है",
+          "कुंडली चुंबक बन जाती है"
+        ],
+        "en": [
+          "The needle breaks",
+          "An induced current flows in the coil",
+          "The coil heats up",
+          "The coil becomes a magnet"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चुंबक की गति क्षेत्र बदलती है — प्रेरण होता है।",
+        "en": "The magnet's motion changes the field — induction occurs."
+      }
+    },
+    {
+      "id": "phy10_q259",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चुंबक को कुंडली के पास स्थिर रखने पर प्रेरित धारा की स्थिति क्या होती है?",
+        "en": "What is the state of the induced current when the magnet is held stationary near the coil?"
+      },
+      "options": {
+        "hi": [
+          "अर्ध-धारा",
+          "उलटी धारा",
+          "कोई धारा नहीं — प्रेरण के लिए बदलता क्षेत्र चाहिए",
+          "अधिकतम धारा"
+        ],
+        "en": [
+          "Half current",
+          "Reversed current",
+          "No current — induction needs a changing field",
+          "Maximum current"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्थिर चुंबक = अपरिवर्ती क्षेत्र = शून्य प्रेरण।",
+        "en": "A stationary magnet = an unchanging field = zero induction."
+      }
+    },
+    {
+      "id": "phy10_q260",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मोटर की घूमती हुई कुंडली किसके बीच रखी होती है?",
+        "en": "The rotating coil of a motor is placed between what?"
+      },
+      "options": {
+        "hi": [
+          "दो सेलों के बीच",
+          "दो बल्बों के बीच",
+          "दो प्रतिरोधों के बीच",
+          "विपरीत ध्रुवों वाले दो चुंबकों (चुंबकीय क्षेत्र) के बीच"
+        ],
+        "en": [
+          "Between two cells",
+          "Between two bulbs",
+          "Between two resistors",
+          "Between the opposite poles of two magnets (a magnetic field)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "क्षेत्र में ही धारावाही कुंडली बल अनुभव करती है।",
+        "en": "Only in a field does the current-carrying coil feel a force."
+      }
+    },
+    {
+      "id": "phy10_q261",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मोटर में विद्युत-चुंबकीय बल-आघूर्ण किस युग्म से उत्पन्न होता है?",
+        "en": "In a motor, the electromagnetic torque arises from which pair?"
+      },
+      "options": {
+        "hi": [
+          "धारा और चुंबकीय क्षेत्र",
+          "वोल्टेज और प्रतिरोध",
+          "ऊष्मा और दाब",
+          "प्रकाश और ध्वनि"
+        ],
+        "en": [
+          "Current and magnetic field",
+          "Voltage and resistance",
+          "Heat and pressure",
+          "Light and sound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बल ∝ धारा × क्षेत्र — मोटर का मूल संबंध।",
+        "en": "Force ∝ current × field — the motor's basic relation."
+      }
+    },
+    {
+      "id": "phy10_q262",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मोटर और जनित्र में ऊर्जा-रूपांतरण की दिशा कैसी है?",
+        "en": "How do the energy-conversion directions of a motor and a generator compare?"
+      },
+      "options": {
+        "hi": [
+          "मोटर में दो, जनित्र में कोई नहीं",
+          "एक-दूसरे के विपरीत",
+          "दोनों एक ही दिशा में",
+          "दोनों में कोई रूपांतरण नहीं"
+        ],
+        "en": [
+          "Two in the motor, none in the generator",
+          "Opposite to each other",
+          "Both in the same direction",
+          "Neither converts energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मोटर: विद्युत→गतिज; जनित्र: गतिज→विद्युत।",
+        "en": "Motor: electrical→mechanical; generator: mechanical→electrical."
+      }
+    },
+    {
+      "id": "phy10_q263",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घरेलू बिजली की आपूर्ति में धारा की दिशा बार-बार बदलती है। ऐसी धारा क्या कहलाती है?",
+        "en": "In domestic supply the current direction reverses repeatedly. What is such current called?"
+      },
+      "options": {
+        "hi": [
+          "मूल धारा",
+          "प्रेरित शून्य",
+          "प्रत्यावर्ती धारा (AC)",
+          "दिष्ट धारा (DC)"
+        ],
+        "en": [
+          "Root current",
+          "Zero induction",
+          "Alternating current (AC)",
+          "Direct current (DC)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "AC की दिशा चक्रीय रूप से बदलती रहती है।",
+        "en": "AC keeps reversing its direction cyclically."
+      }
+    },
+    {
+      "id": "phy10_q264",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "टॉर्च की बैटरी से मिलने वाली धारा कौन-सी होती है?",
+        "en": "The current from a torch battery is which type?"
+      },
+      "options": {
+        "hi": [
+          "प्रत्यावर्ती (AC)",
+          "दोनों मिश्रित",
+          "कोई धारा नहीं",
+          "दिष्ट धारा (DC)"
+        ],
+        "en": [
+          "Alternating (AC)",
+          "A mixture of both",
+          "No current",
+          "Direct current (DC)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बैटरी एक ही दिशा में धारा देती है।",
+        "en": "A battery supplies current in one direction only."
+      }
+    },
+    {
+      "id": "phy10_q265",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भारत में घरेलू AC की आवृत्ति लगभग कितनी होती है?",
+        "en": "What is the approximate frequency of domestic AC in India?"
+      },
+      "options": {
+        "hi": [
+          "50 हर्ट्ज़",
+          "60 हर्ट्ज़",
+          "5 हर्ट्ज़",
+          "500 हर्ट्ज़"
+        ],
+        "en": [
+          "50 hertz",
+          "60 hertz",
+          "5 hertz",
+          "500 hertz"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भारतीय विद्युत बोर्ड 50 Hz चक्र प्रति सेकंड आपूर्ति करते हैं।",
+        "en": "Indian supply boards provide 50 cycles per second."
+      }
+    },
+    {
+      "id": "phy10_q266",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पंखा (fan) किस विद्युत मशीन का घरेलू रूप है?",
+        "en": "A fan is the household form of which electrical machine?"
+      },
+      "options": {
+        "hi": [
+          "रेक्टिफायर",
+          "मोटर",
+          "जनित्र",
+          "ट्रांसफार्मर"
+        ],
+        "en": [
+          "A rectifier",
+          "A motor",
+          "A generator",
+          "A transformer"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पंखे की मोटर विद्युत से घूर्णन बनाती है।",
+        "en": "The fan's motor turns electricity into rotation."
+      }
+    },
+    {
+      "id": "phy10_q267",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल-विद्युत गृह में टरबाइन किस यंत्र को घुमाती है?",
+        "en": "In a hydro power house, the turbine drives which device?"
+      },
+      "options": {
+        "hi": [
+          "ट्रांसफार्मर",
+          "हीटर",
+          "विद्युत जनित्र",
+          "विद्युत मोटर"
+        ],
+        "en": [
+          "A transformer",
+          "A heater",
+          "An electric generator",
+          "An electric motor"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जल की गतिज ऊर्जा → टरबाइन → जनित्र → विद्युत।",
+        "en": "Kinetic energy of water → turbine → generator → electricity."
+      }
+    },
+    {
+      "id": "phy10_q268",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साइकिल की डायनेमो घुमाने पर लैंप जलता है। यह किसका उदाहरण है?",
+        "en": "A lamp glows when a bicycle dynamo is spun. This is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "मोटर प्रभाव",
+          "ओम का नियम",
+          "ऊष्मीय प्रभाव",
+          "विद्युत-चुंबकीय प्रेरण (लघु जनित्र)"
+        ],
+        "en": [
+          "The motor effect",
+          "Ohm's law",
+          "The heating effect",
+          "Electromagnetic induction (a small generator)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गति से प्रेरित धारा — डायनेमो।",
+        "en": "Motion-induced current — a dynamo."
+      }
+    },
+    {
+      "id": "phy10_q269",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मोटर के शaft (धुरी) का घूर्णन किसके कारण होता है?",
+        "en": "What causes the rotation of a motor's shaft?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकीय क्षेत्र में धारावाही कुंडली पर लगने वाला बल",
+          "बैटरी का गरम होना",
+          "तारों का कंपन",
+          "गुरुत्वाकर्षण"
+        ],
+        "en": [
+          "The force on the current-carrying coil in the magnetic field",
+          "The battery heating up",
+          "Vibration of wires",
+          "Gravitation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कुंडली के दो विपरीत भुजाओं पर विपरीत बल — घूर्णन।",
+        "en": "Opposite forces on the coil's opposite sides — rotation."
+      }
+    },
+    {
+      "id": "phy10_q270",
+      "topic": "motor-generator-effect",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जनित्र और मोटर का मूल नियम एक ही है — विद्युत-चुंबकत्व। दोनों के कार्य का अंतर किस राशि की दिशा से होता है?",
+        "en": "Generators and motors obey the same root science. The difference in their roles is the direction of which quantity?"
+      },
+      "options": {
+        "hi": [
+          "आयतन",
+          "ऊर्जा-रूपांतरण",
+          "रंग",
+          "द्रव्यमान"
+        ],
+        "en": [
+          "Volume",
+          "Energy conversion",
+          "Colour",
+          "Mass"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऊर्जा के प्रवाह की दिशा ही दोनों को अलग करती है।",
+        "en": "The direction of energy flow alone separates the two."
+      }
+    },
+    {
+      "id": "phy10_q271",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबक को कुंडली में तेज़ी से घुसेड़ने पर गैल्वेनोमीटर विचलन कैसा होता है?",
+        "en": "What happens to the galvanometer deflection when a magnet is pushed into a coil faster?"
+      },
+      "options": {
+        "hi": [
+          "शून्य हो जाता है",
+          "उल्टा जाता है",
+          "विचलन बढ़ता है",
+          "विचलन घटता है"
+        ],
+        "en": [
+          "It becomes zero",
+          "It reverses",
+          "The deflection increases",
+          "The deflection decreases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तीव्र गति = शीघ्र क्षेत्र-परिवर्तन = बड़ी प्रेरित धारा।",
+        "en": "Faster motion = quicker field change = larger induced current."
+      }
+    },
+    {
+      "id": "phy10_q272",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चुंबक को कुंडली से बाहर खींचने पर प्रेरित धारा की दिशा कैसी होती है (अंदर जाने की तुलना में)?",
+        "en": "Compared with pushing in, how is the direction of induced current when the magnet is pulled out of the coil?"
+      },
+      "options": {
+        "hi": [
+          "समान रहती है",
+          "शून्य होती है",
+          "दुगुनी होती है",
+          "विपरीत होती है"
+        ],
+        "en": [
+          "It stays the same",
+          "It is zero",
+          "It doubles",
+          "It is opposite"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "क्षेत्र-परिवर्तन की दिशा बदलती है — धारा भी उलटती है।",
+        "en": "The field change reverses — so does the current."
+      }
+    },
+    {
+      "id": "phy10_q273",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रेरित धारा का परिमाण किन कारकों पर निर्भर करता है?",
+        "en": "On what factors does the magnitude of the induced current depend?"
+      },
+      "options": {
+        "hi": [
+          "चुंबक की शक्ति, गति की तीव्रता और कुंडली के फेरे",
+          "केवल कुंडली का रंग",
+          "केवल तार की लंबाई",
+          "केवल मौसम"
+        ],
+        "en": [
+          "The magnet's strength, the speed of motion and the coil's turns",
+          "Only the coil's colour",
+          "Only the wire's length",
+          "Only the weather"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शीघ्रतर गति, प्रबल चुंबक, अधिक फेरे — बड़ी प्रेरित धारा।",
+        "en": "Faster motion, stronger magnet, more turns — larger induced current."
+      }
+    },
+    {
+      "id": "phy10_q274",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटर में कुंडली की धारा दिशा हर आधे चक्र में क्यों बदलनी पड़ती है?",
+        "en": "Why must the current direction in a motor's coil reverse every half cycle?"
+      },
+      "options": {
+        "hi": [
+          "बिल घटाने के लिए",
+          "ताकि कुंडली एक ही दिशा में निरंतर घूमती रहे",
+          "धारा बचाने के लिए",
+          "ऊष्मा घटाने के लिए"
+        ],
+        "en": [
+          "To lower the bill",
+          "So that the coil keeps rotating in the same direction",
+          "To save current",
+          "To reduce heat"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दिशा-परिवर्तन से बल-आघूर्ण एक ही दिशा में बना रहता है।",
+        "en": "Commutated reversal keeps the torque in one direction."
+      }
+    },
+    {
+      "id": "phy10_q275",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटर में विद्युत ऊर्जा का एक भाग ऊष्मा में भी बदलता है। यह ऊष्मा किससे आती है?",
+        "en": "Part of a motor's electrical energy turns into heat too. Where does this heat come from?"
+      },
+      "options": {
+        "hi": [
+          "घूर्णन के रंग से",
+          "वायु से",
+          "कुंडली के प्रतिरोध से (ऊष्मीय प्रभाव)",
+          "चुंबक के रंग से"
+        ],
+        "en": [
+          "From the rotation's colour",
+          "From air",
+          "From the coil's resistance (heating effect)",
+          "From the magnet's colour"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कुंडली का प्रतिरोध ऊर्जा का अंश ऊष्मा में व्यय करता है।",
+        "en": "The coil's resistance spends part of the energy as heat."
+      }
+    },
+    {
+      "id": "phy10_q276",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जनित्र में कुंडली घुमाने वाली मशीनी ऊर्जा कहाँ से आ सकती है — उदाहरण सहित बताइए।",
+        "en": "Where can the mechanical energy that spins a generator's coil come from — answer with an example."
+      },
+      "options": {
+        "hi": [
+          "बैटरी से",
+          "बल्ब से",
+          "रेडियो से",
+          "जल, भाप या वायु टरबाइन से — जैसे जल-विद्युत गृह में"
+        ],
+        "en": [
+          "From a battery",
+          "From a bulb",
+          "From a radio",
+          "From water, steam or wind turbines — as in a hydro power house"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्राकृतिक गतिज स्रोत टरबाइन घुमाते हैं।",
+        "en": "Natural mechanical sources drive the turbines."
+      }
+    },
+    {
+      "id": "phy10_q277",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "AC के लिए जनित्र-कुंडली का घूर्णन दिष्ट धारा में बदलने की आवश्यकता क्यों नहीं पड़ती?",
+        "en": "Why does an AC generator's coil rotation not need conversion into one-way current?"
+      },
+      "options": {
+        "hi": [
+          "AC का उपयोग सीधे गृह-आपूर्ति में होता है — दिशा-परिवर्तन ही AC की पहचान है",
+          "AC खतरनाक होती है",
+          "AC धीमी होती है",
+          "AC में वोल्टेज नहीं होता"
+        ],
+        "en": [
+          "AC is supplied to homes directly — periodic reversal is AC's very identity",
+          "AC is dangerous",
+          "AC is slow",
+          "AC has no voltage"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रत्यावर्ती धारा की नियमित दिशा-परिवर्तनशीलता ही उसका स्वरूप है।",
+        "en": "The periodic reversal is exactly what defines AC."
+      }
+    },
+    {
+      "id": "phy10_q278",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "50 हर्ट्ज़ AC का एक चक्र कितने समय का होता है?",
+        "en": "How long is one cycle of 50 Hz AC?"
+      },
+      "options": {
+        "hi": [
+          "50 सेकंड",
+          "0.02 सेकंड",
+          "0.2 सेकंड",
+          "2 सेकंड"
+        ],
+        "en": [
+          "50 s",
+          "0.02 s",
+          "0.2 s",
+          "2 s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "T = 1/ν = 1/50 = 0.02 सेकंड।",
+        "en": "T = 1/ν = 1/50 = 0.02 s."
+      }
+    },
+    {
+      "id": "phy10_q279",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "50 हर्ट्ज़ AC में धारा की दिशा एक सेकंड में कितनी बार बदलती है?",
+        "en": "In 50 Hz AC, how many times does the current direction change in one second?"
+      },
+      "options": {
+        "hi": [
+          "25 बार",
+          "200 बार",
+          "100 बार",
+          "50 बार"
+        ],
+        "en": [
+          "25 times",
+          "200 times",
+          "100 times",
+          "50 times"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रत्येक चक्र में दो बार पलटना — 50 × 2 = 100।",
+        "en": "Each cycle flips twice — 50 × 2 = 100."
+      }
+    },
+    {
+      "id": "phy10_q280",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटर की कुंडली में धारा बढ़ाने पर घूर्णन-बल का क्या होता है?",
+        "en": "What happens to a motor's torque if the current in its coil is increased?"
+      },
+      "options": {
+        "hi": [
+          "घटता है",
+          "समाप्त होता है",
+          "उलट जाता है",
+          "बढ़ता है"
+        ],
+        "en": [
+          "It decreases",
+          "It vanishes",
+          "It reverses",
+          "It increases"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल धारा के अनुक्रमानुपाती है।",
+        "en": "The force is proportional to the current."
+      }
+    },
+    {
+      "id": "phy10_q281",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटर में अधिक शक्तिशाली चुंबक लगाने से क्या लाभ है?",
+        "en": "What is the benefit of fitting stronger magnets in a motor?"
+      },
+      "options": {
+        "hi": [
+          "क्षेत्र बढ़ता है — उसी धारा पर अधिक बल-आघूर्ण",
+          "धारा घटती है",
+          "वोल्टेज बढ़ता है",
+          "ऊष्मा शून्य होती है"
+        ],
+        "en": [
+          "A stronger field — more torque at the same current",
+          "The current falls",
+          "The voltage rises",
+          "Heat becomes zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बल ∝ क्षेत्र — प्रबल चुंबक प्रबल घूर्णन।",
+        "en": "Force ∝ field — stronger magnet, stronger rotation."
+      }
+    },
+    {
+      "id": "phy10_q282",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक जनित्र की कुंडली 100 फेरों की है। उसी आकार की 400 फेरों की कुंडली उसी गति से घुमाने पर प्रेरित वोल्टेज कैसा होगा?",
+        "en": "A generator coil has 100 turns. If a 400-turn coil of the same size is spun at the same speed, how does the induced voltage change?"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "लगभग चार गुना",
+          "आधा",
+          "समान"
+        ],
+        "en": [
+          "Zero",
+          "About four times",
+          "Half",
+          "The same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रेरित वोल्टेज फेरों के अनुक्रमानुपाती — 400/100 = 4।",
+        "en": "Induced voltage scales with turns — 400/100 = 4."
+      }
+    },
+    {
+      "id": "phy10_q283",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रेरण-कुंडली के सामने चुंबक को विरामावस्था से तेज़ गति से मोड़ा गया। गैल्वेनोमीटर पहले एक ओर, फिर दूसरी ओर विचलित हुआ। कारण बताइए।",
+        "en": "A magnet is quickly flipped in front of a coil. The galvanometer deflects one way, then the other. Explain."
+      },
+      "options": {
+        "hi": [
+          "कुंडली ने चुंबक खा लिया",
+          "बैटरी जुड़ गई",
+          "चुंबक के पलटने से क्षेत्र-परिवर्तन की दिशा बदल गई — प्रेरित धारा ने दिशा बदली",
+          "गैल्वेनोमीटर खराब है"
+        ],
+        "en": [
+          "The coil ate the magnet",
+          "A battery got connected",
+          "Flipping reverses the field change — the induced current reverses",
+          "The galvanometer is faulty"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रेरण की दिशा क्षेत्र-परिवर्तन की दिशा से नियत होती है।",
+        "en": "Induction direction follows the direction of field change."
+      }
+    },
+    {
+      "id": "phy10_q284",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटर और जनित्र एक-दूसरे के विपरीत हैं — यह कथन किस अर्थ में सत्य है?",
+        "en": "In what sense is the statement 'a motor and a generator are opposites' true?"
+      },
+      "options": {
+        "hi": [
+          "दोनों के पुर्जे भिन्न होते हैं",
+          "दोनों का आविष्कार अलग हुआ",
+          "दोनों में चुंबक नहीं होते",
+          "ऊर्जा-रूपांतरण की दिशा विपरीत है"
+        ],
+        "en": [
+          "Their parts differ",
+          "They were invented separately",
+          "Neither has magnets",
+          "Their energy-conversion directions are opposite"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मूल भौतिकी एक; प्रयोग विपरीत दिशा में।",
+        "en": "The core physics is one; the applications run opposite ways."
+      }
+    },
+    {
+      "id": "phy10_q285",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पवन चक्की (विंड टरबाइन) विद्युत कैसे बनाती है?",
+        "en": "How does a wind turbine generate electricity?"
+      },
+      "options": {
+        "hi": [
+          "ब्लेड के घूर्णन से जनित्र की कुंडली घूमती है — प्रेरण से धारा",
+          "हवा से बैटरी चलती है",
+          "हवा रगड़ से बिजली",
+          "हवा प्रकाश बनाती है"
+        ],
+        "en": [
+          "Blade rotation spins the generator coil — current by induction",
+          "Wind runs a battery",
+          "Wind makes electricity by rubbing",
+          "Wind makes light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गतिज ऊर्जा → जनित्र → विद्युत ऊर्जा।",
+        "en": "Kinetic energy → generator → electrical energy."
+      }
+    },
+    {
+      "id": "phy10_q286",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कुंडली घूमने की दर बढ़ाने पर जनित्र का प्रेरित वोल्टेज कैसा होता है?",
+        "en": "What happens to a generator's induced voltage when the coil is spun faster?"
+      },
+      "options": {
+        "hi": [
+          "शून्य हो जाता है",
+          "बढ़ता है",
+          "घटता है",
+          "समान रहता है"
+        ],
+        "en": [
+          "It becomes zero",
+          "It increases",
+          "It decreases",
+          "It stays the same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तेज़ घूर्णन = शीघ्र क्षेत्र-परिवर्तन = बड़ा वोल्टेज।",
+        "en": "Faster spin = quicker field change = bigger voltage."
+      }
+    },
+    {
+      "id": "phy10_q287",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटर से जुड़ा पंखा बिजली बंद होते ही रुक जाता है। ऊर्जा-शृंखला पूरी कीजिए।",
+        "en": "A fan stops as soon as the power goes off. Complete the energy chain."
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा → विद्युत",
+          "प्रकाश → गतिज",
+          "विद्युत → गतिज (+ थोड़ी ऊष्मा)",
+          "गतिज → विद्युत"
+        ],
+        "en": [
+          "Heat → electrical",
+          "Light → mechanical",
+          "Electrical → mechanical (+ a little heat)",
+          "Mechanical → electrical"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मोटर मुख्य रूपांतरण के साथ अपनी हानि ऊष्मा भी देती है।",
+        "en": "The motor's main conversion carries a small heat loss too."
+      }
+    },
+    {
+      "id": "phy10_q288",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रेरित धारा की दिशा ज्ञात करने का नियम कौन-सा है?",
+        "en": "Which rule gives the direction of the induced current?"
+      },
+      "options": {
+        "hi": [
+          "फ्लेमिंग का वाम-हस्त नियम",
+          "दाहिने अंगूठे का नियम",
+          "लेंज़ का नियम नहीं — पास्कल",
+          "फ्लेमिंग का दक्षिण-हस्त नियम"
+        ],
+        "en": [
+          "Fleming's left-hand rule",
+          "The right-hand thumb rule",
+          "Not Lenz's — Pascal's",
+          "Fleming's right-hand rule"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गति + क्षेत्र → धारा की दिशा — दक्षिण-हस्त नियम।",
+        "en": "Motion + field → current direction — the right-hand rule."
+      }
+    },
+    {
+      "id": "phy10_q289",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धारावाही चालक पर लगने वाले बल की दिशा बदलने के दो उपाय कौन-से हैं?",
+        "en": "What are the two ways to reverse the force on a current-carrying conductor?"
+      },
+      "options": {
+        "hi": [
+          "धारा की दिशा बदलना या चुंबकीय क्षेत्र की दिशा बदलना",
+          "धारा बढ़ाना या घटाना",
+          "चालक को गरम या ठंडा करना",
+          "चालक को लंबा या छोटा करना"
+        ],
+        "en": [
+          "Reverse the current direction or reverse the field direction",
+          "Increase or decrease the current",
+          "Heat or cool the conductor",
+          "Lengthen or shorten the conductor"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बल की दिशा धारा × क्षेत्र के क्रस-गुणन पर निर्भर।",
+        "en": "The force direction depends on the cross product of current and field."
+      }
+    },
+    {
+      "id": "phy10_q290",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जनित्र की कुंडली क्षेत्र में समतल क्षैतिज स्थिति में विराम करती है — उस क्षण प्रेरित धारा की स्थिति सरल शब्दों में कैसी होती है?",
+        "en": "A generator coil momentarily lies flat (parallel to the field) — in simple terms, what is the induced current at that instant?"
+      },
+      "options": {
+        "hi": [
+          "धारा अनंत होती है",
+          "उस क्षण क्षेत्र-परिवर्तन सबसे तेज़ होता है — धारा चरम पर",
+          "धारा शून्य होती है",
+          "धारा उलट जाती है"
+        ],
+        "en": [
+          "The current is infinite",
+          "At that instant the field change is fastest — the current is at a peak",
+          "The current is zero",
+          "The current reverses"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कुंडली के फलक के क्षेत्र के समानांतर होने पर बहता प्रवाह सबसे तेज़ बदलता है।",
+        "en": "When the coil's face swings parallel to the field, the flux changes fastest."
+      }
+    },
+    {
+      "id": "phy10_q291",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मिक्सर-ग्राइंडर में मोटर की शक्ति 750 वाट है। 4 सेकंड चलने पर लगभग कितनी ऊर्जा व्यय होगी?",
+        "en": "A mixer's motor is rated 750 W. Roughly how much energy does it use in 4 s?"
+      },
+      "options": {
+        "hi": [
+          "750 जूल",
+          "300 जूल",
+          "3000 जूल",
+          "187.5 जूल"
+        ],
+        "en": [
+          "750 J",
+          "300 J",
+          "3000 J",
+          "187.5 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "E = Pt = 750 × 4 = 3000 जूल (P = VI से जुड़ी मोटर-शक्ति)।",
+        "en": "E = Pt = 750 × 4 = 3000 J (motor power tied to P = VI)."
+      }
+    },
+    {
+      "id": "phy10_q292",
+      "topic": "motor-generator-effect",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊर्जा-संरक्षण के अनुसार जनित्र बिना प्रयास के विद्युत नहीं दे सकता। टरबाइन को घुमाने वाली ऊर्जा का स्रोत ही क्या है जल-विद्युत में?",
+        "en": "By energy conservation a generator cannot give electricity for free. In hydro power, what is the source that drives the turbine?"
+      },
+      "options": {
+        "hi": [
+          "तारों की ऊर्जा",
+          "चुंबकों की ऊर्जा",
+          "हवा की ऊर्जा सदैव",
+          "जल के ऊँचाई से गिरने की स्थितिज/गतिज ऊर्जा"
+        ],
+        "en": [
+          "Energy of the wires",
+          "Energy of the magnets",
+          "Always wind energy",
+          "The potential/kinetic energy of falling water from a height"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जल से टरबाइन, टरबाइन से जनित्र — ऊर्जा शृंखला संरक्षित।",
+        "en": "Water to turbine, turbine to generator — the energy chain is conserved."
+      }
+    },
+    {
+      "id": "phy10_q293",
+      "topic": "motor-generator-effect",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मोटर की कुंडली में 2 एम्पियर धारा बह रही है। धारा 6 एम्पियर करने पर बल-आघूर्ण लगभग कितना गुना होगा?",
+        "en": "A motor's coil carries 2 A. If the current is raised to 6 A, the torque becomes about how many times?"
+      },
+      "options": {
+        "hi": [
+          "3 गुना",
+          "9 गुना",
+          "समान",
+          "एक-तिहाई"
+        ],
+        "en": [
+          "3 times",
+          "9 times",
+          "The same",
+          "One-third"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बल ∝ धारा: 6/2 = 3 गुना।",
+        "en": "Force ∝ current: 6/2 = 3 times."
+      }
+    },
+    {
+      "id": "phy10_q294",
+      "topic": "motor-generator-effect",
+      "difficulty": "hard",
+      "question": {
+        "hi": "जनित्र की कुंडली प्रति सेकंड 5 चक्र घूमती है। 2 सेकंड में कुल कितने पूर्ण चक्र पूरे होंगे?",
+        "en": "A generator's coil rotates 5 cycles per second. How many complete cycles finish in 2 s?"
+      },
+      "options": {
+        "hi": [
+          "20 चक्र",
+          "10 चक्र",
+          "5 चक्र",
+          "2.5 चक्र"
+        ],
+        "en": [
+          "20 cycles",
+          "10 cycles",
+          "5 cycles",
+          "2.5 cycles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "5 × 2 = 10 पूर्ण चक्र।",
+        "en": "5 × 2 = 10 complete cycles."
+      }
+    },
+    {
+      "id": "phy10_q295",
+      "topic": "motor-generator-effect",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक जनित्र 50 हर्ट्ज़ आवृत्ति से 0.02 सेकंड का चक्र देता है। यदि आवृत्ति बढ़कर 100 हर्ट्ज़ हो तो चक्र-काल कितना होगा?",
+        "en": "A generator gives 50 Hz output (0.02 s per cycle). If the frequency rises to 100 Hz, what is the period?"
+      },
+      "options": {
+        "hi": [
+          "0.02 सेकंड",
+          "0.1 सेकंड",
+          "0.01 सेकंड",
+          "0.04 सेकंड"
+        ],
+        "en": [
+          "0.02 s",
+          "0.1 s",
+          "0.01 s",
+          "0.04 s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "T = 1/ν = 1/100 = 0.01 सेकंड — आवृत्ति दुगुनी, काल आधा।",
+        "en": "T = 1/ν = 1/100 = 0.01 s — double the frequency, half the period."
+      }
+    },
+    {
+      "id": "phy10_q296",
+      "topic": "motor-generator-effect",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कुंडली में चुंबक 0.5 सेकंड तक एकसमान गति से घुसेड़ा गया और गैल्वेनोमीटर स्थिर विचलन दिखाता रहा। चुंबक पूरी तरह रुकने पर विचलन का क्या होगा?",
+        "en": "A magnet is pushed steadily into a coil for 0.5 s with a steady galvanometer deflection. What happens to the deflection when the magnet stops fully?"
+      },
+      "options": {
+        "hi": [
+          "विचलन बढ़ता है",
+          "विचलन उलट जाता है",
+          "विचलन दुगुना होता है",
+          "विचलन शून्य हो जाता है"
+        ],
+        "en": [
+          "The deflection grows",
+          "The deflection reverses",
+          "The deflection doubles",
+          "The deflection falls to zero"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गति बंद = क्षेत्र-परिवर्तन बंद = प्रेरित धारा शून्य।",
+        "en": "Motion stops = field change stops = zero induced current."
+      }
+    },
+    {
+      "id": "phy10_q297",
+      "topic": "motor-generator-effect",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मोटर-जनित्र युग्मन का एक व्यावहारिक उदाहरण — रेलगाड़ी का पुनर्योजी ब्रेकिंग (regenerative braking) किस सिद्धांत पर आधारित है?",
+        "en": "Regenerative braking of trains is a practical motor-generator pairing. On what principle is it based?"
+      },
+      "options": {
+        "hi": [
+          "चलती गाड़ी के मोटर को जनित्र की तरह चलाकर गतिज ऊर्जा विद्युत में बदलना",
+          "घर्षण बढ़ाकर ऊष्मा बनाना",
+          "चुंबकों से गाड़ी रोकना",
+          "हवा से रोकना"
+        ],
+        "en": [
+          "Running the moving vehicle's motors as generators — converting kinetic energy into electricity",
+          "Increasing friction to make heat",
+          "Stopping with magnets",
+          "Stopping with air"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मोटर-जनित्र द्वैत उपयोग — ऊर्जा वापस प्रणाली में।",
+        "en": "The motor-generator duality at work — energy returned to the system."
+      }
+    },
+    {
+      "id": "phy10_q298",
+      "topic": "motor-generator-effect",
+      "difficulty": "hard",
+      "question": {
+        "hi": "प्रेरण-प्रयोग में कुंडली के फेरे 200 से 600 किए गए (गति व चुंबक वही)। प्रेरित वोल्टेज का नया मान पुराने का लगभग कितना गुना होगा?",
+        "en": "In an induction experiment the coil's turns are raised from 200 to 600 (same magnet, same speed). The new induced voltage is about how many times the old?"
+      },
+      "options": {
+        "hi": [
+          "एक-तिहाई",
+          "3 गुना",
+          "9 गुना",
+          "समान"
+        ],
+        "en": [
+          "One-third",
+          "3 times",
+          "9 times",
+          "The same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "V ∝ फेरे: 600/200 = 3।",
+        "en": "V ∝ turns: 600/200 = 3."
+      }
+    },
+    {
+      "id": "phy10_q299",
+      "topic": "motor-generator-effect",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मोटर में विद्युत इनपुट 1000 जूल/सेकंड है और उत्पादित यांत्रिक शक्ति 800 वाट है। शेष 200 वाट कहाँ जाता है?",
+        "en": "A motor takes 1000 J/s of electrical input and yields 800 W of mechanical power. Where do the remaining 200 W go?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश में",
+          "ध्वनि में पूरा",
+          "मुख्यतः ऊष्मा (कुंडली प्रतिरोध व घर्षण) के रूप में",
+          "वापस बैटरी में"
+        ],
+        "en": [
+          "Into light",
+          "Entirely into sound",
+          "Mostly as heat (coil resistance and friction)",
+          "Back into the battery"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऊर्जा संरक्षण — अंतर ऊष्मा-हानि रूप में व्यय।",
+        "en": "Energy conservation — the difference is spent as heat loss."
+      }
+    },
+    {
+      "id": "phy10_q300",
+      "topic": "motor-generator-effect",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक कुंडली और गैल्वेनोमीटर के पास दो समान चुंबक विपरीत क्रम में एक साथ डाले गए (एक N-पहले, दूसरा S-पहले)। निकट गैल्वेनोमीटर का शुद्ध विचलन कैसा रहेगा?",
+        "en": "Two identical magnets are inserted together in opposite orientations (one N-first, the other S-first) near a coil with a galvanometer. What is the net deflection?"
+      },
+      "options": {
+        "hi": [
+          "दुगुना विचलन",
+          "एक ही दिशा में बड़ा विचलन",
+          "अनंत विचलन",
+          "दोनों के प्रेरण प्रभाव एक-दूसरे को निरस्त करेंगे — शुद्ध विचलन लगभग शून्य"
+        ],
+        "en": [
+          "Double deflection",
+          "A large one-way deflection",
+          "Infinite deflection",
+          "The two inductions cancel — net deflection nearly zero"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विपरीत क्षेत्र-परिवर्तन एक-दूसरे को काट देते हैं।",
+        "en": "Opposite field changes cancel each other."
+      }
+    }
+  ]
+}

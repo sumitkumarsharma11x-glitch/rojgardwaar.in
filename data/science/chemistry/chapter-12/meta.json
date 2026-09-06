@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-12",
+  "chapterNumber": 12,
+  "code": "C12",
+  "chapterName": {
+    "hi": "ईंधन, दहन एवं दैनिक जीवन का रसायन",
+    "en": "Fuels, Combustion & Everyday Chemistry"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "दहन एक रासायनिक प्रक्रिया है जिसमें पदार्थ ऑक्सीजन में जलकर ऊष्मा-प्रकाश देते हैं। ईंधन की गुणवत्ता उसके कैलोरीफिक मान (kJ/kg) से मापी जाती है। ईंधन जलने से उत्पन्न प्रदूषक और उनके स्वच्छ विकल्प परीक्षा का महत्वपूर्ण भाग हैं।",
+      "example": "मोमबत्ती की लौ में नीला क्षेत्र अपूर्ण दहन और चमकीला पीला क्षेत्र अपूर्ण दहन से बने कार्बन कणों से जलता है।",
+      "sections": [
+        {
+          "heading": "दहन एवं उसके प्रकार",
+          "content": "दहन के लिए ऑक्सीजन आवश्यक; तीव्र (ज्वाला), अपूर्ण (कालिख), स्वतः दहन (फास्फोरस)।"
+        },
+        {
+          "heading": "लौ की संरचना",
+          "content": "मोमबत्ती की लौ के क्षेत्र — सबसे गर्म नीला भाग तल के पास; पीला चमकीला भाग अपूर्ण दहन का।"
+        },
+        {
+          "heading": "ईंधन एवं कैलोरीफिक मान",
+          "content": "ईष्टम ईंधन के गुण — उच्च कैलोरीफिक मान, कम धुआँ, सस्ता, सुरक्षित; हाइड्रोजन का कैलोरीफिक मान उच्च पर भंडारण कठिन।"
+        },
+        {
+          "heading": "प्रदूषण एवं स्वच्छ विकल्प",
+          "content": "कोयला-पेट्रोल जलने से SO₂, CO, CO₂ और राख; CNG-LPG स्वच्छ; ऊर्जा संरक्षण और नवीकरणीय विकल्प आवश्यक।"
+        }
+      ],
+      "keyPoints": [
+        "दहन के लिए तीन आवश्यकताएँ — ज्वनशील पदार्थ, ऑक्सीजन, ज्वलन ताप",
+        "अपूर्ण दहन से CO और कालिख बनती है",
+        "कैलोरीफिक मान = प्रति किग्रा ईंधन से प्राप्त ऊष्मा (kJ/kg)",
+        "हाइड्रोजन का कैलोरीफिक मान लगभग 150 kJ/g है",
+        "CNG और LPG पेट्रोल-कोयले से स्वच्छ ईंधन हैं",
+        "जीवाश्म ईंधन अनवीनीकरणीय हैं"
+      ],
+      "examFocus": [
+        "लौ के क्षेत्रों का ताप-क्रम याद रखें",
+        "आदर्श ईंधन के गुण गिनकर लिखें",
+        "प्रदूषक गैसों और उनके स्रोत के जोड़े बनाएँ"
+      ],
+      "examTraps": [
+        "सभी जलना दहन नहीं — जंग लगना धीमा ऑक्सीकरण है",
+        "CO₂ विषैली नहीं है पर CO घातक है — दोनों को न मिलाएँ"
+      ],
+      "thinkBeforeAnswer": [
+        "'धुआँ/कालिख' का उल्लेख मिले तो अपूर्ण दहन चुनें",
+        "स्वच्छ ईंधन का प्रश्न हो तो CNG/LPG/हाइड्रोजन सोचें"
+      ],
+      "memoryTricks": [
+        "'F-O-H' — Fuel, Oxygen, Heat — आग की त्रिभुज",
+        "150 kJ/g — हाइड्रोजन का कैलोरीफिक मान अलग से याद रखें"
+      ],
+      "pyqSignals": [
+        "लौ के क्षेत्र और दहन प्रकार पूछे जाते हैं",
+        "कैलोरीफिक मान पर संख्यात्मक प्रश्न आते हैं"
+      ],
+      "mustRemember": [
+        "दहन की शर्तें",
+        "दहन के प्रकार",
+        "आदर्श ईंधन के गुण",
+        "ईंधन प्रदूषण और स्वच्छ विकल्प"
+      ],
+      "quickRevision": "दहन में पदार्थ ऑक्सीजन के साथ जलकर ऊष्मा-प्रकाश देते हैं; अपूर्ण दहन से CO और कालिख बनती है। ईंधन की गुणवत्ता कैलोरीफिक मान से मापी जाती है। आदर्श ईंधन उच्च कैलोरीफिक मान और कम प्रदूषण वाला होता है; CNG-LPG स्वच्छ विकल्प और जीवाश्म ईंधन अनवीनीकरणीय हैं।"
+    },
+    "en": {
+      "concept": "Combustion is a chemical process in which substances burn in oxygen giving heat and light. Fuel quality is measured by its calorific value (kJ/kg). Pollutants from burning fuels and their cleaner alternatives form an important exam topic.",
+      "example": "In a candle flame the blue zone indicates complete combustion while the glowing yellow zone burns carbon particles from incomplete combustion.",
+      "sections": [
+        {
+          "heading": "Combustion and its Types",
+          "content": "Oxygen is necessary; rapid (flame), incomplete (soot), and spontaneous combustion (phosphorus)."
+        },
+        {
+          "heading": "Structure of a Flame",
+          "content": "Zones of a candle flame — the hottest blue part near the base; the luminous yellow part shows incomplete combustion."
+        },
+        {
+          "heading": "Fuels and Calorific Value",
+          "content": "Qualities of an ideal fuel — high calorific value, low smoke, cheap, safe; hydrogen has high calorific value but is hard to store."
+        },
+        {
+          "heading": "Pollution and Clean Alternatives",
+          "content": "Burning coal-petrol gives SO₂, CO, CO₂ and ash; CNG-LPG are cleaner; energy conservation and renewables are essential."
+        }
+      ],
+      "keyPoints": [
+        "Three needs of combustion — combustible substance, oxygen, ignition temperature",
+        "Incomplete combustion gives CO and soot",
+        "Calorific value = heat per kg of fuel (kJ/kg)",
+        "Hydrogen's calorific value is about 150 kJ/g",
+        "CNG and LPG are cleaner than petrol-coal",
+        "Fossil fuels are non-renewable"
+      ],
+      "examFocus": [
+        "Remember the temperature order of flame zones",
+        "List the qualities of an ideal fuel on your fingers",
+        "Make pairs of pollutant gases and their sources"
+      ],
+      "examTraps": [
+        "Not all burning is combustion — rusting is slow oxidation",
+        "CO₂ is not poisonous but CO is deadly — do not mix them"
+      ],
+      "thinkBeforeAnswer": [
+        "Smoke/soot in a question points to incomplete combustion",
+        "For clean fuels think CNG/LPG/hydrogen"
+      ],
+      "memoryTricks": [
+        "'F-O-H' — Fuel, Oxygen, Heat — the fire triangle",
+        "Remember 150 kJ/g as hydrogen's calorific value"
+      ],
+      "pyqSignals": [
+        "Flame zones and combustion types are asked",
+        "Numericals on calorific value appear in exams"
+      ],
+      "mustRemember": [
+        "Conditions of combustion",
+        "Types of combustion",
+        "Qualities of an ideal fuel",
+        "Fuel pollution and clean alternatives"
+      ],
+      "quickRevision": "In combustion substances burn in oxygen giving heat and light; incomplete combustion gives CO and soot. Fuel quality is measured by calorific value. An ideal fuel has high calorific value with low pollution; CNG-LPG are clean options and fossil fuels are non-renewable."
+    }
+  }
+}

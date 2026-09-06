@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "phy2_q101",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी (distance) किसे कहते हैं?",
+        "en": "What is meant by distance?"
+      },
+      "options": {
+        "hi": [
+          "पथ की कुल लंबाई जो वस्तु तय करती है",
+          "प्रारंभ व अंत बिंदु के बीच सीधी न्यूनतम दूरी",
+          "केवल दिशा",
+          "केवल समय"
+        ],
+        "en": [
+          "The total length of the path travelled by the object",
+          "The straight minimum gap between start and end points",
+          "Only direction",
+          "Only time"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दूरी पथभर की गिनती है — चाहे रास्ता कितना भी घुमावदार हो।",
+        "en": "Distance is the whole path's count — however winding the road."
+      }
+    },
+    {
+      "id": "phy2_q102",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विस्थापन (displacement) किसे कहते हैं?",
+        "en": "What is meant by displacement?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु की चाल",
+          "प्रारंभ और अंत बिंदुओं के बीच की न्यूनतम सीधी दूरी (निश्चित दिशा सहित)",
+          "तय किए गए पथ की कुल लंबाई",
+          "वस्तु का वज़न"
+        ],
+        "en": [
+          "The object's speed",
+          "The minimum straight distance between the initial and final points (with definite direction)",
+          "The total length of the path travelled",
+          "The object's weight"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "विस्थापन सीधी रस्सी है — शुरुआत से मंज़िल तक, दिशा समेत।",
+        "en": "Displacement is the taut rope — start to finish, direction included."
+      }
+    },
+    {
+      "id": "phy2_q103",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी किस प्रकार की राशि है?",
+        "en": "What kind of quantity is distance?"
+      },
+      "options": {
+        "hi": [
+          "कभी अदिश कभी सदिश",
+          "न अदिश न सदिश",
+          "अदिश (scalar)",
+          "सदिश (vector)"
+        ],
+        "en": [
+          "Sometimes scalar, sometimes vector",
+          "Neither scalar nor vector",
+          "Scalar",
+          "Vector"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दूरी में केवल परिमाण होता है, दिशा नहीं — इसलिए अदिश।",
+        "en": "Distance has only magnitude, no direction — hence a scalar."
+      }
+    },
+    {
+      "id": "phy2_q104",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विस्थापन किस प्रकार की राशि है?",
+        "en": "What kind of quantity is displacement?"
+      },
+      "options": {
+        "hi": [
+          "अदिश (scalar)",
+          "इकाई",
+          "मात्रक-रहित",
+          "सदिश (vector)"
+        ],
+        "en": [
+          "Scalar",
+          "A unit",
+          "Unitless",
+          "Vector"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विस्थापन में परिमाण और दिशा दोनों होते हैं — सदिश राशि।",
+        "en": "Displacement carries both magnitude and direction — a vector."
+      }
+    },
+    {
+      "id": "phy2_q105",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी और विस्थापन में से किसकी दिशा बताई जाती है?",
+        "en": "Which of distance and displacement carries a direction?"
+      },
+      "options": {
+        "hi": [
+          "विस्थापन",
+          "दूरी",
+          "दोनों",
+          "कोई नहीं"
+        ],
+        "en": [
+          "Displacement",
+          "Distance",
+          "Both",
+          "Neither"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विस्थापन 'कितनी और किधर' — दोनों बताता है।",
+        "en": "Displacement tells 'how much and which way' — both."
+      }
+    },
+    {
+      "id": "phy2_q106",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "यदि वस्तु सीधी रेखा में बिना मुड़े चले, तो दूरी और विस्थापन का संबंध क्या होगा?",
+        "en": "If an object moves in a straight line without turning, what is the relation between distance and displacement?"
+      },
+      "options": {
+        "hi": [
+          "दोनों शून्य",
+          "दोनों बराबर",
+          "दूरी विस्थापन से हमेशा बड़ी",
+          "विस्थापन हमेशा बड़ा"
+        ],
+        "en": [
+          "Both are zero",
+          "Both are equal",
+          "Distance is always greater",
+          "Displacement is always greater"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सीधा रास्ता = रस्सी ही रास्ता — तब दूरी = विस्थापन।",
+        "en": "A straight road = the rope itself — then distance equals displacement."
+      }
+    },
+    {
+      "id": "phy2_q107",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विस्थापन का मान दूरी की तुलना में कैसा हो सकता है?",
+        "en": "How can the value of displacement compare with distance?"
+      },
+      "options": {
+        "hi": [
+          "हमेशा दोगुना",
+          "हमेशा ऋणात्मक",
+          "दूरी के बराबर या उससे कम",
+          "हमेशा अधिक"
+        ],
+        "en": [
+          "Always double",
+          "Always negative",
+          "Equal to or less than distance",
+          "Always more"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घुमावदार रास्ते में पथ लंबा, रस्सी छोटी — विस्थापन ≤ दूरी।",
+        "en": "On a winding path the road is long, the rope short — displacement ≤ distance."
+      }
+    },
+    {
+      "id": "phy2_q108",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "SI मात्रकों में दूरी और विस्थापन दोनों किस इकाई में मापे जाते हैं?",
+        "en": "In SI units, both distance and displacement are measured in which unit?"
+      },
+      "options": {
+        "hi": [
+          "मीटर/सेकंड",
+          "सेकंड",
+          "वर्ग मीटर",
+          "मीटर"
+        ],
+        "en": [
+          "Metre/second",
+          "Second",
+          "Square metre",
+          "Metre"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दोनों लंबाई की राशियाँ हैं — इसलिए दोनों मीटर में।",
+        "en": "Both are quantities of length — hence both in metres."
+      }
+    },
+    {
+      "id": "phy2_q109",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घर से 100 मीटर चलकर उसी रास्ते से वापस घर आ गए — तय दूरी कितनी है?",
+        "en": "You walk 100 metres from home and return by the same path — what is the distance travelled?"
+      },
+      "options": {
+        "hi": [
+          "200 मीटर",
+          "100 मीटर",
+          "0 मीटर",
+          "50 मीटर"
+        ],
+        "en": [
+          "200 metres",
+          "100 metres",
+          "0 metres",
+          "50 metres"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "100 + 100 = 200 मीटर — दूरी पथ का कुल योग है।",
+        "en": "100 + 100 = 200 m — distance is the path's total sum."
+      }
+    },
+    {
+      "id": "phy2_q110",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उसी यात्रा (100 मीटर जाकर वापस) में विस्थापन कितना हुआ?",
+        "en": "In that same trip (100 metres out and back), what is the displacement?"
+      },
+      "options": {
+        "hi": [
+          "50 मीटर",
+          "शून्य",
+          "100 मीटर",
+          "200 मीटर"
+        ],
+        "en": [
+          "50 metres",
+          "Zero",
+          "100 metres",
+          "200 metres"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शुरुआत और मंज़िल एक ही जगह — रस्सी की लंबाई शून्य।",
+        "en": "Start and finish are the same spot — the rope's length is zero."
+      }
+    },
+    {
+      "id": "phy2_q111",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वृत्ताकार पथ का एक पूरा चक्कर लगाने पर विस्थापन कितना होता है?",
+        "en": "What is the displacement after completing one full round of a circular path?"
+      },
+      "options": {
+        "hi": [
+          "त्रिज्या के बराबर",
+          "व्यास के बराबर",
+          "शून्य",
+          "परिधि के बराबर"
+        ],
+        "en": [
+          "Equal to the radius",
+          "Equal to the diameter",
+          "Zero",
+          "Equal to the circumference"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चक्कर के अंत में शुरुआती बिंदु पर ही वापसी — विस्थापन शून्य।",
+        "en": "At the lap's end you stand at the starting point — displacement zero."
+      }
+    },
+    {
+      "id": "phy2_q112",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्या विस्थापन शून्य होते हुए भी दूरी शून्य-न-हो सकती है?",
+        "en": "Can distance be non-zero while displacement is zero?"
+      },
+      "options": {
+        "hi": [
+          "नहीं, कभी नहीं",
+          "केवल सीधी रेखा में",
+          "केवल तेज़ चलने पर",
+          "हाँ — जैसे पूरा चक्कर लगाने पर"
+        ],
+        "en": [
+          "No, never",
+          "Only in a straight line",
+          "Only while walking fast",
+          "Yes — as on completing a full round"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पथभर चलते रहो और वहीं लौट आओ — दूरी भरी, विस्थापन खाली।",
+        "en": "Keep walking the path and land back home — distance full, displacement empty."
+      }
+    },
+    {
+      "id": "phy2_q113",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी का मान कब ऋणात्मक हो सकता है?",
+        "en": "When can the value of distance be negative?"
+      },
+      "options": {
+        "hi": [
+          "कभी नहीं",
+          "वापस चलने पर",
+          "पश्चिम चलने पर",
+          "गति रुकने पर"
+        ],
+        "en": [
+          "Never",
+          "While walking back",
+          "While walking west",
+          "When motion stops"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पथ की लंबाई में जोड़ा ही जाता है, घटाया नहीं — दूरी सदा धनात्मक या शून्य।",
+        "en": "Path length only accumulates, never subtracts — distance is always positive or zero."
+      }
+    },
+    {
+      "id": "phy2_q114",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक विद्यार्थी पूर्व 3 मीटर चला — उसके विस्थापन में दिशा क्यों लिखी जाती है?",
+        "en": "A student walks 3 metres east — why is a direction stated in the displacement?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि पूर्व शुभ है",
+          "क्योंकि विस्थापन सदिश है — परिमाण से बिना दिशा के अर्थ पूरा नहीं",
+          "क्योंकि दूरी भी सदिश है",
+          "क्योंकि 3 बड़ी संख्या है"
+        ],
+        "en": [
+          "Because east is auspicious",
+          "Because displacement is a vector — without direction magnitude alone is incomplete",
+          "Because distance is also a vector",
+          "Because 3 is a big number"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सदिश की पहचान ही दिशा है — '3 मीटर' अधूरा, '3 मीटर पूर्व' पूरा।",
+        "en": "A vector's identity is its direction — '3 m' incomplete, '3 m east' complete."
+      }
+    },
+    {
+      "id": "phy2_q115",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सीधी सड़क पर आगे और पीछे समान दूरी चलने पर कौन-सी राशि शून्य हो जाती है?",
+        "en": "Walking equal distances forward and backward on a straight road makes which quantity zero?"
+      },
+      "options": {
+        "hi": [
+          "समय",
+          "चाल भी और दूरी भी",
+          "विस्थापन",
+          "दूरी"
+        ],
+        "en": [
+          "Time",
+          "Both speed and distance",
+          "Displacement",
+          "Distance"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "आगे-पीछे की बराबर लंबाई एक-दूसरे को काट देती है — विस्थापन शून्य।",
+        "en": "Equal forward and backward lengths cancel each other — displacement zero."
+      }
+    },
+    {
+      "id": "phy2_q116",
+      "topic": "distance-displacement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी वस्तु की गति का वर्णन करते समय 'प्रारंभिक बिंदु' और 'अंतिम बिंदु' किस राशि की गणना के लिए जरूरी हैं?",
+        "en": "While describing motion, 'initial point' and 'final point' are needed to compute which quantity?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान",
+          "आयतन",
+          "घनत्व",
+          "विस्थापन"
+        ],
+        "en": [
+          "Mass",
+          "Volume",
+          "Density",
+          "Displacement"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विस्थापन दो बिंदुओं की रस्सी है — दोनों सिरों का पता होना जरूरी।",
+        "en": "Displacement is the rope between two points — both ends must be known."
+      }
+    },
+    {
+      "id": "phy2_q117",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पूर्व 4 मीटर और फिर उत्तर 3 मीटर चलने पर विस्थापन का परिमाण कितना होगा?",
+        "en": "Walking 4 metres east and then 3 metres north, what is the magnitude of displacement?"
+      },
+      "options": {
+        "hi": [
+          "5 मीटर",
+          "7 मीटर",
+          "1 मीटर",
+          "12 मीटर"
+        ],
+        "en": [
+          "5 metres",
+          "7 metres",
+          "1 metre",
+          "12 metres"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सीधे कोने पर पाइथागोरस: √(4² + 3²) = √25 = 5 मीटर।",
+        "en": "Right-angle Pythagoras: √(4² + 3²) = √25 = 5 m."
+      }
+    },
+    {
+      "id": "phy2_q118",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उसी स्थिति (4 मीटर पूर्व, 3 मीटर उत्तर) में तय कुल दूरी कितनी है?",
+        "en": "In the same case (4 m east, 3 m north), what is the total distance travelled?"
+      },
+      "options": {
+        "hi": [
+          "25 मीटर",
+          "7 मीटर",
+          "5 मीटर",
+          "1 मीटर"
+        ],
+        "en": [
+          "25 metres",
+          "7 metres",
+          "5 metres",
+          "1 metre"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दूरी पथ का योग है: 4 + 3 = 7 मीटर (विस्थापन 5 मीटर रहा)।",
+        "en": "Distance is the path's sum: 4 + 3 = 7 m (displacement was 5 m)."
+      }
+    },
+    {
+      "id": "phy2_q119",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वृत्ताकार मैदान की परिधि 400 मीटर है। आधा चक्कर लगाने पर दूरी और विस्थापन क्रमशः क्या होंगे? (त्रिज्या ≈ 63.7 मीटर मानकर व्यास ≈ 127 मीटर)",
+        "en": "A circular track has a 400-metre circumference. After half a round, distance and displacement respectively are — (take diameter ≈ 127 m)"
+      },
+      "options": {
+        "hi": [
+          "दूरी 127 मीटर, विस्थापन 200 मीटर",
+          "दोनों शून्य",
+          "दूरी 200 मीटर, विस्थापन 127 मीटर",
+          "दोनों 200 मीटर"
+        ],
+        "en": [
+          "Distance 127 m, displacement 200 m",
+          "Both zero",
+          "Distance 200 m, displacement 127 m",
+          "Both 200 m"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "आधा पथ = 200 मीटर; आधे चक्कर की रस्सी = व्यास ≈ 127 मीटर — दूरी बड़ी, विस्थापन छोटा।",
+        "en": "Half the path = 200 m; half-lap rope = diameter ≈ 127 m — distance larger, displacement smaller."
+      }
+    },
+    {
+      "id": "phy2_q120",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वस्तु पहले 5 मीटर पूर्व, फिर 5 मीटर पश्चिम चली — दूरी और विस्थापन क्रमशः हैं —",
+        "en": "An object moves 5 m east, then 5 m west — distance and displacement respectively are —"
+      },
+      "options": {
+        "hi": [
+          "शून्य, 10 मीटर",
+          "5 मीटर, 5 मीटर",
+          "10 मीटर, 10 मीटर",
+          "10 मीटर, शून्य"
+        ],
+        "en": [
+          "Zero, 10 m",
+          "5 m, 5 m",
+          "10 m, 10 m",
+          "10 m, zero"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पथ 5 + 5 = 10 मीटर; सिरा वहीं जहाँ से चली — विस्थापन शून्य।",
+        "en": "Path 5 + 5 = 10 m; ends where it began — displacement zero."
+      }
+    },
+    {
+      "id": "phy2_q121",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि किसी गति में विस्थापन का परिमाण तय दूरी के बराबर है, तो गति के बारे में क्या कहा जा सकता है?",
+        "en": "If in a motion the displacement's magnitude equals the distance travelled, what can be said about the motion?"
+      },
+      "options": {
+        "hi": [
+          "गति एक ही दिशा में सीधी रेखा में हुई",
+          "गति वृत्ताकार थी",
+          "गति में दिशा बदलती रही",
+          "वस्तु स्थिर रही"
+        ],
+        "en": [
+          "The motion was in a straight line in one direction",
+          "The motion was circular",
+          "The direction kept changing",
+          "The object stayed at rest"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रस्सी ही रास्ता तभी जब कोई मोड़ न हो — सीधी, एक-दिशा गति।",
+        "en": "The rope equals the road only when there are no turns — straight, one-way motion."
+      }
+    },
+    {
+      "id": "phy2_q122",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ट्रेन स्टेशन A से घुमावदार पटरी से C होते हुए B पहुँचती है। कौन-सा कथन सही है?",
+        "en": "A train goes from station A to B via a curved track through C. Which statement is correct?"
+      },
+      "options": {
+        "hi": [
+          "दूरी शून्य होगी",
+          "A से B तक दूरी, A से B विस्थापन से अधिक या बराबर होगी",
+          "विस्थापन सदा अधिक होगा",
+          "दोनों बराबर ही होंगे"
+        ],
+        "en": [
+          "Distance will be zero",
+          "Distance A to B will be greater than or equal to displacement A to B",
+          "Displacement will always be greater",
+          "Both will always be equal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घुमाव पथ को लंबा करता है, रस्सी को नहीं।",
+        "en": "Curves lengthen the path, never the rope."
+      }
+    },
+    {
+      "id": "phy2_q123",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: दूरी और विस्थापन के मात्रक समान होते हैं। कथन B: दोनों राशियाँ सदैव समान मान रखती हैं। सही विकल्प —",
+        "en": "Statement A: distance and displacement have the same unit. Statement B: the two always have the same value. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत",
+          "A गलत, B सही"
+        ],
+        "en": [
+          "Both right",
+          "Both wrong",
+          "A right, B wrong",
+          "A wrong, B right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मात्रक दोनों का मीटर; मान सीधी-रेखा गति को छोड़कर भिन्न हो सकता है।",
+        "en": "Both share the metre; values can differ except in straight-line motion."
+      }
+    },
+    {
+      "id": "phy2_q124",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक व्यक्ति 8 मीटर पूर्व और 6 मीटर उत्तर चलता है — उसकी दूरी और विस्थापन का अंतर कितना है?",
+        "en": "A person walks 8 m east and 6 m north — what is the difference between distance and displacement?"
+      },
+      "options": {
+        "hi": [
+          "2 मीटर",
+          "14 मीटर",
+          "0 मीटर",
+          "4 मीटर"
+        ],
+        "en": [
+          "2 metres",
+          "14 metres",
+          "0 metres",
+          "4 metres"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दूरी 8 + 6 = 14; विस्थापन √(64+36) = 10; अंतर = 14 − 10 = 4 मीटर।",
+        "en": "Distance 8 + 6 = 14; displacement √(64+36) = 10; difference = 14 − 10 = 4 m."
+      }
+    },
+    {
+      "id": "phy2_q125",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विस्थापन शून्य होने के लिए आवश्यक शर्त क्या है?",
+        "en": "What is the necessary condition for displacement to be zero?"
+      },
+      "options": {
+        "hi": [
+          "अंतिम बिंदु प्रारंभिक बिंदु पर ही हो",
+          "तय दूरी शून्य हो",
+          "गति सीधी रेखा में हो",
+          "चाल नियत हो"
+        ],
+        "en": [
+          "The final point coincides with the initial point",
+          "The distance travelled is zero",
+          "The motion is in a straight line",
+          "The speed is constant"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शुरुआत ही मंज़िल — तब रस्सी की लंबाई शून्य, चाहे पथ कितना भी लंबा।",
+        "en": "The start itself is the destination — then the rope's length is zero, however long the path."
+      }
+    },
+    {
+      "id": "phy2_q126",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान अंतराल में समान दूरी तय करने वाली गति को क्या कहते हैं?",
+        "en": "Motion covering equal distances in equal intervals of time is called —"
+      },
+      "options": {
+        "hi": [
+          "दोलन गति",
+          "एकसमान गति (uniform motion)",
+          "अनियमित गति",
+          "वृत्ताकार गति"
+        ],
+        "en": [
+          "Oscillatory motion",
+          "Uniform motion",
+          "Non-uniform motion",
+          "Circular motion"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बराबर समय-बराबर फासला — यही एकसमान गति की पहचान।",
+        "en": "Equal time, equal gap — that is the signature of uniform motion."
+      }
+    },
+    {
+      "id": "phy2_q127",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "असमान अंतरालों में असमान दूरियाँ तय होने पर गति कहलाती है —",
+        "en": "When unequal distances are covered in equal intervals, the motion is called —"
+      },
+      "options": {
+        "hi": [
+          "स्थिर",
+          "समय-निरपेक्ष",
+          "अनियमित (non-uniform)",
+          "एकसमान"
+        ],
+        "en": [
+          "At rest",
+          "Time-independent",
+          "Non-uniform",
+          "Uniform"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कदमों की लंबाई बदलती रहे तो गति अनियमित।",
+        "en": "If the stride keeps changing, the motion is non-uniform."
+      }
+    },
+    {
+      "id": "phy2_q128",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक कार 2 किलोमीटर पूर्व जाकर रुकती है और फिर 2 किलोमीटर पश्चिम लौटती है। पूरी यात्रा में दूरी : विस्थापन का अनुपात है —",
+        "en": "A car goes 2 km east, stops, and returns 2 km west. In the whole trip the ratio distance : displacement is —"
+      },
+      "options": {
+        "hi": [
+          "2 : 2",
+          "1 : 1",
+          "0 : 4",
+          "परिमाण में 4 : 0"
+        ],
+        "en": [
+          "2 : 2",
+          "1 : 1",
+          "0 : 4",
+          "In magnitude 4 : 0"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दूरी 4 किमी, विस्थापन 0 — अनुपात 4:0; शून्य से विभाजन सावधानी से देखें, यहाँ केवल तुलना है।",
+        "en": "Distance 4 km, displacement 0 — the comparison stands at 4 vs 0."
+      }
+    },
+    {
+      "id": "phy2_q129",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यात्रा का विवरण: 3 मीटर उत्तर → 4 मीटर पूर्व। विस्थापन की दिशा और परिमाण का युग्म सही चुनें —",
+        "en": "Journey: 3 m north → 4 m east. Pick the correct pair of displacement direction and magnitude —"
+      },
+      "options": {
+        "hi": [
+          "उत्तर-पूर्व, 5 मीटर",
+          "दक्षिण, 7 मीटर",
+          "पूर्व, 4 मीटर",
+          "उत्तर, 3 मीटर"
+        ],
+        "en": [
+          "North-east, 5 metres",
+          "South, 7 metres",
+          "East, 4 metres",
+          "North, 3 metres"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "√(3² + 4²) = 5 मीटर, दिशा उत्तर-पूर्व — रस्सी दोनों कदमों के विकर्ण पर।",
+        "en": "√(3² + 4²) = 5 m toward north-east — the rope lies on the diagonal of both steps."
+      }
+    },
+    {
+      "id": "phy2_q130",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दूरी-मापक (odometer) गाड़ी में क्या दर्शाता है — दूरी या विस्थापन?",
+        "en": "What does a vehicle's odometer show — distance or displacement?"
+      },
+      "options": {
+        "hi": [
+          "कोई नहीं",
+          "दूरी (पथ का कुल योग)",
+          "विस्थापन",
+          "दोनों"
+        ],
+        "en": [
+          "Neither",
+          "Distance (the path's total)",
+          "Displacement",
+          "Both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मीटर जोड़ता जाता है, घटाता नहीं — उधर लौटने पर भी बढ़ता है: यह दूरी है।",
+        "en": "The meter only adds, never subtracts — it grows even on the return: that is distance."
+      }
+    },
+    {
+      "id": "phy2_q131",
+      "topic": "distance-displacement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक घड़ी की सुई 15 मिनट में 12 से 3 पर पहुँचती है। सुई के सिरे द्वारा दूरी और विस्थापन (त्रिज्या r) —",
+        "en": "A clock's hand goes from 12 to 3 in 15 minutes. For the hand's tip, distance and displacement (radius r) are —"
+      },
+      "options": {
+        "hi": [
+          "दूरी = √2·r, विस्थापन = परिधि/4",
+          "दोनों शून्य",
+          "दूरी = (परिधि)/4, विस्थापन = √2·r",
+          "दोनों बराबर"
+        ],
+        "en": [
+          "Distance = √2·r, displacement = circumference/4",
+          "Both zero",
+          "Distance = circumference/4, displacement = √2·r",
+          "Both equal"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "12 से 3 तक चौथाई वृत्त-चाप = 2πr/4; सीधी रस्सी = √(r²+r²) = √2·r — चाप लंबा, जीवा छोटी।",
+        "en": "12-to-3 is a quarter arc = 2πr/4; the straight rope = √(r²+r²) = √2·r — arc long, chord short."
+      }
+    },
+    {
+      "id": "phy2_q132",
+      "topic": "distance-displacement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: दूरी कभी घटती नहीं। कथन B: विस्थापन का परिमाण घट भी सकता है और शून्य भी हो सकता है। सही विकल्प —",
+        "en": "Statement A: distance never decreases. Statement B: displacement's magnitude can decrease and even become zero. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "दोनों सही"
+        ],
+        "en": [
+          "Only A is correct",
+          "Only B is correct",
+          "Both wrong",
+          "Both are correct"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पथ का काउंटर सिर्फ बढ़ता है; रस्सी गति की दिशा से छोटी-बड़ी होती रहती है।",
+        "en": "The path counter only rises; the rope shrinks and stretches with the direction of motion."
+      }
+    },
+    {
+      "id": "phy2_q133",
+      "topic": "distance-displacement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "व्यक्ति A सीधे 10 मीटर चलता है; व्यक्ति B इसी बिंदु तक वक्र पथ से पहुँचता है। कौन-सा निष्कर्ष निश्चित है?",
+        "en": "Person A walks 10 m straight; person B reaches the same point by a curved path. Which conclusion is certain?"
+      },
+      "options": {
+        "hi": [
+          "दोनों का विस्थापन समान है, B की दूरी अधिक है",
+          "दोनों की दूरी समान है",
+          "A का विस्थापन अधिक",
+          "B का विस्थापन अधिक"
+        ],
+        "en": [
+          "Both have the same displacement; B's distance is greater",
+          "Both have the same distance",
+          "A's displacement is greater",
+          "B's displacement is greater"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मंज़िल एक — रस्सी एक; वक्र रास्ता लंबा — B की दूरी बड़ी।",
+        "en": "One destination — one rope; the curved road is longer — B's distance bigger."
+      }
+    },
+    {
+      "id": "phy2_q134",
+      "topic": "distance-displacement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि किसी यात्रा में दूरी और विस्थापन दोनों शून्य हों, तो वस्तु की अवस्था क्या थी?",
+        "en": "If in a journey both distance and displacement are zero, what was the object's state?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु तेज़ दौड़ी",
+          "वस्तु विरामावस्था में थी (कोई गति नहीं)",
+          "वस्तु चक्कर लगाती रही",
+          "वस्तु ने आगे-पीछे चलना किया"
+        ],
+        "en": [
+          "The object ran fast",
+          "The object was at rest (no motion)",
+          "The object kept circling",
+          "The object moved to and fro"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पथ शून्य का अर्थ — कदम ही नहीं उठा; चक्कर या आगे-पीछे में दूरी बनती।",
+        "en": "Zero path means not a step taken; circling or to-and-fro would build distance."
+      }
+    },
+    {
+      "id": "phy2_q135",
+      "topic": "distance-displacement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "आधे चक्कर (अर्धवृत्त) की यात्रा में दूरी और विस्थापन का अनुपात (त्रिज्या r) होगा —",
+        "en": "For a half-round (semi-circular) trip, the ratio distance : displacement (radius r) will be —"
+      },
+      "options": {
+        "hi": [
+          "1 : 1",
+          "π : 1",
+          "π : 2",
+          "2 : π"
+        ],
+        "en": [
+          "1 : 1",
+          "π : 1",
+          "π : 2",
+          "2 : π"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अर्धपरिधि πr, विस्थापन = व्यास 2r → अनुपात πr : 2r = π : 2।",
+        "en": "Semi-arc πr, displacement = diameter 2r → ratio πr : 2r = π : 2."
+      }
+    },
+    {
+      "id": "phy2_q136",
+      "topic": "distance-displacement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक विमान 300 किमी उत्तर, फिर 400 किमी पूर्व उड़ता है। प्रारंभ-बिंदु से विस्थापन कितना?",
+        "en": "A plane flies 300 km north, then 400 km east. What is its displacement from the start?"
+      },
+      "options": {
+        "hi": [
+          "700 किलोमीटर",
+          "100 किलोमीटर",
+          "शून्य",
+          "500 किलोमीटर (उत्तर-पूर्व दिशा में)"
+        ],
+        "en": [
+          "700 km",
+          "100 km",
+          "Zero",
+          "500 km (toward north-east)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "√(300² + 400²) = √250000 = 500 किमी — 3-4-5 त्रिभुज की हवाई रस्सी।",
+        "en": "√(300² + 400²) = √250000 = 500 km — the aerial rope of a 3-4-5 triangle."
+      }
+    },
+    {
+      "id": "phy2_q137",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वस्तु 5 मीटर पश्चिम और फिर 12 मीटर उत्तर चलती है — विस्थापन का परिमाण कितना?",
+        "en": "An object moves 5 m west and then 12 m north — what is the magnitude of displacement?"
+      },
+      "options": {
+        "hi": [
+          "13 मीटर",
+          "17 मीटर",
+          "7 मीटर",
+          "60 मीटर"
+        ],
+        "en": [
+          "13 metres",
+          "17 metres",
+          "7 metres",
+          "60 metres"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समकोण पर √(5² + 12²) = √169 = 13 मीटर — 5-12-13 त्रिक।",
+        "en": "At right angles √(5² + 12²) = √169 = 13 m — the 5-12-13 triple."
+      }
+    },
+    {
+      "id": "phy2_q138",
+      "topic": "distance-displacement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्या ऐसा संभव है कि तय दूरी बढ़ती रहे पर विस्थापन का परिमान घटता रहे?",
+        "en": "Is it possible that the distance travelled keeps growing while the displacement's magnitude keeps shrinking?"
+      },
+      "options": {
+        "hi": [
+          "केवल विराम में",
+          "हाँ — जैसे शुरुआत से दूर जाकर वापस आधे रास्ते पर लौटने पर",
+          "नहीं, कभी नहीं",
+          "केवल वृत्त में"
+        ],
+        "en": [
+          "Only at rest",
+          "Yes — as when going far from the start and then returning part of the way",
+          "No, never",
+          "Only in a circle"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लौटते कदम दूरी में जुड़ते हैं पर रस्सी छोटी करते हैं।",
+        "en": "Returning steps add to the path yet shorten the rope."
+      }
+    },
+    {
+      "id": "phy2_q139",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चाल (speed) का सूत्र क्या है?",
+        "en": "What is the formula for speed?"
+      },
+      "options": {
+        "hi": [
+          "चाल = दूरी × समय",
+          "चाल = विस्थापन × समय",
+          "चाल = दूरी / समय",
+          "चाल = समय / दूरी"
+        ],
+        "en": [
+          "Speed = distance × time",
+          "Speed = displacement × time",
+          "Speed = distance / time",
+          "Speed = time / distance"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक सेकंड में कितना रास्ता — यही चाल की परिभाषा।",
+        "en": "How much road per second — that is speed's definition."
+      }
+    },
+    {
+      "id": "phy2_q140",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग (velocity) का सूत्र क्या है?",
+        "en": "What is the formula for velocity?"
+      },
+      "options": {
+        "hi": [
+          "वेग = दूरी / समय",
+          "वेग = समय / विस्थापन",
+          "वेग = दूरी × समय",
+          "वेग = विस्थापन / समय"
+        ],
+        "en": [
+          "Velocity = distance / time",
+          "Velocity = time / displacement",
+          "Velocity = distance × time",
+          "Velocity = displacement / time"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वेग रस्सी की रफ्तार है — विस्थापन प्रति सेकंड।",
+        "en": "Velocity is the rope's pace — displacement per second."
+      }
+    },
+    {
+      "id": "phy2_q141",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चाल और वेग का SI मात्रक क्या है?",
+        "en": "What is the SI unit of both speed and velocity?"
+      },
+      "options": {
+        "hi": [
+          "मीटर/सेकंड (m/s)",
+          "मीटर-सेकंड",
+          "किलोमीटर",
+          "सेकंड/मीटर"
+        ],
+        "en": [
+          "Metre/second (m/s)",
+          "Metre-second",
+          "Kilometre",
+          "Second/metre"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लंबाई विभाजित समय से — मीटर प्रति सेकंड।",
+        "en": "Length divided by time — metre per second."
+      }
+    },
+    {
+      "id": "phy2_q142",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चाल किस प्रकार की राशि है?",
+        "en": "What kind of quantity is speed?"
+      },
+      "options": {
+        "hi": [
+          "कभी अदिश कभी सदिश",
+          "अदिश (केवल परिमाण)",
+          "सदिश (परिमाण + दिशा)",
+          "मात्रक-रहित"
+        ],
+        "en": [
+          "Sometimes scalar, sometimes vector",
+          "Scalar (magnitude only)",
+          "Vector (magnitude + direction)",
+          "Unitless"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चाल सिर्फ 'कितनी तेज़' — दिशा नहीं पूछती।",
+        "en": "Speed asks only 'how fast' — never which way."
+      }
+    },
+    {
+      "id": "phy2_q143",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग किस प्रकार की राशि है?",
+        "en": "What kind of quantity is velocity?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रित",
+          "मात्रक-रहित",
+          "सदिश (परिमाण + दिशा)",
+          "अदिश"
+        ],
+        "en": [
+          "Mixed",
+          "Unitless",
+          "Vector (magnitude + direction)",
+          "Scalar"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वेग 'कितनी तेज़ और किधर' — दोनों बताता है।",
+        "en": "Velocity tells 'how fast and which way' — both."
+      }
+    },
+    {
+      "id": "phy2_q144",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक कार 100 मीटर की दूरी 20 सेकंड में तय करती है — उसकी चाल कितनी है?",
+        "en": "A car covers 100 metres in 20 seconds — what is its speed?"
+      },
+      "options": {
+        "hi": [
+          "20 मीटर/सेकंड",
+          "2000 मीटर/सेकंड",
+          "0.2 मीटर/सेकंड",
+          "5 मीटर/सेकंड"
+        ],
+        "en": [
+          "20 m/s",
+          "2000 m/s",
+          "0.2 m/s",
+          "5 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "100 ÷ 20 = 5 मीटर/सेकंड।",
+        "en": "100 ÷ 20 = 5 m/s."
+      }
+    },
+    {
+      "id": "phy2_q145",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एकसमान चाल (uniform speed) से चलती बस 10 मिनट में 3 किलोमीटर चलती है — चाल मीटर/सेकंड में कितनी? (1 किमी = 1000 मीटर)",
+        "en": "A bus moving at uniform speed covers 3 km in 10 minutes — the speed in m/s is — (1 km = 1000 m)"
+      },
+      "options": {
+        "hi": [
+          "5 मीटर/सेकंड",
+          "30 मीटर/सेकंड",
+          "300 मीटर/सेकंड",
+          "0.5 मीटर/सेकंड"
+        ],
+        "en": [
+          "5 m/s",
+          "30 m/s",
+          "300 m/s",
+          "0.5 m/s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "3000 मीटर ÷ 600 सेकंड = 5 मीटर/सेकंड।",
+        "en": "3000 m ÷ 600 s = 5 m/s."
+      }
+    },
+    {
+      "id": "phy2_q146",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "s = v × t सूत्र में s क्या दर्शाता है?",
+        "en": "In the formula s = v × t, what does s stand for?"
+      },
+      "options": {
+        "hi": [
+          "विस्थापन की दिशा",
+          "तय की गई दूरी",
+          "चाल",
+          "समय"
+        ],
+        "en": [
+          "Direction of displacement",
+          "Distance travelled",
+          "Speed",
+          "Time"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "s = दूरी; v = चाल; t = समय — दूरी चाल और समय का गुणनफल।",
+        "en": "s = distance; v = speed; t = time — distance is speed times time."
+      }
+    },
+    {
+      "id": "phy2_q147",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "5 मीटर/सेकंड की चाल से 20 सेकंड चलने पर तय दूरी कितनी होगी?",
+        "en": "Walking at 5 m/s for 20 seconds, what distance is covered?"
+      },
+      "options": {
+        "hi": [
+          "4 मीटर",
+          "500 मीटर",
+          "100 मीटर",
+          "25 मीटर"
+        ],
+        "en": [
+          "4 metres",
+          "500 metres",
+          "100 metres",
+          "25 metres"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "s = 5 × 20 = 100 मीटर।",
+        "en": "s = 5 × 20 = 100 m."
+      }
+    },
+    {
+      "id": "phy2_q148",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "औसत चाल (average speed) निकालने का सूत्र क्या है?",
+        "en": "What is the formula for average speed?"
+      },
+      "options": {
+        "hi": [
+          "कुल समय / कुल दूरी",
+          "प्रारंभिक चाल + अंतिम चाल",
+          "सबसे बड़ी चाल",
+          "कुल दूरी / कुल समय"
+        ],
+        "en": [
+          "Total time / total distance",
+          "Initial speed + final speed",
+          "The maximum speed",
+          "Total distance / total time"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "औसत पूरी यात्रा का हिसाब है — कुल दूरी पर कुल समय।",
+        "en": "The average belongs to the whole journey — total distance over total time."
+      }
+    },
+    {
+      "id": "phy2_q149",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्या किसी वस्तु की चाल नियत हो और वेग बदलता रहे?",
+        "en": "Can an object have constant speed while its velocity keeps changing?"
+      },
+      "options": {
+        "hi": [
+          "हाँ — जैसे वृत्ताकार पथ में एकसमान चाल से दौड़ते हुए",
+          "नहीं, असंभव",
+          "केवल सीधी रेखा में",
+          "केवल विरामावस्था में"
+        ],
+        "en": [
+          "Yes — as while running at steady speed on a circular track",
+          "No, impossible",
+          "Only in a straight line",
+          "Only at rest"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दिशा बदलती रहे तो वेग बदलता रहता है — चाल शुद्ध परिमाण है।",
+        "en": "If direction keeps turning, velocity keeps changing — speed is pure magnitude."
+      }
+    },
+    {
+      "id": "phy2_q150",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साइकिल सवार 15 मिनट में 4.5 किलोमीटर चलता है — औसत चाल कितनी?",
+        "en": "A cyclist covers 4.5 km in 15 minutes — what is the average speed?"
+      },
+      "options": {
+        "hi": [
+          "30 किमी/घंटा",
+          "18 किमी/घंटा",
+          "4.5 किमी/घंटा",
+          "45 किमी/घंटा"
+        ],
+        "en": [
+          "30 km/h",
+          "18 km/h",
+          "4.5 km/h",
+          "45 km/h"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "15 मिनट = 0.25 घंटा; 4.5 ÷ 0.25 = 18 किमी/घंटा।",
+        "en": "15 min = 0.25 h; 4.5 ÷ 0.25 = 18 km/h."
+      }
+    },
+    {
+      "id": "phy2_q151",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग का मान ऋणात्मक कब लिखा जा सकता है?",
+        "en": "When can velocity be written with a negative sign?"
+      },
+      "options": {
+        "hi": [
+          "दूरी शून्य होने पर",
+          "कभी नहीं",
+          "चुनी गई धनात्मक दिशा के विपरीत गति होने पर",
+          "चाल घटने पर"
+        ],
+        "en": [
+          "When distance is zero",
+          "Never",
+          "When the motion is opposite to the chosen positive direction",
+          "When speed decreases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चिह्न दिशा बताता है — धनात्मक दिशा से उलट चलने पर ऋणात्मक वेग।",
+        "en": "The sign speaks of direction — motion opposite to the positive sense is negative velocity."
+      }
+    },
+    {
+      "id": "phy2_q152",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक धावक 200 मीटर दौड़ 25 सेकंड में पूरी करता है — उसकी औसत चाल?",
+        "en": "A runner finishes a 200-metre race in 25 seconds — average speed?"
+      },
+      "options": {
+        "hi": [
+          "5 मीटर/सेकंड",
+          "25 मीटर/सेकंड",
+          "0.125 मीटर/सेकंड",
+          "8 मीटर/सेकंड"
+        ],
+        "en": [
+          "5 m/s",
+          "25 m/s",
+          "0.125 m/s",
+          "8 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "200 ÷ 25 = 8 मीटर/सेकंड।",
+        "en": "200 ÷ 25 = 8 m/s."
+      }
+    },
+    {
+      "id": "phy2_q153",
+      "topic": "speed-velocity",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चाल और वेग के मान कब बराबर होते हैं?",
+        "en": "When are the values of speed and velocity equal?"
+      },
+      "options": {
+        "hi": [
+          "सीधी रेखा में एक ही दिशा की गति में",
+          "वृत्ताकार गति में हमेशा",
+          "दिशा बदलते समय",
+          "कभी नहीं"
+        ],
+        "en": [
+          "In straight-line motion in one direction",
+          "Always in circular motion",
+          "While direction changes",
+          "Never"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जब पथ ही रस्सी हो — सीधी, एक-दिशा गति — तब दोनों बराबर।",
+        "en": "When the path itself is the rope — straight, one-way motion — the two are equal."
+      }
+    },
+    {
+      "id": "phy2_q154",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "72 किमी/घंटा को मीटर/सेकंड में बदलो —",
+        "en": "Convert 72 km/h into m/s —"
+      },
+      "options": {
+        "hi": [
+          "200 मीटर/सेकंड",
+          "20 मीटर/सेकंड",
+          "7.2 मीटर/सेकंड",
+          "36 मीटर/सेकंड"
+        ],
+        "en": [
+          "200 m/s",
+          "20 m/s",
+          "7.2 m/s",
+          "36 m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "72 × 1000/3600 = 72 × 5/18 = 20 मीटर/सेकंड।",
+        "en": "72 × 1000/3600 = 72 × 5/18 = 20 m/s."
+      }
+    },
+    {
+      "id": "phy2_q155",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "36 किमी/घंटा कितने मीटर/सेकंड होता है?",
+        "en": "How many m/s is 36 km/h?"
+      },
+      "options": {
+        "hi": [
+          "360 मीटर/सेकंड",
+          "3.6 मीटर/सेकंड",
+          "10 मीटर/सेकंड",
+          "6 मीटर/सेकंड"
+        ],
+        "en": [
+          "360 m/s",
+          "3.6 m/s",
+          "10 m/s",
+          "6 m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "36 × 5/18 = 10 मीटर/सेकंड।",
+        "en": "36 × 5/18 = 10 m/s."
+      }
+    },
+    {
+      "id": "phy2_q156",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "90 किमी/घंटा की कार की चाल मीटर/सेकंड में?",
+        "en": "A car at 90 km/h — speed in m/s?"
+      },
+      "options": {
+        "hi": [
+          "9 मीटर/सेकंड",
+          "900 मीटर/सेकंड",
+          "18 मीटर/सेकंड",
+          "25 मीटर/सेकंड"
+        ],
+        "en": [
+          "9 m/s",
+          "900 m/s",
+          "18 m/s",
+          "25 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "90 × 5/18 = 25 मीटर/सेकंड।",
+        "en": "90 × 5/18 = 25 m/s."
+      }
+    },
+    {
+      "id": "phy2_q157",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक कार पहले 30 किमी/घंटा की चाल से 2 घंटे, फिर 60 किमी/घंटा की चाल से 1 घंटा चलती है — औसत चाल?",
+        "en": "A car travels 2 hours at 30 km/h, then 1 hour at 60 km/h — average speed?"
+      },
+      "options": {
+        "hi": [
+          "40 किमी/घंटा",
+          "45 किमी/घंटा",
+          "30 किमी/घंटा",
+          "90 किमी/घंटा"
+        ],
+        "en": [
+          "40 km/h",
+          "45 km/h",
+          "30 km/h",
+          "90 km/h"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दूरी 60 + 60 = 120 किमी; समय 3 घंटे; औसत = 120/3 = 40 किमी/घंटा (45 नहीं — यही जाल है)।",
+        "en": "Distance 60 + 60 = 120 km; time 3 h; average = 120/3 = 40 km/h (not 45 — the classic trap)."
+      }
+    },
+    {
+      "id": "phy2_q158",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पहाड़ी पर जाते समय 20 किमी/घंटा और लौटते समय उसी दूरी 30 किमी/घंटा — पूरी यात्रा की औसत चाल?",
+        "en": "Up a hill at 20 km/h and back the same distance at 30 km/h — average speed for the whole trip?"
+      },
+      "options": {
+        "hi": [
+          "50 किमी/घंटा",
+          "24 किमी/घंटा",
+          "25 किमी/घंटा",
+          "26 किमी/घंटा"
+        ],
+        "en": [
+          "50 km/h",
+          "24 km/h",
+          "25 km/h",
+          "26 km/h"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मान लो एक तरफ 60 किमी: जाना 3 घंटे, लौटना 2 घंटे; औसत = 120/5 = 24 किमी/घंटा — साधारण औसत (25) गलत।",
+        "en": "Take 60 km each way: up 3 h, down 2 h; average = 120/5 = 24 km/h — the simple mean (25) is wrong."
+      }
+    },
+    {
+      "id": "phy2_q159",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वाहन पहले 60 मीटर 10 सेकंड में, फिर 40 मीटर 30 सेकंड में चलता है — कुल यात्रा की औसत चाल?",
+        "en": "A vehicle covers 60 m in 10 s, then 40 m in 30 s — average speed of the whole journey?"
+      },
+      "options": {
+        "hi": [
+          "1.33 मीटर/सेकंड",
+          "10 मीटर/सेकंड",
+          "2.5 मीटर/सेकंड",
+          "5 मीटर/सेकंड"
+        ],
+        "en": [
+          "1.33 m/s",
+          "10 m/s",
+          "2.5 m/s",
+          "5 m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कुल दूरी 100 मीटर, कुल समय 40 सेकंड → 100/40 = 2.5 मीटर/सेकंड।",
+        "en": "Total 100 m in 40 s → 100/40 = 2.5 m/s."
+      }
+    },
+    {
+      "id": "phy2_q160",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "60 किमी/घंटा से 2 घंटे चलकर ट्रेन ने कितना रास्ता तय किया?",
+        "en": "At 60 km/h for 2 hours, how far does the train go?"
+      },
+      "options": {
+        "hi": [
+          "30 किलोमीटर",
+          "62 किलोमीटर",
+          "600 किलोमीटर",
+          "120 किलोमीटर"
+        ],
+        "en": [
+          "30 kilometres",
+          "62 kilometres",
+          "600 kilometres",
+          "120 kilometres"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "s = 60 × 2 = 120 किलोमीटर।",
+        "en": "s = 60 × 2 = 120 km."
+      }
+    },
+    {
+      "id": "phy2_q161",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "15 मीटर/सेकंड की चाल से चलती रेल 600 मीटर का पुल कितने समय में पार करेगी?",
+        "en": "At 15 m/s, in what time does a rail cross a 600-metre bridge?"
+      },
+      "options": {
+        "hi": [
+          "40 सेकंड",
+          "4 सेकंड",
+          "90 सेकंड",
+          "9000 सेकंड"
+        ],
+        "en": [
+          "40 seconds",
+          "4 seconds",
+          "90 seconds",
+          "9000 seconds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "t = 600/15 = 40 सेकंड।",
+        "en": "t = 600/15 = 40 s."
+      }
+    },
+    {
+      "id": "phy2_q162",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "औरत चाल और वेग में से कौन-सी राशि 'दिशा बदलने पर' बदलती है?",
+        "en": "Which of speed and velocity changes when direction changes?"
+      },
+      "options": {
+        "hi": [
+          "कोई नहीं",
+          "वेग",
+          "चाल",
+          "दोनों"
+        ],
+        "en": [
+          "Neither",
+          "Velocity",
+          "Speed",
+          "Both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चाल को दिशा से कोई मतलब नहीं; वेग सदिश है — मोड़ पर बदल जाता है।",
+        "en": "Speed cares nothing for direction; velocity is a vector — it changes at the turn."
+      }
+    },
+    {
+      "id": "phy2_q163",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: चाल कभी ऋणात्मक नहीं होती। कथन B: वेग ऋणात्मक हो सकता है। सही विकल्प —",
+        "en": "Statement A: speed is never negative. Statement B: velocity can be negative. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is correct",
+          "Both wrong",
+          "Both are correct",
+          "Only A is correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पथ-लंबाई सदा धनात्मक; वेग का चिह्न दिशा की सूचना देता है।",
+        "en": "Path length is always positive; velocity's sign informs the direction."
+      }
+    },
+    {
+      "id": "phy2_q164",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक तीरंदाज गोल मैदान में स्थिर तेज़ रफ्तार से दौड़ता है। उसकी चाल 8 मीटर/सेकंड स्थिर है — वेग?",
+        "en": "An athlete runs on a circular ground at a steady fast pace. Speed constant at 8 m/s — the velocity?"
+      },
+      "options": {
+        "hi": [
+          "वेग भी पूरी तरह स्थिर रहता है",
+          "वेग शून्य हो जाता है",
+          "वेग बढ़ता रहता है",
+          "परिमाण 8 रहते हुए भी दिशा बदलने से वेग बदलता रहता है"
+        ],
+        "en": [
+          "Velocity also stays fully constant",
+          "Velocity becomes zero",
+          "Velocity keeps increasing",
+          "Velocity keeps changing as direction turns, magnitude 8 staying put"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नियत चाल + बदलती दिशा = बदलता वेग — वृत्ताकार गति की पहचान।",
+        "en": "Steady speed + turning direction = changing velocity — the mark of circular motion."
+      }
+    },
+    {
+      "id": "phy2_q165",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग 10 मीटर/सेकंड से चलती वस्तु 30 सेकंड में कितना विस्थापन करेगी (सीधी रेखा में)?",
+        "en": "An object moving at 10 m/s in a straight line — displacement in 30 seconds?"
+      },
+      "options": {
+        "hi": [
+          "300 मीटर",
+          "3 मीटर",
+          "30 मीटर",
+          "0.33 मीटर"
+        ],
+        "en": [
+          "300 metres",
+          "3 metres",
+          "30 metres",
+          "0.33 metres"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विस्थापन = 10 × 30 = 300 मीटर (सीधी रेखा में दूरी भी यही)।",
+        "en": "Displacement = 10 × 30 = 300 m (in a straight line, distance equals it)."
+      }
+    },
+    {
+      "id": "phy2_q166",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आधे घंटे में 9 किलोमीटर चलने वाली बस की चाल मीटर/सेकंड में लगभग कितनी?",
+        "en": "A bus covers 9 km in half an hour — its speed in m/s is about?"
+      },
+      "options": {
+        "hi": [
+          "50 मीटर/सेकंड",
+          "5 मीटर/सेकंड",
+          "18 मीटर/सेकंड",
+          "9 मीटर/सेकंड"
+        ],
+        "en": [
+          "50 m/s",
+          "5 m/s",
+          "18 m/s",
+          "9 m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "9000 मीटर / 1800 सेकंड = 5 मीटर/सेकंड।",
+        "en": "9000 m / 1800 s = 5 m/s."
+      }
+    },
+    {
+      "id": "phy2_q167",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो बसें: A 40 किमी/घंटा, B 10 मीटर/सेकंड — कौन तेज़ है?",
+        "en": "Two buses: A at 40 km/h, B at 10 m/s — which is faster?"
+      },
+      "options": {
+        "hi": [
+          "दोनों बराबर",
+          "तुलना संभव नहीं",
+          "बस A (क्योंकि 10 मीटर/सेकंड = 36 किमी/घंटा, जो 40 से कम है)",
+          "बस B स्पष्ट रूप से"
+        ],
+        "en": [
+          "Both equal",
+          "Comparison impossible",
+          "Bus A (since 10 m/s equals 36 km/h, which is less than 40)",
+          "Clearly bus B"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इकाई समान करो: 10 मीटर/सेकंड = 36 किमी/घंटा → A (40) तेज़ है।",
+        "en": "Unify units: 10 m/s = 36 km/h → A (40) is faster."
+      }
+    },
+    {
+      "id": "phy2_q168",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक कार की स्पीडोमीटर 60 किमी/घंटा दिखाती है — यह कौन-सी राशि है?",
+        "en": "A car's speedometer reads 60 km/h — which quantity is this?"
+      },
+      "options": {
+        "hi": [
+          "औसत चाल",
+          "औसत वेग",
+          "त्वरण",
+          "तात्क्षणिक चाल (उस क्षण की)"
+        ],
+        "en": [
+          "Average speed",
+          "Average velocity",
+          "Acceleration",
+          "Instantaneous speed (of that moment)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्पीडोमीटर उस पल की चाल बताता है — दिशा नहीं, इसलिए चाल।",
+        "en": "The speedometer shows that instant's pace — no direction, hence speed."
+      }
+    },
+    {
+      "id": "phy2_q169",
+      "topic": "speed-velocity",
+      "difficulty": "medium",
+      "question": {
+        "hi": "54 किमी/घंटा को मीटर/सेकंड में बदलने पर क्या मिलता है?",
+        "en": "Converting 54 km/h into m/s gives —"
+      },
+      "options": {
+        "hi": [
+          "15 मीटर/सेकंड",
+          "5.4 मीटर/सेकंड",
+          "54 मीटर/सेकंड",
+          "150 मीटर/सेकंड"
+        ],
+        "en": [
+          "15 m/s",
+          "5.4 m/s",
+          "54 m/s",
+          "150 m/s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "54 × 5/18 = 3 × 5 = 15 मीटर/सेकंड।",
+        "en": "54 × 5/18 = 3 × 5 = 15 m/s."
+      }
+    },
+    {
+      "id": "phy2_q170",
+      "topic": "speed-velocity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक कार ने एक वृत्ताकार 500 मीटर परिधि वाले मैदान के डेढ़ चक्कर 100 सेकंड में पूरे किए — दूरी और औसत चाल?",
+        "en": "A car completes one and a half rounds of a 500 m-circumference circular ground in 100 s — distance and average speed?"
+      },
+      "options": {
+        "hi": [
+          "दूरी 250 मीटर, चाल 2.5 मीटर/सेकंड",
+          "दूरी 750 मीटर, औसत चाल 7.5 मीटर/सेकंड",
+          "दूरी 500 मीटर, चाल 5 मीटर/सेकंड",
+          "दूरी 1000 मीटर, चाल 10 मीटर/सेकंड"
+        ],
+        "en": [
+          "Distance 250 m, speed 2.5 m/s",
+          "Distance 750 m, average speed 7.5 m/s",
+          "Distance 500 m, speed 5 m/s",
+          "Distance 1000 m, speed 10 m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1.5 × 500 = 750 मीटर; 750/100 = 7.5 मीटर/सेकंड।",
+        "en": "1.5 × 500 = 750 m; 750/100 = 7.5 m/s."
+      }
+    },
+    {
+      "id": "phy2_q171",
+      "topic": "speed-velocity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "उसी कार (500 मीटर परिधि, डेढ़ चक्कर) का विस्थापन और औसत वेग का परिमाण क्या होगा?",
+        "en": "For the same car (500 m circumference, one and a half rounds), what are the displacement and average velocity's magnitude?"
+      },
+      "options": {
+        "hi": [
+          "विस्थापन शून्य, वेग शून्य",
+          "विस्थापन 500 मीटर, वेग 5 मीटर/सेकंड",
+          "विस्थापन = व्यास (≈159 मीटर), औसत वेग ≈ 1.59 मीटर/सेकंड",
+          "विस्थापन 750 मीटर, वेग 7.5 मीटर/सेकंड"
+        ],
+        "en": [
+          "Displacement zero, velocity zero",
+          "Displacement 500 m, velocity 5 m/s",
+          "Displacement = diameter (≈159 m), average velocity ≈ 1.59 m/s",
+          "Displacement 750 m, velocity 7.5 m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "डेढ़ चक्कर = एक चक्कर + आधा: आधे चक्कर की रस्सी व्यास ≈ 500/π ≈ 159 मीटर; वेग = 159/100 ≈ 1.59 मीटर/सेकंड।",
+        "en": "1.5 rounds = one full + half: the half's rope is the diameter ≈ 500/π ≈ 159 m; velocity = 159/100 ≈ 1.59 m/s."
+      }
+    },
+    {
+      "id": "phy2_q172",
+      "topic": "speed-velocity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "राम ने गंगा किनारे 3 किमी/घंटा से नाव चलाई और वापसी में नदी के साथ-साथ उतनी ही दूरी 6 किमी/घंटा से — औसत चाल क्या होगी?",
+        "en": "Ram rows 3 km/h along a river stretch and returns the same distance at 6 km/h — what is the average speed?"
+      },
+      "options": {
+        "hi": [
+          "4.5 किमी/घंटा",
+          "5 किमी/घंटा",
+          "9 किमी/घंटा",
+          "4 किमी/घंटा"
+        ],
+        "en": [
+          "4.5 km/h",
+          "5 km/h",
+          "9 km/h",
+          "4 km/h"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मान लो 6 किमी एक तरफ: जाना 2 घंटे, लौटना 1 घंटा → 12/3 = 4 किमी/घंटा।",
+        "en": "Take 6 km each way: out 2 h, back 1 h → 12/3 = 4 km/h."
+      }
+    },
+    {
+      "id": "phy2_q173",
+      "topic": "speed-velocity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ध्वनि 340 मीटर/सेकंड से चलती है। बिजली चमकी और 3 सेकंड बाद गड़गड़ाहट सुनाई दी — बादल की दूरी लगभग कितनी?",
+        "en": "Sound travels at 340 m/s. Lightning flashed and thunder was heard 3 seconds later — the cloud's distance is about?"
+      },
+      "options": {
+        "hi": [
+          "1020 मीटर",
+          "113 मीटर",
+          "340 मीटर",
+          "343 मीटर"
+        ],
+        "en": [
+          "1020 metres",
+          "113 metres",
+          "340 metres",
+          "343 metres"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "s = 340 × 3 = 1020 मीटर — चाल-समय सूत्र का वास्तविक उपयोग।",
+        "en": "s = 340 × 3 = 1020 m — the speed-time formula at real work."
+      }
+    },
+    {
+      "id": "phy2_q174",
+      "topic": "speed-velocity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: औसत चाल = (v1+v2)/2 केवल तभी जब दोनों चालों में समय समान हो। कथन B: समान दूरी की दो चालों का औसत समय-भारित होता है। सही विकल्प —",
+        "en": "Statement A: average speed = (v1+v2)/2 only when the times spent at the two speeds are equal. Statement B: for equal distances at two speeds, the average is time-weighted. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "दोनों सही",
+          "केवल A सही",
+          "केवल B सही"
+        ],
+        "en": [
+          "Both wrong",
+          "Both are correct",
+          "Only A is correct",
+          "Only B is correct"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "औसत का उत्तर समय-तापमान पर निर्भर है — समान समय पर सरल औसत, समान दूरी पर कुल-दूरी/कुल-समय।",
+        "en": "The average's answer depends on time — equal times allow the simple mean; equal distances demand total/total."
+      }
+    },
+    {
+      "id": "phy2_q175",
+      "topic": "speed-velocity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक धावक 100 मीटर 10 सेकंड में और दूसरा 200 मीटर 25 सेकंड में दौड़ता है — किसकी औसत चाल अधिक?",
+        "en": "One sprinter runs 100 m in 10 s and another 200 m in 25 s — whose average speed is higher?"
+      },
+      "options": {
+        "hi": [
+          "दोनों बराबर",
+          "तुलना के लिए दिशा चाहिए",
+          "पहला (10 मीटर/सेकंड बनाम 8 मीटर/सेकंड)",
+          "दूसरा"
+        ],
+        "en": [
+          "Both equal",
+          "Direction is needed to compare",
+          "The first (10 m/s versus 8 m/s)",
+          "The second"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "100/10 = 10; 200/25 = 8 — पहले की औसत चाल बड़ी।",
+        "en": "100/10 = 10; 200/25 = 8 — the first sprinter's average is higher."
+      }
+    },
+    {
+      "id": "phy2_q176",
+      "topic": "speed-velocity",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक वस्तु 4 सेकंड में 48 मीटर जाकर उसी 48 मीटर वापस आती है, कुल 12 सेकंड में — औसत चाल और औसत वेग?",
+        "en": "An object goes 48 m out and returns the same 48 m, taking 12 s in all — average speed and average velocity?"
+      },
+      "options": {
+        "hi": [
+          "दोनों 8 मीटर/सेकंड",
+          "चाल शून्य, वेग 8 मीटर/सेकंड",
+          "दोनों शून्य",
+          "चाल 8 मीटर/सेकंड, वेग शून्य"
+        ],
+        "en": [
+          "Both 8 m/s",
+          "Speed zero, velocity 8 m/s",
+          "Both zero",
+          "Speed 8 m/s, velocity zero"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दूरी 96/12 = 8 मीटर/सेकंड; विस्थापन शून्य → औसत वेग शून्य।",
+        "en": "Distance 96/12 = 8 m/s; displacement zero → average velocity zero."
+      }
+    },
+    {
+      "id": "phy2_q177",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरण (acceleration) किसे कहते हैं?",
+        "en": "What is meant by acceleration?"
+      },
+      "options": {
+        "hi": [
+          "एकांक समय में वेग में परिवर्तन की दर",
+          "एकांक समय में दूरी की दर",
+          "तय की गई कुल दूरी",
+          "वेग की दिशा"
+        ],
+        "en": [
+          "The rate of change of velocity per unit time",
+          "The rate of distance per unit time",
+          "The total distance covered",
+          "The direction of velocity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वेग बदले तो बदलाव की रफ्तार ही त्वरण है।",
+        "en": "When velocity changes, the pace of that change is acceleration."
+      }
+    },
+    {
+      "id": "phy2_q178",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरण का सूत्र क्या है?",
+        "en": "What is the formula for acceleration?"
+      },
+      "options": {
+        "hi": [
+          "a = t / (v − u)",
+          "a = (v − u) / t",
+          "a = v × t",
+          "a = u + v"
+        ],
+        "en": [
+          "a = t / (v − u)",
+          "a = (v − u) / t",
+          "a = v × t",
+          "a = u + v"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अंतिम वेग v में से प्रारंभिक वेग u घटाकर समय से भाग।",
+        "en": "Subtract initial velocity u from final velocity v, divide by time."
+      }
+    },
+    {
+      "id": "phy2_q179",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरण का SI मात्रक क्या है?",
+        "en": "What is the SI unit of acceleration?"
+      },
+      "options": {
+        "hi": [
+          "सेकंड/मीटर",
+          "मीटर×सेकंड",
+          "मीटर/सेकंड² (m/s²)",
+          "मीटर/सेकंड"
+        ],
+        "en": [
+          "Second/metre",
+          "Metre×second",
+          "Metre/second² (m/s²)",
+          "Metre/second"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "(मीटर/सेकंड) प्रति सेकंड = मीटर/सेकंड²।",
+        "en": "(m/s) per second = m/s²."
+      }
+    },
+    {
+      "id": "phy2_q180",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एकसमान वेग (uniform velocity) से चलती वस्तु का त्वरण कितना होता है?",
+        "en": "What is the acceleration of an object moving with uniform velocity?"
+      },
+      "options": {
+        "hi": [
+          "धनात्मक",
+          "ऋणात्मक",
+          "अनंत",
+          "शून्य"
+        ],
+        "en": [
+          "Positive",
+          "Negative",
+          "Infinite",
+          "Zero"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वेग बदल ही नहीं रहा — परिवर्तन की दर शून्य।",
+        "en": "Velocity is not changing at all — the rate of change is zero."
+      }
+    },
+    {
+      "id": "phy2_q181",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग बढ़ने पर त्वरण की दिशा गति की दिशा के —",
+        "en": "When velocity increases, acceleration points —— to the direction of motion."
+      },
+      "options": {
+        "hi": [
+          "अनुकूल (समान) होती है",
+          "विपरीत होती है",
+          "लंबवत होती है",
+          "कोई संबंध नहीं"
+        ],
+        "en": [
+          "Along (the same way)",
+          "Opposite",
+          "Perpendicular",
+          "Unrelated"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बढ़ती रफ्तार का त्वरण गति के साथ चलता है।",
+        "en": "The acceleration of rising speed travels with the motion."
+      }
+    },
+    {
+      "id": "phy2_q182",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग घटने पर त्वरण को क्या कहते हैं?",
+        "en": "What is acceleration called when velocity decreases?"
+      },
+      "options": {
+        "hi": [
+          "अपकेंद्री त्वरण",
+          "मंदन / ऋणात्मक त्वरण (retardation)",
+          "धनात्मक त्वरण",
+          "शून्य त्वरण"
+        ],
+        "en": [
+          "Centrifugal acceleration",
+          "Retardation / negative acceleration",
+          "Positive acceleration",
+          "Zero acceleration"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गति के विरुद्ध दिशा में त्वरण = मंदन।",
+        "en": "Acceleration opposite to the motion = retardation."
+      }
+    },
+    {
+      "id": "phy2_q183",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग-समय ग्राफ की ढाल (slope) क्या बताती है?",
+        "en": "What does the slope of a velocity-time graph give?"
+      },
+      "options": {
+        "hi": [
+          "चाल",
+          "समय",
+          "त्वरण",
+          "दूरी"
+        ],
+        "en": [
+          "Speed",
+          "Time",
+          "Acceleration",
+          "Distance"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वेग-समय की ढाल = वेग-परिवर्तन/समय = त्वरण।",
+        "en": "v-t slope = velocity-change/time = acceleration."
+      }
+    },
+    {
+      "id": "phy2_q184",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी मोटरसाइकिल का वेग 5 सेकंड में 10 मीटर/सेकंड से 20 मीटर/सेकंड हुआ — त्वरण कितना?",
+        "en": "A motorcycle's velocity goes from 10 m/s to 20 m/s in 5 s — the acceleration is?"
+      },
+      "options": {
+        "hi": [
+          "10 मीटर/सेकंड²",
+          "0.5 मीटर/सेकंड²",
+          "4 मीटर/सेकंड²",
+          "2 मीटर/सेकंड²"
+        ],
+        "en": [
+          "10 m/s²",
+          "0.5 m/s²",
+          "4 m/s²",
+          "2 m/s²"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "(20 − 10)/5 = 2 मीटर/सेकंड²।",
+        "en": "(20 − 10)/5 = 2 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q185",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विरामावस्था से चलना शुरू करने वाली वस्तु का प्रारंभिक वेग (u) कितना माना जाता है?",
+        "en": "For an object starting from rest, what is the initial velocity (u) taken as?"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "1 मीटर/सेकंड",
+          "9.8 मीटर/सेकंड",
+          "अनंत"
+        ],
+        "en": [
+          "Zero",
+          "1 m/s",
+          "9.8 m/s",
+          "Infinite"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विराम का अर्थ — शुरुआती वेग शून्य।",
+        "en": "Rest means the starting velocity is zero."
+      }
+    },
+    {
+      "id": "phy2_q186",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वरण किस प्रकार की राशि है?",
+        "en": "What kind of quantity is acceleration?"
+      },
+      "options": {
+        "hi": [
+          "कभी सदिश कभी अदिश",
+          "सदिश",
+          "अदिश",
+          "मात्रक-रहित"
+        ],
+        "en": [
+          "Sometimes vector, sometimes scalar",
+          "Vector",
+          "Scalar",
+          "Unitless"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "त्वरण में परिमाण और दिशा दोनों (वेग-परिवर्तन की दिशा) होते हैं।",
+        "en": "Acceleration has both magnitude and direction (of the velocity change)."
+      }
+    },
+    {
+      "id": "phy2_q187",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ब्रेक लगाते समय गाड़ी का त्वरण कैसा होता है?",
+        "en": "While braking, a vehicle's acceleration is —"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "पहले शून्य फिर धनात्मक",
+          "ऋणात्मक (मंदन)",
+          "धनात्मक"
+        ],
+        "en": [
+          "Zero",
+          "First zero then positive",
+          "Negative (retardation)",
+          "Positive"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ब्रेक वेग घटाता है — परिवर्तन गति के विपरीत।",
+        "en": "Brakes cut the velocity — the change is opposite to motion."
+      }
+    },
+    {
+      "id": "phy2_q188",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक कार का वेग 8 सेकंड में 0 से 16 मीटर/सेकंड होता है — त्वरण?",
+        "en": "A car's velocity rises from 0 to 16 m/s in 8 s — acceleration?"
+      },
+      "options": {
+        "hi": [
+          "16 मीटर/सेकंड²",
+          "4 मीटर/सेकंड²",
+          "0.5 मीटर/सेकंड²",
+          "2 मीटर/सेकंड²"
+        ],
+        "en": [
+          "16 m/s²",
+          "4 m/s²",
+          "0.5 m/s²",
+          "2 m/s²"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "(16 − 0)/8 = 2 मीटर/सेकंड²।",
+        "en": "(16 − 0)/8 = 2 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q189",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'मंदन' (retardation) का मान गणना में किस चिह्न के साथ आता है?",
+        "en": "What sign does 'retardation' carry in calculation?"
+      },
+      "options": {
+        "hi": [
+          "ऋणात्मक",
+          "धनात्मक",
+          "चिह्न-रहित",
+          "संख्या-रहित"
+        ],
+        "en": [
+          "Negative",
+          "Positive",
+          "Unsigned",
+          "Numberless"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मंदन = गति के विपरीत त्वरण → ऋणात्मक चिह्न।",
+        "en": "Retardation = acceleration against the motion → negative sign."
+      }
+    },
+    {
+      "id": "phy2_q190",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सीधी सड़क पर एकसमान त्वरण से चलती वस्तु का वेग —",
+        "en": "For an object moving with uniform acceleration on a straight road, the velocity —"
+      },
+      "options": {
+        "hi": [
+          "शून्य रहता है",
+          "समान समय-अंतराल में समान मात्रा में बदलता है",
+          "बिल्कुल नहीं बदलता",
+          "अनियमित बदलता है"
+        ],
+        "en": [
+          "Stays zero",
+          "Changes by equal amounts in equal intervals of time",
+          "Does not change at all",
+          "Changes irregularly"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एकसमान त्वरण = वेग-वृद्धि की समान रफ्तार।",
+        "en": "Uniform acceleration = an even pace of velocity growth."
+      }
+    },
+    {
+      "id": "phy2_q191",
+      "topic": "acceleration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग 30 मीटर/सेकंड से घटकर 10 मीटर/सेकंड हुआ, समय 5 सेकंड — त्वरण का मान?",
+        "en": "Velocity falls from 30 m/s to 10 m/s in 5 s — the value of acceleration?"
+      },
+      "options": {
+        "hi": [
+          "−8 मीटर/सेकंड²",
+          "40 मीटर/सेकंड²",
+          "−4 मीटर/सेकंड² (मंदन)",
+          "4 मीटर/सेकंड²"
+        ],
+        "en": [
+          "−8 m/s²",
+          "40 m/s²",
+          "−4 m/s² (retardation)",
+          "4 m/s²"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "(10 − 30)/5 = −20/5 = −4 मीटर/सेकंड²।",
+        "en": "(10 − 30)/5 = −20/5 = −4 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q192",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग 25 मीटर/सेकंड से 15 मीटर/सेकंड 5 सेकंड में बदला — त्वरण और उसका प्रकार?",
+        "en": "Velocity changes from 25 m/s to 15 m/s in 5 s — acceleration and its type?"
+      },
+      "options": {
+        "hi": [
+          "+2 मीटर/सेकंड², त्वरण",
+          "−10 मीटर/सेकंड², मंदन",
+          "शून्य",
+          "−2 मीटर/सेकंड², मंदन"
+        ],
+        "en": [
+          "+2 m/s², acceleration",
+          "−10 m/s², retardation",
+          "Zero",
+          "−2 m/s², retardation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "(15 − 25)/5 = −2 — ऋणात्मक, अर्थात् मंदन।",
+        "en": "(15 − 25)/5 = −2 — negative, hence retardation."
+      }
+    },
+    {
+      "id": "phy2_q193",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विराम से चालू होकर साइकिल 5 सेकंड में 10 मीटर/सेकंड वेग पकड़ती है — त्वरण?",
+        "en": "Starting from rest, a bicycle reaches 10 m/s in 5 s — acceleration?"
+      },
+      "options": {
+        "hi": [
+          "2 मीटर/सेकंड²",
+          "10 मीटर/सेकंड²",
+          "0.5 मीटर/सेकंड²",
+          "50 मीटर/सेकंड²"
+        ],
+        "en": [
+          "2 m/s²",
+          "10 m/s²",
+          "0.5 m/s²",
+          "50 m/s²"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "(10 − 0)/5 = 2 मीटर/सेकंड²।",
+        "en": "(10 − 0)/5 = 2 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q194",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक बस 18 किमी/घंटा से विराम पर आती है — यदि प्रारंभिक वेग को मीटर/सेकंड में बदलें तो?",
+        "en": "A bus comes to rest from 18 km/h — what is the initial velocity in m/s?"
+      },
+      "options": {
+        "hi": [
+          "50 मीटर/सेकंड",
+          "5 मीटर/सेकंड",
+          "18 मीटर/सेकंड",
+          "0.5 मीटर/सेकंड"
+        ],
+        "en": [
+          "50 m/s",
+          "5 m/s",
+          "18 m/s",
+          "0.5 m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "18 × 5/18 = 5 मीटर/सेकंड — इकाई बदलकर ही त्वरण गणना सही होगी।",
+        "en": "18 × 5/18 = 5 m/s — only after unit conversion does the acceleration come out right."
+      }
+    },
+    {
+      "id": "phy2_q195",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विराम से चली वस्तु 5 सेकंड में 5 मीटर/सेकंड वेग प्राप्त करती है — त्वरण कितना?",
+        "en": "From rest, an object gains 5 m/s of velocity in 5 s — acceleration?"
+      },
+      "options": {
+        "hi": [
+          "25 मीटर/सेकंड²",
+          "0.2 मीटर/सेकंड²",
+          "1 मीटर/सेकंड²",
+          "5 मीटर/सेकंड²"
+        ],
+        "en": [
+          "25 m/s²",
+          "0.2 m/s²",
+          "1 m/s²",
+          "5 m/s²"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "(5 − 0)/5 = 1 मीटर/सेकंड²।",
+        "en": "(5 − 0)/5 = 1 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q196",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी वस्तु का त्वरण 2 मीटर/सेकंड² है — इस कथन का अर्थ है —",
+        "en": "An object's acceleration is 2 m/s² — this statement means —"
+      },
+      "options": {
+        "hi": [
+          "प्रत्येक सेकंड दूरी 2 मीटर बढ़ती है",
+          "वेग 2 मीटर/सेकंड स्थिर है",
+          "समय 2 सेकंड स्थिर है",
+          "प्रत्येक सेकंड वेग 2 मीटर/सेकंड बढ़ता है"
+        ],
+        "en": [
+          "Every second the distance grows by 2 m",
+          "Velocity is fixed at 2 m/s",
+          "Time is fixed at 2 s",
+          "Every second the velocity grows by 2 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "त्वरण वेग में जोड़ की दर है — प्रति सेकंड 2 मीटर/सेकंड।",
+        "en": "Acceleration is the rate of addition to velocity — 2 m/s each second."
+      }
+    },
+    {
+      "id": "phy2_q197",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: वेग शून्य होते हुए भी त्वरण हो सकता है। कथन B: त्वरण शून्य होते हुए भी वेग हो सकता है। सही विकल्प —",
+        "en": "Statement A: acceleration can exist even when velocity is zero. Statement B: velocity can exist even when acceleration is zero. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों सही",
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "Both are correct",
+          "Only A is correct",
+          "Only B is correct",
+          "Both wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "क्षण विशेष पर वेग शून्य पर त्वरण बना रह सकता है (जैसे विराम से चलने के क्षण); नियत वेग पर त्वरण शून्य।",
+        "en": "At an instant velocity can be zero while acceleration persists (as at the moment of starting from rest); at constant velocity acceleration is zero."
+      }
+    },
+    {
+      "id": "phy2_q198",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक गेंद ऊपर फेंकी जाती है (सीधी रेखा में)। चढ़ते समय उसका त्वरण —",
+        "en": "A ball is thrown straight up. While rising, its acceleration is —"
+      },
+      "options": {
+        "hi": [
+          "पहले शून्य फिर अनुकूल",
+          "गति के विपरीत (मंदन रूप में कार्य करता है)",
+          "गति के अनुकूल",
+          "शून्य"
+        ],
+        "en": [
+          "First zero then along",
+          "Opposite to the motion (acting as retardation)",
+          "Along the motion",
+          "Zero"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चढ़ाई में वेग घटता है — परिवर्तन गति के विपरीत दिशा में।",
+        "en": "While rising the velocity falls — the change points against the motion."
+      }
+    },
+    {
+      "id": "phy2_q199",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कार का वेग 3 सेकंड में 36 किमी/घंटा से 54 किमी/घंटा होता है — त्वरण मीटर/सेकंड² में?",
+        "en": "A car's velocity goes from 36 km/h to 54 km/h in 3 s — acceleration in m/s²?"
+      },
+      "options": {
+        "hi": [
+          "18 मीटर/सेकंड²",
+          "0.6 मीटर/सेकंड²",
+          "≈1.67 मीटर/सेकंड²",
+          "6 मीटर/सेकंड²"
+        ],
+        "en": [
+          "18 m/s²",
+          "0.6 m/s²",
+          "≈1.67 m/s²",
+          "6 m/s²"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "36→10, 54→15 मीटर/सेकंड; (15−10)/3 = 5/3 ≈ 1.67 मीटर/सेकंड²।",
+        "en": "36→10 and 54→15 m/s; (15−10)/3 = 5/3 ≈ 1.67 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q200",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग-समय ग्राफ की ढाल शून्य (क्षैतिज रेखा) हो तो वस्तु की अवस्था क्या है?",
+        "en": "If the slope of a velocity-time graph is zero (horizontal line), what is the object's state?"
+      },
+      "options": {
+        "hi": [
+          "विरामावस्था",
+          "नियत त्वरण",
+          "अनियमित गति",
+          "नियत वेग (त्वरण रहित)"
+        ],
+        "en": [
+          "At rest",
+          "Constant acceleration",
+          "Non-uniform motion",
+          "Constant velocity (no acceleration)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समतल वेग-रेखा = वेग बदल नहीं रहा = त्वरण शून्य।",
+        "en": "A flat velocity line = velocity not changing = zero acceleration."
+      }
+    },
+    {
+      "id": "phy2_q201",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऋणात्मक त्वरण का अर्थ हमेशा 'वेग घटना' ही होता है या केवल 'चिह्न-संबंधी' बात है?",
+        "en": "Is negative acceleration always 'velocity decreasing', or only a matter of sign convention?"
+      },
+      "options": {
+        "hi": [
+          "चुनी गई धनात्मक दिशा के अनुसार — वेग उस दिशा में घट रहा है या विपरीत दिशा में बढ़ रहा है",
+          "हमेशा केवल वेग-घटना",
+          "हमेशा केवल विपरीत दिशा में गति",
+          "यह केवल गणितीय शोभा है"
+        ],
+        "en": [
+          "It depends on the chosen positive direction — velocity falling along it, or growing opposite to it",
+          "Always merely velocity falling",
+          "Always motion in the reverse direction",
+          "It is mere mathematical decoration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चिह्न दिशा-संधि की भाषा है — धनात्मक दिशा तय करने के बाद ही ऋण का अर्थ खुलता है।",
+        "en": "The sign speaks the language of direction-agreement — the negative's meaning opens only after fixing the positive sense."
+      }
+    },
+    {
+      "id": "phy2_q202",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "त्वरण 4 मीटर/सेकंड² से चलती (विराम से आरंभ) वस्तु 3 सेकंड में कितना वेग पकड़ेगी?",
+        "en": "Starting from rest with acceleration 4 m/s², what velocity does the object gain in 3 s?"
+      },
+      "options": {
+        "hi": [
+          "1.33 मीटर/सेकंड",
+          "12 मीटर/सेकंड",
+          "7 मीटर/सेकंड",
+          "4 मीटर/सेकंड"
+        ],
+        "en": [
+          "1.33 m/s",
+          "12 m/s",
+          "7 m/s",
+          "4 m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "v = u + at की भावना से: 0 + 4×3 = 12 मीटर/सेकंड (प्रति सेकंड 4 का जोड़)।",
+        "en": "In the spirit of v = u + at: 0 + 4×3 = 12 m/s (an addition of 4 each second)."
+      }
+    },
+    {
+      "id": "phy2_q203",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग 0 से 20 मीटर/सेकंड 10 सेकंड में — प्रति सेकंड वेग-वृद्धि कितनी?",
+        "en": "Velocity 0 → 20 m/s in 10 s — what is the velocity gain per second?"
+      },
+      "options": {
+        "hi": [
+          "200 मीटर/सेकंड प्रति सेकंड",
+          "0.5 मीटर/सेकंड प्रति सेकंड",
+          "2 मीटर/सेकंड प्रति सेकंड",
+          "20 मीटर/सेकंड प्रति सेकंड"
+        ],
+        "en": [
+          "200 m/s per second",
+          "0.5 m/s per second",
+          "2 m/s per second",
+          "20 m/s per second"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "20/10 = 2 मीटर/सेकंड प्रति सेकंड — यही त्वरण 2 m/s² है।",
+        "en": "20/10 = 2 m/s per second — this very thing is acceleration 2 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q204",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ट्रेन 4 सेकंड तक 2 मीटर/सेकंड² के त्वरण से चली (विराम से) — 4 सेकंड के अंत में वेग?",
+        "en": "A train accelerates from rest at 2 m/s² for 4 s — velocity at the end of 4 s?"
+      },
+      "options": {
+        "hi": [
+          "6 मीटर/सेकंड",
+          "16 मीटर/सेकंड",
+          "2 मीटर/सेकंड",
+          "8 मीटर/सेकंड"
+        ],
+        "en": [
+          "6 m/s",
+          "16 m/s",
+          "2 m/s",
+          "8 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रति सेकंड 2 का जोड़, 4 सेकंड = 8 मीटर/सेकंड।",
+        "en": "An addition of 2 each second, 4 seconds = 8 m/s."
+      }
+    },
+    {
+      "id": "phy2_q205",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन जाँच: 'त्वरण केवल वेग के मान में वृद्धि का नाम है।' इस कथन की त्रुटि क्या है?",
+        "en": "Evaluate: 'acceleration is only the name for an increase in the magnitude of velocity.' What is wrong here?"
+      },
+      "options": {
+        "hi": [
+          "त्वरण वेग में किसी भी भांति परिवर्तन (घटाव या दिशा-परिवर्तन सहित) की दर है",
+          "कथन पूरी तरह सही है",
+          "त्वरण केवल दिशा का नाम है",
+          "त्वरण केवल समय का नाम है"
+        ],
+        "en": [
+          "Acceleration is the rate of any change of velocity (decrease or direction-change included)",
+          "The statement is fully correct",
+          "Acceleration is only about direction",
+          "Acceleration is only about time"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वेग घटे या दिशा बदले — दोनों में त्वरण जन्मता है।",
+        "en": "Velocity falling or direction turning — both give birth to acceleration."
+      }
+    },
+    {
+      "id": "phy2_q206",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वृत्ताकार पथ में नियत चाल से दौड़ते धावक का त्वरण —",
+        "en": "For a runner at constant speed on a circular track, the acceleration —"
+      },
+      "options": {
+        "hi": [
+          "मापी नहीं जा सकती",
+          "शून्य नहीं है, क्योंकि दिशा बदलती रहती है",
+          "शून्य है, क्योंकि चाल नियत है",
+          "अनंत है"
+        ],
+        "en": [
+          "Cannot be measured",
+          "Is not zero, because the direction keeps changing",
+          "Is zero, because the speed is constant",
+          "Is infinite"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वेग = चाल + दिशा; दिशा घूमती है तो वेग बदलता है — त्वरण बना रहता है।",
+        "en": "Velocity = speed + direction; with direction turning, velocity changes — acceleration persists."
+      }
+    },
+    {
+      "id": "phy2_q207",
+      "topic": "acceleration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वेग 60 किमी/घंटा से विराम तक 5 सेकंड में — मंदन मीटर/सेकंड² में कितना?",
+        "en": "From 60 km/h to rest in 5 s — retardation in m/s²?"
+      },
+      "options": {
+        "hi": [
+          "60 मीटर/सेकंड²",
+          "0.3 मीटर/सेकंड²",
+          "≈3.33 मीटर/सेकंड²",
+          "12 मीटर/सेकंड²"
+        ],
+        "en": [
+          "60 m/s²",
+          "0.3 m/s²",
+          "≈3.33 m/s²",
+          "12 m/s²"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "60 किमी/घंटा = 16.67 मीटर/सेकंड; (0−16.67)/5 ≈ −3.33 → मंदन ≈ 3.33 मीटर/सेकंड²।",
+        "en": "60 km/h = 16.67 m/s; (0−16.67)/5 ≈ −3.33 → retardation ≈ 3.33 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q208",
+      "topic": "acceleration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "विराम से आरंभ कर वस्तु पहले सेकंड में 2 मीटर/सेकंड, दूसरे सेकंड में 4 मीटर/सेकंड, तीसरे सेकंड में 6 मीटर/सेकंड वेग अंत तक पकड़ती है — त्वरण कितना और कैसा?",
+        "en": "Starting from rest, an object ends the 1st second at 2 m/s, the 2nd at 4 m/s, the 3rd at 6 m/s — what is the acceleration and of what kind?"
+      },
+      "options": {
+        "hi": [
+          "बढ़ता हुआ त्वरण",
+          "घटता हुआ त्वरण",
+          "शून्य",
+          "2 मीटर/सेकंड², एकसमान"
+        ],
+        "en": [
+          "Increasing acceleration",
+          "Decreasing acceleration",
+          "Zero",
+          "2 m/s², uniform"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हर सेकंड वेग में समान +2 — एकसमान त्वरण 2 मीटर/सेकंड²।",
+        "en": "An equal +2 to velocity every second — uniform acceleration 2 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q209",
+      "topic": "acceleration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: वेग-समय ग्राफ की ढाल जितनी तीखी, त्वरण उतना अधिक। कथन B: दूरी-समय ग्राफ की ढाल त्वरण देती है। सही विकल्प —",
+        "en": "Statement A: the steeper the v-t slope, the greater the acceleration. Statement B: the d-t slope gives acceleration. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A सही, B गलत",
+          "A गलत, B सही",
+          "दोनों सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "A right, B wrong",
+          "A wrong, B right",
+          "Both right",
+          "Both wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दूरी-समय की ढाल चाल देती है; वेग-समय की ढाल ही त्वरण।",
+        "en": "The d-t slope gives speed; only the v-t slope gives acceleration."
+      }
+    },
+    {
+      "id": "phy2_q210",
+      "topic": "acceleration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक कार पहले 2 सेकंड में 0 से 6 मीटर/सेकंड, अगले 2 सेकंड में 6 से 12 मीटर/सेकंड — पूरी अवधि का त्वरण?",
+        "en": "A car goes 0→6 m/s in the first 2 s, then 6→12 m/s in the next 2 s — acceleration over the whole period?"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "3 मीटर/सेकंड² एकसमान",
+          "छह मीटर/सेकंड²",
+          "बदलता हुआ"
+        ],
+        "en": [
+          "Zero",
+          "3 m/s² uniform",
+          "6 m/s²",
+          "Changing"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पहला चरण 6/2=3, दूसरा 6/2=3 — समान रफ्तार का वेग-जोड़ = एकसमान 3 मीटर/सेकंड²।",
+        "en": "First leg 6/2=3, second 6/2=3 — an even pace of velocity gain = uniform 3 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q211",
+      "topic": "acceleration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि वेग-समय ग्राफ नीचे की ओर झुकी (ऋणात्मक ढाल) सरल रेखा हो, तो वस्तु की गति का वर्णन है —",
+        "en": "If a velocity-time graph is a straight line sloping downward (negative slope), the motion is described as —"
+      },
+      "options": {
+        "hi": [
+          "विराम",
+          "नियत वेग",
+          "एकसमान मंदन",
+          "एकसमान त्वरण"
+        ],
+        "en": [
+          "Rest",
+          "Constant velocity",
+          "Uniform retardation",
+          "Uniform acceleration"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सीधी रेखा = ढाल नियत; ऋण ढाल = वेग-घटाव — एकसमान मंदन।",
+        "en": "Straight line = constant slope; negative slope = velocity falling — uniform retardation."
+      }
+    },
+    {
+      "id": "phy2_q212",
+      "topic": "acceleration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सोचिए — बस स्टॉप से चली और 10 सेकंड में 20 मीटर/सेकंड पकड़ा; फिर 20 सेकंड उसी वेग पर चली। पूरी यात्रा के दो चरणों में त्वरण का योग्य वर्णन है —",
+        "en": "Think — a bus leaves a stop and reaches 20 m/s in 10 s, then holds that velocity for 20 s. Across the two phases, the acceleration is rightly described as —"
+      },
+      "options": {
+        "hi": [
+          "दोनों चरणों में 2 मीटर/सेकंड²",
+          "पहले शून्य, फिर 2 मीटर/सेकंड²",
+          "दोनों में शून्य",
+          "पहले चरण में 2 मीटर/सेकंड², दूसरे में शून्य"
+        ],
+        "en": [
+          "2 m/s² in both phases",
+          "Zero first, then 2 m/s²",
+          "Zero in both",
+          "2 m/s² in the first phase, zero in the second"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चरण 1: 20/10 = 2 मीटर/सेकंड²; चरण 2: नियत वेग → त्वरण शून्य।",
+        "en": "Phase 1: 20/10 = 2 m/s²; phase 2: constant velocity → zero acceleration."
+      }
+    },
+    {
+      "id": "phy2_q213",
+      "topic": "acceleration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बस-यात्रा के तीन चरण: (i) स्टॉप से चलना, (ii) सीधी सड़क पर नियत वेग, (iii) अगले स्टॉप पर ब्रेक — किस चरण में वेग-परिवर्तन की दर ऋणात्मक है?",
+        "en": "Three phases of a bus ride: (i) pulling away from the stop, (ii) steady velocity on a straight road, (iii) braking at the next stop — in which phase is the rate of change of velocity negative?"
+      },
+      "options": {
+        "hi": [
+          "केवल (iii)",
+          "केवल (i)",
+          "(i) और (iii) दोनों",
+          "(ii)"
+        ],
+        "en": [
+          "Only (iii)",
+          "Only (i)",
+          "Both (i) and (iii)",
+          "(ii)"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चलना = धनात्मक दर; नियत वेग = शून्य दर; ब्रेक = ऋणात्मक दर।",
+        "en": "Pulling away = positive rate; steady velocity = zero rate; braking = negative rate."
+      }
+    },
+    {
+      "id": "phy2_q214",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दूरी-समय ग्राफ में दो रेखाएँ किसी बिंदु पर मिलती हैं — उस बिंदु का अर्थ है —",
+        "en": "In a distance-time graph two lines meet at a point — that point means —"
+      },
+      "options": {
+        "hi": [
+          "ग्राफ गलत है",
+          "उस क्षण दोनों एक ही स्थान पर हैं (मिलन-बिंदु)",
+          "दोनों की चाल समान हो गई",
+          "दोनों रुक गए"
+        ],
+        "en": [
+          "The graph is wrong",
+          "At that instant both are at the same place (meeting point)",
+          "Their speeds became equal",
+          "Both stopped"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रेखाओं का कटाव = उसी समय उसी दूरी का भेंट-बिंदु।",
+        "en": "The lines' crossing = a rendezvous of the same instant and same distance."
+      }
+    },
+    {
+      "id": "phy2_q215",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग-समय ग्राफ: 20 मीटर/सेकंड से सीधी रेखा 5 सेकंड में शून्य तक — इस मंदन-चरण में तय दूरी (क्षेत्रफल)?",
+        "en": "Velocity-time graph: a straight line from 20 m/s down to zero in 5 s — distance covered in this retardation phase (area)?"
+      },
+      "options": {
+        "hi": [
+          "20 मीटर",
+          "4 मीटर",
+          "50 मीटर",
+          "100 मीटर"
+        ],
+        "en": [
+          "20 metres",
+          "4 metres",
+          "50 metres",
+          "100 metres"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "त्रिभुज क्षेत्रफल = ½ × 5 × 20 = 50 मीटर।",
+        "en": "Triangle area = ½ × 5 × 20 = 50 m."
+      }
+    },
+    {
+      "id": "phy2_q216",
+      "topic": "motion-graphs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दूरी-समय ग्राफ की रेखा बिंदु (0 सेकंड, 0 मीटर) से (10 सेकंड, 50 मीटर) तक सरल है — चाल कितनी?",
+        "en": "A distance-time line runs straight from (0 s, 0 m) to (10 s, 50 m) — the speed is?"
+      },
+      "options": {
+        "hi": [
+          "50 मीटर/सेकंड",
+          "0.2 मीटर/सेकंड",
+          "500 मीटर/सेकंड",
+          "5 मीटर/सेकंड"
+        ],
+        "en": [
+          "50 m/s",
+          "0.2 m/s",
+          "500 m/s",
+          "5 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ढाल = (50 − 0)/(10 − 0) = 5 मीटर/सेकंड।",
+        "en": "Slope = (50 − 0)/(10 − 0) = 5 m/s."
+      }
+    },
+    {
+      "id": "phy2_q217",
+      "topic": "motion-graphs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वेग-समय ग्राफ: 2 सेकंड में 0 से 10 मीटर/सेकंड, फिर 3 सेकंड तक 10 मीटर/सेकंड समतल — कुल दूरी?",
+        "en": "Velocity-time graph: 0→10 m/s in 2 s, then flat at 10 m/s for 3 s — total distance?"
+      },
+      "options": {
+        "hi": [
+          "40 मीटर",
+          "50 मीटर",
+          "20 मीटर",
+          "30 मीटर"
+        ],
+        "en": [
+          "40 metres",
+          "50 metres",
+          "20 metres",
+          "30 metres"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "त्रिभुज ½×2×10 = 10 + आयत 10×3 = 30 → 40 मीटर।",
+        "en": "Triangle ½×2×10 = 10 plus rectangle 10×3 = 30 → 40 m."
+      }
+    },
+    {
+      "id": "phy2_q218",
+      "topic": "motion-graphs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: दूरी-समय ग्राफ का वक्र बदलती चाल बताता है। कथन B: वेग-समय ग्राफ की समतल रेखा बदलती चाल बताती है। सही विकल्प —",
+        "en": "Statement A: a curve in the distance-time graph indicates changing speed. Statement B: a flat line in the velocity-time graph indicates changing speed. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "A सही, B गलत",
+          "A गलत, B सही",
+          "दोनों सही"
+        ],
+        "en": [
+          "Both wrong",
+          "A right, B wrong",
+          "A wrong, B right",
+          "Both right"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वक्र = बदलती ढाल = बदलती चाल; वेग-ग्राफ की समतल रेखा = नियत वेग।",
+        "en": "A curve = changing slope = changing speed; a flat velocity line = constant velocity."
+      }
+    },
+    {
+      "id": "phy2_q219",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी-समय ग्राफ में समय अक्ष के समांतर (क्षैतिज) रेखा का क्या अर्थ है?",
+        "en": "In a distance-time graph, what does a line parallel to the time axis mean?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु त्वरित हो रही है",
+          "वस्तु वापस आ रही है",
+          "वस्तु विरामावस्था में है",
+          "वस्तु तेज़ चल रही है"
+        ],
+        "en": [
+          "The object is accelerating",
+          "The object is returning",
+          "The object is at rest",
+          "The object is moving fast"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "समय बढ़ा पर दूरी नहीं — ठहराव की सीधी रेखा।",
+        "en": "Time grows but distance does not — the flat line of a halt."
+      }
+    },
+    {
+      "id": "phy2_q220",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी-समय ग्राफ की ढाल (slope) क्या बताती है?",
+        "en": "What does the slope of a distance-time graph give?"
+      },
+      "options": {
+        "hi": [
+          "त्वरण",
+          "समय",
+          "विस्थापन की दिशा",
+          "चाल"
+        ],
+        "en": [
+          "Acceleration",
+          "Time",
+          "Direction of displacement",
+          "Speed"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ढाल = दूरी-परिवर्तन/समय = चाल।",
+        "en": "Slope = distance-change/time = speed."
+      }
+    },
+    {
+      "id": "phy2_q221",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी-समय ग्राफ में तीखी (steep) रेखा किसे दर्शाती है?",
+        "en": "In a distance-time graph, a steep line indicates what?"
+      },
+      "options": {
+        "hi": [
+          "अधिक चाल",
+          "कम चाल",
+          "विराम",
+          "ऋणात्मक चाल"
+        ],
+        "en": [
+          "Higher speed",
+          "Lower speed",
+          "Rest",
+          "Negative speed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जितनी खड़ी चढ़ाई, उतनी तेज़ रफ्तार।",
+        "en": "The steeper the climb, the faster the pace."
+      }
+    },
+    {
+      "id": "phy2_q222",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी-समय ग्राफ का मूल बिंदु (origin) से शुरू होना क्या दर्शाता है?",
+        "en": "A distance-time graph starting from the origin indicates what?"
+      },
+      "options": {
+        "hi": [
+          "समय उलट चला",
+          "यात्रा शुरुआती क्षण और स्थान से चली",
+          "वस्तु विराम पर थी",
+          "दूरी ऋणात्मक थी"
+        ],
+        "en": [
+          "Time ran backwards",
+          "The journey began at the initial moment and place",
+          "The object was at rest",
+          "Distance was negative"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मूल बिंदु = शून्य समय, शून्य दूरी — यात्रा का पहला कदम।",
+        "en": "Origin = zero time, zero distance — the journey's first step."
+      }
+    },
+    {
+      "id": "phy2_q223",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी-समय ग्राफ में सरल रेखा (straight line) किस गति का चिह्न है?",
+        "en": "In a distance-time graph, a straight line is the sign of which motion?"
+      },
+      "options": {
+        "hi": [
+          "नियत त्वरण",
+          "विराम",
+          "एकसमान चाल",
+          "अनियमित चाल"
+        ],
+        "en": [
+          "Constant acceleration",
+          "Rest",
+          "Uniform speed",
+          "Non-uniform speed"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सीधी रेखा = ढाल स्थिर = चाल स्थिर।",
+        "en": "Straight line = steady slope = steady speed."
+      }
+    },
+    {
+      "id": "phy2_q224",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी-समय ग्राफ में वक्र (curved) रेखा क्या बताती है?",
+        "en": "What does a curved line in a distance-time graph tell?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु खड़ी है",
+          "चाल शून्य है",
+          "समय रुका है",
+          "चाल बदल रही है (अनियमित गति)"
+        ],
+        "en": [
+          "The object is standing",
+          "Speed is zero",
+          "Time has stopped",
+          "The speed is changing (non-uniform motion)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मुड़ती ढाल = बदलती चाल।",
+        "en": "A bending slope = a changing speed."
+      }
+    },
+    {
+      "id": "phy2_q225",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग-समय ग्राफ में समय अक्ष के समांतर रेखा का अर्थ है —",
+        "en": "In a velocity-time graph, a line parallel to the time axis means —"
+      },
+      "options": {
+        "hi": [
+          "नियत वेग (शून्य त्वरण)",
+          "विराम",
+          "नियत त्वरण",
+          "मंदन"
+        ],
+        "en": [
+          "Constant velocity (zero acceleration)",
+          "Rest",
+          "Constant acceleration",
+          "Retardation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समतल वेग-रेखा: वेग स्थिर, त्वरण शून्य।",
+        "en": "A flat velocity line: velocity fixed, acceleration zero."
+      }
+    },
+    {
+      "id": "phy2_q226",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग-समय ग्राफ में झुकी हुई सरल रेखा क्या दर्शाती है?",
+        "en": "In a velocity-time graph, an inclined straight line indicates —"
+      },
+      "options": {
+        "hi": [
+          "अनंत वेग",
+          "नियत त्वरण",
+          "नियत चाल",
+          "विराम"
+        ],
+        "en": [
+          "Infinite velocity",
+          "Constant acceleration",
+          "Constant speed",
+          "Rest"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सीधी झुकी रेखा = ढाल नियत = त्वरण नियत।",
+        "en": "A straight inclined line = constant slope = constant acceleration."
+      }
+    },
+    {
+      "id": "phy2_q227",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूरी-समय ग्राफ में दो वस्तुओं की रेखाओं में जिसकी ढाल अधिक —",
+        "en": "Between two objects' lines in a distance-time graph, the one with the greater slope —"
+      },
+      "options": {
+        "hi": [
+          "विराम पर है",
+          "पीछे है",
+          "अधिक तेज़ है",
+          "धीमी है"
+        ],
+        "en": [
+          "Is at rest",
+          "Is behind",
+          "Is faster",
+          "Is slower"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ढाल = चाल; बड़ी ढाल = तेज़ वस्तु।",
+        "en": "Slope = speed; bigger slope = faster object."
+      }
+    },
+    {
+      "id": "phy2_q228",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग-समय ग्राफ के नीचे का क्षेत्रफल (area) क्या देता है?",
+        "en": "What does the area under a velocity-time graph give?"
+      },
+      "options": {
+        "hi": [
+          "त्वरण",
+          "समय",
+          "चाल",
+          "तय दूरी"
+        ],
+        "en": [
+          "Acceleration",
+          "Time",
+          "Speed",
+          "Distance travelled"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वेग × समय = दूरी — ग्राफ के नीचे का रकबा वही बताता है।",
+        "en": "Velocity × time = distance — the area beneath the graph tells the same."
+      }
+    },
+    {
+      "id": "phy2_q229",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्थिर वस्तु का दूरी-समय ग्राफ कैसा होगा?",
+        "en": "What does the distance-time graph of a stationary object look like?"
+      },
+      "options": {
+        "hi": [
+          "समय अक्ष के समांतर सरल रेखा",
+          "तीखी चढ़ती रेखा",
+          "वक्र",
+          "नीचे उतरती रेखा"
+        ],
+        "en": [
+          "A straight line parallel to the time axis",
+          "A steep rising line",
+          "A curve",
+          "A falling line"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दूरी जमी जगह पर — रेखा समतल।",
+        "en": "Distance stays put — the line stays flat."
+      }
+    },
+    {
+      "id": "phy2_q230",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ग्राफ पढ़ने में क्षैतिज अक्ष (x-axis) प्रायः क्या दर्शाता है?",
+        "en": "In these graphs, what does the horizontal (x) axis usually represent?"
+      },
+      "options": {
+        "hi": [
+          "त्वरण",
+          "समय",
+          "दूरी",
+          "वेग"
+        ],
+        "en": [
+          "Acceleration",
+          "Time",
+          "Distance",
+          "Velocity"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समय अक्ष आगे बढ़ता है, दूरी/वेग ऊपर नापे जाते हैं।",
+        "en": "The time axis runs ahead; distance/velocity are measured up."
+      }
+    },
+    {
+      "id": "phy2_q231",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एकसमान चाल की दूरी-समय रेखा और त्वरित गति की दूरी-समय रेखा में अंतर क्या होता है?",
+        "en": "What is the difference between the distance-time line of uniform speed and of accelerated motion?"
+      },
+      "options": {
+        "hi": [
+          "दोनों वक्र",
+          "पहली वक्र, दूसरी सरल",
+          "पहली सरल रेखा, दूसरी वक्र (ऊपर की ओर मुड़ी)",
+          "दोनों सरल रेखाएँ"
+        ],
+        "en": [
+          "Both curves",
+          "The first a curve, the second straight",
+          "The first is a straight line, the second a curve (bending upward)",
+          "Both straight lines"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्थिर चाल सीधी रेखा; बढ़ती चाल ऊपर उठता वक्र बनाती है।",
+        "en": "Steady speed draws a straight line; growing speed draws an upward bend."
+      }
+    },
+    {
+      "id": "phy2_q232",
+      "topic": "motion-graphs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वेग-समय ग्राफ में ऋणात्मक ढाल किसका संकेत है?",
+        "en": "In a velocity-time graph, a negative slope signals what?"
+      },
+      "options": {
+        "hi": [
+          "त्वरण बढ़ रहा है",
+          "विराम",
+          "नियत वेग",
+          "मंदन (वेग घट रहा है)"
+        ],
+        "en": [
+          "Acceleration rising",
+          "Rest",
+          "Constant velocity",
+          "Retardation (velocity is falling)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नीचे ढलान = वेग की गिरावट।",
+        "en": "A downhill slant = velocity falling."
+      }
+    },
+    {
+      "id": "phy2_q233",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दूरी-समय ग्राफ की रेखा पहले तीखी, बाद में समतल हो जाती है — गति का वर्णन है —",
+        "en": "A distance-time line is first steep, then flattens — the motion is described as —"
+      },
+      "options": {
+        "hi": [
+          "पहले तेज़, फिर धीमी/रुकी",
+          "पहले धीमी, फिर तेज़",
+          "पूरा विराम",
+          "नियत चाल पूरे समय"
+        ],
+        "en": [
+          "First fast, then slowing/stopping",
+          "First slow, then fast",
+          "At rest throughout",
+          "Constant speed throughout"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ढाल घटना = चाल घटना; समतल होना = ठहराव की ओर।",
+        "en": "Falling slope = falling speed; flattening = heading to a stop."
+      }
+    },
+    {
+      "id": "phy2_q234",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक कार का दूरी-समय ग्राफ मूल बिंदु से 30° का कोण बनाती सरल रेखा है; दूसरी कार की रेखा 60° का — कौन तेज़?",
+        "en": "One car's distance-time line makes a 30° angle from the origin; another's makes 60° — which is faster?"
+      },
+      "options": {
+        "hi": [
+          "कोण से पता नहीं चलता",
+          "60° वाली",
+          "30° वाली",
+          "दोनों समान"
+        ],
+        "en": [
+          "Angles tell nothing",
+          "The 60° one",
+          "The 30° one",
+          "Both equal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बड़ा कोण = बड़ी ढाल = बड़ी चाल।",
+        "en": "Bigger angle = bigger slope = bigger speed."
+      }
+    },
+    {
+      "id": "phy2_q235",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दूरी-समय ग्राफ में समय-अक्ष के साथ रेखा की ऊँचाई समय के साथ घट रही है — यह असंभव क्यों है (शुद्ध दूरी के लिए)?",
+        "en": "In a distance-time graph the line's height falls with time — why is this impossible (for pure distance)?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि दूरी शून्य है",
+          "क्योंकि ग्राफ गलत रंग का है",
+          "क्योंकि तय दूरी कभी घटती नहीं — वह केवल बढ़ती या स्थिर रहती है",
+          "क्योंकि समय नहीं बदलता"
+        ],
+        "en": [
+          "Because distance is zero",
+          "Because the graph has the wrong colour",
+          "Because travelled distance never decreases — it only grows or stays",
+          "Because time does not change"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दूरी का हिसाब केवल जुड़ता है — उतरती रेखा विस्थापन-ग्राफ की पहचान हो सकती है, दूरी की नहीं।",
+        "en": "Distance's ledger only accumulates — a falling line may belong to a displacement graph, never pure distance."
+      }
+    },
+    {
+      "id": "phy2_q236",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग-समय ग्राफ: पहले 5 सेकंड समतल रेखा 10 मीटर/सेकंड पर, फिर समय-अक्ष तक नीचे — पहले चरण में तय दूरी?",
+        "en": "Velocity-time graph: flat at 10 m/s for the first 5 s, then down to the time axis — distance covered in the first phase?"
+      },
+      "options": {
+        "hi": [
+          "10 मीटर",
+          "5 मीटर",
+          "2 मीटर",
+          "50 मीटर"
+        ],
+        "en": [
+          "10 metres",
+          "5 metres",
+          "2 metres",
+          "50 metres"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "क्षेत्रफल = 10 × 5 = 50 मीटर।",
+        "en": "Area = 10 × 5 = 50 m."
+      }
+    },
+    {
+      "id": "phy2_q237",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उसी ग्राफ में 'समतल 10 मीटर/सेकंड से नीचे उतरने' वाले भाग का भाव है —",
+        "en": "In that graph, the part 'descending from the flat 10 m/s' means —"
+      },
+      "options": {
+        "hi": [
+          "मंदन — वेग घटकर शून्य की ओर",
+          "त्वरण बढ़ना",
+          "वस्तु पीछे हटना",
+          "नियत वेग"
+        ],
+        "en": [
+          "Retardation — velocity falling toward zero",
+          "Acceleration rising",
+          "The object reversing",
+          "Constant velocity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नीचर उतरती वेग-रेखा गति के मंदन की घोषणा है।",
+        "en": "A descending velocity line announces the motion's slowing."
+      }
+    },
+    {
+      "id": "phy2_q238",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो वस्तुओं के दूरी-समय ग्राफ परस्पर समांतर सरल रेखाएँ हैं — निष्कर्ष क्या है?",
+        "en": "Two objects' distance-time graphs are parallel straight lines — the conclusion?"
+      },
+      "options": {
+        "hi": [
+          "दोनों त्वरित हैं",
+          "दोनों की चाल समान है",
+          "दोनों विराम पर हैं",
+          "एक दूसरे से तेज़ है"
+        ],
+        "en": [
+          "Both are accelerating",
+          "Both have the same speed",
+          "Both are at rest",
+          "One is faster"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समांतर रेखाएँ = समान ढाल = समान चाल।",
+        "en": "Parallel lines = equal slopes = equal speeds."
+      }
+    },
+    {
+      "id": "phy2_q239",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग-समय ग्राफ में रेखा समय-अक्ष के नीचे (ऋणात्मक क्षेत्र) है — इसका अर्थ है —",
+        "en": "In a velocity-time graph the line lies below the time axis (negative region) — this means —"
+      },
+      "options": {
+        "hi": [
+          "चाल शून्य है",
+          "ग्राफ गलत है",
+          "गति चुनी गई धनात्मक दिशा के विपरीत है",
+          "वस्तु विराम पर है"
+        ],
+        "en": [
+          "Speed is zero",
+          "The graph is wrong",
+          "The motion is opposite to the chosen positive direction",
+          "The object is at rest"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऋण वेग = विपरीत दिशा में गति — चाल (परिमाण) फिर भी धनात्मक।",
+        "en": "Negative velocity = motion in the reverse sense — speed (magnitude) still positive."
+      }
+    },
+    {
+      "id": "phy2_q240",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दूरी-समय ग्राफ की रेखा ऊपर की ओर वक्र (तेज़ होती चाल) बनाती है — ढाल का क्या हो रहा है?",
+        "en": "A distance-time line curves upward (speed rising) — what is happening to the slope?"
+      },
+      "options": {
+        "hi": [
+          "समय के साथ घट रही है",
+          "स्थिर है",
+          "शून्य हो गई",
+          "समय के साथ बढ़ रही है"
+        ],
+        "en": [
+          "It falls with time",
+          "It stays fixed",
+          "It has become zero",
+          "It grows with time"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वक्र की ढाल बदलती है — चढ़ता वक्र चढ़ती ढाल बताता है।",
+        "en": "A curve's slope changes — a rising curve shows a rising slope."
+      }
+    },
+    {
+      "id": "phy2_q241",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक विद्यार्थी का दूरी-समय ग्राफ मूल बिंदु से मुड़ती हुई नीचे (घटती) रेखा है — उसने क्या भूला?",
+        "en": "A student's distance-time graph is a line bending downward (decreasing) from the origin — what did he forget?"
+      },
+      "options": {
+        "hi": [
+          "दूरी समय के साथ घटती नहीं — शायद वह विस्थापन-समय ग्राफ बना बैठा",
+          "समय हमेशा ऋणात्मक होता है",
+          "दूरी का मात्रक सेकंड होता है",
+          "ग्राफ हमेशा वक्र होता है"
+        ],
+        "en": [
+          "Distance never falls with time — he has probably drawn a displacement-time graph instead",
+          "Time is always negative",
+          "Distance's unit is the second",
+          "Graphs must always curve"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पथ की गिनती एक ही दिशा में चलती है — उतरती रेखा विस्थापन की दुनिया है।",
+        "en": "The path's count runs one way — a falling line belongs to displacement's world."
+      }
+    },
+    {
+      "id": "phy2_q242",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग-समय ग्राफ: 0 से 6 मीटर/सेकंड तक 3 सेकंड में सीधी रेखा — रेखा की ढाल (त्वरण) कितनी?",
+        "en": "Velocity-time graph: a straight line from 0 to 6 m/s in 3 s — the line's slope (acceleration)?"
+      },
+      "options": {
+        "hi": [
+          "6 मीटर/सेकंड²",
+          "2 मीटर/सेकंड²",
+          "18 मीटर/सेकंड²",
+          "0.5 मीटर/सेकंड²"
+        ],
+        "en": [
+          "6 m/s²",
+          "2 m/s²",
+          "18 m/s²",
+          "0.5 m/s²"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ढाल = 6/3 = 2 मीटर/सेकंड²।",
+        "en": "Slope = 6/3 = 2 m/s²."
+      }
+    },
+    {
+      "id": "phy2_q243",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नियत वेग 15 मीटर/सेकंड 8 सेकंड तक — वेग-समय ग्राफ के नीचे का क्षेत्रफल (दूरी) कितना?",
+        "en": "Constant velocity 15 m/s for 8 s — the area (distance) under the velocity-time graph?"
+      },
+      "options": {
+        "hi": [
+          "1.87 मीटर",
+          "15 मीटर",
+          "120 मीटर",
+          "23 मीटर"
+        ],
+        "en": [
+          "1.87 metres",
+          "15 metres",
+          "120 metres",
+          "23 metres"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "15 × 8 = 120 मीटर।",
+        "en": "15 × 8 = 120 m."
+      }
+    },
+    {
+      "id": "phy2_q244",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दूरी-समय ग्राफ में रेखा का एक खंड क्षैतिज है और अगला खंड तीखा — क्रमशः अर्थ है —",
+        "en": "In a distance-time graph one segment is horizontal and the next is steep — the meanings respectively are —"
+      },
+      "options": {
+        "hi": [
+          "पहले तेज़, फिर विराम",
+          "दोनों विराम",
+          "दोनों तेज़",
+          "पहले विराम, फिर तेज़ गति"
+        ],
+        "en": [
+          "First fast, then rest",
+          "Both rest",
+          "Both fast",
+          "First rest, then fast motion"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समतल खंड = ठहराव; तीखा खंड = रफ्तार।",
+        "en": "Flat segment = a halt; steep segment = pace."
+      }
+    },
+    {
+      "id": "phy2_q245",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वेग-समय ग्राफ की रेखा दो चरणों में है: पहले सीधी चढ़ती, फिर समतल — गति का वर्णन है —",
+        "en": "A velocity-time line has two phases: first a straight climb, then flat — the motion is described as —"
+      },
+      "options": {
+        "hi": [
+          "पहले एकसमान त्वरण, फिर नियत वेग",
+          "पहले नियत वेग, फिर त्वरण",
+          "पूरी तरह अनियमित",
+          "पूरी तरह विराम"
+        ],
+        "en": [
+          "First uniform acceleration, then constant velocity",
+          "First constant velocity, then acceleration",
+          "Wholly non-uniform",
+          "Wholly at rest"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चढ़ाई वेग बढ़ाती है, समतल उसे थामे रखती है।",
+        "en": "The climb builds velocity; the flat holds it."
+      }
+    },
+    {
+      "id": "phy2_q246",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ऑटो का वेग-समय ग्राफ समय-अक्ष से शुरू होकर ऊपर सीधी चढ़ती रेखा है — इसकी गति है —",
+        "en": "An auto's velocity-time graph starts from the time axis as a straight rising line — its motion is —"
+      },
+      "options": {
+        "hi": [
+          "विराम",
+          "विराम से आरंभ होती एकसमान त्वरित गति",
+          "नियत वेग की गति",
+          "मंदन गति"
+        ],
+        "en": [
+          "Rest",
+          "Uniformly accelerated motion starting from rest",
+          "Constant-velocity motion",
+          "Retarding motion"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मूल से चढ़ती सीधी रेखा = शून्य से शुरू, नियत ढाल की वृद्धि।",
+        "en": "A straight rise from the origin = starting at zero with a constant slope of growth."
+      }
+    },
+    {
+      "id": "phy2_q247",
+      "topic": "motion-graphs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: दूरी-समय ग्राफ से चाल निकलती है। कथन B: वेग-समय ग्राफ की ढाल से चाल निकलती है। सही विकल्प —",
+        "en": "Statement A: speed comes from the distance-time graph. Statement B: speed comes from the slope of the velocity-time graph. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत",
+          "A गलत, B सही"
+        ],
+        "en": [
+          "Both right",
+          "Both wrong",
+          "A right, B wrong",
+          "A wrong, B right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दूरी-ग्राफ की ढाल चाल; वेग-ग्राफ की ढाल त्वरण।",
+        "en": "The d-t slope is speed; the v-t slope is acceleration."
+      }
+    },
+    {
+      "id": "phy2_q248",
+      "topic": "motion-graphs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक वस्तु का वेग-समय ग्राफ समकोण त्रिभुज है: आधार 10 सेकंड (समय-अक्ष), ऊँचाई 20 मीटर/सेकंड — तय दूरी?",
+        "en": "A velocity-time graph forms a right triangle: base 10 s on the time axis, height 20 m/s — distance travelled?"
+      },
+      "options": {
+        "hi": [
+          "200 मीटर",
+          "20 मीटर",
+          "400 मीटर",
+          "100 मीटर"
+        ],
+        "en": [
+          "200 metres",
+          "20 metres",
+          "400 metres",
+          "100 metres"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "क्षेत्रफल = ½ × आधार × ऊँचाई = ½ × 10 × 20 = 100 मीटर।",
+        "en": "Area = ½ × base × height = ½ × 10 × 20 = 100 m."
+      }
+    },
+    {
+      "id": "phy2_q249",
+      "topic": "motion-graphs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दूरी-समय ग्राफ की रेखा पहले उठती वक्र से चढ़ती है और अंत में सीधी खड़ी होती जाती है — चाल का परिवर्तन है —",
+        "en": "A distance-time line climbs with an upward curve and tends to become nearly vertical at the end — the speed is —"
+      },
+      "options": {
+        "hi": [
+          "लगातार बढ़ती हुई (त्वरित गति)",
+          "लगातार घटती हुई",
+          "स्थिर",
+          "शून्य होती"
+        ],
+        "en": [
+          "Rising continuously (accelerated motion)",
+          "Falling continuously",
+          "Constant",
+          "Becoming zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खड़ी होती ढाल = बढ़ती चाल; वक्र की बनावट गति की कहानी कहती है।",
+        "en": "A slope turning vertical = rising speed; the curve's shape narrates the motion."
+      }
+    },
+    {
+      "id": "phy2_q250",
+      "topic": "motion-graphs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वेग-समय ग्राफ: पहले 4 सेकंड में 0 से 8 मीटर/सेकंड (सीधी रेखा), फिर 6 सेकंड तक 8 मीटर/सेकंड समतल — पूरी 10 सेकंड यात्रा की औसत चाल कितनी?",
+        "en": "Velocity-time graph: 0→8 m/s over the first 4 s (straight), then flat at 8 m/s for 6 s — the average speed over the whole 10-second journey?"
+      },
+      "options": {
+        "hi": [
+          "10 मीटर/सेकंड",
+          "6.4 मीटर/सेकंड",
+          "8 मीटर/सेकंड",
+          "4 मीटर/सेकंड"
+        ],
+        "en": [
+          "10 m/s",
+          "6.4 m/s",
+          "8 m/s",
+          "4 m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कुल दूरी = त्रिभुज ½×4×8 = 16 + आयत 8×6 = 48 → 64 मीटर; औसत चाल = 64 ÷ 10 = 6.4 मीटर/सेकंड।",
+        "en": "Total distance = triangle ½×4×8 = 16 + rectangle 8×6 = 48 → 64 m; average speed = 64 ÷ 10 = 6.4 m/s."
+      }
+    }
+  ]
+}

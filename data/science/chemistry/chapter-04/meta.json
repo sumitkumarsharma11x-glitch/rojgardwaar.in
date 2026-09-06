@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-04",
+  "chapterNumber": 4,
+  "code": "C04",
+  "chapterName": {
+    "hi": "तत्व, यौगिक एवं शुद्ध पदार्थ",
+    "en": "Elements, Compounds & Pure Substances"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "शुद्ध पदार्थ दो प्रकार के होते हैं — तत्व और यौगिक। तत्व वह शुद्ध पदार्थ है जो एक ही प्रकार के परमाणुओं से बना हो, जबकि यौगिक दो या अधिक तत्वों के निश्चित अनुपात में रासायनिक संयोग से बनता है। मिश्रण में घटक किसी भी अनुपात में भौतिक रूप से मिले रहते हैं।",
+      "example": "जल (H₂O) एक यौगिक है जिसमें हाइड्रोजन-ऑक्सीजन 1:8 द्रव्यमान अनुपात में स्थिर रहते हैं, जबकि वायु एक मिश्रण है जिसकी संरचना स्थान बदलने पर बदल सकती है।",
+      "sections": [
+        {
+          "heading": "तत्व",
+          "content": "अब तक 118 तत्व ज्ञात हैं; धातु, अधातु और उपधातु वर्ग हैं; प्रतीक अंतरराष्ट्रीय सहमति से निश्चित होते हैं।"
+        },
+        {
+          "heading": "यौगिक",
+          "content": "निश्चित द्रव्यमान अनुपात, समरूप संरचना और स्वयं से भिन्न गुण; जैसे जल, नमक, चीनी।"
+        },
+        {
+          "heading": "मिश्रण",
+          "content": "घटक किसी भी अनुपात में, अपने गुणों के साथ; सममिश्रण (विलयन) और विषममिश्रण प्रकार।"
+        },
+        {
+          "heading": "पदार्थ वर्गीकरण का चार्ट",
+          "content": "पदार्थ → शुद्ध (तत्व/यौगिक) + मिश्रण; यही चार्ट परीक्षा में पूछा जाता है।"
+        }
+      ],
+      "keyPoints": [
+        "तत्व एक ही प्रकार के परमाणुओं से बना शुद्ध पदार्थ है",
+        "यौगिक में तत्व निश्चित अनुपात में रासायनिक रूप से जुड़े होते हैं",
+        "मिश्रण में घटक भौतिक रूप से मिलते हैं और किसी भी अनुपात में रह सकते हैं",
+        "यौगिक के गुण उसके घटकों से भिन्न होते हैं",
+        "मिश्रण के गुण घटकों के गुणों पर निर्भर रहते हैं",
+        "धातुएँ चमकदार-संवाहक, अधातुएँ भंगुर-असंवाहक होती हैं"
+      ],
+      "examFocus": [
+        "पदार्थ वर्गीकरण चार्ट बनाकर रटें",
+        "यौगिक बनाम मिश्रण की तुलना तालिका याद करें",
+        "प्रमुख तत्वों के प्रतीक और धातु-अधातु वर्ग याद रखें"
+      ],
+      "examTraps": [
+        "वायु यौगिक नहीं, मिश्रण है — इसकी संरचना स्थिर नहीं होती",
+        "मिश्रण और यौगिक दोनों में एक से अधिक तत्व हो सकते हैं — अंतर संयोग के प्रकार में है"
+      ],
+      "thinkBeforeAnswer": [
+        "'निश्चित अनुपात' मिले तो यौगिक, 'कोई भी अनुपात' मिले तो मिश्रण चुनें",
+        "पृथक्करण की कठिनाई देखें — यौगिक केवल रासायनिक विधि से टूटता है"
+      ],
+      "memoryTricks": [
+        "'E = one Element, C = Combination fixed' — तत्व और यौगिक",
+        "वायु = मिश्रण, जल = यौगिक — इस जोड़ी को स्मरण-चिह्न बनाएँ"
+      ],
+      "pyqSignals": [
+        "यौगिक-मिश्रण अंतर परीक्षा में बार-बार पूछा जाता है",
+        "पदार्थ वर्गीकरण चार्ट पूछा जाता है"
+      ],
+      "mustRemember": [
+        "तत्व और यौगिक की परिभाषा",
+        "यौगिक-मिश्रण अंतर",
+        "धातु-अधातु-उपधातु वर्ग",
+        "पदार्थ वर्गीकरण चार्ट"
+      ],
+      "quickRevision": "शुद्ध पदार्थ तत्व (एक ही प्रकार के परमाणु) और यौगिक (निश्चित अनुपात में रासायनिक संयोग) होते हैं। मिश्रण में घटक भौतिक रूप से किसी भी अनुपात में रहते हैं और सरल विधियों से पृथक होते हैं। तत्वों को धातु, अधातु और उपधातु में बाँटा जाता है।"
+    },
+    "en": {
+      "concept": "Pure substances are of two types — elements and compounds. An element is a pure substance made of one kind of atom, while a compound forms by chemical combination of two or more elements in a fixed ratio. In a mixture, components remain physically mixed in any ratio.",
+      "example": "Water (H₂O) is a compound where hydrogen and oxygen stay in a fixed 1:8 mass ratio, while air is a mixture whose composition can change from place to place.",
+      "sections": [
+        {
+          "heading": "Element",
+          "content": "118 elements are known so far; metals, non-metals and metalloids are the classes; symbols are internationally agreed."
+        },
+        {
+          "heading": "Compound",
+          "content": "Fixed mass ratio, uniform composition and properties different from its components, e.g. water, salt, sugar."
+        },
+        {
+          "heading": "Mixture",
+          "content": "Components in any ratio, keeping their properties; homogeneous (solutions) and heterogeneous types."
+        },
+        {
+          "heading": "Classification Chart of Matter",
+          "content": "Matter → pure (element/compound) + mixture; this chart is asked in exams."
+        }
+      ],
+      "keyPoints": [
+        "An element is a pure substance of one kind of atom",
+        "In a compound elements combine chemically in a fixed ratio",
+        "In a mixture components mix physically in any ratio",
+        "Properties of a compound differ from its components",
+        "Properties of a mixture depend on its components",
+        "Metals are lustrous conductors; non-metals are brittle insulators"
+      ],
+      "examFocus": [
+        "Draw and learn the classification chart of matter",
+        "Memorise the compound vs mixture comparison table",
+        "Remember symbols of common elements and their classes"
+      ],
+      "examTraps": [
+        "Air is not a compound but a mixture — its composition is not fixed",
+        "Both mixtures and compounds can contain many elements — the difference lies in the type of combination"
+      ],
+      "thinkBeforeAnswer": [
+        "'Fixed ratio' means compound; 'any ratio' means mixture",
+        "Note the difficulty of separation — a compound breaks only chemically"
+      ],
+      "memoryTricks": [
+        "'E = one Element, C = Combination fixed'",
+        "Air = mixture, water = compound — use the pair as a memory tag"
+      ],
+      "pyqSignals": [
+        "The compound-mixture difference is asked repeatedly",
+        "The classification chart of matter is frequently asked"
+      ],
+      "mustRemember": [
+        "Definitions of element and compound",
+        "Compound vs mixture difference",
+        "Classes of metals, non-metals, metalloids",
+        "Classification chart of matter"
+      ],
+      "quickRevision": "Pure substances are elements (one kind of atom) and compounds (chemical combination in fixed ratio). In mixtures, components stay physically mixed in any ratio and separate by simple methods. Elements are classified as metals, non-metals and metalloids."
+    }
+  }
+}

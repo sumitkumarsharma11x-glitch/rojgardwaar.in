@@ -1,0 +1,137 @@
+{
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-03",
+  "chapterNumber": 2,
+  "code": "B02",
+  "chapterName": {
+    "hi": "ऊतक एवं शरीर की संरचना",
+    "en": "Tissues & Body Structure"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "समान उत्पत्ति, संरचना और कार्य वाली कोशिकाओं का समूह ऊतक कहलाता है। पादप ऊतक विभज्योतक और स्थायी ऊतक में बँटते हैं, जबकि जंतु ऊतक चार प्रकार के होते हैं — उपकला, संयोजी, पेशीय और तंत्रिका। हड्डियों का ढाँचा शरीर को आकार और गति देता है।",
+      "example": "त्वचा की बाहरी परत उपकला ऊतक का, रक्त संयोजी ऊतक का और जंघा की मांसपेशी पेशीय ऊतक का उदाहरण है।",
+      "sections": [
+        {
+          "heading": "पादप ऊतक",
+          "content": "विभज्योतक निरंतर विभाजित होकर वृद्धि करता है; स्थायी ऊतक (सरल व जटिल) विभाजन क्षमता खो चुके होते हैं।"
+        },
+        {
+          "heading": "जंतु ऊतक",
+          "content": "उपकला ढकने का कार्य करती है, संयोजी ऊतक जोड़ता और सहारा देता है, पेशीय ऊतक गति उत्पन्न करता है और तंत्रिका ऊतक संकेत संचालित करता है।"
+        },
+        {
+          "heading": "अस्थि-पंजर",
+          "content": "मनुष्य के कंकाल में 206 अस्थियाँ होती हैं; पसलियाँ हृदय और फेफड़ों की रक्षा करती हैं और रीढ़ में 33 कशेरुकाएँ होती हैं।"
+        },
+        {
+          "heading": "जोड़ एवं गति",
+          "content": "संधियों (जोड़ों) पर अस्थियाँ आपस में जुड़ती हैं; गोलाकार जोड़ कंधे में और कबंध जोड़ कोहनी में पाया जाता है।"
+        }
+      ],
+      "keyPoints": [
+        "ऊतक समान कोशिकाओं का समूह है जो एक विशिष्ट कार्य करता है",
+        "विभज्योतक वृद्धि करता है, स्थायी ऊतक नहीं",
+        "जंतु ऊतक चार प्रकार के हैं — उपकला, संयोजी, पेशीय, तंत्रिका",
+        "रक्त एक तरल संयोजी ऊतक है",
+        "जाइलम और फ्लोएम जटिल स्थायी ऊतक हैं",
+        "कंकाल शरीर को आकार, सहारा और गति देता है"
+      ],
+      "examFocus": [
+        "पादप और जंतु ऊतकों के नाम व उदाहरण जोड़कर याद रखें",
+        "उपकला, संयोजी, पेशीय, तंत्रिका — क्रम और कार्य साथ में याद करें",
+        "जोड़ों के प्रकार और उनका स्थान पूछा जाता है"
+      ],
+      "examTraps": [
+        "सभी संयोजी ऊतक ठोस नहीं होते — रक्त तरल संयोजी ऊतक है",
+        "विभज्योतक और स्थायी ऊतक के कार्य आपस में उलटकर न लिखें"
+      ],
+      "thinkBeforeAnswer": [
+        "प्रश्न में 'ढकने वाला ऊतक' हो तो उपकला, 'जोड़ने वाला' हो तो संयोजी ऊतक चुनें",
+        "गति या संकुचन की बात आए तो पेशीय ऊतक के प्रकार (रेखित, अरेखित, हृदयक) याद करें"
+      ],
+      "memoryTricks": [
+        "जंतु ऊतक — 'उ-सं-प-त' (उपकला, संयोजी, पेशीय, तंत्रिका) क्रम से याद करें",
+        "जाइलम = जल ऊपर, फ्लोएम = भोजन नीचे-ऊपर दोनों दिशाओं में — 'जा-फ्लो' याद रखें"
+      ],
+      "pyqSignals": [
+        "ऊतकों के प्रकार और उनके एक-एक उदाहरण पर सीधे प्रश्न आम हैं",
+        "रक्त को ऊतक कहना और उसके घटक पूछना परीक्षा में बार-बार आता है"
+      ],
+      "mustRemember": [
+        "ऊतक की परिभाषा और पादप-जंतु ऊतकों का वर्गीकरण",
+        "चार जंतु ऊतकों के नाम और कार्य",
+        "विभज्योतक बनाम स्थायी ऊतक",
+        "कंकाल के मुख्य भाग और जोड़ों के प्रकार"
+      ],
+      "quickRevision": "ऊतक समान कोशिकाओं का समूह है। पादपों में विभज्योतक वृद्धि करता है और स्थायी ऊतक (जाइलम, फ्लोएम सहित) संरचना व परिवहन का कार्य करते हैं। जंतुओं में उपकला, संयोजी, पेशीय और तंत्रिका ऊतक मिलते हैं। अस्थि-पंजर 206 अस्थियों का बना है और जोड़ों की सहायता से गति संभव होती है।"
+    },
+    "en": {
+      "concept": "A tissue is a group of cells with similar origin, structure and function. Plant tissues divide into meristematic and permanent tissues, while animal tissues are of four types — epithelial, connective, muscular and nervous. The skeletal framework gives the body shape, support and movement.",
+      "example": "The outer layer of skin is epithelial tissue, blood is connective tissue, and the thigh muscle is muscular tissue.",
+      "sections": [
+        {
+          "heading": "Plant Tissues",
+          "content": "Meristematic tissue divides continuously for growth; permanent tissues (simple and complex) have lost the ability to divide."
+        },
+        {
+          "heading": "Animal Tissues",
+          "content": "Epithelial tissue covers, connective tissue binds and supports, muscular tissue produces movement, and nervous tissue carries signals."
+        },
+        {
+          "heading": "Skeletal System",
+          "content": "The human skeleton has 206 bones; the ribs protect the heart and lungs, and the backbone has 33 vertebrae."
+        },
+        {
+          "heading": "Joints and Movement",
+          "content": "Bones meet at joints; the ball-and-socket joint is in the shoulder and the hinge joint is in the elbow."
+        }
+      ],
+      "keyPoints": [
+        "A tissue is a group of similar cells performing one specific function",
+        "Meristematic tissue grows; permanent tissue does not divide",
+        "Animal tissues are of four types — epithelial, connective, muscular, nervous",
+        "Blood is a liquid connective tissue",
+        "Xylem and phloem are complex permanent tissues",
+        "The skeleton gives shape, support and movement to the body"
+      ],
+      "examFocus": [
+        "Memorise plant and animal tissue names with one example each",
+        "Learn the order and functions of epithelial, connective, muscular and nervous tissues",
+        "Types of joints and their locations are commonly asked"
+      ],
+      "examTraps": [
+        "Not all connective tissues are solid — blood is a liquid connective tissue",
+        "Do not swap the functions of meristematic and permanent tissues"
+      ],
+      "thinkBeforeAnswer": [
+        "If a question says 'covering tissue', pick epithelial; 'binding tissue' means connective",
+        "For movement or contraction, recall the types of muscular tissue (striated, unstriated, cardiac)"
+      ],
+      "memoryTricks": [
+        "Remember animal tissues as E-C-M-N — epithelial, connective, muscular, nervous",
+        "Xylem carries water upward; phloem carries food both ways — 'X-up, phlo-both'"
+      ],
+      "pyqSignals": [
+        "Direct one-line questions on tissue types and examples are common",
+        "Calling blood a tissue and naming its components is repeatedly asked"
+      ],
+      "mustRemember": [
+        "Definition of tissue and classification of plant/animal tissues",
+        "Names and functions of the four animal tissues",
+        "Meristematic vs permanent tissue",
+        "Main parts of the skeleton and types of joints"
+      ],
+      "quickRevision": "A tissue is a group of similar cells. In plants, meristematic tissue grows and permanent tissues (including xylem and phloem) provide structure and transport. Animals have epithelial, connective, muscular and nervous tissues. The skeleton of 206 bones, with the help of joints, makes movement possible."
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-12",
+  "chapterNumber": 12,
+  "code": "P12",
+  "chapterName": {
+    "hi": "अंतरिक्ष, पृथ्वी एवं मूल भौतिक परिघटनाएँ",
+    "en": "Space, Earth & Basic Physical Phenomena"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "हमारा सौर परिवार सूर्य और उसके चारों ओर घूमते आठ ग्रहों, उपग्रहों, क्षुद्रग्रहों और धूमकेतुओं से बना है। पृथ्वी की घूर्णन और परिक्रमा से दिन-रात और ऋतु परिवर्तन होते हैं, जबकि चंद्रमा की स्थिति से कलाएँ और ग्रहण बनते हैं। भारत के अंतरिक्ष अभियान और कृत्रिम उपग्रह भी परीक्षा का भाग हैं।",
+      "example": "बड़े डब्बे में छेद कर घुसने वाली धूप की किरण सीधी रेखा में चलने का सबूत है — इसी से ग्रहण की व्याख्या होती है।",
+      "sections": [
+        {
+          "heading": "सौर परिवार",
+          "content": "सूर्य तारा है; आठ ग्रह — बुध, शुक्र, पृथ्वी, मंगल, बृहस्पति, शनि, अरुण, वरुण; बृहस्पति सबसे बड़ा और बुध सबसे छोटा ग्रह; शुक्र सबसे गर्म और सबसे चमकीला ग्रह है।"
+        },
+        {
+          "heading": "दिन-रात एवं ऋतुएँ",
+          "content": "पृथ्वी के घूर्णन से दिन-रात और तिर्यक अक्ष पर परिक्रमा से ऋतु परिवर्तन होता है।"
+        },
+        {
+          "heading": "चंद्रमा की कलाएँ एवं ग्रहण",
+          "content": "चंद्रमा पृथ्वी का उपग्रह है; सूर्य-पृथ्वी-चंद्रमा की स्थिति से कलाएँ बदलती हैं; जब चंद्रमा पृथ्वी की छाया में आता है तो चंद्र ग्रहण और जब चंद्रमा सूर्य को ढक देता है तो सूर्य ग्रहण होता है।"
+        },
+        {
+          "heading": "भारतीय अंतरिक्ष अभियान",
+          "content": "ISRO द्वारा आर्यभट्ट (प्रथम भारतीय उपग्रह), चंद्रयान और मंगलयान जैसे अभियान; कृत्रिम उपग्रह संचार-मौसम-दूरसंचार में उपयोगी हैं।"
+        }
+      ],
+      "keyPoints": [
+        "सौर परिवार में सूर्य सहित आठ ग्रह हैं",
+        "पृथ्वी से दिखने वाला सबसे चमकीला पिंड शुक्र ग्रह है",
+        "बृहस्पति सबसे बड़ा ग्रह; बुध सूर्य के सबसे निकट",
+        "दिन-रात पृथ्वी के घूर्णन से और ऋतुएँ तिर्यक अक्ष के कारण होती हैं",
+        "चंद्र ग्रहण पृथ्वी की छाया में चंद्रमा आने से होता है",
+        "आर्यभट्ट प्रथम भारतीय कृत्रिम उपग्रह था"
+      ],
+      "examFocus": [
+        "ग्रहों का क्रम सूर्य से दूरी के अनुसार रटें",
+        "सौर-चंद्र ग्रहण की स्थिति चित्र बनाकर समझें",
+        "ISRO के प्रमुख अभियानों के नाम याद रखें"
+      ],
+      "examTraps": [
+        "शुक्र सबसे गर्म ग्रह है, बुध नहीं — यद्यपि बुध सूर्य के सबसे निकट है",
+        "तारा और ग्रह भिन्न हैं — ग्रह स्वयं प्रकाशमान नहीं होते"
+      ],
+      "thinkBeforeAnswer": [
+        "ग्रहण के प्रश्न में सूर्य-पृथ्वी-चंद्रमा की क्रम-स्थिति बनाकर देखें",
+        "सबसे चमकीला/गर्म/बड़ा ग्रह पूछा जाए तो सावधानी से उत्तर चुनें"
+      ],
+      "memoryTricks": [
+        "'बुध-शुक्र-पृथ्वी-मंगल-बृहस्पति-शनि-अरुण-वरुण' क्रम दोहराएँ",
+        "चंद्र ग्रहण = छाया में चंद्रमा; सूर्य ग्रहण = ढका सूर्य"
+      ],
+      "pyqSignals": [
+        "ग्रहों का क्रम और विशेषताएँ परीक्षा में बार-बार पूछी जाती हैं",
+        "ग्रहणों का कारण सामान्य प्रश्न है"
+      ],
+      "mustRemember": [
+        "सौर परिवार के सदस्य और ग्रहों का क्रम",
+        "दिन-रात और ऋतुओं का कारण",
+        "ग्रहणों का निर्माण",
+        "ISRO के प्रमुख अभियान"
+      ],
+      "quickRevision": "सौर परिवार में सूर्य, आठ ग्रह, उपग्रह, क्षुद्रग्रह और धूमकेतु हैं। पृथ्वी के घूर्णन से दिन-रात और तिर्यक अक्ष पर परिक्रमा से ऋतुएँ बनती हैं। चंद्रमा की कलाएँ और ग्रहण सूर्य-पृथ्वी-चंद्रमा की स्थिति से निर्धारित होते हैं। ISRO के अभियान भारत की अंतरिक्ष प्रगति दर्शाते हैं।"
+    },
+    "en": {
+      "concept": "Our solar system consists of the Sun, eight planets revolving around it, satellites, asteroids and comets. Earth's rotation and revolution cause day-night and seasons, while the Moon's position gives phases and eclipses. Indian space missions and artificial satellites are also part of the exam syllabus.",
+      "example": "Sunlight entering through a hole in a big box travels in a straight line — this explains eclipses.",
+      "sections": [
+        {
+          "heading": "Solar System",
+          "content": "The Sun is a star; eight planets — Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune; Jupiter is the largest and Mercury the smallest; Venus is the hottest and brightest planet."
+        },
+        {
+          "heading": "Day-Night and Seasons",
+          "content": "Earth's rotation causes day and night, and revolution on a tilted axis causes seasons."
+        },
+        {
+          "heading": "Moon Phases and Eclipses",
+          "content": "The Moon is Earth's satellite; phases change with the Sun-Earth-Moon arrangement; a lunar eclipse occurs when the Moon enters Earth's shadow, and a solar eclipse when the Moon covers the Sun."
+        },
+        {
+          "heading": "Indian Space Missions",
+          "content": "ISRO's missions like Aryabhata (first Indian satellite), Chandrayaan and Mangalyaan; artificial satellites serve communication, weather and broadcasting."
+        }
+      ],
+      "keyPoints": [
+        "The solar system has the Sun and eight planets",
+        "Venus is the brightest body seen from Earth",
+        "Jupiter is the largest planet; Mercury is closest to the Sun",
+        "Day-night is due to rotation; seasons to the tilted axis",
+        "A lunar eclipse happens when the Moon enters Earth's shadow",
+        "Aryabhata was the first Indian artificial satellite"
+      ],
+      "examFocus": [
+        "Learn the order of planets by distance from the Sun",
+        "Understand solar-lunar eclipse positions with diagrams",
+        "Remember names of major ISRO missions"
+      ],
+      "examTraps": [
+        "Venus, not Mercury, is the hottest planet — although Mercury is nearest the Sun",
+        "Stars and planets differ — planets do not shine by themselves"
+      ],
+      "thinkBeforeAnswer": [
+        "For eclipse questions, draw the Sun-Earth-Moon order first",
+        "Be careful when asked the brightest/hottest/largest planet"
+      ],
+      "memoryTricks": [
+        "Repeat the order — Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune",
+        "Lunar eclipse = Moon in shadow; solar eclipse = Sun covered"
+      ],
+      "pyqSignals": [
+        "Planetary order and special facts are asked repeatedly",
+        "Causes of eclipses are common questions"
+      ],
+      "mustRemember": [
+        "Members of the solar system and order of planets",
+        "Causes of day-night and seasons",
+        "Formation of eclipses",
+        "Major ISRO missions"
+      ],
+      "quickRevision": "The solar system has the Sun, eight planets, satellites, asteroids and comets. Rotation gives day-night and the tilted revolution gives seasons. Moon phases and eclipses depend on the Sun-Earth-Moon arrangement. ISRO's missions mark India's space progress."
+    }
+  }
+}

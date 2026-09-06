@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-07",
+  "chapterNumber": 7,
+  "code": "P07",
+  "chapterName": {
+    "hi": "ध्वनि एवं उसके अनुप्रयोग",
+    "en": "Sound & Its Applications"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "ध्वनि कंपन से उत्पन्न होती है और माध्यम (ठोस, द्रव, गैस) में दाब-तरंगों के रूप में चलती है; निर्वात में ध्वनि नहीं चलती। आवृत्ति से पिच (सुर) और आयाम से तीव्रता (प्रबलता) निर्धारित होती है। परावर्तन से प्रतिध्वनि बनती है जिसकी सहायता से दूरी मापी जाती है।",
+      "example": "पहाड़ों में चिल्लाने पर आई गूंज परावर्तित ध्वनि — प्रतिध्वनि — है।",
+      "sections": [
+        {
+          "heading": "ध्वनि का उत्पन्न एवं संचरण",
+          "content": "कंपन करता पिंड ध्वनि उत्पन्न करता है; ध्वनि माध्यम के कणों को कंपन कराकर आगे बढ़ती है और निर्वात में नहीं चल सकती।"
+        },
+        {
+          "heading": "तरंग गुण",
+          "content": "आवृत्ति (हर्ट्ज़) से पिच, आयाम से प्रबलता और तरंगदैर्घ्य से ध्वनि का स्वरूप निर्धारित होता है; वेग = आवृत्ति × तरंगदैर्घ्य।"
+        },
+        {
+          "heading": "प्रतिध्वनि",
+          "content": "परावर्तित ध्वनि सुनने योग्य हो तो प्रतिध्वनि कहलाती है; मनुष्य को दो ध्वनियाँ 0.1 सेकंड से अधिक अंतराल पर सुनाई देती हैं, इसलिए प्रतिध्वनि के लिए न्यूनतम दूरी लगभग 17.2 मीटर चाहिए।"
+        },
+        {
+          "heading": "श्रव्यता सीमा एवं अनुप्रयोग",
+          "content": "मनुष्य 20 Hz–20,000 Hz सुनता है; 20 Hz से कम अवश्रव्य और 20,000 Hz से अधिक पराश्रव्य कहलाते हैं — पराश्रव्य सोनार, चिकित्सा और सफाई में उपयोगी है।"
+        }
+      ],
+      "keyPoints": [
+        "ध्वनि यांत्रिक तरंग है — माध्यम आवश्यक है",
+        "निर्वात में ध्वनि नहीं चलती",
+        "पिच आवृत्ति पर और प्रबलता आयाम पर निर्भर करती है",
+        "वायु में ध्वनि की चाल ≈ 344 m/s (कक्ष ताप पर)",
+        "प्रतिध्वनि के लिए परावर्तक से न्यूनतम ≈ 17.2 m दूरी चाहिए",
+        "मनुष्य की श्रव्यता सीमा 20–20,000 Hz है"
+      ],
+      "examFocus": [
+        "v = f × λ के सरल प्रश्न हल करें",
+        "अवश्रव्य-पराश्रव्य-श्रव्य सीमाएँ रटें",
+        "SONAR और अल्ट्रासाउंड के उपयोग याद रखें"
+      ],
+      "examTraps": [
+        "सभी तरंगों को माध्यम नहीं चाहिए ऐसा नहीं — प्रकाश को नहीं चाहिए, ध्वनि को चाहिए",
+        "प्रतिध्वनि और गूंज (reverberation) एक नहीं हैं — बार-बार परावर्तन से गूंज बनती है"
+      ],
+      "thinkBeforeAnswer": [
+        "पिच या सूक्ष्मता की बात हो तो आवृत्ति देखें",
+        "दूरी मापने का प्रश्न हो तो प्रतिध्वनि सूत्र d = vt/2 लगाएँ"
+      ],
+      "memoryTricks": [
+        "'L-T-U' — 20 Hz से कम infrasound (Low), 20-20k audible (T), अधिक ultrasound (U)",
+        "343-344 m/s को 'ध्वनि की हवाई चाल' के रूप में याद करें"
+      ],
+      "pyqSignals": [
+        "प्रतिध्वनि की न्यूनतम दूरी परीक्षा में बार-बार पूछी जाती है",
+        "श्रव्यता सीमा और पराश्रव्य उपयोग सामान्य प्रश्न हैं"
+      ],
+      "mustRemember": [
+        "ध्वनि को माध्यम की आवश्यकता",
+        "पिच और प्रबलता के कारक",
+        "प्रतिध्वनि की शर्त और न्यूनतम दूरी",
+        "श्रव्यता सीमा तथा पराश्रव्य के उपयोग"
+      ],
+      "quickRevision": "ध्वनि कंपन से बनती और माध्यम में दाब तरंग से चलती है; निर्वात में नहीं। आवृत्ति से पिच और आयाम से प्रबलता तय होती है। परावर्तित ध्वनि प्रतिध्वनि बनाती है जिससे दूरी मापी जाती है। मनुष्य 20–20,000 Hz सुनता है और पराश्रव्य चिकित्सा-सोनार में उपयोगी है।"
+    },
+    "en": {
+      "concept": "Sound is produced by vibration and travels in a medium (solid, liquid, gas) as pressure waves; it cannot travel in vacuum. Frequency decides pitch and amplitude decides loudness. Reflection produces echo, which is used to measure distance.",
+      "example": "The roll of a shout in the hills is reflected sound — an echo.",
+      "sections": [
+        {
+          "heading": "Production and Propagation",
+          "content": "A vibrating body produces sound; sound travels by vibrating medium particles and cannot pass through vacuum."
+        },
+        {
+          "heading": "Wave Properties",
+          "content": "Frequency (hertz) gives pitch, amplitude gives loudness, and wavelength shapes the sound; velocity = frequency × wavelength."
+        },
+        {
+          "heading": "Echo",
+          "content": "Reflected sound heard distinctly is an echo; humans need a gap over 0.1 s between sounds, so the minimum distance for an echo is about 17.2 m."
+        },
+        {
+          "heading": "Hearing Range and Uses",
+          "content": "Humans hear 20 Hz–20,000 Hz; below 20 Hz is infrasound and above 20,000 Hz is ultrasound — ultrasound is useful in sonar, medicine and cleaning."
+        }
+      ],
+      "keyPoints": [
+        "Sound is a mechanical wave — a medium is required",
+        "Sound cannot travel through vacuum",
+        "Pitch depends on frequency, loudness on amplitude",
+        "Speed of sound in air ≈ 344 m/s at room temperature",
+        "An echo needs a minimum reflector distance of about 17.2 m",
+        "The human hearing range is 20–20,000 Hz"
+      ],
+      "examFocus": [
+        "Solve simple problems with v = f × λ",
+        "Learn the infrasound-audible-ultrasound boundaries",
+        "Remember uses of SONAR and ultrasound"
+      ],
+      "examTraps": [
+        "Not all waves need a medium — light does not, sound does",
+        "Echo and reverberation are different — repeated reflections cause reverberation"
+      ],
+      "thinkBeforeAnswer": [
+        "Pitch questions point to frequency",
+        "For distance measurement, apply the echo formula d = vt/2"
+      ],
+      "memoryTricks": [
+        "'L-A-U' — below 20 Hz infrasound (Low), 20-20k Audible, above it Ultrasound",
+        "Remember 343-344 m/s as the speed of sound in air"
+      ],
+      "pyqSignals": [
+        "The minimum echo distance is asked repeatedly",
+        "Hearing range and ultrasound uses are common questions"
+      ],
+      "mustRemember": [
+        "Sound needs a medium",
+        "Factors of pitch and loudness",
+        "Condition and minimum distance of echo",
+        "Hearing range and uses of ultrasound"
+      ],
+      "quickRevision": "Sound is produced by vibration and travels as pressure waves in a medium, not in vacuum. Frequency gives pitch and amplitude gives loudness. Reflected sound forms echo, used for distance measurement. Humans hear 20–20,000 Hz and ultrasound serves medicine and sonar."
+    }
+  }
+}
