@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-03",
+  "chapterNumber": 3,
+  "code": "P03",
+  "chapterName": {
+    "hi": "बल एवं गति के नियम",
+    "en": "Force & Laws of Motion"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "बल वह प्रभाव है जो वस्तु की गति बदल सकता है, उसे विरामावस्था से चला सकता है या आकार बदल सकता है। न्यूटन के तीन नियम गति का पूरा वर्णन करते हैं — जड़त्व का नियम, संवेग-परिवर्तन का नियम और क्रिया-प्रतिक्रिया का नियम। घर्षण एक ऐसा बल है जो गति का विरोध करता है।",
+      "example": "बस के अचानक चलने पर यात्री पीछे झुक जाता है — यह जड़त्व का उदाहरण है।",
+      "sections": [
+        {
+          "heading": "बल एवं उसके प्रभाव",
+          "content": "बल गति बदल सकता है, दिशा बदल सकता है और आकार बदल सकता है; संतुलित बलों में परिणामी बल शून्य होता है।"
+        },
+        {
+          "heading": "प्रथम नियम — जड़त्व",
+          "content": "वस्तु अपनी अवस्था में बनी रहती है जब तक बाह्य बल न लगे; द्रव्यमान जड़त्व का माप है।"
+        },
+        {
+          "heading": "द्वितीय नियम — संवेग",
+          "content": "F = ma; संवेग p = mv और बल संवेग-परिवर्तन की दर है।"
+        },
+        {
+          "heading": "तृतीय नियम एवं घर्षण",
+          "content": "प्रत्येक क्रिया के बराबर व विपरीत प्रतिक्रिया होती है; घर्षण गति का विरोध करता है और उपयोगी-हानिकारक दोनों होता है।"
+        }
+      ],
+      "keyPoints": [
+        "बल गति, दिशा या आकार बदल सकता है",
+        "न्यूटन का प्रथम नियम जड़त्व का नियम है",
+        "द्रव्यमान अधिक = जड़त्व अधिक",
+        "द्वितीय नियम: F = ma; संवेग p = mv",
+        "क्रिया-प्रतिक्रिया बराबर परंतु विपरीत दिशाओं में और भिन्न वस्तुओं पर",
+        "घर्षण घटाने के उपाय — स्नेहन (lubricant), रोलर, धारावाहिक आकार"
+      ],
+      "examFocus": [
+        "F = ma से सरल संख्यात्मक प्रश्नों का अभ्यास करें",
+        "जड़त्व के दैनिक जीवन के उदाहरण याद रखें",
+        "क्रिया-प्रतिक्रिया जोड़ी के उदाहरण (रॉकेट, तैराक) जानें"
+      ],
+      "examTraps": [
+        "क्रिया-प्रतिक्रिया एक ही वस्तु पर नहीं लगतीं — इसलिए वे कभी संतुलित नहीं होतीं",
+        "घर्षण सदा हानिकारक नहीं है — चलने में यह आवश्यक है"
+      ],
+      "thinkBeforeAnswer": [
+        "'अवस्था में परिवर्तन क्यों नहीं' पूछा जाए तो जड़त्व उत्तर है",
+        "रॉकेट की गति का कारण पूछा जाए तो तृतीय नियम चुनें"
+      ],
+      "memoryTricks": [
+        "पहला नियम = 'आराम का नियम', दूसरा = 'F=ma', तीसरा = 'क्रिया-प्रतिक्रिया' — तीन टैग याद रखें",
+        "p = mv — 'momentum = mass × velocity' जोड़ी दोहराएँ"
+      ],
+      "pyqSignals": [
+        "न्यूटन के नियमों पर सीधे प्रश्न बार-बार आते हैं",
+        "F = ma के संख्यात्मक प्रश्न परीक्षा में सामान्य हैं"
+      ],
+      "mustRemember": [
+        "बल के प्रभाव",
+        "न्यूटन के तीनों नियम",
+        "संवेग और F = ma",
+        "घर्षण के लाभ-हानि"
+      ],
+      "quickRevision": "बल वस्तु की गति, दिशा या आकार बदल सकता है। न्यूटन का प्रथम नियम जड़त्व बताता है, द्वितीय नियम F = ma से बल-संवेग संबंध देता है और तृतीय नियम क्रिया-प्रतिक्रिया का नियम है। घर्षण गति का विरोधी बल है जो उपयोगी और हानिकारक दोनों रूपों में होता है।"
+    },
+    "en": {
+      "concept": "Force is the influence that can change the motion, start motion from rest, or change the shape of an object. Newton's three laws describe motion fully — the law of inertia, the law of momentum change and the law of action-reaction. Friction is a force that opposes motion.",
+      "example": "When a bus starts suddenly, passengers lean backward — an example of inertia.",
+      "sections": [
+        {
+          "heading": "Force and its Effects",
+          "content": "Force can change motion, direction or shape; balanced forces have zero resultant."
+        },
+        {
+          "heading": "First Law — Inertia",
+          "content": "A body stays in its state unless an external force acts; mass is the measure of inertia."
+        },
+        {
+          "heading": "Second Law — Momentum",
+          "content": "F = ma; momentum p = mv and force is the rate of change of momentum."
+        },
+        {
+          "heading": "Third Law and Friction",
+          "content": "Every action has an equal and opposite reaction; friction opposes motion and is both useful and harmful."
+        }
+      ],
+      "keyPoints": [
+        "Force can change motion, direction or shape",
+        "Newton's first law is the law of inertia",
+        "More mass = more inertia",
+        "Second law: F = ma; momentum p = mv",
+        "Action-reaction are equal, opposite and on different bodies",
+        "Friction is reduced by lubricants, rollers and streamlined shapes"
+      ],
+      "examFocus": [
+        "Practise simple numericals using F = ma",
+        "Remember daily-life examples of inertia",
+        "Know action-reaction pairs (rocket, swimmer)"
+      ],
+      "examTraps": [
+        "Action and reaction do not act on the same body — hence they never balance",
+        "Friction is not always harmful — it is necessary for walking"
+      ],
+      "thinkBeforeAnswer": [
+        "'Why no change of state' points to inertia",
+        "For a rocket's motion, choose the third law"
+      ],
+      "memoryTricks": [
+        "First law = 'law of rest', second = 'F=ma', third = 'action-reaction' — three tags",
+        "p = mv — repeat 'momentum = mass × velocity'"
+      ],
+      "pyqSignals": [
+        "Direct questions on Newton's laws appear repeatedly",
+        "Numericals on F = ma are common in exams"
+      ],
+      "mustRemember": [
+        "Effects of force",
+        "All three Newton's laws",
+        "Momentum and F = ma",
+        "Advantages and harms of friction"
+      ],
+      "quickRevision": "Force can change the motion, direction or shape of a body. Newton's first law gives inertia, the second gives F = ma and momentum, and the third gives action-reaction. Friction opposes motion and is both useful and harmful."
+    }
+  }
+}

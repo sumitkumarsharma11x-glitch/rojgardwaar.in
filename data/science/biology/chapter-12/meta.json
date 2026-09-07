@@ -1,0 +1,137 @@
+{
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-12",
+  "chapterNumber": 12,
+  "code": "B12",
+  "chapterName": {
+    "hi": "पर्यावरण, पारितंत्र एवं प्राकृतिक संसाधन",
+    "en": "Environment, Ecosystems & Natural Resources"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "सभी जीव और उनका भौतिक पर्यावरण मिलकर पारितंत्र बनाते हैं, जिसमें ऊर्जा सूर्य से निर्माताओं (पौधों) द्वारा ग्रहण कर खाद्य श्रृंखला से आगे बहती है। मानव गतिविधियों से अपशिष्ट, प्रदूषण और संसाधनों का क्षरण हो रहा है, इसलिए जल, वन और वन्यजीव संरक्षण आवश्यक है।",
+      "example": "एक खेत में फसल → टिड्डा → गिरगिट → साँप → ईगल की श्रृंखला खाद्य श्रृंखला का सरल उदाहरण है।",
+      "sections": [
+        {
+          "heading": "पारितंत्र एवं इसके घटक",
+          "content": "निर्जीव (जल, मिट्टी, वायु) और जीवीय (निर्माता, उपभोक्ता, अपघटक) घटक मिलकर पारितंत्र बनाते हैं।"
+        },
+        {
+          "heading": "खाद्य श्रृंखला एवं खाद्य जाल",
+          "content": "ऊर्जा सूर्य → पौधा → शाकाहारी → मांसाहारी क्रम में बहती है; अनेक श्रृंखलाएँ मिलकर खाद्य जाल बनाती हैं और हर स्तर पर ऊर्जा घटती है।"
+        },
+        {
+          "heading": "अपघटक एवं पदार्थ चक्र",
+          "content": "अपघटक मृत कार्बनिक पदार्थ को सरल रूप में तोड़कर पोषक तत्वों को पुनः मिट्टी में लौटाते हैं।"
+        },
+        {
+          "heading": "संसाधन संरक्षण",
+          "content": "जल-बचत, वनीकरण, वन्यजीव अभयारण्य, 5R (Refuse, Reduce, Reuse, Repurpose, Recycle) और सतत उपयोग संसाधनों को भविष्य के लिए बचाते हैं।"
+        }
+      ],
+      "keyPoints": [
+        "पारितंत्र = जीवीय + निर्जीव घटकों का अंतःक्रिया तंत्र",
+        "सूर्य सभी पारितंत्रों का अंतिम ऊर्जा स्रोत है",
+        "खाद्य श्रृंखला में ऊर्जा हर स्तर पर लगभग 10% ही आगे जाती है",
+        "हरित पौधे निर्माता, जंतु उपभोक्ता और जीवाणु-कवक अपघटक हैं",
+        "जैव-अपघटनीय अपशिष्ट (प्लास्टिक) पर्यावरण के लिए गंभीर समस्या है",
+        "ओजोन परत सूर्य की पराबैंगनी किरणों से रक्षा करती है"
+      ],
+      "examFocus": [
+        "खाद्य श्रृंखला में पोषण स्तरों का क्रम और ऊर्जा-प्रवाह की दिशा याद रखें",
+        "जैव-अपघटनीय बनाम अनैव-अपघटनीय अपशिष्ट के उदाहरण जोड़ें",
+        "5R के नाम क्रम से दोहराएँ"
+      ],
+      "examTraps": [
+        "खाद्य श्रृंखला में ऊर्जा चक्रीय नहीं बहती — वह एक ही दिशा में बहती है",
+        "सभी अपशिष्ट जैव-अपघटनीय नहीं होते — प्लास्टिक अनैव-अपघटनीय है"
+      ],
+      "thinkBeforeAnswer": [
+        "ऊर्जा-प्रवाह का प्रश्न हो तो दिशा (सूर्य→निर्माता→उपभोक्ता) देखें",
+        "अपघटक की बात आए तो जीवाणु और कवक चुनें"
+      ],
+      "memoryTricks": [
+        "ऊर्जा-प्रवाह को 'सू-पौ-शा-मा' (सूर्य, पौधा, शाकाहारी, मांसाहारी) क्रम से याद करें",
+        "5R को 'R-R-R-R-R' गिनकर दोहराएँ"
+      ],
+      "pyqSignals": [
+        "खाद्य श्रृंखला और पोषण स्तर पर प्रश्न बार-बार पूछे जाते हैं",
+        "ओजोस्फीयर और CFC का संबंध परीक्षा में आता है"
+      ],
+      "mustRemember": [
+        "पारितंत्र के घटक",
+        "खाद्य श्रृंखला और ऊर्जा प्रवाह",
+        "अपघटकों की भूमिका",
+        "प्राकृतिक संसाधनों के संरक्षण के उपाय"
+      ],
+      "quickRevision": "जीव और उनका पर्यावरण मिलकर पारितंत्र बनाते हैं जिसमें सूर्य से आई ऊर्जा निर्माताओं से खाद्य श्रृंखला द्वारा उपभोक्ताओं तक बहती है और अपघटक पोषक तत्व पुनः मिट्टी में लौटाते हैं। मानव अपशिष्ट और अति-दोहन से संतुलन बिगड़ रहा है; जल, वन और वन्यजीव संरक्षण तथा 5R अपनाकर सतत विकास संभव है।"
+    },
+    "en": {
+      "concept": "All organisms and their physical environment together form an ecosystem, where energy from the sun is captured by producers (plants) and flows through food chains. Human activities create waste, pollution and resource depletion, making conservation of water, forests and wildlife essential.",
+      "example": "In a field, crop → grasshopper → garden lizard → snake → eagle is a simple food chain.",
+      "sections": [
+        {
+          "heading": "Ecosystem and its Components",
+          "content": "Abiotic (water, soil, air) and biotic (producers, consumers, decomposers) components together form an ecosystem."
+        },
+        {
+          "heading": "Food Chain and Food Web",
+          "content": "Energy flows sun → plant → herbivore → carnivore; many chains interlink into a food web and energy decreases at every level."
+        },
+        {
+          "heading": "Decomposers and Material Cycles",
+          "content": "Decomposers break dead organic matter into simpler substances and return nutrients to the soil."
+        },
+        {
+          "heading": "Conservation of Resources",
+          "content": "Water saving, afforestation, wildlife sanctuaries, the 5Rs (Refuse, Reduce, Reuse, Repurpose, Recycle) and sustainable use preserve resources for the future."
+        }
+      ],
+      "keyPoints": [
+        "An ecosystem = interacting biotic and abiotic components",
+        "The sun is the ultimate energy source of every ecosystem",
+        "Only about 10% of energy passes to each next level in a food chain",
+        "Green plants are producers, animals are consumers, bacteria-fungi are decomposers",
+        "Non-biodegradable waste (plastic) is a serious environmental problem",
+        "The ozone layer protects from the Sun's ultraviolet rays"
+      ],
+      "examFocus": [
+        "Learn the order of trophic levels and the one-way direction of energy flow",
+        "Pair examples of biodegradable vs non-biodegradable waste",
+        "Repeat the names of the 5Rs in order"
+      ],
+      "examTraps": [
+        "Energy in a food chain is not cyclical — it flows in one direction only",
+        "Not all waste is biodegradable — plastic is non-biodegradable"
+      ],
+      "thinkBeforeAnswer": [
+        "For energy-flow questions, check the direction (sun→producer→consumer)",
+        "When decomposers are mentioned, choose bacteria and fungi"
+      ],
+      "memoryTricks": [
+        "Remember energy flow as Sun-Plant-Herbivore-Carnivore in order",
+        "Count the 5Rs on five fingers"
+      ],
+      "pyqSignals": [
+        "Food chains and trophic levels are asked repeatedly",
+        "The ozone layer and CFC link appears in exams"
+      ],
+      "mustRemember": [
+        "Components of an ecosystem",
+        "Food chain and energy flow",
+        "Role of decomposers",
+        "Measures to conserve natural resources"
+      ],
+      "quickRevision": "Organisms and their environment form ecosystems where solar energy flows from producers through food chains, and decomposers return nutrients to the soil. Human waste and overuse disturb this balance; conservation of water, forests and wildlife along with the 5Rs makes sustainable development possible."
+    }
+  }
+}

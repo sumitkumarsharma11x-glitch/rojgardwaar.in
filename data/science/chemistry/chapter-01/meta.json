@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-01",
+  "chapterNumber": 1,
+  "code": "C01",
+  "chapterName": {
+    "hi": "पदार्थ एवं उसकी अवस्थाएँ",
+    "en": "Matter & Its States"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "पदार्थ वह है जो द्रव्यमान रखता है और स्थान घेरता है। ठोस, द्रव और गैस पदार्थ की तीन अवस्थाएँ हैं जो कणों के बीच आकर्षण और गतिज ऊर्जा के अंतर से निर्धारित होती हैं। ताप बढ़ाने-घटाने से पदार्थ एक अवस्था से दूसरी में बदलता है।",
+      "example": "बर्फ पिघलकर जल और जल उबलकर भाप बनता है — अवस्था परिवर्तन का सामान्य उदाहरण।",
+      "sections": [
+        {
+          "heading": "पदार्थ कणों से बना है",
+          "content": "कण अत्यंत छोटे होते हैं, उनके बीच रिक्त स्थान होता है और वे निरंतर गतिमान रहते हैं; विसरण इसका प्रमाण है।"
+        },
+        {
+          "heading": "ठोस, द्रव, गैस",
+          "content": "ठोस में कण सबसे संघन और स्थिर; द्रव में प्रवाह गुण; गैस में कण सर्वाधिक स्वतंत्र और संपीड्य।"
+        },
+        {
+          "heading": "अवस्था परिवर्तन",
+          "content": "पिघलन (ठोस→द्रव), क्वथन (द्रव→गैस), संघनन (गैस→द्रव), जमन (द्रव→ठोस) और उर्ध्वपातन (ठोस→गैस) मुख्य परिवर्तन हैं।"
+        },
+        {
+          "heading": "वाष्पीकरण एवं शीतलन",
+          "content": "वाष्पीकरण के कारक — ताप, सतही क्षेत्रफल, वायु गति, आर्द्रता; पानी के छींटे लगाने से ठंडक वाष्पीकरण के कारण होती है।"
+        }
+      ],
+      "keyPoints": [
+        "पदार्थ = द्रव्यमान + आयतन",
+        "कणों के बीच आकर्षण: ठोस > द्रव > गैस",
+        "गैसें संपीड्य और विसरण दर में सर्वाधिक होती हैं",
+        "पिघलन-क्वथन बिंदु पर ताप स्थिर रहता है",
+        "उर्ध्वपातन में ठोस सीधे गैस बनता है (नैफ्थलीन, कपूर)",
+        "वाष्पीकरण से शीतलन होता है"
+      ],
+      "examFocus": [
+        "तीनों अवस्थाओं के गुणों की तुलना तालिका रटें",
+        "अवस्था-परिवर्तन के नाम और दिशा जोड़कर याद करें",
+        "वाष्पीकरण के चार कारक दोहराएँ"
+      ],
+      "examTraps": [
+        "वाष्पीकरण और क्वथन एक नहीं — क्वथन पूरे द्रव में, वाष्पीकरण केवल सतह पर होता है",
+        "सभी ठोस पिघलकर द्रव बनते हैं ऐसा नहीं — नैफ्थलीन सीधे गैस बनती है"
+      ],
+      "thinkBeforeAnswer": [
+        "'संपीड्य' शब्द देखकर गैस पहचानें",
+        "ठंडा करने का कारण पूछा जाए तो वाष्पीकरण उत्तर है"
+      ],
+      "memoryTricks": [
+        "'S-L-G' क्रम में आकर्षण घटता है — Solid, Liquid, Gas",
+        "पिघलन-जमन जोड़ी और क्वथन-संघनन जोड़ी को साथ याद करें"
+      ],
+      "pyqSignals": [
+        "तीन अवस्थाओं की तुलना परीक्षा में बार-बार आती है",
+        "वाष्पीकरण के कारक सीधे पूछे जाते हैं"
+      ],
+      "mustRemember": [
+        "पदार्थ की परिभाषा",
+        "तीन अवस्थाओं के गुण",
+        "अवस्था परिवर्तनों के नाम",
+        "वाष्पीकरण के कारक और शीतलन प्रभाव"
+      ],
+      "quickRevision": "पदार्थ द्रव्यमान और आयतन रखता है और छोटे कणों से बना है। ठोस, द्रव, गैस अवस्थाएँ कणों के आकर्षण व गति के अंतर से बनती हैं। ताप परिवर्तन से पिघलन, क्वथन, संघनन, जमन और उर्ध्वपातन होते हैं; वाष्पीकरण से शीतलन होता है।"
+    },
+    "en": {
+      "concept": "Matter is anything that has mass and occupies space. Solid, liquid and gas are the three states of matter, decided by the attraction between particles and their kinetic energy. Changing temperature converts matter from one state to another.",
+      "example": "Ice melts into water and water boils into vapour — a common example of change of state.",
+      "sections": [
+        {
+          "heading": "Matter is Made of Particles",
+          "content": "Particles are extremely small, have spaces between them and are constantly moving; diffusion proves this."
+        },
+        {
+          "heading": "Solid, Liquid, Gas",
+          "content": "In solids particles are most packed and fixed; liquids flow; in gases particles are freest and compressible."
+        },
+        {
+          "heading": "Change of State",
+          "content": "Melting (solid→liquid), boiling (liquid→gas), condensation (gas→liquid), freezing (liquid→solid) and sublimation (solid→gas) are the main changes."
+        },
+        {
+          "heading": "Evaporation and Cooling",
+          "content": "Factors of evaporation — temperature, surface area, wind speed, humidity; sprinkled water cools due to evaporation."
+        }
+      ],
+      "keyPoints": [
+        "Matter = mass + volume",
+        "Attraction between particles: solid > liquid > gas",
+        "Gases are compressible and diffuse fastest",
+        "Temperature stays constant at melting-boiling points",
+        "In sublimation a solid turns directly into gas (naphthalene, camphor)",
+        "Evaporation causes cooling"
+      ],
+      "examFocus": [
+        "Learn the comparison table of the three states",
+        "Memorise names of state changes with their directions",
+        "Repeat the four factors of evaporation"
+      ],
+      "examTraps": [
+        "Evaporation and boiling are different — boiling occurs throughout the liquid, evaporation only at the surface",
+        "Not every solid melts first — naphthalene turns directly into gas"
+      ],
+      "thinkBeforeAnswer": [
+        "The word 'compressible' points to a gas",
+        "For cooling, the answer is evaporation"
+      ],
+      "memoryTricks": [
+        "Attraction decreases in order Solid-Liquid-Gas",
+        "Remember melting-freezing and boiling-condensation as pairs"
+      ],
+      "pyqSignals": [
+        "Comparison of three states is asked repeatedly",
+        "Factors of evaporation are asked directly"
+      ],
+      "mustRemember": [
+        "Definition of matter",
+        "Properties of the three states",
+        "Names of changes of state",
+        "Factors of evaporation and the cooling effect"
+      ],
+      "quickRevision": "Matter has mass and volume and is made of tiny particles. Solid, liquid and gas states arise from differences in particle attraction and motion. Temperature changes cause melting, boiling, condensation, freezing and sublimation; evaporation produces cooling."
+    }
+  }
+}

@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "phy3_q101",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल किसे कहते हैं?",
+        "en": "What is force?"
+      },
+      "options": {
+        "hi": [
+          "वह प्रभाव जो वस्तु की गति अवस्था या आकार बदल सकता है",
+          "केवल वस्तु का भार",
+          "केवल वस्तु में संग्रित ऊर्जा",
+          "वस्तु का आयतन"
+        ],
+        "en": [
+          "The influence that can change an object's state of motion or shape",
+          "Only the weight of an object",
+          "Only the energy stored in an object",
+          "The volume of an object"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बल धक्का या खिंचाव है जो गति, दिशा या आकार बदल सकता है।",
+        "en": "Force is a push or pull that can change motion, direction or shape."
+      }
+    },
+    {
+      "id": "phy3_q102",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल का SI मात्रक क्या है?",
+        "en": "What is the SI unit of force?"
+      },
+      "options": {
+        "hi": [
+          "मीटर/सेकंड (m/s)",
+          "न्यूटन (N)",
+          "किलोग्राम (kg)",
+          "जूल (J)"
+        ],
+        "en": [
+          "Metre/second (m/s)",
+          "Newton (N)",
+          "Kilogram (kg)",
+          "Joule (J)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बल का SI मात्रक न्यूटन है, जिसे N से लिखते हैं।",
+        "en": "The SI unit of force is the newton, written N."
+      }
+    },
+    {
+      "id": "phy3_q103",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल लगाने से वस्तु का कौन-सा गुण नहीं बदलता?",
+        "en": "Which property of an object does a force NOT change?"
+      },
+      "options": {
+        "hi": [
+          "दिशा",
+          "आकार",
+          "द्रव्यमान",
+          "गति"
+        ],
+        "en": [
+          "Direction",
+          "Shape",
+          "Mass",
+          "Motion"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बल गति, दिशा या आकार बदल सकता है, पर द्रव्यमान नहीं।",
+        "en": "Force can change motion, direction or shape, but not mass."
+      }
+    },
+    {
+      "id": "phy3_q104",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल के दो रूप (तरीके) कौन-से हैं?",
+        "en": "What are the two forms (ways) of applying a force?"
+      },
+      "options": {
+        "hi": [
+          "ऊर्जा और कार्य",
+          "चाल और वेग",
+          "द्रव्यमान और भार",
+          "धक्का और खिंचाव"
+        ],
+        "en": [
+          "Energy and work",
+          "Speed and velocity",
+          "Mass and weight",
+          "Push and pull"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल दो तरीकों से लगता है — धक्का देना और खींचना।",
+        "en": "Force acts in two ways — pushing and pulling."
+      }
+    },
+    {
+      "id": "phy3_q105",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संतुलित बलों का परिणामी बल कितना होता है?",
+        "en": "What is the resultant of balanced forces?"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "अनंत",
+          "एक",
+          "सदा बढ़ता हुआ"
+        ],
+        "en": [
+          "Zero",
+          "Infinite",
+          "One",
+          "Always increasing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "संतुलित बलों का परिणामी शून्य होता है, इसलिए गति अवस्था नहीं बदलती।",
+        "en": "The resultant of balanced forces is zero, so the state of motion does not change."
+      }
+    },
+    {
+      "id": "phy3_q106",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रस्साकशी में दोनों टीमें बराबर बल लगा रही हैं — रस्सी क्या करेगी?",
+        "en": "In a tug of war both teams pull with equal force — what does the rope do?"
+      },
+      "options": {
+        "hi": [
+          "टूट जाएगी",
+          "स्थिर रहेगी",
+          "टीम A की ओर जाएगी",
+          "टीम B की ओर जाएगी"
+        ],
+        "en": [
+          "It snaps",
+          "It stays still",
+          "It moves towards team A",
+          "It moves towards team B"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बराबर-विपरीत बलों से परिणामी शून्य — रस्सी विरामावस्था में रहती है।",
+        "en": "Equal and opposite forces give zero resultant — the rope stays at rest."
+      }
+    },
+    {
+      "id": "phy3_q107",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "असंतुलित बल वस्तु में क्या परिवर्तन लाता है?",
+        "en": "What change does an unbalanced force bring in an object?"
+      },
+      "options": {
+        "hi": [
+          "केवल रंग में परिवर्तन",
+          "द्रव्यमान में वृद्धि",
+          "गति अवस्था में परिवर्तन (त्वरण)",
+          "कुछ भी नहीं"
+        ],
+        "en": [
+          "Only a change in colour",
+          "An increase in mass",
+          "A change in the state of motion (acceleration)",
+          "Nothing at all"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "असंतुलित बल ही वस्तु की गति अवस्था बदलता है — विराम से गति, गति से विराम, या दिशा/चाल परिवर्तन।",
+        "en": "Only an unbalanced force changes the state of motion — rest to motion, motion to rest, or a change of speed/direction."
+      }
+    },
+    {
+      "id": "phy3_q108",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल कौन-सी भौतिक राशि है?",
+        "en": "What kind of physical quantity is force?"
+      },
+      "options": {
+        "hi": [
+          "अदिश राशि (केवल परिमाण)",
+          "न तो सदिश, न अदिश",
+          "केवल संख्या",
+          "सदिश राशि (परिमाण + दिशा)"
+        ],
+        "en": [
+          "A scalar quantity (magnitude only)",
+          "Neither vector nor scalar",
+          "Just a number",
+          "A vector quantity (magnitude + direction)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल में परिमाण और दिशा दोनों होते हैं, इसलिए यह सदिश राशि है।",
+        "en": "Force has both magnitude and direction, so it is a vector quantity."
+      }
+    },
+    {
+      "id": "phy3_q109",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल्लेबाज के हिट करने पर गेंद की दिशा बदल जाती है — यह बल का कौन-सा प्रभाव है?",
+        "en": "A batter hits the ball and its direction changes — which effect of force is this?"
+      },
+      "options": {
+        "hi": [
+          "गति की दिशा में परिवर्तन",
+          "आकार में परिवर्तन",
+          "द्रव्यमान में परिवर्तन",
+          "कोई प्रभाव नहीं"
+        ],
+        "en": [
+          "A change in the direction of motion",
+          "A change in shape",
+          "A change in mass",
+          "No effect"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बल गेंद की गति की दिशा बदल देता है।",
+        "en": "The force changes the direction of the ball's motion."
+      }
+    },
+    {
+      "id": "phy3_q110",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रबर की पट्टी खींचने पर वह लंबी हो जाती है — यह बल का कौन-सा प्रभाव है?",
+        "en": "A rubber band stretches when pulled — which effect of force is this?"
+      },
+      "options": {
+        "hi": [
+          "कोई परिवर्तन नहीं",
+          "आकार (और लंबाई) में परिवर्तन",
+          "केवल द्रव्यमान में परिवर्तन",
+          "रंग में परिवर्तन"
+        ],
+        "en": [
+          "No change",
+          "A change in shape (and length)",
+          "Only a change in mass",
+          "A change in colour"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खिंचाव के बल से पट्टी का आकार बदलता है — वह लंबी हो जाती है।",
+        "en": "The pull changes the band's shape — it becomes longer."
+      }
+    },
+    {
+      "id": "phy3_q111",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल मापने का यंत्र कौन-सा है?",
+        "en": "Which instrument measures force?"
+      },
+      "options": {
+        "hi": [
+          "थर्मामीटर",
+          "अमीटर",
+          "स्प्रिंग तुला (स्प्रिंग बैलेंस)",
+          "पैमाना (रूलर)"
+        ],
+        "en": [
+          "A thermometer",
+          "An ammeter",
+          "A spring balance",
+          "A ruler"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्प्रिंग बैलेंस में स्प्रिंग के खिंचाव से बल का परिमाण पढ़ा जाता है।",
+        "en": "In a spring balance the stretch of the spring gives the force."
+      }
+    },
+    {
+      "id": "phy3_q112",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मिट्टी के घड़े पर कुम्हार हाथ से दबाव डालता है और आकार बदल जाता है — यह दर्शाता है —",
+        "en": "A potter presses the clay and its shape changes — this shows that —"
+      },
+      "options": {
+        "hi": [
+          "बल द्रव्यमान बदलता है",
+          "बल रंग बदलता है",
+          "मिट्टी में बल नहीं लगता",
+          "बल आकार बदल सकता है"
+        ],
+        "en": [
+          "Force changes mass",
+          "Force changes colour",
+          "No force acts on the clay",
+          "Force can change shape"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हाथ का बल मिट्टी का आकार बदल देता है।",
+        "en": "The hand's force changes the clay's shape."
+      }
+    },
+    {
+      "id": "phy3_q113",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक ही वस्तु पर कार्यरत दो बराबर और विपरीत बल क्या कहलाते हैं?",
+        "en": "Two equal and opposite forces acting on the same object are called —"
+      },
+      "options": {
+        "hi": [
+          "संतुलित बल",
+          "असंतुलित बल",
+          "घर्षण बल",
+          "चुंबकीय बल"
+        ],
+        "en": [
+          "Balanced forces",
+          "Unbalanced forces",
+          "Frictional force",
+          "Magnetic force"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक ही वस्तु पर बराबर-विपरीत बल परस्पर संतुलित कर देते हैं।",
+        "en": "Equal and opposite forces on the same object balance each other."
+      }
+    },
+    {
+      "id": "phy3_q114",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विरामावस्था में पड़ी गाड़ी को चलाने के लिए कौन-सा बल चाहिए?",
+        "en": "Which force is needed to start a cart at rest?"
+      },
+      "options": {
+        "hi": [
+          "कोई बल नहीं चाहिए",
+          "असंतुलित बल",
+          "संतुलित बल",
+          "शून्य बल"
+        ],
+        "en": [
+          "No force is needed",
+          "An unbalanced force",
+          "A balanced force",
+          "Zero force"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "विराम से गति देने के लिए असंतुलित बल ही अवस्था बदलता है।",
+        "en": "Only an unbalanced force changes the state from rest to motion."
+      }
+    },
+    {
+      "id": "phy3_q115",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साइकिल में ब्रेक लगाने पर कौन-सा परिवर्तन होता है?",
+        "en": "What change happens when brakes are applied to a bicycle?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान घटता है",
+          "आकार बदलता है",
+          "चाल घटती है",
+          "चाल बढ़ती है"
+        ],
+        "en": [
+          "The mass decreases",
+          "The shape changes",
+          "The speed decreases",
+          "The speed increases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ब्रेक का बल गति का विरोध करके चाल घटाता है।",
+        "en": "The braking force opposes the motion and reduces the speed."
+      }
+    },
+    {
+      "id": "phy3_q116",
+      "topic": "force-and-effects",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'गति अवस्था में परिवर्तन' का अर्थ है —",
+        "en": "A 'change in the state of motion' means —"
+      },
+      "options": {
+        "hi": [
+          "केवल रंग में परिवर्तन",
+          "केवल आकार में परिवर्तन",
+          "केवल भार में परिवर्तन",
+          "विराम↔गति, चाल में परिवर्तन, या दिशा में परिवर्तन"
+        ],
+        "en": [
+          "Only a change of colour",
+          "Only a change of shape",
+          "Only a change of weight",
+          "Rest↔motion, a change of speed, or a change of direction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अवस्था परिवर्तन तीन तरह का हो सकता है — विराम/गति, चाल या दिशा का बदलाव।",
+        "en": "A state change can be of three kinds — rest/motion, speed or direction."
+      }
+    },
+    {
+      "id": "phy3_q117",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वस्तु पर 10 N पूर्व की ओर और 10 N पश्चिम की ओर बल लग रहे हैं — वस्तु क्या करेगी?",
+        "en": "Forces of 10 N east and 10 N west act on an object — what will it do?"
+      },
+      "options": {
+        "hi": [
+          "अपनी अवस्था में ही रहेगी (परिणामी शून्य)",
+          "पूर्व की ओर चलेगी",
+          "पश्चिम की ओर चलेगी",
+          "घूमने लगेगी"
+        ],
+        "en": [
+          "It stays in its existing state (resultant zero)",
+          "It moves east",
+          "It moves west",
+          "It starts spinning"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "10 − 10 = 0 — संतुलित बल, अवस्था में कोई परिवर्तन नहीं।",
+        "en": "10 − 10 = 0 — balanced forces, no change of state."
+      }
+    },
+    {
+      "id": "phy3_q118",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक गाड़ी पर 8 N दाएँ और 3 N बाएँ बल लग रहे हैं — परिणामी बल क्या होगा?",
+        "en": "A cart has 8 N rightward and 3 N leftward forces — what is the resultant?"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "5 N दाएँ",
+          "11 N दाएँ",
+          "5 N बाएँ"
+        ],
+        "en": [
+          "Zero",
+          "5 N to the right",
+          "11 N to the right",
+          "5 N to the left"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "8 − 3 = 5 N, बड़े बल की दिशा में — दाएँ।",
+        "en": "8 − 3 = 5 N, in the direction of the larger force — right."
+      }
+    },
+    {
+      "id": "phy3_q119",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नाव पर 12 N उत्तर और 5 N दक्षिण की ओर बल — परिणामी?",
+        "en": "A boat gets 12 N northward and 5 N southward forces — the resultant?"
+      },
+      "options": {
+        "hi": [
+          "7 N दक्षिण",
+          "शून्य",
+          "7 N उत्तर",
+          "17 N उत्तर"
+        ],
+        "en": [
+          "7 N south",
+          "Zero",
+          "7 N north",
+          "17 N north"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "12 − 5 = 7 N उत्तर की ओर।",
+        "en": "12 − 5 = 7 N towards north."
+      }
+    },
+    {
+      "id": "phy3_q120",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही दिशा में 6 N और 8 N के बल एक साथ लगें तो परिणामी बल —",
+        "en": "Forces of 6 N and 8 N act in the same direction — the resultant force is —"
+      },
+      "options": {
+        "hi": [
+          "2 N",
+          "48 N",
+          "शून्य",
+          "14 N उसी दिशा में"
+        ],
+        "en": [
+          "2 N",
+          "48 N",
+          "Zero",
+          "14 N in that direction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक ही दिशा के बल जुड़ जाते हैं: 6 + 8 = 14 N।",
+        "en": "Forces in the same direction add up: 6 + 8 = 14 N."
+      }
+    },
+    {
+      "id": "phy3_q121",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संतुलित बल वस्तु के आकार को बदल सकते हैं या नहीं?",
+        "en": "Can balanced forces change the shape of an object?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, आकार बदल सकते हैं पर गति अवस्था नहीं",
+          "नहीं, कभी कुछ नहीं बदलते",
+          "केवल गति बदलते हैं",
+          "केवल द्रव्यमान बदलते हैं"
+        ],
+        "en": [
+          "Yes, they can change shape but not the state of motion",
+          "No, they never change anything",
+          "They change only motion",
+          "They change only mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दोनों ओर से बराबर खिंचाव (जैसे रस्सी/स्प्रिंग) आकार बदल देता है, पर विराम-गति नहीं।",
+        "en": "Equal pulls from both sides (as on a rope/spring) change shape but not rest/motion."
+      }
+    },
+    {
+      "id": "phy3_q122",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परिणामी बल किसे कहते हैं?",
+        "en": "What is the resultant force?"
+      },
+      "options": {
+        "hi": [
+          "बलों का औसत",
+          "वस्तु पर लगने वाले सभी बलों का संयुक्त (सदिश) प्रभाव",
+          "केवल सबसे बड़ा बल",
+          "केवल सबसे छोटा बल"
+        ],
+        "en": [
+          "The average of the forces",
+          "The combined (vector) effect of all forces acting on the object",
+          "Only the largest force",
+          "Only the smallest force"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सभी बलों को सदिश विधि से जोड़ने पर जो एक बल मिलता है, वही परिणामी बल है।",
+        "en": "Adding all forces as vectors gives the single resultant force."
+      }
+    },
+    {
+      "id": "phy3_q123",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वस्तु पर 3 N और 4 N के बल परस्पर समकोण पर लगे हैं — परिणामी बल का परिमाण —",
+        "en": "Forces of 3 N and 4 N act at right angles on an object — the magnitude of the resultant is —"
+      },
+      "options": {
+        "hi": [
+          "1 N",
+          "12 N",
+          "5 N",
+          "7 N"
+        ],
+        "en": [
+          "1 N",
+          "12 N",
+          "5 N",
+          "7 N"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पाइथागोरस: √(3² + 4²) = √25 = 5 N।",
+        "en": "Pythagoras: √(3² + 4²) = √25 = 5 N."
+      }
+    },
+    {
+      "id": "phy3_q124",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: बल में परिमाण और दिशा दोनों होते हैं। कथन B: बल में केवल दिशा होती है। सही विकल्प —",
+        "en": "Statement A: force has both magnitude and direction. Statement B: force has only direction. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A गलत, B सही",
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत"
+        ],
+        "en": [
+          "A wrong, B right",
+          "Both right",
+          "Both wrong",
+          "A right, B wrong"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल सदिश है — परिमाण भी, दिशा भी; केवल दिशा पर्याप्त नहीं।",
+        "en": "Force is a vector — magnitude as well as direction; direction alone is not enough."
+      }
+    },
+    {
+      "id": "phy3_q125",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो व्यक्ति एक मेज़ को एक ही दिशा में 25 N और 35 N के बल से धकेलते हैं — मेज़ पर कुल बल —",
+        "en": "Two people push a table in the same direction with 25 N and 35 N — the total force on the table is —"
+      },
+      "options": {
+        "hi": [
+          "60 N उसी दिशा में",
+          "10 N",
+          "25 N",
+          "35 N"
+        ],
+        "en": [
+          "60 N in that direction",
+          "10 N",
+          "25 N",
+          "35 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समान दिशा में बल जुड़ते हैं: 25 + 35 = 60 N।",
+        "en": "Forces in the same direction add: 25 + 35 = 60 N."
+      }
+    },
+    {
+      "id": "phy3_q126",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक वस्तु पर तीन बल: 5 N पूर्व, 5 N पश्चिम और 3 N उत्तर — परिणामी बल —",
+        "en": "Three forces on an object: 5 N east, 5 N west and 3 N north — the resultant is —"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "3 N उत्तर",
+          "13 N",
+          "3 N पूर्व"
+        ],
+        "en": [
+          "Zero",
+          "3 N north",
+          "13 N",
+          "3 N east"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पूर्व-पश्चिम के बल कट जाते हैं (5−5=0), बचता है 3 N उत्तर।",
+        "en": "The east-west forces cancel (5−5=0); 3 N north remains."
+      }
+    },
+    {
+      "id": "phy3_q127",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वस्तु पर बल लगाने पर भी उसकी अवस्था नहीं बदलती — इसका निष्कर्ष क्या है?",
+        "en": "A force is applied yet the object's state does not change — the conclusion is —"
+      },
+      "options": {
+        "hi": [
+          "वस्तु में द्रव्यमान नहीं है",
+          "वस्तु बहुत ठंडी है",
+          "लगने वाले बल संतुलित हैं (परिणामी शून्य)",
+          "बल कभी अवस्था नहीं बदलता"
+        ],
+        "en": [
+          "The object has no mass",
+          "The object is too cold",
+          "The forces acting are balanced (resultant zero)",
+          "Force never changes state"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "यदि अवस्था अपरिवर्तित रहे, तो परिणामी बल शून्य ही होगा।",
+        "en": "If the state stays unchanged, the resultant force must be zero."
+      }
+    },
+    {
+      "id": "phy3_q128",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पतंग हवा में टिकी रहती है — उस पर कितने बल कार्यरत हैं (न्यूनतम)?",
+        "en": "A kite stays steady in the sky — at least how many forces act on it?"
+      },
+      "options": {
+        "hi": [
+          "केवल एक",
+          "कोई नहीं",
+          "अर्ध",
+          "दो से अधिक (धागे का खिंचाव, वायु का बल आदि)"
+        ],
+        "en": [
+          "Only one",
+          "None",
+          "Half",
+          "More than two (the string's pull, the air's push, etc.)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्थिर पतंग पर धागे का तानाव, वायु प्रतिरोध इत्यादि कई बल परस्पर संतुलित कर रहे होते हैं।",
+        "en": "A steady kite has several forces — string tension, air resistance and so on — balancing each other."
+      }
+    },
+    {
+      "id": "phy3_q129",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गतिमान फुटबॉल को रोकने वाला गोलकीपर बल का कौन-सा प्रभाक दिखाता है?",
+        "en": "A goalkeeper stopping a moving football demonstrates which effect of force?"
+      },
+      "options": {
+        "hi": [
+          "चाल में परिवर्तन (गति से विराम)",
+          "केवल आकार में परिवर्तन",
+          "द्रव्यमान में परिवर्तन",
+          "कोई प्रभाव नहीं"
+        ],
+        "en": [
+          "A change of speed (motion to rest)",
+          "Only a change of shape",
+          "A change of mass",
+          "No effect"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हाथ का बल गेंद की चाल शून्य कर देता है।",
+        "en": "The hands' force brings the ball's speed to zero."
+      }
+    },
+    {
+      "id": "phy3_q130",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संतुलित और असंतुलित बलों का मुख्य अंतर क्या है?",
+        "en": "What is the key difference between balanced and unbalanced forces?"
+      },
+      "options": {
+        "hi": [
+          "असंतुलित बल रंग बदलता है",
+          "परिणामी बल शून्य बनाम परिणामी बल अशून्य",
+          "दोनों का परिणामी सदा समान होता है",
+          "संतुलित बल द्रव्यमान बदलता है"
+        ],
+        "en": [
+          "Unbalanced force changes colour",
+          "Resultant zero versus resultant non-zero",
+          "Both always have the same resultant",
+          "Balanced force changes mass"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "संतुलित: परिणामी 0, अवस्था अपरिवर्तित; असंतुलित: परिणामी ≠ 0, अवस्था बदलती है।",
+        "en": "Balanced: resultant 0, state unchanged; unbalanced: resultant ≠ 0, state changes."
+      }
+    },
+    {
+      "id": "phy3_q131",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान वस्तु पर दो बल विपरीत दिशाओं में 9 N और 4 N — वस्तु किस ओर त्वरित होगी?",
+        "en": "Two forces of 9 N and 4 N act on a box in opposite directions — which way does the box accelerate?"
+      },
+      "options": {
+        "hi": [
+          "किसी ओर नहीं",
+          "ऊपर की ओर",
+          "9 N वाले बल की ओर (परिणामी 5 N)",
+          "4 N वाले बल की ओर"
+        ],
+        "en": [
+          "Neither way",
+          "Upwards",
+          "Towards the 9 N force (resultant 5 N)",
+          "Towards the 4 N force"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "9 − 4 = 5 N, बड़े बल की दिशा में त्वरण।",
+        "en": "9 − 4 = 5 N; acceleration is towards the larger force."
+      }
+    },
+    {
+      "id": "phy3_q132",
+      "topic": "force-and-effects",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बक्से को धकेलने पर वह नहीं हिला — इसका सबसे तर्कसंगत कारण —",
+        "en": "A box is pushed but it does not move — the most reasonable explanation is —"
+      },
+      "options": {
+        "hi": [
+          "बक्से में बल नहीं लगा",
+          "बल हमेशा व्यर्थ होता है",
+          "बक्सा द्रव्यमानहीन है",
+          "धक्का बल घर्षण से संतुलित हो गया"
+        ],
+        "en": [
+          "No force acted on the box",
+          "Force is always useless",
+          "The box has no mass",
+          "The push was balanced by friction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "घर्षण बल धक्के के बराबर होने पर परिणामी शून्य — बक्सा विराम में रहता है।",
+        "en": "When friction equals the push, the resultant is zero — the box stays at rest."
+      }
+    },
+    {
+      "id": "phy3_q133",
+      "topic": "force-and-effects",
+      "difficulty": "hard",
+      "question": {
+        "hi": "10 N और 7 N के दो बलों के परिणामी का अधिकतम और न्यूनतम मान क्रमशः हो सकता है —",
+        "en": "The maximum and minimum possible resultants of two forces, 10 N and 7 N, are respectively —"
+      },
+      "options": {
+        "hi": [
+          "17 N और 3 N",
+          "17 N और 0 N",
+          "10 N और 7 N",
+          "70 N और 3 N"
+        ],
+        "en": [
+          "17 N and 3 N",
+          "17 N and 0 N",
+          "10 N and 7 N",
+          "70 N and 3 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समान दिशा में अधिकतम 10+7 = 17 N; विपरीत दिशा में न्यूनतम 10−7 = 3 N।",
+        "en": "Same direction gives the maximum 10+7 = 17 N; opposite directions the minimum 10−7 = 3 N."
+      }
+    },
+    {
+      "id": "phy3_q134",
+      "topic": "force-and-effects",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: संतुलित बल गति अवस्था नहीं बदलते। कथन B: असंतुलित बल वस्तु को त्वरित करता है। सही विकल्प —",
+        "en": "Statement A: balanced forces do not change the state of motion. Statement B: an unbalanced force accelerates the object. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही"
+        ],
+        "en": [
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "परिणामी शून्य → अवस्था अपरिवर्तित; परिणामी अशून्य → त्वरण।",
+        "en": "Zero resultant → no change of state; non-zero resultant → acceleration."
+      }
+    },
+    {
+      "id": "phy3_q135",
+      "topic": "force-and-effects",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक वस्तु पर चार बल कार्यरत हैं: 5 N पूर्व, 5 N पश्चिम, 3 N उत्तर, 3 N दक्षिण — वस्तु की अवस्था क्या होगी?",
+        "en": "Four forces act on an object: 5 N east, 5 N west, 3 N north, 3 N south — what happens to the object's state?"
+      },
+      "options": {
+        "hi": [
+          "वह पूर्व की ओर चलेगी",
+          "वह घूमेगी",
+          "परिणामी शून्य — अवस्था अपरिवर्तित रहेगी",
+          "वह उत्तर की ओर चलेगी"
+        ],
+        "en": [
+          "It moves east",
+          "It spins",
+          "Resultant zero — its state stays unchanged",
+          "It moves north"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रत्येक दिशा के जोड़े (5−5, 3−3) शून्य — कुल परिणामी शून्य।",
+        "en": "Each opposing pair (5−5, 3−3) cancels — the total resultant is zero."
+      }
+    },
+    {
+      "id": "phy3_q136",
+      "topic": "force-and-effects",
+      "difficulty": "hard",
+      "question": {
+        "hi": "जब बल की दिशा गति की दिशा के लंबवत हो, तो बल का मुख्य प्रभाव होता है —",
+        "en": "When the force is perpendicular to the direction of motion, its main effect is —"
+      },
+      "options": {
+        "hi": [
+          "केवल चाल बदलना",
+          "द्रव्यमान बदलना",
+          "कोई प्रभाव नहीं",
+          "केवल गति की दिशा बदलना, चाल नहीं"
+        ],
+        "en": [
+          "Changing only the speed",
+          "Changing the mass",
+          "No effect",
+          "Changing only the direction of motion, not the speed"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लंबवत बल पथ को मोड़ता है (वृत्तीय गति के समान) पर चाल नहीं बदलता।",
+        "en": "A perpendicular force bends the path (as in circular motion) without changing the speed."
+      }
+    },
+    {
+      "id": "phy3_q137",
+      "topic": "force-and-effects",
+      "difficulty": "hard",
+      "question": {
+        "hi": "रस्साकशी में टीम A 100 N तथा टीम B 80 N बल से खींच रही है — रस्सी पर परिणामी बल और दिशा —",
+        "en": "In a tug of war team A pulls with 100 N and team B with 80 N — the resultant force on the rope and its direction —"
+      },
+      "options": {
+        "hi": [
+          "20 N, टीम A की ओर",
+          "180 N, टीम A की ओर",
+          "20 N, टीम B की ओर",
+          "शून्य, रस्सी स्थिर"
+        ],
+        "en": [
+          "20 N, towards team A",
+          "180 N, towards team A",
+          "20 N, towards team B",
+          "Zero, the rope stays still"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "100 − 80 = 20 N परिणामी, प्रबलतर टीम A की ओर।",
+        "en": "100 − 80 = 20 N resultant, towards the stronger team A."
+      }
+    },
+    {
+      "id": "phy3_q138",
+      "topic": "force-and-effects",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही रेखा में तीन बल: +6 N, −6 N और +2 N (दाएँ धनात्मक) — वस्तु —",
+        "en": "Three collinear forces: +6 N, −6 N and +2 N (rightward positive) — the object —"
+      },
+      "options": {
+        "hi": [
+          "14 N दाएँ जाएगी",
+          "2 N दाएँ के त्वरण से चलेगी",
+          "6 N बाएँ जाएगी",
+          "पूर्ण विराम में रहेगी"
+        ],
+        "en": [
+          "It goes 14 N right",
+          "It accelerates with 2 N to the right",
+          "It goes 6 N left",
+          "It stays perfectly at rest"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "+6 − 6 + 2 = +2 N — शेष 2 N दाएँ, इसलिए दाएँ त्वरण।",
+        "en": "+6 − 6 + 2 = +2 N — a leftover 2 N rightward, so rightward acceleration."
+      }
+    },
+    {
+      "id": "phy3_q139",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "न्यूटन का प्रथम नियम किस नाम से जाना जाता है?",
+        "en": "Newton's first law is known by which name?"
+      },
+      "options": {
+        "hi": [
+          "क्रिया-प्रतिक्रिया का नियम",
+          "बल का नियम",
+          "जड़त्व का नियम",
+          "संवेग का नियम"
+        ],
+        "en": [
+          "The law of action-reaction",
+          "The law of force",
+          "The law of inertia",
+          "The law of momentum"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रथम नियम जड़त्व का नियम है — वस्तु अपनी अवस्था बनाए रखती है।",
+        "en": "The first law is the law of inertia — an object keeps its state."
+      }
+    },
+    {
+      "id": "phy3_q140",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जड़त्व का माप किस भौतिक राशि से होता है?",
+        "en": "Which physical quantity measures inertia?"
+      },
+      "options": {
+        "hi": [
+          "आयतन",
+          "घनत्व",
+          "रंग",
+          "द्रव्यमान"
+        ],
+        "en": [
+          "Volume",
+          "Density",
+          "Colour",
+          "Mass"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव्यमान जितना अधिक, जड़त्व उतना अधिक — द्रव्यमान जड़त्व का माप है।",
+        "en": "The greater the mass, the greater the inertia — mass measures inertia."
+      }
+    },
+    {
+      "id": "phy3_q141",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खड़ी बस अचानक चलने पर यात्री किस ओर झुकता है?",
+        "en": "When a standing bus starts suddenly, which way do passengers lean?"
+      },
+      "options": {
+        "hi": [
+          "पीछे की ओर",
+          "आगे की ओर",
+          "ऊपर की ओर",
+          "किसी ओर नहीं"
+        ],
+        "en": [
+          "Backward",
+          "Forward",
+          "Upward",
+          "Neither way"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शरीर विराम में रहना चाहता है (विराम की जड़त्व), पैर बस के साथ चलते हैं — धड़ पीछे।",
+        "en": "The body wants to stay at rest (inertia of rest) while the feet move with the bus — the torso lags backward."
+      }
+    },
+    {
+      "id": "phy3_q142",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चलती बस में अचानक ब्रेक लगे तो यात्री किस ओर गिरता है?",
+        "en": "When a moving bus brakes suddenly, which way does a passenger fall?"
+      },
+      "options": {
+        "hi": [
+          "नीचे ही नहीं गिरता",
+          "आगे की ओर",
+          "पीछे की ओर",
+          "बाएँ"
+        ],
+        "en": [
+          "Does not fall at all",
+          "Forward",
+          "Backward",
+          "To the left"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गति की जड़त्व से धड़ आगे बढ़ता रहता है जब तक बस रुक जाती है।",
+        "en": "Inertia of motion keeps the torso moving forward while the bus stops."
+      }
+    },
+    {
+      "id": "phy3_q143",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "न्यूटन के अनुसार वस्तु अपनी अवस्था तब तक नहीं बदलती जब तक —",
+        "en": "According to Newton, an object does not change its state until —"
+      },
+      "options": {
+        "hi": [
+          "उसका रंग न बदले",
+          "सूर्य न उगे",
+          "उस पर बाह्य असंतुलित बल न लगे",
+          "उसे छुआ न जाए"
+        ],
+        "en": [
+          "Its colour changes",
+          "The sun rises",
+          "An external unbalanced force acts on it",
+          "It is touched"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रथम नियम: बाह्य असंतुलित बल के बिना अवस्था परिवर्तन नहीं।",
+        "en": "First law: no change of state without an external unbalanced force."
+      }
+    },
+    {
+      "id": "phy3_q144",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान अधिक होने पर जड़त्व —",
+        "en": "If the mass is greater, the inertia —"
+      },
+      "options": {
+        "hi": [
+          "कम होती है",
+          "समान रहती है",
+          "शून्य हो जाती है",
+          "अधिक होती है"
+        ],
+        "en": [
+          "Is smaller",
+          "Stays the same",
+          "Becomes zero",
+          "Is greater"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव्यमान जड़त्व का माप है — द्रव्यमान बढ़ा तो जड़त्व बढ़ी।",
+        "en": "Mass measures inertia — more mass, more inertia."
+      }
+    },
+    {
+      "id": "phy3_q145",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जड़त्व का अर्थ है —",
+        "en": "Inertia means —"
+      },
+      "options": {
+        "hi": [
+          "अवस्था न बदलने का प्रवृत्ति (गुण)",
+          "गति करने की इच्छा",
+          "बल लगाना",
+          "वेग मापना"
+        ],
+        "en": [
+          "The tendency (property) of not changing one's state",
+          "The desire to move",
+          "Applying a force",
+          "Measuring velocity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जड़त्व = विराम या गति की अवस्था में बने रहने का गुण।",
+        "en": "Inertia = the property of remaining in one's state of rest or motion."
+      }
+    },
+    {
+      "id": "phy3_q146",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पेड़ की शाखा हिलाने पर फल गिर जाता है — यह किस जड़त्व का उदाहरण है?",
+        "en": "Shaking a branch makes the fruit fall — this is an example of which inertia?"
+      },
+      "options": {
+        "hi": [
+          "जड़त्व नहीं है",
+          "विराम की जड़त्व",
+          "गति की जड़त्व",
+          "दिशा की जड़त्व"
+        ],
+        "en": [
+          "No inertia at all",
+          "Inertia of rest",
+          "Inertia of motion",
+          "Inertia of direction"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शाखा हिल जाती है पर फल विराम में रहना चाहता है — डंठल टूटकर फल गिरता है।",
+        "en": "The branch moves but the fruit tends to stay at rest — the stalk snaps and it falls."
+      }
+    },
+    {
+      "id": "phy3_q147",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कालीन (गिलासै) को पीटने पर धूल झड़ जाती है — कारण —",
+        "en": "Beating a carpet shakes off the dust — the reason is —"
+      },
+      "options": {
+        "hi": [
+          "धूल का द्रव्यमान शून्य है",
+          "कालीन में चुंबकत्व है",
+          "धूल विराम की जड़त्व से पीछे रह जाती है",
+          "कालीन धूल को खींचता है"
+        ],
+        "en": [
+          "The dust has zero mass",
+          "The carpet is magnetic",
+          "The dust lags behind due to inertia of rest",
+          "The carpet pulls the dust"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कालीन गति करता है, धूल कण विराम में रहना चाहते हैं — वे झड़ जाते हैं।",
+        "en": "The carpet moves; the dust particles tend to stay at rest and drop off."
+      }
+    },
+    {
+      "id": "phy3_q148",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "काँच के गिलास पर कार्ड रखकर उस पर सिक्का रखा है; कार्ड को तेज़ी से झटका देने पर सिक्का —",
+        "en": "A coin rests on a card over a glass; flicking the card sharply makes the coin —"
+      },
+      "options": {
+        "hi": [
+          "कार्ड के साथ उड़ जाता है",
+          "ऊपर उठ जाता है",
+          "गायब हो जाता है",
+          "गिलास में गिरता है"
+        ],
+        "en": [
+          "Fly off with the card",
+          "Rise up",
+          "Vanish",
+          "Drop into the glass"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सिक्का विराम में रहता है, कार्ड निकल जाता है — सिक्का नीचे गिरता है।",
+        "en": "The coin stays at rest while the card slides away — it drops into the glass."
+      }
+    },
+    {
+      "id": "phy3_q149",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दौड़ता एथलीट तुरंत क्यों नहीं रुक पाता?",
+        "en": "Why cannot a sprinter stop instantly?"
+      },
+      "options": {
+        "hi": [
+          "गति की जड़त्व के कारण",
+          "विराम की जड़त्व के कारण",
+          "उसका द्रव्यमान शून्य है",
+          "उसकी चाल सदा समान रहती है"
+        ],
+        "en": [
+          "Because of inertia of motion",
+          "Because of inertia of rest",
+          "His mass is zero",
+          "His speed is always constant"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गति की जड़त्व शरीर को चलते रहने पर मजबूर करती है।",
+        "en": "Inertia of motion keeps the body moving forward."
+      }
+    },
+    {
+      "id": "phy3_q150",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गाड़ियों में सीटबेल्ट क्यों होती है?",
+        "en": "Why do vehicles have seat belts?"
+      },
+      "options": {
+        "hi": [
+          "गाड़ी को तेज़ करने के लिए",
+          "अचानक ब्रेक पर आगे गिरने से बचाने (जड़त्व)",
+          "गाड़ी सुंदर दिखाने के लिए",
+          "बैठने का आराम बढ़ाने के लिए"
+        ],
+        "en": [
+          "To speed up the vehicle",
+          "To prevent being thrown forward on sudden braking (inertia)",
+          "To beautify the vehicle",
+          "For sitting comfort"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ब्रेक पर शरीर गति में बना रहता है; बेल्ट उसे रोकती है।",
+        "en": "On braking the body keeps moving; the belt restrains it."
+      }
+    },
+    {
+      "id": "phy3_q151",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जड़त्व की अवधारणा सर्वप्रथम किसने दी?",
+        "en": "Who first gave the concept of inertia?"
+      },
+      "options": {
+        "hi": [
+          "आइंस्टीन",
+          "आर्किमिडीज",
+          "गैलीलियो",
+          "न्यूटन"
+        ],
+        "en": [
+          "Einstein",
+          "Archimedes",
+          "Galileo",
+          "Newton"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गैलीलियो ने प्रयोगों से जड़त्व की अवधारणा दी; न्यूटन ने इसे नियम रूप दिया।",
+        "en": "Galileo arrived at inertia through experiments; Newton gave it the form of a law."
+      }
+    },
+    {
+      "id": "phy3_q152",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जड़त्व के कितने प्रकार बताए जाते हैं?",
+        "en": "How many kinds of inertia are usually described?"
+      },
+      "options": {
+        "hi": [
+          "दो — विराम, गति",
+          "एक ही",
+          "चार",
+          "तीन — विराम, गति, दिशा"
+        ],
+        "en": [
+          "Two — rest, motion",
+          "Only one",
+          "Four",
+          "Three — rest, motion, direction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विराम की जड़त्व, गति की जड़त्व और दिशा की जड़त्व — तीन प्रकार।",
+        "en": "Inertia of rest, inertia of motion and inertia of direction — three kinds."
+      }
+    },
+    {
+      "id": "phy3_q153",
+      "topic": "law-of-inertia",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संतुलित बलों के अधीन विरामावस्था वस्तु —",
+        "en": "An object at rest under balanced forces will —"
+      },
+      "options": {
+        "hi": [
+          "विराम में ही रहेगी",
+          "चलने लगेगी",
+          "उड़ने लगेगी",
+          "घूमने लगेगी"
+        ],
+        "en": [
+          "Remain at rest",
+          "Start moving",
+          "Start flying",
+          "Start spinning"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "परिणामी शून्य हो तो प्रथम नियम के अनुसार अवस्था अपरिवर्तित — विराम ही रहेगा।",
+        "en": "With zero resultant the first law keeps the state unchanged — it stays at rest."
+      }
+    },
+    {
+      "id": "phy3_q154",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चलती बस से उतरते समय यात्री अक्सर आगे क्यों गिरता है?",
+        "en": "Why does a passenger often lurch forward while getting off a moving bus?"
+      },
+      "options": {
+        "hi": [
+          "पायदान चिकनी होती है",
+          "पायदान रुकती है पर शरीर गति में बना रहता है",
+          "शरीर हल्का हो जाता है",
+          "बस पीछे की ओर खिंचती है"
+        ],
+        "en": [
+          "The step is slippery",
+          "The step stops but the body stays in motion",
+          "The body becomes lighter",
+          "The bus pulls backward"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जमीन पर पैड रुक जाता है, धड़ गति की जड़त्व से आगे बढ़ता रहता है।",
+        "en": "The foot on the ground stops; inertia of motion carries the torso forward."
+      }
+    },
+    {
+      "id": "phy3_q155",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ट्रेन में खड़ा यात्री ट्रेन के धीमा होने पर आगे लड़खड़ाता है — कारण —",
+        "en": "A standing rail passenger stumbles forward as the train slows — because —"
+      },
+      "options": {
+        "hi": [
+          "ट्रेन ऊपर उठती है",
+          "यात्री का द्रव्यमान घटता है",
+          "गति की जड़त्व शरीर को आगे ढकेलती रहती है",
+          "विराम की जड़त्व शरीर को रोकती है"
+        ],
+        "en": [
+          "The train rises up",
+          "The passenger's mass falls",
+          "Inertia of motion keeps pushing the body forward",
+          "Inertia of rest stops the body"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ट्रेन धीमी होती है, शरीर पुरानी चाल से चलता रहना चाहता है।",
+        "en": "The train slows, but the body tends to continue at the old speed."
+      }
+    },
+    {
+      "id": "phy3_q156",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेड़ की शाखा को झटका देने पर पके आम गिर जाते हैं — कारण लिखिए —",
+        "en": "Jerk the branch of a tree and ripe mangoes fall — state the reason —"
+      },
+      "options": {
+        "hi": [
+          "आम हल्के होने से उड़ जाते हैं",
+          "शाखा आम को खींचती है",
+          "आम में बल नहीं लगता",
+          "शाखा चलती है पर आम विराम में रहना चाहता है, डंठल टूट जाता है"
+        ],
+        "en": [
+          "The mangoes, being light, fly off",
+          "The branch pulls the mango",
+          "No force acts on the mango",
+          "The branch moves while the mango tends to stay at rest; the stalk snaps"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विराम की जड़त्व: शाखा+डंठल हिलते हैं, फल स्थिर — जुड़ाव टूटता है।",
+        "en": "Inertia of rest: branch and stalk move, the fruit stays put — the joint breaks."
+      }
+    },
+    {
+      "id": "phy3_q157",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हथौड़े का हत्था कसने के लिए उसे जमीन पर क्यों पटकते हैं?",
+        "en": "Why is a hammer struck on the ground to tighten its loose head?"
+      },
+      "options": {
+        "hi": [
+          "हत्था गति में रहता है, लोहा रुकता है — सिर चढ़ जाता है",
+          "जमीन चुंबक की तरह खींचती है",
+          "लोहे का द्रव्यमान बदल जाता है",
+          "हथौड़ा गर्म हो जाता है"
+        ],
+        "en": [
+          "The handle keeps moving while the head stops — the head seats itself",
+          "The ground pulls like a magnet",
+          "The iron head's mass changes",
+          "The hammer heats up"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जमीन पर पटकने पर हत्था अचानक रुकता है, लोहे का सिर गति की जड़त्व से आगे खिसककर कस जाता है।",
+        "en": "On striking, the handle stops abruptly; the iron head, by inertia of motion, slides on and tightens."
+      }
+    },
+    {
+      "id": "phy3_q158",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1 kg रेत और 5 kg रेत — किसे हिलाना अधिक कठिन है और क्यों?",
+        "en": "1 kg of sand versus 5 kg of sand — which is harder to shake and why?"
+      },
+      "options": {
+        "hi": [
+          "5 kg — वह हल्का है",
+          "5 kg — क्योंकि उसका द्रव्यमान व जड़त्व अधिक है",
+          "1 kg — वह अधिक सघन है",
+          "दोनों समान"
+        ],
+        "en": [
+          "5 kg — it is lighter",
+          "5 kg — its mass and inertia are greater",
+          "1 kg — it is denser",
+          "Both equally"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अधिक द्रव्यमान = अधिक जड़त्व = अवस्था बदलने में अधिक बल।",
+        "en": "More mass = more inertia = more force needed to change its state."
+      }
+    },
+    {
+      "id": "phy3_q159",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: जड़त्व द्रव्यमान के समानुपाती है। कथन B: हल्की वस्तु में जड़त्व सदा अधिक होती है। सही विकल्प —",
+        "en": "Statement A: inertia is proportional to mass. Statement B: a lighter object always has more inertia. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत",
+          "A गलत, B सही"
+        ],
+        "en": [
+          "Both right",
+          "Both wrong",
+          "A right, B wrong",
+          "A wrong, B right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जड़त्व ∝ द्रव्यमान — हल्की वस्तु में जड़त्व कम होती है, अधिक नहीं।",
+        "en": "Inertia ∝ mass — a lighter object has less inertia, not more."
+      }
+    },
+    {
+      "id": "phy3_q160",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पैडल न चलाने पर भी साइकिल कुछ दूर तक चलती रहती है — कारण —",
+        "en": "Even without pedalling a bicycle keeps rolling some distance — because —"
+      },
+      "options": {
+        "hi": [
+          "साइकिल पर बल लगता रहता है",
+          "पहिए ऊर्जा बनाते हैं",
+          "साइकिल का द्रव्यमान बढ़ता है",
+          "गति की जड़त्व (घर्षण धीरे-धीरे रोकता है)"
+        ],
+        "en": [
+          "A force keeps acting on it",
+          "The wheels create energy",
+          "The bicycle's mass increases",
+          "Inertia of motion (friction stops it gradually)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गति की जड़त्व चलायमान रखती है; घर्षण ही धीरे-धीरे उसे रोकता है।",
+        "en": "Inertia of motion keeps it rolling; friction alone slows it gradually."
+      }
+    },
+    {
+      "id": "phy3_q161",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'आराम का नियम' किस नियम का लोक-नाम है?",
+        "en": "'The law of taking it easy' is the folk nickname of which law?"
+      },
+      "options": {
+        "hi": [
+          "न्यूटन का प्रथम नियम (जड़त्व)",
+          "न्यूटन का द्वितीय नियम",
+          "न्यूटन का तृतीय नियम",
+          "गुरुत्वाकर्षण का नियम"
+        ],
+        "en": [
+          "Newton's first law (inertia)",
+          "Newton's second law",
+          "Newton's third law",
+          "The law of gravitation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रथम नियम कहता है — बल न लगे तो वस्तु 'आराम' (अपनी अवस्था) में रहती है।",
+        "en": "The first law says — without a force the object 'relaxes' in its own state."
+      }
+    },
+    {
+      "id": "phy3_q162",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चलती ट्रेन की खिड़की से सीधे छोड़ा सिक्का सीधी रेखा में नीचे क्यों गिरता है (ट्रेन की दिशा में आगे नहीं गिरता, यात्री के लिए)?",
+        "en": "A coin dropped from the window of a moving train falls straight down relative to the train's path — why does it keep moving along with the train initially?"
+      },
+      "options": {
+        "hi": [
+          "सिक्के में कोई द्रव्यमान नहीं",
+          "सिक्के में गति की जड़त्व है — वह ट्रेन की क्षैतिज चाल बनाए रखता है",
+          "सिक्का बहुत भारी है",
+          "हवा उसे ऊपर उठाती है"
+        ],
+        "en": [
+          "The coin has no mass",
+          "The coin has inertia of motion — it retains the train's horizontal speed",
+          "The coin is very heavy",
+          "The air lifts it"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "छोड़ते समय सिक्के की क्षैतिज चाल ट्रेन जितनी होती है; जड़त्व उसे तब तक बनाए रखती है।",
+        "en": "At release the coin's horizontal speed equals the train's; inertia preserves it."
+      }
+    },
+    {
+      "id": "phy3_q163",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दौड़ते हुए एथलीट लंबी छलांग क्यों लगा पाता है?",
+        "en": "Why can a running athlete leap a long distance?"
+      },
+      "options": {
+        "hi": [
+          "उसका द्रव्यमान उछलते ही शून्य हो जाता है",
+          "धरती उसे धकेलती है",
+          "दौड़ की गति जड़त्व से शरीर में बनी रहती है और उसी के साथ वह उछलता है",
+          "वह हवा में तैरता है"
+        ],
+        "en": [
+          "His mass becomes zero as he leaps",
+          "The earth pushes him",
+          "The run-up speed stays with the body due to inertia and carries the leap",
+          "He floats in the air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दौड़ की चाल पहले से शरीर में होती है; कूदते समय वही चाल आगे ले जाती है।",
+        "en": "The body already has the run-up speed; that carried speed extends the jump."
+      }
+    },
+    {
+      "id": "phy3_q164",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटरसाइकिल सवार ब्रेक लगाने पर आगे क्यों झुक जाता है?",
+        "en": "Why does a motorcyclist pitch forward on braking?"
+      },
+      "options": {
+        "hi": [
+          "शरीर रुकता है पर गाड़ी चलती रहती है",
+          "हेलमेट भारी होता है",
+          "सड़क ऊपर उठ जाती है",
+          "गाड़ी रुकती है पर शरीर गति में बना रहता है"
+        ],
+        "en": [
+          "The body stops but the bike keeps moving",
+          "The helmet is heavy",
+          "The road rises up",
+          "The bike stops but the rider's body stays in motion"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गति की जड़त्व — धड़ आगे बढ़ता रहता है जब सवारी रुक जाती है।",
+        "en": "Inertia of motion — the torso continues as the bike halts."
+      }
+    },
+    {
+      "id": "phy3_q165",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नियत वेग से चलाने के लिए बल आवश्यक है या नहीं?",
+        "en": "Is a force necessary to keep moving at a constant velocity?"
+      },
+      "options": {
+        "hi": [
+          "नहीं — बल केवल अवस्था बदलने के लिए चाहिए",
+          "हाँ, बिना बल चल ही नहीं सकते",
+          "हाँ, हर क्षण बल चाहिए",
+          "केवल मोड़ पर बल चाहिए"
+        ],
+        "en": [
+          "No — force is needed only to change the state",
+          "Yes, without force one cannot move at all",
+          "Yes, force is needed every moment",
+          "Force is needed only at turns"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रथम नियम: नियत वेग किसी बल के बिना भी बना रहता है।",
+        "en": "First law: constant velocity persists without any force."
+      }
+    },
+    {
+      "id": "phy3_q166",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि घर्षण और बाह्य बल पूरी तरह समाप्त हो जाएँ तो गतिमान वस्तु —",
+        "en": "If friction and external forces vanish completely, a moving object will —"
+      },
+      "options": {
+        "hi": [
+          "उल्टी दिशा में चलेगी",
+          "सदा के लिए उसी चाल से सीधी रेखा में चलती रहेगी",
+          "तुरंत रुक जाएगी",
+          "धीमी होकर रुकेगी"
+        ],
+        "en": [
+          "Move in the reverse direction",
+          "Keep moving in a straight line at the same speed forever",
+          "Stop at once",
+          "Slow down and stop"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बिना बल बदलाव नहीं — गति अनंत काल तक अपरिवर्तित।",
+        "en": "With no force there is no change — the motion continues unaltered indefinitely."
+      }
+    },
+    {
+      "id": "phy3_q167",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जड़त्व का मात्रक क्या माना जाता है?",
+        "en": "What is regarded as the unit of inertia?"
+      },
+      "options": {
+        "hi": [
+          "मीटर",
+          "मीटर/सेकंड",
+          "किलोग्राम (द्रव्यमान का मात्रक, क्योंकि द्रव्यमान ही जड़त्व का माप है)",
+          "न्यूटन"
+        ],
+        "en": [
+          "Metre",
+          "Metre/second",
+          "Kilogram (the unit of mass, since mass itself measures inertia)",
+          "Newton"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव्यमान जड़त्व का माप है, इसलिए जड़त्व का मात्रक द्रव्यमान जैसा ही — किलोग्राम।",
+        "en": "Since mass measures inertia, inertia carries mass's unit — the kilogram."
+      }
+    },
+    {
+      "id": "phy3_q168",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: विरामावस्था वस्तु पर कोई बल नहीं लग रहा हो — यह आवश्यक नहीं। कथन B: विरामावस्था में वस्तु पर लगे सभी बल परस्पर संतुलित होते हैं। सही विकल्प —",
+        "en": "Statement A: an object at rest need not have zero forces acting on it. Statement B: in rest, all forces on the object balance one another. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विराम में बल हो सकते हैं, पर उनका परिणामी शून्य होता है — दोनों कथन सही।",
+        "en": "Forces may act at rest, but their resultant is zero — both statements hold."
+      }
+    },
+    {
+      "id": "phy3_q169",
+      "topic": "law-of-inertia",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खिलौना गाड़ी को धक्का देकर छोड़ देने पर वह धीरे-धीरे रुक जाती है — रुकने का कारण —",
+        "en": "A toy car pushed and released slows to a stop — what stops it?"
+      },
+      "options": {
+        "hi": [
+          "जमीन व हवा का घर्षण बल",
+          "धक्के का बल",
+          "गाड़ी की जड़त्व",
+          "गाड़ी का आकार"
+        ],
+        "en": [
+          "The friction of the ground and the air",
+          "The force of the push",
+          "The car's inertia",
+          "The car's shape"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "छोड़ने के बाद धक्का समाप्त; घर्षण ही अवस्था बदलकर रोकता है।",
+        "en": "The push ends at release; friction alone changes the state and stops it."
+      }
+    },
+    {
+      "id": "phy3_q170",
+      "topic": "law-of-inertia",
+      "difficulty": "hard",
+      "question": {
+        "hi": "5 m/s से चलती वस्तु पर सभी बल हटा लिए जाएँ (घर्षण शून्य) — आगे उसकी चाल —",
+        "en": "All forces on an object moving at 5 m/s are removed (zero friction) — thereafter its speed —"
+      },
+      "options": {
+        "hi": [
+          "घटकर ऋणात्मक होगी",
+          "5 m/s ही बनी रहेगी",
+          "धीरे-धीरे शून्य होगी",
+          "बढ़ती रहेगी"
+        ],
+        "en": [
+          "Becomes negative",
+          "Stays at 5 m/s",
+          "Gradually becomes zero",
+          "Keeps increasing"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रथम नियम — बल हटे तो अवस्था (5 m/s की समान चाल) अपरिवर्तित रहती है।",
+        "en": "First law — remove the forces and the state (5 m/s uniform) is preserved."
+      }
+    },
+    {
+      "id": "phy3_q171",
+      "topic": "law-of-inertia",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: जड़त्व कोई बल नहीं, वस्तु का गुण है। कथन B: प्रथम नियम द्वितीय नियम का ही विशेष रूप है (a = 0 की स्थिति)। सही विकल्प —",
+        "en": "Statement A: inertia is not a force but a property of the object. Statement B: the first law is a special case of the second (the a = 0 case). The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जड़त्व गुण है, बल नहीं; F = ma में F = 0 रखने पर a = 0 — वही प्रथम नियम।",
+        "en": "Inertia is a property, not a force; putting F = 0 in F = ma gives a = 0 — the first law."
+      }
+    },
+    {
+      "id": "phy3_q172",
+      "topic": "law-of-inertia",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कपड़े पर पानी छिड़कने के लिए कपड़े को जोर से हिलाया जाता है — पानी के छूटने का कारण —",
+        "en": "Wet clothes are jerked hard to sprinkle out water — the reason the water comes off is —"
+      },
+      "options": {
+        "hi": [
+          "कपड़े में छिद्र होते हैं",
+          "पानी चिपकने वाला नहीं है",
+          "कपड़ा गर्म हो जाता है",
+          "कपड़ा गति करता है, पानी की बूँदें विराम/पुरानी गति में रहना चाहती हैं और अलग हो जाती हैं"
+        ],
+        "en": [
+          "Clothes have pores",
+          "Water is not sticky",
+          "The cloth heats up",
+          "The cloth moves while the droplets tend to keep their earlier state and separate"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "झटके पर कपड़ा रुक-चलता है; बूँदें जड़त्व से पुरानी गति में बनी रहकर कपड़े से अलग हो जाती हैं।",
+        "en": "The jerking cloth changes state; the drops, keeping theirs by inertia, separate."
+      }
+    },
+    {
+      "id": "phy3_q173",
+      "topic": "law-of-inertia",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निम्न में से गति की जड़त्व के उदाहरण चुनिए — (i) ब्रेक पर यात्री आगे (ii) धूल झड़ना (iii) दौड़ता एथलीट रुकने में देर (iv) सिक्का गिलास में गिरना —",
+        "en": "Pick the examples of inertia of MOTION — (i) passenger forward on braking (ii) dust dropping off (iii) a sprinter taking time to stop (iv) coin falling into a glass —"
+      },
+      "options": {
+        "hi": [
+          "केवल (i) और (iii)",
+          "केवल (ii) और (iv)",
+          "चारों",
+          "केवल (i)"
+        ],
+        "en": [
+          "Only (i) and (iii)",
+          "Only (ii) and (iv)",
+          "All four",
+          "Only (i)"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "(ii) और (iv) विराम की जड़त्व हैं; चलती अवस्था बनी रहना (i) व (iii) में है।",
+        "en": "(ii) and (iv) are inertia of rest; continuing motion appears in (i) and (iii)."
+      }
+    },
+    {
+      "id": "phy3_q174",
+      "topic": "law-of-inertia",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बस अचानक मुड़ती है तो यात्री बाहर की ओर झुकता है — यह किस जड़त्व से जुड़ा है?",
+        "en": "When a bus turns sharply, passengers lean outward — which inertia is this linked to?"
+      },
+      "options": {
+        "hi": [
+          "किसी से नहीं",
+          "दिशा की जड़त्व",
+          "विराम की जड़त्व",
+          "द्रव्यमान की जड़त्व"
+        ],
+        "en": [
+          "None of these",
+          "Inertia of direction",
+          "Inertia of rest",
+          "Inertia of mass"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शरीर पुरानी सीधी दिशा में चलना चाहता है — दिशा की जड़त्व।",
+        "en": "The body tends to continue in its old straight path — inertia of direction."
+      }
+    },
+    {
+      "id": "phy3_q175",
+      "topic": "law-of-inertia",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सिक्का-कार्ड प्रयोग में कार्ड को तेज़ झटका देना क्यों जरूरी है?",
+        "en": "Why must the card in the coin-and-card trick be flicked quickly?"
+      },
+      "options": {
+        "hi": [
+          "कार्ड हल्का होना चाहिए",
+          "सिक्का गर्म होना चाहिए",
+          "धीरे खींचने पर घर्षण सिक्के को भी कार्ड के साथ खींच लेता है; तेज़ झटके पर सिक्का लगभग विराम में रहता है",
+          "तेज़ झटके से सिक्का चिपक जाता है"
+        ],
+        "en": [
+          "The card must be light",
+          "The coin must be warm",
+          "A slow pull lets friction drag the coin along with the card; a sharp flick leaves the coin nearly at rest",
+          "A sharp flick glues the coin"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "झटका तेज़ = कार्ड-सिक्का संपर्क समय अल्प = घर्षण का संवेग छोटा — सिक्का गिरता है नीचे।",
+        "en": "A sharp flick means a tiny contact time, so friction transfers negligible momentum — the coin drops."
+      }
+    },
+    {
+      "id": "phy3_q176",
+      "topic": "law-of-inertia",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किस अवस्था में वस्तु पर परिणामी बल शून्य होता है?",
+        "en": "In which condition is the net force on an object zero?"
+      },
+      "options": {
+        "hi": [
+          "केवल विरामावस्था में",
+          "केवल त्वरित गति में",
+          "केवल वृत्तीय गति में",
+          "विरामावस्था या नियत वेग से सीधी रेखा में गति — दोनों में"
+        ],
+        "en": [
+          "Only at rest",
+          "Only in accelerated motion",
+          "Only in circular motion",
+          "Both at rest and moving in a straight line at constant velocity"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "a = 0 की दोनों स्थितियाँ (विराम और नियत वेग) में F = 0।",
+        "en": "F = 0 in both a = 0 situations — rest and constant-velocity straight-line motion."
+      }
+    },
+    {
+      "id": "phy3_q177",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "न्यूटन के द्वितीय नियम का गणितीय रूप क्या है?",
+        "en": "What is the mathematical form of Newton's second law?"
+      },
+      "options": {
+        "hi": [
+          "F = ma",
+          "F = mv",
+          "F = m/v",
+          "F = m + a"
+        ],
+        "en": [
+          "F = ma",
+          "F = mv",
+          "F = m/v",
+          "F = m + a"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "द्वितीय नियम: बल = द्रव्यमान × त्वरण।",
+        "en": "Second law: force = mass × acceleration."
+      }
+    },
+    {
+      "id": "phy3_q178",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संवेग (momentum) किन राशियों का गुणनफल है?",
+        "en": "Momentum is the product of which quantities?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान × आयतन",
+          "द्रव्यमान × वेग",
+          "द्रव्यमान × त्वरण",
+          "बल × समय"
+        ],
+        "en": [
+          "Mass × volume",
+          "Mass × velocity",
+          "Mass × acceleration",
+          "Force × time"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "संवेग p = mv — द्रव्यमान और वेग का गुणनफल।",
+        "en": "Momentum p = mv — the product of mass and velocity."
+      }
+    },
+    {
+      "id": "phy3_q179",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संवेग का SI मात्रक क्या है?",
+        "en": "What is the SI unit of momentum?"
+      },
+      "options": {
+        "hi": [
+          "जूल (J)",
+          "किलोग्राम (kg)",
+          "किलोग्राम·मीटर/सेकंड (kg·m/s)",
+          "न्यूटन (N)"
+        ],
+        "en": [
+          "Joule (J)",
+          "Kilogram (kg)",
+          "Kilogram-metre/second (kg·m/s)",
+          "Newton (N)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "p = mv से मात्रक = kg × m/s = kg·m/s।",
+        "en": "From p = mv the unit is kg × m/s = kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q180",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "न्यूटन के अनुसार बल किसकी परिवर्तन-दर है?",
+        "en": "According to Newton, force is the rate of change of what?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान",
+          "आयतन",
+          "लंबाई",
+          "संवेग"
+        ],
+        "en": [
+          "Mass",
+          "Volume",
+          "Length",
+          "Momentum"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्वितीय नियम: बल = संवेग परिवर्तन की दर।",
+        "en": "Second law: force = the rate of change of momentum."
+      }
+    },
+    {
+      "id": "phy3_q181",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वस्तु का त्वरण किस दिशा में होता है?",
+        "en": "In which direction does an object's acceleration point?"
+      },
+      "options": {
+        "hi": [
+          "लगाए गए बल की दिशा में",
+          "गति के विपरीत सदा",
+          "किसी भी दिशा में",
+          "वेग के लंबवत सदा"
+        ],
+        "en": [
+          "In the direction of the applied force",
+          "Always opposite to the motion",
+          "In any direction",
+          "Always perpendicular to the velocity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "a = F/m — त्वरण सदा बल की दिशा में।",
+        "en": "a = F/m — the acceleration always follows the force."
+      }
+    },
+    {
+      "id": "phy3_q182",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 न्यूटन बल किसे कहते हैं?",
+        "en": "What is a force of one newton?"
+      },
+      "options": {
+        "hi": [
+          "वह बल जो 1 सेकंड तक लगे",
+          "वह बल जो 1 kg द्रव्यमान में 1 m/s² त्वरण उत्पन्न करे",
+          "वह बल जो 1 kg उठा ले",
+          "वह बल जो 1 m चलाए"
+        ],
+        "en": [
+          "The force that acts for 1 second",
+          "The force that produces 1 m/s² acceleration in a 1 kg mass",
+          "The force that lifts 1 kg",
+          "The force that moves 1 metre"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1 N = 1 kg × 1 m/s²।",
+        "en": "1 N = 1 kg × 1 m/s²."
+      }
+    },
+    {
+      "id": "phy3_q183",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संवेग किस प्रकार की राशि है?",
+        "en": "What kind of quantity is momentum?"
+      },
+      "options": {
+        "hi": [
+          "न सदिश न अदिश",
+          "सदा शून्य",
+          "सदिश — दिशा वेग की दिशा में",
+          "अदिश — केवल परिमाण"
+        ],
+        "en": [
+          "Neither vector nor scalar",
+          "Always zero",
+          "A vector — its direction is that of the velocity",
+          "A scalar — magnitude only"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "mv में वेग सदिश है, इसलिए संवेग सदिश है।",
+        "en": "Since v is a vector in mv, momentum is a vector."
+      }
+    },
+    {
+      "id": "phy3_q184",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विरामावस्था वस्तु का संवेग कितना होता है?",
+        "en": "What is the momentum of an object at rest?"
+      },
+      "options": {
+        "hi": [
+          "अनंत",
+          "द्रव्यमान के बराबर",
+          "ऋणात्मक",
+          "शून्य (v = 0 के कारण)"
+        ],
+        "en": [
+          "Infinite",
+          "Equal to its mass",
+          "Negative",
+          "Zero (because v = 0)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "p = mv = m × 0 = 0।",
+        "en": "p = mv = m × 0 = 0."
+      }
+    },
+    {
+      "id": "phy3_q185",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान समान रखकर बल दोगुना कर दें तो त्वरण —",
+        "en": "Keeping the mass fixed, if the force is doubled, the acceleration —"
+      },
+      "options": {
+        "hi": [
+          "दोगुना हो जाता है",
+          "आधा रह जाता है",
+          "समान रहता है",
+          "शून्य हो जाता है"
+        ],
+        "en": [
+          "Doubles",
+          "Halves",
+          "Stays the same",
+          "Becomes zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "a ∝ F (द्रव्यमान समान) — बल दोगुना, त्वरण दोगुना।",
+        "en": "a ∝ F (fixed mass) — double the force, double the acceleration."
+      }
+    },
+    {
+      "id": "phy3_q186",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल समान रहे और द्रव्यमान दोगुना हो जाए तो त्वरण —",
+        "en": "With the same force, if the mass doubles, the acceleration —"
+      },
+      "options": {
+        "hi": [
+          "अपरिवर्तित",
+          "आधा रह जाता है",
+          "दोगुना हो जाता है",
+          "चार गुना"
+        ],
+        "en": [
+          "Is unchanged",
+          "Halves",
+          "Doubles",
+          "Quadruples"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "a ∝ 1/m — द्रव्यमान दोगुना, त्वरण आधा।",
+        "en": "a ∝ 1/m — double the mass, half the acceleration."
+      }
+    },
+    {
+      "id": "phy3_q187",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "न्यूटन का द्वितीय नियम किस नाम से भी जाना जाता है?",
+        "en": "By what other name is Newton's second law known?"
+      },
+      "options": {
+        "hi": [
+          "क्रिया-प्रतिक्रिया का नियम",
+          "ऊर्जा का नियम",
+          "संवेग का नियम",
+          "जड़त्व का नियम"
+        ],
+        "en": [
+          "The law of action-reaction",
+          "The law of energy",
+          "The law of momentum",
+          "The law of inertia"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "F = Δp/Δt — इसलिए द्वितीय नियम संवेग का नियम है।",
+        "en": "F = Δp/Δt — hence the second law is the law of momentum."
+      }
+    },
+    {
+      "id": "phy3_q188",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "न्यूटन (N) किस भौतिक राशि का मात्रक है?",
+        "en": "Newton (N) is the unit of which physical quantity?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान",
+          "संवेग",
+          "चाल",
+          "बल"
+        ],
+        "en": [
+          "Mass",
+          "Momentum",
+          "Speed",
+          "Force"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल का SI मात्रक न्यूटन है।",
+        "en": "The SI unit of force is the newton."
+      }
+    },
+    {
+      "id": "phy3_q189",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव्यमान समान रहे और वेग दोगुना हो जाए तो संवेग —",
+        "en": "With the same mass, if the velocity doubles, the momentum —"
+      },
+      "options": {
+        "hi": [
+          "दोगुना हो जाता है",
+          "आधा रह जाता है",
+          "समान रहता है",
+          "चार गुना हो जाता है"
+        ],
+        "en": [
+          "Doubles",
+          "Halves",
+          "Stays the same",
+          "Quadruples"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "p = mv — v दोगुना तो p दोगुना।",
+        "en": "p = mv — double v and p doubles."
+      }
+    },
+    {
+      "id": "phy3_q190",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "a = F/m के अनुसार त्वरण किसके समानुपाती है?",
+        "en": "According to a = F/m, the acceleration is proportional to —"
+      },
+      "options": {
+        "hi": [
+          "आयतन के",
+          "लगाए गए बल के",
+          "द्रव्यमान के",
+          "समय के"
+        ],
+        "en": [
+          "The volume",
+          "The applied force",
+          "The mass",
+          "The time"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "m स्थिर हो तो a ∝ F।",
+        "en": "With m fixed, a ∝ F."
+      }
+    },
+    {
+      "id": "phy3_q191",
+      "topic": "momentum-second-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी वस्तु का द्रव्यमान 4 kg और वेग 0 m/s है — संवेग —",
+        "en": "An object has mass 4 kg and velocity 0 m/s — its momentum is —"
+      },
+      "options": {
+        "hi": [
+          "40 kg·m/s",
+          "अनंत",
+          "0 kg·m/s",
+          "4 kg·m/s"
+        ],
+        "en": [
+          "40 kg·m/s",
+          "Infinite",
+          "0 kg·m/s",
+          "4 kg·m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "p = 4 × 0 = 0 kg·m/s।",
+        "en": "p = 4 × 0 = 0 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q192",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 kg द्रव्यमान की वस्तु पर 2 m/s² का त्वरण उत्पन्न हो रहा है — लगा बल —",
+        "en": "An object of mass 5 kg accelerates at 2 m/s² — the applied force is —"
+      },
+      "options": {
+        "hi": [
+          "2.5 N",
+          "7 N",
+          "3 N",
+          "10 N"
+        ],
+        "en": [
+          "2.5 N",
+          "7 N",
+          "3 N",
+          "10 N"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "F = ma = 5 × 2 = 10 N।",
+        "en": "F = ma = 5 × 2 = 10 N."
+      }
+    },
+    {
+      "id": "phy3_q193",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 kg की वस्तु पर 3 m/s² त्वरण के लिए आवश्यक बल —",
+        "en": "The force needed to accelerate a 10 kg object at 3 m/s² is —"
+      },
+      "options": {
+        "hi": [
+          "30 N",
+          "3.3 N",
+          "13 N",
+          "7 N"
+        ],
+        "en": [
+          "30 N",
+          "3.3 N",
+          "13 N",
+          "7 N"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F = 10 × 3 = 30 N।",
+        "en": "F = 10 × 3 = 30 N."
+      }
+    },
+    {
+      "id": "phy3_q194",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "4 kg द्रव्यमान पर 20 N का बल लगे तो त्वरण —",
+        "en": "A 20 N force acts on a 4 kg mass — the acceleration is —"
+      },
+      "options": {
+        "hi": [
+          "24 m/s²",
+          "5 m/s²",
+          "80 m/s²",
+          "16 m/s²"
+        ],
+        "en": [
+          "24 m/s²",
+          "5 m/s²",
+          "80 m/s²",
+          "16 m/s²"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "a = F/m = 20/4 = 5 m/s²।",
+        "en": "a = F/m = 20/4 = 5 m/s²."
+      }
+    },
+    {
+      "id": "phy3_q195",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "6 kg की वस्तु पर 12 N बल — उत्पन्न त्वरण —",
+        "en": "A 12 N force on a 6 kg object produces an acceleration of —"
+      },
+      "options": {
+        "hi": [
+          "18 m/s²",
+          "0.5 m/s²",
+          "2 m/s²",
+          "72 m/s²"
+        ],
+        "en": [
+          "18 m/s²",
+          "0.5 m/s²",
+          "2 m/s²",
+          "72 m/s²"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "a = 12/6 = 2 m/s²।",
+        "en": "a = 12/6 = 2 m/s²."
+      }
+    },
+    {
+      "id": "phy3_q196",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 kg की वस्तु 5 m/s के वेग से चल रही है — उसका संवेग —",
+        "en": "A 2 kg object moves at 5 m/s — its momentum is —"
+      },
+      "options": {
+        "hi": [
+          "2.5 kg·m/s",
+          "7 kg·m/s",
+          "25 kg·m/s",
+          "10 kg·m/s"
+        ],
+        "en": [
+          "2.5 kg·m/s",
+          "7 kg·m/s",
+          "25 kg·m/s",
+          "10 kg·m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "p = mv = 2 × 5 = 10 kg·m/s।",
+        "en": "p = mv = 2 × 5 = 10 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q197",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.5 kg की गेंद 20 m/s से उड़ रही है — संवेग —",
+        "en": "A 0.5 kg ball flies at 20 m/s — its momentum is —"
+      },
+      "options": {
+        "hi": [
+          "10 kg·m/s",
+          "20 kg·m/s",
+          "40 kg·m/s",
+          "0.025 kg·m/s"
+        ],
+        "en": [
+          "10 kg·m/s",
+          "20 kg·m/s",
+          "40 kg·m/s",
+          "0.025 kg·m/s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "p = 0.5 × 20 = 10 kg·m/s।",
+        "en": "p = 0.5 × 20 = 10 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q198",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "4 kg वस्तु का वेग 2 m/s से बढ़कर 6 m/s हुआ — संवेग परिवर्तन —",
+        "en": "A 4 kg object's velocity rises from 2 m/s to 6 m/s — the change in momentum is —"
+      },
+      "options": {
+        "hi": [
+          "4 kg·m/s",
+          "16 kg·m/s",
+          "24 kg·m/s",
+          "8 kg·m/s"
+        ],
+        "en": [
+          "4 kg·m/s",
+          "16 kg·m/s",
+          "24 kg·m/s",
+          "8 kg·m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Δp = m(v−u) = 4 × (6−2) = 16 kg·m/s।",
+        "en": "Δp = m(v−u) = 4 × (6−2) = 16 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q199",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "4 सेकंड में संवेग 20 kg·m/s बदला — लगने वाला औसत बल —",
+        "en": "The momentum changes by 20 kg·m/s in 4 s — the average force is —"
+      },
+      "options": {
+        "hi": [
+          "20 N",
+          "0.2 N",
+          "5 N",
+          "80 N"
+        ],
+        "en": [
+          "20 N",
+          "0.2 N",
+          "5 N",
+          "80 N"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "F = Δp/Δt = 20/4 = 5 N।",
+        "en": "F = Δp/Δt = 20/4 = 5 N."
+      }
+    },
+    {
+      "id": "phy3_q200",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "3 kg वस्तु 4 m/s से चल रही है — संवेग —",
+        "en": "A 3 kg object moves at 4 m/s — the momentum is —"
+      },
+      "options": {
+        "hi": [
+          "7 kg·m/s",
+          "0.75 kg·m/s",
+          "34 kg·m/s",
+          "12 kg·m/s"
+        ],
+        "en": [
+          "7 kg·m/s",
+          "0.75 kg·m/s",
+          "34 kg·m/s",
+          "12 kg·m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "p = 3 × 4 = 12 kg·m/s।",
+        "en": "p = 3 × 4 = 12 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q201",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 N के बल से 5 m/s² त्वरण उत्पन्न होता है — वस्तु का द्रव्यमान —",
+        "en": "A 10 N force produces 5 m/s² of acceleration — the object's mass is —"
+      },
+      "options": {
+        "hi": [
+          "2 kg",
+          "50 kg",
+          "5 kg",
+          "0.5 kg"
+        ],
+        "en": [
+          "2 kg",
+          "50 kg",
+          "5 kg",
+          "0.5 kg"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "m = F/a = 10/5 = 2 kg।",
+        "en": "m = F/a = 10/5 = 2 kg."
+      }
+    },
+    {
+      "id": "phy3_q202",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.2 kg की गेंद 15 m/s के वेग से जा रही है — संवेग —",
+        "en": "A 0.2 kg ball moves at 15 m/s — its momentum is —"
+      },
+      "options": {
+        "hi": [
+          "1.5 kg·m/s",
+          "3 kg·m/s",
+          "75 kg·m/s",
+          "15 kg·m/s"
+        ],
+        "en": [
+          "1.5 kg·m/s",
+          "3 kg·m/s",
+          "75 kg·m/s",
+          "15 kg·m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "p = 0.2 × 15 = 3 kg·m/s।",
+        "en": "p = 0.2 × 15 = 3 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q203",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.5 kg वस्तु का वेग 3 m/s से 8 m/s हुआ — संवेग में वृद्धि —",
+        "en": "A 0.5 kg object speeds up from 3 m/s to 8 m/s — the gain in momentum is —"
+      },
+      "options": {
+        "hi": [
+          "5.5 kg·m/s",
+          "1.5 kg·m/s",
+          "2.5 kg·m/s",
+          "4 kg·m/s"
+        ],
+        "en": [
+          "5.5 kg·m/s",
+          "1.5 kg·m/s",
+          "2.5 kg·m/s",
+          "4 kg·m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "Δp = 0.5 × (8−3) = 0.5 × 5 = 2.5 kg·m/s।",
+        "en": "Δp = 0.5 × (8−3) = 0.5 × 5 = 2.5 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q204",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1000 kg की कार में 2 m/s² का त्वरण देने के लिए चाहिए बल —",
+        "en": "To give a 1000 kg car an acceleration of 2 m/s², the force required is —"
+      },
+      "options": {
+        "hi": [
+          "500 N",
+          "998 N",
+          "1002 N",
+          "2000 N"
+        ],
+        "en": [
+          "500 N",
+          "998 N",
+          "1002 N",
+          "2000 N"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "F = 1000 × 2 = 2000 N।",
+        "en": "F = 1000 × 2 = 2000 N."
+      }
+    },
+    {
+      "id": "phy3_q205",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो वस्तुओं का संवेग समान है — पहली हल्की है, दूसरी भारी — किसका वेग अधिक होगा?",
+        "en": "Two objects have equal momentum — the first is light, the second heavy — which has the greater velocity?"
+      },
+      "options": {
+        "hi": [
+          "हल्की वस्तु का",
+          "भारी वस्तु का",
+          "दोनों का समान",
+          "बताया नहीं जा सकता"
+        ],
+        "en": [
+          "The light one",
+          "The heavy one",
+          "Both equal",
+          "Cannot be determined"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "p समान रखने पर v = p/m — m कम तो v अधिक।",
+        "en": "With p fixed, v = p/m — smaller m means larger v."
+      }
+    },
+    {
+      "id": "phy3_q206",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "6 N का बल 2 सेकंड तक लगा रहा — संवेग परिवर्तन —",
+        "en": "A 6 N force acts for 2 seconds — the change in momentum is —"
+      },
+      "options": {
+        "hi": [
+          "6 kg·m/s",
+          "12 kg·m/s",
+          "3 kg·m/s",
+          "8 kg·m/s"
+        ],
+        "en": [
+          "6 kg·m/s",
+          "12 kg·m/s",
+          "3 kg·m/s",
+          "8 kg·m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Δp = F × t = 6 × 2 = 12 kg·m/s।",
+        "en": "Δp = F × t = 6 × 2 = 12 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q207",
+      "topic": "momentum-second-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 kg वस्तु का वेग 6 m/s से घटकर 2 m/s हुआ — संवेग परिवर्तन का परिमाण —",
+        "en": "A 2 kg object slows from 6 m/s to 2 m/s — the magnitude of its momentum change is —"
+      },
+      "options": {
+        "hi": [
+          "12 kg·m/s",
+          "16 kg·m/s",
+          "8 kg·m/s",
+          "4 kg·m/s"
+        ],
+        "en": [
+          "12 kg·m/s",
+          "16 kg·m/s",
+          "8 kg·m/s",
+          "4 kg·m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "|Δp| = 2 × (6−2) = 8 kg·m/s (दिशा गति के विपरीत)।",
+        "en": "|Δp| = 2 × (6−2) = 8 kg·m/s (opposite to the motion)."
+      }
+    },
+    {
+      "id": "phy3_q208",
+      "topic": "momentum-second-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "5 kg वस्तु विराम से 5 सेकंड में 10 m/s वेग प्राप्त करती है — लगा औसत बल —",
+        "en": "A 5 kg object at rest reaches 10 m/s in 5 s — the average force applied is —"
+      },
+      "options": {
+        "hi": [
+          "50 N",
+          "2 N",
+          "25 N",
+          "10 N"
+        ],
+        "en": [
+          "50 N",
+          "2 N",
+          "25 N",
+          "10 N"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "a = (10−0)/5 = 2 m/s²; F = 5 × 2 = 10 N।",
+        "en": "a = (10−0)/5 = 2 m/s²; F = 5 × 2 = 10 N."
+      }
+    },
+    {
+      "id": "phy3_q209",
+      "topic": "momentum-second-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "0.2 kg की गेंद 5 m/s से दीवार से टकराकर उतनी ही चाल से वापस आती है — संवेग परिवर्तन का परिमाण —",
+        "en": "A 0.2 kg ball hits a wall at 5 m/s and rebounds at the same speed — the magnitude of the momentum change is —"
+      },
+      "options": {
+        "hi": [
+          "2 kg·m/s",
+          "1 kg·m/s",
+          "0",
+          "4 kg·m/s"
+        ],
+        "en": [
+          "2 kg·m/s",
+          "1 kg·m/s",
+          "0",
+          "4 kg·m/s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दिशा उलटी: |Δp| = 0.2 × (5+5) = 2 kg·m/s।",
+        "en": "Direction reverses: |Δp| = 0.2 × (5+5) = 2 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q210",
+      "topic": "momentum-second-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "50 N का बल 0.1 सेकंड तक लगा — संवेग परिवर्तन —",
+        "en": "A 50 N force acts for 0.1 s — the change in momentum is —"
+      },
+      "options": {
+        "hi": [
+          "0.5 kg·m/s",
+          "5 kg·m/s",
+          "500 kg·m/s",
+          "50 kg·m/s"
+        ],
+        "en": [
+          "0.5 kg·m/s",
+          "5 kg·m/s",
+          "500 kg·m/s",
+          "50 kg·m/s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Δp = F × t = 50 × 0.1 = 5 kg·m/s।",
+        "en": "Δp = F × t = 50 × 0.1 = 5 kg·m/s."
+      }
+    },
+    {
+      "id": "phy3_q211",
+      "topic": "momentum-second-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "समान बल समान समय तक 2 kg और 4 kg की वस्तुओं पर लगे — त्वरणों का अनुपात —",
+        "en": "The same force acts for the same time on 2 kg and 4 kg objects — the ratio of their accelerations is —"
+      },
+      "options": {
+        "hi": [
+          "4 : 1",
+          "1 : 4",
+          "2 : 1",
+          "1 : 2"
+        ],
+        "en": [
+          "4 : 1",
+          "1 : 4",
+          "2 : 1",
+          "1 : 2"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "a ∝ 1/m → a₁/a₂ = 4/2 = 2, अतः 2 : 1।",
+        "en": "a ∝ 1/m → a₁/a₂ = 4/2 = 2, i.e. 2 : 1."
+      }
+    },
+    {
+      "id": "phy3_q212",
+      "topic": "momentum-second-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: संवेग p = mv है। कथन B: बल संवेग परिवर्तन की दर है। सही विकल्प —",
+        "en": "Statement A: momentum is p = mv. Statement B: force is the rate of change of momentum. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "p = mv परिभाषा है और F = Δp/Δt द्वितीय नियम — दोनों सही।",
+        "en": "p = mv is the definition and F = Δp/Δt is the second law — both hold."
+      }
+    },
+    {
+      "id": "phy3_q213",
+      "topic": "momentum-second-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "विरामावस्था 2 kg वस्तु पर 10 N बल 3 सेकंड तक लगा रहा — अंतिम वेग —",
+        "en": "A 10 N force acts on a 2 kg object at rest for 3 s — the final velocity is —"
+      },
+      "options": {
+        "hi": [
+          "15 m/s",
+          "30 m/s",
+          "5 m/s",
+          "10 m/s"
+        ],
+        "en": [
+          "15 m/s",
+          "30 m/s",
+          "5 m/s",
+          "10 m/s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "a = 10/2 = 5 m/s²; v = a × t = 5 × 3 = 15 m/s।",
+        "en": "a = 10/2 = 5 m/s²; v = a × t = 5 × 3 = 15 m/s."
+      }
+    },
+    {
+      "id": "phy3_q214",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "न्यूटन का तृतीय नियम क्या कहता है?",
+        "en": "What does Newton's third law state?"
+      },
+      "options": {
+        "hi": [
+          "संवेग सदा संरक्षित रहता है",
+          "प्रत्येक क्रिया के बराबर और विपरीत प्रतिक्रिया होती है",
+          "बल द्रव्यमान और त्वरण का गुणनफल है",
+          "वस्तु अपनी अवस्था बनाए रखती है"
+        ],
+        "en": [
+          "Momentum is always conserved",
+          "Every action has an equal and opposite reaction",
+          "Force is the product of mass and acceleration",
+          "An object keeps its state"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्रिया-प्रतिक्रिया बराबर परिमाण, विपरीत दिशा — भिन्न वस्तुओं पर।",
+        "en": "Action and reaction — equal magnitude, opposite direction — on different bodies."
+      }
+    },
+    {
+      "id": "phy3_q215",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रॉकेट की गति किस नियम पर आधारित है?",
+        "en": "On which law is rocket propulsion based?"
+      },
+      "options": {
+        "hi": [
+          "न्यूटन का द्वितीय नियम",
+          "गुरुत्वाकर्षण का नियम",
+          "न्यूटन का तृतीय नियम",
+          "न्यूटन का प्रथम नियम"
+        ],
+        "en": [
+          "Newton's second law",
+          "The law of gravitation",
+          "Newton's third law",
+          "Newton's first law"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गैस पीछे (क्रिया), रॉकेट आगे (प्रतिक्रिया) — तृतीय नियम।",
+        "en": "Gas expelled back (action), rocket pushed forward (reaction) — the third law."
+      }
+    },
+    {
+      "id": "phy3_q216",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तैराक तैरते समय पानी को पीछे धकेलता है — पानी तैराक को किस ओर धकेलता है?",
+        "en": "A swimmer pushes water backward while swimming — which way does the water push the swimmer?"
+      },
+      "options": {
+        "hi": [
+          "पीछे की ओर",
+          "नीचे की ओर",
+          "किसी ओर नहीं",
+          "आगे की ओर"
+        ],
+        "en": [
+          "Backward",
+          "Downward",
+          "Not at all",
+          "Forward"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पानी पर क्रिया पीछे, पानी की प्रतिक्रिया तैराक को आगे।",
+        "en": "The action on water is backward; the water's reaction drives the swimmer forward."
+      }
+    },
+    {
+      "id": "phy3_q217",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बंदूक चलाने पर उसे पीछे की ओर झटका लगता है — इसे क्या कहते हैं?",
+        "en": "Firing a gun jolts it backward — what is this called?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिक्षेप (recoil)",
+          "जड़त्व",
+          "घर्षण",
+          "त्वरण"
+        ],
+        "en": [
+          "Recoil",
+          "Inertia",
+          "Friction",
+          "Acceleration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गोली आगे (क्रिया), बंदूक पीछे (प्रतिक्रिया) — प्रतिक्षेप।",
+        "en": "Bullet forward (action), gun backward (reaction) — recoil."
+      }
+    },
+    {
+      "id": "phy3_q218",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घर्षण किसे कहते हैं?",
+        "en": "What is friction?"
+      },
+      "options": {
+        "hi": [
+          "वेग की दिशा",
+          "गति का विरोध करने वाला बल",
+          "गति बढ़ाने वाला बल",
+          "द्रव्यमान का माप"
+        ],
+        "en": [
+          "The direction of velocity",
+          "The force that opposes motion",
+          "The force that increases motion",
+          "A measure of mass"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "संपर्क सतहों के बीच गति का विरोध करने वाला बल घर्षण है।",
+        "en": "Friction is the force between contact surfaces that opposes motion."
+      }
+    },
+    {
+      "id": "phy3_q219",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घर्षण बल की दिशा कैसी होती है?",
+        "en": "What is the direction of the force of friction?"
+      },
+      "options": {
+        "hi": [
+          "गति के लंबवत",
+          "कोई दिशा नहीं",
+          "गति की विपरीत",
+          "गति की समान"
+        ],
+        "en": [
+          "Perpendicular to the motion",
+          "No direction",
+          "Opposite to the motion",
+          "Same as the motion"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घर्षण सदा गति के विरुद्ध दिशा में लगता है।",
+        "en": "Friction always acts against the direction of motion."
+      }
+    },
+    {
+      "id": "phy3_q220",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हम जमीन पर बिना फिसले चल क्यों पाते हैं?",
+        "en": "Why can we walk on the ground without slipping?"
+      },
+      "options": {
+        "hi": [
+          "जड़त्व के कारण",
+          "संवेग के कारण",
+          "त्वरण के कारण",
+          "घर्षण के कारण"
+        ],
+        "en": [
+          "Because of inertia",
+          "Because of momentum",
+          "Because of acceleration",
+          "Because of friction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पैर और जमीन के घर्षण से ही चलना संभव है।",
+        "en": "Friction between foot and ground makes walking possible."
+      }
+    },
+    {
+      "id": "phy3_q221",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मशीनों के हिस्सों का घिस जाना घर्षण का कौन-सा रूप है?",
+        "en": "Machine parts wearing out is which aspect of friction?"
+      },
+      "options": {
+        "hi": [
+          "हानिकारक रूप",
+          "उपयोगी रूप",
+          "कोई रूप नहीं",
+          "लाभदायक रूप"
+        ],
+        "en": [
+          "Its harmful aspect",
+          "Its useful aspect",
+          "No aspect at all",
+          "Its profitable aspect"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "घर्षण से घिसाव और ऊर्जा-हानि होती है — यह हानिकारक रूप है।",
+        "en": "Friction causes wear and energy loss — its harmful side."
+      }
+    },
+    {
+      "id": "phy3_q222",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मशीन के हिस्सों में तेल या ग्रीस लगाने का उद्देश्य —",
+        "en": "The purpose of applying oil or grease to machine parts is —"
+      },
+      "options": {
+        "hi": [
+          "भार बढ़ाना",
+          "घर्षण घटाना (स्नेहन)",
+          "घर्षण बढ़ाना",
+          "रंग सुधारना"
+        ],
+        "en": [
+          "To add weight",
+          "To reduce friction (lubrication)",
+          "To increase friction",
+          "To improve colour"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्नेहक बीच में परत बनाकर घर्षण घटाता है।",
+        "en": "A lubricant forms a layer that reduces friction."
+      }
+    },
+    {
+      "id": "phy3_q223",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मशीनों में रोलर या बॉल बेयरिंग का उपयोग किसलिए होता है?",
+        "en": "Why are rollers or ball bearings used in machines?"
+      },
+      "options": {
+        "hi": [
+          "सौंदर्य के लिए",
+          "भार बढ़ाने के लिए",
+          "घर्षण घटाने के लिए",
+          "घर्षण बढ़ाने के लिए"
+        ],
+        "en": [
+          "For beauty",
+          "To add weight",
+          "To reduce friction",
+          "To increase friction"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रोलिंग घर्षण स्लाइडिंग से कम होता है — इसलिए रोलर/बेयरिंग।",
+        "en": "Rolling friction is less than sliding — hence rollers/bearings."
+      }
+    },
+    {
+      "id": "phy3_q224",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मछलियों और विमानों का धारावाहिक (streamlined) आकार किसलिए है?",
+        "en": "Why do fish and aircraft have streamlined shapes?"
+      },
+      "options": {
+        "hi": [
+          "घर्षण बढ़ाने के लिए",
+          "सुंदर दिखने के लिए",
+          "वजन बढ़ाने के लिए",
+          "वायु/जल का घर्षण घटाने के लिए"
+        ],
+        "en": [
+          "To increase friction",
+          "To look beautiful",
+          "To add weight",
+          "To reduce friction with air/water"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धारावाहिक आकार द्रव/वायु का प्रतिरोध घटाता है।",
+        "en": "A streamlined shape cuts down fluid resistance."
+      }
+    },
+    {
+      "id": "phy3_q225",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्रिया और प्रतिक्रिया बल किन पर लगते हैं?",
+        "en": "On what do the action and reaction forces act?"
+      },
+      "options": {
+        "hi": [
+          "दो भिन्न वस्तुओं पर",
+          "एक ही वस्तु पर",
+          "किसी पर नहीं",
+          "केवल एक वस्तु पर"
+        ],
+        "en": [
+          "On two different objects",
+          "On the same object",
+          "On nothing",
+          "On just one object"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "क्रिया एक वस्तु पर, प्रतिक्रिया दूसरी पर — इसीलिए वे कभी संतुलित नहीं करतीं।",
+        "en": "Action on one object, reaction on the other — that is why they never balance."
+      }
+    },
+    {
+      "id": "phy3_q226",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नाव आगे बढ़ाने के लिए व्यक्ति पानी पर किस दिशा में बल लगाता है?",
+        "en": "To move a boat forward, in which direction does a person push the water?"
+      },
+      "options": {
+        "hi": [
+          "ऊपर की ओर",
+          "पीछे की ओर",
+          "आगे की ओर",
+          "नीचे की ओर"
+        ],
+        "en": [
+          "Upward",
+          "Backward",
+          "Forward",
+          "Downward"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पानी को पीछे धकेलने पर पानी नाव को आगे धकेलता है (तृतीय नियम)।",
+        "en": "Pushing water backward makes the water push the boat forward (third law)."
+      }
+    },
+    {
+      "id": "phy3_q227",
+      "topic": "action-reaction-friction",
+      "difficulty": "easy",
+      "question": {
+        "hi": "माचिस की तीली को डिब्बे से रगड़ने पर जल जाती है — कारण —",
+        "en": "Striking a matchstick against the box lights it — the reason is —"
+      },
+      "options": {
+        "hi": [
+          "त्वरण से आग लगती है",
+          "संवेग जलता है",
+          "घर्षण से ऊष्मा उत्पन्न होती है",
+          "जड़त्व से ऊष्मा बनती है"
+        ],
+        "en": [
+          "Acceleration ignites it",
+          "Momentum burns it",
+          "Friction generates heat",
+          "Inertia produces heat"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रगड़ के घर्षण से ऊष्मा बनकर तीली जल जाती है।",
+        "en": "The rubbing friction produces heat that ignites the match."
+      }
+    },
+    {
+      "id": "phy3_q228",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्रिया-प्रतिक्रिया बल संतुलित बल क्यों नहीं कहलाते?",
+        "en": "Why are action-reaction forces not called balanced forces?"
+      },
+      "options": {
+        "hi": [
+          "इनके परिमाण असमान होते हैं",
+          "इनकी दिशाएँ समान होती हैं",
+          "ये कभी नहीं लगतीं",
+          "ये दो भिन्न वस्तुओं पर लगती हैं, एक ही वस्तु पर नहीं"
+        ],
+        "en": [
+          "Their magnitudes are unequal",
+          "Their directions are the same",
+          "They never act",
+          "They act on two different objects, not on the same one"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "संतुलन के लिए दोनों बल एक ही वस्तु पर होने चाहिए — क्रिया-प्रतिक्रिया भिन्न वस्तुओं पर हैं।",
+        "en": "Balancing needs both forces on one body — action and reaction sit on different bodies."
+      }
+    },
+    {
+      "id": "phy3_q229",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चलते समय पैर जमीन को पीछे धकेलता है — जमीन पैर को किस दिशा में धकेलती है?",
+        "en": "While walking the foot pushes the ground backward — which way does the ground push the foot?"
+      },
+      "options": {
+        "hi": [
+          "आगे की ओर",
+          "पीछे की ओर",
+          "ऊपर ही",
+          "किसी ओर नहीं"
+        ],
+        "en": [
+          "Forward",
+          "Backward",
+          "Only upward",
+          "Not at all"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "क्रिया पीछे, प्रतिक्रिया आगे — यही हमें चलाती है।",
+        "en": "Action backward, reaction forward — that is what propels us."
+      }
+    },
+    {
+      "id": "phy3_q230",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रॉकेट तीसरे नियम से कैसे चलता है?",
+        "en": "How does a rocket move using the third law?"
+      },
+      "options": {
+        "hi": [
+          "रॉकेट जड़त्व से चलता है",
+          "उछाली गई गैस पीछे जाती है, गैस रॉकेट को आगे धकेलती है",
+          "हवा रॉकेट को खींचती है",
+          "रॉकेट हवा को आगे धकेलता है"
+        ],
+        "en": [
+          "The rocket moves by inertia",
+          "The expelled gas goes backward and pushes the rocket forward",
+          "The air pulls the rocket",
+          "The rocket pushes air forward"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गैस पीछे = क्रिया; गैस द्वारा रॉकेट पर आगे बल = प्रतिक्रिया।",
+        "en": "Gas backward = action; the gas's forward push on the rocket = reaction."
+      }
+    },
+    {
+      "id": "phy3_q231",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बर्फ पर चलना कठिन क्यों होता है?",
+        "en": "Why is walking on ice difficult?"
+      },
+      "options": {
+        "hi": [
+          "जड़त्व शून्य होने से",
+          "संवेग अधिक होने से",
+          "घर्षण बहुत कम होने से",
+          "घर्षण बहुत अधिक होने से"
+        ],
+        "en": [
+          "Because inertia is zero",
+          "Because momentum is high",
+          "Because friction is very low",
+          "Because friction is very high"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चिकनी बर्फ पर घर्षण कम — पैर पीछे धकेल नहीं पाता, फिसलन होती है।",
+        "en": "Smooth ice offers little friction — the foot cannot push back and slips."
+      }
+    },
+    {
+      "id": "phy3_q232",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मशीन में तेल डालने से मशीन को क्या लाभ होता है?",
+        "en": "What does a machine gain by adding oil to it?"
+      },
+      "options": {
+        "hi": [
+          "घर्षण बढ़ता है",
+          "वजन घटता है",
+          "आकार बदलता है",
+          "घर्षण और घिसाव घटता है"
+        ],
+        "en": [
+          "Friction increases",
+          "Weight decreases",
+          "Shape changes",
+          "Friction and wear decrease"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्नेहन से घर्षण घटता है — घिसाव और ऊर्जा हानि कम।",
+        "en": "Lubrication cuts friction — less wear and energy loss."
+      }
+    },
+    {
+      "id": "phy3_q233",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साइकिल का ब्रेक घर्षण का कौन-सा रूप दिखाता है?",
+        "en": "A bicycle brake demonstrates which face of friction?"
+      },
+      "options": {
+        "hi": [
+          "उपयोगी रूप — घर्षण ही गाड़ी रोकता है",
+          "हानिकारक रूप — यह गाड़ी घिसाता है",
+          "कोई रूप नहीं",
+          "घर्षण चाल बढ़ाता है"
+        ],
+        "en": [
+          "Its useful face — friction alone stops the cycle",
+          "Its harmful face — it wears the cycle out",
+          "No face at all",
+          "Friction speeds it up"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ब्रेक पैड और पहिये के घर्षण से ही रुकना संभव है — उपयोगी।",
+        "en": "Only the brake-pad/wheel friction stops it — useful."
+      }
+    },
+    {
+      "id": "phy3_q234",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जूतों के तल में उभार और गहरे निशान क्यों बनाए जाते हैं?",
+        "en": "Why do shoe soles carry grooves and deep treads?"
+      },
+      "options": {
+        "hi": [
+          "जूते चौड़े करने के लिए",
+          "घर्षण बढ़ाकर फिसलन रोकने के लिए",
+          "जूते हल्के करने के लिए",
+          "सौंदर्य बढ़ाने के लिए"
+        ],
+        "en": [
+          "To widen the shoes",
+          "To increase friction and prevent slipping",
+          "To make shoes lighter",
+          "To add beauty"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खुरदरी सतह (उभार) घर्षण बढ़ाती है — पकड़ बेहतर।",
+        "en": "Rough surfaces (treads) raise friction — a better grip."
+      }
+    },
+    {
+      "id": "phy3_q235",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गाड़ी के टायरों पर जिग-जैग निशानों का कारण —",
+        "en": "The zig-zag patterns on vehicle tyres exist to —"
+      },
+      "options": {
+        "hi": [
+          "टायर का वजन बढ़ाना",
+          "रंग जोड़ना",
+          "सड़क के साथ घर्षण बढ़ाना",
+          "घर्षण घटाना"
+        ],
+        "en": [
+          "Add tyre weight",
+          "Add colour",
+          "Increase friction with the road",
+          "Reduce friction"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ट्रेड पैटर्न सड़क पर पकड़ (घर्षण) बढ़ाता है — सुरक्षित ब्रेक/मोड़।",
+        "en": "The tread pattern grips the road — safer braking and turning."
+      }
+    },
+    {
+      "id": "phy3_q236",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'घर्षण सदा हानिकारक है' — यह कथन —",
+        "en": "'Friction is always harmful' — this statement is —"
+      },
+      "options": {
+        "hi": [
+          "बिल्कुल सही",
+          "आधे समय सही",
+          "न सही न गलत",
+          "गलत — चलना, पकड़, ब्रेक सब घर्षण से संभव हैं"
+        ],
+        "en": [
+          "Absolutely right",
+          "Right half the time",
+          "Neither right nor wrong",
+          "Wrong — walking, gripping and braking all need friction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "घर्षण उपयोगी-हानिकारक दोनों है — यह परीक्षा का प्रसिद्ध जाल है।",
+        "en": "Friction is both useful and harmful — a classic exam trap."
+      }
+    },
+    {
+      "id": "phy3_q237",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सड़क पर गिरी तेल की परत को 'फिसलन भरी' क्यों कहा जाता है?",
+        "en": "Why is an oil spill on a road called 'slippery'?"
+      },
+      "options": {
+        "hi": [
+          "तेल घर्षण कम कर देता है",
+          "तेल घर्षण बढ़ाता है",
+          "तेल जड़त्व बदलता है",
+          "तेल द्रव्यमान बढ़ाता है"
+        ],
+        "en": [
+          "The oil lowers friction",
+          "The oil raises friction",
+          "The oil alters inertia",
+          "The oil adds mass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तेल की परत टायर-सड़क संपर्क में घर्षण घटा देती है — पकड़ खत्म।",
+        "en": "The oil film between tyre and road cuts friction — the grip is gone."
+      }
+    },
+    {
+      "id": "phy3_q238",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धीमी गति से गिरते पैराशूट वाले व्यक्ति पर वायु का प्रतिरोध किस दिशा में कार्य करता है?",
+        "en": "On a parachutist descending slowly, in which direction does air resistance act?"
+      },
+      "options": {
+        "hi": [
+          "कोई दिशा नहीं",
+          "गति के विपरीत (ऊपर)",
+          "गति की दिशा में (नीचे)",
+          "क्षैतिज"
+        ],
+        "en": [
+          "No direction",
+          "Opposite to the motion (upward)",
+          "Along the motion (downward)",
+          "Horizontal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वायु प्रतिरोध गति के विरुद्ध लगता है — धीमी गिरावट में नीचे के बल के लगभग बराबर।",
+        "en": "Air drag acts against the motion — in slow descent it nearly balances the downward force."
+      }
+    },
+    {
+      "id": "phy3_q239",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गाड़ी पर आगे की ओर 12 N का बल लगाया गया और घर्षण 5 N पीछे की ओर लगा — प्रभावी बल —",
+        "en": "A cart is pushed forward with 12 N while friction pulls 5 N backward — the effective force is —"
+      },
+      "options": {
+        "hi": [
+          "7 N पीछे",
+          "60 N",
+          "7 N आगे",
+          "17 N आगे"
+        ],
+        "en": [
+          "7 N backward",
+          "60 N",
+          "7 N forward",
+          "17 N forward"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "12 − 5 = 7 N आगे की ओर।",
+        "en": "12 − 5 = 7 N forward."
+      }
+    },
+    {
+      "id": "phy3_q240",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दीवार को धक्का देने पर हम कभी-कभी पीछे गिरते क्यों हैं?",
+        "en": "Why do we sometimes fall backward when pushing a wall?"
+      },
+      "options": {
+        "hi": [
+          "दीवार ऊपर उठ जाती है",
+          "हमारा द्रव्यमान शून्य हो जाता है",
+          "घर्षण बढ़ जाता है",
+          "दीवार हम पर बराबर-विपरीत बल लगाती है"
+        ],
+        "en": [
+          "The wall rises up",
+          "Our mass becomes zero",
+          "Friction increases",
+          "The wall exerts an equal-opposite force on us"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हमारा धक्का (क्रिया) दीवार पर; दीवार का बल (प्रतिक्रिया) हम पर — पीछे धकेलता है।",
+        "en": "Our push (action) on the wall; the wall's force (reaction) on us pushes back."
+      }
+    },
+    {
+      "id": "phy3_q241",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किनारे पर खड़ा व्यक्ति नाव से किनारे की ओर कूदता है — नाव क्या करेगी?",
+        "en": "A person standing at the edge jumps from the boat towards the bank — what does the boat do?"
+      },
+      "options": {
+        "hi": [
+          "पीछे की ओर खिसकेगी",
+          "आगे बढ़ेगी",
+          "डूब जाएगी",
+          "कुछ नहीं होगा"
+        ],
+        "en": [
+          "It moves backward",
+          "It moves forward",
+          "It sinks",
+          "Nothing happens"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कूद आगे = क्रिया; नाव पर विपरीत प्रतिक्रिया — नाव पीछे।",
+        "en": "The forward jump (action) gives the boat an opposite reaction — it drifts back."
+      }
+    },
+    {
+      "id": "phy3_q242",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "टेनिस खिलाड़ी गेंद को मारता है — क्रिया-प्रतिक्रिया जोड़ी कौन-सी है?",
+        "en": "A tennis player strikes the ball — which is the action-reaction pair?"
+      },
+      "options": {
+        "hi": [
+          "रैकेट का वजन और हवा",
+          "रैकेट गेंद पर बल (क्रिया) और गेंद रैकेट पर बल (प्रतिक्रिया)",
+          "खिलाड़ी का वजन और जमीन",
+          "गेंद का वेग और समय"
+        ],
+        "en": [
+          "The racket's weight and the air",
+          "The racket's force on the ball (action) and the ball's force on the racket (reaction)",
+          "The player's weight and the ground",
+          "The ball's velocity and time"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दो परस्पर बल दो वस्तुओं पर — रैकेट→गेंद और गेंद→रैकेट।",
+        "en": "Two mutual forces on two objects — racket→ball and ball→racket."
+      }
+    },
+    {
+      "id": "phy3_q243",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भारी बंदूक से गोली चलाने पर प्रतिक्षेप धक्का हल्की बंदूक की तुलना में कम क्यों लगता है?",
+        "en": "Why does a heavy gun kick less than a light one when fired?"
+      },
+      "options": {
+        "hi": [
+          "गोली भारी होती है",
+          "हवा भारी बंदूक को रोकती है",
+          "उसी बल के विरुद्ध अधिक द्रव्यमान पर त्वरण (झटका) कम बनता है",
+          "भारी बंदूक में बल नहीं लगता"
+        ],
+        "en": [
+          "The bullet is heavier",
+          "The air stops the heavy gun",
+          "The same opposing force produces less acceleration (kick) on a larger mass",
+          "No force acts on a heavy gun"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रतिक्रिया बल समान, पर a = F/m — m अधिक तो झटका (त्वरण) कम।",
+        "en": "The reaction force is the same, but a = F/m — larger m, smaller kick."
+      }
+    },
+    {
+      "id": "phy3_q244",
+      "topic": "action-reaction-friction",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गीले फर्श पर फिसलने का भौतिक कारण क्या है?",
+        "en": "What is the physical cause of slipping on a wet floor?"
+      },
+      "options": {
+        "hi": [
+          "पानी द्रव्यमान बढ़ाता है",
+          "पानी जड़त्व घटाता है",
+          "पानी संवेग बदलता है",
+          "पानी की परत घर्षण घटा देती है"
+        ],
+        "en": [
+          "Water increases mass",
+          "Water reduces inertia",
+          "Water changes momentum",
+          "The water layer reduces friction"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पानी पैर-फर्श संपर्क में स्नेहक जैसा काम करता है — घर्षण गिरता है।",
+        "en": "Water acts like a lubricant in the foot-floor contact — friction drops."
+      }
+    },
+    {
+      "id": "phy3_q245",
+      "topic": "action-reaction-friction",
+      "difficulty": "hard",
+      "question": {
+        "hi": "घोड़ा गाड़ी को आगे खींचता है, गाड़ी भी घोड़े को उतना ही पीछे — फिर गाड़ी चलती क्यों है?",
+        "en": "The horse pulls the cart forward and the cart pulls the horse equally backward — why does the cart still move?"
+      },
+      "options": {
+        "hi": [
+          "ये बल भिन्न वस्तुओं पर लगते हैं; गाड़ी की गति जमीन-घोड़े बलों के असंतुलन से होती है",
+          "गाड़ी का बल नहीं लगता",
+          "घोड़े का बल बड़ा होता है",
+          "यह असंभव है"
+        ],
+        "en": [
+          "These forces act on different objects; the cart moves because of the imbalance of ground-horse forces",
+          "The cart exerts no force",
+          "The horse's force is larger",
+          "This is impossible"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "क्रिया-प्रतिक्रिया जोड़ी कभी एक ही वस्तु को संतुलित नहीं करती — गाड़ी तंत्र की शेष बलों से त्वरित होती है।",
+        "en": "An action-reaction pair never balances one body — the cart accelerates due to the system's remaining forces."
+      }
+    },
+    {
+      "id": "phy3_q246",
+      "topic": "action-reaction-friction",
+      "difficulty": "hard",
+      "question": {
+        "hi": "क्रिया और प्रतिक्रिया बराबर हैं, फिर भी दोनों वस्तुओं का त्वरण भिन्न हो सकता है — क्यों?",
+        "en": "Action and reaction are equal, yet the two objects can accelerate differently — why?"
+      },
+      "options": {
+        "hi": [
+          "त्वरण बल से स्वतंत्र है",
+          "त्वरण द्रव्यमान पर निर्भर करता है (a = F/m)",
+          "दोनों बल असमान होते हैं",
+          "दिशाएँ समान होती हैं"
+        ],
+        "en": [
+          "Acceleration is independent of force",
+          "Acceleration depends on the mass (a = F/m)",
+          "The two forces are unequal",
+          "The directions are identical"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समान बल पर हल्की वस्तु अधिक, भारी कम त्वरित होती है।",
+        "en": "Under an equal force the lighter object accelerates more, the heavier less."
+      }
+    },
+    {
+      "id": "phy3_q247",
+      "topic": "action-reaction-friction",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि सड़क और टायर के बीच घर्षण पूरी तरह शून्य हो जाए, तो चलती कार को ब्रेक लगाने पर —",
+        "en": "If friction between road and tyre became exactly zero, applying the brakes of a moving car would —"
+      },
+      "options": {
+        "hi": [
+          "कार उल्टी दिशा में जाए",
+          "कुछ अंतर नहीं पड़े",
+          "कार नहीं रोक पाए (ब्रेक घर्षण पर निर्भर)",
+          "कार तुरंत रुक जाए"
+        ],
+        "en": [
+          "Send it in reverse",
+          "Make no difference",
+          "Not stop the car (brakes depend on friction)",
+          "Stop it instantly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ब्रेक पैड-पहिया घर्षण से पहिया रोकता है, पहिया-सड़क घर्षण से गाड़ी — शून्य घर्षण में असंभव।",
+        "en": "Pad-wheel friction stops the wheel; wheel-road friction stops the car — impossible with zero friction."
+      }
+    },
+    {
+      "id": "phy3_q248",
+      "topic": "action-reaction-friction",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अंतरिक्ष में (बिना वायु के) रॉकेट आगे कैसे बढ़ता है?",
+        "en": "How does a rocket advance in space (with no air)?"
+      },
+      "options": {
+        "hi": [
+          "वायु को धकेलकर",
+          "सूर्य के प्रकाश से खिंचकर",
+          "जड़त्व से अपने आप",
+          "पीछे उछाली गैस की प्रतिक्रिया से — वायु की जरूरत नहीं"
+        ],
+        "en": [
+          "By pushing against air",
+          "By being pulled by sunlight",
+          "By inertia alone",
+          "By the reaction of the gas it expels backward — no air is needed"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रतिक्रिया गैस-रॉकेट के बीच है, बाहरी वायु से नहीं — निर्वात में भी संभव।",
+        "en": "The reaction is between gas and rocket, not with outside air — it works in vacuum."
+      }
+    },
+    {
+      "id": "phy3_q249",
+      "topic": "action-reaction-friction",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: घर्षण दो सतहों के संपर्क का बल है। कथन B: वायु का प्रतिरोध भी गति के विरोधी बल है। सही विकल्प —",
+        "en": "Statement A: friction is a force of contact between two surfaces. Statement B: air resistance too is a force opposing motion. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "घर्षण संपर्क बल है और वायु प्रतिरोध भी गति विरोधी ही कार्य करता है।",
+        "en": "Friction is a contact force and air drag likewise opposes motion."
+      }
+    },
+    {
+      "id": "phy3_q250",
+      "topic": "action-reaction-friction",
+      "difficulty": "hard",
+      "question": {
+        "hi": "घर्षण घटाने के लिए प्रयुक्त तीन उपायों वाला सही समूह —",
+        "en": "Pick the correct set of three methods of reducing friction —"
+      },
+      "options": {
+        "hi": [
+          "वजन बढ़ाना, ग्रीस, चौड़े तल",
+          "स्नेहन, रोलर/बॉल बेयरिंग, धारावाहिक आकार",
+          "रूखी सतह, तेल, भारी टायर",
+          "कीले, उभार, खुरदुरापन"
+        ],
+        "en": [
+          "Adding weight, grease, broad soles",
+          "Lubrication, rollers/ball bearings, streamlined shape",
+          "Rough surface, oil, heavy tyres",
+          "Spikes, treads, roughness"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मानक तीन उपाय — स्नेहक, रोलिंग (बेयरिंग) और धारावाहिक आकार।",
+        "en": "The standard three — lubricants, rolling (bearings) and streamlining."
+      }
+    }
+  ]
+}

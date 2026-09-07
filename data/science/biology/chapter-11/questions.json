@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "ch11_q1101",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रोग उत्पन्न करने वाले सूक्ष्मजीवों को क्या कहा जाता है?",
+        "en": "What are disease-causing microorganisms called?"
+      },
+      "options": {
+        "hi": [
+          "रोगाणु (पैथोजन)",
+          "प्रकाश-संश्लेषक",
+          "वाष्पक",
+          "खनिज"
+        ],
+        "en": [
+          "Pathogens",
+          "Photosynthesisers",
+          "Vaporisers",
+          "Minerals"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जो सूक्ष्मजीव शरीर में घुसकर बीमारी पैदा करते हैं, वे रोगाणु कहलाते हैं।",
+        "en": "Microbes that enter the body and produce illness are called pathogens."
+      }
+    },
+    {
+      "id": "ch11_q1102",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मलेरिया किस प्रकार के सूक्ष्मजीव से होता है?",
+        "en": "Malaria is caused by which kind of microorganism?"
+      },
+      "options": {
+        "hi": [
+          "शैवाल से",
+          "प्रोटोज़ोआ से",
+          "वायरस से",
+          "फफूंद से"
+        ],
+        "en": [
+          "An alga",
+          "A protozoan",
+          "A virus",
+          "A fungus"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मलेरिया प्रोटोज़ोआ (प्लाज्मोडियम) से होता है, जो मादा एनोफेलीज़ मच्छर के काटने से फैलता है।",
+        "en": "Malaria comes from a protozoan (Plasmodium), spread by the bite of the female Anopheles mosquito."
+      }
+    },
+    {
+      "id": "ch11_q1103",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चेचक (smallpox) किस प्रकार के रोगाणु से होता है?",
+        "en": "Smallpox is caused by which kind of pathogen?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटोज़ोआ से",
+          "फफूंद से",
+          "वायरस से",
+          "बैक्टीरिया से"
+        ],
+        "en": [
+          "A protozoan",
+          "A fungus",
+          "A virus",
+          "A bacterium"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चेचक एक वायरल रोग है — टीके की शक्ति से ही इसे दुनिया से लगभग मिटाया जा सका।",
+        "en": "Smallpox is a viral disease — it could be erased from the world only by the power of vaccination."
+      }
+    },
+    {
+      "id": "ch11_q1104",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हैजा मुख्यतः किस प्रकार के रोगाणु से होता है?",
+        "en": "Cholera is caused mainly by which kind of pathogen?"
+      },
+      "options": {
+        "hi": [
+          "वायरस से",
+          "फफूंद से",
+          "कीट से",
+          "बैक्टीरिया से"
+        ],
+        "en": [
+          "A virus",
+          "A fungus",
+          "An insect",
+          "A bacterium"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हैजा जीवाणु (विब्रियो) का रोग है — दूषित जल और भोजन इसकी मुख्य सवारी है।",
+        "en": "Cholera is a bacterial (Vibrio) disease — contaminated water and food are its main carriers."
+      }
+    },
+    {
+      "id": "ch11_q1105",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तपेदिक (टीबी) किस प्रकार के रोगाणु से होता है?",
+        "en": "Tuberculosis is caused by which kind of pathogen?"
+      },
+      "options": {
+        "hi": [
+          "बैक्टीरिया से",
+          "वायरस से",
+          "प्रोटोज़ोआ से",
+          "फफूंद से"
+        ],
+        "en": [
+          "A bacterium",
+          "A virus",
+          "A protozoan",
+          "A fungus"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "टीबी का जीवाणु वायु में फैली छींक-बूंदों से स्वस्थ व्यक्ति तक पहुँचता है।",
+        "en": "TB's bacterium reaches a healthy person through sneeze-droplets spread in the air."
+      }
+    },
+    {
+      "id": "ch11_q1106",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पोलियो किस प्रकार के रोगाणु से होता है?",
+        "en": "Polio is caused by which kind of pathogen?"
+      },
+      "options": {
+        "hi": [
+          "फफूंद से",
+          "वायरस से",
+          "बैक्टीरिया से",
+          "प्रोटोज़ोआ से"
+        ],
+        "en": [
+          "A fungus",
+          "A virus",
+          "A bacterium",
+          "A protozoan"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पोलियो वायरस तंत्रिका तंत्र पर हमला करता है — पल्स-पोलियो बूँदों ने भारत में इसे हराया।",
+        "en": "The polio virus attacks the nervous system — pulse-polio drops defeated it in India."
+      }
+    },
+    {
+      "id": "ch11_q1107",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "डेंगू किस कीट द्वारा फैलाया जाता है?",
+        "en": "Dengue is spread by which insect?"
+      },
+      "options": {
+        "hi": [
+          "तितली द्वारा",
+          "चींटी द्वारा",
+          "एडीज मच्छर द्वारा",
+          "मक्खी द्वारा"
+        ],
+        "en": [
+          "The butterfly",
+          "The ant",
+          "The Aedes mosquito",
+          "The housefly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "डेंगू एडीज मच्छर के काटने से फैलता है — दिन में काटने वाला यह मच्छर साफ-ठहरा जल में पलता है।",
+        "en": "Dengue spreads by the Aedes mosquito's bite — this day-biter breeds in clean standing water."
+      }
+    },
+    {
+      "id": "ch11_q1108",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मलेरिया फैलाने वाला मच्छर कौन-सा है?",
+        "en": "Which mosquito spreads malaria?"
+      },
+      "options": {
+        "hi": [
+          "नर एनोफेलीज़",
+          "घर की मक्खी",
+          "मधुमक्खी",
+          "मादा एनोफेलीज़"
+        ],
+        "en": [
+          "The male Anopheles",
+          "The housefly",
+          "The honeybee",
+          "The female Anopheles"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मलेरिया का प्लाज्मोडियम मादा एनोफेलीज़ के काटने से ही शरीर में उतरता है।",
+        "en": "Malaria's Plasmodium enters the body only through the bite of the female Anopheles."
+      }
+    },
+    {
+      "id": "ch11_q1109",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खुजली वाली त्वचा-रोग 'दाद' (ringworm) किस सूक्ष्मजीव से होता है?",
+        "en": "The itchy skin disease 'ringworm' is caused by which microorganism?"
+      },
+      "options": {
+        "hi": [
+          "फफूंद से",
+          "बैक्टीरिया से",
+          "वायरस से",
+          "प्रोटोज़ोआ से"
+        ],
+        "en": [
+          "A fungus",
+          "A bacterium",
+          "A virus",
+          "A protozoan"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दाद एक फंगल रोग है — संक्रमित व्यक्ति के सीधे संपर्क या उसके तौलिये-कपड़ों से फैलता है।",
+        "en": "Ringworm is a fungal disease — spreading by direct contact with an infected person or their towel-clothes."
+      }
+    },
+    {
+      "id": "ch11_q1110",
+      "topic": "harmful-microbes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जलांतक (रेबीज़) का वायरस सामान्यतः किससे मनुष्य को संक्रमित करता है?",
+        "en": "The rabies virus usually infects humans through what?"
+      },
+      "options": {
+        "hi": [
+          "धूप से",
+          "पागल कुत्ते के काटने से",
+          "मक्खी की भिनभिनाहट से",
+          "ठंडे पानी से"
+        ],
+        "en": [
+          "Sunshine",
+          "The bite of a rabid dog",
+          "A fly's buzzing",
+          "Cold water"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रेबीज़ वायरस संक्रमित जानवर की लार के साथ काट के घाव से शरीर में घुसता है — बुखार-डायरिया नहीं, मस्तिष्क पर हमला।",
+        "en": "The rabies virus enters through the bite wound along with an infected animal's saliva — attacking not fever-diarrhoea but the brain."
+      }
+    },
+    {
+      "id": "ch11_q1111",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हैजा और टाइफॉइड मुख्य रूप से किस माध्यम से फैलते हैं?",
+        "en": "Cholera and typhoid spread mainly through which medium?"
+      },
+      "options": {
+        "hi": [
+          "मिट्टी की खुशबू से",
+          "सूर्य-प्रकाश से",
+          "दूषित जल एवं भोजन से",
+          "वायु की लहरों से"
+        ],
+        "en": [
+          "The smell of soil",
+          "Sunlight",
+          "Contaminated water and food",
+          "Air waves"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मल-मिश्रित जल और दूषित भोजन जीवाणु-रोगों की असली सड़क हैं — उबला पानी यह सड़क तोड़ देता है।",
+        "en": "Faeces-mixed water and contaminated food are the true highway of bacterial diseases — boiled water cuts this road."
+      }
+    },
+    {
+      "id": "ch11_q1112",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खसरा (measles) और चेचक किस मार्ग से एक व्यक्ति से दूसरे तक पहुँचते हैं?",
+        "en": "By which route do measles and smallpox pass from one person to another?"
+      },
+      "options": {
+        "hi": [
+          "किताबों के पन्नों से",
+          "पेड़ की छाल से",
+          "चट्टानों से",
+          "रोगी की छींक-खांसी की बूंदों से (वायु)"
+        ],
+        "en": [
+          "Through book pages",
+          "Through tree bark",
+          "Through rocks",
+          "Through the droplets of the patient's sneeze-cough (air)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वायु-जनित रोगों के रोगाणु छींक के साथ हवा में उड़ते हैं और साँस के साथ दूसरे शरीर में उतरते हैं।",
+        "en": "Airborne germs fly with the sneeze into the air and descend into another body with the breath."
+      }
+    },
+    {
+      "id": "ch11_q1113",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा रोग मादा एनोफेलीज़ मच्छर से नहीं फैलता?",
+        "en": "Which of these diseases is NOT spread by the female Anopheles mosquito?"
+      },
+      "options": {
+        "hi": [
+          "डेंगू",
+          "मलेरिया",
+          "दोनों फैलते हैं",
+          "कोई नहीं"
+        ],
+        "en": [
+          "Dengue",
+          "Malaria",
+          "Both are spread",
+          "None"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एनोफेलीज़ की सवारी पर केवल मलेरिया का प्लाज्मोडियम चढ़ता है; डेंगू का वाहक एडीज है।",
+        "en": "Only malaria's Plasmodium rides the Anopheles; dengue's carrier is the Aedes."
+      }
+    },
+    {
+      "id": "ch11_q1114",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'वाहक' (vector) किसे कहते हैं?",
+        "en": "What is called a 'vector'?"
+      },
+      "options": {
+        "hi": [
+          "वह पत्थर जो लुढ़कता है",
+          "वह जीव जो रोगाणु को एक व्यक्ति से दूसरे तक पहुँचाता है",
+          "वह जीव जो खुद बीमार होता है",
+          "वह पौधा जो भोजन बनाता है"
+        ],
+        "en": [
+          "A stone that rolls",
+          "An organism that carries the pathogen from one person to another",
+          "An organism that itself falls ill",
+          "A plant that makes food"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मच्छर स्वयं मलेरिया से बीमार नहीं होता, पर वह प्लाज्मोडियम की सवारी करता है — यही वाहकता है।",
+        "en": "The mosquito does not itself fall sick of malaria, yet it gives Plasmodium a ride — that is vectorhood."
+      }
+    },
+    {
+      "id": "ch11_q1115",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भोजन पर बैठी मक्खी किस प्रकार रोग फैलाती है?",
+        "en": "How does a fly sitting on food spread disease?"
+      },
+      "options": {
+        "hi": [
+          "वह भोजन को जमा देती है",
+          "वह भोजन को रंग देती है",
+          "वह गंदे स्थानों से रोगाणु शरीर पर लाकर भोजन पर उतारती है",
+          "वह भोजन को गर्म कर देती है"
+        ],
+        "en": [
+          "It freezes the food",
+          "It colours the food",
+          "It brings germs on its body from dirty places and deposits them on food",
+          "It warms the food"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मक्खी का शरीर गंदगी की टैक्सी है — कूड़े से रोगाणु उठाकर वह खाने की थाली तक पहुँचा देती है।",
+        "en": "The fly's body is a taxi of filth — it lifts germs from garbage and delivers them up to the plate."
+      }
+    },
+    {
+      "id": "ch11_q1116",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हैपेटाइटिस-A (पीलिया) रोगाणु मुख्यतः शरीर में किस मार्ग से प्रवेश करता है?",
+        "en": "The hepatitis-A (jaundice) germ mainly enters the body by which route?"
+      },
+      "options": {
+        "hi": [
+          "कान के रास्ते",
+          "बालों के रास्ते",
+          "नाखूनों के रास्ते",
+          "दूषित जल-भोजन के साथ मुँह से"
+        ],
+        "en": [
+          "Through the ears",
+          "Through the hair",
+          "Through the nails",
+          "Through the mouth with contaminated water-food"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पीलिया का वायरस मल-संदूषित जल से यात्रा करता है — इसीलिए उबला-छना पानी इसकी पहली रोक है।",
+        "en": "Jaundice's virus travels in faeces-tainted water — boiled-filtered water is its first barrier."
+      }
+    },
+    {
+      "id": "ch11_q1117",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न रोग-रोगाणु युग्मों में से कौन-सा सुमेलित नहीं है?",
+        "en": "Which disease-pathogen pair is NOT correctly matched?"
+      },
+      "options": {
+        "hi": [
+          "हैजा — वायरस",
+          "मलेरिया — प्रोटोज़ोआ",
+          "चेचक — वायरस",
+          "दाद — फफूंद"
+        ],
+        "en": [
+          "Cholera — virus",
+          "Malaria — protozoan",
+          "Smallpox — virus",
+          "Ringworm — fungus"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हैजा जीवाणु का रोग है, वायरस का नहीं — बाकी तीनों जोड़े सही बैठते हैं।",
+        "en": "Cholera is a bacterial disease, not viral — the other three pairs sit right."
+      }
+    },
+    {
+      "id": "ch11_q1118",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तपेदिक का जीवाणु मुख्यतः शरीर के किस अंग को क्षति पहुँचाता है?",
+        "en": "TB bacteria mainly damage which organ of the body?"
+      },
+      "options": {
+        "hi": [
+          "बालों को",
+          "फेफड़ों को",
+          "आँखों को",
+          "नाखूनों को"
+        ],
+        "en": [
+          "The hair",
+          "The lungs",
+          "The eyes",
+          "The nails"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "टीबी का जीवाणु वायु की सवारी से फेफड़ों तक पहुँचता है — वहीं अपनी कॉलोनी बसाता है।",
+        "en": "TB's bacterium rides the air up to the lungs — and pitches its colony right there."
+      }
+    },
+    {
+      "id": "ch11_q1119",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कोरोना-वायरस जैसे रोगाणु एक-दूसरे तक मुख्यतः कैसे पहुँचते हैं?",
+        "en": "How do germs like the coronavirus mainly reach one person from another?"
+      },
+      "options": {
+        "hi": [
+          "दीवार के रंग से",
+          "किताब के कवर से",
+          "साँस और छींक-बूंदों के संपर्क से",
+          "जूतों के फिते से"
+        ],
+        "en": [
+          "Through wall paint",
+          "Through book covers",
+          "Through breath and sneeze-droplet contact",
+          "Through shoelaces"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संक्रमित व्यक्ति की बोली-छींक की बूंदें हवा में रोगाणु बिखेरती हैं — मास्क और दूरी इसी बिखराव को रोकते हैं।",
+        "en": "An infected person's speech-sneeze droplets scatter germs in air — masks and distance stop this very scatter."
+      }
+    },
+    {
+      "id": "ch11_q1120",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "टाइफॉइड का जीवाणु शरीर में प्रवेश का मुख्य द्वार कौन-सा है?",
+        "en": "Which is the main door of entry for the typhoid bacterium?"
+      },
+      "options": {
+        "hi": [
+          "त्वचा के छिद्र",
+          "कान का पर्दा",
+          "आँख की पुतली",
+          "दूषित जल-भोजन के साथ मुँह"
+        ],
+        "en": [
+          "Pores of the skin",
+          "The eardrum",
+          "The pupil of the eye",
+          "The mouth, with contaminated water-food"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "टाइफॉइड जीवाणु का प्रवेश-द्वार मुँह है — अशुद्ध जल पीकर ही यह यात्रा शुरू होती है।",
+        "en": "The typhoid bacterium's entry-gate is the mouth — the journey begins only by drinking impure water."
+      }
+    },
+    {
+      "id": "ch11_q1121",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोगाणु शरीर में घुसने के लिए सामान्यतः कौन-से द्वार अपनाते हैं?",
+        "en": "Which doors do pathogens generally use to enter the body?"
+      },
+      "options": {
+        "hi": [
+          "श्वास, भोजन-जल, घाव और संपर्क",
+          "केवल बाल",
+          "केवल नाखून",
+          "केवल दाँत"
+        ],
+        "en": [
+          "Breath, food-water, wounds and contact",
+          "Only hair",
+          "Only nails",
+          "Only teeth"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नाक-मुँह, भोजन-जल, खुले घाव और सीधा संपर्क — रोगाणु के चार चलते-फिरते दरवाज़े।",
+        "en": "Nose-mouth, food-water, open wounds and direct contact — the four ever-open doors of pathogens."
+      }
+    },
+    {
+      "id": "ch11_q1122",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फंगल त्वचा-रोग किन संपर्कों से बचाव माँगते हैं?",
+        "en": "Fungal skin diseases demand protection from which contacts?"
+      },
+      "options": {
+        "hi": [
+          "धूप की किरण से",
+          "रोगी के तौलिए, कपड़ों और सीधे स्पर्श से",
+          "साफ हवा से",
+          "उबले पानी से"
+        ],
+        "en": [
+          "Sunray",
+          "The patient's towel, clothes and direct touch",
+          "Clean air",
+          "Boiled water"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फंगल बीज गीले-गर्म साझा सामानों में पलते हैं — व्यक्तिगत तौलिया-चप्पल ही रोक है।",
+        "en": "Fungal seeds breed in shared damp-warm articles — a personal towel-slipper is the barrier."
+      }
+    },
+    {
+      "id": "ch11_q1123",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गेहूँ की फसल पर लगने वाला 'रतुआ' (rust) रोग किस सूक्ष्मजीव से होता है?",
+        "en": "The 'rust' disease of wheat crop is caused by which microorganism?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटोज़ोआ से",
+          "शैवाल से",
+          "फफूंद से",
+          "वायरस से"
+        ],
+        "en": [
+          "A protozoan",
+          "An alga",
+          "A fungus",
+          "A virus"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रतुआ एक फंगल फसल-रोग है — नाम 'फफूंदी' से ही लिए बिना फसल को जंग लगा देता है।",
+        "en": "Rust is a fungal crop disease — true to its name it corrodes the crop like iron-rust."
+      }
+    },
+    {
+      "id": "ch11_q1124",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा वायरल रोग नहीं है?",
+        "en": "Which of the following is NOT a viral disease?"
+      },
+      "options": {
+        "hi": [
+          "पोलियो",
+          "खसरा",
+          "चेचक",
+          "मलेरिया"
+        ],
+        "en": [
+          "Polio",
+          "Measles",
+          "Smallpox",
+          "Malaria"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मलेरिया प्रोटोज़ोआ का रोग है — पोलियो, खसरा और चेचक तीनों वायरल हैं।",
+        "en": "Malaria is a protozoan disease — polio, measles and smallpox are all viral."
+      }
+    },
+    {
+      "id": "ch11_q1125",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अमीबा-पेचिश (अमीबियासिस) किस सूक्ष्म-समूह का रोग है?",
+        "en": "Amoebic dysentery is a disease of which micro-group?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटोज़ोआ",
+          "वायरस",
+          "फफूंद",
+          "बैक्टीरिया"
+        ],
+        "en": [
+          "Protozoa",
+          "Virus",
+          "Fungus",
+          "Bacteria"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अमीबा एक प्रोटोज़ोआ है — दूषित जल-भोजन से आँत तक पहुँचकर पेचिश कराता है।",
+        "en": "Amoeba is a protozoan — reaching the gut via contaminated water-food it causes dysentery."
+      }
+    },
+    {
+      "id": "ch11_q1126",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोगाणु शरीर के भीतर आकर मुख्यतः क्या करते हैं?",
+        "en": "What do pathogens mainly do after entering the body?"
+      },
+      "options": {
+        "hi": [
+          "वे हड्डियाँ मजबूत करते हैं",
+          "वे शरीर की कोशिकाओं/ऊतकों को क्षति पहुँचाकर विषाक्त पदार्थ बनाते हैं",
+          "वे शरीर साफ करते हैं",
+          "वे रक्त में ठंडक लाते हैं"
+        ],
+        "en": [
+          "They strengthen bones",
+          "They damage the body's cells/tissues and produce toxic substances",
+          "They clean the body",
+          "They cool the blood"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रोगाणु अपने विष और कोशिका-तोड़ से शरीर की सामान्य क्रिया बिगाड़ देते हैं — बीमारी के लक्षण उसी की आवाज़ हैं।",
+        "en": "With their toxins and cell-breaking, pathogens derange the body's normal working — the symptoms of disease are its voice."
+      }
+    },
+    {
+      "id": "ch11_q1127",
+      "topic": "harmful-microbes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मलेरिया के प्लाज्मोडियम मच्छर के शरीर से मनुष्य तक किस रूप में यात्रा करता है?",
+        "en": "How does malaria's Plasmodium travel from the mosquito's body to the human?"
+      },
+      "options": {
+        "hi": [
+          "मच्छर के पंखों के रंग के साथ",
+          "मच्छर के अंडों के साथ",
+          "मच्छर के काटने पर उसकी लार के साथ",
+          "मच्छर की भिनभिनाहट के साथ"
+        ],
+        "en": [
+          "With the colour of its wings",
+          "With the mosquito's eggs",
+          "With its saliva when the mosquito bites",
+          "With the mosquito's buzzing"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "काटते समय मच्छर लार में घुले प्लाज्मोडियम को रक्त-धारा में उतार देता है।",
+        "en": "While biting, the mosquito drops Plasmodium dissolved in saliva into the bloodstream."
+      }
+    },
+    {
+      "id": "ch11_q1128",
+      "topic": "harmful-microbes",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक वायरल और एक बैक्टीयल रोग का सुमेलन-युग्म चुनिए —",
+        "en": "Pick the correctly matched pair of one viral and one bacterial disease —"
+      },
+      "options": {
+        "hi": [
+          "हैजा (वायरल) + खसरा (बैक्टीयल)",
+          "दाद (वायरल) + पोलियो (बैक्टीयल)",
+          "मलेरिया (वायरल) + चेचक (बैक्टीयल)",
+          "पोलियो (वायरल) + टाइफॉइड (बैक्टीयल)"
+        ],
+        "en": [
+          "Cholera (viral) + Measles (bacterial)",
+          "Ringworm (viral) + Polio (bacterial)",
+          "Malaria (viral) + Smallpox (bacterial)",
+          "Polio (viral) + Typhoid (bacterial)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पोलियो वायरस का और टाइफॉइड जीवाणु का रोग है — केवल पहला युग्म दोनों तटों पर सही।",
+        "en": "Polio is a virus's disease and typhoid a bacterium's — only the first pair stands right on both banks."
+      }
+    },
+    {
+      "id": "ch11_q1129",
+      "topic": "harmful-microbes",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एडीज़ और एनोफेलीज़ — दोनों मच्छरों के रोग-सवारों पर विचार कीजिए। कौन-सा कथन सही है?",
+        "en": "Consider the disease-riders of both Aedes and Anopheles mosquitoes. Which statement is correct?"
+      },
+      "options": {
+        "hi": [
+          "एनोफेलीज़-मलेरिया और एडीज़-डेंगू युग्म सही हैं",
+          "एनोफेलीज़-डेंगू और एडीज़-मलेरिया युग्म सही हैं",
+          "दोनों मच्छर केवल चेचक फैलाते हैं",
+          "दोनों मच्छर केवल दाद फैलाते हैं"
+        ],
+        "en": [
+          "The pairs Anopheles-malaria and Aedes-dengue are correct",
+          "The pairs Anopheles-dengue and Aedes-malaria are correct",
+          "Both mosquitoes spread only smallpox",
+          "Both mosquitoes spread only ringworm"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मलेरिया की सवारी एनोफेलीज़ करता है, डेंगू की एडीज़ — दोनों युग्म अपनी-अपनी जगह सही।",
+        "en": "Malaria rides the Anopheles, dengue the Aedes — both pairs correct in their own places."
+      }
+    },
+    {
+      "id": "ch11_q1130",
+      "topic": "harmful-microbes",
+      "difficulty": "hard",
+      "question": {
+        "hi": "रोगाणुओं की तीन अलग-अलग सवारियाँ — जल, वायु और मच्छर। इन तीनों से फैलने वाले रोगों का सही क्रम कौन-सा है?",
+        "en": "Three different rides of pathogens — water, air and mosquito. Which is the correct order of diseases spread by them?"
+      },
+      "options": {
+        "hi": [
+          "जल-खसरा, वायु-डेंगू, मच्छर-टाइफॉइड",
+          "जल-हैजा, वायु-तपेदिक, मच्छर-मलेरिया",
+          "जल-चेचक, वायु-हैजा, मच्छर-पोलियो",
+          "जल-दाद, वायु-मलेरिया, मच्छर-टीबी"
+        ],
+        "en": [
+          "Water-measles, air-dengue, mosquito-typhoid",
+          "Water-cholera, air-TB, mosquito-malaria",
+          "Water-smallpox, air-cholera, mosquito-polio",
+          "Water-ringworm, air-malaria, mosquito-TB"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हैजा जल की सवारी पर, तपेदिक हवा की, मलेरिया मच्छर की — पहला क्रम तीनों यात्राओं को सही बैठाता है।",
+        "en": "Cholera rides water, TB rides air, malaria rides the mosquito — the first order seats all three journeys rightly."
+      }
+    },
+    {
+      "id": "ch11_q1131",
+      "topic": "microbial-world",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूक्ष्मजीवों को देखने के लिए किस यंत्र की आवश्यकता होती है?",
+        "en": "Which instrument is needed to see microorganisms?"
+      },
+      "options": {
+        "hi": [
+          "थर्मामीटर",
+          "बैरोमीटर",
+          "सूक्ष्मदर्शी (माइक्रोस्कोप)",
+          "दूरबीन"
+        ],
+        "en": [
+          "A thermometer",
+          "A barometer",
+          "A microscope",
+          "A telescope"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "नेत्र से अदृश्य इस सूक्ष्म जगत का दरवाज़ा सूक्ष्मदर्शी की लेंस खोलती है।",
+        "en": "The lens of a microscope opens the door to this invisible miniature world."
+      }
+    },
+    {
+      "id": "ch11_q1132",
+      "topic": "microbial-world",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूक्ष्मजीवों के चार प्रमुख समूह कौन-से हैं?",
+        "en": "Which are the four major groups of microorganisms?"
+      },
+      "options": {
+        "hi": [
+          "गाय, बकरी, भेल, ऊन",
+          "कुत्ता, बिल्ली, घोड़ा, गधा",
+          "कबूतर, कौआ, मोर, तोता",
+          "बैक्टीरिया, वायरस, फफूंद, प्रोटोज़ोआ"
+        ],
+        "en": [
+          "Cow, goat, sheep, wool",
+          "Dog, cat, horse, donkey",
+          "Pigeon, crow, peacock, parrot",
+          "Bacteria, viruses, fungi, protozoa"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जीवाणु, विषाणु, फफूंद और प्रोटोज़ोआ — यही चार गुट सूक्ष्म-जगत के मुख्य खंभे हैं।",
+        "en": "Bacteria, viruses, fungi and protozoa — these four clans are the main pillars of the micro-world."
+      }
+    },
+    {
+      "id": "ch11_q1133",
+      "topic": "microbial-world",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बैक्टीरिया किस प्रकार के जीव हैं — आकार की दृष्टि से?",
+        "en": "What kind of beings are bacteria — in terms of size?"
+      },
+      "options": {
+        "hi": [
+          "अति-सूक्ष्म एकल-कोशिका जीव",
+          "विशाल बहु-कोशिका जीव",
+          "मानव-आकार जीव",
+          "पर्वत-आकार जीव"
+        ],
+        "en": [
+          "Extremely tiny single-celled beings",
+          "Giant multicellular beings",
+          "Human-sized beings",
+          "Mountain-sized beings"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक बूँद जल में लाखों बैक्टीरिया समा सकते हैं — इतने छोटे और एकल-कोशिका।",
+        "en": "Millions of bacteria can fit in one drop of water — so tiny and single-celled."
+      }
+    },
+    {
+      "id": "ch11_q1134",
+      "topic": "microbial-world",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूक्ष्मजीव कहाँ-कहाँ पाए जाते हैं?",
+        "en": "Where are microorganisms found?"
+      },
+      "options": {
+        "hi": [
+          "केवल चंद्रमा पर",
+          "मिट्टी, जल, वायु — लगभग हर जगह",
+          "केवल रेगिस्तान में",
+          "केवल बर्फ में"
+        ],
+        "en": [
+          "Only on the moon",
+          "Soil, water, air — almost everywhere",
+          "Only in deserts",
+          "Only in ice"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ध्रुवीय बर्फ से गर्म झरनों तक, गहरी मिट्टी से वायु की ऊँचाइयों तक — सूक्ष्मजीव हर मौसम में घर बना लेते हैं।",
+        "en": "From polar ice to hot springs, from deep soil to the heights of air — microbes make home in every weather."
+      }
+    },
+    {
+      "id": "ch11_q1135",
+      "topic": "microbial-world",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायरस को 'जीव और निर्जीव की सीमा' किस विशेषता से कहा जाता है?",
+        "en": "Why is the virus called 'the border of living and non-living'?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह गाना गाता है",
+          "क्योंकि वह रंग बदलता है",
+          "जीवित कोशिका के बाहर निष्क्रिय, भीतर प्रजननशील",
+          "क्योंकि वह हर जगह दौड़ता है"
+        ],
+        "en": [
+          "Because it sings",
+          "Because it changes colour",
+          "Outside a living cell it is inert, inside it multiplies",
+          "Because it runs everywhere"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मेज़ पर रखा वायरस निर्जीव कण-मात्र; कोशिका में घुसते ही जीवतंत्र — दोनों दुनिया की नागरिकता रखता है।",
+        "en": "On the table a virus is but a lifeless particle; entering a cell it becomes lifeware — a citizen of both worlds."
+      }
+    },
+    {
+      "id": "ch11_q1136",
+      "topic": "microbial-world",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रोटी पर लगी हरी-काली 'फफूंद' किस सूक्ष्म-समूह का उदाहरण है?",
+        "en": "The green-black 'mould' on bread is an example of which micro-group?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटोज़ोआ",
+          "वायरस",
+          "शैवाल",
+          "फफूंद (fungi)"
+        ],
+        "en": [
+          "Protozoa",
+          "Virus",
+          "Algae",
+          "Fungi"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गीली रोटी की सतह पर फैलता यह रंगीन दलदल फंगल वृद्धि है — सूक्ष्मजगत का सबसे दृश्य चेहरा।",
+        "en": "This coloured spread on wet bread is fungal growth — the micro-world's most visible face."
+      }
+    },
+    {
+      "id": "ch11_q1137",
+      "topic": "microbial-world",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कीचड़ की बूंद में घूमता अमीबा और फानुस-जैसा पैरामीशियम — सूक्ष्म-जगत की इस टोली का नाम क्या है?",
+        "en": "The roaming Amoeba in a drop of mud and the balloon-like Paramecium — what is this squad of the micro-world called?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटोज़ोआ",
+          "वायरस",
+          "फफूंद",
+          "बैक्टीरिया"
+        ],
+        "en": [
+          "Protozoa",
+          "Virus",
+          "Fungi",
+          "Bacteria"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जल में घुमंतू इन एकल-कोशिका जीवों की टोली प्रोटोज़ोआ कहलाती है — मलेरिया का प्लाज्मोडियम भी इसी कुनबे का।",
+        "en": "The squad of these wandering single-celled beings in water is called protozoa — malaria-causing Plasmodium too belongs to this clan."
+      }
+    },
+    {
+      "id": "ch11_q1138",
+      "topic": "microbial-world",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूक्ष्मजीवों की खोज का श्रेय किसे दिया जाता है?",
+        "en": "Who is credited with the discovery of microorganisms?"
+      },
+      "options": {
+        "hi": [
+          "राइट बंधुओं को",
+          "ल्यूवेनहॉक को",
+          "न्यूटन को",
+          "ईडिसन को"
+        ],
+        "en": [
+          "The Wright brothers",
+          "Leeuwenhoek",
+          "Newton",
+          "Edison"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एंटनी वैन ल्यूवेनहॉक ने अपने आत्म-निर्मित लेंस से सर्वप्रथम इस सूक्ष्म-जगत को देखा — 'ऐनिमलक्यूल्स' कहा।",
+        "en": "Antonie van Leeuwenhoek first saw this micro-world through his self-made lenses — calling them 'animalcules'."
+      }
+    },
+    {
+      "id": "ch11_q1139",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीवाणुओं और वायरसों के बीच आधारभूत अंतर क्या है?",
+        "en": "What is the fundamental difference between bacteria and viruses?"
+      },
+      "options": {
+        "hi": [
+          "वायरस प्रकाश-संश्लेषण करते हैं",
+          "जीवाणु पानी में तैरते नहीं",
+          "जीवाणु स्वतंत्र रूप से बढ़ सकते हैं; वायरस केवल जीवित कोशिका में",
+          "जीवाणु छोटे नहीं होते"
+        ],
+        "en": [
+          "Viruses photosynthesise",
+          "Bacteria cannot float in water",
+          "Bacteria can grow independently; viruses only inside a living cell",
+          "Bacteria are never small"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जीवाणु पूरी कोशिका हैं और अपना गुणन खुद करते हैं; वायरस कोशिका तक नहीं — किराए की छापाखाने में ही अपनी प्रतियाँ छपवाते हैं।",
+        "en": "Bacteria are full cells and multiply on their own; viruses are not even cells — they get their copies printed in a rented press."
+      }
+    },
+    {
+      "id": "ch11_q1140",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रोटोज़ोआ की प्रमुख पहचान क्या है?",
+        "en": "What is the chief identity of protozoa?"
+      },
+      "options": {
+        "hi": [
+          "बहु-कोशिका वाले विशाल पौधे",
+          "कोशिका-रहित कण",
+          "पत्थर के टुकड़े",
+          "एकल-कोशिका वाले सूक्ष्म 'प्राणी-जैसे' जीव"
+        ],
+        "en": [
+          "Giant multicellular plants",
+          "Cell-less particles",
+          "Pieces of stone",
+          "Single-celled microscopic 'animal-like' beings"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अमीबा-पैरामीशियम जैसे प्रोटोज़ोआ एकल-कोशिका होकर भी चलते-फिरते, खाते-पचाते मिलते हैं — प्राणी-स्वभाव सूक्ष्म शरीर में।",
+        "en": "Protozoa like Amoeba-Paramecium, though single-celled, move about and feed — animal-nature in a tiny body."
+      }
+    },
+    {
+      "id": "ch11_q1141",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वर्षा के दिनों में नम कपड़ों-चीज़ों पर फफूंद जल्दी क्यों लगती है?",
+        "en": "Why does mould catch damp clothes-things quickly in rainy days?"
+      },
+      "options": {
+        "hi": [
+          "नमी और गर्मी फफूंद के बीजों के अंकुरण की सबसे अनुकूल ऋतु है",
+          "क्योंकि फफूंद को धूप चाहिए",
+          "क्योंकि फफूंद बर्फ में बढ़ती है",
+          "क्योंकि वर्षा में सब कुछ सूखता है"
+        ],
+        "en": [
+          "Moisture and warmth are the most favourable season for mould spores to germinate",
+          "Because mould needs sunshine",
+          "Because mould grows in ice",
+          "Because everything dries in rain"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फफूंद के बीज हवा में भरे रहते हैं — नम-गर्म मौसम मिलते ही मौका पाकर उग जाते हैं।",
+        "en": "Mould spores fill the air — the moment damp-warm weather arrives they sprout at the chance."
+      }
+    },
+    {
+      "id": "ch11_q1142",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु में उड़ते सूक्ष्मजीव-बीज किस नाम से जाने जाते हैं?",
+        "en": "By what name are the microbe-seeds flying in the air known?"
+      },
+      "options": {
+        "hi": [
+          "जल-बूँद",
+          "बीजाणु (स्पोर)",
+          "पराग-कण",
+          "धूल-कण"
+        ],
+        "en": [
+          "Water droplets",
+          "Spores",
+          "Pollen grains",
+          "Dust particles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्पोर हल्के और सख्त आवरण वाले बीज हैं — हवा की सवारी में दूर तक उड़कर नए ठिकानों पर जमते हैं।",
+        "en": "Spores are light, hard-coated seeds — riding the wind they settle on new stations far away."
+      }
+    },
+    {
+      "id": "ch11_q1143",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म जल-धाराओं (hot springs) में भी कुछ सूक्ष्मजीव जीवित रहते हैं — यह किसका प्रमाण है?",
+        "en": "Some microorganisms survive even in hot springs — proof of what?"
+      },
+      "options": {
+        "hi": [
+          "जीवन की नदी में अंडे न होना",
+          "सूक्ष्मदर्शी का टूट जाना",
+          "सूक्ष्मजीवों की अति-विविध रहन-क्षमता",
+          "जल का कभी गर्म न होना"
+        ],
+        "en": [
+          "That rivers hold no eggs",
+          "That the microscope broke",
+          "The extreme diversity of microbial habitats",
+          "That water never heats"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बर्फ से उबलते झरने तक — सूक्ष्मजीवों ने हर कठिन मौसम में शाखा खोल रखी है।",
+        "en": "From ice to boiling springs — microbes have opened branches in every harsh season."
+      }
+    },
+    {
+      "id": "ch11_q1144",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हमारी आँतों में भी अनेक सूक्ष्मजीव निवास करते हैं — उनका सामान्य प्रभाव क्या है?",
+        "en": "Many microorganisms dwell in our intestines too — what is their usual effect?"
+      },
+      "options": {
+        "hi": [
+          "प्रायः घातक — तुरंत बीमारी",
+          "प्रायः निरर्थक",
+          "प्रायः भारी",
+          "प्रायः अनुकूल — पाचन में सहायक"
+        ],
+        "en": [
+          "Usually deadly — instant disease",
+          "Usually useless",
+          "Usually heavy",
+          "Usually favourable — helpful in digestion"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आँत के इन मेहमानों में कई अच्छे साथी हैं जो पाचन-मंडली में हाथ बँटाते हैं — सभी सूक्ष्मजीव शत्रु नहीं।",
+        "en": "Among the gut's guests are good companions who lend a hand in digestion — not all microbes are foes."
+      }
+    },
+    {
+      "id": "ch11_q1145",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बैक्टीरिया की तुलना में वायरस का आकार कैसा है?",
+        "en": "How is the size of a virus compared to a bacterium?"
+      },
+      "options": {
+        "hi": [
+          "वायरस सामान्यतः बैक्टीरिया से भी छोटे होते हैं",
+          "वायरस बैक्टीरिया से बहुत बड़े होते हैं",
+          "दोनों बराबर-आकार होते हैं",
+          "वायरस आकार ही नहीं रखते"
+        ],
+        "en": [
+          "Viruses are usually even smaller than bacteria",
+          "Viruses are much bigger than bacteria",
+          "Both are equal in size",
+          "Viruses have no size at all"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जिस फिल्टर से बैक्टीरिया रुक जाते हैं, उसमें से वायरस निकल जाते हैं — आकार का यही अंतर उनकी पहचान का आधार रहा।",
+        "en": "From a filter that stops bacteria, viruses slip through — this size-gap remained the basis of their identity."
+      }
+    },
+    {
+      "id": "ch11_q1146",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सूक्ष्मजीवों की गिनती सूक्ष्मदर्शी के आविष्कार के बाद ही क्यों संभव हुई?",
+        "en": "Why was the counting of microorganisms possible only after the invention of the microscope?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वे रंगीन नहीं होते",
+          "क्योंकि वे नंगी आँख से दिखाई नहीं देते",
+          "क्योंकि वे रात में ही मिलते हैं",
+          "क्योंकि वे भाग जाते हैं"
+        ],
+        "en": [
+          "Because they are not coloured",
+          "Because they are not visible to the naked eye",
+          "Because they appear only at night",
+          "Because they run away"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लेंस ने नेत्र की सीमा को काट दिया — जो आँख से परे था, वह विज्ञान के सामने आ गया।",
+        "en": "The lens cut the limit of the eye — what lay beyond sight came before science."
+      }
+    },
+    {
+      "id": "ch11_q1147",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सूक्ष्मदर्शी के नीचे जीवाणुओं के मुख्य आकार-रूप कौन-से दिखते हैं?",
+        "en": "What main shape-forms of bacteria are seen under the microscope?"
+      },
+      "options": {
+        "hi": [
+          "पतंग, जहाज़, रेलगाड़ी",
+          "पर्वत, नदी, मैदान",
+          "गोल (कॉकस), छड़ी-रूप (बैसिलस), सर्पिल-कुंडली",
+          "चौकोर, गोल-चौकोर, तिकोना-चौकोर"
+        ],
+        "en": [
+          "Kite, ship, train",
+          "Mountain, river, plain",
+          "Round (coccus), rod (bacillus), spiral-coil",
+          "Square, round-square, triangle-square"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जीवाणुओं की पहचान का पहला सीढ़ी-पत्थर उनका आकार है — गोल, छड़ी और सर्पिल; विज्ञान ने इन्हीं रूपों पर नाम टँके।",
+        "en": "The first stepping-stone of bacterial identity is their shape — round, rod and spiral; science pinned names on these very forms."
+      }
+    },
+    {
+      "id": "ch11_q1148",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा सूक्ष्म-समूह है जिसके सदस्य स्वयं भोजन बना सकते हैं (शैवाल को छोड़कर सूक्ष्म-जगत में)?",
+        "en": "Which micro-group's members (apart from algae in the micro-world) can make their own food?"
+      },
+      "options": {
+        "hi": [
+          "वायरस",
+          "सभी फफूंद",
+          "सभी प्रोटोज़ोआ",
+          "नीली-हरी शैवाल (सायनोबैक्टीरिया) जैसे जीवाणु-रूपी प्रकाश-संश्लेषक"
+        ],
+        "en": [
+          "Viruses",
+          "All fungi",
+          "All protozoa",
+          "Beings like blue-green algae (cyanobacteria) — bacterial photosynthesisers"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नीली-हरी शैवाल जैसे कुछ सूक्ष्मजीव स्वयं भोजन जुटा लेते हैं — सूक्ष्म-जगत के बाकी गुट मुख्यतः तैयार भोजन पर निर्भर।",
+        "en": "Some microbes like blue-green algae gather their own food — the rest of the micro-world depends mostly on ready food."
+      }
+    },
+    {
+      "id": "ch11_q1149",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मिट्टी में सूक्ष्मजीवों की संख्या विशेष रूप से क्यों भरपूर रहती है?",
+        "en": "Why does soil remain especially rich in the number of microorganisms?"
+      },
+      "options": {
+        "hi": [
+          "मिट्टी में आर्द्रता, खनिज और कार्बनिक पदार्थ की निरंतर आपूर्ति रहती है",
+          "क्योंकि मिट्टी सबसे साफ होती है",
+          "क्योंकि मिट्टी में हवा नहीं होती",
+          "क्योंकि मिट्टी खाली होती है"
+        ],
+        "en": [
+          "Soil keeps a constant supply of moisture, minerals and organic matter",
+          "Because soil is the cleanest",
+          "Because soil has no air",
+          "Because soil is empty"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मिट्टी सूक्ष्म-जगत का भंडार-घर है — खाना-पीना और आशियाना दोनों यहीं मिलते हैं।",
+        "en": "Soil is the storehouse-home of the micro-world — food-drink and dwelling all are found here."
+      }
+    },
+    {
+      "id": "ch11_q1150",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायरस की बाह्य पहचान क्या है?",
+        "en": "What is the outer identity of a virus?"
+      },
+      "options": {
+        "hi": [
+          "चूने का खोल",
+          "प्रोटीन-आवरण में बंद आनुवंशिक पदार्थ",
+          "सेल्युलोज की दीवार",
+          "काइटिन का कवच"
+        ],
+        "en": [
+          "A lime shell",
+          "Genetic material wrapped in a protein coat",
+          "A cellulose wall",
+          "A chitin armour"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "केंद्र में आनुवंशिक सामग्री, बाहर प्रोटीन की परत — वायरस का पूरा सामान इतना ही सूक्ष्म है।",
+        "en": "Genetic material at the core, a protein layer outside — the virus's entire luggage is this miniature."
+      }
+    },
+    {
+      "id": "ch11_q1151",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रोटोज़ोआ और बैक्टीरिया दोनों एकल-कोशिका हैं — दोनों में मुख्य विभाजक क्या है?",
+        "en": "Protozoa and bacteria are both single-celled — what is the main divider between them?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटोज़ोआ पौधे हैं",
+          "बैक्टीरिया सबसे बड़े जीव हैं",
+          "प्रोटोज़ोआ प्राणी-जैसा जीवन-ढंग रखते हैं; बैक्टीरिया जीवाणु-गुट के सूक्ष्मतम-सरल ढाँचे वाले",
+          "दोनों में कोई अंतर नहीं"
+        ],
+        "en": [
+          "Protozoa are plants",
+          "Bacteria are the largest beings",
+          "Protozoa keep an animal-like way of life; bacteria are the tiniest-simplest framed of the bacterial clan",
+          "No difference between the two"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दोनों एकल-कोशिका होकर भी अलग गुट हैं — प्रोटोज़ोआ का स्वभाव प्राणी-जैसा, जीवाणुओं का ढाँचा अपने ही दर्जे का सरल।",
+        "en": "Though both single-celled they are separate clans — protozoa's nature animal-like, bacteria's frame simple in its own rank."
+      }
+    },
+    {
+      "id": "ch11_q1152",
+      "topic": "microbial-world",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेफ्रिजरेटर में रखा भोजन बाहर की तुलना में अधिक दिन क्यों टिकता है?",
+        "en": "Why does food kept in a refrigerator last more days than outside?"
+      },
+      "options": {
+        "hi": [
+          "ठंड में सूक्ष्मजीव मर जाते हैं",
+          "रेफ्रिजरेटर भोजन खा जाता है",
+          "ठंड में रोगाणु भाग जाते हैं",
+          "ठंडे तापमान पर सूक्ष्मजीवों की वृद्धि बहुत धीमी हो जाती है"
+        ],
+        "en": [
+          "Microbes die in the cold",
+          "The refrigerator eats the food",
+          "Germs run away in the cold",
+          "At cold temperature the growth of microorganisms becomes very slow"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ठंड जीवाणु-गुणन की गाड़ी की ब्रेक लगाती है — गाड़ी रुकती नहीं, धीमी जरूर हो जाती है; इसीलिए फ्रिज में भोजन देर तक, पर सदा नहीं टिकता।",
+        "en": "Cold applies the brake to the bacterial-multiplication train — the train does not stop, only slows; hence food in the fridge lasts longer, but not forever."
+      }
+    },
+    {
+      "id": "ch11_q1153",
+      "topic": "microbial-world",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निम्न सूक्ष्मजीव-समूह युग्मों में से कौन-सा पूर्णतः सही है?",
+        "en": "Which microorganism-group pair is ENTIRELY correct?"
+      },
+      "options": {
+        "hi": [
+          "मलेरिया-प्रोटोज़ोआ, रोटी-फफूंद, पोलियो-वायरस",
+          "मलेरिया-वायरस, रोटी-बैक्टीरिया, पोलियो-फफूंद",
+          "मलेरिया-फफूंद, रोटी-प्रोटोज़ोआ, पोलियो-बैक्टीरिया",
+          "मलेरिया-बैक्टीरिया, रोटी-वायरस, पोलियो-प्रोटोज़ोआ"
+        ],
+        "en": [
+          "Malaria-protozoan, bread-mould-fungus, polio-virus",
+          "Malaria-virus, bread-bacterium, polio-fungus",
+          "Malaria-fungus, bread-protozoan, polio-bacterium",
+          "Malaria-bacterium, bread-virus, polio-protozoan"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तीनों युग्म पहले विकल्प में ही सही बैठते हैं — रोग, रोटी और पोलियो अपने-अपने गुटों के सही निवासी।",
+        "en": "All three pairs sit right only in the first option — disease, bread and polio rightly housed in their clans."
+      }
+    },
+    {
+      "id": "ch11_q1154",
+      "topic": "microbial-world",
+      "difficulty": "hard",
+      "question": {
+        "hi": "जीवाणु वर्ग की कोशिकाओं की वह विशेषता जो उन्हें ऊँचे-संगठित जीवों से अलग करती है, क्या है?",
+        "en": "What is that feature of bacterial cells which separates them from higher-organised beings?"
+      },
+      "options": {
+        "hi": [
+          "उनमें जीवद्रव्य नहीं होता",
+          "उनका आनुवंशिक पदार्थ झिल्ली-बद्ध केंद्रक में संगठित नहीं होता",
+          "उनमें कोशिका-भित्ति नहीं होती",
+          "उनमें झिल्ली नहीं होती"
+        ],
+        "en": [
+          "They have no cytoplasm",
+          "Their genetic material is not organised in a membrane-bound nucleus",
+          "They have no cell wall",
+          "They have no membrane"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जीवाणुओं में केंद्रक-झिल्ली नहीं — आनुवंशिक सामग्री सीधे कोशिका-द्रव्य में रहती है; यही उनकी सूक्ष्म-पहचान है।",
+        "en": "Bacteria keep no nuclear membrane — genetic material lies free in the cell-sap; this is their micro-signature."
+      }
+    },
+    {
+      "id": "ch11_q1155",
+      "topic": "microbial-world",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चार सूक्ष्म-गुटों को उनकी 'स्वतंत्र जीवन-क्षमता' के आधार पर सोचिए — कौन-सा कथन सही है?",
+        "en": "Think of the four micro-clans on the basis of their 'capacity for independent life' — which statement is correct?"
+      },
+      "options": {
+        "hi": [
+          "चारों गुट स्वतंत्र जीवन से बाहर हैं",
+          "चारों गुट वायरस-जैसे परजीवी हैं",
+          "जीवाणु और प्रोटोज़ोआ स्वतंत्र जीवन जी सकते हैं; वायरस नहीं",
+          "वायरस स्वतंत्र जीवन जी सकते हैं; जीवाणु नहीं"
+        ],
+        "en": [
+          "All four clans are outside independent life",
+          "All four clans are virus-like parasites",
+          "Bacteria and protozoa can live independent life; viruses cannot",
+          "Viruses can live independent life; bacteria cannot"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जीवाणु-प्रोटोज़ोआ अपनी कोशिका-भर की दुकान चलाते हैं; वायरस केवल किराए की कोशिका में अपनी प्रतिलिपि छापते हैं।",
+        "en": "Bacteria-protozoa run their own full-cell shop; viruses only print their copy in a rented cell."
+      }
+    },
+    {
+      "id": "ch11_q1156",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दही जमाने में कौन-सा सूक्ष्मजीव काम करता है?",
+        "en": "Which microorganism works in setting curd?"
+      },
+      "options": {
+        "hi": [
+          "वायरस",
+          "अमीबा",
+          "मच्छर",
+          "लैक्टोबैसिलस (दूध-जमाने वाला जीवाणु)"
+        ],
+        "en": [
+          "A virus",
+          "Amoeba",
+          "A mosquito",
+          "Lactobacillus (the milk-setting bacterium)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लैक्टोबैसिलस दूध की शर्करा को दही में बदल देता है — पुरानी दही का चम्मच नई दही का बीज है।",
+        "en": "Lactobacillus turns milk's sugar into curd — a spoon of old curd is the seed of the new."
+      }
+    },
+    {
+      "id": "ch11_q1157",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "इडली-डोसा का बैटर फूलकर खमीरी क्यों हो जाता है?",
+        "en": "Why does the idli-dosa batter rise and turn frothy?"
+      },
+      "options": {
+        "hi": [
+          "उसमें पल रहे सूक्ष्मजीव गैस उत्पन्न करते हैं",
+          "बैटर गर्मी से पिघल जाता है",
+          "चावल पानी पी लेते हैं",
+          "डोसा खुद उछलता है"
+        ],
+        "en": [
+          "The microbes growing in it produce gas",
+          "The batter melts with heat",
+          "The rice drinks up the water",
+          "The dosa jumps by itself"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रात भर बैटर में सूक्ष्मजीव अपना काम करते हैं — उनकी गैस के गुब्बारों से ही इडली नरम-फूली बनती है।",
+        "en": "All night the microbes work in the batter — their gas-bubbles alone make the idli soft and risen."
+      }
+    },
+    {
+      "id": "ch11_q1158",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "डबलरोटी (ब्रेड) का आटा फूलने में कौन सहायक है?",
+        "en": "What helps the bread dough rise?"
+      },
+      "options": {
+        "hi": [
+          "लोहा",
+          "खमीर (यीस्ट)",
+          "चींटियाँ",
+          "बालू"
+        ],
+        "en": [
+          "Iron",
+          "Yeast",
+          "Ants",
+          "Sand"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खमीर आटे में गैस के छोटे-छोटे गुब्बारे छोड़ता है — बनते समय वही गुब्बारे ब्रेड के छेद बन जाते हैं।",
+        "en": "Yeast releases tiny gas-balloons in the dough — the same balloons become the bread's holes when baked."
+      }
+    },
+    {
+      "id": "ch11_q1159",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पेनिसिलिन की खोज किसने की थी?",
+        "en": "Who discovered penicillin?"
+      },
+      "options": {
+        "hi": [
+          "गैलीलियो ने",
+          "कोलंबस ने",
+          "अलेक्जेंडर फ्लेमिंग ने",
+          "न्यूटन ने"
+        ],
+        "en": [
+          "Galileo",
+          "Columbus",
+          "Alexander Fleming",
+          "Newton"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फ्लेमिंग ने यह देखा कि एक फफूंद ने अपने आस-पास के जीवाणु मार दिए — इसी नज़रे से पेनिसिलिन का युग आया।",
+        "en": "Fleming saw a fungus had killed the bacteria around it — from this sight dawned the era of penicillin."
+      }
+    },
+    {
+      "id": "ch11_q1160",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिजैविक (एंटीबायोटिक) क्या होते हैं?",
+        "en": "What are antibiotics?"
+      },
+      "options": {
+        "hi": [
+          "भोजन पचाने वाले रस",
+          "विटामिन की गोलियाँ",
+          "उर्वरक की थैलियाँ",
+          "ऐसी दवाइयाँ जो जीवाणुओं की वृद्धि रोकती या उन्हें मारती हैं"
+        ],
+        "en": [
+          "Digestive juices",
+          "Vitamin pills",
+          "Fertiliser bags",
+          "Medicines that stop or kill bacteria"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एंटीबायोटिक जीवाणु-रोगों के विरुद्ध शरीर की सेना के साथ लड़ने वाले हथियार हैं।",
+        "en": "Antibiotics are weapons that fight alongside the body's army against bacterial diseases."
+      }
+    },
+    {
+      "id": "ch11_q1161",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मिट्टी की उर्वरता बनाए रखने में सहायक सूक्ष्मजीवों में कौन-से गिने जाते हैं?",
+        "en": "Which are counted among the microorganisms helpful in maintaining soil fertility?"
+      },
+      "options": {
+        "hi": [
+          "राइजोबियम और नीली-हरी शैवाल",
+          "मच्छर और मक्खी",
+          "कोरोना और पोलियो",
+          "दाद और रतुआ"
+        ],
+        "en": [
+          "Rhizobium and blue-green algae",
+          "Mosquito and housefly",
+          "Corona and polio",
+          "Ringworm and rust"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ये सूक्ष्म मित्र वायु की नाइट्रोजन को पौधों के लिए उपयोगी रूप में बदलते हैं — मिट्टी का प्राकृतिक उर्वरक-कारखाना।",
+        "en": "These micro-friends convert air's nitrogen into a form useful for plants — the soil's natural fertiliser factory."
+      }
+    },
+    {
+      "id": "ch11_q1162",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मृत पौधों-प्राणियों के शरीर को सड़ाकर सरल पदार्थों में बदलने वाले सूक्ष्मजीव क्या कहलाते हैं?",
+        "en": "What are the microorganisms that decompose dead plant-animal bodies into simple substances called?"
+      },
+      "options": {
+        "hi": [
+          "परागक",
+          "अपघटक (डिकंपोज़र)",
+          "उत्पादक",
+          "शिकारी"
+        ],
+        "en": [
+          "Pollinators",
+          "Decomposers",
+          "Producers",
+          "Predators"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अपघटक सूक्ष्मजीव प्रकृति की सफाई-दास्तान हैं — मृत को गुनगुना कर मिट्टी में लौटा देते हैं।",
+        "en": "Decomposer microbes are nature's cleaning crew — they warm the dead and return it to the soil."
+      }
+    },
+    {
+      "id": "ch11_q1163",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गोबर-गैस (गैसीय ईंधन) का निर्माण किन सूक्ष्मजीवों से होता है?",
+        "en": "The production of gobargas (gobar-gas fuel) is done by which microorganisms?"
+      },
+      "options": {
+        "hi": [
+          "अमीबा से",
+          "फफूंद से",
+          "मीथेन बनाने वाले जीवाणुओं से",
+          "वायरस से"
+        ],
+        "en": [
+          "Amoeba",
+          "Fungi",
+          "Methane-making bacteria",
+          "Viruses"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गोबर में पलने वाले जीवाणु बिना हवा के मीथेन गैस बनाते हैं — खेत का कचरा चूल्हे की आग बन जाता है।",
+        "en": "Bacteria breeding in dung make methane gas without air — the farm's waste becomes the stove's flame."
+      }
+    },
+    {
+      "id": "ch11_q1164",
+      "topic": "useful-microorganisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शराब उद्योग में किस सूक्ष्मजीव का उपयोग होता है?",
+        "en": "Which microorganism is used in the alcohol industry?"
+      },
+      "options": {
+        "hi": [
+          "लैक्टोबैसिलस",
+          "प्लाज्मोडियम",
+          "एनोफेलीज़",
+          "खमीर (यीस्ट)"
+        ],
+        "en": [
+          "Lactobacillus",
+          "Plasmodium",
+          "Anopheles",
+          "Yeast"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खमीर चीनी-घोल का किण्वन करके एल्कोहॉल बनाता है — इसी कला पर शराब-कारखानों की नींव है।",
+        "en": "Yeast ferments sugar-solution into alcohol — the whole foundation of distilleries rests on this art."
+      }
+    },
+    {
+      "id": "ch11_q1165",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दूध को लंबे समय तक सुरक्षित रखने के लिए उसे गर्म करके झटपट ठंडा किया जाता है — यह प्रक्रिया क्या कहलाती है?",
+        "en": "The process of heating milk and quickly cooling it to keep it safe long — what is it called?"
+      },
+      "options": {
+        "hi": [
+          "पाश्चुरीकरण",
+          "आसवन",
+          "वाष्पीकरण",
+          "निस्पंदन"
+        ],
+        "en": [
+          "Pasteurisation",
+          "Distillation",
+          "Vaporisation",
+          "Filtration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पाश्चुरीकरण दूध के हानिकारक जीवाणुओं को मार-घटा देता है — स्वाद वैसा, सुरक्षा बढ़ी।",
+        "en": "Pasteurisation kills-reduces milk's harmful bacteria — taste the same, safety raised."
+      }
+    },
+    {
+      "id": "ch11_q1166",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किण्वन (फर्मेंटेशन) किसे कहते हैं?",
+        "en": "What is called fermentation?"
+      },
+      "options": {
+        "hi": [
+          "दूध का मक्खन बनना",
+          "खमीर द्वारा शर्करा का एल्कोहॉल में बदलना",
+          "पानी का बर्फ बनना",
+          "लोहे का जंग लगना"
+        ],
+        "en": [
+          "Milk turning to butter",
+          "The conversion of sugar into alcohol by yeast",
+          "Water turning to ice",
+          "Iron catching rust"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शर्करा → एल्कोहॉल + कार्बन डाइऑक्साइड — खमीर की इसी धुन पर ब्रेड से शराब तक का उद्योग टिका है।",
+        "en": "Sugar → alcohol + carbon dioxide — on this very tune of yeast rest the industries from bread to brew."
+      }
+    },
+    {
+      "id": "ch11_q1167",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "टीका (वैक्सीन) में सामान्यतः क्या होता है?",
+        "en": "What does a vaccine usually contain?"
+      },
+      "options": {
+        "hi": [
+          "केवल चीनी",
+          "केवल नमक",
+          "रोगाणु का कमज़ोर या मृत रूप",
+          "रोगाणु का पूरी ताकत वाला जीवित रूप"
+        ],
+        "en": [
+          "Only sugar",
+          "Only salt",
+          "A weakened or dead form of the pathogen",
+          "A fully potent living form of the pathogen"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "टीके में रोगाणु की ताकत तोड़ी जा चुकी होती है — शरीर उसे देखकर बिना बीमार हुए रक्षा-पहरा सीख लेता है।",
+        "en": "In a vaccine the pathogen's strength is broken — the body sees it and learns the defence-drill without falling ill."
+      }
+    },
+    {
+      "id": "ch11_q1168",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "टीकाकरण का मूल सिद्धांत क्या है?",
+        "en": "What is the basic principle of vaccination?"
+      },
+      "options": {
+        "hi": [
+          "शरीर को बहुत बीमार करके डराना",
+          "रोगाणुओं को भोजन देना",
+          "रक्त निकाल देना",
+          "हल्के/मृत रोगाणु से शरीर एंटीबॉडी बनाकर स्मृति-रक्षा विकसित करता है"
+        ],
+        "en": [
+          "Scaring the body by making it very ill",
+          "Feeding the germs",
+          "Draining out the blood",
+          "From mild/dead germs the body builds antibodies and develops memory-defence"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "टीका एक मैक-परीक्षा है — हल्के रोगाणु से तैयारी कर ली, तो असली परीक्षा में शरीर पहले से जागा मिलता है।",
+        "en": "A vaccine is a mock-test — prepare with a mild germ, and in the real exam the body is found already awake."
+      }
+    },
+    {
+      "id": "ch11_q1169",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेनिसिलिन का स्रोत कौन-सा सूक्ष्मजीव है?",
+        "en": "Which microorganism is the source of penicillin?"
+      },
+      "options": {
+        "hi": [
+          "एक फफूंद (पेनिसिलियम)",
+          "एक जीवाणु",
+          "एक वायरस",
+          "एक प्रोटोज़ोआ"
+        ],
+        "en": [
+          "A fungus (Penicillium)",
+          "A bacterium",
+          "A virus",
+          "A protozoan"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पेनिसिलियम फफूंद का बनाया पेनिसिलिन जीवाणुओं के लिए संहारक सिद्ध हुआ — फफूंद वाले फ्लेमिंग की खिड़की वाली खोज।",
+        "en": "Penicillin, made by the Penicillium fungus, proved fatal to bacteria — the fungus-man Fleming's window-seat discovery."
+      }
+    },
+    {
+      "id": "ch11_q1170",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "राइजोबियम जीवाणु नाइट्रोजन-स्थिरीकरण करके किसकी फसलों को लाभ पहुँचाते हैं?",
+        "en": "Rhizobium bacteria, by fixing nitrogen, benefit the crops of what?"
+      },
+      "options": {
+        "hi": [
+          "केले के पौधों को",
+          "दलहनी फसलों (चना, मटर, सोयाबीन) को",
+          "आम के पेड़ों को",
+          "गेहूँ की हर बाली को"
+        ],
+        "en": [
+          "Banana plants",
+          "Leguminous crops (gram, pea, soybean)",
+          "Mango trees",
+          "Every ear of wheat"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "राइजोबियम दलहनी जड़ों के गाँठों में रहकर वायु-नाइट्रोजन स्थिर करते हैं — खेत का हरा उर्वरक-ठेका।",
+        "en": "Rhizobium, living in legume-root nodules, fixes air-nitrogen — the field's green fertiliser contract."
+      }
+    },
+    {
+      "id": "ch11_q1171",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायुमंडल की नाइट्रोजन को पौधों के लिए उपयोगी बनाने वाली प्रक्रिया का नाम क्या है?",
+        "en": "What is the name of the process that makes the atmosphere's nitrogen useful for plants?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पोत्सर्जन",
+          "संघनन",
+          "नाइट्रोजन-स्थिरीकरण",
+          "प्रकाश-संश्लेषण"
+        ],
+        "en": [
+          "Transpiration",
+          "Condensation",
+          "Nitrogen fixation",
+          "Photosynthesis"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वायु की नाइट्रोजन सीधे पौधे नहीं ले सकते — सूक्ष्मजीव उसे स्थिर करके उपयोगी खुराक बनाते हैं।",
+        "en": "Plants cannot take air's nitrogen directly — microbes fix it into a usable dose."
+      }
+    },
+    {
+      "id": "ch11_q1172",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नीली-हरी शैवाल (सायनोबैक्टीरिया) खेती में किस रूप में उपयोगी हैं?",
+        "en": "In what form are blue-green algae (cyanobacteria) useful in farming?"
+      },
+      "options": {
+        "hi": [
+          "वे फसल काट देते हैं",
+          "वे खेत सुखा देते हैं",
+          "वे मिट्टी उखाड़ देते हैं",
+          "वे नाइट्रोजन स्थिर करके मिट्टी की उर्वरता बढ़ाते हैं"
+        ],
+        "en": [
+          "They cut the crop",
+          "They dry the field",
+          "They uproot the soil",
+          "They fix nitrogen and raise soil fertility"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चावल के दलदल-खेतों में नीली-हरी शैवाल मुफ्त का नाइट्रोजन-घर चलाती हैं।",
+        "en": "In rice's marsh-fields blue-green algae run a free nitrogen-house."
+      }
+    },
+    {
+      "id": "ch11_q1173",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अपघटक सूक्ष्मजीव पर्यावरण की सफाई में कैसे सहायक हैं?",
+        "en": "How are decomposer microbes helpful in nature's cleaning?"
+      },
+      "options": {
+        "hi": [
+          "वे मृत पदार्थों को सरल तत्वों में बदलकर मिट्टी में लौटा देते हैं",
+          "वे कचरा इकट्ठा करके बेच देते हैं",
+          "वे कचरा जला देते हैं",
+          "वे कचरा नदी में बहा देते हैं"
+        ],
+        "en": [
+          "They convert dead matter into simple elements and return it to the soil",
+          "They collect and sell the waste",
+          "They burn the waste",
+          "They dump waste into the river"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सूक्ष्म-अपघटक प्रकृति की रीसायकल-मशीन हैं — मृत का कचरा, जीवन का कच्चा माल।",
+        "en": "Micro-decomposers are nature's recycling machine — the dead's waste, life's raw material."
+      }
+    },
+    {
+      "id": "ch11_q1174",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सिरका (एसिटिक अम्ल) के निर्माण में कौन-सा सूक्ष्मजीव सहायक है?",
+        "en": "Which microorganism helps in the making of vinegar (acetic acid)?"
+      },
+      "options": {
+        "hi": [
+          "नीली-हरी शैवाल",
+          "एसिटिक अम्ल बनाने वाले जीवाणु",
+          "खमीर",
+          "प्लाज्मोडियम"
+        ],
+        "en": [
+          "Blue-green algae",
+          "Acetic-acid-making bacteria",
+          "Yeast",
+          "Plasmodium"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अल्कोहॉल को आगे ऑक्सीकृत कर एसिटिक जीवाणु उसे सिरके में बदल देते हैं — इसीलिए खुली शराब खट्टी हो जाती है।",
+        "en": "Oxidising alcohol further, acetic bacteria turn it into vinegar — that is why open liquor turns sour."
+      }
+    },
+    {
+      "id": "ch11_q1175",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "व्यर्थ जल (सीवेज) के शोधन में सूक्ष्मजीव क्या करते हैं?",
+        "en": "What do microorganisms do in the treatment of waste water (sewage)?"
+      },
+      "options": {
+        "hi": [
+          "वे जल को जमा देते हैं",
+          "वे नालियाँ तोड़ देते हैं",
+          "वे जल में घुले कार्बनिक अपशिष्ट को तोड़कर जल साफ करते हैं",
+          "वे जल में रंग भरते हैं"
+        ],
+        "en": [
+          "They freeze the water",
+          "They break the drains",
+          "They break down the organic waste dissolved in water and clean it",
+          "They colour the water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शोधन-टैंकों में सूक्ष्मजीवों की दास्ता कार्बनिक बोझ खा-खाकर हल्का कर देती है — जल वापस धारा में लौटता है।",
+        "en": "In treatment tanks the microbe crew eats the organic load light — the water returns to the stream."
+      }
+    },
+    {
+      "id": "ch11_q1176",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एंटीबायोटिक का स्रोत मुख्यतः कौन-से सूक्ष्मजीव हैं?",
+        "en": "Which microorganisms are the main source of antibiotics?"
+      },
+      "options": {
+        "hi": [
+          "वायरस और प्रोटोज़ोआ",
+          "मच्छर और मक्खी",
+          "शैवाल और मॉस",
+          "जीवाणु और फफूंद"
+        ],
+        "en": [
+          "Viruses and protozoa",
+          "Mosquito and housefly",
+          "Algae and moss",
+          "Bacteria and fungi"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अपनी लड़ाई के हथियार के रूप में जीवाणु-फफूंद जो रसायन बनाते हैं, मनुष्य ने उन्हीं की दवा बना ली।",
+        "en": "The chemicals bacteria-fungi make as their combat weapons, humans turned into medicines."
+      }
+    },
+    {
+      "id": "ch11_q1177",
+      "topic": "useful-microorganisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "टीके की खोज की दिशा में अग्रणी योगदान किसका माना जाता है — चेचक के टीके के रूप में?",
+        "en": "Whose contribution is counted pioneering in the discovery of vaccines — in the form of the smallpox vaccine?"
+      },
+      "options": {
+        "hi": [
+          "एडवर्ड जेनर का",
+          "थॉमस एडिसन का",
+          "आइंस्टीन का",
+          "मैगलन का"
+        ],
+        "en": [
+          "Edward Jenner's",
+          "Thomas Edison's",
+          "Einstein's",
+          "Magellan's"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जेनर ने देखा कि गाय-मट्ठे वाले दुग्धपालक चेचक से बचे रहते हैं — इसी सुराग से टीके का द्वार खुला।",
+        "en": "Jenner saw that milkmaids who had cowpox stayed safe from smallpox — from this clue the door of vaccines opened."
+      }
+    },
+    {
+      "id": "ch11_q1178",
+      "topic": "useful-microorganisms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बिना ऑक्सीजन के गोबर में जीवाणु क्या बनाते हैं — और वह किस काम आता है?",
+        "en": "Without oxygen, what do bacteria in dung make — and what is it used for?"
+      },
+      "options": {
+        "hi": [
+          "क्लोरीन — पूल में",
+          "मीथेन — ईंधन के रूप में चूल्हे-लालटेन में",
+          "ऑक्सीजन — गुब्बारे में",
+          "हीलियम — जहाज़ों में"
+        ],
+        "en": [
+          "Chlorine — in pools",
+          "Methane — used as fuel in stoves-lanterns",
+          "Oxygen — in balloons",
+          "Helium — in airships"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अवायवीय जीवाणु गोबर से मीथेन बनाते हैं — गोबर-गैस प्लांट गाँव का सस्ता ऊर्जा-सौदा।",
+        "en": "Anaerobic bacteria make methane from dung — the gobargas plant is the village's cheap energy deal."
+      }
+    },
+    {
+      "id": "ch11_q1179",
+      "topic": "useful-microorganisms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पौधे वायु की नाइट्रोजन सीधे क्यों नहीं ले पाते — और यह कमी कौन पूरा करता है?",
+        "en": "Why can plants not take the air's nitrogen directly — and who fills this lack?"
+      },
+      "options": {
+        "hi": [
+          "पौधे नाइट्रोजन से डरते हैं; चींटियाँ रखवाली करती हैं",
+          "नाइट्रोजन भारी है; हाथी उसे ढोते हैं",
+          "नाइट्रोजन का अणु बहुत स्थिर है; राइजोबियम जैसे सूक्ष्मजीव उसे स्थिरीकृत कर पौधों तक पहुँचाते हैं",
+          "नाइट्रोजन जहरीली है; मच्छर उसे बदलते हैं"
+        ],
+        "en": [
+          "Plants fear nitrogen; ants guard it",
+          "Nitrogen is heavy; elephants carry it",
+          "The nitrogen molecule is too stable; microbes like Rhizobium fix it and deliver it to plants",
+          "Nitrogen is poisonous; mosquitoes change it"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वायु की नाइट्रोजन की मजबूत बंधी को सूक्ष्मजीव ही तोड़ पाते हैं — फिर पौधे उसे नुक्तचीनी कर लेते हैं।",
+        "en": "Only microbes can break the strong bond of air's nitrogen — then plants nit-pick it up."
+      }
+    },
+    {
+      "id": "ch11_q1180",
+      "topic": "useful-microorganisms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "उपयोगी सूक्ष्मजीवों के चार अलग-अलग युद्धक्षेत्र — दही, ब्रेड, पेनिसिलिन, गोबर-गैस। सही सूक्ष्मजीव-युद्धक्षेत्र सुमेलन कौन-सा है?",
+        "en": "Four different battlefields of useful microbes — curd, bread, penicillin, gobargas. Which microbe-battlefield matching is correct?"
+      },
+      "options": {
+        "hi": [
+          "खमीर-दही, लैक्टोबैसिलस-ब्रेड, मीथेन-पेनिसिलिन, पेनिसिलियम-गोबरगैस",
+          "पेनिसिलियम-दही, मीथेन-ब्रेड, लैक्टोबैसिलस-पेनिसिलिन, खमीर-गोबरगैस",
+          "सभी काम एक ही जीवाणु करता है",
+          "लैक्टोबैसिलस-दही, खमीर-ब्रेड, पेनिसिलियम-पेनिसिलिन, मीथेन-जीवाणु-गोबरगैस"
+        ],
+        "en": [
+          "Yeast-curd, Lactobacillus-bread, methane-penicillin, Penicillium-gobargas",
+          "Penicillium-curd, methane-bread, Lactobacillus-penicillin, yeast-gobargas",
+          "All jobs done by one bacterium",
+          "Lactobacillus-curd, yeast-bread, Penicillium-penicillin, methane-bacteria-gobargas"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चारों काम चार विशेषज्ञों के — दही का लैक्टोबैसिलस, ब्रेड का खमीर, दवा का पेनिसिलियम, गैस का मीथेन-जीवाणु।",
+        "en": "Four jobs, four specialists — curd's Lactobacillus, bread's yeast, medicine's Penicillium, gas's methane-bacteria."
+      }
+    },
+    {
+      "id": "ch11_q1181",
+      "topic": "disease-dynamics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संचारी रोग (communicable disease) किसे कहते हैं?",
+        "en": "What is called a communicable disease?"
+      },
+      "options": {
+        "hi": [
+          "जो एक व्यक्ति से दूसरे व्यक्ति तक फैल सकता है",
+          "जो केवल पहाड़ों पर होता है",
+          "जो केवल पौधों को होता है",
+          "जो चंद्रमा से आता है"
+        ],
+        "en": [
+          "One that can spread from one person to another",
+          "One that occurs only on mountains",
+          "One that afflicts only plants",
+          "One that comes from the moon"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खांसते-छींकते, छूते-छाते या दूषित जल-भोजन से जो रोग साझा हो जाए — वही संचारी।",
+        "en": "A disease that gets shared through cough-sneeze, touch or tainted water-food — that is communicable."
+      }
+    },
+    {
+      "id": "ch11_q1182",
+      "topic": "disease-dynamics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा असंचारी (non-communicable) रोग है?",
+        "en": "Which of the following is a non-communicable disease?"
+      },
+      "options": {
+        "hi": [
+          "मलेरिया",
+          "मधुमेह",
+          "हैजा",
+          "खसरा"
+        ],
+        "en": [
+          "Malaria",
+          "Diabetes",
+          "Cholera",
+          "Measles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मधुमेह किसी के छूने या पास बैठने से नहीं फैलता — हैजा, खसरा, मलेरिया तीनों का फैलने का रास्ता है।",
+        "en": "Diabetes does not spread by touch or sitting near — cholera, measles, malaria all have a spreading route."
+      }
+    },
+    {
+      "id": "ch11_q1183",
+      "topic": "disease-dynamics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रोगी के नाक-मुँह से निकली बूंदें हवा में कैसे रोग फैलाती हैं?",
+        "en": "How do droplets from a patient's nose-mouth spread disease in air?"
+      },
+      "options": {
+        "hi": [
+          "फर्श को ठंडा करके",
+          "पंखे को तेज़ करके",
+          "साँस के साथ दूसरे व्यक्ति के शरीर में पहुँचकर",
+          "दीवारों को रंगकर"
+        ],
+        "en": [
+          "By cooling the floor",
+          "By speeding the fan",
+          "By entering another person's body with the breath",
+          "By painting the walls"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "छींक की बूंदें हवा में रोगाणु-बम बनकर तैरती हैं — साँस लेते ही वे नए शरीर में उतर जाती हैं।",
+        "en": "Sneeze-droplets float in air as germ-bombs — the moment someone breathes, they descend into a new body."
+      }
+    },
+    {
+      "id": "ch11_q1184",
+      "topic": "disease-dynamics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रोग के 'वाहक' का सामान्य उदाहरण कौन-सा है?",
+        "en": "Which is the common example of a disease 'vector'?"
+      },
+      "options": {
+        "hi": [
+          "गाय",
+          "नीम का पेड़",
+          "नदी का पत्थर",
+          "मच्छर"
+        ],
+        "en": [
+          "The cow",
+          "The neem tree",
+          "The river stone",
+          "The mosquito"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मलेरिया-डेंगू जैसे रोगों में मच्छर ही वाहक का जीता-जागता उदाहरण है।",
+        "en": "In diseases like malaria-dengue the mosquito is the living-breathing example of a vector."
+      }
+    },
+    {
+      "id": "ch11_q1185",
+      "topic": "disease-dynamics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संक्रमित जल पीने से होने वाले रोग किस श्रेणी में आते हैं?",
+        "en": "Diseases caused by drinking infected water fall in which category?"
+      },
+      "options": {
+        "hi": [
+          "जल-वाहित (water-borne) रोग",
+          "वायु-वाहित रोग",
+          "संपर्क-रोग",
+          "वंशानुगत रोग"
+        ],
+        "en": [
+          "Water-borne diseases",
+          "Air-borne diseases",
+          "Contact diseases",
+          "Hereditary diseases"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हैजा-टाइफॉइड जैसे रोग जल की सवारी में आते हैं — इसीलिए जल-वाहित कहलाते हैं।",
+        "en": "Diseases like cholera-typhoid ride in water — hence called water-borne."
+      }
+    },
+    {
+      "id": "ch11_q1186",
+      "topic": "disease-dynamics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी रोग के 'लक्षण' (symptoms) से क्या तात्पर्य है?",
+        "en": "What is meant by the 'symptoms' of a disease?"
+      },
+      "options": {
+        "hi": [
+          "डॉक्टर की फीस",
+          "शरीर में दिखने वाले असामान्य संकेत जैसे बुखार, खांसी",
+          "शरीर का सामान्य रहना",
+          "दवा की कीमत"
+        ],
+        "en": [
+          "The doctor's fee",
+          "Abnormal signs appearing in the body like fever, cough",
+          "The body staying normal",
+          "The price of medicine"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बुखार-खांसी-दर्द जैसे संकेत शरीर के घंटी-नाद हैं — भीतर कुछ गड़बड़ है, यही बताते हैं।",
+        "en": "Signs like fever-cough-pain are the body's bell-notes — they announce something is wrong inside."
+      }
+    },
+    {
+      "id": "ch11_q1187",
+      "topic": "disease-dynamics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मलेरिया-मच्छर गंदे जल में नहीं — अपनी प्रजाति के अनुकूल जल में पलता है। रोग-रोकथाम की दृष्टि से सबसे सरल उपाय क्या है?",
+        "en": "The malaria mosquito breeds not in dirty water but in water suited to its species. What is the simplest step for disease-control?"
+      },
+      "options": {
+        "hi": [
+          "टंकी खुली रखना",
+          "गमलों में पानी छोड़ना",
+          "घर-आसपास जल जमा न होने देना",
+          "घर में पानी भरकर रखना"
+        ],
+        "en": [
+          "Leaving the tank open",
+          "Leaving water in flowerpots",
+          "Not letting water collect around the house",
+          "Keeping the house stocked with water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मच्छर का घर ही न बनने दो — ठहराव जल हटा दो तो वाहक की पूरी पीढ़ी वहीं रुक जाती है।",
+        "en": "Do not let the mosquito's house be built — remove standing water and the vector's whole generation halts there."
+      }
+    },
+    {
+      "id": "ch11_q1188",
+      "topic": "disease-dynamics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्वस्थ व्यक्ति को रोगी के संपर्क में रहने से कौन-से रोग फैलने का खतरा रहता है?",
+        "en": "Which diseases risk spreading when a healthy person stays in contact with a patient?"
+      },
+      "options": {
+        "hi": [
+          "मधुमेह",
+          "रक्ताल्पता",
+          "दृष्टि-दोष",
+          "खसरा और चेचक जैसे वायु-संपर्क रोग"
+        ],
+        "en": [
+          "Diabetes",
+          "Anaemia",
+          "Defect of vision",
+          "Air-contact diseases like measles and smallpox"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "छींक-खांसी से फैलने वाले रोग संपर्ग में रहकर आसानी से साझा हो जाते हैं।",
+        "en": "Diseases spread by sneeze-cough get shared easily by staying in proximity."
+      }
+    },
+    {
+      "id": "ch11_q1189",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोगाणु शरीर में प्रवेश करने और रोग के लक्षण दिखने के बीच का समय-अंतराल क्या कहलाता है?",
+        "en": "What is the time-gap between the pathogen's entry into the body and the appearance of disease symptoms called?"
+      },
+      "options": {
+        "hi": [
+          "सुप्तावधि (incubation period)",
+          "परास",
+          "तरंगदैर्ध्य",
+          "आवर्तकाल"
+        ],
+        "en": [
+          "Incubation period",
+          "Range",
+          "Wavelength",
+          "Time period"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रोगाणु घुसता है, फिर चुपचाप बढ़ता है — बुखार दिखने तक की यह चुप्पी ही सुप्तावधि है।",
+        "en": "The germ enters, then quietly multiplies — this silence till the fever shows is the incubation period."
+      }
+    },
+    {
+      "id": "ch11_q1190",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संचारी रोग की श्रृंखला तोड़ने का अर्थ है —",
+        "en": "Breaking the chain of a communicable disease means —"
+      },
+      "options": {
+        "hi": [
+          "श्रृंखला को लंबा करना",
+          "रोगाणु के फैलने के मार्ग को काटना",
+          "रोगी से दोस्ती करना",
+          "रोगाणुओं को भोजन देना"
+        ],
+        "en": [
+          "Lengthening the chain",
+          "Cutting the route by which the pathogen spreads",
+          "Befriending the patient",
+          "Feeding the pathogens"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जल-उबालना, हाथ-धोना, मच्छर-भगाना — हर उपाय श्रृंखला की एक कड़ी तोड़ता है, रोग वहीं रुक जाता है।",
+        "en": "Boiling water, washing hands, chasing mosquitoes — every step breaks one link of the chain, and the disease stops right there."
+      }
+    },
+    {
+      "id": "ch11_q1191",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "महामारी (epidemic) किसे कहते हैं?",
+        "en": "What is called an epidemic?"
+      },
+      "options": {
+        "hi": [
+          "जब फसल अच्छी हो",
+          "जब बारिश न हो",
+          "जब कोई रोग किसी क्षेत्र में बहुत अधिक लोगों को एक साथ प्रभावित करे",
+          "जब एक आदमी जुकाम से छींके"
+        ],
+        "en": [
+          "When the crop is good",
+          "When there is no rain",
+          "When a disease affects very many people of an area at once",
+          "When one man sneezes with a cold"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जब रोग की आग पूरे इलाके में फैल जाए — कई सौ-हज़ार लोग एक साथ बीमार — तो उसे महामारी कहते हैं।",
+        "en": "When the disease's fire spreads across a whole area — hundreds-thousands ill together — it is called an epidemic."
+      }
+    },
+    {
+      "id": "ch11_q1192",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोगी को अलग रखना (isolation) किस उद्देश्य से किया जाता है?",
+        "en": "With what aim is a patient kept separate (isolation)?"
+      },
+      "options": {
+        "hi": [
+          "ताकि रोगी अकेला महसूस करे",
+          "ताकि घर साफ दिखे",
+          "ताकि पड़ोसी जल जाएँ",
+          "ताकि रोगाणु दूसरों तक न फैले"
+        ],
+        "en": [
+          "So that the patient feels lonely",
+          "So that the house looks clean",
+          "So that the neighbours burn",
+          "So that the pathogen does not reach others"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "संक्रामक रोगी को अलग कमरे में रखना श्रृंखला की पहली कड़ी पर ही जाल बिछाना है।",
+        "en": "Keeping an infectious patient in a separate room is spreading the net on the very first link of the chain."
+      }
+    },
+    {
+      "id": "ch11_q1193",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हैजा से बचने का सबसे प्रभावी घरेलू उपाय क्या है?",
+        "en": "What is the most effective household protection against cholera?"
+      },
+      "options": {
+        "hi": [
+          "उबला-शुद्ध जल पीना और स्वच्छ भोजन",
+          "नहर का जल सीधा पीना",
+          "कच्चा भोजन खुले में रखना",
+          "गंदे हाथों से खाना"
+        ],
+        "en": [
+          "Drinking boiled-pure water and eating clean food",
+          "Drinking canal water straight",
+          "Keeping raw food in the open",
+          "Eating with dirty hands"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हैजा जल-भोजन की सवारी से आता है — सवारी ही बंद कर दो, रोग दरवाज़े पर ही लौट जाएगा।",
+        "en": "Cholera arrives by the water-food ride — stop the ride itself and the disease returns from the doorstep."
+      }
+    },
+    {
+      "id": "ch11_q1194",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'वाहक नियंत्रण' (vector control) से क्या तात्पर्य है?",
+        "en": "What is meant by 'vector control'?"
+      },
+      "options": {
+        "hi": [
+          "रोग का नाम बदलना",
+          "रोग-वहन करने वाले जीवों की संख्या घटाना-रोकना",
+          "रोगियों को बाँध देना",
+          "वाहनों की रेस"
+        ],
+        "en": [
+          "Renaming the disease",
+          "Reducing-stopping the population of disease-carrying organisms",
+          "Tying up the patients",
+          "A race of vehicles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मच्छर-मक्खी की प्रजाति रोकना वाहक-नियंत्रण है — सवार गिरे नहीं, तो रोग भी नहीं गिरेगा।",
+        "en": "Checking the mosquito-fly breed is vector control — if the rider does not rise, the disease will not rise either."
+      }
+    },
+    {
+      "id": "ch11_q1195",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भोजन को खुला और लंबे समय तक रखना खतरनाक क्यों है?",
+        "en": "Why is keeping food open and for long hours dangerous?"
+      },
+      "options": {
+        "hi": [
+          "भोजन भारी हो जाता है",
+          "भोजन मीठा हो जाता है",
+          "हवा के जीवाणु-बीज उस पर बैठकर बढ़ने लगते हैं",
+          "भोजन का रंग सुंदर हो जाता है"
+        ],
+        "en": [
+          "The food becomes heavy",
+          "The food becomes sweet",
+          "Airborne germ-seeds sit on it and begin to multiply",
+          "The food's colour turns beautiful"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खुला भोजन हवा के रोगाणुओं का मुफ्त-ढाबा बन जाता है — ढकना और जल्दी खा जाना ही समझदारी।",
+        "en": "Open food becomes a free diner for airborne germs — covering it and eating soon is the wisdom."
+      }
+    },
+    {
+      "id": "ch11_q1196",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही रोगाणु से एक इलाके में कई लोग एक साथ बीमार हो गए — इसकी सबसे संभावित व्याख्या क्या है?",
+        "en": "Several people of an area fell ill together from the same pathogen — what is the most likely explanation?"
+      },
+      "options": {
+        "hi": [
+          "सभी ने एक साथ नाच किया",
+          "सभी को इनाम मिला",
+          "सभी एक साथ बूढ़े हो गए",
+          "सभी का एक ही स्रोत (जल/भोजन) से संपर्क हुआ"
+        ],
+        "en": [
+          "All danced together",
+          "All got a prize",
+          "All grew old together",
+          "All of them contacted one common source (water/food)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक ही कुएँ-टंकी का दूषित जल जब कई घर पीते हैं, तो बीमारी झुंड में आती है — स्रोत एक, रोगी अनेक।",
+        "en": "When many homes drink one contaminated well-tank's water, disease arrives in a herd — source one, patients many."
+      }
+    },
+    {
+      "id": "ch11_q1197",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "छींकते समय नाक-मुँह ढकना किस सिद्धांत का पालन है?",
+        "en": "Covering nose-mouth while sneezing is following which principle?"
+      },
+      "options": {
+        "hi": [
+          "संचरण-मार्ग काटने का",
+          "वायु बेचने का",
+          "ध्वनि-प्रदूषण का",
+          "तापमान बढ़ाने का"
+        ],
+        "en": [
+          "Cutting the route of transmission",
+          "Selling air",
+          "Of noise pollution",
+          "Of raising temperature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रुमाल-कोहनी से छींक रोकना रोगाणु-बम को हवा में ही निष्क्रिय कर देता है — श्रृंखला की कड़ी वहीं टूटती है।",
+        "en": "Stopping the sneeze with a hanky-elbow defuses the germ-bomb in the air itself — the chain's link breaks right there."
+      }
+    },
+    {
+      "id": "ch11_q1198",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोग फैलने की 'सीधी सवारियाँ' कौन-सी हैं?",
+        "en": "Which are the 'direct rides' of disease spread?"
+      },
+      "options": {
+        "hi": [
+          "केवल तार",
+          "वायु, जल, भोजन, स्पर्श और वाहक",
+          "केवल सोशल मीडिया",
+          "केवल रेडियो"
+        ],
+        "en": [
+          "Only wires",
+          "Air, water, food, touch and vector",
+          "Only social media",
+          "Only radio"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हवा, पानी, खाना, छूना और मच्छर-मक्खी — रोगाणु की पाँच चलती-फिरती सवारियाँ; सबका टिकट अलग-अलग तरीके से काटा जाता है।",
+        "en": "Air, water, food, touch and mosquito-fly — the five ever-moving rides of pathogens; each ticket is cut by a different method."
+      }
+    },
+    {
+      "id": "ch11_q1199",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अशुद्ध जल से होने वाले दो रोगों का सुमेलन कौन-सा सही है?",
+        "en": "Which matching of two diseases from impure water is correct?"
+      },
+      "options": {
+        "hi": [
+          "मलेरिया + चेचक",
+          "खसरा + रतुआ",
+          "हैजा + टाइफॉइड",
+          "पोलियो + दाद"
+        ],
+        "en": [
+          "Malaria + Smallpox",
+          "Measles + Rust",
+          "Cholera + Typhoid",
+          "Polio + Ringworm"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हैजा और टाइफॉइड दोनों दूषित जल-भोजन के जीवाणु-रोग हैं — एक ही सवारी के दो सवार।",
+        "en": "Cholera and typhoid are both bacterial diseases of tainted water-food — two riders of the same ride."
+      }
+    },
+    {
+      "id": "ch11_q1200",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोग-प्रसार में 'जन-संख्या घनत्व' का प्रभाव क्यों देखा जाता है?",
+        "en": "Why is 'population density' seen to affect disease spread?"
+      },
+      "options": {
+        "hi": [
+          "भीड़ में हवा ज्यादा होती है",
+          "भीड़ में पानी गायब होता है",
+          "घनत्व से रोग डरता है",
+          "भीड़ में निकट-संपर्क बढ़ता है, रोगाणु को सवारी मिलना आसान हो जाता है"
+        ],
+        "en": [
+          "Crowds have more air",
+          "Crowds lack water",
+          "Disease fears density",
+          "In crowds close contact rises, making it easy for the pathogen to find a ride"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक छींक भीड़ में दस लोगों तक पहुँचती है, सुनसान में किसी को नहीं — संपर्क जितना, संचरण उतना।",
+        "en": "One sneeze reaches ten people in a crowd, none in a desert — as the contact, so the transmission."
+      }
+    },
+    {
+      "id": "ch11_q1201",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संक्रमित व्यक्ति के बर्तन-वस्त्र को अलग रखने का कारण क्या है?",
+        "en": "Why are an infected person's utensils-clothes kept separate?"
+      },
+      "options": {
+        "hi": [
+          "उन पर लगे रोगाणु स्वस्थ सदस्यों तक न पहुँचें",
+          "बर्तन नए दिखें",
+          "कपड़े रंगीन हों",
+          "घर बड़ा लगे"
+        ],
+        "en": [
+          "So that germs on them do not reach healthy members",
+          "So the utensils look new",
+          "So the clothes are coloured",
+          "So the house looks big"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रोगी का गिलास भी रोग का गवाह हो सकता है — अलग रखना ही उसकी गवाही बंद करना है।",
+        "en": "Even the patient's glass can be a witness of disease — keeping it separate is shutting that testimony."
+      }
+    },
+    {
+      "id": "ch11_q1202",
+      "topic": "disease-dynamics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खाने के कुछ घंटे बाद उल्टी-दस्त से हुई 'भोजन-विषाक्तता' का सूक्ष्म कारण क्या होता है?",
+        "en": "What is the micro-cause of 'food poisoning' that struck with vomiting-loose motions some hours after eating?"
+      },
+      "options": {
+        "hi": [
+          "भोजन की थाली",
+          "भोजन में पले जीवाणुओं के बनाए विष",
+          "भोजन का रंग",
+          "भोजन का भार"
+        ],
+        "en": [
+          "The food's plate",
+          "Toxins made by bacteria that grew in the food",
+          "The food's colour",
+          "The food's weight"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गर्मी में खुला रखा भोजन जीवाणुओं का विष-कारखाना बन जाता है — विष पेट में उतरते ही उबाल आता है।",
+        "en": "Food left open in the heat becomes a germ-toxin factory — the moment the toxin descends into the stomach, the churn begins."
+      }
+    },
+    {
+      "id": "ch11_q1203",
+      "topic": "disease-dynamics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक रोग जल से फैलता है, दूसरा वायु से, तीसरा वाहक से। तीनों के लिए क्रमशः उपाय-त्रयी का सही सुमेलन कौन-सा है?",
+        "en": "One disease spreads by water, another by air, a third by vector. Which is the correct matching of the remedy-triad respectively?"
+      },
+      "options": {
+        "hi": [
+          "जल-जमाना, वायु-बेचना, वाहक-बढ़ाना",
+          "तीनों का एक ही उपाय — घुड़साल",
+          "जल-उबालना, छींक-ढकना, मच्छर-नियंत्रण",
+          "जल-गिराना, छींक-फैलाना, मच्छर-पालना"
+        ],
+        "en": [
+          "Storing water, selling air, raising vectors",
+          "Same remedy for all three — a stable",
+          "Boiling water, covering sneeze, mosquito-control",
+          "Dropping water, spreading sneeze, rearing mosquitoes"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हर सवारी का टिकट उसी के हिसाब से कटता है — जल का उबाल से, वायु का ढकने से, वाहक का नियंत्रण से।",
+        "en": "Each ride's ticket is cut per its own account — water's by boiling, air's by covering, vector's by control."
+      }
+    },
+    {
+      "id": "ch11_q1204",
+      "topic": "disease-dynamics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'रोगाणु शरीर में घुसा, बढ़ा, विष फैलाया, लक्षण दिखे' — इस क्रम में सुप्तावधि कौन-से चरण के बीच की अवधि है?",
+        "en": "'The pathogen entered, multiplied, spread toxin, symptoms showed' — between which stages of this sequence lies the incubation period?"
+      },
+      "options": {
+        "hi": [
+          "लक्षण और दवा के बीच",
+          "दवा और डिस्चार्ज के बीच",
+          "किसी चरण के बीच नहीं",
+          "प्रवेश और लक्षण-प्रकट होने के बीच"
+        ],
+        "en": [
+          "Between symptoms and medicine",
+          "Between medicine and discharge",
+          "Between no stages",
+          "Between entry and the appearance of symptoms"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रवेश से लक्षण तक का चुप-मौन अंतराल ही सुप्तावधि है — रोगाणु इसी दौरान चुपके से अपनी सेना बढ़ाता है।",
+        "en": "The silent interval from entry to symptom is the incubation period — in this very span the germ quietly raises its army."
+      }
+    },
+    {
+      "id": "ch11_q1205",
+      "topic": "disease-dynamics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी रोग के 'वाहक' और 'रोगाणु' की भूमिकाओं पर विचार कीजिए — कौन-सा कथन सही है?",
+        "en": "Consider the roles of a disease's 'vector' and 'pathogen' — which statement is correct?"
+      },
+      "options": {
+        "hi": [
+          "वाहक केवल पहुँचाता है, बीमारी रोगाणु करता है",
+          "वाहक ही बीमारी करता है, रोगाणु सवार है",
+          "दोनों एक ही जीव हैं",
+          "दोनों की भूमिका उल्टी-सी है पर सही"
+        ],
+        "en": [
+          "The vector only delivers; the pathogen causes the illness",
+          "The vector causes illness; the pathogen is the rider",
+          "Both are the same organism",
+          "Both roles are inverted yet correct"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मच्छर डाकिया है, प्लाज्मोडियम पत्र — बीमारी पत्र से लगती है, डाकिया से नहीं।",
+        "en": "The mosquito is the postman, Plasmodium the letter — illness comes from the letter, not the postman."
+      }
+    },
+    {
+      "id": "ch11_q1206",
+      "topic": "immunity-prevention",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिरक्षा (immunity) किसे कहते हैं?",
+        "en": "What is called immunity?"
+      },
+      "options": {
+        "hi": [
+          "नाखूनों की लंबाई",
+          "शरीर की रोग से लड़ने की क्षमता",
+          "शरीर का रंग",
+          "बालों की चमक"
+        ],
+        "en": [
+          "The length of nails",
+          "The body's capacity to fight disease",
+          "The body's colour",
+          "The shine of hair"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जिस शरीर में रोगाणुओं से लड़ने की सेना जागी रहती है, उसे प्रतिरक्षा कहते हैं।",
+        "en": "The body in which the army to fight germs stays awake is said to have immunity."
+      }
+    },
+    {
+      "id": "ch11_q1207",
+      "topic": "immunity-prevention",
+      "difficulty": "easy",
+      "question": {
+        "hi": "टीकाकरण (vaccination) से क्या प्राप्त होता है?",
+        "en": "What is gained from vaccination?"
+      },
+      "options": {
+        "hi": [
+          "केवल नींद",
+          "केवल बाल",
+          "रोग के विरुद्ध सुरक्षा-क्षमता",
+          "केवल भूख"
+        ],
+        "en": [
+          "Only sleep",
+          "Only hair",
+          "Protective capacity against a disease",
+          "Only hunger"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "टीका शरीर को रोग से पहले ही रोग का परिचय करा देता है — असली हमले पर शरीर तैयार मिलता है।",
+        "en": "A vaccine introduces the body to the disease before it arrives — at the real attack the body is found ready."
+      }
+    },
+    {
+      "id": "ch11_q1208",
+      "topic": "immunity-prevention",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एंटीबॉडी क्या होती हैं?",
+        "en": "What are antibodies?"
+      },
+      "options": {
+        "hi": [
+          "हड्डी के टुकड़े",
+          "त्वचा के रोम",
+          "बाल की जड़ें",
+          "रक्त में बनने वाले विशेष प्रोटीन जो रोगाणुओं को निष्क्रिय करते हैं"
+        ],
+        "en": [
+          "Pieces of bone",
+          "Pores of skin",
+          "Roots of hair",
+          "Special proteins formed in blood that deactivate pathogens"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एंटीबॉडी शरीर के ताले-चाबी वाले प्रहरी हैं — रोगाणु को पहचानकर उसकी चाल बंद कर देते हैं।",
+        "en": "Antibodies are the body's lock-and-key sentries — recognising the germ, they stop its move."
+      }
+    },
+    {
+      "id": "ch11_q1209",
+      "topic": "immunity-prevention",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पोलियो की बूँदें देने का उद्देश्य क्या है?",
+        "en": "What is the aim of giving polio drops?"
+      },
+      "options": {
+        "hi": [
+          "पोलियो वायरस के विरुद्ध शरीर की रक्षा-स्मृति जगाना",
+          "बच्चे को नहलाना",
+          "बच्चे को तौलना",
+          "बच्चे का नाम रखना"
+        ],
+        "en": [
+          "To awaken the body's defence-memory against the polio virus",
+          "To bathe the child",
+          "To weigh the child",
+          "To name the child"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दो बूँदों में छुपा संदेश — 'इस वायरस को पहचान लो' — आने वाले वर्षों तक शरीर यही याद रखता है।",
+        "en": "The message hidden in two drops — 'know this virus' — the body remembers it for years to come."
+      }
+    },
+    {
+      "id": "ch11_q1210",
+      "topic": "immunity-prevention",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वचा और श्लेष्म-झिल्ली शरीर की किस पंक्ति की रक्षा हैं?",
+        "en": "The skin and mucous membranes are the defence of which line of the body?"
+      },
+      "options": {
+        "hi": [
+          "बाहरी सजावट",
+          "पहली रक्षा-पंक्ति (प्रवेश-रोध)",
+          "अंतिम पंक्ति",
+          "कोई पंक्ति नहीं"
+        ],
+        "en": [
+          "External decoration",
+          "The first line of defence (entry-blocking)",
+          "The last line",
+          "No line at all"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "त्वचा की दीवार, नाक के बाल, गले की झिल्ली — ये सब रोगाणु को अंदर घुसने से पहले ही रोकते हैं।",
+        "en": "The skin's wall, the nose-hairs, the throat's membrane — all stop the germ before it enters."
+      }
+    },
+    {
+      "id": "ch11_q1211",
+      "topic": "immunity-prevention",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्वेत रुधिर-कणिकाएँ (WBC) शरीर की रक्षा में क्या भूमिका निभाती हैं?",
+        "en": "What role do white blood cells (WBC) play in the body's defence?"
+      },
+      "options": {
+        "hi": [
+          "वे बाल बढ़ाती हैं",
+          "वे भोजन पचाती हैं",
+          "वे रोगाणुओं को निगलकर नष्ट करती हैं",
+          "वे शरीर को ठंडा करती हैं"
+        ],
+        "en": [
+          "They grow hair",
+          "They digest food",
+          "They swallow and destroy germs",
+          "They cool the body"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "WBC शरीर के संतरी-सैनिक हैं — रक्त-गली में गश्त लगाते हुए घुसैयियों को वहीं दबा देते हैं।",
+        "en": "WBC are the body's sentry-soldiers — patrolling the blood-lane they crush intruders on the spot."
+      }
+    },
+    {
+      "id": "ch11_q1212",
+      "topic": "immunity-prevention",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घाव पर दवा-पट्टी करना रोग-रोकथाम का कौन-सा तर्क है?",
+        "en": "What is the disease-prevention logic of dressing a wound?"
+      },
+      "options": {
+        "hi": [
+          "घाव को हवा देना",
+          "घाव को रंगना",
+          "घाव को बढ़ना",
+          "खुला घाव रोगाणुओं का प्रवेश-द्वार है — ढकना द्वार बंद करना है"
+        ],
+        "en": [
+          "Giving air to the wound",
+          "Colouring the wound",
+          "Growing the wound",
+          "An open wound is the pathogens' entry-door — dressing it shuts the door"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "त्वचा की टूटी दीवार पट्टी से फिर खड़ी हो जाती है — रोगाणु का रास्ता वहीं बंद।",
+        "en": "The skin's broken wall stands up again with the dressing — the pathogen's road closes right there."
+      }
+    },
+    {
+      "id": "ch11_q1213",
+      "topic": "immunity-prevention",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी रोग का टीका लगवाने के बाद वही रोग फिर नहीं होता — कारण?",
+        "en": "After getting vaccinated against a disease, the same disease does not recur — why?"
+      },
+      "options": {
+        "hi": [
+          "शरीर की रक्षा-स्मृति उस रोगाणु को याद रखती है",
+          "टीका शरीर में बर्फ जमा देता है",
+          "रोगाणु डरकर भाग जाता है",
+          "शरीर का रंग बदल जाता है"
+        ],
+        "en": [
+          "The body's defence-memory remembers that pathogen",
+          "The vaccine freezes the body",
+          "The pathogen flees in fear",
+          "The body's colour changes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक बार पहचाना हुआ रोगाणु दोबारा आए तो स्मृति-प्रहरी फौरन एंटीबॉडी-फौज खड़ी कर देते हैं।",
+        "en": "If a once-recognised pathogen comes again, the memory-sentries raise the antibody-army at once."
+      }
+    },
+    {
+      "id": "ch11_q1214",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "टीके में रोगाणु का कमज़ोर रूप क्यों रखा जाता है, पूरी ताकत वाला नहीं?",
+        "en": "Why is a weakened form of the pathogen kept in a vaccine, not a fully potent one?"
+      },
+      "options": {
+        "hi": [
+          "टीका रंगीन दिखे",
+          "शरीर पहचान तो बना ले, बीमार न हो",
+          "शरीर बीमार ही न होने पाए, पहचान भी न बने",
+          "टीका सस्ता पड़े"
+        ],
+        "en": [
+          "So the vaccine looks colourful",
+          "So the body builds recognition without falling ill",
+          "So the body neither falls ill nor builds recognition",
+          "So the vaccine is cheap"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कमज़ोर रोगाणु एक मैक-डांस है — शरीर ताल सीख लेता है, पर थकता नहीं।",
+        "en": "A weakened germ is a mock-dance — the body learns the rhythm without getting tired."
+      }
+    },
+    {
+      "id": "ch11_q1215",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एडवर्ड जेनर की खोज की कहानी का मूल सुराग क्या था?",
+        "en": "What was the original clue in the story of Edward Jenner's discovery?"
+      },
+      "options": {
+        "hi": [
+          "भेड़ें चेचक फैलाती थीं",
+          "घोड़े टीके बनाते थे",
+          "गाय-मट्ठे वाले दुग्धपालक चेचक से बचे रहते थे",
+          "मच्छरों को गाय खा जाती थी"
+        ],
+        "en": [
+          "Sheep spread smallpox",
+          "Horses made vaccines",
+          "Milkmaids having cowpox stayed safe from smallpox",
+          "Cows ate up the mosquitoes"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गायों के हल्के मट्ठे-रोग से बचे लोग भारी चेचक से भी बच निकलते थे — इसी गाँव-खुशबू से टीका-विज्ञान जन्मा।",
+        "en": "People spared by the cows' mild pox also escaped the heavy smallpox — from this village-scent was vaccine-science born."
+      }
+    },
+    {
+      "id": "ch11_q1216",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रतिरक्षा और टीकाकरण का संबंध क्या है?",
+        "en": "What is the relation between immunity and vaccination?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक-दूसरे से असंबंधित हैं",
+          "प्रतिरक्षा टीकाकरण का विपरीत है",
+          "टीकाकरण रोग का इलाज है",
+          "टीकाकरण प्रतिरक्षा जगाने का साधन है"
+        ],
+        "en": [
+          "The two are unrelated",
+          "Immunity is the opposite of vaccination",
+          "Vaccination is the cure of disease",
+          "Vaccination is the means of awakening immunity"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "टीका बीज है, प्रतिरक्षा फसल — टीका लगवाना प्रतिरक्षा की खेती बोना है।",
+        "en": "The vaccine is the seed, immunity the crop — getting vaccinated is sowing the field of defence."
+      }
+    },
+    {
+      "id": "ch11_q1217",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायरल रोगों में एंटीबायोटिक काम नहीं करते — क्यों?",
+        "en": "Why do antibiotics not work in viral diseases?"
+      },
+      "options": {
+        "hi": [
+          "एंटीबायोटिक जीवाणु-भित्ति जैसे लक्ष्यों पर बने हैं, जो वायरस में नहीं होते",
+          "वायरस एंटीबायोटिक को खा जाते हैं",
+          "एंटीबायोटिक डर जाते हैं",
+          "वायरस बहुत मिलनसार हैं"
+        ],
+        "en": [
+          "Antibiotics are built for targets like bacterial walls, which viruses do not have",
+          "Viruses eat the antibiotics",
+          "Antibiotics get scared",
+          "Viruses are very friendly"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जिस दीवार पर हथौड़ा बना है, वह दीवार वायरस के घर में है ही नहीं — इसीलिए जुकाम-बुखार जैसे वायरल रोगों में एंटीबायोटिक व्यर्थ हैं।",
+        "en": "The wall the hammer was made for does not exist in the virus's house — hence antibiotics are useless in viral colds-fevers."
+      }
+    },
+    {
+      "id": "ch11_q1218",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एंटीबायोटिक का बिना डॉक्टरी सलाह अधिक प्रयोग करना हानिकारक क्यों?",
+        "en": "Why is overusing antibiotics without medical advice harmful?"
+      },
+      "options": {
+        "hi": [
+          "दवा की बोतल टूट जाती है",
+          "रोगाणु धीरे-धीरे दवा के विरुद्ध सख्त (प्रतिरोधी) हो जाते हैं",
+          "दवा महँगी हो जाती है",
+          "दवा का रंग उड़ जाता है"
+        ],
+        "en": [
+          "The medicine's bottle breaks",
+          "Germs gradually turn tough (resistant) against the medicine",
+          "The medicine becomes costly",
+          "The medicine's colour flies away"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हर अधूरी लड़ाई दुश्मन को तराशती है — बिना जरूरत दी गई दवा जीवाणु को उसी दवा के लिए पहलवान बना देती है।",
+        "en": "Every half-fought battle whets the foe — medicine given needlessly turns the bacterium into a wrestler against that very drug."
+      }
+    },
+    {
+      "id": "ch11_q1219",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भारत में पोलियो-मुक्ति की सफलता का आधार क्या रणनीति रही?",
+        "en": "What strategy underpinned India's success towards a polio-free status?"
+      },
+      "options": {
+        "hi": [
+          "मच्छर पालना",
+          "नहरें खोलना",
+          "घर-घर जाकर बूँदें देना (पल्स-पोलियो अभियान)",
+          "सबको अस्पताल बंद करना"
+        ],
+        "en": [
+          "Rearing mosquitoes",
+          "Opening canals",
+          "Door-to-door drop-giving (Pulse Polio campaign)",
+          "Closing all hospitals"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पल्स-पोलियो अभियान ने एक ही दिन करोड़ों बच्चों को ढक लिया — वायरस को घर ही नहीं मिला।",
+        "en": "The Pulse Polio campaign covered crores of children on a single day — the virus found no home."
+      }
+    },
+    {
+      "id": "ch11_q1220",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल-जनित रोगों से बचाव की तीन-स्तरीय रेखा कौन-सी है?",
+        "en": "Which is the three-layered line of protection against water-borne diseases?"
+      },
+      "options": {
+        "hi": [
+          "पानी इकट्ठा करना, उल्टा गिराना, भूल जाना",
+          "कुएँ में मल डालना, टंकी खोलना, पाइप काटना",
+          "पानी रंगना, बेचना, उड़ाना",
+          "उबालना/छानना, स्रोत की सुरक्षा, जल-शुद्धि-प्रणाली"
+        ],
+        "en": [
+          "Collecting water, dropping it, forgetting it",
+          "Putting waste in wells, opening tanks, cutting pipes",
+          "Colouring water, selling it, flying it",
+          "Boiling/filtering, protecting the source, water-purification systems"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्रोत से गिलास तक — हर मोड़ पर जल की सुरक्षा ही जल-जनित रोगों की दीवार है।",
+        "en": "From source to glass — water's security at every turn is the wall against water-borne diseases."
+      }
+    },
+    {
+      "id": "ch11_q1221",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मलेरिया-रोकथाम के लिए व्यक्तिगत स्तर के उपायों में क्या शामिल है?",
+        "en": "What is included in personal-level measures against malaria?"
+      },
+      "options": {
+        "hi": [
+          "मच्छरदानी, पूरे कपड़े, रिपेलेंट का प्रयोग",
+          "रात में नंगे रहना",
+          "खुली खिड़कियों पर सोना",
+          "पानी में खड़े होना"
+        ],
+        "en": [
+          "Mosquito nets, full clothes, use of repellents",
+          "Staying bare at night",
+          "Sleeping by open windows",
+          "Standing in water"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वाहक के काटने से बचना ही मलेरिया में व्यक्तिगत दीवार है — जाल, कपड़ा और रिपेलेंट तीन परतें।",
+        "en": "Saving oneself from the vector's bite is the personal wall in malaria — net, cloth and repellent its three layers."
+      }
+    },
+    {
+      "id": "ch11_q1222",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बच्चों के लिए टीकाकरण-समय-सारणी (जैसे BCG, DPT) का पालन क्यों जरूरी माना जाता है?",
+        "en": "Why is following the immunisation schedule (like BCG, DPT) for children considered necessary?"
+      },
+      "options": {
+        "hi": [
+          "टीके रंग बदलने के लिए हैं",
+          "हर टीका निश्चित आयु-खिड़की में सबसे असरदार सुरक्षा देता है",
+          "टीके केवल बड़ों के लिए हैं",
+          "समय-सारणी मनोरंजन के लिए है"
+        ],
+        "en": [
+          "Vaccines are for changing colours",
+          "Each vaccine gives the most effective protection in a fixed age-window",
+          "Vaccines are only for adults",
+          "The schedule is for entertainment"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बचपन की डोज़-घड़ी समय पर चढ़ाई जाए तो रक्षा-दीवार पूरी खड़ी होती है — छूटी खिड़की दीवार में गड्ढा छोड़ती है।",
+        "en": "Wound the childhood dose-clock on time and the defence-wall stands complete — a missed window leaves a pit in the wall."
+      }
+    },
+    {
+      "id": "ch11_q1223",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रतिरक्षा के दो स्रोत — जन्मजात और टीके/रोग से अर्जित। 'अर्जित प्रतिरक्षा' की पहचान क्या है?",
+        "en": "Two sources of immunity — inborn and acquired via vaccine/disease. What is the mark of 'acquired immunity'?"
+      },
+      "options": {
+        "hi": [
+          "केवल त्वचा की मोटाई",
+          "केवल बालों की संख्या",
+          "विशिष्ट रोगाणु से मिलने के बाद उसी के विरुद्ध विकसित स्मृति-रक्षा",
+          "जन्म से हर रोग के विरुद्ध पूरी तैयारी"
+        ],
+        "en": [
+          "Only the thickness of skin",
+          "Only the number of hairs",
+          "Memory-defence developed against a specific pathogen after encountering it",
+          "Full readiness against every disease from birth"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जन्मजात रक्षा सामान्य चौकी है; अर्जित रक्षा नाम-अंकित वारंट — एक बार मिला रोगाणु, उसका दस्तावेज उम्र भर।",
+        "en": "Inborn defence is a general checkpoint; acquired defence is a named warrant — a germ met once, its dossier lifelong."
+      }
+    },
+    {
+      "id": "ch11_q1224",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सुरक्षित पेयजल के लिए घरेलू 'तीन-छलनी' विधि क्या है?",
+        "en": "What is the household 'three-strainer' method for safe drinking water?"
+      },
+      "options": {
+        "hi": [
+          "मिलाना + रंगना + बेचना",
+          "गर्म करना + जमाना + उड़ाना",
+          "इकट्ठा करना + छलाना + भूलना",
+          "छानना + उबालना + ढककर रखना"
+        ],
+        "en": [
+          "Mixing + colouring + selling",
+          "Heating + freezing + flying",
+          "Collecting + straining + forgetting",
+          "Filtering + boiling + keeping covered"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "छानलो बड़े कण, उबालो रोगाणु, ढको दोबारा गिरने से — तीन कदम, एक सुरक्षित गिलास।",
+        "en": "Strain the big particles, boil the germs, cover from falling again — three steps, one safe glass."
+      }
+    },
+    {
+      "id": "ch11_q1225",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोग-प्रतिरोध में पौष्टिक आहार की भूमिका क्या है?",
+        "en": "What is the role of nourishing food in disease resistance?"
+      },
+      "options": {
+        "hi": [
+          "अच्छा पोषण रक्षा-सेना (WBC-एंटीबॉडी) की ताकत बनाए रखता है",
+          "पोषण रोगाणुओं को खिलाता है",
+          "पोषण से रक्षा-सेना भाग जाती है",
+          "पोषण का रोग से कोई संबंध नहीं"
+        ],
+        "en": [
+          "Good nutrition keeps the defence army (WBC-antibodies) strong",
+          "Nutrition feeds the germs",
+          "The defence army flees from nutrition",
+          "Nutrition has no relation with disease"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सेना भूखी लड़ नहीं सकती — पोषण ही रक्षा-तंत्र का राशन-भंडार है।",
+        "en": "An army hungry cannot fight — nutrition is the ration-store of the defence system."
+      }
+    },
+    {
+      "id": "ch11_q1226",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हैजा में ORS (नमक-चीनी का घोल) क्यों दिया जाता है?",
+        "en": "Why is ORS (salt-sugar solution) given in cholera?"
+      },
+      "options": {
+        "hi": [
+          "नींद लाने के लिए",
+          "दस्तों से खोया जल-लवण तुरंत पूरा करने के लिए",
+          "रोगाणु को मीठा खिलाने के लिए",
+          "बुखार बढ़ाने के लिए"
+        ],
+        "en": [
+          "To bring sleep",
+          "To quickly restore the water-salts lost through loose motions",
+          "To feed sweets to the germ",
+          "To raise the fever"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हैजा का असली खतरा शरीर का सूख जाना है — ORS जल-लवण की टपक-सिंचाई है।",
+        "en": "Cholera's real danger is the body drying out — ORS is the drip-irrigation of water-salts."
+      }
+    },
+    {
+      "id": "ch11_q1227",
+      "topic": "immunity-prevention",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'वाहक नियंत्रण' में मच्छरदानी और जल-स्रोत-प्रबंधन — दोनों की अपेक्षा क्या है?",
+        "en": "In 'vector control', what is expected of both mosquito nets and water-source management?"
+      },
+      "options": {
+        "hi": [
+          "दोनों मच्छरों को आमंत्रण हैं",
+          "दोनों का आपस में मेल नहीं",
+          "जाल काटने की दो कड़ियाँ — काटना और प्रजनन-रोकना",
+          "दोनों से मच्छर मोटे होते हैं"
+        ],
+        "en": [
+          "Both invite mosquitoes",
+          "The two are unrelated",
+          "Two links of chain-cutting — biting and breeding-stop",
+          "Both fatten mosquitoes"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जाल रात की काट से बचाता है, जल-प्रबंधन कल की पीढ़ी से — दोनों मिलकर वाहक का वृत्त ही बंद करते हैं।",
+        "en": "The net saves from tonight's bite, water-management from tomorrow's generation — together they shut the vector's circle."
+      }
+    },
+    {
+      "id": "ch11_q1228",
+      "topic": "immunity-prevention",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक व्यक्ति को चेचक हो चुका है और ठीक हो गया है — दोबारा चेचक का खतरा प्रायः क्यों नहीं रहता?",
+        "en": "A person has had smallpox and recovered — why does the risk of smallpox again usually not remain?"
+      },
+      "options": {
+        "hi": [
+          "रोगाणु उसका प्रशंसक बन गया",
+          "शरीर में चेचक की जगह खत्म हो गई",
+          "चेचक ने उसे विदा कर दिया",
+          "उस रोग के विरुद्ध शरीर की स्मृति-प्रतिरक्षा बन चुकी है"
+        ],
+        "en": [
+          "The germ became his fan",
+          "The place for smallpox in his body finished",
+          "Smallpox bade him farewell",
+          "The body's memory-immunity against that disease has formed"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्राकृतिक संक्रमण भी टीके जैसा ही पाठ पढ़ा देता है — एंटीबॉडी-स्मृति उम्रों तक कायम।",
+        "en": "A natural infection too teaches the same lesson as a vaccine — the antibody-memory lasts for ages."
+      }
+    },
+    {
+      "id": "ch11_q1229",
+      "topic": "immunity-prevention",
+      "difficulty": "hard",
+      "question": {
+        "hi": "टीका, एंटीबॉडी, स्मृति-प्रतिरक्षा — तीनों की श्रृंखला में सही क्रम क्या है?",
+        "en": "What is the correct order in the chain of vaccine, antibody, memory-immunity?"
+      },
+      "options": {
+        "hi": [
+          "टीका → एंटीबॉडी निर्माण → स्मृति-प्रतिरक्षा",
+          "एंटीबॉडी → टीका → स्मृति",
+          "स्मृति → एंटीबॉडी → टीका",
+          "कोई क्रम नहीं"
+        ],
+        "en": [
+          "Vaccine → antibody formation → memory-immunity",
+          "Antibody → vaccine → memory",
+          "Memory → antibody → vaccine",
+          "No order"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "टीका पहला पत्र है, एंटीबॉडी उत्तर, स्मृति अभिलेखागार — क्रम यही तो है।",
+        "en": "The vaccine is the first letter, the antibody the reply, memory the archive — this indeed is the order."
+      }
+    },
+    {
+      "id": "ch11_q1230",
+      "topic": "immunity-prevention",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'जन्मजात रक्षा सामान्य है, अर्जित रक्षा विशिष्ट है' — इस कथन की पुष्टि करने वाला उदाहरण कौन-सा है?",
+        "en": "'Inborn defence is general, acquired defence is specific' — which example confirms this statement?"
+      },
+      "options": {
+        "hi": [
+          "न त्वचा रोकती है न स्मृति मारती है",
+          "त्वचा हर रोगाणु को रोकती है; चेचक-रोगी की स्मृति केवल चेचक वायरस को मारती है",
+          "त्वचा कुछ नहीं रोकती; स्मृति सब कुछ मारती है",
+          "दोनों एक जैसे काम करते हैं"
+        ],
+        "en": [
+          "Neither skin blocks nor memory kills",
+          "Skin blocks every germ; a smallpox-patient's memory kills only the smallpox virus",
+          "Skin blocks nothing; memory kills everything",
+          "Both do identical work"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "त्वचा चौकीदार है — सबको रोके; अर्जित स्मृति निशाना-बर्दार है — केवल अपने वारंट वाले को पहचाने।",
+        "en": "The skin is the watchman — stops all; acquired memory is the marksman — recognises only those on its warrant."
+      }
+    },
+    {
+      "id": "ch11_q1231",
+      "topic": "health-hygiene",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'स्वास्थ्य' केवल 'बीमारी न होना' नहीं है — इसकी पूरी परिभाषा क्या है?",
+        "en": "Health is not merely 'absence of disease' — what is its complete definition?"
+      },
+      "options": {
+        "hi": [
+          "केवल मोटा शरीर",
+          "केवल सुंदर चेहरा",
+          "शारीरिक, मानसिक और सामाजिक रूप से अच्छी स्थिति",
+          "केवल तगड़ा शरीर"
+        ],
+        "en": [
+          "Only a fat body",
+          "Only a beautiful face",
+          "A good state physically, mentally and socially",
+          "Only a strong body"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्वस्थ वह जो शरीर से चुस्त, मन से शांत और समाज में सहज हो — तीनों आँगन रौशन हों।",
+        "en": "Healthy is one who is nimble in body, calm in mind and easy in society — all three couryards lit."
+      }
+    },
+    {
+      "id": "ch11_q1232",
+      "topic": "health-hygiene",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शौच के बाद और भोजन से पहले हाथ धोना किन रोगों के खतरे को काटता है?",
+        "en": "Washing hands after defecation and before eating cuts the risk of which diseases?"
+      },
+      "options": {
+        "hi": [
+          "केवल बाल-झड़ना",
+          "केवल आँखों का चितवना",
+          "केवल जूतों का घिसना",
+          "हैजा-टाइफॉइड जैसे जल-भोजन जनित रोग"
+        ],
+        "en": [
+          "Only hair fall",
+          "Only blinking of eyes",
+          "Only wearing of shoes",
+          "Water-food borne diseases like cholera-typhoid"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हाथ रोगाणु की सबसे व्यस्त सवारी है — साबुन से धोल तो भाड़ा ही बंद।",
+        "en": "Hands are the germ's busiest ride — wash with soap and the fare stops."
+      }
+    },
+    {
+      "id": "ch11_q1233",
+      "topic": "health-hygiene",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घर के आस-पास कचरा जमा रहने से कौन-सा स्वास्थ्य-खतरा बनता है?",
+        "en": "What health hazard builds up from garbage lying around the house?"
+      },
+      "options": {
+        "hi": [
+          "मक्खी-मच्छर का प्रजनन-स्थल और रोग-वाहकों की बाढ़",
+          "ताजी हवा की बाढ़",
+          "फलों की बाढ़",
+          "दूध की बाढ़"
+        ],
+        "en": [
+          "A breeding ground for flies-mosquitoes and a flood of disease-vectors",
+          "A flood of fresh air",
+          "A flood of fruits",
+          "A flood of milk"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कचरा वाहकों का गोदाम है — उठाओ तो गोदाम ही बंद।",
+        "en": "Garbage is the vectors' warehouse — remove it and the warehouse shuts."
+      }
+    },
+    {
+      "id": "ch11_q1234",
+      "topic": "health-hygiene",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खाना पकाकर गर्म-गर्म खाना बनाम घंटों पहले पका खुला रखा — कौन-सा सुरक्षित और क्यों?",
+        "en": "Hot freshly-cooked food versus food cooked hours ago and kept open — which is safe and why?"
+      },
+      "options": {
+        "hi": [
+          "पका हुआ खतरनाक",
+          "गर्म-ताजा भोजन, क्योंकि पकाने की गर्मी रोगाणु मारती है और कम समय का खुला-प्रसार",
+          "दोनों बराबर",
+          "खुला पुराना सुरक्षित"
+        ],
+        "en": [
+          "Cooked food is dangerous",
+          "Hot-fresh food, because cooking heat kills germs and exposure time stays short",
+          "Both equal",
+          "Old open food is safe"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गर्मी की छतरी और थोड़ी हवा-छुअन — भोजन की सुरक्षा का दोहरा ताला।",
+        "en": "The umbrella of heat and little exposure — a double lock of food safety."
+      }
+    },
+    {
+      "id": "ch11_q1235",
+      "topic": "health-hygiene",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खुले में शौच (open defecation) रोग-श्रृंखला में कौन-सी कड़ी बनता है?",
+        "en": "Which link in the disease-chain does open defecation become?"
+      },
+      "options": {
+        "hi": [
+          "व्यायाम बढ़ाने वाली कड़ी",
+          "कोई कड़ी नहीं",
+          "जल-भोजन के माध्यम से रोगाणु फैलाने वाली मुख्य कड़ी",
+          "रोग रोकने वाली कड़ी"
+        ],
+        "en": [
+          "An exercise-boosting link",
+          "No link at all",
+          "The main link that spreads pathogens through water-food",
+          "A disease-preventing link"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खुला मल बरसात-जल से कुओं-टंकियों तक रोगाणु पहुँचाता है — शौचालय इसी कड़ी की कैंची।",
+        "en": "Open waste sends pathogens to wells-tanks with rain-water — the toilet is the scissor on this very link."
+      }
+    },
+    {
+      "id": "ch11_q1236",
+      "topic": "health-hygiene",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नाखून समय-समय पर काटना क्यों सलाहा जाता है?",
+        "en": "Why is cutting nails from time to time advised?"
+      },
+      "options": {
+        "hi": [
+          "नाखून काटने से कद बढ़ता है",
+          "नाखून काटने से आँखें नीली होती हैं",
+          "नाखून काटने से बाल घुंघराले होते हैं",
+          "लंबे नाखूनों में गंदगी-रोगाणु जमा होकर भोजन-मुँह तक पहुँचते हैं"
+        ],
+        "en": [
+          "Cutting nails raises height",
+          "Cutting nails turns eyes blue",
+          "Cutting nails curls the hair",
+          "Dirt-germs collect in long nails and reach food-mouth"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नाखून की डेरी रोगाणुओं की सुरंग है — छोटे नाखून, बंद सुरंग।",
+        "en": "The nail's burrow is a germ-tunnel — short nails, shut tunnel."
+      }
+    },
+    {
+      "id": "ch11_q1237",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सार्वजनिक स्वास्थ्य (public health) की जिम्मेदारी में स्थानीय निकाय क्या-क्या करते हैं?",
+        "en": "What do local bodies do within the responsibility of public health?"
+      },
+      "options": {
+        "hi": [
+          "सुरक्षित जल-आपूर्ति, मल-निपटान, टीकाकरण-अभियान",
+          "केवल सड़कों पर रंग भरना",
+          "केवल जन्मदिन मनाना",
+          "केवल साइनबोर्ड लगाना"
+        ],
+        "en": [
+          "Safe water supply, waste disposal, vaccination campaigns",
+          "Only painting the roads",
+          "Only celebrating birthdays",
+          "Only putting up signboards"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "साफ पानी, साफ मोहल्ला, टीकों की छतरी — सार्वजनिक स्वास्थ्य की तीन दीवारें।",
+        "en": "Clean water, clean neighbourhood, the umbrella of vaccines — three walls of public health."
+      }
+    },
+    {
+      "id": "ch11_q1238",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भोजन को ढककर रखना किस प्रकार का स्वच्छता-उपाय है?",
+        "en": "What kind of hygiene measure is keeping food covered?"
+      },
+      "options": {
+        "hi": [
+          "कोई उपाय नहीं",
+          "रोगाणु-प्रवेश रोकने वाला (निवारक) उपाय",
+          "रोग बढ़ाने वाला उपाय",
+          "उपचारात्मक उपाय"
+        ],
+        "en": [
+          "No measure at all",
+          "A preventive measure that blocks pathogen entry",
+          "A disease-raising measure",
+          "A curative measure"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ढकना = द्वार बंद — वायु-बैठे जीवाणु भोजन तक पहुँच ही नहीं पाते।",
+        "en": "Covering = closing the door — air-seated germs cannot even reach the food."
+      }
+    },
+    {
+      "id": "ch11_q1239",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फल-सब्जियों को खाने से पहले धोना किस खतरे की रोक है?",
+        "en": "Washing fruits-vegetables before eating is a guard against which danger?"
+      },
+      "options": {
+        "hi": [
+          "उनका मीठा होना",
+          "उनका बड़ा होना",
+          "उन पर लगे जीवाणु-कीटनाशक के अवशेष",
+          "उनके रंग का उड़ना"
+        ],
+        "en": [
+          "Their turning sweet",
+          "Their turning big",
+          "Germs and pesticide residues sitting on them",
+          "Their colour flying off"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खेत से थाली तक फल-सब्जी कई हाथ छूती है — पानी की धार उन हाथों की गंदगी उतार देती है।",
+        "en": "From field to plate the fruit-vegetable passes many hands — the stream of water carries that touch's dirt away."
+      }
+    },
+    {
+      "id": "ch11_q1240",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दूषित जल की पहचान का सामान्य संकेत क्या हो सकता है?",
+        "en": "What can be a common sign of contaminated water?"
+      },
+      "options": {
+        "hi": [
+          "वह बिल्कुल साफ और रोगाणु-रहित",
+          "वह डिस्टिल्ड जैसी शुद्ध",
+          "वह स्वादिष्ट और मीठी",
+          "उसमें गंदी गंध, स्वाद या दिखने में अशुद्धि"
+        ],
+        "en": [
+          "It is absolutely clean and germ-free",
+          "It is pure like distilled",
+          "It is tasty and sweet",
+          "A foul smell, taste or visible impurity in it"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गंध-स्वाद-रंग की चेतावनी पर पीना बंद करो — पर खतरा यह है कि घातक रोगाणु अक्सर बिना संकेत रहते हैं, इसलिए उबालना ही सुरक्षा है।",
+        "en": "Stop drinking on the warning of smell-taste-colour — yet the danger is that deadly germs often give no sign, so boiling is the safety."
+      }
+    },
+    {
+      "id": "ch11_q1241",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "घर की सफाई में 'सूखी सफाई' (जल-ठहराव रहित) पर बल क्यों दिया जाता है?",
+        "en": "Why is emphasis laid on 'dry cleanliness' (no water-logging) in house-cleaning?"
+      },
+      "options": {
+        "hi": [
+          "ठहरा जल डेंगू-मलेरिया वाहकों का प्रजनन-घर है",
+          "सूखा घर गीले से सस्ता है",
+          "जल ठहरने से दीवारें लंबी होती हैं",
+          "सूखी सफाई से छत उड़ती है"
+        ],
+        "en": [
+          "Standing water is the breeding-home of dengue-malaria vectors",
+          "A dry house is cheaper than a wet one",
+          "Walls grow tall when water stands",
+          "Dry cleaning flies the roof away"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सूखा मोहल्ला = बंद प्रजनन-घर — कूलर-टंकी-गमले का जल हर हफ्ते बदलो।",
+        "en": "A dry neighbourhood = a shut breeding-home — change cooler-tank-pot water every week."
+      }
+    },
+    {
+      "id": "ch11_q1242",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "व्यक्तिगत स्वच्छता और सार्वजनिक स्वच्छता में मूल अंतर क्या है?",
+        "en": "What is the basic difference between personal hygiene and public hygiene?"
+      },
+      "options": {
+        "hi": [
+          "सार्वजनिक केवल सरकार का काम है",
+          "व्यक्तिगत अपने शरीर-आसपास की सफाई; सार्वजनिक पूरे समुदाय-परिवेश की सफाई",
+          "दोनों एक ही हैं",
+          "व्यक्तिगत सार्वजनिक से बड़ी है"
+        ],
+        "en": [
+          "Public is only the government's job",
+          "Personal is cleanliness of one's own body-surroundings; public is of the whole community-environment",
+          "Both are the same",
+          "Personal is bigger than public"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "नहाना-धोना व्यक्तिगत दीवार है, नाली-कचरा-जल प्रबंधन सामूहिक दुर्ग — दोनों के बिना रोग-चौकी अधूरी।",
+        "en": "Bathing-washing is the personal wall, drain-waste-water management the collective fort — without both the disease-post stays incomplete."
+      }
+    },
+    {
+      "id": "ch11_q1243",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बासी/खराब भोजन की पहचान से बचने का सामान्य नियम क्या है?",
+        "en": "What is the common rule to avoid stale/spoiled food?"
+      },
+      "options": {
+        "hi": [
+          "जो मिले वही खा लें",
+          "बासी भोजन मीठा होता है",
+          "गंध-स्वाद-रंग बदला लगे तो न खाएँ",
+          "गर्म कर लें तो हमेशा खाएँ"
+        ],
+        "en": [
+          "Eat whatever is found",
+          "Stale food is sweet",
+          "If smell-taste-colour seems changed, do not eat",
+          "If reheated, always eat"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बदली गंध जीवाणुओं का बिगुल है — गर्म करने से कुछ विष टूटते नहीं, इसलिए बिगुल सुनते ही थाली छोड़ दो।",
+        "en": "A changed smell is the germs' bugle — some toxins do not break on reheating, so leave the plate the moment you hear the bugle."
+      }
+    },
+    {
+      "id": "ch11_q1244",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सामुदायिक स्तर पर टीकाकरण-अभियान की सफलता किस बात पर निर्भर करती है?",
+        "en": "What does the success of a community vaccination campaign depend on?"
+      },
+      "options": {
+        "hi": [
+          "केवल विज्ञापन पर",
+          "केवल एक व्यक्ति के टीके पर",
+          "मौसम पर",
+          "जन-भागीदारी और पूर्ण कवरेज — जितने लोग उतनी मजबूत दीवार"
+        ],
+        "en": [
+          "Only on advertising",
+          "Only on one person's vaccine",
+          "On the weather",
+          "People's participation and full coverage — as many people, so strong the wall"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "झुंड-प्रतिरक्षा की दीवार हर ईंट से बनती है — कोई ईंट छूटी तो दीवार में छेद।",
+        "en": "The herd-immunity wall is built of every brick — one brick missed and the wall has a hole."
+      }
+    },
+    {
+      "id": "ch11_q1245",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खाने-पीने की दुकान पर स्वच्छता-निरीक्षण का सार्वजनिक स्वास्थ्य-तर्क क्या है?",
+        "en": "What is the public-health logic of hygiene inspection of food shops?"
+      },
+      "options": {
+        "hi": [
+          "एक दूषित स्रोत सैकड़ों उपभोक्ताओं तक रोग पहुँचा सकता है",
+          "दुकानें सजावट के लिए हैं",
+          "निरीक्षक को खाना मिलता है",
+          "दुकानदार की छुट्टी होती है"
+        ],
+        "en": [
+          "One contaminated source can deliver disease to hundreds of consumers",
+          "Shops are for decoration",
+          "The inspector gets food",
+          "The shopkeeper gets a holiday"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सार्वजनिक रसोई की एक गलती पूरे मोहल्ले की थाली में उतरती है — निरीक्षण वही रोकता है।",
+        "en": "One mistake of a public kitchen descends into the whole neighbourhood's plate — inspection stops exactly that."
+      }
+    },
+    {
+      "id": "ch11_q1246",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बरसात में रोग बढ़ने का सूक्ष्म-कारण क्या है?",
+        "en": "What is the subtle reason for diseases rising in the rainy season?"
+      },
+      "options": {
+        "hi": [
+          "छतें उड़ जाती हैं",
+          "नमी-तापमान से जीवाणु-वाहक दोनों जल्दी पलते हैं",
+          "बारिश का पानी मीठा होता है",
+          "बादल दवा गिराते हैं"
+        ],
+        "en": [
+          "Roofs fly away",
+          "With moisture-temperature both germs and vectors breed fast",
+          "Rainwater is sweet",
+          "Clouds drop medicine"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बरसात रोगाणु-वाहक दोनों की दोहत्ती ऋतु है — इसीलिए इस मौसम में जल-स्वच्छता का पहरा दोगुना।",
+        "en": "Rain is the twin season of germs and vectors — hence the guard of water-hygiene doubles this season."
+      }
+    },
+    {
+      "id": "ch11_q1247",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्वच्छ शौचालय के प्रयोग से कौन-सा परिपथ टूटता है?",
+        "en": "Which circuit is broken by the use of a clean toilet?"
+      },
+      "options": {
+        "hi": [
+          "भोजन → रक्त → मांसपेशी का परिपथ",
+          "हवा → पत्ता → डाली का परिपथ",
+          "मल → जल/भोजन → मुँह का रोगाणु-परिपथ",
+          "पानी → बादल → बारिश का परिपथ"
+        ],
+        "en": [
+          "The circuit of food → blood → muscle",
+          "The circuit of air → leaf → twig",
+          "The germ-circuit of faeces → water/food → mouth",
+          "The circuit of water → cloud → rain"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मल-जल-मुँह की यही चक्कर जल-जनित रोगों की धुरी है — शौचालय चक्कर की कील है।",
+        "en": "This very circle of faeces-water-mouth is the axis of water-borne diseases — the toilet is the nail on the circle."
+      }
+    },
+    {
+      "id": "ch11_q1248",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्वस्थ रहने की आदतों में कौन-सा समूह पूर्णतः सही है?",
+        "en": "Which group is ENTIRELY correct among habits of staying healthy?"
+      },
+      "options": {
+        "hi": [
+          "कच्चा जल, बासी भोजन, कचरा, टीके से भागना",
+          "अधूरा सोना, खुला खाना, गंदे हाथ",
+          "तीनों समूह सही",
+          "स्वच्छ जल, ताजा भोजन, नियमित सफाई, टीकाकरण"
+        ],
+        "en": [
+          "Raw water, stale food, garbage, fleeing vaccines",
+          "Half sleep, open food, dirty hands",
+          "All three groups correct",
+          "Clean water, fresh food, regular cleanliness, vaccination"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चार थंभे — जल, भोजन, सफाई, टीका — इन्हीं पर स्वास्थ्य की क्यारी खड़ी रहती है।",
+        "en": "Four pillars — water, food, cleanliness, vaccine — on these alone stands the bed of health."
+      }
+    },
+    {
+      "id": "ch11_q1249",
+      "topic": "health-hygiene",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोग से बचाव में 'जागरूकता' की भूमिका क्यों निर्णायक मानी जाती है?",
+        "en": "Why is 'awareness' counted decisive in disease prevention?"
+      },
+      "options": {
+        "hi": [
+          "सही जानकारी ही सही आदत और समय पर उपाय कराती है",
+          "जागरूकता से बुखार आता है",
+          "जागरूकता रोगाणुओं को बुलाती है",
+          "जागरूकता से नींद आती है"
+        ],
+        "en": [
+          "Right information alone brings right habit and timely step",
+          "Awareness brings fever",
+          "Awareness calls the germs",
+          "Awareness brings sleep"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अफवाह से लड़ने वाला ज्ञान ही असली प्रतिरक्षा-दीवार की नींव है — जाना हुआ खतरा आधा टला खतरा।",
+        "en": "The knowledge that fights rumour is the true foundation of the immunity-wall — a known danger is a half-averted danger."
+      }
+    },
+    {
+      "id": "ch11_q1250",
+      "topic": "health-hygiene",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'रोग का इलाज बाद में, रोकथाम पहले' — इस सिद्धांत का व्यावहारिक कारण क्या है?",
+        "en": "'Cure of disease later, prevention first' — what is the practical reason for this principle?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक साथ असंभव",
+          "रोकथाम घर-स्तर पर संभव और सस्ती है; इलाज दुर्लभ-महँगा और देर से दिखने वाला",
+          "इलाज संभव नहीं होता",
+          "रोकथाम से बीमारी आती है"
+        ],
+        "en": [
+          "Both together impossible",
+          "Prevention is possible and cheap at home level; cure is rare-costly and late-showing",
+          "Cure is impossible",
+          "Prevention brings illness"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जाल पहले बुनना सस्ता है, मछली हाथ से निकलने के बाद महँगा — उबला पानी निःशुल्क, अस्पताल का बिल भारी।",
+        "en": "Weaving the net first is cheap; pulling the fish out by hand after it slips is costly — boiled water is free, the hospital bill heavy."
+      }
+    }
+  ]
+}

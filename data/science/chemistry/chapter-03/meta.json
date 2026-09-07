@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-03",
+  "chapterNumber": 3,
+  "code": "C03",
+  "chapterName": {
+    "hi": "पदार्थों का पृथक्करण एवं मिश्रण",
+    "en": "Separation of Substances & Mixtures"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "दो या अधिक पदार्थों के मिश्रण के घटकों को उनके गुणों के अंतर के आधार पर पृथक किया जाता है। अनाज से कंकड़ निकालने से लेकर पेट्रोल शोधन तक हर स्थान पर पृथक्करण विधियाँ प्रयुक्त होती हैं। विधि का चुनाव घटकों के आकार, घनत्व, विलेयता और वाष्पशीलता पर निर्भर करता है।",
+      "example": "समुद्र के जल से नमक वाष्पीकरण द्वारा और रेत से नमक छानकर-घोलकर प्राप्त किया जाता है।",
+      "sections": [
+        {
+          "heading": "मिश्रण क्या है",
+          "content": "मिश्रण में घटक अपने गुण बनाए रखते हैं और साधारण विधियों से पृथक हो सकते हैं; विलयन, स्लरी और निलंबन मिश्रण के रूप हैं।"
+        },
+        {
+          "heading": "शुष्क विधियाँ",
+          "content": "हाथ से बीनना, थreshाई (winnowing), छलनी (sieving), चुंबकीय पृथक्करण और उर्ध्वपातन — आकार/घनत्व/चुंबकत्व के अंतर पर आधारित।"
+        },
+        {
+          "heading": "आर्द्र विधियाँ",
+          "content": "अवसादन (sedimentation), निस्तारण (decantation), निस्पंदन (filtration), वाष्पीकरण, संघनन और आसवन (distillation) — विलेयता और वाष्पशीलता के अंतर पर आधारित।"
+        },
+        {
+          "heading": "विशिष्ट विधियाँ",
+          "content": "प्रभाजी निस्पंदन (तेल-जल), क्रोमेटोग्राफी (रंगों का पृथक्करण), केंद्रापसारण (क्रीम-दूध) और जल अवशोषण द्वारा संतृप्त विलयन से क्रिस्टलीकरण।"
+        }
+      ],
+      "keyPoints": [
+        "मिश्रण के घटक अपने गुण रखते हैं",
+        "छलनी आकार के अंतर पर, थreshाई भार के अंतर पर काम करती है",
+        "निस्पंदन अघुलनशील ठोस-द्रव मिश्रण के लिए",
+        "वाष्पीकरण से घुला ठोस प्राप्त होता है",
+        "आसवन विलायक के उबलाव बिंदु के अंतर पर आधारित है",
+        "प्रभाजी कीप अमिश्रणीय द्रवों (तेल-जल) को पृथक करता है"
+      ],
+      "examFocus": [
+        "प्रत्येक विधि का एक स्मरणीय उदाहरण जोड़कर रटें",
+        "निस्पंदन-निस्तारण-अवसादन का क्रम समझें",
+        "क्रिस्टलीकरण और आसवन में अंतर स्पष्ट करें"
+      ],
+      "examTraps": [
+        "निस्पंदन और निस्तारण को एक न मानें — निस्तारण बिना फिल्टर तरल उंडेलना है",
+        "वाष्पीकरण और आसवन भिन्न हैं — आसवन में वाष्प को संघनित कर एकत्र किया जाता है"
+      ],
+      "thinkBeforeAnswer": [
+        "तेल-जल जैसा अमिश्रणीय युग्म देखें तो प्रभाजी कीप चुनें",
+        "घुले ठोस को प्राप्त करना हो तो वाष्पीकरण/क्रिस्टलीकरण सोचें"
+      ],
+      "memoryTricks": [
+        "'छलनी = छानना (size)', 'कीप = अमिश्रणीय (immiscible)' जोड़ी याद रखें",
+        "SED-FIL-EVA-CON क्रम — अवसादन, निस्पंदन, वाष्पीकरण, संघनन"
+      ],
+      "pyqSignals": [
+        "विधि और उदाहरण के मिलान के प्रश्न बार-बार आते हैं",
+        "नमक-रेत और तेल-जल प्रिय उदाहरण हैं"
+      ],
+      "mustRemember": [
+        "मिश्रण की परिभाषा",
+        "शुष्क और आर्द्र पृथक्करण विधियाँ",
+        "आसवन और प्रभाजी निस्पंदन का उपयोग",
+        "क्रिस्टलीकरण की प्रक्रिया"
+      ],
+      "quickRevision": "मिश्रण के घटक गुणों के अंतर के आधार पर पृथक किए जाते हैं — आकार (छलनी), भार (थreshाई), चुंबकत्व, विलेयता (निस्पंदन, वाष्पीकरण), वाष्पशीलता (आसवन) और अमिश्रणीयता (प्रभाजी कीप)। उद्देश्य के अनुसार उपयुक्त विधि चुनी जाती है।"
+    },
+    "en": {
+      "concept": "Components of a mixture of two or more substances are separated based on differences in their properties. Separation methods are used everywhere from cleaning grain to refining petrol. The choice of method depends on size, density, solubility and volatility of the components.",
+      "example": "Salt is obtained from sea water by evaporation and from sand by filtering, dissolving and evaporating.",
+      "sections": [
+        {
+          "heading": "What is a Mixture",
+          "content": "In a mixture components retain their properties and can be separated by simple methods; solutions and suspensions are forms of mixtures."
+        },
+        {
+          "heading": "Dry Methods",
+          "content": "Handpicking, winnowing, sieving, magnetic separation and sublimation — based on differences of size, weight or magnetism."
+        },
+        {
+          "heading": "Wet Methods",
+          "content": "Sedimentation, decantation, filtration, evaporation, condensation and distillation — based on solubility and volatility differences."
+        },
+        {
+          "heading": "Special Methods",
+          "content": "Separating funnel (oil-water), chromatography (separating colours), centrifugation (cream from milk) and crystallisation from saturated solutions."
+        }
+      ],
+      "keyPoints": [
+        "Components of a mixture keep their properties",
+        "Sieving works on size difference; winnowing on weight difference",
+        "Filtration suits an insoluble solid-liquid mixture",
+        "Evaporation recovers a dissolved solid",
+        "Distillation is based on boiling point difference of solvents",
+        "A separating funnel separates immiscible liquids (oil-water)"
+      ],
+      "examFocus": [
+        "Learn each method with one memorable example",
+        "Understand the order sedimentation-decantation-filtration",
+        "Clarify the difference between crystallisation and distillation"
+      ],
+      "examTraps": [
+        "Do not equate filtration with decantation — decantation pours off the liquid without a filter",
+        "Evaporation and distillation differ — in distillation the vapour is condensed and collected"
+      ],
+      "thinkBeforeAnswer": [
+        "For an immiscible pair like oil-water, choose the separating funnel",
+        "To recover a dissolved solid, think evaporation or crystallisation"
+      ],
+      "memoryTricks": [
+        "'Sieve = size', 'Funnel = immiscible' — remember the pairs",
+        "SED-FIL-EVA-CON order — sedimentation, filtration, evaporation, condensation"
+      ],
+      "pyqSignals": [
+        "Matching methods with examples is asked repeatedly",
+        "Salt-sand and oil-water are favourite examples"
+      ],
+      "mustRemember": [
+        "Definition of a mixture",
+        "Dry and wet separation methods",
+        "Uses of distillation and the separating funnel",
+        "Process of crystallisation"
+      ],
+      "quickRevision": "Components of mixtures are separated by property differences — size (sieving), weight (winnowing), magnetism, solubility (filtration, evaporation), volatility (distillation) and immiscibility (separating funnel). A suitable method is chosen according to the purpose."
+    }
+  }
+}

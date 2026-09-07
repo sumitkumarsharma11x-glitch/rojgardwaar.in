@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-09",
+  "chapterNumber": 9,
+  "code": "C09",
+  "chapterName": {
+    "hi": "धातुएँ एवं अधातुएँ",
+    "en": "Metals & Non-metals"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "धातुएँ चमकदार, तन्य, आघातवर्धनीय और ऊष्मा-विद्युत की सुचालक होती हैं, जबकि अधातुएँ भंगुर और असंवाहक होती हैं। क्रियाशीलता श्रेणी बताती है कि कौन-सी धातु किसको विलयन से विस्थापित कर सकती है। धातुओं से अयस्क निष्कर्षण और मिश्र धातु निर्माण महत्वपूर्ण औद्योगिक प्रक्रियाएँ हैं।",
+      "example": "लोहे की कील ताँबे के सल्फेट विलयन में डालने पर नीला रंग हल्का हरा हो जाता है — विस्थापन अभिक्रिया।",
+      "sections": [
+        {
+          "heading": "धातुओं एवं अधातुओं के गुण",
+          "content": "धातुएँ — चमक, तन्यता, आघातवर्धनीयता, संवाहकता; अधातुएँ — भंगुरता, अचालकता, बिना चमक (ग्रेफाइट अपवाद)।"
+        },
+        {
+          "heading": "क्रियाशीलता श्रेणी",
+          "content": "K > Na > Ca > Mg > Al > Zn > Fe > Pb > Cu > Ag > Au; उच्च श्रेणी की धातु निम्न को विस्थापित करती है।"
+        },
+        {
+          "heading": "धातुओं का निष्कर्षण",
+          "content": "अयस्क से अपचयन द्वारा; भर्जन (रोस्टिंग) और निक्षालन (कैल्सीनेशन) पूर्व-प्रक्रियाएँ; उदाहरण — हेमेटाइट से लोहा।"
+        },
+        {
+          "heading": "मिश्र धातुएँ एवं जंग",
+          "content": "पीतल (Cu+Zn), स्टील (Fe+C), स्टेनलेस स्टील (Fe+Cr+Ni); मिश्र धातुएँ कठोरता-संक्षारण प्रतिरोध बढ़ाती हैं; जंग ऑक्सीकरण से बचाव — रंगना, गैल्वनाइज़िंग।"
+        }
+      ],
+      "keyPoints": [
+        "धातुएँ चमकदार, तन्य और सुचालक होती हैं",
+        "अधातुएँ भंगुर और असंवाहक होती हैं",
+        "क्रियाशीलता श्रेणी में सोना सबसे निष्क्रिय धातुओं में है",
+        "विस्थापन अभिक्रिया क्रियाशीलता श्रेणी पर आधारित है",
+        "पीतल = ताँबा + जस्ता; स्टेनलेस स्टील = लोहा + क्रोमियम + निकल",
+        "जंग लोहे का ऑक्सीकरण है"
+      ],
+      "examFocus": [
+        "क्रियाशीलता श्रेणी का क्रम रटें",
+        "प्रमुख मिश्र धातुओं के घटक और उपयोग याद रखें",
+        "विस्थापन अभिक्रिया के उदाहरण समझें"
+      ],
+      "examTraps": [
+        "सभी चमकदार पदार्थ धातु नहीं — आईसीन (iodine) चमकदार अधातु है",
+        "ग्रेफाइट अधातु होकर भी विद्युत सुचालक है"
+      ],
+      "thinkBeforeAnswer": [
+        "विस्थापन का प्रश्न हो तो श्रेणी में ऊपर की धातु को चुनें",
+        "मिश्र धातु के घटक पूछे जाएँ तो नाम-जोड़े याद करें"
+      ],
+      "memoryTricks": [
+        "'KNa-Ca-Mg-Al-Zn-Fe-Pb-Cu-Ag-Au' क्रम को गाने की तरह दोहराएँ",
+        "'पीतल में पीतल नहीं — ताँबा-जस्ता' वाक्य से भ्रम दूर करें"
+      ],
+      "pyqSignals": [
+        "मिश्र धातुओं के घटक और विस्थापन अभिक्रिया परीक्षा में बार-बार आते हैं",
+        "धातु-अधातु गुणों की तुलना सामान्य प्रश्न है"
+      ],
+      "mustRemember": [
+        "धातु-अधातु गुण",
+        "क्रियाशीलता श्रेणी और विस्थापन",
+        "अयस्क से धातु निष्कर्षण की रूपरेखा",
+        "प्रमुख मिश्र धातुएँ और जंग से बचाव"
+      ],
+      "quickRevision": "धातुएँ चमकदार, तन्य, सुचालक होती हैं और अधातुएँ भंगुर असंवाहक। क्रियाशीलता श्रेणी विस्थापन अभिक्रिया का आधार है। अयस्कों से अपचयन द्वारा धातुएँ निकाली जाती हैं। पीतल, स्टील जैसी मिश्र धातुएँ गुण सुधारती हैं और गैल्वनाइज़िंग-रंगने से जंग से बचा जाता है।"
+    },
+    "en": {
+      "concept": "Metals are lustrous, ductile, malleable and good conductors of heat and electricity, while non-metals are brittle and non-conductors. The reactivity series tells which metal can displace another from its solution. Extraction of metals from ores and alloy making are important industrial processes.",
+      "example": "An iron nail dropped in copper sulphate solution turns the blue colour light green — a displacement reaction.",
+      "sections": [
+        {
+          "heading": "Properties of Metals and Non-metals",
+          "content": "Metals — lustre, ductility, malleability, conductivity; non-metals — brittleness, non-conductivity, no lustre (graphite an exception)."
+        },
+        {
+          "heading": "Reactivity Series",
+          "content": "K > Na > Ca > Mg > Al > Zn > Fe > Pb > Cu > Ag > Au; a higher metal displaces a lower one."
+        },
+        {
+          "heading": "Extraction of Metals",
+          "content": "Reduction of ores; roasting and calcination are preliminary steps; example — iron from haematite."
+        },
+        {
+          "heading": "Alloys and Rusting",
+          "content": "Brass (Cu+Zn), steel (Fe+C), stainless steel (Fe+Cr+Ni); alloys improve hardness and corrosion resistance; rusting is prevented by painting and galvanising."
+        }
+      ],
+      "keyPoints": [
+        "Metals are lustrous, ductile and conductors",
+        "Non-metals are brittle and non-conductors",
+        "Gold is among the least reactive metals in the series",
+        "Displacement reactions follow the reactivity series",
+        "Brass = copper + zinc; stainless steel = iron + chromium + nickel",
+        "Rusting is oxidation of iron"
+      ],
+      "examFocus": [
+        "Learn the order of the reactivity series",
+        "Remember components and uses of common alloys",
+        "Understand examples of displacement reactions"
+      ],
+      "examTraps": [
+        "Not every lustrous substance is a metal — iodine is a lustrous non-metal",
+        "Graphite is a non-metal yet conducts electricity"
+      ],
+      "thinkBeforeAnswer": [
+        "For displacement questions, choose the metal higher in the series",
+        "For alloy components, recall the name-pairs"
+      ],
+      "memoryTricks": [
+        "Repeat the series K-Na-Ca-Mg-Al-Zn-Fe-Pb-Cu-Ag-Au like a rhyme",
+        "'Brass has no brass — it is copper-zinc' clears the confusion"
+      ],
+      "pyqSignals": [
+        "Alloy components and displacement reactions are asked repeatedly",
+        "Comparing metal-non-metal properties is a common question"
+      ],
+      "mustRemember": [
+        "Properties of metals and non-metals",
+        "Reactivity series and displacement",
+        "Outline of metal extraction from ores",
+        "Common alloys and rust prevention"
+      ],
+      "quickRevision": "Metals are lustrous, ductile conductors; non-metals are brittle insulators. The reactivity series governs displacement. Metals are extracted from ores by reduction. Alloys like brass and steel improve properties, and painting or galvanising prevents rusting."
+    }
+  }
+}

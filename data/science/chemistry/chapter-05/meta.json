@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-05",
+  "chapterNumber": 5,
+  "code": "C05",
+  "chapterName": {
+    "hi": "परमाणु, अणु एवं रासायनिक सूत्र",
+    "en": "Atoms, Molecules & Chemical Formulae"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "परमाणु द्रव्य की सबसे छोटी क्रियाशील इकाई है और अणु दो या अधिक परमाणुओं का समूह है। डाल्टन के परमाणु सिद्धांत ने रासायनिक संयोग के नियमों को व्याख्या दी। संयोजकता (वैलेंसी) जानकर हम किसी भी यौगिक का रासायनिक सूत्र लिख सकते हैं।",
+      "example": "जल का सूत्र H₂O है क्योंकि हाइड्रोजन की संयोजकता 1 और ऑक्सीजन की 2 है — क्रॉस-विधि से सूत्र बनता है।",
+      "sections": [
+        {
+          "heading": "परमाणु एवं अणु",
+          "content": "परमाणु तत्व की मूल इकाई है; अणु एक ही या भिन्न तत्वों के परमाणुओं से बन सकता है (O₂, H₂O)।"
+        },
+        {
+          "heading": "डाल्टन का सिद्धांत",
+          "content": "परमाणु अविभाज्य, असृजित और अविनाशी हैं; रासायनिक अभिक्रिया में परमाणु केवल पुनर्व्यवस्थित होते हैं।"
+        },
+        {
+          "heading": "संयोजकता एवं आयन",
+          "content": "संयोजकता संयोग क्षमता है — H=1, O=2, N=3, C=4; धनायन इलेक्ट्रॉन देते और ऋणायन लेते हैं।"
+        },
+        {
+          "heading": "सूत्र लेखन एवं स्थिर अनुपात",
+          "content": "क्रॉस-विधि से सूत्र लिखें; शुद्ध यौगिक में तत्वों का द्रव्यमान अनुपात सदा स्थिर रहता है (नियत अनुपात का नियम); आण्विक द्रव्यमान = परमाणु द्रव्यमानों का योग।"
+        }
+      ],
+      "keyPoints": [
+        "परमाणु तत्व की सबसे छोटी क्रियाशील इकाई है",
+        "अणु समान परमाणुओं (O₂) या भिन्न परमाणुओं (H₂O) से बनता है",
+        "प्रमुख संयोजकताएँ — H(1), O(2), N(3), C(4)",
+        "धनायन धनावेशित, ऋणायन ऋणावेशित होते हैं",
+        "नियत अनुपात का नियम शुद्ध यौगिक पर लागू होता है",
+        "जल का आण्विक द्रव्यमान 18 u है"
+      ],
+      "examFocus": [
+        "क्रॉस-विधि से सामान्य यौगिकों के सूत्र लिखने का अभ्यास करें",
+        "प्रमुख तत्वों के प्रतीक और संयोजकता जोड़े रटें",
+        "आण्विक द्रव्यमान की सरल गणनाएँ करें"
+      ],
+      "examTraps": [
+        "परमाणु और अणु को एक न मानें — अणु परमाणुओं से बना होता है",
+        "सभी परमाणु आज भी अविभाज्य नहीं माने जाते — इलेक्ट्रॉन-प्रोटॉन-न्यूट्रॉन की खोज हुई है"
+      ],
+      "thinkBeforeAnswer": [
+        "सूत्र लिखते समय धनायन पहले और ऋणायन बाद में रखें",
+        "आण्विक द्रव्यमान के प्रश्न में परमाणु द्रव्यमान गुणा संख्या से जोड़ें"
+      ],
+      "memoryTricks": [
+        "'HONC-1234' — H=1, O=2, N=3, C=4 संयोजकता क्रम",
+        "क्रॉस-विधि को तीर चिह्न से बनाकर याद रखें"
+      ],
+      "pyqSignals": [
+        "सूत्र लेखन और आण्विक द्रव्यमान के प्रश्न बार-बार आते हैं",
+        "नियत अनुपात के नियम पर सीधे प्रश्न पूछे जाते हैं"
+      ],
+      "mustRemember": [
+        "परमाणु और अणु में अंतर",
+        "डाल्टन के सिद्धांत के बिंदु",
+        "क्रॉस-विधि से सूत्र लेखन",
+        "नियत अनुपात का नियम"
+      ],
+      "quickRevision": "परमाणु तत्व की मूल इकाई और अणु परमाणुओं का समूह है। डाल्टन के सिद्धांत अनुसार अभिक्रिया में परमाणु पुनर्व्यवस्थित होते हैं। संयोजकता से क्रॉस-विधि द्वारा सूत्र लिखे जाते हैं और शुद्ध यौगिक में तत्वों का द्रव्यमान अनुपात स्थिर रहता है।"
+    },
+    "en": {
+      "concept": "An atom is the smallest reactive unit of matter and a molecule is a group of two or more atoms. Dalton's atomic theory explained the laws of chemical combination. Knowing valency, we can write the chemical formula of any compound.",
+      "example": "Water's formula is H₂O because hydrogen has valency 1 and oxygen 2 — the criss-cross method gives the formula.",
+      "sections": [
+        {
+          "heading": "Atoms and Molecules",
+          "content": "An atom is the basic unit of an element; a molecule may form from atoms of the same or different elements (O₂, H₂O)."
+        },
+        {
+          "heading": "Dalton's Theory",
+          "content": "Atoms are indivisible, neither created nor destroyed; in a reaction atoms only rearrange."
+        },
+        {
+          "heading": "Valency and Ions",
+          "content": "Valency is combining capacity — H=1, O=2, N=3, C=4; cations lose electrons and anions gain them."
+        },
+        {
+          "heading": "Formula Writing and Fixed Ratio",
+          "content": "Write formulae by the criss-cross method; a pure compound always has a fixed mass ratio of elements (law of constant proportion); molecular mass = sum of atomic masses."
+        }
+      ],
+      "keyPoints": [
+        "An atom is the smallest reactive unit of an element",
+        "A molecule forms from same (O₂) or different atoms (H₂O)",
+        "Main valencies — H(1), O(2), N(3), C(4)",
+        "Cations are positive and anons are negative",
+        "The law of constant proportion applies to pure compounds",
+        "The molecular mass of water is 18 u"
+      ],
+      "examFocus": [
+        "Practise writing formulae of common compounds by the criss-cross method",
+        "Learn symbol-valency pairs of common elements",
+        "Do simple calculations of molecular mass"
+      ],
+      "examTraps": [
+        "Do not equate atoms with molecules — molecules are made of atoms",
+        "Atoms are no longer considered indivisible today — electrons, protons and neutrons have been discovered"
+      ],
+      "thinkBeforeAnswer": [
+        "While writing formulae, place the cation first and the anion later",
+        "In molecular mass questions, add atomic masses multiplied by counts"
+      ],
+      "memoryTricks": [
+        "'HONC-1234' — the valency order of H, O, N, C",
+        "Remember the criss-cross method with arrow marks"
+      ],
+      "pyqSignals": [
+        "Questions on formula writing and molecular mass come repeatedly",
+        "The law of constant proportion is asked directly"
+      ],
+      "mustRemember": [
+        "Difference between atom and molecule",
+        "Points of Dalton's theory",
+        "Formula writing by the criss-cross method",
+        "Law of constant proportion"
+      ],
+      "quickRevision": "Atoms are the basic units of elements and molecules are groups of atoms. In reactions atoms rearrange per Dalton's theory. Formulae are written by the criss-cross method using valency, and pure compounds keep a fixed mass ratio of elements."
+    }
+  }
+}

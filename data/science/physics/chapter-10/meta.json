@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-10",
+  "chapterNumber": 10,
+  "code": "P10",
+  "chapterName": {
+    "hi": "चुंबकत्व एवं विद्युत-चुंबकीय प्रभाव",
+    "en": "Magnetism & Electromagnetic Effects"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "चुंबक ऐसे पदार्थ हैं जो लोहे जैसी धातुओं को आकर्षित करते हैं और उनके चारों ओर चुंबकीय क्षेत्र होता है जिसे लोहे की छीलन से देखा जा सकता है। धारावाही तार के चारों ओर चुंबकीय क्षेत्र बनता है — यही विद्युत-चुंबकीय प्रभाव है जिससे विद्युत-चुंबक, मोटर और जनित्र काम करते हैं।",
+      "example": "कंपास की सुई सदा उत्तर-दक्षिण दिशा में रहती है क्योंकि पृथ्वी स्वयं एक विशाल चुंबक की तरह व्यवहार करती है।",
+      "sections": [
+        {
+          "heading": "चुंबण एवं चुंबकीय क्षेत्र",
+          "content": "समान ध्रुव एक-दूसरे को प्रतिकर्षित और विपरीत ध्रुव आकर्षित करते हैं; चुंबकीय बल रेखाएँ उत्तर से दक्षिण (बाहर) की ओर जाती हैं।"
+        },
+        {
+          "heading": "पृथ्वी का चुंबकत्व",
+          "content": "पृथ्वी एक विशाल चुंबक की तरह है; कंपास सुई इसी के कारण दिशा बताती है।"
+        },
+        {
+          "heading": "विद्युत-चुंबक",
+          "content": "धारावाही कुंडली में लोहे की छड़ डालने से मजबूत अस्थायी चुंबक बनता है; क्रेन, विद्युत घंटी और रिले में उपयोगी।"
+        },
+        {
+          "heading": "मोटर-जनित्र प्रभाव",
+          "content": "चुंबकीय क्षेत्र में धारावाही चालक पर बल लगता है (मोटर) और चालक को घुमाने पर धारा प्रेरित होती है (जनित्र)।"
+        }
+      ],
+      "keyPoints": [
+        "समान ध्रुव प्रतिकर्षित, विपरीत ध्रुव आकर्षित करते हैं",
+        "चुंबकीय बल रेखाएँ चुंबक के बाहर N से S की ओर जाती हैं",
+        "एक टुकड़े में टूटे चुंबक के दोनों टुकड़ों में दो ध्रुव बनते हैं",
+        "धारावाही तार के चारों ओर चुंबकीय क्षेत्र बनता है",
+        "विद्युत-चुंबक अस्थायी चुंबक है — धारा बंद तो चुंबकत्व समाप्त",
+        "मोटर विद्युत ऊर्जा को गतिज में, जनित्र गतिज को विद्युत में बदलता है"
+      ],
+      "examFocus": [
+        "ध्रुव-नियम (आकर्षण-प्रतिकर्षण) और बल-रेखा दिशा रटें",
+        "विद्युत-चुंबक के उपयोग (क्रेन, घंटी) याद रखें",
+        "मोटर-जनित्र में ऊर्जा-रूपांतरण की दिशा समझें"
+      ],
+      "examTraps": [
+        "चुंबक के टुकड़े करने पर एक ध्रुवीय चुंबक नहीं बनता — हर टुकड़ा द्विध्रुवीय होता है",
+        "सभी धातुएँ चुंबकीय नहीं हैं — लोहा, निकल, कोबाल्ट प्रमुख चुंबकीय धातुएँ हैं"
+      ],
+      "thinkBeforeAnswer": [
+        "कंपास/दिशा का प्रश्न हो तो पृथ्वी का चुंबकत्व जोड़ें",
+        "ऊर्जा-रूपांतरण की दिशा पूछी जाए तो मोटर-जनित्र का कार्य देखें"
+      ],
+      "memoryTricks": [
+        "'Like repels, Unlike attracts' — दोहराकर याद करें",
+        "मोटर = मोशन (motion), जनित्र = जनरेट (generate) — नाम से कार्य याद रखें"
+      ],
+      "pyqSignals": [
+        "ध्रुवीय नियम पर सीधे प्रश्न आते हैं",
+        "विद्युत-चुंबक के उपयोग पूछे जाते हैं"
+      ],
+      "mustRemember": [
+        "चुंबकीय ध्रुवों का नियम",
+        "चुंबकीय बल रेखाओं की दिशा",
+        "विद्युत-चुंबक की संरचना और उपयोग",
+        "मोटर और जनित्र का सिद्धांत"
+      ],
+      "quickRevision": "चुंबक विपरीत ध्रुवों में आकर्षण और समान ध्रुवों में प्रतिकर्षण दर्शाते हैं तथा चारों ओर चुंबकीय क्षेत्र बनाते हैं। पृथ्वी स्वयं चुंबत्वीय चुंबक है जिससे कंपास काम करता है। धारावाही कुंडली विद्युत-चुंबक बनाती है और इसी सिद्धांत से मोटर तथा जनित्र कार्य करते हैं।"
+    },
+    "en": {
+      "concept": "Magnets attract metals like iron and have a magnetic field around them, visible with iron filings. A current-carrying wire produces a magnetic field — the electromagnetic effect behind electromagnets, motors and generators.",
+      "example": "A compass needle always points north-south because the Earth itself behaves like a giant magnet.",
+      "sections": [
+        {
+          "heading": "Magnetism and Magnetic Field",
+          "content": "Like poles repel and unlike poles attract; field lines run from north to south outside the magnet."
+        },
+        {
+          "heading": "Earth's Magnetism",
+          "content": "The Earth acts like a huge magnet; because of it a compass shows direction."
+        },
+        {
+          "heading": "Electromagnet",
+          "content": "An iron rod inside a current-carrying coil becomes a strong temporary magnet; used in cranes, electric bells and relays."
+        },
+        {
+          "heading": "Motor-Generator Effect",
+          "content": "A current-carrying conductor in a magnetic field experiences force (motor), and moving a conductor in a field induces current (generator)."
+        }
+      ],
+      "keyPoints": [
+        "Like poles repel, unlike poles attract",
+        "Outside a magnet, field lines go from N to S",
+        "Breaking a magnet gives two pieces each with two poles",
+        "A current-carrying wire has a magnetic field around it",
+        "An electromagnet is temporary — switching off current ends the magnetism",
+        "A motor converts electrical to kinetic energy; a generator the reverse"
+      ],
+      "examFocus": [
+        "Learn the pole rule (attraction-repulsion) and field-line direction",
+        "Remember uses of electromagnets (crane, bell)",
+        "Understand the direction of energy conversion in motor-generator"
+      ],
+      "examTraps": [
+        "Breaking a magnet never gives a single pole — every piece is dipolar",
+        "Not all metals are magnetic — iron, nickel and cobalt are the main ones"
+      ],
+      "thinkBeforeAnswer": [
+        "For compass/direction questions, link Earth's magnetism",
+        "For energy-conversion direction, check motor vs generator"
+      ],
+      "memoryTricks": [
+        "'Like repels, Unlike attracts' — repeat to remember",
+        "Motor = Motion, Generator = Generate — remember functions by name"
+      ],
+      "pyqSignals": [
+        "Direct questions on pole rules appear often",
+        "Uses of electromagnets are commonly asked"
+      ],
+      "mustRemember": [
+        "Rule of magnetic poles",
+        "Direction of magnetic field lines",
+        "Construction and uses of the electromagnet",
+        "Principles of motor and generator"
+      ],
+      "quickRevision": "Magnets show attraction between unlike poles and repulsion between like poles, with a field around them. The Earth is itself magnetic, making compasses work. A current-carrying coil forms an electromagnet, and the same principles run motors and generators."
+    }
+  }
+}

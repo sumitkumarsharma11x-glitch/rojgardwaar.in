@@ -1,0 +1,5604 @@
+{
+  "questions": [
+    {
+      "id": "phy8_q101",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश एक प्रकार की किस चीज़ है?",
+        "en": "What kind of thing is light?"
+      },
+      "options": {
+        "hi": [
+          "ऊर्जा का एक रूप",
+          "पदार्थ का एक रूप",
+          "गैस का एक रूप",
+          "ध्वनि का एक रूप"
+        ],
+        "en": [
+          "A form of energy",
+          "A form of matter",
+          "A form of gas",
+          "A form of sound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रकाश ऊर्जा का रूप है जो हमें देखने योग्य बनाती है।",
+        "en": "Light is a form of energy that enables us to see."
+      }
+    },
+    {
+      "id": "phy8_q102",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जिन वस्तुओं से स्वयं प्रकाश निकलता है, उन्हें क्या कहते हैं?",
+        "en": "Objects that give out light of their own are called?"
+      },
+      "options": {
+        "hi": [
+          "परावर्तक",
+          "दीप्तिमान (स्वप्रकाशित)",
+          "अदीप्तिमान",
+          "पारदर्शी"
+        ],
+        "en": [
+          "Reflecting",
+          "Luminous",
+          "Non-luminous",
+          "Transparent"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सूर्य, ज्योतिबिंबु (स्टार) और जुगनू दीप्तिमान वस्तुएँ हैं।",
+        "en": "The sun, stars and fireflies are luminous objects."
+      }
+    },
+    {
+      "id": "phy8_q103",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सी अदीप्तिमान वस्तु है?",
+        "en": "Which of the following is a non-luminous object?"
+      },
+      "options": {
+        "hi": [
+          "जुगनू",
+          "मोमबत्ती की लौ",
+          "चंद्रमा",
+          "सूर्य"
+        ],
+        "en": [
+          "A firefly",
+          "A candle flame",
+          "The moon",
+          "The sun"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चंद्रमा स्वयं प्रकाश नहीं देता; वह सूर्य के प्रकाश को परावर्तित करता है।",
+        "en": "The moon gives no light of its own; it reflects sunlight."
+      }
+    },
+    {
+      "id": "phy8_q104",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूर्य प्रकाश का प्राकृतिक या कृत्रिम स्रोत है?",
+        "en": "Is the sun a natural or an artificial source of light?"
+      },
+      "options": {
+        "hi": [
+          "कृत्रिम",
+          "दोनों",
+          "न दोनों",
+          "प्राकृतिक"
+        ],
+        "en": [
+          "Artificial",
+          "Both",
+          "Neither",
+          "Natural"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सूर्य, तारे और जुगनू प्राकृतिक स्रोत हैं; बल्ब, मोमबत्ती कृत्रिम।",
+        "en": "Sun, stars and fireflies are natural sources; bulbs and candles are artificial."
+      }
+    },
+    {
+      "id": "phy8_q105",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जुगनू रात में क्यों चमकता है?",
+        "en": "Why does a firefly glow at night?"
+      },
+      "options": {
+        "hi": [
+          "वह दीप्तिमान वस्तु है — स्वयं प्रकाश उत्पन्न करती है",
+          "वह सूर्य का प्रकाश सोखती है",
+          "वह चंद्रमा से प्रकाश लेती है",
+          "उसके ऊपर बल्ब जलता है"
+        ],
+        "en": [
+          "It is a luminous object — it produces light itself",
+          "It absorbs sunlight",
+          "It takes light from the moon",
+          "A bulb glows over it"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जुगनू शरीर में रासायनिक क्रिया से स्वयं प्रकाश बनाता है।",
+        "en": "A firefly makes its own light by a chemical reaction in its body."
+      }
+    },
+    {
+      "id": "phy8_q106",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एकसमान माध्यम में प्रकाश कैसे चलती है?",
+        "en": "How does light travel in a uniform medium?"
+      },
+      "options": {
+        "hi": [
+          "ज़िगज़ैग में",
+          "सीधी रेखा में",
+          "वक्र पथ में",
+          "वृत्त में"
+        ],
+        "en": [
+          "In a zigzag",
+          "In a straight line",
+          "In a curved path",
+          "In a circle"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सीधी रेखा में चलना ही प्रकाश का सरल रेखीय प्रसार है।",
+        "en": "Travelling in a straight line is the rectilinear propagation of light."
+      }
+    },
+    {
+      "id": "phy8_q107",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश के सरल रेखीय प्रसार का सबसे सीधा प्रमाण क्या है?",
+        "en": "What is the most direct evidence of the rectilinear propagation of light?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिध्वनि सुनाई देना",
+          "चुंबकत्व",
+          "छाया का बनना",
+          "इंद्रधनुष बनना"
+        ],
+        "en": [
+          "The hearing of echoes",
+          "Magnetism",
+          "The formation of shadows",
+          "The formation of rainbows"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "छाया और ग्रहण सीधी रेखा में चलने के कारण ही बनते हैं।",
+        "en": "Shadows and eclipses form precisely because light travels in straight lines."
+      }
+    },
+    {
+      "id": "phy8_q108",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वह वस्तु जिससे प्रकाश पूरी तरह गुज़र सकती है, क्या कहलाती है?",
+        "en": "An object through which light can pass completely is called?"
+      },
+      "options": {
+        "hi": [
+          "पारदर्शक",
+          "अपारदर्शी",
+          "परावर्तक",
+          "पारदर्शी"
+        ],
+        "en": [
+          "Translucent",
+          "Opaque",
+          "Reflector",
+          "Transparent"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "काँच और साफ़ जल पारदर्शी हैं — उनसे होकर वस्तु साफ़ दिखती है।",
+        "en": "Glass and clear water are transparent — objects are seen clearly through them."
+      }
+    },
+    {
+      "id": "phy8_q109",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से पारदर्शी पदार्थ कौन-सा है?",
+        "en": "Which of the following is a transparent material?"
+      },
+      "options": {
+        "hi": [
+          "काँच की शीट",
+          "बटर पेपर",
+          "लकड़ी का बोर्ड",
+          "धातु की प्लेट"
+        ],
+        "en": [
+          "A glass sheet",
+          "Butter paper",
+          "A wooden board",
+          "A metal plate"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "काँच से प्रकाश पूरी तरह गुज़रती है, इसलिए वह पारदर्शी है।",
+        "en": "Light passes fully through glass, so glass is transparent."
+      }
+    },
+    {
+      "id": "phy8_q110",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बटर पेपर और फ्रॉस्टेड ग्लास किस वर्ग के पदार्थ हैं?",
+        "en": "Butter paper and frosted glass belong to which class of materials?"
+      },
+      "options": {
+        "hi": [
+          "दीप्तिमान (luminous)",
+          "पारदर्शक (translucent)",
+          "पारदर्शी (transparent)",
+          "अपारदर्शी (opaque)"
+        ],
+        "en": [
+          "Luminous",
+          "Translucent",
+          "Transparent",
+          "Opaque"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पारदर्शक से प्रकाश आंशिक रूप से गुज़रती है — वस्तु धुँधली दिखती है।",
+        "en": "Light passes partially through translucent materials — objects look blurred."
+      }
+    },
+    {
+      "id": "phy8_q111",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अपारदर्शी पदार्थ के साथ कौन-सा कथन सही है?",
+        "en": "Which statement is correct for an opaque material?"
+      },
+      "options": {
+        "hi": [
+          "वह प्रकाश को आधा गुज़रने देता है",
+          "वह स्वयं प्रकाश उत्पन्न करता है",
+          "वह प्रकाश को रोक देता है और अपनी छाया बनाता है",
+          "वह प्रकाश को पूरी तरह पार जाने देता है"
+        ],
+        "en": [
+          "It lets half the light pass",
+          "It produces its own light",
+          "It blocks light and casts a shadow",
+          "It lets light pass fully"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लकड़ी, कार्डबोर्ड जैसे अपारदर्शी पदार्थ प्रकाश रोकते हैं।",
+        "en": "Opaque materials like wood and cardboard block light."
+      }
+    },
+    {
+      "id": "phy8_q112",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से अपारदर्शी वस्तु कौन-सी है?",
+        "en": "Which of the following is an opaque object?"
+      },
+      "options": {
+        "hi": [
+          "साफ़ पानी",
+          "हवा",
+          "काँच",
+          "किताब"
+        ],
+        "en": [
+          "Clear water",
+          "Air",
+          "Glass",
+          "A book"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "किताब प्रकाश रोकती है, इसलिए अपारदर्शी है।",
+        "en": "A book blocks light, hence it is opaque."
+      }
+    },
+    {
+      "id": "phy8_q113",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निर्वात में प्रकाश की चाल लगभग कितनी होती है?",
+        "en": "What is the approximate speed of light in vacuum?"
+      },
+      "options": {
+        "hi": [
+          "3 × 10^8 मीटर/सेकंड",
+          "3 × 10^5 मीटर/सेकंड",
+          "344 मीटर/सेकंड",
+          "3 × 10^10 मीटर/सेकंड"
+        ],
+        "en": [
+          "3 × 10^8 m/s",
+          "3 × 10^5 m/s",
+          "344 m/s",
+          "3 × 10^10 m/s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "निर्वात में प्रकाश की चाल लगभग 3 × 10^8 मीटर प्रति सेकंड है।",
+        "en": "Light travels at about 3 × 10^8 metres per second in vacuum."
+      }
+    },
+    {
+      "id": "phy8_q114",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश वर्ष किस चीज़ का मात्रक है?",
+        "en": "A light-year is a unit of what?"
+      },
+      "options": {
+        "hi": [
+          "ऊर्जा का",
+          "दूरी का",
+          "समय का",
+          "चाल का"
+        ],
+        "en": [
+          "Energy",
+          "Distance",
+          "Time",
+          "Speed"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रकाश एक वर्ष में जितनी दूरी तय करती है, वही एक प्रकाश वर्ष है — यह दूरी का मात्रक है।",
+        "en": "A light-year is the distance light covers in one year — a unit of distance."
+      }
+    },
+    {
+      "id": "phy8_q115",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हम किसी अदीप्तिमान वस्तु को क्यों देख पाते हैं?",
+        "en": "Why are we able to see a non-luminous object?"
+      },
+      "options": {
+        "hi": [
+          "आँखें वस्तु तक किरण भेजती हैं",
+          "वस्तु ध्वनि द्वारा दिखती है",
+          "वस्तु से परावर्तित प्रकाश हमारी आँखों में प्रवेश करती है",
+          "वस्तु स्वयं प्रकाश बनाती है"
+        ],
+        "en": [
+          "Our eyes send rays to the object",
+          "The object is seen via sound",
+          "Light reflected from the object enters our eyes",
+          "The object makes its own light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "देखने के लिए वस्तु से आँख तक परावर्तित प्रकाश पहुँचना ज़रूरी है।",
+        "en": "To see an object, light reflected from it must reach our eyes."
+      }
+    },
+    {
+      "id": "phy8_q116",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "छेद वाला कैमरा (पिनहोल कैमरा) किस प्रकार का प्रतिबिंब बनाता है?",
+        "en": "What type of image does a pinhole camera form?"
+      },
+      "options": {
+        "hi": [
+          "सीधा",
+          "आभासी और सीधा",
+          "बड़ा और सीधा",
+          "उल्टा (वास्तविक)"
+        ],
+        "en": [
+          "Erect",
+          "Virtual and erect",
+          "Enlarged and erect",
+          "Inverted (real)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सीधी रेखा में चलती किरणें छेद से गुज़रकर ऊपर-नीचे उलट जाती हैं।",
+        "en": "Rays travelling straight cross the hole and get inverted top-to-bottom."
+      }
+    },
+    {
+      "id": "phy8_q117",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूर्य ग्रहण के समय कौन किसके बीच में होता है?",
+        "en": "During a solar eclipse, what lies between what?"
+      },
+      "options": {
+        "hi": [
+          "चंद्रमा, सूर्य और पृथ्वी के बीच",
+          "पृथ्वी, सूर्य और चंद्रमा के बीच",
+          "सूर्य, पृथ्वी और चंद्रमा के बीच",
+          "कोई नहीं"
+        ],
+        "en": [
+          "The moon lies between the sun and the earth",
+          "The earth lies between the sun and the moon",
+          "The sun lies between the earth and the moon",
+          "Nothing lies between them"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सूर्य ग्रहण में चंद्रमा सूर्य की रोशनी रोकता है; चंद्र ग्रहण में पृथ्वी।",
+        "en": "In a solar eclipse the moon blocks sunlight; in a lunar eclipse the earth does."
+      }
+    },
+    {
+      "id": "phy8_q118",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चंद्र ग्रहण केवल किस रात को हो सकता है?",
+        "en": "A lunar eclipse can occur only on which night?"
+      },
+      "options": {
+        "hi": [
+          "किसी भी रात",
+          "पूर्णिमा की रात",
+          "अमावस्या की रात",
+          "अष्टमी की रात"
+        ],
+        "en": [
+          "Any night",
+          "A full-moon night",
+          "A new-moon night",
+          "An eighth-day night"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चंद्र ग्रहण के लिए पृथ्वी को सूर्य-चंद्रमा के ठीक बीच आना ज़रूरी है — यह पूर्णिमा को ही होता है।",
+        "en": "For a lunar eclipse the earth must sit exactly between the sun and moon — possible only on a full-moon night."
+      }
+    },
+    {
+      "id": "phy8_q119",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निर्वात में भी सूर्य का प्रकाश पृथ्वी तक पहुँचता है। इसका कारण बताइए।",
+        "en": "Sunlight reaches the earth even through vacuum. State the reason."
+      },
+      "options": {
+        "hi": [
+          "सूर्य ध्वनि भी भेजता है",
+          "पृथ्वी प्रकाश खींच लेती है",
+          "प्रकाश को प्रसार के लिए माध्यम की आवश्यकता नहीं होती",
+          "निर्वात में हवा होती है"
+        ],
+        "en": [
+          "The sun also sends sound",
+          "The earth pulls the light",
+          "Light does not need a medium to travel",
+          "Vacuum contains air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रकाश विद्युत-चुंबकीय तरंग है — माध्यम के बिना भी चलती है।",
+        "en": "Light is an electromagnetic wave — it travels even without a medium."
+      }
+    },
+    {
+      "id": "phy8_q120",
+      "topic": "light-propagation-materials",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हमें पास की वस्तु की छाया तेज़ क्यों दिखती है?",
+        "en": "Why does the shadow of a nearby object look sharp?"
+      },
+      "options": {
+        "hi": [
+          "दूर की वस्तु प्रकाश बिखेरती है",
+          "पास की वस्तु दीप्तिमान होती है",
+          "छाया रंगीन हो जाती है",
+          "पास की वस्तु की छाया में पूर्ण छाया (umbra) प्रमुख होती है"
+        ],
+        "en": [
+          "A distant object scatters light",
+          "A nearby object is luminous",
+          "The shadow becomes coloured",
+          "For a nearby object the full shadow (umbra) dominates"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पास की वस्तु अधिकांश प्रकाश रोकती है और पूर्ण छाया बड़ी व तेज़ बनती है।",
+        "en": "A nearby object blocks most light, forming a large, sharp umbra."
+      }
+    },
+    {
+      "id": "phy8_q121",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बिंदु स्रोत और विस्तृत स्रोत से बनी छाया में मुख्य अंतर क्या होता है?",
+        "en": "What is the main difference between shadows formed by a point source and an extended source?"
+      },
+      "options": {
+        "hi": [
+          "बिंदु स्रोत से केवल पूर्ण छाया बनती है, विस्तृत स्रोत से पूर्ण व आंशिक दोनों",
+          "दोनों से एक जैसी छाया बनती है",
+          "विस्तृत स्रोत से छाया नहीं बनती",
+          "बिंदु स्रोत से छाया रंगीन होती है"
+        ],
+        "en": [
+          "A point source gives only umbra; an extended source gives both umbra and penumbra",
+          "Both give identical shadows",
+          "An extended source gives no shadow",
+          "A point source gives a coloured shadow"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विस्तृत स्रोत के विभिन्न भागों से आने वाली किरणें आंशिक छाया बनाती हैं।",
+        "en": "Rays from different parts of an extended source create a partial shadow too."
+      }
+    },
+    {
+      "id": "phy8_q122",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आंशिक छाया (penumbra) कब बनती है?",
+        "en": "When is a penumbra formed?"
+      },
+      "options": {
+        "hi": [
+          "जब वस्तु दीप्तिमान हो",
+          "जब प्रकाश स्रोत विस्तृत (बड़ा) हो",
+          "जब प्रकाश स्रोत बिंदु हो",
+          "जब वस्तु पारदर्शी हो"
+        ],
+        "en": [
+          "When the object is luminous",
+          "When the light source is extended (large)",
+          "When the source is a point",
+          "When the object is transparent"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बड़े स्रोत की कुछ किरणें वस्तु के किनारे से निकलकर आंशिक छाया बनाती हैं।",
+        "en": "Some rays from a large source pass the object's edge, forming the penumbra."
+      }
+    },
+    {
+      "id": "phy8_q123",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पिनहोल कैमरे में छेद छोटा रखने पर प्रतिबिंब कैसा बनता है?",
+        "en": "What happens to the image in a pinhole camera when the hole is made smaller?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिबिंब बड़ा हो जाता है",
+          "प्रतिबिंब रंगीन हो जाता है",
+          "प्रतिबिंब अधिक स्पष्ट (तेज़) बनता है",
+          "प्रतिबिंब उल्टा हो जाता है"
+        ],
+        "en": [
+          "The image becomes larger",
+          "The image becomes coloured",
+          "The image becomes sharper",
+          "The image gets inverted"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "छोटे छेद से प्रत्येक बिंदु से कम किरणें गुज़रती हैं, इसलिए प्रतिबिंब स्पष्ट होता है।",
+        "en": "A smaller hole lets fewer rays per point pass, so the image is sharper."
+      }
+    },
+    {
+      "id": "phy8_q124",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पिनहोल कैमरे का प्रतिबिंब उल्टा क्यों बनता है?",
+        "en": "Why is the image in a pinhole camera inverted?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि कैमरे में लेंस होता है",
+          "क्योंकि छेद चुंबकीय होता है",
+          "क्योंकि प्रकाश वक्र रेखा में चलती है",
+          "क्योंकि प्रकाश सीधी रेखा में चलकर छेद से गुज़रती है और आर-पार हो जाती है"
+        ],
+        "en": [
+          "Because the camera has a lens",
+          "Because the hole is magnetic",
+          "Because light travels in a curve",
+          "Because light travels in straight lines and crosses over at the hole"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वस्तु के ऊपरी भाग की किरणें छेद से गुज़रकर पर्दे के निचले भाग पर पड़ती हैं।",
+        "en": "Rays from the top of the object cross the hole and land on the bottom of the screen."
+      }
+    },
+    {
+      "id": "phy8_q125",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सूर्य से पृथ्वी तक प्रकाश को लगभग कितना समय लगता है? (दूरी लगभग 1.5 × 10^11 मीटर)",
+        "en": "How long does light take from the sun to the earth? (distance about 1.5 × 10^11 m)"
+      },
+      "options": {
+        "hi": [
+          "लगभग 500 सेकंड",
+          "लगभग 50 सेकंड",
+          "लगभग 5 सेकंड",
+          "लगभग 5000 सेकंड"
+        ],
+        "en": [
+          "About 500 seconds",
+          "About 50 seconds",
+          "About 5 seconds",
+          "About 5000 seconds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "t = d/c = (1.5 × 10^11) / (3 × 10^8) = 500 सेकंड = 8 मिनट 20 सेकंड।",
+        "en": "t = d/c = (1.5 × 10^11) / (3 × 10^8) = 500 s = 8 min 20 s."
+      }
+    },
+    {
+      "id": "phy8_q126",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चंद्रमा से पृथ्वी तक प्रकाश को लगभग कितना समय लगता है? (दूरी लगभग 3.8 × 10^8 मीटर)",
+        "en": "How long does light take from the moon to the earth? (distance about 3.8 × 10^8 m)"
+      },
+      "options": {
+        "hi": [
+          "लगभग 130 सेकंड",
+          "लगभग 1.3 सेकंड",
+          "लगभग 13 सेकंड",
+          "लगभग 0.13 सेकंड"
+        ],
+        "en": [
+          "About 130 seconds",
+          "About 1.3 seconds",
+          "About 13 seconds",
+          "About 0.13 seconds"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "t = (3.8 × 10^8) / (3 × 10^8) = 1.27 लगभग 1.3 सेकंड।",
+        "en": "t = (3.8 × 10^8) / (3 × 10^8) = 1.27, about 1.3 seconds."
+      }
+    },
+    {
+      "id": "phy8_q127",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कोई संकेत 600 सेकंड तक निर्वात में चलता है। वह कितनी दूरी तय करेगा?",
+        "en": "A signal travels in vacuum for 600 seconds. What distance does it cover?"
+      },
+      "options": {
+        "hi": [
+          "1.8 × 10^14 मीटर",
+          "6 × 10^8 मीटर",
+          "1.8 × 10^11 मीटर",
+          "1.8 × 10^8 मीटर"
+        ],
+        "en": [
+          "1.8 × 10^14 m",
+          "6 × 10^8 m",
+          "1.8 × 10^11 m",
+          "1.8 × 10^8 m"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "d = c × t = 3 × 10^8 × 600 = 1.8 × 10^11 मीटर।",
+        "en": "d = c × t = 3 × 10^8 × 600 = 1.8 × 10^11 m."
+      }
+    },
+    {
+      "id": "phy8_q128",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक प्रकाश वर्ष में लगभग कितनी दूरी होती है?",
+        "en": "Approximately how much distance is one light-year?"
+      },
+      "options": {
+        "hi": [
+          "9.5 × 10^8 किलोमीटर",
+          "3 × 10^8 किलोमीटर",
+          "9.5 × 10^15 किलोमीटर",
+          "9.5 × 10^12 किलोमीटर"
+        ],
+        "en": [
+          "9.5 × 10^8 km",
+          "3 × 10^8 km",
+          "9.5 × 10^15 km",
+          "9.5 × 10^12 km"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "c × एक वर्ष = 3 × 10^8 × 3.15 × 10^7 सेकंड = 9.46 × 10^15 मीटर = 9.5 × 10^12 किलोमीटर।",
+        "en": "c × one year = 3 × 10^8 × 3.15 × 10^7 s = 9.46 × 10^15 m = 9.5 × 10^12 km."
+      }
+    },
+    {
+      "id": "phy8_q129",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 प्रकाश वर्ष बराबर कितने किलोमीटर होंगे?",
+        "en": "2 light-years equal how many kilometres?"
+      },
+      "options": {
+        "hi": [
+          "लगभग 1.9 × 10^13 किलोमीटर",
+          "लगभग 1.9 × 10^12 किलोमीटर",
+          "लगभग 9.5 × 10^13 किलोमीटर",
+          "लगभग 1.9 × 10^10 किलोमीटर"
+        ],
+        "en": [
+          "About 1.9 × 10^13 km",
+          "About 1.9 × 10^12 km",
+          "About 9.5 × 10^13 km",
+          "About 1.9 × 10^10 km"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "2 × 9.5 × 10^12 = 1.9 × 10^13 किलोमीटर।",
+        "en": "2 × 9.5 × 10^12 = 1.9 × 10^13 km."
+      }
+    },
+    {
+      "id": "phy8_q130",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फ्रॉस्टेड ग्लास से देखने पर वस्तु स्पष्ट क्यों नहीं दिखती?",
+        "en": "Why is an object not seen clearly through frosted glass?"
+      },
+      "options": {
+        "hi": [
+          "वह प्रकाश उत्पन्न करता है",
+          "प्रकाश उसमें बिखर जाती है, इसलिए प्रतिबिंब धुँधला बनता है",
+          "फ्रॉस्टेड ग्लास प्रकाश रोक देता है",
+          "वह पूरी प्रकाश सोख लेता है"
+        ],
+        "en": [
+          "It produces light",
+          "Light scatters inside it, so the image is blurred",
+          "Frosted glass blocks all light",
+          "It absorbs all light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फ्रॉस्टेड ग्लास पारदर्शक है — आंशिक प्रकाश बिखरकर गुज़रती है।",
+        "en": "Frosted glass is translucent — partial light passes after scattering."
+      }
+    },
+    {
+      "id": "phy8_q131",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पानी से भरे गिलास में रखी पेंसिल मुड़ी हुई दिखती है। यह किस घटना का उदाहरण है?",
+        "en": "A pencil kept in a glass of water appears bent. Which phenomenon is this?"
+      },
+      "options": {
+        "hi": [
+          "विक्षेपण",
+          "अवशोषण",
+          "अपवर्तन",
+          "परावर्तन"
+        ],
+        "en": [
+          "Dispersion",
+          "Absorption",
+          "Refraction",
+          "Reflection"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जल और वायु में प्रकाश की चाल भिन्न है, इसलिए किरण दिशा बदलती है — यही अपवर्तन है (विस्तार अगले खंड में)।",
+        "en": "Light changes speed between water and air, so the ray bends — this is refraction (detailed later)."
+      }
+    },
+    {
+      "id": "phy8_q132",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु, जल और काँच — इन तीनों में प्रकाश की चाल का सही क्रम बताइए।",
+        "en": "State the correct order of the speed of light in air, water and glass."
+      },
+      "options": {
+        "hi": [
+          "काँच में सबसे अधिक, फिर जल, फिर वायु",
+          "तीनों में बराबर",
+          "जल में सबसे अधिक",
+          "वायु में सबसे अधिक, फिर जल, फिर काँच में सबसे कम"
+        ],
+        "en": [
+          "Fastest in glass, then water, then air",
+          "Equal in all three",
+          "Fastest in water",
+          "Fastest in air, then water, slowest in glass"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जितना सघन माध्यम, उतनी कम चाल — काँच का सघनत्व जल से अधिक है।",
+        "en": "The denser the medium, the slower the light — glass is denser than water."
+      }
+    },
+    {
+      "id": "phy8_q133",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेड़ के पीछे छिपा व्यक्ति दिखाई नहीं देता। इसका कारण बताइए।",
+        "en": "A person hidden behind a tree cannot be seen. Give the reason."
+      },
+      "options": {
+        "hi": [
+          "प्रकाश सीधी रेखा में चलती है और अपारदर्शी वृक्ष उसे रोकता है",
+          "व्यक्ति अदीप्तिमान है",
+          "प्रकाश वक्र रेखा में मुड़ जाती है",
+          "वृक्ष प्रकाश सोख लेता है"
+        ],
+        "en": [
+          "Light travels in a straight line and the opaque tree blocks it",
+          "The person is non-luminous",
+          "Light bends around the tree",
+          "The tree absorbs the light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सरल रेखीय प्रसार के कारण वृक्ष के पीछे की किरणें आँख तक नहीं पहुँचतीं।",
+        "en": "Due to rectilinear propagation, rays from behind the tree never reach the eye."
+      }
+    },
+    {
+      "id": "phy8_q134",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी इमारत की ऊँचाई 2 मीटर वाली छड़ 3 मीटर की छाया बनाती है। उसी समय 4 मीटर लंबी छड़ की छाया कितनी होगी?",
+        "en": "A 2 m stick casts a 3 m shadow. At the same time, what shadow will a 4 m stick cast?"
+      },
+      "options": {
+        "hi": [
+          "12 मीटर",
+          "6 मीटर",
+          "3 मीटर",
+          "4.5 मीटर"
+        ],
+        "en": [
+          "12 m",
+          "6 m",
+          "3 m",
+          "4.5 m"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समान त्रिभुज: छाया/छड़ = 3/2, अतः 4 मीटर छड़ की छाया = 4 × 3/2 = 6 मीटर।",
+        "en": "Similar triangles: shadow/stick = 3/2, so a 4 m stick casts 4 × 3/2 = 6 m."
+      }
+    },
+    {
+      "id": "phy8_q135",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ग्रहण के समय चंद्रमा का छाया क्षेत्र पृथ्वी पर गिरता है। यह कौन-सा ग्रहण है?",
+        "en": "The moon's shadow falls on the earth during an eclipse. Which eclipse is this?"
+      },
+      "options": {
+        "hi": [
+          "दोनों",
+          "कोई नहीं",
+          "सूर्य ग्रहण",
+          "चंद्र ग्रहण"
+        ],
+        "en": [
+          "Both",
+          "Neither",
+          "A solar eclipse",
+          "A lunar eclipse"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चंद्रमा की छाया पृथ्वी पर — सूर्य ग्रहण; पृथ्वी की छाया चंद्रमा पर — चंद्र ग्रहण।",
+        "en": "Moon's shadow on the earth — solar eclipse; earth's shadow on the moon — lunar eclipse."
+      }
+    },
+    {
+      "id": "phy8_q136",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जब प्रकाश किरण किसी वस्तु से टकराती है तो क्या होता है?",
+        "en": "What happens when a light ray strikes an object?"
+      },
+      "options": {
+        "hi": [
+          "पूरी किरण वापस लौट आती है",
+          "पूरी किरण सोख ली जाती है",
+          "किरण गायब हो जाती है",
+          "उसका कुछ भाग परावर्तित, कुछ अवशोषित और कुछ (यदि पारदर्शी हो तो) गुज़र जाता है"
+        ],
+        "en": [
+          "The whole ray returns back",
+          "The whole ray is absorbed",
+          "The ray vanishes",
+          "Part is reflected, part absorbed and part (if transparent) transmitted"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "परावर्तन, अवशोषण और संचरण प्रायः एक साथ होते हैं।",
+        "en": "Reflection, absorption and transmission usually happen together."
+      }
+    },
+    {
+      "id": "phy8_q137",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रात में चाँद हमें क्यों चमकता दिखता है?",
+        "en": "Why does the moon appear bright to us at night?"
+      },
+      "options": {
+        "hi": [
+          "वह सूर्य के प्रकाश को परावर्तित करता है",
+          "वह स्वयं प्रकाश उत्पन्न करता है",
+          "वह तारों का प्रकाश बढ़ा देता है",
+          "पृथ्वी का प्रकाश उस पर पड़ता है"
+        ],
+        "en": [
+          "It reflects sunlight",
+          "It produces its own light",
+          "It amplifies starlight",
+          "Earth's light falls on it"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चंद्रमा अदीप्तिमान है — सूर्य-प्रकाश परावर्तित होकर हम तक आता है।",
+        "en": "The moon is non-luminous — reflected sunlight reaches us."
+      }
+    },
+    {
+      "id": "phy8_q138",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "काँच की शीट पर तेल का थोड़ा लेप लगा दिया जाए तो वह कैसी वस्तु बन जाती है?",
+        "en": "If a little oil is smeared on a glass sheet, what does it become?"
+      },
+      "options": {
+        "hi": [
+          "परावर्तक दर्पण",
+          "पारदर्शक",
+          "अपारदर्शी",
+          "दीप्तिमान"
+        ],
+        "en": [
+          "A plane mirror",
+          "Translucent",
+          "Opaque",
+          "Luminous"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तेल के कारण प्रकाश बिखरकर आंशिक रूप से गुज़रती है — पारदर्शक।",
+        "en": "The oil scatters light; only part passes through — translucent."
+      }
+    },
+    {
+      "id": "phy8_q139",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धूप में खड़े व्यक्ति की छाया सुबह लंबी और दोपहर छोटी क्यों होती है?",
+        "en": "Why is a person's shadow long in the morning and short at noon?"
+      },
+      "options": {
+        "hi": [
+          "सुबह प्रकाश धीमी चलती है",
+          "छाया रंग बदलती है",
+          "सूर्य की दिशा बदलने से प्रकाश आपतन कोण बदलता है",
+          "व्यक्ति की लंबाई दोपहर घट जाती है"
+        ],
+        "en": [
+          "Light travels slower in the morning",
+          "The shadow changes colour",
+          "The sun's direction changes, changing the angle at which light falls",
+          "The person's height decreases at noon"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तिरछी किरणें लंबी छाया बनाती हैं; दोपहर की लंबवत किरणें छोटी।",
+        "en": "Slanting rays make long shadows; vertical noon rays make short ones."
+      }
+    },
+    {
+      "id": "phy8_q140",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक बिंदु स्रोत से प्रकाश में गेंद रखने पर पर्दे पर बनी छाया कैसी होती है?",
+        "en": "A ball is placed in light from a point source. What is the shadow on the screen like?"
+      },
+      "options": {
+        "hi": [
+          "केवल आंशिक छाया",
+          "कोई छाया नहीं",
+          "छल्ले जैसी छाया",
+          "पूर्णतः गहरी (केवल पूर्ण छाया)"
+        ],
+        "en": [
+          "Only penumbra",
+          "No shadow",
+          "A ring-shaped shadow",
+          "Completely dark (only umbra)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बिंदु स्रोत से हर बिंदु से एक ही दिशा में किरणें — केवल पूर्ण छाया बनती है।",
+        "en": "A point source sends rays in single directions — only a full shadow forms."
+      }
+    },
+    {
+      "id": "phy8_q141",
+      "topic": "light-propagation-materials",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सौर ग्रहण में चंद्रमा के आंशिक छाया क्षेत्र (पेनम्ब्रा) में खड़े दर्शक को क्या दिखता है?",
+        "en": "What does a viewer standing in the moon's partial shadow (penumbra) during a solar eclipse see?"
+      },
+      "options": {
+        "hi": [
+          "आंशिक सूर्य ग्रहण",
+          "पूर्ण सूर्य ग्रहण",
+          "कुछ नहीं",
+          "चंद्र ग्रहण"
+        ],
+        "en": [
+          "A partial solar eclipse",
+          "A total solar eclipse",
+          "Nothing",
+          "A lunar eclipse"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पेनम्ब्रा में सूर्य का कुछ भाग दिखता रहता है — आंशिक ग्रहण।",
+        "en": "In the penumbra part of the sun remains visible — a partial eclipse."
+      }
+    },
+    {
+      "id": "phy8_q142",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पिनहोल कैमरे में दो छेद कर दिए जाएँ तो पर्दे पर क्या दिखेगा?",
+        "en": "If two holes are made in a pinhole camera, what appears on the screen?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु का सीधा प्रतिबिंब",
+          "वस्तु के दो प्रतिबिंब",
+          "एक ही तीखा प्रतिबिंब",
+          "कोई प्रतिबिंब नहीं"
+        ],
+        "en": [
+          "An erect image of the object",
+          "Two images of the object",
+          "One sharper image",
+          "No image at all"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रत्येक छेद से स्वतंत्र किरण-पुंज गुज़रता है, इसलिए दो प्रतिबिंब बनते हैं।",
+        "en": "Each hole passes its own beam, so two images form."
+      }
+    },
+    {
+      "id": "phy8_q143",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पिनहोल कैमरे में पर्दे को छेद से दूर ले जाने पर प्रतिबिंब का आकार कैसे बदलता है?",
+        "en": "In a pinhole camera, what happens to the image size when the screen is moved farther from the hole?"
+      },
+      "options": {
+        "hi": [
+          "कोई परिवर्तन नहीं",
+          "प्रतिबिंब सीधा हो जाता है",
+          "प्रतिबिंब बड़ा हो जाता है",
+          "प्रतिबिंब छोटा हो जाता है"
+        ],
+        "en": [
+          "No change",
+          "The image becomes erect",
+          "The image becomes larger",
+          "The image becomes smaller"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रतिबिंब का आकार पर्दे-छेद दूरी के अनुक्रमानुपाती होता है।",
+        "en": "Image size grows in proportion to the hole-screen distance."
+      }
+    },
+    {
+      "id": "phy8_q144",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक वृत्ताकार गेंद को बिंदु स्रोत से दूर ले जाने पर पर्दे पर उसकी छाया का आकार कैसा होगा?",
+        "en": "A ball is moved away from a point source. What happens to the size of its shadow on a fixed screen?"
+      },
+      "options": {
+        "hi": [
+          "छाया बड़ी होती जाती है",
+          "छाया का आकार अपरिवर्तित रहता है",
+          "छाया पहले बड़ी फिर छोटी होती है",
+          "छाया छोटी होती जाती है"
+        ],
+        "en": [
+          "The shadow becomes larger",
+          "The shadow size stays unchanged",
+          "It first grows then shrinks",
+          "The shadow becomes smaller"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वस्तु स्रोत से दूर जाने पर प्रकाश-कोण संकुचित होता जाता है और पर्दे पर छाया छोटी बनती है।",
+        "en": "As the object recedes, the shadow cone narrows and the shadow on the screen shrinks."
+      }
+    },
+    {
+      "id": "phy8_q145",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सीधी रबर ट्यूब से मोमबत्ती दिखती है परंतु मुड़ी हुई ट्यूब से नहीं। यह प्रयोग किस तथ्य को सिद्ध करता है?",
+        "en": "A candle is visible through a straight rubber tube but not through a bent one. What does this experiment prove?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश सरल रेखा में चलती है",
+          "प्रकाश परावर्तित होती है",
+          "ट्यूब प्रकाश सोखती है",
+          "प्रकाश को माध्यम चाहिए"
+        ],
+        "en": [
+          "Light travels in straight lines",
+          "Light gets reflected",
+          "The tube absorbs light",
+          "Light needs a medium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मुड़ी ट्यूब प्रकाश-पथ को रोकती है, इसलिए दृश्यता समाप्त हो जाती है।",
+        "en": "A bent tube blocks the light path, ending visibility."
+      }
+    },
+    {
+      "id": "phy8_q146",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पूर्ण सूर्य ग्रहण के समय पृथ्वी पर ठीक चंद्रमा की पूर्ण छाया (अम्ब्रा) में स्थित स्थान कहलाता है?",
+        "en": "During a total solar eclipse, the region on the earth lying exactly in the moon's full shadow (umbra) is called?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश मंडल",
+          "पूर्णता का पथ (टोटैलिटी पथ)",
+          "पेनम्ब्रा मंडल",
+          "दृश्य क्षेत्र"
+        ],
+        "en": [
+          "The zone of illumination",
+          "The path of totality",
+          "The penumbral zone",
+          "The field of view"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अम्ब्रा में सूर्य पूर्ण रूप से ढक जाता है — यही पूर्णता का पथ है।",
+        "en": "In the umbra the sun is fully covered — this is the path of totality."
+      }
+    },
+    {
+      "id": "phy8_q147",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी दूर के ग्रह तक प्रकाश को 4 वर्ष लगते हैं। ग्रह की दूरी पृथ्वी से कितनी है?",
+        "en": "Light takes 4 years to reach a planet. How far is the planet from the earth?"
+      },
+      "options": {
+        "hi": [
+          "4 किलोमीटर",
+          "12 प्रकाश वर्ष",
+          "4 प्रकाश वर्ष",
+          "4 × 10^8 मीटर"
+        ],
+        "en": [
+          "4 kilometres",
+          "12 light-years",
+          "4 light-years",
+          "4 × 10^8 m"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रकाश-यात्रा समय जितने वर्ष, दूरी उतने प्रकाश वर्ष।",
+        "en": "However many years light travels, the distance equals that many light-years."
+      }
+    },
+    {
+      "id": "phy8_q148",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक अपारदर्शी गेंद को विस्तृत (बड़े) प्रकाश स्रोत से प्रकाशित किया जाता है। पर्दे पर छाया के कितने भाग बनते हैं?",
+        "en": "An opaque ball is lit by an extended (large) source. How many regions does its shadow on the screen have?"
+      },
+      "options": {
+        "hi": [
+          "एक — केवल पूर्ण छाया",
+          "एक — केवल आंशिक छाया",
+          "तीन — दो पूर्ण, एक आंशिक",
+          "दो — पूर्ण छाया और आंशिक छाया"
+        ],
+        "en": [
+          "One — only umbra",
+          "One — only penumbra",
+          "Three — two umbrae, one penumbra",
+          "Two — umbra and penumbra"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विस्तृत स्रोत से बनी छाया में केंद्र में अम्ब्रा और चारों ओर पेनम्ब्रा होती है।",
+        "en": "A shadow from an extended source has a central umbra surrounded by penumbra."
+      }
+    },
+    {
+      "id": "phy8_q149",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पारदर्शक पर्दे से आने वाली रोशनी वाले कमरे में पढ़ना कठिन क्यों होता है?",
+        "en": "Why is it hard to read in a room lit only through a translucent screen?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश बिखरकर विभिन्न दिशाओं में आती है और समान रोशनी नहीं मिलती",
+          "कमरे में प्रकाश बिल्कुल नहीं आती",
+          "प्रकाश का रंग बदल जाता है",
+          "आँखें बंद हो जाती हैं"
+        ],
+        "en": [
+          "Light scatters in many directions, so even illumination is not obtained",
+          "No light enters the room at all",
+          "The colour of light changes",
+          "The eyes close"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पारदर्शक पर्दा प्रकाश को बिखेर देता है — तीव्र, सीधी रोशनी नहीं मिलती।",
+        "en": "A translucent screen scatters light — no direct, intense illumination is available."
+      }
+    },
+    {
+      "id": "phy8_q150",
+      "topic": "light-propagation-materials",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कोई संकेत 2 × 10^8 मीटर/सेकंड की चाल से चलता है। 5 सेकंड में वह कितनी दूरी तय करेगा?",
+        "en": "A signal travels at 2 × 10^8 m/s. How far does it travel in 5 seconds?"
+      },
+      "options": {
+        "hi": [
+          "2 × 10^9 मीटर",
+          "10^9 मीटर",
+          "10^8 मीटर",
+          "10^10 मीटर"
+        ],
+        "en": [
+          "2 × 10^9 m",
+          "10^9 m",
+          "10^8 m",
+          "10^10 m"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "d = v × t = 2 × 10^8 × 5 = 10 × 10^8 = 10^9 मीटर।",
+        "en": "d = v × t = 2 × 10^8 × 5 = 10 × 10^8 = 10^9 m."
+      }
+    },
+    {
+      "id": "phy8_q151",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश का परावर्तन किसे कहते हैं?",
+        "en": "What is reflection of light?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश का सात रंगों में बँटना",
+          "प्रकाश का सोखा जाना",
+          "प्रकाश का किसी सतह से टकराकर उसी माध्यम में वापस लौटना",
+          "प्रकाश का एक माध्यम से दूसरे में जाना"
+        ],
+        "en": [
+          "Light splitting into seven colours",
+          "Light being absorbed",
+          "Light bouncing back into the same medium after striking a surface",
+          "Light passing from one medium into another"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "उसी माध्यम में वापसी ही परावर्तन है; माध्यम बदलना अपवर्तन है।",
+        "en": "Returning into the same medium is reflection; changing medium is refraction."
+      }
+    },
+    {
+      "id": "phy8_q152",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आपतन कोण और परावर्तन कोण में क्या संबंध है?",
+        "en": "What is the relation between the angle of incidence and the angle of reflection?"
+      },
+      "options": {
+        "hi": [
+          "आपतन कोण दुगुना होता है",
+          "परावर्तन कोण आधा होता है",
+          "दोनों का कोई संबंध नहीं",
+          "दोनों बराबर होते हैं"
+        ],
+        "en": [
+          "The angle of incidence is double",
+          "The angle of reflection is half",
+          "They are unrelated",
+          "They are equal"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "परावर्तन का प्रथम नियम — आपतन कोण सदैव परावर्तन कोण के बराबर होता है।",
+        "en": "First law of reflection — the angle of incidence always equals the angle of reflection."
+      }
+    },
+    {
+      "id": "phy8_q153",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "परावर्तन में अभिलंब (normal) क्या होता है?",
+        "en": "What is the normal in reflection?"
+      },
+      "options": {
+        "hi": [
+          "आपतन बिंदु पर दर्पण पर लंबवत खींची गई काल्पनिक रेखा",
+          "दर्पण के समांतर रेखा",
+          "आपतित किरण स्वयं",
+          "दर्पण की मोटाई"
+        ],
+        "en": [
+          "An imaginary line perpendicular to the mirror at the point of incidence",
+          "A line parallel to the mirror",
+          "The incident ray itself",
+          "The thickness of the mirror"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दोनों कोण अभिलंब से मापे जाते हैं।",
+        "en": "Both angles are measured from the normal."
+      }
+    },
+    {
+      "id": "phy8_q154",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समतल दर्पण में बना प्रतिबिंब किस प्रकार का होता है?",
+        "en": "What type of image is formed by a plane mirror?"
+      },
+      "options": {
+        "hi": [
+          "आभासी और उल्टा",
+          "आभासी और सीधा",
+          "वास्तविक और उल्टा",
+          "वास्तविक और सीधा"
+        ],
+        "en": [
+          "Virtual and inverted",
+          "Virtual and erect",
+          "Real and inverted",
+          "Real and erect"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समतल दर्पण का प्रतिबिंब आभासी, सीधा और समान आकार का होता है।",
+        "en": "A plane mirror forms a virtual, erect, same-size image."
+      }
+    },
+    {
+      "id": "phy8_q155",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समतल दर्पण में प्रतिबिंब का आकार वस्तु से कैसा होता है?",
+        "en": "How does the size of a plane-mirror image compare with the object?"
+      },
+      "options": {
+        "hi": [
+          "छोटा",
+          "आधा",
+          "बिल्कुल समान",
+          "बड़ा"
+        ],
+        "en": [
+          "Smaller",
+          "Half",
+          "Exactly the same",
+          "Larger"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "समतल दर्पण आकार नहीं बदलता — प्रतिबिंब समान आकार का बनता है।",
+        "en": "A plane mirror does not change size — the image is the same size."
+      }
+    },
+    {
+      "id": "phy8_q156",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समतल दर्पण का प्रतिबिंब किस दिशा में उलटा होता है?",
+        "en": "In which direction does a plane mirror reverse the image?"
+      },
+      "options": {
+        "hi": [
+          "ऊपर-नीचे उलट जाता है",
+          "कुछ नहीं बदलता",
+          "प्रतिबिंब उल्टा और झुका होता है",
+          "बायाँ-दायाँ उलट जाता है (पार्श्व उन्नयन)"
+        ],
+        "en": [
+          "Top and bottom get interchanged",
+          "Nothing changes",
+          "The image is inverted and tilted",
+          "Left and right get interchanged (lateral inversion)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पार्श्व उन्नयन में केवल बायाँ-दायाँ बदलता है, ऊपर-नीचे नहीं।",
+        "en": "In lateral inversion only left and right swap; top and bottom stay."
+      }
+    },
+    {
+      "id": "phy8_q157",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एम्बुलेंस पर AMBULANCE उल्टा क्यों लिखा होता है?",
+        "en": "Why is AMBULANCE written in reverse on ambulances?"
+      },
+      "options": {
+        "hi": [
+          "ताकि वाहन के दर्पण में वह सीधा पढ़ा जा सके",
+          "सजावट के लिए",
+          "कानून के अनुसार उल्टा लिखना है",
+          "ताकि दूर से दिखे"
+        ],
+        "en": [
+          "So that it reads correctly in the vehicle's mirror",
+          "For decoration",
+          "The law requires reverse writing",
+          "So that it is visible from far"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दर्पण पार्श्व उन्नयन करता है — उल्टा लिखा शब्द दर्पण में सीधा दिखता है।",
+        "en": "A mirror laterally inverts — the reversed word reads straight in the mirror."
+      }
+    },
+    {
+      "id": "phy8_q158",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वस्तु समतल दर्पण से 5 मीटर दूर है। प्रतिबिंब दर्पण से कितनी दूर बनेगा?",
+        "en": "An object is 5 m from a plane mirror. How far behind the mirror is the image?"
+      },
+      "options": {
+        "hi": [
+          "दर्पण पर ही",
+          "5 मीटर पीछे",
+          "10 मीटर पीछे",
+          "2.5 मीटर पीछे"
+        ],
+        "en": [
+          "On the mirror itself",
+          "5 m behind",
+          "10 m behind",
+          "2.5 m behind"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रतिबिंब की दूरी = वस्तु की दूरी, दर्पण के पीछे।",
+        "en": "Image distance equals object distance, behind the mirror."
+      }
+    },
+    {
+      "id": "phy8_q159",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नियमित (सुसंगत) परावर्तन किस सतह से होता है?",
+        "en": "Regular (specular) reflection occurs from which surface?"
+      },
+      "options": {
+        "hi": [
+          "काले कपड़े",
+          "लकड़ी का तख्ता",
+          "चिकनी (समतल) सतह जैसे दर्पण",
+          "खुरदरी सतह जैसे दीवार"
+        ],
+        "en": [
+          "Black cloth",
+          "A wooden plank",
+          "A smooth surface like a mirror",
+          "A rough surface like a wall"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चिकनी सतह पर समांतर किरणें परावर्तन के बाद भी समांतर रहती हैं।",
+        "en": "On a smooth surface parallel rays remain parallel after reflection."
+      }
+    },
+    {
+      "id": "phy8_q160",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खुरदरी सतह से होने वाले परावर्तन को क्या कहते हैं?",
+        "en": "Reflection from a rough surface is called?"
+      },
+      "options": {
+        "hi": [
+          "नियमित परावर्तन",
+          "अपवर्तन",
+          "अवशोषण",
+          "विकीर्ण (असमान) परावर्तन"
+        ],
+        "en": [
+          "Regular reflection",
+          "Refraction",
+          "Absorption",
+          "Diffused (irregular) reflection"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खुरदरी सतह किरणों को विभिन्न दिशाओं में बिखेर देती है।",
+        "en": "A rough surface sends rays off in different directions."
+      }
+    },
+    {
+      "id": "phy8_q161",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अवतल दर्पण (concave mirror) किरणों के साथ क्या करता है?",
+        "en": "What does a concave mirror do to parallel rays?"
+      },
+      "options": {
+        "hi": [
+          "एक बिंदु पर अभिसृत (जमा) कर देता है",
+          "बिखेर देता है",
+          "अपवर्तित कर देता है",
+          "सोख लेता है"
+        ],
+        "en": [
+          "Converges them to a point",
+          "Diverges them",
+          "Refracts them",
+          "Absorbs them"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अवतल दर्पण अभिसारी दर्पण है।",
+        "en": "A concave mirror is a converging mirror."
+      }
+    },
+    {
+      "id": "phy8_q162",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्तल दर्पण (convex mirror) किरणों के साथ क्या करता है?",
+        "en": "What does a convex mirror do to parallel rays?"
+      },
+      "options": {
+        "hi": [
+          "रंग बदल देता है",
+          "बिखेर देता है",
+          "एक बिंदु पर जमा कर देता है",
+          "सोख लेता है"
+        ],
+        "en": [
+          "Changes their colour",
+          "Diverges them",
+          "Converges them to a point",
+          "Absorbs them"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "उत्तल दर्पण अपसारी दर्पण है।",
+        "en": "A convex mirror is a diverging mirror."
+      }
+    },
+    {
+      "id": "phy8_q163",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाहनों के पीछे देखने वाला दर्पण (रियर-व्यू मिरर) कौन-सा होता है?",
+        "en": "Which mirror is used as a vehicle's rear-view mirror?"
+      },
+      "options": {
+        "hi": [
+          "समतल दर्पण",
+          "अर्ध-गोलाकार दर्पण",
+          "उत्तल दर्पण",
+          "अवतल दर्पण"
+        ],
+        "en": [
+          "A plane mirror",
+          "A hemispherical mirror",
+          "A convex mirror",
+          "A concave mirror"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "उत्तल दर्पण सदैव सीधा छोटा प्रतिबिंब बनाकर व्यापक क्षेत्र दिखाता है।",
+        "en": "A convex mirror always gives an erect, diminished image with a wider field."
+      }
+    },
+    {
+      "id": "phy8_q164",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दंत चिकित्सक दाँत का बड़ा प्रतिबिंब देखने के लिए कौन-सा दर्पण उपयोग करता है?",
+        "en": "Which mirror does a dentist use to see an enlarged image of a tooth?"
+      },
+      "options": {
+        "hi": [
+          "उत्तल दर्पण",
+          "समतल दर्पण",
+          "कोई दर्पण नहीं",
+          "अवतल दर्पण"
+        ],
+        "en": [
+          "A convex mirror",
+          "A plane mirror",
+          "No mirror",
+          "A concave mirror"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अवतल दर्पण के फोकस के भीतर रखी वस्तु का बड़ा, सीधा प्रतिबिंब बनता है।",
+        "en": "An object within a concave mirror's focus gives an enlarged, erect image."
+      }
+    },
+    {
+      "id": "phy8_q165",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वास्तविक प्रतिबिंब की पहचान क्या है?",
+        "en": "What is the identifying feature of a real image?"
+      },
+      "options": {
+        "hi": [
+          "उसे पर्दे पर प्राप्त किया जा सकता है",
+          "वह कभी पर्दे पर नहीं बनता",
+          "वह सदैव सीधा होता है",
+          "वह केवल काँच में बनता है"
+        ],
+        "en": [
+          "It can be obtained on a screen",
+          "It can never form on a screen",
+          "It is always erect",
+          "It forms only in glass"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वास्तविक प्रतिबिंब में प्रकाश वास्तव में मिलती है — पर्दे पर बनता है।",
+        "en": "In a real image light actually meets — it forms on a screen."
+      }
+    },
+    {
+      "id": "phy8_q166",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गोलीय दर्पण की फोकस दूरी और वक्रता त्रिज्या में क्या संबंध है?",
+        "en": "What is the relation between the focal length and the radius of curvature of a spherical mirror?"
+      },
+      "options": {
+        "hi": [
+          "f = R/4",
+          "f = R/2",
+          "f = R",
+          "f = 2R"
+        ],
+        "en": [
+          "f = R/4",
+          "f = R/2",
+          "f = R",
+          "f = 2R"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गोलीय दर्पण के लिए f = R/2।",
+        "en": "For a spherical mirror f = R/2."
+      }
+    },
+    {
+      "id": "phy8_q167",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वक्रता त्रिज्या 20 सेमी के अवतल दर्पण की फोकस दूरी कितनी है?",
+        "en": "What is the focal length of a concave mirror of radius of curvature 20 cm?"
+      },
+      "options": {
+        "hi": [
+          "40 सेमी",
+          "5 सेमी",
+          "10 सेमी",
+          "20 सेमी"
+        ],
+        "en": [
+          "40 cm",
+          "5 cm",
+          "10 cm",
+          "20 cm"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "f = R/2 = 20/2 = 10 सेमी।",
+        "en": "f = R/2 = 20/2 = 10 cm."
+      }
+    },
+    {
+      "id": "phy8_q168",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पेरिस्कोप में कौन-से दर्पण लगे होते हैं?",
+        "en": "Which mirrors are used in a periscope?"
+      },
+      "options": {
+        "hi": [
+          "दो उत्तल दर्पण",
+          "दो अवतल दर्पण",
+          "एक समतल और एक उत्तल",
+          "दो समतल दर्पण 45 डिग्री पर"
+        ],
+        "en": [
+          "Two convex mirrors",
+          "Two concave mirrors",
+          "One plane and one convex",
+          "Two plane mirrors at 45 degrees"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "45 डिग्री के दो समतल दर्पण प्रकाश को दो बार परावर्तित कर नीचे ले आते हैं।",
+        "en": "Two plane mirrors at 45 degrees reflect light twice to send it downward."
+      }
+    },
+    {
+      "id": "phy8_q169",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अंधेरे कमरे में दर्पण अकेला क्यों नहीं चमकता?",
+        "en": "Why does a mirror alone not glow in a dark room?"
+      },
+      "options": {
+        "hi": [
+          "दर्पण केवल परावर्तित प्रकाश दिखाता है; स्वयं प्रकाश नहीं बनाता",
+          "दर्पण प्रकाश सोख लेता है",
+          "दर्पण अपारदर्शी होता है",
+          "दर्पण विद्युत चालक नहीं है"
+        ],
+        "en": [
+          "A mirror shows only reflected light; it makes none of its own",
+          "The mirror absorbs light",
+          "The mirror is opaque",
+          "The mirror is not an electrical conductor"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "परावर्तन प्रकाश की उपस्थिति में ही संभव है।",
+        "en": "Reflection is possible only when light is present."
+      }
+    },
+    {
+      "id": "phy8_q170",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समतल दर्पण का प्रतिबिंब वास्तविक क्यों नहीं होता?",
+        "en": "Why is a plane mirror's image not real?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिबिंब उल्टा होता है",
+          "प्रकाश किरणें दर्पण के पीछे वास्तव में नहीं मिलतीं — केवल ऐसा प्रतीत होता है",
+          "प्रतिबिंब पर्दे पर बन जाता है",
+          "प्रतिबिंब आकार में छोटा होता है"
+        ],
+        "en": [
+          "The image is inverted",
+          "The rays never actually meet behind the mirror — they only appear to",
+          "The image forms on a screen",
+          "The image is smaller"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पीछे वाली किरणें काल्पनिक हैं — इसलिए प्रतिबिंब आभासी है।",
+        "en": "The backward extensions of rays are imaginary — hence the image is virtual."
+      }
+    },
+    {
+      "id": "phy8_q171",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आपतन कोण 35 डिग्री है। परावर्तन कोण कितना होगा?",
+        "en": "The angle of incidence is 35 degrees. What is the angle of reflection?"
+      },
+      "options": {
+        "hi": [
+          "70 डिग्री",
+          "0 डिग्री",
+          "35 डिग्री",
+          "55 डिग्री"
+        ],
+        "en": [
+          "70 degrees",
+          "0 degrees",
+          "35 degrees",
+          "55 degrees"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "∠i = ∠r = 35 डिग्री।",
+        "en": "∠i = ∠r = 35 degrees."
+      }
+    },
+    {
+      "id": "phy8_q172",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किरण अभिलंब के अनुदिश दर्पण पर गिरती है। आपतन कोण कितना होगा?",
+        "en": "A ray falls on a mirror along the normal. What is the angle of incidence?"
+      },
+      "options": {
+        "hi": [
+          "90 डिग्री",
+          "45 डिग्री",
+          "180 डिग्री",
+          "0 डिग्री — किरण उसी पथ पर वापस लौटती है"
+        ],
+        "en": [
+          "90 degrees",
+          "45 degrees",
+          "180 degrees",
+          "0 degrees — the ray retraces its path"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अभिलंब के अनुदिश किरण के लिए ∠i = 0, अतः ∠r = 0 — किरण वापस उसी रास्ते पर।",
+        "en": "Along the normal ∠i = 0, so ∠r = 0 — the ray bounces straight back."
+      }
+    },
+    {
+      "id": "phy8_q173",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आपतित किरण और परावर्तित किरण के बीच का कोण 80 डिग्री है। आपतन कोण कितना है?",
+        "en": "The angle between the incident ray and the reflected ray is 80 degrees. What is the angle of incidence?"
+      },
+      "options": {
+        "hi": [
+          "40 डिग्री",
+          "80 डिग्री",
+          "20 डिग्री",
+          "50 डिग्री"
+        ],
+        "en": [
+          "40 degrees",
+          "80 degrees",
+          "20 degrees",
+          "50 degrees"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कोण = ∠i + ∠r = 2∠i = 80, अतः ∠i = 40 डिग्री।",
+        "en": "The angle equals ∠i + ∠r = 2∠i = 80, so ∠i = 40 degrees."
+      }
+    },
+    {
+      "id": "phy8_q174",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किरण दर्पण की सतह से 55 डिग्री का कोण बनाती है। आपतन कोण कितना है?",
+        "en": "A ray makes an angle of 55 degrees with the mirror surface. What is the angle of incidence?"
+      },
+      "options": {
+        "hi": [
+          "25 डिग्री",
+          "35 डिग्री",
+          "55 डिग्री",
+          "45 डिग्री"
+        ],
+        "en": [
+          "25 degrees",
+          "35 degrees",
+          "55 degrees",
+          "45 degrees"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सतह से कोण 55 डिग्री ⇒ अभिलंब से कोण = 90 − 55 = 35 डिग्री।",
+        "en": "55 degrees from the surface means 90 − 55 = 35 degrees from the normal."
+      }
+    },
+    {
+      "id": "phy8_q175",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परावर्तन के नियम में आपतित किरण, परावर्तित किरण और अभिलंब कहाँ होते हैं?",
+        "en": "According to the laws of reflection, where do the incident ray, the reflected ray and the normal lie?"
+      },
+      "options": {
+        "hi": [
+          "केवल दो एक तल में",
+          "कोई नियम नहीं",
+          "एक ही तल में",
+          "तीन अलग तलों में"
+        ],
+        "en": [
+          "Only two in one plane",
+          "There is no such rule",
+          "In the same plane",
+          "In three different planes"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्वितीय नियम — तीनों एक ही तल में होते हैं।",
+        "en": "Second law — all three lie in the same plane."
+      }
+    },
+    {
+      "id": "phy8_q176",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन: खुरदरी सतह पर आपतन कोण परावर्तन कोण के बराबर नहीं होता। यह कथन सही है या गलत?",
+        "en": "Statement: On a rough surface the angle of incidence is not equal to the angle of reflection. Is this statement true or false?"
+      },
+      "options": {
+        "hi": [
+          "सही",
+          "आंशिक रूप से सही",
+          "प्रश्न अर्थहीन है",
+          "गलत — हर परावर्तन में, खुरदरी सतह के अति सूक्ष्म तलों पर भी, दोनों कोण बराबर रहते हैं"
+        ],
+        "en": [
+          "True",
+          "Partly true",
+          "The question is meaningless",
+          "False — at every reflection, even on the tiny facets of a rough surface, the two angles are equal"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नियम सभी सतहों पर लागू है; खुरदरापन केवल दिशाएँ बिखेरता है।",
+        "en": "The law holds on all surfaces; roughness merely spreads the directions."
+      }
+    },
+    {
+      "id": "phy8_q177",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "व्यक्ति समतल दर्पण से 5 मीटर दूर खड़ा है। व्यक्ति और उसके प्रतिबिंब के बीच की दूरी कितनी है?",
+        "en": "A person stands 5 m from a plane mirror. What is the distance between the person and the image?"
+      },
+      "options": {
+        "hi": [
+          "10 मीटर",
+          "5 मीटर",
+          "2.5 मीटर",
+          "20 मीटर"
+        ],
+        "en": [
+          "10 m",
+          "5 m",
+          "2.5 m",
+          "20 m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वस्तु 5 मीटर आगे + प्रतिबिंब 5 मीटर पीछे = 10 मीटर।",
+        "en": "Object 5 m in front + image 5 m behind = 10 m."
+      }
+    },
+    {
+      "id": "phy8_q178",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दर्पण से 5 मीटर दूर खड़ा व्यक्ति 2 मीटर दर्पण की ओर चलता है। अब व्यक्ति और प्रतिबिंब के बीच दूरी कितनी है?",
+        "en": "A person 5 m from a mirror walks 2 m towards it. What is the new person-image distance?"
+      },
+      "options": {
+        "hi": [
+          "3 मीटर",
+          "6 मीटर",
+          "10 मीटर",
+          "8 मीटर"
+        ],
+        "en": [
+          "3 m",
+          "6 m",
+          "10 m",
+          "8 m"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "नई वस्तु-दूरी 3 मीटर ⇒ प्रतिबिंब 3 मीटर पीछे ⇒ कुल 6 मीटर।",
+        "en": "New object distance 3 m ⇒ image 3 m behind ⇒ total 6 m."
+      }
+    },
+    {
+      "id": "phy8_q179",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो समतल दर्पण 90 डिग्री के कोण पर झुकाए गए हैं। बनने वाले प्रतिबिंबों की संख्या कितनी होगी?",
+        "en": "Two plane mirrors are inclined at 90 degrees. How many images are formed?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "5",
+          "3",
+          "4"
+        ],
+        "en": [
+          "2",
+          "5",
+          "3",
+          "4"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "n = 360/θ − 1 = 360/90 − 1 = 3।",
+        "en": "n = 360/θ − 1 = 360/90 − 1 = 3."
+      }
+    },
+    {
+      "id": "phy8_q180",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी वस्तु के 5 प्रतिबिंब देखने के लिए दो दर्पण किस कोण पर रखे जाएँ?",
+        "en": "At what angle should two mirrors be placed to obtain 5 images of an object?"
+      },
+      "options": {
+        "hi": [
+          "90 डिग्री",
+          "45 डिग्री",
+          "120 डिग्री",
+          "60 डिग्री"
+        ],
+        "en": [
+          "90 degrees",
+          "45 degrees",
+          "120 degrees",
+          "60 degrees"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "360/60 − 1 = 6 − 1 = 5।",
+        "en": "360/60 − 1 = 6 − 1 = 5."
+      }
+    },
+    {
+      "id": "phy8_q181",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो दर्पण 120 डिग्री पर झुके हैं। प्रतिबिंबों की संख्या कितनी बनेगी?",
+        "en": "Two mirrors are inclined at 120 degrees. How many images form?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "3",
+          "4",
+          "1"
+        ],
+        "en": [
+          "2",
+          "3",
+          "4",
+          "1"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "n = 360/120 − 1 = 3 − 1 = 2।",
+        "en": "n = 360/120 − 1 = 3 − 1 = 2."
+      }
+    },
+    {
+      "id": "phy8_q182",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कैलीडोस्कोप (बहुरूपदर्शक) किस सिद्धांत पर कार्य करता है?",
+        "en": "On what principle does a kaleidoscope work?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश का अवशोषण",
+          "समतल दर्पणों में बार-बार परावर्तन से बहुत प्रतिबिंब बनते हैं",
+          "प्रकाश का अपवर्तन",
+          "प्रकाश का विक्षेपण"
+        ],
+        "en": [
+          "Absorption of light",
+          "Repeated reflections in plane mirrors create many images",
+          "Refraction of light",
+          "Dispersion of light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कई झुके दर्पण बार-बार परावर्तन से सुंदर पैटर्न बनाते हैं।",
+        "en": "Several inclined mirrors form beautiful patterns via repeated reflection."
+      }
+    },
+    {
+      "id": "phy8_q183",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अवतल दर्पण का उपयोग वाहन के हेडलाइट में क्यों किया जाता है?",
+        "en": "Why is a concave mirror used in vehicle headlights?"
+      },
+      "options": {
+        "hi": [
+          "वह प्रकाश सोखता है",
+          "वह प्रकाश को पीछे भेजता है",
+          "बल्ब को फोकस पर रखने से समांतर किरण-पुंज मिलता है जो दूर तक जाता है",
+          "वह सदैव छोटा प्रतिबिंब बनाता है"
+        ],
+        "en": [
+          "It absorbs light",
+          "It sends light backwards",
+          "With the bulb at the focus, a parallel beam is obtained that reaches far",
+          "It always forms a diminished image"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फोकस पर स्रोत का प्रतिबिंब अनंत पर — किरणें समांतर हो जाती हैं।",
+        "en": "A source at the focus images at infinity — the rays emerge parallel."
+      }
+    },
+    {
+      "id": "phy8_q184",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अवतल दर्पण के फोकस और केंद्र (C) के बीच रखी वस्तु का प्रतिबिंब कहाँ बनता है?",
+        "en": "Where is the image formed for an object placed between the focus (F) and centre of curvature (C) of a concave mirror?"
+      },
+      "options": {
+        "hi": [
+          "F और C के बीच",
+          "दर्पण के पीछे — आभासी",
+          "ध्रुव पर",
+          "C के बाहर — वास्तविक, उल्टा, बड़ा"
+        ],
+        "en": [
+          "Between F and C",
+          "Behind the mirror — virtual",
+          "At the pole",
+          "Beyond C — real, inverted, enlarged"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "F और C के बीच की वस्तु का प्रतिबिंब C से दूर बड़ा और उल्टा बनता है।",
+        "en": "An object between F and C gives an enlarged, inverted, real image beyond C."
+      }
+    },
+    {
+      "id": "phy8_q185",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अवतल दर्पण के केंद्र C पर रखी वस्तु का प्रतिबिंब कहाँ और कैसा बनता है?",
+        "en": "What is the image of an object placed at the centre of curvature C of a concave mirror?"
+      },
+      "options": {
+        "hi": [
+          "C पर ही — वास्तविक, उल्टा, समान आकार",
+          "F पर — बिंदु रूप में",
+          "पीछे — आभासी, बड़ा",
+          "अनंत पर"
+        ],
+        "en": [
+          "At C itself — real, inverted, same size",
+          "At F — a point image",
+          "Behind — virtual, enlarged",
+          "At infinity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "C पर वस्तु का प्रतिबिंब C पर ही समान आकार का उल्टा बनता है।",
+        "en": "An object at C images at C, same size but inverted."
+      }
+    },
+    {
+      "id": "phy8_q186",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अवतल दर्पण के फोकस F पर रखी वस्तु का प्रतिबिंब कहाँ बनता है?",
+        "en": "Where is the image formed when an object is at the focus F of a concave mirror?"
+      },
+      "options": {
+        "hi": [
+          "दर्पण के पीछे",
+          "अनंत पर — बहुत बड़ा वास्तविक",
+          "C पर",
+          "P और F के बीच"
+        ],
+        "en": [
+          "Behind the mirror",
+          "At infinity — highly enlarged and real",
+          "At C",
+          "Between P and F"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फोकस की किरणें परावर्तन के बाद समांतर हो जाती हैं — प्रतिबिंब अनंत पर।",
+        "en": "Rays from the focus emerge parallel after reflection — the image is at infinity."
+      }
+    },
+    {
+      "id": "phy8_q187",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उत्तल दर्पण में किसी भी स्थिति की वस्तु का प्रतिबिंब कैसा बनता है?",
+        "en": "What is the image of an object at any position in a convex mirror?"
+      },
+      "options": {
+        "hi": [
+          "बड़ा, वास्तविक",
+          "अनंत पर बिंदु",
+          "आभासी, सीधा, छोटा — ध्रुव व फोकस के बीच",
+          "वास्तविक, उल्टा"
+        ],
+        "en": [
+          "Enlarged, real",
+          "A point at infinity",
+          "Virtual, erect, diminished — between pole and focus",
+          "Real, inverted"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "उत्तल दर्पण सदैव छोटा सीधा आभासी प्रतिबिंब बनाता है।",
+        "en": "A convex mirror always forms a diminished, erect, virtual image."
+      }
+    },
+    {
+      "id": "phy8_q188",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दाढ़ी बनाने का दर्पण (शेविंग मिरर) कौन-सा होता है और क्यों?",
+        "en": "Which mirror is used as a shaving mirror and why?"
+      },
+      "options": {
+        "hi": [
+          "उत्तल — व्यापक क्षेत्र दिखता है",
+          "समतल — समान आकार",
+          "कोई भी दर्पण",
+          "अवतल — चेहरा फोकस के भीतर रखने पर बड़ा सीधा प्रतिबिंब मिलता है"
+        ],
+        "en": [
+          "Convex — a wider field is seen",
+          "Plane — same size",
+          "Any mirror",
+          "Concave — with the face within the focus, an enlarged erect image is obtained"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फोकस के भीतर वस्तु का बड़ा, सीधा, आभासी प्रतिबिंब बनता है।",
+        "en": "An object within the focus gives an enlarged, erect, virtual image."
+      }
+    },
+    {
+      "id": "phy8_q189",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सौर भट्टी (सोलर फर्नेस) में बड़ा अवतल दर्पण क्यों लगाया जाता है?",
+        "en": "Why is a large concave mirror used in a solar furnace?"
+      },
+      "options": {
+        "hi": [
+          "सूर्य की समांतर किरणों को फोकस पर केंद्रित कर उच्च ताप पाने के लिए",
+          "प्रकाश बिखेरने के लिए",
+          "प्रकाश सोखने के लिए",
+          "प्रकाश का रंग बदलने के लिए"
+        ],
+        "en": [
+          "To focus the sun's parallel rays at the focus and obtain high temperature",
+          "To scatter light",
+          "To absorb light",
+          "To change the colour of light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सूर्य लगभग अनंत दूरी पर है — किरणें फोकस पर जमा होकर भट्टी गर्म करती हैं।",
+        "en": "The sun is effectively at infinity — rays converge at the focus, heating the furnace."
+      }
+    },
+    {
+      "id": "phy8_q190",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आवर्धन (magnification) m = −v/u हो तब m ऋणात्मक होने का क्या अर्थ है?",
+        "en": "When magnification m = −v/u is negative, what does it mean?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिबिंब अस्तित्व में नहीं",
+          "प्रतिबिंब वास्तविक और उल्टा है",
+          "प्रतिबिंब आभासी और सीधा है",
+          "प्रतिबिंब बड़ा है"
+        ],
+        "en": [
+          "The image does not exist",
+          "The image is real and inverted",
+          "The image is virtual and erect",
+          "The image is enlarged"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "m ऋणात्मक ⇒ उल्टा प्रतिबिंब ⇒ वास्तविक; m धनात्मक ⇒ सीधा ⇒ आभासी।",
+        "en": "Negative m ⇒ inverted image ⇒ real; positive m ⇒ erect ⇒ virtual."
+      }
+    },
+    {
+      "id": "phy8_q191",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समतल दर्पण के लिए आवर्धन का मान कितना होता है?",
+        "en": "What is the magnification produced by a plane mirror?"
+      },
+      "options": {
+        "hi": [
+          "0",
+          "अनंत",
+          "+1 (सीधा, समान आकार)",
+          "−1"
+        ],
+        "en": [
+          "0",
+          "Infinity",
+          "+1 (erect, same size)",
+          "−1"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "m = +1 — प्रतिबिंब सीधा और वस्तु के समान आकार का।",
+        "en": "m = +1 — the image is erect and the same size as the object."
+      }
+    },
+    {
+      "id": "phy8_q192",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अवतल दर्पण की फोकस दूरी 10 सेमी है। 15 सेमी दूरी पर वस्तु रखी है। प्रतिबिंब की दूरी कितनी होगी?",
+        "en": "A concave mirror has focal length 10 cm. An object is placed 15 cm away. What is the image distance?"
+      },
+      "options": {
+        "hi": [
+          "15 सेमी",
+          "10 सेमी",
+          "6 सेमी",
+          "दर्पण से 30 सेमी (वास्तविक, उल्टा, दुगुना)"
+        ],
+        "en": [
+          "15 cm",
+          "10 cm",
+          "6 cm",
+          "30 cm from the mirror (real, inverted, double size)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "1/v = 1/f − 1/u = −1/10 + 1/15 = −1/30 ⇒ v = −30 सेमी; m = −v/u = −2।",
+        "en": "1/v = 1/f − 1/u = −1/10 + 1/15 = −1/30 ⇒ v = −30 cm; m = −v/u = −2."
+      }
+    },
+    {
+      "id": "phy8_q193",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "f = 10 सेमी के अवतल दर्पण से 30 सेमी दूर वस्तु रखी है। प्रतिबिंब कहाँ बनेगा?",
+        "en": "An object is 30 cm from a concave mirror with f = 10 cm. Where is the image formed?"
+      },
+      "options": {
+        "hi": [
+          "दर्पण से 15 सेमी — वास्तविक, उल्टा, आधे आकार का",
+          "30 सेमी",
+          "10 सेमी",
+          "पीछे 30 सेमी"
+        ],
+        "en": [
+          "15 cm from the mirror — real, inverted, half size",
+          "30 cm",
+          "10 cm",
+          "30 cm behind"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "1/v = −1/10 + 1/30 = −1/15 ⇒ v = −15 सेमी; m = −(−15)/(−30) = −0.5।",
+        "en": "1/v = −1/10 + 1/30 = −1/15 ⇒ v = −15 cm; m = −(−15)/(−30) = −0.5."
+      }
+    },
+    {
+      "id": "phy8_q194",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "उत्तल दर्पण की फोकस दूरी 20 सेमी है, वस्तु 30 सेमी दूर है। प्रतिबिंब कहाँ बनेगा?",
+        "en": "A convex mirror has focal length 20 cm and an object is 30 cm away. Where is the image formed?"
+      },
+      "options": {
+        "hi": [
+          "अनंत पर",
+          "दर्पण से 12 सेमी पीछे — आभासी, सीधा, छोटा",
+          "30 सेमी आगे",
+          "20 सेमी पीछे"
+        ],
+        "en": [
+          "At infinity",
+          "12 cm behind the mirror — virtual, erect, diminished",
+          "30 cm in front",
+          "20 cm behind"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1/v = 1/20 + 1/30 = 5/60 ⇒ v = +12 सेमी; m = −v/u = +0.4।",
+        "en": "1/v = 1/20 + 1/30 = 5/60 ⇒ v = +12 cm; m = −v/u = +0.4."
+      }
+    },
+    {
+      "id": "phy8_q195",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "f = 10 सेमी के अवतल दर्पण से वस्तु 5 सेमी दूरी पर (फोकस के भीतर) है। प्रतिबिंब कैसा होगा?",
+        "en": "An object is 5 cm from a concave mirror with f = 10 cm (inside the focus). What is the image like?"
+      },
+      "options": {
+        "hi": [
+          "5 सेमी पीछे — समान आकार",
+          "कोई प्रतिबिंब नहीं",
+          "दर्पण के पीछे 10 सेमी — आभासी, सीधा, दुगुना",
+          "30 सेमी आगे — वास्तविक"
+        ],
+        "en": [
+          "5 cm behind — same size",
+          "No image",
+          "10 cm behind the mirror — virtual, erect, double size",
+          "30 cm in front — real"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1/v = −1/10 + 1/5 = +1/10 ⇒ v = +10 सेमी; m = −10/(−5) = +2।",
+        "en": "1/v = −1/10 + 1/5 = +1/10 ⇒ v = +10 cm; m = −10/(−5) = +2."
+      }
+    },
+    {
+      "id": "phy8_q196",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किस स्थिति में अवतल दर्पण आवर्धन +3 देगा?",
+        "en": "In which situation does a concave mirror give magnification +3?"
+      },
+      "options": {
+        "hi": [
+          "जब वस्तु C पर हो",
+          "जब वस्तु अनंत पर हो",
+          "जब वस्तु F पर हो",
+          "जब वस्तु ध्रुव P और फोकस F के बीच हो"
+        ],
+        "en": [
+          "When the object is at C",
+          "When the object is at infinity",
+          "When the object is at F",
+          "When the object lies between the pole P and the focus F"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P और F के बीच वस्तु का बड़ा, सीधा, आभासी प्रतिबिंब बनता है — m धनात्मक।",
+        "en": "Between P and F the image is enlarged, erect, virtual — positive m."
+      }
+    },
+    {
+      "id": "phy8_q197",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो दर्पण 30 डिग्री के कोण पर झुके हैं। वस्तु के कितने प्रतिबिंब बनेंगे?",
+        "en": "Two mirrors are inclined at 30 degrees. How many images of an object are formed?"
+      },
+      "options": {
+        "hi": [
+          "11",
+          "12",
+          "10",
+          "9"
+        ],
+        "en": [
+          "11",
+          "12",
+          "10",
+          "9"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "n = 360/30 − 1 = 12 − 1 = 11।",
+        "en": "n = 360/30 − 1 = 12 − 1 = 11."
+      }
+    },
+    {
+      "id": "phy8_q198",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "समतल दर्पण को 10 डिग्री घुमाया जाता है (आपतित किरण स्थिर)। परावर्तित किरण कितने अंश से घूमेगी?",
+        "en": "A plane mirror is rotated by 10 degrees (incident ray fixed). By how much does the reflected ray rotate?"
+      },
+      "options": {
+        "hi": [
+          "40 डिग्री",
+          "20 डिग्री",
+          "10 डिग्री",
+          "5 डिग्री"
+        ],
+        "en": [
+          "40 degrees",
+          "20 degrees",
+          "10 degrees",
+          "5 degrees"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दर्पण घूमने पर अभिलंब भी उतना ही घूमता है; ∠i और ∠r दोनों 10-10 डिग्री बढ़ते हैं ⇒ कुल परिवर्तन 2 × 10 = 20 डिग्री।",
+        "en": "The normal rotates with the mirror; both ∠i and ∠r grow by 10 degrees ⇒ total shift 2 × 10 = 20 degrees."
+      }
+    },
+    {
+      "id": "phy8_q199",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "व्यक्ति 1 मीटर/सेकंड की चाल से समतल दर्पण की ओर चलता है। प्रतिबिंब व्यक्ति के प्रति किस चाल से निकट आता प्रतीत होता है?",
+        "en": "A person walks towards a plane mirror at 1 m/s. At what speed does the image appear to approach the person?"
+      },
+      "options": {
+        "hi": [
+          "0.5 मीटर/सेकंड",
+          "4 मीटर/सेकंड",
+          "2 मीटर/सेकंड",
+          "1 मीटर/सेकंड"
+        ],
+        "en": [
+          "0.5 m/s",
+          "4 m/s",
+          "2 m/s",
+          "1 m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वस्तु-दूरी जितनी घटती है, प्रतिबिंब-दूरी उतनी ही — बीच की दूरी दुगुनी गति से घटती है।",
+        "en": "As object distance shrinks, image distance shrinks equally — the gap closes at twice the speed."
+      }
+    },
+    {
+      "id": "phy8_q200",
+      "topic": "reflection-and-mirrors",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गोलीय दर्पण की फोकस दूरी 15 सेमी है। वक्रता त्रिज्या और दर्पण का प्रकार बताइए यदि प्रतिबिंब सदैव आभासी व सीधा बनता है।",
+        "en": "A spherical mirror has focal length 15 cm. State the radius of curvature and the mirror type if its image is always virtual and erect."
+      },
+      "options": {
+        "hi": [
+          "R = 30 सेमी, अवतल दर्पण",
+          "R = 15 सेमी, उत्तल दर्पण",
+          "R = 7.5 सेमी, समतल दर्पण",
+          "R = 30 सेमी, उत्तल दर्पण"
+        ],
+        "en": [
+          "R = 30 cm, concave mirror",
+          "R = 15 cm, convex mirror",
+          "R = 7.5 cm, plane mirror",
+          "R = 30 cm, convex mirror"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सदैव आभासी-सीधा प्रतिबिंभ उत्तल दर्पण का लक्षण है; R = 2f = 30 सेमी।",
+        "en": "An always virtual-erect image marks a convex mirror; R = 2f = 30 cm."
+      }
+    },
+    {
+      "id": "phy8_q201",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश का अपवर्तन किसे कहते हैं?",
+        "en": "What is refraction of light?"
+      },
+      "options": {
+        "hi": [
+          "एक माध्यम से दूसरे माध्यम में जाते समय प्रकाश की दिशा में परिवर्तन",
+          "किसी सतह से प्रकाश का वापस लौटना",
+          "प्रकाश का सात रंगों में बँटना",
+          "प्रकाश का सोख लिया जाना"
+        ],
+        "en": [
+          "The change in direction of light when it passes from one medium to another",
+          "Light bouncing back from a surface",
+          "Light splitting into seven colours",
+          "Light being absorbed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "माध्यम बदलने पर चाल बदलने से किरण मुड़ जाती है — यही अपवर्तन है।",
+        "en": "Changing speed on changing medium bends the ray — that is refraction."
+      }
+    },
+    {
+      "id": "phy8_q202",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अपवर्तन का मूल कारण क्या है?",
+        "en": "What is the basic cause of refraction?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश का भार",
+          "विभिन्न माध्यमों में प्रकाश की चाल का भिन्न होना",
+          "प्रकाश का रंग",
+          "माध्यम का ताप"
+        ],
+        "en": [
+          "The weight of light",
+          "Light travels at different speeds in different media",
+          "The colour of light",
+          "The temperature of the medium"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चाल बदलते ही किरण की दिशा दोनों माध्यमों की सीमा पर बदल जाती है।",
+        "en": "As soon as the speed changes, the ray bends at the boundary of the two media."
+      }
+    },
+    {
+      "id": "phy8_q203",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी माध्यम का अपवर्तनांक कैसे परिभाषित होता है?",
+        "en": "How is the refractive index of a medium defined?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश की तीव्रता का माप",
+          "माध्यम का घनत्व",
+          "निर्वात में प्रकाश की चाल और उस माध्यम में चाल का अनुपात",
+          "माध्यम का भार और आयतन का अनुपात"
+        ],
+        "en": [
+          "A measure of light intensity",
+          "The density of the medium",
+          "The ratio of the speed of light in vacuum to that in the medium",
+          "The ratio of the medium's weight to volume"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "n = c/v — अपवर्तनांक अनुपात है, इसका कोई मात्रक नहीं।",
+        "en": "n = c/v — refractive index is a ratio and has no unit."
+      }
+    },
+    {
+      "id": "phy8_q204",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल का अपवर्तनांक लगभग कितना होता है?",
+        "en": "What is the approximate refractive index of water?"
+      },
+      "options": {
+        "hi": [
+          "1.0",
+          "1.5",
+          "2.42",
+          "1.33"
+        ],
+        "en": [
+          "1.0",
+          "1.5",
+          "2.42",
+          "1.33"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जल का n = 1.33; काँच का 1.5; हीरे का 2.42।",
+        "en": "Water has n = 1.33; glass 1.5; diamond 2.42."
+      }
+    },
+    {
+      "id": "phy8_q205",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "काँच का अपवर्तनांक लगभग कितना होता है?",
+        "en": "What is the approximate refractive index of glass?"
+      },
+      "options": {
+        "hi": [
+          "1.5",
+          "1.33",
+          "1.0",
+          "4/3"
+        ],
+        "en": [
+          "1.5",
+          "1.33",
+          "1.0",
+          "4/3"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "साधारण काँच का अपवर्तनांक लगभग 1.5 है।",
+        "en": "Ordinary glass has a refractive index of about 1.5."
+      }
+    },
+    {
+      "id": "phy8_q206",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्तल लेंस किरणों के साथ क्या करती है?",
+        "en": "What does a convex lens do to rays of light?"
+      },
+      "options": {
+        "hi": [
+          "उनका रंग बदल देती है",
+          "उन्हें एक बिंदु पर अभिसृत करती है",
+          "उन्हें बिखेर देती है",
+          "उन्हें सोख लेती है"
+        ],
+        "en": [
+          "It changes their colour",
+          "It converges them to a point",
+          "It diverges them",
+          "It absorbs them"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "उत्तल लेंस अभिसारी लेंस है।",
+        "en": "A convex lens is a converging lens."
+      }
+    },
+    {
+      "id": "phy8_q207",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अवतल लेंस किरणों के साथ क्या करती है?",
+        "en": "What does a concave lens do to rays of light?"
+      },
+      "options": {
+        "hi": [
+          "उन्हें परावर्तित करती है",
+          "उन्हें रोक देती है",
+          "उन्हें बिखेर देती है",
+          "उन्हें एक बिंदु पर जमा करती है"
+        ],
+        "en": [
+          "It reflects them",
+          "It stops them",
+          "It diverges them",
+          "It converges them to a point"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अवतल लेंस अपसारी लेंस है।",
+        "en": "A concave lens is a diverging lens."
+      }
+    },
+    {
+      "id": "phy8_q208",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आवर्धक लेंस (magnifying glass) कौन-सी लेंस होती है?",
+        "en": "What type of lens is a magnifying glass?"
+      },
+      "options": {
+        "hi": [
+          "अवतल लेंस",
+          "बाइकॉन्केव",
+          "समतल काँच की शीट",
+          "उत्तल लेंस"
+        ],
+        "en": [
+          "A concave lens",
+          "A biconcave lens",
+          "A flat glass sheet",
+          "A convex lens"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उत्तल लेंस पास रखी वस्तु का बड़ा आभासी प्रतिबिंब बनाती है।",
+        "en": "A convex lens forms an enlarged virtual image of a nearby object."
+      }
+    },
+    {
+      "id": "phy8_q209",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अवतल लेंस किसी भी स्थिति की वस्तु का प्रतिबिंब कैसा बनाती है?",
+        "en": "What type of image does a concave lens form for an object at any position?"
+      },
+      "options": {
+        "hi": [
+          "आभासी, सीधा, छोटा",
+          "वास्तविक, उल्टा, बड़ा",
+          "वास्तविक, सीधा",
+          "अनंत पर बिंदु-रूप"
+        ],
+        "en": [
+          "Virtual, erect, diminished",
+          "Real, inverted, enlarged",
+          "Real, erect",
+          "A point at infinity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अवतल लेंस सदैव छोटा, सीधा, आभासी प्रतिबिंब बनाती है।",
+        "en": "A concave lens always forms a diminished, erect, virtual image."
+      }
+    },
+    {
+      "id": "phy8_q210",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लेंस का वह बिंदु जिससे होकर प्रकाश किरण बिना विचलित हुए निकल जाती है, क्या कहलाता है?",
+        "en": "What is the point of a lens through which a light ray passes undeviated?"
+      },
+      "options": {
+        "hi": [
+          "ध्रुव",
+          "प्रकाशिक केंद्र",
+          "फोकस",
+          "वक्रता केंद्र"
+        ],
+        "en": [
+          "The pole",
+          "The optical centre",
+          "The focus",
+          "The centre of curvature"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रकाशिक केंद्र से गुज़री किरण सीधी रहती है।",
+        "en": "A ray through the optical centre passes straight."
+      }
+    },
+    {
+      "id": "phy8_q211",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लेंस की क्षमता (power) का मात्रक क्या है?",
+        "en": "What is the unit of the power of a lens?"
+      },
+      "options": {
+        "hi": [
+          "मीटर",
+          "जूल",
+          "डाइऑप्टर",
+          "वाट"
+        ],
+        "en": [
+          "Metre",
+          "Joule",
+          "Dioptre",
+          "Watt"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1 डाइऑप्टर = 1 मीटर−1 अर्थात् f = 1 मीटर की लेंस की क्षमता।",
+        "en": "1 dioptre = 1 per metre, i.e. the power of a lens with f = 1 m."
+      }
+    },
+    {
+      "id": "phy8_q212",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लेंस की क्षमता का सूत्र क्या है?",
+        "en": "What is the formula for the power of a lens?"
+      },
+      "options": {
+        "hi": [
+          "P = f",
+          "P = 2f",
+          "P = 1/2f",
+          "P = 1/f (मीटर में)"
+        ],
+        "en": [
+          "P = f",
+          "P = 2f",
+          "P = 1/2f",
+          "P = 1/f (with f in metres)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P = 1/f; f मीटर में रखने पर P डाइऑप्टर में मिलती है।",
+        "en": "P = 1/f; with f in metres, P comes in dioptres."
+      }
+    },
+    {
+      "id": "phy8_q213",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संघन (अधिक सघन) माध्यम में प्रवेश करते समय प्रकाश किरण अभिलंब के सापेक्ष कैसे झुकती है?",
+        "en": "When light enters an optically denser medium, how does the ray bend relative to the normal?"
+      },
+      "options": {
+        "hi": [
+          "अभिलंब की ओर झुकती है",
+          "अभिलंब से दूर झुकती है",
+          "बिल्कुल नहीं झुकती",
+          "परावर्तित हो जाती है"
+        ],
+        "en": [
+          "It bends towards the normal",
+          "It bends away from the normal",
+          "It does not bend at all",
+          "It gets reflected"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सघन माध्यम में चाल घटती है — किरण अभिलंब की ओर मुड़ती है।",
+        "en": "Speed drops in a denser medium — the ray turns towards the normal."
+      }
+    },
+    {
+      "id": "phy8_q214",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायु से जल में जाती प्रकाश किरण के लिए सही कथन चुनिए।",
+        "en": "Choose the correct statement for a light ray going from air into water."
+      },
+      "options": {
+        "hi": [
+          "किरण पूर्ण परावर्तित होती है",
+          "किरण अभिलंब की ओर झुकती है क्योंकि जल सघन है",
+          "किरण अभिलंब से दूर जाती है",
+          "किरण बिना विचलन गुज़रती है"
+        ],
+        "en": [
+          "The ray is totally reflected",
+          "The ray bends towards the normal because water is denser",
+          "The ray bends away from the normal",
+          "The ray passes undeviated"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वायु से जल: विरल से सघन — अभिलंब की ओर।",
+        "en": "Air to water: rarer to denser — towards the normal."
+      }
+    },
+    {
+      "id": "phy8_q215",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तालाब का तल जल में उथला क्यों प्रतीत होता है?",
+        "en": "Why does the bottom of a pond appear raised (shallower)?"
+      },
+      "options": {
+        "hi": [
+          "पानी का रंग हल्का होता है",
+          "परावर्तन से तल छुप जाता है",
+          "जल में अपवर्तन से तल से आने वाली किरणें मुड़ती हैं और तल ऊपर दिखता है",
+          "तालाब का तल वास्तव में ऊपर आ जाता है"
+        ],
+        "en": [
+          "Water is light in colour",
+          "Reflection hides the bottom",
+          "Refraction in water bends the rays from the bottom, so it looks raised",
+          "The bottom actually rises"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अपवर्तन के कारण आभासी गहराई वास्तविक गहराई से कम होती है।",
+        "en": "Due to refraction, apparent depth is less than real depth."
+      }
+    },
+    {
+      "id": "phy8_q216",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लेंस सूत्र (lens formula) क्या है?",
+        "en": "What is the lens formula?"
+      },
+      "options": {
+        "hi": [
+          "1/v + 1/u = 1/f",
+          "v − u = f",
+          "1/f = 2/v",
+          "1/v − 1/u = 1/f"
+        ],
+        "en": [
+          "1/v + 1/u = 1/f",
+          "v − u = f",
+          "1/f = 2/v",
+          "1/v − 1/u = 1/f"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लेंस के लिए 1/v − 1/u = 1/f चिन्ह-परिपाटी के साथ।",
+        "en": "For lenses, 1/v − 1/u = 1/f with sign conventions."
+      }
+    },
+    {
+      "id": "phy8_q217",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्तल लेंस की फोकस दूरी का चिह्न (साइन) क्या माना जाता है?",
+        "en": "What is the sign of the focal length of a convex lens by convention?"
+      },
+      "options": {
+        "hi": [
+          "धनात्मक",
+          "ऋणात्मक",
+          "शून्य",
+          "अनंत"
+        ],
+        "en": [
+          "Positive",
+          "Negative",
+          "Zero",
+          "Infinite"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "उत्तल लेंस f धनात्मक; अवतल लेंस f ऋणात्मक।",
+        "en": "A convex lens has positive f; a concave lens negative f."
+      }
+    },
+    {
+      "id": "phy8_q218",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दुरबीन, कैमरा और प्रोजेक्टर में प्रमुख रूप से कौन-सी लेंस होती है?",
+        "en": "Which lens is the main element in telescopes, cameras and projectors?"
+      },
+      "options": {
+        "hi": [
+          "समतल दर्पण",
+          "उत्तल लेंस",
+          "अवतल लेंस",
+          "प्रिज़्म"
+        ],
+        "en": [
+          "A plane mirror",
+          "A convex lens",
+          "A concave lens",
+          "A prism"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वास्तविक प्रतिबिंब बनाने के लिए सभी में उत्तल लेंस प्रयुक्त होती है।",
+        "en": "All use a convex lens to form real images."
+      }
+    },
+    {
+      "id": "phy8_q219",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "काँच के छड़ (slab) से गुज़रती किरण दूसरी सतह से कैसे निकलती है?",
+        "en": "How does a ray emerge after passing through a glass slab?"
+      },
+      "options": {
+        "hi": [
+          "किरण अंदर ही रह जाती है",
+          "किरण सोख ली जाती है",
+          "आपतित किरण के समांतर (कुछ पार्श्व विचलन के साथ)",
+          "आपतित किरण के लंबवत"
+        ],
+        "en": [
+          "The ray stays inside",
+          "The ray is absorbed",
+          "Parallel to the incident ray (with some lateral shift)",
+          "Perpendicular to the incident ray"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "समांतर पार्श्व सतहों पर दो बराबर-विपरीत अपवर्तन — निर्गत किरण समांतर।",
+        "en": "Two equal and opposite refractions at parallel faces — the emergent ray is parallel."
+      }
+    },
+    {
+      "id": "phy8_q220",
+      "topic": "refraction-and-lenses",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सबसे अधिक अपवर्तनांक वाला सामान्य पदार्थ कौन-सा है?",
+        "en": "Which common substance has the highest refractive index?"
+      },
+      "options": {
+        "hi": [
+          "जल (1.33)",
+          "काँच (1.5)",
+          "वायु (1.0003)",
+          "हीरा (2.42)"
+        ],
+        "en": [
+          "Water (1.33)",
+          "Glass (1.5)",
+          "Air (1.0003)",
+          "Diamond (2.42)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हीरे का अपवर्तनांक 2.42 — प्रकाश उसमें सबसे धीमी चलती है।",
+        "en": "Diamond's n = 2.42 — light is slowest there."
+      }
+    },
+    {
+      "id": "phy8_q221",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कटोरे में रखा सिक्का पानी भरने पर उठा हुआ दिखता है। कारण बताइए।",
+        "en": "A coin in a bowl appears raised when water is poured. State the reason."
+      },
+      "options": {
+        "hi": [
+          "पानी से आने वाली किरणें जल-वायु सीमा पर अपवर्तित होकर आँख तक पहुँचती हैं, सिक्का ऊपर प्रतीत होता है",
+          "सिक्का तैर जाता है",
+          "पानी सिक्के को बड़ा कर देता है",
+          "सिक्का परावर्तित हो जाता है"
+        ],
+        "en": [
+          "Rays from the coin refract at the water-air boundary, making it appear raised",
+          "The coin floats up",
+          "Water enlarges the coin",
+          "The coin gets reflected"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अपवर्तन के कारण आभासी प्रतिबिंब वास्तविक सिक्के से ऊपर बनता है।",
+        "en": "Refraction forms the coin's virtual image above its real position."
+      }
+    },
+    {
+      "id": "phy8_q222",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी माध्यम में प्रकाश की चाल 2 × 10^8 मीटर/सेकंड है। उसका अपवर्तनांक कितना होगा?",
+        "en": "The speed of light in a medium is 2 × 10^8 m/s. What is its refractive index?"
+      },
+      "options": {
+        "hi": [
+          "0.67",
+          "1.5",
+          "1.33",
+          "2.0"
+        ],
+        "en": [
+          "0.67",
+          "1.5",
+          "1.33",
+          "2.0"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "n = c/v = (3 × 10^8) / (2 × 10^8) = 1.5।",
+        "en": "n = c/v = (3 × 10^8) / (2 × 10^8) = 1.5."
+      }
+    },
+    {
+      "id": "phy8_q223",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल का अपवर्तनांक 4/3 है। जल में प्रकाश की चाल लगभग कितनी होगी?",
+        "en": "Water has refractive index 4/3. What is the approximate speed of light in water?"
+      },
+      "options": {
+        "hi": [
+          "4 × 10^8 मीटर/सेकंड",
+          "1.5 × 10^8 मीटर/सेकंड",
+          "2.25 × 10^8 मीटर/सेकंड",
+          "3 × 10^8 मीटर/सेकंड"
+        ],
+        "en": [
+          "4 × 10^8 m/s",
+          "1.5 × 10^8 m/s",
+          "2.25 × 10^8 m/s",
+          "3 × 10^8 m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "v = c/n = 3 × 10^8 ÷ (4/3) = 2.25 × 10^8 मीटर/सेकंड।",
+        "en": "v = c/n = 3 × 10^8 ÷ (4/3) = 2.25 × 10^8 m/s."
+      }
+    },
+    {
+      "id": "phy8_q224",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो माध्यमों में से जिसका अपवर्तनांक अधिक है, वह कैसा माना जाता है?",
+        "en": "Of two media, the one with the higher refractive index is regarded as?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाशिक रूप से विरल",
+          "पूर्ण पारदर्शी",
+          "परावर्तक",
+          "प्रकाशिक रूप से सघन"
+        ],
+        "en": [
+          "Optically rarer",
+          "Perfectly transparent",
+          "Reflecting",
+          "Optically denser"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अधिक n ⇒ प्रकाशिक सघनता अधिक — यह भौतिक घनत्व से भिन्न बात है।",
+        "en": "Higher n means higher optical density — different from mass density."
+      }
+    },
+    {
+      "id": "phy8_q225",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल से काँच में जाती किरण कैसे विचलित होती है?",
+        "en": "How does a ray bend when going from water into glass?"
+      },
+      "options": {
+        "hi": [
+          "जल (n = 1.33) से काँच (n = 1.5) सघनतर है — किरण अभिलंब की ओर झुकती है",
+          "किरण अभिलंब से दूर जाती है क्योंकि काँच विरल है",
+          "किरण बिना विचलन गुज़रती है",
+          "किरण पूर्णतः सोख ली जाती है"
+        ],
+        "en": [
+          "Water (n = 1.33) to glass (n = 1.5) is denser — the ray bends towards the normal",
+          "The ray bends away because glass is rarer",
+          "The ray passes undeviated",
+          "The ray is fully absorbed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "1.33 से 1.5 में जाना विरल से सघन में जाना है — अभिलंब की ओर विचलन।",
+        "en": "Going from 1.33 to 1.5 is rarer-to-denser — bending towards the normal."
+      }
+    },
+    {
+      "id": "phy8_q226",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "काँच से वायु में आती किरण कैसे विचलित होती है?",
+        "en": "How does a ray bend when it goes from glass into air?"
+      },
+      "options": {
+        "hi": [
+          "पूर्ण अवशोषण",
+          "अभिलंब से दूर, क्योंकि वायु विरल माध्यम है",
+          "अभिलंब की ओर",
+          "बिना विचलन"
+        ],
+        "en": [
+          "Fully absorbed",
+          "Away from the normal, because air is the rarer medium",
+          "Towards the normal",
+          "Undeviated"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सघन से विरल में जाने पर किरण अभिलंब से दूर मुड़ती है।",
+        "en": "From denser to rarer, the ray bends away from the normal."
+      }
+    },
+    {
+      "id": "phy8_q227",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उत्तल लेंस पर समांतर किरणें आती हैं। वे कहाँ मिलती हैं?",
+        "en": "Parallel rays fall on a convex lens. Where do they meet?"
+      },
+      "options": {
+        "hi": [
+          "2F पर",
+          "लेंस के पीछे अनंत पर",
+          "दूसरी ओर फोकस पर",
+          "प्रकाशिक केंद्र पर"
+        ],
+        "en": [
+          "At 2F",
+          "At infinity behind the lens",
+          "At the focus on the other side",
+          "At the optical centre"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "समांतर पुंज उत्तल लेंस के दूसरे फोकस पर अभिसृत होता है।",
+        "en": "A parallel beam converges at the second focus of a convex lens."
+      }
+    },
+    {
+      "id": "phy8_q228",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.5 मीटर फोकस दूरी वाली उत्तल लेंस की क्षमता कितनी है?",
+        "en": "What is the power of a convex lens of focal length 0.5 m?"
+      },
+      "options": {
+        "hi": [
+          "+0.5 डाइऑप्टर",
+          "+5 डाइऑप्टर",
+          "−2 डाइऑप्टर",
+          "+2 डाइऑप्टर"
+        ],
+        "en": [
+          "+0.5 dioptres",
+          "+5 dioptres",
+          "−2 dioptres",
+          "+2 dioptres"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P = 1/f = 1/0.5 = +2 डाइऑप्टर।",
+        "en": "P = 1/f = 1/0.5 = +2 D."
+      }
+    },
+    {
+      "id": "phy8_q229",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 मीटर फोकस दूरी वाली अवतल लेंस की क्षमता कितनी है?",
+        "en": "What is the power of a concave lens of focal length 2 m?"
+      },
+      "options": {
+        "hi": [
+          "−0.5 डाइऑप्टर",
+          "+0.5 डाइऑप्टर",
+          "−2 डाइऑप्टर",
+          "+2 डाइऑप्टर"
+        ],
+        "en": [
+          "−0.5 dioptres",
+          "+0.5 dioptres",
+          "−2 dioptres",
+          "+2 dioptres"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अवतल लेंस की f ऋणात्मक: P = 1/(−2) = −0.5 डाइऑप्टर।",
+        "en": "A concave lens has negative f: P = 1/(−2) = −0.5 D."
+      }
+    },
+    {
+      "id": "phy8_q230",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "25 सेमी फोकस दूरी वाली उत्तल लेंस की क्षमता कितनी है?",
+        "en": "What is the power of a convex lens of focal length 25 cm?"
+      },
+      "options": {
+        "hi": [
+          "−4 डाइऑप्टर",
+          "+4 डाइऑप्टर",
+          "+25 डाइऑप्टर",
+          "+0.4 डाइऑप्टर"
+        ],
+        "en": [
+          "−4 dioptres",
+          "+4 dioptres",
+          "+25 dioptres",
+          "+0.4 dioptres"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "25 सेमी = 0.25 मीटर; P = 1/0.25 = +4 डाइऑप्टर।",
+        "en": "25 cm = 0.25 m; P = 1/0.25 = +4 D."
+      }
+    },
+    {
+      "id": "phy8_q231",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "+3 डाइऑप्टर और −1 डाइऑप्टर की दो लेंसें संपर्क में रखी हैं। युग्मन की कुल क्षमता कितनी होगी?",
+        "en": "Two lenses of +3 D and −1 D are in contact. What is the combined power?"
+      },
+      "options": {
+        "hi": [
+          "−4 डाइऑप्टर",
+          "+3 डाइऑप्टर",
+          "+2 डाइऑप्टर",
+          "+4 डाइऑप्टर"
+        ],
+        "en": [
+          "−4 dioptres",
+          "+3 dioptres",
+          "+2 dioptres",
+          "+4 dioptres"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P = P1 + P2 = +3 + (−1) = +2 डाइऑप्टर।",
+        "en": "P = P1 + P2 = +3 + (−1) = +2 D."
+      }
+    },
+    {
+      "id": "phy8_q232",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उत्तल लेंस से 2F (दुगुनी फोकस दूरी) पर रखी वस्तु का प्रतिबिंब कहाँ और कैसा बनता है?",
+        "en": "Where and how is the image formed for an object at 2F of a convex lens?"
+      },
+      "options": {
+        "hi": [
+          "F पर — बिंदु",
+          "उसी ओर F के भीतर — आभासी",
+          "अनंत पर",
+          "दूसरी ओर 2F पर — वास्तविक, उल्टा, समान आकार"
+        ],
+        "en": [
+          "At F — a point",
+          "On the same side within F — virtual",
+          "At infinity",
+          "At 2F on the other side — real, inverted, same size"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "2F पर वस्तु का प्रतिबिंब 2F पर ही समान आकार का उल्टा बनता है।",
+        "en": "An object at 2F images at 2F, same size but inverted."
+      }
+    },
+    {
+      "id": "phy8_q233",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उत्तल लेंस के F और 2F के बीच रखी वस्तु का प्रतिबिंब कहाँ बनता है?",
+        "en": "Where is the image formed for an object between F and 2F of a convex lens?"
+      },
+      "options": {
+        "hi": [
+          "2F से परे — वास्तविक, उल्टा, बड़ा (प्रोजेक्टर का सिद्धांत)",
+          "F पर",
+          "2F पर समान आकार",
+          "लेंस के उसी ओर आभासी"
+        ],
+        "en": [
+          "Beyond 2F — real, inverted, enlarged (the projector principle)",
+          "At F",
+          "At 2F, same size",
+          "On the same side, virtual"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "F–2F के बीच वस्तु देती है 2F के बाहर बड़ा वास्तविक प्रतिबिंब।",
+        "en": "Between F and 2F the image is real, enlarged, beyond 2F."
+      }
+    },
+    {
+      "id": "phy8_q234",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उत्तल लेंस के फोकस F पर रखी वस्तु का प्रतिबिंब कहाँ बनता है?",
+        "en": "Where is the image formed when the object is at the focus F of a convex lens?"
+      },
+      "options": {
+        "hi": [
+          "लेंस के उसी ओर छोटा",
+          "अनंत पर — बहुत बड़ा वास्तविक",
+          "2F पर",
+          "F पर ही"
+        ],
+        "en": [
+          "On the same side, small",
+          "At infinity — highly enlarged and real",
+          "At 2F",
+          "At F itself"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "F की किरणें लेंस के बाद समांतर हो जाती हैं — प्रतिबिंब अनंत पर।",
+        "en": "Rays from F emerge parallel after the lens — the image is at infinity."
+      }
+    },
+    {
+      "id": "phy8_q235",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उत्तल लेंस के फोकस के भीतर (F से नज़दीक) रखी वस्तु का प्रतिबिंब कैसा होता है?",
+        "en": "What is the image like for an object placed within the focus of a convex lens?"
+      },
+      "options": {
+        "hi": [
+          "वास्तविक, उल्टा, छोटा",
+          "आभासी, सीधा, छोटा",
+          "आभासी, सीधा, बड़ा — आवर्धक काँच की तरह",
+          "वास्तविक, उल्टा, बड़ा"
+        ],
+        "en": [
+          "Real, inverted, diminished",
+          "Virtual, erect, diminished",
+          "Virtual, erect, enlarged — like a magnifying glass",
+          "Real, inverted, enlarged"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "F के भीतर वस्तु का प्रतिबिंभ वस्तु की ओर, बड़ा और सीधा बनता है।",
+        "en": "Within F the image forms on the object's side — enlarged and erect."
+      }
+    },
+    {
+      "id": "phy8_q236",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आवर्धन m = −1 का क्या अर्थ है (लेंस के लिए)?",
+        "en": "What does magnification m = −1 mean (for a lens)?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिबिंब आभासी और बड़ा है",
+          "प्रतिबिंब बिल्कुल नहीं बनता",
+          "प्रतिबिंब सीधा और छोटा है",
+          "प्रतिबिंब वास्तविक, उल्टा और वस्तु के समान आकार का है"
+        ],
+        "en": [
+          "The image is virtual and enlarged",
+          "No image forms",
+          "The image is erect and diminished",
+          "The image is real, inverted and the same size as the object"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "|m| = 1 आकार समान; ऋण चिह्न उल्टा वास्तविक प्रतिबिंब।",
+        "en": "|m| = 1 means same size; the negative sign means inverted and real."
+      }
+    },
+    {
+      "id": "phy8_q237",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कैमरे में प्रतिबिंब फिल्म/सेंसर पर कैसा बनता है?",
+        "en": "What kind of image forms on the film/sensor in a camera?"
+      },
+      "options": {
+        "hi": [
+          "वास्तविक, उल्टा, छोटा",
+          "आभासी, सीधा, छोटा",
+          "वास्तविक, सीधा, बड़ा",
+          "आभासी, उल्टा"
+        ],
+        "en": [
+          "Real, inverted, diminished",
+          "Virtual, erect, small",
+          "Real, erect, enlarged",
+          "Virtual, inverted"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दूर की वस्तु लेंस के फोकस के पास छोटा उल्टा वास्तविक प्रतिबिंब बनाती है।",
+        "en": "A distant object forms a small, inverted, real image near the focus."
+      }
+    },
+    {
+      "id": "phy8_q238",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फिल्म प्रोजेक्टर में फिल्म को लेंस के कहाँ रखा जाता है ताकि पर्दे पर बड़ा प्रतिबिंब बने?",
+        "en": "Where is the film placed relative to the projector lens to get a large image on the screen?"
+      },
+      "options": {
+        "hi": [
+          "2F से बहुत दूर",
+          "F और 2F के बीच",
+          "2F पर",
+          "F पर"
+        ],
+        "en": [
+          "Far beyond 2F",
+          "Between F and 2F",
+          "At 2F",
+          "At F"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "F–2F के बीच फिल्म का 2F से परे बड़ा उल्टा प्रतिबिंब बनता है (इसीलिए फिल्म उल्टी रखी जाती है)।",
+        "en": "Between F and 2F the film projects an enlarged inverted image beyond 2F (hence the film is inserted inverted)."
+      }
+    },
+    {
+      "id": "phy8_q239",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गिलास के पानी में डूबा नींबू बड़ा दिखता है। कारण बताइए।",
+        "en": "A lemon immersed in a glass of water appears bigger. State the reason."
+      },
+      "options": {
+        "hi": [
+          "गिलास का काँच नींबू पिघला देता है",
+          "परावर्तन से नींबू दोहरा दिखता है",
+          "पानी से निकलने वाली किरणें अपवर्तित होकर बड़ा आभासी प्रतिबिंब बनाती हैं",
+          "नींबू पानी सोखकर बड़ा हो जाता है"
+        ],
+        "en": [
+          "The glass melts the lemon",
+          "Reflection doubles the lemon",
+          "Rays leaving the water refract and form a magnified virtual image",
+          "The lemon absorbs water and swells"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जल की सतह से अपवर्तन — आभासी प्रतिबिंब बड़ा।",
+        "en": "Refraction at the water surface — the virtual image is magnified."
+      }
+    },
+    {
+      "id": "phy8_q240",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मछली जल में वास्तविक स्थान से ऊपर दिखती है। यदि आप उसे देखकर भाला मारें तो कहाँ चुनेंगे?",
+        "en": "A fish in water appears above its real position. If you spear it, where should you aim?"
+      },
+      "options": {
+        "hi": [
+          "ठीक दिखाई देने वाली स्थिति पर",
+          "दिखाई देने वाली स्थिति से ऊपर",
+          "मछली को नहीं मारा जा सकता",
+          "दिखाई देने वाली स्थिति से थोड़ा नीचे"
+        ],
+        "en": [
+          "Exactly at the apparent position",
+          "Above the apparent position",
+          "The fish cannot be speared",
+          "Slightly below the apparent position"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अपवर्तन से मछली ऊपर प्रतीत होती है — वास्तविक मछली नीचे होती है।",
+        "en": "Refraction raises the apparent fish — the real fish is lower."
+      }
+    },
+    {
+      "id": "phy8_q241",
+      "topic": "refraction-and-lenses",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अपवर्तन में किरण किस स्थिति में बिना मुड़े माध्यम बदल लेती है?",
+        "en": "In refraction, when does a ray cross into another medium without bending?"
+      },
+      "options": {
+        "hi": [
+          "जब वह अभिलंब के अनुदिश गिरे (∠i = 0)",
+          "जब ∠i = 45 डिग्री हो",
+          "जब दोनों माध्यम समान हों तो भी वह मुड़ती है",
+          "ऐसा कभी नहीं होता"
+        ],
+        "en": [
+          "When it falls along the normal (∠i = 0)",
+          "When ∠i = 45 degrees",
+          "It still bends when both media are identical",
+          "This never happens"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "∠i = 0 पर ∠r भी 0 — कोई दिशा-परिवर्तन नहीं।",
+        "en": "For ∠i = 0, ∠r is also 0 — no change of direction."
+      }
+    },
+    {
+      "id": "phy8_q242",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "f = 10 सेमी की उत्तल लेंस से 30 सेमी दूर वस्तु रखी है। प्रतिबिंब की दूरी और प्रकृति बताइए।",
+        "en": "An object is 30 cm from a convex lens with f = 10 cm. Find the image distance and nature."
+      },
+      "options": {
+        "hi": [
+          "10 सेमी — बिंदु-रूप",
+          "15 सेमी — वास्तविक, उल्टा, आधा आकार",
+          "30 सेमी — समान आकार",
+          "15 सेमी — आभासी, सीधा"
+        ],
+        "en": [
+          "10 cm — a point",
+          "15 cm — real, inverted, half size",
+          "30 cm — same size",
+          "15 cm — virtual, erect"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1/v = 1/f + 1/u = 1/10 − 1/30 = 2/30 = 1/15 ⇒ v = +15 सेमी; m = v/u = 15/(−30) = −0.5।",
+        "en": "1/v = 1/f + 1/u = 1/10 − 1/30 = 1/15 ⇒ v = +15 cm; m = v/u = 15/(−30) = −0.5."
+      }
+    },
+    {
+      "id": "phy8_q243",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "f = 10 सेमी की उत्तल लेंस से वस्तु 20 सेमी दूर है। प्रतिबिंब कैसा बनेगा?",
+        "en": "An object is 20 cm from a convex lens with f = 10 cm. What is the image like?"
+      },
+      "options": {
+        "hi": [
+          "40 सेमी पर — दुगुना",
+          "आभासी और सीधा",
+          "20 सेमी पर — वास्तविक, उल्टा, समान आकार (m = −1)",
+          "10 सेमी पर — बिंदु"
+        ],
+        "en": [
+          "At 40 cm — double size",
+          "Virtual and erect",
+          "At 20 cm — real, inverted, same size (m = −1)",
+          "At 10 cm — a point"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1/v = 1/10 − 1/20 = 1/20 ⇒ v = 20 सेमी; m = 20/(−20) = −1।",
+        "en": "1/v = 1/10 − 1/20 = 1/20 ⇒ v = 20 cm; m = 20/(−20) = −1."
+      }
+    },
+    {
+      "id": "phy8_q244",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "f = 10 सेमी की उत्तल लेंस से वस्तु 15 सेमी दूर है। प्रतिबिंब कहाँ बनेगा?",
+        "en": "An object is 15 cm from a convex lens with f = 10 cm. Where is the image formed?"
+      },
+      "options": {
+        "hi": [
+          "15 सेमी पर",
+          "10 सेमी पर",
+          "उसी ओर 30 सेमी पर आभासी",
+          "30 सेमी पर — वास्तविक, उल्टा, दुगुना"
+        ],
+        "en": [
+          "At 15 cm",
+          "At 10 cm",
+          "Virtual at 30 cm on the same side",
+          "At 30 cm — real, inverted, double size"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "1/v = 1/10 − 1/15 = 1/30 ⇒ v = +30 सेमी; m = 30/(−15) = −2।",
+        "en": "1/v = 1/10 − 1/15 = 1/30 ⇒ v = +30 cm; m = 30/(−15) = −2."
+      }
+    },
+    {
+      "id": "phy8_q245",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "f = 10 सेमी की अवतल लेंस से वस्तु 30 सेमी दूर है। प्रतिबिंब कहाँ और कैसा बनेगा?",
+        "en": "An object is 30 cm from a concave lens with f = 10 cm. Where and how is the image formed?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु की ही ओर लगभग 7.5 सेमी पर — आभासी, सीधा, एक-चौथाई आकार",
+          "30 सेमी पर वास्तविक",
+          "10 सेमी पर बड़ा",
+          "अनंत पर"
+        ],
+        "en": [
+          "About 7.5 cm on the same side — virtual, erect, one-quarter size",
+          "Real at 30 cm",
+          "Enlarged at 10 cm",
+          "At infinity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "1/v = 1/f + 1/u = −1/10 − 1/30 = −4/30 ⇒ v = −7.5 सेमी; m = (−7.5)/(−30) = +0.25।",
+        "en": "1/v = 1/f + 1/u = −1/10 − 1/30 = −4/30 ⇒ v = −7.5 cm; m = (−7.5)/(−30) = +0.25."
+      }
+    },
+    {
+      "id": "phy8_q246",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "उत्तल लेंस m = −2 दे रही है। वस्तु कहाँ रखी होगी?",
+        "en": "A convex lens gives m = −2. Where must the object be?"
+      },
+      "options": {
+        "hi": [
+          "F के भीतर",
+          "F और 2F के बीच",
+          "2F पर",
+          "F पर"
+        ],
+        "en": [
+          "Within F",
+          "Between F and 2F",
+          "At 2F",
+          "At F"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "m = −2 ऋणात्मक (वास्तविक-उल्टा) और बड़ा — यह F–2F की स्थिति का प्रतिबिंब है।",
+        "en": "m = −2 is negative (real-inverted) and enlarged — that is the F–2F case."
+      }
+    },
+    {
+      "id": "phy8_q247",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी लेंस की क्षमता −0.5 डाइऑप्टर है। लेंस का प्रकार और फोकस दूरी बताइए।",
+        "en": "A lens has power −0.5 D. State the lens type and its focal length."
+      },
+      "options": {
+        "hi": [
+          "अवतल लेंस, f = −0.5 मीटर",
+          "उत्तल लेंस, f = +0.5 मीटर",
+          "अवतल लेंस, f = −2 मीटर",
+          "उत्तल लेंस, f = +2 मीटर"
+        ],
+        "en": [
+          "Concave lens, f = −0.5 m",
+          "Convex lens, f = +0.5 m",
+          "Concave lens, f = −2 m",
+          "Convex lens, f = +2 m"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "f = 1/P = 1/(−0.5) = −2 मीटर; ऋणात्मक f ⇒ अवतल।",
+        "en": "f = 1/P = 1/(−0.5) = −2 m; negative f ⇒ concave."
+      }
+    },
+    {
+      "id": "phy8_q248",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी उत्तल लेंस में वस्तु 15 सेमी पर रखने पर प्रतिबिंब 30 सेमी पर बनता है। लेंस की फोकस दूरी कितनी है?",
+        "en": "For a convex lens, an object at 15 cm gives an image at 30 cm. What is the focal length?"
+      },
+      "options": {
+        "hi": [
+          "15 सेमी",
+          "30 सेमी",
+          "45 सेमी",
+          "10 सेमी"
+        ],
+        "en": [
+          "15 cm",
+          "30 cm",
+          "45 cm",
+          "10 cm"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "1/f = 1/v − 1/u = 1/30 − (−1/15) = 1/30 + 1/15 = 1/10 ⇒ f = 10 सेमी।",
+        "en": "1/f = 1/v − 1/u = 1/30 + 1/15 = 1/10 ⇒ f = 10 cm."
+      }
+    },
+    {
+      "id": "phy8_q249",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "4 सेमी ऊँची वस्तु का प्रतिबिंब m = −2 से बनता है। प्रतिबिंब की ऊँचाई कितनी और कैसी होगी?",
+        "en": "A 4 cm tall object forms an image with m = −2. What is the image height and nature?"
+      },
+      "options": {
+        "hi": [
+          "8 सेमी, उल्टी",
+          "8 सेमी, सीधी",
+          "2 सेमी, उल्टी",
+          "4 सेमी, सीधी"
+        ],
+        "en": [
+          "8 cm, inverted",
+          "8 cm, erect",
+          "2 cm, inverted",
+          "4 cm, erect"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "h′ = m × h = −2 × 4 = −8 सेमी — ऋण उल्टन संकेत करता है।",
+        "en": "h′ = m × h = −2 × 4 = −8 cm — the negative sign means inverted."
+      }
+    },
+    {
+      "id": "phy8_q250",
+      "topic": "refraction-and-lenses",
+      "difficulty": "hard",
+      "question": {
+        "hi": "हीरे में प्रकाश की चाल लगभग 1.25 × 10^8 मीटर/सेकंड है। हीरे का अपवर्तनांक निकालिए।",
+        "en": "The speed of light in diamond is about 1.25 × 10^8 m/s. Find the refractive index of diamond."
+      },
+      "options": {
+        "hi": [
+          "3.0",
+          "2.4",
+          "1.25",
+          "0.42"
+        ],
+        "en": [
+          "3.0",
+          "2.4",
+          "1.25",
+          "0.42"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "n = 3 × 10^8 ÷ 1.25 × 10^8 = 2.4 (लगभग 2.42)।",
+        "en": "n = 3 × 10^8 ÷ 1.25 × 10^8 = 2.4 (about 2.42)."
+      }
+    },
+    {
+      "id": "phy8_q251",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश का विक्षेपण (dispersion) किसे कहते हैं?",
+        "en": "What is dispersion of light?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश का माध्यम बदलना",
+          "प्रकाश का सोखा जाना",
+          "श्वेत प्रकाश का अपने सात घटक रंगों में विभाजित होना",
+          "प्रकाश का दर्पण से लौटना"
+        ],
+        "en": [
+          "Light changing medium",
+          "Light being absorbed",
+          "The splitting of white light into its seven constituent colours",
+          "Light returning from a mirror"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रिज़्म श्वेत प्रकाश को सात रंगों में बाँट देता है।",
+        "en": "A prism splits white light into seven colours."
+      }
+    },
+    {
+      "id": "phy8_q252",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रिज़्म से गुज़रने पर श्वेत प्रकाश कितने रंगों में विभाजित होती है?",
+        "en": "Into how many colours does white light split on passing through a prism?"
+      },
+      "options": {
+        "hi": [
+          "पाँच",
+          "तीन",
+          "दस",
+          "सात"
+        ],
+        "en": [
+          "Five",
+          "Three",
+          "Ten",
+          "Seven"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बैंगनी, इंडिगो, नीला, हरा, पीला, नारंगी और लाल — सात रंग।",
+        "en": "Violet, indigo, blue, green, yellow, orange and red — seven in all."
+      }
+    },
+    {
+      "id": "phy8_q253",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "VIBGYOR किसका स्मरण-क्रम है?",
+        "en": "VIBGYOR is the memory order of what?"
+      },
+      "options": {
+        "hi": [
+          "स्पेक्ट्रम के रंग — बैंगनी से लाल तक",
+          "ग्रहों के नाम",
+          "तरंगों के प्रकार",
+          "लेंसों के प्रकार"
+        ],
+        "en": [
+          "The colours of the spectrum — violet to red",
+          "The names of planets",
+          "Types of waves",
+          "Types of lenses"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "V-I-B-G-Y-O-R: बैंगनी, इंडिगो, नीला, हरा, पीला, नारंगी, लाल।",
+        "en": "V-I-B-G-Y-O-R: violet, indigo, blue, green, yellow, orange, red."
+      }
+    },
+    {
+      "id": "phy8_q254",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्वेत प्रकाश वास्तव में क्या है?",
+        "en": "What exactly is white light?"
+      },
+      "options": {
+        "hi": [
+          "अदृश्य विकिरण",
+          "सात रंगों का मिश्रण",
+          "शुद्ध एक रंग",
+          "केवल नीली किरणें"
+        ],
+        "en": [
+          "Invisible radiation",
+          "A mixture of seven colours",
+          "A single pure colour",
+          "Only blue rays"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सभी सात रंग मिलकर श्वेत संवेदन देते हैं।",
+        "en": "All seven colours together give the sensation of white."
+      }
+    },
+    {
+      "id": "phy8_q255",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "इंद्रधनुष किस घटना का परिणाम है?",
+        "en": "A rainbow is the result of which phenomenon?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि का परावर्तन",
+          "प्रकाश का अवशोषण",
+          "जल की बूँदों द्वारा प्रकाश का विक्षेपण",
+          "प्रकाश का परावर्तन"
+        ],
+        "en": [
+          "Reflection of sound",
+          "Absorption of light",
+          "Dispersion of light by water droplets",
+          "Reflection of light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वर्षा की बूँदें छोटे प्रिज़्म की तरह व्यवहार करती हैं।",
+        "en": "Raindrops behave like tiny prisms."
+      }
+    },
+    {
+      "id": "phy8_q256",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रिज़्म में किस रंग का विचलन सबसे कम होता है?",
+        "en": "Which colour is deviated the least in a prism?"
+      },
+      "options": {
+        "hi": [
+          "बैंगनी",
+          "नीला",
+          "हरा",
+          "लाल"
+        ],
+        "en": [
+          "Violet",
+          "Blue",
+          "Green",
+          "Red"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लाल का विचलन न्यूनतम, बैंगनी का अधिकतम।",
+        "en": "Red is deviated least, violet most."
+      }
+    },
+    {
+      "id": "phy8_q257",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव नेत्र का लेंस किस प्रकार का होता है?",
+        "en": "What type of lens is the human eye lens?"
+      },
+      "options": {
+        "hi": [
+          "उत्तल (अभिसारी)",
+          "अवतल (अपसारी)",
+          "समतल",
+          "बाइकॉन्केव"
+        ],
+        "en": [
+          "Convex (converging)",
+          "Concave (diverging)",
+          "Plane",
+          "Biconcave"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नेत्र-लेंस जिली जैसा उत्तल लेंस है जो प्रतिबिंब रेटिना पर बनाता है।",
+        "en": "The eye lens is a convex, jelly-like lens that images onto the retina."
+      }
+    },
+    {
+      "id": "phy8_q258",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नेत्र में आइरिस (iris) का कार्य क्या है?",
+        "en": "What is the function of the iris in the eye?"
+      },
+      "options": {
+        "hi": [
+          "आँख को ठंडा रखना",
+          "पुतली (pupil) का आकार नियंत्रित करना",
+          "प्रतिबिंब बनाना",
+          "रंग पहचानना"
+        ],
+        "en": [
+          "To cool the eye",
+          "To control the size of the pupil",
+          "To form the image",
+          "To recognise colours"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आइरिस पुतली को फैलाती/सिकोड़ती है और प्रकाश-प्रवेश नियंत्रित करती है।",
+        "en": "The iris dilates/contracts the pupil, controlling light entry."
+      }
+    },
+    {
+      "id": "phy8_q259",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नेत्र की पुतली (pupil) का कार्य क्या है?",
+        "en": "What is the role of the pupil in the eye?"
+      },
+      "options": {
+        "hi": [
+          "रंग बताना",
+          "आँख घुमाना",
+          "नेत्र के भीतर प्रकाश का प्रवेश द्वार",
+          "प्रतिबिंब बनाना"
+        ],
+        "en": [
+          "To indicate colour",
+          "To rotate the eye",
+          "The aperture through which light enters the eye",
+          "To form the image"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पुतली वह छिद्र है जिससे प्रकाश नेत्र-लेंस तक पहुँचती है।",
+        "en": "The pupil is the hole through which light reaches the eye lens."
+      }
+    },
+    {
+      "id": "phy8_q260",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नेत्र में प्रतिबिंब कहाँ बनता है?",
+        "en": "Where is the image formed in the eye?"
+      },
+      "options": {
+        "hi": [
+          "आइरिस पर",
+          "पुतली पर",
+          "कॉर्निया पर",
+          "रेटिना पर"
+        ],
+        "en": [
+          "On the iris",
+          "On the pupil",
+          "On the cornea",
+          "On the retina"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "रेटिना नेत्र का पर्दा है — यहीं वास्तविक प्रतिबिंब बनता है।",
+        "en": "The retina is the eye's screen — the real image forms there."
+      }
+    },
+    {
+      "id": "phy8_q261",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निकट-दृष्टि दोष (myopia) में व्यक्ति को क्या स्पष्ट नहीं दिखता?",
+        "en": "In myopia (short-sightedness), what cannot be seen clearly?"
+      },
+      "options": {
+        "hi": [
+          "दूर की वस्तुएँ",
+          "पास की वस्तुएँ",
+          "कोई नहीं",
+          "केवल रंग"
+        ],
+        "en": [
+          "Distant objects",
+          "Nearby objects",
+          "Nothing at all",
+          "Only colours"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "निकट-दृष्टि में प्रतिबिंब रेटिना के सामने बनता है — दूर की वस्तुएँ धुँधली।",
+        "en": "In myopia the image forms in front of the retina — distant objects blur."
+      }
+    },
+    {
+      "id": "phy8_q262",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दीर्घ-दृष्टि दोष (hypermetropia) में क्या स्पष्ट नहीं दिखता?",
+        "en": "In hypermetropia (long-sightedness), what is not seen clearly?"
+      },
+      "options": {
+        "hi": [
+          "केवल रात में",
+          "पास की वस्तुएँ",
+          "दूर की वस्तुएँ",
+          "कोई नहीं"
+        ],
+        "en": [
+          "Only at night",
+          "Nearby objects",
+          "Distant objects",
+          "Nothing at all"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दीर्घ-दृष्टि में प्रतिबिंब रेटिना के पीछे बनता है — पास की वस्तुएँ धुँधली।",
+        "en": "In hypermetropia the image forms behind the retina — near objects blur."
+      }
+    },
+    {
+      "id": "phy8_q263",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निकट-दृष्टि दोष किस लेंस से सुधारा जाता है?",
+        "en": "Which lens corrects myopia?"
+      },
+      "options": {
+        "hi": [
+          "बाइफोकल",
+          "समतल",
+          "अवतल लेंस",
+          "उत्तल लेंस"
+        ],
+        "en": [
+          "A bifocal",
+          "A plane one",
+          "A concave lens",
+          "A convex lens"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अवतल लेंस किरणों को पहले बिखेरता है — प्रतिबिंब रेटिना पर आ जाता है।",
+        "en": "A concave lens diverges rays first — the image lands on the retina."
+      }
+    },
+    {
+      "id": "phy8_q264",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दीर्घ-दृष्टि दोष किस लेंस से सुधारा जाता है?",
+        "en": "Which lens corrects hypermetropia?"
+      },
+      "options": {
+        "hi": [
+          "अवतल लेंस",
+          "बाइफोकल",
+          "प्रिज़्म",
+          "उत्तल लेंस"
+        ],
+        "en": [
+          "A concave lens",
+          "A bifocal",
+          "A prism",
+          "A convex lens"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उत्तल लेंस अभिसारी बनाकर प्रतिबिंब रेटिना पर लाता है।",
+        "en": "A convex lens adds convergence to bring the image onto the retina."
+      }
+    },
+    {
+      "id": "phy8_q265",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दृष्टि का स्थायित्व (persistence of vision) कितने समय तक रहता है?",
+        "en": "How long does persistence of vision last?"
+      },
+      "options": {
+        "hi": [
+          "लगभग 1/16 सेकंड",
+          "1 सेकंड",
+          "1 मिनट",
+          "1/100 मिनट"
+        ],
+        "en": [
+          "About 1/16 of a second",
+          "1 second",
+          "1 minute",
+          "1/100 of a minute"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नेत्र पर प्रतिबिंब लगभग सोलहवें सेकंड तक बना रहता है।",
+        "en": "An image lingers on the eye for about a sixteenth of a second."
+      }
+    },
+    {
+      "id": "phy8_q266",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नेत्र का अंधबिंदु (blind spot) क्यों बनता है?",
+        "en": "Why does the blind spot of the eye exist?"
+      },
+      "options": {
+        "hi": [
+          "वहाँ आँसू बनते हैं",
+          "वहाँ दृश्य-कोशिकाएँ (रॉड्स/कोन्स) नहीं होतीं — दृश्य तंत्रिका वहाँ से निकलती है",
+          "वहाँ प्रकाश नहीं पहुँचती",
+          "वहाँ लेंस होता है"
+        ],
+        "en": [
+          "Tears form there",
+          "It has no visual cells (rods/cones) — the optic nerve leaves there",
+          "Light never reaches there",
+          "The lens is located there"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दृश्य तंत्रिका-निकास पर कोशिकाएँ अनुपस्थित — कोई दृष्टि नहीं।",
+        "en": "At the optic-nerve exit there are no receptor cells — no vision."
+      }
+    },
+    {
+      "id": "phy8_q267",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नेत्र-लेंस की फोकस दूरी बदलने की क्षमता को क्या कहते हैं?",
+        "en": "What is the ability of the eye lens to change its focal length called?"
+      },
+      "options": {
+        "hi": [
+          "स्थायित्व",
+          "अपवर्तन",
+          "अनुकूलन (accommodation)",
+          "विक्षेपण"
+        ],
+        "en": [
+          "Persistence",
+          "Refraction",
+          "Accommodation",
+          "Not accommodation — dispersion"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सिलियरी मांसपेशियाँ लेंस की वक्रता बदलकर फोकस दूरी बदलती हैं।",
+        "en": "Ciliary muscles change lens curvature to alter the focal length."
+      }
+    },
+    {
+      "id": "phy8_q268",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नेत्र में रंग देखने के लिए कौन-सी कोशिकाएँ उत्तरदायी हैं?",
+        "en": "Which cells are responsible for colour vision in the eye?"
+      },
+      "options": {
+        "hi": [
+          "दंड कोशिकाएँ (rods)",
+          "दोनों समान रूप से",
+          "कोर्निया कोशिकाएँ",
+          "शंकु कोशिकाएँ (cones)"
+        ],
+        "en": [
+          "Rod cells",
+          "Both equally",
+          "Cornea cells",
+          "Cone cells"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शंकु (कोन्स) तीव्र प्रकाश में रंग बताते हैं; दंड (रॉड्स) मद्धम प्रकाश में देखते हैं।",
+        "en": "Cones handle colour in bright light; rods handle dim light."
+      }
+    },
+    {
+      "id": "phy8_q269",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मद्धम/कम प्रकाश में देखने के लिए कौन-सी कोशिकाएँ कार्य करती हैं?",
+        "en": "Which cells work in dim light?"
+      },
+      "options": {
+        "hi": [
+          "दंड कोशिकाएँ (rods)",
+          "शंकु कोशिकाएँ (cones)",
+          "अंधबिंदु कोशिकाएँ",
+          "कोई नहीं"
+        ],
+        "en": [
+          "Rod cells",
+          "Cone cells",
+          "Blind-spot cells",
+          "None"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रॉड्स अत्यल्प प्रकाश में भी संवेदन देते हैं पर रंग नहीं बताते।",
+        "en": "Rods sense very little light but cannot tell colours."
+      }
+    },
+    {
+      "id": "phy8_q270",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फिल्म देखते समय अलग-अलग स्थिर चित्र चलते हुए क्यों प्रतीत होते हैं?",
+        "en": "Why do still pictures in a film appear to move?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश के रंग बदलने से",
+          "दृष्टि के स्थायित्व से आँख चित्रों को जोड़ देती है",
+          "पर्दे की गति से",
+          "ध्वनि के प्रभाव से"
+        ],
+        "en": [
+          "Colours of light change",
+          "Persistence of vision makes the eye blend the frames",
+          "The screen moves",
+          "The sound effect"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1/16 सेकंड तक टिकी प्रतिबिंब अगले चित्र से जुड़ जाती है।",
+        "en": "The 1/16 s lingering image merges with the next frame."
+      }
+    },
+    {
+      "id": "phy8_q271",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रिज़्म में बैंगनी रंग का विचलन लाल से अधिक क्यों होता है?",
+        "en": "Why is violet deviated more than red in a prism?"
+      },
+      "options": {
+        "hi": [
+          "लाल सबसे धीमी चलती है",
+          "बैंगनी भारी होती है",
+          "बैंगनी का अपवर्तनांक सर्वाधिक होता है, इसलिए वह सबसे अधिक मुड़ती है",
+          "बैंगनी सबसे तेज़ चलती है"
+        ],
+        "en": [
+          "Red travels slowest",
+          "Violet is heavier",
+          "Violet has the highest refractive index, so it bends the most",
+          "Violet travels fastest"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "काँच में बैंगनी की चाल न्यूनतम — विचलन अधिकतम।",
+        "en": "Violet is slowest in glass — hence maximum deviation."
+      }
+    },
+    {
+      "id": "phy8_q272",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो समरूप प्रिज़्म उल्टे क्रम में रखने पर स्पेक्ट्रम से क्या प्राप्त होता है?",
+        "en": "What do we get when two identical prisms are placed in inverted order after one another?"
+      },
+      "options": {
+        "hi": [
+          "दुगुना स्पेक्ट्रम",
+          "केवल लाल प्रकाश",
+          "अंधकार",
+          "पुनः श्वेत प्रकाश"
+        ],
+        "en": [
+          "A doubled spectrum",
+          "Only red light",
+          "Darkness",
+          "White light again"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पहला प्रिज़्म बाँटता है, दूसरा उसी क्रम में जोड़ देता है — न्यूटन का प्रयोग।",
+        "en": "The first prism splits, the second recombines — Newton's experiment."
+      }
+    },
+    {
+      "id": "phy8_q273",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्राथमिक इंद्रधनुष में बाहरी वृत्त पर कौन-सा रंग होता है?",
+        "en": "Which colour lies on the outer edge of a primary rainbow?"
+      },
+      "options": {
+        "hi": [
+          "लाल",
+          "बैंगनी",
+          "नीला",
+          "हरा"
+        ],
+        "en": [
+          "Red",
+          "Violet",
+          "Blue",
+          "Green"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लाल का विचलन न्यूनतम — इसलिए वह चाप के बाहरी भाग पर दिखता है।",
+        "en": "Red deviates least — hence it appears on the outer arc."
+      }
+    },
+    {
+      "id": "phy8_q274",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "इंद्रधनुष देखने के लिए सूर्य कहाँ होना चाहिए?",
+        "en": "Where should the sun be for a rainbow to be seen?"
+      },
+      "options": {
+        "hi": [
+          "कहीं भी",
+          "देखने वाले की पीठ के पीछे",
+          "देखने वाले के सामने",
+          "ठीक ऊपर सिर पर"
+        ],
+        "en": [
+          "Anywhere",
+          "Behind the viewer",
+          "In front of the viewer",
+          "Exactly overhead"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रकाश पीछे से आकर बूँदों में विक्षेपित होकर दर्शक की ओर लौटती है।",
+        "en": "Light from behind disperses in droplets and returns to the viewer."
+      }
+    },
+    {
+      "id": "phy8_q275",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निकट-दृष्टि दोष में दूर की वस्तु का प्रतिबिंब कहाँ बनता है?",
+        "en": "In myopia, where is the image of a distant object formed?"
+      },
+      "options": {
+        "hi": [
+          "रेटिना के पीछे",
+          "अंधबिंदु पर",
+          "रेटिना के सामने",
+          "रेटिना पर"
+        ],
+        "en": [
+          "Behind the retina",
+          "On the blind spot",
+          "In front of the retina",
+          "On the retina"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अति-अभिसरण के कारण प्रतिबिंब रेटिना से पहले बन जाता है।",
+        "en": "Excess convergence forms the image before the retina."
+      }
+    },
+    {
+      "id": "phy8_q276",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दीर्घ-दृष्टि दोष में पास की वस्तु का प्रतिबिंब कहाँ बनता है?",
+        "en": "In hypermetropia, where is the image of a near object formed?"
+      },
+      "options": {
+        "hi": [
+          "रेटिना पर",
+          "रेटिना के सामने",
+          "पुतली पर",
+          "रेटिना के पीछे"
+        ],
+        "en": [
+          "On the retina",
+          "In front of the retina",
+          "On the pupil",
+          "Behind the retina"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अभिसरण कमी के कारण प्रतिबिंब रेटिना के पीछे बनता है।",
+        "en": "Insufficient convergence forms the image behind the retina."
+      }
+    },
+    {
+      "id": "phy8_q277",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निकट-दृष्टि दोष के दो कारण बताइए।",
+        "en": "State two causes of myopia."
+      },
+      "options": {
+        "hi": [
+          "नेत्र-गोला अत्यधिक लंबा या लेंस की वक्रता अत्यधिक",
+          "नेत्र-गोला छोटा या लेंस बहुत पतला",
+          "आँसू की कमी",
+          "रॉड्स की कमी"
+        ],
+        "en": [
+          "Excessive eyeball length or excessive curvature of the lens",
+          "Short eyeball or too thin a lens",
+          "Deficiency of tears",
+          "Deficiency of rods"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दोनों स्थितियों में अभिसरण बढ़ जाता है — प्रतिबिंब आगे बनता है।",
+        "en": "Both increase convergence — the image forms too early."
+      }
+    },
+    {
+      "id": "phy8_q278",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वृद्धावस्था में उत्पन्न दोष जिसमें लेंस की लोच घट जाती है, क्या कहलाता है?",
+        "en": "The defect of old age in which the lens loses elasticity is called?"
+      },
+      "options": {
+        "hi": [
+          "रंग-अंधता",
+          "वृद्ध-दृष्टि (presbyopia)",
+          "निकट-दृष्टि",
+          "दीर्घ-दृष्टि"
+        ],
+        "en": [
+          "Colour blindness",
+          "Presbyopia",
+          "Myopia",
+          "Hypermetropia"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सिलियरी मांसपेशियों का दुर्बल होना भी कारण है — बाइफोकल लेंस से सुधार।",
+        "en": "Weakening ciliary muscles also contribute — corrected with bifocals."
+      }
+    },
+    {
+      "id": "phy8_q279",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बाइफोकल लेंस में निचला भाग किस प्रकार का होता है और क्यों?",
+        "en": "What is the lower part of a bifocal lens and why?"
+      },
+      "options": {
+        "hi": [
+          "समतल — सजावट",
+          "प्रिज़्म — विक्षेपण के लिए",
+          "उत्तल — पास का काम (पढ़ना) सपष्ट करने के लिए",
+          "अवतल — दूर देखने के लिए"
+        ],
+        "en": [
+          "Plane — decorative",
+          "Prism — for dispersion",
+          "Convex — to make near work (reading) clear",
+          "Concave — for distance vision"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "नीचे के भाग से पढ़ते समय आँख नीचे देखती है; उत्तल भाग पास को स्पष्ट करता है।",
+        "en": "While reading the eye looks through the bottom; the convex part clarifies near vision."
+      }
+    },
+    {
+      "id": "phy8_q280",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नेत्र का न्यूनतम दृष्टि-दूरी (सुस्पष्ट देखने की न्यूनतम दूरी) कितनी होती है?",
+        "en": "What is the least distance of distinct vision for a normal eye?"
+      },
+      "options": {
+        "hi": [
+          "2.5 सेमी",
+          "250 सेमी",
+          "अनंत",
+          "25 सेमी"
+        ],
+        "en": [
+          "2.5 cm",
+          "250 cm",
+          "Infinity",
+          "25 cm"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सामान्य नेत्र 25 सेमी से नज़दीक की वस्तु सुस्पष्ट नहीं देख सकता।",
+        "en": "A normal eye cannot focus clearly closer than 25 cm."
+      }
+    },
+    {
+      "id": "phy8_q281",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेटिना पर बनने वाला प्रतिबिंब कैसा होता है?",
+        "en": "What is the image formed on the retina like?"
+      },
+      "options": {
+        "hi": [
+          "वास्तविक, उल्टा, छोटा",
+          "आभासी, सीधा, छोटा",
+          "वास्तविक, सीधा",
+          "आभासी, उल्टा, बड़ा"
+        ],
+        "en": [
+          "Real, inverted, diminished",
+          "Virtual, erect, small",
+          "Real, erect",
+          "Virtual, inverted, enlarged"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नेत्र-लेंस उत्तल है — प्रतिबिंब वास्तविक और उल्टा बनता है; मस्तिष्क उसे सीधा अनुभव कराता है।",
+        "en": "The convex eye lens forms a real, inverted image; the brain interprets it upright."
+      }
+    },
+    {
+      "id": "phy8_q282",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कोई व्यक्ति केवल 2 मीटर तक की वस्तुएँ स्पष्ट देख सकता है। उसके लिए सुधार-लेंस की फोकस दूरी और क्षमता क्या होगी?",
+        "en": "A person sees clearly only up to 2 m. What are the focal length and power of the correcting lens?"
+      },
+      "options": {
+        "hi": [
+          "f = 25 सेमी, P = +4 डाइऑप्टर",
+          "f = −2 मीटर, P = −0.5 डाइऑप्टर (अवतल)",
+          "f = +2 मीटर, P = +0.5 डाइऑप्टर",
+          "f = −0.5 मीटर, P = −2 डाइऑप्टर"
+        ],
+        "en": [
+          "f = 25 cm, P = +4 D",
+          "f = −2 m, P = −0.5 D (concave)",
+          "f = +2 m, P = +0.5 D",
+          "f = −0.5 m, P = −2 D"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अनंत की वस्तु को दूर-बिंदु 2 मीटर पर प्रतिबिंब बनाना है: f = −2 मीटर; P = 1/(−2) = −0.5 डाइऑप्टर।",
+        "en": "Distant objects must image at the 2 m far point: f = −2 m; P = 1/(−2) = −0.5 D."
+      }
+    },
+    {
+      "id": "phy8_q283",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी दीर्घ-दृष्टि दोष वाले व्यक्ति की निकट-बिंदु 50 सेमी है। 25 सेमी की पुस्तक पढ़ने के लिए आवश्यक लेंस की क्षमता निकालिए।",
+        "en": "A hypermetropic person has a near point of 50 cm. Find the power of the lens needed to read a book at 25 cm."
+      },
+      "options": {
+        "hi": [
+          "+0.5 डाइऑप्टर",
+          "+4 डाइऑप्टर",
+          "+2 डाइऑप्टर उत्तल",
+          "−2 डाइऑप्टर अवतल"
+        ],
+        "en": [
+          "+0.5 D",
+          "+4 D",
+          "+2 D convex",
+          "−2 D concave"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "u = −25, v = −50: 1/f = 1/(−50) − 1/(−25) = −1/50 + 1/25 = 1/50 ⇒ f = +50 सेमी; P = +2 डाइऑप्टर।",
+        "en": "u = −25, v = −50: 1/f = −1/50 + 1/25 = 1/50 ⇒ f = +50 cm; P = +2 D."
+      }
+    },
+    {
+      "id": "phy8_q284",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सामान्य नेत्र द्वारा दूर की वस्तु देखते समय लेंस कैसा हो जाता है?",
+        "en": "What happens to the eye lens when viewing distant objects?"
+      },
+      "options": {
+        "hi": [
+          "मोटा — फोकस दूरी घटती है",
+          "बिल्कुल नहीं बदलता",
+          "गोल होकर हट जाता है",
+          "पतला — फोकस दूरी बढ़ती है"
+        ],
+        "en": [
+          "It becomes thicker — focal length decreases",
+          "It does not change at all",
+          "It rounds off and shifts",
+          "It becomes thinner — focal length increases"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सिलियरी मांसपेशियाँ शिथिल होती हैं — लेंस पतला, अभिसरण कम।",
+        "en": "Ciliary muscles relax — the lens thins and converges less."
+      }
+    },
+    {
+      "id": "phy8_q285",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पास की वस्तु देखते समय नेत्र-लेंस की वक्रता कैसी होती है?",
+        "en": "What is the curvature of the eye lens like when viewing near objects?"
+      },
+      "options": {
+        "hi": [
+          "बढ़ती है — फोकस दूरी घटती है",
+          "घटती है",
+          "स्थिर रहती है",
+          "शून्य हो जाती है"
+        ],
+        "en": [
+          "It increases — focal length decreases",
+          "It decreases",
+          "It stays constant",
+          "It becomes zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मांसपेशियाँ सिकुड़ती हैं — लेंस मोटा, वक्रता अधिक।",
+        "en": "The muscles contract — the lens thickens with more curvature."
+      }
+    },
+    {
+      "id": "phy8_q286",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रकाश की तीव्रता अधिक होने पर पुतली का आकार कैसा होता है?",
+        "en": "What happens to the pupil size in intense light?"
+      },
+      "options": {
+        "hi": [
+          "बंद हो जाती है",
+          "सिकुड़ती है",
+          "फैलती है",
+          "अपरिवर्तित रहती है"
+        ],
+        "en": [
+          "It closes fully",
+          "It contracts",
+          "It dilates",
+          "It remains unchanged"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आइरिस पुतली सिकुड़कर प्रकाश-प्रवेश घटाती है — नेत्र-सुरक्षा।",
+        "en": "The iris shrinks the pupil, cutting light entry to protect the eye."
+      }
+    },
+    {
+      "id": "phy8_q287",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कम प्रकाश (रात) में पुतली का आकार क्यों बड़ा हो जाता है?",
+        "en": "Why does the pupil enlarge in dim light (at night)?"
+      },
+      "options": {
+        "hi": [
+          "आँख बंद करने के लिए",
+          "रंग बदलने के लिए",
+          "अधिक प्रकाश भीतर लेने के लिए",
+          "प्रकाश रोकने के लिए"
+        ],
+        "en": [
+          "To close the eye",
+          "To change colour",
+          "To let more light in",
+          "To block light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फैली पुतली अधिक किरणें एकत्र करती है — मद्धम में भी दृश्य।",
+        "en": "A dilated pupil gathers more rays — vision even in dim light."
+      }
+    },
+    {
+      "id": "phy8_q288",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नेत्र-गोले में प्रवेश करती प्रकाश का सबसे पहला और सबसे बड़ा अपवर्तन कहाँ होता है?",
+        "en": "Where does the first and largest refraction of entering light occur in the eye?"
+      },
+      "options": {
+        "hi": [
+          "रेटिना पर",
+          "पुतली पर",
+          "अंधबिंदु पर",
+          "कॉर्निया पर"
+        ],
+        "en": [
+          "At the retina",
+          "At the pupil",
+          "At the blind spot",
+          "At the cornea"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कॉर्निया-वायु सीमा पर चांगुल अंतर से सबसे अधिक विचलन।",
+        "en": "The cornea-air boundary bends light the most, owing to the big index gap."
+      }
+    },
+    {
+      "id": "phy8_q289",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्पेक्ट्रम के बैंगनी सिरे के पार का विकिरण क्या कहलाता है जो दृश्य नहीं होता?",
+        "en": "What is the radiation just beyond the violet end of the spectrum called?"
+      },
+      "options": {
+        "hi": [
+          "पराबैंगनी (UV)",
+          "अवरक्त",
+          "एक्स-रे",
+          "माइक्रोवेव"
+        ],
+        "en": [
+          "Ultraviolet",
+          "Infrared",
+          "X-ray",
+          "Microwave"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बैंगनी से आगे पराबैंगनी; लाल से आगे अवरक्त — दोनों अदृश्य।",
+        "en": "Beyond violet lies ultraviolet; beyond red, infrared — both invisible."
+      }
+    },
+    {
+      "id": "phy8_q290",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लाल सिरे के पार का अदृश्य विकिरण जिससे गर्मी अनुभव होती है, क्या है?",
+        "en": "What is the invisible radiation beyond the red end that is felt as heat?"
+      },
+      "options": {
+        "hi": [
+          "रेडियो तरंग",
+          "अवरक्त (infrared)",
+          "पराबैंगनी",
+          "गामा"
+        ],
+        "en": [
+          "Radio waves",
+          "Infrared",
+          "Ultraviolet",
+          "Gamma"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अवरक्त विकिरण ऊष्मा का संवेदन देता है — दूरस्थ संवेदक इसी पर आधारित।",
+        "en": "Infrared radiation gives the sensation of heat — remote sensors use it."
+      }
+    },
+    {
+      "id": "phy8_q291",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सामान्य नेत्र की दूर-बिंदु (far point) कहाँ मानी जाती है?",
+        "en": "Where is the far point of a normal eye taken to be?"
+      },
+      "options": {
+        "hi": [
+          "1 मीटर",
+          "50 सेमी",
+          "अनंत",
+          "25 सेमी"
+        ],
+        "en": [
+          "1 metre",
+          "50 cm",
+          "At infinity",
+          "25 cm"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सामान्य नेत्र अनंत तक की वस्तु भी रेटिना पर केंद्रित कर लेता है।",
+        "en": "A normal eye can focus even objects at infinity on the retina."
+      }
+    },
+    {
+      "id": "phy8_q292",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चिड़िया घर में पक्षी तालाब के पानी में मछली को देखकर चोंच मारता है पर छूट जाती है। कारण बताइए।",
+        "en": "A bird dives at a fish seen in a pond but misses. Give the reason."
+      },
+      "options": {
+        "hi": [
+          "मछली बहुत तेज़ तैरती है",
+          "पक्षी की आँख कमज़ोर है",
+          "पानी में परावर्तन नहीं होता",
+          "अपवर्तन से मछली वास्तविक स्थान से ऊपर दिखती है"
+        ],
+        "en": [
+          "The fish swims too fast",
+          "The bird's eyes are weak",
+          "No reflection occurs in water",
+          "Refraction makes the fish appear above its real position"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जल-वायु सीमा पर अपवर्तन — आभासी स्थिति वास्तविक से ऊपर।",
+        "en": "Refraction at the water-air surface — the apparent position is above the real one."
+      }
+    },
+    {
+      "id": "phy8_q293",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी निकट-दृष्टि दोष वाले व्यक्ति की दूर-बिंदु 1.5 मीटर है। सुधार-लेंस की क्षमता लगभग कितनी होगी?",
+        "en": "A myopic person has a far point of 1.5 m. What is the approximate power of the correcting lens?"
+      },
+      "options": {
+        "hi": [
+          "−0.67 डाइऑप्टर",
+          "−1.5 डाइऑप्टर",
+          "+0.67 डाइऑप्टर",
+          "+1.5 डाइऑप्टर"
+        ],
+        "en": [
+          "−0.67 D",
+          "−1.5 D",
+          "+0.67 D",
+          "+1.5 D"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "f = −1.5 मीटर; P = 1/(−1.5) ≈ −0.67 डाइऑप्टर।",
+        "en": "f = −1.5 m; P = 1/(−1.5) ≈ −0.67 D."
+      }
+    },
+    {
+      "id": "phy8_q294",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी दीर्घ-दृष्टि दोष वाले व्यक्ति की निकट-बिंदु 1 मीटर है। 25 सेमी पर पढ़ने हेतु लेंस की क्षमता कितनी चाहिए?",
+        "en": "A hypermetropic person has a near point of 1 m. What power is needed to read at 25 cm?"
+      },
+      "options": {
+        "hi": [
+          "−3 डाइऑप्टर",
+          "+3 डाइऑप्टर",
+          "+1 डाइऑप्टर",
+          "+4 डाइऑप्टर"
+        ],
+        "en": [
+          "−3 D",
+          "+3 D",
+          "+1 D",
+          "+4 D"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "u = −25, v = −100: 1/f = −1/100 + 1/25 = 3/100 ⇒ f = 33.3 सेमी; P = 100/33.3 = +3 डाइऑप्टर।",
+        "en": "u = −25, v = −100: 1/f = −1/100 + 1/25 = 3/100 ⇒ f = 33.3 cm; P = +3 D."
+      }
+    },
+    {
+      "id": "phy8_q295",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बाइफोकल लेंस किस दोष-युग्म के सुधार में प्रयुक्त होता है और उसका ऊपरी भाग कैसा होता है?",
+        "en": "Which combined defect does a bifocal lens correct, and what is its upper part?"
+      },
+      "options": {
+        "hi": [
+          "रंग-अंधता — ऊपरी भाग प्रिज़्म",
+          "अंधबिंदु — ऊपरी भाग समतल",
+          "वृद्ध-दृष्टि (प्रेस्बायोपिया) — ऊपरी भाग दूर-दृष्टि हेतु अवतल/कम क्षमता",
+          "निकट-दृष्टि — ऊपरी भाग उत्तल"
+        ],
+        "en": [
+          "Colour blindness — the upper part is a prism",
+          "Blind spot — the upper part is plane",
+          "Presbyopia — the upper part (distance vision) is concave/weaker",
+          "Myopia — the upper part is convex"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऊपरी भाग दूर देखने के लिए (अवतल यदि निकट-दृष्टि भी हो), निचला उत्तल पढ़ने के लिए।",
+        "en": "The upper segment serves distance (concave if also myopic), the lower convex serves reading."
+      }
+    },
+    {
+      "id": "phy8_q296",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "hard",
+      "question": {
+        "hi": "नेत्र-लेंस और कैमरे के तुल्य अंगों का सही युग्म चुनिए।",
+        "en": "Choose the correct pair of analogous parts of the eye lens system and a camera."
+      },
+      "options": {
+        "hi": [
+          "रेटिना-शटर, पुतली-फिल्म, कॉर्निया-ट्राइपॉड",
+          "अंधबिंदु-एपर्चर, आइरिस-फिल्म",
+          "लेंस-बैटरी, रेटिना-लेंस",
+          "रेटिना-फिल्म, पुतली-एपर्चर, नेत्र-लेंस-कैमरा लेंस"
+        ],
+        "en": [
+          "Retina-shutter, pupil-film, cornea-tripod",
+          "Blind spot-aperture, iris-film",
+          "Lens-battery, retina-lens",
+          "Retina-film, pupil-aperture, eye lens-camera lens"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "रेटिना = फिल्म/सेंसर; पुतली = एपर्चर; नेत्र-लेंस = ऑब्जेक्टिव लेंस।",
+        "en": "Retina = film/sensor; pupil = aperture; eye lens = objective lens."
+      }
+    },
+    {
+      "id": "phy8_q297",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "hard",
+      "question": {
+        "hi": "प्रिज़्म से श्वेत प्रकाश गुज़रती है। स्क्रीन पर बैंगनी और लाल किनारों की स्थिति आधार के सापेक्ष बताइए।",
+        "en": "White light passes through a prism. State the positions of the violet and red edges at the base."
+      },
+      "options": {
+        "hi": [
+          "बैंगनी प्रिज़्म के आधार की ओर अधिक झुकती है; लाल सबसे कम झुकती है",
+          "लाल आधार की ओर अधिक झुकती है",
+          "दोनों समान झुकती हैं",
+          "कोई झुकती नहीं"
+        ],
+        "en": [
+          "Violet bends most towards the base of the prism; red bends least",
+          "Red bends most towards the base",
+          "Both bend equally",
+          "Neither bends"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अधिक अपवर्तनांक वाला बैंगनी आधार की ओर सर्वाधिक विचलित होता है।",
+        "en": "Violet, with the highest index, deviates most towards the base."
+      }
+    },
+    {
+      "id": "phy8_q298",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "hard",
+      "question": {
+        "hi": "नेत्र-प्रतिबिंब रेटिना पर बनता है पर हम वस्तु सीधी देखते हैं। इसकी व्याख्या बताइए।",
+        "en": "The retinal image is inverted, yet we see objects upright. Explain."
+      },
+      "options": {
+        "hi": [
+          "पुतली प्रतिबिंब घुमा देती है",
+          "मस्तिष्क उल्टे प्रतिबिंब की व्याख्या उलटकर करता है — अनुभव सीखा हुआ/तंत्रिका-प्रक्रिया है",
+          "रेटिना प्रतिबिंब को पहले सीधा करती है",
+          "लेंस दो बार उल्टता है"
+        ],
+        "en": [
+          "The pupil rotates the image",
+          "The brain interprets the inverted image the right way up — a learned neural process",
+          "The retina first erects the image",
+          "The lens inverts it twice"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मस्तिष्क में प्रतिबिंब-प्रसंस्करण से सीधा अनुभव बनता है।",
+        "en": "Image processing in the brain creates the upright experience."
+      }
+    },
+    {
+      "id": "phy8_q299",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सिनेमा की पर्दे पर प्रति सेकंड आमतौर पर 24 चित्र दिखाए जाते हैं। निरंतर गति का अनुभव किस सिद्धांत से होता है और 1/16 सेकंड से इसका संबंध क्या है?",
+        "en": "Cinema shows 24 frames per second. Which principle gives continuous motion, and how does it relate to 1/16 s?"
+      },
+      "options": {
+        "hi": [
+          "अपवर्तन: किरणें झुकती हैं",
+          "अनुकूलन: लेंस बदलता है",
+          "दृष्टि स्थायित्व: प्रत्येक चित्र 1/16 सेकंड से कम समय बदलता है, अतः अगला चित्र पिछले से जुड़ जाता है",
+          "विक्षेपण: रंग जुड़ते हैं"
+        ],
+        "en": [
+          "Refraction: rays bend",
+          "Accommodation: the lens changes",
+          "Persistence of vision: each frame changes in less than 1/16 s, so it merges with the next",
+          "Dispersion: colours merge"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "24 चित्र/सेकंड ⇒ अंतराल ≈ 0.042 सेकंड, जो 1/16 ≈ 0.0625 सेकंड से कम है — चित्र अविच्छिन्न जुड़ते हैं।",
+        "en": "24 fps ⇒ interval ≈ 0.042 s, below 1/16 ≈ 0.0625 s — frames join seamlessly."
+      }
+    },
+    {
+      "id": "phy8_q300",
+      "topic": "dispersion-and-human-eye",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी व्यक्ति को दूर और पास — दोनों दृष्टियों में दिक्कत है और उम्र 60 वर्ष है। सर्वाधिक संभावित दोष और सुधार बताइए।",
+        "en": "A 60-year-old has trouble with both distant and near vision. State the most likely defect and its correction."
+      },
+      "options": {
+        "hi": [
+          "केवल निकट-दृष्टि — अवतल लेंस",
+          "केवल दीर्घ-दृष्टि — उत्तल लेंस",
+          "रंग-अंधता — कोई लेंस नहीं",
+          "वृद्ध-दृष्टि (प्रेस्बायोपिया) — बाइफोकल लेंस"
+        ],
+        "en": [
+          "Only myopia — concave lens",
+          "Only hypermetropia — convex lens",
+          "Colour blindness — no lens",
+          "Presbyopia — bifocal lenses"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लेंस लोच क्षीण होने से अनुकूलन क्षमता घटती है — दोनों दूरियों में धुँधलापन; बाइफोकल उपाय।",
+        "en": "Loss of lens elasticity cuts accommodation — blur at both ranges; bifocals help."
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-07",
+  "chapterNumber": 7,
+  "code": "C07",
+  "chapterName": {
+    "hi": "रासायनिक अभिक्रियाएँ एवं समीकरण",
+    "en": "Chemical Reactions & Equations"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "रासायनिक अभिक्रिया में अभिकारक नए उत्पाद में बदलते हैं और इसे संतुलित रासायनिक समीकरण से दर्शाया जाता है जिसमें दोनों ओर प्रत्येक तत्व के परमाणु समान होते हैं। अभिक्रियाएँ संयोजन, अपघटन, विस्थापन और द्विविस्थापन प्रकारों में बाँटी जाती हैं।",
+      "example": "चूने के पानी में CO₂ डालने पर दूधिया होना (CaCO₃) अभिक्रिया होने का संकेत है।",
+      "sections": [
+        {
+          "heading": "समीकरण लेखन एवं संतुलन",
+          "content": "अभिकारक → उत्पाद; द्रव्यमान संरक्षण के अनुसार दोनों पक्षों के परमाणु बराबर रखना आवश्यक है।"
+        },
+        {
+          "heading": "संयोजन एवं अपघटन",
+          "content": "संयोजन में दो पदार्थ मिलकर एक बनते हैं (CaO + H₂O → Ca(OH)₂); अपघटन में एक पदार्थ टूटता है (CaCO₃ → CaO + CO₂)।"
+        },
+        {
+          "heading": "विस्थापन एवं द्विविस्थापन",
+          "content": "अधिक क्रियाशील तत्व कम क्रियाशील को हटाता है (Fe + CuSO₄); द्विविस्थापन में आयनों का आदान-प्रदान होता है (AgNO₃ + NaCl → AgCl)।"
+        },
+        {
+          "heading": "उष्माक्षेपी-उष्माशोषी, ऑक्सीकरण-अपचयन",
+          "content": "ऊर्जा उत्सर्जन/अवशोषण; ऑक्सीजन प्राप्ति = ऑक्सीकरण, हानि = अपचयन; जंग और मोचन इसी के उदाहरण हैं।"
+        }
+      ],
+      "keyPoints": [
+        "संतुलित समीकरण में दोनों ओर परमाणु संख्या समान होती है",
+        "अभिक्रिया के संकेत — रंग परिवर्तन, गैस, अवक्षेप, ताप परिवर्तन",
+        "संयोजन: A + B → AB; अपघटन: AB → A + B",
+        "विस्थापन में क्रियाशीलता क्रम महत्वपूर्ण है",
+        "द्विविस्थापन में अवक्षेप प्रायः बनता है",
+        "जीवन-प्रक्रियाएँ जैसे पाचन भी रासायनिक अभिक्रियाएँ हैं"
+      ],
+      "examFocus": [
+        "द्रव्यमान संरक्षण के अनुसार सरल समीकरण संतुलित करने का अभ्यास करें",
+        "चारों प्रकारों के एक-एक उदाहरण रटें",
+        "ऑक्सीकरण-अपचयन की परिभाषा स्पष्ट रखें"
+      ],
+      "examTraps": [
+        "तीर (→) के स्थान पर बराबर (=) न लिखें",
+        "सभी अभिक्रियाएँ उष्माक्षेपी नहीं होतीं — कुछ उष्माशोषी होती हैं"
+      ],
+      "thinkBeforeAnswer": [
+        "कोई पदार्थ ऑक्सीजन/हाइड्रोजन का आदान-प्रदान दिखाए तो रेडॉक्स सोचें",
+        "दो विलयन मिलकर अवक्षेप दें तो द्विविस्थापन चुनें"
+      ],
+      "memoryTricks": [
+        "संयोजन = 'जोड़ा' (join), अपघटन = 'टुकड़े' (break) — नाम से अर्थ याद रखें",
+        "'OIL RIG' — Oxidation Is Loss, Reduction Is Gain (इलेक्ट्रॉन)"
+      ],
+      "pyqSignals": [
+        "अभिक्रिया प्रकार पहचानने के प्रश्न बार-बार आते हैं",
+        "समीकरण संतुलन परीक्षा का सामान्य प्रश्न है"
+      ],
+      "mustRemember": [
+        "संतुलित समीकरण की शर्त",
+        "अभिक्रिया के चार प्रकार और उदाहरण",
+        "ऑक्सीकरण-अपचयन की परिभाषा",
+        "अभिक्रिया के संकेत"
+      ],
+      "quickRevision": "रासायनिक अभिक्रिया में अभिकारक उत्पाद में बदलते हैं और द्रव्यमान संरक्षण के अनुसार समीकरण संतुलित किया जाता है। अभिक्रियाएँ संयोजन, अपघटन, विस्थापन और द्विविस्थापन श्रेणियों में होती हैं। ऑक्सीकरण-अपचयन और उष्मा परिवर्तन भी अभिक्रिया के महत्वपूर्ण पहलू हैं।"
+    },
+    "en": {
+      "concept": "In a chemical reaction reactants change into new products, shown by a balanced chemical equation where atoms of every element are equal on both sides. Reactions are classified as combination, decomposition, displacement and double displacement.",
+      "example": "Lime water turning milky (CaCO₃) on passing CO₂ is a sign of a reaction.",
+      "sections": [
+        {
+          "heading": "Writing and Balancing",
+          "content": "Reactants → products; by conservation of mass, atoms on both sides must be equal."
+        },
+        {
+          "heading": "Combination and Decomposition",
+          "content": "In combination two substances form one (CaO + H₂O → Ca(OH)₂); in decomposition one breaks (CaCO₃ → CaO + CO₂)."
+        },
+        {
+          "heading": "Displacement and Double Displacement",
+          "content": "A more reactive element displaces a less reactive one (Fe + CuSO₄); in double displacement ions exchange (AgNO₃ + NaCl → AgCl)."
+        },
+        {
+          "heading": "Exothermic-Endothermic, Oxidation-Reduction",
+          "content": "Energy release or absorption; gain of oxygen = oxidation, loss = reduction; rusting and corrosion are examples."
+        }
+      ],
+      "keyPoints": [
+        "In a balanced equation atom counts are equal on both sides",
+        "Signs of reaction — colour change, gas, precipitate, temperature change",
+        "Combination: A + B → AB; decomposition: AB → A + B",
+        "Reactivity order matters in displacement",
+        "Double displacement usually forms a precipitate",
+        "Life processes like digestion are also chemical reactions"
+      ],
+      "examFocus": [
+        "Practise balancing simple equations by conservation of mass",
+        "Learn one example each of the four types",
+        "Keep the definitions of oxidation-reduction clear"
+      ],
+      "examTraps": [
+        "Do not use '=' in place of the arrow (→)",
+        "Not all reactions are exothermic — some absorb heat"
+      ],
+      "thinkBeforeAnswer": [
+        "Oxygen/hydrogen transfer points to redox",
+        "Two solutions giving a precipitate point to double displacement"
+      ],
+      "memoryTricks": [
+        "Combination = join, decomposition = break — remember by name",
+        "'OIL RIG' — Oxidation Is Loss, Reduction Is Gain of electrons"
+      ],
+      "pyqSignals": [
+        "Identifying reaction types is asked repeatedly",
+        "Balancing equations is a common exam task"
+      ],
+      "mustRemember": [
+        "Condition of a balanced equation",
+        "Four reaction types with examples",
+        "Definition of oxidation-reduction",
+        "Signs of a reaction"
+      ],
+      "quickRevision": "In chemical reactions reactants become products and equations are balanced by conservation of mass. Reactions are of combination, decomposition, displacement and double displacement types. Oxidation-reduction and heat changes are also key aspects."
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-05",
+  "chapterNumber": 5,
+  "code": "P05",
+  "chapterName": {
+    "hi": "कार्य, ऊर्जा एवं शक्ति",
+    "en": "Work, Energy & Power"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "जब बल लगाने पर वस्तु बल की दिशा में विस्थापित होती है तो कार्य होता है। ऊर्जा कार्य करने की क्षमता है और उसके मुख्य रूप गतिज तथा स्थितिज ऊर्जा हैं। शक्ति इकाई समय में किया गया कार्य है।",
+      "example": "ऊपर उठाई गई ईंट में स्थितिज ऊर्जा और गिरते समय गतिज ऊर्जा आती है — ऊर्जा संरक्षण का सरल उदाहरण।",
+      "sections": [
+        {
+          "heading": "कार्य",
+          "content": "W = F × s; जब विस्थापन शून्य हो या बल के लंबवत हो तो कार्य शून्य होता है। मात्रक जूल।"
+        },
+        {
+          "heading": "ऊर्जा के रूप",
+          "content": "गतिज ऊर्जा KE = ½mv²; स्थितिज ऊर्जा PE = mgh; ऊर्जा रूपांतरित हो सकती है परंतु नष्ट नहीं होती।"
+        },
+        {
+          "heading": "ऊर्जा संरक्षण",
+          "content": "ऊर्जा न तो उत्पन्न होती है न नष्ट — केवल रूप बदलती है; मुक्त पतन में PE और KE आपस में बदलती रहती हैं।"
+        },
+        {
+          "heading": "शक्ति",
+          "content": "P = कार्य/समय, मात्रक वाट; 1 अश्वशक्ति ≈ 746 वाट और विद्युत खपत की इकाई किलोवाट-घंटा है।"
+        }
+      ],
+      "keyPoints": [
+        "कार्य = बल × विस्थापन (बल की दिशा में)",
+        "बल लगाने पर भी विस्थापन शून्य हो तो कार्य शून्य",
+        "KE = ½mv² और PE = mgh",
+        "ऊर्जा संरक्षण का नियम रूपांतरण बताता है",
+        "शक्ति = कार्य/समय, मात्रक वाट",
+        "1 kWh विद्युत ऊर्जा की व्यावसायिक इकाई है"
+      ],
+      "examFocus": [
+        "KE और PE के सूत्रों से सरल संख्यात्मक प्रश्न हल करें",
+        "ऊर्जा-रूपांतरण की दैनिक उदाहरण-श्रृंखलाएँ लिखें",
+        "वाट और किलोवाट-घंटा में अंतर समझें"
+      ],
+      "examTraps": [
+        "बल लगाना ही कार्य नहीं — विस्थापन आवश्यक है",
+        "शक्ति और ऊर्जा भिन्न हैं — शक्ति ऊर्जा की दर है"
+      ],
+      "thinkBeforeAnswer": [
+        "'कार्य शून्य' के प्रश्न में विस्थापन की दिशा जाँचें",
+        "ऊर्जा की इकाई पूछी जाए तो जूल उत्तर है"
+      ],
+      "memoryTricks": [
+        "'W = Fs' और 'P = W/t' दोनों सूत्र जोड़ी में याद करें",
+        "KE में v का वर्ग है — वेग दोगुना तो KE चार गुना"
+      ],
+      "pyqSignals": [
+        "KE-PE रूपांतरण और संरक्षण पर प्रश्न आम हैं",
+        "कार्य और शक्ति के सूत्रों से संख्यात्मक प्रश्न आते हैं"
+      ],
+      "mustRemember": [
+        "कार्य की परिभाषा और शर्त",
+        "KE तथा PE के सूत्र",
+        "ऊर्जा संरक्षण का नियम",
+        "शक्ति की परिभाषा और मात्रक"
+      ],
+      "quickRevision": "बल की दिशा में विस्थापन होने पर कार्य W = Fs होता है। ऊर्जा कार्य करने की क्षमता है जिसके प्रमुख रूप गतिज (½mv²) और स्थितिज (mgh) हैं। ऊर्जा संरक्षण के नियम अनुसार ऊर्जा केवल रूप बदलती है। शक्ति कार्य की दर है जिसका मात्रक वाट है।"
+    },
+    "en": {
+      "concept": "Work is done when a force displaces an object in the direction of the force. Energy is the capacity to do work, its chief forms being kinetic and potential energy. Power is work done per unit time.",
+      "example": "A raised brick has potential energy and gains kinetic energy while falling — a simple example of energy conservation.",
+      "sections": [
+        {
+          "heading": "Work",
+          "content": "W = F × s; work is zero when displacement is zero or perpendicular to the force. Unit: joule."
+        },
+        {
+          "heading": "Forms of Energy",
+          "content": "Kinetic energy KE = ½mv²; potential energy PE = mgh; energy changes form but is never destroyed."
+        },
+        {
+          "heading": "Conservation of Energy",
+          "content": "Energy can neither be created nor destroyed, only transformed; in free fall PE and KE keep interconverting."
+        },
+        {
+          "heading": "Power",
+          "content": "P = work/time, unit watt; 1 horsepower ≈ 746 watts and kilowatt-hour is the commercial unit of electricity."
+        }
+      ],
+      "keyPoints": [
+        "Work = force × displacement (in the direction of force)",
+        "Force with zero displacement means zero work",
+        "KE = ½mv² and PE = mgh",
+        "The law of conservation of energy describes transformation",
+        "Power = work/time, unit watt",
+        "1 kWh is the commercial unit of electrical energy"
+      ],
+      "examFocus": [
+        "Solve simple numericals with KE and PE formulas",
+        "Write daily-life chains of energy transformation",
+        "Understand the difference between watt and kilowatt-hour"
+      ],
+      "examTraps": [
+        "Applying force is not work — displacement is necessary",
+        "Power and energy differ — power is the rate of energy"
+      ],
+      "thinkBeforeAnswer": [
+        "For zero-work questions, check the direction of displacement",
+        "For the unit of energy, the answer is joule"
+      ],
+      "memoryTricks": [
+        "Learn 'W = Fs' and 'P = W/t' as a pair",
+        "KE has v squared — double the velocity gives four times KE"
+      ],
+      "pyqSignals": [
+        "Questions on KE-PE conversion and conservation are common",
+        "Numericals on work and power formulas appear in exams"
+      ],
+      "mustRemember": [
+        "Definition and condition of work",
+        "Formulas of KE and PE",
+        "Law of conservation of energy",
+        "Definition and unit of power"
+      ],
+      "quickRevision": "Work is W = Fs when displacement is along the force. Energy is the capacity to do work, chiefly kinetic (½mv²) and potential (mgh). By conservation of energy only the form changes. Power is the rate of work, measured in watts."
+    }
+  }
+}

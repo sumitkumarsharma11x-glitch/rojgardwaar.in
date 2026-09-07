@@ -64,37 +64,41 @@
   ========================================================= */
 
   function renderShell() {
+    const hasBank = bank.length > 0;
+    const code = meta.code
+      ? `${meta.code} · `
+      : `${isHindi() ? "अध्याय" : "Chapter"} ${meta.chapterNumber}: `;
+
     root.innerHTML = `
       <section class="rjd-chapter-hero">
 
         <span class="rjd-eyebrow">
-          ${
-            isHindi()
-              ? "कक्षा"
-              : "Class"
-          }
-          ${classNum}
-          ·
           ${LanguageManager.pick(meta.subjectName)}
+          ·
+          ${isHindi() ? "NCERT कक्षा 6–10" : "NCERT Class 6–10"}
         </span>
 
         <h1 class="rjd-chapter-hero__title">
-          ${
-            isHindi()
-              ? "अध्याय"
-              : "Chapter"
-          }
-          ${meta.chapterNumber}:
+          ${code}
           ${LanguageManager.pick(meta.chapterName)}
         </h1>
 
-        <p class="rjd-chapter-hero__stat">
-          ${bank.length}+
-          ${LanguageManager.get("questions")}
-          ·
-          ${TestGenerator.getConfigs(bank, meta).length}
-          ${LanguageManager.get("mockTests")}
-        </p>
+        ${
+          hasBank
+            ? `<p class="rjd-chapter-hero__stat">
+                 ${bank.length}+
+                 ${LanguageManager.get("questions")}
+                 ·
+                 ${TestGenerator.getConfigs(bank, meta).length}
+                 ${LanguageManager.get("mockTests")}
+               </p>`
+            : `<p class="rjd-chapter-hero__stat">
+                 ${text(
+                   "150 Practice Questions · 5 Mock Tests × 30 — अगले content batch में",
+                   "150 Practice Questions · 5 Mock Tests × 30 — coming in the next content batch"
+                 )}
+               </p>`
+        }
 
       </section>
 
@@ -1013,6 +1017,20 @@
 
       questions = bank;
 
+      if (questions.length === 0) {
+        container.innerHTML = `
+          <div class="rjd-empty-state">
+            <p>
+              ${text(
+                "इस अध्याय के 150 Practice Questions अगले content batch में जुड़ेंगे। तब तक Notes पढ़ें और अन्य अध्यायों का अभ्यास करें।",
+                "The 150 Practice Questions for this chapter arrive in the next content batch. Until then, read the Notes and practice other chapters."
+              )}
+            </p>
+          </div>
+        `;
+        return;
+      }
+
     }
 
     createPracticeSession(
@@ -1055,6 +1073,22 @@
 
     const configs =
       TestGenerator.getConfigs(bank, meta);
+
+    /* Chapter whose question pool arrives in a later content batch:
+       show an honest "coming soon" state instead of empty cards. */
+    if (bank.length === 0) {
+      panel.innerHTML = `
+        <div class="rjd-empty-state">
+          <p>
+            ${text(
+              "इस अध्याय के 5 Mock Tests (5 × 30 = 150 प्रश्न) अगले content batch में जुड़ेंगे।",
+              "This chapter's 5 Mock Tests (5 × 30 = 150 questions) arrive in the next content batch."
+            )}
+          </p>
+        </div>
+      `;
+      return;
+    }
 
     const wrongCount =
       WrongQuestionManager.getIds(
