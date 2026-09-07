@@ -1,0 +1,137 @@
+{
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-11",
+  "chapterNumber": 11,
+  "code": "B11",
+  "chapterName": {
+    "hi": "स्वास्थ्य, रोग एवं सूक्ष्मजीव",
+    "en": "Health, Disease & Microorganisms"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "स्वास्थ्य केवल रोग का अभाव नहीं बल्कि शारीरिक, मानसिक और सामाजिक कल्याण की अवस्था है। रोग संक्रामक (एक व्यक्ति से दूसरे को फैलने वाले) और असंक्रामक (जैसे मधुमेह) होते हैं। जीवाणु, विषाणु, कवक और प्रोटोजोआ जैसे सूक्ष्मजीव कभी उपयोगी (दही, एंटीबायोटिक) और कभी हानिकारक (टाइफाइड, कोविड) होते हैं।",
+      "example": "टीकाकरण में मृत या क्षीण रोगाणु देकर शरीर को रोग से लड़ने की क्षमता विकसित कर ली जाती है।",
+      "sections": [
+        {
+          "heading": "स्वास्थ्य एवं रोग",
+          "content": "संतुलित आहार, स्वच्छता, व्यायाम और टीकाकरण से स्वास्थ्य बना रहता है; रोग शरीर की सामान्य क्रिया को बिगाड़ता है।"
+        },
+        {
+          "heading": "संक्रामक बनाम असंक्रामक रोग",
+          "content": "संक्रामक रोग जीवाणु/विषाणु आदि से फैलते हैं (कोलेरा, खसरा); असंक्रामक रोग जीवनशैली या कमी से होते हैं (मधुमेह, रक्ताल्पता)।"
+        },
+        {
+          "heading": "रोगाणुओं से रक्षा",
+          "content": "टीकाकरण (जैसे BCG, पोलियो), एंटीबायोटिक (जीवाणुरोधी) और स्वच्छ आदतें रोगों से बचाती हैं।"
+        },
+        {
+          "heading": "उपयोगी सूक्ष्मजीव",
+          "content": "यीस्ट (डबल रोटी, मदिरा), लैक्टोबैसिलस (दही), एंटीबायोटिक निर्माण और जैव-उर्वरक में सूक्ष्मजीव उपयोगी हैं।"
+        }
+      ],
+      "keyPoints": [
+        "स्वास्थ्य शारीरिक-मानसिक-सामाजिक कल्याण की अवस्था है",
+        "संक्रामक रोग रोगाणुओं से, असंक्रामक जीवनशैली/कमी से होते हैं",
+        "जीवाणुजनित रोग — टाइफाइड, कोलेरा; विषाणुजनित — खसरा, पोलियो",
+        "एंटीबायोटिक केवल जीवाणु रोगों में कारगर हैं",
+        "टीका पूर्व-रक्षा देता है, एंटीबायोटिक उपचार करता है",
+        "मलेरिया प्रोटोजोआ (प्लाज्मोडियम) से और मच्छर-जनित रोगों में गिना जाता है"
+      ],
+      "examFocus": [
+        "रोग और उसके रोगाणु के जोड़े (कोलेरा-जीवाणु, मलेरिया-प्रोटोजोआ) रटें",
+        "संक्रामक रोगों के फैलने के मार्ग — वायु, जल, संपर्क, वाहक",
+        "टीकाकरण का सिद्धांत और सामान्य टीकों के नाम याद रखें"
+      ],
+      "examTraps": [
+        "सभी रोग संक्रामक नहीं होते — मधुमेह और रक्ताल्पता असंक्रामक हैं",
+        "एंटीबायोटिक विषाणु रोगों (जैसे सर्दी) में कारगर नहीं हैं"
+      ],
+      "thinkBeforeAnswer": [
+        "रोग का नाम देखकर पहले उसका रोगाणु-वर्ग पहचानें — जीवाणु, विषाणु, प्रोटोजोआ या कवक",
+        "फैलने का माध्यम पूछा जाए तो वाहक (मच्छर, मक्खी) और जल/वायु दोनों विकल्प जाँचें"
+      ],
+      "memoryTricks": [
+        "कोलेरा-जीवाणु, मलेरिया-मच्छर जैसे जोड़े कहानी-शैली में याद करें",
+        "'V-for-Virus, V-for-Vaccine' — टीका प्रायः विषाणु रोगों के लिए प्रसिद्ध है"
+      ],
+      "pyqSignals": [
+        "रोग-रोगाणु के जोड़े परीक्षा में बार-बार पूछे जाते हैं",
+        "टीका और एंटीबायोटिक के अंतर पर प्रश्न आम है"
+      ],
+      "mustRemember": [
+        "स्वास्थ्य की परिभाषा",
+        "संक्रामक-असंक्रामक रोगों में अंतर",
+        "प्रमुख रोग और उनके रोगाणु",
+        "टीकाकरण और एंटीबायोटिक की भूमिका"
+      ],
+      "quickRevision": "स्वास्थ्य शारीरिक, मानसिक और सामाजिक कल्याण की अवस्था है। रोग संक्रामक और असंक्रामक प्रकार के होते हैं और संक्रामक रोग जीवाणु, विषाणु, कवक या प्रोटोजोआ से फैलते हैं। टीकाकरण और एंटीबायोटिक रोगों से बचाव व उपचार करते हैं, जबकि अनेक सूक्ष्मजीव दही, डबल रोटी और एंटीबायोटिक निर्माण में उपयोगी हैं।"
+    },
+    "en": {
+      "concept": "Health is not merely absence of disease but a state of physical, mental and social well-being. Diseases are infectious (spreading person to person) or non-infectious (like diabetes). Microorganisms such as bacteria, viruses, fungi and protozoa may be useful (curd, antibiotics) or harmful (typhoid, COVID).",
+      "example": "Vaccination gives the body the ability to fight a disease by introducing dead or weakened germs.",
+      "sections": [
+        {
+          "heading": "Health and Disease",
+          "content": "Balanced diet, cleanliness, exercise and vaccination maintain health; disease disturbs normal body function."
+        },
+        {
+          "heading": "Infectious vs Non-infectious Diseases",
+          "content": "Infectious diseases spread by germs (cholera, measles); non-infectious ones arise from lifestyle or deficiency (diabetes, anaemia)."
+        },
+        {
+          "heading": "Protection from Germs",
+          "content": "Vaccination (e.g. BCG, polio), antibiotics (against bacteria) and hygienic habits prevent disease."
+        },
+        {
+          "heading": "Useful Microorganisms",
+          "content": "Yeast (bread, alcohol), Lactobacillus (curd), antibiotic production and biofertilisers use microorganisms."
+        }
+      ],
+      "keyPoints": [
+        "Health is a state of physical, mental and social well-being",
+        "Infectious diseases come from germs; non-infectious from lifestyle or deficiency",
+        "Bacterial diseases — typhoid, cholera; viral — measles, polio",
+        "Antibiotics work only against bacterial diseases",
+        "Vaccines protect beforehand; antibiotics treat infection",
+        "Malaria is caused by a protozoan (Plasmodium) and is mosquito-borne"
+      ],
+      "examFocus": [
+        "Memorise disease-germ pairs (cholera-bacteria, malaria-protozoa)",
+        "Learn the modes of spread — air, water, contact, vectors",
+        "Remember the principle of vaccination and common vaccines"
+      ],
+      "examTraps": [
+        "Not all diseases are infectious — diabetes and anaemia are non-infectious",
+        "Antibiotics do not work on viral diseases like the common cold"
+      ],
+      "thinkBeforeAnswer": [
+        "Identify the germ class first from the disease name — bacteria, virus, protozoan or fungus",
+        "When asked how a disease spreads, check both vectors and water/air routes"
+      ],
+      "memoryTricks": [
+        "Remember pairs like cholera-bacteria and malaria-mosquito as mini stories",
+        "'V-for-Virus, V-for-Vaccine' — vaccines are famous for viral diseases"
+      ],
+      "pyqSignals": [
+        "Disease-germ pairs are asked repeatedly",
+        "The difference between vaccine and antibiotic is a common question"
+      ],
+      "mustRemember": [
+        "Definition of health",
+        "Difference between infectious and non-infectious diseases",
+        "Major diseases and their germs",
+        "Role of vaccination and antibiotics"
+      ],
+      "quickRevision": "Health is a state of complete well-being. Diseases are infectious or non-infectious, and infectious ones spread by bacteria, viruses, fungi or protozoa. Vaccination and antibiotics protect and treat, while many microorganisms are useful in curd, bread and antibiotic production."
+    }
+  }
+}

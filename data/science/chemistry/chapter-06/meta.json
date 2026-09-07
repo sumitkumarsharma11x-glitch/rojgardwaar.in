@@ -1,0 +1,137 @@
+{
+  "subject": "chemistry",
+  "subjectName": {
+    "hi": "रसायन विज्ञान",
+    "en": "Chemistry"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-06",
+  "chapterNumber": 6,
+  "code": "C06",
+  "chapterName": {
+    "hi": "परमाणु की संरचना",
+    "en": "Structure of the Atom"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "परमाणु इलेक्ट्रॉन, प्रोटॉन और न्यूट्रॉन से बना है। थॉमसन, रदरफोर्ड और बोर के मॉडल ने क्रमशः परमाणु की संरचना की व्याख्या विकसित की। इलेक्ट्रॉन निश्चित कक्षाओं (शैलों) में रहते हैं और सबसे बाहरी कक्षा के इलेक्ट्रॉन (संयोजकता इलेक्ट्रॉन) रासायनिक गुण निर्धारित करते हैं।",
+      "example": "कार्बन (Z=6) की K शैल में 2 और L शैल में 4 इलेक्ट्रॉन होते हैं — इसी से उसकी संयोजकता 4 है।",
+      "sections": [
+        {
+          "heading": "उपपरमाणविक कण",
+          "content": "इलेक्ट्रॉन (−1, नगण्य द्रव्यमान), प्रोटॉन (+1, 1 u), न्यूट्रॉन (0, 1 u); परमाणु उदासीन होता है क्योंकि प्रोटॉन = इलेक्ट्रॉन।"
+        },
+        {
+          "heading": "परमाणु मॉडल",
+          "content": "थॉमसन — पुडिंग मॉडल; रदरफोर्ड — नाभिक प्रतिरोधी प्रयोग से केंद्र में नाभिक; बोर — निश्चित कक्षाएँ।"
+        },
+        {
+          "heading": "परमाणु संख्या एवं द्रव्यमान संख्या",
+          "content": "परमाणु संख्या Z = प्रोटॉन संख्या; द्रव्यमान संख्या A = प्रोटॉन + न्यूट्रॉन; संकेतन A/z X।"
+        },
+        {
+          "heading": "समस्थानिक (आइसोटोप)",
+          "content": "समान Z भिन्न A — जैसे H-1, H-2, H-3; C-12, C-14; U-235 का उपयोग नाभिकीय ईंधन में और C-14 आयु-निर्धारण में होता है।"
+        }
+      ],
+      "keyPoints": [
+        "परमाणु तीन उपकणों — इलेक्ट्रॉन, प्रोटॉन, न्यूट्रॉन से बना है",
+        "परमाणु संख्या = प्रोटॉन संख्या = इलेक्ट्रॉन संख्या (उदासीन परमाणु)",
+        "द्रव्यमान संख्या = प्रोटॉन + न्यूट्रॉन",
+        "K शैल अधिकतम 2, L शैल 8 इलेक्ट्रॉन रख सकती है",
+        "संयोजकता इलेक्ट्रॉन रासायनिक गुण तय करते हैं",
+        "समस्थानिकों के रासायनिक गुण समान, भौतिक गुण भिन्न होते हैं"
+      ],
+      "examFocus": [
+        "परमाणु संख्या से इलेक्ट्रॉन विन्यास लिखने का अभ्यास करें",
+        "मॉडलों की विशेषताएँ और उनकी कमियाँ जोड़कर याद करें",
+        "समस्थानिकों के उपयोग रटें"
+      ],
+      "examTraps": [
+        "परमाणु वास्तव में अविभाज्य नहीं — यह डाल्टन की सीमा थी",
+        "समान द्रव्यमान संख्या वाले परमाणु समान तत्व के नहीं होते — Z देखें"
+      ],
+      "thinkBeforeAnswer": [
+        "विन्यास लिखते समय 2n² नियम (K=2, L=8, M=18) क्रम से भरें",
+        "समस्थानिक पहचानने के लिए Z समान और A भिन्न देखें"
+      ],
+      "memoryTricks": [
+        "'EPN' — इलेक्ट्रॉन ऋण, प्रोटॉन धन, न्यूट्रॉन उदासीन",
+        "K-2, L-8 को 'ट्रेन की दो डिब्बे' की तरह याद करें"
+      ],
+      "pyqSignals": [
+        "इलेक्ट्रॉन विन्यास और समस्थानिक पर प्रश्न बार-बार आते हैं",
+        "रदरफोर्ड प्रयोग की निष्कर्ष पूछे जाते हैं"
+      ],
+      "mustRemember": [
+        "तीन उपकणों के गुण",
+        "परमाणु संख्या और द्रव्यमान संख्या",
+        "इलेक्ट्रॉन विन्यास",
+        "समस्थानिक और उनके उपयोग"
+      ],
+      "quickRevision": "परमाणु में नाभिक (प्रोटॉन-न्यूट्रॉन) और कक्षाओं में इलेक्ट्रॉन होते हैं। परमाणु संख्या प्रोटॉनों की संख्या और द्रव्यमान संख्या न्यूक्लियॉनों की संख्या है। बोर मॉडल की निश्चित कक्षाओं में इलेक्ट्रॉन व्यवस्थित रहते हैं और संयोजकता इलेक्ट्रॉन रासायनिक गुण निर्धारित करते हैं। समान परमाणु संख्या वाले समस्थानिक चिकित्सा, ऊर्जा औि आयु-निर्धारण में उपयोगी हैं।"
+    },
+    "en": {
+      "concept": "An atom is made of electrons, protons and neutrons. The models of Thomson, Rutherford and Bohr progressively explained atomic structure. Electrons occupy definite shells, and the outermost (valence) electrons decide chemical properties.",
+      "example": "Carbon (Z=6) has 2 electrons in the K shell and 4 in the L shell — hence its valency is 4.",
+      "sections": [
+        {
+          "heading": "Subatomic Particles",
+          "content": "Electron (−1, negligible mass), proton (+1, 1 u), neutron (0, 1 u); an atom is neutral because protons = electrons."
+        },
+        {
+          "heading": "Atomic Models",
+          "content": "Thomson — pudding model; Rutherford — nucleus from the scattering experiment; Bohr — fixed orbits."
+        },
+        {
+          "heading": "Atomic Number and Mass Number",
+          "content": "Atomic number Z = number of protons; mass number A = protons + neutrons; notation A/Z X."
+        },
+        {
+          "heading": "Isotopes",
+          "content": "Same Z, different A — e.g. H-1, H-2, H-3; C-12, C-14; U-235 is used as nuclear fuel and C-14 in age determination."
+        }
+      ],
+      "keyPoints": [
+        "An atom has three particles — electron, proton, neutron",
+        "Atomic number = protons = electrons (neutral atom)",
+        "Mass number = protons + neutrons",
+        "The K shell holds at most 2 electrons, the L shell 8",
+        "Valence electrons decide chemical properties",
+        "Isotopes have similar chemical but different physical properties"
+      ],
+      "examFocus": [
+        "Practise writing electron configurations from atomic number",
+        "Learn features and drawbacks of each model together",
+        "Memorise uses of isotopes"
+      ],
+      "examTraps": [
+        "Atoms are not truly indivisible — that was Dalton's limitation",
+        "Atoms with the same mass number need not belong to the same element — check Z"
+      ],
+      "thinkBeforeAnswer": [
+        "Fill shells in the 2n² order (K=2, L=8, M=18) while writing configurations",
+        "To identify isotopes, look for same Z with different A"
+      ],
+      "memoryTricks": [
+        "'EPN' — Electron negative, Proton positive, Neutron neutral",
+        "Remember K-2, L-8 like 'two coaches of a train'"
+      ],
+      "pyqSignals": [
+        "Questions on electron configuration and isotopes come repeatedly",
+        "Conclusions of Rutherford's experiment are asked"
+      ],
+      "mustRemember": [
+        "Properties of the three particles",
+        "Atomic number and mass number",
+        "Electron configuration",
+        "Isotopes and their uses"
+      ],
+      "quickRevision": "An atom has a nucleus (protons-neutrons) with electrons in shells. Atomic number counts protons and mass number counts nucleons. Bohr's fixed orbits arrange electrons, and valence electrons decide chemical behaviour. Isotopes with the same atomic number serve medicine, energy and age-dating."
+    }
+  }
+}

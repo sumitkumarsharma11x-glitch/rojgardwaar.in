@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-01",
+  "chapterNumber": 1,
+  "code": "P01",
+  "chapterName": {
+    "hi": "मापन, मात्रक एवं वैज्ञानिक अन्वेषण",
+    "en": "Measurement, Units & Scientific Investigation"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "विज्ञान में हर भौतिक राशि को मापना आवश्यक है और मापन के लिए मानक मात्रक चाहिए। SI प्रणाली में सात मूल मात्रक हैं — मीटर, किलोग्राम, सेकंड, एम्पियर, केल्विन, मोल और कैंडेला। सही उपकरण, सही विधि और त्रुटि का ध्यान मिलकर विश्वसनीय मापन बनाते हैं।",
+      "example": "कमरे की लंबाई मीटर स्केल से और धागे की मोटाई पेंचमापी (स्क्रू गेज) जैसे उपकरण से मापी जाती है — राशि के अनुसार उपकरण बदलता है।",
+      "sections": [
+        {
+          "heading": "मापन की आवश्यकता",
+          "content": "बिना मापन के तुलना अधूरी है; मापन = संख्यात्मक मान + मात्रक।"
+        },
+        {
+          "heading": "SI मात्रक प्रणाली",
+          "content": "लंबाई-मीटर, द्रव्यमान-किलोग्राम, समय-सेकंड, विद्युत धारा-एम्पियर, ताप-केल्विन, पदार्थ की मात्रा-मोल, ज्योति तीव्रता-कैंडेला।"
+        },
+        {
+          "heading": "लंबाई, द्रव्यमान एवं समय का मापन",
+          "content": "मीटर स्केल, वर्नियर कैलिपर्स और स्क्रू गेज लंबाई के; तुला द्रव्यमान का; घड़ी-स्टॉपवॉच समय के मापन में प्रयुक्त होते हैं।"
+        },
+        {
+          "heading": "त्रुटि एवं परिशुद्धता",
+          "content": "सभी मापनों में कुछ त्रुटि होती है; सही पढ़ने की दृष्टि और अनेक बार मापकर औसत लेने से परिशुद्धता बढ़ती है।"
+        }
+      ],
+      "keyPoints": [
+        "मापन में मात्रक अनिवार्य है — केवल संख्या अर्थहीन है",
+        "SI के सात मूल मात्रक — मीटर, किलोग्राम, सेकंड, एम्पियर, केल्विन, मोल, कैंडेला",
+        "1 किलोमीटर = 1000 मीटर; 1 मीटर = 100 सेंटीमीटर",
+        "क्षेत्रफल का मात्रक वर्ग मीटर और आयतन का घन मीटर है",
+        "द्रव्यमान और भार भिन्न राशियाँ हैं — द्रव्यमान का मात्रक किलोग्राम है",
+        "प्रयोग में अनेक पाठ्यांकों का औसत त्रुटि घटाता है"
+      ],
+      "examFocus": [
+        "सात मूल मात्रक और उनकी राशियाँ जोड़कर रटें",
+        "द्रव्यमान-भार अंतर पर विशेष ध्यान दें",
+        "लघु-बृहद उपसर्ग (सेंटी, मिली, किलो, मेगा) के मान याद रखें"
+      ],
+      "examTraps": [
+        "द्रव्यमान और भार को समान न मानें — भार बल है जिसका मात्रक न्यूटन है",
+        "किलोग्राम द्रव्यमान का मात्रक है, भार का नहीं"
+      ],
+      "thinkBeforeAnswer": [
+        "मात्रक पूछा जाए तो पहले राशि पहचानें — लंबाई, द्रव्यमान या समय",
+        "परिवर्तन (जैसे किमी→मी) में उपसर्ग का मान लगाकर गुणा करें"
+      ],
+      "memoryTricks": [
+        "'M-K-S-A-K-M-C' — मीटर, किलोग्राम, सेकंड, एम्पियर, केल्विन, मोल, कैंडेला क्रम से दोहराएँ",
+        "किलो=1000, सेंटी=1/100, मिली=1/1000 — सीढ़ी बनाकर याद करें"
+      ],
+      "pyqSignals": [
+        "SI मूल मात्रक और उनकी राशियाँ सीधे पूछी जाती हैं",
+        "मात्रक-परिवर्तन के प्रश्न आम हैं"
+      ],
+      "mustRemember": [
+        "मापन = संख्या + मात्रक",
+        "SI के सात मूल मात्रक",
+        "लंबाई-द्रव्यमान-समय के मापक उपकरण",
+        "द्रव्यमान और भार में अंतर"
+      ],
+      "quickRevision": "मापन के लिए संख्या और मात्रक दोनों आवश्यक हैं। SI प्रणाली के सात मूल मात्रक हैं। लंबाई, द्रव्यमान और समय के निश्चित उपकरण हैं और प्रत्येक मापन में कुछ त्रुटि संभव है, जिसे औसत लेकर घटाया जा सकता है। द्रव्यमान (किग्रा) और भार (न्यूटन) भिन्न राशियाँ हैं।"
+    },
+    "en": {
+      "concept": "In science every physical quantity must be measured, and measurement needs standard units. The SI system has seven base units — metre, kilogram, second, ampere, kelvin, mole and candela. Right instrument, right method and awareness of error together make a measurement reliable.",
+      "example": "A room's length is measured with a metre scale and a wire's thickness with a screw gauge — the instrument changes with the quantity.",
+      "sections": [
+        {
+          "heading": "Need for Measurement",
+          "content": "Comparison is incomplete without measurement; measurement = numerical value + unit."
+        },
+        {
+          "heading": "SI Unit System",
+          "content": "Length-metre, mass-kilogram, time-second, current-ampere, temperature-kelvin, amount of substance-mole, luminous intensity-candela."
+        },
+        {
+          "heading": "Measuring Length, Mass and Time",
+          "content": "Metre scale, vernier callipers and screw gauge for length; balance for mass; clock-stopwatch for time."
+        },
+        {
+          "heading": "Error and Accuracy",
+          "content": "Every measurement has some error; correct viewing and averaging several readings improve accuracy."
+        }
+      ],
+      "keyPoints": [
+        "A unit is essential in measurement — a number alone is meaningless",
+        "The seven SI base units — metre, kilogram, second, ampere, kelvin, mole, candela",
+        "1 kilometre = 1000 metres; 1 metre = 100 centimetres",
+        "Area is in square metres and volume in cubic metres",
+        "Mass and weight are different — the unit of mass is kilogram",
+        "Averaging several readings reduces error"
+      ],
+      "examFocus": [
+        "Learn the seven base units with their quantities",
+        "Note the difference between mass and weight carefully",
+        "Memorise values of prefixes (centi, milli, kilo, mega)"
+      ],
+      "examTraps": [
+        "Do not treat mass and weight as same — weight is a force measured in newtons",
+        "Kilogram is the unit of mass, not of weight"
+      ],
+      "thinkBeforeAnswer": [
+        "When a unit is asked, first identify the quantity — length, mass or time",
+        "In conversions, multiply by the prefix value (km→m)"
+      ],
+      "memoryTricks": [
+        "Repeat 'M-K-S-A-K-M-C' — metre, kilogram, second, ampere, kelvin, mole, candela",
+        "kilo=1000, centi=1/100, milli=1/1000 — remember as a ladder"
+      ],
+      "pyqSignals": [
+        "SI base units and their quantities are asked directly",
+        "Unit-conversion questions are common"
+      ],
+      "mustRemember": [
+        "Measurement = number + unit",
+        "The seven SI base units",
+        "Instruments for length-mass-time",
+        "Difference between mass and weight"
+      ],
+      "quickRevision": "Measurement needs both a number and a unit. The SI system has seven base units. Length, mass and time have dedicated instruments, and every measurement carries some error, reduced by averaging. Mass (kg) and weight (newton) are different quantities."
+    }
+  }
+}

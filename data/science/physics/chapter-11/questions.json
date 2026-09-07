@@ -1,0 +1,5604 @@
+{
+  "questions": [
+    {
+      "id": "phy11_q101",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारावाही नाइक्रोम तार लाल होकर गर्म हो जाता है। यह किस प्रभाव का उदाहरण है?",
+        "en": "A current-carrying nichrome wire becomes red hot. Which effect is this an example of?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत धारा का तापीय प्रभाव",
+          "विद्युत धारा का रासायनिक प्रभाव",
+          "विद्युत धारा का चुंबकीय प्रभाव",
+          "विद्युत धारा का कोई प्रभाव नहीं"
+        ],
+        "en": [
+          "The heating effect of electric current",
+          "The chemical effect of electric current",
+          "The magnetic effect of electric current",
+          "No effect of electric current"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रतिरोध से गुजरती धारा ऊष्मा उत्पन्न करती है — यही तापीय प्रभाव है।",
+        "en": "Current through a resistance produces heat — this is the heating effect."
+      }
+    },
+    {
+      "id": "phy11_q102",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारा के तापीय प्रभाव का नियम H = I²Rt किस वैज्ञानिक के नाम पर है?",
+        "en": "The law of heating H = I²Rt is named after which scientist?"
+      },
+      "options": {
+        "hi": [
+          "फैराडे",
+          "जूल",
+          "न्यूटन",
+          "ओम"
+        ],
+        "en": [
+          "Faraday",
+          "Joule",
+          "Newton",
+          "Ohm"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जूल के तापीय नियम अनुसार ऊष्मा धारा, प्रतिरोध व समय पर निर्भर करती है।",
+        "en": "According to Joule's law of heating, heat depends on current, resistance and time."
+      }
+    },
+    {
+      "id": "phy11_q103",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत इस्त्री किस प्रभाव पर कार्य करती है?",
+        "en": "An electric iron works on which effect?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक प्रभाव पर",
+          "विद्युत अपघटन पर",
+          "विद्युत धारा के तापीय प्रभाव पर",
+          "चुंबकीय प्रभाव पर"
+        ],
+        "en": [
+          "The chemical effect",
+          "Electrolysis",
+          "The heating effect of electric current",
+          "The magnetic effect"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इस्त्री का तत्व प्रतिरोध से गर्म होता है और कपड़े से झुर्रियाँ हटाता है।",
+        "en": "The iron's element heats up due to resistance and smooths the clothes."
+      }
+    },
+    {
+      "id": "phy11_q104",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फ्यूज़ तार सामान्यतः किसका बना होता है?",
+        "en": "A fuse wire is generally made of what?"
+      },
+      "options": {
+        "hi": [
+          "उच्च गलनांक वाले टंगस्टन का",
+          "मोटे तांबे के तार का",
+          "नाइक्रोम के मोटे तार का",
+          "कम गलनांक वाले टिन-सीसा मिश्र धातु का"
+        ],
+        "en": [
+          "High-melting-point tungsten",
+          "A thick copper wire",
+          "A thick nichrome wire",
+          "A low-melting-point tin-lead alloy"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कम गलनांक के कारण अधिक धारा बहते ही फ्यूज़ तार जल्दी पिघल जाता है।",
+        "en": "Its low melting point lets the fuse melt quickly when excess current flows."
+      }
+    },
+    {
+      "id": "phy11_q105",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत फ्यूज़ का मुख्य कार्य क्या है?",
+        "en": "What is the main function of an electric fuse?"
+      },
+      "options": {
+        "hi": [
+          "अधिक धारा बहने पर सर्किट तोड़कर उपकरणों की रक्षा करना",
+          "वोल्टेज बढ़ाना",
+          "धारा की दिशा बदलना",
+          "सर्किट की धारा लगातार बढ़ाना"
+        ],
+        "en": [
+          "To break the circuit and protect devices when excess current flows",
+          "To increase voltage",
+          "To reverse the direction of current",
+          "To keep raising the circuit current"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फ्यूज़ पिघलकर सर्किट खोल देता है, जिससे उपकरण और तार सुरक्षित रहते हैं।",
+        "en": "The fuse melts and opens the circuit, keeping devices and wiring safe."
+      }
+    },
+    {
+      "id": "phy11_q106",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत बल्ब का फिलामेंट किस धातु का बना होता है?",
+        "en": "The filament of an electric bulb is made of which metal?"
+      },
+      "options": {
+        "hi": [
+          "लोहा",
+          "टंगस्टन",
+          "तांबा",
+          "एल्युमिनियम"
+        ],
+        "en": [
+          "Iron",
+          "Tungsten",
+          "Copper",
+          "Aluminium"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "टंगस्टन बहुत उच्च गलनांक के कारण श्वेत तप्त होने तक नहीं पिघलता।",
+        "en": "Tungsten's very high melting point keeps it from melting even white hot."
+      }
+    },
+    {
+      "id": "phy11_q107",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल्ब के फिलामेंट के लिए टंगस्टन सबसे उपयुक्त क्यों है?",
+        "en": "Why is tungsten best suited for a bulb filament?"
+      },
+      "options": {
+        "hi": [
+          "इसका प्रतिरोध शून्य होता है",
+          "यह हल्का धातु है",
+          "इसका गलनांक बहुत अधिक (लगभग 3400°C) होता है",
+          "यह सस्ता धातु है"
+        ],
+        "en": [
+          "Its resistance is zero",
+          "It is a light metal",
+          "Its melting point is very high (about 3400°C)",
+          "It is a cheap metal"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फिलामेंट लगभग 3000°C तक तप्त होता है, इसलिए उच्च गलनांक आवश्यक है।",
+        "en": "The filament glows at nearly 3000°C, so a high melting point is essential."
+      }
+    },
+    {
+      "id": "phy11_q108",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल्ब के अंदर फिलामेंट के चारों ओर निष्क्रिय गैस (या निर्वात) क्यों होती है?",
+        "en": "Why is an inert gas (or vacuum) kept around the filament inside a bulb?"
+      },
+      "options": {
+        "hi": [
+          "ताकि बल्ब सस्ता बने",
+          "ताकि बल्ब हल्का रहे",
+          "ताकि रोशनी रंगीन हो",
+          "ताकि गर्म फिलामेंट हवा की ऑक्सीजन से जलकर टूटे नहीं"
+        ],
+        "en": [
+          "To make the bulb cheap",
+          "To keep the bulb light",
+          "To colour the light",
+          "So the hot filament does not burn away in air's oxygen"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऑक्सीजन की अनुपस्थिति न होने पर फिलामेंट केवल तप्त होता है, जलता नहीं।",
+        "en": "Without oxygen the filament only glows hot instead of burning."
+      }
+    },
+    {
+      "id": "phy11_q109",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत हीटर का तत्व (एलिमेंट) किस सामग्री का बना होता है?",
+        "en": "The element of an electric heater is made of which material?"
+      },
+      "options": {
+        "hi": [
+          "नाइक्रोम — उच्च प्रतिरोध वाला मिश्र धातु",
+          "शुद्ध तांबा — कम प्रतिरोध",
+          "चांदी — बहुत अच्छा चालक",
+          "प्लास्टिक — कुचालक"
+        ],
+        "en": [
+          "Nichrome — a high-resistance alloy",
+          "Pure copper — low resistance",
+          "Silver — an excellent conductor",
+          "Plastic — an insulator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नाइक्रोम का उच्च प्रतिरोध धारा को अधिक ऊष्मा में बदलता है।",
+        "en": "Nichrome's high resistance converts current into abundant heat."
+      }
+    },
+    {
+      "id": "phy11_q110",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-से दोनों उपकरण धारा के तापीय प्रभाव पर आधारित हैं?",
+        "en": "Which pair of devices is based on the heating effect of current?"
+      },
+      "options": {
+        "hi": [
+          "पंखा और विद्युत हीटर",
+          "विद्युत हीटर और इस्त्री",
+          "विद्युत घंटी और रिले",
+          "विद्युतलेपन टैंक और इस्त्री"
+        ],
+        "en": [
+          "Electric fan and heater",
+          "Electric heater and electric iron",
+          "Electric bell and relay",
+          "Electroplating tank and iron"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हीटर और इस्त्री दोनों में प्रतिरोधी तत्व से ऊष्मा मिलती है।",
+        "en": "Both heater and iron get heat from their resistive elements."
+      }
+    },
+    {
+      "id": "phy11_q111",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फ्यूज़ तार जानबूझकर पतला क्यों रखा जाता है?",
+        "en": "Why is a fuse wire deliberately kept thin?"
+      },
+      "options": {
+        "hi": [
+          "पतला तार अधिक धारा झेलता है",
+          "पतले तार से वोल्टेज बढ़ता है",
+          "पतले तार का प्रतिरोध अधिक होता है, जिससे अधिक धारा पर वह जल्दी गर्म होकर पिघल जाए",
+          "पतला तार सस्ता पड़ता है"
+        ],
+        "en": [
+          "A thin wire carries more current",
+          "A thin wire raises the voltage",
+          "A thin wire has higher resistance, so it heats and melts quickly on excess current",
+          "A thin wire costs less"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "H = I²Rt में अधिक R व अधिक I पर ऊष्मा बढ़ती है और पतला तार पिघल जाता है।",
+        "en": "In H = I²Rt, larger R with excess I gives more heat, melting the thin wire."
+      }
+    },
+    {
+      "id": "phy11_q112",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फ्यूज़ सर्किट में कहाँ लगाया जाता है?",
+        "en": "Where is a fuse placed in a circuit?"
+      },
+      "options": {
+        "hi": [
+          "न्यूट्रल तार के समानांतर में",
+          "अर्थ तार में",
+          "मीटर के बाहर किसी भी तार पर समानांतर में",
+          "लाइव (फेज़) तार में श्रेणीक्रम में"
+        ],
+        "en": [
+          "In parallel with the neutral wire",
+          "In the earth wire",
+          "Outside the meter, in parallel on any wire",
+          "In series, in the live (phase) wire"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लाइव तार में श्रेणीक्रम फ्यूज़ पूरे सर्किट की आपूर्ति ही काट देता है।",
+        "en": "A series fuse in the live wire cuts supply to the whole circuit."
+      }
+    },
+    {
+      "id": "phy11_q113",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत बल्ब में ऊर्जा का रूपांतरण कैसे होता है?",
+        "en": "How is energy transformed in an electric bulb?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत ऊर्जा से प्रकाश ऊर्जा (और बहुत सी ऊष्मा)",
+          "रासायनिक ऊर्जा से प्रकाश ऊर्जा",
+          "प्रकाश ऊर्जा से विद्युत ऊर्जा",
+          "यांत्रिक ऊर्जा से ऊष्मा ऊर्जा"
+        ],
+        "en": [
+          "Electrical energy to light energy (plus a lot of heat)",
+          "Chemical energy to light energy",
+          "Light energy to electrical energy",
+          "Mechanical energy to heat energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फिलामेंट विद्युत ऊर्जा लेकर प्रकाश और ऊष्मा देता है।",
+        "en": "The filament takes electrical energy and gives out light and heat."
+      }
+    },
+    {
+      "id": "phy11_q114",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारा के तापीय प्रभाव में विद्युत ऊर्जा का रूपांतरण किस रूप में होता है?",
+        "en": "In the heating effect of current, electrical energy converts into which form?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि ऊर्जा",
+          "ऊष्मा ऊर्जा",
+          "रासायनिक ऊर्जा",
+          "चुंबकीय ऊर्जा"
+        ],
+        "en": [
+          "Sound energy",
+          "Heat energy",
+          "Chemical energy",
+          "Magnetic energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रतिरोध में विद्युत कार्य ऊष्मा के रूप में व्यय होता है।",
+        "en": "Electrical work done against resistance appears as heat."
+      }
+    },
+    {
+      "id": "phy11_q115",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "इलेक्ट्रिक गीज़र किस प्रभाव पर कार्य करता है?",
+        "en": "An electric geyser works on which effect?"
+      },
+      "options": {
+        "hi": [
+          "धारा के रासायनिक प्रभाव पर",
+          "विद्युत अपघटन पर",
+          "धारा के तापीय प्रभाव पर",
+          "धारा के चुंबकीय प्रभाव पर"
+        ],
+        "en": [
+          "The chemical effect of current",
+          "Electrolysis",
+          "The heating effect of current",
+          "The magnetic effect of current"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गीज़र का तत्व पानी को गर्म करने के लिए ऊष्मा देता है।",
+        "en": "The geyser's element gives heat to warm the water."
+      }
+    },
+    {
+      "id": "phy11_q116",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'5 एम्पियर' की फ्यूज़ रेटिंग का अर्थ क्या है?",
+        "en": "What does a fuse rating of '5 ampere' mean?"
+      },
+      "options": {
+        "hi": [
+          "फ्यूज़ 5 एम्पियर तक ही धारा दे पाता है, उससे कम में पिघलता है",
+          "फ्यूज़ हमेशा 5 एम्पियर ही बहाता है",
+          "फ्यूज़ 5 वोल्ट पर काम करता है",
+          "5 एम्पियर से अधिक धारा बहने पर फ्यूज़ पिघल जाएगा"
+        ],
+        "en": [
+          "The fuse carries only up to 5 A and melts below it",
+          "The fuse always passes exactly 5 A",
+          "The fuse works at 5 volts",
+          "The fuse will melt if current exceeds 5 ampere"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "रेटिंग वह अधिकतम धारा है जिस तक फ्यूज़ बिना पिघले काम करता है।",
+        "en": "The rating is the maximum current the fuse carries without melting."
+      }
+    },
+    {
+      "id": "phy11_q117",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घरेलू सर्किट में अनुमति से अधिक धारा बहने का प्रमुख खतरा क्या है?",
+        "en": "What is the main danger of excess current in a household circuit?"
+      },
+      "options": {
+        "hi": [
+          "तार अत्यधिक गर्म होकर आग लग सकते हैं",
+          "प्रकाश अधिक तेज हो जाता है",
+          "बिजली का बिल घट जाता है",
+          "उपकरण ठंडे हो जाते हैं"
+        ],
+        "en": [
+          "Wires can overheat and start a fire",
+          "The light becomes brighter",
+          "The electricity bill falls",
+          "Devices cool down"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अधिक धारा पर H = I²Rt से ऊष्मा बहुत बढ़ती है — आग का खतरा।",
+        "en": "With excess current, H = I²Rt raises heat greatly — a fire risk."
+      }
+    },
+    {
+      "id": "phy11_q118",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "CFL या LED बल्ब पुराने फिलामेंट बल्ब की तुलना में ऊर्जा-कुशल क्यों माने जाते हैं?",
+        "en": "Why are CFL or LED bulbs considered more energy-efficient than old filament bulbs?"
+      },
+      "options": {
+        "hi": [
+          "वे बिना बिजली चलते हैं",
+          "वे बहुत कम विद्युत ऊर्जा में लगभग उतना ही प्रकाश देते हैं",
+          "वे अधिक बिजली लेते हैं",
+          "वे केवल ऊष्मा देते हैं"
+        ],
+        "en": [
+          "They run without electricity",
+          "They give nearly the same light for far less electrical energy",
+          "They consume more electricity",
+          "They give out only heat"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फिलामेंट बल्ब की अधिकांश ऊर्जा ऊष्मा में नष्ट होती है; CFL/LED में यह हानि बहुत कम है।",
+        "en": "A filament bulb wastes most energy as heat; CFL/LED waste far less."
+      }
+    },
+    {
+      "id": "phy11_q119",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जूल के तापीय नियम अनुसार उत्पन्न ऊष्मा किन राशियों पर निर्भर करती है?",
+        "en": "According to Joule's law of heating, the heat produced depends on which quantities?"
+      },
+      "options": {
+        "hi": [
+          "केवल तार की मोटाई पर",
+          "धारा की दिशा पर",
+          "धारा (I), प्रतिरोध (R) और समय (t) पर",
+          "केवल वोल्टेज पर"
+        ],
+        "en": [
+          "Only the thickness of the wire",
+          "The direction of current",
+          "Current (I), resistance (R) and time (t)",
+          "Only the voltage"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "H = I²Rt — ऊष्मा धारा के वर्ग, प्रतिरोध और समय के समानुपाती है।",
+        "en": "H = I²Rt — heat is proportional to the square of current, resistance and time."
+      }
+    },
+    {
+      "id": "phy11_q120",
+      "topic": "heating-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हीटर के तत्व का प्रतिरोध जानबूझकर उच्च क्यों रखा जाता है?",
+        "en": "Why is the resistance of a heater element deliberately kept high?"
+      },
+      "options": {
+        "hi": [
+          "ताकि धारा न बहे",
+          "ताकि वोल्टेज घटे",
+          "ताकि तार हल्का रहे",
+          "ताकि उसी धारा से अधिक ऊष्मा उत्पन्न हो (H = I²Rt)"
+        ],
+        "en": [
+          "So that no current flows",
+          "To reduce the voltage",
+          "To keep the wire light",
+          "So more heat is produced for the same current (H = I²Rt)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उच्च प्रतिरोध में विद्युत ऊर्जा अधिक ऊष्मा में बदलती है।",
+        "en": "In high resistance, more electrical energy converts to heat."
+      }
+    },
+    {
+      "id": "phy11_q121",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी तार में बहने वाली धारा दुगुनी कर दी जाए तो उसमें उत्पन्न ऊष्मा का क्या होगा? (समय व प्रतिरोध वही)",
+        "en": "If the current in a wire is doubled, what happens to the heat produced? (time and resistance unchanged)"
+      },
+      "options": {
+        "hi": [
+          "चार गुनी हो जाती है",
+          "दुगुनी हो जाती है",
+          "आधी रह जाती है",
+          "अपरिवर्तित रहती है"
+        ],
+        "en": [
+          "It becomes four times",
+          "It doubles",
+          "It halves",
+          "It stays the same"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "H ∝ I², इसलिए धारा दुगुनी होने पर ऊष्मा 2² = 4 गुनी।",
+        "en": "H ∝ I², so doubling the current makes the heat 2² = 4 times."
+      }
+    },
+    {
+      "id": "phy11_q122",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो प्रतिरोध R और 2R श्रेणीक्रम में जुड़े हैं। समान धारा बहने पर किसमें अधिक ऊष्मा उत्पन्न होगी?",
+        "en": "Two resistances R and 2R are connected in series. With the same current flowing, which produces more heat?"
+      },
+      "options": {
+        "hi": [
+          "किसी में भी नहीं",
+          "2R में, क्योंकि श्रेणी में धारा समान और H ∝ R है",
+          "R में, क्योंकि वह छोटा है",
+          "दोनों में समान"
+        ],
+        "en": [
+          "In neither",
+          "2R, because in series the current is the same and H ∝ R",
+          "R, because it is smaller",
+          "Equal in both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "श्रेणीक्रम में I समान रहता है, अतः बड़ा प्रतिरोध अधिक ऊष्मा देता है।",
+        "en": "In series I is the same, so the larger resistance gives more heat."
+      }
+    },
+    {
+      "id": "phy11_q123",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो प्रतिरोध समान्तरक्रम में एक ही स्रोत से जुड़े हैं। किसमें अधिक ऊष्मा उत्पन्न होगी?",
+        "en": "Two resistances are connected in parallel across the same source. Which produces more heat?"
+      },
+      "options": {
+        "hi": [
+          "दोनों में समान",
+          "निर्भर नहीं करता",
+          "कम प्रतिरोध वाले में, क्योंकि समान वोल्टेज पर उसमें धारा अधिक बहती है",
+          "अधिक प्रतिरोध वाले में"
+        ],
+        "en": [
+          "Equal in both",
+          "It does not depend on resistance",
+          "The lower resistance, because at the same voltage more current flows through it",
+          "The higher resistance"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "समान्तर में V समान; H = V²t/R से कम R वाला अधिक ऊष्मा देता है।",
+        "en": "In parallel V is the same; from H = V²t/R the lower R gives more heat."
+      }
+    },
+    {
+      "id": "phy11_q124",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "20 ओम प्रतिरोध में 3 एम्पियर धारा 10 सेकंड तक बहती है। उत्पन्न ऊष्मा कितनी होगी?",
+        "en": "A current of 3 A flows through a 20 ohm resistance for 10 s. How much heat is produced?"
+      },
+      "options": {
+        "hi": [
+          "600 जूल",
+          "60 जूल",
+          "6000 जूल",
+          "1800 जूल"
+        ],
+        "en": [
+          "600 joule",
+          "60 joule",
+          "6000 joule",
+          "1800 joule"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "H = I²Rt = 9 × 20 × 10 = 1800 जूल।",
+        "en": "H = I²Rt = 9 × 20 × 10 = 1800 joules."
+      }
+    },
+    {
+      "id": "phy11_q125",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "8 ओम प्रतिरोध के तार में 5 एम्पियर धारा 2 मिनट तक बहती है। उत्पन्न ऊष्मा कितनी है?",
+        "en": "A 5 A current flows through an 8 ohm wire for 2 minutes. How much heat is produced?"
+      },
+      "options": {
+        "hi": [
+          "24000 जूल",
+          "80 जूल",
+          "2400 जूल",
+          "4800 जूल"
+        ],
+        "en": [
+          "24000 joule",
+          "80 joule",
+          "2400 joule",
+          "4800 joule"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "H = 25 × 8 × 120 = 24000 जूल (समय 120 सेकंड)।",
+        "en": "H = 25 × 8 × 120 = 24000 joules (time = 120 s)."
+      }
+    },
+    {
+      "id": "phy11_q126",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 ओम के तापक में 4 एम्पियर धारा 50 सेकंड तक बहती है। ऊष्मा का मान क्या होगा?",
+        "en": "A 4 A current passes through a 10 ohm heater for 50 s. What is the heat produced?"
+      },
+      "options": {
+        "hi": [
+          "800 जूल",
+          "8000 जूल",
+          "2000 जूल",
+          "400 जूल"
+        ],
+        "en": [
+          "800 joule",
+          "8000 joule",
+          "2000 joule",
+          "400 joule"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "H = 16 × 10 × 50 = 8000 जूल।",
+        "en": "H = 16 × 10 × 50 = 8000 joules."
+      }
+    },
+    {
+      "id": "phy11_q127",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी तार में धारा आधी कर दी जाए (समय व प्रतिरोध वही) तो ऊष्मा का क्या होगा?",
+        "en": "If the current in a wire is halved (time and resistance the same), what happens to the heat?"
+      },
+      "options": {
+        "hi": [
+          "दुगुनी हो जाती है",
+          "समान रहती है",
+          "एक-चौथाई रह जाती है",
+          "आधी रह जाती है"
+        ],
+        "en": [
+          "It doubles",
+          "It remains the same",
+          "It becomes one-fourth",
+          "It halves"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "H ∝ I² — धारा (1/2) होने पर ऊष्मा (1/2)² = 1/4।",
+        "en": "H ∝ I² — at half current, heat becomes (1/2)² = 1/4."
+      }
+    },
+    {
+      "id": "phy11_q128",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही तापक को दुगुने समय तक चलाया जाए (धारा व प्रतिरोध स्थिर) तो उत्पन्न कुल ऊष्मा का क्या होगा?",
+        "en": "The same heater runs for double the time (current and resistance fixed). What happens to the total heat?"
+      },
+      "options": {
+        "hi": [
+          "चार गुनी हो जाती है",
+          "आधी रह जाती है",
+          "समान रहती है",
+          "दुगुनी हो जाती है"
+        ],
+        "en": [
+          "It becomes four times",
+          "It halves",
+          "It stays the same",
+          "It doubles"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "H ∝ t — समय दुगुना तो ऊष्मा भी दुगुनी।",
+        "en": "H ∝ t — double the time gives double the heat."
+      }
+    },
+    {
+      "id": "phy11_q129",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "220 वोल्ट की आपूर्ति पर 1320 वाट का गीज़र चलाया जा रहा है। उपयुक्त फ्यूज़ रेटिंग कौन-सी हो?",
+        "en": "A 1320 W geyser runs on a 220 V supply. Which fuse rating is appropriate?"
+      },
+      "options": {
+        "hi": [
+          "6 एम्पियर (धारा लगभग 1320/220 = 6 A)",
+          "1 एम्पियर",
+          "60 एम्पियर",
+          "0.5 एम्पियर"
+        ],
+        "en": [
+          "6 ampere (current ≈ 1320/220 = 6 A)",
+          "1 ampere",
+          "60 ampere",
+          "0.5 ampere"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "I = P/V = 6 A — फ्यूज़ रेटिंग सामान्य धारा के बराबर या थोड़ी ऊपर चुनते हैं।",
+        "en": "I = P/V = 6 A — the fuse rating is chosen at or just above normal current."
+      }
+    },
+    {
+      "id": "phy11_q130",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 एम्पियर का फ्यूज़ लगे सर्किट में दो उपकरण जोड़े गए, हर एक लगभग 4 एम्पियर खींचता है। क्या होगा?",
+        "en": "Two appliances, each drawing about 4 A, are connected in a circuit with a 5 A fuse. What happens?"
+      },
+      "options": {
+        "hi": [
+          "धारा घटकर 2 एम्पियर हो जाएगी",
+          "कुल धारा लगभग 8 एम्पियर — फ्यूज़ पिघलकर सर्किट काट देगा",
+          "दोनों आराम से चलते रहेंगे",
+          "फ्यूज़ की रेटिंग बढ़ जाएगी"
+        ],
+        "en": [
+          "The current falls to 2 A",
+          "Total current ≈ 8 A — the fuse melts and cuts the circuit",
+          "Both keep running comfortably",
+          "The fuse rating rises automatically"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समान्तर जुड़ाव में धारा जुड़ती है (4 + 4 = 8 A, जो 5 A से अधिक है) — फ्यूज़ जल जाता है।",
+        "en": "In parallel, currents add (4 + 4 = 8 A, more than 5 A) — the fuse blows."
+      }
+    },
+    {
+      "id": "phy11_q131",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गीज़र का भीतरी तत्व गर्म हो जाता है, पर जुड़े तांबे के कॉर्ड पर कोई असर नहीं — क्यों?",
+        "en": "A geyser's inner element becomes hot, but its copper connecting cord stays cool — why?"
+      },
+      "options": {
+        "hi": [
+          "कॉर्ड गीज़र से ऊष्मा सोख लेता है",
+          "कॉर्ड में वोल्टेज शून्य होता है",
+          "कॉर्ड का प्रतिरोध बहुत कम है, इसलिए उसमें ऊष्मा नगण्य बनती है",
+          "कॉर्ड में धारा नहीं बहती"
+        ],
+        "en": [
+          "The cord absorbs heat from the geyser",
+          "The voltage across the cord is zero",
+          "The cord's resistance is very low, so heat developed in it is negligible",
+          "No current flows in the cord"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "उसी धारा के लिए H ∝ R — तांबे का कम R, कम ऊष्मा।",
+        "en": "For the same current H ∝ R — copper's low R means little heat."
+      }
+    },
+    {
+      "id": "phy11_q132",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कोई व्यक्ति जला हुआ फ्यूज़ बदलते समय मोटा तार लगा देता है। यह कितना सुरक्षित है?",
+        "en": "While replacing a blown fuse, someone fits a much thicker wire. How safe is this?"
+      },
+      "options": {
+        "hi": [
+          "पूर्णतः सुरक्षित — मोटा तार बेहतर है",
+          "कोई फर्क नहीं पड़ता",
+          "यह वोल्टेज बढ़ा देता है",
+          "असुरक्षित — मोटा तार आसानी से नहीं पिघलता, अधिक धारा बहकर आग का कारण बन सकता है"
+        ],
+        "en": [
+          "Completely safe — thicker is better",
+          "It makes no difference",
+          "It raises the voltage",
+          "Unsafe — a thick wire does not melt easily, so excess current can flow and cause a fire"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मोटे तार का प्रतिरोध कम — वह फ्यूज़ की तरह पिघलता नहीं, सुरक्षा समाप्त।",
+        "en": "A thick wire's low resistance keeps it from melting — the protection is gone."
+      }
+    },
+    {
+      "id": "phy11_q133",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फ्यूज़ तार बनाने के लिए तांबे का उपयोग क्यों नहीं किया जाता?",
+        "en": "Why is copper not used for making fuse wire?"
+      },
+      "options": {
+        "hi": [
+          "तांबे का गलनांक ऊँचा और प्रतिरोध कम है — अधिक धारा पर भी जल्दी नहीं पिघलता",
+          "तांबा बहुत महँगा है",
+          "तांबा विद्युत कुचालक है",
+          "तांबा नरम धातु है"
+        ],
+        "en": [
+          "Copper's melting point is high and resistance low — it does not melt quickly even at excess current",
+          "Copper is too costly",
+          "Copper is an insulator",
+          "Copper is a soft metal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फ्यूज़ को अधिक धारा पर तुरंत पिघलना है — तांबा यह कर ही नहीं पाता।",
+        "en": "A fuse must melt promptly on excess current — copper simply doesn't."
+      }
+    },
+    {
+      "id": "phy11_q134",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत शॉर्ट सर्किट होने पर फ्यूज़ कैसे रक्षा करता है?",
+        "en": "How does a fuse protect during a short circuit?"
+      },
+      "options": {
+        "hi": [
+          "फ्यूज़ तारों को ठंडा करता है",
+          "शॉर्ट सर्किट में धारा अचानक बहुत बढ़ती है और फ्यूज़ पिघलकर सर्किट तोड़ देता है",
+          "फ्यूज़ वोल्टेज शून्य कर देता है",
+          "फ्यूज़ धारा की दिशा बदल देता है"
+        ],
+        "en": [
+          "The fuse cools the wires",
+          "In a short circuit the current suddenly spikes and the fuse melts, breaking the circuit",
+          "The fuse brings the voltage to zero",
+          "The fuse reverses the current"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शॉर्ट सर्किट में प्रतिरोध लगभग शून्य — धारा विस्फोटक रूप से बढ़ती है।",
+        "en": "In a short, resistance nears zero — current rises explosively."
+      }
+    },
+    {
+      "id": "phy11_q135",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कमरे का विद्युत हीटर चालू होने पर पहले लाल दिखता है, फिर तपता है। यह किस प्रभाव का क्रमिक परिणाम है?",
+        "en": "A room heater first glows red and then gets very hot after switching on. This progressive result is of which effect?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकीय प्रभाव का",
+          "दाब प्रभाव का",
+          "तापीय प्रभाव — तत्व में धारा बहते ही ऊष्मा बनती जाती है",
+          "रासायनिक प्रभाव का"
+        ],
+        "en": [
+          "The magnetic effect",
+          "The pressure effect",
+          "The heating effect — heat builds up in the element as current flows",
+          "The chemical effect"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तत्व का उच्च प्रतिरोध धारा से लगातार ऊष्मा उत्पन्न करता है।",
+        "en": "The element's high resistance keeps generating heat from the current."
+      }
+    },
+    {
+      "id": "phy11_q136",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन दिए गए हैं: (i) फ्यूज़ सर्किट में श्रेणीक्रम में जोड़ा जाता है। (ii) फ्यूज़ हमेशा लाइव तार में लगाना चाहिए। सही विकल्प चुनें:",
+        "en": "Two statements are given: (i) A fuse is connected in series in the circuit. (ii) The fuse should always be placed in the live wire. Choose the correct option:"
+      },
+      "options": {
+        "hi": [
+          "केवल (i) सही है",
+          "केवल (ii) सही है",
+          "दोनों गलत हैं",
+          "(i) और (ii) दोनों सही हैं"
+        ],
+        "en": [
+          "Only (i) is correct",
+          "Only (ii) is correct",
+          "Both are wrong",
+          "Both (i) and (ii) are correct"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "श्रेणीक्रम + लाइव तार — दोनों जरूरी हैं ताकि फ्यूज़ पिघलते ही पूरी आपूर्ति कट जाए।",
+        "en": "Series and live-wire placement ensure the supply is fully cut when the fuse melts."
+      }
+    },
+    {
+      "id": "phy11_q137",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आधुनिक बल्बों में निर्वात के स्थान पर निष्क्रिय गैस भरने का प्रमुख कारण क्या है?",
+        "en": "What is the main reason modern bulbs fill inert gas instead of using a vacuum?"
+      },
+      "options": {
+        "hi": [
+          "निष्क्रिय गैस फिलामेंट के वाष्पीकरण को धीमा कर उसकी आयु बढ़ाती है",
+          "गैस से बल्ब सस्ता बनता है",
+          "गैस रोशनी का रंग बदलती है",
+          "गैस विद्युत खपत शून्य कर देती है"
+        ],
+        "en": [
+          "The inert gas slows filament evaporation and extends its life",
+          "Gas makes the bulb cheaper",
+          "Gas changes the colour of light",
+          "Gas makes consumption zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "निष्क्रिय गैस अक्रिय रहती है — न जलने देती है, न फिलामेंट को तेजी से पतला।",
+        "en": "Inert gas stays unreactive — no burning and slower filament thinning."
+      }
+    },
+    {
+      "id": "phy11_q138",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "टेलीविज़न या मोटर जैसे उपकरणों में उत्पन्न ऊष्मा 'अनावश्यक' मानी जाती है, जबकि हीटर में 'उपयोगी'। कारण चुनें:",
+        "en": "Heat produced in devices like televisions or motors is 'unwanted', while in a heater it is 'useful'. Choose the reason:"
+      },
+      "options": {
+        "hi": [
+          "मोटर पूर्णतः ठंडी चलती है",
+          "हीटर का उद्देश्य ही ऊष्मा पाना है, जबकि टीवी/मोटर का उद्देश्य प्रकाश/गति है — ऊष्मा वहाँ ऊर्जा की हानि है",
+          "टीवी में ऊष्मा नहीं बनती",
+          "हीटर में ऊर्जा नहीं लगती"
+        ],
+        "en": [
+          "A motor runs perfectly cool",
+          "A heater's purpose is heat itself, while a TV/motor aims at light/motion — there heat is wasted energy",
+          "A TV produces no heat",
+          "A heater needs no energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक ही प्रभाव उद्देश्य के अनुसार उपयोगी या हानिकारक बन जाता है।",
+        "en": "The same effect is useful or wasteful depending on the purpose."
+      }
+    },
+    {
+      "id": "phy11_q139",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत इस्त्री में ऊर्जा का रूपांतरण किस रूप में होता है?",
+        "en": "In an electric iron, energy is converted into which form?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा ऊर्जा से विद्युत ऊर्जा",
+          "विद्युत ऊर्जा से ध्वनि ऊर्जा",
+          "विद्युत ऊर्जा से मुख्यतः ऊष्मा ऊर्जा",
+          "विद्युत ऊर्जा से मुख्यतः रासायनिक ऊर्जा"
+        ],
+        "en": [
+          "Heat energy to electrical energy",
+          "Electrical energy to sound energy",
+          "Electrical energy mainly to heat energy",
+          "Electrical energy mainly to chemical energy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इस्त्री का प्रतिरोधी तत्व विद्युत ऊर्जा को ऊष्मा में बदलता है।",
+        "en": "The iron's resistive element converts electrical energy to heat."
+      }
+    },
+    {
+      "id": "phy11_q140",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो समरूप विद्युत हीटर पहले श्रेणीक्रम में, फिर समान्तरक्रम में जोड़े जाते हैं। किस स्थिति में कुल ऊष्मा अधिक बनेगी?",
+        "en": "Two identical heaters are connected first in series, then in parallel. In which case is more total heat produced?"
+      },
+      "options": {
+        "hi": [
+          "श्रेणी में — धारा समान बहती है",
+          "दोनों में समान",
+          "कह नहीं सकते",
+          "समान्तर में — प्रत्येक हीटर को पूरा वोल्टेज मिलता है"
+        ],
+        "en": [
+          "In series — the current is the same",
+          "Equal in both",
+          "Cannot be said",
+          "In parallel — each heater gets the full voltage"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समान्तर में प्रत्येक तत्व पर पूरा V; H = V²t/R अधिकतम।",
+        "en": "In parallel each element has full V; H = V²t/R is maximal."
+      }
+    },
+    {
+      "id": "phy11_q141",
+      "topic": "heating-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "100 वाट का फिलामेंट बल्ब अपनी ऊर्जा का लगभग 80% ऊष्मा में और 20% प्रकाश में बदलता है। 1 मिनट में ऊष्मा के रूप में कितनी ऊर्जा निकलेगी?",
+        "en": "A 100 W filament bulb converts about 80% of its energy to heat and 20% to light. How much energy leaves as heat in 1 minute?"
+      },
+      "options": {
+        "hi": [
+          "4800 जूल",
+          "6000 जूल",
+          "2000 जूल",
+          "1200 जूल"
+        ],
+        "en": [
+          "4800 joule",
+          "6000 joule",
+          "2000 joule",
+          "1200 joule"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कुल ऊर्जा 100 × 60 = 6000 J; ऊष्मा = 80% = 4800 J।",
+        "en": "Total energy 100 × 60 = 6000 J; heat = 80% = 4800 J."
+      }
+    },
+    {
+      "id": "phy11_q142",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी तापक में धारा दुगुनी कर दी गई और साथ ही समय आधा कर दिया गया। नई ऊष्मा पुरानी ऊष्मा की कितनी गुनी होगी?",
+        "en": "A heater's current is doubled and its running time is halved. The new heat is how many times the old heat?"
+      },
+      "options": {
+        "hi": [
+          "समान",
+          "2 गुनी",
+          "4 गुनी",
+          "8 गुनी"
+        ],
+        "en": [
+          "The same",
+          "2 times",
+          "4 times",
+          "8 times"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "H ∝ I²t → (2)² × (1/2) = 2 गुनी।",
+        "en": "H ∝ I²t → (2)² × (1/2) = 2 times."
+      }
+    },
+    {
+      "id": "phy11_q143",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "40 ओम के तत्व में 5 एम्पियर धारा 1 मिनट तक बहती है। उत्पन्न ऊष्मा कितनी होगी?",
+        "en": "A 5 A current flows through a 40 ohm element for 1 minute. How much heat is produced?"
+      },
+      "options": {
+        "hi": [
+          "200 जूल",
+          "6000 जूल",
+          "60000 जूल (60 किलोजूल)",
+          "12000 जूल"
+        ],
+        "en": [
+          "200 joule",
+          "6000 joule",
+          "60000 joule (60 kilojoule)",
+          "12000 joule"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "H = 25 × 40 × 60 = 60000 जूल।",
+        "en": "H = 25 × 40 × 60 = 60000 joules."
+      }
+    },
+    {
+      "id": "phy11_q144",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी तार से 840 जूल ऊष्मा उत्पन्न हुई। यह ऊष्मा लगभग कितने कैलोरी के बराबर है? (1 कैलोरी ≈ 4.2 जूल)",
+        "en": "A wire produces 840 joule of heat. Approximately how many calories is this? (1 calorie ≈ 4.2 joule)"
+      },
+      "options": {
+        "hi": [
+          "लगभग 840 कैलोरी",
+          "लगभग 4200 कैलोरी",
+          "लगभग 84 कैलोरी",
+          "लगभग 200 कैलोरी"
+        ],
+        "en": [
+          "About 840 calories",
+          "About 4200 calories",
+          "About 84 calories",
+          "About 200 calories"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "840 ÷ 4.2 = 200 कैलोरी।",
+        "en": "840 ÷ 4.2 = 200 calories."
+      }
+    },
+    {
+      "id": "phy11_q145",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीन प्रतिरोध 10 ओम, 20 ओम और 30 ओम श्रेणीक्रम में जुड़े हैं। समान धारा बह रही है। कौन-सा तार सबसे अधिक गर्म होगा?",
+        "en": "Three resistances of 10 Ω, 20 Ω and 30 Ω are in series with the same current flowing. Which wire gets hottest?"
+      },
+      "options": {
+        "hi": [
+          "30 ओम वाला — श्रेणी में H ∝ R",
+          "10 ओम वाला",
+          "20 ओम वाला",
+          "तीनों समान गर्म"
+        ],
+        "en": [
+          "The 30 Ω one — in series H ∝ R",
+          "The 10 Ω one",
+          "The 20 Ω one",
+          "All three equally hot"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समान I पर सबसे बड़ा प्रतिरोध सर्वाधिक ऊष्मा देता है।",
+        "en": "At the same I, the largest resistance gives the most heat."
+      }
+    },
+    {
+      "id": "phy11_q146",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो प्रतिरोध 6 ओम और 3 ओम एक ही बैटरी पर समान्तरक्रम में जुड़े हैं। कौन-सा अधिक गर्म होगा और कितने गुना ऊष्मा देगा?",
+        "en": "Resistances of 6 Ω and 3 Ω are connected in parallel across the same battery. Which gets hotter and by what factor of heat?"
+      },
+      "options": {
+        "hi": [
+          "3 ओम वाला — आधी ऊष्मा",
+          "3 ओम वाला — लगभग दुगुनी ऊष्मा (H ∝ 1/R)",
+          "6 ओम वाला — दुगुनी ऊष्मा",
+          "दोनों समान"
+        ],
+        "en": [
+          "The 3 Ω one — half the heat",
+          "The 3 Ω one — about twice the heat (H ∝ 1/R)",
+          "The 6 Ω one — twice the heat",
+          "Both equal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "H = V²t/R → R आधा होने पर ऊष्मा दुगुनी (6/3 = 2 गुना)।",
+        "en": "H = V²t/R → half the R gives twice the heat (6/3 = 2 times)."
+      }
+    },
+    {
+      "id": "phy11_q147",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक उपकरण सामान्यतः 4.5 एम्पियर धारा लेता है। उपलब्ध फ्यूज़ 4 एम्पियर और 5 एम्पियर के हैं। कौन-सा चुनना चाहिए?",
+        "en": "An appliance normally draws 4.5 A. Available fuses are 4 A and 5 A. Which should be chosen?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक साथ",
+          "कोई भी नहीं",
+          "5 एम्पियर वाला — 4 ए फ्यूज़ सामान्य चालन में ही पिघल जाएगा",
+          "4 एम्पियर वाला — अधिक सुरक्षा"
+        ],
+        "en": [
+          "Both together",
+          "Neither",
+          "The 5 A one — a 4 A fuse would melt during normal running itself",
+          "The 4 A one — more protection"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रेटिंग सामान्य धारा से कम हो तो फ्यूज़ बार-बार जलेगा; 5 A उपयुक्त।",
+        "en": "A rating below normal current blows repeatedly; 5 A fits."
+      }
+    },
+    {
+      "id": "phy11_q148",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बल्ब कम वोल्टेज पर मंद जलता है। इसका सबसे सही कारण क्या है?",
+        "en": "A bulb glows dim at reduced voltage. What is the most correct reason?"
+      },
+      "options": {
+        "hi": [
+          "बल्ब में धारा बढ़ जाती है",
+          "फिलामेंट का प्रतिरोध गिर जाता है",
+          "बल्ब में गैस समाप्त हो जाती है",
+          "कम वोल्टेज पर तत्व की शक्ति (और अतः ऊष्मा) बहुत कम हो जाती है, फिलामेंट श्वेत तप्त नहीं हो पाता"
+        ],
+        "en": [
+          "The bulb's current increases",
+          "The filament's resistance collapses",
+          "The gas inside finishes",
+          "At lower voltage the element's power (hence heat) drops a lot, so the filament never glows white hot"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कम V पर उत्पन्न ऊष्मा कम — फिलामेंट कम तापमान पर मंद जलता है।",
+        "en": "Less V means less heat — the filament runs cooler and dim."
+      }
+    },
+    {
+      "id": "phy11_q149",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीन कथन दिए हैं: (i) ऊष्मा धारा के वर्ग के समानुपाती है। (ii) फ्यूज़ सर्किट में समान्तरक्रम में लगाया जाता है। (iii) टंगस्टन का गलनांक बहुत उच्च है। गलत कथन कौन-सा है?",
+        "en": "Three statements: (i) Heat is proportional to the square of current. (ii) A fuse is connected in parallel in a circuit. (iii) Tungsten has a very high melting point. Which statement is wrong?"
+      },
+      "options": {
+        "hi": [
+          "कथन (ii)",
+          "कथन (i)",
+          "कथन (iii)",
+          "तीनों सही हैं"
+        ],
+        "en": [
+          "Statement (ii)",
+          "Statement (i)",
+          "Statement (iii)",
+          "All three are correct"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फ्यूज़ सदैव श्रेणीक्रम में लाइव तार के साथ जुड़ता है, समान्तर में नहीं।",
+        "en": "A fuse is always in series with the live wire, never in parallel."
+      }
+    },
+    {
+      "id": "phy11_q150",
+      "topic": "heating-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "220 वोल्ट पर 880 वाट का उपकरण चलता है। इसके लिए कौन-सी फ्यूज़ रेटिंग सही वर्ग की है?",
+        "en": "An 880 W appliance runs on 220 V. Which fuse rating is the correct order?"
+      },
+      "options": {
+        "hi": [
+          "लगभग 400 एम्पियर की",
+          "लगभग 4 एम्पियर की रेटिंग",
+          "लगभग 40 एम्पियर की",
+          "लगभग 0.4 एम्पियर की"
+        ],
+        "en": [
+          "About 400 ampere",
+          "A rating of about 4 ampere",
+          "About 40 ampere",
+          "About 0.4 ampere"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "I = P/V = 880/220 = 4 A — फ्यूज़ इसी कोटि का चाहिए।",
+        "en": "I = P/V = 880/220 = 4 A — the fuse should be of this order."
+      }
+    },
+    {
+      "id": "phy11_q151",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत धारा का रासायनिक प्रभाव मुख्यतः कब देखा जाता है?",
+        "en": "When is the chemical effect of electric current mainly observed?"
+      },
+      "options": {
+        "hi": [
+          "जब धारा नहीं बहती",
+          "जब धारा हवा में बहती है",
+          "जब धारा किसी आयनिक विलयन (चालक द्रव) से गुजरती है",
+          "जब धारा तांबे के तार से गुजरती है"
+        ],
+        "en": [
+          "When no current flows",
+          "When current flows through air",
+          "When current passes through an ionic solution (a conducting liquid)",
+          "When current passes through a copper wire"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चालक विलयन से धारा गुजरने पर उसमें रासायनिक अभिक्रिया होती है।",
+        "en": "Passing current through a conducting liquid causes a chemical reaction in it."
+      }
+    },
+    {
+      "id": "phy11_q152",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत अपघटन किसे कहते हैं?",
+        "en": "What is electrolysis?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत धारा से चुंबक बनाना",
+          "विद्युत धारा से तार गर्म करना",
+          "विद्युत धारा से पानी गर्म करना",
+          "विद्युत धारा प्रवाहित करके किसी विलयन का रासायनिक अपघटन"
+        ],
+        "en": [
+          "Making a magnet with current",
+          "Heating a wire with current",
+          "Heating water with current",
+          "Chemical decomposition of a solution by passing electric current"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अपघटन में विलयन रासायनिक रूप से टूटता है — धारा का रासायनिक प्रभाव।",
+        "en": "In electrolysis the solution chemically breaks down — the chemical effect."
+      }
+    },
+    {
+      "id": "phy11_q153",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युतलेपन (इलेक्ट्रोप्लेटिंग) किसे कहते हैं?",
+        "en": "What is electroplating?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत धारा द्वारा किसी वस्तु पर किसी धातु की पतली परत चढ़ाना",
+          "वस्तु को रंग से रंगना",
+          "वस्तु को गर्म करके मोड़ना",
+          "वस्तु पर पेंट करना"
+        ],
+        "en": [
+          "Depositing a thin layer of a metal on an object using electric current",
+          "Colouring an object with dye",
+          "Heating and bending an object",
+          "Painting an object"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लेपन रासायनिक प्रभाव का प्रमुख उपयोग है।",
+        "en": "Plating is the chief application of the chemical effect."
+      }
+    },
+    {
+      "id": "phy11_q154",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आसुत जल विद्युत का चालक है या कुचालक?",
+        "en": "Is distilled water a conductor or an insulator of electricity?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकीय चालक",
+          "कुचालक — इसमें घुले आयन नहीं होते",
+          "अच्छा चालक",
+          "अर्धचालक"
+        ],
+        "en": [
+          "A magnetic conductor",
+          "An insulator — it has no dissolved ions",
+          "A good conductor",
+          "A semiconductor"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शुद्ध/आसुत जल में आयन नहीं होते, इसलिए धारा नहीं बहती।",
+        "en": "Pure/distilled water has no ions, so no current flows."
+      }
+    },
+    {
+      "id": "phy11_q155",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा द्रव विद्युत का कुचालक है?",
+        "en": "Which of the following liquids is an insulator of electricity?"
+      },
+      "options": {
+        "hi": [
+          "नींबू का रस",
+          "साबुन का घोल",
+          "आसुत जल",
+          "नमक का विलयन"
+        ],
+        "en": [
+          "Lemon juice",
+          "Soap solution",
+          "Distilled water",
+          "Salt solution"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बाकी तीनों में आयन होते हैं, आसुत जल में नहीं।",
+        "en": "The other three contain ions; distilled water does not."
+      }
+    },
+    {
+      "id": "phy11_q156",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युतलेपन का एक सामान्य उदाहरण क्या है?",
+        "en": "What is a common example of electroplating?"
+      },
+      "options": {
+        "hi": [
+          "लोहे पर जंग लगाना",
+          "तार में प्लास्टिक लपेटना",
+          "काँच को पिघलाना",
+          "आभूषणों पर चांदी या सोने की पतली परत चढ़ाना"
+        ],
+        "en": [
+          "Rusting an iron piece",
+          "Wrapping plastic on a wire",
+          "Melting glass",
+          "Coating jewellery with a thin layer of silver or gold"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सस्ती धातु की वस्तु पर महँगी धातु की परत चढ़ाई जाती है।",
+        "en": "A cheap-metal article is coated with a thin costly-metal layer."
+      }
+    },
+    {
+      "id": "phy11_q157",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत अपघटन में विलयन में डूबी चालक पट्टियों को क्या कहते हैं?",
+        "en": "What are the conducting plates immersed in the solution during electrolysis called?"
+      },
+      "options": {
+        "hi": [
+          "इलेक्ट्रोड",
+          "फिलामेंट",
+          "फ्यूज़",
+          "रिले"
+        ],
+        "en": [
+          "Electrodes",
+          "Filament",
+          "Fuse",
+          "Relay"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "इलेक्ट्रोड धारा को विलयन में प्रवेश-निकास कराते हैं।",
+        "en": "Electrodes carry current into and out of the solution."
+      }
+    },
+    {
+      "id": "phy11_q158",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युतलेपन में धातु की परत किस इलेक्ट्रोड पर जमा होती है?",
+        "en": "In electroplating, on which electrode does the metal layer deposit?"
+      },
+      "options": {
+        "hi": [
+          "किसी पर नहीं",
+          "ऋणावेशित इलेक्ट्रोड (कैथोड) पर, जिस पर वस्तु रखी जाती है",
+          "धनावेशित इलेक्ट्रोड (एनोड) पर",
+          "दोनों पर समान"
+        ],
+        "en": [
+          "On neither",
+          "On the negatively charged electrode (cathode), where the object is placed",
+          "On the positively charged electrode (anode)",
+          "Equally on both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धनायन कैथोड पर इलेक्ट्रॉन लेकर धातु बन जाते हैं और वस्तु पर चिपक जाते हैं।",
+        "en": "Metal cations gain electrons at the cathode, become metal and adhere to the object."
+      }
+    },
+    {
+      "id": "phy11_q159",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी तरल की विद्युत चालकता जाँचने के शालेय प्रयोग में LED का उपयोग क्यों किया जाता है?",
+        "en": "Why is an LED used in the school experiment to test a liquid's conductivity?"
+      },
+      "options": {
+        "hi": [
+          "LED ताप बढ़ाता है",
+          "LED धारा रोकता है",
+          "LED बहुत कम धारा पर भी जल जाता है, जिससे कमज़ोर चालकता भी पकड़ में आती है",
+          "LED बहुत महँगा होता है"
+        ],
+        "en": [
+          "An LED raises temperature",
+          "An LED blocks current",
+          "An LED glows even at very small current, so weak conductivity is also detected",
+          "An LED is very costly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कमज़ोर विलयनों की अल्प धारा LED दिखा देता है, बल्ब नहीं।",
+        "en": "The tiny current of weak solutions lights an LED, not a bulb."
+      }
+    },
+    {
+      "id": "phy11_q160",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा उपयोग धारा के रासायनिक प्रभाव पर आधारित है?",
+        "en": "Which of the following uses is based on the chemical effect of current?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत घंटी",
+          "विद्युत हीटर",
+          "पंखा",
+          "विद्युतलेपन"
+        ],
+        "en": [
+          "Electric bell",
+          "Electric heater",
+          "Electric fan",
+          "Electroplating"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लेपन में विलयन पर धारा का रासायनिक प्रभाव ही काम करता है।",
+        "en": "Plating works by the chemical action of current on a solution."
+      }
+    },
+    {
+      "id": "phy11_q161",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साइकिल के हैंडल व बम्पर पर क्रोम की परत क्यों चढ़ाई जाती है?",
+        "en": "Why is a chromium layer plated on bicycle handlebars and bumpers?"
+      },
+      "options": {
+        "hi": [
+          "चमक के लिए और जंग से बचाव के लिए",
+          "वजन बढ़ाने के लिए",
+          "ऊष्मा बढ़ाने के लिए",
+          "धारा रोकने के लिए"
+        ],
+        "en": [
+          "For shine and protection from rust",
+          "To increase weight",
+          "To increase heat",
+          "To stop current"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "क्रोम चमकदार और जंग-रोधी है।",
+        "en": "Chromium is shiny and rust-resistant."
+      }
+    },
+    {
+      "id": "phy11_q162",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लोहे की वस्तुओं पर जस्ते (जिंक) की परत चढ़ाने का मुख्य लाभ क्या है?",
+        "en": "What is the main benefit of coating iron objects with zinc?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु कुचालक बन जाती है",
+          "जंग लगने से सुरक्षा मिलती है",
+          "वस्तु चुंबक बन जाती है",
+          "वस्तु हल्की हो जाती है"
+        ],
+        "en": [
+          "The object becomes an insulator",
+          "Protection from rusting",
+          "The object becomes a magnet",
+          "The object becomes light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जिंक की परत नमी व ऑक्सीजन को लोहे तक नहीं पहुँचने देती।",
+        "en": "The zinc layer keeps moisture and oxygen away from the iron."
+      }
+    },
+    {
+      "id": "phy11_q163",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत अपघटन की प्रक्रिया में ऊर्जा का रूपांतरण कैसे होता है?",
+        "en": "How is energy transformed in the process of electrolysis?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा ऊर्जा से प्रकाश ऊर्जा",
+          "यांत्रिक ऊर्जा से विद्युत ऊर्जा",
+          "विद्युत ऊर्जा से रासायनिक ऊर्जा",
+          "रासायनिक ऊर्जा से विद्युत ऊर्जा"
+        ],
+        "en": [
+          "Heat energy to light energy",
+          "Mechanical energy to electrical energy",
+          "Electrical energy to chemical energy",
+          "Chemical energy to electrical energy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धारा विलयन में रासायनिक परिवर्तन करती है — ऊर्जा रासायनिक रूप में जाती है।",
+        "en": "Current drives a chemical change — energy is stored chemically."
+      }
+    },
+    {
+      "id": "phy11_q164",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सी घटना धारा का रासायनिक प्रभाव नहीं है?",
+        "en": "Which of these is NOT the chemical effect of current?"
+      },
+      "options": {
+        "hi": [
+          "विलयन में गैस के बुलबुले बनना",
+          "इलेक्ट्रोड पर धातु जमना",
+          "विलयन का रंग बदलना",
+          "फिलामेंट का तप्त होकर जलना"
+        ],
+        "en": [
+          "Gas bubbles forming in a solution",
+          "Metal depositing on an electrode",
+          "A solution changing colour",
+          "A filament glowing hot"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फिलामेंट का जलना तापीय प्रभाव है।",
+        "en": "The glowing filament is the heating effect."
+      }
+    },
+    {
+      "id": "phy11_q165",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा समूह विद्युत के चालक द्रवों का है?",
+        "en": "Which group consists of electrically conducting liquids?"
+      },
+      "options": {
+        "hi": [
+          "नमक का विलयन, अम्ल विलयन, क्षार विलयन",
+          "आसुत जल, शहद, वनस्पति तेल",
+          "कच्चा तेल, ग्लिसरीन, मक्खन",
+          "शुद्ध जल, अल्कोहल, चीनी का घोल"
+        ],
+        "en": [
+          "Salt solution, acid solution, alkali solution",
+          "Distilled water, honey, vegetable oil",
+          "Crude oil, glycerine, ghee",
+          "Pure water, alcohol, sugar solution"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नमक, अम्ल और क्षार विलयन में भरपूर आयन होते हैं।",
+        "en": "Salt, acid and alkali solutions are rich in ions."
+      }
+    },
+    {
+      "id": "phy11_q166",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत अपघटन के दौरान इलेक्ट्रोडों पर दिखने वाले गैस बुलबुले क्या संकेत देते हैं?",
+        "en": "What do the gas bubbles seen at electrodes during electrolysis indicate?"
+      },
+      "options": {
+        "hi": [
+          "धारा की दिशा बदल गई",
+          "विलयन में रासायनिक अभिक्रिया हो रही है (गैस बन रही है)",
+          "विलयन उबल रहा है",
+          "विलयन जम रहा है"
+        ],
+        "en": [
+          "The current has reversed",
+          "A chemical reaction is occurring in the solution (a gas is forming)",
+          "The solution is boiling",
+          "The solution is freezing"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बुलबुले अपघटन से बनी गैस के हैं — रासायनिक प्रभाव का प्रमाण।",
+        "en": "The bubbles are gas from decomposition — proof of the chemical effect."
+      }
+    },
+    {
+      "id": "phy11_q167",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युतलेपन करते समय जिस धातु की परत चढ़ानी है, उस धातु का टुकड़ा किस रूप में जोड़ा जाता है?",
+        "en": "In electroplating, the piece of the metal to be plated is connected as what?"
+      },
+      "options": {
+        "hi": [
+          "दोनों इलेक्ट्रोडों पर",
+          "बैटरी के बीच में कहीं भी",
+          "धनावेशित इलेक्ट्रोड (एनोड) के रूप में",
+          "ऋणावेशित इलेक्ट्रोड (कैथोड) के रूप में"
+        ],
+        "en": [
+          "On both electrodes",
+          "Anywhere between the battery",
+          "As the positive electrode (anode)",
+          "As the negative electrode (cathode)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चढ़ाने वाली धातु का टुकड़ा एनोड बनता है और वह घुलकर विलयन में धातु देता है।",
+        "en": "The plating metal is the anode; it dissolves to feed the solution."
+      }
+    },
+    {
+      "id": "phy11_q168",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आभूषण उद्योग में विद्युतलेपन का उपयोग किस रूप में होता है?",
+        "en": "How is electroplating used in the jewellery trade?"
+      },
+      "options": {
+        "hi": [
+          "आभूषण पिघलाकर",
+          "आभूषण चुंबक बनाकर",
+          "आभूषण गर्म करके",
+          "सस्ती धातु के आभूषणों पर चांदी/सोने की पतली परत चढ़ाकर"
+        ],
+        "en": [
+          "By melting jewellery",
+          "By magnetising jewellery",
+          "By heating jewellery",
+          "By plating cheap-metal jewellery with a thin silver/gold layer"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पतली महँगी परत से आकर्षण और कीमत — दोनों बढ़ते हैं।",
+        "en": "A thin costly layer adds both appeal and value."
+      }
+    },
+    {
+      "id": "phy11_q169",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारा का रासायनिक प्रभाव होने के लिए आवश्यक शर्तें कौन-सी हैं?",
+        "en": "What conditions are required for the chemical effect of current?"
+      },
+      "options": {
+        "hi": [
+          "धारा का प्रवाह और एक चालक (आयनिक) विलयन",
+          "केवल ठोस चालक तार",
+          "केवल उच्च वोल्टेज",
+          "निर्वात कक्ष"
+        ],
+        "en": [
+          "A flow of current and a conducting (ionic) solution",
+          "Only solid conducting wires",
+          "Only high voltage",
+          "A vacuum chamber"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आयनिक विलयन से धारा गुजरे तभी रासायनिक परिवर्तन होता है।",
+        "en": "Only when current passes through an ionic solution does chemical change occur."
+      }
+    },
+    {
+      "id": "phy11_q170",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पानी में नमक मिलाने पर उसकी विद्युत चालकता का क्या होता है?",
+        "en": "What happens to the electrical conductivity of water when salt is added?"
+      },
+      "options": {
+        "hi": [
+          "कोई परिवर्तन नहीं",
+          "बढ़ जाती है — नमक आयन देता है",
+          "घट जाती है",
+          "समाप्त हो जाती है"
+        ],
+        "en": [
+          "No change",
+          "It increases — salt provides ions",
+          "It decreases",
+          "It vanishes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घुला नमक Na⁺ व Cl⁻ आयन देकर धारा का मार्ग बनाता है।",
+        "en": "Dissolved salt gives Na⁺ and Cl⁻ ions that carry the current."
+      }
+    },
+    {
+      "id": "phy11_q171",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आसुत जल और नमक के विलयन दोनों का LED-परीक्षण किया गया। परिणाम क्या होगा?",
+        "en": "Distilled water and salt solution are both tested with an LED circuit. What is the outcome?"
+      },
+      "options": {
+        "hi": [
+          "किसी में नहीं जलेगा",
+          "आसुत जल में ही जलेगा",
+          "नमक विलयन में LED जलेगा, आसुत जल में नहीं",
+          "दोनों में LED जलेगा"
+        ],
+        "en": [
+          "For neither",
+          "Only for distilled water",
+          "The LED glows for salt solution, not for distilled water",
+          "The LED glows for both"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चालकता आयनों से आती है; आसुत जल में आयन नहीं।",
+        "en": "Conductivity comes from ions; distilled water lacks them."
+      }
+    },
+    {
+      "id": "phy11_q172",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तांबे के लेपन में तांबे की पट्टी (एनोड) का क्या होता है?",
+        "en": "In copper plating, what happens to the copper strip (anode)?"
+      },
+      "options": {
+        "hi": [
+          "वह मोटी होती जाती है",
+          "उस पर तांबा जमता है",
+          "उसमें कोई परिवर्तन नहीं होता",
+          "वह धीरे-धीरे घुलकर पतली होती जाती है और विलयन में तांबा देती है"
+        ],
+        "en": [
+          "It gets thicker",
+          "Copper deposits on it",
+          "It remains unchanged",
+          "It slowly dissolves, getting thinner, and feeds copper to the solution"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एनोड का तांबा घुलता है और कैथोड की वस्तु पर जमता है।",
+        "en": "Anode copper dissolves and deposits on the cathode object."
+      }
+    },
+    {
+      "id": "phy11_q173",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी धातु के चम्मच पर तांबे की परत चढ़ानी है। चम्मच को किस इलेक्ट्रोड पर बनाया जाएगा?",
+        "en": "To coat a metal spoon with copper, the spoon is made which electrode?"
+      },
+      "options": {
+        "hi": [
+          "ऋणावेशित इलेक्ट्रोड (कैथोड)",
+          "धनावेशित इलेक्ट्रोड (एनोड)",
+          "कभी कैथोड, कभी एनोड",
+          "इलेक्ट्रोड नहीं, बल्कि बैटरी"
+        ],
+        "en": [
+          "The negative electrode (cathode)",
+          "The positive electrode (anode)",
+          "Sometimes cathode, sometimes anode",
+          "Not an electrode, but the battery"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जिस वस्तु पर परत चढ़ानी है वह कैथोड बनती है।",
+        "en": "The object to be plated is made the cathode."
+      }
+    },
+    {
+      "id": "phy11_q174",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चांदी की परत चढ़ाने के लिए विद्युतलेपन टैंक का विलयन किसका होना चाहिए?",
+        "en": "For silver plating, the electroplating tank solution should be of what?"
+      },
+      "options": {
+        "hi": [
+          "शुद्ध आसुत जल",
+          "चांदी के लवण का विलयन (जैसे सिल्वर नाइट्रेट)",
+          "सोडियम क्लोराइड का",
+          "तांबे के लवण का"
+        ],
+        "en": [
+          "Pure distilled water",
+          "A solution of a silver salt (such as silver nitrate)",
+          "Sodium chloride solution",
+          "A copper salt solution"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जिस धातु की परत चाहिए, उसी के लवण का विलयन लेते हैं।",
+        "en": "The salt of the plating metal itself is used in the bath."
+      }
+    },
+    {
+      "id": "phy11_q175",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युतलेपन के तीन उपयोगों का सही समूह चुनें:",
+        "en": "Choose the correct group of three uses of electroplating:"
+      },
+      "options": {
+        "hi": [
+          "चुंबक बनाना, घंटी बजाना, मोटर चलाना",
+          "बिजली पैदा करना, बचाना, बेचना",
+          "सजावट (चमक), जंग से सुरक्षा, घिसाव कम करना",
+          "पानी गर्म करना, प्रकाश करना, पंखा चलाना"
+        ],
+        "en": [
+          "Making magnets, ringing bells, running motors",
+          "Generating, saving and selling electricity",
+          "Decoration (shine), rust protection, reducing wear",
+          "Heating water, giving light, running a fan"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लेपन से रूप-सौंदर्य, सुरक्षा और मजबूती — तीनों मिलते हैं।",
+        "en": "Plating gives looks, protection and durability together."
+      }
+    },
+    {
+      "id": "phy11_q176",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चालक विलयन से धारा गुजरने पर विलयन में वास्तव में क्या होता है?",
+        "en": "What actually happens inside a conducting solution when current passes through it?"
+      },
+      "options": {
+        "hi": [
+          "केवल इलेक्ट्रॉन तैरते हैं, कुछ नहीं बदलता",
+          "विलयन तुरंत जम जाता है",
+          "विलयन चुंबक बन जाता है",
+          "आयनों की गति से रासायनिक अभिक्रिया होती है और नए पदार्थ बनते हैं"
+        ],
+        "en": [
+          "Only electrons drift and nothing changes",
+          "The solution instantly freezes",
+          "The solution becomes a magnet",
+          "Movement of ions causes chemical reactions and new substances form"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विलयन में धारा आयनों से बहती है — इसी से रासायनिक परिवर्तन होता है।",
+        "en": "Current in a solution is carried by ions — this drives the chemical change."
+      }
+    },
+    {
+      "id": "phy11_q177",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चालक विलयन में धारा प्रवाहित होने पर साथ-साथ कौन-से दो प्रभाव हो सकते हैं?",
+        "en": "Which two effects can occur together when current flows through a conducting solution?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक प्रभाव (मुख्य) और तापीय प्रभाव (गौण)",
+          "केवल चुंबकीय प्रभाव",
+          "केवल प्रकाशीय प्रभाव",
+          "ध्वनि और प्रकाश प्रभाव"
+        ],
+        "en": [
+          "Chemical effect (main) and heating effect (minor)",
+          "Only the magnetic effect",
+          "Only an optical effect",
+          "Sound and light effects"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विलयन में अभिक्रिया के साथ हल्की गर्मी भी बनती है।",
+        "en": "Along with the reaction, a little heat also develops."
+      }
+    },
+    {
+      "id": "phy11_q178",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युतलेपन के दौरान धारा बंद कर दें तो क्या होगा?",
+        "en": "What happens if the current is switched off during electroplating?"
+      },
+      "options": {
+        "hi": [
+          "विलयन उबल जाता है",
+          "धातु की परत चढ़ना तुरंत बंद हो जाती है",
+          "परत चढ़ती रहती है",
+          "वस्तु पिघल जाती है"
+        ],
+        "en": [
+          "The solution boils",
+          "The deposition of the metal layer stops immediately",
+          "Plating continues",
+          "The object melts"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लेपन धारा के रासायनिक प्रभाव पर निर्भर है — धारा बंद, प्रभाव बंद।",
+        "en": "Plating depends on the current's chemical action — no current, no plating."
+      }
+    },
+    {
+      "id": "phy11_q179",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जंग लगने वाले लोहे के औजारों पर निकल या क्रोम की परत चढ़ाना क्यों समझदारी है?",
+        "en": "Why is it wise to plate iron tools (prone to rust) with nickel or chromium?"
+      },
+      "options": {
+        "hi": [
+          "परत औजार को चुंबक बनाती है",
+          "परत औजार को नरम करती है",
+          "परत नमी और ऑक्सीजन को लोहे से दूर रखती है, साथ ही चमक देती है",
+          "परत लोहे को हल्का कर देती है"
+        ],
+        "en": [
+          "The layer magnetises the tool",
+          "The layer softens the tool",
+          "The layer keeps moisture and oxygen away from the iron and adds shine",
+          "The layer makes the tool lighter"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धातु-परत दोहरा लाभ देती है — सुरक्षा और सौंदर्य।",
+        "en": "A metal coat gives a double benefit — protection and finish."
+      }
+    },
+    {
+      "id": "phy11_q180",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नींबू या संतरे के रस से जुड़ा सरल परिपथ बनाया गया। बल्ब/LED का क्या अवलोकन होगा?",
+        "en": "A simple circuit is made using lemon or orange juice. What will be observed for the bulb/LED?"
+      },
+      "options": {
+        "hi": [
+          "बल्ब पूरी चमक से जलेगा",
+          "कुछ नहीं जलेगा — रस पूर्ण कुचालक",
+          "LED फट जाएगा",
+          "हल्की चालकता के कारण LED धीमा-सा जलेगा (रस में अम्लीय आयन)"
+        ],
+        "en": [
+          "The bulb glows at full brightness",
+          "Nothing glows — juice is a perfect insulator",
+          "The LED bursts",
+          "The LED glows faintly due to weak conductivity (acidic ions in the juice)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फलों के रस में साइट्रिक अम्ल के आयन कमज़ोर चालकता देते हैं।",
+        "en": "Citric-acid ions in fruit juices give weak conductivity."
+      }
+    },
+    {
+      "id": "phy11_q181",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वनस्पति तेल या मक्खन जैसे द्रव विद्युत चालक नहीं हैं। उचित कारण क्या है?",
+        "en": "Liquids like vegetable oil or ghee do not conduct electricity. What is the proper reason?"
+      },
+      "options": {
+        "hi": [
+          "इनमें स्वतंत्र आयन नहीं होते — चार्ज ढुलाई के लिए कोई वाहक नहीं",
+          "ये बहुत गाढ़े होते हैं, इसलिए धारा रुक जाती है",
+          "ये रंगीन होते हैं",
+          "ये हल्के होते हैं"
+        ],
+        "en": [
+          "They contain no free ions — no carriers to transport charge",
+          "They are too thick, so current stops",
+          "They are coloured",
+          "They are light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चालकता के लिए आयन चाहिए; तेल-मक्खन सहसंयोजी अणुओं के द्रव हैं।",
+        "en": "Conduction needs ions; oils and ghee are covalent-molecule liquids."
+      }
+    },
+    {
+      "id": "phy11_q182",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पानी के विद्युत अपघटन पर इलेक्ट्रोडों पर कौन-सी गैसें एकत्र होती हैं?",
+        "en": "Which gases collect at the electrodes during the electrolysis of water?"
+      },
+      "options": {
+        "hi": [
+          "कार्बन डाइऑक्साइड और मीथेन",
+          "एक इलेक्ट्रोड पर हाइड्रोजन और दूसरे पर ऑक्सीजन",
+          "दोनों पर ऑक्सीजन",
+          "दोनों पर नाइट्रोजन"
+        ],
+        "en": [
+          "Carbon dioxide and methane",
+          "Hydrogen at one electrode and oxygen at the other",
+          "Oxygen at both",
+          "Nitrogen at both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अम्ल मिले जल का अपघटन H₂ और O₂ देता है।",
+        "en": "Electrolysis of acidified water yields H₂ and O₂."
+      }
+    },
+    {
+      "id": "phy11_q183",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युतलेपन और साधारण पेंटिंग में मूल अंतर क्या है?",
+        "en": "What is the fundamental difference between electroplating and simple painting?"
+      },
+      "options": {
+        "hi": [
+          "लेपन में कोई परत नहीं चढ़ती",
+          "दोनों में कोई अंतर नहीं",
+          "लेपन में धातु-परत विद्युत धारा से चिपकती है, पेंट बस बाहरी परत है जो उतर सकती है",
+          "पेंट अधिक टिकाऊ होता है"
+        ],
+        "en": [
+          "No layer is deposited in plating",
+          "There is no difference",
+          "In plating a metal layer bonds via electric current; paint is just an outer coat that can peel",
+          "Paint is more durable"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विद्युतलेपन की धातु-परत पेंट की तुलना में कहीं पक्की चिपकती है।",
+        "en": "An electroplated metal coat adheres far better than paint."
+      }
+    },
+    {
+      "id": "phy11_q184",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) विद्युत अपघटन में विलयन रासायनिक रूप से अपघटित होता है। (ii) विद्युतलेपन में धातु कैथोड पर जमा होती है। सही विकल्प:",
+        "en": "Two statements: (i) In electrolysis the solution decomposes chemically. (ii) In electroplating metal deposits on the cathode. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "केवल (i) सही",
+          "केवल (ii) सही",
+          "दोनों गलत",
+          "दोनों कथन सही हैं"
+        ],
+        "en": [
+          "Only (i) correct",
+          "Only (ii) correct",
+          "Both wrong",
+          "Both statements are correct"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अपघटन में विलयन टूटता है, लेपन में धातु जमती है — दोनों रासायनिक प्रभाव के रूप हैं।",
+        "en": "Decomposition breaks the solution; plating deposits metal — both are chemical-effect forms."
+      }
+    },
+    {
+      "id": "phy11_q185",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत परिपथ में धनावेशित इलेक्ट्रोड को क्या कहा जाता है?",
+        "en": "What is the positively charged electrode in an electric circuit called?"
+      },
+      "options": {
+        "hi": [
+          "एनोड",
+          "कैथोड",
+          "फिलामेंट",
+          "रिले"
+        ],
+        "en": [
+          "Anode",
+          "Cathode",
+          "Filament",
+          "Relay"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धनाग्र एनोड कहलाता है।",
+        "en": "The positive electrode is the anode."
+      }
+    },
+    {
+      "id": "phy11_q186",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चांदी का लेपन करते समय कारीगर एनोड पर तांबे की पट्टी और विलयन में तांबे का लवण लगा देता है। क्या होगा?",
+        "en": "While silver plating, a worker fits a copper strip as the anode and a copper salt in the bath. What happens?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु गल जाएगी",
+          "तांबा ही जमेगा — चांदी की परत नहीं चढ़ेगी; चांदी का एनोड व चांदी का लवण चाहिए",
+          "चांदी की परत चढ़ जाएगी",
+          "कुछ नहीं जमेगा"
+        ],
+        "en": [
+          "The object dissolves",
+          "Copper will deposit — no silver layer; a silver anode and silver salt are needed",
+          "A silver layer will plate out",
+          "Nothing deposits"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जिस धातु की परत चाहिए उसी का लवण-विलयन और एनोड जरूरी है।",
+        "en": "The salt solution and anode must be of the metal you want to deposit."
+      }
+    },
+    {
+      "id": "phy11_q187",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "इलेक्ट्रोडों की जगह बदलकर उलट दिया जाए तो विद्युतलेपन में किस इलेक्ट्रोड पर जमा होगा?",
+        "en": "If the electrodes are swapped, in electroplating on which electrode will deposition occur?"
+      },
+      "options": {
+        "hi": [
+          "दोनों पर",
+          "अब कहीं नहीं",
+          "हमेशा ऋणावेशित इलेक्ट्रोड (नया कैथोड) पर",
+          "पुराने एनोड पर ही"
+        ],
+        "en": [
+          "On both",
+          "Nowhere now",
+          "Always on the negatively charged electrode (the new cathode)",
+          "Still on the old anode"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जमाव धनायनों के कारण होता है, जो ऋणाग्र की ओर ही जाते हैं।",
+        "en": "Deposition follows the cations, which always head to the negative electrode."
+      }
+    },
+    {
+      "id": "phy11_q188",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नमक का जल-विलयन और चीनी का जल-विलयन — कौन-सा विद्युत चालक है और क्यों?",
+        "en": "Salt solution vs sugar solution in water — which conducts electricity and why?"
+      },
+      "options": {
+        "hi": [
+          "चीनी का विलयन, क्योंकि वह मीठा है",
+          "दोनों समान चालक",
+          "दोनों कुचालक",
+          "नमक का विलयन, क्योंकि वह आयन (Na⁺, Cl⁻) देता है; चीनी आयन नहीं देती"
+        ],
+        "en": [
+          "The sugar solution, because it is sweet",
+          "Both conduct equally",
+          "Both are insulators",
+          "The salt solution, because it gives ions (Na⁺, Cl⁻); sugar gives no ions"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नमक आयनित होता है, चीनी सहसंयोजी — चालकता आयनों से आती है।",
+        "en": "Salt ionises, sugar is covalent — only ions conduct."
+      }
+    },
+    {
+      "id": "phy11_q189",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी तरल में इलेक्ट्रोड डालने पर बुलबुले और इलेक्ट्रोड पर धातु जमा दिखे। यह किसकी पुष्टि है?",
+        "en": "Bubbles and a metal deposit on electrodes appear when electrodes are dipped in a liquid. This confirms what?"
+      },
+      "options": {
+        "hi": [
+          "तरल से धारा गुजर रही है और धारा का रासायनिक प्रभाव हो रहा है",
+          "तरल उबल रहा है",
+          "चुंबकीय प्रभाव हो रहा है",
+          "तरल जम रहा है"
+        ],
+        "en": [
+          "Current is passing through the liquid and its chemical effect is occurring",
+          "The liquid is boiling",
+          "A magnetic effect is occurring",
+          "The liquid is freezing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बुलबुले + धातु-जमाव = अभिक्रिया = रासायनिक प्रभाव।",
+        "en": "Bubbles + metal deposit = reaction = the chemical effect."
+      }
+    },
+    {
+      "id": "phy11_q190",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गीले हाथ से विद्युत स्विच छूना खतरनाक क्यों है? विलयन-चालकता के आधार पर उत्तर दें:",
+        "en": "Why is touching an electric switch with wet hands dangerous? Answer using solution conductivity:"
+      },
+      "options": {
+        "hi": [
+          "गीले हाथ से वोल्टेज घट जाता है",
+          "पसीने/पानी में घुले लवण आयन देकर धारा का मार्ग बना देते हैं",
+          "गीला हाथ हल्का हो जाता है",
+          "पानी धारा को पूर्णतः रोकता है"
+        ],
+        "en": [
+          "Wet hands lower the voltage",
+          "Salts dissolved in sweat/water provide ions that open a path for current",
+          "The wet hand becomes light",
+          "Water fully blocks current"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शरीर के लवण-युक्त नमी में चालकता आ जाती है — झटका लग सकता है।",
+        "en": "Salty moisture on skin conducts — risk of shock."
+      }
+    },
+    {
+      "id": "phy11_q191",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चालक (आयनिक) विलयन में विद्युत धारा वास्तव में किस रूप में बहती है?",
+        "en": "In a conducting (ionic) solution, in what form does electric current actually flow?"
+      },
+      "options": {
+        "hi": [
+          "घुले अणुओं के बहाव से",
+          "प्रोटॉनों की धारा से",
+          "आयनों की विपरीत दिशाओं में गति से — धनायन कैथोड की ओर, ऋणायन एनोड की ओर",
+          "मुक्त इलेक्ट्रॉनों के प्रवाह से, जैसे धातु में"
+        ],
+        "en": [
+          "A drift of dissolved molecules",
+          "A current of protons",
+          "Movement of ions in opposite directions — cations toward the cathode, anions toward the anode",
+          "A flow of free electrons, as in metals"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विलयन में आवेश-वाहक आयन हैं; धातु में इलेक्ट्रॉन — यही अंतर है।",
+        "en": "In solutions the charge carriers are ions; in metals, electrons — that is the difference."
+      }
+    },
+    {
+      "id": "phy11_q192",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "विद्युतलेपन में धातु-धनायन किस इलेक्ट्रोड की ओर जाते हैं और क्यों?",
+        "en": "In electroplating, toward which electrode do metal cations move and why?"
+      },
+      "options": {
+        "hi": [
+          "धनावेशित एनोड की ओर — समान आवेशों का आकर्षण",
+          "कहीं नहीं जाते",
+          "दोनों ओर समान रूप से",
+          "ऋणावेशित कैथोड की ओर — विपरीत आवेशों का आकर्षण"
+        ],
+        "en": [
+          "Toward the positively charged anode — attraction of like charges",
+          "They do not move",
+          "Equally both ways",
+          "Toward the negatively charged cathode — attraction of opposite charges"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धनायन (धातु) ऋणाग्र की ओर खिंचते हैं और वहीं जमते हैं।",
+        "en": "Positive metal ions pull toward the negative electrode and deposit there."
+      }
+    },
+    {
+      "id": "phy11_q193",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अपघटन में ऋणायन किस इलेक्ट्रोड पर जाते हैं?",
+        "en": "In electrolysis, to which electrode do anions travel?"
+      },
+      "options": {
+        "hi": [
+          "धनावेशित एनोड पर",
+          "ऋणावेशित कैथोड पर",
+          "दोनों पर",
+          "किसी पर नहीं"
+        ],
+        "en": [
+          "To the positively charged anode",
+          "To the negatively charged cathode",
+          "To both",
+          "To neither"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऋणायन धनाग्र की ओर जाते हैं।",
+        "en": "Negative ions head for the positive electrode."
+      }
+    },
+    {
+      "id": "phy11_q194",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "लंबे समय तक चलने के बाद तांबा-लेपन टैंक में एनोड पट्टी और कैथोड वस्तु की मोटाइयों का क्या संबंध दिखेगा?",
+        "en": "After long operation of a copper-plating tank, what relation is seen between the anode strip's and cathode object's thickness?"
+      },
+      "options": {
+        "hi": [
+          "कोई परिवर्तन नहीं",
+          "एनोड पतली हुई लगभग उतनी ही जितनी वस्तु पर तांबा जमा हुआ",
+          "दोनों मोटी हो गईं",
+          "दोनों पतली हो गईं"
+        ],
+        "en": [
+          "No change at all",
+          "The anode thinned by roughly as much copper as deposited on the object",
+          "Both became thicker",
+          "Both became thinner"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धातु एनोड से घुलकर कैथोड पर जमती है — संरक्षण का खेल।",
+        "en": "Metal dissolves at the anode and deposits at the cathode — conservation in action."
+      }
+    },
+    {
+      "id": "phy11_q195",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो कथन: (i) विद्युतलेपन में विलयन की धातु-सांद्रता लगातार गिरती है क्योंकि धातु वस्तु पर चली जाती है। (ii) उपयुक्त एनोड घुलकर विलयन की धातु पूरी करता रहता है। सही विकल्प:",
+        "en": "Two statements: (i) In electroplating the metal concentration of the bath keeps falling as metal moves to the object. (ii) A suitable anode dissolves and keeps replenishing the bath's metal. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "(i) सही, (ii) गलत",
+          "(i) गलत, (ii) सही — एनोड विलयन को पूरा करता है",
+          "दोनों सही"
+        ],
+        "en": [
+          "Both wrong",
+          "(i) correct, (ii) wrong",
+          "(i) wrong, (ii) correct — the anode replenishes the bath",
+          "Both correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एनोड घुलकर लवण-विलयन की धातु लगातार बहाल रखता है।",
+        "en": "The dissolving anode keeps the bath's metal level steady."
+      }
+    },
+    {
+      "id": "phy11_q196",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "आसुत जल के बल्ब-परीक्षण में बल्ब नहीं जलता, पर उसमें नमक डालते ही जलने लगता है। इसका शुद्ध कारण चुनें:",
+        "en": "In a bulb test with distilled water the bulb does not glow, but it starts glowing when salt is added. Choose the exact reason:"
+      },
+      "options": {
+        "hi": [
+          "नमक पानी को गाढ़ा करता है",
+          "नमक वोल्टेज बढ़ा देता है",
+          "नमक बल्ब की तार को ठंडा करता है",
+          "नमक घुलकर स्वतंत्र आयन बनाता है, जो विलयन में धारा वहन करते हैं"
+        ],
+        "en": [
+          "Salt thickens the water",
+          "Salt raises the voltage",
+          "Salt cools the bulb filament",
+          "Dissolved salt forms free ions that carry current through the solution"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धारा वहन के लिए आवेशित वाहक (आयन) चाहिए — नमक वही देता है।",
+        "en": "Conduction needs charged carriers — salt supplies the ions."
+      }
+    },
+    {
+      "id": "phy11_q197",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तेल-मैले सतह वाली वस्तु पर विद्युतलेपन करने पर परत असमान/कमज़ोर आती है। कारण?",
+        "en": "When electroplating an object with a greasy surface, the layer comes out uneven/weak. Why?"
+      },
+      "options": {
+        "hi": [
+          "तेल की परत विलयन का वस्तु से संपर्क रोकती है, धातु समान रूप से नहीं चिप पाती",
+          "तेल धारा बढ़ा देता है",
+          "तेल विलयन को जमा देता है",
+          "तेल एनोड को खा जाता है"
+        ],
+        "en": [
+          "The grease blocks contact between solution and object, so metal cannot adhere evenly",
+          "Grease increases the current",
+          "Grease freezes the bath",
+          "Grease eats the anode"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "साफ चालक सतह पर ही धातु परत समान जमती है — इसलिए पहले सफाई की जाती है।",
+        "en": "Metal adheres evenly only on a clean conducting surface — hence cleaning first."
+      }
+    },
+    {
+      "id": "phy11_q198",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चार कथनों में से बेमेल (असंगत) कौन-सा है? (i) विलयन में गैस-बुलबुले (ii) इलेक्ट्रोड पर धातु-जमाव (iii) विलयन का रंग-परिवर्तन (iv) तार का तप्त होना — इनमें रासायनिक प्रभाव का संकेत नहीं है?",
+        "en": "Which of the four is the odd one out (not a sign of the chemical effect)? (i) gas bubbles in solution (ii) metal deposit on electrode (iii) colour change of solution (iv) wire getting hot"
+      },
+      "options": {
+        "hi": [
+          "कथन (iii)",
+          "कथन (iv) — यह तापीय प्रभाव है",
+          "कथन (i)",
+          "कथन (ii)"
+        ],
+        "en": [
+          "Statement (iii)",
+          "Statement (iv) — it is the heating effect",
+          "Statement (i)",
+          "Statement (ii)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तार का गर्म होना जूल-तापीय प्रभाव है, रासायनिक नहीं।",
+        "en": "A hot wire is Joule heating, not a chemical change."
+      }
+    },
+    {
+      "id": "phy11_q199",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मोम या प्लास्टिक की वस्तु पर सीधे विद्युतलेपन नहीं होता। इसका भौतिक कारण क्या है?",
+        "en": "Wax or plastic objects cannot be electroplated directly. What is the physical reason?"
+      },
+      "options": {
+        "hi": [
+          "ये पारदर्शी होती हैं",
+          "ये नरम होती हैं",
+          "ये विद्युत कुचालक हैं — कैथोड बन ही नहीं सकते, धातु-आयन उन पर नहीं जम सकते",
+          "ये बहुत हल्की होती हैं"
+        ],
+        "en": [
+          "They are transparent",
+          "They are soft",
+          "They are insulators — they cannot act as a cathode, so metal ions cannot deposit on them",
+          "They are too light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लेपन के लिए वस्तु का चालक होना जरूरी है; अचालक सतह पर धातु चिपकती नहीं।",
+        "en": "The object must conduct; on an insulating surface metal won't stick."
+      }
+    },
+    {
+      "id": "phy11_q200",
+      "topic": "chemical-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक विद्युतलेपन इकाई में कुछ महीनों बाद एनोड पट्टियाँ पतली और जिन वस्तुओं पर लेपन हुआ वे मोटी दिखीं। इससे क्या निष्कर्ष निकलता है?",
+        "en": "In an electroplating unit, after a few months the anode strips look thin and the plated objects look thick. What conclusion follows?"
+      },
+      "options": {
+        "hi": [
+          "एनोड पर धातु बनी रही",
+          "विलयन से धातु समाप्त हो गई",
+          "कैथोड घुलने लगा",
+          "धातु एनोड से विलयन होते हुए कैथोड-वस्तुओं पर स्थानांतरित हुई"
+        ],
+        "en": [
+          "Metal kept forming on the anode",
+          "The bath's metal got exhausted",
+          "The cathode started dissolving",
+          "Metal transferred from the anode, via the solution, onto the cathode objects"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एनोड-घुलाव और कैथोड-जमाव संतुलित धातु-स्थानांतरण दिखाते हैं।",
+        "en": "Anode dissolution and cathode build-up show balanced metal transfer."
+      }
+    },
+    {
+      "id": "phy11_q201",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारा के चुंबकीय प्रभाव की खोज किसने की?",
+        "en": "Who discovered the magnetic effect of current?"
+      },
+      "options": {
+        "hi": [
+          "ओस्टेड ने",
+          "न्यूटन ने",
+          "गैलीलियो ने",
+          "आर्किमिडीज़ ने"
+        ],
+        "en": [
+          "Oersted",
+          "Newton",
+          "Galileo",
+          "Archimedes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ओस्टेड ने देखा कि धारा बहते तार के पास कंपास सुई विचलित हो जाती है।",
+        "en": "Oersted saw a compass needle deflect near a current-carrying wire."
+      }
+    },
+    {
+      "id": "phy11_q202",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारावाही चालक तार के चारों ओर क्या बन जाता है?",
+        "en": "What is formed around a current-carrying conductor?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश किरणें",
+          "एक चुंबकीय क्षेत्र",
+          "कोई क्षेत्र नहीं बनता",
+          "केवल ऊष्मा"
+        ],
+        "en": [
+          "Light rays",
+          "A magnetic field",
+          "No field is formed",
+          "Only heat"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गतिमान आवेश (धारा) के कारण तार के चारों ओर चुंबकीय क्षेत्र बनता है।",
+        "en": "Moving charge (current) creates a magnetic field around the wire."
+      }
+    },
+    {
+      "id": "phy11_q203",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तार में स्विच ऑन करते ही पास रखी कंपास सुई घूम जाती है। यह किसका प्रमाण है?",
+        "en": "A nearby compass needle swings the moment a wire's switch is turned on. What is this proof of?"
+      },
+      "options": {
+        "hi": [
+          "तार में वोल्टेज शून्य है",
+          "कमरे में हवा चल रही है",
+          "तार में धारा बह रही है और उसका चुंबकीय प्रभाव है",
+          "तार बहुत गर्म है"
+        ],
+        "en": [
+          "The wire's voltage is zero",
+          "There is a draught in the room",
+          "Current is flowing in the wire and exerting its magnetic effect",
+          "The wire is very hot"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कंपास का विचलन धारा के चुंबकीय प्रभाव का सीधा संकेत है।",
+        "en": "A compass deflection directly signals the magnetic effect of current."
+      }
+    },
+    {
+      "id": "phy11_q204",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक किस प्रभाव पर कार्य करता है?",
+        "en": "An electromagnet works on which effect?"
+      },
+      "options": {
+        "hi": [
+          "तापीय प्रभाव पर",
+          "रासायनिक प्रभाव पर",
+          "विद्युत अपघटन पर",
+          "विद्युत धारा के चुंबकीय प्रभाव पर"
+        ],
+        "en": [
+          "The heating effect",
+          "The chemical effect",
+          "Electrolysis",
+          "The magnetic effect of electric current"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कुंडली में धारा बहते ही वह चुंबक बन जाती है।",
+        "en": "The coil becomes a magnet as soon as current flows."
+      }
+    },
+    {
+      "id": "phy11_q205",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत घंटी किस प्रभाव पर कार्य करती है?",
+        "en": "An electric bell works on which effect?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत धारा के चुंबकीय प्रभाव पर",
+          "तापीय प्रभाव पर",
+          "रासायनिक प्रभाव पर",
+          "गुरुत्व प्रभाव पर"
+        ],
+        "en": [
+          "The magnetic effect of electric current",
+          "The heating effect",
+          "The chemical effect",
+          "The gravitational effect"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "घंटी का विद्युत-चुंबक हथौड़ा खींचता है और घंटी बजती है।",
+        "en": "An electromagnet in the bell pulls the hammer to strike the gong."
+      }
+    },
+    {
+      "id": "phy11_q206",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रिले एक किस प्रकार का उपकरण है जो धारा के चुंबकीय प्रभाव से चलता है — इसका कार्य क्या है?",
+        "en": "A relay, a device running on the magnetic effect of current, does what job?"
+      },
+      "options": {
+        "hi": [
+          "वोल्टेज बढ़ाना",
+          "छोटी धारा वाले सर्किट से बड़े सर्किट का स्विच चालू-बंद करना",
+          "पानी गर्म करना",
+          "धातु की परत चढ़ाना"
+        ],
+        "en": [
+          "Raising voltage",
+          "Using a small-current circuit to switch a large circuit on and off",
+          "Heating water",
+          "Plating a metal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रिले का विद्युत-चुंबक संपर्क खींचकर मुख्य सर्किट जोड़ता-तोड़ता है।",
+        "en": "The relay's electromagnet moves contacts to make or break the main circuit."
+      }
+    },
+    {
+      "id": "phy11_q207",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पंखे की मोटर में विद्युत ऊर्जा मुख्यतः किस रूप में बदलती है?",
+        "en": "In a fan's motor, electrical energy mainly converts into which form?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश ऊर्जा",
+          "ध्वनि ऊर्जा",
+          "यांत्रिक ऊर्जा (घूर्णन)",
+          "रासायनिक ऊर्जा"
+        ],
+        "en": [
+          "Light energy",
+          "Sound energy",
+          "Mechanical energy (rotation)",
+          "Chemical energy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मोटर विद्युत लेकर ब्लेड घुमाती है — विद्युत से यांत्रिक।",
+        "en": "The motor takes electricity and spins the blades — electrical to mechanical."
+      }
+    },
+    {
+      "id": "phy11_q208",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओस्टेड के प्रयोग में कंपास सुई को धारावाही तार के नीचे किस स्थिति में रखा गया था?",
+        "en": "In Oersted's experiment, how was the compass needle placed relative to the current-carrying wire?"
+      },
+      "options": {
+        "hi": [
+          "तार के लंबवत",
+          "तार से बहुत दूर",
+          "तार के ऊपर विरुद्ध दिशा में",
+          "तार के समानांतर (उसके नीचे)"
+        ],
+        "en": [
+          "Perpendicular to the wire",
+          "Far away from the wire",
+          "Above the wire, in the opposite sense",
+          "Parallel to the wire (below it)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समानांतर रखने पर विचलन स्पष्ट दिखता है — इसी से प्रभाव पकड़ में आया।",
+        "en": "Parallel placement makes the deflection clear — that is how the effect was caught."
+      }
+    },
+    {
+      "id": "phy11_q209",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तार में धारा की दिशा उलट देने पर कंपास सुई का विचलन क्या होगा?",
+        "en": "If the direction of current in the wire is reversed, what happens to the compass deflection?"
+      },
+      "options": {
+        "hi": [
+          "विचलन की दिशा भी उलट जाती है",
+          "विचलन उतना ही रहता है, दिशा वही",
+          "विचलन समाप्त हो जाता है",
+          "सुई घूमना बंद कर देती है"
+        ],
+        "en": [
+          "The deflection reverses direction too",
+          "The deflection stays the same way",
+          "The deflection disappears",
+          "The needle stops turning"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धारा की दिशा बदलने से चुंबकीय प्रभाव की दिशा बदल जाती है।",
+        "en": "Reversing current reverses the direction of its magnetic action."
+      }
+    },
+    {
+      "id": "phy11_q210",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तार में धारा बंद कर देने पर उसके चारों ओर बना चुंबकीय प्रभाव का क्या होता है?",
+        "en": "What happens to the magnetic effect around a wire when the current is switched off?"
+      },
+      "options": {
+        "hi": [
+          "वह उलट जाता है",
+          "वह समाप्त हो जाता है",
+          "वह और बढ़ जाता है",
+          "वह स्थायी रह जाता है"
+        ],
+        "en": [
+          "It reverses",
+          "It disappears",
+          "It grows further",
+          "It becomes permanent"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धारा रुकते ही तार एक साधारण चालक लौट आता है।",
+        "en": "Once current stops, the wire is just an ordinary conductor again."
+      }
+    },
+    {
+      "id": "phy11_q211",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा उपकरण धारा के चुंबकीय प्रभाव पर आधारित नहीं है?",
+        "en": "Which of these devices is NOT based on the magnetic effect of current?"
+      },
+      "options": {
+        "hi": [
+          "रिले",
+          "विद्युत मोटर",
+          "विद्युत इस्त्री",
+          "विद्युत घंटी"
+        ],
+        "en": [
+          "A relay",
+          "An electric motor",
+          "An electric iron",
+          "An electric bell"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इस्त्री तापीय प्रभाव से गर्म होती है।",
+        "en": "An iron works by the heating effect."
+      }
+    },
+    {
+      "id": "phy11_q212",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हीटर, विद्युत-घंटी और विद्युतलेपन टैंक — इनमें चुंबकीय प्रभाव किसमें है?",
+        "en": "A heater, an electric bell and an electroplating tank — which of these involves the magnetic effect?"
+      },
+      "options": {
+        "hi": [
+          "हीटर में",
+          "विद्युतलेपन टैंक में",
+          "तीनों में",
+          "विद्युत-घंटी में"
+        ],
+        "en": [
+          "The heater",
+          "The electroplating tank",
+          "All three",
+          "The electric bell"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हीटर = तापीय, लेपन = रासायनिक, घंटी = चुंबकीय प्रभाव।",
+        "en": "Heater = heating, plating = chemical, bell = magnetic effect."
+      }
+    },
+    {
+      "id": "phy11_q213",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत घंटी में हथौड़ा घंटी से टकराता है — इसे खींचने का काम कौन करता है?",
+        "en": "In an electric bell the hammer strikes the gong — what pulls it?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत-चुंबक, जब धारा बहती है",
+          "स्थायी चुंबक, बिना धारा के",
+          "स्प्रिंग ही",
+          "गुरुत्वाकर्षण"
+        ],
+        "en": [
+          "The electromagnet, while current flows",
+          "A permanent magnet, without any current",
+          "Only the spring",
+          "Gravity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धारा बहते ही विद्युत-चुंबक आर्मेचर-हथौड़े को खींचता है।",
+        "en": "As current flows, the electromagnet pulls the armature-hammer."
+      }
+    },
+    {
+      "id": "phy11_q214",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारावाही तार के पास कंपास सुई का विचलन बढ़ाने के लिए धारा की मात्रा कैसी चाहिए?",
+        "en": "To increase the deflection of a compass near a current-carrying wire, how should the current change?"
+      },
+      "options": {
+        "hi": [
+          "धारा का विचलन से कोई संबंध नहीं",
+          "धारा बढ़ानी चाहिए",
+          "धारा घटानी चाहिए",
+          "धारा बंद कर देनी चाहिए"
+        ],
+        "en": [
+          "Current has no relation to deflection",
+          "The current should be increased",
+          "The current should be decreased",
+          "The current should be switched off"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धारा जितनी अधिक, चुंबकीय प्रभाव उतना प्रबल — विचलन बढ़ता है।",
+        "en": "More current, stronger magnetic action — larger deflection."
+      }
+    },
+    {
+      "id": "phy11_q215",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मोटर किस प्रभाव के आधार पर घूर्णन देती है?",
+        "en": "On the basis of which effect does a motor produce rotation?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक प्रभाव",
+          "गुरुत्वीय प्रभाव",
+          "चुंबकीय प्रभाव — चुंबकीय क्षेत्र में धारावाही कुंडली पर बल",
+          "तापीय प्रभाव"
+        ],
+        "en": [
+          "The chemical effect",
+          "The gravitational effect",
+          "The magnetic effect — force on a current-carrying coil in a magnetic field",
+          "The heating effect"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्षेत्र में धारावाही कुंडली बल अनुभव करती है और घूमने लगती है।",
+        "en": "A current-carrying coil in a field experiences force and spins."
+      }
+    },
+    {
+      "id": "phy11_q216",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारा के चुंबकीय प्रभाव का मूल कारण क्या है?",
+        "en": "What is the root cause of the magnetic effect of current?"
+      },
+      "options": {
+        "hi": [
+          "आवेशों का विराम",
+          "तार का रंग",
+          "तार की मोटाई",
+          "आवेशों की गति (प्रवाह)"
+        ],
+        "en": [
+          "Charges at rest",
+          "The colour of the wire",
+          "The thickness of the wire",
+          "The motion (flow) of charges"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गतिमान आवेश ही चुंबकीय प्रभाव पैदा करते हैं।",
+        "en": "Moving charges alone create the magnetic effect."
+      }
+    },
+    {
+      "id": "phy11_q217",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कंपास-विचलन पर आधारित सरल 'धारा-संसूचक' क्या बताता है?",
+        "en": "A simple compass-deflection 'current detector' tells us what?"
+      },
+      "options": {
+        "hi": [
+          "परिपथ में धारा बह रही है या नहीं",
+          "धारा का ठीक मान एम्पियर में",
+          "वोल्टेज का मान",
+          "प्रतिरोध का मान"
+        ],
+        "en": [
+          "Whether current is flowing in the circuit or not",
+          "The exact value of current in amperes",
+          "The value of voltage",
+          "The value of resistance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विचलन दिखे तो धारा है — यह गुणात्मक परीक्षण है, माप नहीं।",
+        "en": "A deflection means current flows — a qualitative test, not a measurement."
+      }
+    },
+    {
+      "id": "phy11_q218",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धारा के तीन प्रभावों में से कौन-सा प्रभाव विद्युत घंटी, रिले और मोटर को एक साथ चलाता है?",
+        "en": "Which one of the three effects of current runs the electric bell, relay and motor together?"
+      },
+      "options": {
+        "hi": [
+          "कोई प्रभाव नहीं",
+          "चुंबकीय प्रभाव",
+          "तापीय प्रभाव",
+          "रासायनिक प्रभाव"
+        ],
+        "en": [
+          "No effect",
+          "The magnetic effect",
+          "The heating effect",
+          "The chemical effect"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तीनों उपकरण धारा के चुंबकीय प्रभाव पर कार्य करते हैं।",
+        "en": "All three devices work on the magnetic effect of current."
+      }
+    },
+    {
+      "id": "phy11_q219",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत-चुंबक बनाम स्थायी चुंबक — घंटी जैसे उपकरण में विद्युत-चुंबक का विशेष लाभ क्या है?",
+        "en": "Electromagnet vs permanent magnet — what is the special advantage of an electromagnet in a device like a bell?"
+      },
+      "options": {
+        "hi": [
+          "वह कभी कमज़ोर नहीं होता",
+          "वह सस्ता चुंबक है",
+          "धारा चालू/बंद करके उसका आकर्षण चालू/बंद किया जा सकता है",
+          "उसे बिना बिजली चलाया जा सकता है"
+        ],
+        "en": [
+          "It never weakens",
+          "It is a cheap magnet",
+          "Its attraction can be switched on/off with the current",
+          "It can be run without electricity"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बार-बंद आकर्षण से ही हथौड़ा बार-बार टकराता है — यही स्थायी चुंबक नहीं कर सकता।",
+        "en": "Repeated on/off attraction lets the hammer strike repeatedly — a permanent magnet can't."
+      }
+    },
+    {
+      "id": "phy11_q220",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साधारण घंटी सर्किट में बटन दबाते ही धारा का क्या होता है?",
+        "en": "In a simple bell circuit, what happens to the current when the button is pressed?"
+      },
+      "options": {
+        "hi": [
+          "धारा उलट दिशा में बहती है",
+          "धारा वोल्टेज बढ़ा देती है",
+          "धारा पूरी रुक जाती है",
+          "परिपथ पूर्ण होकर धारा बहने लगती है"
+        ],
+        "en": [
+          "The current flows backwards",
+          "The current raises the voltage",
+          "The current stops entirely",
+          "The circuit completes and current starts flowing"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बटन दबाने से सर्किट बंद होता है — धारा बहती है, विद्युत-चुंबक काम करता है।",
+        "en": "Pressing the button closes the circuit — current flows, the electromagnet acts."
+      }
+    },
+    {
+      "id": "phy11_q221",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ओस्टेड की खोज का वैज्ञानिक महत्व क्या रहा?",
+        "en": "What was the scientific importance of Oersted's discovery?"
+      },
+      "options": {
+        "hi": [
+          "इससे विद्युत और चुंबकत्व का अंतर्संबंध स्थापित हुआ",
+          "इससे गुरुत्वाकर्षण का नियम बना",
+          "इससे प्रकाश की चाल निकली",
+          "इससे ऊष्मा का नियम बना"
+        ],
+        "en": [
+          "It established the connection between electricity and magnetism",
+          "It produced the law of gravitation",
+          "It found the speed of light",
+          "It made the law of heat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पहली बार सिद्ध हुआ कि विद्युत धारा चुंबकीय प्रभाव उत्पन्न करती है।",
+        "en": "It was first proved that electric current produces magnetic action."
+      }
+    },
+    {
+      "id": "phy11_q222",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत-चुंबक बनाते समय तार को कुंडली (कॉइल) के रूप में क्यों लपेटा जाता है?",
+        "en": "Why is the wire wound as a coil while making an electromagnet?"
+      },
+      "options": {
+        "hi": [
+          "कुंडली धारा रोक देती है",
+          "कुंडली के फेरों के चुंबकीय प्रभाव जुड़कर क्षेत्र को मजबूत बनाते हैं",
+          "कुंडली से तार सुंदर दिखता है",
+          "कुंडली में प्रतिरोध शून्य हो जाता है"
+        ],
+        "en": [
+          "The coil blocks current",
+          "The magnetic actions of the coil's turns add up and strengthen the field",
+          "The coil looks neat",
+          "The coil's resistance becomes zero"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कई फेरों के प्रभाव संचित होते हैं — कुंडली विद्युत-चुंबक का आधार है।",
+        "en": "Many turns stack their effects — the coil is the basis of an electromagnet."
+      }
+    },
+    {
+      "id": "phy11_q223",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रिले का उपयोग उद्योगों में स्वचालन और सुरक्षा में क्यों होता है?",
+        "en": "Why are relays used for automation and safety in industries?"
+      },
+      "options": {
+        "hi": [
+          "रिले धातु चढ़ाता है",
+          "रिले पानी गर्म करता है",
+          "कम धारा वाले नियंत्रण सर्किट सुरक्षित रहते हैं, जो बड़ी धारा वाले मुख्य उपकरण को चालू-बंद करते हैं",
+          "रिले से बिजली बनती है"
+        ],
+        "en": [
+          "A relay plates metals",
+          "A relay heats water",
+          "A low-current control circuit stays safe while switching high-current main equipment",
+          "A relay generates electricity"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऑपरेटर छोटे सर्किट से ही बड़े मोटर आदि चलाता है — सुरक्षित स्वचालन।",
+        "en": "The operator runs big motors through a small circuit — safe automation."
+      }
+    },
+    {
+      "id": "phy11_q224",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत घंटी की सही क्रियाविधि का क्रम क्या है?",
+        "en": "What is the correct sequence of an electric bell's working?"
+      },
+      "options": {
+        "hi": [
+          "बटन दबा → तार गरम → घंटी बजी",
+          "बटन दबा → विलयन अपघटित → घंटी बजी",
+          "बटन दबा → धारा उलटी → घंटी बजी",
+          "बटन दबा → धारा → विद्युत-चुंबक → हथौड़ा टकराया → घंटी बजी"
+        ],
+        "en": [
+          "Button pressed → wire heats → bell rings",
+          "Button pressed → solution decomposes → bell rings",
+          "Button pressed → current reverses → bell rings",
+          "Button pressed → current → electromagnet → hammer strikes → bell rings"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चुंबकीय प्रभाव ही हथौड़े को गति देता है।",
+        "en": "The magnetic action is what moves the hammer."
+      }
+    },
+    {
+      "id": "phy11_q225",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी विद्युत-चुंबक की कुंडली में धारा की दिशा उलट दें तो उसके ध्रुवों का क्या होगा?",
+        "en": "If the current direction in an electromagnet's coil is reversed, what happens to its poles?"
+      },
+      "options": {
+        "hi": [
+          "ध्रुव आपस में बदल जाते हैं (N↔S)",
+          "ध्रुव वही रहते हैं",
+          "चुंबकत्व समाप्त हो जाता है",
+          "दोनों ध्रुव उत्तरी बन जाते हैं"
+        ],
+        "en": [
+          "The poles swap (N↔S)",
+          "The poles stay the same",
+          "The magnetism vanishes",
+          "Both poles become north"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धारा की दिशा बदलने पर क्षेत्र की दिशा उलट जाती है।",
+        "en": "Reversing current reverses the field direction."
+      }
+    },
+    {
+      "id": "phy11_q226",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटर की कुंडली घूमने का अंतिम कारण क्या है?",
+        "en": "What is the ultimate cause of a motor coil's rotation?"
+      },
+      "options": {
+        "hi": [
+          "कुंडली का गुरुत्व से गिरना",
+          "चुंबकीय क्षेत्र में धारावाही कुंडली पर लगने वाला बल",
+          "कुंडली का गर्म होना",
+          "कुंडली में रासायनिक अभिक्रिया"
+        ],
+        "en": [
+          "The coil falling under gravity",
+          "The force experienced by a current-carrying coil in a magnetic field",
+          "The coil getting hot",
+          "A chemical reaction in the coil"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चुंबकीय प्रभाव से मिलने वाला बल ही घूर्णन बनाता है।",
+        "en": "The force from the magnetic effect is what creates the rotation."
+      }
+    },
+    {
+      "id": "phy11_q227",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कारण-प्रभाव मिलाइए: मोटर चालू होते ही शाफ्ट घूमने लगती है, क्योंकि —",
+        "en": "Match cause and effect: the shaft starts spinning as soon as the motor is switched on, because —"
+      },
+      "options": {
+        "hi": [
+          "कुंडली पिघल जाती है",
+          "बैटरी ठंडी हो जाती है",
+          "धारावाही कुंडली पर चुंबकीय क्षेत्र से बल लगता है",
+          "कुंडली में विलयन जमा होता है"
+        ],
+        "en": [
+          "The coil melts",
+          "The battery cools down",
+          "A force acts on the current-carrying coil from the magnetic field",
+          "A solution deposits in the coil"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धारा + क्षेत्र = बल = घूर्णन।",
+        "en": "Current + field = force = rotation."
+      }
+    },
+    {
+      "id": "phy11_q228",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) धारावाही तार के चारों ओर चुंबकीय क्षेत्र होता है। (ii) धारा बंद होने पर यह क्षेत्र समाप्त हो जाता है। सही विकल्प:",
+        "en": "Two statements: (i) There is a magnetic field around a current-carrying wire. (ii) When the current stops, this field vanishes. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "केवल (i) सही",
+          "केवल (ii) सही",
+          "दोनों गलत",
+          "दोनों सही हैं"
+        ],
+        "en": [
+          "Only (i)",
+          "Only (ii)",
+          "Both wrong",
+          "Both are correct"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "क्षेत्र धारा पर निर्भर — धारा है तो क्षेत्र है।",
+        "en": "The field depends on current — current present, field present."
+      }
+    },
+    {
+      "id": "phy11_q229",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपास सुई के नीचे तार उत्तर-दक्षिण दिशा में रखा है। विचलन सबसे स्पष्ट कब दिखेगा?",
+        "en": "A wire lies north-south just below a compass needle. When is the deflection seen most clearly?"
+      },
+      "options": {
+        "hi": [
+          "जब तार और सुई शुरुआत में समानांतर हों और धारा पर्याप्त हो",
+          "जब तार सुई के लंबवत हो",
+          "जब धारा बहुत कम हो",
+          "जब तार में कोई धारा न हो"
+        ],
+        "en": [
+          "When wire and needle start parallel and the current is sufficient",
+          "When the wire is perpendicular to the needle",
+          "When the current is very small",
+          "When no current flows"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समानांतर अवस्था में तार का क्षेत्र सुई को सबसे अच्छा घुमाता है।",
+        "en": "In the parallel position the wire's field turns the needle best."
+      }
+    },
+    {
+      "id": "phy11_q230",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उपकरण-प्रभाव मिलान में गलत जोड़ी कौन-सी है?",
+        "en": "Which device-effect pairing is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "विद्युतलेपन — रासायनिक प्रभाव",
+          "रिले — रासायनिक प्रभाव",
+          "हीटर — तापीय प्रभाव",
+          "घंटी — चुंबकीय प्रभाव"
+        ],
+        "en": [
+          "Electroplating — chemical effect",
+          "Relay — chemical effect",
+          "Heater — heating effect",
+          "Bell — magnetic effect"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रिले चुंबकीय प्रभाव पर चलता है, रासायनिक पर नहीं।",
+        "en": "A relay runs on the magnetic effect, not the chemical one."
+      }
+    },
+    {
+      "id": "phy11_q231",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कबाड़खाने में लोहे के टुकड़े उठाने और छोड़ने के लिए कौन-सा चुंबक सबसे उपयुक्त है?",
+        "en": "Which magnet is most suitable for lifting and dropping iron pieces in a scrapyard?"
+      },
+      "options": {
+        "hi": [
+          "कोई चुंबक नहीं",
+          "चुंबकीय अयस्क",
+          "विद्युत-चुंबक — धारा बंद करते ही टुकड़े छूट जाते हैं",
+          "स्थायी चुंबक — कभी नहीं छोड़ेगा"
+        ],
+        "en": [
+          "No magnet",
+          "Magnetic ore",
+          "An electromagnet — switch off the current and the pieces drop",
+          "A permanent magnet — it never lets go"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धारा ऑफ करने पर आकर्षण समाप्त — ढेर जहाँ चाहें छोड़ दें।",
+        "en": "Current off, attraction gone — drop the load wherever needed."
+      }
+    },
+    {
+      "id": "phy11_q232",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत घंटी लगातार बजती रहती है बिना रुके। इसकी क्रियाविधि में निरंतरता किससे आती है?",
+        "en": "An electric bell keeps ringing continuously. What gives this continuity in its mechanism?"
+      },
+      "options": {
+        "hi": [
+          "बैटरी बार-बार बदली जाती है",
+          "घंटी में पानी भरा रहता है",
+          "हथौड़े में विलयन रहता है",
+          "संपर्क बार-बार बनता-टूटता है, जिससे विद्युत-चुंबक बार-बार हथौड़ा खींचता है"
+        ],
+        "en": [
+          "The battery is replaced repeatedly",
+          "The bell stays filled with water",
+          "The hammer holds a solution",
+          "The contact repeatedly makes and breaks, so the electromagnet pulls the hammer again and again"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आर्मेचर के झूलने से सर्किट बार-बार बनता-टूटता है।",
+        "en": "The swinging armature breaks and remakes the circuit — ding-dong! Joining this completes the answer."
+      }
+    },
+    {
+      "id": "phy11_q233",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "घंटी के सर्किट में धारा की दिशा उलट दी जाए तो घंटी का क्या होगा?",
+        "en": "If the current direction in a bell's circuit is reversed, what happens to the bell?"
+      },
+      "options": {
+        "hi": [
+          "घंटी फिर भी बजेगी — विद्युत-चुंबक दोनों दिशाओं में आकर्षित करता है",
+          "घंटी बंद हो जाएगी",
+          "घंटी उलटी आवाज़ करेगी",
+          "घंटी पिघल जाएगी"
+        ],
+        "en": [
+          "The bell still rings — an electromagnet attracts either way",
+          "The bell stops",
+          "The bell rings backwards",
+          "The bell melts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आकर्षण ध्रुव-निरपेक्ष होता है; दिशा बदलने से आकर्षण नहीं रुकता।",
+        "en": "The attraction is pole-agnostic; reversing current doesn't stop it."
+      }
+    },
+    {
+      "id": "phy11_q234",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन उपकरण — इस्त्री, विद्युत-घंटी, विद्युतलेपन — इनके प्रभावों का सही क्रम है:",
+        "en": "Three devices — iron, electric bell, electroplating — the correct order of their effects is:"
+      },
+      "options": {
+        "hi": [
+          "तीनों तापीय",
+          "तापीय, चुंबकीय, रासायनिक",
+          "रासायनिक, तापीय, चुंबकीय",
+          "चुंबकीय, रासायनिक, तापीय"
+        ],
+        "en": [
+          "All heating",
+          "Heating, magnetic, chemical",
+          "Chemical, heating, magnetic",
+          "Magnetic, chemical, heating"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "उद्देश्य से प्रभाव पहचानें — यही परीक्षा का पक्का प्रश्न है।",
+        "en": "Identify the effect from the purpose — a classic exam ask."
+      }
+    },
+    {
+      "id": "phy11_q235",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रिले के भीतर विद्युत-चुंबक बना होता है। यह किस काम आता है?",
+        "en": "A relay contains an electromagnet. What does it do there?"
+      },
+      "options": {
+        "hi": [
+          "वह विलयन अपघटित करता है",
+          "वह बैटरी चार्ज करता है",
+          "धारा बहते ही वह संपर्क-पट्टी खींचकर मुख्य सर्किट जोड़ देता है",
+          "वह तार गर्म करता है"
+        ],
+        "en": [
+          "It decomposes a solution",
+          "It charges the battery",
+          "As current flows it pulls the contact strip and closes the main circuit",
+          "It heats the wires"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विद्युत-चुंबक का खिंचाव ही रिले की स्विचिंग है।",
+        "en": "The electromagnet's pull is the relay's switching action."
+      }
+    },
+    {
+      "id": "phy11_q236",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रयोग: तार के ऊपर कंपास रखा, स्विच ऑन किया, सुई विचलित हुई; स्विच ऑफ करते ही सुई वापस उत्तर-दक्षिण में आ गई। निष्कर्ष क्या है?",
+        "en": "Experiment: a compass over a wire deflects when the switch is on and returns to north-south when switched off. What is the conclusion?"
+      },
+      "options": {
+        "hi": [
+          "तार स्थायी चुंबक बन गया",
+          "कंपास खराब है",
+          "धारा से कोई प्रभाव नहीं",
+          "तार का चुंबकीय प्रभाव धारा पर निर्भर है"
+        ],
+        "en": [
+          "The wire became a permanent magnet",
+          "The compass is faulty",
+          "Current has no effect",
+          "The wire's magnetic effect depends on the current"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धारा आते-जाते क्षेत्र आता-जाता है — नियंत्रण धारा के हाथ में।",
+        "en": "Field comes and goes with the current — the current is in control."
+      }
+    },
+    {
+      "id": "phy11_q237",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोटर और विद्युत घंटी में क्या समानता है?",
+        "en": "What is common between a motor and an electric bell?"
+      },
+      "options": {
+        "hi": [
+          "दोनों धारा के चुंबकीय प्रभाव पर कार्य करते हैं",
+          "दोनों में विलयन होता है",
+          "दोनों रासायनिक प्रभाव से चलते हैं",
+          "दोनों में फ्यूज़ होता है"
+        ],
+        "en": [
+          "Both work on the magnetic effect of current",
+          "Both contain a solution",
+          "Both run on the chemical effect",
+          "Both contain a fuse"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चुंबकीय प्रभाव से ही एक घुमाता है, दूसरा बजाता है।",
+        "en": "The magnetic effect makes one spin and the other ring."
+      }
+    },
+    {
+      "id": "phy11_q238",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी तार को कंपास के चारों ओर लपेटकर प्रयोग किया जाए तो विचलन एकल सीधे तार की तुलना में कैसा होगा?",
+        "en": "If a wire is wound several times around a compass for the experiment, how is the deflection compared with a single straight wire?"
+      },
+      "options": {
+        "hi": [
+          "शून्य",
+          "अधिक — कई फेरों के प्रभाव जुड़ जाते हैं",
+          "कम",
+          "समान"
+        ],
+        "en": [
+          "Zero",
+          "Larger — the effects of several turns add up",
+          "Smaller",
+          "The same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फेरे बढ़ाने से उसी धारा का चुंबकीय प्रभाव तेज होता है।",
+        "en": "More turns amplify the magnetic action of the same current."
+      }
+    },
+    {
+      "id": "phy11_q239",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धारा की उपस्थिति कंपास-विचलन से पकड़ी जा सकती है। टूटे (खुले) परिपथ में यह परीक्षण क्या दिखाएगा?",
+        "en": "The presence of current can be detected by compass deflection. What will this test show in a broken (open) circuit?"
+      },
+      "options": {
+        "hi": [
+          "उलटा विचलन",
+          "सुई घूमती रहेगी",
+          "कोई विचलन नहीं — धारा बह नहीं रही",
+          "बड़ा विचलन"
+        ],
+        "en": [
+          "A reversed deflection",
+          "The needle keeps spinning",
+          "No deflection — no current is flowing",
+          "A large deflection"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खुला परिपथ = शून्य धारा = शून्य चुंबकीय प्रभाव।",
+        "en": "Open circuit = zero current = zero magnetic action."
+      }
+    },
+    {
+      "id": "phy11_q240",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत-चुंबक का उपयोग करने वाली घंटी में वसंत-स्प्रिंग का कार्य क्या है?",
+        "en": "In a bell using an electromagnet, what is the role of the return spring?"
+      },
+      "options": {
+        "hi": [
+          "हथौड़े को गर्म करना",
+          "घंटी को रंगना",
+          "धारा का मान नापना",
+          "धारा टूटते ही हथौड़े को वापस खींचना, ताकि संपर्क बने और चक्र दोहराए"
+        ],
+        "en": [
+          "To heat the hammer",
+          "To colour the bell",
+          "To measure current",
+          "To pull the hammer back when current breaks, so contact remakes and the cycle repeats"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्प्रिंग का वापसी-झटका ही टन-टन की लय बनाता है।",
+        "en": "The spring's return kick sets the ding-dong rhythm."
+      }
+    },
+    {
+      "id": "phy11_q241",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक उपकरण में विद्युत-चुंबक और वापसी-स्प्रिंग दोनों का प्रयोग होता है। यह उपकरण और कारण कौन-सा है?",
+        "en": "A device uses both an electromagnet and a return spring. Which device and reason is it?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत घंटी — चुंबक खींचता है, स्प्रिंग छोड़ता है, इससे हथौड़ा बार-बार टकराता है",
+          "विद्युत इस्त्री — स्प्रिंग ताप बढ़ाती है",
+          "फ्यूज़ — स्प्रिंग तार पिघलाती है",
+          "हीटर — स्प्रिंग ऊष्मा बाँटती है"
+        ],
+        "en": [
+          "An electric bell — the magnet pulls, the spring releases, so the hammer strikes repeatedly",
+          "An electric iron — the spring raises the temperature",
+          "A fuse — the spring melts the wire",
+          "A heater — the spring distributes heat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खींचना और छोड़ना दोनों चाहिए — तभी बार-बार ध्वनि बनती है।",
+        "en": "Both pull and release are needed — only then does repeated striking occur."
+      }
+    },
+    {
+      "id": "phy11_q242",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ओस्टेड के प्रयोग में विचलन क्यों होता है — भौतिक रूप से क्या जुड़ता है?",
+        "en": "Why does deflection occur in Oersted's experiment — what physically combines?"
+      },
+      "options": {
+        "hi": [
+          "तार का गुरुत्व सुई खींचता है",
+          "पृथ्वी के क्षेत्र और तार के चुंबकीय क्षेत्र का अध्यारोपण, जिससे अनुतुलित घूर्णन बल बनता है",
+          "तार की ऊष्मा से सुई फैलती है",
+          "तार का रंग सुई पर पड़ता है"
+        ],
+        "en": [
+          "The wire's gravity pulls the needle",
+          "Superposition of the earth's field and the wire's magnetic field, creating an unbalanced turning force",
+          "The wire's heat expands the needle",
+          "The wire's colour affects the needle"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दो क्षेत्रों के मिलान से लौह सुई पर शुद्ध बल-आघूर्ण आता है।",
+        "en": "The two fields combine to give the steel needle a net torque."
+      }
+    },
+    {
+      "id": "phy11_q243",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कंपास-विचलन आधारित धारा-संसूचक से टूटे तार वाले परिपथ की पहचान कैसे होती है?",
+        "en": "How can a compass-deflection current detector identify a circuit with a broken wire?"
+      },
+      "options": {
+        "hi": [
+          "सुई उलट घूमती है",
+          "यह संसूचक टूटा तार नहीं पकड़ सकता",
+          "जहाँ विचलन बिल्कुल नहीं मिलता, वहाँ धारा पथ टूटा है — क्रम से जाँचकर स्थान पकड़ा जाता है",
+          "विचलन जहाँ सबसे तेज है वहीं तार टूटा है"
+        ],
+        "en": [
+          "The needle spins backwards",
+          "This detector cannot find a break",
+          "Where no deflection appears, the current path is broken — checking in sequence locates it",
+          "The break is where deflection is strongest"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धारा-पथ के साथ-साथ जाँच से मौन-बिंदु ही टूटन का संकेत देता है।",
+        "en": "Moving along the path, the silent point marks the break."
+      }
+    },
+    {
+      "id": "phy11_q244",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "रिले बनाम फ्यूज़ — दोनों सर्किट में काम आते हैं। इनकी भूमिकाओं में अंतर है:",
+        "en": "Relay vs fuse — both serve circuits. Their roles differ:"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक ही काम करते हैं",
+          "फ्यूज़ स्विचिंग करता है, रिले पिघलता है",
+          "दोनों धातु चढ़ाते हैं",
+          "फ्यूज़ अधिक धारा पर सुरक्षा से सर्किट काटता है; रिले चुंबकीय प्रभाव से स्विचिंग करता है"
+        ],
+        "en": [
+          "Both do the same job",
+          "A fuse switches, a relay melts",
+          "Both plate metals",
+          "A fuse cuts the circuit for safety on excess current; a relay does switching via the magnetic effect"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फ्यूज़ = तापीय प्रभाव से रक्षा; रिले = चुंबकीय प्रभाव से नियंत्रण।",
+        "en": "Fuse = protection via heating effect; relay = control via magnetic effect."
+      }
+    },
+    {
+      "id": "phy11_q245",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "विद्युत घंटी की आर्मेचर पट्टी किस धातु की बनाई जाती है और क्यों?",
+        "en": "The armature strip of an electric bell is made of which metal and why?"
+      },
+      "options": {
+        "hi": [
+          "नरम लोहे की — आसानी से चुंबकित होकर तुरंत हथौड़ा खींचती है और धारा टूटते ही चुंबकत्व छोड़ देती है",
+          "तांबे की — वह चुंबकित नहीं होता, फिर भी खिंचती है",
+          "एल्युमिनियम की — हल्की है",
+          "प्लास्टिक की — कुचालक है"
+        ],
+        "en": [
+          "Soft iron — it magnetises easily to pull the hammer at once and drops its magnetism the moment current breaks",
+          "Copper — it does not magnetise yet still pulls",
+          "Aluminium — it is light",
+          "Plastic — it is an insulator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नरम लोहे की त्वरित चुंबकन-विचुंबकन ही घंटी की तेज लय बनाती है।",
+        "en": "Soft iron's quick magnetise-demagnetise makes the bell brisk."
+      }
+    },
+    {
+      "id": "phy11_q246",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि किसी कारण मोटर की कुंडली पर चुंबकीय बल ही न लगे, तो क्या होगा?",
+        "en": "If, for some reason, no magnetic force acts on a motor's coil, what happens?"
+      },
+      "options": {
+        "hi": [
+          "मोटर बिजली बनाने लगेगी",
+          "कुंडली घूमेगी नहीं — धारा बहे तब भी घूर्णन नहीं",
+          "मोटर और तेज घुमेगी",
+          "मोटर पिघल जाएगी"
+        ],
+        "en": [
+          "The motor starts generating electricity",
+          "The coil will not rotate — no rotation even if current flows",
+          "The motor spins faster",
+          "The motor melts"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घूर्णन का एकमात्र स्रोत चुंबकीय बल है।",
+        "en": "The sole source of rotation is the magnetic force."
+      }
+    },
+    {
+      "id": "phy11_q247",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीन कथन: (i) ओस्टेड ने धारा का चुंबकीय प्रभाव खोजा। (ii) धारा बंद होने पर भी तार का चुंबकीय क्षेत्र बना रहता है। (iii) रिले चुंबकीय प्रभाव से कार्य करता है। गलत कथन कौन-सा है?",
+        "en": "Three statements: (i) Oersted discovered the magnetic effect of current. (ii) The wire's magnetic field persists even when the current is off. (iii) A relay works by the magnetic effect. Which is wrong?"
+      },
+      "options": {
+        "hi": [
+          "कथन (iii)",
+          "तीनों सही",
+          "कथन (ii)",
+          "कथन (i)"
+        ],
+        "en": [
+          "Statement (iii)",
+          "All three correct",
+          "Statement (ii)",
+          "Statement (i)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धारा रुकते ही क्षेत्र समाप्त — (ii) गलत है।",
+        "en": "The field ends when current stops — (ii) is wrong."
+      }
+    },
+    {
+      "id": "phy11_q248",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कंपास सुई का विचलन उलटने के दो अलग तरीके कौन-से हैं?",
+        "en": "What are two distinct ways to reverse a compass needle's deflection?"
+      },
+      "options": {
+        "hi": [
+          "धारा बढ़ाना या घटाना",
+          "तार मोटा करना या पतला करना",
+          "स्विच ऑन करना या ऑफ करना",
+          "तार में धारा की दिशा उलटना, या कंपास को तार के दूसरी ओर रखना"
+        ],
+        "en": [
+          "Increase or decrease the current",
+          "Thicken or thin the wire",
+          "Switch on or off",
+          "Reverse the current's direction, or place the compass on the other side of the wire"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दिशा-परिवर्तन या ओर-परिवर्तन — दोनों से शुद्ध क्षेत्र-योग उलट जाता है।",
+        "en": "Flip direction or flip side — either reverses the net field sum."
+      }
+    },
+    {
+      "id": "phy11_q249",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक विद्युत-घंटी बज ही नहीं रही। बटन दबाने पर भी कोई खट-खट नहीं। सबसे संभावित भौतिक कारण क्या हो सकता है?",
+        "en": "An electric bell is not ringing at all — no clatter even on pressing the button. What is the most likely physical cause?"
+      },
+      "options": {
+        "hi": [
+          "परिपथ में कहीं धारा ही नहीं बह रही (टूटा तार/खस्ता संपर्क), इसलिए विद्युत-चुंबक बनता ही नहीं",
+          "घंटी बहुत नई है",
+          "हथौड़ा बहुत चिकना है",
+          "कमरे में रोशनी कम है"
+        ],
+        "en": [
+          "No current flows anywhere in the circuit (broken wire/loose contact), so the electromagnet never forms",
+          "The bell is too new",
+          "The hammer is too smooth",
+          "The room is dimly lit"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धारा नहीं = चुंबकत्व नहीं = हथौड़ा नहीं — सर्वप्रथम धारा-पथ जाँचें।",
+        "en": "No current = no magnetism = no hammer — check the current path first."
+      }
+    },
+    {
+      "id": "phy11_q250",
+      "topic": "magnetic-effect-of-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "जल-विद्युत संयंत्र से चलने वाले विद्युत पंखे की पूरी ऊर्जा-श्रृंखला क्या है?",
+        "en": "What is the full energy chain of an electric fan running from a hydro power plant?"
+      },
+      "options": {
+        "hi": [
+          "यांत्रिक ऊर्जा → ऊष्मा → प्रकाश",
+          "जल की स्थितिज ऊर्जा → विद्युत ऊर्जा → पंखे की यांत्रिक ऊर्जा",
+          "विद्युत ऊर्जा → जल की स्थितिज ऊर्जा → यांत्रिक ऊर्जा",
+          "रासायनिक ऊर्जा → प्रकाश ऊर्जा → ऊष्मा"
+        ],
+        "en": [
+          "Mechanical energy → heat → light",
+          "Potential energy of water → electrical energy → mechanical energy of the fan",
+          "Electrical energy → potential energy of water → mechanical energy",
+          "Chemical energy → light energy → heat"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बांध का पानी → जनित्र → मोटर — क्रम यही है।",
+        "en": "Dam water → generator → motor — that is the order."
+      }
+    },
+    {
+      "id": "phy11_q251",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा नवीनीकरणीय ऊर्जा स्रोत है?",
+        "en": "Which of the following is a renewable source of energy?"
+      },
+      "options": {
+        "hi": [
+          "पेट्रोल",
+          "प्राकृतिक गैस",
+          "सौर ऊर्जा",
+          "कोयला"
+        ],
+        "en": [
+          "Petrol",
+          "Natural gas",
+          "Solar energy",
+          "Coal"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सूरज की ऊर्जा खत्म नहीं होती — यह पुनः उपलब्ध रहती है।",
+        "en": "The sun's energy does not run out — it keeps renewing."
+      }
+    },
+    {
+      "id": "phy11_q252",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कोयला किस वर्ग का ऊर्जा स्रोत है?",
+        "en": "Coal belongs to which class of energy sources?"
+      },
+      "options": {
+        "hi": [
+          "नवीनीकरणीय",
+          "असीमित",
+          "कृत्रिम",
+          "अनवीनीकरणीय (जीवाश्म ईंधन)"
+        ],
+        "en": [
+          "Renewable",
+          "Unlimited",
+          "Artificial",
+          "Non-renewable (fossil fuel)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कोयला लाखों वर्षों में बना और सीमित भंडार में है।",
+        "en": "Coal formed over millions of years and its stock is limited."
+      }
+    },
+    {
+      "id": "phy11_q253",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जीवाश्म ईंधनों का उदाहरण कौन-सा युग्म है?",
+        "en": "Which pair are examples of fossil fuels?"
+      },
+      "options": {
+        "hi": [
+          "कोयला और पेट्रोलियम",
+          "पवन और सौर",
+          "जल और बायोगैस",
+          "ज्वारीय और भूतापीय"
+        ],
+        "en": [
+          "Coal and petroleum",
+          "Wind and solar",
+          "Hydro and biogas",
+          "Tidal and geothermal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जीवाश्म ईंधन प्राचीन जीवों से बने — कोयला, पेट्रोल, गैस।",
+        "en": "Fossil fuels came from ancient organisms — coal, petrol, gas."
+      }
+    },
+    {
+      "id": "phy11_q254",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सौर ऊर्जा से सीधे विद्युत बनाने वाला यंत्र क्या कहलाता है?",
+        "en": "What is the device that converts solar energy directly into electricity called?"
+      },
+      "options": {
+        "hi": [
+          "जनित्र",
+          "सौर सेल (सोलर पैनल)",
+          "पवन चक्की",
+          "टरबाइन"
+        ],
+        "en": [
+          "A dynamo",
+          "A solar cell (solar panel)",
+          "A windmill",
+          "A turbine"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सौर सेल प्रकाश ऊर्जा को सीधे विद्युत में बदलता है।",
+        "en": "A solar cell converts light energy straight into electricity."
+      }
+    },
+    {
+      "id": "phy11_q255",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पवन ऊर्जा से विद्युत पैदा करने वाला संयंत्र किस पर आधारित है?",
+        "en": "A plant generating electricity from wind energy is based on what?"
+      },
+      "options": {
+        "hi": [
+          "बांध का पानी",
+          "गोबर का गैस",
+          "चलती हवा से घूमती पवन चक्की (टरबाइन)",
+          "गर्म पानी की भाप"
+        ],
+        "en": [
+          "Dam water",
+          "Dung gas",
+          "A wind turbine spun by moving air",
+          "Hot water steam"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हवा की गतिज ऊर्जा चक्की घुमाकर जनित्र चलाती है।",
+        "en": "Wind's kinetic energy spins the turbine driving a generator."
+      }
+    },
+    {
+      "id": "phy11_q256",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल-विद्युत उत्पादन में जनित्र किससे घुमाया जाता है?",
+        "en": "In hydro electricity generation, what drives the generator?"
+      },
+      "options": {
+        "hi": [
+          "कोयले की भट्टी से",
+          "हवा की चक्की से",
+          "डीज़ल इंजन से",
+          "बांध से गिरते पानी से घूमती टरबाइन"
+        ],
+        "en": [
+          "A coal furnace",
+          "A windmill",
+          "A diesel engine",
+          "A turbine spun by water falling from a dam"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊँचाई से गिरता पानी टरबाइन घुमाता है।",
+        "en": "Water falling from height spins the turbine."
+      }
+    },
+    {
+      "id": "phy11_q257",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बायोगैस मुख्यतः किससे बनती है?",
+        "en": "Biogas is mainly produced from what?"
+      },
+      "options": {
+        "hi": [
+          "पशुओं के गोबर और जैविक कचरे के अपघटन से",
+          "पत्थर तोड़कर",
+          "समुद्री लहरों से",
+          "कोयला जलाकर"
+        ],
+        "en": [
+          "Decomposition of animal dung and organic waste",
+          "Crushing stones",
+          "Sea waves",
+          "Burning coal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गोबर-गैस संयंत्र में कचरा किण्वित होकर दहनशील गैस देता है।",
+        "en": "In a dung-gas plant waste ferments into burnable gas."
+      }
+    },
+    {
+      "id": "phy11_q258",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भूतापीय ऊर्जा का स्रोत क्या है?",
+        "en": "What is the source of geothermal energy?"
+      },
+      "options": {
+        "hi": [
+          "नदियों का पानी",
+          "पृथ्वी के भीतर की गर्मी (गर्म जल/भाप)",
+          "चाँद का प्रकाश",
+          "हवा की गति"
+        ],
+        "en": [
+          "River water",
+          "Heat within the earth (hot water/steam)",
+          "Moonlight",
+          "Moving air"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गहराई की गर्मी से भाप निकलकर टरबाइन चला सकती है।",
+        "en": "Steam from deep underground heat can run turbines."
+      }
+    },
+    {
+      "id": "phy11_q259",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नवीनीकरणीय स्रोतों की ओर जाना क्यों जरूरी है?",
+        "en": "Why is the shift to renewable sources necessary?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वे घरों में आसानी से बनते हैं",
+          "क्योंकि वे नए हैं",
+          "जीवाश्म ईंधन सीमित हैं और एक दिन खत्म हो जाएँगे",
+          "क्योंकि वे महँगे हैं"
+        ],
+        "en": [
+          "Because they can be produced easily at home",
+          "Because they are new",
+          "Fossil fuels are limited and will one day run out",
+          "Because they are costly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "भंडार सीमित — माँग बढ़ती है, इसलिए विकल्प जरूरी।",
+        "en": "The stock is finite while demand grows — alternatives are essential."
+      }
+    },
+    {
+      "id": "phy11_q260",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सौर कुकर किस ऊर्जा का उपयोग करता है?",
+        "en": "A solar cooker uses which energy?"
+      },
+      "options": {
+        "hi": [
+          "कोयले की",
+          "पवन की",
+          "परमाणु की",
+          "सूर्य के प्रकाश/ऊष्मा की"
+        ],
+        "en": [
+          "Coal",
+          "Wind",
+          "Nuclear",
+          "The sun's light/heat"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सौर कुकर सूर्य-ताप से भोजन पकाता है — ईंधन शून्य।",
+        "en": "A solar cooker cooks with sun-heat — zero fuel."
+      }
+    },
+    {
+      "id": "phy11_q261",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊर्जा स्रोतों के वर्गीकरण के दो वर्ग कौन-से हैं?",
+        "en": "What are the two classes in the classification of energy sources?"
+      },
+      "options": {
+        "hi": [
+          "नवीनीकरणीय और अनवीनीकरणीय",
+          "घरेलू और विदेशी",
+          "सस्ते और महँगे",
+          "तरल और ठोस"
+        ],
+        "en": [
+          "Renewable and non-renewable",
+          "Domestic and foreign",
+          "Cheap and costly",
+          "Liquid and solid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पुनः भरने की क्षमता ही वर्गीकरण का आधार है।",
+        "en": "The ability to replenish is the basis of classification."
+      }
+    },
+    {
+      "id": "phy11_q262",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पेट्रोल को अनवीनीकरणीय क्यों कहा जाता है?",
+        "en": "Why is petrol called non-renewable?"
+      },
+      "options": {
+        "hi": [
+          "यह गाड़ियों में जलता है",
+          "यह लाखों वर्षों में बनता है, माँग की गति से दोबारा नहीं बन सकता",
+          "यह बहुत महँगा है",
+          "यह तरल है"
+        ],
+        "en": [
+          "It burns in vehicles",
+          "It forms over millions of years — far too slow to renew against demand",
+          "It is very costly",
+          "It is a liquid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बनने की गति खपत से अत्यंत मंद — इसलिए अनवीनीकरणीय।",
+        "en": "Its formation rate is far slower than consumption — hence non-renewable."
+      }
+    },
+    {
+      "id": "phy11_q263",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत ऊर्जा घरों तक कैसे पहुँचती है?",
+        "en": "How does electrical energy reach homes?"
+      },
+      "options": {
+        "hi": [
+          "रेडियो तरंगों से",
+          "नदियों से",
+          "ऊर्जा संयंत्रों से तारों (पारेषण लाइनों) द्वारा",
+          "ट्रकों से"
+        ],
+        "en": [
+          "By radio waves",
+          "By rivers",
+          "Via wires (transmission lines) from power plants",
+          "By trucks"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पारेषण लाइनें विद्युत को दूर-दूर तक ले जाती हैं।",
+        "en": "Transmission lines carry electricity over long distances."
+      }
+    },
+    {
+      "id": "phy11_q264",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पुराने फिलामेंट बल्ब में भुगतान की गई विद्युत ऊर्जा का बड़ा हिस्सा किस रूप में जाता है?",
+        "en": "In an old filament bulb, the bulk of the paid electrical energy goes into which form?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश के रूप में ही",
+          "ध्वनि में",
+          "यांत्रिक कार्य में",
+          "ऊष्मा के रूप में (प्रकाश बहुत कम)"
+        ],
+        "en": [
+          "Entirely as light",
+          "Sound",
+          "Mechanical work",
+          "Heat (very little as light)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फिलामेंट बल्ब ऊर्जा का अधिकांश ऊष्मा में बर्बाद करता है — यही जाल है।",
+        "en": "A filament bulb wastes most energy as heat — the classic trap."
+      }
+    },
+    {
+      "id": "phy11_q265",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "CFL/LED बल्ब ऊर्जा-बचत में कैसे मदद करते हैं?",
+        "en": "How do CFL/LED bulbs help save energy?"
+      },
+      "options": {
+        "hi": [
+          "कम विद्युत खाकर लगभग उतना ही प्रकाश देते हैं",
+          "अधिक विद्युत खाते हैं",
+          "केवल ऊष्मा देते हैं",
+          "वोल्टेज बढ़ाते हैं"
+        ],
+        "en": [
+          "They give nearly the same light while drawing much less electricity",
+          "They draw more electricity",
+          "They give only heat",
+          "They raise the voltage"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कम खपत-समान प्रकाश = ऊर्जा बचत।",
+        "en": "Less consumption for similar light = energy saving."
+      }
+    },
+    {
+      "id": "phy11_q266",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घर में बिजली बचाने का सबसे सरल तरीका क्या है?",
+        "en": "What is the simplest way to save electricity at home?"
+      },
+      "options": {
+        "hi": [
+          "पंखे को पूरी रात चालू रखना",
+          "जरूरत न होने पर स्विच और उपकरण बंद रखना",
+          "दिन-रात बल्ब जलाते रहना",
+          "सभी उपकरण एक साथ चालू रखना"
+        ],
+        "en": [
+          "Leaving the fan on all night",
+          "Keeping switches and devices off when not needed",
+          "Leaving bulbs on day and night",
+          "Running all devices together"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अप्रयुक्त उपकरण बंद = सीधी बचत।",
+        "en": "Idle devices off = direct saving."
+      }
+    },
+    {
+      "id": "phy11_q267",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सौर पैनल आमतौर पर घर की छत पर क्यों लगाए जाते हैं?",
+        "en": "Why are solar panels usually installed on house rooftops?"
+      },
+      "options": {
+        "hi": [
+          "वहाँ हवा तेज होती है",
+          "वहाँ पानी जमा रहता है",
+          "वहाँ सूरज की रोशनी सबसे अधिक और अबाधित मिलती है",
+          "क्योंकि छतें हमेशा खाली रहती हैं"
+        ],
+        "en": [
+          "The wind is stronger there",
+          "Water collects there",
+          "Rooftops get the most unobstructed sunlight",
+          "Because rooftops always stay empty"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पैनल को अधिकतम सूर्य-प्रकाश चाहिए।",
+        "en": "Panels need maximum sunlight."
+      }
+    },
+    {
+      "id": "phy11_q268",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल-विद्युत में पानी की कौन-सी ऊर्जा मुख्य रूप से काम आती है?",
+        "en": "In hydro power, which energy of water is mainly used?"
+      },
+      "options": {
+        "hi": [
+          "पानी की ऊष्मा",
+          "पानी का रंग",
+          "पानी में घुला लवण",
+          "बांध के ऊँचाई वाले पानी की स्थितिज ऊर्जा"
+        ],
+        "en": [
+          "The heat of water",
+          "The colour of water",
+          "Dissolved salts",
+          "The potential energy of water stored at height in the dam"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गिरते समय स्थितिज ऊर्जा गतिज में बदलकर टरबाइन घुमाती है।",
+        "en": "While falling, potential energy turns kinetic and spins the turbine."
+      }
+    },
+    {
+      "id": "phy11_q269",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा नवीनीकरणीय स्रोत नहीं है?",
+        "en": "Which of these is NOT a renewable source?"
+      },
+      "options": {
+        "hi": [
+          "प्राकृतिक गैस",
+          "पवन ऊर्जा",
+          "बायोगैस",
+          "ज्वारीय ऊर्जा"
+        ],
+        "en": [
+          "Natural gas",
+          "Wind energy",
+          "Biogas",
+          "Tidal energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्राकृतिक गैस जीवाश्म ईंधन है — अनवीनीकरणीय।",
+        "en": "Natural gas is a fossil fuel — non-renewable."
+      }
+    },
+    {
+      "id": "phy11_q270",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बिजली का उत्पादन बढ़ाने से पहले ऊर्जा-बचत को प्राथमिकता क्यों दी जाती है?",
+        "en": "Why is energy conservation prioritised before increasing electricity production?"
+      },
+      "options": {
+        "hi": [
+          "बचत असंभव है",
+          "बचाई गई ईंधन-ऊर्जा सस्ती और प्रदूषण-मुक्त होती है; नया संयंत्र महँगा पड़ता है",
+          "बचत से बिजली खराब होती है",
+          "उत्पादन हमेशा हानिकारक है"
+        ],
+        "en": [
+          "Saving is impossible",
+          "Saved fuel-energy is cheap and pollution-free; a new plant is costly",
+          "Saving spoils electricity",
+          "Production is always harmful"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बचत एक ओर, उत्पादन दूसरी ओर — बचत पहले सस्ती।",
+        "en": "A unit saved beats a unit generated — saving is cheaper."
+      }
+    },
+    {
+      "id": "phy11_q271",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीवाश्म ईंधन के जलने से पर्यावरण को क्या हानि है?",
+        "en": "What environmental harm comes from burning fossil fuels?"
+      },
+      "options": {
+        "hi": [
+          "मिट्टी उपजाऊ हो जाती है",
+          "वर्षा बंद हो जाती है और बाकी सब सही",
+          "हवा में धुएँ और हानिकारक गैसें मिलती हैं (वायु प्रदूषण)",
+          "हवा साफ हो जाती है"
+        ],
+        "en": [
+          "The soil turns fertile",
+          "Rains stop and everything else is fine",
+          "Smoke and harmful gases enter the air (air pollution)",
+          "The air becomes clean"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दहन से CO₂ व धुआँ — प्रदूषण और ग्लोबल ताप में वृद्धि।",
+        "en": "Combustion releases CO₂ and smoke — pollution and global warming."
+      }
+    },
+    {
+      "id": "phy11_q272",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सौर ऊर्जा के दो प्रमुख लाभ कौन-से हैं?",
+        "en": "What are two major advantages of solar energy?"
+      },
+      "options": {
+        "hi": [
+          "रात में भी चलना और सस्ती बैटरी",
+          "जगह न लेना और भारी होना",
+          "धुआँ और गैस देना",
+          "प्रदूषण-मुक्त होना और अक्षय (खत्म न होना)"
+        ],
+        "en": [
+          "Working at night and cheap batteries",
+          "Taking no space and being heavy",
+          "Giving smoke and gas",
+          "It is pollution-free and inexhaustible"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सूर्य स्वच्छ और असीमित ऊर्जा-स्रोत है।",
+        "en": "The sun is a clean and unlimited energy source."
+      }
+    },
+    {
+      "id": "phy11_q273",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पवन ऊर्जा की मुख्य सीमा क्या है?",
+        "en": "What is the chief limitation of wind energy?"
+      },
+      "options": {
+        "hi": [
+          "हवा सदा एक-सी नहीं बहती — शांत दिनों में उत्पादन रुक जाता है",
+          "हवा प्रदूषण करती है",
+          "क्योंकि पवन चक्कियाँ आवाज़ करती हैं",
+          "हवा से ऊर्जा नहीं मिलती"
+        ],
+        "en": [
+          "Wind is not steady — output stops on calm days",
+          "Wind pollutes",
+          "Because windmills make noise",
+          "Wind gives no energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रकृति पर निर्भरता ही पवन-ऊर्जा की जड़ सीमा है।",
+        "en": "Dependence on nature is wind power's core limitation."
+      }
+    },
+    {
+      "id": "phy11_q274",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बड़े जल-बांधों से जुड़ी पर्यावरणीय चिंता क्या है?",
+        "en": "What is the environmental concern linked with large dams?"
+      },
+      "options": {
+        "hi": [
+          "बांध से गैस बनती है",
+          "बड़े क्षेत्र जलमग्न होते हैं — वनस्पति, वन्यजीव और बसाव विस्थापित होते हैं",
+          "बांध से धुआँ निकलता है",
+          "बांध मिट्टी उपजाऊ बनाता है"
+        ],
+        "en": [
+          "Dams produce gas",
+          "Large areas submerge — vegetation, wildlife and settlements get displaced",
+          "Dams emit smoke",
+          "Dams fertilise soil"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जलमग्न क्षेत्र और विस्थापन — जलविद्युत का कठिन पक्ष।",
+        "en": "Submergence and displacement — hydro power's hard side."
+      }
+    },
+    {
+      "id": "phy11_q275",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गोबर गैस (बायोगैस) संयंत्र ग्रामीण क्षेत्रों में क्यों लोकप्रिय है?",
+        "en": "Why are biogas plants popular in rural areas?"
+      },
+      "options": {
+        "hi": [
+          "वे पवन ऊर्जा से चलते हैं",
+          "वे पेट्रोल बनाते हैं",
+          "गोबर-कचरे से ईंधन गैस मिलती है और शेष खाद भी",
+          "वे बिजली सीधे देते हैं"
+        ],
+        "en": [
+          "They run on wind energy",
+          "They make petrol",
+          "Dung and waste yield fuel gas, and the leftover is manure",
+          "They directly give electricity"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक ही संयंत्र से ईंधन + उर्वरक — दोहरा लाभ।",
+        "en": "One plant gives fuel + fertiliser — a double benefit."
+      }
+    },
+    {
+      "id": "phy11_q276",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भूतापीय ऊर्जा संयंत्र कहाँ संभव होते हैं?",
+        "en": "Where are geothermal energy plants feasible?"
+      },
+      "options": {
+        "hi": [
+          "जहाँ बर्फ गिरती है",
+          "जहाँ नदियाँ सूख जाती हैं",
+          "हर गाँव में एक-सा",
+          "जहाँ भूमि के नीचे गर्म जल/भाप के स्रोत पास हों"
+        ],
+        "en": [
+          "Where snow falls",
+          "Where rivers dry up",
+          "Equally in every village",
+          "Where sources of hot water/steam lie close beneath the ground"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "भू-गर्म स्रोत विशेष स्थानों पर ही मिलते हैं।",
+        "en": "Geothermal sources exist only at specific locations."
+      }
+    },
+    {
+      "id": "phy11_q277",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल-विद्युत उत्पादन का सही क्रम क्या है?",
+        "en": "What is the correct sequence of hydro electricity generation?"
+      },
+      "options": {
+        "hi": [
+          "बांध का पानी → टरबाइन → जनित्र → विद्युत",
+          "टरबाइन → पानी → विद्युत → जनित्र",
+          "विद्युत → जनित्र → टरबाइन → पानी",
+          "जनित्र → विद्युत → पानी → टरबाइन"
+        ],
+        "en": [
+          "Dam water → turbine → generator → electricity",
+          "Turbine → water → electricity → generator",
+          "Electricity → generator → turbine → water",
+          "Generator → electricity → water → turbine"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गिरता पानी टरबाइन, टरबाइन जनित्र, जनित्र विद्युत देता है।",
+        "en": "Falling water → turbine → generator → electricity."
+      }
+    },
+    {
+      "id": "phy11_q278",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सौर पैनल रात में विद्युत क्यों नहीं देते?",
+        "en": "Why do solar panels give no electricity at night?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि रात में तापमान गिर जाता है",
+          "प्रकाश उपलब्ध नहीं होता — सौर सेल प्रकाश से ही चलते हैं",
+          "रात में पैनल गर्म हो जाते हैं",
+          "रात में वोल्टेज बढ़ जाता है"
+        ],
+        "en": [
+          "Because the temperature falls at night",
+          "No light is available — solar cells run on light alone",
+          "Panels overheat at night",
+          "Voltage rises at night"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सौर सेल का ईंधन प्रकाश ही है।",
+        "en": "A solar cell's fuel is light itself."
+      }
+    },
+    {
+      "id": "phy11_q279",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कोयला-आधारित ऊर्जा संयंत्र में टरबाइन कैसे घूमती है?",
+        "en": "How does the turbine turn in a coal-based power plant?"
+      },
+      "options": {
+        "hi": [
+          "पानी सीधे टरबाइन पर गिरता है",
+          "टरबाइन हाथ से घुमाई जाती है",
+          "कोयला जलाकर भाप बनाई जाती है, भाप टरबाइन घुमाती है",
+          "हवा से टरबाइन घूमती है"
+        ],
+        "en": [
+          "Water falls directly on the turbine",
+          "The turbine is cranked by hand",
+          "Coal is burnt to make steam, and the steam spins the turbine",
+          "Wind turns the turbine"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रासायनिक ऊर्जा → ऊष्मा → भाप → घूर्णन → विद्युत।",
+        "en": "Chemical energy → heat → steam → rotation → electricity."
+      }
+    },
+    {
+      "id": "phy11_q280",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नवीनीकरणीय और अनवीनीकरणीय स्रोतों का मूल अंतर किस बात में है?",
+        "en": "What is the fundamental difference between renewable and non-renewable sources?"
+      },
+      "options": {
+        "hi": [
+          "रंग में",
+          "कीमत में ही",
+          "देश में",
+          "पुनः भरने में लगने वाले समय में — प्राकृतिक दर बनाम मानवीय खपत की दर"
+        ],
+        "en": [
+          "In colour",
+          "Only in price",
+          "In the country of origin",
+          "In the renewal timescale — natural replenishment rate versus human consumption rate"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खपत दर पुनर्भरण दर से तेज हो तो स्रोत अनवीनीकरणीय।",
+        "en": "If use outruns replenishment, the source is non-renewable."
+      }
+    },
+    {
+      "id": "phy11_q281",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 वाट का LED बल्ब 100 वाट के पुराने बल्ब जितनी रोशनी देता है। इससे ऊर्जा की कितनी बचत होती है?",
+        "en": "A 10 W LED gives as much light as an old 100 W bulb. How much energy is saved?"
+      },
+      "options": {
+        "hi": [
+          "लगभग 90 वाट की (90%)",
+          "10 वाट की",
+          "100 वाट की",
+          "कोई बचत नहीं"
+        ],
+        "en": [
+          "About 90 watt (90%)",
+          "10 watt",
+          "100 watt",
+          "None"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "100 − 10 = 90 W — इसीलिए LED को ऊर्जा-कुशल कहा जाता है।",
+        "en": "100 − 10 = 90 W — hence LEDs are called energy-efficient."
+      }
+    },
+    {
+      "id": "phy11_q282",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "घरेलू बिजली बचत का सबसे प्रभावी अभ्यास कौन-सा है?",
+        "en": "Which is the most effective household electricity-saving practice?"
+      },
+      "options": {
+        "hi": [
+          "एअरकंडीशनर को खुले दरवाज़े पर चलाना",
+          "जरूरत न होने पर उपकरण पूरी तरह बंद करना (स्टैंडबाई सहित)",
+          "बल्ब जलाकर खुली खिड़की से प्रकाश निकालना",
+          "रेफ्रिजरेटर का दरवाज़ा बार-बार खोलना"
+        ],
+        "en": [
+          "Running the AC with doors open",
+          "Fully switching off devices when unneeded (including standby)",
+          "Burning bulbs and letting light out of open windows",
+          "Opening the refrigerator repeatedly"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्टैंडबाई-खपत भी बड़ी होती है — पूरा बंद ही सच्ची बचत।",
+        "en": "Standby drain adds up — full switch-off is true saving."
+      }
+    },
+    {
+      "id": "phy11_q283",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊर्जा संरक्षण का अर्थ स्पष्ट कीजिए:",
+        "en": "Clarify what energy conservation means:"
+      },
+      "options": {
+        "hi": [
+          "ऊर्जा बेचना",
+          "ऊर्जा रखने के लिए बर्तन खरीदना",
+          "उपयोगी कार्य में आने वाली ऊर्जा को बर्बादी से बचाकर कम खपत से वही कार्य लेना",
+          "ऊर्जा का निर्माण करना"
+        ],
+        "en": [
+          "Selling energy",
+          "Buying vessels to store energy",
+          "Getting the same useful work with less consumption by avoiding waste",
+          "Creating energy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संरक्षण = बर्बादी रोकना, न कि ऊर्जा 'बनाना'।",
+        "en": "Conservation = stopping waste, not 'making' energy."
+      }
+    },
+    {
+      "id": "phy11_q284",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बिजली के बिल में ऊर्जा किस इकाई में लिखी जाती है?",
+        "en": "In an electricity bill, in which unit is the energy written?"
+      },
+      "options": {
+        "hi": [
+          "एम्पियर",
+          "ओम",
+          "वोल्ट",
+          "किलोवाट-घंटा (kWh, यूनिट)"
+        ],
+        "en": [
+          "Ampere",
+          "Ohm",
+          "Volt",
+          "Kilowatt-hour (kWh, unit)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "1 kWh = 1 यूनिट — विद्युत ऊर्जा का व्यावसायिक माप।",
+        "en": "1 kWh = 1 unit — the commercial measure of electrical energy."
+      }
+    },
+    {
+      "id": "phy11_q285",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सौर जल-तापक बनाम विद्युत गीज़र — ऊर्जा-दृष्टि से अंतर समझाइए:",
+        "en": "Solar water heater vs electric geyser — explain the difference from the energy viewpoint:"
+      },
+      "options": {
+        "hi": [
+          "सौर तापक सूर्य की निःशुल्क ऊर्जा लेता है, गीज़र खरीदी हुई विद्युत ऊर्जा",
+          "दोनों एक ही ऊर्जा लेते हैं",
+          "सौर तापक अधिक बिजली खाता है",
+          "गीज़र सूर्य से चलता है"
+        ],
+        "en": [
+          "The solar heater uses the sun's free energy; the geyser uses purchased electricity",
+          "Both use the same energy",
+          "The solar heater consumes more electricity",
+          "The geyser runs on the sun"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्रोत का चुनाव ही बचत तय करता है।",
+        "en": "The choice of source decides the saving."
+      }
+    },
+    {
+      "id": "phy11_q286",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ग्रामीण परिवार के लिए गोबर-गैस संयंत्र के दोहरे लाभ क्या हैं?",
+        "en": "What are the twin benefits of a dung-gas plant for a rural family?"
+      },
+      "options": {
+        "hi": [
+          "केवल गैस, कोई खाद नहीं",
+          "खाना पकाने हेतु गैस और खेती हेतु उच्च गुणवत्ता की खाद",
+          "बिजली और पेट्रोल",
+          "पवन और जल"
+        ],
+        "en": [
+          "Only gas, no manure",
+          "Gas for cooking and good manure for the fields",
+          "Electricity and petrol",
+          "Wind and water"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कचरा ईंधन बनता है और शेष उर्वरक।",
+        "en": "Waste becomes fuel and the rest becomes fertiliser."
+      }
+    },
+    {
+      "id": "phy11_q287",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उपकरण और उनमें ऊर्जा-रूपांतरण का गलत युग्म कौन-सा है?",
+        "en": "Which device and energy-conversion pairing is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "मोटर — विद्युत से यांत्रिक",
+          "बल्ब — विद्युत से प्रकाश व ऊष्मा",
+          "विद्युत पंखा — विद्युत से ऊष्मा मुख्य रूपांतरण",
+          "हीटर — विद्युत से ऊष्मा"
+        ],
+        "en": [
+          "Motor — electricity to mechanical",
+          "Bulb — electricity to light and heat",
+          "Electric fan — electricity to heat as the main conversion",
+          "Heater — electricity to heat"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पंखे में मुख्य रूपांतरण यांत्रिक है, ऊष्मा नहीं।",
+        "en": "A fan's main conversion is mechanical, not heat."
+      }
+    },
+    {
+      "id": "phy11_q288",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रदूषण-दृष्टि से सबसे स्वच्छ विकल्प कौन-सा है — बिजली घर के लिए?",
+        "en": "From the pollution viewpoint, which is the cleanest option for a power plant?"
+      },
+      "options": {
+        "hi": [
+          "कोयला आधारित",
+          "डीज़ल आधारित",
+          "गैस आधारित",
+          "पवन आधारित"
+        ],
+        "en": [
+          "Coal based",
+          "Diesel based",
+          "Gas based",
+          "Wind based"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पवन में दहन ही नहीं — शून्य धुआँ।",
+        "en": "Wind involves no combustion — zero smoke."
+      }
+    },
+    {
+      "id": "phy11_q289",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीवाश्म ईंधन की कीमतें समय के साथ क्यों बढ़ती जाती हैं?",
+        "en": "Why do fossil fuel prices keep rising over time?"
+      },
+      "options": {
+        "hi": [
+          "भंडार सीमित हैं और माँग लगातार बढ़ रही है",
+          "भंडार बढ़ रहे हैं",
+          "माँग घट रही है",
+          "खनन रुक गया है"
+        ],
+        "en": [
+          "Stocks are limited while demand keeps growing",
+          "Stocks are growing",
+          "Demand is falling",
+          "Mining has stopped"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सीमित आपूर्ति + बढ़ती माँग = महँगाई।",
+        "en": "Limited supply + rising demand = higher prices."
+      }
+    },
+    {
+      "id": "phy11_q290",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ज्वारीय ऊर्जा किस घटना से मिलती है?",
+        "en": "Tidal energy comes from which phenomenon?"
+      },
+      "options": {
+        "hi": [
+          "हवा के झोंके",
+          "समुद्र में नियमित ज्वार-भाटा (पानी का उतार-चढ़ाव)",
+          "नदियों की धारा",
+          "भूमि की गर्मी"
+        ],
+        "en": [
+          "Gusts of wind",
+          "The regular rise and fall of tides in the sea",
+          "River currents",
+          "Heat of the ground"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ज्वार की गतिज ऊर्जा टरबाइन घुमाती है।",
+        "en": "The kinetic energy of tides spins turbines."
+      }
+    },
+    {
+      "id": "phy11_q291",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मौसम और समय चाहे जैसा हो, सबसे स्थिर रूप से विद्युत देने वाला नवीनीकरणीय स्रोत कौन-सा है?",
+        "en": "Regardless of weather or hour, which renewable source supplies electricity most steadily?"
+      },
+      "options": {
+        "hi": [
+          "पवन",
+          "ज्वारीय",
+          "भूतापीय",
+          "सौर"
+        ],
+        "en": [
+          "Wind",
+          "Tidal",
+          "Geothermal",
+          "Solar"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पृथ्वी की गर्मी दिन-रात एक-सी बनी रहती है।",
+        "en": "The earth's heat stays the same day and night."
+      }
+    },
+    {
+      "id": "phy11_q292",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन कथन: (i) कोयला और पेट्रोल अनवीनीकरणीय हैं। (ii) सौर ऊर्जा प्रदूषण उत्पन्न नहीं करती। (iii) बायोगैस जीवाश्म ईंधन है। सही समूह चुनें:",
+        "en": "Three statements: (i) Coal and petrol are non-renewable. (ii) Solar energy creates no pollution. (iii) Biogas is a fossil fuel. Pick the correct set:"
+      },
+      "options": {
+        "hi": [
+          "तीनों सही",
+          "केवल (iii) सही",
+          "(i) गलत, (ii) गलत, (iii) सही",
+          "(i) और (ii) सही, (iii) गलत"
+        ],
+        "en": [
+          "All three correct",
+          "Only (iii) correct",
+          "(i) wrong, (ii) wrong, (iii) correct",
+          "(i) and (ii) correct, (iii) wrong"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बायोगैस जैविक कचरे से बनती है — जीवाश्म ईंधन नहीं।",
+        "en": "Biogas comes from organic waste — not a fossil fuel."
+      }
+    },
+    {
+      "id": "phy11_q293",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सौर पैनल → बैटरी → रात में LED प्रकाश — इस व्यवस्था में ऊर्जा-रूपांतरणों का क्रम क्या है?",
+        "en": "Solar panel → battery → LED light at night — what is the sequence of energy conversions in this setup?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश ऊर्जा → विद्युत ऊर्जा → रासायनिक ऊर्जा → पुनः विद्युत → प्रकाश",
+          "विद्युत → प्रकाश → विद्युत → प्रकाश",
+          "रासायनिक → यांत्रिक → प्रकाश",
+          "ऊष्मा → ध्वनि → प्रकाश"
+        ],
+        "en": [
+          "Light → electrical → chemical → electrical again → light",
+          "Electrical → light → electrical → light",
+          "Chemical → mechanical → light",
+          "Heat → sound → light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पैनल प्रकाश था, बैटरी ने रासायनिक बनाकर संचित किया, LED ने पुनः प्रकाश दिया।",
+        "en": "Panel took light, battery stored it chemically, LED gave back light."
+      }
+    },
+    {
+      "id": "phy11_q294",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक विद्युत उपकरण में 'आउटपुट ऊर्जा' इनपुट ऊर्जा से अधिक क्यों नहीं हो सकती?",
+        "en": "Why can the 'output energy' of an electrical device never exceed the input energy?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि बिजली धीमी होती है",
+          "ऊर्जा संरक्षण का नियम — ऊर्जा न बनती है न नष्ट; कुछ ऊर्जा सदैव ऊष्मा के रूप में बचती/हानि होती है",
+          "क्योंकि उपकरण छोटे होते हैं",
+          "क्योंकि उपकरण धीमी गति से चलते हैं"
+        ],
+        "en": [
+          "Because electricity is slow",
+          "Law of conservation of energy — energy is neither created nor destroyed; some always ends up as heat",
+          "Because devices are small",
+          "Because devices run slowly"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "इनपुट = उपयोगी आउटपुट + हानि (मुख्यतः ऊष्मा)।",
+        "en": "Input = useful output + losses (mainly heat)."
+      }
+    },
+    {
+      "id": "phy11_q295",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन: 'नवीनीकरणीय स्रोत असीमित हैं, इसलिए बचत की जरूरत नहीं।' इस पर सही टिप्पणी क्या है?",
+        "en": "Statement: 'Renewable sources are unlimited, so there is no need to conserve.' What is the correct comment?"
+      },
+      "options": {
+        "hi": [
+          "केवल सौर ऊर्जा के लिए सही",
+          "क्योंकि सभी स्रोत एक-से ही हैं",
+          "भ्रामक — उपकरण, स्थापना और पर्यावरण-दबाव सीमित हैं; खपत जितनी कम, तंत्र उतना टिकाऊ",
+          "पूर्णतः सही"
+        ],
+        "en": [
+          "Correct only for solar",
+          "Because all sources are the same",
+          "Misleading — devices, installation and environmental pressure are limited; lower consumption keeps the system sustainable",
+          "Completely correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "'असीमित स्रोत' भी उपकरण-सीमा और ज़मीन की सीमा से बंधे हैं।",
+        "en": "Even 'unlimited sources' are bounded by equipment and land limits."
+      }
+    },
+    {
+      "id": "phy11_q296",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कोयला-संयंत्र बनाम पवन-संयंत्र की ऊर्जा-श्रृंखलाओं का सही अंतर क्या है?",
+        "en": "What is the correct difference between the energy chains of a coal plant and a wind plant?"
+      },
+      "options": {
+        "hi": [
+          "दोनों की श्रृंखला समान है",
+          "कोयला: विद्युत → रासायनिक; पवन: विद्युत → गतिज",
+          "पवन में दहन होता है, कोयले में नहीं",
+          "कोयला: रासायनिक → ऊष्मा → यांत्रिक → विद्युत; पवन: गतिज (हवा) → यांत्रिक → विद्युत"
+        ],
+        "en": [
+          "Both chains are identical",
+          "Coal: electrical → chemical; wind: electrical → kinetic",
+          "Wind involves combustion, coal does not",
+          "Coal: chemical → heat → mechanical → electrical; wind: kinetic (air) → mechanical → electrical"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दहन-स्रोत में ऊष्मा-चरण आता है, प्रत्यक्ष-गति स्रोत में नहीं।",
+        "en": "A combustion source has a heat stage; a direct-motion source does not."
+      }
+    },
+    {
+      "id": "phy11_q297",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक गाँव ग्रिड से बहुत दूर है। वहाँ विद्युत का सबसे व्यावहारिक नवीनीकरणीय विकल्प क्या है?",
+        "en": "A village lies far from the grid. What is the most practical renewable alternative for electricity there?"
+      },
+      "options": {
+        "hi": [
+          "सौर पैनल (स्थानीय, बिखरा हुआ स्रोत)",
+          "दूर तक लंबी लाइन खींचना",
+          "डीज़ल जनरेटर",
+          "कोयला संयंत्र"
+        ],
+        "en": [
+          "Solar panels (a local, distributed source)",
+          "Pulling a long line to it",
+          "Diesel generator",
+          "A coal plant"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जहाँ ग्रिड नहीं, वहाँ स्थानीय सूर्य सबसे व्यवहार्य।",
+        "en": "Where the grid can't reach, local sunshine works best."
+      }
+    },
+    {
+      "id": "phy11_q298",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सौर जल-तापक का उपयोग विद्युत गीज़र की जगह करने से परिवार और देश दोनों को क्या लाभ है?",
+        "en": "Replacing an electric geyser with a solar water heater benefits both family and nation how?"
+      },
+      "options": {
+        "hi": [
+          "केवल सर्दियों में हानि",
+          "परिवार का बिल घटता है और देश की विद्युत माँग (तथा ईंधन खपत) कम होती है",
+          "परिवार का बिल बढ़ता है, देश को लाभ",
+          "दोनों को हानि"
+        ],
+        "en": [
+          "Loss only in winters",
+          "The family's bill falls and the nation's electricity demand (and fuel use) drops",
+          "The family's bill rises, nation gains",
+          "Both lose"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हर यूनिट घर की बचत = ईंधन की बचत राष्ट्र के लिए।",
+        "en": "Every unit saved at home = fuel saved for the nation."
+      }
+    },
+    {
+      "id": "phy11_q299",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पवन-ऊर्जा क्षेत्र स्थापित करने के लिए किस प्रकार के भौगोलिक क्षेत्र सर्वाधिक उपयुक्त हैं?",
+        "en": "Which kind of geographic areas are most suitable for installing wind-energy farms?"
+      },
+      "options": {
+        "hi": [
+          "भूमिगत गुफाएँ",
+          "शांत, बंद घाटियाँ",
+          "खुले मैदान, तटीय पट्टियाँ और दर्रे जहाँ हवा लगातार तेज बहती है",
+          "घने जंगल वाली गहरी घाटियाँ"
+        ],
+        "en": [
+          "Underground caves",
+          "Still, enclosed valleys",
+          "Open plains, coastal strips and passes where strong winds blow steadily",
+          "Deep forested valleys"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लगातार प्रबल हवा ही पवन-संयंत्र की ज़रूरत है।",
+        "en": "Steady strong winds are what a wind farm needs."
+      }
+    },
+    {
+      "id": "phy11_q300",
+      "topic": "electric-energy-and-sources",
+      "difficulty": "hard",
+      "question": {
+        "hi": "LED बल्ब फिलामेंट बल्ब से 'ऊर्जा-कुशल' माना जाता है। इस कथन का भौतिक आधार क्या है?",
+        "en": "An LED is called 'energy-efficient' compared with a filament bulb. What is the physical basis of this statement?"
+      },
+      "options": {
+        "hi": [
+          "LED अधिक बिजली खाता है",
+          "LED में फ्यूज़ होता है",
+          "फिलामेंट बल्ब ठंडा चलता है",
+          "LED इनपुट ऊर्जा का अधिकांश प्रकाश में बदलता है, फिलामेंट बल्ब अधिकांश ऊष्मा में"
+        ],
+        "en": [
+          "An LED consumes more electricity",
+          "An LED contains a fuse",
+          "A filament bulb runs cool",
+          "An LED turns most input energy into light; a filament bulb turns most into heat"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उपयोगी आउटपुट/इनपुट अनुपात ही दक्षता है — LED का यह अनुपात ऊँचा।",
+        "en": "Useful output over input is efficiency — the LED's ratio is high."
+      }
+    }
+  ]
+}

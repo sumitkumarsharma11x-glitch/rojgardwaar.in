@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "ch6_q601",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तंत्रिका तंत्र (nervous system) का मुख्य कार्य क्या है?",
+        "en": "What is the main function of the nervous system?"
+      },
+      "options": {
+        "hi": [
+          "शरीर के सभी अंगों का नियंत्रण और समन्वय (coordination) करना",
+          "रुधिर बनाना",
+          "वायु छानना",
+          "भोजन पचाना"
+        ],
+        "en": [
+          "Controlling and coordinating all organs of the body",
+          "Making blood",
+          "Filtering air",
+          "Digesting food"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तंत्रिका तंत्र शरीर का कमान-केंद्र है — जानकारी लेना, निर्णय देना और आदेश पहुँचाना तीनों उसी का काम।",
+        "en": "The nervous system is the body's command centre — receiving information, deciding and delivering orders, all three its job."
+      }
+    },
+    {
+      "id": "ch6_q602",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "केंद्रीय तंत्रिका तंत्र (CNS) किन भागों से बनता है?",
+        "en": "Which parts make up the central nervous system (CNS)?"
+      },
+      "options": {
+        "hi": [
+          "नसें और मस्तिष्क",
+          "मस्तिष्क और मेरुरज्जु (spinal cord)",
+          "मस्तिष्क और आँखें",
+          "मेरुरज्जु और मांसपेशियाँ"
+        ],
+        "en": [
+          "The nerves and the brain",
+          "The brain and the spinal cord",
+          "The brain and the eyes",
+          "The spinal cord and the muscles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मस्तिष्क + मेरुरज्जु = CNS — शरीर का केंद्रीय कमान-गृह; बाहर जाने वाली नसें परिधीय तंत्र बनाती हैं।",
+        "en": "Brain + spinal cord = CNS — the body's central command house; the outgoing nerves form the peripheral system."
+      }
+    },
+    {
+      "id": "ch6_q603",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "परिधीय तंत्रिका तंत्र (PNS) का कार्य क्या है?",
+        "en": "What is the job of the peripheral nervous system (PNS)?"
+      },
+      "options": {
+        "hi": [
+          "भोजन पचाना",
+          "सोचना",
+          "CNS को शरीर के अंगों से जोड़ना — संदेश अंदर-बाहर ले जाने वाली नसें",
+          "रुधिर बनाना"
+        ],
+        "en": [
+          "Digesting food",
+          "Thinking",
+          "Connecting the CNS to the body parts — nerves carrying messages in and out",
+          "Making blood"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कपाल-नसें और मेरु-नसें मिलकर PNS बनाती हैं — केंद्र और अंगों के बीच का तार-नेटवर्क।",
+        "en": "Cranial and spinal nerves together form the PNS — the wire-network between the centre and the organs."
+      }
+    },
+    {
+      "id": "ch6_q604",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उद्दीपन (stimulus) से क्या तात्पर्य है?",
+        "en": "What is meant by a stimulus?"
+      },
+      "options": {
+        "hi": [
+          "भोजन का पाचन",
+          "नींद आना",
+          "शरीर का उत्तर",
+          "वह परिवर्तन जिसके प्रति जीव प्रतिक्रिया करता है — जैसे प्रकाश, ध्वनि, गर्मी"
+        ],
+        "en": [
+          "Digestion of food",
+          "Falling asleep",
+          "The body's answer",
+          "The change to which an organism responds — like light, sound, heat"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दरवाज़े की घंटी = उद्दीपन; दरवाज़ा खोलना = अनुक्रिया — जीव की दुनिया में हर उकसावा उद्दीपन है।",
+        "en": "The doorbell = stimulus; opening the door = response — in an organism's world every provocation is a stimulus."
+      }
+    },
+    {
+      "id": "ch6_q605",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिवर्ती क्रिया (reflex action) किसे कहते हैं?",
+        "en": "What is called a reflex action?"
+      },
+      "options": {
+        "hi": [
+          "किसी उद्दीपन के प्रति बिना सोचे, तुरंत और स्वचालित रूप से होने वाली क्रिया",
+          "अभ्यास से आई क्रिया",
+          "नींद में होने वाली क्रिया",
+          "सोच-समझकर की गई क्रिया"
+        ],
+        "en": [
+          "An instant, automatic action occurring without thinking in response to a stimulus",
+          "A learned action",
+          "An action during sleep",
+          "A deliberate action"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गर्म वस्तु छूते ही हाथ झट से पीछे — निर्णय का इंतज़ार नहीं, मेरुरज्जु का तुरंत आदेश।",
+        "en": "The hand snaps back on touching something hot — no waiting for a decision, the spinal cord orders at once."
+      }
+    },
+    {
+      "id": "ch6_q606",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तेज़ प्रकाश आँखों पर पड़ते ही पलकें झपक जाती हैं — यह किस प्रकार की क्रिया है?",
+        "en": "The eyelids blink the moment strong light falls on the eyes — what type of action is this?"
+      },
+      "options": {
+        "hi": [
+          "ऐच्छिक (स्वेच्छा) क्रिया",
+          "प्रतिवर्ती (reflex) क्रिया",
+          "अभ्यास से सीखी क्रिया",
+          "पाचन क्रिया"
+        ],
+        "en": [
+          "A voluntary action",
+          "A reflex action",
+          "A learned action",
+          "A digestive action"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पलक-झपकना सोचे बिना स्वयं होता है — आँख की सुरक्षा का तैयार-जवाब, अर्थात् प्रतिवर्ती।",
+        "en": "Blinking happens by itself without thought — a ready-made answer for eye protection, i.e., a reflex."
+      }
+    },
+    {
+      "id": "ch6_q607",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ठंडी वस्तु को छूते ही हाथ अपने आप पीछे खिंच जाता है — यह क्रिया कौन नियंत्रित करता है?",
+        "en": "The hand pulls back on its own upon touching a cold object — which part controls this action?"
+      },
+      "options": {
+        "hi": [
+          "फेफड़े",
+          "बड़ा मस्तिष्क",
+          "मेरुरज्जु (spinal cord)",
+          "हृदय"
+        ],
+        "en": [
+          "The lungs",
+          "The cerebrum",
+          "The spinal cord",
+          "The heart"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हाथ पीछे खींचने जैसे तुरंत-सुरक्षा आदेश मेरुरज्जु स्वयं दे देती है — मस्तिष्क तक चक्कर लगाना जरूरी नहीं।",
+        "en": "Instant protective orders like pulling the hand back are issued by the spinal cord itself — no round trip to the brain needed."
+      }
+    },
+    {
+      "id": "ch6_q608",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सी ऐच्छिक (voluntary) क्रिया है?",
+        "en": "Which of the following is a voluntary action?"
+      },
+      "options": {
+        "hi": [
+          "पलकें झपकना",
+          "हृदय की धड़कन",
+          "भोजन की ग्रंथि से लार का स्राव",
+          "पुस्तक का पन्ना पलटना"
+        ],
+        "en": [
+          "Blinking of the eyelids",
+          "The heartbeat",
+          "Saliva flowing from the gland",
+          "Turning a page of a book"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पन्ना पलटना हमारी इच्छा से होता है — धड़कन, लार और पलक-झपकना स्वचालित प्रतिवर्ती/अनैच्छिक क्रियाएँ हैं।",
+        "en": "Turning a page happens by our will — heartbeat, salivation and blinking are automatic reflex/involuntary actions."
+      }
+    },
+    {
+      "id": "ch6_q609",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तंत्रिका तंत्र की निर्माण-इकाई (संरचनात्मक तत्व) कौन-सी कोशिका है?",
+        "en": "Which cell is the building unit (structural element) of the nervous system?"
+      },
+      "options": {
+        "hi": [
+          "तंत्रिका कोशिका (neuron/neurone)",
+          "रुधिर कोशिका",
+          "अस्थि कोशिका",
+          "मांसपेशी कोशिका"
+        ],
+        "en": [
+          "A nerve cell (neuron)",
+          "A blood cell",
+          "A bone cell",
+          "A muscle cell"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अरबों न्यूरॉन मिलकर मस्तिष्क से लेकर नसों तक पूरा तंत्रिका-जाल बुनते हैं।",
+        "en": "Billions of neurons weave the whole nerve network from the brain to the nerves."
+      }
+    },
+    {
+      "id": "ch6_q610",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मस्तिष्क के तीन मुख्य भाग कौन-से हैं?",
+        "en": "Which are the three main parts of the brain?"
+      },
+      "options": {
+        "hi": [
+          "अलिंद, निलय, धमनी",
+          "अग्रमस्तिष्क, मध्यमस्तिष्क, पश्चिम भाग (हिंडमस्तिष्क)",
+          "आँख, कान, नाक",
+          "मस्तिष्क, हृदय, गुर्दा"
+        ],
+        "en": [
+          "Atrium, ventricle, artery",
+          "Forebrain, midbrain, hindbrain",
+          "Eye, ear, nose",
+          "Brain, heart, kidney"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पूर्व-मध्य-पश्चिम (fore/mid/hind) तीन खंडों में मस्तिष्क बँटा है — हर खंड की अपनी टोली।",
+        "en": "The brain divides into fore-mid-hind segments — each segment with its own team."
+      }
+    },
+    {
+      "id": "ch6_q611",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सोचना, याद रखना और निर्णय लेना — मस्तिष्क के किस मुख्य भाग का कार्य है?",
+        "en": "Thinking, remembering and deciding are the job of which main part of the brain?"
+      },
+      "options": {
+        "hi": [
+          "मेरुरज्जु",
+          "अनुमस्तिष्क (cerebellum)",
+          "प्रमस्तिष्क (cerebrum)",
+          "मध्यमस्तिष्क"
+        ],
+        "en": [
+          "The spinal cord",
+          "The cerebellum",
+          "The cerebrum",
+          "The midbrain"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रमस्तिष्क विचार का सिंहासन है — पढ़ाई, याददाश्त, तर्क सबका केंद्र यही बड़ा भाग।",
+        "en": "The cerebrum is the throne of thought — study, memory and logic all centre in this largest part."
+      }
+    },
+    {
+      "id": "ch6_q612",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शरीर का संतुलन और मुद्रा (posture) किस मस्तिष्क-भाग के नियंत्रण में रहता है?",
+        "en": "The body's balance and posture stay under the control of which part of the brain?"
+      },
+      "options": {
+        "hi": [
+          "मध्यमस्तिष्क",
+          "मूत्राशय",
+          "प्रमस्तिष्क",
+          "अनुमस्तिष्क (cerebellum)"
+        ],
+        "en": [
+          "The midbrain",
+          "The urinary bladder",
+          "The cerebrum",
+          "The cerebellum"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अनुमस्तिष्क संतुलन-मास्टर है — साइकिल संभालने से लेकर सीधे खड़े रहने तक उसी की निगरानी।",
+        "en": "The cerebellum is the balance-master — from holding a cycle to standing straight, all under its watch."
+      }
+    },
+    {
+      "id": "ch6_q613",
+      "topic": "nervous-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हृदय की धड़कन, श्वास और उल्टी जैसी अनैच्छिक क्रियाएँ मस्तिष्क के किस भाग से नियंत्रित होती हैं?",
+        "en": "Involuntary actions like heartbeat, breathing and vomiting are controlled by which part of the brain?"
+      },
+      "options": {
+        "hi": [
+          "मस्तिष्क-तना/मेडुला (medulla)",
+          "मेरुरज्जु की नसें",
+          "प्रमस्तिष्क",
+          "अनुमस्तिष्क"
+        ],
+        "en": [
+          "The brain stem/medulla",
+          "The spinal nerves",
+          "The cerebrum",
+          "The cerebellum"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मेडुला अनैच्छिक-कार्यों का ऑटो-पायलट है — चलती-चलाती धड़कन-श्वास इसी के हवाले।",
+        "en": "The medulla is the auto-pilot of involuntary works — heartbeat and breathing run on its watch."
+      }
+    },
+    {
+      "id": "ch6_q614",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तंत्रिका आवेग (nerve impulse) वास्तव में किस प्रकार का संकेत है?",
+        "en": "What kind of signal is a nerve impulse actually?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक द्रव्य का बहाव",
+          "विद्युत-रासायनिक प्रकृति का संकेत — तंत्रिका-कोशिका की झिल्ली पर चलती उत्तेजना-लहर",
+          "केवल यांत्रिक झटका",
+          "ध्वनि तरंग"
+        ],
+        "en": [
+          "A flow of chemical matter",
+          "An electrochemical signal — a wave of excitation running along the nerve-cell membrane",
+          "Only a mechanical jolt",
+          "A sound wave"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "न्यूरॉन की झिल्ली पर आयनों के बदलाव से विद्युत-रासायनिक लहर दौड़ती है — यही आवेश-संदेश है।",
+        "en": "Ion changes on the neuron's membrane race an electrochemical wave — that is the charged message."
+      }
+    },
+    {
+      "id": "ch6_q615",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मस्तिष्क और शरीर के बीच संदेश-आवागमन का मुख्य मार्ग कौन-सा ढाँचा है?",
+        "en": "Which structure is the main message-route between the brain and the body?"
+      },
+      "options": {
+        "hi": [
+          "गला",
+          "मूत्रवाहिनी",
+          "मेरुरज्जु (spinal cord) — पीठ में उतरी केबल-नाली",
+          "आँत"
+        ],
+        "en": [
+          "The throat",
+          "The ureter",
+          "The spinal cord — the cable-conduit running down the back",
+          "The intestine"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मस्तिष्क से निकली मोटी केबल ही मेरुरज्जु है — ऊपर-नीचे हर संदेश इसी से गुजरता है।",
+        "en": "The thick cable leaving the brain is the spinal cord — every message up and down passes through it."
+      }
+    },
+    {
+      "id": "ch6_q616",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेरुरज्जु का एक प्रमुख कार्य प्रतिवर्ती क्रियाओं का केंद्र बनना है — इसका लाभ क्या है?",
+        "en": "A major role of the spinal cord is being the centre of reflex actions — what is the benefit of this?"
+      },
+      "options": {
+        "hi": [
+          "रुधिर बचता है",
+          "पाचन तेज़ होता है",
+          "मस्तिष्क आराम करता रहता है",
+          "खतरे की सूचना का लंबा चक्कर टूट जाता है — प्रतिक्रिया की गति बढ़ती है"
+        ],
+        "en": [
+          "Blood is saved",
+          "Digestion quickens",
+          "The brain keeps resting",
+          "The long round trip of the danger signal is cut — the speed of response rises"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गर्म-ठंडा जैसे आपात में हर मिलीसेकंड कीमती है — मेरुरज्जु का स्थानीय निर्णय समय बचाता है।",
+        "en": "In heat-cold emergencies every millisecond counts — the spinal cord's local decision saves time."
+      }
+    },
+    {
+      "id": "ch6_q617",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संवेदी (sensory) तंत्रिकाएँ किस दिशा में संदेश ले जाती हैं?",
+        "en": "In which direction do sensory nerves carry messages?"
+      },
+      "options": {
+        "hi": [
+          "मस्तिष्क/मेरुरज्जु की ओर — अंगों से सूचना",
+          "मस्तिष्क से अंगों की ओर — आदेश",
+          "दोनों दिशाओं में",
+          "कहीं नहीं"
+        ],
+        "en": [
+          "Towards the brain/spinal cord — information from the organs",
+          "From the brain to the organs — orders",
+          "In both directions",
+          "Nowhere"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "संवेदी नसें इनबॉक्स हैं — त्वचा-आँख-कान की खबरें केंद्र तक पहुँचाती हैं।",
+        "en": "Sensory nerves are the inbox — they deliver skin-eye-ear reports to the centre."
+      }
+    },
+    {
+      "id": "ch6_q618",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चालक (motor) तंत्रिकाओं का कार्य क्या है?",
+        "en": "What is the function of motor nerves?"
+      },
+      "options": {
+        "hi": [
+          "सूचना केंद्र तक लाना",
+          "केंद्र के आदेश पेशियों/ग्रंथियों तक पहुँचाकर क्रिया कराना",
+          "भोजन पचाना",
+          "रुधिर थक्का करना"
+        ],
+        "en": [
+          "Bringing information to the centre",
+          "Delivering the centre's orders to muscles/glands and getting the action done",
+          "Digesting food",
+          "Clotting blood"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चालक नसें आउटबॉक्स हैं — 'हाथ हटाओ' जैसे फरमान पेशी तक पहुँचाकर काम करवाती हैं।",
+        "en": "Motor nerves are the outbox — they deliver decrees like 'withdraw the hand' to the muscle and get it done."
+      }
+    },
+    {
+      "id": "ch6_q619",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रतिवर्ती-चाप (reflex arc) में संदेश का सही क्रम क्या है?",
+        "en": "What is the correct order of the message in a reflex arc?"
+      },
+      "options": {
+        "hi": [
+          "ग्राही → मस्तिष्क → पेशी",
+          "पेशी → मोटर न्यूरॉन → मेरुरज्जु",
+          "ग्राही (receptor) → संवेदी न्यूरॉन → मेरुरज्जु → मोटर न्यूरॉन → पेशी (क्रियापक/effector)",
+          "मस्तिष्क → त्वचा → पेशी"
+        ],
+        "en": [
+          "Receptor → brain → muscle",
+          "Muscle → motor neuron → spinal cord",
+          "Receptor → sensory neuron → spinal cord → motor neuron → muscle (effector)",
+          "Brain → skin → muscle"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पाँच-स्टेशन सीधी रेल: ग्राही से संवेदी न्यूरॉन, मेरुरज्जु का प्लेटफॉर्म, मोटर न्यूरॉन से क्रियापक तक।",
+        "en": "A five-station straight train: receptor to sensory neuron, the spinal-cord platform, motor neuron to the effector."
+      }
+    },
+    {
+      "id": "ch6_q620",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "घुटने पर हल्का प्रहार करते ही पैर झट से ऊपर उठ जाता है — यह कौन-सा प्रसिद्ध उदाहरण है?",
+        "en": "The leg jerks up the moment the knee is tapped — which famous example is this?"
+      },
+      "options": {
+        "hi": [
+          "ऐच्छिक क्रिया",
+          "सीखी हुई आदत",
+          "पाचन क्रिया",
+          "घुटना-झटका (knee-jerk reflex)"
+        ],
+        "en": [
+          "A voluntary action",
+          "A learned habit",
+          "A digestive action",
+          "The knee-jerk reflex"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "घुटना-झटका प्रतिवर्ती-परीक्षा का क्लासिक नमूना है — मेरुरज्जु की तत्परता का जीवित प्रमाण।",
+        "en": "The knee-jerk is the classic specimen of a reflex test — living proof of the spinal cord's promptness."
+      }
+    },
+    {
+      "id": "ch6_q621",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जीव-शरीर में विभिन्न अंग-तंत्र एक-दूसरे के साथ मेलकर चलते हैं — इस क्रम-बद्ध चलायमानी को क्या कहते हैं?",
+        "en": "Different organ systems run in step with one another in a living body — what is this ordered running called?"
+      },
+      "options": {
+        "hi": [
+          "समन्वय (coordination)",
+          "पाचन",
+          "विसरण",
+          "वाष्पोत्सर्जन"
+        ],
+        "en": [
+          "Coordination",
+          "Digestion",
+          "Diffusion",
+          "Transpiration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दौड़ते समय श्वास-धड़कन-पेशी तीनों का साथ चलना ही समन्वय है — तंत्रिका तंत्र इसका संचालक।",
+        "en": "Breath, pulse and muscle keeping together while running is coordination — the nervous system its conductor."
+      }
+    },
+    {
+      "id": "ch6_q622",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मानव शरीर से निकलने वाली मेरु-नसें (spinal nerves) लगभग कितने जोड़े होती हैं?",
+        "en": "About how many pairs of spinal nerves leave the human body's spinal cord?"
+      },
+      "options": {
+        "hi": [
+          "12 जोड़े",
+          "31 जोड़े",
+          "50 जोड़े",
+          "7 जोड़े"
+        ],
+        "en": [
+          "12 pairs",
+          "31 pairs",
+          "50 pairs",
+          "7 pairs"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मेरुरज्जु से 31 जोड़े नसें शरीर के दोनों ओर निकलती हैं — प्रत्येक खंड का अपना जोड़ा।",
+        "en": "31 pairs of nerves leave the spinal cord on both sides of the body — each segment with its own pair."
+      }
+    },
+    {
+      "id": "ch6_q623",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मस्तिष्क से सीधे निकलने वाली नसें किन कामों में सक्रिय रहती हैं?",
+        "en": "The nerves leaving the brain directly stay active in which tasks?"
+      },
+      "options": {
+        "hi": [
+          "केवल श्वास में",
+          "केवल पैर चलाने में",
+          "देखना, सुनना, स्वाद, चेहरे की गति जैसे सिर-क्षेत्र के कार्यों में (कपाल-नसें)",
+          "केवल पाचन में"
+        ],
+        "en": [
+          "Only in breathing",
+          "Only in moving the legs",
+          "In head-region works like seeing, hearing, taste, facial movement (cranial nerves)",
+          "Only in digestion"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कपाल-नसें मस्तिष्क के सीधे दूत हैं — आँख-कान-नाक-जीभ-चेहरे की सेवा इन्हीं के जरिए।",
+        "en": "Cranial nerves are the brain's direct envoys — eye-ear-nose-tongue-face service runs through them."
+      }
+    },
+    {
+      "id": "ch6_q624",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अधिकांश शरीर-नसें 'मिश्रित' होती हैं — इसका अर्थ क्या है?",
+        "en": "Most body nerves are 'mixed' — what does this mean?"
+      },
+      "options": {
+        "hi": [
+          "वे आधी काली आधी सफेद होती हैं",
+          "वे मस्तिष्क और हृदय दोनों से जुड़ी होती हैं",
+          "उनमें रुधिर भी होता है",
+          "उनमें संवेदी और चालक — दोनों प्रकार के तंत्रिका-तंतु साथ-साथ चलते हैं"
+        ],
+        "en": [
+          "They are half black half white",
+          "They join both brain and heart",
+          "They contain blood too",
+          "Sensory and motor — both kinds of nerve fibres run together in them"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक ही नस-रस्सी में आने-जाने दोनों पटरियाँ — संवेदी तंतु अंदर खबर लाते, चालक तंतु आदेश ले जाते हैं।",
+        "en": "One nerve-rope carries both tracks — sensory fibres bring news in, motor fibres carry orders out."
+      }
+    },
+    {
+      "id": "ch6_q625",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मस्तिष्क को झटकों से बचाने के लिए उसके चारों ओर कौन-सा गद्देदार द्रव रहता है?",
+        "en": "Which cushioning fluid stays around the brain to protect it from jolts?"
+      },
+      "options": {
+        "hi": [
+          "मस्तिष्क-मेरु द्रव (cerebrospinal fluid)",
+          "लार",
+          "पित्त",
+          "प्लाज्मा"
+        ],
+        "en": [
+          "Cerebrospinal fluid",
+          "Saliva",
+          "Bile",
+          "Plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "CSF जल-गद्दे का काम करता है — खोपड़ी के भीतर मस्तिष्क इस द्रव-झरने में तैरता रहता है।",
+        "en": "CSF works as a water-cushion — inside the skull the brain keeps floating in this fluid bath."
+      }
+    },
+    {
+      "id": "ch6_q626",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेरुरज्जु किस प्रकार की क्रियाओं का सीधा केंद्र मानी जाती है?",
+        "en": "The spinal cord is considered the direct centre of which type of actions?"
+      },
+      "options": {
+        "hi": [
+          "सोच-विचार की",
+          "प्रतिवर्ती क्रियाओं की",
+          "भोजन-स्वाद की",
+          "रुधिर-निर्माण की"
+        ],
+        "en": [
+          "Of thinking and pondering",
+          "Of reflex actions",
+          "Of food-taste",
+          "Of blood-formation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सोचना मस्तिष्क का काम; प्रतिवर्ती-आदेश मेरुरज्जु स्वयं देती है — काम-बँटवारा तय है।",
+        "en": "Thinking is the brain's job; reflex orders the spinal cord issues itself — the division of work is settled."
+      }
+    },
+    {
+      "id": "ch6_q627",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल-जीव हाइड्रा (Hydra) का तंत्रिका-प्रबंध कैसा होता है?",
+        "en": "What is the nervous arrangement of the water animal Hydra like?"
+      },
+      "options": {
+        "hi": [
+          "मेरुरज्जु only",
+          "एकल मस्तिष्क",
+          "मस्तिष्क नहीं — शरीर-भित्ति में फैला तंत्रिका-जाल (nerve net)",
+          "कोई तंत्रिका नहीं"
+        ],
+        "en": [
+          "Only a spinal cord",
+          "A single brain",
+          "No brain — a nerve net spread in the body wall",
+          "No nerves at all"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सरल-जीवों में कमान-केंद्र की जगह जाल-व्यवस्था है — छूने पर पूरा शरीर एक साथ प्रतिक्रिया करता है।",
+        "en": "In simple animals a net-arrangement replaces the command centre — on touch the whole body reacts together."
+      }
+    },
+    {
+      "id": "ch6_q628",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "केंचुआ (earthworm) में तंत्रिका-नियंत्रण का मुख्य ढाँचा क्या है?",
+        "en": "What is the main framework of nervous control in an earthworm?"
+      },
+      "options": {
+        "hi": [
+          "केवल तंत्रिका-जाल",
+          "कोई तंत्रिका नहीं",
+          "मस्तिष्क और नसें",
+          "अगले सिरे का गुच्छा (गैंग्लिया) और नीचे दौड़ी दोहरी तंत्रिका-रज्जु"
+        ],
+        "en": [
+          "Only a nerve net",
+          "No nerves",
+          "A brain and nerves",
+          "A cluster (ganglion) at the head end and a double nerve cord running below"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "केंचुए में सिर-गुच्छा + अधर-रज्जु की सीढ़ियाँ — खंड-दर-खंड गुच्छों की माला।",
+        "en": "In the earthworm a head-cluster + a belly-cord ladder — a chain of ganglia segment by segment."
+      }
+    },
+    {
+      "id": "ch6_q629",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लिखना, बोलना और नृत्य करना तंत्रिका-दृष्टि से किस वर्ग में आते हैं?",
+        "en": "Writing, speaking and dancing fall in which class from the nervous point of view?"
+      },
+      "options": {
+        "hi": [
+          "ऐच्छिक (स्वेच्छिक) क्रियाएँ — मस्तिष्क के निर्णय से चालित",
+          "पाचन क्रियाएँ",
+          "अनैच्छिक क्रियाएँ",
+          "प्रतिवर्ती क्रियाएँ"
+        ],
+        "en": [
+          "Voluntary actions — driven by the brain's decision",
+          "Digestive actions",
+          "Involuntary actions",
+          "Reflex actions"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सीखी और इच्छा-वाली क्रियाएँ प्रमस्तिष्क की मंज़ूरी से चलती हैं — धड़कन जैसी स्वचालित नहीं।",
+        "en": "Learned, willed actions run on the cerebrum's sanction — not automatic like the heartbeat."
+      }
+    },
+    {
+      "id": "ch6_q630",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेतीली जगह पर खड़ा व्यक्ति अचानक फिसलने पर हाथ आगे कर गिरने से बचता है — यह नियंत्रण किसका?",
+        "en": "A person slipping on sand saves himself by throwing his hands forward — whose control is this?"
+      },
+      "options": {
+        "hi": [
+          "केवल त्वचा का",
+          "मस्तिष्क-मेरुरज्जु का सम्मिलित तंत्रिका-समन्वय",
+          "केवल पेशी का",
+          "केवल हड्डी का"
+        ],
+        "en": [
+          "Only of the skin",
+          "Combined nervous coordination of brain and spinal cord",
+          "Only of the muscle",
+          "Only of the bone"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फिसलने की सूचना संवेदी नसों से, निर्णय और आदेश मोटर नसों से — अंग-अंग तक सामयिक संदेश-श्रृंखला।",
+        "en": "Slip news via sensory nerves, decision and orders via motor nerves — a timed message chain to every limb."
+      }
+    },
+    {
+      "id": "ch6_q631",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तंत्रिका तंत्र की तुलना में ग्रंथियों का संदेश-तंत्र धीमा होता है — तंत्रिका संदेश की विशेषता क्या है?",
+        "en": "Compared to the glandular message system, the nervous message is slower in none — what is the nerve message's specialty?"
+      },
+      "options": {
+        "hi": [
+          "वह रुधिर में घुलता है",
+          "वह धीमा पर स्थायी होता है",
+          "वह अत्यंत तीव्र गति से पहुँचता है — पल-भर की प्रतिक्रिया संभव करता है",
+          "वह केवल भोजन पर चलता है"
+        ],
+        "en": [
+          "It dissolves in blood",
+          "It is slow but lasting",
+          "It arrives at extremely high speed — enabling split-second response",
+          "It runs only on food"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तार-दूत (न्यूरॉन) बिजली-गति से संदेश देते हैं — इसी तीव्रता से प्रतिवर्ती संभव है।",
+        "en": "The wire-couriers (neurons) deliver at lightning speed — reflexes become possible by exactly this rapidity."
+      }
+    },
+    {
+      "id": "ch6_q632",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आँख-कान-त्वचा के ग्राही और मांसपेशियाँ — इनके बीच सेतु कौन बनता है?",
+        "en": "Who forms the bridge between the receptors of eye-ear-skin and the muscles?"
+      },
+      "options": {
+        "hi": [
+          "गुर्दा",
+          "फेफड़ा",
+          "यकृत",
+          "तंत्रिका तंत्र — ग्राही से संदेश लेकर क्रियापक तक पहुँचाने वाला"
+        ],
+        "en": [
+          "The kidney",
+          "The lung",
+          "The liver",
+          "The nervous system — taking the message from receptor to effector"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ग्राही (इनपुट) → तंत्रिका-मार्ग (प्रोसेसिंग) → पेशी (आउटपुट) — सेतु-भूमिका नस-तंत्र की ही है।",
+        "en": "Receptor (input) → nerve path (processing) → muscle (output) — the bridging role belongs to the nerve network."
+      }
+    },
+    {
+      "id": "ch6_q633",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेरुरज्जु किस अक्ष-दिशा में स्थित होती है — शरीर के सापेक्ष कहाँ चलती है?",
+        "en": "In which axial position does the spinal cord run — where in the body?"
+      },
+      "options": {
+        "hi": [
+          "पीठ की ओर, खोपड़ी से नीचे कशेरुक-स्तंभ की नाली में",
+          "पेट की गुहा में मुक्त",
+          "गर्दन के आगे",
+          "छाती के आगे"
+        ],
+        "en": [
+          "On the back side, in the vertebral column's canal below the skull",
+          "Free in the belly cavity",
+          "In front of the neck",
+          "In front of the chest"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मेरुरज्जु पीठ-पार्श्व कशेरुका-नाली में सुरक्षित दौड़ती है — हड्डी-महल के भीतर रहने वाली केबल।",
+        "en": "The spinal cord runs guarded in the backside vertebral canal — a cable living inside a bony palace."
+      }
+    },
+    {
+      "id": "ch6_q634",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्दन से नीचे की चोट में व्यक्ति पैरों पर संवेदन खो देता है — किस कारण से?",
+        "en": "In an injury below the neck the person loses sensation in the legs — due to what cause?"
+      },
+      "options": {
+        "hi": [
+          "पैरों की पेशियाँ मर जाती हैं",
+          "मेरुरज्जु का संदेश-मार्ग टूट जाता है — मस्तिष्क-पैर का तार-संपर्क कट जाता है",
+          "रुधिर बनना रुक जाता है",
+          "त्वचा बूढ़ी हो जाती है"
+        ],
+        "en": [
+          "The leg muscles die",
+          "The spinal cord's message-path breaks — the wire-contact between brain and legs is cut",
+          "Blood-making stops",
+          "The skin ages"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मेरु-मार्ग कटने से नीचे के अंग अंधे हो जाते हैं — अनुभव ऊपर नहीं पहुँचता, आदेश नीचे नहीं उतरता।",
+        "en": "With the spinal route cut, organs below go blind — experience cannot rise up, orders cannot come down."
+      }
+    },
+    {
+      "id": "ch6_q635",
+      "topic": "nervous-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "प्रतिवर्ती क्रिया मस्तिष्क की बजाय मेरुरज्जु से निपटाई जाती है — इसका तर्क क्या है?",
+        "en": "Reflex actions are handled by the spinal cord rather than the brain — what is the rationale?"
+      },
+      "options": {
+        "hi": [
+          "मस्तिष्क शरीर से जुड़ा ही नहीं होता",
+          "मस्तिष्क सोच ही नहीं सकता",
+          "संदेश की आने-जाने की दूरी घटती है — ग्राही से पेशी तक छोटा-रास्ता समय बचाकर तुरंत प्रतिक्रिया देता है",
+          "मेरुरज्जु में रुधिर नहीं जाता"
+        ],
+        "en": [
+          "The brain is not connected to the body",
+          "The brain cannot think",
+          "The to-and-fro distance of the message shrinks — the short receptor-to-muscle path saves time and yields instant response",
+          "No blood reaches the spinal cord"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "यात्रा-समय ही प्रतिवर्ती की आत्मा है — जितना छोटा चक्कर, उतनी तेज़ रक्षा-प्रतिक्रिया।",
+        "en": "Travel-time is the soul of a reflex — the shorter the loop, the faster the protective response."
+      }
+    },
+    {
+      "id": "ch6_q636",
+      "topic": "nervous-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मस्तिष्क के बाहरी गहरे भाग और भीतरी भाग का रंग-भेद (धूसर/श्वेत) किस व्यवस्था से आता है?",
+        "en": "The colour difference (grey/white) of the brain's outer and inner parts comes from which arrangement?"
+      },
+      "options": {
+        "hi": [
+          "हवा के दबाव से",
+          "पानी की मात्रा से",
+          "रुधिर की मात्रा से",
+          "बाहरी धूसर भाग कोशिका-काय का (ग्रे मैटर), भीतरी श्वेत भाग माइलीन-चढ़े तंतुओं का (व्हाइट मैटर)"
+        ],
+        "en": [
+          "From air pressure",
+          "From the amount of water",
+          "From the amount of blood",
+          "The outer grey part is cell-bodies (grey matter), the inner white part is myelin-coated fibres (white matter)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कोशिका-काय का झुंड धूसर; वसा-आवरण वाले लंबे तार श्वेभ दिखते हैं — रंग बनावट का थर्मामीटर है।",
+        "en": "Clusters of cell-bodies look grey; long fat-sheathed wires look white — colour is the thermometer of structure."
+      }
+    },
+    {
+      "id": "ch6_q637",
+      "topic": "nervous-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक न्यूरॉन दूसरे न्यूरॉन से सीधा जुड़ा नहीं होता — फिर भी संदेश अगले न्यूरॉन में कैसे पहुँचता है?",
+        "en": "One neuron is not directly fused with the next — still, how does the message reach the next neuron?"
+      },
+      "options": {
+        "hi": [
+          "दोनों के बीच अति-सूक्ष्म अंतराल पर रसायन-दूतों (neurotransmitters) के माध्यम से संदेश सौंपा जाता है",
+          "हवा से",
+          "आवाज़ से",
+          "रुधिर से"
+        ],
+        "en": [
+          "Across the microscopic gap between the two, chemical couriers (neurotransmitters) hand over the message",
+          "Through air",
+          "Through sound",
+          "Through blood"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तार आगे बढ़ाकर रसायन छोड़ता है, अगला तार उसे पढ़कर आगे भेजता है — विद्युत से रासायनिक, रासायनिक से विद्युत।",
+        "en": "The wire ends by releasing chemicals; the next wire reads them and relays — electric to chemical, chemical to electric."
+      }
+    },
+    {
+      "id": "ch6_q638",
+      "topic": "nervous-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी कारण मस्तिष्क को ऑक्सीजन की आपूर्ति रुक जाए तो सबसे पहले कौन-सा खतरा उठता है?",
+        "en": "If the brain's oxygen supply stops for some reason, which danger rises first?"
+      },
+      "options": {
+        "hi": [
+          "पाचन रुकता है",
+          "मस्तिष्क-कोशिकाएँ तेजी से मरने लगती हैं — कुछ ही मिनटों में अबोध संकट",
+          "बाल सफेद हो जाते हैं",
+          "त्वचा रूखी होती है"
+        ],
+        "en": [
+          "Digestion halts",
+          "Brain cells begin dying fast — an irreversible crisis within minutes",
+          "Hair turns white",
+          "Skin dries"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मस्तिष्क शरीर का सबसे भूखा ऑक्सीजन-ग्राही है — रुधि-प्रवाह रुकते ही उसकी कोशिकाएँ जल्दी बुझ जाती हैं।",
+        "en": "The brain is the body's hungriest oxygen-grabber — starved of flow, its cells snuff out quickly."
+      }
+    },
+    {
+      "id": "ch6_q639",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मस्तिष्क की कार्य-ऊर्जा का मुख्य स्रोत क्या है?",
+        "en": "What is the main source of working energy for the brain?"
+      },
+      "options": {
+        "hi": [
+          "खनिज लवण",
+          "वसा",
+          "रुधिर में घुला ग्लूकोस — मस्तिष्क शरीर का सबसे बड़ा ग्लूकोस-उपभोक्ता दलों में है",
+          "प्रोटीन सीधे"
+        ],
+        "en": [
+          "Mineral salts",
+          "Fat",
+          "Glucose dissolved in blood — the brain is among the body's biggest glucose consumers",
+          "Protein directly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सोचते-संचालित करते मस्तिष्क की खर्च-तंत्र ग्लूकोस पर चलती है — भूखे रहने पर ध्यान भटकने का एक कारण यही।",
+        "en": "The thinking-driving brain's spending system runs on glucose — one reason attention wanders when hungry."
+      }
+    },
+    {
+      "id": "ch6_q640",
+      "topic": "nervous-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तंत्रिका-कोशिका में आवेग का प्रवाह किस दिशा में होता है?",
+        "en": "In which direction does the impulse flow through a nerve cell?"
+      },
+      "options": {
+        "hi": [
+          "केवल उल्टा",
+          "कोई निश्चित दिशा नहीं",
+          "दोनों दिशाओं में एक साथ",
+          "एक ही दिशा में — ग्रहण-सिरे से भीतर आकर अगले सिरे से आगे"
+        ],
+        "en": [
+          "Only backwards",
+          "No fixed direction",
+          "Both ways at once",
+          "One way only — entering from the receiving end and leaving from the far end"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "न्यूरॉन वन-वे रोड है — संदेश एक ही रुख में दौड़ता है, उल्टा मुड़ता नहीं।",
+        "en": "The neuron is a one-way road — the message races in a single direction, never turning back."
+      }
+    },
+    {
+      "id": "ch6_q641",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्सर्जन शरीर के लिए आवश्यक क्यों है?",
+        "en": "Why is excretion necessary for the body?"
+      },
+      "options": {
+        "hi": [
+          "चयापचय में बने विषैले अपशिष्टों को शरीर से बाहर निकालना ही जीवित रहने की शर्त है",
+          "नींद लाने को",
+          "वजन बढ़ाने को",
+          "भूख बढ़ाने को"
+        ],
+        "en": [
+          "Removing the toxic wastes formed in metabolism from the body is the very condition of staying alive",
+          "To bring sleep",
+          "To gain weight",
+          "To increase hunger"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कोशिकीय कारखाने का कचरा भीतर रुका तो विष बनता है — निकासी-द्वार खुला रहना अनिवार्य।",
+        "en": "If the cellular factory's refuse lingers inside it turns poison — the exit gate must stay open."
+      }
+    },
+    {
+      "id": "ch6_q642",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव शरीर में मुख्य उत्सर्जी अपशिष्ट कौन-सा है?",
+        "en": "Which is the main excretory waste in the human body?"
+      },
+      "options": {
+        "hi": [
+          "ग्लूकोस",
+          "यूरिया (urea)",
+          "स्टार्च",
+          "प्रोटीन"
+        ],
+        "en": [
+          "Glucose",
+          "Urea",
+          "Starch",
+          "Protein"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रोटीन-चयापचय का अंतिम निर्गम-रूप यूरिया है — रुधिर से छनकर गुर्दे इसे मूत्र में उतारते हैं।",
+        "en": "Urea is the final exit-form of protein metabolism — filtered from blood, the kidneys drop it into urine."
+      }
+    },
+    {
+      "id": "ch6_q643",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव शरीर में गुर्दे (kidneys) कितने होते हैं?",
+        "en": "How many kidneys are there in the human body?"
+      },
+      "options": {
+        "hi": [
+          "चार",
+          "एक",
+          "दो",
+          "तीन"
+        ],
+        "en": [
+          "Four",
+          "One",
+          "Two",
+          "Three"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दो मटर-आकृति गुर्दे पेट की पिछली दीवार पर, रीढ़ के दोनों ओर बैठे हैं।",
+        "en": "Two bean-shaped kidneys sit on the rear wall of the abdomen, one on each side of the backbone."
+      }
+    },
+    {
+      "id": "ch6_q644",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुर्दे किस आकार के होते हैं?",
+        "en": "What is the shape of the kidneys?"
+      },
+      "options": {
+        "hi": [
+          "चपटा चौकोर",
+          "त्रिकोणीय",
+          "गोल",
+          "मटर/सेम के बीज जैसे (bean-आकृति)"
+        ],
+        "en": [
+          "Flat and square",
+          "Triangular",
+          "Round",
+          "Like a pea/bean seed (bean-shaped)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बीन-बीज जैसी दो थैलियाँ — भीतर की ओर दबी हुई मटर-कमर वाली आकृति।",
+        "en": "Two bean-seed-like pouches — the pea-waisted shape dented towards the inner side."
+      }
+    },
+    {
+      "id": "ch6_q645",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुर्दे से मूत्र को मूत्राशय (urinary bladder) तक ले जाने वाली नलिकाएँ क्या कहलाती हैं?",
+        "en": "What are the tubes carrying urine from the kidney to the urinary bladder called?"
+      },
+      "options": {
+        "hi": [
+          "मूत्रवाहिनी (ureter)",
+          "गुर्दा-धमनी",
+          "पित्त नली",
+          "मूत्रमार्ग (urethra)"
+        ],
+        "en": [
+          "The ureters",
+          "The renal artery",
+          "The bile duct",
+          "The urethra"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रत्येक गुर्दे से एक यूरेटर निकलकर नीचे मूत्राशय में खुलती है — मूत्र की ढलान-नहर।",
+        "en": "One ureter leaves each kidney and opens below into the urinary bladder — urine's sluice-channel."
+      }
+    },
+    {
+      "id": "ch6_q646",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मूत्राशय (urinary bladder) का कार्य क्या है?",
+        "en": "What is the function of the urinary bladder?"
+      },
+      "options": {
+        "hi": [
+          "मूत्र बनाना",
+          "मूत्र को एकत्र करके रखना (भंडारण) और उचित समय पर बाहर करना",
+          "रुधिर छानना",
+          "पित्त रखना"
+        ],
+        "en": [
+          "Making urine",
+          "Collecting and holding urine (storage) and releasing it at the right time",
+          "Filtering blood",
+          "Storing bile"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मूत्राशय लचीली थैली है — भरने पर खिंचकर दबाव-संकेत देती है, तब वह मूत्रमार्ग खुलता है।",
+        "en": "The bladder is a stretchy bag — filling, it stretches and signals pressure; then the outlet opens."
+      }
+    },
+    {
+      "id": "ch6_q647",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मूत्र शरीर से अंतिम रूप से किस मार्ग से बाहर निकलता है?",
+        "en": "Through which final route does urine leave the body?"
+      },
+      "options": {
+        "hi": [
+          "मलद्वार से",
+          "मूत्रवाहिनी से",
+          "मूत्रमार्ग (urethra) से",
+          "गुर्दा-धमनी से"
+        ],
+        "en": [
+          "Through the anus",
+          "Through the ureters",
+          "Through the urethra",
+          "Through the renal artery"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मूत्राशय के नीचे की छोटी नली = मूत्रमार्ग — मूत्र-यात्रा का अंतिम दरवाज़ा।",
+        "en": "The small tube below the bladder = urethra — the final doorway of the urine journey."
+      }
+    },
+    {
+      "id": "ch6_q648",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुर्दे की क्रियात्मक इकाई (functional unit) क्या कहलाती है?",
+        "en": "What is called the functional unit of the kidney?"
+      },
+      "options": {
+        "hi": [
+          "एल्वियोलस",
+          "विलाई",
+          "न्यूरॉन",
+          "नेफ्रॉन (nephron)"
+        ],
+        "en": [
+          "The alveolus",
+          "The villus",
+          "The neuron",
+          "The nephron"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रत्येक गुर्दे में लाखों नेफ्रॉन लगे रहते हैं — हर एक स्वयं एक सूक्ष्म छलनी-कारखाना है।",
+        "en": "Millions of nephrons sit packed in each kidney — each one itself a tiny sieve-factory."
+      }
+    },
+    {
+      "id": "ch6_q649",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुर्दों में शुद्धिकरण के लिए कौन-सा तरल लगातार पहुँचता है?",
+        "en": "Which fluid keeps arriving at the kidneys for purification?"
+      },
+      "options": {
+        "hi": [
+          "रुधिर — गुर्दा-धमनी द्वारा",
+          "पित्त",
+          "लसीका only",
+          "लार"
+        ],
+        "en": [
+          "Blood — via the renal artery",
+          "Bile",
+          "Only lymph",
+          "Saliva"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गुर्दा-धमनी रुधिर लाती है, नेफ्रॉन छानते हैं, गुर्दा-शिरा साफ रुधिर लौटाती है — सफाई का चक्र।",
+        "en": "The renal artery brings blood, nephrons sieve it, the renal vein returns clean blood — the cleaning cycle."
+      }
+    },
+    {
+      "id": "ch6_q650",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मूत्र का मुख्य घटक कौन-सा है?",
+        "en": "What is the main component of urine?"
+      },
+      "options": {
+        "hi": [
+          "वसा",
+          "जल — उसमें घुला यूरिया और लवण",
+          "प्रोटीन",
+          "शर्करा"
+        ],
+        "en": [
+          "Fat",
+          "Water — with dissolved urea and salts",
+          "Protein",
+          "Sugar"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मूत्र का लगभग 95% जल है — बाकी यूरिया, लवण और अन्य घुले अपशिष्ट।",
+        "en": "About 95% of urine is water — the rest urea, salts and other dissolved wastes."
+      }
+    },
+    {
+      "id": "ch6_q651",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वचा कौन-सा उत्सर्जी कार्य करती है?",
+        "en": "What excretory function does the skin perform?"
+      },
+      "options": {
+        "hi": [
+          "मल बनाती है",
+          "CO2 निकालती है",
+          "पसीने के रूप में जल, लवण और थोड़ा यूरिया बाहर करती है",
+          "पित्त बनाती है"
+        ],
+        "en": [
+          "It forms faeces",
+          "It removes CO2",
+          "Excretes water, salts and a little urea in the form of sweat",
+          "It makes bile"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पसीना त्वचा-ग्रंथियों का उत्सर्जी-देन है — जल-लवण-यूरिया की तरल किस्त।",
+        "en": "Sweat is the skin-glands' excretory offering — a liquid instalment of water-salt-urea."
+      }
+    },
+    {
+      "id": "ch6_q652",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव उत्सर्जी तंत्र के मुख्य भागों में कौन-से सम्मिलित हैं?",
+        "en": "Which are included in the main parts of the human excretory system?"
+      },
+      "options": {
+        "hi": [
+          "आँत, यकृत, पेट, गला",
+          "फेफड़े, श्वासनली, नाक",
+          "हृदय, धमनियाँ, शिराएँ",
+          "गुर्दे, मूत्रवाहिनी, मूत्राशय, मूत्रमार्ग"
+        ],
+        "en": [
+          "Intestine, liver, stomach, throat",
+          "Lungs, trachea, nose",
+          "Heart, arteries, veins",
+          "Kidneys, ureters, urinary bladder, urethra"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दो गुर्दे + दो मूत्रवाहिनी + एक मूत्राशय + मूत्रमार्ग — उत्सर्जी तंत्र की पूरी टोली।",
+        "en": "Two kidneys + two ureters + one bladder + urethra — the excretory system's full squad."
+      }
+    },
+    {
+      "id": "ch6_q653",
+      "topic": "excretion",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्सर्जन और मल-त्याग (egestion) में मूल भेद क्या है?",
+        "en": "What is the basic difference between excretion and egestion?"
+      },
+      "options": {
+        "hi": [
+          "उत्सर्जन = चयापचय-अपशिष्ट (यूरिया, CO2) का निकास; मल-त्याग = अपचे भोजन-अवशेष का निकास",
+          "उत्सर्जन केवल पौधों में",
+          "मल-त्याग केवल जीवाणुओं में",
+          "दोनों एक ही हैं"
+        ],
+        "en": [
+          "Excretion = removal of metabolic wastes (urea, CO2); egestion = removal of undigested food residue",
+          "Excretion occurs only in plants",
+          "Egestion occurs only in bacteria",
+          "Both are the same"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कारखाने की राख (चयापचय-अपशिष्ट) और कच्चे माल का बचा कुट (अपचा भोजन) — दो अलग-अलग कचरे, दो अलग द्वार।",
+        "en": "The factory's ash (metabolic waste) and the leftover husk of raw material (undigested food) — two different rubbishs, two different gates."
+      }
+    },
+    {
+      "id": "ch6_q654",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मूत्र-निर्माण की प्रक्रिया के दो मुख्य चरण कौन-से हैं?",
+        "en": "Which are the two main stages of urine formation?"
+      },
+      "options": {
+        "hi": [
+          "पाचन और अवशोषण",
+          "निस्पंदन (filtration) और पुनर्विशोषण (reabsorption)",
+          "चबाना और निगलना",
+          "स्राव और वाष्पीकरण"
+        ],
+        "en": [
+          "Digestion and absorption",
+          "Filtration and reabsorption",
+          "Chewing and swallowing",
+          "Secretion and vaporisation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पहले रुधिर का जल-भर छनता है, फिर जरूरी पदार्थ (ग्लूकोस, जल) वापस लिए जाते हैं — बचा ही मूत्र।",
+        "en": "First the watery part of blood is sieved, then needful substances (glucose, water) are taken back — the remainder is urine."
+      }
+    },
+    {
+      "id": "ch6_q655",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नेफ्रॉन का छलनी-भाग (केशिका-गुच्छ/glomerulus) क्या करता है?",
+        "en": "What does the sieve-part of the nephron (the glomerulus tuft) do?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटीन बनाता है",
+          "मूत्र जमा करता है",
+          "रुधिर-दाब से जल और घुले पदार्थों को छानकर नेफ्रॉन-कप्सूल में उतारता है",
+          "रुधिर गर्म करता है"
+        ],
+        "en": [
+          "Makes protein",
+          "Stores urine",
+          "Under blood pressure, filters water and dissolved substances into the nephron capsule",
+          "Warms the blood"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "केशिका-गुच्छ कुंडली उच्च-दाब छलनी है — जल और छोटे अणु दबाव से भीतर उतरते, बड़े अणु रुधिर में रुकते हैं।",
+        "en": "The tuft coil is a high-pressure sieve — water and small molecules drop in under pressure, big molecules stay back in blood."
+      }
+    },
+    {
+      "id": "ch6_q656",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नेफ्रॉन-नलिका (tubule) का विशिष्ट कार्य क्या है?",
+        "en": "What is the special work of the nephron's tubule?"
+      },
+      "options": {
+        "hi": [
+          "मल बनाना",
+          "रुधिर ठंडा करना",
+          "रुधिर जमा करना",
+          "छने द्रव से जरूरी पदार्थों — जल, ग्लूकोस, लवण — को वापस रुधिर में सोख लेना"
+        ],
+        "en": [
+          "Forming faeces",
+          "Cooling blood",
+          "Storing blood",
+          "Soaking back the needful substances — water, glucose, salts — from the filtered fluid into blood"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "छलनी सब उड़ेल देती है, नलिका समझदारी से वापस ले लेती है — चयनात्मक पुनर्विशोषण की सूझ-क्रिया।",
+        "en": "The sieve spills everything; the tubule wisely takes back — the discerning act of selective reabsorption."
+      }
+    },
+    {
+      "id": "ch6_q657",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गुर्दों को रुधिर की प्रचुर आपूर्ति क्यों चाहिए?",
+        "en": "Why do the kidneys need a copious blood supply?"
+      },
+      "options": {
+        "hi": [
+          "शरीर का सारा रुधिर बार-बार छाना पड़ता है — निस्पंदन-दर ऊँची रखने के लिए लगातार प्रवाह अनिवार्य",
+          "रुधिर का रंग बदलने को",
+          "रुधिर गर्म करने को",
+          "रुधिर जमा करने को"
+        ],
+        "en": [
+          "The whole body's blood must be sieved again and again — a constant flow is essential to keep the filtration rate high",
+          "To change blood's colour",
+          "To warm blood",
+          "To store blood"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हृदय की हर धड़कन का लगभग पाँचवाँ भाग गुर्दों की ओर मुड़ता है — छलनी-घर की भूख बड़ी है।",
+        "en": "Roughly a fifth of every heartbeat's output swings towards the kidneys — the sieve-house has a big appetite."
+      }
+    },
+    {
+      "id": "ch6_q658",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मी में पर्याप्त जल न पिया जाए तो मूत्र की मात्रा और रंग का क्या होता है?",
+        "en": "If enough water is not drunk in summer, what happens to the amount and colour of urine?"
+      },
+      "options": {
+        "hi": [
+          "मात्रा बढ़ती, रंग हल्का",
+          "मात्रा घटती है और गाढ़ा गहरा-पीला रंग हो जाता है",
+          "कोई बदलाव नहीं",
+          "मूत्र रुक जाता है"
+        ],
+        "en": [
+          "Amount rises, colour lightens",
+          "The amount falls and it turns thick dark-yellow",
+          "No change",
+          "Urine stops completely"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जल-कमी में गुर्दे जल बचाने के लिए कम-कम और गाढ़ा मूत्र बनाते हैं — शरीर की जल-बचत नीति।",
+        "en": "In water-shortage the kidneys make less, thicker urine to save water — the body's water-saving policy."
+      }
+    },
+    {
+      "id": "ch6_q659",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मूत्राशय की दीवार लचीली (stretchable) क्यों होती है?",
+        "en": "Why is the bladder wall stretchable?"
+      },
+      "options": {
+        "hi": [
+          "हवा भरने को",
+          "रुधिर बनाने को",
+          "मूत्र जमा होते ही थैली फैलकर समा ले — निकासी से पहले ठहराव की जगह बने",
+          "मल रखने को"
+        ],
+        "en": [
+          "To fill with air",
+          "To make blood",
+          "As urine collects the bag stretches to hold it — room for a halt before discharge",
+          "To hold faeces"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "थैली-पेशियाँ फैलती-सिकुड़ती हैं — भरते ही खिंचाव-संकेत मस्तिष्क को 'समय हो गया' बताता है।",
+        "en": "The bag-muscles stretch and shrink — on filling, the stretch-signal tells the brain 'time is up'."
+      }
+    },
+    {
+      "id": "ch6_q660",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गुर्दे शरीर में किस और अधिक भूमिका निभाते हैं?",
+        "en": "What additional role do the kidneys play in the body?"
+      },
+      "options": {
+        "hi": [
+          "रुधिर बनाना",
+          "श्वास लेना",
+          "भोजन पचाना",
+          "जल-लवण संतुलन (osmoregulation) और रुधिर का pH-नियंत्रण बनाए रखना"
+        ],
+        "en": [
+          "Making blood",
+          "Breathing",
+          "Digesting food",
+          "Maintaining the water-salt balance (osmoregulation) and the blood's pH control"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुर्दे केवल कूड़ाघर नहीं — शरीर के भीतरी वातावरण के संतुलन-रक्षक भी हैं।",
+        "en": "The kidneys are not just the dustbin — they are also the guardians of the body's inner environment's balance."
+      }
+    },
+    {
+      "id": "ch6_q661",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गुर्दे फेल होने पर डायलिसिस (dialysis) की मशीन क्या करती है?",
+        "en": "What does the dialysis machine do when the kidneys fail?"
+      },
+      "options": {
+        "hi": [
+          "रुधिर से अपशिष्ट और अतिरिक्त जल को कृत्रिम रूप से छानकर शुद्ध रुधिर लौटाती है",
+          "हृदय चलाती है",
+          "श्वास देती है",
+          "नई रुधिर बनाती है"
+        ],
+        "en": [
+          "Artificially filters waste and extra water from blood and returns clean blood",
+          "Runs the heart",
+          "Provides breath",
+          "Makes new blood"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कृत्रिम गुर्दा = डायलाइज़र-झिल्ली — अपशिष्ट कण झिल्ली पार कर जाते, उपयोगी रुधिर-कण रुक जाते हैं।",
+        "en": "Artificial kidney = dialyser membrane — waste particles cross the membrane, useful blood particles stay back."
+      }
+    },
+    {
+      "id": "ch6_q662",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यकृत (liver) उत्सर्जन में कैसे सहायक है?",
+        "en": "How does the liver assist in excretion?"
+      },
+      "options": {
+        "hi": [
+          "वह यूरिया बनाता है",
+          "वह प्रोटीन-चयापचय के अमोनिया को यूरिया में बदलता है — विष कम-विष बनाकर गुर्दों को सौंपता है",
+          "वह मूत्र जमा करता है",
+          "वह पसीना बनाता है"
+        ],
+        "en": [
+          "It makes urea",
+          "It converts protein-metabolism's ammonia into urea — turning more-poison into less-poison and handing it to the kidneys",
+          "It stores urine",
+          "It makes sweat"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अमोनिया घातक, यूरिया सौदापूर्ण — यकृत की विष-परिष्कर्ता भूमिका उत्सर्जन-श्रृंखला की पहली कड़ी है।",
+        "en": "Ammonia is deadly, urea negotiable — the liver's poison-refiner role is the first link of the excretion chain."
+      }
+    },
+    {
+      "id": "ch6_q663",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शरीर की कोशिकाओं में बनने वाली CO2 मुख्यतः किस अंग द्वारा उत्सर्जित होती है?",
+        "en": "The CO2 formed in the body's cells is excreted mainly by which organ?"
+      },
+      "options": {
+        "hi": [
+          "यकृत द्वारा",
+          "गुर्दे द्वारा",
+          "फेफड़ों द्वारा — श्वास के साथ",
+          "त्वचा द्वारा"
+        ],
+        "en": [
+          "By the liver",
+          "By the kidneys",
+          "By the lungs — with the breath",
+          "By the skin"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "CO2 गैसीय अपशिष्ट है — उसका निकास-द्वार फेफड़े; यूरिया जैसे द्रव-अपशिष्ट का द्वार गुर्दे।",
+        "en": "CO2 is a gaseous waste — its exit gate is the lungs; liquid wastes like urea exit via the kidneys."
+      }
+    },
+    {
+      "id": "ch6_q664",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पौधे अपने उत्सर्जी पदार्थों का निपटान कैसे करते हैं?",
+        "en": "How do plants dispose of their excretory products?"
+      },
+      "options": {
+        "hi": [
+          "पसीने से",
+          "मलद्वार से",
+          "गुर्दों से",
+          "अपशिष्ट पत्तियों-भूरे भागों में जमा कर, पतझड़ में उन्हें गिराकर तथा गोंद/राल (resins, gums) रूप में स्रावित कर"
+        ],
+        "en": [
+          "Through sweat",
+          "Through an anus",
+          "Through kidneys",
+          "By parking wastes in leaves-brown parts, shedding them in fall, and secreting them as resins and gums"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पौधों के पास उत्सर्जी-अंग नहीं — जमा करो और गिरा दो, या गोंद बनाकर बाँध दो: यही उनकी नीति।",
+        "en": "Plants have no excretory organs — store and shed, or bind as gum: that is their policy."
+      }
+    },
+    {
+      "id": "ch6_q665",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पतझड़ में पेड़ पत्ते क्यों गिराते हैं — उत्सर्जन-दृष्टि से?",
+        "en": "Why do trees shed leaves in autumn — from the excretion point of view?"
+      },
+      "options": {
+        "hi": [
+          "पत्तों में जमा कार्बन-पदार्थ/अपशिष्ट अंश को पूरे पत्ते के साथ हटा देना सस्ता निकास है",
+          "ठंड लगने से",
+          "बारिश से बचने को",
+          "सुंदरता के लिए"
+        ],
+        "en": [
+          "Removing the waste fraction stored in leaves along with the whole leaf is a cheap disposal",
+          "From cold",
+          "To dodge rain",
+          "For beauty"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पत्ता ही कचरा-थैली बनकर गिर जाता है — एक ही फेंक में सफाई पूरी।",
+        "en": "The leaf itself falls as the rubbish-bag — one throw completes the cleaning."
+      }
+    },
+    {
+      "id": "ch6_q666",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अमीबा अपने अपशिष्ट कैसे निकालता है?",
+        "en": "How does Amoeba remove its waste?"
+      },
+      "options": {
+        "hi": [
+          "मलद्वार से",
+          "स्रावी रिक्तिका द्वारा जल में उड़ेलकर",
+          "पसीने से",
+          "गुर्दे से"
+        ],
+        "en": [
+          "Through an anus",
+          "By pouring it into the water via a contractile vacuole",
+          "Through sweat",
+          "Through kidneys"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कोशिका में जमा अपशिष्ट-जल रिक्तिका की सिकुड़न से बाहर — एककोशिकीय उत्सर्जन की सरल युक्ति।",
+        "en": "Waste-water gathered in the cell is pushed out by the vacuole's squeeze — a simple unicellular excretion trick."
+      }
+    },
+    {
+      "id": "ch6_q667",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "केंचुए (earthworm) का उत्सर्जी अंग क्या कहलाता है?",
+        "en": "What is the excretory organ of the earthworm called?"
+      },
+      "options": {
+        "hi": [
+          "गुर्दा",
+          "त्वचा-ग्रंथि",
+          "नेफ्रिडिया (nephridia)",
+          "फुफ्फुस"
+        ],
+        "en": [
+          "Kidney",
+          "Skin gland",
+          "Nephridia",
+          "Lungs"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खंड-दर-खंड बगल में लगी नेफ्रिडिया-नलियाँ अपशिष्ट छानकर बाहर — एक-एक खंड की अपनी नाली।",
+        "en": "Nephridia tubes fixed segment by segment sieve waste out — each segment with its own drain."
+      }
+    },
+    {
+      "id": "ch6_q668",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पसीने और मूत्र — दोनों में यूरिया क्यों पाया जाता है?",
+        "en": "Why is urea found in both sweat and urine?"
+      },
+      "options": {
+        "hi": [
+          "यूरिया केवल पसीने में बनता है",
+          "यह संयोग है",
+          "दोनों एक ही ग्रंथि बनाती हैं",
+          "रुधिर में घुला यूरिया जहाँ जल निकलता है वहाँ साथ निकल जाता है — त्वचा और गुर्दे दोनों उत्सर्जी मार्ग हैं"
+        ],
+        "en": [
+          "Urea is made only in sweat",
+          "It is a coincidence",
+          "Both are made by one gland",
+          "Urea dissolved in blood exits wherever water exits — skin and kidneys are both excretory routes"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "यूरिया रुधिर का मेहमान है — जल के हर निकास-दरवाजे पर सवार निकल जाता है।",
+        "en": "Urea is the blood's passenger — it rides out through every water-exit door."
+      }
+    },
+    {
+      "id": "ch6_q669",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मूत्र में सामान्यतः ग्लूकोस और प्रोटीन क्यों नहीं पाया जाता?",
+        "en": "Why are glucose and proteins normally not found in urine?"
+      },
+      "options": {
+        "hi": [
+          "छनने के बाद पुनर्विशोषण में ग्लूकोस पूरा वापस लिया जाता है; प्रोटीन छलनी से छनता ही नहीं — दोनों रुधिर में ही रहते हैं",
+          "वे वाष्प बन जाते हैं",
+          "मूत्राशय उन्हें पचा लेता है",
+          "वे रुधिर में होते ही नहीं"
+        ],
+        "en": [
+          "After filtration, glucose is fully taken back by reabsorption; protein does not pass the sieve at all — both stay in blood",
+          "They turn to vapour",
+          "The bladder digests them",
+          "They are not in blood at all"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मूत्र में शर्करा आना = पुनर्विशोषण-खराबी का संकेत; प्रोटीन आना = छलनी-छेद बड़े होने का — दोनों असामान्य।",
+        "en": "Sugar appearing in urine signals reabsorption failure; protein appearing signals enlarged sieve-holes — both abnormal."
+      }
+    },
+    {
+      "id": "ch6_q670",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मानव में नाइट्रोजनी अपशिष्ट का मुख्य रूप यूरिया है — पक्षियों/सरीसृपों में मुख्य रूप क्या है?",
+        "en": "The main nitrogenous waste in humans is urea — what is the main form in birds/reptiles?"
+      },
+      "options": {
+        "hi": [
+          "अमोनिया",
+          "यूरिक अम्ल (uric acid) — ठोस/अर्द्धठोस श्वेत चूर्ण के रूप में",
+          "ग्लूकोस",
+          "CO2"
+        ],
+        "en": [
+          "Ammonia",
+          "Uric acid — as a solid/semi-solid white paste",
+          "Glucose",
+          "CO2"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "यूरिक-अम्ल रूप में अति-जल-बचत होती है — अंडे देने वाले/उड़ने वाले जीवों की नीति; जलीय जीव सीधे अमोनिया उड़ाते हैं।",
+        "en": "The uric-acid form saves much water — the policy of egg-laying/flying creatures; aquatic animals release ammonia directly."
+      }
+    },
+    {
+      "id": "ch6_q671",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मछली अपना नाइट्रोजनी अपशिष्ट किस रूप में छोड़ती है?",
+        "en": "In what form does a fish release its nitrogenous waste?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटीन के रूप में",
+          "यूरिया के रूप में",
+          "अमोनिया के रूप में — जल में घुलकर तुरंत बह जाती है",
+          "यूरिक अम्ल के रूप में"
+        ],
+        "en": [
+          "As protein",
+          "As urea",
+          "As ammonia — dissolving in water and washing away at once",
+          "As uric acid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जल-प्रचुर जीवन में विषैली अमोनिया भी तुरंत पतली पड़ती है — जल-लागत बचाने की जरूरत ही नहीं।",
+        "en": "In water-rich life even toxic ammonia dilutes away instantly — no need at all to save on water cost."
+      }
+    },
+    {
+      "id": "ch6_q672",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गुर्दा-शिरा (renal vein) का कार्य क्या है?",
+        "en": "What is the function of the renal vein?"
+      },
+      "options": {
+        "hi": [
+          "मूत्र ले जाना",
+          "पित्त ले जाना",
+          "रुधिर लाना",
+          "छाने/शुद्ध रुधिर को गुर्दे से वापस शरीर-संचार में ले जाना"
+        ],
+        "en": [
+          "Carrying urine",
+          "Carrying bile",
+          "Bringing blood",
+          "Carrying the filtered/clean blood from the kidney back into the body's circulation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुर्दा-धमनी = गंदा-रुधिर की आवक; गुर्दा-शिरा = साफ-रुधिर की जावक — दोनों की दिशा विपरीत।",
+        "en": "Renal artery = dirty blood's inbound; renal vein = clean blood's outbound — the two directions opposite."
+      }
+    },
+    {
+      "id": "ch6_q673",
+      "topic": "excretion",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मूत्र का पीला रंग किस वर्णक से आता है?",
+        "en": "The yellow colour of urine comes from which pigment?"
+      },
+      "options": {
+        "hi": [
+          "यूरोक्रोम (urochrome) — रुधिर-वर्णक के टूटने से बना उत्पाद",
+          "क्लोरोफिल",
+          "मेलेनिन",
+          "हीमोग्लोबिन"
+        ],
+        "en": [
+          "Urochrome — a product of blood-pigment breakdown",
+          "Chlorophyll",
+          "Melanin",
+          "Haemoglobin"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रुधिर-वर्णक के अपघटन से यूरोक्रोम बनता है — जल की मात्रा घटी तो वही रंग गाढ़ा दिखता है।",
+        "en": "Urochrome forms from blood-pigment breakdown — with less water the same colour shows darker."
+      }
+    },
+    {
+      "id": "ch6_q674",
+      "topic": "excretion",
+      "difficulty": "hard",
+      "question": {
+        "hi": "नेफ्रॉन में 'चयनात्मक पुनर्विशोषण' का 'चयनात्मक' होना क्यों जरूरी है?",
+        "en": "Why does reabsorption in the nephron need to be 'selective'?"
+      },
+      "options": {
+        "hi": [
+          "नलिका छोटी होती है",
+          "छने द्रव में जरूरी (ग्लूकोस, जल, लवण) और फालतू (यूरिया) दोनों होते हैं — पहचानकर केवल जरूरी वापस लेना ही बुद्धिमानी है, वरना शरीर पोषक खो देगा",
+          "रुधिर का रंग बदल जाता है",
+          "मूत्र गाढ़ा हो जाता है"
+        ],
+        "en": [
+          "The tubule is short",
+          "The filtered fluid holds both the needful (glucose, water, salts) and the useless (urea) — picking out and reclaiming only the needful is wisdom, else the body would lose nutrients",
+          "Blood's colour changes",
+          "Urine thickens"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सब कुछ वापस लेने = अपशिष्ट भी भीतर; कुछ भी न लेने = पोषक भी बाहर — इसीलिए छँटाई-भरा चयन अनिवार्य।",
+        "en": "Taking everything back = wastes inside too; taking nothing = nutrients outside too — hence the sorting-filled choice is essential."
+      }
+    },
+    {
+      "id": "ch6_q675",
+      "topic": "excretion",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक स्वस्थ व्यक्ति एक गुर्दा दान कर देने के बाद भी सामान्य जीवन कैसे जी पाता है?",
+        "en": "How does a healthy person live a normal life even after donating one kidney?"
+      },
+      "options": {
+        "hi": [
+          "यकृत गुर्दे का काम करने लगता है",
+          "दूसरा गुर्दा दुगना हो जाता है",
+          "एक स्वस्थ गुर्दे के अरबों नेफ्रॉन भी शेष-दो-गुर्दों के औसत कार्य का ठीक-ठाक भार संभाल लेते हैं — क्षमता का बफर बड़ा है",
+          "गुर्दा फिर उग आता है"
+        ],
+        "en": [
+          "The liver takes over the kidney's job",
+          "The other kidney doubles",
+          "The billions of nephrons of one healthy kidney handle a fair share of the average work of two kidneys — the capacity buffer is large",
+          "The kidney regrows"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गुर्दों की क्षमता-निर्माण में बड़ा सुरक्षा-हाशिया रखा गया है — आधा सेट भी काफी बहुत काम चला लेता है।",
+        "en": "Kidney capacity comes with a big safety margin — even half the set runs the show quite well."
+      }
+    },
+    {
+      "id": "ch6_q676",
+      "topic": "excretion",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गुर्दे का अंदरूनी भाग (मूत्र-निर्माण-क्षेत्र) और बाहरी भाग में नेफ्रॉन का बँटवारा कैसा है?",
+        "en": "How is the nephron distributed between the kidney's inner and outer parts?"
+      },
+      "options": {
+        "hi": [
+          "सब भीतरी भाग में",
+          "नेफ्रॉन बाहरी ही रहता है",
+          "सब बाहरी भाग में",
+          "छलनी-गुच्छ बाहरी परत (कॉर्टेक्स) में, नलिका-लूप भीतरी मज्जा (मेडुला) में उतरती है — बाहर छानो, भीतर गाढ़ा करो"
+        ],
+        "en": [
+          "All in the inner part",
+          "The nephron stays outside",
+          "All in the outer part",
+          "The sieve-tufts lie in the outer layer (cortex), the tubule-loops descend into the inner medulla — sieve outside, thicken inside"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बाहरी परत छलनी-कारखानों से भरी; भीतर की पिरामिड-पट्टियाँ जल-सोखने की गहरी नलिकाओं से — काम-क्षेत्र बँटा हुआ।",
+        "en": "The outer layer brims with sieve-factories; the inner pyramid-strips with deep water-absorbing ducts — the work zones divided."
+      }
+    },
+    {
+      "id": "ch6_q677",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गुर्दा पूर्णतः फेल होने पर डायलिसिस के अतिरिक्त स्थायी उपचार का विकल्प क्या है?",
+        "en": "Besides dialysis, what is the permanent-treatment option when a kidney fails completely?"
+      },
+      "options": {
+        "hi": [
+          "गुर्दा प्रत्यारोपण (transplant) — स्वस्थ दाता का गुर्दा शरीर में जोड़ना",
+          "रुधिर चढ़ाना",
+          "पेट धोना",
+          "कोई विकल्प नहीं"
+        ],
+        "en": [
+          "Kidney transplant — fitting a healthy donor's kidney into the body",
+          "Blood transfusion",
+          "Washing the stomach",
+          "No option"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रत्यारोपण में दाता (अक्सर निकट जन) का एक गुर्दा प्राप्तकर्ता के शरीर में जुड़ जाता है — स्थायी राहत का मार्ग।",
+        "en": "In a transplant the donor's (often a relative's) one kidney is fitted into the recipient's body — the route of lasting relief."
+      }
+    },
+    {
+      "id": "ch6_q678",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मूत्राशय के बाहरी द्वार को इच्छानुसार खोलना-बंद रखना किस संरचना से संभव होता है?",
+        "en": "Opening and keeping shut the bladder's outer gate at will is made possible by which structure?"
+      },
+      "options": {
+        "hi": [
+          "हृदय-वाल्व",
+          "मूत्रमार्ग के दोनों सिरों पर संकुची-मांसपेशियाँ (sphincter)",
+          "पसीने की ग्रंथि",
+          "जीभ"
+        ],
+        "en": [
+          "Heart valves",
+          "Ring-muscles (sphincters) at the ends of the urethra",
+          "Sweat glands",
+          "The tongue"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "छल्ली-पेशियों का जाल-नियंत्रण ही सामाजिक-समय पर मूत्र-निकासी की तकनीक है।",
+        "en": "The ring-muscles' net-control is the very technique of timing urine-release to social hours."
+      }
+    },
+    {
+      "id": "ch6_q679",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जंतुओं में विशेष उत्सर्जी अंग बनते हैं पर पौधों में नहीं — इसकी प्रवृत्ति-भेद क्या है?",
+        "en": "Animals develop special excretory organs but plants do not — what is the tendency-difference behind this?"
+      },
+      "options": {
+        "hi": [
+          "जंतु वायु से उत्सर्जन करते हैं",
+          "पौधों में अपशिष्ट बनता ही नहीं",
+          "जंतुओं का चयापचय तेज़ और शरीर-संचय सीमित — विषैले अपशिष्ट तुरंत बाहर; पौधों का चयापचय धीमा — अपशिष्ट निष्क्रिय रूपों में जमा कर सकना संभव",
+          "पौधे जड़ से उत्सर्जन करते हैं"
+        ],
+        "en": [
+          "Animals excrete through air",
+          "Plants make no waste at all",
+          "Animals' metabolism is fast and body-storage limited — toxic waste must exit at once; plants' metabolism is slow — parking waste in inert forms becomes possible",
+          "Plants excrete through roots"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गतिशील जंतु का कारखाना तेज़ चलता है — निकास-मार्ग चाहिए; स्थिर पौधा धीमा जलता है — कचरा गोद में बाँध सकता है।",
+        "en": "The mobile animal's factory runs fast — an exit route is a must; the still plant burns slow — it can bundle the refuse in its lap."
+      }
+    },
+    {
+      "id": "ch6_q680",
+      "topic": "excretion",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन उत्सर्जी मार्गों का सही मेल कौन-सा है?",
+        "en": "Which is the correct matching of the three excretory routes?"
+      },
+      "options": {
+        "hi": [
+          "त्वचा — यूरिया only; गुर्दे — पसीना; फेफड़े — लवण",
+          "तीनों — केवल जल",
+          "गुर्दे — CO2; फेफड़े — यूरिया; त्वचा — ग्लूकोस",
+          "फेफड़े — CO2; गुर्दे — यूरिया; त्वचा — जल-लवण (पसीना)"
+        ],
+        "en": [
+          "Skin — urea only; kidneys — sweat; lungs — salts",
+          "All three — only water",
+          "Kidneys — CO2; lungs — urea; skin — glucose",
+          "Lungs — CO2; kidneys — urea; skin — water-salts (sweat)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हर अपशिष्ट का अपना द्वार: गैसीय CO2 श्वास से, द्रव यूरिया मूत्र से, ताप-जल पसीने से — व्यवस्था बँटी-धुरी।",
+        "en": "Every waste has its own gate: gaseous CO2 by breath, liquid urea by urine, heat-water by sweat — the arrangement neatly divided."
+      }
+    },
+    {
+      "id": "ch6_q681",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बहुकोशिकीय जीव के शरीर-संगठन की सीढ़ी का सही क्रम क्या है?",
+        "en": "What is the correct order of the body-organisation ladder in a multicellular organism?"
+      },
+      "options": {
+        "hi": [
+          "कोशिका → ऊतक → अंग → अंग-तंत्र",
+          "तंत्र → अंग → ऊतक → कोशिका",
+          "ऊतक → कोशिका → अंग → तंत्र",
+          "अंग → कोशिका → तंत्र → ऊतक"
+        ],
+        "en": [
+          "Cell → tissue → organ → organ-system",
+          "System → organ → tissue → cell",
+          "Tissue → cell → organ → system",
+          "Organ → cell → system → tissue"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ईंट (कोशिका) → दीवार (ऊतक) → कमरा (अंग) → पूरा भवन-खंड (तंत्र) — निर्माण की सीढ़ी नीचे से ऊपर।",
+        "en": "Brick (cell) → wall (tissue) → room (organ) → whole building-block (system) — the building ladder from bottom up."
+      }
+    },
+    {
+      "id": "ch6_q682",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संगठन-सीढ़ी में कोशिका और ऊतक के बाद तीसरे स्तर पर कौन-सी इकाई आती है?",
+        "en": "Which unit comes at the third level of the organisation ladder, after cell and tissue?"
+      },
+      "options": {
+        "hi": [
+          "अंग-तंत्र",
+          "अंग (organ) — विभिन्न ऊतकों से बनी कार्य-इकाई जैसे गुर्दा, आँख",
+          "जीवाणु",
+          "अणु"
+        ],
+        "en": [
+          "Organ system",
+          "The organ — a work-unit built of different tissues, like the kidney or eye",
+          "Bacterium",
+          "Molecule"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कोशिका → ऊतक → अंग — तीसरी सीढ़ी पर विभिन्न ऊतकों की मिलीजुली कार्य-इकाई बैठती है।",
+        "en": "Cell → tissue → organ — on the third step sits the joint work-unit of different tissues."
+      }
+    },
+    {
+      "id": "ch6_q683",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक ही व्यापक कार्य संभालने के लिए जुटे हुए अनेक अंगों के समूह-स्तर की इकाई कौन-सी है?",
+        "en": "Which is the unit-level of many organs joined to manage one broad function together?"
+      },
+      "options": {
+        "hi": [
+          "केवल एक अंग",
+          "ऊतक-स्तर की इकाई",
+          "अंग-तंत्र (organ system) — जैसे गुर्दे-मूत्रवाहिनी-मूत्राशय का उत्सर्जी दल",
+          "कोशिका-झिल्ली"
+        ],
+        "en": [
+          "Only a single organ",
+          "A tissue-level unit",
+          "The organ system — like the excretory squad of kidneys-ureters-bladder",
+          "The cell membrane"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कई अंग जब एक महाकार्य के लिए दल बनाते हैं तो संगठन-सीढ़ी का वह चौथा स्तर — अंग-तंत्र — बनता है।",
+        "en": "When many organs form a squad for one mega-task, that fourth level of the ladder — the organ system — arises."
+      }
+    },
+    {
+      "id": "ch6_q684",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तंत्रिका तंत्र में कौन-कौन-से मुख्य अंग सम्मिलित हैं?",
+        "en": "Which main organs are included in the nervous system?"
+      },
+      "options": {
+        "hi": [
+          "हृदय और रुधिर",
+          "पेट और आँत",
+          "गुर्दे और मूत्राशय",
+          "मस्तिष्क, मेरुरज्जु और तंत्रिकाएँ"
+        ],
+        "en": [
+          "The heart and blood",
+          "The stomach and intestine",
+          "The kidneys and bladder",
+          "The brain, the spinal cord and the nerves"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "केंद्र (मस्तिष्क-मेरुरज्जु) + तार-जाल (नसें) = तंत्रिका तंत्र की पूरी टोली।",
+        "en": "The centres (brain-spinal cord) + the wire-network (nerves) = the nervous system's full team."
+      }
+    },
+    {
+      "id": "ch6_q685",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उत्सर्जी तंत्र के सदस्य-अंग कौन-से हैं?",
+        "en": "Which are the member-organs of the excretory system?"
+      },
+      "options": {
+        "hi": [
+          "गुर्दे, मूत्रवाहिनी, मूत्राशय, मूत्रमार्ग",
+          "आँख, कान, नाक",
+          "भोजन-नली और पेट",
+          "फेफड़े और श्वासनली"
+        ],
+        "en": [
+          "Kidneys, ureters, urinary bladder, urethra",
+          "Eye, ear, nose",
+          "The food-pipe and stomach",
+          "The lungs and trachea"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जो अंग मिलकर अपशिष्ट-निकासी चलाते हैं — वही उत्सर्जी तंत्र की सूची में आते हैं।",
+        "en": "The organs that together run waste-removal — those alone figure on the excretory system's list."
+      }
+    },
+    {
+      "id": "ch6_q686",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संगठन-सीढ़ी में आँख किस स्तर पर आती है?",
+        "en": "At which level of the organisation ladder does the eye fall?"
+      },
+      "options": {
+        "hi": [
+          "ऊतक-स्तर",
+          "अंग-स्तर — कई ऊतकों से बनी दृष्टि-इकाई",
+          "तंत्र-स्तर",
+          "कोशिका-स्तर"
+        ],
+        "en": [
+          "Tissue level",
+          "Organ level — a sight-unit built of many tissues",
+          "System level",
+          "Cell level"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आँख अकेली एक अंग है; वहीं आँख+तंत्रिका-मार्ग+मस्तिष्क-केंद्र मिलकर देखने का तंत्र बनाते हैं।",
+        "en": "The eye alone is an organ; eye + nerve-path + brain-centre together form the system of seeing."
+      }
+    },
+    {
+      "id": "ch6_q687",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "न्यूरॉन (तंत्रिका कोशिकाएँ) मिलकर कौन-सा ऊतक बनाती हैं?",
+        "en": "Neurons (nerve cells) together form which tissue?"
+      },
+      "options": {
+        "hi": [
+          "अस्थि ऊतक",
+          "पेशीय ऊतक",
+          "तंत्रिका ऊतक",
+          "उपकला ऊतक"
+        ],
+        "en": [
+          "Bone tissue",
+          "Muscular tissue",
+          "Nervous tissue",
+          "Epithelial tissue"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक-एक न्यूरॉन कोशिका करोड़ों की संख्या में जुड़कर शरीर-व्यापी तंत्रिका-ऊतक बुनते हैं।",
+        "en": "Single neuron cells, joined in crores, weave the body-wide nervous tissue."
+      }
+    },
+    {
+      "id": "ch6_q688",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शरीर की संगठन-सीढ़ी में सबसे छोटी इकाई कौन-सी है?",
+        "en": "Which is the smallest unit in the body's organisation ladder?"
+      },
+      "options": {
+        "hi": [
+          "अंग-तंत्र",
+          "अंग",
+          "ऊतक",
+          "कोशिका"
+        ],
+        "en": [
+          "Organ system",
+          "Organ",
+          "Tissue",
+          "Cell"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कोशिका ही जीवन की सबसे छोटी ईंट है — ऊपर की पूरी इमारत इसी से उठती है।",
+        "en": "The cell is the smallest brick of life — the whole edifice above rises from it."
+      }
+    },
+    {
+      "id": "ch6_q689",
+      "topic": "organization-overview",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा एक अंग-तंत्र का सही उदाहरण-युग्म है?",
+        "en": "Which of the following is a correct example-pair of an organ and its system?"
+      },
+      "options": {
+        "hi": [
+          "गुर्दा — उत्सर्जी तंत्र",
+          "गुर्दा — पाचन तंत्र",
+          "मस्तिष्क — उत्सर्जी तंत्र",
+          "आँख — उत्सर्जी तंत्र"
+        ],
+        "en": [
+          "Kidney — excretory system",
+          "Kidney — digestive system",
+          "Brain — excretory system",
+          "Eye — excretory system"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गुर्दे का अपना तंत्र उत्सर्जी है — जिस काम का अंग, उसी काम का तंत्र।",
+        "en": "The kidney's own system is excretory — the organ of a work belongs to that work's system."
+      }
+    },
+    {
+      "id": "ch6_q690",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संगठन-सीढ़ी पर चढ़ते हुए कार्य की प्रकृति कैसी होती जाती है?",
+        "en": "How does the nature of the work change as one climbs the organisation ladder?"
+      },
+      "options": {
+        "hi": [
+          "सब समान",
+          "सरल से जटिल होती जाती — कोशिका छोटे-छोटे काम, ऊतक-अंग-तंत्र क्रमशः बड़े-व्यापक काम",
+          "जटिल से सरल",
+          "कोई नियम नहीं"
+        ],
+        "en": [
+          "All equal",
+          "Turns simple-to-complex — cells do tiny jobs, tissue-organ-system progressively bigger-broader works",
+          "Complex to simple",
+          "No rule"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जितना ऊँचा स्तर, उतना व्यापक कार्य — नाली-कोशिका से लेकर पूरे मूत्र-तंत्र तक की गाथा।",
+        "en": "The higher the level, the broader the task — the saga from a duct-cell to the whole urinary system."
+      }
+    },
+    {
+      "id": "ch6_q691",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ऊतक की तुलना में एक अंग किन कार्यों को संभाल पाता है?",
+        "en": "Compared with a tissue, what kinds of tasks can an organ handle?"
+      },
+      "options": {
+        "hi": [
+          "केवल रुधिर बनाना",
+          "केवल एक ही काम",
+          "कई प्रकार के सहायक कार्य एक साथ — विभिन्न ऊतकों के विशेषज्ञों की संयुक्त टोली बनने से",
+          "कोई काम नहीं"
+        ],
+        "en": [
+          "Only making blood",
+          "Only a single job",
+          "Several supporting tasks at once — because specialists of different tissues form a joint team",
+          "No work"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गुर्दे में छलनी-ऊतक, नली-ऊतक, रुधिर-नली-ऊतक, तंत्रिका-नियंत्रण — सबकी मिलीजुली पेशकश।",
+        "en": "In a kidney: sieve-tissue, duct-tissue, vessel-tissue, nerve-control — a pooled offering of all."
+      }
+    },
+    {
+      "id": "ch6_q692",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊतक और अंग में मूल अंतर किस आधार पर सबसे साफ होता है?",
+        "en": "On what basis is the basic difference between tissue and organ clearest?"
+      },
+      "options": {
+        "hi": [
+          "आकार के आधार पर ही",
+          "दोनों एक ही हैं",
+          "रंग के आधार पर",
+          "ऊतक = समान कोशिकाओं का एक-काम समूह; अंग = विभिन्न ऊतकों का बहु-पेशेवर संयुक्त ढाँचा"
+        ],
+        "en": [
+          "Only on size",
+          "Both are the same",
+          "On colour",
+          "Tissue = a one-job group of similar cells; organ = a multi-professional joint frame of different tissues"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बनावट-भेद ही आधार है — समान कोशिकाओं की टुकड़ी बनाम भिन्न टुकड़ियों की मंडली।",
+        "en": "The make-up difference is the basis — a squad of similar cells versus an assembly of different squads."
+      }
+    },
+    {
+      "id": "ch6_q693",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कोशिकाओं का समूह बनाकर ऊतक बनाने से जीव को क्या फायदा है?",
+        "en": "What benefit does an organism gain by grouping cells into tissues?"
+      },
+      "options": {
+        "hi": [
+          "एक जैसे काम वाली कोशिकाएँ एक जगह जुटकर उस काम को बड़े पैमाने और निरंतर रूप से कर पाती हैं",
+          "वजन घटता है",
+          "कोई फायदा नहीं",
+          "शरीर का रंग बदलता है"
+        ],
+        "en": [
+          "Cells of the same job, gathered at one place, can do that job on a large scale and continuously",
+          "Weight falls",
+          "No benefit",
+          "The body's colour changes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अकेली कोशिका की पहुँच सीमित — जुड़ी कोशिकाओं की टोली वही काम असीमित बल से करती है।",
+        "en": "A lone cell's reach is limited — a joined team does the same job with unbounded force."
+      }
+    },
+    {
+      "id": "ch6_q694",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेशियाँ, अस्थियाँ और संधियाँ मिलकर मुख्यतः किस शारीरिक कार्य की सेवा करती हैं?",
+        "en": "Muscles, bones and joints together mainly serve which bodily function?"
+      },
+      "options": {
+        "hi": [
+          "पाचन",
+          "गति और स्थिरता (movement & support)",
+          "उत्सर्जन",
+          "दृष्टि"
+        ],
+        "en": [
+          "Digestion",
+          "Movement and support",
+          "Excretion",
+          "Vision"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तीनों साथी मिलकर शरीर का चलने-ढुलकने-संभलने का तंत्र बनाते हैं — गति-सेवा की तिकड़ी।",
+        "en": "The three mates together form the body's moving-steadying system — the trio in motion's service."
+      }
+    },
+    {
+      "id": "ch6_q695",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मस्तिष्क से गुर्दे तक और गुर्दे से मस्तिष्क तक लगातार संदेश-लेन-देन का उदाहरण किस संगठन-सिद्धांत को दर्शाता है?",
+        "en": "The constant message-exchange between brain and kidney illustrates which principle of organisation?"
+      },
+      "options": {
+        "hi": [
+          "कोशिकाएँ तंत्र नहीं पहचानतीं",
+          "अंग अकेले काम करते हैं",
+          "अंग-तंत्र परस्पर निर्भर और संबद्ध रहते हैं — संचार-तंत्र उत्सर्जी-तंत्र की गतिविधि की सूचना लेता-देता रहता है",
+          "हर तंत्र बंद रहता है"
+        ],
+        "en": [
+          "Cells do not recognise systems",
+          "Organs work alone",
+          "Organ-systems stay interdependent and linked — the nervous system keeps taking and giving news of the excretory system's activity",
+          "Every system stays shut"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शरीर एक जुड़ा उद्यम है — मूत्र-मात्रा का निर्णय भी मस्तिष्क-गुर्दा संवाद से होता है।",
+        "en": "The body is one connected enterprise — even the decision on urine-amount comes from brain-kidney dialogue."
+      }
+    },
+    {
+      "id": "ch6_q696",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संगठन-सीढ़ी के स्तरों में से कौन-सा युग्म 'से बना है' संबंध में सही है?",
+        "en": "Among the levels of the organisation ladder, which pair is correct in the 'is made of' relation?"
+      },
+      "options": {
+        "hi": [
+          "कोशिका अंगों से बनी है",
+          "ऊतक तंत्रों से बना है",
+          "तंत्र कोशिकाओं से सीधे बना है",
+          "अंग ऊतकों से बना है; ऊतक कोशिकाओं से"
+        ],
+        "en": [
+          "A cell is made of organs",
+          "A tissue is made of systems",
+          "A system is made directly of cells",
+          "An organ is made of tissues; a tissue of cells"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सीढ़ी के हर डंडे अपने नीचे वाले से ही बनता है — कोई स्तर कदम छोड़कर नहीं बनता।",
+        "en": "Each rung of the ladder is built from the one below it — no level forms skipping a step."
+      }
+    },
+    {
+      "id": "ch6_q697",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा तंत्र-अंग संबंध सही नहीं है?",
+        "en": "Which of the following organ-system relations is NOT correct?"
+      },
+      "options": {
+        "hi": [
+          "गुर्दा — तंत्रिका तंत्र का मुख्य अंग",
+          "मस्तिष्क — तंत्रिका तंत्र",
+          "गुर्दा — उत्सर्जी तंत्र",
+          "पेशी-अस्थि-संधि — गति-तंत्र"
+        ],
+        "en": [
+          "Kidney — the chief organ of the nervous system",
+          "Brain — nervous system",
+          "Kidney — excretory system",
+          "Muscle-bone-joint — movement system"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गुर्दा उत्सर्जी तंत्र का मुख्य अंग है — तंत्रिका तंत्र का नहीं; तंत्रिका तंत्र का मुखिया मस्तिष्क है।",
+        "en": "The kidney is the excretory system's chief organ — not the nervous system's; the nervous system's head is the brain."
+      }
+    },
+    {
+      "id": "ch6_q698",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ऊतक में कोशिकाएँ किस प्रकार की होती हैं?",
+        "en": "What kind of cells does a tissue contain?"
+      },
+      "options": {
+        "hi": [
+          "बिल्कुल भिन्न-भिन्न काम वाली",
+          "समान संरचना और समान कार्य वाली — एक ही विशेषज्ञता की साथी",
+          "केवल रुधिर कोशिकाएँ",
+          "केवल तंत्रिका कोशिकाएँ"
+        ],
+        "en": [
+          "Of entirely different jobs",
+          "Of similar structure and similar function — mates of one specialisation",
+          "Only blood cells",
+          "Only nerve cells"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक ऊतक एक विशेषज्ञ-दल है — पेशी-ऊत की सब पेशी, तंत्रिका-ऊत की सब तंत्रिका कोशिकाएँ।",
+        "en": "A tissue is a specialist squad — all muscle in muscle tissue, all nerve cells in nervous tissue."
+      }
+    },
+    {
+      "id": "ch6_q699",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वृद्धि और जीवन-परिचालन में 'कोशिका-से-तंत्र' संगठन क्यों जीव की सफलता का आधार है?",
+        "en": "Why is the 'cell-to-system' organisation the basis of an organism's success in growth and life-management?"
+      },
+      "options": {
+        "hi": [
+          "इससे नींद अच्छी आती है",
+          "इससे शरीर सुंदर दिखता है",
+          "इससे एक साथ कई जटिल कार्य व्यवस्थित रूप से चल सकते हैं — हर कार्य की अलहदा विशेषज्य टोली बनती है",
+          "इससे भोजन स्वादिष्ट लगता है"
+        ],
+        "en": [
+          "Sleep improves",
+          "The body looks beautiful",
+          "It lets many complex tasks run in an ordered way at once — a separate specialist team forms for every task",
+          "Food tastes better"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संगठित शरीर ही बड़ा-जटिल जीवन संभाल पाता है — असंगठित कोशिका-भीड़ बड़े जीव नहीं बन पाती।",
+        "en": "Only an organised body can manage a big-complex life — an unorganised cell-crowd cannot become large beings."
+      }
+    },
+    {
+      "id": "ch6_q700",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गुर्दा-तंत्र और संचार-तंत्र का परस्पर-संबंध किस अवयव से स्थापित होता है?",
+        "en": "Through which link is the relation between the excretory and circulatory systems established?"
+      },
+      "options": {
+        "hi": [
+          "कान से",
+          "आँख से",
+          "जीभ से",
+          "रुधिर-वाहिकाओं से — गुर्दे रुधिर ही छानते हैं और शुद्ध रुधिर वाहिकाओं से ही लौटता है"
+        ],
+        "en": [
+          "Through the ear",
+          "Through the eye",
+          "Through the tongue",
+          "Through blood vessels — the kidneys filter blood itself and clean blood returns via vessels alone"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "रुधिर-मार्ग ही तंत्रों की मुलाकात-सड़क है — उत्सर्जी छलनी संचार-धारा पर ही बैठी है।",
+        "en": "The blood-route is the meeting-street of systems — the excretory sieve sits right on the circulatory stream."
+      }
+    },
+    {
+      "id": "ch6_q701",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा तंत्रिका तंत्र का घटक नहीं है?",
+        "en": "Which of the following is NOT a component of the nervous system?"
+      },
+      "options": {
+        "hi": [
+          "मूत्राशय",
+          "मस्तिष्क",
+          "मेरुरज्जु",
+          "तंत्रिकाएँ"
+        ],
+        "en": [
+          "The urinary bladder",
+          "The brain",
+          "The spinal cord",
+          "The nerves"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मूत्राशय उत्सर्जी-परिवार का सदस्य है — तंत्रिका-परिवार की सूची में नहीं आता।",
+        "en": "The bladder is a member of the excretory family — it does not figure on the nerve family's list."
+      }
+    },
+    {
+      "id": "ch6_q702",
+      "topic": "organization-overview",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही अंग में विभिन्न ऊतक होने का फायदा क्या है?",
+        "en": "What is the advantage of having different tissues within one organ?"
+      },
+      "options": {
+        "hi": [
+          "रंग-बिरंगा दिखना",
+          "अंग का कार्य-चक्र पूरा हो — जैसे गुर्दे में छलनी, नली, वाहिका और तंत्रिका-नियंत्रण चारों ऊतक जुड़कर मूत्र-निर्माण संभव करते हैं",
+          "वजन बढ़ना",
+          "गंध आना"
+        ],
+        "en": [
+          "Looking colourful",
+          "The organ's work-cycle completes — e.g., in the kidney the sieve, duct, vessel and nerve-control tissues join to make urine-formation possible",
+          "Gaining weight",
+          "Emitting smell"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक अंग कई-कदम का कारखाना है — हर कदम का अलग ऊतक-विशेषज्ञ।",
+        "en": "An organ is a many-step factory — a separate tissue-specialist for each step."
+      }
+    },
+    {
+      "id": "ch6_q703",
+      "topic": "organization-overview",
+      "difficulty": "hard",
+      "question": {
+        "hi": "संगठन-सीढ़ी में सबसे ऊपर (सबसे जटिल स्तर) कौन-सा जीव-स्तर आता है?",
+        "en": "Which level of the organism comes at the top (most complex level) of the organisation ladder?"
+      },
+      "options": {
+        "hi": [
+          "ऊतक-स्तर",
+          "अंग-स्तर",
+          "अंग-तंत्र मिलकर बना संपूर्ण जीव (organism)",
+          "कोशिका-स्तर"
+        ],
+        "en": [
+          "Tissue level",
+          "Organ level",
+          "The complete organism formed of organ-systems together",
+          "Cell level"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सारे तंत्र एक साथ जुड़कर जो चलता-फिरता जीव बनते हैं — वही सीढ़ी की सबसे ऊँची सीढ़ है।",
+        "en": "All systems joined together make the living moving being — that is the ladder's topmost step."
+      }
+    },
+    {
+      "id": "ch6_q704",
+      "topic": "organization-overview",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'तंत्र' स्तर की विशेषता अंग-स्तर से किस रूप में भिन्न है?",
+        "en": "In what way is the 'system' level's character different from the organ level?"
+      },
+      "options": {
+        "hi": [
+          "तंत्र छोटा होता है",
+          "अंग तंत्र से बना होता है",
+          "दोनों में कोई भेद नहीं",
+          "अंग स्वयं एक ढाँचा है, तंत्र समन्वय-व्यवस्था है — अनेक अंगों का क्रम-बद्ध प्रवाह-जाल"
+        ],
+        "en": [
+          "A system is smaller",
+          "An organ is made of systems",
+          "No difference between the two",
+          "An organ is itself a structure; a system is a coordination-arrangement — an ordered flow-network of many organs"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अंग ईंट-चिनाई है, तंत्र उस चिनाई की नल-बत्ती-व्यवस्था — स्तर का भाव बदल जाता है।",
+        "en": "An organ is the brickwork; a system is that brickwork's plumbing-wiring plan — the very sense of level changes."
+      }
+    },
+    {
+      "id": "ch6_q705",
+      "topic": "organization-overview",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि किसी तंत्र का एक अंग बंद हो जाए तो केवल उसी अंग पर प्रभाव क्यों नहीं रुकता?",
+        "en": "If one organ of a system shuts down, why does the effect not stay limited to that organ alone?"
+      },
+      "options": {
+        "hi": [
+          "तंत्र के अंग श्रृंखला में जुड़े हैं — एक कड़ी का रुकना पूरी तंत्र-सेवा और उससे जुड़े अन्य तंत्रों के काम पर भी बोझ डालता है",
+          "क्योंकि शरीर छोटा है",
+          "क्योंकि कोशिकाएँ सोती हैं",
+          "क्योंकि अंग एक-दूसरे से नफरत करते हैं"
+        ],
+        "en": [
+          "A system's organs are joined in a chain — one link stalling burdens the whole system's service and the work of linked systems too",
+          "Because the body is small",
+          "Because cells sleep",
+          "Because organs hate each other"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गुर्दा रुका तो केवल गुर्दा नहीं — रुधिर-रसायन, जल-संतुलन, रुधिर-दाब की पूरी साजिश बिगड़ने लगती है।",
+        "en": "If the kidney halts, not just the kidney — the whole tableau of blood-chemistry, water-balance, blood-pressure starts spoiling."
+      }
+    },
+    {
+      "id": "ch6_q706",
+      "topic": "movement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गति (movement) और स्थानांतरण/लोकोमोशन (locomotion) में क्या अंतर है?",
+        "en": "What is the difference between movement and locomotion?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक ही हैं",
+          "गति = शरीर या उसके भाग का हिलना (जगह बदले बिना भी); लोकोमोशन = पूरे शरीर का एक स्थान से दूसरे स्थान जाना",
+          "गति केवल पौधों में",
+          "लोकोमोशन केवल जड़ पदार्थों में"
+        ],
+        "en": [
+          "Both are the same",
+          "Movement = the body or its parts stirring (even without changing place); locomotion = the whole body going from one place to another",
+          "Movement occurs only in plants",
+          "Locomotion occurs only in non-living things"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पेड़ की पत्ती हिलना = गति; तितली पंख फड़ाकर दूर जाना = गति + स्थानांतरण।",
+        "en": "A tree's leaf trembling = movement; the butterfly fluttering away far = movement + locomotion."
+      }
+    },
+    {
+      "id": "ch6_q707",
+      "topic": "movement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जंतु एक स्थान से दूसरे स्थान क्यों जाते हैं — लोकोमोशन की मुख्य वजहें क्या हैं?",
+        "en": "Why do animals move from one place to another — what are the main reasons for locomotion?"
+      },
+      "options": {
+        "hi": [
+          "बिना कारण",
+          "केवल खेलने के लिए",
+          "भोजन की खोज, शिकार/खतरे से बचाव, अनुकूल आवास और प्रजनन-साथी की तलाश",
+          "केवल नींद के लिए"
+        ],
+        "en": [
+          "Without reason",
+          "Only to play",
+          "Searching food, escaping danger/predators, finding suitable habitat and a mate",
+          "Only for sleep"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "भोजन-बचाव-घर-साथी — चारों जरूरतें शरीर को चलाने वाली चार मोटर हैं।",
+        "en": "Food-safety-home-mate — the four needs are the four motors that drive the body onward."
+      }
+    },
+    {
+      "id": "ch6_q708",
+      "topic": "movement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मेंढक की बड़ी पिछली टाँगें उसे किस गति में सहायक हैं?",
+        "en": "The frog's big hind legs help it in which movement?"
+      },
+      "options": {
+        "hi": [
+          "रेंगने में",
+          "खुदाई में",
+          "उड़ने में",
+          "लंबी छलांग लगाने और तैरने में — पानी-जमीन दोनों जगह"
+        ],
+        "en": [
+          "In crawling",
+          "In digging",
+          "In flying",
+          "In long leaps and swimming — both on land and in water"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मेंढक की पिछली टाँगें जमीन पर धनुष-तीर और पानी में चपल-पंख हैं — दोहरा इंजन।",
+        "en": "The frog's hind legs are a bow-and-arrow on land and nimble fins in water — a double engine."
+      }
+    },
+    {
+      "id": "ch6_q709",
+      "topic": "movement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पक्षी उड़ान भरने के लिए मुख्यतः कौन-से अंगों की मदद लेते हैं?",
+        "en": "Which limbs do birds mainly use for flying?"
+      },
+      "options": {
+        "hi": [
+          "पंखों में बदली अगली टाँगें — छाती की विशाल पेशियों से फड़फड़ाती हैं",
+          "पूँछ ही",
+          "चोंच",
+          "पिछली टाँगें"
+        ],
+        "en": [
+          "The front limbs turned into wings — flapped by the huge chest muscles",
+          "Only the tail",
+          "The beak",
+          "The hind legs"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पक्षी की अगली टाँगें ही पंख बनी हैं — छाती की भारी पेशियाँ उन्हें थपथपाती हैं।",
+        "en": "The bird's front limbs themselves became wings — the heavy chest muscles flap them."
+      }
+    },
+    {
+      "id": "ch6_q710",
+      "topic": "movement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घोड़ा-आदि चौपाये तेज़ दौड़ने में अपने चारों पैरों का प्रयोग कैसे करते हैं?",
+        "en": "How do four-legged runners like the horse use their four legs in fast running?"
+      },
+      "options": {
+        "hi": [
+          "चारों एक साथ उठाकर",
+          "पैरों का एक-एक कर बारी-बारी क्रम में जमीन पटकना — संतुलित गैलप-लय",
+          "केवल दो पैरों पर",
+          "पूँछ से उछलकर"
+        ],
+        "en": [
+          "Lifting all four together",
+          "Bringing the legs down one by one in turn — a balanced gallop-rhythm",
+          "On only two legs",
+          "Bouncing off the tail"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चार-पहिया गाड़ी की तरह एक-एक पैर जमीन पर आता है — कभी पूरा शरीर हवा में, कभी संतुलन जमीन पर।",
+        "en": "Like a four-wheeled cart one leg lands after another — the body now wholly in air, now balanced on ground."
+      }
+    },
+    {
+      "id": "ch6_q711",
+      "topic": "movement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "टिड्डी (grasshopper) की मोटी पिछली टाँगें उसे कैसे चलाती हैं?",
+        "en": "How do the grasshopper's thick hind legs carry it?"
+      },
+      "options": {
+        "hi": [
+          "खुदाई में",
+          "तैरने में",
+          "झटकेदार उछाल (jump) भरने में — तह वाली लंबी टाँगें झट से सीधी होकर शरीर उड़ा देती हैं",
+          "उड़ने भर में"
+        ],
+        "en": [
+          "In digging",
+          "In swimming",
+          "In springing jumps — the folded long legs snap straight and launch the body",
+          "Only in flying"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तह-टाँग = दबी हुई कमान — खुलते ही स्प्रिंग की तरह शरीर हवा में।",
+        "en": "A folded leg = a compressed bow — on release, like a spring, the body is airborne."
+      }
+    },
+    {
+      "id": "ch6_q712",
+      "topic": "movement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मछली को पानी में आगे बढ़ना सहज क्यों लगता है?",
+        "en": "Why does a fish find moving forward in water effortless?"
+      },
+      "options": {
+        "hi": [
+          "उसकी आँखें बड़ी होती हैं",
+          "उसका वजन नहीं होता",
+          "उसके पंख बड़े होते हैं",
+          "उसका शरीर तरल-मित्र आकृति (streamlined) का है — जल-प्रतिरोध न्यूनतम रहता है"
+        ],
+        "en": [
+          "Its eyes are big",
+          "It has no weight",
+          "Its fins are big",
+          "Its body has a fluid-friendly (streamlined) shape — water-resistance stays minimal"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "तीर-आकार शरीर पानी को चीरता नहीं, सरकता है — घर्षण-भार घटा तो गति बढ़ी।",
+        "en": "The arrow-shaped body does not tear the water, it slides — less friction-load, more speed."
+      }
+    },
+    {
+      "id": "ch6_q713",
+      "topic": "movement",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से किस जीव की गति-विधि 'रेंगना' मानी जाती है?",
+        "en": "Whose mode of movement among the following is counted as 'crawling'?"
+      },
+      "options": {
+        "hi": [
+          "छिपकली/साँप — भूमि से सटकर शरीर की लहरों से आगे",
+          "डॉल्फ़िन",
+          "गौरैया",
+          "ईगल"
+        ],
+        "en": [
+          "Lizard/snake — pressed to the ground, advancing by body-waves",
+          "Dolphin",
+          "Sparrow",
+          "Eagle"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "साँप-छिपकली की भूमि-सटी लहर-चाल ही रेंगने की मिसाल है — तिरछी स्केल-पट्टियाँ भी जोड़ती हैं।",
+        "en": "The ground-hugging wave-walk of snake-lizard is the very specimen of crawling — the slanting scale-plates add grip too."
+      }
+    },
+    {
+      "id": "ch6_q714",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "केंचुआ अपनी किरकिरा-बालों (setae) की मदद से कैसे चलता है?",
+        "en": "How does an earthworm walk with the help of its bristle-hairs (setae)?"
+      },
+      "options": {
+        "hi": [
+          "पंखों से",
+          "शरीर को पीछे की ओर खींचकर सेटा से मिट्टी पकड़ना, फिर अगला भाग आगे बढ़ाना — दो-चरण पकड़-खिंचाव",
+          "पैरों की जोड़ी से",
+          "पूँछ से"
+        ],
+        "en": [
+          "With wings",
+          "Gripping the soil with setae as the rear is drawn up, then extending the front part forward — a two-step grip-and-stretch",
+          "With pairs of legs",
+          "With the tail"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पकड़ो और खिंचो की बारी-बारी — काँटेदार ब्रिसल मिट्टी में एंकर जमाती हैं, पेशी-लहर शरीर खिसकाती है।",
+        "en": "Grip and stretch by turns — the bristly spikes anchor in soil, muscle-waves slide the body ahead."
+      }
+    },
+    {
+      "id": "ch6_q715",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "केंचुए का शरीर मोटा-पतला होते रहना उसकी चाल का कौन-सा आधार है?",
+        "en": "The earthworm's body thickening and thinning is which basis of its gait?"
+      },
+      "options": {
+        "hi": [
+          "भोजन का",
+          "श्वास का",
+          "इसकी वलय-पेशियाँ सिकुड़कर शरीर लंबा-पतला और दाबकर मोटा-छोटा करती हैं — यही वैकल्पिक दबाव आगे की रेंगन-लहर बनाता है",
+          "दृष्टि का"
+        ],
+        "en": [
+          "Of food",
+          "Of breath",
+          "Its circular muscles contract to make it long-thin and squeeze to make it fat-short — this alternating pressure builds the forward crawling-wave",
+          "Of sight"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लंबा-मोटा का खेल: वलय पेशी और अनुदैर्घ्य पेशी की बारी-बारी की जीत ही रेंगने का इंजन है।",
+        "en": "The long-and-thick game: the alternating victory of circular and longitudinal muscles is the crawling engine."
+      }
+    },
+    {
+      "id": "ch6_q716",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मछली अपने शरीर और पूँछ को किस तरह इस्तेमाल करके पानी में आगे बढ़ती है?",
+        "en": "In what way does a fish use its body and tail to push forward in water?"
+      },
+      "options": {
+        "hi": [
+          "गोल घूमकर",
+          "केवल ऊपर-नीचे",
+          "शरीर सीधा रखकर केवल पंख हिलाकर",
+          "शरीर-पूँछ को दाएँ-बाएँ लहरों में घुमाकर पानी को पीछे धकेलती है — प्रतिक्रिया उसे आगे बढ़ाती है"
+        ],
+        "en": [
+          "By spinning round",
+          "Only up and down",
+          "Keeping the body straight, moving only the fins",
+          "Swinging body-and-tail in right-left waves, pushing water backward — the reaction drives her forward"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पानी को पीछे ठेलो, खुद आगे बढ़ो — मछली-चाल का क्रिया-प्रतिक्रिया सिद्धांत।",
+        "en": "Push the water back, move yourself ahead — the action-reaction principle of fish-motion."
+      }
+    },
+    {
+      "id": "ch6_q717",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मनुष्य चलते समय अपनी भुजाओं को इस्तेमाल कैसे करता है?",
+        "en": "How does a person use the arms while walking?"
+      },
+      "options": {
+        "hi": [
+          "दोनों भुजाएँ पैरों के विपरीत दिशा में आगे-पीछे डोलती हैं — शरीर का संतुलन बना रहता है",
+          "भुजाएँ ऊपर उठाता है",
+          "भुजाएँ पीठ में बाँधता है",
+          "भुजाएँ स्थिर रखता है"
+        ],
+        "en": [
+          "Both arms swing forward-back opposite to the legs — the body's balance stays put",
+          "Raises the arms up",
+          "Ties the arms behind",
+          "Keeps the arms still"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बाएँ पैर-दाहिना हाथ की साथ-चाल ही चाल की लय-संतुलन है — भुजा-दोलन प्रकृति का संतुलन-दण्ड।",
+        "en": "The left leg-right hand co-march is walking's rhythm-balance — the arm-swing is nature's balancing pole."
+      }
+    },
+    {
+      "id": "ch6_q718",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेंढक के पैरों की झिल्लीदार (webbed) बना होना किस कार्य की तैयारी है?",
+        "en": "The webbed build of a frog's feet is a preparation for which task?"
+      },
+      "options": {
+        "hi": [
+          "दौड़ने की",
+          "तैरते समय जल को पीछे धकेलने की — बड़ा चपल क्षेत्र बल देता है",
+          "खुदाई की",
+          "उड़ान की"
+        ],
+        "en": [
+          "For running",
+          "For pushing water back while swimming — a broad paddle area gives thrust",
+          "For digging",
+          "For flight"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "झिल्ली-पैर = जुड़ा चप्पू — पानी में प्रत्येक चाल अधिक पानी उठाकर अधिक धक्का देती है।",
+        "en": "A webbed foot = a joined paddle — each stroke in water scoops more and pushes harder."
+      }
+    },
+    {
+      "id": "ch6_q719",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अमीबा अपने शरीर के बिना-पैर प्रवाह (flow) से कैसे खिसकता है?",
+        "en": "How does Amoeba slink along by the flow of its own footless body?"
+      },
+      "options": {
+        "hi": [
+          "रोमकों से",
+          "पूँछ से",
+          "शरीर से कूड़-पाँव (pseudopodia) फैलाकर उसी में अपना द्रव्य बहाकर आगे सरकता है",
+          "पंखों से"
+        ],
+        "en": [
+          "With cilia",
+          "With a tail",
+          "Extending pseudopodia from its body and streaming its own substance into them to creep forward",
+          "With fins"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शरीर ही मार्ग बनाता है — जहाँ बहे, वहीं अमीबा पहुँच जाता है।",
+        "en": "The body itself makes the road — wherever it flows, the Amoeba arrives."
+      }
+    },
+    {
+      "id": "ch6_q720",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पैरामीशियम का तेज़ तैरना उसके शरीर की किन संरचनाओं के ताल-मेल से होता है?",
+        "en": "Paramecium's brisk swimming happens by the rhythm of which structures on its body?"
+      },
+      "options": {
+        "hi": [
+          "पंख",
+          "पैर-जोड़े",
+          "कूड़-पाँव",
+          "हज़ारों रोमक (cilia) — छोटे बाल एक-सी लय में झपटकर जल-धाराएँ बनाते हैं"
+        ],
+        "en": [
+          "Fins",
+          "Leg-pairs",
+          "Pseudopodia",
+          "Thousands of cilia — tiny hairs beating in one rhythm to build water-currents"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "रोमक-पंक्तियों का एकस्वर झपट्टा ही उसका नाव-इंजन है।",
+        "en": "The unison stroke of cilia-rows is its boat-engine."
+      }
+    },
+    {
+      "id": "ch6_q721",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विपरीत-कार्य पेशी-जोड़ी (antagonistic pair) से क्या समझा जाता है?",
+        "en": "What is understood by an antagonistic pair of muscles?"
+      },
+      "options": {
+        "hi": [
+          "जिन दो पेशियों का कार्य आपस में उलटा हो — एक हड्डी को एक दिशा में, साथी दूसरी दिशा में ले जाती है",
+          "पास-पास रहने वाली पेशियाँ",
+          "एक ही पेशी के दो नाम",
+          "एक ही काम करने वाली दो पेशियाँ"
+        ],
+        "en": [
+          "Two muscles whose actions are opposite — one takes the bone one way, the partner the other way",
+          "Muscles lying close together",
+          "Two names of one muscle",
+          "Two muscles doing the same job"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक सिकुड़े तो दूसरा ढीला — इसी उलट-काम जोड़ी से अंग दोनों दिशाओं में चल पाता है।",
+        "en": "One contracts while its partner slackens — by this opposite-work pair the limb can move both ways."
+      }
+    },
+    {
+      "id": "ch6_q722",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेशी और अस्थि का गति-कार्य में बँटवारा कैसा है?",
+        "en": "How is the work divided between muscle and bone in movement?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक ही काम करते हैं",
+          "पेशी सक्रिय-इंजन है जो बल देती है; अस्थि निष्क्रिय-उत्तमाशा ढाँचा है जिस पर बल काम करता है",
+          "अस्थि सिकुड़ती है",
+          "पेशी कठोर ढाँचा है"
+        ],
+        "en": [
+          "Both do the same work",
+          "The muscle is the active engine supplying force; the bone is the passive lever-frame on which the force works",
+          "The bone contracts",
+          "The muscle is a rigid frame"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "इंजन (पेशी) + लीवर (अस्थि) = गति-समीकरण — बल एक का, टिकाऊ ढाँचा दूसरे का।",
+        "en": "Engine (muscle) + lever (bone) = the motion equation — force from one, the rigid frame from the other."
+      }
+    },
+    {
+      "id": "ch6_q723",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संधियों (joints) के बिना कंकाल की दशा क्या होती?",
+        "en": "What would be the state of the skeleton without joints?"
+      },
+      "options": {
+        "hi": [
+          "हड्डियाँ बढ़ जातीं",
+          "गति और अधिक होती",
+          "सारा ढाँचा एक सख्त ढलाई जैसा — मुड़ना-घूमना असंभव, केवल अडिग मूर्ति-सी अवस्था",
+          "कोई फर्क नहीं पड़ता"
+        ],
+        "en": [
+          "The bones would grow longer",
+          "Movement would increase",
+          "The whole frame would be like a single rigid casting — bending-turning impossible, a mere immobile statue-state",
+          "No difference would occur"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हड्डी-श्रृंखला में कब्ज़े (जोड़) ही तो मोड़ देते हैं — कब्ज़े गए तो दरवाज़ा ही नहीं खुलेगा।",
+        "en": "The hinges (joints) alone give the bone-chain its bends — hinges gone, the door cannot open at all."
+      }
+    },
+    {
+      "id": "ch6_q724",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल-कीट पानभुज (water boatman) या डुबकी-भरती जीव अपने चप्पू-नुमा पैरों से कैसे चलते हैं?",
+        "en": "How do water-rowing creatures like the water boatman move with their paddle-like legs?"
+      },
+      "options": {
+        "hi": [
+          "केवल तैरते रहते हैं",
+          "तल पर रेंगते हैं",
+          "पैरों को हवा में फड़फड़ाकर",
+          "पैरों को एक साथ झटके से पीछे की ओर घुमाकर जल-खेंच बनाते हैं — धक्का आगे मिलता है"
+        ],
+        "en": [
+          "They just float",
+          "They crawl on the bottom",
+          "By fluttering the legs in air",
+          "Sweeping the legs together backward in one stroke, making a water-pull — the push comes forward"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चप्पू-पैर पीछे का जल खींचते हैं — न्यूटन का धक्का आगे उड़ा देता है।",
+        "en": "The paddle-legs pull water backward — Newton's push launches them forward."
+      }
+    },
+    {
+      "id": "ch6_q725",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मानव-हाथ की पकड़ बंदर-हाथ से व्यापक क्यों है?",
+        "en": "Why is the human hand's grip broader than a monkey's?"
+      },
+      "options": {
+        "hi": [
+          "अंगूठा अंगुलियों के सामने घूमकर आ सकता है — हर आकार की वस्तु को मुट्ठी में कसने की क्षमता इसी से आती है",
+          "हथेली बड़ी होने से",
+          "त्वचा मोटी होने से",
+          "नाखूनों के कारण"
+        ],
+        "en": [
+          "The thumb can swing around to face the fingers — the capacity to fist-grip objects of any shape comes from this",
+          "Because the palm is big",
+          "Because the skin is thick",
+          "Because of the nails"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सामने-आ-अंगूठा (opposable thumb) ही औज़ार-पकड़ की कुंजी है — पत्थर से कलम तक सब इसी की देन।",
+        "en": "The thumb-that-meets (opposable thumb) is the key of tool-grip — from stone to pen, all its gift."
+      }
+    },
+    {
+      "id": "ch6_q726",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साँप की उदर-पट्टियाँ (scales) रेंगने में क्या योगदान देती हैं?",
+        "en": "What contribution do a snake's belly-plates (scales) make to crawling?"
+      },
+      "options": {
+        "hi": [
+          "वे शरीर को उठाती हैं",
+          "मोटी तिरछी पट्टियाँ जमीन पर टिककर पीछे की ओर खिसकने से रोकती हैं — शरीर की मोड़-लहरें उसी टिकाव से आगे का धक्का पाती हैं",
+          "वे पंख का काम करती हैं",
+          "वे पानी रोकती हैं"
+        ],
+        "en": [
+          "They lift the body",
+          "The broad slanted plates bite the ground and stop backward slip — the body's winding waves get their forward push from that grip",
+          "They work as fins",
+          "They block water"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "टिकाऊ-खुरचना: पट्टियाँ पीछे नहीं फिसलने देतीं — लहर का बल सीधा आगे उतरता है।",
+        "en": "Grip-and-grate: the plates forbid backward slide — the wave's force lands straight ahead."
+      }
+    },
+    {
+      "id": "ch6_q727",
+      "topic": "movement",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पंख का नीचे का झटका (down-stroke) पक्षी को किस प्रकार ऊपर रखता है?",
+        "en": "How does the wing's downstroke keep the bird up?"
+      },
+      "options": {
+        "hi": [
+          "चुंबकीय खिंचाव से",
+          "हवा बंद करके",
+          "झटके से पंख नीचे की हवा को धकेलता है — ठेली हवा का प्रतिक्रिया-बल पक्षी को ऊपर एवं आगे उठाता है",
+          "पंख गरम करके"
+        ],
+        "en": [
+          "By magnetic pull",
+          "By blocking air",
+          "In the stroke the wing pushes the air below — the reaction-force of the pushed air lifts the bird up and forward",
+          "By warming the wing"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हवा को नीचे पटको, खुद ऊपर उठो — उड़ान का दूसरा नाम निरंतर क्रिया-प्रतिक्रिया है।",
+        "en": "Slam the air down, rise yourself up — flight's other name is ceaseless action-reaction."
+      }
+    },
+    {
+      "id": "ch6_q728",
+      "topic": "movement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि किसी जोड़ी की दोनों पेशियाँ एक ही समय पर सिकुड़ जाएँ तो अंग की दशा क्या होगी?",
+        "en": "What will be the state of the limb if both muscles of a pair contract at the same time?"
+      },
+      "options": {
+        "hi": [
+          "अंग लंबा खिंच जाएगा",
+          "कुछ नहीं होगा",
+          "अंग तेज़ी से घूमेगा",
+          "अंग अकड़कर मध्य-अवस्था में जकड़ जाएगा — न घूमेगा न मुड़ेगा; शरीर-नियंत्रण में एक-साथ-संकुचन होता ही नहीं"
+        ],
+        "en": [
+          "The limb will stretch long",
+          "Nothing will happen",
+          "The limb will spin fast",
+          "The limb will stiffen locked in a mid-state — neither turning nor bending; body-control never lets both contract at once"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "रस्साकशी में दोनों ओर बराबर खींच — पताका जगह पर जमी रहेगी; इसीलिए तंत्रिका-तंत्र एक को सिकुड़ने देता है, दूसरे को ढीला।",
+        "en": "A tug-of-war with equal pull on both sides — the flag stays pinned; hence the nervous system lets one contract, the other slacken."
+      }
+    },
+    {
+      "id": "ch6_q729",
+      "topic": "movement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कीटों का बाहरी कंकाल (exoskeleton) और मनुष्य का भीतरी कंकाल (endoskeleton) — गति-दृष्टि से मूल भेद क्या है?",
+        "en": "Insects' outer skeleton (exoskeleton) versus the human inner skeleton (endoskeleton) — what is the basic movement-level difference?"
+      },
+      "options": {
+        "hi": [
+          "कीट में पेशियाँ खोल के भीतर सतह से खींचकर चलाती हैं (कवच-कंधे); मनुष्य में पेशियाँ अस्थि-स्तंभों पर बाहर से जुड़ी हैं — पेशी-जुड़ाव की दिशा उलटी",
+          "कीट में हड्डी नहीं होती ही",
+          "मनुष्य में पेशी नहीं होती",
+          "दोनों में कोई भेद नहीं"
+        ],
+        "en": [
+          "In an insect, muscles pull from the shell's inner surface (armour-shoulders); in a human, muscles attach externally on bone-pillars — the direction of muscle-attachment is reversed",
+          "An insect has no bones at all",
+          "A human has no muscles",
+          "No difference between the two"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खोल-कंकाल में पेशी कवच के भीतर खिंचती है, भीतरी-कंकाल में अस्थि पर बाहर से — दो विपरीत इंजीनियरिंग।",
+        "en": "In a shell-skeleton the muscle pulls inside the armour; in an inner skeleton it rides the bone outside — two opposite engineerings."
+      }
+    },
+    {
+      "id": "ch6_q730",
+      "topic": "movement",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ऑक्टोपस/जेलीफिश बिना पैर-पंख के तेज़ी से कैसे चलते हैं?",
+        "en": "How do octopuses/jellyfish move fast without legs or fins?"
+      },
+      "options": {
+        "hi": [
+          "लहरों पर तैरते हैं",
+          "जेट-चालक सिद्धांत — शरीर से जल भरकर नाली से झट से बाहर फेंकते हैं; उछले जल का प्रतिक्रिया-धक्का शरीर को विपरीत दिशा में भगा देता है",
+          "पत्थर से टकराकर",
+          "हवा में उड़कर"
+        ],
+        "en": [
+          "They drift on waves",
+          "The jet-propulsion principle — they fill the body with water and fling it out through a funnel in a snap; the reaction-push of the ejected water shoots the body the opposite way",
+          "By hitting stones",
+          "By flying in air"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जल-रॉकेट: भीतर का जल पीछे का दरवाज़ा खोलते ही शरीर आगे की सवारी बन जाता है।",
+        "en": "A water-rocket: the moment the inner water opens the rear door, the body becomes the forward rider."
+      }
+    },
+    {
+      "id": "ch6_q731",
+      "topic": "sense-organs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव के पाँच ज्ञानेंद्रियों (sense organs) कौन-सी हैं?",
+        "en": "Which are the five sense organs of humans?"
+      },
+      "options": {
+        "hi": [
+          "हाथ, पैर, सिर, पेट, पीठ",
+          "बाल, नाखून, दाँत, होंठ, ठुड्डी",
+          "आँख, कान, नाक, जीभ, त्वचा",
+          "हृदय, फेफड़े, गुर्दे, यकृत, पेट"
+        ],
+        "en": [
+          "Hands, feet, head, belly, back",
+          "Hair, nails, teeth, lips, chin",
+          "Eyes, ears, nose, tongue, skin",
+          "Heart, lungs, kidneys, liver, stomach"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पाँच द्वार, पाँच अनुभव — देखना, सुनना, सूँघना, चखना, छूना।",
+        "en": "Five gates, five experiences — seeing, hearing, smelling, tasting, touching."
+      }
+    },
+    {
+      "id": "ch6_q732",
+      "topic": "sense-organs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि (sound) का बोध किस ज्ञानेंद्रिय से होता है?",
+        "en": "Through which sense organ is sound perceived?"
+      },
+      "options": {
+        "hi": [
+          "नाक से",
+          "त्वचा से",
+          "आँख से",
+          "कान से"
+        ],
+        "en": [
+          "Through the nose",
+          "Through the skin",
+          "Through the eyes",
+          "Through the ears"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कान श्रवण-द्वार है — हवा की ध्वनि-लहरें यहीं घूमती हैं।",
+        "en": "The ear is the hearing-gate — the air's sound-waves circle here."
+      }
+    },
+    {
+      "id": "ch6_q733",
+      "topic": "sense-organs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बाहरी कान (outer ear) का मुख्य कार्य क्या है?",
+        "en": "What is the main function of the outer ear?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि-लहरों को इकट्ठा करके भीतर के कान तक केंद्रित करना",
+          "रुधिर छानना",
+          "श्वास लेना",
+          "संतुलन रखना"
+        ],
+        "en": [
+          "Collecting sound-waves and focusing them into the inner ear",
+          "Filtering blood",
+          "Breathing",
+          "Keeping balance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बाहरी कान एक पकड़-कीप है — आसपास की आवाज़ को भटकने नहीं देता।",
+        "en": "The outer ear is a catching-funnel — it does not let nearby sound stray away."
+      }
+    },
+    {
+      "id": "ch6_q734",
+      "topic": "sense-organs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गंध (smell) का बोध किस अंग से होता है?",
+        "en": "Through which organ is smell perceived?"
+      },
+      "options": {
+        "hi": [
+          "जीभ से",
+          "नाक से — घ्राण-ग्राही उद्दीपन पकड़ते हैं",
+          "कान से",
+          "आँख से"
+        ],
+        "en": [
+          "Through the tongue",
+          "Through the nose — its smell-receptors catch the stimulus",
+          "Through the ear",
+          "Through the eye"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "नाक की छत पर घ्राण-क्षेत्र है — हवा में घुली गंध-कणिकाएँ वहीं पहुँचती हैं।",
+        "en": "On the nose's roof lies the smell-zone — odour particles dissolved in air land right there."
+      }
+    },
+    {
+      "id": "ch6_q735",
+      "topic": "sense-organs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पलकें और बाल-पलक (eyelashes) आँख के लिए क्या करती हैं?",
+        "en": "What do the eyelids and eyelashes do for the eye?"
+      },
+      "options": {
+        "hi": [
+          "आँख ठंडी करती हैं",
+          "देखने में मदद",
+          "आँख की ढाल — धूल-कण और अचानक प्रकाश-झटके से रक्षा",
+          "रुधिर बनाती हैं"
+        ],
+        "en": [
+          "Cool the eye",
+          "Help in seeing",
+          "The eye's shield — protection from dust and sudden light-shocks",
+          "Make blood"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पलक तुरंत-परदा है, पलक-बाल धूल-जाली — दोनों मिलकर सुरक्षा-परत।",
+        "en": "The lid is the instant-curtain, the lashes the dust-screen — together the protective layer."
+      }
+    },
+    {
+      "id": "ch6_q736",
+      "topic": "sense-organs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "त्वचा किन संवेदनाओं का ग्रहण करती है?",
+        "en": "Which sensations does the skin receive?"
+      },
+      "options": {
+        "hi": [
+          "केवल रंग",
+          "केवल ध्वनि",
+          "केवल गर्मी",
+          "स्पर्श, दबाव, गर्मी-ठंड और पीड़ा (दर्द)"
+        ],
+        "en": [
+          "Only colour",
+          "Only sound",
+          "Only heat",
+          "Touch, pressure, heat-cold and pain"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "त्वचा स्पर्श-महल है — छूने से लेकर जलने तक हर छू-अनुभव इसी की ग्राही-पंक्तियों पर।",
+        "en": "The skin is the touch-palace — from a caress to a burn, every touch-experience on its receptor-rows."
+      }
+    },
+    {
+      "id": "ch6_q737",
+      "topic": "sense-organs",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आँख में प्रकाश सर्वप्रथम किस स्वच्छ ढ़ाल से होकर भीतर जाता है?",
+        "en": "Through which clear shield does light first pass into the eye?"
+      },
+      "options": {
+        "hi": [
+          "कॉर्निया (cornea) से — आँख की सामने की पारदर्शी खिड़की",
+          "अक्षिका से",
+          "पुतली से ही सीधे",
+          "रेटिना से"
+        ],
+        "en": [
+          "The cornea — the eye's transparent front window",
+          "The lens",
+          "Straight through the pupil alone",
+          "The retina"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कॉर्निया भीतर आने वाली प्रकाश-पट्टी की पहली मोड़-काँच है — पारदर्शी प्रवेश-द्वार।",
+        "en": "The cornea is the first bend-glass of the incoming light-beam — the transparent entry gate."
+      }
+    },
+    {
+      "id": "ch6_q738",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पुतली (pupil) का कार्य क्या है?",
+        "en": "What is the pupil's function?"
+      },
+      "options": {
+        "hi": [
+          "रंग देती है",
+          "भीतर जाने वाले प्रकाश की मात्रा का द्वार — छोटी-बड़ी होकर नियंत्रित करती है",
+          "प्रकाश पकड़ती है",
+          "द्रव बनाती है"
+        ],
+        "en": [
+          "It gives colour",
+          "The gateway of the light-amount entering — controlling it by shrinking and widening",
+          "It traps light",
+          "It makes fluid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पुतली आँख का कैमरा-एपर्चर है — तेज़ रोशनी में सिकुड़े, धुंधलके में खुले।",
+        "en": "The pupil is the eye's camera-aperture — narrowing in bright light, opening in dim."
+      }
+    },
+    {
+      "id": "ch6_q739",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेटिना (retina) की भूमिका क्या है?",
+        "en": "What is the retina's role?"
+      },
+      "options": {
+        "hi": [
+          "आँख सफेद बनाती है",
+          "प्रकाश छानती है",
+          "प्रकाश-संवेदी परदा — प्रतिबिंब बनाकर उसे तंत्रिका-संकेत में बदलती है",
+          "रुधिर बनाती है"
+        ],
+        "en": [
+          "It whitens the eye",
+          "It filters light",
+          "The light-sensitive screen — forming the image and converting it into nerve-signals",
+          "It makes blood"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कैमरे की फिल्म-परत रेटिना ही है — यहीं प्रकाश स्नायु-भाषा में अनूदित होता है।",
+        "en": "The camera's film-layer is the retina — right here light gets translated into the nerve language."
+      }
+    },
+    {
+      "id": "ch6_q740",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेटिना से बना दृश्य-संकेत मस्तिष्क तक कौन ले जाता है?",
+        "en": "Who carries the visual signal formed in the retina to the brain?"
+      },
+      "options": {
+        "hi": [
+          "घ्राण तंत्रिका",
+          "रुधिर-नली",
+          "श्रवण तंत्रिका",
+          "दृष्टि तंत्रिका (optic nerve)"
+        ],
+        "en": [
+          "The olfactory nerve",
+          "A blood vessel",
+          "The auditory nerve",
+          "The optic nerve"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रकाश की खबर नेत्र-तंत्रिका के तार से मस्तिष्क के दृष्टि-केंद्र पहुँचती है — देखना अंततः मस्तिष्क ही करता है।",
+        "en": "The light-news travels the optic nerve's wire to the brain's vision-centre — it is the brain that finally sees."
+      }
+    },
+    {
+      "id": "ch6_q741",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कान का परदा (eardrum) क्या करता है?",
+        "en": "What does the eardrum do?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि-लहरों में कंपन करके उन्हें यांत्रिक थर-थराहट में बदलता है — आगे हड्डी-श्रृंखला को देता है",
+          "संतुलन बनाता है",
+          "हवा छानता है",
+          "जल रोकता है"
+        ],
+        "en": [
+          "Vibrates with the sound-waves, turning them into mechanical tremors — passing them to the bone-chain ahead",
+          "It keeps balance",
+          "It filters air",
+          "It blocks water"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कान-परदा ढीला-तना चमड़ा-पटल है — हर आवाज़ की थाप इसी पर पहली बार गूँजती है।",
+        "en": "The eardrum is a slack-stretched skin-sheet — the beat of every sound echoes on it first."
+      }
+    },
+    {
+      "id": "ch6_q742",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मध्य-कान की तीन छोटी हड्डियाँ (ossicles) का कार्य क्या है?",
+        "en": "What is the function of the three tiny bones (ossicles) of the middle ear?"
+      },
+      "options": {
+        "hi": [
+          "जल बाहर निकालना",
+          "परदे के कंपन को बढ़ाकर भीतरी कान तक पहुँचाना — ध्वनि-ऊर्जा का प्रवर्धक-सेतु",
+          "रुधिर बनाना",
+          "हवा बढ़ाना"
+        ],
+        "en": [
+          "Draining water out",
+          "Amplifying the drum's vibration and carrying it to the inner ear — an amplifier-bridge of sound-energy",
+          "Making blood",
+          "Increasing air"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "थैकी-रकाब-रेमिका तीन हड्डियाँ घुंघरू-श्रृंखला हैं — आवाज़ को तीव्र कर अंदर पहुँचाती हैं।",
+        "en": "The hammer-anvil-stirrup three bones are a bell-chain — they intensify the sound and deliver it inside."
+      }
+    },
+    {
+      "id": "ch6_q743",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भीतरी कान का कुंडल (cochlea) किसका केंद्र है?",
+        "en": "The inner ear's coil (cochlea) is the centre of what?"
+      },
+      "options": {
+        "hi": [
+          "स्वाद का",
+          "संतुलन का",
+          "श्रवण का — ध्वनि-कंपनों को तंत्रिका-संकेतों में बदलने वाले ग्राही यहीं बैठते हैं",
+          "गंध का"
+        ],
+        "en": [
+          "Of taste",
+          "Of balance",
+          "Of hearing — the receptors turning sound-vibrations into nerve-signals sit right here",
+          "Of smell"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "घोंघा-कुंडल में सुनने की वास्तविक रसायन-विद्युत फैक्ट्री है।",
+        "en": "The snail-coil houses the actual electrochemical factory of hearing."
+      }
+    },
+    {
+      "id": "ch6_q744",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सिर घुमाने पर हमें गिरने का अहसास और संतुलन — यह काम कान का कौन-सा भाग करता है?",
+        "en": "The feel of falling while turning the head, and balance — which part of the ear does this work?"
+      },
+      "options": {
+        "hi": [
+          "पुतली",
+          "बाहरी कीप",
+          "कॉर्निया",
+          "भीतरी कान के अर्धवृत्तीय नह्याएँ (semicircular canals)"
+        ],
+        "en": [
+          "The pupil",
+          "The outer funnel",
+          "The cornea",
+          "The semicircular canals of the inner ear"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "तीन तिरछी नहरें शरीर का जाइरोस्कोप हैं — सिर की हर झुकाव-घूमाव की खबर वहीं बनती है।",
+        "en": "The three slanted canals are the body's gyroscope — news of every head-tilt-turn forms right there."
+      }
+    },
+    {
+      "id": "ch6_q745",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नाक बंद होने पर खाने का स्वाद फीका क्यों पड़ जाता है?",
+        "en": "Why does food taste flat when the nose is blocked?"
+      },
+      "options": {
+        "hi": [
+          "स्वाद-बोध का बड़ा हिस्सा गंध से आता है — गंध-मार्ग बंद तो जीभ केवल मीठा-खट्टा-नमकीन-कड़वा पाती है",
+          "दाँत कमजोर हो जाते हैं",
+          "लार बंद हो जाती है",
+          "जीभ सूख जाती है"
+        ],
+        "en": [
+          "A large share of taste-sense comes from smell — with the smell-route shut, the tongue gets only sweet-sour-salty-bitter",
+          "The teeth weaken",
+          "Saliva stops",
+          "The tongue dries out"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भोजन का 'स्वाद' वास्तव में स्वाद+गंध का संयुक्त अनुभव है — ज़ुकाम में गंध-खंड गायब, स्वाद अधूरा।",
+        "en": "Food's 'taste' is actually a joint experience of taste+smell — in a cold the smell-chapter goes missing, the taste stays half."
+      }
+    },
+    {
+      "id": "ch6_q746",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भोजन का स्वाद तभी ठीक लगता है जब वह किस अवस्था में हो?",
+        "en": "Food tastes right only when it is in what condition?"
+      },
+      "options": {
+        "hi": [
+          "ठोस सूखी अवस्था में",
+          "लार में घुलने की अवस्था में — घुला रसायन ही स्वाद-ग्राहियों तक पहुँच सकता है",
+          "जमी हुई अवस्था में",
+          "गरम ही गरम"
+        ],
+        "en": [
+          "Solid and dry",
+          "Dissolved in saliva — only a dissolved chemical can reach the taste-receptors",
+          "Frozen",
+          "Piping hot only"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सूखी जीभ पर नमक भी फीका — पहले घुले, तब चखे जाएँ।",
+        "en": "Even salt tastes flat on a dry tongue — first dissolve, then taste."
+      }
+    },
+    {
+      "id": "ch6_q747",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "त्वचा के विभिन्न भागों में स्पर्श-संवेदनशीलता कैसी होती है?",
+        "en": "How is touch-sensitivity across different parts of the skin?"
+      },
+      "options": {
+        "hi": [
+          "केवल तलवों में",
+          "सब जगह समान",
+          "अंगुली-अग्र, होंठ जैसे भाग अति-संवेदी; पीठ-बाहु जैसे भागों में कम — ग्राहियों का वितरण असमान",
+          "केवल हाथ में होती है"
+        ],
+        "en": [
+          "Only in the soles",
+          "Equal everywhere",
+          "Fingertips, lips and such parts are ultra-sensitive; back-forearm less — the receptor distribution is uneven",
+          "Only in the hands"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अंगुलियों पर ग्राहियों का घना जाल, पीठ पर बिखरा बिखरा — इसीलिए आँख बंद करके पहचान उंगलियों से होती है।",
+        "en": "A dense receptor-net on the fingers, a scattered one on the back — hence closed-eye recognition happens by the fingers."
+      }
+    },
+    {
+      "id": "ch6_q748",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ग्राही (receptor) → तंत्रिका → मस्तिष्क — यह तीन-चरणी श्रृंखला किस कार्य की है?",
+        "en": "Receptor → nerve → brain — this three-step chain is of which function?"
+      },
+      "options": {
+        "hi": [
+          "श्वास की",
+          "उत्सर्जन की",
+          "पाचन की",
+          "संवेदन-बोध की — उद्दीपन पकड़ने से लेकर उसका अनुभव होने तक की यात्रा"
+        ],
+        "en": [
+          "Of breathing",
+          "Of excretion",
+          "Of digestion",
+          "Of sense-perception — the journey from catching the stimulus to experiencing it"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पकड़ो (ग्राही) → भेजो (तंत्रिका) → पढ़ो (मस्तिष्क) — ज्ञानेंद्रियों की हर कहानी इसी तीन-अंक नाटक की।",
+        "en": "Catch (receptor) → send (nerve) → read (brain) — every sense-organ's story is this three-act play."
+      }
+    },
+    {
+      "id": "ch6_q749",
+      "topic": "sense-organs",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ज्ञानेंद्रियाँ जीव के लिए अस्तित्व की दृष्टि से क्यों महत्वपूर्ण हैं?",
+        "en": "Why are sense organs vital for an organism's existence?"
+      },
+      "options": {
+        "hi": [
+          "पर्यावरण की घटनाओं की तुरंत सूचना देकर खतरे से बचने और अवसर पकड़ने में सक्षम बनाती हैं",
+          "वजन बढ़ाने के लिए",
+          "केवल नींद के लिए",
+          "सुंदर दिखने के लिए"
+        ],
+        "en": [
+          "By instantly reporting environmental events, they enable dodging danger and seizing opportunity",
+          "To gain weight",
+          "Only for sleep",
+          "To look beautiful"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जानकारी ही बचाव है — साँप की सरसराहट सुनना ही भागने का पहला जतन है।",
+        "en": "Information is survival — just hearing a snake's rustle is the first act of fleeing."
+      }
+    },
+    {
+      "id": "ch6_q750",
+      "topic": "sense-organs",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'अंधा बिंदु' (blind spot) क्या होता है?",
+        "en": "What is the 'blind spot'?"
+      },
+      "options": {
+        "hi": [
+          "आँख का रंगीन भाग",
+          "रेटिना का वह स्थान जहाँ दृष्टि-तंत्रिका निकलती है — वहाँ प्रकाश-ग्राही नहीं होते, इसलिए वहाँ का कोई प्रतिबिंब नहीं दिखता",
+          "पुतली का काला रंग",
+          "कॉर्निया का धब्बा"
+        ],
+        "en": [
+          "The eye's coloured part",
+          "The retinal spot where the optic nerve exits — no light-receptors there, so no image forming at that spot is seen",
+          "The pupil's black colour",
+          "A spot on the cornea"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जहाँ तार बाहर निकलता है वहाँ फिल्म नहीं लगी होती — इसी खाली थाने को अंधा बिंदु कहते हैं।",
+        "en": "Where the wire exits, no film is laid — this empty station is called the blind spot."
+      }
+    }
+  ]
+}

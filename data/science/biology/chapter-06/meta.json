@@ -1,0 +1,137 @@
+{
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-06",
+  "chapterNumber": 5,
+  "code": "B05",
+  "chapterName": {
+    "hi": "जंतु जीवन एवं शरीर क्रियाएँ",
+    "en": "Animal Life & Body Functions"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "जंतुओं का शरीर अनेक अंग-तंत्रों से मिलकर बना है — पाचन, श्वसन, परिवहन, उत्सर्जन, नियंत्रण एवं समन्वय और प्रजनन। तंत्रिका तंत्र और हार्मोन मिलकर शरीर के सभी अंगों का समन्वय करते हैं, जबकि वृक्क अपशिष्ट पदार्थों को रक्त से हटाकर मूत्र बनाते हैं।",
+      "example": "हाथ गर्म वस्तु को छूते ही पीछे खिंच जाता है — यह तंत्रिका तंत्र की त्वरित क्रिया है; भोजन के बाद रक्त में शर्करा बढ़ने पर इंसुलिन का स्राव हार्मोन-नियंत्रण का उदाहरण है।",
+      "sections": [
+        {
+          "heading": "अंग-तंत्रों का सिंहावलोकन",
+          "content": "पाचन भोजन को सरल करता है, श्वसन ऊर्जा देता है, परिवहन रक्त द्वारा वितरण करता है और प्रजनन जाति को आगे बढ़ाता है।"
+        },
+        {
+          "heading": "तंत्रिका तंत्र",
+          "content": "मस्तिष्क, मेरुरज्जु और तंत्रिकाएँ मिलकर उद्दीपन का तुरंत उत्तर देती हैं; यह नियंत्रण तीव्र लेकिन अल्पकालिक होता है।"
+        },
+        {
+          "heading": "हार्मोनल नियंत्रण",
+          "content": "अंतःस्रावी ग्रंथियों के हार्मोन (जैसे इंसुलिन, थायरॉक्सिन) रक्त द्वारा पहुँचकर धीमा लेकिन दीर्घकालिक नियंत्रण रखते हैं।"
+        },
+        {
+          "heading": "वृक्क एवं उत्सर्जन",
+          "content": "मानव में दो वृक्क रक्त छानकर यूरिया युक्त मूत्र बनाते हैं; यह शरीर से नाइट्रोजनी अपशिष्ट हटाता है।"
+        }
+      ],
+      "keyPoints": [
+        "जंतु शरीर अनेक सहयोगी अंग-तंत्रों से बना है",
+        "तंत्रिका नियंत्रण तीव्र और संक्षिप्त, हार्मोनल नियंत्रण धीमा और दीर्घ होता है",
+        "मस्तिष्क और मेरुरज्जु केंद्रीय तंत्रिका तंत्र बनाते हैं",
+        "इंसुलिन रक्त-शर्करा घटाता है, थायरॉक्सिन चयापचय नियंत्रित करता है",
+        "वृक्क मूलभूत उत्सर्जन अंग हैं और यूरिया को मूत्र में निकालते हैं",
+        "संतुलन (होमियोस्टेसिस) के लिए उत्सर्जन आवश्यक है"
+      ],
+      "examFocus": [
+        "तंत्रिका बनाम हार्मोनल नियंत्रण का अंतर तालिका रूप में याद रखें",
+        "वृक्क की संरचना की मूल इकाई नेफ्रॉन है — नाम याद रखें",
+        "इंद्रियों (आँख, कान, त्वचा, जीभ, नाक) के उद्दीपन और अंग जोड़कर याद करें"
+      ],
+      "examTraps": [
+        "सभी नियंत्रण तंत्रिका तंत्र से नहीं होते — वृद्धि और चयापचय हार्मोन से नियंत्रित होते हैं",
+        "वृक्क केवल मूत्र नहीं बनाते — वे रक्त छानने और जल-संतुलन का भी कार्य करते हैं"
+      ],
+      "thinkBeforeAnswer": [
+        "तुरंत प्रतिक्रिया की बात आए तो तंत्रिका तंत्र, धीमे दीर्घ परिवर्तन की बात आए तो हार्मोन चुनें",
+        "रक्त में शर्करा घटाने वाला हार्मोन पूछा जाए तो इंसुलिन उत्तर है"
+      ],
+      "memoryTricks": [
+        "N-for-nerves = तुरंत (immediate), H-for-hormones = धीरे-धीरे (slow)",
+        "इंसुलिन—इंजेक्शन—मधुमेह त्रिक को एक साथ याद करें"
+      ],
+      "pyqSignals": [
+        "तंत्रिका और हार्मोनल नियंत्रण में अंतर परीक्षा में बार-बार पूछा जाता है",
+        "वृक्क का कार्य और यूरिया सीधे प्रश्नों में आते हैं"
+      ],
+      "mustRemember": [
+        "अंग-तंत्रों के नाम और उनके मुख्य अंग",
+        "तंत्रिका और हार्मोनल नियंत्रण में अंतर",
+        "वृक्क का कार्य",
+        "मुख्य हार्मोन और उनके एक-एक कार्य"
+      ],
+      "quickRevision": "जंतु शरीर पाचन, श्वसन, परिवहन, उत्सर्जन और नियंत्रण अंग-तंत्रों से बना है। तंत्रिका तंत्र तीव्र व अल्पकालिक नियंत्रण करता है जबकि हार्मोन धीमे व दीर्घकालिक नियंत्रण रखते हैं। वृक्क रक्त से यूरिया हटाकर मूत्र बनाते हैं और शरीर का जल-संतुलन बनाए रखते हैं।"
+    },
+    "en": {
+      "concept": "The animal body is built of many organ systems — digestion, respiration, transport, excretion, control-coordination and reproduction. The nervous system and hormones coordinate all organs, while kidneys filter wastes from blood to form urine.",
+      "example": "The hand withdraws instantly on touching something hot — a fast nervous action; insulin released after a meal controls blood sugar — an example of hormonal control.",
+      "sections": [
+        {
+          "heading": "Organ Systems Overview",
+          "content": "Digestion simplifies food, respiration provides energy, transport distributes materials by blood, and reproduction continues the species."
+        },
+        {
+          "heading": "Nervous System",
+          "content": "Brain, spinal cord and nerves respond to stimuli immediately; this control is fast but short-lived."
+        },
+        {
+          "heading": "Hormonal Control",
+          "content": "Hormones of endocrine glands (e.g. insulin, thyroxine) travel through blood for slow but long-lasting control."
+        },
+        {
+          "heading": "Kidneys and Excretion",
+          "content": "Two kidneys filter blood to form urea-containing urine, removing nitrogenous waste from the body."
+        }
+      ],
+      "keyPoints": [
+        "The animal body is made of many cooperating organ systems",
+        "Nervous control is fast and brief; hormonal control is slow and long-lasting",
+        "Brain and spinal cord form the central nervous system",
+        "Insulin lowers blood sugar; thyroxine controls metabolism",
+        "Kidneys are the main excretory organs and remove urea as urine",
+        "Excretion is essential for homeostasis"
+      ],
+      "examFocus": [
+        "Learn the differences between nervous and hormonal control as a table",
+        "Remember that the nephron is the basic unit of the kidney",
+        "Pair each sense organ (eye, ear, skin, tongue, nose) with its stimulus"
+      ],
+      "examTraps": [
+        "Not all control is nervous — growth and metabolism are controlled by hormones",
+        "Kidneys do not just make urine — they also filter blood and balance water"
+      ],
+      "thinkBeforeAnswer": [
+        "Immediate reaction points to the nervous system; slow long-term change points to hormones",
+        "For a hormone that lowers blood sugar, the answer is insulin"
+      ],
+      "memoryTricks": [
+        "N-for-nerves = now; H-for-hormones = gradually",
+        "Remember the trio insulin–injection–diabetes together"
+      ],
+      "pyqSignals": [
+        "Differences between nervous and hormonal control are asked repeatedly",
+        "Functions of the kidney and urea appear in direct questions"
+      ],
+      "mustRemember": [
+        "Names of organ systems and their main organs",
+        "Difference between nervous and hormonal control",
+        "Function of the kidney",
+        "Key hormones and one function of each"
+      ],
+      "quickRevision": "The animal body consists of digestion, respiration, transport, excretion and control systems. The nervous system gives fast, short-term control while hormones give slow, long-term control. Kidneys filter urea from blood to make urine and maintain the body's water balance."
+    }
+  }
+}

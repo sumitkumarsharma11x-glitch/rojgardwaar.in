@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "phy7_q101",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि किस प्रक्रिया से उत्पन्न होती है?",
+        "en": "By what process is sound produced?"
+      },
+      "options": {
+        "hi": [
+          "वस्तु के कंपन (दोलन) से",
+          "वस्तु के रंग से",
+          "वस्तु के भार से",
+          "वस्तु के जमने से"
+        ],
+        "en": [
+          "By the vibration (oscillation) of a body",
+          "By an object's colour",
+          "By an object's weight",
+          "By an object's freezing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कंपन करता पिंड ही ध्वनि पैदा करता है — कंपन बंद, ध्वनि बंद।",
+        "en": "Only a vibrating body produces sound — stop the vibration, stop the sound."
+      }
+    },
+    {
+      "id": "phy7_q102",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि का स्रोत क्या है?",
+        "en": "What is the source of a sound?"
+      },
+      "options": {
+        "hi": [
+          "चुंबक",
+          "कंपन करती वस्तु",
+          "स्थिर वस्तु",
+          "प्रकाश"
+        ],
+        "en": [
+          "A magnet",
+          "A vibrating object",
+          "A stationary object",
+          "Light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जो कंपन करे, वही स्रोत।",
+        "en": "Whatever vibrates is the source."
+      }
+    },
+    {
+      "id": "phy7_q103",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गिटार की डोर को छेड़ने पर ध्वनि क्यों निकलती है?",
+        "en": "Why does plucking a guitar string produce sound?"
+      },
+      "options": {
+        "hi": [
+          "डोर रंग बदलती है",
+          "डोर भारी होती है",
+          "डोर कंपन करने लगती है",
+          "डोर गर्म हो जाती है"
+        ],
+        "en": [
+          "The string changes colour",
+          "The string is heavy",
+          "The string begins to vibrate",
+          "The string heats up"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खिंची डोर का कंपन ही ध्वनि बनाता है।",
+        "en": "The stretched string's vibration makes the sound."
+      }
+    },
+    {
+      "id": "phy7_q104",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ताल (cymbals) बजाने पर उन्हें छूने से क्या महसूस होता है?",
+        "en": "What do you feel on touching cymbals being played?"
+      },
+      "options": {
+        "hi": [
+          "ठंडक",
+          "भारीपन",
+          "चिकनाई",
+          "कंपन"
+        ],
+        "en": [
+          "Coldness",
+          "Heaviness",
+          "Smoothness",
+          "Vibration"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बजते वाद्य में कंपन स्पष्ट अनुभव होता है।",
+        "en": "A playing instrument shows its vibration clearly."
+      }
+    },
+    {
+      "id": "phy7_q105",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव ध्वनि किसके कंपन से बनती है?",
+        "en": "Human voice is produced by the vibration of what?"
+      },
+      "options": {
+        "hi": [
+          "स्वरयंत्र (वॉयस बॉक्स) की पट्टिकाओं के",
+          "जीभ के",
+          "होंठों के",
+          "दाँतों के"
+        ],
+        "en": [
+          "The vocal cords in the voice box (larynx)",
+          "The tongue",
+          "The lips",
+          "The teeth"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फेफड़ों की हवा स्वर-पट्टिकाओं को कंपन कराती है — ध्वनि।",
+        "en": "Air from the lungs vibrates the vocal cords — voice."
+      }
+    },
+    {
+      "id": "phy7_q106",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ढोल की परत (झिल्ली) का काम क्या है?",
+        "en": "What does the stretched membrane of a drum do?"
+      },
+      "options": {
+        "hi": [
+          "पानी रोकती है",
+          "कंपन करके ध्वनि उत्पन्न करती है",
+          "रंग देती है",
+          "भार बढ़ाती है"
+        ],
+        "en": [
+          "It holds water",
+          "It vibrates and produces the sound",
+          "It gives colour",
+          "It adds weight"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "थपथपाने पर परत कंपन करती है।",
+        "en": "Striking sets the membrane vibrating."
+      }
+    },
+    {
+      "id": "phy7_q107",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बंजी (बी) की मधुमक्खी किस प्रक्रिया से भिनभिनाती है?",
+        "en": "By what process does a bee hum?"
+      },
+      "options": {
+        "hi": [
+          "पैरों की आवाज़ से",
+          "साँस से",
+          "पंखों के अत्यंत तेज़ कंपन से",
+          "गाने से"
+        ],
+        "en": [
+          "The noise of its legs",
+          "By breathing",
+          "The extremely fast vibration of its wings",
+          "By singing"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सेकंड में सैकड़ों बार पंख-कंपन = भिनभिनाहट।",
+        "en": "Wing-beats hundreds of times a second create the hum."
+      }
+    },
+    {
+      "id": "phy7_q108",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कंपन करती वस्तु को रोक दें तो ध्वनि —",
+        "en": "If the vibrating object is stopped, the sound —"
+      },
+      "options": {
+        "hi": [
+          "बढ़ जाती है",
+          "पहले जैसी रहती है",
+          "उलटी दिशा में चलती है",
+          "बंद हो जाती है"
+        ],
+        "en": [
+          "Grows",
+          "Continues as before",
+          "Travels in reverse",
+          "Stops"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कंपन ही ध्वनि का कारण — कारण गया, परिणाम गया।",
+        "en": "Vibration is the cause — remove the cause, the effect goes."
+      }
+    },
+    {
+      "id": "phy7_q109",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि निर्माण के लिए वस्तु में क्या आवश्यक है?",
+        "en": "What must an object do to create sound?"
+      },
+      "options": {
+        "hi": [
+          "तेज़ गति से आगे-पीछे दोलन करना",
+          "गर्म होना",
+          "प्रकाश देना",
+          "चुंबकीय होना"
+        ],
+        "en": [
+          "Oscillate rapidly back and forth",
+          "Become hot",
+          "Emit light",
+          "Be magnetic"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दोलन = कंपन = ध्वनि का आधार।",
+        "en": "Oscillation = vibration = the basis of sound."
+      }
+    },
+    {
+      "id": "phy7_q110",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साइकिल की घंटी बजने के बाद कुछ देर धीमी ध्वनि क्यों सुनाई देती है?",
+        "en": "Why does a bicycle bell keep sounding faintly after being struck?"
+      },
+      "options": {
+        "hi": [
+          "कान धोखा देता है",
+          "घंटी धीमे-धीमे कंपन करती रहती है",
+          "घंटी गर्म रहती है",
+          "हवा ध्वनि बनाती है"
+        ],
+        "en": [
+          "The ear is fooled",
+          "The bell keeps vibrating with fading amplitude",
+          "The bell stays hot",
+          "The air makes the sound"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कंपन धीमा पड़ता जाता है — ध्वनि क्षीण होती जाती है।",
+        "en": "The vibration dies down gradually — the sound fades."
+      }
+    },
+    {
+      "id": "phy7_q111",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कंपन की SI इकाई (आवृत्ति की) क्या है?",
+        "en": "What is the SI unit of frequency (of vibration)?"
+      },
+      "options": {
+        "hi": [
+          "सेकंड",
+          "न्यूटन",
+          "हर्ट्ज़ (Hz)",
+          "मीटर"
+        ],
+        "en": [
+          "Second",
+          "Newton",
+          "Hertz (Hz)",
+          "Metre"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रति सेकंड कंपन-संख्या = हर्ट्ज़।",
+        "en": "Vibrations per second = hertz."
+      }
+    },
+    {
+      "id": "phy7_q112",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साँस लेते समय स्वरयंत्र नहीं दिखता, फिर भी वह —",
+        "en": "Though unseen, the voice box —"
+      },
+      "options": {
+        "hi": [
+          "केवल हवा छानता है",
+          "केवल भोजन गले भेजता है",
+          "कोई काम नहीं करता",
+          "गले के भीतर स्वर-पट्टिकाएँ रखता है जो बोलते समय कंपन करती हैं"
+        ],
+        "en": [
+          "Only filters air",
+          "Only pushes food down",
+          "Does nothing",
+          "Holds vocal cords inside the throat that vibrate while speaking"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्वरयंत्र = ध्वनि उत्पादन अंग।",
+        "en": "The larynx is the voice-producing organ."
+      }
+    },
+    {
+      "id": "phy7_q113",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाद्य यंत्रों को गर्म करने पर उनकी ध्वनि बदल जाती है — इसका कारण कंपन में परिवर्तन है। 'कंपन' शब्द का अर्थ —",
+        "en": "The word 'vibration' means —"
+      },
+      "options": {
+        "hi": [
+          "किसी साम्य-स्थिति के इर्द-गिर्द तेज़ दोलन",
+          "सीधी रेखा में एक बार चलना",
+          "घूर्णन करना",
+          "स्थिर रहना"
+        ],
+        "en": [
+          "Rapid to-and-fro oscillation about a mean position",
+          "Moving once in a straight line",
+          "Spinning around",
+          "Staying still"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कंपन = साम्य-स्थिति के दोनों ओर बार-बार गति।",
+        "en": "Vibration = repeated motion to and fro about the rest position."
+      }
+    },
+    {
+      "id": "phy7_q114",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बाँसुरी में ध्वनि किसके कंपन से बनती है?",
+        "en": "In a flute, sound arises from the vibration of what?"
+      },
+      "options": {
+        "hi": [
+          "धागे के",
+          "भीतर की वायु-स्तंभ के",
+          "बाँस के रेशों के",
+          "धातु के"
+        ],
+        "en": [
+          "A thread",
+          "The air column inside",
+          "The bamboo fibres",
+          "A metal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "फूँका गया हवा का स्तंभ कंपन करता है।",
+        "en": "The blown air column vibrates."
+      }
+    },
+    {
+      "id": "phy7_q115",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तबला बजाने वाला हाथ परत पर क्या करता है?",
+        "en": "What does the player's hand do to the tabla's membrane?"
+      },
+      "options": {
+        "hi": [
+          "ठंडा करता है",
+          "तनाव घटाता है",
+          "कंपन पैदा करता है",
+          "रंग चढ़ाता है"
+        ],
+        "en": [
+          "Cools it",
+          "Reduces its tension",
+          "Sets it into vibration",
+          "Colours it"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "थपकड़ = ऊर्जा = कंपन = ध्वनि।",
+        "en": "The tap gives energy — vibration — sound."
+      }
+    },
+    {
+      "id": "phy7_q116",
+      "topic": "sound-production",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्या स्थिर वस्तु से ध्वनि निकल सकती है?",
+        "en": "Can a perfectly stationary object emit sound?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, हमेशा",
+          "केवल रात में",
+          "केवल धातु से",
+          "नहीं — कंपन आवश्यक है"
+        ],
+        "en": [
+          "Yes, always",
+          "Only at night",
+          "Only from metals",
+          "No — vibration is essential"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बिना कंपन ध्वनि असंभव।",
+        "en": "Without vibration sound is impossible."
+      }
+    },
+    {
+      "id": "phy7_q117",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गिटार की डोर कसकर खींच देने पर ध्वनि कैसी हो जाती है?",
+        "en": "What happens to the sound when a guitar string is stretched tighter?"
+      },
+      "options": {
+        "hi": [
+          "पिच (तारत्व) बढ़ जाती है",
+          "ध्वनि बंद हो जाती है",
+          "प्रबलता घट जाती है",
+          "ध्वनि ठंडी हो जाती है"
+        ],
+        "en": [
+          "Its pitch rises",
+          "The sound stops",
+          "The loudness falls",
+          "The sound turns cold"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तनाव बढ़ा → कंपन तेज़ → आवृत्ति अधिक → तेज़ सुर।",
+        "en": "More tension → faster vibration → higher frequency → shriller note."
+      }
+    },
+    {
+      "id": "phy7_q118",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ढोल की परत को जोर से मारने पर ध्वनि प्रबल होती है क्योंकि —",
+        "en": "Striking a drum harder makes a louder sound because —"
+      },
+      "options": {
+        "hi": [
+          "हवा रुक जाती है",
+          "कंपन का आयाम बढ़ जाता है",
+          "आवृत्ति घट जाती है",
+          "परत ठंडी हो जाती है"
+        ],
+        "en": [
+          "The air stops",
+          "The amplitude of vibration increases",
+          "The frequency falls",
+          "The membrane cools"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अधिक ऊर्जा = बड़ा आयाम = प्रबल ध्वनि।",
+        "en": "More energy = larger amplitude = louder sound."
+      }
+    },
+    {
+      "id": "phy7_q119",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपन करती डोर को उँगली से छू लें तो ध्वनि तुरंत बंद — क्यों?",
+        "en": "Touching a vibrating string stops the sound at once — why?"
+      },
+      "options": {
+        "hi": [
+          "आवृत्ति बढ़ जाती है",
+          "वायु भाग जाती है",
+          "उँगली कंपन को रोक देती है",
+          "डोर गर्म हो जाती है"
+        ],
+        "en": [
+          "The frequency rises",
+          "The air escapes",
+          "The finger damps the vibration",
+          "The string heats up"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्रोत-कंपन रुका — ध्वनि उत्पन्न होना बंद।",
+        "en": "The source vibration ceases — no more sound is produced."
+      }
+    },
+    {
+      "id": "phy7_q120",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्वर-पट्टिकाओं का तनाव बदलने से आवाज़ का क्या बदलता है?",
+        "en": "What does changing the tension of the vocal cords alter in the voice?"
+      },
+      "options": {
+        "hi": [
+          "केवल गति",
+          "केवल स्थान",
+          "कुछ नहीं",
+          "तारत्व (पिच) — तनाव आवृत्ति बदलता है"
+        ],
+        "en": [
+          "Only the speed",
+          "Only the place",
+          "Nothing",
+          "The pitch — tension changes the frequency"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "तनाव बढ़ा तो आवृत्ति और पिच बढ़ती है — आवाज़ का सुर यहीं से निकलता है।",
+        "en": "More tension raises the frequency and pitch — that is where the note comes from."
+      }
+    },
+    {
+      "id": "phy7_q121",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक डोर 100 बार प्रति सेकंड कंपन करती है — आवृत्ति —",
+        "en": "A string vibrates 100 times per second — its frequency is —"
+      },
+      "options": {
+        "hi": [
+          "100 Hz",
+          "100 m",
+          "100 s",
+          "0.01 Hz"
+        ],
+        "en": [
+          "100 Hz",
+          "100 m",
+          "100 s",
+          "0.01 Hz"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रति सेकंड कंपन = हर्ट्ज़ में आवृत्ति।",
+        "en": "Vibrations per second = frequency in hertz."
+      }
+    },
+    {
+      "id": "phy7_q122",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "500 Hz आवृत्ति का अर्थ —",
+        "en": "A frequency of 500 Hz means —"
+      },
+      "options": {
+        "hi": [
+          "500 डेसिबल",
+          "सेकंड में 500 कंपन",
+          "500 सेकंड में एक कंपन",
+          "500 मीटर तरंग"
+        ],
+        "en": [
+          "500 decibels",
+          "500 vibrations per second",
+          "One vibration in 500 seconds",
+          "A 500-metre wave"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हर्ट्ज़ = प्रति सेकंड चक्र।",
+        "en": "Hertz = cycles per second."
+      }
+    },
+    {
+      "id": "phy7_q123",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आवृत्ति बढ़ाने पर ध्वनि की पिच —",
+        "en": "As frequency increases, the pitch of a sound —"
+      },
+      "options": {
+        "hi": [
+          "समान रहती है",
+          "शून्य हो जाती है",
+          "बढ़ती है (अधिक तीखी)",
+          "घटती है"
+        ],
+        "en": [
+          "Stays the same",
+          "Becomes zero",
+          "Rises (sharper)",
+          "Falls"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पिच ∝ आवृत्ति।",
+        "en": "Pitch ∝ frequency."
+      }
+    },
+    {
+      "id": "phy7_q124",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपन का आयाम बढ़ाने पर —",
+        "en": "Increasing the amplitude of vibration increases —"
+      },
+      "options": {
+        "hi": [
+          "पिच",
+          "आवृत्ति",
+          "चाल",
+          "प्रबलता (भल्लाकारपन)"
+        ],
+        "en": [
+          "Pitch",
+          "Frequency",
+          "Speed",
+          "Loudness"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आयाम → ऊर्जा → प्रबलता।",
+        "en": "Amplitude → energy → loudness."
+      }
+    },
+    {
+      "id": "phy7_q125",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: डोर को ढीला करने से पिच घटती है। कथन B: डोर को जोर से छेड़ने से पिच घटती है। सही विकल्प —",
+        "en": "Statement A: loosening a string lowers its pitch. Statement B: plucking a string harder lowers its pitch. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A सही, B गलत (जोर से छेड़ने से प्रबलता बढ़ती है, पिच नहीं)",
+          "A गलत, B सही",
+          "दोनों सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "A right, B wrong (harder plucking raises loudness, not pitch)",
+          "A wrong, B right",
+          "Both right",
+          "Both wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तनाव → पिच; ऊर्जा → प्रबलता — दो अलग नियंत्रण।",
+        "en": "Tension → pitch; energy → loudness — two separate controls."
+      }
+    },
+    {
+      "id": "phy7_q126",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वाद्य का 'सुर' (तारत्व) बदलने के लिए वादक क्या बदलता है?",
+        "en": "To change the 'note' (pitch) of an instrument, what does the player alter?"
+      },
+      "options": {
+        "hi": [
+          "वाद्य का रंग",
+          "कंपन-आवृत्ति (तनाव/लंबाई बदलकर)",
+          "केवल थपथपाने की जगह",
+          "कमरे का ताप बहुत"
+        ],
+        "en": [
+          "The instrument's colour",
+          "The vibration frequency (by changing tension or length)",
+          "Only the striking spot",
+          "The room's temperature a lot"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आवृत्ति ही सुर का स्वामी।",
+        "en": "Frequency alone governs the note."
+      }
+    },
+    {
+      "id": "phy7_q127",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपन का एक पूर्ण चक्र (आगे-पीछे) क्या कहलाता है?",
+        "en": "One complete to-and-fro motion of a vibration is called —"
+      },
+      "options": {
+        "hi": [
+          "एक गूंज",
+          "एक प्रतिध्वनि",
+          "एक दोलन (oscillation)",
+          "एक तरंग"
+        ],
+        "en": [
+          "One reverberation",
+          "One echo",
+          "One oscillation",
+          "One wave"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक आगे + एक पीछे = एक दोलन।",
+        "en": "One forward plus one backward = one oscillation."
+      }
+    },
+    {
+      "id": "phy7_q128",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मधुमक्खी के पंख 400 बार प्रति सेकंड पीटते हैं — उड़ने की ध्वनि की आवृत्ति —",
+        "en": "A bee's wings beat 400 times per second — the frequency of its flight sound is —"
+      },
+      "options": {
+        "hi": [
+          "400 kHz",
+          "0.4 Hz",
+          "4000 Hz",
+          "400 Hz"
+        ],
+        "en": [
+          "400 kHz",
+          "0.4 Hz",
+          "4000 Hz",
+          "400 Hz"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रति सेकंड पंख-प्रहार = प्रति सेकंड कंपन।",
+        "en": "Wing-beats per second = vibrations per second."
+      }
+    },
+    {
+      "id": "phy7_q129",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किड़ी (क्रिकेट) की आवाज़ किसके कंपन से बनती है?",
+        "en": "A cricket's chirping is produced by the vibration of what?"
+      },
+      "options": {
+        "hi": [
+          "पंखों/टाँगों के रगड़ने से",
+          "मुँह से गाकर",
+          "साँस की हवा से",
+          "पेट की धड़कन से"
+        ],
+        "en": [
+          "Rubbing its wings or legs together",
+          "Singing with its mouth",
+          "Its breath",
+          "Its stomach's pulse"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "किड़ी टाँगें/पंख रगड़कर खन-खन करती है।",
+        "en": "The cricket rasps its legs or wings to chirp."
+      }
+    },
+    {
+      "id": "phy7_q130",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपन करती परत को दूर से देखने पर वह धुंधली क्यों दिखती है?",
+        "en": "Why does a vibrating membrane look blurred when seen from a distance?"
+      },
+      "options": {
+        "hi": [
+          "परत पारदर्शी होती है",
+          "कंपन बहुत तेज़ होने से आँख अलग-अलग स्थितियाँ साथ देखती है",
+          "परत गर्म होती है",
+          "परत रंगीन होती है"
+        ],
+        "en": [
+          "The membrane is transparent",
+          "The vibration is so fast that the eye sees many positions together",
+          "The membrane is hot",
+          "The membrane is coloured"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तेज़ कंपन की बहुत-सी स्थितियाँ एक साथ दृश्य — धुंधलापन।",
+        "en": "Many positions of a rapid vibration appear at once — a blur."
+      }
+    },
+    {
+      "id": "phy7_q131",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेडियो का स्पीकर कैसे ध्वनि देता है?",
+        "en": "How does a radio's loudspeaker produce sound?"
+      },
+      "options": {
+        "hi": [
+          "वह प्रकाश बनाता है",
+          "वह गर्मी फैलाता है",
+          "उसकी शंक्वी परत विद्युत संकेतों से कंपन करती है",
+          "वह हवा जमा करता है"
+        ],
+        "en": [
+          "It makes light",
+          "It spreads heat",
+          "Its cone vibrates driven by electrical signals",
+          "It stores air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संकेत → चुंबक → परत-कंपन → ध्वनि।",
+        "en": "Signal → magnet → cone vibration → sound."
+      }
+    },
+    {
+      "id": "phy7_q132",
+      "topic": "sound-production",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कंपन सीधे दिखें, इसके लिए स्कूल-प्रयोग में डोर पर कागज़ का छोटा टुकड़ा क्यों रखा जाता है?",
+        "en": "In a school demo, why is a small paper piece placed on a vibrating string?"
+      },
+      "options": {
+        "hi": [
+          "कागज़ डोर को रोकता है",
+          "कागज़ ध्वनि बढ़ाता है",
+          "कागज़ डोर साफ़ करता है",
+          "डोर के कंपन से कागज़ उछलने लगता है — कंपन का प्रत्यक्ष प्रमाण"
+        ],
+        "en": [
+          "The paper stops the string",
+          "The paper amplifies sound",
+          "The paper cleans the string",
+          "The vibration makes the paper jump — direct evidence of the vibration"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कागज़ का उछलना = डोर के कंपन का दृश्य प्रमाण।",
+        "en": "The jumping paper is visible proof of the string's vibration."
+      }
+    },
+    {
+      "id": "phy7_q133",
+      "topic": "sound-production",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक डोर 2 सेकंड में 600 दोलन करती है — आवृत्ति —",
+        "en": "A string makes 600 oscillations in 2 seconds — its frequency is —"
+      },
+      "options": {
+        "hi": [
+          "300 Hz",
+          "600 Hz",
+          "1200 Hz",
+          "150 Hz"
+        ],
+        "en": [
+          "300 Hz",
+          "600 Hz",
+          "1200 Hz",
+          "150 Hz"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "f = दोलन/समय = 600/2 = 300 Hz।",
+        "en": "f = oscillations/time = 600/2 = 300 Hz."
+      }
+    },
+    {
+      "id": "phy7_q134",
+      "topic": "sound-production",
+      "difficulty": "hard",
+      "question": {
+        "hi": "50 Hz आवृत्ति का स्रोत 4 सेकंड में कितने दोलन करेगा?",
+        "en": "A 50 Hz source completes how many oscillations in 4 s?"
+      },
+      "options": {
+        "hi": [
+          "400",
+          "200",
+          "50",
+          "12.5"
+        ],
+        "en": [
+          "400",
+          "200",
+          "50",
+          "12.5"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दोलन = f × t = 50 × 4 = 200।",
+        "en": "Oscillations = f × t = 50 × 4 = 200."
+      }
+    },
+    {
+      "id": "phy7_q135",
+      "topic": "sound-production",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: प्रबलता आयाम पर निर्भर करती है। कथन B: तीखापन आयाम पर निर्भर करता है। सही विकल्प —",
+        "en": "Statement A: loudness depends on amplitude. Statement B: shrillness depends on amplitude. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों सही",
+          "दोनों गलत",
+          "A सही, B गलत (तीखापन आवृत्ति पर)",
+          "A गलत, B सही"
+        ],
+        "en": [
+          "Both right",
+          "Both wrong",
+          "A right, B wrong (shrillness depends on frequency)",
+          "A wrong, B right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "आयाम-प्रबलता; आवृत्ति-पिच — परीक्षा का प्रिय जाल।",
+        "en": "Amplitude-loudness; frequency-pitch — an exam favourite trap."
+      }
+    },
+    {
+      "id": "phy7_q136",
+      "topic": "sound-production",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही बल से छेड़ी जाने वाली दो डोरियाँ — A 200 Hz, B 400 Hz — कौन अधिक तीखी (shrill) है?",
+        "en": "Two strings plucked with equal force — A at 200 Hz, B at 400 Hz — which sounds shriller?"
+      },
+      "options": {
+        "hi": [
+          "A",
+          "दोनों समान",
+          "बल तय करता है",
+          "B (दुगुनी आवृत्ति)"
+        ],
+        "en": [
+          "A",
+          "Both alike",
+          "The force decides",
+          "B (double the frequency)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "आवृत्ति अधिक = पिच अधिक = अधिक तीखी।",
+        "en": "Higher frequency = higher pitch = shriller."
+      }
+    },
+    {
+      "id": "phy7_q137",
+      "topic": "sound-production",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कंपन-कण की अधिकतम विचलन-सीमा कहलाती है —",
+        "en": "The maximum extent of displacement of a vibrating particle is called its —"
+      },
+      "options": {
+        "hi": [
+          "आयाम",
+          "तरंगदैर्घ्य",
+          "आवृत्ति",
+          "चाल"
+        ],
+        "en": [
+          "Amplitude",
+          "Wavelength",
+          "Frequency",
+          "Speed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "साम्य-स्थिति से अधिकतम दूरी ही आयाम है।",
+        "en": "The farthest distance from the mean position is the amplitude."
+      }
+    },
+    {
+      "id": "phy7_q138",
+      "topic": "sound-production",
+      "difficulty": "hard",
+      "question": {
+        "hi": "स्रोत की शक्ति दोगुनी करने पर ध्वनि की प्रबलता —",
+        "en": "If a source's power is doubled, the loudness of its sound —"
+      },
+      "options": {
+        "hi": [
+          "शून्य हो जाती है",
+          "बढ़ती है (आयाम बड़ा होता है)",
+          "घटती है",
+          "समान रहती है"
+        ],
+        "en": [
+          "Becomes zero",
+          "Increases (the amplitude grows)",
+          "Decreases",
+          "Stays the same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अधिक ऊर्जा → बड़ा आयाम → प्रबल ध्वनि।",
+        "en": "More energy → larger amplitude → louder sound."
+      }
+    },
+    {
+      "id": "phy7_q139",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि किस प्रकार की तरंग है?",
+        "en": "What kind of wave is sound?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश तरंग",
+          "कोई तरंग नहीं",
+          "यांत्रिक तरंग (माध्यम चाहिए)",
+          "विद्युत चुंबकीय तरंग"
+        ],
+        "en": [
+          "A light wave",
+          "Not a wave at all",
+          "A mechanical wave (it needs a medium)",
+          "An electromagnetic wave"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ध्वनि पदार्थ-कणों के कंपन से चलती है — यांत्रिक।",
+        "en": "Sound travels via vibrations of matter — mechanical."
+      }
+    },
+    {
+      "id": "phy7_q140",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि किस में नहीं चल सकती?",
+        "en": "Sound cannot travel through —"
+      },
+      "options": {
+        "hi": [
+          "वायु",
+          "जल",
+          "लोहा",
+          "निर्वात"
+        ],
+        "en": [
+          "Air",
+          "Water",
+          "Iron",
+          "Vacuum"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "निर्वात में कण नहीं — कंपन-श्रृंखला असंभव।",
+        "en": "Vacuum has no particles — no chain of vibration."
+      }
+    },
+    {
+      "id": "phy7_q141",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि संचरण के लिए क्या आवश्यक है?",
+        "en": "What is necessary for the propagation of sound?"
+      },
+      "options": {
+        "hi": [
+          "भौतिक माध्यम (पदार्थ)",
+          "केवल प्रकाश",
+          "निर्वात",
+          "चुंबकत्व"
+        ],
+        "en": [
+          "A material medium (matter)",
+          "Only light",
+          "Vacuum",
+          "Magnetism"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कणों के बिना ध्वनि अधूरी।",
+        "en": "Without particles sound cannot go on."
+      }
+    },
+    {
+      "id": "phy7_q142",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि तरंग में कण किस दिशा में कंपन करते हैं (संचरण दिशा के सापेक्ष)?",
+        "en": "In a sound wave, particles vibrate in which direction relative to the propagation?"
+      },
+      "options": {
+        "hi": [
+          "किसी भी दिशा में",
+          "संचरण की दिशा के समानांतर (आगे-पीछे)",
+          "संचरण के लंबवत",
+          "वृत्ताकार"
+        ],
+        "en": [
+          "In any direction",
+          "Parallel to the direction of propagation (back and forth)",
+          "Perpendicular to it",
+          "In circles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ध्वनि अनुदैर्घ्य तरंग है — कण उसी रेखा में दोलते हैं जिस दिशा में तरंग चलती है।",
+        "en": "Sound is a longitudinal wave — particles oscillate along the line of travel."
+      }
+    },
+    {
+      "id": "phy7_q143",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अनुदैर्घ्य तरंग में संपीडन और विरलन क्रमशः क्या हैं?",
+        "en": "In a longitudinal wave, compression and rarefaction are respectively —"
+      },
+      "options": {
+        "hi": [
+          "तेज़ और धीमी गति",
+          "गर्म और ठंडा क्षेत्र",
+          "कणों का घना भाग और विरल भाग",
+          "ऊँचा और नीचा बिंदु"
+        ],
+        "en": [
+          "Fast and slow motion",
+          "A hot and a cold zone",
+          "A crowded region of particles and a sparse region",
+          "A crest and a trough"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संपीडन = पास-पास कण; विरलन = दूर-दूर कण।",
+        "en": "Compression = particles close; rarefaction = particles apart."
+      }
+    },
+    {
+      "id": "phy7_q144",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायु में ध्वनि की चाल (कक्ष ताप पर) लगभग —",
+        "en": "The speed of sound in air (room temperature) is about —"
+      },
+      "options": {
+        "hi": [
+          "3 × 10⁸ m/s",
+          "5000 km/h",
+          "34 m/s",
+          "344 m/s"
+        ],
+        "en": [
+          "3 × 10⁸ m/s",
+          "5000 km/h",
+          "34 m/s",
+          "344 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वायु में ध्वनि ≈ 344 m/s (लगभग 340)।",
+        "en": "Sound in air ≈ 344 m/s (about 340)."
+      }
+    },
+    {
+      "id": "phy7_q145",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश की चाल ध्वनि की तुलना में —",
+        "en": "The speed of light compared with sound is —"
+      },
+      "options": {
+        "hi": [
+          "बहुत अधिक (लगभग 10 लाख गुना से भी ऊपर)",
+          "थोड़ी अधिक",
+          "समान",
+          "कम"
+        ],
+        "en": [
+          "Far greater (over a million times)",
+          "Slightly more",
+          "Equal",
+          "Less"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "इसीलिए बिजली पहले दिखती है, गड़गड़ाहट बाद में।",
+        "en": "That is why lightning is seen before thunder is heard."
+      }
+    },
+    {
+      "id": "phy7_q146",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बादल पर बिजली चमकी; गड़गड़ाहट बाद में सुनाई दी — कारण —",
+        "en": "Lightning flashed; the thunder was heard later — because —"
+      },
+      "options": {
+        "hi": [
+          "कान धीमे काम करते हैं",
+          "प्रकाश की चाल ध्वनि से बहुत अधिक है",
+          "ध्वनि उलटी चलती है",
+          "बादल ध्वनि रोकते हैं"
+        ],
+        "en": [
+          "Ears work slowly",
+          "Light travels far faster than sound",
+          "Sound travels backwards",
+          "Clouds block sound"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चाल का अंतर ही समय का अंतर बनाता है।",
+        "en": "The speed gap creates the time gap."
+      }
+    },
+    {
+      "id": "phy7_q147",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि तीव्रतम किस माध्यम में चलती है?",
+        "en": "In which medium does sound travel fastest?"
+      },
+      "options": {
+        "hi": [
+          "निर्वात",
+          "सभी में समान",
+          "ठोस (धातु)",
+          "वायु"
+        ],
+        "en": [
+          "Vacuum",
+          "The same in all",
+          "Solids (metals)",
+          "Air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ठोस में कण सबसे निकट — ध्वनि लोहे में ≈ 5000 m/s तक।",
+        "en": "Particles are closest in solids — in iron sound reaches ≈ 5000 m/s."
+      }
+    },
+    {
+      "id": "phy7_q148",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि की चाल वायु में सबसे कम, जल में अधिक, लोहे में सर्वाधिक — इस क्रम का कारण —",
+        "en": "Sound is slowest in air, faster in water and fastest in iron — the reason for this order is —"
+      },
+      "options": {
+        "hi": [
+          "रंग का क्रम",
+          "भार का क्रम",
+          "इनमें से कोई नहीं",
+          "कणों का घनत्व-संपर्क बढ़ता क्रम"
+        ],
+        "en": [
+          "The order of colours",
+          "The order of weights",
+          "None of these",
+          "The increasing closeness/packing of particles"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जितने कसे कण, उतनी तेज़ कंपन-पहुँच।",
+        "en": "The tighter the particles, the quicker the vibration is handed on."
+      }
+    },
+    {
+      "id": "phy7_q149",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घड़ी की टिक-टिक तकिए के दूसरी ओर से सुनाई देती है — संचरण किससे हुआ?",
+        "en": "A clock's tick is heard through a pillow — through what did the sound travel?"
+      },
+      "options": {
+        "hi": [
+          "तकिए के ठोस पदार्थ से",
+          "निर्वात से",
+          "प्रकाश से",
+          "कहीं नहीं"
+        ],
+        "en": [
+          "Through the pillow's solid material",
+          "Through vacuum",
+          "Through light",
+          "Through nothing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ठोस भी ध्वनि का माध्यम है।",
+        "en": "Solids too carry sound."
+      }
+    },
+    {
+      "id": "phy7_q150",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल के नीचे मछलियाँ ऊपर की आवाज़ क्यों सुन पाती हैं?",
+        "en": "Why can fish hear noises made above water?"
+      },
+      "options": {
+        "hi": [
+          "पानी निर्वात है",
+          "जल ध्वनि का माध्यम है",
+          "मछलियों के पंख बड़े होते हैं",
+          "आवाज़ प्रकाश बन जाती है"
+        ],
+        "en": [
+          "Water is a vacuum",
+          "Water is a medium for sound",
+          "Fish have large fins",
+          "The sound turns into light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "द्रव भी कंपन संचारित करते हैं।",
+        "en": "Liquids also transmit vibrations."
+      }
+    },
+    {
+      "id": "phy7_q151",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि को 'वाहक माध्यम' से गुजरना पड़ता है — यह कथन —",
+        "en": "Sound must pass through a carrying medium — this statement is —"
+      },
+      "options": {
+        "hi": [
+          "केवल संगीत के लिए सही",
+          "केवल पानी में सही",
+          "सही है",
+          "गलत है"
+        ],
+        "en": [
+          "True only for music",
+          "True only in water",
+          "Correct",
+          "Wrong"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हर ध्वनि — संगीत हो या शोर — माध्यम मांगती है।",
+        "en": "Every sound — music or noise — demands a medium."
+      }
+    },
+    {
+      "id": "phy7_q152",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घंटी को निर्वात कक्ष में बजाया जाए तो बाहर से —",
+        "en": "If a bell rings inside a vacuum chamber, from outside —"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि साफ़ सुनाई देगी",
+          "प्रकाश नहीं दिखेगा",
+          "घंटी गायब हो जाएगी",
+          "ध्वनि नहीं सुनाई देगी"
+        ],
+        "en": [
+          "The sound is heard clearly",
+          "The light vanishes",
+          "The bell disappears",
+          "No sound is heard"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "निर्वात-घंटी प्रयोग यही दिखाता है।",
+        "en": "The bell-in-vacuum experiment shows exactly this."
+      }
+    },
+    {
+      "id": "phy7_q153",
+      "topic": "sound-propagation",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अंतरिक्ष में अंतरिक्ष-यात्री एक-दूसरे की आवाज़ सीधे क्यों नहीं सुन पाते?",
+        "en": "Why can't astronauts hear each other directly in space?"
+      },
+      "options": {
+        "hi": [
+          "वहाँ निर्वात है — माध्यम नहीं",
+          "वे दूर होते हैं",
+          "सूट भारी होते हैं",
+          "आवाज़ उलटी होती है"
+        ],
+        "en": [
+          "Space is vacuum — no medium",
+          "They are far apart",
+          "The suits are heavy",
+          "Sound is inverted there"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रेडियो (विद्युत चुंबकीय तरंगें) ही वहाँ चलती हैं।",
+        "en": "Only radio (electromagnetic waves) works there."
+      }
+    },
+    {
+      "id": "phy7_q154",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हवा में गर्मी बढ़ने पर ध्वनि की चाल —",
+        "en": "As air gets warmer, the speed of sound in it —"
+      },
+      "options": {
+        "hi": [
+          "शून्य हो जाती है",
+          "बढ़ती है",
+          "घटती है",
+          "समान रहती है"
+        ],
+        "en": [
+          "Becomes zero",
+          "Increases",
+          "Decreases",
+          "Stays the same"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तेज़ कण = तेज़ टकराव-संचार; चाल ताप के साथ बढ़ती है।",
+        "en": "Faster particles hand on vibration quicker; speed rises with temperature."
+      }
+    },
+    {
+      "id": "phy7_q155",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ध्वनि की चाल वायु में 344 m/s है — 5 सेकंड में वह कितनी दूर जाएगी?",
+        "en": "Sound's speed in air is 344 m/s — how far does it travel in 5 s?"
+      },
+      "options": {
+        "hi": [
+          "68.8 m",
+          "172 m",
+          "1720 m",
+          "344 m"
+        ],
+        "en": [
+          "68.8 m",
+          "172 m",
+          "1720 m",
+          "344 m"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "d = 344 × 5 = 1720 m।",
+        "en": "d = 344 × 5 = 1720 m."
+      }
+    },
+    {
+      "id": "phy7_q156",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "344 m/s चाल से 1032 m दूरी तक पहुँचने में ध्वनि को समय —",
+        "en": "At 344 m/s, the time sound takes to cover 1032 m is —"
+      },
+      "options": {
+        "hi": [
+          "2 s",
+          "30 s",
+          "0.3 s",
+          "3 s"
+        ],
+        "en": [
+          "2 s",
+          "30 s",
+          "0.3 s",
+          "3 s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "t = 1032/344 = 3 s।",
+        "en": "t = 1032/344 = 3 s."
+      }
+    },
+    {
+      "id": "phy7_q157",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बिजली चमकी और 3 सेकंड बाद गड़गड़ाहट सुनाई दी (चाल 344 m/s) — बादल की दूरी —",
+        "en": "Lightning flashed and thunder arrived 3 s later (speed 344 m/s) — the cloud's distance is —"
+      },
+      "options": {
+        "hi": [
+          "1032 m",
+          "344 m",
+          "2064 m",
+          "172 m"
+        ],
+        "en": [
+          "1032 m",
+          "344 m",
+          "2064 m",
+          "172 m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "d = 344 × 3 = 1032 m (प्रकाश का समय उपेक्षणीय)।",
+        "en": "d = 344 × 3 = 1032 m (light's time is negligible)."
+      }
+    },
+    {
+      "id": "phy7_q158",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ध्वनि के लिए चाल का क्रम होता है —",
+        "en": "For sound, the order of speeds is —"
+      },
+      "options": {
+        "hi": [
+          "सभी समान",
+          "लोहा > जल > वायु",
+          "वायु > जल > लोहा",
+          "जल > लोहा > वायु"
+        ],
+        "en": [
+          "All equal",
+          "Iron > water > air",
+          "Air > water > iron",
+          "Water > iron > air"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लोहे में ≈5000, जल में ≈1500, वायु में ≈344 m/s।",
+        "en": "About 5000 in iron, 1500 in water, 344 m/s in air."
+      }
+    },
+    {
+      "id": "phy7_q159",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अनुदैर्घ्य तरंग का दूसरा उदाहरण (ध्वनि के अतिरिक्त) कौन-सा है?",
+        "en": "Which is another example of a longitudinal wave (besides sound)?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश तरंग",
+          "रेडियो तरंग",
+          "किसी स्प्रिंग में धकेल-खिंचाव से बनी तरंग",
+          "पानी की सतह की लहरें"
+        ],
+        "en": [
+          "Light waves",
+          "Radio waves",
+          "A push-pull wave along a spring",
+          "Surface water ripples"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्प्रिंग के दाब-तरंगें भी अनुदैर्घ्य होती हैं।",
+        "en": "Compression waves in a spring are longitudinal too."
+      }
+    },
+    {
+      "id": "phy7_q160",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: ध्वनि अनुदैर्घ्य तरंग है। कथन B: ध्वनि को माध्यम चाहिए। सही विकल्प —",
+        "en": "Statement A: sound is a longitudinal wave. Statement B: sound needs a medium. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ध्वनि = यांत्रिक + अनुदैर्घ्य।",
+        "en": "Sound = mechanical + longitudinal."
+      }
+    },
+    {
+      "id": "phy7_q161",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संपीडन और विरलन एकांतर (बारी-बारी) क्यों होते हैं?",
+        "en": "Why do compressions and rarefactions alternate?"
+      },
+      "options": {
+        "hi": [
+          "कण आगे-पीछे दोलते हैं — जहाँ जुड़ते हैं संपीडन, जहाँ छूटते हैं विरलन",
+          "कण ऊपर-नीचे जाते हैं",
+          "कण गोल घूमते हैं",
+          "कण स्थिर रहते हैं"
+        ],
+        "en": [
+          "Particles oscillate to and fro — crowding makes compression, spreading makes rarefaction",
+          "Particles move up and down",
+          "Particles go in circles",
+          "Particles stay fixed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक दोलन में कण-समूह का जमावड़ा-बिखराव ही संपीडन-विरलन है।",
+        "en": "In each oscillation the clustering and spreading of particles forms them."
+      }
+    },
+    {
+      "id": "phy7_q162",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु में ध्वनि के साथ जो 'दाब-परिवर्तन' चलता है वह है —",
+        "en": "The pressure variation that travels with sound in air is —"
+      },
+      "options": {
+        "hi": [
+          "केवल निम्न दाब",
+          "संपीडन में उच्च दाब, विरलन में निम्न दाब",
+          "सर्वत्र समान दाब",
+          "केवल उच्च दाब"
+        ],
+        "en": [
+          "Only low pressure",
+          "High pressure in compressions, low in rarefactions",
+          "Uniform pressure everywhere",
+          "Only high pressure"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कण-घनत्व का उतार-चढ़ाव ही दाब का उतार-चढ़ाव।",
+        "en": "The rise and fall of particle density is the rise and fall of pressure."
+      }
+    },
+    {
+      "id": "phy7_q163",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 सेकंड में 688 m जाने वाली ध्वनि की चाल —",
+        "en": "A sound covering 688 m in 2 s has a speed of —"
+      },
+      "options": {
+        "hi": [
+          "688 m/s",
+          "3440 m/s",
+          "344 m/s",
+          "172 m/s"
+        ],
+        "en": [
+          "688 m/s",
+          "3440 m/s",
+          "344 m/s",
+          "172 m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "v = 688/2 = 344 m/s।",
+        "en": "v = 688/2 = 344 m/s."
+      }
+    },
+    {
+      "id": "phy7_q164",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेल की पटरी से सुनी गई ट्रेन की आवाज़ हवा से पहले क्यों पहुँचती है?",
+        "en": "Why does a train's sound heard through the rail arrive before the one through air?"
+      },
+      "options": {
+        "hi": [
+          "लोहा निर्वात है",
+          "हवा उलटी चलती है",
+          "ट्रेन हल्की है",
+          "लोहे में ध्वनि की चाल वायु से बहुत अधिक"
+        ],
+        "en": [
+          "Iron is a vacuum",
+          "Air flows backwards",
+          "The train is light",
+          "Sound's speed in iron far exceeds that in air"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लोहे की चाल ≈ वायु की 15 गुना — पटरी पहले 'बताती' है।",
+        "en": "Iron's speed is ~15× air's — the rail 'reports' first."
+      }
+    },
+    {
+      "id": "phy7_q165",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ध्वनि तरंग में ऊर्जा का स्थानांतरण होता है या पदार्थ का?",
+        "en": "In a sound wave, what gets transferred — energy or matter?"
+      },
+      "options": {
+        "hi": [
+          "केवल ऊर्जा (कण अपनी जगह के आसपास दोलते हैं)",
+          "केवल पदार्थ",
+          "दोनों",
+          "कोई नहीं"
+        ],
+        "en": [
+          "Only energy (particles oscillate near their own places)",
+          "Only matter",
+          "Both",
+          "Neither"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कण कूच नहीं करते — धक्का आगे बढ़ता है।",
+        "en": "Particles do not march — the push travels on."
+      }
+    },
+    {
+      "id": "phy7_q166",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गीले दिन दूर की आवाज़ साफ़ सुनाई देने का एक कारण —",
+        "en": "One reason distant sounds carry clearly on humid days is —"
+      },
+      "options": {
+        "hi": [
+          "कान तेज़ हो जाते हैं",
+          "आर्द्र वायु में ध्वनि की चाल थोड़ी बढ़ जाती है",
+          "आर्द्र वायु निर्वात बन जाती है",
+          "हवा रुक जाती है"
+        ],
+        "en": [
+          "Ears sharpen",
+          "Sound travels slightly faster in humid air",
+          "Humid air becomes vacuum",
+          "The wind stops"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जलवाष्प हल्की वायु बनाती है — चाल में वृद्धि।",
+        "en": "Vapour makes the air lighter — a small speed gain."
+      }
+    },
+    {
+      "id": "phy7_q167",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चाँद पर दो यात्री आमने-सामने बोलें तो —",
+        "en": "If two astronauts on the moon speak face to face, then —"
+      },
+      "options": {
+        "hi": [
+          "आवाज़ दोगुनी होगी",
+          "आवाज़ प्रकाश बनेगी",
+          "आवाज़ सीधे नहीं सुनाई देगी (निर्वात)",
+          "आवाज़ साफ़ सुनाई देगी"
+        ],
+        "en": [
+          "The voice doubles",
+          "The voice turns to light",
+          "No sound is heard directly (vacuum)",
+          "The voice carries clearly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चाँद का वायुमंडल न के बराबर — रेडियो ही साथी।",
+        "en": "The moon has virtually no atmosphere — radio is the companion."
+      }
+    },
+    {
+      "id": "phy7_q168",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मोहल्ले की दीवार से टकराती आवाज़ दूसरे कमरे में सुनाई देती है — इसका भौतिक आधार —",
+        "en": "Sound striking a neighbourhood wall reaches the next room — the physical basis is —"
+      },
+      "options": {
+        "hi": [
+          "दीवार निर्वात है",
+          "आवाज़ दीवार से डरती है",
+          "कमरे की हवा जादुई है",
+          "दीवार (ठोस) भी कंपन संचारित करती है"
+        ],
+        "en": [
+          "The wall is vacuum",
+          "The sound fears the wall",
+          "The room's air is magical",
+          "The solid wall also transmits the vibration"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ठोस-संचरण दीवारों के पार सुनाने का कारण।",
+        "en": "Solid transmission is why walls let sound through."
+      }
+    },
+    {
+      "id": "phy7_q169",
+      "topic": "sound-propagation",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लोहे में ध्वनि की चाल लगभग 5120 m/s है — 2.56 km लंबी पटरी में सिरे से दूसरे सिरे तक पहुँचने में समय —",
+        "en": "Sound's speed in iron is about 5120 m/s — the time to cross a 2.56 km rail is —"
+      },
+      "options": {
+        "hi": [
+          "0.5 s",
+          "5 s",
+          "2 s",
+          "0.05 s"
+        ],
+        "en": [
+          "0.5 s",
+          "5 s",
+          "2 s",
+          "0.05 s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "t = 2560/5120 = 0.5 s — लोहे की तीव्रता का अहसास।",
+        "en": "t = 2560/5120 = 0.5 s — a feel of iron's swiftness."
+      }
+    },
+    {
+      "id": "phy7_q170",
+      "topic": "sound-propagation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: सभी तरंगों को माध्यम चाहिए। कथन B: ध्वनि को माध्यम चाहिए, प्रकाश को नहीं। सही विकल्प —",
+        "en": "Statement A: all waves need a medium. Statement B: sound needs a medium, light does not. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "A गलत, B सही",
+          "A सही, B गलत",
+          "दोनों सही"
+        ],
+        "en": [
+          "Both wrong",
+          "A wrong, B right",
+          "A right, B wrong",
+          "Both right"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "यांत्रिक तरंगें माध्यम मांगती हैं; विद्युत-चुंबकीय नहीं — प्रसिद्ध जाल।",
+        "en": "Mechanical waves need a medium; electromagnetic ones do not — the famous trap."
+      }
+    },
+    {
+      "id": "phy7_q171",
+      "topic": "sound-propagation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "1.72 km दूर पहाड़ से प्रतिध्वनि 10 सेकंड में लौटी — ध्वनि की चाल —",
+        "en": "An echo from a cliff 1.72 km away returns in 10 s — the speed of sound is —"
+      },
+      "options": {
+        "hi": [
+          "3440 m/s",
+          "34.4 m/s",
+          "344 m/s",
+          "172 m/s"
+        ],
+        "en": [
+          "3440 m/s",
+          "34.4 m/s",
+          "344 m/s",
+          "172 m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कुल पथ 2 × 1720 = 3440 m; v = 3440/10 = 344 m/s।",
+        "en": "Total path 2 × 1720 = 3440 m; v = 3440/10 = 344 m/s."
+      }
+    },
+    {
+      "id": "phy7_q172",
+      "topic": "sound-propagation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "5 सेकंड में 1720 m तय करती ध्वनि तरंग — चाल —",
+        "en": "A sound wave covering 1720 m in 5 s has a speed of —"
+      },
+      "options": {
+        "hi": [
+          "86 m/s",
+          "1720 m/s",
+          "3440 m/s",
+          "344 m/s"
+        ],
+        "en": [
+          "86 m/s",
+          "1720 m/s",
+          "3440 m/s",
+          "344 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "v = 1720/5 = 344 m/s।",
+        "en": "v = 1720/5 = 344 m/s."
+      }
+    },
+    {
+      "id": "phy7_q173",
+      "topic": "sound-propagation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ध्वनि तरंग के 'प्रेषण' में वायु-कण स्वयं स्रोत से श्रोता तक यात्रा करते हैं — सही/गलत?",
+        "en": "In sound transmission the air particles themselves travel from source to listener — true or false?"
+      },
+      "options": {
+        "hi": [
+          "गलत — कण केवल अपने स्थान पर दोलते हैं",
+          "सही",
+          "आधे यात्रा करते हैं",
+          "केवल गीली हवा में सही"
+        ],
+        "en": [
+          "False — particles only oscillate in place",
+          "True",
+          "They travel halfway",
+          "True only in moist air"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊर्जा जाती है, कण नहीं — लहर का मूल मंत्र।",
+        "en": "Energy goes, particles do not — the wave's core mantra."
+      }
+    },
+    {
+      "id": "phy7_q174",
+      "topic": "sound-propagation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही आवृत्ति की ध्वनि वायु से जल में जाए तो नहीं बदलता —",
+        "en": "A sound of fixed frequency passes from air into water — what does NOT change?"
+      },
+      "options": {
+        "hi": [
+          "चाल और तरंगदैर्घ्य दोनों",
+          "आवृत्ति",
+          "चाल",
+          "तरंगदैर्घ्य"
+        ],
+        "en": [
+          "Both speed and wavelength",
+          "The frequency",
+          "The speed",
+          "The wavelength"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्रोत जितनी बार धकेले, वही आवृत्ति; चाल/λ माध्यम से बदलते हैं।",
+        "en": "The source's push rate fixes f; v and λ change with the medium."
+      }
+    },
+    {
+      "id": "phy7_q175",
+      "topic": "sound-propagation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ताप बढ़ने पर वायु में ध्वनि चाल बढ़ने का कारण-श्रृंखला —",
+        "en": "The causal chain for faster sound in warmer air is —"
+      },
+      "options": {
+        "hi": [
+          "कण बड़े हो जाते हैं",
+          "निर्वात बन जाता है",
+          "कण तेज़ → आपसी टकराव तेज़ → कंपन शीघ्र हस्तांतरित",
+          "वायु भारी होती है"
+        ],
+        "en": [
+          "Particles grow bigger",
+          "It becomes vacuum",
+          "Particles move faster → quicker collisions → vibration handed on sooner",
+          "The air gets heavier"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ताप → गति → संचरण-दर।",
+        "en": "Temperature → particle motion → transfer rate."
+      }
+    },
+    {
+      "id": "phy7_q176",
+      "topic": "sound-propagation",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वायु में ध्वनि की चाल लगभग 344 m/s है — इसका अर्थ है कि 1 किलोमीटर दूर की आवाज़ लगभग कितनी देर बाद पहुँचेगी?",
+        "en": "Sound's speed in air is about 344 m/s — roughly how late does a voice from 1 km arrive?"
+      },
+      "options": {
+        "hi": [
+          "तुरंत",
+          "लगभग 30 सेकंड",
+          "1 मिनट",
+          "लगभग 3 सेकंड"
+        ],
+        "en": [
+          "Instantly",
+          "About 30 seconds",
+          "1 minute",
+          "About 3 seconds"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "t = 1000/344 ≈ 2.9 s ≈ 3 s।",
+        "en": "t = 1000/344 ≈ 2.9 s ≈ 3 s."
+      }
+    },
+    {
+      "id": "phy7_q177",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तरंगदैर्घ्य किसे कहते हैं?",
+        "en": "What is wavelength?"
+      },
+      "options": {
+        "hi": [
+          "दो क्रमागत संपीडनों (या विरलनों) के बीच की दूरी",
+          "तरंग की ऊँचाई",
+          "प्रति सेकंड दोलन",
+          "तरंग का रंग"
+        ],
+        "en": [
+          "The distance between two consecutive compressions (or rarefactions)",
+          "The height of a wave",
+          "Oscillations per second",
+          "The colour of a wave"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक चक्र की लंबाई ही तरंगदैर्घ्य λ है।",
+        "en": "The length of one full cycle is the wavelength λ."
+      }
+    },
+    {
+      "id": "phy7_q178",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आवृत्ति का मात्रक क्या है?",
+        "en": "What is the unit of frequency?"
+      },
+      "options": {
+        "hi": [
+          "मीटर/सेकंड",
+          "हर्ट्ज़ (Hz)",
+          "मीटर (m)",
+          "सेकंड (s)"
+        ],
+        "en": [
+          "Metre/second",
+          "Hertz (Hz)",
+          "Metre (m)",
+          "Second (s)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1 Hz = 1 दोलन प्रति सेकंड।",
+        "en": "1 Hz = one oscillation per second."
+      }
+    },
+    {
+      "id": "phy7_q179",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आवर्तकाल (T) किसे कहते हैं?",
+        "en": "What is the time period (T)?"
+      },
+      "options": {
+        "hi": [
+          "तरंग की दूरी",
+          "तरंग की चाल",
+          "एक पूर्ण दोलन में लगा समय",
+          "एक सेकंड में दोलन"
+        ],
+        "en": [
+          "The wave's distance",
+          "The wave's speed",
+          "The time taken for one complete oscillation",
+          "Oscillations in one second"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "T = एक चक्र का समय।",
+        "en": "T = the time of one cycle."
+      }
+    },
+    {
+      "id": "phy7_q180",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ध्वनि तरंग का वेग, तरंगदैर्घ्य और आवृत्ति में संबंध —",
+        "en": "The relation among a sound wave's speed, wavelength and frequency is —"
+      },
+      "options": {
+        "hi": [
+          "v = λ / ν",
+          "v = ν / λ",
+          "v = λ + ν",
+          "v = λ × ν"
+        ],
+        "en": [
+          "v = λ / ν",
+          "v = ν / λ",
+          "v = λ + ν",
+          "v = λ × ν"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चाल = तरंगदैर्घ्य × आवृत्ति।",
+        "en": "Speed = wavelength × frequency."
+      }
+    },
+    {
+      "id": "phy7_q181",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पिच (तारत्व) किस पर निर्भर करती है?",
+        "en": "Pitch depends on which quantity?"
+      },
+      "options": {
+        "hi": [
+          "आवृत्ति",
+          "आयाम",
+          "चाल प्रकाश की",
+          "माध्यम का रंग"
+        ],
+        "en": [
+          "Frequency",
+          "Amplitude",
+          "The speed of light",
+          "The medium's colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आवृत्ति अधिक = सुर तेज़।",
+        "en": "Higher frequency = higher note."
+      }
+    },
+    {
+      "id": "phy7_q182",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रबलता (loudness) किस पर निर्भर करती है?",
+        "en": "Loudness depends on which quantity?"
+      },
+      "options": {
+        "hi": [
+          "तापमान",
+          "आयाम",
+          "आवृत्ति",
+          "तरंगदैर्घ्य"
+        ],
+        "en": [
+          "Temperature",
+          "Amplitude",
+          "Frequency",
+          "Wavelength"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आयाम बड़ा = ध्वनि प्रबल।",
+        "en": "Bigger amplitude = louder sound."
+      }
+    },
+    {
+      "id": "phy7_q183",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मनुष्य की श्रव्यता सीमा (श्रव्य परास) क्या है?",
+        "en": "What is the audible range of humans?"
+      },
+      "options": {
+        "hi": [
+          "2000 Hz से 2 लाख Hz",
+          "20,000 Hz से ऊपर",
+          "लगभग 20 Hz से 20,000 Hz",
+          "2 Hz से 200 Hz"
+        ],
+        "en": [
+          "2000 Hz to 200,000 Hz",
+          "Above 20,000 Hz",
+          "About 20 Hz to 20,000 Hz",
+          "2 Hz to 200 Hz"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सामान्य मनुष्य 20–20,000 Hz सुनता है।",
+        "en": "A normal human hears 20–20,000 Hz."
+      }
+    },
+    {
+      "id": "phy7_q184",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "20,000 Hz से अधिक आवृत्ति की ध्वनि क्या कहलाती है?",
+        "en": "Sound of frequency above 20,000 Hz is called —"
+      },
+      "options": {
+        "hi": [
+          "अवश्रव्य",
+          "श्रव्य",
+          "प्रकाश",
+          "पराश्रव्य (ultrasound)"
+        ],
+        "en": [
+          "Infrasound",
+          "Audible sound",
+          "Light",
+          "Ultrasound"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊपर 20 kHz = पराश्रव्य।",
+        "en": "Above 20 kHz = ultrasound."
+      }
+    },
+    {
+      "id": "phy7_q185",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "20 Hz से कम आवृत्ति की ध्वनि क्या कहलाती है?",
+        "en": "Sound of frequency below 20 Hz is called —"
+      },
+      "options": {
+        "hi": [
+          "अवश्रव्य (infrasound)",
+          "पराश्रव्य",
+          "श्रव्य",
+          "शोर नहीं"
+        ],
+        "en": [
+          "Infrasound",
+          "Ultrasound",
+          "Audible",
+          "Not sound at all"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नीचे 20 Hz = अवश्रव्य (भूकंप तरंगें आदि)।",
+        "en": "Below 20 Hz = infrasound (earthquake waves etc.)."
+      }
+    },
+    {
+      "id": "phy7_q186",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कुत्ते और चमगादड़ इंसान से अधिक क्या सुन सकते हैं?",
+        "en": "What can dogs and bats hear beyond human capability?"
+      },
+      "options": {
+        "hi": [
+          "रेडियो",
+          "पराश्रव्य (बहुत उच्च आवृत्ति)",
+          "अवश्रव्य केवल",
+          "प्रकाश"
+        ],
+        "en": [
+          "Radio",
+          "Ultrasound (very high frequencies)",
+          "Only infrasound",
+          "Light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अनेक जानवर 20 kHz से ऊपर की ध्वनि सुनते हैं।",
+        "en": "Many animals hear above 20 kHz."
+      }
+    },
+    {
+      "id": "phy7_q187",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तीखी (shrill) आवाज़ की आवृत्ति —",
+        "en": "A shrill (sharp) voice has a —"
+      },
+      "options": {
+        "hi": [
+          "शून्य आवृत्ति",
+          "मध्यम आयाम",
+          "उच्च आवृत्ति",
+          "निम्न आवृत्ति"
+        ],
+        "en": [
+          "Zero frequency",
+          "Medium amplitude",
+          "High frequency",
+          "Low frequency"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तीखापन = उच्च आवृत्ति का ही दूसरा नाम।",
+        "en": "Shrillness is another name for high frequency."
+      }
+    },
+    {
+      "id": "phy7_q188",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भारी (गहरी) आवाज़ की आवृत्ति —",
+        "en": "A deep (grave) voice has a —"
+      },
+      "options": {
+        "hi": [
+          "उच्च आवृत्ति",
+          "अनंत आवृत्ति",
+          "कोई आवृत्ति नहीं",
+          "निम्न आवृत्ति"
+        ],
+        "en": [
+          "High frequency",
+          "Infinite frequency",
+          "No frequency",
+          "Low frequency"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गहरी ध्वनि = कम आवृत्ति।",
+        "en": "A deep sound = low frequency."
+      }
+    },
+    {
+      "id": "phy7_q189",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संपीडन-विरलन क्रम चलता है —",
+        "en": "The compression-rarefaction sequence travels —"
+      },
+      "options": {
+        "hi": [
+          "स्रोत से श्रोता की ओर",
+          "श्रोता से स्रोत की ओर",
+          "दोनों ओर समान रूप से नहीं — केवल एक दिशा में सामान्यतः",
+          "कहीं भी"
+        ],
+        "en": [
+          "From the source towards the listener",
+          "From the listener to the source",
+          "Only one way normally",
+          "Anywhere"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊर्जा स्रोत से बाहर की ओर फैलती है।",
+        "en": "The energy spreads outward from the source."
+      }
+    },
+    {
+      "id": "phy7_q190",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "महिलाओं की आवाज़ पुरुषों से प्रायः अधिक तीखी होती है — कारण —",
+        "en": "Women's voices are usually shriller than men's — because —"
+      },
+      "options": {
+        "hi": [
+          "उनकी जीभ छोटी होती है",
+          "उनकी स्वर-पट्टिकाएँ तेज़ आवृत्ति से कंपन करती हैं",
+          "उनका कान तेज़ होता है",
+          "उनकी साँस लंबी होती है"
+        ],
+        "en": [
+          "Their tongue is shorter",
+          "Their vocal cords vibrate at a higher frequency",
+          "Their ears are sharper",
+          "Their breath is longer"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पट्टिकाओं की बनावट व तनाव आवृत्ति ऊँची रखते हैं।",
+        "en": "The cords' build and tension keep the frequency higher."
+      }
+    },
+    {
+      "id": "phy7_q191",
+      "topic": "wave-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तरंगदैर्घ्य का मात्रक —",
+        "en": "The unit of wavelength is —"
+      },
+      "options": {
+        "hi": [
+          "सेकंड",
+          "वाट",
+          "मीटर (m)",
+          "हर्ट्ज़"
+        ],
+        "en": [
+          "Second",
+          "Watt",
+          "Metre (m)",
+          "Hertz"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "λ दूरी है — मीटर में।",
+        "en": "λ is a distance — in metres."
+      }
+    },
+    {
+      "id": "phy7_q192",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "50 Hz ध्वनि का आवर्तकाल —",
+        "en": "The time period of a 50 Hz sound is —"
+      },
+      "options": {
+        "hi": [
+          "50 s",
+          "2 s",
+          "0.5 s",
+          "0.02 s"
+        ],
+        "en": [
+          "50 s",
+          "2 s",
+          "0.5 s",
+          "0.02 s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "T = 1/ν = 1/50 = 0.02 s।",
+        "en": "T = 1/ν = 1/50 = 0.02 s."
+      }
+    },
+    {
+      "id": "phy7_q193",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "100 Hz की आवृत्ति का आवर्तकाल —",
+        "en": "The time period of a 100 Hz frequency is —"
+      },
+      "options": {
+        "hi": [
+          "0.01 s",
+          "0.1 s",
+          "1 s",
+          "100 s"
+        ],
+        "en": [
+          "0.01 s",
+          "0.1 s",
+          "1 s",
+          "100 s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "T = 1/100 = 0.01 s।",
+        "en": "T = 1/100 = 0.01 s."
+      }
+    },
+    {
+      "id": "phy7_q194",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "500 Hz ध्वनि का आवर्तकाल —",
+        "en": "The time period of a 500 Hz sound is —"
+      },
+      "options": {
+        "hi": [
+          "5 s",
+          "0.002 s",
+          "0.02 s",
+          "0.2 s"
+        ],
+        "en": [
+          "5 s",
+          "0.002 s",
+          "0.02 s",
+          "0.2 s"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "T = 1/500 = 0.002 s।",
+        "en": "T = 1/500 = 0.002 s."
+      }
+    },
+    {
+      "id": "phy7_q195",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आवर्तकाल 0.005 s है — आवृत्ति —",
+        "en": "The time period is 0.005 s — the frequency is —"
+      },
+      "options": {
+        "hi": [
+          "500 Hz",
+          "20 Hz",
+          "200 Hz",
+          "50 Hz"
+        ],
+        "en": [
+          "500 Hz",
+          "20 Hz",
+          "200 Hz",
+          "50 Hz"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ν = 1/T = 1/0.005 = 200 Hz।",
+        "en": "ν = 1/T = 1/0.005 = 200 Hz."
+      }
+    },
+    {
+      "id": "phy7_q196",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु में चाल 340 m/s, आवृत्ति 100 Hz — तरंगदैर्घ्य —",
+        "en": "Speed in air 340 m/s, frequency 100 Hz — the wavelength is —"
+      },
+      "options": {
+        "hi": [
+          "34 m",
+          "0.34 m",
+          "34000 m",
+          "3.4 m"
+        ],
+        "en": [
+          "34 m",
+          "0.34 m",
+          "34,000 m",
+          "3.4 m"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "λ = v/ν = 340/100 = 3.4 m।",
+        "en": "λ = v/ν = 340/100 = 3.4 m."
+      }
+    },
+    {
+      "id": "phy7_q197",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "v = 344 m/s, ν = 172 Hz — λ —",
+        "en": "v = 344 m/s, ν = 172 Hz — λ is —"
+      },
+      "options": {
+        "hi": [
+          "2 m",
+          "4 m",
+          "1 m",
+          "0.5 m"
+        ],
+        "en": [
+          "2 m",
+          "4 m",
+          "1 m",
+          "0.5 m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "λ = 344/172 = 2 m।",
+        "en": "λ = 344/172 = 2 m."
+      }
+    },
+    {
+      "id": "phy7_q198",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तरंगदैर्घ्य 0.68 m और चाल 340 m/s — ध्वनि की आवृत्ति —",
+        "en": "Wavelength 0.68 m and speed 340 m/s — the frequency of the sound is —"
+      },
+      "options": {
+        "hi": [
+          "231 Hz",
+          "500 Hz",
+          "50 Hz",
+          "5 kHz"
+        ],
+        "en": [
+          "231 Hz",
+          "500 Hz",
+          "50 Hz",
+          "5 kHz"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ν = v/λ = 340/0.68 = 500 Hz।",
+        "en": "ν = v/λ = 340/0.68 = 500 Hz."
+      }
+    },
+    {
+      "id": "phy7_q199",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तरंगदैर्घ्य 2 m, आवृत्ति 170 Hz — ध्वनि की चाल —",
+        "en": "Wavelength 2 m and frequency 170 Hz — the speed of sound is —"
+      },
+      "options": {
+        "hi": [
+          "172 m/s",
+          "342 m/s",
+          "340 m/s",
+          "85 m/s"
+        ],
+        "en": [
+          "172 m/s",
+          "342 m/s",
+          "340 m/s",
+          "85 m/s"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "v = λν = 2 × 170 = 340 m/s।",
+        "en": "v = λν = 2 × 170 = 340 m/s."
+      }
+    },
+    {
+      "id": "phy7_q200",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "λ = 0.5 m, ν = 680 Hz — v —",
+        "en": "λ = 0.5 m, ν = 680 Hz — v is —"
+      },
+      "options": {
+        "hi": [
+          "1360 m/s",
+          "170 m/s",
+          "344 m/s",
+          "340 m/s"
+        ],
+        "en": [
+          "1360 m/s",
+          "170 m/s",
+          "344 m/s",
+          "340 m/s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "v = 0.5 × 680 = 340 m/s।",
+        "en": "v = 0.5 × 680 = 340 m/s."
+      }
+    },
+    {
+      "id": "phy7_q201",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु में चाल 340 m/s और आवर्तकाल 0.01 s — तरंगदैर्घ्य —",
+        "en": "Speed 340 m/s in air and time period 0.01 s — the wavelength is —"
+      },
+      "options": {
+        "hi": [
+          "3.4 m",
+          "34 m",
+          "0.34 m",
+          "3.4 cm"
+        ],
+        "en": [
+          "3.4 m",
+          "34 m",
+          "0.34 m",
+          "3.4 cm"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "λ = v × T = 340 × 0.01 = 3.4 m।",
+        "en": "λ = v × T = 340 × 0.01 = 3.4 m."
+      }
+    },
+    {
+      "id": "phy7_q202",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कौन-सी ध्वनि पराश्रव्य है?",
+        "en": "Which of these sounds is ultrasonic?"
+      },
+      "options": {
+        "hi": [
+          "20 Hz",
+          "30,000 Hz",
+          "15,000 Hz",
+          "500 Hz"
+        ],
+        "en": [
+          "20 Hz",
+          "30,000 Hz",
+          "15,000 Hz",
+          "500 Hz"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "30,000 Hz > 20,000 Hz — पराश्रव्य परास।",
+        "en": "30,000 Hz lies beyond 20,000 Hz — the ultrasonic range."
+      }
+    },
+    {
+      "id": "phy7_q203",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कौन-सी ध्वनि अवश्रव्य है?",
+        "en": "Which of these sounds is infrasonic?"
+      },
+      "options": {
+        "hi": [
+          "10,000 Hz",
+          "25,000 Hz",
+          "10 Hz",
+          "100 Hz"
+        ],
+        "en": [
+          "10,000 Hz",
+          "25,000 Hz",
+          "10 Hz",
+          "100 Hz"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "10 Hz, 20 Hz से नीचे है — अवश्रव्य।",
+        "en": "10 Hz is below 20 Hz — infrasonic."
+      }
+    },
+    {
+      "id": "phy7_q204",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "15,000 Hz की ध्वनि मनुष्य को —",
+        "en": "A 15,000 Hz sound is — for humans."
+      },
+      "options": {
+        "hi": [
+          "नहीं सुनाई देती (पराश्रव्य)",
+          "नहीं सुनाई देती (अवश्रव्य)",
+          "दिखाई देती है",
+          "सुनाई देती है (श्रव्य परास में)"
+        ],
+        "en": [
+          "Inaudible (ultrasonic)",
+          "Inaudible (infrasonic)",
+          "Visible",
+          "Audible (within the audible range)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "15,000, सीमा 20 और 20,000 के बीच है — श्रव्य।",
+        "en": "15,000 lies between the limits 20 and 20,000 — audible."
+      }
+    },
+    {
+      "id": "phy7_q205",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेडियो का वॉल्यूम घटाने पर क्या घटता है?",
+        "en": "Turning down a radio's volume decreases what?"
+      },
+      "options": {
+        "hi": [
+          "आयाम",
+          "आवृत्ति",
+          "तरंगदैर्घ्य",
+          "चाल"
+        ],
+        "en": [
+          "The amplitude",
+          "The frequency",
+          "The wavelength",
+          "The speed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वॉल्यूम = प्रबलता = आयाम का नियंत्रण।",
+        "en": "Volume = loudness = amplitude control."
+      }
+    },
+    {
+      "id": "phy7_q206",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: आवृत्ति बदलने से पिच बदलती है। कथन B: आयाम बदलने से पिच बदलती है। सही विकल्प —",
+        "en": "Statement A: changing frequency changes pitch. Statement B: changing amplitude changes pitch. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "A सही, B गलत",
+          "A गलत, B सही",
+          "दोनों सही"
+        ],
+        "en": [
+          "Both wrong",
+          "A right, B wrong",
+          "A wrong, B right",
+          "Both right"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आयाम से केवल प्रबलता बदलती है।",
+        "en": "Amplitude alters only loudness."
+      }
+    },
+    {
+      "id": "phy7_q207",
+      "topic": "wave-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तार (धुन) को छोड़ने की जगह बदलने से क्या बदलता है?",
+        "en": "Changing where a string is plucked mainly alters what?"
+      },
+      "options": {
+        "hi": [
+          "चाल",
+          "माध्यम",
+          "प्रबलता (और थोड़ा स्वर-रंग), न कि मूल पिच",
+          "आवृत्ति बहुत"
+        ],
+        "en": [
+          "The speed",
+          "The medium",
+          "The loudness (and a bit of tone colour), not the basic pitch",
+          "The frequency a lot"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पिच तनाव-लंबाई से; छेड़ने का बल प्रबलता से।",
+        "en": "Pitch comes from tension-length; pluck force gives loudness."
+      }
+    },
+    {
+      "id": "phy7_q208",
+      "topic": "wave-characteristics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वायु में चाल 340 m/s — 2 kHz आवृत्ति की तरंग का तरंगदैर्घ्य —",
+        "en": "Speed 340 m/s in air — the wavelength of a 2 kHz wave is —"
+      },
+      "options": {
+        "hi": [
+          "1.7 m",
+          "17 m",
+          "0.017 m",
+          "0.17 m"
+        ],
+        "en": [
+          "1.7 m",
+          "17 m",
+          "0.017 m",
+          "0.17 m"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "2000 Hz; λ = 340/2000 = 0.17 m।",
+        "en": "2000 Hz; λ = 340/2000 = 0.17 m."
+      }
+    },
+    {
+      "id": "phy7_q209",
+      "topic": "wave-characteristics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ध्वनि जल (चाल 1500 m/s) में 1000 Hz रहे — जल में तरंगदैर्घ्य —",
+        "en": "A sound keeps 1000 Hz in water (speed 1500 m/s) — its wavelength in water is —"
+      },
+      "options": {
+        "hi": [
+          "1.5 m",
+          "0.15 m",
+          "15 m",
+          "3.4 m"
+        ],
+        "en": [
+          "1.5 m",
+          "0.15 m",
+          "15 m",
+          "3.4 m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "λ = 1500/1000 = 1.5 m।",
+        "en": "λ = 1500/1000 = 1.5 m."
+      }
+    },
+    {
+      "id": "phy7_q210",
+      "topic": "wave-characteristics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ध्वनि 170 Hz की है — 1 सेकंड में उतनी दूरी तय करते हुए (340 m/s) कितने पूर्ण चक्र बनते हैं अर्थात आवृत्ति —",
+        "en": "A 170 Hz sound moving at 340 m/s — the number of complete cycles per second (its frequency) is —"
+      },
+      "options": {
+        "hi": [
+          "0.5",
+          "170",
+          "340",
+          "2"
+        ],
+        "en": [
+          "0.5",
+          "170",
+          "340",
+          "2"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आवृत्ति स्रोत का गुण — 170 चक्र/सेकंड।",
+        "en": "Frequency belongs to the source — 170 cycles/second."
+      }
+    },
+    {
+      "id": "phy7_q211",
+      "topic": "wave-characteristics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "250 Hz ध्वनि 4 सेकंड बजती रही — कुल दोलन —",
+        "en": "A 250 Hz sound plays for 4 s — the total oscillations are —"
+      },
+      "options": {
+        "hi": [
+          "62.5",
+          "4000",
+          "1000",
+          "250"
+        ],
+        "en": [
+          "62.5",
+          "4000",
+          "1000",
+          "250"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "N = ν × t = 250 × 4 = 1000।",
+        "en": "N = ν × t = 250 × 4 = 1000."
+      }
+    },
+    {
+      "id": "phy7_q212",
+      "topic": "wave-characteristics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: श्रव्यता सीमा आयु के साथ सिकुड़ती है। कथन B: पराश्रव्य की आवृत्ति 20 kHz से अधिक होती है। सही विकल्प —",
+        "en": "Statement A: the audible range shrinks with age. Statement B: ultrasound's frequency exceeds 20 kHz. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बुढ़ापे में उच्च आवृत्ति सीमा घटती है; पराश्रव्य परिभाषा सही।",
+        "en": "The upper limit falls with age; the ultrasound definition is correct."
+      }
+    },
+    {
+      "id": "phy7_q213",
+      "topic": "wave-characteristics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही माध्यम में दो ध्वनियाँ — उच्च आवृत्ति वाली का तरंगदैर्घ्य —",
+        "en": "Two sounds in the same medium — the higher-frequency one has a —"
+      },
+      "options": {
+        "hi": [
+          "छोटा तरंगदैर्घ्य (λ = v/ν)",
+          "बड़ा तरंगदैर्घ्य",
+          "समान तरंगदैर्घ्य",
+          "शून्य तरंगदैर्घ्य"
+        ],
+        "en": [
+          "Shorter wavelength (λ = v/ν)",
+          "Longer wavelength",
+          "The same wavelength",
+          "Zero wavelength"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "v समान रखने पर ν बढ़ा तो λ घटा।",
+        "en": "With v fixed, more ν means less λ."
+      }
+    },
+    {
+      "id": "phy7_q214",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिध्वनि किसे कहते हैं?",
+        "en": "What is an echo?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि का रंग",
+          "परावर्तित ध्वनि जो स्रोत से अलग सुनाई दे",
+          "स्रोत की मूल ध्वनि",
+          "ध्वनि का जमना"
+        ],
+        "en": [
+          "The colour of sound",
+          "A reflected sound heard separately from the original",
+          "The original sound itself",
+          "The freezing of sound"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बड़ी दूरी से लौटी ध्वनि दूसरी ध्वनि जैसी सुनाई दे तो प्रतिध्वनि।",
+        "en": "A sound returning from a far surface, heard as a second sound, is an echo."
+      }
+    },
+    {
+      "id": "phy7_q215",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिध्वनि किस घटना पर आधारित है?",
+        "en": "Echo is based on which phenomenon?"
+      },
+      "options": {
+        "hi": [
+          "ध्वनि का अवशोषण",
+          "ध्वनि का निर्वात",
+          "ध्वनि का परावर्तन",
+          "ध्वनि का अपवर्तन"
+        ],
+        "en": [
+          "Absorption of sound",
+          "Vacuum of sound",
+          "Reflection of sound",
+          "Refraction of sound"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अवरोधक से टकराकर लौटना ही परावर्तन है।",
+        "en": "Bouncing back from an obstacle is reflection."
+      }
+    },
+    {
+      "id": "phy7_q216",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्पष्ट प्रतिध्वनि के लिए दो ध्वनियों का न्यूनतम समय-अंतराल —",
+        "en": "The minimum time gap between two sounds for a clear echo is —"
+      },
+      "options": {
+        "hi": [
+          "1 s",
+          "0.01 s",
+          "10 s",
+          "0.1 s"
+        ],
+        "en": [
+          "1 s",
+          "0.01 s",
+          "10 s",
+          "0.1 s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कान 0.1 s से कम अंतराल को अलग नहीं पहचानता।",
+        "en": "The ear cannot separate gaps under 0.1 s."
+      }
+    },
+    {
+      "id": "phy7_q217",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "0.1 s सुनने-अंतराल के लिए परावर्तक से न्यूनतम दूरी लगभग —",
+        "en": "For the 0.1 s hearing gap, the minimum distance from the reflector is about —"
+      },
+      "options": {
+        "hi": [
+          "17.2 m",
+          "34.4 m",
+          "172 m",
+          "1.72 m"
+        ],
+        "en": [
+          "17.2 m",
+          "34.4 m",
+          "172 m",
+          "1.72 m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "d = (344 × 0.1)/2 = 17.2 m।",
+        "en": "d = (344 × 0.1)/2 = 17.2 m."
+      }
+    },
+    {
+      "id": "phy7_q218",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिध्वनि दूरी नापने में सहायक है — सूत्र —",
+        "en": "Echo helps measure distance — the formula is —"
+      },
+      "options": {
+        "hi": [
+          "d = t / 2v",
+          "d = v × t / 2",
+          "d = v × t",
+          "d = v / t"
+        ],
+        "en": [
+          "d = t / 2v",
+          "d = v × t / 2",
+          "d = v × t",
+          "d = v / t"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ध्वनि दूर जाकर वापस आती है — पथ दोगुना, इसलिए आधा।",
+        "en": "The sound goes and returns — double path, hence the half."
+      }
+    },
+    {
+      "id": "phy7_q219",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "SONAR का पूरा नाम क्या है?",
+        "en": "What is the full form of SONAR?"
+      },
+      "options": {
+        "hi": [
+          "Sonar Optical Network",
+          "Sound Noise and Rhythm",
+          "Sound Navigation and Ranging",
+          "Solar Navigation and Radio"
+        ],
+        "en": [
+          "Sonar Optical Network",
+          "Sound Noise and Rhythm",
+          "Sound Navigation and Ranging",
+          "Solar Navigation and Radio"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "SONAR = ध्वनि द्वारा नौचालन व दूरीमाप।",
+        "en": "SONAR = navigation and ranging by sound."
+      }
+    },
+    {
+      "id": "phy7_q220",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "SONAR में किस ध्वनि का उपयोग होता है?",
+        "en": "Which sound does SONAR use?"
+      },
+      "options": {
+        "hi": [
+          "अवश्रव्य",
+          "साधारण श्रव्य",
+          "प्रकाश",
+          "पराश्रव्य (ultrasound)"
+        ],
+        "en": [
+          "Infrasound",
+          "Ordinary audible sound",
+          "Light",
+          "Ultrasound"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उच्च आवृत्ति = तीखी, दूर तक स्पष्ट, सटीक माप।",
+        "en": "High frequency = sharp, far-reaching, precise."
+      }
+    },
+    {
+      "id": "phy7_q221",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चमगादड़ रात में किस विधि से रास्ता खोजता है?",
+        "en": "How do bats find their way at night?"
+      },
+      "options": {
+        "hi": [
+          "पराश्रव्य प्रतिध्वनि (echolocation) से",
+          "देखकर",
+          "सूँघकर",
+          "प्रकाश से"
+        ],
+        "en": [
+          "By ultrasonic echo (echolocation)",
+          "By seeing",
+          "By smelling",
+          "By light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चमगादड़ उछाली पराश्रव्य ध्वनि के प्रतिध्वनि-समय से दूरी जाँचता है।",
+        "en": "Bats time ultrasonic echoes to gauge distances."
+      }
+    },
+    {
+      "id": "phy7_q222",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पराश्रव्य का एक चिकित्सीय उपयोग —",
+        "en": "One medical use of ultrasound is —"
+      },
+      "options": {
+        "hi": [
+          "बाल काटना",
+          "शरीर के आंतरिक अंगों की इमेजिंग (सोनोग्राफी)",
+          "नींद लाना",
+          "बुखार बढ़ाना"
+        ],
+        "en": [
+          "Cutting hair",
+          "Imaging internal organs (sonography)",
+          "Inducing sleep",
+          "Raising fever"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गर्भावस्था व अंग-जाँच में पराश्रव्य चित्रण।",
+        "en": "Ultrasound imaging in pregnancy and organ checks."
+      }
+    },
+    {
+      "id": "phy7_q223",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पराश्रव्य से मशीनों के भागों की सफाई कैसे होती है?",
+        "en": "How does ultrasound clean machine parts?"
+      },
+      "options": {
+        "hi": [
+          "वे भाग रंग देती हैं",
+          "वे भाग सुखा देती हैं",
+          "पराश्रव्य तरंगें सफाई-द्रव में सूक्ष्म बुलबुले-धाराएँ बनाकर मैल हटाती हैं",
+          "वे भाग पिघला देती हैं"
+        ],
+        "en": [
+          "They colour the parts",
+          "They dry the parts",
+          "Ultrasonic waves create tiny bubbling streams in the cleaning liquid that lift the grime",
+          "They melt the parts"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कैविटेशन-क्रिया से कोनों का मैल भी निकलता है।",
+        "en": "Cavitation reaches grime even in corners."
+      }
+    },
+    {
+      "id": "phy7_q224",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जहाज़ की गहराई-नापक (fathometer) क्या मापता है?",
+        "en": "What does a ship's fathometer (echo sounder) measure?"
+      },
+      "options": {
+        "hi": [
+          "हवा की चाल",
+          "जहाज़ का भार",
+          "पानी का ताप",
+          "समुद्र की गहराई"
+        ],
+        "en": [
+          "The speed of wind",
+          "The ship's weight",
+          "The water's temperature",
+          "The depth of the sea"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "तल से परावर्तित ध्वनि के समय से गहराई।",
+        "en": "Depth from the time of the bottom-returned sound."
+      }
+    },
+    {
+      "id": "phy7_q225",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कमरे में सामान्य बातचीत प्रतिध्वनि क्यों नहीं बनती?",
+        "en": "Why does ordinary conversation in a room not produce echoes?"
+      },
+      "options": {
+        "hi": [
+          "दूरी 17.2 m से कम — प्रतिध्वनि मूल ध्वनि में मिल जाती है",
+          "कमरे में ध्वनि नहीं होती",
+          "दीवारें ध्वनि खा जाती हैं",
+          "कान बंद रहता है"
+        ],
+        "en": [
+          "The distance is under 17.2 m — the echo merges into the original",
+          "Rooms have no sound",
+          "Walls swallow sound",
+          "Ears stay shut"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "छोटी दूरी पर अंतराल 0.1 s से कम रह जाता है — अलग प्रतिध्वनि नहीं।",
+        "en": "At short distances the gap stays under 0.1 s — no separate echo."
+      }
+    },
+    {
+      "id": "phy7_q226",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शहरों में इमारतों पर ध्वनि-अवशोषक पैनल क्यों लगते हैं?",
+        "en": "Why do city buildings fit sound-absorbing panels?"
+      },
+      "options": {
+        "hi": [
+          "गर्मी बढ़ाने",
+          "अतिरिक्त प्रतिध्वनि/गूंज घटाने",
+          "इमारत सजाने",
+          "प्रकाश बढ़ाने"
+        ],
+        "en": [
+          "To heat up",
+          "To cut excess echo/reverberation",
+          "To decorate",
+          "To brighten"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रतिध्वनि-नियंत्रण सुनना साफ़ बनाता है।",
+        "en": "Echo control makes listening clear."
+      }
+    },
+    {
+      "id": "phy7_q227",
+      "topic": "echo-ultrasound",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पराश्रव्य का उपयोग नहीं होता —",
+        "en": "Ultrasound is NOT used for —"
+      },
+      "options": {
+        "hi": [
+          "चिकित्सा-इमेजिंग",
+          "SONAR",
+          "प्रकाश उत्पन्न करने",
+          "सफाई"
+        ],
+        "en": [
+          "Medical imaging",
+          "SONAR",
+          "Generating light",
+          "Cleaning"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पराश्रव्य ध्वनि है — प्रकाश नहीं बनाती।",
+        "en": "Ultrasound is sound — it makes no light."
+      }
+    },
+    {
+      "id": "phy7_q228",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परावर्तक से 344 m दूरी पर खड़ा व्यक्ति — प्रतिध्वनि कितने सेकंड बाद सुनेगा?",
+        "en": "A person stands 344 m from a reflector — after how many seconds does the echo arrive?"
+      },
+      "options": {
+        "hi": [
+          "1 s",
+          "4 s",
+          "0.5 s",
+          "2 s"
+        ],
+        "en": [
+          "1 s",
+          "4 s",
+          "0.5 s",
+          "2 s"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "t = 2d/v = 688/344 = 2 s।",
+        "en": "t = 2d/v = 688/344 = 2 s."
+      }
+    },
+    {
+      "id": "phy7_q229",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दीवार से 86 m दूरी पर ताली — प्रतिध्वनि समय (v = 344) —",
+        "en": "A clap 86 m from a wall — the echo time (v = 344) is —"
+      },
+      "options": {
+        "hi": [
+          "0.5 s",
+          "0.25 s",
+          "1 s",
+          "2 s"
+        ],
+        "en": [
+          "0.5 s",
+          "0.25 s",
+          "1 s",
+          "2 s"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "t = 2 × 86/344 = 0.5 s।",
+        "en": "t = 2 × 86/344 = 0.5 s."
+      }
+    },
+    {
+      "id": "phy7_q230",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रतिध्वनि 1 सेकंड में लौटी (v = 344 m/s) — परावर्तक की दूरी —",
+        "en": "An echo returns in 1 s (v = 344 m/s) — the reflector's distance is —"
+      },
+      "options": {
+        "hi": [
+          "68.8 m",
+          "172 m",
+          "344 m",
+          "86 m"
+        ],
+        "en": [
+          "68.8 m",
+          "172 m",
+          "344 m",
+          "86 m"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "d = vt/2 = 344 × 1/2 = 172 m।",
+        "en": "d = vt/2 = 344 × 1/2 = 172 m."
+      }
+    },
+    {
+      "id": "phy7_q231",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रतिध्वनि 4 सेकंड में लौटी (v = 344) — दूरी —",
+        "en": "An echo returns in 4 s (v = 344) — the distance is —"
+      },
+      "options": {
+        "hi": [
+          "344 m",
+          "172 m",
+          "688 m",
+          "1376 m"
+        ],
+        "en": [
+          "344 m",
+          "172 m",
+          "688 m",
+          "1376 m"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "d = 344 × 4/2 = 688 m।",
+        "en": "d = 344 × 4/2 = 688 m."
+      }
+    },
+    {
+      "id": "phy7_q232",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "SONAR से उछाली पराश्रव्य ध्वनि 4 सेकंड में वापस लौटी (जल में v = 1500 m/s) — समुद्र की गहराई —",
+        "en": "A SONAR pulse returns in 4 s (v = 1500 m/s in water) — the sea's depth is —"
+      },
+      "options": {
+        "hi": [
+          "6000 m",
+          "1500 m",
+          "750 m",
+          "3000 m"
+        ],
+        "en": [
+          "6000 m",
+          "1500 m",
+          "750 m",
+          "3000 m"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "d = 1500 × 4/2 = 3000 m।",
+        "en": "d = 1500 × 4/2 = 3000 m."
+      }
+    },
+    {
+      "id": "phy7_q233",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "SONAR पल्स 2 सेकंड में लौटी (v = 1500) — गहराई —",
+        "en": "A SONAR pulse returns in 2 s (v = 1500) — the depth is —"
+      },
+      "options": {
+        "hi": [
+          "1500 m",
+          "3000 m",
+          "750 m",
+          "300 m"
+        ],
+        "en": [
+          "1500 m",
+          "3000 m",
+          "750 m",
+          "300 m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "d = 1500 × 2/2 = 1500 m।",
+        "en": "d = 1500 × 2/2 = 1500 m."
+      }
+    },
+    {
+      "id": "phy7_q234",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रतिध्वनि और गूंज (reverberation) में अंतर —",
+        "en": "The difference between echo and reverberation is —"
+      },
+      "options": {
+        "hi": [
+          "प्रतिध्वनि केवल रात में होती है",
+          "प्रतिध्वनि में परावर्तित ध्वनि अलग सुनाई देती है; गूंज में बार-बार परावर्तन मूल ध्वनि में घुल जाता है",
+          "दोनों एक ही हैं",
+          "गूंज केवल पहाड़ों में होती है"
+        ],
+        "en": [
+          "Echo happens only at night",
+          "In an echo the reflected sound is heard separately; in reverberation repeated reflections blend into the original",
+          "Both are identical",
+          "Reverberation happens only in mountains"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अंतराल ≥ 0.1 s = प्रतिध्वनि; कम व बार-बार = गूंज — परीक्षा-जाल।",
+        "en": "Gap ≥ 0.1 s = echo; shorter, repeated = reverberation — an exam trap."
+      }
+    },
+    {
+      "id": "phy7_q235",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सबसे कम प्रतिध्वनि-दूरी 17.2 m होने का कारण-गणना —",
+        "en": "The reasoning behind the 17.2 m minimum echo distance is —"
+      },
+      "options": {
+        "hi": [
+          "344 × 0.1 × 2",
+          "344/2",
+          "0.1 s अंतराल × 344 m/s ÷ 2",
+          "0.1 × 344"
+        ],
+        "en": [
+          "344 × 0.1 × 2",
+          "344/2",
+          "0.1 s gap × 344 m/s ÷ 2",
+          "0.1 × 344"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "d = v·t/2 = 344 × 0.1/2 = 17.2 m।",
+        "en": "d = v·t/2 = 344 × 0.1/2 = 17.2 m."
+      }
+    },
+    {
+      "id": "phy7_q236",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पराश्रव्य से पत्थर की खोज (गुर्दे/पित्त) कैसे होती है?",
+        "en": "How does ultrasound locate stones (kidney/gallbladder)?"
+      },
+      "options": {
+        "hi": [
+          "पत्थर रंग देकर",
+          "पत्थर पिघलाकर",
+          "रेडियो तरंगों से खींचकर",
+          "अंगों से परावर्तित पराश्रव्य संकेतों के चित्रण से"
+        ],
+        "en": [
+          "By colouring the stone",
+          "By melting the stone",
+          "By pulling with radio waves",
+          "By imaging the echoes reflected from the organs"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विभिन्न ऊतकों से भिन्न परावर्तन — चित्र में पत्थर दिखता है।",
+        "en": "Different tissues reflect differently — the stone shows in the image."
+      }
+    },
+    {
+      "id": "phy7_q237",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चमगादड़ का इकोलोकेशन SONAR से किस तरह मिलता-जुलता है?",
+        "en": "How is a bat's echolocation similar to SONAR?"
+      },
+      "options": {
+        "hi": [
+          "दोनों पराश्रव्य भेजकर प्रतिध्वनि-समय से दूरी निकालते हैं",
+          "दोनों प्रकाश भेजते हैं",
+          "दोनों गंध फैलाते हैं",
+          "दोनों अवश्रव्य सुनते हैं"
+        ],
+        "en": [
+          "Both send ultrasound and derive distance from echo time",
+          "Both send light",
+          "Both spread smell",
+          "Both hear infrasound"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रकृति और तकनीक एक ही सिद्धांत।",
+        "en": "Nature and technology share one principle."
+      }
+    },
+    {
+      "id": "phy7_q238",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल में डॉल्फ़िन रास्ता किस विधि से खोजते हैं?",
+        "en": "Dolphins navigate by which method?"
+      },
+      "options": {
+        "hi": [
+          "स्पर्श से",
+          "पराश्रव्य क्लिक और प्रतिध्वनि",
+          "देखकर",
+          "सूँघकर"
+        ],
+        "en": [
+          "By touch",
+          "Ultrasonic clicks and echoes",
+          "By sight",
+          "By smell"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जल में पराश्रव्य दूर तक काम करता है।",
+        "en": "Ultrasound works far in water."
+      }
+    },
+    {
+      "id": "phy7_q239",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विशाल हॉल में गूंज घटाने के दो उपाय —",
+        "en": "Two ways to reduce reverberation in a huge hall —"
+      },
+      "options": {
+        "hi": [
+          "पंखे चलाना और गाना बंद करना",
+          "प्रकाश घटाना और ताप बढ़ाना",
+          "ध्वनि-अवशोषक पैनल व नरम पर्दे/कालीन",
+          "दीवारें चमकाना और खिड़कियाँ बंद करना"
+        ],
+        "en": [
+          "Running fans and stopping the song",
+          "Dimming lights and raising heat",
+          "Sound-absorbing panels and soft curtains/carpets",
+          "Polishing walls and shutting windows"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अवशोषण बढ़ा → बार-बार परावर्तन घटे → गूंज कम।",
+        "en": "More absorption → fewer repeated reflections → less blur."
+      }
+    },
+    {
+      "id": "phy7_q240",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रतिध्वनि से ध्वनि की चाल मापने का तरीका —",
+        "en": "How can echo be used to measure the speed of sound?"
+      },
+      "options": {
+        "hi": [
+          "आवृत्ति गिनकर",
+          "आयाम नापकर",
+          "रंग देखकर",
+          "ज्ञात दूरी की दीवार से प्रतिध्वनि-समय नापकर v = 2d/t"
+        ],
+        "en": [
+          "By counting frequency",
+          "By measuring amplitude",
+          "By looking at colour",
+          "Time the echo from a wall at a known distance and use v = 2d/t"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "d पहले से ज्ञात, t घड़ी से — v निकल आता है।",
+        "en": "With d known and t timed, v follows."
+      }
+    },
+    {
+      "id": "phy7_q241",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पराश्रव्य नियमित चिकित्सा-जाँच में सुरक्षित माना जाता है क्योंकि —",
+        "en": "Ultrasound is considered safe for routine medical checks because —"
+      },
+      "options": {
+        "hi": [
+          "यह विकिरण रहित (गैर-आयनकारी) है",
+          "यह रेडियोधर्मी है",
+          "यह शरीर काटता है",
+          "यह प्रकाश देता है"
+        ],
+        "en": [
+          "It is radiation-free (non-ionising)",
+          "It is radioactive",
+          "It cuts the body",
+          "It emits light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "X-किरण के विपरीत पराश्रव्य आयनकारी नहीं।",
+        "en": "Unlike X-rays, ultrasound does not ionise."
+      }
+    },
+    {
+      "id": "phy7_q242",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक व्यक्ति घाटी की दीवार की ओर शोर मचाता है — 5 सेकंड बाद प्रतिध्वनि (v = 344) — दीवार की दूरी —",
+        "en": "A person shouts at a valley wall — the echo arrives after 5 s (v = 344) — the wall's distance is —"
+      },
+      "options": {
+        "hi": [
+          "344 m",
+          "860 m",
+          "1720 m",
+          "430 m"
+        ],
+        "en": [
+          "344 m",
+          "860 m",
+          "1720 m",
+          "430 m"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "d = 344 × 5/2 = 860 m।",
+        "en": "d = 344 × 5/2 = 860 m."
+      }
+    },
+    {
+      "id": "phy7_q243",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पराश्रव्य हार्ड वायर में दरार खोजने में कैसे काम करता है?",
+        "en": "How does ultrasound detect cracks inside metal?"
+      },
+      "options": {
+        "hi": [
+          "धातु गर्म होती है",
+          "धातु चुंबक बनती है",
+          "दरार से परावर्तित संकेत स्वस्थ धातु के संकेत से भिन्न समय पर लौटता है",
+          "दरार रंग बदलती है"
+        ],
+        "en": [
+          "The metal heats up",
+          "The metal magnetises",
+          "The signal reflected by a crack returns at a different time than the sound metal's",
+          "The crack changes colour"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दोष-परावर्तन का समय-अंतर ही संकेत देता है।",
+        "en": "The timing gap of the flaw's reflection betrays it."
+      }
+    },
+    {
+      "id": "phy7_q244",
+      "topic": "echo-ultrasound",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: प्रतिध्वनि के लिए परावर्तक बड़ा होना चाहिए। कथन B: परावर्तक कम से कम 17.2 m दूर होना चाहिए। सही विकल्प —",
+        "en": "Statement A: the reflector for an echo must be large. Statement B: it must be at least about 17.2 m away. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बड़ा परावर्तक पर्याप्त ध्वनि लौटाए; दूरी 17.2 m स्पष्टता दे।",
+        "en": "A large reflector returns enough sound; 17.2 m gives clarity."
+      }
+    },
+    {
+      "id": "phy7_q245",
+      "topic": "echo-ultrasound",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक व्यक्ति 172 m दीवार की ओर चलता है और ताली बजाता है — यदि वह हर सेकंड ताली बजाए तो वह प्रतिध्वनि —",
+        "en": "Walking towards a wall 172 m away, clapping once per second, the person —"
+      },
+      "options": {
+        "hi": [
+          "हर ताली के साथ प्रतिध्वनि भी सुनेगा (1 s में आने-जाने का पथ 344 m)",
+          "केवल आख़िरी प्रतिध्वनि सुनेगा",
+          "कोई प्रतिध्वनि नहीं सुनेगा",
+          "दो प्रतिध्वनि प्रति ताली सुनेगा"
+        ],
+        "en": [
+          "Hears the echo with each clap (the 344 m round trip takes 1 s)",
+          "Hears only the last echo",
+          "Hears no echo",
+          "Hears two echoes per clap"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "t = 2 × 172/344 = 1 s — ताली और प्रतिध्वनि की लय मेल।",
+        "en": "t = 2 × 172/344 = 1 s — clap and echo fall in rhythm."
+      }
+    },
+    {
+      "id": "phy7_q246",
+      "topic": "echo-ultrasound",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पनडुब्बी SONAR से मछली-झुंड का पल्स 3 सेकंड में वापस पाती है (v = 1500) — झुंड की दूरी —",
+        "en": "A submarine's SONAR gets a shoal's pulse back in 3 s (v = 1500) — the shoal's distance is —"
+      },
+      "options": {
+        "hi": [
+          "1125 m",
+          "2250 m",
+          "4500 m",
+          "1500 m"
+        ],
+        "en": [
+          "1125 m",
+          "2250 m",
+          "4500 m",
+          "1500 m"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "d = 1500 × 3/2 = 2250 m।",
+        "en": "d = 1500 × 3/2 = 2250 m."
+      }
+    },
+    {
+      "id": "phy7_q247",
+      "topic": "echo-ultrasound",
+      "difficulty": "hard",
+      "question": {
+        "hi": "परावर्तक से 34.4 m — प्रतिध्वनि सुनने में समय (v = 344) — और क्या वह स्पष्ट सुनाई देगी?",
+        "en": "Reflector at 34.4 m — the echo time (v = 344) — and will it be heard distinctly?"
+      },
+      "options": {
+        "hi": [
+          "2 s — हाँ",
+          "0.02 s — नहीं",
+          "0.2 s — हाँ, स्पष्ट (0.1 s से अधिक)",
+          "0.1 s — नहीं"
+        ],
+        "en": [
+          "2 s — yes",
+          "0.02 s — no",
+          "0.2 s — yes, distinct (above 0.1 s)",
+          "0.1 s — no"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "t = 68.8/344 = 0.2 s > 0.1 s — स्पष्ट प्रतिध्वनि।",
+        "en": "t = 68.8/344 = 0.2 s > 0.1 s — a distinct echo."
+      }
+    },
+    {
+      "id": "phy7_q248",
+      "topic": "echo-ultrasound",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: पराश्रव्य की तरंगदैर्घ्य श्रव्य से कम होती है। कथन B: इसीलिए वह सूक्ष्म दरारें भी पहचानती है। सही विकल्प —",
+        "en": "Statement A: ultrasound's wavelength is shorter than audible sound's. Statement B: that is why it detects even fine cracks. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उच्च आवृत्ति = लघु तरंगदैर्घ्य = सूक्ष्म वस्तुओं से परावर्तन।",
+        "en": "High frequency = short wavelength = reflection off tiny features."
+      }
+    },
+    {
+      "id": "phy7_q249",
+      "topic": "echo-ultrasound",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक लड़का ताली बजाता है और 0.5 सेकंड बाद प्रतिध्वनि सुनता है (v = 344) — दीवार कितनी दूर है?",
+        "en": "A boy claps and hears the echo 0.5 s later (v = 344) — how far is the wall?"
+      },
+      "options": {
+        "hi": [
+          "86 m",
+          "172 m",
+          "43 m",
+          "344 m"
+        ],
+        "en": [
+          "86 m",
+          "172 m",
+          "43 m",
+          "344 m"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "d = 344 × 0.5/2 = 86 m।",
+        "en": "d = 344 × 0.5/2 = 86 m."
+      }
+    },
+    {
+      "id": "phy7_q250",
+      "topic": "echo-ultrasound",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अवश्रव्य का एक प्राकृतिक स्रोत और उसका महत्त्व —",
+        "en": "A natural source of infrasound and its significance —"
+      },
+      "options": {
+        "hi": [
+          "पेड़ — छाया देते हैं",
+          "भूकंप — आने वाले झटके का पूर्व-संकेत (पशु पहले भागते हैं)",
+          "बादल — गर्मी बताते हैं",
+          "नदी — बाढ़ भरती है"
+        ],
+        "en": [
+          "Trees — they give shade",
+          "Earthquakes — an early warning of coming shocks (animals flee first)",
+          "Clouds — they indicate heat",
+          "Rivers — they flood"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "भूकंपीय अवश्रव्य से कई पशु पहले सतर्क हो जाते हैं।",
+        "en": "Seismic infrasound alerts many animals in advance."
+      }
+    }
+  ]
+}

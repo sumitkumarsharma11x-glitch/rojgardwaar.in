@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-02",
+  "chapterNumber": 2,
+  "code": "P02",
+  "chapterName": {
+    "hi": "गति एवं समय",
+    "en": "Motion & Time"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "जब किसी वस्तु की स्थिति समय के साथ बदलती है तो वह गति में कहलाती है। दूरी और विस्थापन, चाल और वेग, तथा त्वरण गति का वर्णन करते हैं। दूरी-समय और वेग-समय ग्राफ से गति की प्रकृति सरलता से समझी जाती है।",
+      "example": "सीधी सड़क पर चलती कार का ओडोमीटर दूरी दर्शाता है जबकि उसका विस्थापन उद्गम से सीधी रेखा में होता है।",
+      "sections": [
+        {
+          "heading": "दूरी एवं विस्थापन",
+          "content": "दूरी पथ की कुल लंबाई है (अदिश); विस्थापन न्यूनतम दूरी है जिसमें दिशा होती है (सदिश)।"
+        },
+        {
+          "heading": "चाल एवं वेग",
+          "content": "चाल = दूरी/समय; वेग = विस्थापन/समय। एकसमान चाल का अर्थ है समान समय में समान दूरी।"
+        },
+        {
+          "heading": "त्वरण",
+          "content": "वेग में परिवर्तन की दर त्वरण है; मुक्त पिंड का त्वरण गुरुत्वीय त्वरण g ≈ 9.8 m/s² होता है।"
+        },
+        {
+          "heading": "ग्राफ",
+          "content": "दूरी-समय ग्राफ की ढाल चाल देती है; वेग-समय ग्राफ की ढाल त्वरण और क्षेत्रफल विस्थापन देता है।"
+        }
+      ],
+      "keyPoints": [
+        "दूरी अदिश है विस्थापन सदिश",
+        "विस्थापन का मान दूरी के बराबर या उससे कम हो सकता है",
+        "चाल = दूरी/समय; वेग = विस्थापन/समय",
+        "SI में चाल-वेग का मात्रक मीटर/सेकंड है",
+        "त्वरण = वेग-परिवर्तन/समय, मात्रक m/s²",
+        "एक चक्कर पूरा करने पर विस्थापन शून्य होता है"
+      ],
+      "examFocus": [
+        "दूरी-विस्थापन और चाल-वेग के युग्म अंतर रटें",
+        "ग्राफ की ढाल का अर्थ (चाल/त्वरण) याद रखें",
+        "सरल संख्यात्मक प्रश्नों का अभ्यास करें — v = d/t"
+      ],
+      "examTraps": [
+        "चाल और वेग को एक न मानें — दिशा बदलने पर वेग बदल जाता है",
+        "वृत्ताकार पथ में एकसमान चाल होने पर भी वेग बदलता रहता है"
+      ],
+      "thinkBeforeAnswer": [
+        "प्रश्न में 'कुल पथ' हो तो दूरी, 'सीधी दूरी + दिशा' हो तो विस्थापन चुनें",
+        "ग्राफ क्षैतिज रेखा हो तो वस्तु विरामावस्था में है"
+      ],
+      "memoryTricks": [
+        "'D-दूरी-अदिश, V-विस्थापन-वेक्टर' जोड़ी याद रखें",
+        "V-T ग्राफ: ढाल = त्वरण, क्षेत्रफल = विस्थापन"
+      ],
+      "pyqSignals": [
+        "दूरी-विस्थापन अंतर परीक्षा में बार-बार पूछा जाता है",
+        "ग्राफ पढ़ने के प्रश्न आम हैं"
+      ],
+      "mustRemember": [
+        "गति की परिभाषा",
+        "दूरी बनाम विस्थापन",
+        "चाल, वेग और त्वरण के सूत्र",
+        "ग्राफ से चाल और त्वरण ज्ञात करना"
+      ],
+      "quickRevision": "स्थिति के समय के साथ परिवर्तन को गति कहते हैं। दूरी अदिश और विस्थापन सदिश राशि है। चाल दूरी/समय तथा वेग विस्थापन/समय होता है और वेग-परिवर्तन की दर त्वरण है। ग्राफ की ढाल और क्षेत्रफल से चाल, त्वरण और विस्थापन ज्ञात होते हैं।"
+    },
+    "en": {
+      "concept": "When an object's position changes with time it is said to be in motion. Distance and displacement, speed and velocity, and acceleration describe motion. Distance-time and velocity-time graphs make the nature of motion easy to understand.",
+      "example": "A car's odometer shows distance, while its displacement is the straight line from the origin.",
+      "sections": [
+        {
+          "heading": "Distance and Displacement",
+          "content": "Distance is total path length (scalar); displacement is minimum distance with direction (vector)."
+        },
+        {
+          "heading": "Speed and Velocity",
+          "content": "Speed = distance/time; velocity = displacement/time. Uniform speed means equal distances in equal times."
+        },
+        {
+          "heading": "Acceleration",
+          "content": "Rate of change of velocity is acceleration; a freely falling body has acceleration g ≈ 9.8 m/s²."
+        },
+        {
+          "heading": "Graphs",
+          "content": "Slope of a distance-time graph gives speed; slope of a velocity-time graph gives acceleration and its area gives displacement."
+        }
+      ],
+      "keyPoints": [
+        "Distance is scalar, displacement is vector",
+        "Displacement is less than or equal to distance",
+        "Speed = distance/time; velocity = displacement/time",
+        "The SI unit of speed/velocity is metre/second",
+        "Acceleration = change of velocity/time, unit m/s²",
+        "Displacement after one full circle is zero"
+      ],
+      "examFocus": [
+        "Learn the paired differences — distance-displacement and speed-velocity",
+        "Remember what the slope of each graph means (speed/acceleration)",
+        "Practise simple numericals — v = d/t"
+      ],
+      "examTraps": [
+        "Do not treat speed and velocity as identical — changing direction changes velocity",
+        "In circular motion with uniform speed, velocity keeps changing"
+      ],
+      "thinkBeforeAnswer": [
+        "'Total path' means distance; 'straight distance with direction' means displacement",
+        "A horizontal graph line means the object is at rest"
+      ],
+      "memoryTricks": [
+        "'D-distance-scalar, V-vector' — remember the pair",
+        "V-T graph: slope = acceleration, area = displacement"
+      ],
+      "pyqSignals": [
+        "The distance-displacement difference is asked repeatedly",
+        "Reading graphs is a common question type"
+      ],
+      "mustRemember": [
+        "Definition of motion",
+        "Distance vs displacement",
+        "Formulas of speed, velocity and acceleration",
+        "Finding speed and acceleration from graphs"
+      ],
+      "quickRevision": "Change of position with time is motion. Distance is scalar and displacement is vector. Speed is distance/time and velocity is displacement/time; rate of change of velocity is acceleration. Slopes and areas of graphs give speed, acceleration and displacement."
+    }
+  }
+}

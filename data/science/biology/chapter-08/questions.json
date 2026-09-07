@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "ch8_q801",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नाक से दाखिल हुई हवा नासिका गुहा से गुजरते समय किन तीनों कार्यों के लिए तैयार हो जाती है?",
+        "en": "While passing through the nasal cavity, the inhaled air gets readied by which THREE treatments?"
+      },
+      "options": {
+        "hi": [
+          "छानना, गर्म करना और नम करना — तीनों",
+          "केवल छानना",
+          "केवल गर्म करना",
+          "केवल नम करना"
+        ],
+        "en": [
+          "Filtering, warming and moistening — all three",
+          "Only filtering",
+          "Only warming",
+          "Only moistening"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नासिका गुहा के बाल धूल छानते हैं, रुधिर की गर्मी हवा को गर्म रखती है और श्लेष्मा उसे नम करता है — फेफड़ों के लिए हवा इसी से अनुकूल बनती है।",
+        "en": "Nasal hairs filter dust, blood warmth heats the air and mucus moistens it — this makes the air lung-friendly."
+      }
+    },
+    {
+      "id": "ch8_q802",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शरीर में हवा और भोजन दोनों का रास्ता किस भाग में आपस में मिलता है?",
+        "en": "In which part do the pathways of air and food meet inside the body?"
+      },
+      "options": {
+        "hi": [
+          "स्वरयंत्र (larynx)",
+          "ग्रसनी (pharynx)",
+          "श्वासनली",
+          "उरोस्थि"
+        ],
+        "en": [
+          "Larynx",
+          "Pharynx",
+          "Trachea",
+          "Sternum"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ग्रसनी हवा और भोजन दोनों की साझी नली है; यहीं से हवा स्वरयंत्र की ओर और भोजन भोजन-नली की ओर मुड़ती है।",
+        "en": "The pharynx is the shared tube for both air and food; here air turns towards the larynx and food towards the food pipe."
+      }
+    },
+    {
+      "id": "ch8_q803",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्वासनली (trachea) फेफड़ों में प्रवेश करते हुए किन दो शाखाओं में बँट जाती है?",
+        "en": "On entering the lungs, the trachea divides into which two branches?"
+      },
+      "options": {
+        "hi": [
+          "वायुकोश (alveoli)",
+          "ब्रोंकाइओल",
+          "ब्रांकाई (bronchi)",
+          "केशिकाएँ"
+        ],
+        "en": [
+          "Alveoli",
+          "Bronchioles",
+          "Bronchi",
+          "Capillaries"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "श्वासनली दो ब्रांकाइयों में बँटती है — प्रत्येक फेफड़े के लिए एक; आगे ये ब्रोंकाइओल में विभाजित होती हैं।",
+        "en": "The trachea splits into two bronchi — one for each lung; these further subdivide into bronchioles."
+      }
+    },
+    {
+      "id": "ch8_q804",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ब्रोंकाइओल के सिरों पर स्थित गुब्बारे जैसी छोटी संरचनाएँ क्या कहलाती हैं?",
+        "en": "What are the balloon-like tiny structures at the ends of bronchioles called?"
+      },
+      "options": {
+        "hi": [
+          "वेष्टनी",
+          "पटलिका",
+          "गलफड़े",
+          "वायुकोश (एल्वियोलाइ)"
+        ],
+        "en": [
+          "Tentacles",
+          "Ribs",
+          "Gills",
+          "Alveoli"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ब्रोंकाइओल के अंत में वायुकोशों के गुच्छे होते हैं — यहीं रुधिर के साथ ऑक्सीजन-कार्बन डाइऑक्साइड का आदान-प्रदान होता है।",
+        "en": "Clusters of alveoli sit at the bronchiole ends — this is where oxygen and carbon dioxide are exchanged with blood."
+      }
+    },
+    {
+      "id": "ch8_q805",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फेफड़े शरीर की किस गुहा में स्थित होते हैं?",
+        "en": "In which cavity of the body are the lungs located?"
+      },
+      "options": {
+        "hi": [
+          "वक्ष (छाती) गुहा",
+          "कपाल गुहा",
+          "श्रोणि गुहा",
+          "उदर गुहा"
+        ],
+        "en": [
+          "Thoracic (chest) cavity",
+          "Cranial cavity",
+          "Pelvic cavity",
+          "Abdominal cavity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दोनों फेफड़े छाती की गुहा में हृदय के दोनों ओर पसलियों के पिंजरे के भीतर सुरक्षित रहते हैं।",
+        "en": "Both lungs lie in the chest cavity on either side of the heart, safeguarded inside the rib cage."
+      }
+    },
+    {
+      "id": "ch8_q806",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फेफड़ों के ठीक नीचे स्थित पेशीय (मांसपेशी वाली) झिल्ली कौन-सी है?",
+        "en": "Which is the muscular sheet located just below the lungs?"
+      },
+      "options": {
+        "hi": [
+          "उरोस्थि",
+          "मध्यपट (डायाफ्राम)",
+          "क्षुद्रांत्र",
+          "पर्दा"
+        ],
+        "en": [
+          "Sternum",
+          "Diaphragm",
+          "Duodenum",
+          "Peritoneum"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मध्यपट छाती और पेट के बीच की गुंबदार पेशीय झिल्ली है जिसकी हरकत से साँस की यंत्रीक्रिया चलती है।",
+        "en": "The diaphragm is the domed muscular sheet between chest and belly whose movement drives the breathing mechanism."
+      }
+    },
+    {
+      "id": "ch8_q807",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "साँस छोड़ते समय (exhalation) मध्यपट की क्या अवस्था होती है?",
+        "en": "What is the state of the diaphragm during exhalation?"
+      },
+      "options": {
+        "hi": [
+          "वह बाईं ओर खिसक जाती है",
+          "वह सिकुड़कर नीचे चली जाती है",
+          "वह शिथिल होकर ऊपर गुंबद की तरह हो जाती है",
+          "वह पूरी तरह रुक जाती है"
+        ],
+        "en": [
+          "It shifts to the left",
+          "It contracts and moves down",
+          "It relaxes into an upward dome",
+          "It stops completely"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "साँस छोड़ते समय मध्यपट शिथिल होकर ऊपर की ओर गुंबदाकार हो जाती है, छाती का आकार घटता है और हवा बाहर निकलती है।",
+        "en": "While exhaling, the diaphragm relaxes into an upward dome, the chest size shrinks and air flows out."
+      }
+    },
+    {
+      "id": "ch8_q808",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वयस्क स्वस्थ मनुष्य की विश्राम अवस्था में श्वसन दर (प्रति मिनट साँस) लगभग कितनी होती है?",
+        "en": "What is the approximate breathing rate of a healthy adult at rest (breaths per minute)?"
+      },
+      "options": {
+        "hi": [
+          "30–35",
+          "45–50",
+          "5–8",
+          "15–18"
+        ],
+        "en": [
+          "30–35",
+          "45–50",
+          "5–8",
+          "15–18"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विश्राम अवस्था में सामान्य श्वसन दर 15–18 साँस प्रति मिनट होती है; दौड़-व्यायाम में यह कई गुना बढ़ जाती है।",
+        "en": "At rest the normal breathing rate is 15–18 breaths per minute; during running or exercise it multiplies several-fold."
+      }
+    },
+    {
+      "id": "ch8_q809",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नाक के भीतर के बाल (nasal hairs) मुख्यतः क्या करते हैं?",
+        "en": "What do the hairs inside the nose mainly do?"
+      },
+      "options": {
+        "hi": [
+          "धूल और जीवाणु जैसे कण छानकर रोकते हैं",
+          "हवा को नम करते हैं",
+          "गंध पहचानते हैं",
+          "हवा को गर्म करते हैं"
+        ],
+        "en": [
+          "They filter out particles like dust and germs",
+          "They moisten the air",
+          "They detect smell",
+          "They warm the air"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नासिका-बाल हवा का पहला छलनी-द्वार है — बड़े कण यहीं अटक जाते हैं, जिससे फेफड़े साफ हवा पाते हैं।",
+        "en": "Nasal hairs are the first sieve of air — large particles get trapped here, keeping the incoming air clean for lungs."
+      }
+    },
+    {
+      "id": "ch8_q810",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शरीर में गैसों का वास्तविक आदान-प्रदान मुख्यतः कहाँ होता है?",
+        "en": "Where does the actual exchange of gases mainly occur in the body?"
+      },
+      "options": {
+        "hi": [
+          "ब्रांकाइ में",
+          "वायुकोशों (एल्वियोलाइ) में",
+          "नासिका गुहा में",
+          "श्वासनली में"
+        ],
+        "en": [
+          "In the bronchi",
+          "In the alveoli",
+          "In the nasal cavity",
+          "In the trachea"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पतली दीवारों वाले वायुकोश और उन्हें लपेटे केशिकाएँ मिलकर विनिमय-सतह बनाते हैं; शेष मार्ग केवल हवा पहुँचाता है।",
+        "en": "Thin-walled alveoli wrapped in capillaries form the exchange surface; the rest of the pathway merely delivers air."
+      }
+    },
+    {
+      "id": "ch8_q811",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फेफड़ों की बनावट कैसी होती है?",
+        "en": "What is the texture of the lungs?"
+      },
+      "options": {
+        "hi": [
+          "अस्थियुक्त कठोर",
+          "ठोस और पत्थर जैसी",
+          "स्पंजी (रसीली) और लचीली",
+          "तरल"
+        ],
+        "en": [
+          "Bony and hard",
+          "Solid and stone-like",
+          "Spongy and elastic",
+          "Liquid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फेफड़े करोड़ों वायुकोशों के कारण स्पंज की तरह दिखते हैं और लचीली प्रकृति के कारण साँस के साथ फैलते-सिकुड़ते हैं।",
+        "en": "Lungs look spongy due to millions of alveoli, and their elastic nature lets them expand and recoil with each breath."
+      }
+    },
+    {
+      "id": "ch8_q812",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक साँस-चक्र (breathing cycle) में कौन-सी दो क्रियाएँ होती हैं?",
+        "en": "Which two actions make up one breathing cycle?"
+      },
+      "options": {
+        "hi": [
+          "परिसंचरण और उत्सर्जन",
+          "संश्लेषण और विघटन",
+          "पाचन और अवशोषण",
+          "श्वसन-ग्रहण (inhalation) और श्वसन-त्याग (exhalation)"
+        ],
+        "en": [
+          "Circulation and excretion",
+          "Synthesis and breakdown",
+          "Digestion and absorption",
+          "Inhalation and exhalation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हवा अंदर लेना (श्वसन-ग्रहण) और बाहर छोड़ना (श्वसन-त्याग) — मिलकर एक श्वास-चक्र बनाते हैं।",
+        "en": "Taking air in (inhalation) and throwing it out (exhalation) — together they form one breathing cycle."
+      }
+    },
+    {
+      "id": "ch8_q813",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्वसन-मार्ग की भित्ति में चिपचिपा श्लेष्मा (mucus) क्यों स्रावित होता है?",
+        "en": "Why is sticky mucus secreted in the walls of the respiratory passage?"
+      },
+      "options": {
+        "hi": [
+          "धूल-कण और रोगाणु चिपकाकर फँसाने के लिए",
+          "हवा की गति बढ़ाने के लिए",
+          "आवाज़ उत्पन्न करने के लिए",
+          "हवा को ठंडा करने के लिए"
+        ],
+        "en": [
+          "To trap dust particles and germs by sticking them",
+          "To speed up the airflow",
+          "To produce voice",
+          "To cool the air"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "श्लेष्मा एक चिपचिपा जाल है — हवा के साथ आए कण उसमें चिपककर फेफड़ों तक जाने से रुक जाते हैं।",
+        "en": "Mucus is a sticky trap — particles riding the air stick to it and never reach the lungs."
+      }
+    },
+    {
+      "id": "ch8_q814",
+      "topic": "human-respiratory-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मुँह से नहीं, नाक से साँस लेना बेहतर क्यों माना जाता है?",
+        "en": "Why is breathing through the nose better than through the mouth?"
+      },
+      "options": {
+        "hi": [
+          "नाक में हवा का भंडार रहता है",
+          "नाक की राह हवा छनकर, गर्म होकर और नम होकर जाती है",
+          "मुँह से हवा अंदर नहीं जा सकती",
+          "नाक से साँस तेज़ होती है"
+        ],
+        "en": [
+          "The nose stores a reserve of air",
+          "Air via the nose gets filtered, warmed and moistened",
+          "Air cannot enter through the mouth",
+          "Nasal breathing is faster"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "नाक का मार्ग हवा को तीनों तरह से सुधारता है; मुँह का रास्ता सीधा और अछना होने से फेफड़ों के लिए कम अनुकूल है।",
+        "en": "The nasal route improves air in all three ways; the mouth route is direct and unfiltered, hence less ideal for lungs."
+      }
+    },
+    {
+      "id": "ch8_q815",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मनुष्य में हवा के प्रवाह का सही क्रम कौन-सा है?",
+        "en": "Which is the correct sequence of airflow in humans?"
+      },
+      "options": {
+        "hi": [
+          "नाक → ब्रोंकाइओल → ब्रांकाई → श्वासनली → वायुकोश",
+          "नाक → श्वासनली → स्वरयंत्र → ब्रांकाई → वायुकोश",
+          "नाक → स्वरयंत्र → श्वासनली → ब्रांकाई → ब्रोंकाइओल → वायुकोश",
+          "नाक → ब्रांकाई → श्वासनली → ब्रोंकाइओल → वायुकोश"
+        ],
+        "en": [
+          "Nose → bronchioles → bronchi → trachea → alveoli",
+          "Nose → trachea → larynx → bronchi → alveoli",
+          "Nose → larynx → trachea → bronchi → bronchioles → alveoli",
+          "Nose → bronchi → trachea → bronchioles → alveoli"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्रम याद रखें — नाक, ग्रसनी, स्वरयंत्र, श्वासनली, ब्रांकाई, ब्रोंकाइओल और अंत में वायुकोश।",
+        "en": "Remember the order — nose, pharynx, larynx, trachea, bronchi, bronchioles and finally the alveoli."
+      }
+    },
+    {
+      "id": "ch8_q816",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साँस लेते समय (inhalation) मध्यपट की क्रिया क्या होती है?",
+        "en": "What does the diaphragm do during inhalation?"
+      },
+      "options": {
+        "hi": [
+          "बाईं ओर मुड़ जाती है",
+          "कोई हरकत नहीं करती",
+          "शिथिल होकर ऊपर उठ जाती है",
+          "संकुचित होकर नीचे की ओर सपट (flat) हो जाती है"
+        ],
+        "en": [
+          "It bends to the left",
+          "It does not move",
+          "It relaxes and moves up",
+          "It contracts and flattens downward"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "साँस लेते समय मध्यपट सिकुड़कर नीचे सपट हो जाती है — छाती-गुहा लंबी होती है, आयतन बढ़ता है और हवा अंदर खिंचती है।",
+        "en": "During inhalation the diaphragm contracts and flattens down — the chest cavity lengthens, volume rises and air is drawn in."
+      }
+    },
+    {
+      "id": "ch8_q817",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साँस अंदर लेते समय पसलियाँ और छाती की दीवार की क्या हालत होती है?",
+        "en": "What happens to the ribs and chest wall while inhaling?"
+      },
+      "options": {
+        "hi": [
+          "पसलियाँ ऊपर और बाहर की ओर उठती हैं — छाती चौड़ी होती है",
+          "पसलियाँ स्थिर रहती हैं",
+          "पसलियाँ अंदर की ओर दबती हैं",
+          "पसलियाँ नीचे-अंदर आती हैं"
+        ],
+        "en": [
+          "The ribs lift up and outward — the chest broadens",
+          "The ribs stay still",
+          "The ribs press inward",
+          "The ribs move down and inward"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पसलियों के बीच की बाह्य पेशियाँ सिकुड़ती हैं, पसलियाँ ऊपर-बाहर उठती हैं और छाती-गुहा का आयतन बढ़ जाता है।",
+        "en": "Muscles between the ribs contract, the ribs swing up and out, and the chest cavity volume increases."
+      }
+    },
+    {
+      "id": "ch8_q818",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साँस अंदर खिंचने का मूल कारण क्या है?",
+        "en": "What is the basic reason that air gets drawn into the lungs?"
+      },
+      "options": {
+        "hi": [
+          "फेफड़े खुद हवा चूसते हैं",
+          "छाती-गुहा के आयतन बढ़ने से भीतर का दबाव बाहर के वायुमंडलीय दबाव से कम हो जाता है",
+          "नाक में हवा का खिंचाव होता है",
+          "हृदय की धड़कन हवा खींचती है"
+        ],
+        "en": [
+          "The lungs themselves suck air",
+          "As the chest cavity expands, pressure inside falls below the outside atmospheric pressure",
+          "A pull develops inside the nose",
+          "The heartbeat draws air in"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दबाव-अंतर का यही नियम है — छाती फैलती है, भीतरी दबाव घटता है, और वायुमंडल की हवा संतुलन के लिए अंदर दौड़ती है।",
+        "en": "It is pure pressure physics — the chest expands, inner pressure drops, and atmospheric air rushes in to balance."
+      }
+    },
+    {
+      "id": "ch8_q819",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "साँस लेते समय छाती-गुहा में आयतन और दबाव में क्या बदलाव होता है?",
+        "en": "What changes occur in the volume and pressure of the chest cavity during inhalation?"
+      },
+      "options": {
+        "hi": [
+          "दोनों घटते हैं",
+          "आयतन घटता है, दबान बढ़ता है",
+          "आयतन बढ़ता है, दबाव घटता है",
+          "दोनों बढ़ते हैं"
+        ],
+        "en": [
+          "Both decrease",
+          "Volume falls, pressure rises",
+          "Volume rises, pressure falls",
+          "Both increase"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मध्यपट-पसलियों के सिकुड़ने से आयतन बढ़ता और दबाव घटता है — घटा दबाव ही हवा को भीतर बुलाता है।",
+        "en": "Contraction of the diaphragm and ribs raises volume and lowers pressure — the lowered pressure is what calls the air in."
+      }
+    },
+    {
+      "id": "ch8_q820",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पसलियों के बीच स्थित पेशियाँ (intercostal muscles) साँस लेते समय क्या करती हैं?",
+        "en": "What do the intercostal muscles between the ribs do during inhalation?"
+      },
+      "options": {
+        "hi": [
+          "पसलियों को तोड़ती हैं",
+          "केवल खांसते समय काम करती हैं",
+          "शिथिल हो जाती हैं",
+          "संकुचित होकर पसलियों को ऊपर उठाती हैं"
+        ],
+        "en": [
+          "They break the ribs",
+          "They work only while coughing",
+          "They relax",
+          "They contract and lift the ribs upward"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अंतर-पसली पेशियों का संकुचन पसलियों के पिंजरे को ऊपर-बाहर खोलता है — मध्यपट के साथ मिलकर साँस की यंत्रीक्रिया पूरी करता है।",
+        "en": "Contraction of intercostal muscles swings the rib cage up and out — together with the diaphragm this completes the breathing mechanism."
+      }
+    },
+    {
+      "id": "ch8_q821",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सामान्य विश्राम-साँस छोड़ने की क्रिया किस प्रकार की मानी जाती है?",
+        "en": "Normal exhalation at rest is considered which type of process?"
+      },
+      "options": {
+        "hi": [
+          "निष्क्रिय (passive) — पेशियों के शिथिल होने से, बिना अतिरिक्त मेहनत के",
+          "कोई क्रिया नहीं होती",
+          "रुधिर-दबाव से चलने वाली",
+          "सक्रिय — पेशियों के संकुचन से"
+        ],
+        "en": [
+          "Passive — driven by muscle relaxation, without extra effort",
+          "No process occurs",
+          "Driven by blood pressure",
+          "Active — driven by muscle contraction"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विश्राम में साँस छोड़ना निष्क्रिय है — मध्यपट व पसली-पेशियाँ शिथिल होती हैं और फेफड़ों की प्रत्यास्थता हवा को बाहर धकेल देती है; जोर से छोड़ने पर पेशियाँ सक्रिय होती हैं।",
+        "en": "Resting exhalation is passive — diaphragm and rib muscles relax and the lungs' own elasticity pushes air out; forceful exhalation recruits muscles."
+      }
+    },
+    {
+      "id": "ch8_q822",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दौड़ते समय हमारी साँस तेज़ और गहरी क्यों हो जाती है?",
+        "en": "Why do our breaths become fast and deep while running?"
+      },
+      "options": {
+        "hi": [
+          "फेफड़े गर्म हो जाते हैं",
+          "मांसपेशियों को अधिक ऊर्जा चाहिए — अधिक ऑक्सीजन लेने और अधिक कार्बन डाइऑक्साइड निकालने के लिए",
+          "हवा में ऑक्सीजन घट जाती है",
+          "हृदय धीमा पड़ जाता है"
+        ],
+        "en": [
+          "The lungs heat up",
+          "Muscles need more energy — to take in more oxygen and expel more carbon dioxide",
+          "Oxygen in the air decreases",
+          "The heart slows down"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तेज़ काम से कोशिकीय श्वसन बढ़ता है; O2 की माँग और CO2 का उत्पादन दोनों बढ़ते हैं, इसलिए श्वसन-तंत्र तेज़ चलता है।",
+        "en": "Hard work raises cellular respiration; both the O2 demand and CO2 output rise, so the breathing system speeds up."
+      }
+    },
+    {
+      "id": "ch8_q823",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्वास-जल परीक्षण में हमारी छोड़ी हुई साँस चूने के पानी को दूधिया कर देती है — इससे क्या प्रमाणित होता है?",
+        "en": "Our exhaled breath turns lime water milky — what does this prove?"
+      },
+      "options": {
+        "hi": [
+          "चूने का पानी जहरीला है",
+          "छोड़ी हवा में ऑक्सीजन बढ़ जाती है",
+          "छोड़ी हवा में कार्बन डाइऑक्साइड होता है",
+          "हमारे फेफड़े बीमार हैं"
+        ],
+        "en": [
+          "Lime water is toxic",
+          "Exhaled air has more oxygen",
+          "Exhaled air contains carbon dioxide",
+          "Our lungs are diseased"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चूने का पानी CO2 का परीक्षक है — दूधिया होना CO2 की उपस्थिति का पक्का संकेत है; श्वसन में CO2 निकलता है।",
+        "en": "Lime water is the CO2 tester — turning milky is firm proof of CO2, which respiration releases."
+      }
+    },
+    {
+      "id": "ch8_q824",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भीतर ली गई हवा और छोड़ी गई हवा की संरचना में मुख्य अंतर क्या है?",
+        "en": "What is the main difference between the composition of inhaled and exhaled air?"
+      },
+      "options": {
+        "hi": [
+          "छोड़ी हवा में O2 अधिक होता है",
+          "दोनों एकदम समान होती हैं",
+          "छोड़ी हवा में नाइट्रोजन नहीं होती",
+          "छोड़ी हवा में CO2 अधिक, O2 कम और जल-वाष्प अधिक होता है"
+        ],
+        "en": [
+          "Exhaled air has more O2",
+          "Both are exactly the same",
+          "Exhaled air lacks nitrogen",
+          "Exhaled air has more CO2, less O2 and more water vapour"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विनिमय में रुधिर CO2 छोड़कर O2 लेता है — इसलिए निकली हवा CO2 और जल-वाष्प से भरपूर, O2 से थोड़ी खाली होती है।",
+        "en": "In exchange, blood drops CO2 and picks up O2 — so the outgoing air is rich in CO2 and vapour, slightly poorer in O2."
+      }
+    },
+    {
+      "id": "ch8_q825",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "छोड़ी गई हवा में ऑक्सीजन बिल्कुल खत्म क्यों नहीं हो जाती?",
+        "en": "Why is the exhaled air not completely emptied of oxygen?"
+      },
+      "options": {
+        "hi": [
+          "वायुकोशों में रुधिर के संपर्क में आने वाली सारी हवा का विनिमय नहीं हो पाता — कुछ O2 बची रह जाती है",
+          "हम जानबूझकर O2 रोकते हैं",
+          "नाक O2 वापस ले लेता है",
+          "फेफड़े O2 छानना भूल जाते हैं"
+        ],
+        "en": [
+          "Not all air coming in contact with blood in the alveoli gets exchanged — some O2 is left over",
+          "We deliberately hold back O2",
+          "The nose takes the O2 back",
+          "The lungs forget to filter O2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विनिमय पूर्ण निष्कासन तक नहीं पहुँचता — मरा हुआ अंश (dead space) और अपूर्ण संतुलन हमेशा कुछ O2 हवा में छोड़ देता है; इसीलिए प्राण-वायु (CPR) संभव है।",
+        "en": "Exchange never runs to completion — dead-space air and incomplete equilibration always leave some O2 in the breath; that is why mouth-to-mouth resuscitation works."
+      }
+    },
+    {
+      "id": "ch8_q826",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्वासनली के भीतर की सतह पर पाई जाने वाली ग्रंथियुक्त तथा पक्षमाभीय परत मिलकर क्या कार्य करती है?",
+        "en": "What combined function is served by the glandular and ciliated lining inside the trachea?"
+      },
+      "options": {
+        "hi": [
+          "भोजन पचाना",
+          "श्लेष्मा बनाकर कण चिपकाना और पक्षमों से उसे ऊपर की ओर बाहर झाड़ना",
+          "रुधिर बनाना",
+          "आवाज़ के तार कसना"
+        ],
+        "en": [
+          "Digesting food",
+          "Secreting mucus to trap particles and sweeping it upward and out with cilia",
+          "Making blood",
+          "Tightening the vocal cords"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "श्लेष्मा-जाल + पक्षमा-झाड़ू का यह जोड़ा श्वसन-मार्ग की सफाई-व्यवस्था है — प्रदूषण और संक्रमण से फेफड़ों की रक्षा की पहली पंक्ति।",
+        "en": "The mucus-net plus cilia-broom pair is the airway's cleaning system — the first line of defence guarding lungs from dust and infection."
+      }
+    },
+    {
+      "id": "ch8_q827",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्वरयंत्र (larynx) का क्या कार्य है?",
+        "en": "What is the function of the larynx?"
+      },
+      "options": {
+        "hi": [
+          "रुधिर शुद्ध करना",
+          "हवा छानना",
+          "आवाज़ उत्पन्न करना — इसी में स्वर-तंतु कंपित होते हैं",
+          "भोजन पचाना"
+        ],
+        "en": [
+          "Purifying blood",
+          "Filtering air",
+          "Producing voice — its vocal cords vibrate",
+          "Digesting food"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्वरयंत्र के दो स्वर-तंतु हवा के दबाव में कंपन करके ध्वनि बनाते हैं; इसीलिए इसे आवाज़ का पेटी कहते हैं।",
+        "en": "Two vocal cords inside the larynx vibrate under air pressure to create sound — hence it is called the voice box."
+      }
+    },
+    {
+      "id": "ch8_q828",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भोजन निगलते समय भोजन श्वासनली में जाने से कौन-सी संरचना रोकती है?",
+        "en": "Which structure prevents food from entering the trachea while swallowing?"
+      },
+      "options": {
+        "hi": [
+          "मध्यपट",
+          "श्लेष्मा",
+          "उरोस्थि",
+          "कंठ-पट्टिका (epiglottis)"
+        ],
+        "en": [
+          "Diaphragm",
+          "Mucus",
+          "Sternum",
+          "Epiglottis"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "निगलते समय कंठ-पट्टिका श्वासनली का ढक्कन बनकर स्वरयंत्र का द्वार बंद कर देती है — इसी से खाना भोजन-नली में ही जाता है।",
+        "en": "While swallowing, the epiglottis acts as a lid, sealing the entrance of the airway so food goes only down the food pipe."
+      }
+    },
+    {
+      "id": "ch8_q829",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायुकोशों (alveoli) की संख्या फेफड़ों में करोड़ों में होती है — इसका मुख्य परिणाम क्या है?",
+        "en": "The alveoli number in millions inside the lungs — what is the chief outcome of this?"
+      },
+      "options": {
+        "hi": [
+          "हवा के साथ रुधिर के संपर्क की सतह अत्यंत बड़ी हो जाती है",
+          "हवा गर्म हो जाती है",
+          "साँस की आवाज़ प्रबल होती है",
+          "फेफड़े भारी हो जाते हैं"
+        ],
+        "en": [
+          "The surface of contact between air and blood becomes enormously large",
+          "The air gets warmed",
+          "The sound of breathing grows louder",
+          "The lungs become heavy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "करोड़ों छोटे-छोटे वायुकोश मिलकर विनिमय-सतह को इतना विस्तार देते हैं कि गैस-विनिमय तेज़ी और पर्याप्त मात्रा में हो सके।",
+        "en": "Millions of tiny alveoli stretch the exchange surface so wide that gas exchange happens fast and in adequate quantity."
+      }
+    },
+    {
+      "id": "ch8_q830",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "व्यायाम के तुरंत बाद विद्यार्थी अपनी साँसों की गिनती करता है — प्रयोग से क्या निष्कर्ष निकलता है?",
+        "en": "A student counts breaths immediately after exercise — what conclusion does the experiment yield?"
+      },
+      "options": {
+        "hi": [
+          "साँस रुक जाती है",
+          "विश्राम की तुलना में श्वसन-दर बढ़ जाती है",
+          "श्वसन-दर घट जाती है",
+          "श्वसन-दर बिल्कुल बदलती नहीं"
+        ],
+        "en": [
+          "Breathing stops",
+          "The breathing rate rises compared with rest",
+          "The breathing rate falls",
+          "The breathing rate does not change at all"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मांसपेशियों के काम से O2-खपत व CO2-निर्माण बढ़ता है; शरीर का प्रतिक्रिया-उत्तर है — तेज़ श्वसन-दर।",
+        "en": "Working muscles consume more O2 and release more CO2; the body's response is a faster breathing rate."
+      }
+    },
+    {
+      "id": "ch8_q831",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्कूल-प्रयोग में श्वसन-मॉडल के काँच-जार में गुब्बारे (फेफड़े) और नीचे रबर की झिल्ली होती है — झिल्ली किसे दर्शाती है?",
+        "en": "In the bell-jar breathing model, balloons (lungs) sit above a rubber sheet — what does the sheet represent?"
+      },
+      "options": {
+        "hi": [
+          "पसलियाँ",
+          "हृदय",
+          "मध्यपट (डायाफ्राम)",
+          "यकृत"
+        ],
+        "en": [
+          "The ribs",
+          "The heart",
+          "The diaphragm",
+          "The liver"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "झिल्ली नीचे खींचने पर गुब्बारे फूलते हैं और छोड़ने पर सिकुड़ते हैं — ठीक वैसे ही जैसे मध्यपट की हरकत से फेफड़े हवा भरते-खाली करते हैं।",
+        "en": "Pulling the sheet down inflates the balloons and releasing it deflates them — exactly how diaphragm movement fills and empties the lungs."
+      }
+    },
+    {
+      "id": "ch8_q832",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्वास-मार्ग का सबसे छोटा अंतिम विभाजन कौन-सा है जिससे वायुकोश जुड़ते हैं?",
+        "en": "Which is the smallest final division of the airway to which the alveoli attach?"
+      },
+      "options": {
+        "hi": [
+          "श्वासनली",
+          "ग्रसनी",
+          "ब्रांका",
+          "ब्रोंकाइओल"
+        ],
+        "en": [
+          "Trachea",
+          "Pharynx",
+          "Bronchus",
+          "Bronchiole"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ब्रांकाइ से अनगिनत सूक्ष्म ब्रोंकाइओल निकलते हैं और हर ब्रोंकाइओल के सिरे पर वायुकोशों का गुच्छा लगा होता है।",
+        "en": "Countless fine bronchioles branch off the bronchi, and each bronchiole tip carries a cluster of alveoli."
+      }
+    },
+    {
+      "id": "ch8_q833",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्या होगा यदि श्वासनली की दीवार में उपास्थि के सख्त छल्ले न हों?",
+        "en": "What would happen if the trachea lacked its stiff rings of cartilage?"
+      },
+      "options": {
+        "hi": [
+          "नली दबाव पर बैठ जाती और हवा का रास्ता बंद हो जाता",
+          "आवाज़ बंद हो जाती",
+          "भोजन नली में जाने लगता",
+          "कुछ नहीं होता"
+        ],
+        "en": [
+          "The tube would collapse under pressure and block the airflow",
+          "The voice would stop",
+          "Food would start entering it",
+          "Nothing would happen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "छल्ले नली को हमेशा खुला रखते हैं; इनके बिना गले के बाहरी दबाव में हवा की नली दब जाती — साँस लेना संकट में पड़ जाता।",
+        "en": "The rings keep the tube permanently open; without them external pressure of the neck would flatten the airway and make breathing critical."
+      }
+    },
+    {
+      "id": "ch8_q834",
+      "topic": "human-respiratory-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बायाँ फेफड़ा दाएँ से थोड़ा छोटा क्यों होता है?",
+        "en": "Why is the left lung slightly smaller than the right?"
+      },
+      "options": {
+        "hi": [
+          "बाईं ओर हवा कम जाती है",
+          "बाईं ओर हृदय को जगह देने के लिए",
+          "बायाँ फेफड़ा निष्क्रिय होता है",
+          "जन्मजात विकृति से"
+        ],
+        "en": [
+          "Less air goes to the left side",
+          "To make room for the heart on the left side",
+          "The left lung is non-functional",
+          "Due to a birth defect"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हृदय छाती में थोड़ा बाईं ओर झुका होता है; बायाँ फेफड़ा उसे जगह देने के लिए दाएँ से छोटा और आकार में खांचेदार बना है।",
+        "en": "The heart tilts slightly to the left in the chest; the left lung is correspondingly smaller and notched to accommodate it."
+      }
+    },
+    {
+      "id": "ch8_q835",
+      "topic": "human-respiratory-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "क्या फेफड़े अपने आप फैल-सिकुड़ सकते हैं?",
+        "en": "Can the lungs expand and contract on their own?"
+      },
+      "options": {
+        "hi": [
+          "केवल नींद में खुद चलते हैं",
+          "हाँ, उनमें खिंचाव-पेशी होती है",
+          "नहीं — उन्हें बाहर से मध्यपट और पसली-पेशियों की हरकत से फैलाया-सिकोड़ा जाता है",
+          "हाँ, हवा के दबाव से खुद चलते हैं"
+        ],
+        "en": [
+          "Only during sleep do they run themselves",
+          "Yes, they contain stretch muscles",
+          "No — they are inflated and deflated externally by the movements of the diaphragm and rib muscles",
+          "Yes, air pressure runs them by itself"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फेफड़ों में अपनी संकुचन-पेशी नहीं होती; वे मध्यपट व अंतर-पसली पेशियों द्वारा बदले गए छाती-दबाव के साथ निष्क्रिय रूप से फैलते-सिकुड़ते हैं।",
+        "en": "Lungs have no muscles of their own to drive breathing; they passively follow the chest-pressure changes created by the diaphragm and intercostal muscles."
+      }
+    },
+    {
+      "id": "ch8_q836",
+      "topic": "human-respiratory-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "खाँसते या छींकते समय शरीर में क्या होता है?",
+        "en": "What happens in the body during coughing or sneezing?"
+      },
+      "options": {
+        "hi": [
+          "फेफड़े बंद हो जाते हैं",
+          "हवा पेट में चली जाती है",
+          "मध्यपट शिथिल हो जाता है",
+          "पेट-पेशियों व मध्यपट के जोरदार संकुचन से हवा बड़ी रफ्तार से बाहर फेंकी जाती है — उकसावे वाले कण निकल जाते हैं"
+        ],
+        "en": [
+          "The lungs shut down",
+          "The air diverts into the stomach",
+          "The diaphragm relaxes",
+          "Forceful contraction of abdominal muscles and the diaphragm throws air out at high speed — the irritating particles are expelled"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खाँसा-छींक श्वसन-मार्ग का सुरक्षा-प्रतिवर्त है — तीव्र दबाव की हवा के झोंके से गले-नाक का कचरा बाहर फेंका जाता है।",
+        "en": "Coughing and sneezing are protective reflexes of the airway — a high-pressure blast of air throws the irritant debris out."
+      }
+    },
+    {
+      "id": "ch8_q837",
+      "topic": "human-respiratory-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गहरी नींद में भी हमारी साँस बिना रुके चलती रहती है — इसका नियंत्रण कौन करता है?",
+        "en": "Our breathing continues without pause even in deep sleep — which part controls this?"
+      },
+      "options": {
+        "hi": [
+          "मस्तिष्क का श्वसन-केंद्र (medulla)",
+          "हृदय",
+          "पसलियाँ",
+          "फेफड़े स्वयं"
+        ],
+        "en": [
+          "The respiratory centre of the brain (medulla)",
+          "The heart",
+          "The ribs",
+          "The lungs themselves"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मस्तिष्क-तना (मेडुला) का श्वसन-केंद्र रुधिर की CO2-मात्रा पर नज़र रखकर स्वतः साँस की दर नियंत्रित करता है — इसीलिए नींद में भी श्वसन चलता रहता है।",
+        "en": "The respiratory centre in the brain stem (medulla) monitors blood CO2 and automatically sets the breathing rate — so breathing never stops in sleep."
+      }
+    },
+    {
+      "id": "ch8_q838",
+      "topic": "human-respiratory-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "डूबते व्यक्ति को खींचते समय बचावकर्ता उसका पानी निकालने के बाद मुँह-से-मुँह साँस (CPR-की तरह) देता है — यह कैसे काम करता है?",
+        "en": "How does mouth-to-mouth breathing given during rescue work?"
+      },
+      "options": {
+        "hi": [
+          "यह केवल मनोबल बढ़ाता है",
+          "बचावकर्ता अपनी छोड़ी हवा में मौजूद बची हुई ऑक्सीजन से डूबते व्यक्ति के फेफड़े फुलाता है",
+          "वह शुद्ध ऑक्सीजन बनाता है",
+          "उसकी हवा में CO2 ज्यादा होती है जो अच्छा है"
+        ],
+        "en": [
+          "It only boosts morale",
+          "The rescuer's exhaled air still carries leftover oxygen, which inflates the victim's lungs",
+          "The rescuer produces pure oxygen",
+          "His air is rich in CO2, which is good"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "छोड़ी हुई हवा में लगभग 16% ऑक्सीजन बची रहती है — यही अंश डूबते व्यक्ति के रुधिर तक पहुँचकर जान बचा सकता है।",
+        "en": "Exhaled air retains roughly 16% oxygen — this fraction can reach the victim's blood and save a life."
+      }
+    },
+    {
+      "id": "ch8_q839",
+      "topic": "human-respiratory-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कक्षा-प्रयोग में विद्यार्थी साँस भरने और छोड़ने पर छाती की परिधि मापता है — साँस भरने पर परिधि बढ़ना किसे प्रदर्शित करता है?",
+        "en": "In a class experiment a student measures chest circumference while inhaling and exhaling — what does the increase on inhaling demonstrate?"
+      },
+      "options": {
+        "hi": [
+          "मध्यपट का ऊपर उठना",
+          "फेफड़ों में रुधिर का भरना",
+          "पसलियों का ऊपर-बाहर उठकर छाती-गुहा बड़ा करना — श्वसन-यंत्रीक्रिया का सीधा प्रमाण",
+          "हृदय का फैलना"
+        ],
+        "en": [
+          "The diaphragm moving up",
+          "Blood filling the lungs",
+          "The ribs rising up and outward enlarging the chest cavity — direct proof of the breathing mechanism",
+          "The heart expanding"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "साँस भरते समय पसली-पिंजरा ऊपर-बाहर खुलता है और मध्यपट नीचे जाता है — परिधि का बढ़ना इसी यंत्रीक्रिया का मापने-योग्य प्रमाण है।",
+        "en": "While inhaling, the rib cage swings up and out as the diaphragm descends — the growing circumference is measurable proof of this mechanism."
+      }
+    },
+    {
+      "id": "ch8_q840",
+      "topic": "human-respiratory-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "हिचकी (hiccup) आने का कारण क्या होता है?",
+        "en": "What causes hiccups?"
+      },
+      "options": {
+        "hi": [
+          "हृदय की धड़कन बढ़ना",
+          "भोजन-नली में वायु फँसना",
+          "फेफड़ों में वायु भर जाना",
+          "मध्यपट की पेशी में अनैच्छिक झटकेदार संकुचन (spasm) होना"
+        ],
+        "en": [
+          "A rise in the heartbeat",
+          "Air trapping in the food pipe",
+          "Air filling the lungs",
+          "Sudden involuntary spasmodic contraction of the diaphragm muscle"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हिचकी मध्यपट की अचानक अनैच्छिक ऐंठन है — हर झटके से हवा तेजी से अंदर आती है और स्वरयंत्र का द्वार बंद होकर विशेष ध्वनि बनाता है।",
+        "en": "A hiccup is a sudden involuntary spasm of the diaphragm — each jerk pulls air in sharply and the voice-box snap shut makes the characteristic sound."
+      }
+    },
+    {
+      "id": "ch8_q841",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऑक्सीजन की उपस्थिति में ग्लूकोज़ के विघटन को क्या कहते हैं?",
+        "en": "What is the breakdown of glucose in the presence of oxygen called?"
+      },
+      "options": {
+        "hi": [
+          "वायवीय (एरोबिक) श्वसन",
+          "प्रकाश-संश्लेषण",
+          "वाष्पोत्सर्जन",
+          "अवायवीय श्वसन"
+        ],
+        "en": [
+          "Aerobic respiration",
+          "Photosynthesis",
+          "Transpiration",
+          "Anaerobic respiration"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऑक्सीजन के साथ होने वाला श्वसन वायवीय श्वसन है — यह ग्लूकोज़ को पूर्णतः तोड़कर सर्वाधिक ऊर्जा देता है।",
+        "en": "Respiration that uses oxygen is aerobic respiration — it breaks glucose completely and yields the most energy."
+      }
+    },
+    {
+      "id": "ch8_q842",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायवीय श्वसन के अंतिम उत्पाद कौन-से हैं?",
+        "en": "What are the end products of aerobic respiration?"
+      },
+      "options": {
+        "hi": [
+          "लैक्टिक अम्ल + ऊर्जा",
+          "CO2 + जल + ऊर्जा",
+          "ग्लूकोज़ + ऑक्सीजन",
+          "एथेनॉल + CO2"
+        ],
+        "en": [
+          "Lactic acid + energy",
+          "CO2 + water + energy",
+          "Glucose + oxygen",
+          "Ethanol + CO2"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऑक्सीजन में ग्लूकोज़ पूरा टूटकर कार्बन डाइऑक्साइड, जल और बड़ी मात्रा में ऊर्जा देता है।",
+        "en": "In oxygen, glucose breaks fully into carbon dioxide, water and a large amount of energy."
+      }
+    },
+    {
+      "id": "ch8_q843",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'अवायवीय (anaerobic)' शब्द का अर्थ क्या है?",
+        "en": "What does the word 'anaerobic' mean?"
+      },
+      "options": {
+        "hi": [
+          "जल में",
+          "ऑक्सीजन की उपस्थिति में",
+          "ऑक्सीजन की अनुपस्थिति में",
+          "प्रकाश में"
+        ],
+        "en": [
+          "In water",
+          "In the presence of oxygen",
+          "In the absence of oxygen",
+          "In light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एन = नहीं, एरोबिक = वायु-श्वसन — अर्थात् बिना ऑक्सीजन के होने वाला श्वसन।",
+        "en": "An = without, aerobic = air-using — respiration happening without oxygen."
+      }
+    },
+    {
+      "id": "ch8_q844",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऑक्सीजन के बिना खमीर (yeast) ग्लूकोज़ को तोड़कर क्या बनाता है?",
+        "en": "Without oxygen, what does yeast produce by breaking glucose?"
+      },
+      "options": {
+        "hi": [
+          "जल + ऊर्जा",
+          "प्रोटीन",
+          "लैक्टिक अम्ल",
+          "एथेनॉल (अल्कोहल) + CO2"
+        ],
+        "en": [
+          "Water + energy",
+          "Protein",
+          "Lactic acid",
+          "Ethanol (alcohol) + CO2"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खमीर का अवायवीय श्वसन ग्लूकोज़ से एथेनॉल और CO2 बनाता है — यही किण्वन (fermentation) है।",
+        "en": "Yeast's anaerobic respiration converts glucose into ethanol and CO2 — this is fermentation."
+      }
+    },
+    {
+      "id": "ch8_q845",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खमीर द्वारा अवायवीय श्वसन की प्रक्रिया का विशेष नाम क्या है?",
+        "en": "What is the special name of the anaerobic respiration carried out by yeast?"
+      },
+      "options": {
+        "hi": [
+          "किण्वन (fermentation)",
+          "वाष्पोत्सर्जन",
+          "उत्सर्जन",
+          "प्रकाश-संश्लेषण"
+        ],
+        "en": [
+          "Fermentation",
+          "Transpiration",
+          "Excretion",
+          "Photosynthesis"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खमीर का शराब/CO2 उत्पादक अवायवीय श्वसन ही किण्वन कहलाता है — डोमेस्टिक उपयोग इसी से जुड़े हैं।",
+        "en": "Yeast's alcohol-and-CO2-producing anaerobic respiration is called fermentation — many household uses depend on it."
+      }
+    },
+    {
+      "id": "ch8_q846",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तेज़ दौड़ के बाद पैरों की मांसपेशियों में ऐंठन (cramps) क्यों पड़ती है?",
+        "en": "Why do leg muscles develop cramps after a fast run?"
+      },
+      "options": {
+        "hi": [
+          "मांसपेशियाँ फट जाती हैं",
+          "ऑक्सीजन की कमी में बना लैक्टिक अम्ल जमा हो जाता है",
+          "हड्डियाँ घिस जाती हैं",
+          "रुधिर की मात्रा घट जाती है"
+        ],
+        "en": [
+          "The muscles tear",
+          "Lactic acid formed due to oxygen shortage accumulates",
+          "The bones wear out",
+          "The blood volume falls"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तेज़ काम में O2 पूरी नहीं पहुँचती — मांसपेशियाँ अवायवीय श्वसन से लैक्टिक अम्ल बनाती हैं और उसके जमा होने से ऐंठन-दर्द होता है।",
+        "en": "During intense work O2 runs short — muscles switch to anaerobic respiration, and the accumulated lactic acid causes cramping pain."
+      }
+    },
+    {
+      "id": "ch8_q847",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कोशिका के भीतर वायवीय श्वसन मुख्यतः कहाँ होता है?",
+        "en": "Where inside the cell does aerobic respiration mainly occur?"
+      },
+      "options": {
+        "hi": [
+          "गॉल्जी उपकरण",
+          "माइटोकॉन्ड्रिया",
+          "राइबोसोम",
+          "केंद्रक"
+        ],
+        "en": [
+          "Golgi apparatus",
+          "Mitochondria",
+          "Ribosome",
+          "Nucleus"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "माइटोकॉन्ड्रिया कोशिका की ऊर्जा-मशीन है — ग्लूकोज़ का ऑक्सीजन के साथ विघटन यहीं पूरा होता है।",
+        "en": "Mitochondria are the cell's power plants — the oxygen-based breakdown of glucose is completed here."
+      }
+    },
+    {
+      "id": "ch8_q848",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायवीय और अवायवीय श्वसन में से किसमें ऊर्जा की प्राप्ति अधिक होती है?",
+        "en": "Between aerobic and anaerobic respiration, which yields more energy?"
+      },
+      "options": {
+        "hi": [
+          "दोनों में बराबर",
+          "किसी में नहीं",
+          "अवायवीय में",
+          "वायवीय में"
+        ],
+        "en": [
+          "Equal in both",
+          "In neither",
+          "In anaerobic",
+          "In aerobic"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वायवीय श्वसन ग्लूकोज़ का पूर्ण विघटन करता है, इसलिए ऊर्जा बहुत अधिक मिलती है; अवायवीय में विघटन अधूरा रहता है।",
+        "en": "Aerobic respiration breaks glucose completely, releasing far more energy; anaerobic breakdown stays incomplete."
+      }
+    },
+    {
+      "id": "ch8_q849",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कोशिका में ऊर्जा किस रूप में संग्रहीत रहती है?",
+        "en": "In what form is energy stored in the cell?"
+      },
+      "options": {
+        "hi": [
+          "ATP (एडेनोसीन ट्राइफॉस्फेट) के रूप में",
+          "विटामिनों में",
+          "जल में",
+          "वसा कणों में सदैव"
+        ],
+        "en": [
+          "As ATP (adenosine triphosphate)",
+          "In vitamins",
+          "In water",
+          "Always in fat droplets"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "श्वसन से छूटी ऊर्जा ATP अणुओं में जमा होती है; कोशिका जब चाहे, ATP तोड़कर तुरंत ऊर्जा ले लेती है।",
+        "en": "Energy freed by respiration is packed into ATP molecules; the cell snaps an ATP whenever it needs instant energy."
+      }
+    },
+    {
+      "id": "ch8_q850",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हमारी मांसपेशियाँ कब अवायवीय श्वसन का सहारा लेती हैं?",
+        "en": "When do our muscles take recourse to anaerobic respiration?"
+      },
+      "options": {
+        "hi": [
+          "विश्राम में सदैव",
+          "जब ऑक्सीजन की आपूर्ति काम की माँग के बराबर नहीं पहुँच पाती",
+          "सोते समय",
+          "भोजन के समय"
+        ],
+        "en": [
+          "Always at rest",
+          "When the oxygen supply cannot match the demand of the work",
+          "While sleeping",
+          "While eating"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "भारी-तेज़ काम में रुधिर से O2 की आपूर्ति पीछे रह जाती है — तब मांसपेशियाँ बिना O2 वाले मार्ग से ऊर्जा बनाती हैं।",
+        "en": "During heavy exertion, blood cannot deliver O2 fast enough — muscles then extract energy through the oxygen-free route."
+      }
+    },
+    {
+      "id": "ch8_q851",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायवीय श्वसन का शब्द-समीकरण पूरा कीजिए: ग्लूकोज़ + ऑक्सीजन → ?",
+        "en": "Complete the word equation of aerobic respiration: glucose + oxygen → ?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटीन + ऊर्जा",
+          "एथेनॉल + CO2 + ऊर्जा",
+          "CO2 + जल + ऊर्जा",
+          "लैक्टिक अम्ल + जल"
+        ],
+        "en": [
+          "Protein + energy",
+          "Ethanol + CO2 + energy",
+          "CO2 + water + energy",
+          "Lactic acid + water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ग्लूकोज़ + O2 → CO2 + H2O + ऊर्जा — वायवीय श्वसन का यही संतुलित समीकरण है।",
+        "en": "Glucose + O2 → CO2 + H2O + energy — this is the balanced equation of aerobic respiration."
+      }
+    },
+    {
+      "id": "ch8_q852",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खमीर में अवायवीय श्वसन का समीकरण क्या है?",
+        "en": "What is the equation of anaerobic respiration in yeast?"
+      },
+      "options": {
+        "hi": [
+          "ग्लूकोज़ + O2 → CO2 + H2O",
+          "ग्लूकोज़ → ग्लाइकोजन + ऊर्जा",
+          "ग्लूकोज़ → लैक्टिक अम्ल + ऊर्जा",
+          "ग्लूकोज़ → एथेनॉल + CO2 + ऊर्जा"
+        ],
+        "en": [
+          "Glucose + O2 → CO2 + H2O",
+          "Glucose → glycogen + energy",
+          "Glucose → lactic acid + energy",
+          "Glucose → ethanol + CO2 + energy"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खमीर ग्लूकोज़ को एथेनॉल और CO2 में तोड़ता है — इसी से शराब और बेकरी-उत्पाद जुड़े हैं।",
+        "en": "Yeast splits glucose into ethanol and CO2 — the basis of brewing and bakery products."
+      }
+    },
+    {
+      "id": "ch8_q853",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हमारी मांसपेशियों में अवायवीय श्वसन का समीकरण क्या है?",
+        "en": "What is the equation of anaerobic respiration in our muscles?"
+      },
+      "options": {
+        "hi": [
+          "ग्लूकोज़ → लैक्टिक अम्ल + ऊर्जा",
+          "ग्लूकोज़ + O2 → CO2 + जल",
+          "ग्लूकोज़ → स्टार्च + ऊर्जा",
+          "ग्लूकोज़ → एथेनॉल + CO2 + ऊर्जा"
+        ],
+        "en": [
+          "Glucose → lactic acid + energy",
+          "Glucose + O2 → CO2 + water",
+          "Glucose → starch + energy",
+          "Glucose → ethanol + CO2 + energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऑक्सीजन की कमी में मांसपेशियाँ ग्लूकोज़ को लैक्टिक अम्ल में तोड़ती हैं — ध्यान दें, यहाँ CO2 नहीं बनता।",
+        "en": "Short of oxygen, muscles break glucose into lactic acid — note, no CO2 forms here."
+      }
+    },
+    {
+      "id": "ch8_q854",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अवायवीय श्वसन में ऊर्जा कम क्यों मिलती है?",
+        "en": "Why does anaerobic respiration release less energy?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि ATP काम नहीं करता",
+          "क्योंकि ग्लूकोज़ बिल्कुल टूटता नहीं — विघटन अधूरा रहता है और ऊर्जा अंतिम उत्पादों में बंद रह जाती है",
+          "क्योंकि ऑक्सीजन ऊर्जा खा जाती है",
+          "क्योंकि ग्लूकोज़ बनना बंद हो जाता है"
+        ],
+        "en": [
+          "Because ATP stops working",
+          "Because glucose is not fully broken — the breakdown stays incomplete and energy remains locked in the end products",
+          "Because oxygen eats up the energy",
+          "Because glucose stops forming"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अधूरे विघटन (एथेनॉल/लैक्टिक अम्ल) में ग्लूकोज़ की बची ऊर्जा उत्पादों के भीतर ही रह जाती है — इसीलिए ऊर्जा-लाभ कम होता है।",
+        "en": "In incomplete breakdown (ethanol/lactic acid), part of glucose's energy stays sealed inside the products — hence the smaller energy gain."
+      }
+    },
+    {
+      "id": "ch8_q855",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दौड़ समाप्त करने के बाद भी खिलाड़ी कुछ देर तेज़ साँस लेता रहता है — कारण?",
+        "en": "Even after finishing a race, an athlete keeps breathing hard for a while — why?"
+      },
+      "options": {
+        "hi": [
+          "हवा में O2 घट गई थी",
+          "उसे डर लगता है",
+          "जमा लैक्टिक अम्ल तोड़ने के लिए अतिरिक्त ऑक्सीजन चाहिए — 'ऑक्सीजन-ऋण' चुकाना पड़ता है",
+          "उसके फेफड़े कमजोर हैं"
+        ],
+        "en": [
+          "The air had less O2",
+          "He feels scared",
+          "Breaking the accumulated lactic acid needs extra oxygen — the 'oxygen debt' must be repaid",
+          "His lungs are weak"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मांसपेशियों का लैक्टिक अम्ल तभी हटता है जब अतिरिक्त O2 ली जाए — इसी अतिरिक्त साँस को ऑक्सीजन-ऋण की भरपाई कहते हैं।",
+        "en": "Muscle lactic acid clears only with extra O2 intake — this after-race heavy breathing is called repaying the oxygen debt."
+      }
+    },
+    {
+      "id": "ch8_q856",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा कथन वायवीय-अवायवीय श्वसन के बारे में सही है?",
+        "en": "Which statement about aerobic and anaerobic respiration is correct?"
+      },
+      "options": {
+        "hi": [
+          "अवायवीय केवल मनुष्य में होता है",
+          "वायवीय में ATP नहीं बनता",
+          "दोनों में उत्पाद समान होते हैं",
+          "वायवीय में ग्लूकोज़ पूर्ण टूटता है, अवायवीय में आंशिक"
+        ],
+        "en": [
+          "Anaerobic occurs only in humans",
+          "No ATP forms in aerobic",
+          "Both have identical products",
+          "In aerobic, glucose breaks completely; in anaerobic, partially"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पूर्ण-विघटन (CO2+H2O) बनाम आंशिक-विघटन (एथेनॉल/लैक्टिक अम्ल) — यही दोनों का मूल अंतर है।",
+        "en": "Complete breakdown (CO2+H2O) versus partial breakdown (ethanol/lactic acid) — that is the core difference between the two."
+      }
+    },
+    {
+      "id": "ch8_q857",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्वसन से मिली ATP की ऊर्जा कोशिका किन कार्यों में खर्च करती है?",
+        "en": "For which tasks does the cell spend the ATP energy obtained from respiration?"
+      },
+      "options": {
+        "hi": [
+          "प्रोटीन-संश्लेषण, मांसपेशी-संकुचन और तंत्रिका-आवेग जैसे सभी जैविक कार्यों में",
+          "केवल विचारने में",
+          "केवल नींद में",
+          "केवल भोजन चबाने में"
+        ],
+        "en": [
+          "In all biological work like protein synthesis, muscle contraction and nerve impulses",
+          "Only in thinking",
+          "Only in sleep",
+          "Only in chewing food"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ATP कोशिका की सर्व-उपयोगी मुद्रा है — निर्माण से गति और संकेत तक हर काम इसी से चलता है।",
+        "en": "ATP is the cell's all-purpose currency — from building to moving to signalling, every job runs on it."
+      }
+    },
+    {
+      "id": "ch8_q858",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ग्लूकोज़ से पाइरूवेट बनने की पहली अभिक्रिया कोशिका के किस भाग में होती है?",
+        "en": "In which part of the cell does the first reaction, glucose to pyruvate, take place?"
+      },
+      "options": {
+        "hi": [
+          "कोशिका-भित्ति",
+          "कोशिका-द्रव्य (cytoplasm)",
+          "माइटोकॉन्ड्रिया",
+          "केंद्रक"
+        ],
+        "en": [
+          "Cell wall",
+          "Cytoplasm",
+          "Mitochondria",
+          "Nucleus"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ग्लूकोज़ का पाइरूवेट में टूटना (ग्लाइकोलिसिस) कोशिका-द्रव्य में होता है; आगे का रास्ता O2 के होने-न होने पर तय होता है।",
+        "en": "The splitting of glucose into pyruvate (glycolysis) happens in the cytoplasm; the further route depends on whether O2 is available."
+      }
+    },
+    {
+      "id": "ch8_q859",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वर्षा में जलभराव (waterlogging) से पौधे की जड़ें क्यों क्षतिग्रस्त होती हैं?",
+        "en": "Why are plant roots damaged by waterlogging in the rainy season?"
+      },
+      "options": {
+        "hi": [
+          "जड़ें तैरने लगती हैं",
+          "जड़ों को प्रकाश नहीं मिलता",
+          "मिट्टी के छिद्रों में वायु की जगह जल भर जाता है — ऑक्सीजन न मिलने पर जड़-कोशिकाएँ अवायवीय श्वसन कर अपने ही ऊतकों को हानि पहुँचाती हैं",
+          "जल में सभी खनिज घुल जाते हैं"
+        ],
+        "en": [
+          "The roots start floating",
+          "Roots get no light",
+          "Water fills the soil air-pores — starved of oxygen, root cells respire anaerobically and harm their own tissues",
+          "All minerals dissolve away in water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जलभराव में जड़ों को O2 नहीं मिलती; लंबे अवायवीय श्वसन के विषैले उत्पाद जड़ों को मार डालते हैं — इसीलिए गमलों में निकास-छेद रखा जाता है।",
+        "en": "In waterlogged soil roots get no O2; prolonged anaerobic respiration and its toxic products kill the roots — hence drainage holes in pots."
+      }
+    },
+    {
+      "id": "ch8_q860",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शरीर में ग्लूकोज़ का ऑक्सीकरण एक साथ प्रज्वलित होने की बजाय छोटे-छोटे चरणों में क्यों होता है?",
+        "en": "Why does the oxidation of glucose in the body occur in small steps rather than bursting at once?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि ग्लूकोज़ जलता नहीं",
+          "क्योंकि ऑक्सीजन कम होती है",
+          "क्योंकि शरीर में आग लग सकती है",
+          "चरणबद्ध-नियंत्रित ऑक्सीकरण से ऊर्जा धीरे-धीरे ATP में बाँधी जा सकती है — अचानक जलने से ऊर्जा नष्ट हो जाती"
+        ],
+        "en": [
+          "Because glucose cannot burn",
+          "Because oxygen is scarce",
+          "Because the body might catch fire",
+          "Step-wise controlled oxidation lets energy be trapped gradually into ATP — a sudden burn would waste it"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक साथ जलने पर सारी ऊर्जा ताप के रूप में बिखर जाती; चरणबद्ध मार्ग उसे ATP के छोटे पैकेटों में सुरक्षित रखता है — यही जीव-विशेषता है।",
+        "en": "Burning all at once would scatter the energy as heat; the stepwise pathway banks it in small ATP packets — a hallmark of life."
+      }
+    },
+    {
+      "id": "ch8_q861",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायवीय श्वसन और खमीर के अवायवीय श्वसन के उत्पादों का सही सुमेलन कौन-सा है?",
+        "en": "Which is the correct matching of products of aerobic respiration and yeast's anaerobic respiration?"
+      },
+      "options": {
+        "hi": [
+          "वायवीय — CO2 व जल; खमीर — एथेनॉल व CO2",
+          "वायवीय — एथेनॉल; खमीर — जल",
+          "वायवीय — लैक्टिक अम्ल; खमीर — जल",
+          "दोनों — केवल CO2"
+        ],
+        "en": [
+          "Aerobic — CO2 and water; yeast — ethanol and CO2",
+          "Aerobic — ethanol; yeast — water",
+          "Aerobic — lactic acid; yeast — water",
+          "Both — only CO2"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दोनों प्रक्रियाओं में CO2 निकलता है, पर वायवीय का दूसरा उत्पाद जल और खमीर का दूसरा उत्पाद एथेनॉल होता है।",
+        "en": "Both release CO2, but the second product is water in aerobic respiration and ethanol in yeast."
+      }
+    },
+    {
+      "id": "ch8_q862",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मांसपेशी-कोशिकाओं में बना लैक्टिक अम्ल विश्राम के दौरान का क्या होता है?",
+        "en": "What happens to the lactic acid formed in muscle cells during rest?"
+      },
+      "options": {
+        "hi": [
+          "वह मूत्र से सीधे बाहर चला जाता है",
+          "यकृत में ले जाकर पुनः ग्लूकोज़ में बदला जाता है — इसी से ऐंठन धीरे-धीरे शांत होती है",
+          "वह हड्डियों में जम जाता है",
+          "वह वहीं रक्त में सदैव घूमता रहता है"
+        ],
+        "en": [
+          "It passes out directly in urine",
+          "It is carried to the liver and reconverted into glucose — that is why cramps ease gradually",
+          "It deposits in bones",
+          "It keeps circulating forever"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "विश्राम में O2 की पर्याप्त आपूर्ति से यकृत लैक्टिक अम्ल को पुनर्चक्रित करता है — ऑक्सीजन-ऋण की अदायगी इसी समय होती है।",
+        "en": "With ample O2 at rest, the liver recycles the lactic acid — this is exactly when the oxygen debt is settled."
+      }
+    },
+    {
+      "id": "ch8_q863",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हमारी मांसपेशियों के अवायवीय श्वसन में CO2 क्यों नहीं बनती, जबकि खमीर में बनती है?",
+        "en": "Why is no CO2 formed in the anaerobic respiration of our muscles, while yeast forms it?"
+      },
+      "options": {
+        "hi": [
+          "CO2 केवल पौधों में बनती है",
+          "मांसपेशियाँ CO2 पचा लेती हैं",
+          "दोनों के अंतिम चरण के एंजाइम भिन्न हैं — पाइरूवेट पहले लैक्टिक अम्ल बनता है, दूसरे में एथेनॉल + CO2",
+          "मांसपेशियों में ग्लूकोज़ नहीं होता"
+        ],
+        "en": [
+          "CO2 forms only in plants",
+          "Muscles digest the CO2",
+          "Their final-step enzymes differ — pyruvate becomes lactic acid in one, ethanol + CO2 in the other",
+          "Muscles lack glucose"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऑक्सीजन के अभाव में पाइरूवेट का भाग्य जीव-विशेष एंजाइमों पर निर्भर है — मांसपेशी में लैक्टिक अम्ल, खमीर में एथेनॉल व CO2।",
+        "en": "In the absence of oxygen, pyruvate's fate depends on organism-specific enzymes — lactic acid in muscle, ethanol and CO2 in yeast."
+      }
+    },
+    {
+      "id": "ch8_q864",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किण्वन (fermentation) के दौरान गुब्बारे में बंद खमीर-शक्कर मिश्रण में गुब्बारा फूलता है — गुब्बारे की गैस कौन-सी है?",
+        "en": "During fermentation, a balloon over a yeast-sugar mixture inflates — which gas fills the balloon?"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "नाइट्रोजन",
+          "कार्बन डाइऑक्साइड"
+        ],
+        "en": [
+          "Hydrogen",
+          "Oxygen",
+          "Nitrogen",
+          "Carbon dioxide"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खमीर शक्कर का अवायवीय विघटन करते हुए CO2 छोड़ता है — इसी गैस के दबाव से गुब्बारा फूलता जाता है।",
+        "en": "Yeast breaks down sugar anaerobically releasing CO2 — the pressure of this gas inflates the balloon."
+      }
+    },
+    {
+      "id": "ch8_q865",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो विद्यार्थियों की बहस: A कहता है श्वसन दिन में होता है, B कहता है दिन-रात दोनों। निर्णय दीजिए।",
+        "en": "Two students argue: A says respiration happens by day, B says by day and night. Decide."
+      },
+      "options": {
+        "hi": [
+          "B सही — श्वसन प्रकाश से स्वतंत्र, हर कोशिका में सदैव चलता है",
+          "दोनों गलत — श्वसन केवल रात में",
+          "यह जीव पर निर्भर करता है",
+          "A सही — प्रकाश जरूरी है"
+        ],
+        "en": [
+          "B is right — respiration is independent of light and runs in every cell round the clock",
+          "Both wrong — respiration occurs only at night",
+          "It depends on the organism",
+          "A is right — light is necessary"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "श्वसन जीवन-निर्वाह की निरंतर क्रिया है — प्रकाश-संश्लेषण के विपरीत यह प्रकाश माँगता नहीं; दिन-रात सभी कोशिकाओं में चलती रहती है।",
+        "en": "Respiration is a continuous life process — unlike photosynthesis it needs no light and keeps running in all cells day and night."
+      }
+    },
+    {
+      "id": "ch8_q866",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ओवन में आटा फूलकर रोटी/केक बनती है — आटे के भीतर कौन-सी कोशिकीय प्रक्रिया जिम्मेदार है?",
+        "en": "Dough rises in the oven to make bread or cake — which cellular process inside the dough is responsible?"
+      },
+      "options": {
+        "hi": [
+          "पानी का वाष्पीकरण",
+          "खमीर का अवायवीय श्वसन (किण्वन) जिससे CO2 के बुलबुले बनते हैं",
+          "आटे का प्रकाश-संश्लेषण",
+          "गेहूँ की कोशिकाओं का वायवीय श्वसन"
+        ],
+        "en": [
+          "Evaporation of water",
+          "Anaerobic respiration (fermentation) of yeast producing CO2 bubbles",
+          "Photosynthesis by the dough",
+          "Aerobic respiration of wheat cells"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खमीर किण्वन में छोड़ी CO2 आटे में गैस-कोठरियाँ बनाती है — गर्मी में वे फैलकर आटा फुला देती हैं।",
+        "en": "CO2 released by yeast fermentation creates gas pockets in the dough — heat expands them and the dough rises."
+      }
+    },
+    {
+      "id": "ch8_q867",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पाइरूवेट का आगे का रास्ता किस शर्त पर तय होता है?",
+        "en": "On what condition does the further path of pyruvate get decided?"
+      },
+      "options": {
+        "hi": [
+          "तापमान पर कभी नहीं",
+          "प्रकाश की उपस्थिति पर",
+          "कोशिका में ऑक्सीजन की उपलब्धता पर",
+          "जल की मात्रा पर"
+        ],
+        "en": [
+          "Never on temperature",
+          "On the presence of light",
+          "On the availability of oxygen in the cell",
+          "On the amount of water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "O2 मिले तो पाइरूवेट माइटोकॉन्ड्रिया में पूर्ण टूटता है (वायवीय); न मिले तो कोशिका-द्रव्य में एथेनॉल या लैक्टिक अम्ल बनता है (अवायवीय)।",
+        "en": "With O2, pyruvate breaks down fully in mitochondria (aerobic); without it, it turns into ethanol or lactic acid in the cytoplasm (anaerobic)."
+      }
+    },
+    {
+      "id": "ch8_q868",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निषेचन के बाद यदि मांसपेशी-कोशिका और खमीर-कोशिका दोनों ऑक्सीजन-रहित स्थिति में एक समान ग्लूकोज़ लें, तो परिणाम में मुख्य समानता और भिन्नता क्या होगी?",
+        "en": "If a muscle cell and a yeast cell take identical glucose under oxygen-free conditions, what is the main similarity and difference of the outcome?"
+      },
+      "options": {
+        "hi": [
+          "दोनों में सब कुछ समान होता है",
+          "दोनों में कुछ नहीं होता",
+          "खमीर में जल बनता है, मांसपेशी में CO2",
+          "समानता — दोनों में ऊर्जा बचती है; भिन्नता — मांसपेशी में लैक्टिक अम्ल, खमीर में एथेनॉल+CO2"
+        ],
+        "en": [
+          "Everything is identical in both",
+          "Nothing happens in either",
+          "Yeast makes water, muscle makes CO2",
+          "Similarity — both trap energy; difference — lactic acid in muscle, ethanol+CO2 in yeast"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अवायवीय मार्ग का साझा सिद्धांत है — आंशिक विघटन से सीमित ऊर्जा; अंतिम उत्पाद जीव की एंजाइम-योजना से तय होता है।",
+        "en": "The shared principle of the anaerobic route is limited energy from partial breakdown; the end product is fixed by each organism's enzyme plan."
+      }
+    },
+    {
+      "id": "ch8_q869",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक जीवाणु समूह पूर्णतः ऑक्सीजन-रहित गहरे कीचड़ में जीवित रहता है — उसकी ऊर्जा-प्राप्ति की व्यवस्था क्या बताती है?",
+        "en": "A bacterial colony survives in completely oxygen-free deep mud — what does its energy arrangement indicate?"
+      },
+      "options": {
+        "hi": [
+          "उसके पास ऑक्सीजन के बिना ऊर्जा निकालने की अवायवीय श्वसन-क्षमता है",
+          "वह ऊर्जा बिना किसी प्रक्रिया के बनाता है",
+          "वह ऊर्जा मिट्टी से सोखता है",
+          "वह प्रकाश-संश्लेषण करता है"
+        ],
+        "en": [
+          "It possesses anaerobic respiration — the ability to extract energy without oxygen",
+          "It makes energy without any process",
+          "It absorbs energy from the soil",
+          "It photosynthesises"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऑक्सीजनहीन आवास में जीवन अवायवीय श्वसन के बिना संभव नहीं — यह जीवाणु आंशिक विघटन से अपनी ऊर्जा जुटाता है।",
+        "en": "Life in an oxygen-free habitat is impossible without anaerobic respiration — this bacterium gathers energy from partial breakdown."
+      }
+    },
+    {
+      "id": "ch8_q870",
+      "topic": "aerobic-anaerobic-respiration",
+      "difficulty": "hard",
+      "question": {
+        "hi": "प्रयोग में खमीर + ग्लूकोज़ घोल को ऑक्सीजन-रहित बंद बोतल में रखा गया; कुछ देर बाद दबाव बढ़ा पर घोल का ताप कुछ ही बढ़ा — इससे क्या पता चलता है?",
+        "en": "Yeast + glucose solution is kept in a sealed oxygen-free bottle; pressure rises soon but temperature barely increases — what does this show?"
+      },
+      "options": {
+        "hi": [
+          "खमीर प्रकाश-संश्लेषण कर रहा है",
+          "अवायवीय श्वसन चल रहा है — CO2 गैस दबाव बढ़ाती है और ऊर्जा का बड़ा भाग रासायनिक बंधनों में बची रहता है, ताप में जाता ही नहीं",
+          "ग्लूकोज़ उबाल के बिना जल रहा है",
+          "बोतल में ऑक्सीजन बन रही है"
+        ],
+        "en": [
+          "Yeast is photosynthesising",
+          "Anaerobic respiration is running — CO2 raises the pressure, and most energy stays locked in chemical bonds instead of heating",
+          "Glucose is burning without boiling",
+          "Oxygen is forming in the bottle"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बंद बोतल में दबाव-वृद्धि CO2 का प्रमाण है; ताप का न बढ़ना बताता है कि किण्वन की ऊर्जा-प्राप्ति कम है और उसका अंश उत्पादों में ही बंद रहता है।",
+        "en": "The pressure rise proves CO2; the negligible heating shows fermentation's small energy yield, most of it staying locked in the products."
+      }
+    },
+    {
+      "id": "ch8_q871",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायुकोश से रुधिर में ऑक्सीजन किस दिशा में जाती है और क्यों?",
+        "en": "In which direction does oxygen move from the alveoli into the blood, and why?"
+      },
+      "options": {
+        "hi": [
+          "दोनों दिशाओं में बराबर",
+          "रुधिर से वायुकोश की ओर — CO2 का खिंचाव",
+          "वायुकोश से रुधिर की ओर — वायुकोश में O2 की सांद्रता अधिक होने से",
+          "कोई गति नहीं होती"
+        ],
+        "en": [
+          "Equally in both directions",
+          "From blood to alveoli — pulled by CO2",
+          "From alveoli to blood — because the O2 concentration in alveoli is higher",
+          "No movement occurs"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गैसें सदा अधिक सांद्रता से कम सांद्रता की ओर फैलती हैं — वायुकोश की हवा में O2 ज्यादा, इसलिए वह रुधिर में उतरती है।",
+        "en": "Gases always diffuse from higher to lower concentration — alveolar air holds more O2, so it descends into the blood."
+      }
+    },
+    {
+      "id": "ch8_q872",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मानव में श्वसन-वर्णक (respiratory pigment) का नाम क्या है?",
+        "en": "What is the name of the respiratory pigment in humans?"
+      },
+      "options": {
+        "hi": [
+          "मेलेनिन",
+          "कैरोटीन",
+          "क्लोरोफिल",
+          "हीमोग्लोबिन"
+        ],
+        "en": [
+          "Melanin",
+          "Carotene",
+          "Chlorophyll",
+          "Haemoglobin"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हीमोग्लोबिन लोहे युक्त वर्णक है जो ऑक्सीजन से जुड़कर उसे शरीर भर में ले जाता है।",
+        "en": "Haemoglobin is the iron-rich pigment that binds oxygen and ferries it around the body."
+      }
+    },
+    {
+      "id": "ch8_q873",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हीमोग्लोबिन रुधिर के किस घटक में रहता है?",
+        "en": "In which component of blood does haemoglobin reside?"
+      },
+      "options": {
+        "hi": [
+          "लाल रुधिर कणिकाओं (RBC) के भीतर",
+          "श्वेत कणिकाओं में",
+          "पटिकाओं में",
+          "प्लाज्मा में घुला"
+        ],
+        "en": [
+          "Inside red blood cells (RBCs)",
+          "In white blood cells",
+          "In platelets",
+          "Dissolved in plasma"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हीमोग्लोबिन RBC के भीतर भरा रहता है — इसीलिए ऑक्सीजन-परिवहन का काम लाल कणिकाएँ करती हैं।",
+        "en": "Haemoglobin is packed inside RBCs — hence the red cells handle oxygen transport."
+      }
+    },
+    {
+      "id": "ch8_q874",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रुधिर वायुकोशों पर पहुँचकर भीतर की हवा में कौन-सी गैस छोड़ता है?",
+        "en": "Which gas does the blood release into the air of the alveoli?"
+      },
+      "options": {
+        "hi": [
+          "नाइट्रोजन",
+          "कार्बन डाइऑक्साइड",
+          "हीलियम",
+          "ऑक्सीजन"
+        ],
+        "en": [
+          "Nitrogen",
+          "Carbon dioxide",
+          "Helium",
+          "Oxygen"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऊतकों से लाई गई CO2 वायुकोशों में छोड़ी जाती है और साँस के साथ बाहर निकलती है।",
+        "en": "The CO2 brought from tissues is dropped into the alveoli and leaves with the exhaled breath."
+      }
+    },
+    {
+      "id": "ch8_q875",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायुकोशों और केशिकाओं के बीच गैसों का आदान-प्रदान किस प्रक्रिया से होता है?",
+        "en": "By which process are gases exchanged between the alveoli and the capillaries?"
+      },
+      "options": {
+        "hi": [
+          "निस्पंदन",
+          "सक्रिय परिवहन",
+          "सरल विसरण (diffusion)",
+          "परासरण"
+        ],
+        "en": [
+          "Filtration",
+          "Active transport",
+          "Simple diffusion",
+          "Osmosis"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गैस-विनिमय ऊर्जा खर्च किए बिना सांद्रता-अंतर से स्वतः होता है — यही सरल विसरण है।",
+        "en": "Gas exchange happens by itself along concentration gradients without energy — simple diffusion."
+      }
+    },
+    {
+      "id": "ch8_q876",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायुकोशों को बाहर से कौन-सी सूक्ष्म रुधिर वाहिकाएँ घेरे रहती हैं?",
+        "en": "Which tiny blood vessels surround the alveoli?"
+      },
+      "options": {
+        "hi": [
+          "लसीका वाहिकाएँ",
+          "धमनियाँ",
+          "नसें",
+          "केशिकाएँ (capillaries)"
+        ],
+        "en": [
+          "Lymph vessels",
+          "Arteries",
+          "Veins",
+          "Capillaries"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वायुकोशों की दीवार से चिपकी केशिकाओं का जाल ही गैसों को रुधिर तक पहुँचाता है।",
+        "en": "A mesh of capillaries hugging the alveolar walls is what hands the gases to the blood."
+      }
+    },
+    {
+      "id": "ch8_q877",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वायुकोश तथा उनकी केशिकाओं की दीवारें अत्यंत पतली क्यों होती हैं?",
+        "en": "Why are the walls of the alveoli and their capillaries extremely thin?"
+      },
+      "options": {
+        "hi": [
+          "गैसों को तय करनी पड़ने वाली दूरी न्यूनतम रहे इसलिए",
+          "दिखने में सुंदर लगे",
+          "रुधिर को गाढ़ा करने के लिए",
+          "हवा को रोकने के लिए"
+        ],
+        "en": [
+          "So the distance the gases must travel stays minimal",
+          "To look nice",
+          "To thicken the blood",
+          "To hold back the air"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पतली दीवारें विसरण-दूरी घटाती हैं — O2 और CO2 तुरंत पार जाती हैं; मोटी दीवार विनिमय धीमा दे देती।",
+        "en": "Thin walls cut the diffusion distance — O2 and CO2 cross instantly; a thick wall would slow the exchange."
+      }
+    },
+    {
+      "id": "ch8_q878",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऑक्सीजन से भरपूर रुधिर का रंग कैसा होता है?",
+        "en": "What is the colour of oxygen-rich blood?"
+      },
+      "options": {
+        "hi": [
+          "गहरा नीला",
+          "चमकीला लाल (bright red)",
+          "हरा",
+          "पीला"
+        ],
+        "en": [
+          "Deep blue",
+          "Bright red",
+          "Green",
+          "Yellow"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऑक्सीहीमोग्लोबिन बनने से ऑक्सीजन-युक्त रुधिर चमकीला लाल दिखता है; CO2-प्रधान रुधिर गहरा-मटमैला होता है।",
+        "en": "Oxyhaemoglobin makes oxygen-loaded blood bright red; CO2-heavy blood looks darker and duller."
+      }
+    },
+    {
+      "id": "ch8_q879",
+      "topic": "gas-exchange-transport",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फेफड़ों की केशिकाओं में हीमोग्लोबिन से ऑक्सीजन के जुड़ने पर बनने वाला यौगिक क्या कहलाता है?",
+        "en": "What is the compound formed when oxygen binds haemoglobin in the lung capillaries called?"
+      },
+      "options": {
+        "hi": [
+          "मेथहीमोग्लोबिन",
+          "कार्बोहीमोग्लोबिन",
+          "ऑक्सीहीमोग्लोबिन",
+          "ग्लूकोहीमोग्लोबिन"
+        ],
+        "en": [
+          "Methaemoglobin",
+          "Carbhaemoglobin",
+          "Oxyhaemoglobin",
+          "Glucohaemoglobin"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "O2 + Hb → ऑक्सीहीमोग्लोबिन — यही रूप ऑक्सीजन को शरीर की कोशिकाओं तक ढोता है।",
+        "en": "O2 + Hb → oxyhaemoglobin — this is the form that carries oxygen to the body's cells."
+      }
+    },
+    {
+      "id": "ch8_q880",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गैस-विनिमय में 'सांद्रता-प्रवणता (concentration gradient)' से क्या तात्पर्य है?",
+        "en": "What is meant by 'concentration gradient' in gas exchange?"
+      },
+      "options": {
+        "hi": [
+          "गैस का भार",
+          "हवा की गति",
+          "दोनों ओर समान मात्रा",
+          "दो स्थानों के बीच गैस की सांद्रता का अंतर जो विसरण की दिशा तय करता है"
+        ],
+        "en": [
+          "The weight of the gas",
+          "The speed of air",
+          "Equal amounts on both sides",
+          "The difference in gas concentration between two places that sets the direction of diffusion"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जहाँ गैस ज्यादा, वहाँ से कम वाली ओर बहना ही प्रवणता का काम है — विनिमय की दिशा यही तय करती है।",
+        "en": "Flowing from where the gas is plentiful to where it is scarce is what a gradient does — it fixes the direction of exchange."
+      }
+    },
+    {
+      "id": "ch8_q881",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रुधिर में ऑक्सीजन किन दो रूपों में यात्रा करती है?",
+        "en": "In which two forms does oxygen travel in the blood?"
+      },
+      "options": {
+        "hi": [
+          "प्लाज्मा में घुली और हीमोग्लोबिन से जुड़ी",
+          "पटिकाओं में और WBC में",
+          "केवल घुली हुई",
+          "केवल लाल कणिकाओं के बाहर"
+        ],
+        "en": [
+          "Dissolved in plasma and bound to haemoglobin",
+          "In platelets and in WBCs",
+          "Only dissolved",
+          "Only outside the red cells"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अधिकांश O2 हीमोग्लोबिन से जुड़ी रहती है, थोड़ी मात्रा प्लाज्मा में घुली — दोनों रूप मिलकर परिवहन पूरा करते हैं।",
+        "en": "Most O2 rides bound to haemoglobin and a small share dissolves in plasma — together the two forms complete the transport."
+      }
+    },
+    {
+      "id": "ch8_q882",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "CO2 का अधिकांश भाग रुधिर में किस रूप में ले जाया जाता है?",
+        "en": "In which form is most of the CO2 carried in the blood?"
+      },
+      "options": {
+        "hi": [
+          "हीमोग्लोबिन से जुड़कर",
+          "प्लाज्मा में घुलकर",
+          "RBC के भीतर कैद होकर",
+          "पटिकाओं में"
+        ],
+        "en": [
+          "Bound to haemoglobin",
+          "Dissolved in plasma",
+          "Trapped inside RBCs",
+          "In platelets"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "CO2 जल में अत्यंत घुलनशील है — इसीलिए उसका बड़ा हिस्सा प्लाज्मा में घुलकर फेफड़ों तक पहुँचता है।",
+        "en": "CO2 is highly soluble in water — so its larger share travels dissolved in plasma to the lungs."
+      }
+    },
+    {
+      "id": "ch8_q883",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शरीर की कोशिकाओं के पास पहुँची केशिकाओं से गैसें किस दिशा में जाती हैं?",
+        "en": "In which directions do the gases move across capillaries reaching the body's cells?"
+      },
+      "options": {
+        "hi": [
+          "दोनों रुधिर में",
+          "कोई गति नहीं",
+          "O2 कोशिकाओं में, CO2 रुधिर में",
+          "O2 रुधिर में वापस, CO2 कोशिकाओं में"
+        ],
+        "en": [
+          "Both into the blood",
+          "No movement",
+          "O2 into the cells, CO2 into the blood",
+          "O2 back into blood, CO2 into cells"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऊतक-स्तर पर दिशा उलट जाती है — कोशिकाओं की O2 कम होती है और CO2 ज्यादा, इसलिए O2 भीतर और CO2 रुधिर में आती है।",
+        "en": "At tissue level the directions flip — cells are low in O2 and rich in CO2, so O2 exits and CO2 enters the blood."
+      }
+    },
+    {
+      "id": "ch8_q884",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मानव शरीर में गैस-विनिमय के दो स्थल कौन-से हैं?",
+        "en": "Which are the two sites of gas exchange in the human body?"
+      },
+      "options": {
+        "hi": [
+          "श्वासनली और ब्रांकाई",
+          "हृदय और यकृत",
+          "नाक और स्वरयंत्र",
+          "वायुकोश (फेफड़े) और ऊतक-कोशिकाएँ"
+        ],
+        "en": [
+          "Trachea and bronchi",
+          "Heart and liver",
+          "Nose and larynx",
+          "Alveoli (lungs) and tissue cells"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पहला विनिमय वायुकोशों पर (हवा से रुधिर) और दूसरा ऊतकों पर (रुधिर से कोशिकाएँ) — दो स्थल, एक ही विसरण-नियम।",
+        "en": "The first exchange occurs at the alveoli (air to blood) and the second at the tissues (blood to cells) — two sites, one diffusion rule."
+      }
+    },
+    {
+      "id": "ch8_q885",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायुकोशों की भीतरी सतह नम रहना क्यों जरूरी है?",
+        "en": "Why must the inner surface of the alveoli stay moist?"
+      },
+      "options": {
+        "hi": [
+          "गैसें घुलकर ही पतली दीवार पार कर सकती हैं",
+          "धूल बाहर करने के लिए",
+          "आवाज़ के लिए",
+          "हवा को ठंडा करने के लिए"
+        ],
+        "en": [
+          "Gases can cross the thin wall only after dissolving",
+          "To expel dust",
+          "For the voice",
+          "To cool the air"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विसरण पहले द्रव में घुलने से शुरू होता है — सूखी सतह पर O2/CO2 का पारगमन ठप हो जाता।",
+        "en": "Diffusion begins with dissolving into a fluid — on a dry surface the passage of O2/CO2 would stall."
+      }
+    },
+    {
+      "id": "ch8_q886",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'साँस लेना ही श्वसन है' — यह कथन किस कारण अधूरा है?",
+        "en": "Why is the statement 'breathing itself is respiration' incomplete?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक ही हैं, कथन सही है",
+          "साँस केवल हवा का बाहर-भीतर है; ऊर्जा-निर्माण तो कोशिकाओं के भीतर श्वसन से होता है",
+          "साँस में भी ATP बनता है",
+          "श्वसन फेफड़ों में होता है"
+        ],
+        "en": [
+          "Both are the same, the statement is right",
+          "Breathing is only the in-and-out of air; energy is actually released by respiration inside the cells",
+          "ATP is made during breathing too",
+          "Respiration happens in the lungs"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "श्वास-क्रिया भौतिक पहुँचाने का काम है, कोशिकीय श्वसन जैव-रासायनिक ऊर्जा-क्रिया — दोनों को मिलाकर गलतफहम बनती है।",
+        "en": "Breathing is the physical delivery job while cellular respiration is the biochemical energy event — conflating the two creates the confusion."
+      }
+    },
+    {
+      "id": "ch8_q887",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भारी व्यायाम के दौरान गैस-विनिमय की दर क्यों बढ़ जाती है?",
+        "en": "Why does the rate of gas exchange rise during heavy exercise?"
+      },
+      "options": {
+        "hi": [
+          "रुधिर कम हो जाता है",
+          "हवा में O2 बढ़ जाती है",
+          "कोशिकाओं की O2-माँग और CO2-उत्पादन दोनों बढ़ जाते हैं — प्रवणताएँ तेज हो जाती हैं",
+          "फेफड़े बड़े हो जाते हैं"
+        ],
+        "en": [
+          "The blood volume drops",
+          "O2 in the air increases",
+          "The cells' O2 demand and CO2 output both rise — the gradients turn steeper",
+          "The lungs enlarge"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तेज काम से ऊतकों की O2 खपत बढ़ती और CO2 जमा होती है — तीव्र प्रवणताएँ विनिमय की रफ्तार बढ़ा देती हैं।",
+        "en": "Hard work raises the tissues' O2 consumption and CO2 build-up — steeper gradients speed up the exchange."
+      }
+    },
+    {
+      "id": "ch8_q888",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हीमोग्लोबिन फेफड़ों में ऑक्सीजन कैसे 'पकड़'कर ऊतकों में 'छोड़' देता है?",
+        "en": "How does haemoglobin 'grab' oxygen in the lungs and 'release' it in the tissues?"
+      },
+      "options": {
+        "hi": [
+          "तापमान से ही नियंत्रित होता है",
+          "प्रकाश से नियंत्रित होता है",
+          "दोनों जगह समान रूप से पकड़ता है",
+          "O2-प्रवणता के अनुसार — फेफड़ों की अधिक O2 में बंधता और ऊतकों की कम O2 में मुक्त होता है"
+        ],
+        "en": [
+          "Only temperature controls it",
+          "Light controls it",
+          "It binds equally at both places",
+          "Along the O2 gradient — binding where O2 is high in lungs, letting go where O2 is low in tissues"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बंधन-मुक्ति O2 की उपलब्धता के अनुसार चलती है — यही हीमोग्लोबिन को ऑक्सीजन का स्मार्ट वाहक बनाती है।",
+        "en": "Binding-and-release follows O2 availability — this makes haemoglobin a smart oxygen carrier."
+      }
+    },
+    {
+      "id": "ch8_q889",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अमीबा जैसे एककोशिकीय जीवों को श्वसन-वर्णक की जरूरत क्यों नहीं पड़ती?",
+        "en": "Why do unicellular organisms like Amoeba not need a respiratory pigment?"
+      },
+      "options": {
+        "hi": [
+          "उनकी समस्त कोशिका-सतह से विसरण प्रत्यक्ष और पर्याप्त है",
+          "उनमें O2 का उपयोग नहीं होता",
+          "वे प्रकाश-संश्लेषण करते हैं",
+          "वे श्वसन नहीं करते"
+        ],
+        "en": [
+          "Diffusion directly across their whole cell surface is sufficient",
+          "They do not use O2",
+          "They photosynthesise",
+          "They do not respire"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जीव छोटा, दूरियां न्यूनतम — सतही विसरण से हर कोशिका-भाग तक O2 तुरंत पहुँच जाती है; वाहक की जरूरत ही नहीं रहती।",
+        "en": "The body is tiny and distances minimal — surface diffusion promptly delivers O2 to every part; no carrier is needed."
+      }
+    },
+    {
+      "id": "ch8_q890",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "RBC और प्लाज्मा का गैस-परिवहन में बँटवारा कैसा है?",
+        "en": "How is the gas-transport work divided between RBCs and plasma?"
+      },
+      "options": {
+        "hi": [
+          "RBC सब कुछ ढोती हैं",
+          "मुख्यतः O2 का भार RBC (हीमोग्लोबिन) का और घुली CO2 का भार प्लाज्मा का",
+          "प्लाज्मा O2 ढोता है, RBC कुछ नहीं",
+          "दोनों केवल CO2 ढोते हैं"
+        ],
+        "en": [
+          "RBCs carry everything",
+          "Chiefly O2 is carried by RBCs (haemoglobin) and dissolved CO2 by plasma",
+          "Plasma carries O2, RBCs nothing",
+          "Both carry only CO2"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लाल कणिकाएँ हीमोग्लोबिन से O2 जोड़ती हैं जबकि CO2 का बड़ा अंश प्लाज्मा में घुला रहता है — काम बँटा हुआ है।",
+        "en": "Red cells hook O2 to haemoglobin while most CO2 stays dissolved in plasma — the work is shared."
+      }
+    },
+    {
+      "id": "ch8_q891",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कोशिका-झिल्ली के पार ऑक्सीजन का प्रवेश किस शर्त में होगा?",
+        "en": "Under which condition will oxygen cross the cell membrane?"
+      },
+      "options": {
+        "hi": [
+          "O2 का प्रवेश कभी नहीं होता",
+          "झिल्ली के भीतर O2 की सांद्रता बाहर से अधिक हो",
+          "बाहर की सांद्रता भीतर से अधिक हो",
+          "दोनों ओर सांद्रता समान हो"
+        ],
+        "en": [
+          "O2 never enters",
+          "When O2 concentration inside the membrane is higher than outside",
+          "When the outside concentration is higher than inside",
+          "When concentrations are equal on both sides"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विसरण का नियम — प्रवणता के अनुकूल ही बहता है; भीतर कम हो तो बाहर से O2 अंदर आएगी।",
+        "en": "The rule of diffusion — flow follows the gradient; if inside is lower, O2 will enter from outside."
+      }
+    },
+    {
+      "id": "ch8_q892",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "CO2 को 'श्वसन-अपशिष्ट' क्यों कहा जाता है?",
+        "en": "Why is CO2 called a 'respiratory waste'?"
+      },
+      "options": {
+        "hi": [
+          "वह प्रकाश-संश्लेषण का कचरा है",
+          "वह जल का रूप है",
+          "वह भोजन में मिलावट है",
+          "कोशिकीय श्वसन के दौरान बनकर रुधिर में उठती और फेफड़ों से निकलती है"
+        ],
+        "en": [
+          "It is photosynthetic rubbish",
+          "It is a form of water",
+          "It is an adulterant in food",
+          "It forms during cellular respiration, rides the blood and exits via the lungs"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ग्लूकोज़ के विघटन में जो CO2 बचती है वह कोशिका के लिए बेकार है — रुधिर उसे उठाकर फेफड़ों से बाहर कर देता है।",
+        "en": "The CO2 left over from glucose breakdown is useless to the cell — blood carts it away and the lungs expel it."
+      }
+    },
+    {
+      "id": "ch8_q893",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायुकोशों और ऊतकों पर गैस-प्रवणताएँ लगातार कायम कैसे रहती हैं?",
+        "en": "How are the gas gradients at the alveoli and tissues kept alive continuously?"
+      },
+      "options": {
+        "hi": [
+          "साँस लगातार ताजी हवा लाती है और कोशिकाएं लगातार O2 खपत- CO2 निर्माण करती हैं",
+          "हृदय गैसें बनाता है",
+          "प्रवणताएँ स्थिर होती हैं कभी नहीं बदलतीं",
+          "गैसें एक बार बनकर रुक जाती हैं"
+        ],
+        "en": [
+          "Breathing keeps bringing fresh air while cells keep consuming O2 and making CO2",
+          "The heart manufactures gases",
+          "Gradients stay fixed and never change",
+          "Gases form once and stop"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आगमन-निर्माण की निरंतरता ही प्रवणता को बनाए रखती है — साँस रुके तो विनिमय शीघ्र थम जाता।",
+        "en": "Continual supply and consumption maintain the gradient — stop breathing and the exchange soon halts."
+      }
+    },
+    {
+      "id": "ch8_q894",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रुधिर-वाहिकाओं की दीवारें केशिकाओं पर सबसे पतली होना विनिमय के लिए क्यों उपयोगी है?",
+        "en": "Why is it useful for exchange that capillary walls are the thinnest of all blood vessels?"
+      },
+      "options": {
+        "hi": [
+          "रुधिर तेज बहता है",
+          "पदार्थों और गैसों का केशिका-भित्ति पार करना सरल हो जाता है",
+          "दिल को कम मेहनत करनी पड़ती है",
+          "रुधिर गाढ़ा हो जाता है"
+        ],
+        "en": [
+          "Blood flows faster",
+          "Substances and gases find it easy to cross the capillary wall",
+          "The heart works less",
+          "The blood thickens"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "केशिकाएँ वहीं बनती हैं जहाँ विनिमय हो — एक-कोशिका-मोटी दीवार गैसों के आने-जाने को पहुँच-योग्य बनाती है।",
+        "en": "Capillaries form right where exchange happens — a wall one cell thick makes gases' to-and-fro effortless."
+      }
+    },
+    {
+      "id": "ch8_q895",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फेफड़ों से लौटती हवा में जल-वाष्प की मात्रा अधिक क्यों होती है?",
+        "en": "Why does the air returning from the lungs carry more water vapour?"
+      },
+      "options": {
+        "hi": [
+          "नाक में जल भरा रहता है",
+          "फेफड़े जल छानते हैं",
+          "वायुकोशों की नम सतह से हवा जल-वाष्प सोख लेती है",
+          "हवा गर्म होने से जल बनता है"
+        ],
+        "en": [
+          "The nose stores water",
+          "The lungs filter water",
+          "The air picks up water vapour from the moist alveolar surfaces",
+          "Heat converts air into water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वायुकोश भीतर से नम रहते हैं — संपर्क में आई हवा वहाँ की नमी उठा लेती है, इसीलिए छोड़ी साँस भरपूर जल-वाष्प लिए होती है।",
+        "en": "Alveoli are moist inside — the air in contact lifts that moisture, loading the exhaled breath with water vapour."
+      }
+    },
+    {
+      "id": "ch8_q896",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक विद्यार्थी का कथन: 'हम रुधिर में ऑक्सीजन भरकर उसे सीधे जला देते हैं।' इसमें क्या गलती है?",
+        "en": "A student says: 'We fill the blood with oxygen and simply burn it.' What is the error?"
+      },
+      "options": {
+        "hi": [
+          "दोनों सही हैं",
+          "जलना फेफड़ों में होता है",
+          "रुधिर में O2 नहीं जाती",
+          "O2 जलती नहीं — वह कोशिकीय श्वसन की अभिक्रियाओं में ग्लूकोज़ के विघटन में उपयोग होती है, दहन नहीं होता"
+        ],
+        "en": [
+          "Both parts are correct",
+          "Burning occurs in the lungs",
+          "O2 does not enter blood",
+          "O2 is not burnt — it is used in the reactions of cellular respiration to break down glucose; no combustion happens"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शरीर में दहन नहीं होता — O2 ऑक्सीकरण की श्रृंखला में ग्लूकोज़ को चरणबद्ध तोड़ने का काम करती है, ऊर्जा ATP में बँधती है।",
+        "en": "No burning occurs in the body — O2 works in the oxidation chain that step-wise dismantles glucose, with energy banked in ATP."
+      }
+    },
+    {
+      "id": "ch8_q897",
+      "topic": "gas-exchange-transport",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायुकोशों में हवा और रुधिर के बीच कुल विनिमय-सतह का आकलन प्रयोगशाला में किया जाए तो वह मानव त्वचा की सतह से कैसी होगी?",
+        "en": "If the total exchange surface of the alveoli is estimated, how does it compare with the human skin surface?"
+      },
+      "options": {
+        "hi": [
+          "त्वचा से कई गुना बड़ी",
+          "मापी नहीं जा सकती",
+          "त्वचा से कहीं छोटी",
+          "लगभग बराबर"
+        ],
+        "en": [
+          "Many times larger than the skin",
+          "It cannot be measured",
+          "Far smaller than the skin",
+          "Nearly equal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "करोड़ों वायुकोश मिलकर त्वचा से कई गुना (दर्जनों वर्ग मीटर) सतह बनाते हैं — यही विशाल क्षेत्र विनिमय की क्षमता देता है।",
+        "en": "Millions of alveoli add up to a surface many times (dozens of square metres) the skin — this vast area powers the exchange capacity."
+      }
+    },
+    {
+      "id": "ch8_q898",
+      "topic": "gas-exchange-transport",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पर्वतारोहण पर ऊँचाई पर हवा में ऑक्सीजन का प्रतिशत वही ~21% है, फिर भी साँस फूलती है — कारण?",
+        "en": "At high altitude the air still holds the same ~21% oxygen, yet climbers feel breathless — why?"
+      },
+      "options": {
+        "hi": [
+          "हवा में CO2 बढ़ जाती है",
+          "हवा का दबाव घटने से ऑक्सीजन का आंशिक दाब घट जाता है — रुधिर में O2 भराव कम हो जाता है",
+          "O2 का प्रतिशत घट जाता है",
+          "फेफड़े सिकुड़ जाते हैं"
+        ],
+        "en": [
+          "CO2 in the air rises",
+          "Lower air pressure reduces the partial pressure of oxygen — less O2 loads into the blood",
+          "The percentage of O2 falls",
+          "The lungs shrink"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घनी हवा में O2 के अणु प्रति श्वास कम मिलते हैं — प्रवणता कमजोर पड़ती है और हीमोग्लोबिन पूरा भर नहीं पाता; शरीर तेज़ साँस से भरपाई करता है।",
+        "en": "In thin air fewer O2 molecules arrive per breath — the gradient weakens, haemoglobin under-loads, and the body compensates by breathing harder."
+      }
+    },
+    {
+      "id": "ch8_q899",
+      "topic": "gas-exchange-transport",
+      "difficulty": "hard",
+      "question": {
+        "hi": "साँस लेने की तीव्र इच्छा (urge to breathe) मुख्यतः रुधिर में किस गैस के बढ़ने से जागृत होती है?",
+        "en": "A strong urge to breathe is triggered mainly by the rise of which gas in the blood?"
+      },
+      "options": {
+        "hi": [
+          "हीलियम से",
+          "ऑक्सीजन के घटने से",
+          "कार्बन डाइऑक्साइड के बढ़ने से",
+          "नाइट्रोजन से"
+        ],
+        "en": [
+          "By helium",
+          "By a fall in oxygen",
+          "By a rise in carbon dioxide",
+          "By nitrogen"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मस्तिष्क का श्वसन-केंद्र मुख्यतः CO2-संवेदी है — रुधिर CO2 बढ़ते ही साँस की दर तेज कर देता है; O2 की गिरावट गौण उत्प्रेरक है।",
+        "en": "The brain's breathing centre is chiefly CO2-sensitive — rising blood CO2 instantly speeds up breathing; falling O2 is a secondary spur."
+      }
+    },
+    {
+      "id": "ch8_q900",
+      "topic": "gas-exchange-transport",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि किसी कारण वायुकोश-दीवारें मोटी हो जाएँ तो क्या होगा?",
+        "en": "What happens if the alveolar walls become thickened for some reason?"
+      },
+      "options": {
+        "hi": [
+          "कोई प्रभाव नहीं पड़ता",
+          "फेफड़े हवा रोक लेते हैं",
+          "विनिमय तेज हो जाता है",
+          "विसरण-दूरी बढ़ने से गैस-विनिमय धीमा पड़ता है — साँस की कमी और थकान उत्पन्न होती है"
+        ],
+        "en": [
+          "No effect occurs",
+          "The lungs block the air",
+          "Exchange becomes faster",
+          "The diffusion distance grows, slowing gas exchange — breathlessness and fatigue follow"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विनिमय-क्षमता दूरी पर टिकी है — मोटी दीवार वही रुकावट डालती है जो पहाड़ की दूर चोटी डालती है: पहुँच कठिन।",
+        "en": "Exchange capacity hinges on distance — a thickened wall is the barrier a far-off peak is: hard to reach."
+      }
+    },
+    {
+      "id": "ch8_q901",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पत्तियों की सतह पर गैसों के आदान-प्रदान के छिद्रों का नाम क्या है?",
+        "en": "What are the pores on the leaf surface for gas exchange called?"
+      },
+      "options": {
+        "hi": [
+          "रंध्र (stomata)",
+          "लेंटिसेल",
+          "जड़-रोम",
+          "जनन-रंध्र"
+        ],
+        "en": [
+          "Stomata",
+          "Lenticels",
+          "Root hairs",
+          "Reproductive pores"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पत्तों की त्वचा पर स्थित सूक्ष्म रंध्र ही CO2-O2 के प्रवेश-निकास के द्वार हैं।",
+        "en": "The microscopic stomata on the leaf skin are the gates for CO2-O2 entry and exit."
+      }
+    },
+    {
+      "id": "ch8_q902",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पौधों की जड़ें श्वसन के लिए ऑक्सीजन कहाँ से प्राप्त करती हैं?",
+        "en": "From where do plant roots obtain oxygen for respiration?"
+      },
+      "options": {
+        "hi": [
+          "पत्तियों से नीचे नली द्वारा",
+          "मिट्टी के कणों के बीच की हवा (मृदा-वायु) से",
+          "जल से कभी नहीं",
+          "सूर्य से"
+        ],
+        "en": [
+          "Through a pipe from the leaves",
+          "From the air between soil particles (soil air)",
+          "Never from water",
+          "From the sun"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जड़ों के चारों ओर मिट्टी के छिद्रों में वायु भरी रहती है — जड़ें इसी मृदा-वायु से O2 ग्रहण करती हैं।",
+        "en": "Air fills the pore spaces of soil around roots — roots draw their O2 from this soil air."
+      }
+    },
+    {
+      "id": "ch8_q903",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मछली पानी के बाहर रखने पर जल्दी मर जाती है — कारण?",
+        "en": "Why does a fish die soon when kept out of water?"
+      },
+      "options": {
+        "hi": [
+          "वह भूख से मरती है",
+          "उसे गर्मी लगती है",
+          "गलफड़ों की पतली पत्तकियाँ बिना जल के सूखकर चिपक जाती हैं — घुली O2 ग्रहण नहीं कर पाते",
+          "उसका हृदय रुक जाता है"
+        ],
+        "en": [
+          "It dies of hunger",
+          "It feels hot",
+          "The thin gill filaments dry and stick together without water — they cannot take up dissolved O2",
+          "Its heart stops"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गलफड़े जल में खुलकर काम करते हैं; सूखी हवा में पत्तकियाँ आपस में चिपक जाने से सतह घट जाती है और श्वसन ठप हो जाता है।",
+        "en": "Gills work spread out in water; in dry air the filaments collapse and stick, the surface shrinks and respiration halts."
+      }
+    },
+    {
+      "id": "ch8_q904",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कीट (insects) अपने शरीर में हवा किन छिद्रों से लेते हैं?",
+        "en": "Through which openings do insects take air into their bodies?"
+      },
+      "options": {
+        "hi": [
+          "त्वचा",
+          "गलफड़े",
+          "फेफड़े",
+          "श्वास-छिद्र (spiracles)"
+        ],
+        "en": [
+          "Skin",
+          "Gills",
+          "Lungs",
+          "Spiracles"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कीट के धड़ पर पंक्तिबद्ध सूक्ष्म छिद्र — स्पिरेकल — हवा के प्रवेश-निकास के द्वार हैं।",
+        "en": "Rows of tiny holes on an insect's trunk — the spiracles — are the doors for air to enter and leave."
+      }
+    },
+    {
+      "id": "ch8_q905",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कीटों के शरीर में हवा को गहराई तक पहुँचाने वाली नलिका-प्रणाली का नाम क्या है?",
+        "en": "What is the tube system called that carries air deep inside an insect's body?"
+      },
+      "options": {
+        "hi": [
+          "ट्रैकियल तंत्र (श्वास-नलिकाएँ)",
+          "रुधिर वाहिकाएँ",
+          "लसीका नलिकाएँ",
+          "केशिका-जाल"
+        ],
+        "en": [
+          "Tracheal system (air tubes)",
+          "Blood vessels",
+          "Lymph vessels",
+          "Capillary network"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्पिरेकल से शुरू होकर श्वास-नलिकाएँ (ट्रैकिया) शाखाओं से भर शरीर फैलती हैं और सीधे कोशिकाओं तक हवा पहुँचाती हैं।",
+        "en": "Starting at the spiracles, the tracheal tubes branch throughout the body, delivering air straight to the cells."
+      }
+    },
+    {
+      "id": "ch8_q906",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "केंचुआ (earthworm) श्वसन किस से करता है?",
+        "en": "Through what does an earthworm respire?"
+      },
+      "options": {
+        "hi": [
+          "गलफड़ों से",
+          "अपनी नम त्वचा (सतह) से",
+          "ट्रैकिया से",
+          "फेफड़ों से"
+        ],
+        "en": [
+          "Through gills",
+          "Through its moist skin (surface)",
+          "Through tracheae",
+          "Through lungs"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "केंचुए की नम-चिकनी त्वचा घुली हवा सीधे रुधिर से विसरित कर देती है — त्वचा ही उसका श्वसन-अंग है।",
+        "en": "The worm's damp skin directly diffuses dissolved air into its blood — the skin itself is its breathing organ."
+      }
+    },
+    {
+      "id": "ch8_q907",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पौधों में श्वसन कहाँ-कहाँ होता है?",
+        "en": "In which parts of the plant does respiration occur?"
+      },
+      "options": {
+        "hi": [
+          "केवल पत्तों में",
+          "केवल जड़ों में",
+          "जड़, तना, पत्ती — हर जीवित भाग में",
+          "केवल फूलों में"
+        ],
+        "en": [
+          "Only in leaves",
+          "Only in roots",
+          "In root, stem, leaf — every living part",
+          "Only in flowers"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पौधे की हर जीवित कोशिका ऊर्जा के लिए श्वसन करती है — यह क्रिया किसी एक अंग तक सीमित नहीं।",
+        "en": "Every living cell of the plant respires for energy — the process is not confined to any one organ."
+      }
+    },
+    {
+      "id": "ch8_q908",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रात में पौधे मुख्यतः कौन-सी गैस छोड़ते हैं?",
+        "en": "Which gas do plants mainly release at night?"
+      },
+      "options": {
+        "hi": [
+          "नाइट्रोजन",
+          "हाइड्रोजन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड"
+        ],
+        "en": [
+          "Nitrogen",
+          "Hydrogen",
+          "Oxygen",
+          "Carbon dioxide"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "रात में प्रकाश-संश्लेषण रुकता है पर श्वसन चलता रहता है — इसलिए CO2 का शुद्ध निर्गम होता है।",
+        "en": "At night photosynthesis stops while respiration continues — so the net release is CO2."
+      }
+    },
+    {
+      "id": "ch8_q909",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अमीबा जैसा एककोशिकीय जीव गैस-विनिमय कैसे करता है?",
+        "en": "How does a unicellular organism like Amoeba exchange gases?"
+      },
+      "options": {
+        "hi": [
+          "कोशिका-झिल्ली के पार विसरण से",
+          "गलफड़ों से",
+          "रोमों से",
+          "फेफड़ों से"
+        ],
+        "en": [
+          "By diffusion across the cell membrane",
+          "Through gills",
+          "Through hairs",
+          "Through lungs"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पूरा जीव एक ही कोशिका है — सतही झिल्ली पर ही O2 भीतर और CO2 बाहर विसरित होती है।",
+        "en": "The whole animal is one cell — right at the surface membrane O2 diffuses in and CO2 diffuses out."
+      }
+    },
+    {
+      "id": "ch8_q910",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हाइड्रा जैसे जीव गैस-विनिमय किससे करते हैं?",
+        "en": "Through what do animals like Hydra exchange gases?"
+      },
+      "options": {
+        "hi": [
+          "विशेष अंगों से",
+          "पूरे शरीर की सतह से",
+          "पत्तियों से",
+          "फेफड़ों से"
+        ],
+        "en": [
+          "Through special organs",
+          "Through the whole body surface",
+          "Through leaves",
+          "Through lungs"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हाइड्रा की देह पतली-नम और कोशिकाएँ सतह के पास ही हैं — विनिमय केवल सतही विसरण से होता है।",
+        "en": "Hydra's body is thin and moist with cells sitting near the surface — surface diffusion alone meets its needs."
+      }
+    },
+    {
+      "id": "ch8_q911",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मेंढक जैसा उभयचर श्वसन किन माध्यमों से करता है?",
+        "en": "Through which media does an amphibian like the frog respire?"
+      },
+      "options": {
+        "hi": [
+          "केवल फेफड़ों से",
+          "केवल त्वचा से",
+          "फेफड़ों और नम त्वचा — दोनों से",
+          "केवल गलफड़ों से"
+        ],
+        "en": [
+          "Only through lungs",
+          "Only through skin",
+          "Through both lungs and moist skin",
+          "Only through gills"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मेंढक ज़मीन पर फेफड़ों से और जल/नमी में त्वचा से भी साँस लेता है — दोहरी व्यवस्था उसकी पहचान है।",
+        "en": "The frog breathes by lungs on land and through its moist skin in water — the double arrangement is its signature."
+      }
+    },
+    {
+      "id": "ch8_q912",
+      "topic": "respiration-other-organisms",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कवक (fungi) जैसे जीव गैस-विनिमय किस स्तर पर करते हैं?",
+        "en": "At what level do organisms like fungi carry out gas exchange?"
+      },
+      "options": {
+        "hi": [
+          "केवल बीजाणुओं से",
+          "प्रकाश-संश्लेषण द्वारा",
+          "विशेष श्वसन-अंगों से",
+          "अपनी समस्त सतह से विसरण द्वारा"
+        ],
+        "en": [
+          "Only through spores",
+          "By photosynthesis",
+          "Through special respiratory organs",
+          "By diffusion across their entire surface"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कवकों के सूक्ष्म तंतुओं की पतली दीवारें सीधे विसरण करती हैं — श्वसन-अंगों की जरूरत नहीं।",
+        "en": "The thin walls of microscopic fungal filaments diffuse gases directly — no respiratory organs are needed."
+      }
+    },
+    {
+      "id": "ch8_q913",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गलफड़ों की सतह रुधिर वाहिकाओं से भरपूर होना उनकी कार्यक्षमता कैसे बढ़ाता है?",
+        "en": "How does the gill surface being richly loaded with blood vessels boost its efficiency?"
+      },
+      "options": {
+        "hi": [
+          "घुली O2 तुरंत रुधिर में उतरती है और प्रवणता बनी रहती है",
+          "गलफड़े मजबूत होते हैं",
+          "जल का प्रवाह रुक जाता है",
+          "रुधिर का रंग बदलता है"
+        ],
+        "en": [
+          "Dissolved O2 promptly enters the blood and the gradient stays alive",
+          "The gills become strong",
+          "The water flow stops",
+          "The blood colour changes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सतत रुधिर-प्रवाह ग्रहीत O2 को तुरंत दूर ले जाता है — गलफड़े की O2-सांद्रता कम बनी रहती है और विसरण लगातार चलता रहता है।",
+        "en": "A rich blood flow instantly carries away absorbed O2 — the gill's O2 level stays low and diffusion never stops."
+      }
+    },
+    {
+      "id": "ch8_q914",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मछली को लगातार जल गलफड़ों पर बहाव रखना क्यों जरूरी है?",
+        "en": "Why must a fish keep water constantly flowing over its gills?"
+      },
+      "options": {
+        "hi": [
+          "शरीर ठंडा रखने के लिए",
+          "नया घुली-O2 युक्त जल ही लगातार विसरण संभव बनाता है; रुका जल अपनी O2 खो देता है",
+          "भोजन ढूँढने के लिए",
+          "तैरने में मदद के लिए"
+        ],
+        "en": [
+          "To keep the body cool",
+          "Only a continuous supply of fresh oxygenated water sustains diffusion; stalled water loses its O2",
+          "To find food",
+          "To help swimming"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गलफड़ों के पास का जल अपनी घुली O2 दे देता है — मुँह-कलाई (operculum) की धारा ही ताजा जल बुलाती रहती है।",
+        "en": "The water near the gills gives up its dissolved O2 — the mouth-and-gill-cover current keeps summoning fresh water."
+      }
+    },
+    {
+      "id": "ch8_q915",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कीटों की श्वास-नलिकाएँ (ट्रैकिया) रुधिर की मदद लिए बिना ही O2 कोशिकाओं तक कैसे पहुँचाती हैं?",
+        "en": "How do insect tracheae deliver O2 to cells without any help from blood?"
+      },
+      "options": {
+        "hi": [
+          "त्वचा सब ढोती है",
+          "कीट प्रकाश-संश्लेषण करते हैं",
+          "नलिकाएँ सीधे शरीर-गहरे तक शाखाएँ फैलाती हैं और वायु बहकर कोशिकाओं तक पहुँचती है",
+          "रुधिर O2 खा जाता है"
+        ],
+        "en": [
+          "The skin carries everything",
+          "Insects photosynthesise",
+          "The tubes branch deep into the body and air flows right up to the cells",
+          "The blood eats up the O2"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ट्रैकियल तंत्र हवा की सीधी पाइपलाइन है — कोशिका-झिल्ली तक पहुँचकर विसरण स्थानीय स्तर पर ही पूरा हो जाता है।",
+        "en": "The tracheal system is a direct air pipeline — reaching the cell membranes, diffusion finishes the job locally."
+      }
+    },
+    {
+      "id": "ch8_q916",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "केंचुए की त्वचा का लगातार नम रहना उसके श्वसन के लिए अनिवार्य क्यों है?",
+        "en": "Why is a constantly moist skin indispensable for an earthworm's respiration?"
+      },
+      "options": {
+        "hi": [
+          "नमी से रंग गहरा होता है",
+          "नम त्वचा शिकारी दूर रखती है",
+          "नमी से वह तैरता है",
+          "विसरण द्रव-फिल्म के आर-पार ही होता है — सूखी त्वचा पर गैस-विनिमय रुक जाता है"
+        ],
+        "en": [
+          "Moisture darkens the colour",
+          "Moist skin keeps predators away",
+          "Moisture helps it float",
+          "Diffusion occurs only across a fluid film — on dry skin the exchange stops"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हवा की O2 पहले त्वचा की जल-फिल्म में घुलती है, तभी भीतर जाती है — फिल्म सूखे तो मार्ग ही समाप्त।",
+        "en": "Atmospheric O2 must first dissolve in the skin's water film before entering — dry the film and the road ends."
+      }
+    },
+    {
+      "id": "ch8_q917",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "केंचुए का श्वसन-वर्णक रुधिर में किस रूप में रहता है?",
+        "en": "In what form does the earthworm's respiratory pigment exist in its blood?"
+      },
+      "options": {
+        "hi": [
+          "प्लाज्मा में घुला हुआ",
+          "केवल त्वचा में",
+          "केवल पाचन-तंत्र में",
+          "कोशिकाओं में भरा (मानव की तरह)"
+        ],
+        "en": [
+          "Dissolved in the plasma",
+          "Only in the skin",
+          "Only in the gut",
+          "Packed in cells (as in humans)"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "केंचुए का हीमोग्लोबिन रुधिर-द्रव में घुला रहता है — मानव के RBC-बंद हीमोग्लोबिन से यह भिन्न व्यवस्था है।",
+        "en": "The earthworm's haemoglobin stays dissolved in its blood fluid — an arrangement distinct from human RBC-packed haemoglobin."
+      }
+    },
+    {
+      "id": "ch8_q918",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वर्षा में दिन के समय पौधा कौन-सी गैस शुद्ध रूप से छोड़ता है (मान लीजिए प्रकाश पर्याप्त है)?",
+        "en": "On a well-lit day, which gas does a plant release on net balance?"
+      },
+      "options": {
+        "hi": [
+          "केवल CO2",
+          "केवल O2 नहीं — निर्गम प्रकाश की तीव्रता पर निर्भर",
+          "O2 और CO2 बराबर-बराबर",
+          "कोई गैस नहीं"
+        ],
+        "en": [
+          "Only CO2",
+          "Not O2 alone — the net release depends on light intensity",
+          "O2 and CO2 equally",
+          "No gas"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दिन में प्रकाश-संश्लेषण और श्वसन साथ चलते हैं — प्रकाश तेज हो तो O2 का निर्माण खपत से बढ़ जाता है और शुद्ध O2 निकलती है।",
+        "en": "By day photosynthesis and respiration run together — in strong light O2 production outpaces its use and net O2 is released."
+      }
+    },
+    {
+      "id": "ch8_q919",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पेड़ के तने की मोटी छाल में गैस-विनिमय के लिए कौन-से छिद्र होते हैं?",
+        "en": "Which pores in the thick bark of a tree trunk serve gas exchange?"
+      },
+      "options": {
+        "hi": [
+          "जड़-रोम",
+          "रंध्र",
+          "लेंटिसेल (lenticels)",
+          "श्वास-छिद्र"
+        ],
+        "en": [
+          "Root hairs",
+          "Stomata",
+          "Lenticels",
+          "Spiracles"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जहाँ छाल मोटी हो जाती है वहाँ छोटे-छोटे उभार वाले लेंटिसेल भीतरी जीवित ऊतकों तक हवा का रास्ता बनाते हैं।",
+        "en": "Where the bark turns thick, small raised lenticels keep an air route open to the living tissue inside."
+      }
+    },
+    {
+      "id": "ch8_q920",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जड़ों में ऑक्सीजन ग्रहण का मुख्य क्षेत्र कौन-सा है?",
+        "en": "Which is the main region of oxygen uptake in roots?"
+      },
+      "options": {
+        "hi": [
+          "मूल-छोटक",
+          "जड़ का सिरा ढक्कन",
+          "मूल-ग्रीवा",
+          "मूल-रोम (root hair) क्षेत्र"
+        ],
+        "en": [
+          "Root cap",
+          "The tip cover",
+          "Root neck",
+          "The root-hair zone"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मूल-रोमों की विशाल सतह मिट्टी-वायु से O2 लेने का मुख्य काम करती है — यही जड़ का विनिमय-क्षेत्र है।",
+        "en": "The enormous surface of root hairs does the chief work of taking O2 from soil air — the root's exchange zone."
+      }
+    },
+    {
+      "id": "ch8_q921",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पक्षियों में वायु-कोश (air sacs) उड़ान के समय श्वसन में क्या लाभ देते हैं?",
+        "en": "What advantage do the air sacs of birds give their respiration during flight?"
+      },
+      "options": {
+        "hi": [
+          "वे हवा संग्रहीत कर फेफड़ों में बार-बार भेजते हैं — उड़ान भर में निरंतर ऑक्सीजन-आपूर्ति बनी रहती है",
+          "वे पंखों को फुलाते हैं",
+          "वे भोजन पचाते हैं",
+          "वे आवाज़ बनाते हैं"
+        ],
+        "en": [
+          "They store air and pass it repeatedly through the lungs — oxygen supply stays continuous through the flight",
+          "They inflate the wings",
+          "They digest food",
+          "They make voice"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पक्षी-फेफड़े हवा को एक ही दिशा में झिझकते हैं; वायु-कोश आरक्षित हवा बार-बार इस प्रवाह में डालते हैं — थकान भरी उड़ान में भी O2 की घाटी नहीं पड़ती।",
+        "en": "Bird lungs stream air one-way; the sacs push reserve air through this stream again and again — even strenuous flight never starves the tissues of O2."
+      }
+    },
+    {
+      "id": "ch8_q922",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "डॉल्फिन और व्हेल जल में रहकर भी बार-बार सतह पर क्यों आते हैं?",
+        "en": "Why do dolphins and whales keep surfacing despite living in water?"
+      },
+      "options": {
+        "hi": [
+          "खेलने के लिए",
+          "उनके फेफड़े हवा से साँस लेते हैं — जल-स्तर से ऊपर वायुमंडलीय हवा लेना पड़ता है",
+          "धूप सेंकने के लिए",
+          "भोजन केवल सतह पर मिलता है"
+        ],
+        "en": [
+          "To play",
+          "Their lungs breathe air — they must take atmospheric air above the water line",
+          "To bask in the sun",
+          "Food is found only at the surface"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ये स्तनधारी हैं — गलफड़े नहीं, फेफड़े हैं; घुली O2 काम नहीं आती, सीधी हवा चाहिए इसलिए सतह पर आकर साँस लेते हैं।",
+        "en": "They are mammals — lungs, not gills; dissolved O2 will not do, direct air is needed, so they surface to breathe."
+      }
+    },
+    {
+      "id": "ch8_q923",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अंकुरित बीजों को काँच की बोतल में बंद कर रातभर रखा गया — सुबह बोतल में नीचे लटके चूने-जल को कोठरी का पानी दूधिया हो गया। यह प्रयोग क्या सिद्ध करता है?",
+        "en": "Germinating seeds are kept overnight in a sealed bottle with a vial of lime water; by morning the lime water turns milky. What does this prove?"
+      },
+      "options": {
+        "hi": [
+          "बोतल में O2 बनी",
+          "बीजों में प्रकाश-संश्लेषण हुआ",
+          "जीवित बीजों का श्वसन चलता रहा और CO2 निकली",
+          "बीज सूख गए"
+        ],
+        "en": [
+          "O2 formed in the bottle",
+          "Photosynthesis occurred in the seeds",
+          "The living seeds kept respiring and released CO2",
+          "The seeds dried up"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दूधिया चूना-जल CO2 की उपस्थिति का पक्का प्रमाण है — अंकुरण के दौरान तेज श्वसन से बीज लगातार CO2 छोड़ते हैं।",
+        "en": "Milky lime water is firm proof of CO2 — germinating seeds respire briskly and release CO2 continuously."
+      }
+    },
+    {
+      "id": "ch8_q924",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कीटों के रुधिर में श्वसन-वर्णक की उपस्थिति मामूली क्यों है?",
+        "en": "Why is the presence of a respiratory pigment minimal in insect blood?"
+      },
+      "options": {
+        "hi": [
+          "कीटों का रुधिर सफेद होता है",
+          "कीट त्वचा से सब लेते हैं",
+          "कीट श्वसन नहीं करते",
+          "ट्रैकियल नलिकाएँ हवा सीधे कोशिकाओं तक पहुँचाती हैं — रुधिर का गैस-परिवहन कार्य छोटा हो जाता है"
+        ],
+        "en": [
+          "Insect blood is white",
+          "Insects take everything through skin",
+          "Insects do not respire",
+          "Tracheal tubes deliver air straight to the cells — the blood's gas-transport role shrinks"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हवा की सीधी पाइपलाइन होने से रुधिर को गैस-ढोना पड़ता नहीं — इसीलिए कीट-रुधिर वर्णक-निर्धन है।",
+        "en": "With a direct air pipeline, the blood need not ferry gases — hence insect blood is pigment-poor."
+      }
+    },
+    {
+      "id": "ch8_q925",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पौधे की जड़ें अपने श्वसन से प्राप्त ऊर्जा का एक बड़ा उपयोग किसमें करती हैं?",
+        "en": "What major use do plant roots make of the energy obtained from their respiration?"
+      },
+      "options": {
+        "hi": [
+          "मिट्टी से खनिज लवणों का सक्रिय अवशोषण करने में",
+          "फूल खिलाने में",
+          "बीज बनाने में",
+          "पत्तियों को रंग देने में"
+        ],
+        "en": [
+          "Actively absorbing mineral salts from the soil",
+          "Opening the flowers",
+          "Making seeds",
+          "Colouring the leaves"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खनिज-अवशोषण ऊर्जा-माँग का काम है — जड़-कोशिकाएँ अपने श्वसन की ATP से ही मिट्टी के लवणों को भीतर खींचती हैं।",
+        "en": "Mineral uptake is energy-hungry work — root cells use their respiratory ATP to pull soil salts inside."
+      }
+    },
+    {
+      "id": "ch8_q926",
+      "topic": "respiration-other-organisms",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बरसात में मिट्टी पूरी तरह जल से संतृप्त होने पर बड़े वृक्षों की जड़ों के पास की मृदा-वायु का क्या होता है?",
+        "en": "What happens to the soil air near the roots of large trees when soil becomes fully water-saturated in rain?"
+      },
+      "options": {
+        "hi": [
+          "वह बढ़ जाती है",
+          "जल उसे हटा देता है — जड़ें ऑक्सीजन के लिए तंगी में आ जाती हैं",
+          "मिट्टी वायु बनाती है",
+          "कोई प्रभाव नहीं"
+        ],
+        "en": [
+          "It increases",
+          "Water displaces it — the roots face an oxygen crunch",
+          "The soil makes air",
+          "No effect"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जल-भराव में मिट्टी के छिद्रों की हवा जल धकेल देता है — जड़-श्वसन दमन-छूट की स्थिति में आ जाता है।",
+        "en": "In waterlogging, water displaces the air from soil pores — root respiration lands in a choked state."
+      }
+    },
+    {
+      "id": "ch8_q927",
+      "topic": "respiration-other-organisms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गलफड़ों पर जल का प्रवाह और भीतर रुधिर का प्रवाह लगभग विपरीत दिशाओं में चलते हैं — इस व्यवस्था से मछली को क्या लाभ है?",
+        "en": "Water flows over the gills nearly opposite to the direction of blood flow inside — what benefit does this give the fish?"
+      },
+      "options": {
+        "hi": [
+          "गलफड़े ठंडे रहते हैं",
+          "रुधिर जल में मिल जाता है",
+          "पूरी सतह पर O2 का अंतर कायम रहता है — जल से अधिकतम ऑक्सीजन निकाली जाती है",
+          "मछली तेज़ तैरती है"
+        ],
+        "en": [
+          "The gills stay cool",
+          "Blood mixes into the water",
+          "An O2 difference persists over the whole surface — the maximum oxygen is extracted from water",
+          "The fish swims faster"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विपरीत-प्रवाह व्यवस्था में थका हुआ रुधिर भी ताजा जल से ही मिलता है — विनिमय-प्रवणता अंत तक बनी रहती है और O2-ग्रहण लगभग पूर्ण होता है।",
+        "en": "In the counter-current arrangement even tired blood meets fresh water — the gradient survives to the very end and O2 uptake runs near-complete."
+      }
+    },
+    {
+      "id": "ch8_q928",
+      "topic": "respiration-other-organisms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "भारी बारिश में केंचुए बार-बार ज़मीन की सतह पर क्यों उतर आते हैं?",
+        "en": "Why do earthworms keep coming up to the soil surface during heavy rain?"
+      },
+      "options": {
+        "hi": [
+          "भोजन खोजने के लिए",
+          "प्रजनन के लिए",
+          "सूरज देखने के लिए",
+          "बारिश के जल से बिल की वायु-छिद्र भर जाते हैं — ऑक्सीजन की कमी से बचने के लिए सतह पर आते हैं"
+        ],
+        "en": [
+          "To search food",
+          "For reproduction",
+          "To see the sun",
+          "Rain-water fills the air pockets of their burrows — they surface to escape the oxygen shortage"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जल-भराव से बिलों की हवा जाती रहती है; त्वचा-श्वसन के लिए ज़मीन की गीली सतह की हवा ही उन्हें बचाती है।",
+        "en": "Waterlogging drives the air out of their burrows; the air at the wet ground surface is what saves their skin-breathing."
+      }
+    },
+    {
+      "id": "ch8_q929",
+      "topic": "respiration-other-organisms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "जीवाश्म-काल की वायु में उच्च O2 थी — उस युग में भीमकाय कीट संभव थे, आज नहीं। श्वसन-दृष्टि से कारण क्या है?",
+        "en": "Giant insects were possible in the era of high atmospheric O2, not today. What is the respiratory reason?"
+      },
+      "options": {
+        "hi": [
+          "ट्रैकियल विसरण की पहुँच सीमित है — बड़ी देह में गहरे कोशिकाओं तक O2 पहुँचाना असंभव हो जाता है; अधिक O2 वाली हवा में ही विसरण-पहुँच बढ़ती थी",
+          "कीट आलसी हो गए",
+          "पक्षियों ने उन्हें खा लिया",
+          "आज हवा जहरीली है"
+        ],
+        "en": [
+          "Tracheal diffusion has limited reach — in a big body deep cells cannot be supplied; oxygen-richer air once extended that reach",
+          "Insects grew lazy",
+          "Birds ate them up",
+          "Today's air is toxic"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विसरण दूरी के साथ तेजी से कमजोर पड़ता है — ट्रैकिया जितना लंबा, O2-आपूर्ति उतनी अनिश्चित; इसी सीमा ने कीटों का आकार बाँध दिया।",
+        "en": "Diffusion weakens rapidly with distance — the longer the trachea, the shakier the O2 supply; this limit has capped insect size."
+      }
+    },
+    {
+      "id": "ch8_q930",
+      "topic": "respiration-other-organisms",
+      "difficulty": "hard",
+      "question": {
+        "hi": "हाइड्रा जैसे जीव की देह-भित्ति केवल दो कोशिका-स्तरों की होना उसके गैस-विनिमय के लिए निर्णायक क्यों है?",
+        "en": "Why is Hydra's body wall being just two cell layers decisive for its gas exchange?"
+      },
+      "options": {
+        "hi": [
+          "दो स्तर सुंदर लगते हैं",
+          "हर कोशिका सतह के पास ही रहती है — विसरण-दूरी इतनी छोटी कि अंगों की जरूरत पड़ती ही नहीं",
+          "दो स्तर मजबूती देते हैं",
+          "दो स्तर प्रकाश रोकते हैं"
+        ],
+        "en": [
+          "Two layers look nice",
+          "Every cell stays next to the surface — the diffusion distance is so small that no organs are needed",
+          "Two layers give strength",
+          "Two layers block light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पतली देह = हर कोशिका की सतह से सीधी पहुँच — O2/CO2 का आदान-प्रदान झिल्ली पार सीधा हो जाता है।",
+        "en": "A thin body = every cell directly served from the surface — O2/CO2 exchange happens straight across membranes."
+      }
+    },
+    {
+      "id": "ch8_q931",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्वास-क्रिया (breathing) और कोशिकीय श्वसन (respiration) का मूल अंतर क्या है?",
+        "en": "What is the basic difference between breathing and cellular respiration?"
+      },
+      "options": {
+        "hi": [
+          "श्वसन केवल पौधों में होता है",
+          "दोनों एक ही क्रिया हैं",
+          "श्वास-क्रिया हवा का बाहर-भीतर है; श्वसन कोशिकाओं में भोजन तोड़कर ऊर्जा निकालना है",
+          "श्वास में ऊर्जा बनती है, श्वसन में हवा"
+        ],
+        "en": [
+          "Respiration occurs only in plants",
+          "Both are the same process",
+          "Breathing is the in-and-out of air; respiration is the release of energy by breaking food in cells",
+          "Breathing makes energy, respiration moves air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "श्वास-क्रिया यांत्रिक है, श्वसन जैव-रासायनिक — पहला दूसरे की हवा-आपूर्ति का बाहरी साधन मात्र।",
+        "en": "Breathing is mechanical, respiration biochemical — the former is merely the external supply line of the latter."
+      }
+    },
+    {
+      "id": "ch8_q932",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दहन (combustion) और श्वसन दोनों ऑक्सीकरण हैं — इनकी प्रक्रिया में मुख्य भिन्नता क्या है?",
+        "en": "Both combustion and respiration are oxidations — what is the main difference in their manner?"
+      },
+      "options": {
+        "hi": [
+          "दोनों में कोई भिन्नता नहीं",
+          "श्वसन में ऑक्सीजन नहीं लगती",
+          "दहन धीमा, श्वसन विस्फोटक",
+          "दहन एकदम ताप-ज्वाला से, श्वसन एंजाइमों द्वारा नियंत्रित चरणों में"
+        ],
+        "en": [
+          "There is no difference",
+          "Respiration needs no oxygen",
+          "Combustion is slow, respiration explosive",
+          "Combustion is instant heat-flame; respiration runs in enzyme-controlled steps"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लकड़ी जलती है एक ही झोंके में; ग्लूकोज़ टूटता है दर्जनों एंजाइम-चरणों में — रफ्तार और नियंत्रण ही भेद है।",
+        "en": "Wood burns in one blast; glucose breaks in dozens of enzyme steps — pace and control are the difference."
+      }
+    },
+    {
+      "id": "ch8_q933",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्वास-क्रिया मुख्यतः शरीर के किस भाग तक सीमित है?",
+        "en": "Breathing is mainly confined to which part of the body?"
+      },
+      "options": {
+        "hi": [
+          "फेफड़े और श्वसन-मार्ग",
+          "यकृत",
+          "सभी कोशिकाएँ",
+          "मस्तिष्क"
+        ],
+        "en": [
+          "The lungs and respiratory tract",
+          "The liver",
+          "All cells",
+          "The brain"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "श्वास-क्रिया का मंच छाती है; श्वसन का मंच शरीर की हर कोशिका — स्थल भी दोनों का भेद है।",
+        "en": "The stage of breathing is the chest; the stage of respiration is every cell — venue too distinguishes them."
+      }
+    },
+    {
+      "id": "ch8_q934",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दहन में ईंधन की ऊर्जा मुख्यतः किस रूप में मुक्त होती है?",
+        "en": "In combustion, the fuel's energy is released mainly in which form?"
+      },
+      "options": {
+        "hi": [
+          "ATP में",
+          "ताप और प्रकाश में",
+          "ग्लूकोज़ में",
+          "प्रोटीन में"
+        ],
+        "en": [
+          "As ATP",
+          "As heat and light",
+          "As glucose",
+          "As protein"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आग ताप-प्रकाश बिखेरती है; श्वसन उसी अंतर्निहित ऊर्जा को ATP के रूप में बाँधता है — यही रूप-भेद है।",
+        "en": "Fire scatters heat and light; respiration banks the same latent energy as ATP — the form is the divide."
+      }
+    },
+    {
+      "id": "ch8_q935",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रकाश-संश्लेषण का समीकरण किस दिशा में चलता है?",
+        "en": "In which direction does the photosynthesis equation run?"
+      },
+      "options": {
+        "hi": [
+          "ग्लूकोज़ → एथेनॉल + CO2",
+          "प्रोटीन + O2 → ऊर्जा",
+          "CO2 + जल + प्रकाश → ग्लूकोज़ + O2",
+          "ग्लूकोज़ + O2 → CO2 + जल + ऊर्जा"
+        ],
+        "en": [
+          "glucose → ethanol + CO2",
+          "protein + O2 → energy",
+          "CO2 + water + light → glucose + O2",
+          "glucose + O2 → CO2 + water + energy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रकाश-संश्लेषण सरल पदार्थों से भोजन बनाता है; श्वसन उसी भोजन को वापस तोड़ता है — दिशाएँ आमने-सामने।",
+        "en": "Photosynthesis builds food from simple stuff; respiration breaks that food back — the directions face each other."
+      }
+    },
+    {
+      "id": "ch8_q936",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "केवल हरे पौधे प्रकाश-संश्लेषण कर सकते हैं — श्वसन करने वाले कौन हैं?",
+        "en": "Only green plants can photosynthesise — who can respire?"
+      },
+      "options": {
+        "hi": [
+          "केवल स्तनधारी",
+          "केवल प्राणी",
+          "केवल मनुष्य",
+          "सभी जीव — पौधे, प्राणी, कवक, सूक्ष्मजीव सब"
+        ],
+        "en": [
+          "Only mammals",
+          "Only animals",
+          "Only humans",
+          "All living beings — plants, animals, fungi, microbes all"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रकाश-संश्लेषण हरितलवक का विशेषाधिकार है; श्वसन जीवन का सार्वभौमिक कार्य — जो जीवित है वह श्वसन करता है।",
+        "en": "Photosynthesis is the privilege of chloroplasts; respiration is life's universal act — whatever lives, respires."
+      }
+    },
+    {
+      "id": "ch8_q937",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्वास लेना (breathing) अपने आप में किस प्रकार की क्रिया है?",
+        "en": "What kind of process is breathing in itself?"
+      },
+      "options": {
+        "hi": [
+          "यांत्रिक (भौतिक) वायु-प्रवाह क्रिया",
+          "प्रकाश-रासायनिक क्रिया",
+          "उत्सर्जन क्रिया",
+          "रासायनिक ऊर्जा-क्रिया"
+        ],
+        "en": [
+          "A mechanical (physical) airflow process",
+          "A photochemical process",
+          "An excretory process",
+          "A chemical energy process"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पसली-मध्यपट की हरकत से हवा का देना-लेना शुद्ध यांत्रिकी है — रासायनिक चरण तो कोशिकाओं में होते हैं।",
+        "en": "The giving and taking of air by rib-and-diaphragm motion is pure mechanics — the chemistry unfolds in the cells."
+      }
+    },
+    {
+      "id": "ch8_q938",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्वसन को 'नियंत्रित ऑक्सीकरण' कहा जाता है — नियंत्रण कौन करता है?",
+        "en": "Respiration is called 'controlled oxidation' — who exercises the control?"
+      },
+      "options": {
+        "hi": [
+          "हवा की गति",
+          "एंजाइम (enzyme)",
+          "हृदय की धड़कन",
+          "प्रकाश"
+        ],
+        "en": [
+          "The speed of air",
+          "Enzymes",
+          "The heartbeat",
+          "Light"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हर चरण विशिष्ट एंजाइम की देखरेख में चलता है — एंजाइम ही गति, स्थान और मात्रा का नियंत्रण रखते हैं।",
+        "en": "Every step proceeds under the watch of a specific enzyme — enzymes hold the reins of pace, place and quantity."
+      }
+    },
+    {
+      "id": "ch8_q939",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ग्लूकोज़ के जलने (दहन) और उसके श्वसन-विघटन के उत्पादों की तुलना में क्या समानता है?",
+        "en": "What is similar in the products of burning glucose and of its respiratory breakdown?"
+      },
+      "options": {
+        "hi": [
+          "दोनों में प्रोटीन बनते हैं",
+          "दोनों में एश (राख) बनती है",
+          "दोनों में अंततः CO2 और H2O बनते हैं",
+          "दोनों में एथेनॉल बनता है"
+        ],
+        "en": [
+          "Both produce proteins",
+          "Both produce ash",
+          "Both ultimately yield CO2 and H2O",
+          "Both produce ethanol"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रसायन का गंतव्य एक है — CO2 और जल; फर्क रास्ते का है: आग में एक ही झटका, श्वसन में सीढ़ियाँ।",
+        "en": "The chemical destination is one — CO2 and water; the paths differ: a single blast in fire, a staircase in respiration."
+      }
+    },
+    {
+      "id": "ch8_q940",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'श्वसन एक धीमा दहन है' — इस कथन की परीक्षा में सही व्याख्या क्या है?",
+        "en": "'Respiration is a slow combustion' — what is the correct interpretation of this statement for exams?"
+      },
+      "options": {
+        "hi": [
+          "श्वसन दहन से भी तेज़ है",
+          "कथन पूर्णतः गलत है",
+          "शरीर में सचमुच आग धीमे-धीमे जलती है",
+          "ऑक्सीकरण की दृष्टि से दोनों समान हैं, पर श्वसन एंजाइम-नियंत्रित चरणों में ऊर्जा ATP में बाँधता है"
+        ],
+        "en": [
+          "Respiration is even faster than combustion",
+          "The statement is entirely wrong",
+          "A fire literally burns slowly in the body",
+          "Both are alike as oxidations, but respiration binds energy into ATP through enzyme-controlled steps"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समानता रासायनिक (ऑक्सीकरण), भिन्नता गति-नियंत्रण-ऊर्जा-रूप में — 'धीमा दहन' रूपक है, आग की वास्तविकता नहीं।",
+        "en": "The likeness is chemical (oxidation), the difference lies in pace, control and energy form — 'slow combustion' is a metaphor, not a literal fire."
+      }
+    },
+    {
+      "id": "ch8_q941",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रकाश-संश्लेषण और श्वसन कच्चे माल (reactants) की दृष्टि से एक-दूसरे के कैसे हैं?",
+        "en": "How are photosynthesis and respiration related in terms of raw materials (reactants)?"
+      },
+      "options": {
+        "hi": [
+          "एक के उत्पाद दूसरे के कच्चे माल हैं",
+          "दोनों का कोई संबंध नहीं",
+          "दोनों एक ही दिशा में चलते हैं",
+          "दोनों के कच्चे माल समान हैं"
+        ],
+        "en": [
+          "The products of one are the raw materials of the other",
+          "They are unrelated",
+          "Both run in the same direction",
+          "Their raw materials are identical"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रकाश-संश्लेषण का बना ग्लूकोज़-O2 श्वसन खाता है; श्वसन की CO2-जल प्रकाश-संश्लेषण उपयोग करता है — चक्र जुड़ा है।",
+        "en": "Respiration consumes the glucose-O2 that photosynthesis makes; photosynthesis uses the CO2-water that respiration yields — one linked cycle."
+      }
+    },
+    {
+      "id": "ch8_q942",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दिन के समय हरे पौधे में कौन-सी दो क्रियाएँ साथ-साथ चल रही होती हैं?",
+        "en": "Which two processes run side by side in a green plant during the day?"
+      },
+      "options": {
+        "hi": [
+          "केवल श्वसन",
+          "प्रकाश-संश्लेषण और श्वसन — दोनों साथ",
+          "केवल वाष्पोत्सर्जन",
+          "केवल प्रकाश-संश्लेषण"
+        ],
+        "en": [
+          "Only respiration",
+          "Photosynthesis and respiration — both together",
+          "Only transpiration",
+          "Only photosynthesis"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दिन में दोनों प्रक्रियाएँ समानांतर चलती हैं — केवल गति-प्रकाश-तीव्रता तय करती है कि शुद्ध गैस कौन-सी निकलेगी।",
+        "en": "By day both processes run in parallel — only the rate and light intensity decide which gas leaves on net."
+      }
+    },
+    {
+      "id": "ch8_q943",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्लोरोप्लास्ट और माइटोकॉन्ड्रिया का कार्य-विभाजन कैसा है?",
+        "en": "How is the work divided between chloroplasts and mitochondria?"
+      },
+      "options": {
+        "hi": [
+          "दोनों पाचन करते हैं",
+          "दोनों ऊर्जा बनाते हैं",
+          "क्लोरोप्लास्ट प्रकाश-ऊर्जा को भोजन में बाँधता है; माइटोकॉन्ड्रिया भोजन को तोड़कर ATP देता है",
+          "दोनों प्रकाश बनाते हैं"
+        ],
+        "en": [
+          "Both digest food",
+          "Both make energy",
+          "The chloroplast packs light energy into food; the mitochondrion breaks food to give ATP",
+          "Both make light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक ऊर्जा का भंडारण-घर, दूसरा ऊर्जा का वितरण-घर — हरितलवक जमा करता है, माइटोकॉन्ड्रियन चलाता है।",
+        "en": "One is the energy storehouse, the other the energy supplier — the chloroplast saves, the mitochondrion spends."
+      }
+    },
+    {
+      "id": "ch8_q944",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "फेफड़ों में कोई ATP नहीं बनता — फिर भी वे श्वसन-तंत्र का हिस्सा क्यों हैं?",
+        "en": "No ATP is made in the lungs — why are they still part of the respiratory system?"
+      },
+      "options": {
+        "hi": [
+          "वे रुधिर बनाते हैं",
+          "वे भोजन पचाते हैं",
+          "वे हवा साफ करते हैं",
+          "वे गैस-विनिमय कर कोशिकीय श्वसन का कच्चा माल (O2) पहुँचाते हैं"
+        ],
+        "en": [
+          "They make blood",
+          "They digest food",
+          "They clean the air",
+          "They perform gas exchange and deliver the raw material (O2) of cellular respiration"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फेफड़े आपूर्ति-विभाग हैं — O2 की डिलीवरी और CO2 का संग्रह; ऊर्जा-कारखाना कोशिकाओं में ही है।",
+        "en": "Lungs are the supply department — O2 delivery and CO2 collection; the energy factory lies within the cells."
+      }
+    },
+    {
+      "id": "ch8_q945",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ऊर्जा-प्रवाह की दृष्टि से प्रकाश-संश्लेषण और श्वसन की दिशाएँ कैसी हैं?",
+        "en": "In terms of energy flow, what are the directions of photosynthesis and respiration?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश-संश्लेषण ऊर्जा को भोजन में संग्रहीत करता है, श्वसन उसे मुक्त करता है",
+          "दोनों ऊर्जा संग्रहीत करते हैं",
+          "किसी में ऊर्जा लेन-देन नहीं",
+          "दोनों ऊर्जा मुक्त करते हैं"
+        ],
+        "en": [
+          "Photosynthesis stores energy in food; respiration releases it",
+          "Both store energy",
+          "Neither involves energy exchange",
+          "Both release energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सूर्य-प्रकाश → ग्लूकोज़ (जमा) → ATP (खर्च) — प्रकाश-संश्लेषण ऊर्जा का बैंक-जमा, श्वसन उसकी निकासी है।",
+        "en": "Sunlight → glucose (deposit) → ATP (spending) — photosynthesis is the energy deposit, respiration the withdrawal."
+      }
+    },
+    {
+      "id": "ch8_q946",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "व्यायाम के दौरान श्वास-क्रिया और कोशिकीय श्वसन की गतियों का आपसी संबंध कैसा रहता है?",
+        "en": "During exercise, how are the rates of breathing and cellular respiration related?"
+      },
+      "options": {
+        "hi": [
+          "दोनों स्वतंत्र रहती हैं",
+          "कोशिकीय श्वसन तेज होने पर O2-CO2 की माँग बढ़ती है और श्वास-क्रिया उसका अनुसरण करती है",
+          "श्वास-क्रिया धीमी होती है",
+          "कोशिकीय श्वसन रुक जाता है"
+        ],
+        "en": [
+          "Both stay independent",
+          "As cellular respiration speeds up, the O2-CO2 demand rises and breathing follows suit",
+          "Breathing slows down",
+          "Cellular respiration stops"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "माँग और आपूर्ति की यह कड़ी ही संबंध है — कोशिकाओं की खपत बढ़ती है, श्वास-तंत्र आपूर्ति बढ़ाकर साथ देता है।",
+        "en": "This demand-supply chain is the relationship — as cell consumption rises, the breathing apparatus raises supply to match."
+      }
+    },
+    {
+      "id": "ch8_q947",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न क्रिया-स्थल युग्मों में से गलत कौन-सा है?",
+        "en": "Which of the following process-site pairs is wrong?"
+      },
+      "options": {
+        "hi": [
+          "कोशिकीय श्वसन — माइटोकॉन्ड्रिया",
+          "श्वास-क्रिया — फेफड़े",
+          "दहन — माइटोकॉन्ड्रिया",
+          "प्रकाश-संश्लेषण — हरितलवक"
+        ],
+        "en": [
+          "Cellular respiration — mitochondria",
+          "Breathing — lungs",
+          "Combustion — mitochondria",
+          "Photosynthesis — chloroplast"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दहन जीव-कोशिका में होता ही नहीं — वह अजैव प्रक्रिया है; माइटोकॉन्ड्रिया में तो नियंत्रित श्वसन होता है।",
+        "en": "Combustion never occurs in a living cell — it is a non-living process; mitochondria host controlled respiration."
+      }
+    },
+    {
+      "id": "ch8_q948",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक पूरे दिन-रात चक्र में स्वस्थ हरे पौधे की कुल गैस-हिसाब किस प्रक्रिया की ओर झुका रहता है और क्यों?",
+        "en": "Over a full day-night cycle, which way does the gas balance of a healthy green plant tilt, and why?"
+      },
+      "options": {
+        "hi": [
+          "पूर्णतः संतुलित — कभी नहीं झुकता",
+          "निर्भर नहीं करता",
+          "शुद्ध CO2 — क्योंकि रात का श्वसन दिन के संश्लेषण से बड़ा होता है",
+          "शुद्ध O2 — क्योंकि बढ़ते पौधे में संश्लेषण का ग्लूकोज़-निर्माण श्वसन-खपत से अधिक रहता है"
+        ],
+        "en": [
+          "Perfectly balanced — never tilts",
+          "It does not depend",
+          "Net CO2 — because night respiration outweighs daytime photosynthesis",
+          "Net O2 — because in a growing plant glucose made by photosynthesis exceeds respiratory consumption"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वृद्धि के लिए पौधे को ग्लूकोज़ बचाना पड़ता है — बनाई गई मात्रा जलाई गई से अधिक; इसीलिए 24 घंटे का शुद्ध हिसाब O2 के पक्ष में रहता है।",
+        "en": "To grow, the plant must save glucose — made more than burnt; hence the 24-hour ledger stays in favour of O2."
+      }
+    },
+    {
+      "id": "ch8_q949",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अंकुरित बीजों से भरे थर्मास-फ्लास्क में तापमान धीरे-धीरे ऊपर चला गया — यह किस तथ्य का प्रमाण है?",
+        "en": "The temperature in a thermos flask packed with germinating seeds slowly rose — proof of which fact?"
+      },
+      "options": {
+        "hi": [
+          "श्वसन ऊर्जा का कुछ अंश ताप के रूप में भी मुक्त होता है",
+          "बीज प्रकाश-संश्लेषण कर रहे थे",
+          "थर्मास खराब था",
+          "बीजों में दहन हुआ"
+        ],
+        "en": [
+          "Part of the energy of respiration is also released as heat",
+          "The seeds were photosynthesising",
+          "The thermos was faulty",
+          "Combustion occurred in the seeds"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ATP में न बँधी ऊर्जा ताप बनकर निकलती है — बंद फ्लास्क में इसी श्वसन-ताप का संचय तापमान बढ़ाता है।",
+        "en": "Energy not trapped in ATP leaves as heat — the build-up of this respiratory heat in a sealed flask raises the temperature."
+      }
+    },
+    {
+      "id": "ch8_q950",
+      "topic": "respiration-vs-other-processes",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक विद्यार्थी दावा करता है: 'पौधे सदैव O2 छोड़ते हैं, इसलिए उनमें श्वसन नहीं होता।' इस तर्क की त्रुटि कहाँ है?",
+        "en": "A student claims: 'Plants always release O2, so they do not respire.' Where is the flaw in this reasoning?"
+      },
+      "options": {
+        "hi": [
+          "पौधे वाकई O2 नहीं छोड़ते",
+          "O2 का निर्गम प्रकाश-संश्लेषण का फल है; श्वसन तो चुपचाप हर कोशिका में चलता रहता है — दोनों साथ हो सकते हैं",
+          "पौधों में कोशिकाएँ नहीं होतीं",
+          "श्वसन केवल जड़ों में होता है"
+        ],
+        "en": [
+          "Plants really do not release O2",
+          "The O2 release is the product of photosynthesis; respiration silently continues in every cell — both can occur together",
+          "Plants have no cells",
+          "Respiration happens only in roots"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दो प्रक्रियाएँ एक साथ चलना संभव है — दिन में संश्लेषण की O2 श्वसन की खपत से अधिक हो तो शुद्ध O2 दिखती है; यह श्वसन का अनुपस्थिति-प्रमाण नहीं।",
+        "en": "Two processes can coexist — when daytime photosynthetic O2 exceeds respiratory use, net O2 shows up; that is no proof of respiration's absence."
+      }
+    }
+  ]
+}

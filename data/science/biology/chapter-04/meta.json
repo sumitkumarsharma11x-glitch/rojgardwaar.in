@@ -1,0 +1,137 @@
+{
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-04",
+  "chapterNumber": 3,
+  "code": "B03",
+  "chapterName": {
+    "hi": "जीवों में विविधता एवं वर्गीकरण",
+    "en": "Diversity & Classification of Living Organisms"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "पृथ्वी पर लाखों प्रकार के जीव पाए जाते हैं, इसलिए उन्हें समान लक्षणों के आधार पर समूहों में बाँटा जाता है। वर्गीकरण की मुख्य श्रेणियाँ हैं — साम्राज्य, संघ, वर्ग, गण, कुल, वंश और जाति। इसी आधार पर जीवों को पाँच जगतों में और पौधों-जंतुओं को आगे उपविभागों में बाँटा गया है।",
+      "example": "आलू और टमाटर एक ही कुल में आते हैं क्योंकि दोनों की पत्तियों और फूलों की संरचना समान है।",
+      "sections": [
+        {
+          "heading": "वर्गीकरण का आधार",
+          "content": "जीवों को कोशिका-संरचना, शरीर-योजना, पोषण-विधि और प्रजनन-विधि जैसे लक्षणों के आधार पर वर्गीकृत किया जाता है।"
+        },
+        {
+          "heading": "वर्गीकरण की श्रेणियाँ",
+          "content": "साम्राज्य → संघ → वर्ग → गण → कुल → वंश → जाति — जाति सबसे छोटी मूल श्रेणी है।"
+        },
+        {
+          "heading": "पाँच जगत",
+          "content": "मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी और एनिमेलिया — यही व्हिटेकर का पाँच-जगत वर्गीकरण है।"
+        },
+        {
+          "heading": "पौधे एवं जंतु समूह",
+          "content": "पौधे शैवाल-काष्ठ शरीर व बीज न होने/होने के आधार पर बँटते हैं; जंतु कशेरुकी और अकशेरुकी में बाँटे जाते हैं और कशेरुकी अगण के पाँच वर्ग हैं — मछली, उभयचर, सरीसृप, पक्षी, स्तनधारी।"
+        }
+      ],
+      "keyPoints": [
+        "वर्गीकरण समान लक्षणों के आधार पर जीवों को समूहों में बाँटना है",
+        "जाति वर्गीकरण की सबसे छोटी मूल श्रेणी है",
+        "पाँच जगत हैं — मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी, एनिमेलिया",
+        "कशेरुकी जंतुओं के पाँच वर्ग हैं — मछली, उभयचर, सरीसृप, पक्षी, स्तनधारी",
+        "नामांकन में जीव का वैज्ञानिक नाम वंश + जाति से बनता है",
+        "अकशेरुकी जीव रीढ़ की हड्डी नहीं रखते, जैसे कीट और केंचुआ"
+      ],
+      "examFocus": [
+        "श्रेणियों का क्रम साम्राज्य से जाति तक रटें",
+        "पाँच जगतों के नाम और उनके एक-एक उदाहरण याद रखें",
+        "कशेरुकी वर्गों के विशेष लक्षण (जैसे उभयचर की ग्रंथियुक्त त्वचा) पर ध्यान दें"
+      ],
+      "examTraps": [
+        "मोनेरा में सभी जीव सूक्ष्म होते हैं ऐसा नहीं — प्रोटिस्टा भी सूक्ष्म हो सकते हैं",
+        "सभी सरीसृप जल में नहीं रहते; कछुआ जल-थल दोनों में रहता है पर सरीसृप है"
+      ],
+      "thinkBeforeAnswer": [
+        "प्रश्न में 'सबसे छोटी श्रेणी' हो तो जाति उत्तर है",
+        "'रीढ़ की हड्डी नहीं' पाए तो जीव अकशेरुकी समूह में रखें"
+      ],
+      "memoryTricks": [
+        "श्रेणी-क्रम याद करने के लिए 'सा-सं-व-ग-कु-वं-जा' क्रम दोहराएँ",
+        "कशेरुकी वर्ग — म-उ-स-प-स्त (मछली, उभयचर, सरीसृप, पक्षी, स्तनधारी)"
+      ],
+      "pyqSignals": [
+        "पाँच जगतों के नाम और उदाहरण पर सीधे प्रश्न पूछे जाते हैं",
+        "मानव का वैज्ञानिक नाम (होमो सेपियन्स) और उसकी स्थिति अक्सर पूछी जाती है"
+      ],
+      "mustRemember": [
+        "वर्गीकरण की श्रेणियाँ और उनका क्रम",
+        "पाँच जगतों के नाम व उदाहरण",
+        "कशेरुकी और अकशेरुकी में अंतर",
+        "वैज्ञानिक नामांकन का नियम — वंश + जाति"
+      ],
+      "quickRevision": "जीवों की विविधता को समान लक्षणों के आधार पर वर्गीकरण द्वारा व्यवस्थित किया जाता है। श्रेणियाँ साम्राज्य से जाति तक होती हैं। व्हिटेकर का पाँच-जगत वर्गीकरण जीवों को मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी और एनिमेलिया में बाँटता है। कशेरुकी जंतु पाँच वर्गों में और पौधे बीज व शरीर-योजना के आधार पर आगे बाँटे जाते हैं।"
+    },
+    "en": {
+      "concept": "Millions of organisms live on Earth, so they are grouped by shared characteristics. The main ranks are kingdom, phylum, class, order, family, genus and species. On this basis organisms are placed in five kingdoms, and plants and animals are further subdivided.",
+      "example": "Potato and tomato belong to the same family because their leaf and flower structure is similar.",
+      "sections": [
+        {
+          "heading": "Basis of Classification",
+          "content": "Organisms are classified by cell structure, body design, mode of nutrition and reproduction."
+        },
+        {
+          "heading": "Ranks of Classification",
+          "content": "Kingdom → Phylum → Class → Order → Family → Genus → Species — species is the smallest basic rank."
+        },
+        {
+          "heading": "Five Kingdoms",
+          "content": "Monera, Protista, Fungi, Plantae and Animalia — Whittaker's five-kingdom classification."
+        },
+        {
+          "heading": "Plant and Animal Groups",
+          "content": "Plants are grouped by thallus/woody body and absence/presence of seeds; animals are invertebrate or vertebrate, and vertebrates have five classes — fish, amphibians, reptiles, birds, mammals."
+        }
+      ],
+      "keyPoints": [
+        "Classification is grouping organisms by shared characteristics",
+        "Species is the smallest basic rank of classification",
+        "The five kingdoms are Monera, Protista, Fungi, Plantae, Animalia",
+        "Vertebrates have five classes — fish, amphibians, reptiles, birds, mammals",
+        "In binomial nomenclature the scientific name = genus + species",
+        "Invertebrates, such as insects and earthworms, lack a backbone"
+      ],
+      "examFocus": [
+        "Learn the rank order from kingdom to species by heart",
+        "Memorise the five kingdoms with one example each",
+        "Note class-specific traits (e.g. moist skin of amphibians)"
+      ],
+      "examTraps": [
+        "Not all microscopic organisms are Monera — Protists can also be microscopic",
+        "Not all reptiles stay on land; the turtle lives in water and on land yet is a reptile"
+      ],
+      "thinkBeforeAnswer": [
+        "If a question asks the 'smallest rank', the answer is species",
+        "No backbone means the animal belongs to the invertebrate group"
+      ],
+      "memoryTricks": [
+        "Revise the rank order as K-P-C-O-F-G-S",
+        "Vertebrate classes — Fish, Amphibians, Reptiles, Birds, Mammals (FARBM)"
+      ],
+      "pyqSignals": [
+        "Direct questions on the five kingdoms and their examples are common",
+        "The scientific name of humans (Homo sapiens) and its parts are often asked"
+      ],
+      "mustRemember": [
+        "Ranks of classification and their order",
+        "Names and examples of the five kingdoms",
+        "Differences between vertebrates and invertebrates",
+        "Rule of binomial nomenclature — genus + species"
+      ],
+      "quickRevision": "Classification organises the diversity of life by shared characteristics, with ranks from kingdom down to species. Whittaker's five-kingdom system places organisms in Monera, Protista, Fungi, Plantae and Animalia. Vertebrates are divided into five classes and plants are subdivided by body design and seeds. Binomial nomenclature gives each organism a two-part scientific name."
+    }
+  }
+}

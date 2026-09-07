@@ -1,0 +1,5604 @@
+{
+  "questions": [
+    {
+      "id": "chem1_q101",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ की परिभाषा द्रव्यमान और आयतन को जोड़ते हुए चुनिए — पदार्थ वह है जो…",
+        "en": "Choose the definition of matter linking its mass and volume — matter is that which…"
+      },
+      "options": {
+        "hi": [
+          "जिसमें द्रव्यमान हो और जो स्थान घेरे, उसे पदार्थ कहते हैं",
+          "केवल दिखने वाली चमकदार वस्तुओं को",
+          "केवल गैसों को",
+          "केवल प्रकाश को"
+        ],
+        "en": [
+          "Anything that has mass and occupies space is called matter",
+          "Only shiny visible objects",
+          "Only gases",
+          "Only light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "द्रव्यमान + आयतन — यही पदार्थ की पहचान है।",
+        "en": "Mass + volume — that is the identity of matter."
+      }
+    },
+    {
+      "id": "chem1_q102",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ किन दो राशियों से बनता है?",
+        "en": "Matter is characterised by which two quantities?"
+      },
+      "options": {
+        "hi": [
+          "चाल और वेग",
+          "द्रव्यमान और आयतन",
+          "लंबाई और चौड़ाई",
+          "रंग और गंध"
+        ],
+        "en": [
+          "Speed and velocity",
+          "Mass and volume",
+          "Length and breadth",
+          "Colour and smell"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रत्येक पदार्थ का द्रव्यमान होता है और वह कुछ स्थान घेरता है।",
+        "en": "Every matter has mass and occupies some space."
+      }
+    },
+    {
+      "id": "chem1_q103",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ किन अत्यंत छोटे कणों से बना होता है?",
+        "en": "Matter is made up of what kind of extremely small particles?"
+      },
+      "options": {
+        "hi": [
+          "प्रकाश किरणों से",
+          "ध्वनि तरंगों से",
+          "अत्यंत छोटे कणों से जो नंगी आँख से नहीं दिखते",
+          "बड़े टुकड़ों से जो साफ दिखते हैं"
+        ],
+        "en": [
+          "Light rays",
+          "Sound waves",
+          "Extremely small particles invisible to the naked eye",
+          "Large pieces clearly visible"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पदार्थ के कण इतने छोटे हैं कि बिना सूक्ष्मदर्शी नहीं देखे जा सकते।",
+        "en": "The particles of matter are so small that they cannot be seen without a microscope."
+      }
+    },
+    {
+      "id": "chem1_q104",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ के कणों के बीच क्या होता है?",
+        "en": "What is there between the particles of matter?"
+      },
+      "options": {
+        "hi": [
+          "ठोस पदार्थ",
+          "पानी",
+          "हवा ही हवा",
+          "रिक्त स्थान (खाली जगह)"
+        ],
+        "en": [
+          "Solid material",
+          "Water",
+          "Nothing but air",
+          "Empty space (gaps)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कणों के बीच रिक्त स्थान होता है — यही उनकी गति को संभव बनाता है।",
+        "en": "There are gaps between particles — this very fact makes their movement possible."
+      }
+    },
+    {
+      "id": "chem1_q105",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ के कण कैसे रहते हैं?",
+        "en": "How do the particles of matter remain?"
+      },
+      "options": {
+        "hi": [
+          "निरंतर गतिमान",
+          "पूर्णतः स्थिर",
+          "केवल रात में चलते",
+          "केवल गर्मी में चलते"
+        ],
+        "en": [
+          "Constantly moving",
+          "Perfectly still",
+          "Moving only at night",
+          "Moving only in summer"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कण निरंतर गति में रहते हैं — यह पदार्थ की मूल प्रकृति है।",
+        "en": "Particles remain in constant motion — that is the basic nature of matter."
+      }
+    },
+    {
+      "id": "chem1_q106",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खुले इत्र की शीशी से सुगंध पूरे कमरे में क्यों फैल जाती है?",
+        "en": "Why does the fragrance from an open perfume bottle spread through the whole room?"
+      },
+      "options": {
+        "hi": [
+          "सुगंध रंग बदलती है",
+          "इत्र के कण गति करते हुए वायु के कणों के बीच घुल-मिल जाते हैं (विसरण)",
+          "शीशी शोर मचाती है",
+          "हवा शीशी को पी जाती है"
+        ],
+        "en": [
+          "The fragrance changes colour",
+          "The perfume's particles, moving about, mix into the air's particles (diffusion)",
+          "The bottle makes noise",
+          "The air swallows the bottle"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गतिमान कणों का फैलना ही विसरण है — यह कण-गति का प्रमाण है।",
+        "en": "The spreading of moving particles is diffusion — proof of particle motion."
+      }
+    },
+    {
+      "id": "chem1_q107",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विसरण किस बात का प्रमाण है?",
+        "en": "Diffusion is the proof of what?"
+      },
+      "options": {
+        "hi": [
+          "पदार्थ ठंडा होता है",
+          "पदार्थ रंगीन होता है",
+          "पदार्थ के कण निरंतर गतिमान रहते हैं",
+          "पदार्थ भारी होता है"
+        ],
+        "en": [
+          "Matter is cold",
+          "Matter is coloured",
+          "The particles of matter are in constant motion",
+          "Matter is heavy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बिना गति के विसरण संभव नहीं — इसीलिए यह कण-गति का प्रमाण है।",
+        "en": "Without motion diffusion is impossible — hence it proves particle motion."
+      }
+    },
+    {
+      "id": "chem1_q108",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रसोई में तड़का लगाते ही खुशबू दूर कमरे तक पहुँच जाती है। यह किसका उदाहरण है?",
+        "en": "The aroma of tempering spices reaches a far room as soon as food is cooked. This is an example of what?"
+      },
+      "options": {
+        "hi": [
+          "संघनन का",
+          "जमने का",
+          "उर्ध्वपातन का",
+          "विसरण का"
+        ],
+        "en": [
+          "Condensation",
+          "Freezing",
+          "Sublimation",
+          "Diffusion"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गंध के कण हवा में घुलकर फैलते हैं — विसरण।",
+        "en": "The aroma's particles spread by mixing into air — diffusion."
+      }
+    },
+    {
+      "id": "chem1_q109",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ के कणों के बीच आकर्षण किस क्रम में होता है?",
+        "en": "In what order is the attraction between the particles of matter found?"
+      },
+      "options": {
+        "hi": [
+          "ठोस > द्रव > गैस",
+          "गैस > द्रव > ठोस",
+          "द्रव > ठोस > गैस",
+          "तीनों में बराबर"
+        ],
+        "en": [
+          "Solid > liquid > gas",
+          "Gas > liquid > solid",
+          "Liquid > solid > gas",
+          "Equal in all three"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ठोस में आकर्षण सर्वाधिक, गैस में सबसे कम — क्रम ठोस > द्रव > गैस।",
+        "en": "Attraction is greatest in solids, least in gases — order solid > liquid > gas."
+      }
+    },
+    {
+      "id": "chem1_q110",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से क्या पदार्थ नहीं है?",
+        "en": "Which of the following is NOT matter?"
+      },
+      "options": {
+        "hi": [
+          "लोहा",
+          "प्रकाश",
+          "पानी",
+          "हवा"
+        ],
+        "en": [
+          "Iron",
+          "Light",
+          "Water",
+          "Air"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रकाश का न द्रव्यमान होता है, न वह स्थान घेरता है — इसलिए वह पदार्थ नहीं।",
+        "en": "Light has neither mass nor does it occupy space — so it is not matter."
+      }
+    },
+    {
+      "id": "chem1_q111",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हवा पदार्थ है — इसका आधार क्या है?",
+        "en": "Air is matter — what is the basis for this?"
+      },
+      "options": {
+        "hi": [
+          "हवा चलती है इसलिए",
+          "हवा ठंडी होती है",
+          "हवा का द्रव्यमान होता है और वह स्थान घेरती है",
+          "हवा नीली दिखती है"
+        ],
+        "en": [
+          "Because air moves",
+          "Air is cold",
+          "Air has mass and it occupies space",
+          "Air looks blue"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव्यमान + आयतन का होना ही हवा को पदार्थ सिद्ध करता है।",
+        "en": "Having mass and volume is what proves air to be matter."
+      }
+    },
+    {
+      "id": "chem1_q112",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक गिलास पानी में चुटकी भर शक्कर घुल जाती है और पानी का स्तर नहीं बढ़ता। इससे क्या पता चलता है?",
+        "en": "A pinch of sugar dissolves in a glass of water and the water level does not rise. What does this show?"
+      },
+      "options": {
+        "hi": [
+          "पानी गायब हो गया",
+          "शक्कर प्रकाश है",
+          "पानी ठोस है",
+          "पानी के कणों के बीच रिक्त स्थान है जिसमें शक्कर के कण समा गए"
+        ],
+        "en": [
+          "The water vanished",
+          "Sugar is light",
+          "Water is a solid",
+          "There are gaps between water's particles where the sugar's particles fitted in"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कणों के बीच का रिक्त स्थान ही घुलने की जगह देता है।",
+        "en": "The gaps between particles provide the room for dissolving."
+      }
+    },
+    {
+      "id": "chem1_q113",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कणों की निरंतर गति के कारण गैसें क्या करती हैं?",
+        "en": "Because of the constant motion of their particles, what do gases do?"
+      },
+      "options": {
+        "hi": [
+          "अपने आप चारों ओर फैल जाती हैं",
+          "एक कोने में जम जाती हैं",
+          "ठोस बन जाती हैं",
+          "शून्य हो जाती हैं"
+        ],
+        "en": [
+          "They spread out in all directions by themselves",
+          "They settle in one corner",
+          "They become solid",
+          "They vanish"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्वतंत्र व गतिमान कण स्वभाव से हर ओर दौड़ते हैं।",
+        "en": "Free, moving particles naturally rush in every direction."
+      }
+    },
+    {
+      "id": "chem1_q114",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धुआँ बिना पंखे के भी कमरे में फैल जाता है। कारण?",
+        "en": "Smoke spreads in a room even without a fan. Why?"
+      },
+      "options": {
+        "hi": [
+          "धुआँ ठंडा होता है",
+          "धुएँ के कण गतिमान होकर वायु में विसरित होते हैं",
+          "धुआँ भारी होता है",
+          "दीवारें धुएँ को खींचती हैं"
+        ],
+        "en": [
+          "Smoke is cold",
+          "Smoke's particles, being in motion, diffuse into the air",
+          "Smoke is heavy",
+          "The walls pull the smoke"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कण-गति + रिक्त स्थान = प्राकृतिक विसरण।",
+        "en": "Particle motion + gaps = natural diffusion."
+      }
+    },
+    {
+      "id": "chem1_q115",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ के कणों का आकार कैसा होता है?",
+        "en": "How small are the particles of matter?"
+      },
+      "options": {
+        "hi": [
+          "अंगूठे जितने",
+          "कितने भी बड़े हो सकते हैं",
+          "अत्यंत छोटे — नंगी आँख से अदृश्य",
+          "मटर के दाने जितने"
+        ],
+        "en": [
+          "Thumb-sized",
+          "They can be of any big size",
+          "Extremely small — invisible to the naked eye",
+          "Pea-sized"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कण अत्यंत सूक्ष्म होते हैं — इसीलिए पदार्थ एक संतत चीज़ जैसा दिखता है।",
+        "en": "Particles are extremely tiny — that is why matter looks continuous."
+      }
+    },
+    {
+      "id": "chem1_q116",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कमरे के एक कोने में आगबूझी खोलने पर दूसरे कोने तक गंध पहुँचना दर्शाता है —",
+        "en": "Opening an incense stick in one corner of a room, the smell reaching the other corner shows —"
+      },
+      "options": {
+        "hi": [
+          "कण ठोस हैं",
+          "कण रंगीन हैं",
+          "कमरा ठंडा है",
+          "कण गतिमान हैं और उनके बीच रिक्त स्थान है"
+        ],
+        "en": [
+          "The particles are solid",
+          "The particles are coloured",
+          "The room is cold",
+          "The particles are moving and there is space between them"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गति और रिक्त स्थान दोनों का होना विसरण की शर्त है।",
+        "en": "Both motion and gaps are the conditions for diffusion."
+      }
+    },
+    {
+      "id": "chem1_q117",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ के कण निरंतर गति में रहते हैं — यह गति रुकती कब है?",
+        "en": "The particles of matter stay in constant motion — when does this motion stop?"
+      },
+      "options": {
+        "hi": [
+          "कभी पूरी तरह नहीं रुकती",
+          "रात में रुक जाती है",
+          "बारिश में रुक जाती है",
+          "कमरे में रुक जाती है"
+        ],
+        "en": [
+          "It never stops completely",
+          "It stops at night",
+          "It stops in rain",
+          "It stops indoors"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कण-गति पदार्थ का स्थायी स्वभाव है।",
+        "en": "Particle motion is the permanent habit of matter."
+      }
+    },
+    {
+      "id": "chem1_q118",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नमक का घोल चखने पर पूरे घोल का स्वाद नमकीन लगता है। कारण?",
+        "en": "A salt solution tastes salty throughout. Why?"
+      },
+      "options": {
+        "hi": [
+          "गिलास नमकीन है",
+          "नमक के कण जल के कणों के बीच फैलकर घुल गए",
+          "नमक ऊपर तैरता है",
+          "जल नमक खा गया"
+        ],
+        "en": [
+          "The glass is salty",
+          "Salt's particles spread and mixed between water's particles",
+          "The salt floats on top",
+          "The water ate the salt"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घुले कणों का समान रूप से फैलना ही हर घूँट को नमकीन बनाता है।",
+        "en": "The even spread of dissolved particles makes every sip salty."
+      }
+    },
+    {
+      "id": "chem1_q119",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गैसों के कण ठोस के कणों की तुलना में कैसे होते हैं?",
+        "en": "How are the particles of gases compared with those of solids?"
+      },
+      "options": {
+        "hi": [
+          "बिल्कुल एक जैसे बंधे",
+          "बड़े आकार के",
+          "अधिक स्वतंत्र और दूर-दूर",
+          "अधिक बंधे और पास-पास"
+        ],
+        "en": [
+          "Exactly as bound",
+          "Bigger in size",
+          "More free and far apart",
+          "More bound and close together"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गैस में आकर्षण सबसे कम — कण सर्वाधिक स्वतंत्र।",
+        "en": "In gases the attraction is least — the particles are most free."
+      }
+    },
+    {
+      "id": "chem1_q120",
+      "topic": "matter-and-particles",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी वस्तु को पदार्थ कहने के लिए उसका क्या होना जरूरी है?",
+        "en": "For calling something matter, what is essential?"
+      },
+      "options": {
+        "hi": [
+          "केवल सुंदर दिखना",
+          "केवल टिकना",
+          "केवल चलना",
+          "द्रव्यमान होना और स्थान घेरना — दोनों"
+        ],
+        "en": [
+          "Only looking beautiful",
+          "Only being durable",
+          "Only moving",
+          "Having mass and occupying space — both"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव्यमान और आयतन — दोनों विद्यमान हों तभी पदार्थ।",
+        "en": "Mass and volume — only when both exist is it matter."
+      }
+    },
+    {
+      "id": "chem1_q121",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खुले पानी के गिलास में शीशी की दवा (सिरप) डालने पर रंग धीरे-धीरे पूरे पानी में फैल जाता है बिना चलाए। कौन-सा तथ्य सामने आता है?",
+        "en": "When syrup is dropped into a glass of plain water, its colour slowly spreads through the whole water without stirring. Which fact comes forward?"
+      },
+      "options": {
+        "hi": [
+          "जल के कण स्वयं गतिमान हैं — विसरण स्वतः होता है",
+          "जल के कण बिल्कुल स्थिर हैं",
+          "रंग जल से ऊपरी रूप से चिपकता है",
+          "गिलास रंग खींचता है"
+        ],
+        "en": [
+          "Water's particles are themselves moving — diffusion happens on its own",
+          "Water's particles are perfectly still",
+          "The colour just sticks on the water",
+          "The glass pulls the colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बिना हिलाए फैलाव केवल गतिमान कणों के कारण ही संभव है।",
+        "en": "Spreading without stirring is possible only because of moving particles."
+      }
+    },
+    {
+      "id": "chem1_q122",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म पानी में शक्कर ठंडे पानी की तुलना में जल्दी घुलती है। कणों की दृष्टि से कारण बताइए:",
+        "en": "Sugar dissolves faster in hot water than in cold. State the reason from the particles' viewpoint:"
+      },
+      "options": {
+        "hi": [
+          "ठंडे जल में रिक्त स्थान नहीं होता",
+          "गर्म जल में कणों की गति तेज होती है, इसलिए विसरण शीघ्र होता है",
+          "गर्म जल भारी होता है",
+          "शक्कर गर्मी में पिघल जाती है पहले"
+        ],
+        "en": [
+          "Cold water has no gaps",
+          "In hot water the particles move faster, so diffusion happens sooner",
+          "Hot water is heavier",
+          "The sugar melts first in heat"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ताप बढ़ने से कण-गति तेज — विसरण भी तेज।",
+        "en": "Higher temperature speeds up particle motion — and diffusion too."
+      }
+    },
+    {
+      "id": "chem1_q123",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) कणों के बीच रिक्त स्थान होता है। (ii) कण निरंतर गतिमान रहते हैं। सही विकल्प:",
+        "en": "Two statements: (i) There are gaps between particles. (ii) Particles remain in constant motion. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "केवल (ii) सही",
+          "दोनों गलत",
+          "दोनों सही हैं",
+          "केवल (i) सही"
+        ],
+        "en": [
+          "Only (ii)",
+          "Both wrong",
+          "Both are correct",
+          "Only (i)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रिक्त स्थान और गति — दोनों कण-प्रकृति के तथ्य हैं।",
+        "en": "Gaps and motion — both are facts of particle nature."
+      }
+    },
+    {
+      "id": "chem1_q124",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ठोस में कण अधिक बंधे क्यों होते हैं?",
+        "en": "Why are the particles more tightly bound in a solid?"
+      },
+      "options": {
+        "hi": [
+          "कणों के बीच नज़र आती है",
+          "कण बड़े होते हैं",
+          "कण गीले होते हैं",
+          "कणों के बीच आकर्षण बल सबसे प्रबल होता है"
+        ],
+        "en": [
+          "The particles can see each other",
+          "The particles are large",
+          "The particles are wet",
+          "The attraction between the particles is strongest"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "प्रबल आकर्षण ही ठोस के निश्चित आकार का आधार है।",
+        "en": "Strong attraction is the basis of a solid's fixed shape."
+      }
+    },
+    {
+      "id": "chem1_q125",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गैस में कण लगभग स्वतंत्र क्यों घूमते हैं?",
+        "en": "Why do the particles of a gas roam almost freely?"
+      },
+      "options": {
+        "hi": [
+          "कणों के बीच आकर्षण बहुत कम होता है",
+          "कण बहुत बड़े होते हैं",
+          "कणों में पंख होते हैं",
+          "कण चुंबकित होते हैं"
+        ],
+        "en": [
+          "The attraction between the particles is very small",
+          "The particles are very large",
+          "The particles have wings",
+          "The particles are magnetised"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कम आकर्षण = अधिक स्वतंत्रता — गैस का स्वभाव।",
+        "en": "Less attraction = more freedom — the gas's nature."
+      }
+    },
+    {
+      "id": "chem1_q126",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विसरण गैसों में सबसे तेज क्यों होता है?",
+        "en": "Why is diffusion fastest in gases?"
+      },
+      "options": {
+        "hi": [
+          "गैसों में कण नहीं होते",
+          "गैसों के कण सर्वाधिक स्वतंत्र और गतिमान होते हैं",
+          "गैसें रंगीन होती हैं",
+          "गैसें भारी होती हैं"
+        ],
+        "en": [
+          "Gases have no particles",
+          "The particles of gases are the most free and mobile",
+          "Gases are coloured",
+          "Gases are heavy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्वतंत्र व तेज गति वाले कण तुरंत घुल-मिल जाते हैं।",
+        "en": "Free, fast particles mix in no time."
+      }
+    },
+    {
+      "id": "chem1_q127",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही गंध वाला पदार्थ गर्म कमरे में जल्दी और ठंडे कमरे में देर से महसूस होता है। कारण?",
+        "en": "The same smelly substance is noticed sooner in a warm room and later in a cold one. Why?"
+      },
+      "options": {
+        "hi": [
+          "गर्म कमरे में दीवारें गंध बनाती हैं",
+          "ठंड में गंध गिर जाती है",
+          "ताप अधिक होने पर कणों की गति और विसरण दर बढ़ जाती है",
+          "ठंडे कमरे में नाक बंद हो जाती है"
+        ],
+        "en": [
+          "Warm walls create the smell",
+          "The smell falls down in cold",
+          "At higher temperature the particles' motion and diffusion rate increase",
+          "The nose closes in a cold room"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ताप-वृद्धि कण-गति तेज करती है — विसरण भी।",
+        "en": "A rise in temperature quickens particle motion — and diffusion."
+      }
+    },
+    {
+      "id": "chem1_q128",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु को पदार्थ मानने का प्रयोग: कसी हुई गेंद में हवा भरने पर गेंद का वजन बढ़ता है। यह किसे सिद्ध करता है?",
+        "en": "Experiment proving air is matter: pumping air into a tight ball increases the ball's weight. What does this prove?"
+      },
+      "options": {
+        "hi": [
+          "हवा का रंग नीला है",
+          "हवा गंधहीन है",
+          "गेंद रबर की है",
+          "हवा का द्रव्यमान होता है"
+        ],
+        "en": [
+          "Air's colour is blue",
+          "Air is odourless",
+          "The ball is of rubber",
+          "Air has mass"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वजन बढ़ना = भरी गई हवा का द्रव्यमान जुड़ना।",
+        "en": "The weight gain = the mass of the air added."
+      }
+    },
+    {
+      "id": "chem1_q129",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पदार्थ के कणों के बीच का रिक्त स्थान किसका प्रत्यक्ष सबूत है?",
+        "en": "The empty space between the particles of matter is direct evidence of what?"
+      },
+      "options": {
+        "hi": [
+          "कणों के बीच दूरी होने का — जैसे घुलने में स्तर न बढ़ना",
+          "कणों के रंग का",
+          "कणों की गति का — यह अलग तथ्य है",
+          "कणों के आकार का"
+        ],
+        "en": [
+          "That there is distance between particles — as when dissolving raises no level",
+          "Of the particles' colour",
+          "Of the particles' motion — a separate fact",
+          "Of the particles' size"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्तर न बढ़ना बताता है कि नए कण पुराने कणों के बीच के अंतराल में समा गए।",
+        "en": "The level not rising shows the new particles slipped into the old particles' gaps."
+      }
+    },
+    {
+      "id": "chem1_q130",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन: 'पदार्थ के कण इतने पास-पास हैं कि बीच में कुछ नहीं होता।' इस कथन का सही निर्णय कीजिए:",
+        "en": "Statement: 'The particles of matter are so close that there is nothing between them.' Judge this statement correctly:"
+      },
+      "options": {
+        "hi": [
+          "सही — केवल द्रवों में खाली है",
+          "गलत — कणों के बीच रिक्त स्थान होता है",
+          "सही — बीच पूरी तरह भरा रहता है",
+          "आंशिक सही — केवल गैसों में खाली है"
+        ],
+        "en": [
+          "Correct — only liquids have gaps",
+          "Wrong — there is empty space between the particles",
+          "Correct — the space is fully packed",
+          "Partly right — only gases have gaps"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तीनों अवस्थाओं में कणों के बीच अंतराल है — फर्क केवल मात्रा का है।",
+        "en": "In all three states there are gaps between particles — only the amount differs."
+      }
+    },
+    {
+      "id": "chem1_q131",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अगरबत्ती का धुआँ किसी ओर झुके बिना सीधा ऊपर उठता है और फिर फैलता है। कण-सिद्धांत से इसकी व्याख्या क्या है?",
+        "en": "Incense smoke rises straight up without tilting and then spreads. What is its explanation from the particle theory?"
+      },
+      "options": {
+        "hi": [
+          "धुएँ के कण नीचे गिरते हैं",
+          "वायु कणों को खा जाता है",
+          "धुएँ के गतिमान कण वायु के गतिमान कणों में मिलकर विसरित हो जाते हैं",
+          "धुआँ दीवार से टकराता है"
+        ],
+        "en": [
+          "The smoke particles fall down",
+          "It eats up the air particles",
+          "The moving smoke particles mix into the moving air particles and diffuse",
+          "The smoke hits the walls"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दोनों कण-परिवार गतिमान हैं — मिलना स्वाभाविक है।",
+        "en": "Both particle families are moving — mixing is natural."
+      }
+    },
+    {
+      "id": "chem1_q132",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गीले कपड़ों को बासी हवा वाले बंद कमरे में टाँगने पर कमरे में नमी क्यों बढ़ जाती है? (कण-दृष्टि से)",
+        "en": "Why does hanging wet clothes in a stuffy closed room raise the room's dampness? (from the particle viewpoint)"
+      },
+      "options": {
+        "hi": [
+          "कपड़े कमरे को ढक देते हैं",
+          "दीवारें पानी पीती हैं",
+          "कमरा गर्म हो जाता है",
+          "कपड़ों के जल-कण वायु में विसरित होकर फैल जाते हैं"
+        ],
+        "en": [
+          "The clothes cover the room",
+          "The walls drink the water",
+          "The room warms up",
+          "The water particles from the clothes diffuse and spread into the air"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जल-कणों का वायु में विसरण ही नमी का कारण है।",
+        "en": "The diffusion of water particles into air is the cause of dampness."
+      }
+    },
+    {
+      "id": "chem1_q133",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन कथन: (i) कण अत्यंत छोटे हैं। (ii) कणों के बीच आकर्षण होता है। (iii) कण अचल रहते हैं। गलत कथन कौन-सा है?",
+        "en": "Three statements: (i) Particles are extremely small. (ii) There is attraction between particles. (iii) Particles stay motionless. Which is wrong?"
+      },
+      "options": {
+        "hi": [
+          "कथन (iii)",
+          "कथन (i)",
+          "कथन (ii)",
+          "तीनों सही"
+        ],
+        "en": [
+          "Statement (iii)",
+          "Statement (i)",
+          "Statement (ii)",
+          "All three correct"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कण अचल नहीं — निरंतर गतिमान रहते हैं।",
+        "en": "Particles are not motionless — they stay in constant motion."
+      }
+    },
+    {
+      "id": "chem1_q134",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक बंद टीन में अमोनिया खोलने पर पास बैठा विद्यार्थी गंध पहले और दूर बैठा बाद में महसूस करता है। यह अंतर किस तथ्य का परिणाम है?",
+        "en": "When an ammonia tin is opened, a nearby student smells it first and a far-off one later. This difference results from which fact?"
+      },
+      "options": {
+        "hi": [
+          "गंध केवल ऊपर रहती है",
+          "विसरण में समय लगता है — गंध के कण धीरे-धीरे दूर तक पहुँचते हैं",
+          "दूर के विद्यार्थी की नाक तेज है",
+          "अमोनिया पीछे की ओर जाता है"
+        ],
+        "en": [
+          "The smell stays only up high",
+          "Diffusion takes time — the smell's particles reach far off gradually",
+          "The far student's nose is sharper",
+          "Ammonia moves backwards"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "विसरण तुरंत दूर तक नहीं पहुँचता — कण-गति को समय चाहिए।",
+        "en": "Diffusion does not reach afar instantly — particle motion needs time."
+      }
+    },
+    {
+      "id": "chem1_q135",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पदार्थ के गुण (आकार, अवस्था, प्रवाह) का मूल कारण कणों की क्या विशेषताएँ हैं?",
+        "en": "What features of the particles are the root cause of matter's properties (shape, state, flow)?"
+      },
+      "options": {
+        "hi": [
+          "कणों की गंध",
+          "कणों की चमक",
+          "कणों के बीच का अंतराल, आकर्षण और गति",
+          "कणों का रंग और स्वाद"
+        ],
+        "en": [
+          "The smell of the particles",
+          "The shine of the particles",
+          "The gaps, attraction and motion of the particles",
+          "The colour and taste of the particles"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अंतराल + आकर्षण + गति — यही तीन अवस्थाओं का भेद खोलते हैं।",
+        "en": "Gaps + attraction + motion — these three unlock the difference of states."
+      }
+    },
+    {
+      "id": "chem1_q136",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी ठोस में रिक्त स्थान कम और गैस में बहुत अधिक होता है। इसका सीधा परिणाम क्या है?",
+        "en": "A solid has little empty space and a gas has a great deal. What is the direct consequence?"
+      },
+      "options": {
+        "hi": [
+          "ठोस बहता है, गैस नहीं",
+          "ठोस हल्का, गैस भारी",
+          "दोनों समान व्यवहार करते हैं",
+          "ठोस संपीड्य नहीं, गैस अत्यधिक संपीड्य होती है"
+        ],
+        "en": [
+          "A solid flows, a gas does not",
+          "A solid is light, a gas heavy",
+          "Both behave alike",
+          "A solid is not compressible, a gas is highly compressible"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अधिक रिक्त स्थान = कणों को दबाने की जगह = संपीड्यता।",
+        "en": "More empty space = room to press the particles = compressibility."
+      }
+    },
+    {
+      "id": "chem1_q137",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विसरण की क्रिया में कण एक दिशा में नहीं, बल्कि हर दिशा में फैलते हैं। इससे कण-गति की प्रकृति के बारे में क्या पता चलता है?",
+        "en": "In diffusion the particles spread not in one direction but in every direction. What does this tell about the nature of particle motion?"
+      },
+      "options": {
+        "hi": [
+          "कणों की गति अव्यवस्थित (यादृच्छिक) होती है, निश्चित पथ पर नहीं",
+          "कण एक पंक्ति में चलते हैं",
+          "कण वापस लौटते नहीं",
+          "कण केवल नीचे जाते हैं"
+        ],
+        "en": [
+          "The particles' motion is random, not on a fixed path",
+          "The particles march in a line",
+          "The particles never return",
+          "The particles only go downward"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सब ओर फैलाव यादृच्छिक गति का संकेत है।",
+        "en": "Spreading everywhere signals random motion."
+      }
+    },
+    {
+      "id": "chem1_q138",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) विसरण ठोस, द्रव, गैस तीनों में होता है, पर गैस में सर्वाधिक तेज। (ii) विसरण के लिए कणों का गतिमान होना ही पर्याप्त है, रिक्त स्थान की जरूरत नहीं। सही विकल्प:",
+        "en": "Two statements: (i) Diffusion occurs in solids, liquids and gases, but is fastest in gases. (ii) For diffusion, particles being in motion is enough; no empty space is needed. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "(i) गलत, (ii) सही",
+          "(i) सही, (ii) गलत",
+          "दोनों सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "(i) wrong, (ii) correct",
+          "(i) correct, (ii) wrong",
+          "Both correct",
+          "Both wrong"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "घुलने-मिलने के लिए अंतराल भी जरूरी है — केवल गति पर्याप्त नहीं।",
+        "en": "Gaps too are needed for mixing — motion alone is not enough."
+      }
+    },
+    {
+      "id": "chem1_q139",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही द्रव (जल) की बूँद गर्म प्लेट पर फैलकर जल्दी गायब होती है, जबकि ठंडी प्लेट पर टिकी रहती है। कण-गति की दृष्टि से अंतर चुनिए:",
+        "en": "The same drop of water spreads and vanishes quickly on a hot plate but stays on a cold one. Choose the difference from the particle-motion viewpoint:"
+      },
+      "options": {
+        "hi": [
+          "गर्म प्लेट बूँद को खा जाती है",
+          "बूँद का आकार बदल जाता है",
+          "गर्मी में जल-कणों की गति बहुत तेज हो जाती है",
+          "ठंडी प्लेट बूँद को पकड़ लेती है"
+        ],
+        "en": [
+          "The hot plate eats the drop",
+          "The drop's shape changes",
+          "In heat the water particles' motion becomes very fast",
+          "The cold plate grips the drop"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ताप-वृद्धि कण-गति बढ़ाती है — बूँद के कण जल्दी उड़ते हैं।",
+        "en": "Rising temperature speeds particle motion — the drop's particles escape sooner."
+      }
+    },
+    {
+      "id": "chem1_q140",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पदार्थ की 'संतत दिखने वाली' सतह के बावजूद उसके भीतर क्या चल रहा है?",
+        "en": "Despite a matter's 'continuous-looking' surface, what is going on inside it?"
+      },
+      "options": {
+        "hi": [
+          "पूर्ण शांति और ठोस भराव",
+          "केवल रंग के कण",
+          "केवल प्रकाश का भ्रम",
+          "अदृश्य कणों का खेल — उनका अंतराल, आकर्षण और निरंतर गति"
+        ],
+        "en": [
+          "Total stillness and solid packing",
+          "Only colour particles",
+          "Only an illusion of light",
+          "The play of invisible particles — their gaps, attraction and ceaseless motion"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दिखना संतत, भीतर कण-कण — यही पदार्थ का वास्तविक चेहरा है।",
+        "en": "Continuous to the eye, particulate within — that is matter's true face."
+      }
+    },
+    {
+      "id": "chem1_q141",
+      "topic": "matter-and-particles",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक चम्मच नमक पानी में घुलकर पूरी तरह अदृश्य हो गया, फिर भी घोल का हर घूँट नमकीन है। नमक के कणों के विषय में इसका निष्कर्ष क्या है?",
+        "en": "A spoonful of salt dissolved in water and became completely invisible, yet every sip of the solution tastes salty. What does this conclude about the salt's particles?"
+      },
+      "options": {
+        "hi": [
+          "कण इतने सूक्ष्म हैं कि आँख से नहीं दिखते और जल-कणों के बीच समा जाते हैं — नष्ट नहीं होते",
+          "नमक के कण नष्ट हो गए",
+          "नमक ने पानी के कणों को नमकीन बना दिया",
+          "नमक पानी की सतह पर तैरता रहता है"
+        ],
+        "en": [
+          "The particles are so minute that they cannot be seen and they fit among the water particles — they are not destroyed",
+          "The salt's particles were destroyed",
+          "The salt made the water's particles salty",
+          "The salt keeps floating on the water's surface"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अदृश्य होना गायब होना नहीं — सूक्ष्म कण जल-कणों के बीच फैल गए।",
+        "en": "Becoming invisible is not becoming nothing — the minute particles spread among the water particles."
+      }
+    },
+    {
+      "id": "chem1_q142",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन-विश्लेषण: (i) विसरण स्वतः होता है। (ii) विसरण में कणों को बाहरी मिलाने की जरूरत नहीं। (iii) विसरण केवल गैसों तक सीमित है। सही कथनों का समूह:",
+        "en": "Statement analysis: (i) Diffusion happens on its own. (ii) In diffusion the particles need no external stirring. (iii) Diffusion is limited to gases only. The group of correct statements:"
+      },
+      "options": {
+        "hi": [
+          "(i) गलत, (ii) सही, (iii) सही",
+          "(i) और (ii) सही, (iii) गलत",
+          "तीनों सही",
+          "केवल (iii) सही"
+        ],
+        "en": [
+          "(i) wrong, (ii) correct, (iii) correct",
+          "(i) and (ii) correct, (iii) wrong",
+          "All three correct",
+          "Only (iii) correct"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "विसरण तीनों अवस्थाओं का सहज गुण है — गैस में सबसे तेज।",
+        "en": "Diffusion is a spontaneous property of all three states — fastest in gases."
+      }
+    },
+    {
+      "id": "chem1_q143",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि किसी काल्पनिक पदार्थ के कणों के बीच रिक्त स्थान बिल्कुल शून्य हो जाए, तो सबसे पहले कौन-सा गुण असंभव हो जाएगा?",
+        "en": "If the empty space between the particles of an imaginary matter became exactly zero, which property would become impossible first?"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान",
+          "आयतन",
+          "संपीड्यता — दबाने के लिए जगह ही नहीं बचेगी",
+          "रंग"
+        ],
+        "en": [
+          "Mass",
+          "Volume",
+          "Compressibility — no room would remain to press",
+          "Colour"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संपीड़न का अर्थ ही है अंतराल घटाना — अंतराल शून्य तो संपीडन अर्थहीन।",
+        "en": "Compression means reducing the gaps — zero gaps make compression meaningless."
+      }
+    },
+    {
+      "id": "chem1_q144",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गैस भरे गुब्बारे के कण निरंतर दीवारों से टकराते रहते हैं। इस गति का कारण-श्रृंखला क्या है?",
+        "en": "The particles of an inflated balloon keep striking the walls constantly. What is the cause-chain of this motion?"
+      },
+      "options": {
+        "hi": [
+          "दीवारें कणों को बुलाती हैं",
+          "गुब्बारे का रंग टक्कर देता है",
+          "हवा बाहर से धक्का देती रहती है",
+          "कण स्वभाव से गतिमान + बीच आकर्षण न्यून + अंतराल विपुल = निरंतर टक्कर"
+        ],
+        "en": [
+          "The walls call the particles",
+          "The balloon's colour causes collisions",
+          "Outside air keeps pushing",
+          "Particles are inherently mobile + little attraction between them + ample gaps = ceaseless collisions"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गैस-कणों की तीन विशेषताएँ मिलकर निरंतर टकराव देती हैं।",
+        "en": "Three traits of gas particles together produce ceaseless collisions."
+      }
+    },
+    {
+      "id": "chem1_q145",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक बंद कमरे में ऊपरी कोने में छोड़ी गई सुगंध धीरे-धीरे नीचे तक आती है — यहाँ तक कि गुरुत्व के विपरीत भी। इसका सर्वाधिक तर्कसंगत कारण क्या है?",
+        "en": "In a closed room a fragrance released in an upper corner slowly reaches even the bottom — against gravity too. What is the most logical reason?"
+      },
+      "options": {
+        "hi": [
+          "कणों की यादृच्छिक गति हर दिशा में विसरण करा देती है",
+          "सुगंध हल्की होती है इसलिए गिरती नहीं",
+          "फर्श सुगंध को खींचता है",
+          "पंखा चुपचाप चलता है"
+        ],
+        "en": [
+          "The particles' random motion drives diffusion in every direction",
+          "The fragrance is light, so it does not fall",
+          "The floor pulls the fragrance",
+          "A fan runs secretly"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यादृच्छिक गति दिशा नहीं चुनती — इसलिए गुरुत्व के विरुद्ध भी विसरण होता है।",
+        "en": "Random motion picks no direction — hence diffusion occurs even against gravity."
+      }
+    },
+    {
+      "id": "chem1_q146",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कणों के बीच आकर्षण: ठोस > द्रव > गैस। इस क्रम का तार्किक परिणाम चुनिए:",
+        "en": "Attraction between particles: solid > liquid > gas. Choose the logical consequence of this order:"
+      },
+      "options": {
+        "hi": [
+          "ठोस बहता, गैस स्थिर",
+          "ठोस का आकार स्थिर, द्रव बहता, गैस फैलती है",
+          "तीनों का आकार स्थिर",
+          "तीनों बहते हैं"
+        ],
+        "en": [
+          "A solid flows, a gas is fixed",
+          "A solid keeps its shape, a liquid flows, a gas spreads",
+          "All three keep fixed shape",
+          "All three flow"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आकर्षण जितना कम, कण उतने स्वतंत्र — व्यवहार उतना ढीला।",
+        "en": "The weaker the attraction, the freer the particles — the looser the behaviour."
+      }
+    },
+    {
+      "id": "chem1_q147",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीन कथन: (i) वायु पदार्थ है। (ii) प्रकाश पदार्थ नहीं है। (iii) ध्वनि पदार्थ है। सही कथनों का समूह चुनिए:",
+        "en": "Three statements: (i) Air is matter. (ii) Light is not matter. (iii) Sound is matter. Choose the group of correct statements:"
+      },
+      "options": {
+        "hi": [
+          "केवल (iii) सही",
+          "(i) गलत, (ii) गलत, (iii) सही",
+          "(i) और (ii) सही, (iii) गलत",
+          "तीनों सही"
+        ],
+        "en": [
+          "Only (iii) correct",
+          "(i) wrong, (ii) wrong, (iii) correct",
+          "(i) and (ii) correct, (iii) wrong",
+          "All three correct"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ध्वनि में द्रव्यमान-आयतन नहीं — वह तरंग है, पदार्थ नहीं।",
+        "en": "Sound has no mass or volume — it is a wave, not matter."
+      }
+    },
+    {
+      "id": "chem1_q148",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो गैसें एक बर्तन में छोड़ने पर कुछ ही देर में पूरे बर्तन में समान रूप से मिल जाती हैं। सोच-परीक्षण: यदि गैस के कण बिल्कुल स्थिर होते, तो क्या होता?",
+        "en": "Two gases released in a vessel mix uniformly throughout it within a while. Thought experiment: if the gas particles were perfectly still, what would happen?"
+      },
+      "options": {
+        "hi": [
+          "मिश्रण और तेज़ होता",
+          "कोई अंतर नहीं पड़ता",
+          "बर्तन फट जाता",
+          "मिश्रण नहीं बनता — दोनों गैसें अलग परतों में रहतीं"
+        ],
+        "en": [
+          "Mixing would be even faster",
+          "No difference would occur",
+          "The vessel would burst",
+          "No mixture would form — both gases would stay as separate layers"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मिश्रण का इंजन कण-गति है — गति रुकी तो विसरण रुका।",
+        "en": "Particle motion is the engine of mixing — stop the motion, stop the diffusion."
+      }
+    },
+    {
+      "id": "chem1_q149",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चाय में चीनी घुलने के बाद चाय का स्वाद हर घूँट में समान मीठा लगता है। इसकी कण-स्तरीय व्याख्या क्या है?",
+        "en": "After sugar dissolves in tea, the tea tastes equally sweet in every sip. What is the particle-level explanation?"
+      },
+      "options": {
+        "hi": [
+          "घुले शक्कर-कण जल-कणों के बीच समान रूप से विसरित हो जाते हैं",
+          "शक्कर तल में इकट्ठी रहती है",
+          "हर घूँट में नई शक्कर डाली जाती है",
+          "चाय शक्कर को याद रखती है"
+        ],
+        "en": [
+          "The dissolved sugar particles diffuse uniformly between the water particles",
+          "The sugar gathers at the bottom",
+          "Fresh sugar is added to every sip",
+          "The tea remembers the sugar"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समान विसरण = समान मिठास।",
+        "en": "Uniform diffusion = uniform sweetness."
+      }
+    },
+    {
+      "id": "chem1_q150",
+      "topic": "matter-and-particles",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'पदार्थ के कणों के बीच केवल खाली जगह ही नहीं, बल्कि एक खिंचाव (आकर्षण) भी है' — इस तथ्य का सबसे स्पष्ट समर्थन कौन-सा प्रेक्षण देता है?",
+        "en": "'Between the particles of matter there is not just empty space but also a pull (attraction)' — which observation gives the clearest support to this fact?"
+      },
+      "options": {
+        "hi": [
+          "रंग फैलता है",
+          "ठोस कण अपनी जगह सरकते नहीं — प्रबल खिंचाव उन्हें बाँधे रखता है",
+          "गैस फैलती है",
+          "पानी गीला है"
+        ],
+        "en": [
+          "A colour spreads",
+          "A solid's particles do not drift from their places — a strong pull keeps them bound",
+          "A gas spreads",
+          "Water is wet"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आकर्षण का सबसे सीधा प्रमाण ठोस की स्थिरता है।",
+        "en": "A solid's fixity is the most direct proof of attraction."
+      }
+    },
+    {
+      "id": "chem1_q151",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पदार्थ की मुख्य अवस्थाएँ कौन-सी हैं?",
+        "en": "What are the main states of matter?"
+      },
+      "options": {
+        "hi": [
+          "केवल द्रव और गैस",
+          "ठोस, द्रव और प्रकाश",
+          "ठोस, द्रव और गैस",
+          "केवल ठोस और गैस"
+        ],
+        "en": [
+          "Only liquid and gas",
+          "Solid, liquid and light",
+          "Solid, liquid and gas",
+          "Only solid and gas"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हमारे अध्ययन की तीन मुख्य अवस्थाएँ — ठोस, द्रव, गैस।",
+        "en": "The three main states of our study — solid, liquid, gas."
+      }
+    },
+    {
+      "id": "chem1_q152",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ठोस में कण कैसे स्थित होते हैं?",
+        "en": "How are the particles arranged in a solid?"
+      },
+      "options": {
+        "hi": [
+          "दूर-दूर और मुक्त",
+          "बिखरे हुए और उड़ते हुए",
+          "केवल सतह पर",
+          "सबसे संघन (पास-पास) और स्थिर"
+        ],
+        "en": [
+          "Far apart and free",
+          "Scattered and flying",
+          "Only on the surface",
+          "Most compact (close together) and fixed"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ठोस के कण सबसे ज्यादा संकुचित और अपनी जगह जमे रहते हैं।",
+        "en": "A solid's particles are the most packed and stay fixed in their places."
+      }
+    },
+    {
+      "id": "chem1_q153",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव का प्रमुख गुण क्या है?",
+        "en": "What is the chief property of a liquid?"
+      },
+      "options": {
+        "hi": [
+          "प्रवाह — बहने की क्षमता",
+          "निश्चित आकार",
+          "संपीड्यता सबसे अधिक",
+          "कणों का स्थिर रहना"
+        ],
+        "en": [
+          "Fluidity — the ability to flow",
+          "A fixed shape",
+          "Highest compressibility",
+          "Particles staying fixed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "द्रव की पहचान ही उसका बहना है।",
+        "en": "A liquid's very identity is its flowing."
+      }
+    },
+    {
+      "id": "chem1_q154",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गैस के कण कैसे होते हैं?",
+        "en": "How are the particles of a gas?"
+      },
+      "options": {
+        "hi": [
+          "निश्चित स्थान पर जड़",
+          "सर्वाधिक स्वतंत्र और दूर-दूर",
+          "सबसे संघन और बंधे",
+          "आपस में जकड़े"
+        ],
+        "en": [
+          "Rooted at fixed spots",
+          "The most free and far apart",
+          "The most compact and bound",
+          "Locked with each other"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गैस में कण लगभग बिना बंधन घूमते हैं।",
+        "en": "In a gas the particles roam nearly unbound."
+      }
+    },
+    {
+      "id": "chem1_q155",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किस अवस्था में कण सर्वाधिक संघन होते हैं?",
+        "en": "In which state are the particles most compact?"
+      },
+      "options": {
+        "hi": [
+          "गैस में",
+          "तीनों में समान",
+          "ठोस में",
+          "द्रव में"
+        ],
+        "en": [
+          "In a gas",
+          "The same in all three",
+          "In a solid",
+          "In a liquid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ठोस के कण सबसे पास-पास रहते हैं।",
+        "en": "A solid's particles stay closest together."
+      }
+    },
+    {
+      "id": "chem1_q156",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कौन-सी अवस्था संपीड्य होती है?",
+        "en": "Which state is compressible?"
+      },
+      "options": {
+        "hi": [
+          "ठोस",
+          "द्रव",
+          "कोई नहीं",
+          "गैस"
+        ],
+        "en": [
+          "Solid",
+          "Liquid",
+          "None",
+          "Gas"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गैस के कणों के बीच बड़े अंतराल — दबाने पर सिकुड़ जाती है।",
+        "en": "Large gaps between gas particles — it shrinks when pressed."
+      }
+    },
+    {
+      "id": "chem1_q157",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ठोस का आकार और आयतन कैसा होता है?",
+        "en": "How are the shape and volume of a solid?"
+      },
+      "options": {
+        "hi": [
+          "दोनों निश्चित",
+          "दोनों परिवर्तनशील",
+          "आकार परिवर्तनशील, आयतन निश्चित",
+          "आकार निश्चित, आयतन परिवर्तनशील"
+        ],
+        "en": [
+          "Both fixed",
+          "Both variable",
+          "Shape variable, volume fixed",
+          "Shape fixed, volume variable"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रबल आकर्षण ठोस को निश्चित आकार-आयतन देता है।",
+        "en": "Strong attraction gives a solid its fixed shape and volume."
+      }
+    },
+    {
+      "id": "chem1_q158",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव का आकार और आयतन कैसा होता है?",
+        "en": "How are the shape and volume of a liquid?"
+      },
+      "options": {
+        "hi": [
+          "आकार निश्चित, आयतन बदलता",
+          "आकार बर्तन के अनुसार बदलता है, आयतन निश्चित रहता है",
+          "दोनों निश्चित",
+          "दोनों बदलते हैं"
+        ],
+        "en": [
+          "Shape fixed, volume changes",
+          "Shape changes with the container, volume stays fixed",
+          "Both fixed",
+          "Both change"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "द्रव बहता है पर उसकी मात्रा (आयतन) वही रहती है।",
+        "en": "A liquid flows, but its quantity (volume) stays the same."
+      }
+    },
+    {
+      "id": "chem1_q159",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गैस का आकार और आयतन कैसा होता है?",
+        "en": "How are the shape and volume of a gas?"
+      },
+      "options": {
+        "hi": [
+          "केवल आकार निश्चित",
+          "केवल आयतन निश्चित",
+          "दोनों बर्तन के अनुसार — गैस पूरे बर्तन को भर देती है",
+          "दोनों निश्चित"
+        ],
+        "en": [
+          "Only shape fixed",
+          "Only volume fixed",
+          "Both as per the container — a gas fills the whole vessel",
+          "Both fixed"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मुक्त कण कहीं भी जाते हैं — गैस उपलब्ध पूरा स्थान घेर लेती है।",
+        "en": "Free particles go anywhere — a gas occupies all the space available."
+      }
+    },
+    {
+      "id": "chem1_q160",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पानी किस अवस्था का पदार्थ है?",
+        "en": "Water is matter of which state?"
+      },
+      "options": {
+        "hi": [
+          "ठोस",
+          "गैस",
+          "इनमें से कोई नहीं",
+          "द्रव"
+        ],
+        "en": [
+          "Solid",
+          "Gas",
+          "None of these",
+          "Liquid"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पानी बहता है और बर्तन का आकार ले लेता है — द्रव।",
+        "en": "Water flows and takes its container's shape — a liquid."
+      }
+    },
+    {
+      "id": "chem1_q161",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बर्फ किस अवस्था का उदाहरण है?",
+        "en": "Ice is an example of which state?"
+      },
+      "options": {
+        "hi": [
+          "ठोस",
+          "द्रव",
+          "गैस",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Solid",
+          "Liquid",
+          "Gas",
+          "Sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बर्फ का आकार निश्चित — ठोस अवस्था।",
+        "en": "Ice has a fixed shape — the solid state."
+      }
+    },
+    {
+      "id": "chem1_q162",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऑक्सीजन सामान्यतः किस अवस्था में होती है?",
+        "en": "In which state does oxygen normally exist?"
+      },
+      "options": {
+        "hi": [
+          "प्लाज़्मा",
+          "गैस",
+          "ठोस",
+          "द्रव"
+        ],
+        "en": [
+          "Plasma",
+          "Gas",
+          "Solid",
+          "Liquid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऑक्सीजन के मुक्त कण हवा में घूमते हैं — गैस।",
+        "en": "Oxygen's free particles roam the air — a gas."
+      }
+    },
+    {
+      "id": "chem1_q163",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पत्थर, दूध और हवा — तीनों की अवस्थाओं का सही क्रम है:",
+        "en": "Stone, milk and air — the correct order of their states is:"
+      },
+      "options": {
+        "hi": [
+          "गैस, द्रव, ठोस",
+          "ठोस, गैस, द्रव",
+          "ठोस, द्रव, गैस",
+          "द्रव, ठोस, गैस"
+        ],
+        "en": [
+          "Gas, liquid, solid",
+          "Solid, gas, liquid",
+          "Solid, liquid, gas",
+          "Liquid, solid, gas"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पत्थर ठोस, दूध द्रव, हवा गैस — तीनों अवस्थाओं के जीते-जागते उदाहरण।",
+        "en": "Stone solid, milk liquid, air gas — living examples of all three states."
+      }
+    },
+    {
+      "id": "chem1_q164",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किस अवस्था में कण सर्वाधिक स्वतंत्र रूप से गति करते हैं?",
+        "en": "In which state do the particles move most freely?"
+      },
+      "options": {
+        "hi": [
+          "ठोस में",
+          "द्रव में",
+          "तीनों में समान",
+          "गैस में"
+        ],
+        "en": [
+          "In a solid",
+          "In a liquid",
+          "The same in all three",
+          "In a gas"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गैस में बंधन सबसे कम — स्वतंत्रता सबसे अधिक।",
+        "en": "Least binding in a gas — the most freedom."
+      }
+    },
+    {
+      "id": "chem1_q165",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ठोस अपना आकार क्यों नहीं बदलता?",
+        "en": "Why does a solid not change its shape?"
+      },
+      "options": {
+        "hi": [
+          "कण प्रबल आकर्षण से अपनी स्थान पर जकड़े रहते हैं",
+          "कण बहुत बड़े होते हैं",
+          "कण गीले होते हैं",
+          "कण नींद में होते हैं"
+        ],
+        "en": [
+          "Its particles stay locked in place by strong attraction",
+          "Its particles are very large",
+          "Its particles are wet",
+          "Its particles are asleep"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रबल आकर्षण = स्थिर कण = स्थिर आकार।",
+        "en": "Strong attraction = fixed particles = fixed shape."
+      }
+    },
+    {
+      "id": "chem1_q166",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव क्यों बहता है?",
+        "en": "Why does a liquid flow?"
+      },
+      "options": {
+        "hi": [
+          "उसका आकार निश्चित है",
+          "उसके कण आकर्षण में ढील होने से सरक सकते हैं",
+          "उसके कण उड़ते हैं",
+          "उसके कण जड़ हैं"
+        ],
+        "en": [
+          "Its shape is fixed",
+          "Its particles, loosely held, can slide past one another",
+          "Its particles fly away",
+          "Its particles are inert"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ठोस से कम आकर्षण द्रव के कणों को सरकने देता है।",
+        "en": "Attraction weaker than in solids lets a liquid's particles slide."
+      }
+    },
+    {
+      "id": "chem1_q167",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गैस हमेशा बर्तन का पूरा आकार क्यों ले लेती है?",
+        "en": "Why does a gas always take the full shape of its container?"
+      },
+      "options": {
+        "hi": [
+          "बर्तन उसे खींचता है",
+          "वह भारी होती है",
+          "उसके मुक्त कण हर ओर दौड़कर पूरा स्थान भर देते हैं",
+          "वह बर्तन से डरती है"
+        ],
+        "en": [
+          "The container pulls it",
+          "It is heavy",
+          "Its free particles race everywhere and fill all the space",
+          "It fears the container"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मुक्त कण + निरंतर गति = पूरा बर्तन भर जाना।",
+        "en": "Free particles + constant motion = the whole vessel gets filled."
+      }
+    },
+    {
+      "id": "chem1_q168",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तीनों अवस्थाओं में विसरण दर सबसे अधिक किसमें होती है?",
+        "en": "Among the three states, in which is the diffusion rate the highest?"
+      },
+      "options": {
+        "hi": [
+          "ठोस में",
+          "द्रव में",
+          "तीनों में बराबर",
+          "गैस में"
+        ],
+        "en": [
+          "In solids",
+          "In liquids",
+          "Equal in all three",
+          "In gases"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सर्वाधिक स्वतंत्र कण — सर्वाधिक तेज विसरण।",
+        "en": "The most free particles — the fastest diffusion."
+      }
+    },
+    {
+      "id": "chem1_q169",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी चीज़ को 'संपीड्य' कहने का अर्थ है —",
+        "en": "To call something 'compressible' means —"
+      },
+      "options": {
+        "hi": [
+          "दबाने पर उसका आयतन घट सकता है",
+          "दबाने पर वह रंग बदलती है",
+          "वह बहती है",
+          "वह पिघलती है"
+        ],
+        "en": [
+          "Its volume can be reduced by pressing",
+          "It changes colour under pressure",
+          "It flows",
+          "It melts"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "संपीड्यता = दबाव पर आयतन घटने की क्षमता।",
+        "en": "Compressibility = the capacity to shrink in volume under pressure."
+      }
+    },
+    {
+      "id": "chem1_q170",
+      "topic": "states-of-matter",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नाइट्रोजन और ऑक्सीजन जैसी हवा की गैसें किस अवस्था में होने से बर्तन का पूरा आकार लेती हैं?",
+        "en": "Gases of the air like nitrogen and oxygen take the full shape of the vessel because of being in which state?"
+      },
+      "options": {
+        "hi": [
+          "किसी अवस्था में नहीं",
+          "गैस अवस्था में — कण मुक्त व गतिमान",
+          "ठोस अवस्था में",
+          "द्रव अवस्था में"
+        ],
+        "en": [
+          "In no state",
+          "The gaseous state — particles free and moving",
+          "The solid state",
+          "The liquid state"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गैस-अवस्था के मुक्त कण ही उपलब्ध स्थान भर देते हैं।",
+        "en": "The free particles of the gaseous state fill the available space."
+      }
+    },
+    {
+      "id": "chem1_q171",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ठोस, द्रव, गैस में कणों के बीच आकर्षण का तुलनात्मक क्रम दिया है — सही क्रम चुनिए:",
+        "en": "A comparative order of the attraction between particles in solid, liquid, gas is given — choose the correct one:"
+      },
+      "options": {
+        "hi": [
+          "द्रव (सर्वाधिक) → ठोस → गैस",
+          "तीनों में एक समान",
+          "ठोस (सर्वाधिक) → द्रव → गैस (न्यूनतम)",
+          "गैस (सर्वाधिक) → द्रव → ठोस"
+        ],
+        "en": [
+          "Liquid (highest) → solid → gas",
+          "Identical in all three",
+          "Solid (highest) → liquid → gas (lowest)",
+          "Gas (highest) → liquid → solid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "आकर्षण घटता क्रम — ठोस, द्रव, गैस।",
+        "en": "Attraction in decreasing order — solid, liquid, gas."
+      }
+    },
+    {
+      "id": "chem1_q172",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही पदार्थ की तीन अवस्थाओं में कणों के बीच की दूरी का शुद्ध क्रम क्या है?",
+        "en": "What is the exact order of the inter-particle distance in the three states of the same substance?"
+      },
+      "options": {
+        "hi": [
+          "ठोस > द्रव > गैस",
+          "द्रव > ठोस > गैस",
+          "तीनों में बराबर",
+          "गैस > द्रव > ठोस"
+        ],
+        "en": [
+          "Solid > liquid > gas",
+          "Liquid > solid > gas",
+          "Equal in all three",
+          "Gas > liquid > solid"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दूरी बढ़ती क्रम में — ठोस से द्रव से गैस।",
+        "en": "Distance in increasing order — solid to liquid to gas."
+      }
+    },
+    {
+      "id": "chem1_q173",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गैस को सिलेंडर में क्यों भरा जा सकता है?",
+        "en": "Why can a gas be filled into a cylinder?"
+      },
+      "options": {
+        "hi": [
+          "गैस संपीड्य है — कणों के बीच के बड़े अंतराल में दबाव से कण पास आ जाते हैं",
+          "गैस ठोस है",
+          "गैस भारी है",
+          "सिलेंडर गैस खींचता है"
+        ],
+        "en": [
+          "A gas is compressible — under pressure the particles close into the large gaps between them",
+          "A gas is solid",
+          "A gas is heavy",
+          "The cylinder sucks the gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अंतराल की बहुलता ही गैस के दबकर सिमटने की अनुमति देती है।",
+        "en": "The abundance of gaps lets a gas shrink under pressure."
+      }
+    },
+    {
+      "id": "chem1_q174",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रेत ठोस है, पर उसका आकार बर्तन के साथ बदल जाता है। क्या यह ठोस की परिभाषा तोड़ता है?",
+        "en": "Sand is a solid, yet its shape changes with the container. Does this break the definition of a solid?"
+      },
+      "options": {
+        "hi": [
+          "रेत कोई अवस्था नहीं है",
+          "नहीं — हर रेत कण अलग ठोस है; पूरा ढेर कणों का समूह है, एक ठोस पिंड नहीं",
+          "हाँ, रेत द्रव है",
+          "हाँ, रेत गैस है"
+        ],
+        "en": [
+          "Sand has no state",
+          "No — each grain of sand is a separate solid; the heap is a collection of particles, not one solid block",
+          "Yes, sand is a liquid",
+          "Yes, sand is a gas"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आकार-बदलाव ढेर का है, दाने का नहीं — दाना ठोस बना रहता है।",
+        "en": "The change of shape belongs to the heap, not the grain — the grain stays solid."
+      }
+    },
+    {
+      "id": "chem1_q175",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) द्रव का आयतन निश्चित होता है। (ii) द्रव का आकार निश्चित नहीं होता। सही विकल्प:",
+        "en": "Two statements: (i) A liquid's volume is fixed. (ii) A liquid's shape is not fixed. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "केवल (ii) सही",
+          "दोनों गलत",
+          "दोनों सही हैं",
+          "केवल (i) सही"
+        ],
+        "en": [
+          "Only (ii)",
+          "Both wrong",
+          "Both are correct",
+          "Only (i)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव की मात्रा स्थिर, आकार बर्तन पर निर्भर।",
+        "en": "A liquid's quantity stays, its shape depends on the vessel."
+      }
+    },
+    {
+      "id": "chem1_q176",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्प्रे कैन की गैस दबाकर भरी जाती है। दबी हुई अवस्था में कणों के बीच क्या बदला है?",
+        "en": "The gas in a spray can is filled under pressure. What has changed between the particles in the pressed state?"
+      },
+      "options": {
+        "hi": [
+          "उनका रंग बदल गया",
+          "उनका आकार बढ़ गया",
+          "वे ठोस बन गए",
+          "उनके बीच की दूरी घट गई है"
+        ],
+        "en": [
+          "Their colour has changed",
+          "Their size has grown",
+          "They have become solid",
+          "The distance between them has decreased"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "संपीड़न केवल अंतराल घटाता है, कण को नहीं।",
+        "en": "Compression only reduces the gaps, not the particles."
+      }
+    },
+    {
+      "id": "chem1_q177",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन बर्तनों में एक-एक लीटर तेल, पानी और हवा भरी है। कणों की संख्या एक समान मानें तो किस बर्तन में कण सबसे पास-पास होंगे?",
+        "en": "One litre each of oil, water and air is taken in three vessels. Assuming equal numbers of particles, in which vessel are the particles closest?"
+      },
+      "options": {
+        "hi": [
+          "तेल और पानी (द्रव) में — हवा की तुलना में",
+          "हवा में",
+          "तीनों में समान",
+          "कह नहीं सकते"
+        ],
+        "en": [
+          "In the oil and water (liquids) — compared with the air",
+          "In the air",
+          "The same in all three",
+          "Cannot be said"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "द्रवों के कण गैस की तुलना में घने बंधे रहते हैं।",
+        "en": "The particles of liquids stay packed closer than a gas's."
+      }
+    },
+    {
+      "id": "chem1_q178",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी ठोस को तोड़ने पर वह अपने टुकड़ों में भी ठोस ही रहता है। कारण चुनिए:",
+        "en": "When a solid is broken, each piece remains a solid too. Choose the reason:"
+      },
+      "options": {
+        "hi": [
+          "कण उड़ जाते हैं",
+          "टुकड़ों में भी कणों का प्रबल आकर्षण और संघन व्यवस्था बनी रहती है",
+          "टुकड़े गैस बन जाते हैं",
+          "आकर्षण तुरंत समाप्त हो जाता है"
+        ],
+        "en": [
+          "The particles fly away",
+          "Even in the pieces, the strong attraction and compact arrangement of particles persist",
+          "The pieces turn into gas",
+          "The attraction vanishes at once"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "भंग होने से आकार बदलता है, कण-प्रकृति नहीं।",
+        "en": "Breaking changes the shape, not the particle nature."
+      }
+    },
+    {
+      "id": "chem1_q179",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गैसों की तुलना में द्रवों का विसरण धीमा क्यों होता है?",
+        "en": "Why is diffusion in liquids slower than in gases?"
+      },
+      "options": {
+        "hi": [
+          "द्रवों में रिक्त स्थान नहीं होता",
+          "गैसों के कण सो जाते हैं",
+          "द्रवों के कण अधिक बंधे होने से कम स्वतंत्र रूप से घूम पाते हैं",
+          "द्रवों के कण बड़े होते हैं"
+        ],
+        "en": [
+          "Liquids have no empty space",
+          "A gas's particles fall asleep",
+          "Being more tightly bound, a liquid's particles cannot roam as freely",
+          "A liquid's particles are larger"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बंधन जितना, गति उतनी — विसरण भी उतना।",
+        "en": "The more the binding, the less the motion — and the diffusion."
+      }
+    },
+    {
+      "id": "chem1_q180",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किस अवस्था में कण अपनी स्थिति छोड़कर आस-पास के कणों के ऊपर से सरकते रहते हैं (ढलान)?",
+        "en": "In which state do the particles keep sliding over their neighbours, leaving their positions?"
+      },
+      "options": {
+        "hi": [
+          "ठोस में",
+          "गैस में",
+          "किसी में नहीं",
+          "द्रव में"
+        ],
+        "en": [
+          "In a solid",
+          "In a gas",
+          "In none",
+          "In a liquid"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव का बहना ही कणों की यह ढलान-गति है।",
+        "en": "A liquid's flowing is precisely this sliding motion of particles."
+      }
+    },
+    {
+      "id": "chem1_q181",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन कथन: (i) ठोस संपीड्य नहीं होते। (ii) द्रव अल्प संपीड्य होते हैं। (iii) गैसें अत्यधिक संपीड्य होती हैं। सही समूह:",
+        "en": "Three statements: (i) Solids are not compressible. (ii) Liquids are slightly compressible. (iii) Gases are highly compressible. The correct set:"
+      },
+      "options": {
+        "hi": [
+          "तीनों सही",
+          "केवल (i) और (iii)",
+          "केवल (ii)",
+          "केवल (iii)"
+        ],
+        "en": [
+          "All three correct",
+          "Only (i) and (iii)",
+          "Only (ii)",
+          "Only (iii)"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अंतराल की मात्रा के अनुसार संपीड्यता — ठोस नहीं, द्रव थोड़ा, गैस बहुत।",
+        "en": "Compressibility follows the gaps — solids none, liquids slight, gases much."
+      }
+    },
+    {
+      "id": "chem1_q182",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक स्पंज दबाने पर सिकुड़ जाता है। क्या स्पंज गैस जैसा संपीड्य ठोस है?",
+        "en": "A sponge shrinks when pressed. Is a sponge a compressible solid like a gas?"
+      },
+      "options": {
+        "hi": [
+          "स्पंज पदार्थ नहीं",
+          "स्पंज ठोस है — दबने पर कण नहीं, उसके छिद्रों में बंद हवा सिकुड़ती है",
+          "हाँ, स्पंज गैस है",
+          "स्पंज द्रव है"
+        ],
+        "en": [
+          "A sponge is not matter",
+          "A sponge is a solid — when pressed, the air trapped in its pores shrinks, not its particles",
+          "Yes, a sponge is a gas",
+          "A sponge is a liquid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "संपीडन छिद्रों की हवा का है — स्पंज के कण अपनी जगह जमे रहते हैं।",
+        "en": "The compression belongs to the air in the pores — the sponge's own particles stay put."
+      }
+    },
+    {
+      "id": "chem1_q183",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "द्रव और गैस दोनों 'द्रव' (fluids) कहलाते हैं। इनके बहने का साझा आधार क्या है?",
+        "en": "Both liquids and gases are called 'fluids'. What is the shared basis of their flowing?"
+      },
+      "options": {
+        "hi": [
+          "दोनों ठंडे होते हैं",
+          "दोनों भारी होते हैं",
+          "दोनों के कण आकर्षण में इतनी ढील है कि वे सरक-फिसल सकते हैं",
+          "दोनों रंगीन होते हैं"
+        ],
+        "en": [
+          "Both are cold",
+          "Both are heavy",
+          "In both, the particles are loosely enough held to slide and slip",
+          "Both are coloured"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बहने की क्षमता = कणों की सरकने की क्षमता।",
+        "en": "The ability to flow = the particles' ability to slide."
+      }
+    },
+    {
+      "id": "chem1_q184",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गैस को बर्तन के एक कोने में रखा जाए तो वह कुछ ही क्षण में क्या करती है?",
+        "en": "If a gas is kept in one corner of a vessel, what does it do within moments?"
+      },
+      "options": {
+        "hi": [
+          "उसी कोने में रहती है",
+          "नीचे बैठ जाती है",
+          "जम जाती है",
+          "पूरे बर्तन में फैल जाती है"
+        ],
+        "en": [
+          "It stays in that corner",
+          "It settles to the bottom",
+          "It freezes",
+          "It spreads through the whole vessel"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मुक्त गतिमान कण उपलब्ध सारा स्थान घेर लेते हैं।",
+        "en": "Free moving particles occupy all the space available."
+      }
+    },
+    {
+      "id": "chem1_q185",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ठोस और द्रव की तुलना में गैस का घनत्व (प्रति इकाई आयतन द्रव्यमान) सामान्यतः कम होने का कारण क्या है?",
+        "en": "Compared with solids and liquids, why is a gas's density (mass per unit volume) normally low?"
+      },
+      "options": {
+        "hi": [
+          "कणों के बीच विशाल रिक्त स्थान के कारण उसी आयतन में कण बहुत कम होते हैं",
+          "गैस के कण वजनहीन होते हैं",
+          "गैस के कण छोटे होते हैं",
+          "गैस रंगहीन होती है"
+        ],
+        "en": [
+          "Due to the huge empty spaces, very few particles fit in the same volume",
+          "A gas's particles are weightless",
+          "A gas's particles are tiny",
+          "A gas is colourless"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खाली जगह अधिक = उसी थाल में कम कण = कम घनत्व।",
+        "en": "More empty space = fewer particles in the same plate = lower density."
+      }
+    },
+    {
+      "id": "chem1_q186",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी ठोस को गर्म करने पर वह पिघलकर द्रव बनता है। इस परिवर्तन में कणों के बीच क्या हुआ?",
+        "en": "On heating, a solid melts into a liquid. In this change, what happened between the particles?"
+      },
+      "options": {
+        "hi": [
+          "कण आकार बदलकर बड़े हो गए",
+          "आकर्षण की पकड़ ढीली पड़ी और कण सरकने लगे",
+          "कण गायब हो गए",
+          "नए कण बन गए"
+        ],
+        "en": [
+          "The particles grew bigger",
+          "The grip of attraction loosened and the particles began to slide",
+          "The particles vanished",
+          "New particles formed"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पिघलन = आकर्षण में ढील = कणों को गति।",
+        "en": "Melting = loosened attraction = mobility for particles."
+      }
+    },
+    {
+      "id": "chem1_q187",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लकड़ी का तख्ता और उतनी ही जगह घेरती हवा — किसमें कणों का आपसी खिंचाव ज्यादा है?",
+        "en": "A wooden plank and air occupying the same space — in which is the mutual pull of particles greater?"
+      },
+      "options": {
+        "hi": [
+          "दोनों में बराबर",
+          "निर्भर नहीं करता",
+          "तख्ते में — ठोस के कण प्रबल आकर्षण में बंधे हैं",
+          "हवा में"
+        ],
+        "en": [
+          "Equal in both",
+          "It does not depend",
+          "In the plank — a solid's particles are bound by strong attraction",
+          "In the air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ठोस की जकड़न ही उसके आकार की जकड़न है।",
+        "en": "A solid's grip on its particles is the grip on its shape."
+      }
+    },
+    {
+      "id": "chem1_q188",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) गैस का आयतन बर्तन के आयतन के बराबर हो जाता है। (ii) द्रव का आयतन बर्तन से स्वतंत्र रहता है। सही विकल्प:",
+        "en": "Two statements: (i) A gas's volume becomes equal to the vessel's volume. (ii) A liquid's volume remains independent of the vessel. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "केवल (i) सही",
+          "केवल (ii) सही",
+          "दोनों गलत",
+          "दोनों सही हैं"
+        ],
+        "en": [
+          "Only (i)",
+          "Only (ii)",
+          "Both wrong",
+          "Both are correct"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गैस बर्तन जितना, द्रव अपनी मात्रा जितना।",
+        "en": "A gas as big as the vessel, a liquid as big as its own quantity."
+      }
+    },
+    {
+      "id": "chem1_q189",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अवस्था-पहचान: मैं बहता हूँ, मेरा आयतन स्थिर है, मेरे कण पास हैं पर जकड़े नहीं। मैं क्या हूँ?",
+        "en": "State identification: I flow, my volume is steady, my particles are close yet not locked. What am I?"
+      },
+      "options": {
+        "hi": [
+          "द्रव",
+          "ठोस",
+          "गैस",
+          "उर्ध्वपातित पदार्थ"
+        ],
+        "en": [
+          "A liquid",
+          "A solid",
+          "A gas",
+          "A sublimated substance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बहना + स्थिर आयतन = द्रव की दो स्पष्ट पहचान।",
+        "en": "Flowing + steady volume = the two clear marks of a liquid."
+      }
+    },
+    {
+      "id": "chem1_q190",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कणों की गति की स्वतंत्रता का सही क्रम कौन-सा है?",
+        "en": "Which is the correct order of the freedom of the particles' motion?"
+      },
+      "options": {
+        "hi": [
+          "तीनों अवस्थाओं में समान",
+          "गैस > द्रव > ठोस",
+          "ठोस > द्रव > गैस",
+          "द्रव > गैस > ठोस"
+        ],
+        "en": [
+          "The same in all three states",
+          "Gas > liquid > solid",
+          "Solid > liquid > gas",
+          "Liquid > gas > solid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जितना ढीला बंधन, उतनी बड़ी छलांग — गैस सबसे आगे।",
+        "en": "The looser the binding, the bigger the leap — gas is far ahead."
+      }
+    },
+    {
+      "id": "chem1_q191",
+      "topic": "states-of-matter",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्लास्टिक की सीरिंज में हवा भरकर मुँह बंद कर दबाया जा सकता है, पर सीरिंज पानी से भरी हो तो दबाना लगभग असंभव। कारण चुनिए:",
+        "en": "A plastic syringe filled with air can be pressed with its nozzle closed, but if it is filled with water, pressing is nearly impossible. Choose the reason:"
+      },
+      "options": {
+        "hi": [
+          "पानी सीरिंज की दीवार से चिपक जाता है",
+          "हवा में रंग नहीं होता",
+          "गैस के कणों के बीच बड़े अंतराल हैं जो सिकुड़ सकते हैं; द्रव के कण पास-पास हैं",
+          "हवा हल्की और पानी भारी होता है"
+        ],
+        "en": [
+          "Water sticks to the syringe's wall",
+          "Air has no colour",
+          "The gas's particles have large gaps that can shrink; the liquid's particles are close together",
+          "Air is light and water is heavy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संपीड्यता का अंतर अंतरालों के अंतर से आता है, भार से नहीं।",
+        "en": "The difference in compressibility comes from the difference in the gaps, not from weight."
+      }
+    },
+    {
+      "id": "chem1_q192",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीन कथन: (i) ठोस के कण गतिहीन होते हैं। (ii) द्रव के कण केवल कंपन करते हैं, सरकते नहीं। (iii) गैस के कण निरंतर गतिमान रहते हैं। इनमें से सही कथन एक ही है — कौन-सा?",
+        "en": "Three statements: (i) A solid's particles are motionless. (ii) A liquid's particles only vibrate and never slide. (iii) A gas's particles stay in constant motion. Only one of these is correct — which one?"
+      },
+      "options": {
+        "hi": [
+          "कथन (i)",
+          "कथन (ii)",
+          "तीनों सही",
+          "कथन (iii)"
+        ],
+        "en": [
+          "Statement (i)",
+          "Statement (ii)",
+          "All three correct",
+          "Statement (iii)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "तीनों अवस्थाओं के कण गतिमान हैं — फर्क गति की मात्रा का है, होने-न होने का नहीं।",
+        "en": "Particles in all three states move — the difference is of degree, not of existence."
+      }
+    },
+    {
+      "id": "chem1_q193",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सोच-परीक्षण: यदि द्रव के कणों का आपसी आकर्षण ठोस जितना प्रबल हो जाए, तो द्रव का व्यवहार कैसा हो जाएगा?",
+        "en": "Thought experiment: if a liquid's inter-particle attraction became as strong as a solid's, how would the liquid behave?"
+      },
+      "options": {
+        "hi": [
+          "बहना बंद कर ठोस जैसा आकार पकड़ लेगा",
+          "गैस बन जाएगा",
+          "उड़ जाएगा",
+          "कोई अंतर नहीं पड़ेगा"
+        ],
+        "en": [
+          "It would stop flowing and hold a solid-like shape",
+          "It would become a gas",
+          "It would fly away",
+          "No difference would occur"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बहाव ढीले बंधन की देन है — बंधन कसा तो बहाव रुका।",
+        "en": "Flow is the gift of loose binding — tighten the binding, the flow stops."
+      }
+    },
+    {
+      "id": "chem1_q194",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सोच-परीक्षण: यदि गैस के कणों के बीच रिक्त स्थान द्रव जितना रह जाए, तो गैस की संपीड्यता का क्या होगा?",
+        "en": "Thought experiment: if the empty spaces in a gas became as few as a liquid's, what would happen to the gas's compressibility?"
+      },
+      "options": {
+        "hi": [
+          "वह ठोस बन जाएगी",
+          "वह द्रव जैसी लगभग असंपीड्य हो जाएगी",
+          "वह और अधिक संपीड्य होगी",
+          "कोई बदलाव नहीं"
+        ],
+        "en": [
+          "It would turn solid",
+          "It would become nearly incompressible like a liquid",
+          "It would become more compressible",
+          "No change"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "संपीड्यता अंतराल की छाया है — अंतराल गया तो संपीड्यता गई।",
+        "en": "Compressibility is the shadow of the gaps — no gaps, no compressibility."
+      }
+    },
+    {
+      "id": "chem1_q195",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कण-व्यवस्था के आधार पर तीन अवस्थाओं का सही वर्णन-मिलान कौन-सा है?",
+        "en": "Which is the correct description-matching of the three states based on particle arrangement?"
+      },
+      "options": {
+        "hi": [
+          "तीनों — समान व्यवस्था",
+          "ठोस — मुक्त; गैस — जकड़े",
+          "ठोस — संघन व सुव्यवस्थित; द्रव — मध्यम बंधन व सरकते; गैस — सर्वाधिक बिखरे व मुक्त",
+          "ठोस — बिखरे; द्रव — संघन; गैस — सुव्यवस्थित"
+        ],
+        "en": [
+          "All three — same arrangement",
+          "Solid — free; gas — locked",
+          "Solid — compact and orderly; liquid — moderately held and sliding; gas — most scattered and free",
+          "Solid — scattered; liquid — compact; gas — orderly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "व्यवस्था का यही स्पेक्ट्रम तीन अवस्थाओं का मानचित्र है।",
+        "en": "This spectrum of arrangement is the map of the three states."
+      }
+    },
+    {
+      "id": "chem1_q196",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक बंद सीधी नली में नीचे पानी, उस पर तेल और ऊपर हवा है। इन तीनों की कण-संरचना के आधार पर सही कथन चुनिए:",
+        "en": "In a sealed upright tube there is water at the bottom, oil above it and air on top. Based on the particle structure of these three, choose the correct statement:"
+      },
+      "options": {
+        "hi": [
+          "तीनों गैस हैं",
+          "तीनों ठोस हैं",
+          "हवा द्रव है",
+          "पानी-तेल द्रव हैं — कण पास पर सरकते; हवा गैस है — कण सर्वाधिक मुक्त"
+        ],
+        "en": [
+          "All three are gases",
+          "All three are solids",
+          "Air is a liquid",
+          "Water and oil are liquids — particles close yet sliding; air is a gas — its particles the most free"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "एक नली, तीन अवस्थाएँ — भिन्न कण-व्यवहार।",
+        "en": "One tube, three states — different particle behaviours."
+      }
+    },
+    {
+      "id": "chem1_q197",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो कथन: (i) ठोस और द्रव का विसरण हो सकता है, पर बहुत धीमा। (ii) विसरण की गति कण-स्वतंत्रता की माप है। सही विकल्प:",
+        "en": "Two statements: (i) Solids and liquids can diffuse, though very slowly. (ii) The speed of diffusion is a measure of the particles' freedom. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "दोनों सही हैं",
+          "केवल (i) सही",
+          "केवल (ii) सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "Both are correct",
+          "Only (i)",
+          "Only (ii)",
+          "Both wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विसरण-दर स्वतंत्रता का थर्मामीटर है।",
+        "en": "The diffusion rate is the thermometer of freedom."
+      }
+    },
+    {
+      "id": "chem1_q198",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक गेंद-बॉल को हथेली में दबाकर छोड़ने पर वह फिर फूल जाती है, पर पत्थर नहीं। कण-सिद्धांत से अंतर समझाइए:",
+        "en": "A rubber ball squeezed in the palm regains its size on release, but a stone does not change. Explain the difference from the particle theory:"
+      },
+      "options": {
+        "hi": [
+          "दोनों में कोई अंतर नहीं",
+          "गेंद के ठोस कण अपनी जगह पर लौट आते हैं — पत्थर के कण पहले से ही सबसे संघन हैं; दोनों ही ठोस हैं, गेंद का उछाल उसकी लोचदार संरचना से है",
+          "गेंद गैस है",
+          "पत्थर द्रव है"
+        ],
+        "en": [
+          "There is no difference",
+          "The ball's solid particles return to their places — a stone's particles are already most compact; both are solids, the ball's bounce comes from its elastic structure",
+          "The ball is a gas",
+          "The stone is a liquid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दोनों ठोस हैं — अंतर संरचना की लोच का है, अवस्था का नहीं।",
+        "en": "Both are solids — the difference is of structural elasticity, not of state."
+      }
+    },
+    {
+      "id": "chem1_q199",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अवस्था-पहेली: मेरे कण इतने मुक्त हैं कि मैं किसी भी बर्तन का पूरा आकार-आयतन ले लेता हूँ और मुझे दबाया भी जा सकता है। मैं क्या हूँ?",
+        "en": "State riddle: my particles are so free that I take the full shape and volume of any vessel, and I can also be compressed. What am I?"
+      },
+      "options": {
+        "hi": [
+          "द्रव",
+          "द्रव और गैस दोनों",
+          "गैस",
+          "ठोस"
+        ],
+        "en": [
+          "A liquid",
+          "Both liquid and gas",
+          "A gas",
+          "A solid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पूरा बर्तन भरना + संपीड्य होना = गैस की अनूठी पहचान।",
+        "en": "Filling the vessel + being compressible = the gas's unique identity."
+      }
+    },
+    {
+      "id": "chem1_q200",
+      "topic": "states-of-matter",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीनों अवस्थाओं के गुणों की तुलना-तालिका में सबसे सुसंगत पंक्ति कौन-सी है?",
+        "en": "In the comparison table of the properties of the three states, which is the most consistent row?"
+      },
+      "options": {
+        "hi": [
+          "ठोस: आकार बदलता; द्रव: दोनों निश्चित; गैस: आयतन निश्चित",
+          "ठोस: दोनों बदलते; द्रव: आकार निश्चित; गैस: आयतन बदलता",
+          "तीनों: दोनों गुण समान",
+          "ठोस: आकार-आयतन निश्चित; द्रव: आयतन निश्चित, आकार बदलता; गैस: दोनों बदलते"
+        ],
+        "en": [
+          "Solid: shape varies; liquid: both fixed; gas: volume fixed",
+          "Solid: both vary; liquid: shape fixed; gas: volume varies",
+          "All three: both properties identical",
+          "Solid: shape and volume fixed; liquid: volume fixed, shape varies; gas: both vary"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "यही पंक्ति तीनों अवस्थाओं का सार है।",
+        "en": "This row is the essence of the three states."
+      }
+    },
+    {
+      "id": "chem1_q201",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक ही पदार्थ का ठोस से द्रव या द्रव से गैस बनने जैसा परिवर्तन क्या कहलाता है?",
+        "en": "What is a change like the same substance turning from solid to liquid or liquid to gas called?"
+      },
+      "options": {
+        "hi": [
+          "अवस्था परिवर्तन",
+          "विसरण",
+          "संपीडन",
+          "वायु दाब"
+        ],
+        "en": [
+          "A change of state",
+          "Diffusion",
+          "Compression",
+          "Air pressure"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पदार्थ वही रहता है, केवल उसकी अवस्था बदलती है — यही अवस्था परिवर्तन है।",
+        "en": "The substance remains the same; only its state changes — that is a change of state."
+      }
+    },
+    {
+      "id": "chem1_q202",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ठोस के द्रव में बदलने की प्रक्रिया का नाम क्या है?",
+        "en": "What is the name of the process of a solid turning into a liquid?"
+      },
+      "options": {
+        "hi": [
+          "उर्ध्वपातन",
+          "पिघलन",
+          "जमन",
+          "संघनन"
+        ],
+        "en": [
+          "Sublimation",
+          "Melting",
+          "Freezing",
+          "Condensation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बर्फ का पानी बनना — पिघलन का जीवंत उदाहरण।",
+        "en": "Ice becoming water — a living example of melting."
+      }
+    },
+    {
+      "id": "chem1_q203",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव के ठोस में बदलने की क्रिया क्या कहलाती है?",
+        "en": "What is the process of a liquid turning into a solid called?"
+      },
+      "options": {
+        "hi": [
+          "क्वथन",
+          "वाष्पीकरण",
+          "जमन (हिमायन)",
+          "पिघलन"
+        ],
+        "en": [
+          "Boiling",
+          "Evaporation",
+          "Freezing",
+          "Melting"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पानी का बर्फ बनना — जमन।",
+        "en": "Water becoming ice — freezing."
+      }
+    },
+    {
+      "id": "chem1_q204",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गैस के द्रव में बदलने की प्रक्रिया का नाम बताइए:",
+        "en": "State the name of the process of a gas turning into a liquid:"
+      },
+      "options": {
+        "hi": [
+          "पिघलन",
+          "उर्ध्वपातन",
+          "क्वथन",
+          "संघनन"
+        ],
+        "en": [
+          "Melting",
+          "Sublimation",
+          "Boiling",
+          "Condensation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "भाप का पानी बनना — संघनन।",
+        "en": "Steam becoming water — condensation."
+      }
+    },
+    {
+      "id": "chem1_q205",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "द्रव के गैस (भाप) में बदलने की तीव्र प्रक्रिया जो पूरे द्रव में होती है, क्या कहलाती है?",
+        "en": "What is the vigorous process of a liquid turning into gas (vapour) throughout the whole liquid called?"
+      },
+      "options": {
+        "hi": [
+          "क्वथन",
+          "जमन",
+          "संघनन",
+          "पिघलन"
+        ],
+        "en": [
+          "Boiling",
+          "Freezing",
+          "Condensation",
+          "Melting"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पूरे पानी में बुलबुलों के साथ भाप बनना — क्वथन।",
+        "en": "Vapour forming with bubbles throughout the water — boiling."
+      }
+    },
+    {
+      "id": "chem1_q206",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उर्ध्वपातन में ठोस किस अवस्था में बदलता है?",
+        "en": "In sublimation, into what does a solid change?"
+      },
+      "options": {
+        "hi": [
+          "किसी अवस्था में नहीं",
+          "सीधे गैस में",
+          "पहले द्रव, फिर गैस में",
+          "केवल द्रव में"
+        ],
+        "en": [
+          "Into no state",
+          "Directly into gas",
+          "First into liquid, then gas",
+          "Only into liquid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "उर्ध्वपातन = ठोस → गैस, बिना द्रव बने।",
+        "en": "Sublimation = solid → gas without becoming liquid."
+      }
+    },
+    {
+      "id": "chem1_q207",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उर्ध्वपातन का सामान्य घरेलू उदाहरण कौन-सा है?",
+        "en": "Which is a common household example of sublimation?"
+      },
+      "options": {
+        "hi": [
+          "लोहे की कील",
+          "नमक का घोल",
+          "नैफ्थलीन की गोलियाँ",
+          "पानी की बर्फ"
+        ],
+        "en": [
+          "An iron nail",
+          "A salt solution",
+          "Naphthalene balls",
+          "Ice of water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "नैफ्थलीन द्रव बने बिना सीधे गैस बनती है — धीरे-धीरे गोली गायब।",
+        "en": "Naphthalene turns straight into gas without liquefying — the ball slowly vanishes."
+      }
+    },
+    {
+      "id": "chem1_q208",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कपूर की गोली छोड़ने पर महीनों में बिना गीली हुए गायब हो जाती है। यह कौन-सी प्रक्रिया है?",
+        "en": "A camphor tablet left aside disappears in months without getting wet. Which process is this?"
+      },
+      "options": {
+        "hi": [
+          "पिघलन",
+          "संघनन",
+          "जमन",
+          "उर्ध्वपातन"
+        ],
+        "en": [
+          "Melting",
+          "Condensation",
+          "Freezing",
+          "Sublimation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ठोस कपूर सीधे गैस बनती है — उर्ध्वपातन।",
+        "en": "Solid camphor turns directly into gas — sublimation."
+      }
+    },
+    {
+      "id": "chem1_q209",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बर्फ का पानी बनना और पानी का भाप बनना — इन क्रमशः परिवर्तनों के नाम हैं:",
+        "en": "Ice turning into water and water turning into steam — the names of these changes respectively are:"
+      },
+      "options": {
+        "hi": [
+          "पिघलन और क्वथन",
+          "जमन और संघनन",
+          "संघनन और पिघलन",
+          "उर्ध्वपातन और जमन"
+        ],
+        "en": [
+          "Melting and boiling",
+          "Freezing and condensation",
+          "Condensation and melting",
+          "Sublimation and freezing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बर्फ → पानी = पिघलन; पानी → भाप = क्वथन।",
+        "en": "Ice → water = melting; water → steam = boiling."
+      }
+    },
+    {
+      "id": "chem1_q210",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भाप का पानी और पानी का बर्फ बनना — दोनों क्रियाओं के नाम क्रमशः हैं:",
+        "en": "Steam becoming water and water becoming ice — the names of the two processes respectively are:"
+      },
+      "options": {
+        "hi": [
+          "उर्ध्वपातन और पिघलन",
+          "संघनन और जमन",
+          "पिघलन और क्वथन",
+          "क्वथन और संघनन"
+        ],
+        "en": [
+          "Sublimation and melting",
+          "Condensation and freezing",
+          "Melting and boiling",
+          "Boiling and condensation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गैस → द्रव संघनन; द्रव → ठोस जमन।",
+        "en": "Gas → liquid condensation; liquid → solid freezing."
+      }
+    },
+    {
+      "id": "chem1_q211",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गर्मी में घी की डिब्बी में रखा घी द्रव बन जाता है और सर्दी में फिर ठोस। ये दोनों क्रमशः क्या हैं?",
+        "en": "In summer the ghee in a tin becomes liquid and in winter it turns solid again. What are these two respectively?"
+      },
+      "options": {
+        "hi": [
+          "क्वथन और संघनन",
+          "उर्ध्वपातन और क्वथन",
+          "पिघलन और जमन",
+          "जमन और पिघलन"
+        ],
+        "en": [
+          "Boiling and condensation",
+          "Sublimation and boiling",
+          "Melting and freezing",
+          "Freezing and melting"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मौसम के साथ घी पिघलता-जमता है — अवस्था परिवर्तन का रोज़ का नमूना।",
+        "en": "Ghee melts and freezes with the season — an everyday sample of change of state."
+      }
+    },
+    {
+      "id": "chem1_q212",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मोमबत्ती का जलता मोम गर्म होकर द्रव बन जाता है। यह कौन-सा परिवर्तन है?",
+        "en": "The burning candle's wax heats up and becomes liquid. Which change is this?"
+      },
+      "options": {
+        "hi": [
+          "संघनन",
+          "जमन",
+          "उर्ध्वपातन",
+          "पिघलन"
+        ],
+        "en": [
+          "Condensation",
+          "Freezing",
+          "Sublimation",
+          "Melting"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गर्मी से ठोस मोम द्रव बना — पिघलन।",
+        "en": "Heat turned the solid wax liquid — melting."
+      }
+    },
+    {
+      "id": "chem1_q213",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ढँकी हुई कढ़ाई के ढक्कन के भीतर की ओर पानी की छोटी बूँदें जमा हो जाती हैं। यह किस प्रक्रिया का परिणाम है?",
+        "en": "Small water drops collect on the inside of a covered pan's lid. This is the result of which process?"
+      },
+      "options": {
+        "hi": [
+          "संघनन",
+          "पिघलन",
+          "उर्ध्वपातन",
+          "जमन"
+        ],
+        "en": [
+          "Condensation",
+          "Melting",
+          "Sublimation",
+          "Freezing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बनने वाली भाप ठंडे ढक्कन से छूकर फिर द्रव बनती है — संघनन।",
+        "en": "The forming vapour touches the cool lid and turns liquid again — condensation."
+      }
+    },
+    {
+      "id": "chem1_q214",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रेफ्रिजरेटर में रखा पानी की छौनी का पानी ठोस बर्फ बन जाता है। क्रिया का नाम क्या है?",
+        "en": "The water in an ice tray kept in the refrigerator turns into solid ice. What is the process called?"
+      },
+      "options": {
+        "hi": [
+          "उर्ध्वपातन",
+          "जमन",
+          "क्वथन",
+          "वाष्पीकरण"
+        ],
+        "en": [
+          "Sublimation",
+          "Freezing",
+          "Boiling",
+          "Evaporation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ठंड से द्रव जल ठोस बर्फ बना — जमन।",
+        "en": "Cold turned the liquid water into solid ice — freezing."
+      }
+    },
+    {
+      "id": "chem1_q215",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सर्दी की रात पानी की टंकी का पानी बर्फ जम जाता है। पानी की अवस्था कैसे बदली?",
+        "en": "On a winter night the water in a tank freezes. How did the water's state change?"
+      },
+      "options": {
+        "hi": [
+          "द्रव से गैस (क्वथन)",
+          "गैस से द्रव (संघनन)",
+          "द्रव से ठोस (जमन)",
+          "ठोस से द्रव (पिघलन)"
+        ],
+        "en": [
+          "Liquid to gas (boiling)",
+          "Gas to liquid (condensation)",
+          "Liquid to solid (freezing)",
+          "Solid to liquid (melting)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "द्रव → ठोस की दिशा जमन की पहचान है।",
+        "en": "The liquid → solid direction is the very identity of freezing."
+      }
+    },
+    {
+      "id": "chem1_q216",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पिघलन में पदार्थ की अवस्था किस दिशा में बदलती है?",
+        "en": "In melting, in which direction does the substance's state change?"
+      },
+      "options": {
+        "hi": [
+          "द्रव → ठोस",
+          "गैस → द्रव",
+          "ठोस → गैस",
+          "ठोस → द्रव"
+        ],
+        "en": [
+          "Liquid → solid",
+          "Gas → liquid",
+          "Solid → gas",
+          "Solid → liquid"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पिघलन का एकमात्र रास्ता — ठोस से द्रव।",
+        "en": "Melting's only route — solid to liquid."
+      }
+    },
+    {
+      "id": "chem1_q217",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संघनन में अवस्था की दिशा क्या होती है?",
+        "en": "What is the direction of the state in condensation?"
+      },
+      "options": {
+        "hi": [
+          "गैस → द्रव",
+          "द्रव → गैस",
+          "ठोस → द्रव",
+          "द्रव → ठोस"
+        ],
+        "en": [
+          "Gas → liquid",
+          "Liquid → gas",
+          "Solid → liquid",
+          "Liquid → solid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "भाप का पानी बनना — गैस से द्रव की ओर।",
+        "en": "Steam becoming water — from gas toward liquid."
+      }
+    },
+    {
+      "id": "chem1_q218",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नैफ्थलीन की गोली कपड़ों में रखने पर धीरे-धीरे छोटी होती जाती है बिना गीली हुए। कारण-प्रक्रिया चुनिए:",
+        "en": "A naphthalene ball kept among clothes keeps getting smaller without becoming wet. Choose the cause-process:"
+      },
+      "options": {
+        "hi": [
+          "कपड़े उसे खा जाते हैं",
+          "वह द्रव बने बिना सीधे गैस में बदलती है (उर्ध्वपातन)",
+          "वह पानी में घुल जाती है",
+          "वह पिघलकर बह जाती है"
+        ],
+        "en": [
+          "The clothes eat it up",
+          "It changes straight into gas without becoming liquid (sublimation)",
+          "It dissolves in water",
+          "It melts and flows away"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आकार घटना = कण-दर-कण गैस बनकर उड़ना।",
+        "en": "Shrinking size = turning into gas particle by particle and escaping."
+      }
+    },
+    {
+      "id": "chem1_q219",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "भाप, पानी और बर्फ — तीनों में पदार्थ का वास्तविक अंतर क्या है?",
+        "en": "Steam, water and ice — what is the actual difference in the substance among the three?"
+      },
+      "options": {
+        "hi": [
+          "तीनों में कण अलग हैं",
+          "तीनों में द्रव्यमान अलग है",
+          "केवल अवस्था अलग है, पदार्थ (जल) वही है",
+          "तीनों अलग-अलग पदार्थ हैं"
+        ],
+        "en": [
+          "The particles differ in all three",
+          "The masses differ in all three",
+          "Only the state differs; the substance (water) is the same",
+          "All three are different substances"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक ही जल की तीन अवस्थाएँ — गैस, द्रव, ठोस।",
+        "en": "Three states of the same water — gas, liquid, solid."
+      }
+    },
+    {
+      "id": "chem1_q220",
+      "topic": "changes-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पानी को लगातार गर्म करने पर वह उबलकर किस अवस्था में बदलता है?",
+        "en": "On being heated continuously, into which state does water change by boiling?"
+      },
+      "options": {
+        "hi": [
+          "ठोस (बर्फ)",
+          "प्लाज़्मा",
+          "वही द्रव रहता है",
+          "गैस (भाप)"
+        ],
+        "en": [
+          "Solid (ice)",
+          "Plasma",
+          "It remains the same liquid",
+          "Gas (steam)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उबलते पानी से भाप बनती है — द्रव से गैस।",
+        "en": "Boiling water gives steam — liquid to gas."
+      }
+    },
+    {
+      "id": "chem1_q221",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अवस्था-परिवर्तनों और उनकी दिशाओं का गलत मिलान कौन-सा है?",
+        "en": "Which is the WRONG matching of the changes of state with their directions?"
+      },
+      "options": {
+        "hi": [
+          "संघनन — ठोस से गैस",
+          "पिघलन — ठोस से द्रव",
+          "जमन — द्रव से ठोस",
+          "क्वथन — द्रव से गैस"
+        ],
+        "en": [
+          "Condensation — solid to gas",
+          "Melting — solid to liquid",
+          "Freezing — liquid to solid",
+          "Boiling — liquid to gas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "संघनन गैस को द्रव बनाता है, ठोस को नहीं।",
+        "en": "Condensation turns a gas into a liquid, not a solid."
+      }
+    },
+    {
+      "id": "chem1_q222",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पिघलन और जमन एक दूसरे के क्या हैं?",
+        "en": "What are melting and freezing to each other?"
+      },
+      "options": {
+        "hi": [
+          "दोनों गैस बनाती हैं",
+          "विपरीत दिशा वाली क्रियाएँ",
+          "एक ही क्रिया के दो नाम",
+          "असंबंधित क्रियाएँ"
+        ],
+        "en": [
+          "Both turn matter into gas",
+          "Opposite-direction processes",
+          "Two names of one process",
+          "Unrelated processes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पिघलन ठोस को द्रव बनाता है, जमन उसी द्रव को ठोस — उलटी दिशाएँ।",
+        "en": "Melting takes solid to liquid; freezing takes that liquid back to solid — reverse directions."
+      }
+    },
+    {
+      "id": "chem1_q223",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्वथन और संघनन के बीच का संबंध क्या है?",
+        "en": "What is the relation between boiling and condensation?"
+      },
+      "options": {
+        "hi": [
+          "दोनों ठोस बनाते हैं",
+          "दोनों में कोई संबंध नहीं",
+          "एक दूसरे के विपरीत — क्वथन द्रव से गैस, संघनन गैस से द्रव",
+          "दोनों एक ही दिशा में होते हैं"
+        ],
+        "en": [
+          "Both make solids",
+          "The two are unrelated",
+          "Opposites of each other — boiling liquid to gas, condensation gas to liquid",
+          "Both occur in the same direction"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक बनाता है भाप, दूसरा उसे वापस पानी।",
+        "en": "One makes steam; the other brings it back to water."
+      }
+    },
+    {
+      "id": "chem1_q224",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल की यात्रा: बर्फ → जल → भाप। इस श्रृंखला में कौन-से दो परिवर्तन हुए?",
+        "en": "Water's journey: ice → water → steam. Which two changes occurred in this chain?"
+      },
+      "options": {
+        "hi": [
+          "जमन, फिर संघनन",
+          "संघनन, फिर पिघलन",
+          "उर्ध्वपातन, फिर जमन",
+          "पिघलन, फिर क्वथन"
+        ],
+        "en": [
+          "Freezing, then condensation",
+          "Condensation, then melting",
+          "Sublimation, then freezing",
+          "Melting, then boiling"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ठोस→द्रव पिघलन; द्रव→गैस क्वथन।",
+        "en": "Solid→liquid melting; liquid→gas boiling."
+      }
+    },
+    {
+      "id": "chem1_q225",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल की वापसी: भाप → जल → बर्फ। इस श्रृंखला में क्रियाओं का क्रम क्या है?",
+        "en": "Water's return: steam → water → ice. What is the order of the processes in this chain?"
+      },
+      "options": {
+        "hi": [
+          "संघनन, फिर जमन",
+          "क्वथन, फिर पिघलन",
+          "पिघलन, फिर संघनन",
+          "जमन, फिर उर्ध्वपातन"
+        ],
+        "en": [
+          "Condensation, then freezing",
+          "Boiling, then melting",
+          "Melting, then condensation",
+          "Freezing, then sublimation"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गैस→द्रव संघनन; द्रव→ठोस जमन।",
+        "en": "Gas→liquid condensation; liquid→solid freezing."
+      }
+    },
+    {
+      "id": "chem1_q226",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बर्फ के गिलास को वापस फ्रीजर में रखने पर उसका जल फिर बर्फ बन गया। पूरे चक्र में जल ने कौन-से रूप ओर क्रम से अपनाए?",
+        "en": "Putting the ice-glass back in the freezer, its water became ice again. In the full cycle, which forms did the water take, in order?"
+      },
+      "options": {
+        "hi": [
+          "गैस → ठोस → गैस",
+          "ठोस → द्रव → ठोस",
+          "द्रव → गैस → द्रव",
+          "ठोस → गैस → ठोस"
+        ],
+        "en": [
+          "Gas → solid → gas",
+          "Solid → liquid → solid",
+          "Liquid → gas → liquid",
+          "Solid → gas → solid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पिघलन के बाद जमन — जल का आ-जा चक्र।",
+        "en": "Melting followed by freezing — water's to-and-fro cycle."
+      }
+    },
+    {
+      "id": "chem1_q227",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ठंडी खिड़की के शीशे पर कमरे की भाप छोटी बूँदों में जमा दिखती है। यहाँ कौन-सा परिवर्तन हुआ?",
+        "en": "On a cold window pane the room's vapour is seen gathered as tiny drops. Which change occurred here?"
+      },
+      "options": {
+        "hi": [
+          "ठोस से द्रव — पिघलन",
+          "ठोस से गैस — उर्ध्वपातन",
+          "गैस से द्रव — संघनन",
+          "द्रव से गैस — क्वथन"
+        ],
+        "en": [
+          "Solid to liquid — melting",
+          "Solid to gas — sublimation",
+          "Gas to liquid — condensation",
+          "Liquid to gas — boiling"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ठंडे शीशे ने भाप को द्रव में बदल दिया।",
+        "en": "The cold pane converted the vapour into liquid."
+      }
+    },
+    {
+      "id": "chem1_q228",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चाय की भाप ऊपर चली जाती है और ऊपर ठंडी हवा मिलते ही छोटे जल-कण बन जाती है। यह कौन-सी क्रिया है?",
+        "en": "Tea's steam rises and, meeting cooler air, turns into tiny water particles. Which process is this?"
+      },
+      "options": {
+        "hi": [
+          "पिघलन",
+          "जमन",
+          "उर्ध्वपातन",
+          "संघनन"
+        ],
+        "en": [
+          "Melting",
+          "Freezing",
+          "Sublimation",
+          "Condensation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गर्म भाप + ठंडी हवा = वापस द्रव कण।",
+        "en": "Hot vapour + cool air = back to liquid particles."
+      }
+    },
+    {
+      "id": "chem1_q229",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्वथन के समय पूरे द्रव में बुलबुले कहाँ-कहाँ बनते हैं?",
+        "en": "During boiling, where all do the bubbles form in the liquid?"
+      },
+      "options": {
+        "hi": [
+          "पूरे द्रव में — भीतर भी, तल में भी",
+          "केवल सतह पर",
+          "केवल बर्तन के किनारों पर",
+          "कहीं नहीं बनते"
+        ],
+        "en": [
+          "Throughout the whole liquid — inside it and at the bottom too",
+          "Only at the surface",
+          "Only at the vessel's edges",
+          "They do not form anywhere"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "क्वथन पूरे द्रव की घटना है — इसीलिए हर ओर बुलबुले।",
+        "en": "Boiling is a whole-liquid event — hence bubbles everywhere."
+      }
+    },
+    {
+      "id": "chem1_q230",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म किए जा रहे एक शुद्ध पदार्थ के सामने तापमापी का रुककर स्थिर हो जाना बताता है कि —",
+        "en": "For a pure substance being heated, the thermometer pausing and holding steady indicates that —"
+      },
+      "options": {
+        "hi": [
+          "पदार्थ ठंडा होने लगा है",
+          "पदार्थ उस समय अवस्था-परिवर्तन (पिघलन या क्वथन) में है",
+          "गर्म करना बंद हो गया है",
+          "तापमापी खराब हो गया है"
+        ],
+        "en": [
+          "The substance has begun to cool",
+          "The substance is at that moment in a change of state (melting or boiling)",
+          "The heating has stopped",
+          "The thermometer has broken"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पिघलन-क्वथन के समय ताप स्थिर रहता है — यही स्थिरता उस प्रक्रिया की पहचान है।",
+        "en": "During melting and boiling the temperature stays steady — that steadiness is the signature of the process."
+      }
+    },
+    {
+      "id": "chem1_q231",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) उर्ध्वपातन में द्रव अवस्था की भूमिका नहीं होती। (ii) नैफ्थलीन और कपूर उर्ध्वपातन करने वाले ठोस हैं। सही विकल्प:",
+        "en": "Two statements: (i) In sublimation the liquid state plays no role. (ii) Naphthalene and camphor are solids that sublime. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "केवल (ii) सही",
+          "दोनों गलत",
+          "दोनों सही हैं",
+          "केवल (i) सही"
+        ],
+        "en": [
+          "Only (ii)",
+          "Both wrong",
+          "Both are correct",
+          "Only (i)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ठोस से सीधे गैस — बीच में द्रव नहीं।",
+        "en": "Solid straight to gas — no liquid in between."
+      }
+    },
+    {
+      "id": "chem1_q232",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आँगन में गिरी बर्फ दोपहर तक जल बन गई और शाम तक गीलापन सूख गया। जल ने कौन-सा क्रम दिखाया?",
+        "en": "Ice fallen in the courtyard turned into water by noon, and by evening the wetness dried up. What sequence did the water show?"
+      },
+      "options": {
+        "hi": [
+          "गैस → द्रव → ठोस",
+          "द्रव → ठोस → गैस",
+          "ठोस → गैस → द्रव",
+          "ठोस → द्रव → गैस"
+        ],
+        "en": [
+          "Gas → liquid → solid",
+          "Liquid → solid → gas",
+          "Solid → gas → liquid",
+          "Solid → liquid → gas"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पिघलन के बाद वाष्पीकरण — जल का ऊपर की ओर चक्र।",
+        "en": "Melting followed by evaporation — water's upward journey."
+      }
+    },
+    {
+      "id": "chem1_q233",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सुबह घास पर ओस की बूँदें दोपहर तक गायब रहती हैं। बूँदों के गायब होने का अवस्था-परिवर्तन क्या है?",
+        "en": "Dew drops on the morning grass are gone by noon. What is the state change of the drops' disappearance?"
+      },
+      "options": {
+        "hi": [
+          "द्रव से गैस (वाष्पीकरण)",
+          "गैस से द्रव (संघनन)",
+          "द्रव से ठोस (जमन)",
+          "ठोस से द्रव (पिघलन)"
+        ],
+        "en": [
+          "Liquid to gas (evaporation)",
+          "Gas to liquid (condensation)",
+          "Liquid to solid (freezing)",
+          "Solid to liquid (melting)"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बूँदें अदृश्य जल-कण बनकर उड़ीं।",
+        "en": "The drops flew off as invisible water particles."
+      }
+    },
+    {
+      "id": "chem1_q234",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नैफ्थलीन गोली के ऊपर कपड़े लंबे समय बंद रखने पर कपड़ों में उसकी गंध बस जाती है। इसके पीछे कौन-से दो तथ्य साथ चलते हैं?",
+        "en": "On keeping clothes over a naphthalene ball for long, its smell settles into the clothes. Which two facts work together behind this?"
+      },
+      "options": {
+        "hi": [
+          "संपीडन और प्रसार",
+          "उर्ध्वपातन (ठोस→गैस) और विसरण (गैस के कणों का फैलाव)",
+          "पिघलन और जमन",
+          "क्वथन और संघनन"
+        ],
+        "en": [
+          "Compression and expansion",
+          "Sublimation (solid→gas) and diffusion (the spreading of the gas's particles)",
+          "Melting and freezing",
+          "Boiling and condensation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पहले ठोस गैस बनी, फिर उसके कण कपड़ों तक विसरित हुए।",
+        "en": "First the solid became gas; then its particles diffused into the clothes."
+      }
+    },
+    {
+      "id": "chem1_q235",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म चाय के गिलास से उठने वाली 'धुंध' वास्तव में क्या है?",
+        "en": "What really is the 'haze' rising from a glass of hot tea?"
+      },
+      "options": {
+        "hi": [
+          "धुआँ जला हुआ",
+          "धूल के कण",
+          "छोटे द्रव जल-कण — भाप के ठंडी हवा से संघनित होने का रूप",
+          "शुद्ध गैस"
+        ],
+        "en": [
+          "Burnt smoke",
+          "Dust particles",
+          "Tiny liquid water particles — the form of vapour condensed by cooler air",
+          "A pure gas"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दिखने वाली धुंध संघनन की बनी है; अदृश्य भाप शुद्ध गैस है।",
+        "en": "The visible haze is made by condensation; the invisible vapour is the true gas."
+      }
+    },
+    {
+      "id": "chem1_q236",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन कथन: (i) पिघलन ठोस से द्रव की क्रिया है। (ii) संघनन गैस से द्रव की क्रिया है। (iii) जमन द्रव से गैस की क्रिया है। गलत कथन:",
+        "en": "Three statements: (i) Melting is solid to liquid. (ii) Condensation is gas to liquid. (iii) Freezing is liquid to gas. The wrong statement:"
+      },
+      "options": {
+        "hi": [
+          "कथन (i)",
+          "कथन (ii)",
+          "तीनों सही",
+          "कथन (iii)"
+        ],
+        "en": [
+          "Statement (i)",
+          "Statement (ii)",
+          "All three correct",
+          "Statement (iii)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जमन द्रव को ठोस बनाता है, गैस नहीं।",
+        "en": "Freezing makes a liquid solid, not gas."
+      }
+    },
+    {
+      "id": "chem1_q237",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक बर्फ की टिकिया ट्रे में पिघली और फिर वही जल फ्रीजर में जमा। दोनों क्रियाओं में जल के कणों के बीच क्या बदला?",
+        "en": "An ice cube melted in a tray and the same water froze again in the freezer. In both processes, what changed between the water's particles?"
+      },
+      "options": {
+        "hi": [
+          "कणों का आपसी बंधन — पिघलन में ढीला, जमन में कसा",
+          "कणों की संख्या",
+          "कणों का रंग",
+          "कणों का आकार"
+        ],
+        "en": [
+          "The particles' mutual binding — loosened in melting, tightened in freezing",
+          "The number of particles",
+          "The colour of the particles",
+          "The size of the particles"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अवस्था-बदलाव का इंजन कणों का बंधन है।",
+        "en": "The engine of state change is the particles' binding."
+      }
+    },
+    {
+      "id": "chem1_q238",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'नैफ्थलीन की गोली पिघलकर बहती है' — इस कथन की गलती क्या है?",
+        "en": "What is the error in the statement 'a naphthalene ball melts and flows away'?"
+      },
+      "options": {
+        "hi": [
+          "कथन पूर्णतः सही है",
+          "नैफ्थलीन पिघलती नहीं — वह सीधे गैस बनती है (उर्ध्वपातन)",
+          "नैफ्थलीन गैस नहीं बनती",
+          "नैफ्थलीन जल जाती है"
+        ],
+        "en": [
+          "The statement is fully correct",
+          "Naphthalene does not melt — it turns directly into gas (sublimation)",
+          "Naphthalene does not become gas",
+          "Naphthalene burns away"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गीला न बनना ही उर्ध्वपातन की पहचान है।",
+        "en": "Never turning wet is the very mark of sublimation."
+      }
+    },
+    {
+      "id": "chem1_q239",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उबलते दूध को उबाल के ठीक बाद गिलास में ढँककर रखा गया। ठंडा होने पर ढक्कन हटाने पर भीतर बूँदें दिखीं। इन बूँदों का स्रोत क्या था?",
+        "en": "Boiling milk was poured into a glass and covered just after. When cooled and uncovered, drops were seen inside. What was the source of these drops?"
+      },
+      "options": {
+        "hi": [
+          "काँच का पिघलना",
+          "दूध का जमना",
+          "दूध की भाप जो ढक्कन पर संघनित हुई",
+          "बाहर की हवा"
+        ],
+        "en": [
+          "Melting of the glass",
+          "Freezing of the milk",
+          "The milk's vapour that condensed on the lid",
+          "The outside air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वाष्प → ठंडा ढक्कन → बूँदें — संघनन की छोटी घटना।",
+        "en": "Vapour → cool lid → drops — a small event of condensation."
+      }
+    },
+    {
+      "id": "chem1_q240",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी ठोस पदार्थ को लगातार गर्म किया जा रहा है। उसके बदलते रूप का सही ताप-क्रम आधारित विवरण चुनिए (सामान्य ठोस, जो उर्ध्वपातन नहीं करता):",
+        "en": "A solid substance is being heated continuously. Choose the correct description of its changing form (an ordinary solid that does not sublime):"
+      },
+      "options": {
+        "hi": [
+          "ठोस → सीधे गैस",
+          "ठोस → गैस → द्रव",
+          "ठोस ठोस ही रहता है",
+          "ठोस → (पिघलकर) द्रव → (उबलकर) गैस"
+        ],
+        "en": [
+          "Solid → directly gas",
+          "Solid → gas → liquid",
+          "The solid remains solid",
+          "Solid → (melts into) liquid → (boils into) gas"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "साधारण ठोस का रास्ता द्रव से होकर ही गैस तक जाता है।",
+        "en": "An ordinary solid reaches gas only via the liquid."
+      }
+    },
+    {
+      "id": "chem1_q241",
+      "topic": "changes-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) बर्फ और भाप दोनों जल के ही रूप हैं। (ii) अवस्था बदलने पर जल के कण बदल जाते हैं। सही विकल्प:",
+        "en": "Two statements: (i) Ice and steam are both forms of water. (ii) On changing state, water's particles themselves change. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "(i) सही, (ii) गलत — कण वही रहते हैं, केवल बंधन बदलता है",
+          "दोनों सही",
+          "दोनों गलत",
+          "(i) गलत, (ii) सही"
+        ],
+        "en": [
+          "(i) correct, (ii) wrong — the particles remain the same; only the bonding changes",
+          "Both correct",
+          "Both wrong",
+          "(i) wrong, (ii) correct"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अवस्था-परिवर्तन कणों का नहीं, कणों के बंधन का खेल है।",
+        "en": "A change of state is a play of the particles' bonding, not of the particles."
+      }
+    },
+    {
+      "id": "chem1_q242",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी ठोस को गर्म करने पर वह द्रव बने बिना सीधे वाष्प बनने लगा। विद्यार्थी ने इसे पिघलन कहा। उसकी गलती स्पष्ट कीजिए:",
+        "en": "On heating, a solid began turning directly into vapour without becoming liquid. A student called it melting. Clarify his error:"
+      },
+      "options": {
+        "hi": [
+          "विद्यार्थी सही था",
+          "द्रव बने बिना गैस बनना उर्ध्वपातन है, पिघलन नहीं",
+          "वह क्वथन था",
+          "वह संघनन था"
+        ],
+        "en": [
+          "The student was right",
+          "Becoming gas without becoming liquid is sublimation, not melting",
+          "It was boiling",
+          "It was condensation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पिघलन के लिए द्रव-रूप अनिवार्य है; छलांग सीधी गैस में उर्ध्वपातन है।",
+        "en": "Melting requires the liquid form; a leap straight into gas is sublimation."
+      }
+    },
+    {
+      "id": "chem1_q243",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पाँच परिवर्तन — पिघलन, जमन, क्वथन, संघनन, उर्ध्वपातन — में से 'ठोस से जुड़ा' असामान्य निकल कौन-सा है और क्यों?",
+        "en": "Among the five changes — melting, freezing, boiling, condensation, sublimation — which is the unusual one linked to solids and why?"
+      },
+      "options": {
+        "hi": [
+          "जमन — क्योंकि यह गैस बनाता है",
+          "संघनन — क्योंकि यह ठोस बनाता है",
+          "उर्ध्वपातन — क्योंकि यह द्रव को छोड़कर सीधे ठोस से गैस बनाता है",
+          "पिघलन — क्योंकि यह ठोस बनाता है"
+        ],
+        "en": [
+          "Freezing — because it makes a gas",
+          "Condensation — because it makes a solid",
+          "Sublimation — because it makes gas straight from solid, skipping the liquid",
+          "Melting — because it makes a solid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चार परिवर्तन द्रव को स्पर्श करते हैं; उर्ध्वपातन द्रव को छलांग मारता है।",
+        "en": "Four changes touch the liquid; sublimation leaps over it."
+      }
+    },
+    {
+      "id": "chem1_q244",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीन कथन: (i) जमन में कणों का बंधन कसता है। (ii) पिघलन में कणों का बंधन ढीला होता है। (iii) किसी अवस्था-परिवर्तन में कण नष्ट नहीं होते। सही समूह:",
+        "en": "Three statements: (i) In freezing the particles' binding tightens. (ii) In melting the binding loosens. (iii) In no change of state are particles destroyed. The correct set:"
+      },
+      "options": {
+        "hi": [
+          "केवल (i) और (ii)",
+          "केवल (iii)",
+          "केवल (ii)",
+          "तीनों सही"
+        ],
+        "en": [
+          "Only (i) and (ii)",
+          "Only (iii)",
+          "Only (ii)",
+          "All three correct"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बंधन का कस-ढीला होना ही परिवर्तन है; कण सदा सुरक्षित।",
+        "en": "The tightening or loosening of binding is the change; the particles stay safe."
+      }
+    },
+    {
+      "id": "chem1_q245",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सोच-परीक्षण: यदि कोई पदार्थ उर्ध्वपातन न करता और उसका द्रव रूप भी न बनता, तो उसके गैस बनने का कोई मार्ग बचता है?",
+        "en": "Thought experiment: if a substance neither sublimed nor ever formed a liquid, would any path remain for it to become a gas?"
+      },
+      "options": {
+        "hi": [
+          "नहीं — गैस बनने के दोनों रास्ते (द्रव से क्वथन, ठोस से उर्ध्वपातन) बंद हो जाते",
+          "हाँ, जमकर",
+          "हाँ, संघनित होकर",
+          "हाँ, विसरण से"
+        ],
+        "en": [
+          "No — both routes to gas (boiling from liquid, subliming from solid) would be closed",
+          "Yes, by freezing",
+          "Yes, by condensing",
+          "Yes, by diffusing"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गैस के दो द्वार हैं — द्रव और सीधा ठोस; दोनों बंद तो द्वार नहीं।",
+        "en": "A gas has two doors — via liquid and straight from solid; close both and there is no door."
+      }
+    },
+    {
+      "id": "chem1_q246",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही बर्तन में बर्फ-जल मिश्रण लंबे समय तक रखा है। मिश्रण में बर्फ भी है और जल भी। इस स्थिति की कण-व्याख्या क्या है?",
+        "en": "An ice-water mixture has been kept in the same vessel for long. The mix holds both ice and water. What is the particle explanation of this state?"
+      },
+      "options": {
+        "hi": [
+          "यह उर्ध्वपातन की स्थिति है",
+          "पिघलन-बिंदु पर ठोस और द्रव दोनों साथ रह सकते हैं — कणों का एक भाग जकड़ा, दूसरा ढीला",
+          "बर्फ और जल अलग पदार्थ हैं",
+          "कण आधे गायब हो गए"
+        ],
+        "en": [
+          "This is a sublimation situation",
+          "At the melting point the solid and the liquid can coexist — one part of the particles locked, the other loose",
+          "Ice and water are different substances",
+          "Half the particles vanished"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "जहाँ ठोस द्रव में बदल रहा हो, वहाँ दोनों रूप साथ दिखते हैं।",
+        "en": "Where a solid is passing into liquid, both forms show up together."
+      }
+    },
+    {
+      "id": "chem1_q247",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'हर अवस्था-परिवर्तन उलटा भी संभव है' — इस कथन के अनुसार क्वथन का उलटा और पिघलन का उलटा क्रमशः हैं:",
+        "en": "'Every change of state is reversible too' — per this statement, the reverse of boiling and the reverse of melting respectively are:"
+      },
+      "options": {
+        "hi": [
+          "उर्ध्वपातन और क्वथन",
+          "क्वथन और पिघलन",
+          "संघनन और जमन",
+          "जमन और संघनन"
+        ],
+        "en": [
+          "Sublimation and boiling",
+          "Boiling and melting",
+          "Condensation and freezing",
+          "Freezing and condensation"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गैस→द्रव संघनन (क्वथन का उलटा); द्रव→ठोस जमन (पिघलन का उलटा)।",
+        "en": "Gas→liquid condensation (boiling's reverse); liquid→solid freezing (melting's reverse)."
+      }
+    },
+    {
+      "id": "chem1_q248",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "उर्ध्वपातन करते ठोस के कण 'गायब' कहाँ जाते हैं? सही निष्कर्ष चुनिए:",
+        "en": "Where do the particles of a subliming solid 'disappear' to? Choose the correct conclusion:"
+      },
+      "options": {
+        "hi": [
+          "वे नष्ट हो जाते हैं",
+          "वे बर्तन में रह जाते हैं",
+          "वे ठोस में ही सिकुड़ जाते हैं",
+          "वे वायु में गैस-कणों के रूप में मिल जाते हैं — नष्ट नहीं होते"
+        ],
+        "en": [
+          "They are destroyed",
+          "They remain in the vessel",
+          "They shrink back into the solid",
+          "They join the air as gas particles — they are not destroyed"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अदृश्य होना गायब होना नहीं — कण वायु में विलीन।",
+        "en": "Becoming invisible is not becoming nothing — the particles merge into the air."
+      }
+    },
+    {
+      "id": "chem1_q249",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक बंद जार में नैफ्थलीन की कुछ गोलियाँ रखी हैं। महीनों बाद गोलियाँ छोटी हो गईं और जार खोलने पर भीतर गंध थी। इससे निकलने वाले दो निष्कर्ष क्या हैं?",
+        "en": "Some naphthalene balls are kept in a sealed jar. Months later the balls shrank and the jar smelled of naphthalene on opening. What two conclusions follow?"
+      },
+      "options": {
+        "hi": [
+          "(1) गोलियों ने उर्ध्वपातन किया; (2) बनी गैस बंद जार में फैलकर रह गई",
+          "(1) गोलियाँ पिघलीं; (2) जार में पानी आ गया",
+          "(1) गोलियाँ जमीं; (2) जार ठंडा था",
+          "(1) गोलियाँ घुलीं; (2) जार में घोल बना"
+        ],
+        "en": [
+          "(1) The balls sublimed; (2) the gas formed stayed spread inside the sealed jar",
+          "(1) The balls melted; (2) water entered the jar",
+          "(1) The balls froze; (2) the jar was cold",
+          "(1) The balls dissolved; (2) a solution formed in the jar"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "छोटी गोलियाँ + बंद जार की गंध = उर्ध्वपातन और गैस का बंद स्थान घेरना।",
+        "en": "Shrunken balls + smell in a sealed jar = sublimation and the gas occupying the closed space."
+      }
+    },
+    {
+      "id": "chem1_q250",
+      "topic": "changes-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अवस्था-परिवर्तन की दिशाओं का नक्शा बनाएँ: ठोस-द्रव-गैस तीन स्टेशन हैं। इस नक्शे पर 'गैस से ठोस सीधे' जाने वाला कोई मार्ग बताइए (जैसा ऊपर पाँचों में नहीं गिनाया गया) —",
+        "en": "Let us map the directions of change of state: solid-liquid-gas are three stations. On this map, state whether any direct 'gas to solid' route was counted among the five named above —"
+      },
+      "options": {
+        "hi": [
+          "हाँ — उर्ध्वपातन वही है",
+          "नहीं — पाँचों में गैस से ठोस सीधा रास्ता सूचीबद्ध नहीं है; गैस पहले द्रव बनती है",
+          "हाँ — जमन वही है",
+          "हाँ — पिघलन वही है"
+        ],
+        "en": [
+          "Yes — sublimation is that route",
+          "No — among the five, no direct gas-to-solid route is listed; a gas becomes liquid first",
+          "Yes — freezing is that route",
+          "Yes — melting is that route"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हमारी सूची के पाँच दरवाज़े हैं; गैस→ठोस सीधा दरवाज़ा उसमें नहीं है।",
+        "en": "Our list has five doors; a direct gas→solid door is not among them."
+      }
+    },
+    {
+      "id": "chem1_q251",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण किस सतह से होता है?",
+        "en": "From which surface does evaporation take place?"
+      },
+      "options": {
+        "hi": [
+          "बर्तन की तली से ही",
+          "कहीं से नहीं",
+          "केवल द्रव की खुली सतह से",
+          "द्रव के भीतर से"
+        ],
+        "en": [
+          "Only from the vessel's bottom",
+          "From nowhere",
+          "Only from the liquid's open surface",
+          "From inside the liquid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वाष्पीकरण सतही घटना है — ऊपरी कण ही उड़ते हैं।",
+        "en": "Evaporation is a surface event — only the top particles escape."
+      }
+    },
+    {
+      "id": "chem1_q252",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गर्मी में आँगन में पानी के छींटे लगाने से ठंडक क्यों मिलती है?",
+        "en": "Why does sprinkling water in the courtyard bring coolness in summer?"
+      },
+      "options": {
+        "hi": [
+          "पानी आँगन को ढक लेता है",
+          "पानी गर्म हो जाता है",
+          "पानी बर्फ बन जाता है",
+          "पानी वाष्पीकरण होते हुए ठंडक देता है"
+        ],
+        "en": [
+          "The water covers the courtyard",
+          "The water heats up",
+          "The water turns to ice",
+          "The water, evaporating, gives coolness"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "छींटों का वाष्पीकरण ही ठंडक का कारण है।",
+        "en": "The evaporation of the sprinkled droplets is the cause of the coolness."
+      }
+    },
+    {
+      "id": "chem1_q253",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण के चार कारकों में से एक कौन-सा है?",
+        "en": "Which one of these is among the four factors of evaporation?"
+      },
+      "options": {
+        "hi": [
+          "ताप (गर्मी)",
+          "बर्तन का रंग",
+          "द्रव की गंध",
+          "कमरे की ऊँचाई"
+        ],
+        "en": [
+          "Temperature (heat)",
+          "The vessel's colour",
+          "The liquid's smell",
+          "The room's height"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चार कारक — ताप, सतही क्षेत्रफल, वायु गति, आर्द्रता।",
+        "en": "The four factors — temperature, surface area, wind speed, humidity."
+      }
+    },
+    {
+      "id": "chem1_q254",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण के कारकों में 'सतही क्षेत्रफल' का अर्थ है —",
+        "en": "Among the factors of evaporation, 'surface area' means —"
+      },
+      "options": {
+        "hi": [
+          "द्रव का रंग",
+          "द्रव की खुली सतह का फैलाव",
+          "द्रव की गहराई",
+          "बर्तन की ऊँचाई"
+        ],
+        "en": [
+          "The liquid's colour",
+          "The spread of the liquid's open surface",
+          "The liquid's depth",
+          "The vessel's height"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सतह जितनी फैली, उतने ज्यादा कण उड़ने के मौके पर।",
+        "en": "The wider the surface, the more particles get the chance to escape."
+      }
+    },
+    {
+      "id": "chem1_q255",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण के कारकों में 'वायु गति' का अर्थ है —",
+        "en": "Among the factors of evaporation, 'wind speed' means —"
+      },
+      "options": {
+        "hi": [
+          "हवा का रंग",
+          "हवा की गंध",
+          "हवा के बहने की चाल",
+          "हवा की दिशा"
+        ],
+        "en": [
+          "The colour of the air",
+          "The smell of the air",
+          "The pace at which the air blows",
+          "The direction of the air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बहती हवा की चाल ही वायु-गति कारक है।",
+        "en": "The pace of the blowing air is the wind-speed factor."
+      }
+    },
+    {
+      "id": "chem1_q256",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आर्द्रता का अर्थ है —",
+        "en": "Humidity means —"
+      },
+      "options": {
+        "hi": [
+          "हवा की गति",
+          "हवा का रंग",
+          "हवा का ताप",
+          "हवा में जल-कणों (भाप) की मात्रा"
+        ],
+        "en": [
+          "The speed of the wind",
+          "The colour of the air",
+          "The temperature of the air",
+          "The amount of water particles (vapour) in the air"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जितनी अधिक आर्द्रता, हवा में उतने ज्यादा जल-कण।",
+        "en": "The more the humidity, the more water particles in the air."
+      }
+    },
+    {
+      "id": "chem1_q257",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन-सा वाष्पीकरण का कारक नहीं है?",
+        "en": "Which of the following is NOT a factor of evaporation?"
+      },
+      "options": {
+        "hi": [
+          "बर्तन का रंग",
+          "ताप",
+          "वायु गति",
+          "आर्द्रता"
+        ],
+        "en": [
+          "The vessel's colour",
+          "Temperature",
+          "Wind speed",
+          "Humidity"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "चार कारक — ताप, सतही क्षेत्रफल, वायु गति, आर्द्रता; रंग इनमें नहीं।",
+        "en": "Four factors — temperature, surface area, wind speed, humidity; colour is not among them."
+      }
+    },
+    {
+      "id": "chem1_q258",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण में द्रव का कौन-सा कण सबसे पहले उड़ता है?",
+        "en": "In evaporation, which particles of the liquid escape first?"
+      },
+      "options": {
+        "hi": [
+          "तल में दबे कण",
+          "सतह पर पहुँचे और पर्याप्त तेज कण",
+          "सबसे ठंडे कण",
+          "सबसे बड़े कण"
+        ],
+        "en": [
+          "Those pressed at the bottom",
+          "Those on the surface and sufficiently fast",
+          "The coldest particles",
+          "The largest particles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तेज गति वाले ऊपरी कण ही बंधन तोड़कर भाग पाते हैं।",
+        "en": "Only the fast-moving upper particles break the binding and escape."
+      }
+    },
+    {
+      "id": "chem1_q259",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खुले गिलास का पानी बिना उबाले धीरे-धीरे घटता जाता है। यह किस प्रक्रिया से होता है?",
+        "en": "Water in an open glass slowly reduces without boiling. By which process does this happen?"
+      },
+      "options": {
+        "hi": [
+          "जमन",
+          "उर्ध्वपातन",
+          "वाष्पीकरण (सतह से कणों का उड़ना)",
+          "क्वथन"
+        ],
+        "en": [
+          "Freezing",
+          "Sublimation",
+          "Evaporation (particles escaping from the surface)",
+          "Boiling"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बिना उबाल भी सतह के कण उड़ते रहते हैं।",
+        "en": "Even without boiling, the surface particles keep escaping."
+      }
+    },
+    {
+      "id": "chem1_q260",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण केवल गर्मियों में ही होता है — यह कथन सही है?",
+        "en": "Evaporation occurs only in summers — is this statement correct?"
+      },
+      "options": {
+        "hi": [
+          "हाँ, केवल गर्मी में",
+          "हाँ, केवल दोपहर में",
+          "हाँ, केवल रेगिस्तान में",
+          "नहीं, यह किसी भी ताप पर हो सकता है, गर्मी में तेज होता है"
+        ],
+        "en": [
+          "Yes, only in summer",
+          "Yes, only at noon",
+          "Yes, only in deserts",
+          "No, it can occur at any temperature; it is faster in summer"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वाष्पीकरण किसी भी ताप पर चलता है — ताप बढ़ने से केवल गति बढ़ती है।",
+        "en": "Evaporation runs at any temperature — heat only raises its pace."
+      }
+    },
+    {
+      "id": "chem1_q261",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ताप बढ़ने पर वाष्पीकरण की गति का क्या होता है?",
+        "en": "What happens to the rate of evaporation when temperature rises?"
+      },
+      "options": {
+        "hi": [
+          "बढ़ जाती है",
+          "घट जाती है",
+          "शून्य हो जाती है",
+          "उलट जाती है"
+        ],
+        "en": [
+          "It increases",
+          "It decreases",
+          "It becomes zero",
+          "It reverses"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गर्मी में कण तेज दौड़ते हैं — उड़ने वाले बढ़ जाते हैं।",
+        "en": "In heat the particles race faster — more of them escape."
+      }
+    },
+    {
+      "id": "chem1_q262",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बरसात के दिन (अधिक आर्द्रता) वाष्पीकरण की गति कैसी रहती है?",
+        "en": "On a rainy day (high humidity), how does the rate of evaporation remain?"
+      },
+      "options": {
+        "hi": [
+          "बढ़ जाती है",
+          "धीमी रहती है",
+          "बहुत तेज",
+          "शून्य नहीं, पर अधिकतम"
+        ],
+        "en": [
+          "It increases",
+          "It remains slow",
+          "Very fast",
+          "Not zero, but maximum"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हवा में पहले से भाप भरी हो तो नए कणों की जगह कम।",
+        "en": "With the air already full of vapour, there is less room for new particles."
+      }
+    },
+    {
+      "id": "chem1_q263",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण होते समय द्रव की अवस्था किसमें बदल रही होती है?",
+        "en": "During evaporation, into what is the liquid's state changing?"
+      },
+      "options": {
+        "hi": [
+          "द्रव से ठोस",
+          "ठोस से गैस",
+          "द्रव से गैस",
+          "गैस से द्रव"
+        ],
+        "en": [
+          "Liquid to solid",
+          "Solid to gas",
+          "Liquid to gas",
+          "Gas to liquid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जल के कण भाप के कण बनते हैं।",
+        "en": "The water particles become vapour particles."
+      }
+    },
+    {
+      "id": "chem1_q264",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गर्मी की दोपहर छत पर पानी डालने से नीचे कमरे को राहत मिलती है। मुख्य कारण क्या है?",
+        "en": "Pouring water on the roof in a hot afternoon gives relief to the room below. What is the main reason?"
+      },
+      "options": {
+        "hi": [
+          "पानी का छत में सोख लिया जाना",
+          "पानी का बर्फ बनना",
+          "बादलों का आ जाना",
+          "छत के पानी का वाष्पीकरण करते हुए ठंडक देना"
+        ],
+        "en": [
+          "The water getting absorbed into the roof",
+          "The water turning to ice",
+          "The clouds arriving",
+          "The roof's water, while evaporating, gives coolness"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वाष्पीकरण की ठंडक ही छत-वाले कमरे की राहत है।",
+        "en": "Evaporation's coolness is the relief for the room under the roof."
+      }
+    },
+    {
+      "id": "chem1_q265",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "आर्द्रता मुख्यतः किस अवस्था में मौजूद जल-कणों से बनती है?",
+        "en": "Humidity is formed mainly from water particles present in which state?"
+      },
+      "options": {
+        "hi": [
+          "गैस (भाप)",
+          "ठोस (बर्फ)",
+          "द्रव की बड़ी बूँदें",
+          "किसी अवस्था में नहीं"
+        ],
+        "en": [
+          "Gas (vapour)",
+          "Solid (ice)",
+          "Big drops of liquid",
+          "In no state"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हवा में घुली भाप के जल-कण ही आर्द्रता हैं।",
+        "en": "The water particles of vapour mixed in the air are the humidity."
+      }
+    },
+    {
+      "id": "chem1_q266",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पानी के छींटों से मिली ठंडक तभी तक बनी रहती है, जब तक —",
+        "en": "The coolness from water sprinkles stays only as long as —"
+      },
+      "options": {
+        "hi": [
+          "फर्श गीला नहीं होता",
+          "छिड़के जल का वाष्पीकरण होता रहता है",
+          "जल जमा रहता है",
+          "जल उबलता रहता है"
+        ],
+        "en": [
+          "The floor is not wet",
+          "The sprinkled water keeps evaporating",
+          "The water stays frozen",
+          "The water keeps boiling"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ठंडक वाष्पीकरण के साथ आती है और वाष्पीकरण के साथ ही टिकती है।",
+        "en": "The coolness comes with evaporation and lasts only as long as evaporation does."
+      }
+    },
+    {
+      "id": "chem1_q267",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गर्मी के दिनों में तालाब का जल-स्तर अपने आप नीचे चला जाता है। जल का क्या हुआ?",
+        "en": "In summer days a pond's water level goes down on its own. What happened to the water?"
+      },
+      "options": {
+        "hi": [
+          "पूरा जल मिट्टी में रिस गया",
+          "जल ने रंग बदल दिया",
+          "वाष्पीकरण से जल-कण वायु में गैस बनकर उड़ गए",
+          "जल तली में बर्फ बन गया"
+        ],
+        "en": [
+          "The whole water seeped into the soil",
+          "The water changed colour",
+          "By evaporation the water particles flew off into the air as gas",
+          "The water turned to ice at the bottom"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खुली बड़ी सतह से जल-कण लगातार भाप बनते रहते हैं।",
+        "en": "From the big open surface the water particles keep turning into vapour."
+      }
+    },
+    {
+      "id": "chem1_q268",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण हो जाने के बाद जल के कण कहाँ रहते हैं?",
+        "en": "After evaporation has happened, where do the water's particles remain?"
+      },
+      "options": {
+        "hi": [
+          "बर्तन में ही ठोस बनकर",
+          "जल में वापस आ जाते हैं",
+          "नष्ट हो जाते हैं",
+          "वायु में भाप (गैस) के रूप में"
+        ],
+        "en": [
+          "In the vessel itself, turned solid",
+          "They come back into the water",
+          "They are destroyed",
+          "In the air as vapour (gas)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "उड़े कण गायब नहीं होते — वे वायु में मिल जाते हैं।",
+        "en": "The escaped particles are not lost — they join the air."
+      }
+    },
+    {
+      "id": "chem1_q269",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धुले कपड़े सूख रहे हैं; उनके बगल में खड़ा व्यक्ति हल्की ठंडक महसूस करता है। कारण?",
+        "en": "Washed clothes are drying; a person standing right beside them feels a slight coolness. Why?"
+      },
+      "options": {
+        "hi": [
+          "कपड़ों के जल-कण वाष्पीकरण होकर उड़ रहे हैं",
+          "कपड़े पंखे की तरह हवा कर रहे हैं",
+          "कपड़े गर्म हो गए हैं",
+          "कपड़ों में बर्फ भरी है"
+        ],
+        "en": [
+          "The clothes' water particles are evaporating away",
+          "The clothes are fanning the air",
+          "The clothes have become hot",
+          "The clothes are packed with ice"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वाष्पीकरण की ठंडक समीप भी महसूस होती है।",
+        "en": "Evaporation's coolness is felt close by as well."
+      }
+    },
+    {
+      "id": "chem1_q270",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "छिड़काव के बाद तेज हवा चलने लगी और फर्श का जल जल्दी सूख गया। कौन-सा कारक काम आया?",
+        "en": "After sprinkling, a strong wind began and the floor's water dried quickly. Which factor helped?"
+      },
+      "options": {
+        "hi": [
+          "बर्तन की ऊँचाई",
+          "वायु गति",
+          "आर्द्रता",
+          "जल का रंग"
+        ],
+        "en": [
+          "The vessel's height",
+          "Wind speed",
+          "Humidity",
+          "The water's colour"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बहती हवा ने भाप के कणों को उड़ाया — वाष्पीकरण तेज हुआ।",
+        "en": "The blowing air swept off the vapour particles — evaporation quickened."
+      }
+    },
+    {
+      "id": "chem1_q271",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "माँ ने धोकर गीली चादर को सिकोड़ने के बजाय पूरी फैला दी। वाष्पीकरण के किस कारक का उपयोग हुआ?",
+        "en": "Mother spread the washed wet sheet fully instead of bunching it up. Which factor of evaporation was used?"
+      },
+      "options": {
+        "hi": [
+          "आर्द्रता",
+          "वायु दाब",
+          "सतही क्षेत्रफल — फैली सतह से ज्यादा वाष्पीकरण",
+          "ताप"
+        ],
+        "en": [
+          "Humidity",
+          "Air pressure",
+          "Surface area — a spread-out surface evaporates more",
+          "Temperature"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फैली चादर की सतह बड़ी — उड़ने वाले जल-कण ज्यादा।",
+        "en": "The spread sheet's surface is larger — more water particles escape."
+      }
+    },
+    {
+      "id": "chem1_q272",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मी में घर के आगे गूँज (बोरी) पर पानी छिड़कने से हवा ठंडी लगती है। इस युक्ति का वैज्ञानिक आधार चुनिए:",
+        "en": "In summer, sprinkling water on the jute sacks before the house makes the breeze feel cool. Choose the scientific basis of this trick:"
+      },
+      "options": {
+        "hi": [
+          "गूँज का बर्फ बनना",
+          "गूँज का पिघलना",
+          "पानी का घर में जाना",
+          "गूँज के पानी का वाष्पीकरण — बहती हवा के साथ ठंडक घर तक"
+        ],
+        "en": [
+          "The sacks turning to ice",
+          "Melting of the sacks",
+          "The water entering the house",
+          "Evaporation of the sacks' water — the coolness travels home with the breeze"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "छिड़काव + हवा = वाष्पीकरण + ठंडक का प्रवाह।",
+        "en": "Sprinkling + breeze = evaporation + a flow of coolness."
+      }
+    },
+    {
+      "id": "chem1_q273",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो कथन: (i) वायु गति बढ़ने से वाष्पीकरण तेज होता है। (ii) आर्द्रता बढ़ने से वाष्पीकरण तेज होता है। सही विकल्प:",
+        "en": "Two statements: (i) Greater wind speed quickens evaporation. (ii) Greater humidity quickens evaporation. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "(i) सही, (ii) गलत",
+          "दोनों सही",
+          "दोनों गलत",
+          "(i) गलत, (ii) सही"
+        ],
+        "en": [
+          "(i) correct, (ii) wrong",
+          "Both correct",
+          "Both wrong",
+          "(i) wrong, (ii) correct"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हवा तेज करती है, आर्द्रता धीमी — दोनों उलट दिशा में।",
+        "en": "Wind speeds it up; humidity slows it — the two act oppositely."
+      }
+    },
+    {
+      "id": "chem1_q274",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही मात्रा का पानी चाय की प्लेट (थाली) में और काँच के गिलास में रखा। किसमें वाष्पीकरण तेज चलेगा और क्यों?",
+        "en": "The same quantity of water is kept in a saucer and in a glass. In which will evaporation run faster and why?"
+      },
+      "options": {
+        "hi": [
+          "निर्भर नहीं करता",
+          "थाली में — खुली सतह बड़ी, सतही क्षेत्रफल का लाभ",
+          "गिलास में — गहराई का लाभ",
+          "दोनों में समान"
+        ],
+        "en": [
+          "It does not depend",
+          "The saucer — its open surface is larger, the benefit of surface area",
+          "The glass — the benefit of depth",
+          "The same in both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "थाली की फैली सतह ज्यादा कणों को उड़ने देती है।",
+        "en": "The saucer's spread surface lets more particles escape."
+      }
+    },
+    {
+      "id": "chem1_q275",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आर्द्र (नम) हवा में वाष्पीकरण धीमा क्यों हो जाता है? कण-दृष्टि से कारण चुनिए:",
+        "en": "Why does evaporation slow down in humid (moist) air? Choose the reason from the particle viewpoint:"
+      },
+      "options": {
+        "hi": [
+          "जल-कण बड़े हो जाते हैं",
+          "हवा जहरीली हो जाती है",
+          "हवा के कणों के बीच पहले से भाप के कण भरे होते हैं — नए जल-कणों के लिए अंतराल कम",
+          "हवा के कण सो जाते हैं"
+        ],
+        "en": [
+          "The water particles grow large",
+          "The air becomes poisonous",
+          "The air's particles are already crowded with vapour particles — little room for new water particles",
+          "The air's particles fall asleep"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "भरी सब्जी-मंडी में नई सब्जी कहाँ रखें — आर्द्र हवा वैसी ही है।",
+        "en": "Where would new vegetables fit in an already-full mandi — humid air is just like that."
+      }
+    },
+    {
+      "id": "chem1_q276",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म दिन में ठंडी रात की तुलना में खुले पानी की सतह से कण ज्यादा तेजी से उड़ते हैं। कारण-श्रृंखला चुनिए:",
+        "en": "On a hot day, particles escape from an open water surface faster than on a cold night. Choose the cause-chain:"
+      },
+      "options": {
+        "hi": [
+          "अधिक ताप → कण भारी → कम उड़ते हैं",
+          "अधिक ताप → सतह छोटी",
+          "अधिक ताप → आर्द्रता बढ़ती",
+          "अधिक ताप → कणों की गति तेज → अधिक कण बंधन तोड़कर उड़ते हैं"
+        ],
+        "en": [
+          "Higher temperature → heavier particles → fewer escape",
+          "Higher temperature → smaller surface",
+          "Higher temperature → humidity rises",
+          "Higher temperature → faster particle motion → more particles break the binding and escape"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ताप-गति-पलायन की यही कड़ी वाष्पीकरण का तर्क है।",
+        "en": "This chain of temperature-motion-escape is the logic of evaporation."
+      }
+    },
+    {
+      "id": "chem1_q277",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कुछ लोग मानते हैं कि छींटों से ठंडक इसलिए मिलती है क्योंकि पाइप का जल 'पहले से ठंडा' होता है। इस धारणा की गलती क्या है?",
+        "en": "Some people believe sprinkles give coolness because the pipe's water is 'already cold'. What is the error in this belief?"
+      },
+      "options": {
+        "hi": [
+          "ठंडक जल के पहले से ठंडे होने से नहीं, बल्कि जल के वाष्पीकरण की प्रक्रिया से आती है",
+          "पाइप का जल वास्तव में गर्म होता है",
+          "छींटे गर्मी बढ़ाते हैं",
+          "यह धारणा पूर्णतः सही है"
+        ],
+        "en": [
+          "The coolness comes not from the water being cold beforehand, but from the process of the water's evaporation",
+          "The pipe's water is actually hot",
+          "Sprinkles raise the heat",
+          "The belief is fully correct"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "साधारण ताप का जल भी वाष्पीकरण होते ही ठंडक देता है — स्रोत प्रक्रिया है, जल का ताप नहीं।",
+        "en": "Even ordinary-temperature water gives coolness upon evaporating — the source is the process, not the water's temperature."
+      }
+    },
+    {
+      "id": "chem1_q278",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वाष्पीकरण के चारों कारक — ताप, सतही क्षेत्रफल, वायु गति, आर्द्रता — में से कौन-सा कारक वाष्पीकरण को 'घटा' देता है (बढ़ाने के बजाय)?",
+        "en": "Of the four factors of evaporation — temperature, surface area, wind speed, humidity — which one reduces evaporation (instead of raising it)?"
+      },
+      "options": {
+        "hi": [
+          "वायु गति (बढ़ने पर)",
+          "आर्द्रता (बढ़ने पर)",
+          "ताप (बढ़ने पर)",
+          "सतही क्षेत्रफल (बढ़ने पर)"
+        ],
+        "en": [
+          "Wind speed (when it rises)",
+          "Humidity (when it rises)",
+          "Temperature (when it rises)",
+          "Surface area (when it grows)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तीन कारक बढ़ाते हैं, एक (आर्द्रता) बढ़ने पर घटाता है।",
+        "en": "Three factors raise it; one (humidity) lowers it as it grows."
+      }
+    },
+    {
+      "id": "chem1_q279",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मी में मिट्टी के फर्श पर पानी छिड़ककर झाड़ू लगाया जाता है। इसका दोहरा वैज्ञानिक हेतु क्या है?",
+        "en": "In summer, water is sprinkled on the earthen floor before sweeping. What is the twin scientific purpose?"
+      },
+      "options": {
+        "hi": [
+          "फर्श रंगना + चमक",
+          "पानी बचाना + भट्ठी",
+          "धूल बंधना + वाष्पीकरण से ठंडक",
+          "फर्श गलाना + गर्मी"
+        ],
+        "en": [
+          "Colouring the floor + shine",
+          "Saving water + a furnace",
+          "Settling the dust + coolness from evaporation",
+          "Melting the floor + heat"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "छिड़काव एक तीर से दो निशाने — धूल और गर्मी।",
+        "en": "One sprinkling, two targets — dust and heat."
+      }
+    },
+    {
+      "id": "chem1_q280",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मियों में दरवाज़ों पर खस-खस की तट्टियाँ गीली करके लटकाई जाती हैं; उनसे आती हवा ठंडी लगती है। वैज्ञानिक आधार चुनिए:",
+        "en": "In summers, vetiver screens are hung wet on doorways; the breeze coming through them feels cool. Choose the scientific basis:"
+      },
+      "options": {
+        "hi": [
+          "तट्टी का बर्फ बन जाना",
+          "खस की गंध से ठंडक",
+          "तट्टी हवा को रोक देती है",
+          "तट्टी के जल का वाष्पीकरण — ठंडक हवा के साथ भीतर आती है"
+        ],
+        "en": [
+          "The screen turning to ice",
+          "Coolness from vetiver's fragrance",
+          "The screen blocks the air",
+          "Evaporation of the screen's water — the coolness enters with the breeze"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गीली तट्टी वाष्पीकरण की सतह बनती है; हवा ठंडक को भीतर लाती है।",
+        "en": "The wet screen becomes a surface for evaporation; the wind brings the coolness inside."
+      }
+    },
+    {
+      "id": "chem1_q281",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही द्रव की दो प्लेटें — एक धूप में, एक छाया में। किसमें वाष्पीकरण तेज और किस कारक से?",
+        "en": "Two plates of the same liquid — one in sunlight, one in shade. In which is evaporation faster, and by which factor?"
+      },
+      "options": {
+        "hi": [
+          "धूप वाली में — ताप कारक से",
+          "छाया वाली में — आर्द्रता से",
+          "दोनों समान",
+          "छाया वाली में — वायु गति से"
+        ],
+        "en": [
+          "The one in sunlight — by the temperature factor",
+          "The one in shade — by humidity",
+          "Both equal",
+          "The one in shade — by wind speed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धूप का ताप कण-गति बढ़ाता है — वाष्पीकरण तेज।",
+        "en": "The sun's heat raises particle motion — faster evaporation."
+      }
+    },
+    {
+      "id": "chem1_q282",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तीन कथन: (i) वाष्पीकरण किसी भी ताप पर हो सकता है। (ii) खुली सतह जितनी बड़ी होगी, वाष्पीकरण उतना तेज होगा। (iii) आर्द्रता बढ़ने से वाष्पीकरण घटता है। सही समूह:",
+        "en": "Three statements: (i) Evaporation can occur at any temperature. (ii) The bigger the open surface, the faster the evaporation. (iii) With rising humidity, evaporation falls. The correct set:"
+      },
+      "options": {
+        "hi": [
+          "केवल (iii)",
+          "तीनों सही",
+          "केवल (i) और (iii)",
+          "केवल (ii)"
+        ],
+        "en": [
+          "Only (iii)",
+          "All three correct",
+          "Only (i) and (iii)",
+          "Only (ii)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "तीनों कथन ताप, सतही क्षेत्रफल और आर्द्रता — तीन कारकों के शुद्ध विवरण हैं।",
+        "en": "All three statements are accurate descriptions of three factors — temperature, surface area and humidity."
+      }
+    },
+    {
+      "id": "chem1_q283",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पानी भरी टंकी को ढँक देने पर जल कब तक बचा रहता है? अर्थात ढकने से वाष्पीकरण पर क्या असर पड़ता है?",
+        "en": "Covering a water tank keeps the water lasting longer. That is, what effect does covering have on evaporation?"
+      },
+      "options": {
+        "hi": [
+          "ढकने से जल जमता है",
+          "कोई असर नहीं",
+          "ढकने से खुली सतह समाप्त — वाष्पीकरण लगभग रुक जाता है",
+          "ढकने से वाष्पीकरण तेज होता है"
+        ],
+        "en": [
+          "Covering freezes the water",
+          "No effect",
+          "Covering ends the open surface — evaporation nearly stops",
+          "Covering quickens evaporation"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जहाँ सतह नहीं, वहाँ सतही प्रक्रिया नहीं।",
+        "en": "No open surface, no surface process."
+      }
+    },
+    {
+      "id": "chem1_q284",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मी में पशुओं को पानी के छींटे पड़ते रहने से उन्हें राहत मिलती है। वाष्पीकरण-तर्क चुनिए:",
+        "en": "In summer, animals get relief when water sprinkles keep falling on them. Choose the evaporation logic:"
+      },
+      "options": {
+        "hi": [
+          "जल पशुओं का रंग बदलता है",
+          "जल उनमें उर्ध्वपातन करता है",
+          "जल द्रव्यमान बढ़ाता है",
+          "शरीर पर जल की परत का वाष्पीकरण होता रहता है और ठंडक बनी रहती है"
+        ],
+        "en": [
+          "The water changes their colour",
+          "The water sublimes on them",
+          "The water increases their mass",
+          "The layer of water on the body keeps evaporating and the coolness persists"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "छींटे = लगातार वाष्पीकरण = लगातार ठंडक।",
+        "en": "Sprinkles = continuous evaporation = continuous coolness."
+      }
+    },
+    {
+      "id": "chem1_q285",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खुली छत पर फैली गिली दरी किन दो कारकों का एक साथ लाभ उठाती है?",
+        "en": "A wet mat spread on an open roof exploits which two factors together?"
+      },
+      "options": {
+        "hi": [
+          "बड़ा सतही क्षेत्रफल + खुली हवा की गति",
+          "आर्द्रता + दाब",
+          "रंग + गंध",
+          "गहराई + घनत्व"
+        ],
+        "en": [
+          "A large surface area + the speed of open air",
+          "Humidity + pressure",
+          "Colour + smell",
+          "Depth + density"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फैलाव सतह देता है, खुली छत वायु-गति — दोनों कारक साथ।",
+        "en": "Spreading gives surface; the open roof gives wind — both factors together."
+      }
+    },
+    {
+      "id": "chem1_q286",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही गीला तौलिया दो रूपों में — (क) धूप में पूरा फैला, (ख) छाया में सिकुड़ा। वाष्पीकरण किसमें तेज और किन दो कारकों से?",
+        "en": "The same wet towel in two arrangements — (a) fully spread in sun, (b) crumpled in shade. In which is evaporation faster, and by which two factors?"
+      },
+      "options": {
+        "hi": [
+          "(ख) में — छाया ठंडक देती है",
+          "(क) में — ताप और सतही क्षेत्रफल दोनों का लाभ",
+          "(ख) में — आर्द्रता का लाभ",
+          "दोनों में समान"
+        ],
+        "en": [
+          "In (b) — shade gives coolness",
+          "In (a) — the benefit of both temperature and surface area",
+          "In (b) — the benefit of humidity",
+          "The same in both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धूप ताप बढ़ाती है और फैलाव सतह बढ़ाता है — दोनों ही कारक (क) के पक्ष में।",
+        "en": "Sun raises the temperature and spreading raises the surface — both factors favour (a)."
+      }
+    },
+    {
+      "id": "chem1_q287",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म रेगिस्तान में पानी को मिट्टी के सूखे बर्तन (सूराही जैसा) में रखा जाता है। बर्तन की सतह से पानी का धीमा रिसाव क्या देता है?",
+        "en": "In a hot desert, water is kept in an unglazed earthen vessel (like a surahi). What does the slow seepage of water from the vessel's surface provide?"
+      },
+      "options": {
+        "hi": [
+          "पानी का उबलना",
+          "पानी का गलना",
+          "लगातार वाष्पीकरण और ठंडा पानी",
+          "पानी का जमना"
+        ],
+        "en": [
+          "Boiling of the water",
+          "Melting of the water",
+          "Continuous evaporation and cool water",
+          "Freezing of the water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रिसे पानी की सतह बनती है — वाष्पीकरण — ठंडक।",
+        "en": "The seeped water makes a surface — evaporation — coolness."
+      }
+    },
+    {
+      "id": "chem1_q288",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मी में हाथ-मुँह धोकर बिना पोंछे छोड़ देने पर त्वचा ठंडी महसूस होती है। कारण-क्रम चुनिए:",
+        "en": "In summer, washing hands and face and leaving them unwiped makes the skin feel cool. Choose the cause-order:"
+      },
+      "options": {
+        "hi": [
+          "जल त्वचा में रुक जाता है → गर्मी",
+          "जल उबल जाता है",
+          "जल जम जाता है",
+          "त्वचा के जल-कण वाष्पीकरण होकर उड़ते हैं → ठंडक"
+        ],
+        "en": [
+          "The water stays in the skin → heat",
+          "The water boils",
+          "The water freezes",
+          "The skin's water particles evaporate away → coolness"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धोना + न छूना = वाष्पीकरण का जीता जाना।",
+        "en": "Washing + not wiping = letting evaporation win."
+      }
+    },
+    {
+      "id": "chem1_q289",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक बाल्टी पानी को दो दिन तक छोड़ दिया गया। जल थोड़ा घटा, पर बाल्टी का तल गीला ही रहा। यहाँ कौन-सा कारक वाष्पीकरण को सीमित रख रहा था?",
+        "en": "A bucket of water was left for two days. The water lessened a little, yet the bucket's base stayed wet. Which factor kept the evaporation limited here?"
+      },
+      "options": {
+        "hi": [
+          "छोटा सतही क्षेत्रफल — बाल्टी का मुँह ही एकमात्र खुली सतह",
+          "ताप बहुत अधिक था",
+          "वायु गति शून्य थी और ताप भी — यह असंभव है",
+          "जल गायब हो गया"
+        ],
+        "en": [
+          "The small surface area — the bucket's mouth is the only open surface",
+          "The temperature was too high",
+          "Both wind and temperature were zero — impossible",
+          "The water vanished"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गहरे बर्तन की सतह छोटी — वाष्पीकरण भी सीमित।",
+        "en": "A deep vessel's surface is small — so is its evaporation."
+      }
+    },
+    {
+      "id": "chem1_q290",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन: 'वाष्पीकरण केवल तब होता है जब द्रव उबलने लगे।' इस कथन का सही निर्णय कीजिए:",
+        "en": "Statement: 'Evaporation happens only when the liquid begins to boil.' Judge this statement correctly:"
+      },
+      "options": {
+        "hi": [
+          "सही — केवल द्रवों में",
+          "गलत — वाष्पीकरण उबाल से पहले भी, बिना उबाले भी होता रहता है",
+          "सही — उबाल जरूरी है",
+          "आंशिक सही — केवल गर्मियों में"
+        ],
+        "en": [
+          "Correct — only in liquids",
+          "Wrong — evaporation goes on before boiling and without boiling",
+          "Correct — boiling is necessary",
+          "Partly right — only in summers"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खुला जल बिना उबाले घटता है — यही प्रतिदिन का प्रमाण है।",
+        "en": "Open water reduces without boiling — everyday proof."
+      }
+    },
+    {
+      "id": "chem1_q291",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वाष्पीकरण के चार कारक वाले समूह का सही चयन कीजिए:",
+        "en": "Choose the correct selection of the group of the four factors of evaporation:"
+      },
+      "options": {
+        "hi": [
+          "द्रव्यमान, आयतन, घनत्व, दाब",
+          "लंबाई, चौड़ाई, ऊँचाई, गहराई",
+          "ताप, सतही क्षेत्रफल, वायु गति, आर्द्रता",
+          "रंग, गंध, स्वाद, चमक"
+        ],
+        "en": [
+          "Mass, volume, density, pressure",
+          "Length, breadth, height, depth",
+          "Temperature, surface area, wind speed, humidity",
+          "Colour, smell, taste, shine"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "यही चौकड़ी वाष्पीकरण की दर तय करती है।",
+        "en": "This quartet alone decides the rate of evaporation."
+      }
+    },
+    {
+      "id": "chem1_q292",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मी के दिन सड़क पर पानी छिड़कने वाली गाड़ी गुजरती है। छिड़काव के तुरंत बाद के कुछ मिनटों में हवा में क्या बदलाव महसूस होता है और क्यों?",
+        "en": "A water-sprinkling truck passes on a summer road. What change is felt in the air during the few minutes right after, and why?"
+      },
+      "options": {
+        "hi": [
+          "गर्मी — जल के गर्म होने से",
+          "बदबू — जल के गंध लेने से",
+          "अंधेरा — भाप के बादल से",
+          "हल्की ठंडक — छिड़के जल के वाष्पीकरण के कारण"
+        ],
+        "en": [
+          "Heat — from the water warming up",
+          "Stench — from the water picking up smells",
+          "Darkness — from clouds of vapour",
+          "A slight coolness — due to the evaporation of the sprinkled water"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "सड़क का छिड़काव भी वही पुराना नियम — वाष्पीकरण से ठंडक।",
+        "en": "Road sprinkling follows the same old rule — coolness by evaporation."
+      }
+    },
+    {
+      "id": "chem1_q293",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तीन कथन: (i) वाष्पीकरण की प्रक्रिया ठंडक देती है। (ii) वाष्पीकरण की दर चार कारकों पर निर्भर करती है। (iii) वाष्पीकरण केवल बरसात के दिनों में होता है। गलत कथन:",
+        "en": "Three statements: (i) The process of evaporation gives coolness. (ii) The rate of evaporation depends on four factors. (iii) Evaporation occurs only on rainy days. The wrong statement:"
+      },
+      "options": {
+        "hi": [
+          "कथन (iii) — गर्मी में तो वाष्पीकरण और तेज होता है",
+          "कथन (i)",
+          "कथन (ii)",
+          "तीनों सही"
+        ],
+        "en": [
+          "Statement (iii) — in heat evaporation actually becomes faster",
+          "Statement (i)",
+          "Statement (ii)",
+          "All three correct"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बरसात की आर्द्रता तो वाष्पीकरण को धीमा करती है; यह कभी 'केवल-बरसात' क्रिया नहीं।",
+        "en": "Rainy-day humidity actually slows evaporation; it is never a rainy-days-only process."
+      }
+    },
+    {
+      "id": "chem1_q294",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "सोच-परीक्षण: वायु गति नाम का कारक हटा दिया जाए (हवा पूर्णतः रुक जाए), तो खुले पानी के वाष्पीकरण पर सबसे तार्किक असर क्या होगा?",
+        "en": "Thought experiment: if the factor called wind speed is removed (the air becomes perfectly still), what is the most logical effect on the evaporation of open water?"
+      },
+      "options": {
+        "hi": [
+          "कोई असर नहीं",
+          "वाष्पीकरण धीमा पड़ जाएगा — सतह के ऊपर जमा भाप के कण वापस द्रव में आने की संभावना बढ़ जाएगी",
+          "वाष्पीकरण पूरी तरह बंद हो जाएगा",
+          "वाष्पीकरण तेज हो जाएगा"
+        ],
+        "en": [
+          "No effect",
+          "Evaporation would slow — the vapour particles gathered above the surface would stand more chance of returning to the liquid",
+          "Evaporation would stop entirely",
+          "Evaporation would quicken"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बहती हवा भाप को हटाती है; रुकी हवा में भाप सिर पर बैठती है।",
+        "en": "Moving air carries vapour off; in still air the vapour sits overhead."
+      }
+    },
+    {
+      "id": "chem1_q295",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो कथन: (i) वाष्पीकरण में उड़ने वाले कण औसत कणों से अधिक गतिमान होते हैं। (ii) इसीलिए बचे द्रव की दशा में ठंडक आती है। सही विकल्प:",
+        "en": "Two statements: (i) The particles escaping in evaporation are more mobile than the average particles. (ii) That is why the remaining liquid's state brings coolness. The correct option:"
+      },
+      "options": {
+        "hi": [
+          "केवल (ii) सही",
+          "दोनों गलत",
+          "दोनों सही हैं",
+          "केवल (i) सही"
+        ],
+        "en": [
+          "Only (ii)",
+          "Both wrong",
+          "Both are correct",
+          "Only (i)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तेज कण निकले, धीमे बचे — बचे हुए का समूह ठंडा।",
+        "en": "The fast ones left, the slow stayed — the leftover crowd is cooler."
+      }
+    },
+    {
+      "id": "chem1_q296",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक व्यापारी गर्म दिन में सब्ज़ियों पर बराबर पानी छिड़कता रहता है। इस अर्थव्यवस्था में वाष्पीकरण के दो लाभ एक साथ काम कर रहे हैं — चुनिए:",
+        "en": "A vendor keeps sprinkling water on vegetables on a hot day. In this economy, two benefits of evaporation work together — choose them:"
+      },
+      "options": {
+        "hi": [
+          "सब्जियाँ उबालना + जमाना",
+          "रंग बदलना + गंध लगाना",
+          "वजन घटाना + सुखाना",
+          "ठंडक बनाए रखना + मुरझाने से बचाव (सतह गीली रहती है)"
+        ],
+        "en": [
+          "Boiling and freezing the vegetables",
+          "Changing colour and adding smell",
+          "Reducing weight and drying",
+          "Keeping coolness + protection from wilting (the surface stays moist)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "छिड़काव की ठंडक और नमी — दोनों वाष्पीकरण की मित्रता से।",
+        "en": "The sprinkle's coolness and moisture — both from the friendship of evaporation."
+      }
+    },
+    {
+      "id": "chem1_q297",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गर्मी में घर के अंदरूनी आँगन में छिड़काव से ठंडक बाहर की तुलना में ज्यादा देर टिकती है। वाष्पीकरण के कारकों में से किसकी मौजूदगी यहाँ निर्णायक है?",
+        "en": "In summer, the coolness from sprinkling inside the courtyard lasts longer than outside. Which of the evaporation factors is decisive in its presence here?"
+      },
+      "options": {
+        "hi": [
+          "भीतर वायु गति कम — भाप धीरे-धीरे बनती है और ठंडक देर तक",
+          "भीतर ताप अधिक",
+          "भीतर सतही क्षेत्रफल अधिक",
+          "भीतर आर्द्रता शून्य"
+        ],
+        "en": [
+          "Inside, the wind speed is low — the vapour forms slowly and the coolness lasts",
+          "Inside, the temperature is higher",
+          "Inside, the surface area is larger",
+          "Inside, the humidity is zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धीमी वायु = धीमा, लंबा वाष्पीकरण = देर तक ठंडक।",
+        "en": "Slower wind = slower, longer evaporation = coolness that lasts."
+      }
+    },
+    {
+      "id": "chem1_q298",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चार परिस्थितियाँ: (क) धूप + हवा (ख) धूप + रुकी हवा (ग) छाया + हवा (घ) छाया + रुकी हवा। वाष्पीकरण सबसे तेज किसमें होगा?",
+        "en": "Four situations: (a) sun + wind (b) sun + still air (c) shade + wind (d) shade + still air. In which will evaporation be fastest?"
+      },
+      "options": {
+        "hi": [
+          "(घ)",
+          "(क) धूप + हवा — ताप और वायु गति दोनों कारक साथ",
+          "(ख)",
+          "(ग)"
+        ],
+        "en": [
+          "(d)",
+          "(a) sun + wind — the two factors of temperature and wind speed together",
+          "(b)",
+          "(c)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दो तेज़ कारकों का मिलन ही सबसे तेज़ वाष्पीकरण देता है।",
+        "en": "The union of two strong factors gives the fastest evaporation."
+      }
+    },
+    {
+      "id": "chem1_q299",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "'छींटों से ठंडक' और 'छाया से ठंडक' — दोनों में वैज्ञानिक आधार की दृष्टि से अंतर स्पष्ट कीजिए:",
+        "en": "'Coolness from sprinkles' vs 'coolness from shade' — clarify the difference from the viewpoint of the scientific basis:"
+      },
+      "options": {
+        "hi": [
+          "दोनों बर्फ से",
+          "दोनों हवा से",
+          "छींटों की ठंडक वाष्पीकरण से (जल की प्रक्रिया), छाया की ठंडक सूर्य-ताप से बचने से (गर्मी का न आना)",
+          "दोनों वाष्पीकरण से"
+        ],
+        "en": [
+          "Both from ice",
+          "Both from air",
+          "The sprinkles' coolness is from evaporation (a process of water); the shade's coolness is from avoiding the sun's heat (heat not arriving)",
+          "Both from evaporation"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एक ठंडक प्रक्रिया से आती है, दूसरी गर्मी के अनुपस्थित रहने से।",
+        "en": "One coolness comes from a process; the other from heat's absence."
+      }
+    },
+    {
+      "id": "chem1_q300",
+      "topic": "evaporation-and-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वाष्पीकरण की दर बढ़ाने वाले तीन कारक और उसे घटाने वाले एक कारक का संतुलित विवरण कौन-सा है?",
+        "en": "Which is the balanced description of the three factors that raise the rate of evaporation and the one factor that lowers it?"
+      },
+      "options": {
+        "hi": [
+          "बढ़ाते हैं — आर्द्रता, दाब, रंग; घटाता है — ताप",
+          "बढ़ाते हैं — चारों कारक",
+          "घटाते हैं — चारों कारक",
+          "बढ़ाते हैं — ताप, सतही क्षेत्रफल, वायु गति; घटाता है — आर्द्रता (बढ़ने पर)"
+        ],
+        "en": [
+          "Raisers — humidity, pressure, colour; reducer — temperature",
+          "All four factors raise it",
+          "All four factors lower it",
+          "Raisers — temperature, surface area, wind speed; reducer — humidity (when it rises)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "तीन तेज़ करते हैं, एक धीमा — यही संतुलन याद रखने योग्य है।",
+        "en": "Three quicken it, one slows — this balance is worth remembering."
+      }
+    }
+  ]
+}

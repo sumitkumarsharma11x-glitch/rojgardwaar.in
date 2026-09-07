@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "ch10_q1001",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अंतःस्रावी तंत्र मुख्यतः किन संरचनाओं से मिलकर बना है?",
+        "en": "What structures mainly make up the endocrine system?"
+      },
+      "options": {
+        "hi": [
+          "अंतःस्रावी ग्रंथियों से",
+          "केवल हड्डियों से",
+          "केवल नसों से",
+          "केवल रुधिर वाहिकाओं से"
+        ],
+        "en": [
+          "Endocrine glands",
+          "Only bones",
+          "Only nerves",
+          "Only blood vessels"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पिट्यूटरी, थायरॉइड, अधिवृक्क जैसी ग्रंथियाँ मिलकर शरीर की रासायनिक दूत-प्रणाली बनाती हैं।",
+        "en": "Glands like the pituitary, thyroid and adrenal together form the body's chemical courier system."
+      }
+    },
+    {
+      "id": "ch10_q1002",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हार्मोन किसे कहते हैं?",
+        "en": "What are hormones?"
+      },
+      "options": {
+        "hi": [
+          "पाचक रस",
+          "ग्रंथियों द्वारा स्रावित रासायनिक संदेशवाहक",
+          "रुधिर की लाल कोशिकाएँ",
+          "नसों की बिजली"
+        ],
+        "en": [
+          "Digestive juices",
+          "Chemical messengers secreted by glands",
+          "Red cells of blood",
+          "The nerves' electricity"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हार्मोन ग्रंथियों से निकलकर रक्त के सहारे लक्ष्य-अंगों तक आदेश पहुँचाने वाले रसायन हैं।",
+        "en": "Hormones are chemicals released by glands that carry orders to target organs riding the bloodstream."
+      }
+    },
+    {
+      "id": "ch10_q1003",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'मास्टर ग्रंथि' किस अंतःस्रावी ग्रंथि को कहा जाता है?",
+        "en": "Which endocrine gland is called the 'master gland'?"
+      },
+      "options": {
+        "hi": [
+          "अधिवृक्क",
+          "अग्न्याशय",
+          "पिट्यूटरी",
+          "थायरॉइड"
+        ],
+        "en": [
+          "Adrenal",
+          "Pancreas",
+          "Pituitary",
+          "Thyroid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पिट्यूटरी कई अन्य ग्रंथियों की सक्रियता तय करती है — इसीलिए उसे मास्टर ग्रंथि कहते हैं।",
+        "en": "The pituitary decides the activity of several other glands — hence the title master gland."
+      }
+    },
+    {
+      "id": "ch10_q1004",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "थायरॉक्सिन हार्मोन किस ग्रंथि द्वारा स्रावित होता है?",
+        "en": "Which gland secretes the hormone thyroxine?"
+      },
+      "options": {
+        "hi": [
+          "यकृत",
+          "गुर्दा",
+          "प्लीहा",
+          "थायरॉइड ग्रंथि"
+        ],
+        "en": [
+          "Liver",
+          "Kidney",
+          "Spleen",
+          "The thyroid gland"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गले में स्थित थायरॉइड ग्रंथि थायरॉक्सिन बनाती है।",
+        "en": "The thyroid gland, seated in the neck, makes thyroxine."
+      }
+    },
+    {
+      "id": "ch10_q1005",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एड्रेनालिन हार्मोन किस ग्रंथि से निकलता है?",
+        "en": "From which gland does the hormone adrenaline come?"
+      },
+      "options": {
+        "hi": [
+          "अधिवृक्क ग्रंथि से",
+          "पिट्यूटरी से",
+          "थायरॉइड से",
+          "अग्न्याशय से"
+        ],
+        "en": [
+          "The adrenal gland",
+          "The pituitary",
+          "The thyroid",
+          "The pancreas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गुर्दों के ऊपर बैठी अधिवृक्क ग्रंथि आपात-क्षणों में एड्रेनालिन उड़ेलती है।",
+        "en": "The adrenal gland, perched atop the kidneys, pours out adrenaline in moments of emergency."
+      }
+    },
+    {
+      "id": "ch10_q1006",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "इंसुलिन हार्मोन का निर्माण कहाँ होता है?",
+        "en": "Where is the hormone insulin produced?"
+      },
+      "options": {
+        "hi": [
+          "हृदय में",
+          "अग्न्याशय में",
+          "आँख में",
+          "फेफड़ों में"
+        ],
+        "en": [
+          "In the heart",
+          "In the pancreas",
+          "In the eye",
+          "In the lungs"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अग्न्याशय की अंतःस्रावी कोशिकाएँ इंसुलिन बनाकर रक्त में छोड़ती हैं।",
+        "en": "The endocrine cells of the pancreas make insulin and release it into blood."
+      }
+    },
+    {
+      "id": "ch10_q1007",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "टेस्टोस्टेरोन हार्मोन मुख्यतः किससे स्रावित होता है?",
+        "en": "The hormone testosterone is secreted mainly by what?"
+      },
+      "options": {
+        "hi": [
+          "गुर्दों से",
+          "आमाशय से",
+          "वृषणों से",
+          "अंडाशयों से"
+        ],
+        "en": [
+          "The kidneys",
+          "The stomach",
+          "The testes",
+          "The ovaries"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लड़कों में वृषण टेस्टोस्टेरोन बनाते हैं — यौवन के परिवर्तन इसी की छत्रछाया में आते हैं।",
+        "en": "In boys the testes make testosterone — the changes of puberty arrive under its umbrella."
+      }
+    },
+    {
+      "id": "ch10_q1008",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एस्ट्रोजन हार्मोन मुख्यतः किस ग्रंथि से मिलता है?",
+        "en": "Which gland mainly supplies the hormone oestrogen?"
+      },
+      "options": {
+        "hi": [
+          "वृषण से",
+          "थायरॉइड से",
+          "अधिवृक्क से",
+          "अंडाशय से"
+        ],
+        "en": [
+          "The testes",
+          "The thyroid",
+          "The adrenal",
+          "The ovary"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लड़कियों में अंडाशय एस्ट्रोजन स्रावित करते हैं — स्त्री-यौवन के सूत्रधार।",
+        "en": "In girls the ovaries secrete oestrogen — the helmsman of female puberty."
+      }
+    },
+    {
+      "id": "ch10_q1009",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अंतःस्रावी ग्रंथियों के परिवार में थायरॉइड का दर्जा क्या है?",
+        "en": "What rank does the thyroid hold in the family of endocrine glands?"
+      },
+      "options": {
+        "hi": [
+          "सबसे बड़ी अंतःस्रावी ग्रंथि",
+          "सबसे छोटी ग्रंथि",
+          "अंतिम दर्जे की ग्रंथि",
+          "बिल्कुल अनुपस्थित ग्रंथि"
+        ],
+        "en": [
+          "The largest endocrine gland",
+          "The smallest gland",
+          "A last-rank gland",
+          "An altogether absent gland"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "थायरॉइड अंतःस्रावी श्रेणी की सबसे बड़ी ग्रंथि है — स्मरण रहे, शरीर की सबसे बड़ी ग्रंथि (यकृत) इसी सूची में नहीं, क्योंकि वह बाह्यस्रावी भी है।",
+        "en": "The thyroid is the largest gland of the endocrine class — remember, the body's largest gland (liver) is not on this list since it is exocrine too."
+      }
+    },
+    {
+      "id": "ch10_q1010",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'नलीहीन ग्रंथि' (ductless gland) का क्या अर्थ है?",
+        "en": "What does a 'ductless gland' mean?"
+      },
+      "options": {
+        "hi": [
+          "जो केवल पाचन में काम आती है",
+          "जो स्राव सीधे रक्त में छोड़ती है",
+          "जिसमें स्राव की नली होती है",
+          "जो कभी स्राव नहीं करती"
+        ],
+        "en": [
+          "One used only in digestion",
+          "One that pours its secretion straight into blood",
+          "One that has a duct for its secretion",
+          "One that never secretes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अंतःस्रावी ग्रंथियाँ नली नहीं रखतीं — उनका हार्मोन सीधा रक्त-प्रवाह में उतरता है।",
+        "en": "Endocrine glands keep no duct — their hormone drops straight into the bloodstream."
+      }
+    },
+    {
+      "id": "ch10_q1011",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पिट्यूटरी ग्रंथि शरीर में कहाँ स्थित है?",
+        "en": "Where is the pituitary gland located in the body?"
+      },
+      "options": {
+        "hi": [
+          "पेट के बीच में",
+          "घुटनों के पास",
+          "मस्तिष्क के ठीक नीचे",
+          "हृदय के ऊपर"
+        ],
+        "en": [
+          "In the middle of the abdomen",
+          "Near the knees",
+          "Just below the brain",
+          "Above the heart"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मस्तिष्क के नीचे लटकती छोटी-सी पिट्यूटरी पूरे अंतःस्रावी जगत की केंद्र-कुर्सी है।",
+        "en": "A tiny pituitary hangs below the brain — the centrestage chair of the whole endocrine world."
+      }
+    },
+    {
+      "id": "ch10_q1012",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अधिवृक्क (एड्रेनल) ग्रंथियाँ कहाँ पाई जाती हैं?",
+        "en": "Where are the adrenal glands found?"
+      },
+      "options": {
+        "hi": [
+          "फेफड़ों के अंदर",
+          "आँखों के पीछे",
+          "जीभ के नीचे",
+          "प्रत्येक गुर्दे के ऊपर"
+        ],
+        "en": [
+          "Inside the lungs",
+          "Behind the eyes",
+          "Under the tongue",
+          "Atop each kidney"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नाम ही कह देता है — अधि + वृक्क, यानी गुर्दे की टोपी जैसे ऊपर बैठी ग्रंथियाँ।",
+        "en": "The name itself tells — ad + renal, glands sitting cap-like above the kidneys."
+      }
+    },
+    {
+      "id": "ch10_q1013",
+      "topic": "endocrine-system",
+      "difficulty": "easy",
+      "question": {
+        "hi": "इंसुलिन का मुख्य कार्य क्या है?",
+        "en": "What is the chief function of insulin?"
+      },
+      "options": {
+        "hi": [
+          "रक्त में शर्करा के स्तर को नियंत्रित रखना",
+          "भोजन पचाना",
+          "शरीर का रंग बदलना",
+          "हड्डियाँ जोड़ना"
+        ],
+        "en": [
+          "Keeping the blood sugar level controlled",
+          "Digesting food",
+          "Changing the body's colour",
+          "Joining bones"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "इंसुलिन रक्त की अतिरिक्त शर्करा को कम करता है — शर्करा-थर्मोस्टैट की तरह।",
+        "en": "Insulin reins in excess blood sugar — like a sugar-thermostat of the blood."
+      }
+    },
+    {
+      "id": "ch10_q1014",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पिट्यूटरी को मास्टर ग्रंथि क्यों कहा जाता है?",
+        "en": "Why is the pituitary called the master gland?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह पाचन करती है",
+          "क्योंकि वह अनेक अन्य ग्रंथियों की सक्रियता नियंत्रित करती है",
+          "क्योंकि वह सबसे भारी अंग है",
+          "क्योंकि वह रुधिर बनाती है"
+        ],
+        "en": [
+          "Because it digests food",
+          "Because it controls the activity of many other glands",
+          "Because it is the heaviest organ",
+          "Because it makes blood"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "थायरॉइड, अधिवृक्क और योनि-ग्रंथियों की धुन पिट्यूटरी के इशारों पर चलती है।",
+        "en": "The thyroid, adrenals and sex glands dance to the pituitary's signals."
+      }
+    },
+    {
+      "id": "ch10_q1015",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "थायरॉक्सिन का प्रमुख कार्य क्या है?",
+        "en": "What is the principal work of thyroxine?"
+      },
+      "options": {
+        "hi": [
+          "भोजन भंडारित करना",
+          "नाखून बढ़ाना",
+          "शरीर के चयापचय की गति नियंत्रित करना",
+          "रुधिर जमाना"
+        ],
+        "en": [
+          "Storing food",
+          "Growing nails",
+          "Controlling the pace of the body's metabolism",
+          "Clotting blood"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "थायरॉक्सिन कोशिकाओं के जलने-खपने की रफ़्तार तय करता है — धीमा तो ऊर्जा-ग्राम कम, तेज़ तो ज़्यादा।",
+        "en": "Thyroxine fixes the burn-rate of cells — slow means less energy spent, fast means more."
+      }
+    },
+    {
+      "id": "ch10_q1016",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एड्रेनालिन को 'आपातकालीन हार्मोन' क्यों कहते हैं?",
+        "en": "Why is adrenaline called the 'emergency hormone'?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह केवल नींद में बनता है",
+          "क्योंकि वह भोजन पचाता है",
+          "क्योंकि वह हड्डियाँ गलाता है",
+          "खतरे के क्षण में वह शरीर को तुरंत सतर्क-तैयार बना देता है"
+        ],
+        "en": [
+          "Because it is made only in sleep",
+          "Because it digests food",
+          "Because it melts bones",
+          "In moments of danger it instantly readies the body for alert action"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "साँप दिखा और धड़कन तेज़, साँस गहरी, मांसपेशियाँ तनी — यही एड्रेनालिन की तत्परता-फेरी है।",
+        "en": "A snake appears and the heart races, breath deepens, muscles tense — adrenaline's readiness-drill."
+      }
+    },
+    {
+      "id": "ch10_q1017",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "घेघा (गले की सूजन) में शरीर की कौन-सी ग्रंथि सूज जाती है?",
+        "en": "In goitre (swelling of the neck), which gland of the body swells up?"
+      },
+      "options": {
+        "hi": [
+          "थायरॉइड",
+          "पिट्यूटरी",
+          "अधिवृक्क",
+          "अग्न्याशय"
+        ],
+        "en": [
+          "The thyroid",
+          "The pituitary",
+          "The adrenal",
+          "The pancreas"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गले की अग्र-भित्ति पर बैठी थायरॉइड बढ़ जाने से घेघा बनता है — थायरॉक्सिन-संतुलन बिगड़ने का संकेत।",
+        "en": "The thyroid sitting on the front of the neck enlarges to form goitre — a sign of disturbed thyroxine balance."
+      }
+    },
+    {
+      "id": "ch10_q1018",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अग्न्याशय को 'मिश्रित ग्रंथि' क्यों कहा जाता है?",
+        "en": "Why is the pancreas called a 'mixed gland'?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह रुधिर छानता है",
+          "क्योंकि वह पाचक रस (नली द्वारा) और हार्मोन (रक्त में) दोनों बनाता है",
+          "क्योंकि वह दो अंगों में बँटा है",
+          "क्योंकि वह केवल बच्चों में होता है"
+        ],
+        "en": [
+          "Because it filters blood",
+          "Because it makes both digestive juice (via a duct) and hormones (into blood)",
+          "Because it is split into two organs",
+          "Because it occurs only in children"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक ही अग्न्याशय में दो विभाग — पाचन-नली वाला बाह्यस्रावी और इंसुलिन वाला अंतःस्रावी।",
+        "en": "One pancreas, two departments — the exocrine with a digestive duct and the endocrine with insulin."
+      }
+    },
+    {
+      "id": "ch10_q1019",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा हार्मोन-ग्रंथि युग्म सुमेलित नहीं है?",
+        "en": "Which hormone-gland pair is NOT correctly matched?"
+      },
+      "options": {
+        "hi": [
+          "इंसुलिन — अग्न्याशय",
+          "वृद्धि हार्मोन — पिट्यूटरी",
+          "एड्रेनालिन — यकृत",
+          "थायरॉक्सिन — थायरॉइड"
+        ],
+        "en": [
+          "Insulin — pancreas",
+          "Growth hormone — pituitary",
+          "Adrenaline — liver",
+          "Thyroxine — thyroid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एड्रेनालिन यकृत का नहीं, अधिवृक्क ग्रंथि का उत्पाद है — बाकी तीनों जोड़े सही हैं।",
+        "en": "Adrenaline belongs not to the liver but to the adrenal gland — the other three pairs are right."
+      }
+    },
+    {
+      "id": "ch10_q1020",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हार्मोन-संदेश तंत्रिका-संदेश से अपनी किस विशेषता से भिन्न है?",
+        "en": "By which special quality does a hormone message differ from a nerve message?"
+      },
+      "options": {
+        "hi": [
+          "यह केवल एक सेकंड चलता है",
+          "यह केवल एक कोशिका तक जाता है",
+          "इसमें कोई रसायन नहीं होता",
+          "इसका प्रभाव धीमा पर दीर्घकालिक और व्यापक होता है"
+        ],
+        "en": [
+          "It lasts only a second",
+          "It reaches only one cell",
+          "It contains no chemical",
+          "Its effect is slow but long-lasting and widespread"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नसें बिजली-सी तुरंत पहुँचाती हैं; हार्मोन धीरे-धीरे, पर वृद्धि जैसे दीर्ग कामों में टिकाऊ नियंत्रण रखते हैं।",
+        "en": "Nerves deliver lightning-quick; hormones work slowly yet hold durable control in long jobs like growth."
+      }
+    },
+    {
+      "id": "ch10_q1021",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वृषणों और अंडाशयों की अंतःस्रावी भूमिका क्या है?",
+        "en": "What is the endocrine role of the testes and ovaries?"
+      },
+      "options": {
+        "hi": [
+          "वे अपने हार्मोन (टेस्टोस्टेरोन/एस्ट्रोजन) रक्त में छोड़ते हैं",
+          "वे केवल पाचक रस बनाते हैं",
+          "वे रुधिर छानते हैं",
+          "वे वायु छानते हैं"
+        ],
+        "en": [
+          "They release their hormones (testosterone/oestrogen) into blood",
+          "They only make digestive juice",
+          "They filter blood",
+          "They filter air"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रजनन कोशिकाओं के साथ-साथ ये ग्रंथियाँ यौवन-हार्मोन भी देती हैं — दोहरी ज़िम्मेदारी।",
+        "en": "Besides reproductive cells these glands also yield the puberty hormones — a double duty."
+      }
+    },
+    {
+      "id": "ch10_q1022",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी हार्मोन का 'लक्ष्य अंग' (target organ) किसे कहते हैं?",
+        "en": "What is called the 'target organ' of a hormone?"
+      },
+      "options": {
+        "hi": [
+          "वह अंग जो हार्मोन को बर्फ में रखता है",
+          "वह विशिष्ट अंग जिस पर वह हार्मोन अपना प्रभाव डालता है",
+          "वह अंग जो हार्मोन खा जाता है",
+          "वह अंग जो हार्मोन बनाता है"
+        ],
+        "en": [
+          "The organ that stores hormone in ice",
+          "The specific organ on which that hormone casts its effect",
+          "The organ that eats the hormone",
+          "The organ that makes the hormone"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हर हार्मोन का अपना पता-लिखा दरवाज़ा होता है — इंसुलिन की चिट्ठी शर्करा-कोशिकाओं के नाम।",
+        "en": "Every hormone has an addressed door — insulin's letter is written in the name of sugar-cells."
+      }
+    },
+    {
+      "id": "ch10_q1023",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "थायरॉइड ग्रंथि शरीर में कहाँ स्थित है?",
+        "en": "Where is the thyroid gland situated in the body?"
+      },
+      "options": {
+        "hi": [
+          "मस्तिष्क के भीतर गहरे",
+          "पैरों की एड़ियों में",
+          "गले के आगे, वायु-नली के दोनों ओर",
+          "पीठ के निचले भाग में"
+        ],
+        "en": [
+          "Deep inside the brain",
+          "In the heels of the feet",
+          "In front of the neck, flanking the windpipe",
+          "In the lower back"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गले की आगे-भित्ति पर तितली-आकार थायरॉइड श्वास-नली को गले करती बैठी है।",
+        "en": "On the front wall of the neck a butterfly-shaped thyroid hugs the windpipe."
+      }
+    },
+    {
+      "id": "ch10_q1024",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "इंसुलिन की कमी होने पर रक्त में क्या होता है?",
+        "en": "What happens to blood when insulin falls short?"
+      },
+      "options": {
+        "hi": [
+          "शर्करा पूरी तरह समाप्त हो जाती है",
+          "रुधिर नीला पड़ जाता है",
+          "रुधिर जम जाता है",
+          "शर्करा का स्तर बढ़ जाता है"
+        ],
+        "en": [
+          "Sugar vanishes completely",
+          "Blood turns blue",
+          "Blood clots",
+          "The sugar level rises"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "इंसुलिन के बिना कोशिकाएँ शर्करा भली-भाँति ग्रहण नहीं कर पातीं — शर्करा रक्त में ही जमा होती जाती है।",
+        "en": "Without insulin cells cannot properly take up sugar — it keeps piling up in the blood."
+      }
+    },
+    {
+      "id": "ch10_q1025",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शरीर में हार्मोन की मात्रा संतुलित रहना क्यों आवश्यक है?",
+        "en": "Why must the amount of hormones stay balanced in the body?"
+      },
+      "options": {
+        "hi": [
+          "कमी या अधिकता — दोनों ही शरीर की क्रियाओं को बिगाड़ सकती हैं",
+          "क्योंकि हार्मोन बासी हो जाते हैं",
+          "क्योंकि हार्मोन बहुत महँगे होते हैं",
+          "क्योंकि इनसे रंग बदलता है"
+        ],
+        "en": [
+          "Deficiency or excess — both can derange body functions",
+          "Because hormones go stale",
+          "Because hormones are costly",
+          "Because they change colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हार्मोन दवा नहीं, अनुपात हैं — ग्रंथि से निकलने वाली हर बूँद शरीर के पैमाने पर तौली जाती है।",
+        "en": "Hormones are not medicine but proportion — every drop from a gland is weighed on the body's scale."
+      }
+    },
+    {
+      "id": "ch10_q1026",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शरीर का समग्र समन्वय किन दो प्रणालियों के सहयोग से चलता है?",
+        "en": "By the teamwork of which two systems does the body's overall coordination run?"
+      },
+      "options": {
+        "hi": [
+          "मांसपेशियाँ और बाल",
+          "तंत्रिका तंत्र और अंतःस्रावी तंत्र",
+          "पाचन तंत्र और त्वचा",
+          "अस्थि तंत्र और रुधिर"
+        ],
+        "en": [
+          "Muscles and hair",
+          "The nervous system and the endocrine system",
+          "The digestive system and skin",
+          "The skeletal system and blood"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बिजली-दौड़ नसें और रसायन-बहार हार्मोन — दोनों मिलकर शरीर का संचालन-मंडल बनाते हैं।",
+        "en": "Lightning-running nerves and chemical-flowing hormones — together they form the body's steering circle."
+      }
+    },
+    {
+      "id": "ch10_q1027",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेंढक के लार्वा (टैडपोल) का वयस्क मेंढक में रूपांतरण किस हार्मोन पर निर्भर करता है?",
+        "en": "The transformation of a tadpole into an adult frog depends on which hormone?"
+      },
+      "options": {
+        "hi": [
+          "एड्रेनालिन",
+          "वृद्धि हार्मोन",
+          "थायरॉक्सिन",
+          "इंसुलिन"
+        ],
+        "en": [
+          "Adrenaline",
+          "Growth hormone",
+          "Thyroxine",
+          "Insulin"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "थायरॉक्सिन की उपस्थिति में ही पूँछ जाती है, पैर आते हैं — रूपांतरण की घड़ी इसी से चलती है।",
+        "en": "Only in thyroxine's presence does the tail go and legs come — the clock of metamorphosis runs on it."
+      }
+    },
+    {
+      "id": "ch10_q1028",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एड्रेनालिन का स्रावण किन क्षणों में बढ़ जाता है?",
+        "en": "At which moments does adrenaline secretion shoot up?"
+      },
+      "options": {
+        "hi": [
+          "गहरी नींद में",
+          "भोजन पचाते समय",
+          "पढ़ते-लिखते समय",
+          "भय, क्रोध या खतरे के क्षणों में"
+        ],
+        "en": [
+          "In deep sleep",
+          "While digesting food",
+          "While reading and writing",
+          "In moments of fear, anger or danger"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "डर-गुस्सा-खतरा तीनों घंटियाँ अधिवृक्क पर एक साथ बजती हैं — एड्रेनालिन की बाढ़ आ जाती है।",
+        "en": "Fear-anger-danger ring three bells on the adrenal at once — a flood of adrenaline arrives."
+      }
+    },
+    {
+      "id": "ch10_q1029",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पिट्यूटरी ग्रंथि के नियंत्रण-वृत्त में मुख्यतः कौन-सी ग्रंथियाँ आती हैं?",
+        "en": "Which glands mainly fall inside the pituitary's circle of control?"
+      },
+      "options": {
+        "hi": [
+          "थायरॉइड, अधिवृक्क और योनि-ग्रंथियाँ",
+          "केवल स्वेद-ग्रंथियाँ",
+          "केवल लार-ग्रंथियाँ",
+          "केवल यकृत"
+        ],
+        "en": [
+          "The thyroid, adrenals and sex glands",
+          "Only sweat glands",
+          "Only salivary glands",
+          "Only the liver"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मास्टर की मुट्ठी में बड़े खिलाड़ी — थायरॉइड से लेकर योनि-ग्रंथियों तक सबके पत्र उसी के डाकखाने से।",
+        "en": "Big players in the master's fist — from thyroid to sex glands, all their mail goes through its post office."
+      }
+    },
+    {
+      "id": "ch10_q1030",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बच्चों में थायरॉक्सिन की लंबी कमी रहने पर क्या प्रभाव दिख सकता है?",
+        "en": "What effect can a long thyroxine shortage show in children?"
+      },
+      "options": {
+        "hi": [
+          "कद रातोंरात दुगना",
+          "शारीरिक और मानसिक वृद्धि धीमी पड़ सकती है",
+          "बाल काले हो जाते हैं",
+          "आँखें नीली हो जाती हैं"
+        ],
+        "en": [
+          "Height doubles overnight",
+          "Physical and mental growth can slow down",
+          "Hair turns black",
+          "Eyes turn blue"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "थायरॉक्सिन वृद्धि की रेल का इंजन है — कम पड़ा तो गाड़ी धीमी, बच्चे का विकास भी धीमा।",
+        "en": "Thyroxine is the engine of the growth-train — short supply slows the train and the child's development."
+      }
+    },
+    {
+      "id": "ch10_q1031",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न हार्मोन-कार्य युग्मों में से कौन-सा सही नहीं है?",
+        "en": "Which of these hormone-function pairs is INCORRECT?"
+      },
+      "options": {
+        "hi": [
+          "थायरॉक्सिन — चयापचय नियंत्रण",
+          "वृद्धि हार्मोन — शरीर की वृद्धि",
+          "एड्रेनालिन — शरीर को सुस्त बनाना",
+          "इंसुलिन — रक्त-शर्करा घटाना"
+        ],
+        "en": [
+          "Thyroxine — controlling metabolism",
+          "Growth hormone — growth of the body",
+          "Adrenaline — making the body sluggish",
+          "Insulin — lowering blood sugar"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एड्रेनालिन सुस्त नहीं, सतर्क बनाता है — बाकी तीन जोड़े सही हैं।",
+        "en": "Adrenaline makes the body alert, not sluggish — the other three pairs are correct."
+      }
+    },
+    {
+      "id": "ch10_q1032",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "स्वेद-ग्रंथि और थायरॉइड के बीच का मूल अंतर क्या है?",
+        "en": "What is the basic difference between a sweat gland and the thyroid?"
+      },
+      "options": {
+        "hi": [
+          "स्वेद-ग्रंथि रक्त में स्राव छोड़ती है",
+          "थायरॉइड त्वचा पर स्राव छोड़ता है",
+          "दोनों में कोई अंतर नहीं",
+          "स्वेद-ग्रंथि नलीदार (बाह्यस्रावी) है, थायरॉइड नलीहीन (अंतःस्रावी)"
+        ],
+        "en": [
+          "A sweat gland pours secretion into blood",
+          "The thyroid pours secretion onto skin",
+          "There is no difference",
+          "A sweat gland is ducted (exocrine), the thyroid is ductless (endocrine)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "स्वेद त्वचा की सतह पर नली से बहता है; थायरॉक्सिन रक्त की धारा में घुलता है — रास्ते ही अलग।",
+        "en": "Sweat flows through a duct onto skin; thyroxine dissolves into the bloodstream — different roads altogether."
+      }
+    },
+    {
+      "id": "ch10_q1033",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हार्मोनी नियंत्रण किस प्रकार के शारीरिक कार्यों के लिए सर्वाधिक उपयुक्त माना जाता है?",
+        "en": "Hormonal control is considered most suited for which kind of body-jobs?"
+      },
+      "options": {
+        "hi": [
+          "धीमे, दीर्घकालिक परिवर्तन जैसे वृद्धि और यौवन",
+          "पलक झपकाने जैसे तत्काल कार्य",
+          "घुटने मोड़ने जैसे झटके",
+          "आँख की पुतली फैलाना"
+        ],
+        "en": [
+          "Slow, long-term changes like growth and puberty",
+          "Instant jobs like blinking",
+          "Jerks like bending the knee",
+          "Dilating the pupil"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जो काम वर्षों में बनते हैं — लंबाई, रूप, परिपक्वता — उनकी बागडोर हार्मोन के हाथ में रहती है।",
+        "en": "Works built over years — height, form, maturity — remain in hormones' charge."
+      }
+    },
+    {
+      "id": "ch10_q1034",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भोजन के तुरंत बाद रक्त-शर्करा बढ़ती है — शरीर उसे संतुलित करने हेतु क्या करता है?",
+        "en": "Right after a meal blood sugar rises — what does the body do to balance it?"
+      },
+      "options": {
+        "hi": [
+          "रुधिर को बाहर निकाल देता है",
+          "अग्न्याशय से इंसुलिन का स्रावण बढ़ा देता है",
+          "इंसुलिन रोक देता है",
+          "थायरॉइड निकाल देता है"
+        ],
+        "en": [
+          "It drains the blood out",
+          "It increases insulin secretion from the pancreas",
+          "It stops insulin",
+          "It removes the thyroid"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मीठा बढ़ा → इंसुलिन बहा → शर्करा कोशिकाओं में उतरी → स्तर फिर संतुलित — स्वतः-नियमन का जीता-जागता नमूना।",
+        "en": "Sweet rises → insulin flows → sugar enters cells → level rebalances — a living specimen of self-regulation."
+      }
+    },
+    {
+      "id": "ch10_q1035",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अंतःस्रावी ग्रंथियों में रुधिर वाहिकाओं का जाल विशेष सघन क्यों होता है?",
+        "en": "Why is the network of blood vessels specially dense in endocrine glands?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वे रुधिर बनाती हैं",
+          "क्योंकि वे पाचन करती हैं",
+          "क्योंकि उनका हार्मोन सीधे रक्त में जाना होता है",
+          "क्योंकि वे हवा भंडारित करती हैं"
+        ],
+        "en": [
+          "Because they make blood",
+          "Because they digest",
+          "Because their hormone has to pass straight into blood",
+          "Because they store air"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जिस ग्रंथि का माल रक्त के डाक-तार से जाएगा, उसके घर डाकघर की गली में होना ही होगा — सघन वाहिका-जाल वही डाक-गली है।",
+        "en": "The gland whose goods travel by blood's postal wire must live by the post-office lane — the dense vessel-net is that very lane."
+      }
+    },
+    {
+      "id": "ch10_q1036",
+      "topic": "endocrine-system",
+      "difficulty": "medium",
+      "question": {
+        "hi": "शरीर में किसी हार्मोन की मात्रा आवश्यकता से अधिक हो जाए, तो शरीर की प्रवृत्ति क्या होती है?",
+        "en": "If a hormone's amount exceeds the need, what is the body's tendency?"
+      },
+      "options": {
+        "hi": [
+          "और अधिक स्रावित करना",
+          "ग्रंथि को बाहर निकाल देना",
+          "रुधिर को जमने देना",
+          "उसके स्रावण को घटाकर संतुलन बनाना"
+        ],
+        "en": [
+          "To secrete even more",
+          "To eject the gland",
+          "To let the blood clot",
+          "To cut its secretion and restore balance"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "शरीर रसोई की तरह चलता है — नमक ज्यादा गिरा तो अगली चुटकी छोटी; हार्मोन-स्राव भी माँग-देख कर घटता-बढ़ता है।",
+        "en": "The body runs like a kitchen — extra salt dropped, the next pinch smaller; hormone secretion too shrinks and swells watching demand."
+      }
+    },
+    {
+      "id": "ch10_q1037",
+      "topic": "endocrine-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निम्न ग्रंथि-स्थान युग्मों में से कौन-सा गलत है?",
+        "en": "Which gland-location pair is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "पिट्यूटरी — गुर्दे के ऊपर",
+          "थायरॉइड — गले में",
+          "अधिवृक्क — गुर्दे के ऊपर",
+          "अग्न्याशय — पेट में"
+        ],
+        "en": [
+          "Pituitary — atop the kidney",
+          "Thyroid — in the neck",
+          "Adrenal — atop the kidney",
+          "Pancreas — in the abdomen"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पिट्यूटरी मस्तिष्क के नीचे बैठती है, गुर्दे के ऊपर नहीं — गुर्दे की टोपी अधिवृक्क की है।",
+        "en": "The pituitary sits below the brain, not atop the kidney — the kidney's cap belongs to the adrenal."
+      }
+    },
+    {
+      "id": "ch10_q1038",
+      "topic": "endocrine-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "टैडपोल में थायरॉक्सिन का निर्माण रुक जाए, तो क्या होगा?",
+        "en": "If thyroxine production stops in a tadpole, what will happen?"
+      },
+      "options": {
+        "hi": [
+          "कुछ नहीं बदलेगा",
+          "रूपांतरण रुक जाएगा — वयस्क मेंढक नहीं बन पाएगा",
+          "टैडपोल तुरंत मेंढक बन जाएगा",
+          "टैडपोल का आकार दुगना हो जाएगा"
+        ],
+        "en": [
+          "Nothing changes",
+          "Metamorphosis halts — it cannot become an adult frog",
+          "It instantly becomes a frog",
+          "Its size doubles"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रूपांतरण की सारी कला थायरॉक्सिन के कैनवास पर बनती है — रंग ही न मिले तो चित्र कैसा!",
+        "en": "The whole art of metamorphosis is drawn on thyroxine's canvas — no paint, no picture!"
+      }
+    },
+    {
+      "id": "ch10_q1039",
+      "topic": "endocrine-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पिट्यूटरी की विशेषता बताइए — उसका दायरा कितना व्यापक है?",
+        "en": "State the pituitary's speciality — how wide is its domain?"
+      },
+      "options": {
+        "hi": [
+          "केवल पाचन तक सीमित",
+          "केवल नींद तक सीमित",
+          "वृद्धि से लेकर अन्य ग्रंथियों के नियंत्रण तक — सर्वाधिक व्यापक अंतःस्रावी अधिकार",
+          "केवल एक अंग तक सीमित"
+        ],
+        "en": [
+          "Limited to digestion",
+          "Limited to sleep",
+          "From growth to controlling other glands — the widest endocrine authority",
+          "Limited to a single organ"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "छोटे-से दाने में इतना अधिकार — शरीर की वृद्धि भी उसकी, ग्रंथियों की सलाह भी उसकी।",
+        "en": "Such authority in a tiny seed — the body's growth is its brief, and the glands' counsel too."
+      }
+    },
+    {
+      "id": "ch10_q1040",
+      "topic": "endocrine-system",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही ग्रंथि ऐसी है जो 'दूत' भी है और 'मास्टर' भी — सोचकर बताइए यह कौन है और क्यों?",
+        "en": "One gland is both a 'messenger' and a 'master' — think and tell, which one and why?"
+      },
+      "options": {
+        "hi": [
+          "स्वेद-ग्रंथि — दोनों काम करती है",
+          "लार-ग्रंथि — दोनों काम करती है",
+          "ऐसी कोई ग्रंथि नहीं",
+          "पिट्यूटरी — स्वयं हार्मोन बनाती है और दूसरी ग्रंथियों को भी नियंत्रित करती है"
+        ],
+        "en": [
+          "The sweat gland — does both",
+          "The salivary gland — does both",
+          "No such gland exists",
+          "The pituitary — it makes its own hormones AND controls other glands"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पिट्यूटरी दोहरी पहचान रखती है — अपने हार्मोन की फौज भी उसकी, ग्रंथि-जगत की कमान भी उसकी।",
+        "en": "The pituitary holds a twin identity — an army of its own hormones and the command of the gland-world."
+      }
+    },
+    {
+      "id": "ch10_q1041",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किशोरावस्था (adolescence) प्रायः किस आयु-सीमा में मानी जाती है?",
+        "en": "In which age range is adolescence usually placed?"
+      },
+      "options": {
+        "hi": [
+          "लगभग 11 से 17 वर्ष",
+          "1 से 5 वर्ष",
+          "30 से 40 वर्ष",
+          "60 से 70 वर्ष"
+        ],
+        "en": [
+          "About 11 to 17 years",
+          "1 to 5 years",
+          "30 to 40 years",
+          "60 to 70 years"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ग्यारह से सत्रह के बीच का दौर किशोरावस्था कहलाता है — बचपन और वयस्कता का पुल।",
+        "en": "The span between eleven and seventeen is called adolescence — the bridge of childhood and adulthood."
+      }
+    },
+    {
+      "id": "ch10_q1042",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "यौवनारंभ (puberty) कब कहा जाता है?",
+        "en": "When is the stage called puberty?"
+      },
+      "options": {
+        "hi": [
+          "जब बाल सफेद होते हैं",
+          "जब शरीर यौवन-परिवर्तनों के साथ प्रजनन की ओर परिपक्व होने लगता है",
+          "जब बच्चा चलना सीखता है",
+          "जब पहला दाँत आता है"
+        ],
+        "en": [
+          "When hair turns grey",
+          "When the body begins maturing towards reproduction with the changes of puberty",
+          "When a child learns to walk",
+          "When the first tooth comes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "यौवनारंभ वह द्वार-क्षण है जब शरीर 'बच्चा' छोड़कर 'किशोर' की गली में कदम रखता है।",
+        "en": "Puberty is the doorway-moment when the body steps out of 'child' street into 'adolescent' lane."
+      }
+    },
+    {
+      "id": "ch10_q1043",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किशोरावस्था मुख्यतः किस संक्रमण का काल है?",
+        "en": "Adolescence is mainly the period of transition between what?"
+      },
+      "options": {
+        "hi": [
+          "शैशवावस्था और बाल्यावस्था के बीच",
+          "जन्म और शैशवावस्था के बीच",
+          "बाल्यावस्था और वयस्कता के बीच",
+          "वयस्कता और वृद्धावस्था के बीच"
+        ],
+        "en": [
+          "Between infancy and childhood",
+          "Between birth and infancy",
+          "Between childhood and adulthood",
+          "Between adulthood and old age"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "न बच्चा, न बड़ा — बीच का यह तटबंध ही किशोरावस्था है, जहाँ दोनों किनारों से लहरें आती हैं।",
+        "en": "Neither child nor grown — this in-between embankment is adolescence, waves arriving from both shores."
+      }
+    },
+    {
+      "id": "ch10_q1044",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किशोरावस्था के शारीरिक परिवर्तन मुख्यतः किसके नियंत्रण में होते हैं?",
+        "en": "The bodily changes of adolescence are controlled mainly by what?"
+      },
+      "options": {
+        "hi": [
+          "केवल आदतों के",
+          "केवल मौसम के",
+          "केवल विद्यालय के",
+          "हार्मोनों के"
+        ],
+        "en": [
+          "Only habits",
+          "Only the weather",
+          "Only the school",
+          "Hormones"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "इस उम्र की हर धड़कन-बदलाव के पीछे हार्मोन का हाथ है — टेस्टोस्टेरोन और एस्ट्रोजन आगे बढ़े सूत्रधार।",
+        "en": "Behind every changed beat of this age is the hand of hormones — testosterone and oestrogen lead as directors."
+      }
+    },
+    {
+      "id": "ch10_q1045",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़की में पहली बार मासिक धर्म के आरंभ को क्या कहते हैं?",
+        "en": "What is the onset of the first menstruation in a girl called?"
+      },
+      "options": {
+        "hi": [
+          "मेनार्क",
+          "रजोनिवृत्ति",
+          "ओव्यूलेशन",
+          "गर्भाधान"
+        ],
+        "en": [
+          "Menarche",
+          "Menopause",
+          "Ovulation",
+          "Conception"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पहली बार आया मासिक धर्म मेनार्क है — किशोरी के प्रजनन-जीवन का पहला घंटाघर।",
+        "en": "The first-ever menstruation is menarche — the first milestone of an adolescent girl's reproductive life."
+      }
+    },
+    {
+      "id": "ch10_q1046",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़कों में यौवन-परिवर्तन लाने वाला मुख्य हार्मोन कौन-सा है?",
+        "en": "Which is the chief hormone bringing puberty changes in boys?"
+      },
+      "options": {
+        "hi": [
+          "थायरॉक्सिन",
+          "टेस्टोस्टेरोन",
+          "एस्ट्रोजन",
+          "इंसुलिन"
+        ],
+        "en": [
+          "Thyroxine",
+          "Testosterone",
+          "Oestrogen",
+          "Insulin"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लड़कों के यौवन का ड्रम-बीट टेस्टोस्टेरोन की छड़ी से बजता है।",
+        "en": "The drumbeat of boys' puberty plays from testosterone's baton."
+      }
+    },
+    {
+      "id": "ch10_q1047",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़कियों में यौवन-परिवर्तन मुख्यतः किस हार्मोन के प्रभाव से आते हैं?",
+        "en": "Puberty changes in girls come mainly under the influence of which hormone?"
+      },
+      "options": {
+        "hi": [
+          "एड्रेनालिन",
+          "इंसुलिन",
+          "एस्ट्रोजन",
+          "टेस्टोस्टेरोन"
+        ],
+        "en": [
+          "Adrenaline",
+          "Insulin",
+          "Oestrogen",
+          "Testosterone"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एस्ट्रोजन लड़कियों के शरीर में यौवन की बुनाई करता है — स्तन, कूल्हे, मासिक चक्र सब उसी की कताई।",
+        "en": "Oestrogen weaves puberty in a girl's body — breasts, hips, the menstrual cycle, all its spinning."
+      }
+    },
+    {
+      "id": "ch10_q1048",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जन्म के बाद शरीर की सबसे तेज़ ऊँचाई-वृद्धि (growth spurt) प्रायः किस अवस्था में दिखती है?",
+        "en": "The fastest spurt of height after birth usually appears in which stage?"
+      },
+      "options": {
+        "hi": [
+          "पहले महीने में",
+          "वृद्धावस्था में",
+          "भ्रूणावस्था के बाद तुरंत",
+          "किशोरावस्था में"
+        ],
+        "en": [
+          "In the first month",
+          "In old age",
+          "Right after the embryonic stage",
+          "In adolescence"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "किशोरावस्था दूसरी तेज़ बढ़वार का मौसम है — कुछ महीनों में पतलून छोटे पड़ने लगते हैं।",
+        "en": "Adolescence is the season of the second growth-surge — trousers start falling short within months."
+      }
+    },
+    {
+      "id": "ch10_q1049",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "औसतन यौवनारंभ लड़कियों में लड़कों की तुलना में कब होता है?",
+        "en": "On average, does puberty begin in girls compared to boys?"
+      },
+      "options": {
+        "hi": [
+          "जल्दी (कुछ वर्ष पहले)",
+          "बहुत देर से",
+          "ठीक उसी आयु में",
+          "कभी नहीं"
+        ],
+        "en": [
+          "Earlier (by a couple of years)",
+          "Much later",
+          "At exactly the same age",
+          "Never"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लड़कियों में यौवन की घंटी प्रायः दो-एक वर्ष पहले बजती है — इसीलिए उस उम्र में लड़कियाँ लंबी दिखती हैं।",
+        "en": "The puberty bell rings in girls a year or two earlier — that is why girls look taller at that age."
+      }
+    },
+    {
+      "id": "ch10_q1050",
+      "topic": "puberty-adolescence",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्या यौवनारंभ की आयु सब लड़कों-लड़कियों में एक ही होती है?",
+        "en": "Is the age of puberty onset identical in all boys and girls?"
+      },
+      "options": {
+        "hi": [
+          "यह केवल लड़कों में भिन्न होता है",
+          "नहीं — व्यक्ति से व्यक्ति भिन्नता सामान्य है",
+          "हाँ, सबमें एक ही दिन",
+          "हाँ, सबमें एक ही महीना"
+        ],
+        "en": [
+          "It varies only in boys",
+          "No — variation from person to person is normal",
+          "Yes, the same day for all",
+          "Yes, the same month for all"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "किसी का यौवन 11 में, किसी का 14 में — दोनों सामान्य; शरीर अपनी घड़ी अपनी गति से चलाता है।",
+        "en": "Someone's puberty at 11, another's at 14 — both normal; the body runs its clock at its own pace."
+      }
+    },
+    {
+      "id": "ch10_q1051",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मानव-जीवन की अवस्थाओं का सही क्रम कौन-सा है?",
+        "en": "Which is the correct order of the stages of human life?"
+      },
+      "options": {
+        "hi": [
+          "वयस्कता → किशोरावस्था → बाल्यावस्था → शैशवावस्था",
+          "बाल्यावस्था → शैशवावस्था → वयस्कता → किशोरावस्था",
+          "शैशवावस्था → बाल्यावस्था → किशोरावस्था → वयस्कता",
+          "किशोरावस्था → शैशवावस्था → बाल्यावस्था → वयस्कता"
+        ],
+        "en": [
+          "Adulthood → adolescence → childhood → infancy",
+          "Childhood → infancy → adulthood → adolescence",
+          "Infancy → childhood → adolescence → adulthood",
+          "Adolescence → infancy → childhood → adulthood"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जीवन की सीढ़ियाँ क्रम में चढ़ती हैं — शिशु, बालक, किशोर, फिर वयस्क।",
+        "en": "Life's stairs are climbed in order — infant, child, adolescent, then adult."
+      }
+    },
+    {
+      "id": "ch10_q1052",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यौवनारंभ की आयु में व्यक्तिगत भिन्नता के प्रमुख कारण क्या हैं?",
+        "en": "What are the chief reasons for individual variation in the age of puberty onset?"
+      },
+      "options": {
+        "hi": [
+          "पड़ोस का रंग",
+          "जूते का नंबर",
+          "स्कूल की इमारत",
+          "पोषण, आनुवंशिकता और सामान्य स्वास्थ्य"
+        ],
+        "en": [
+          "The colour of the neighbourhood",
+          "The shoe size",
+          "The school building",
+          "Nutrition, heredity and general health"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अच्छा भोजन और वंशानुक्रम — दोनों मिलकर यौवन की घड़ी पहले-बाद चलाते हैं।",
+        "en": "Good food and heredity — together they run the puberty clock early or late."
+      }
+    },
+    {
+      "id": "ch10_q1053",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था के growth spurt में शरीर में मुख्यतः क्या-क्या बढ़ता है?",
+        "en": "What mainly increases in the body during the adolescent growth spurt?"
+      },
+      "options": {
+        "hi": [
+          "ऊँचाई, भार और मांसपेशियाँ तीनों",
+          "केवल बाल",
+          "केवल आँखें",
+          "केवल आवाज़"
+        ],
+        "en": [
+          "Height, weight and muscles — all three",
+          "Only hair",
+          "Only the eyes",
+          "Only the voice"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लंबाई खिंचती है, वज़न बैठता है, मांसपेशियाँ जुड़ती हैं — त्रिवेणी वृद्धि एक साथ बहती है।",
+        "en": "Length stretches, weight settles, muscles join — a triveni of growth flows together."
+      }
+    },
+    {
+      "id": "ch10_q1054",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरों में मूड में उतार-चढ़ाव (mood swings) आने का मुख्य शारीरिक कारण क्या है?",
+        "en": "What is the main bodily cause of mood swings in adolescents?"
+      },
+      "options": {
+        "hi": [
+          "दीवार का रंग",
+          "बदलते हार्मोन-स्तर का मस्तिष्क पर प्रभाव",
+          "पानी की कमी",
+          "जूतों की गंध"
+        ],
+        "en": [
+          "Colour of the wall",
+          "The effect of shifting hormone levels on the brain",
+          "Lack of water",
+          "Smell of shoes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "हार्मोन का ज्वार-भाटा मस्तिष्क के समुद्र तक लहरें भेजता है — भावनाएँ उसी से थिरकती हैं।",
+        "en": "The tide of hormones sends waves up to the brain's sea — emotions sway with it."
+      }
+    },
+    {
+      "id": "ch10_q1055",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था में मानसिक परिवर्तनों में कौन-सा सम्मिलित है?",
+        "en": "Which of these is included among the mental changes of adolescence?"
+      },
+      "options": {
+        "hi": [
+          "कद घटना",
+          "दाँत झड़ना",
+          "सोचने और निर्णय लेने की क्षमता में वृद्धि",
+          "आँखों का रंग बदलना"
+        ],
+        "en": [
+          "Height decreasing",
+          "Teeth falling",
+          "Growth in the capacity to think and decide",
+          "Change of eye colour"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इस उम्र में दिमाग का दर्पण तेज़ होता है — प्रश्न बढ़ते हैं, तर्क गहरे होते हैं, निर्णय अपने बनते हैं।",
+        "en": "In this age the brain's mirror sharpens — questions multiply, reasoning deepens, decisions become one's own."
+      }
+    },
+    {
+      "id": "ch10_q1056",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था के सामाजिक परिवर्तनों में प्रमुखतः क्या दिखता है?",
+        "en": "What is prominently seen among the social changes of adolescence?"
+      },
+      "options": {
+        "hi": [
+          "केवल खिलौनों में रुचि",
+          "केवल नींद में वृद्धि",
+          "केवल रुलाई",
+          "मित्रों के साथ लगाव और उत्तरदायित्व की भावना में वृद्धि"
+        ],
+        "en": [
+          "Interest only in toys",
+          "Only an increase in sleep",
+          "Only crying",
+          "Attachment to friends and a growing sense of responsibility"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दुनिया घर से फैलती है — संगी मिलते हैं, जिम्मेदारियों के धागे हाथ में आते हैं।",
+        "en": "The world spreads beyond home — companions arrive, threads of responsibility come to hand."
+      }
+    },
+    {
+      "id": "ch10_q1057",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर का चिड़चिड़ापन या भावनात्मक उतार-चढ़ाव देखकर उसे समझना क्यों जरूरी है?",
+        "en": "Why is it important to understand an adolescent's irritability or emotional ups and downs?"
+      },
+      "options": {
+        "hi": [
+          "यह हार्मोन-प्रभावित सामान्य प्रक्रिया है — डाँट से नहीं, सहयोग से सधती है",
+          "यह बीमारी है जिसका ऑपरेशन होता है",
+          "यह स्थायी स्वभाव बन जाता है",
+          "यह केवल लड़कों में होता है"
+        ],
+        "en": [
+          "It is a normal hormone-influenced process — it settles with support, not scolding",
+          "It is a disease needing surgery",
+          "It becomes permanent nature",
+          "It occurs only in boys"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बदलते हार्मोन की ऋतु में मौसम ऐसा बदलता है — समझदारी से छत देना जरूरी है, तूफान का दोष नहीं।",
+        "en": "In the season of shifting hormones the weather changes so — a roof of understanding is needed, not blame for the storm."
+      }
+    },
+    {
+      "id": "ch10_q1058",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था के परिवर्तन एक बार में रातोंरात आ जाते हैं — यह कथन कैसा है?",
+        "en": "Adolescent changes arrive overnight all at once — how is this statement?"
+      },
+      "options": {
+        "hi": [
+          "केवल लड़कियों के लिए सही",
+          "गलत — ये परिवर्तन कई वर्षों में क्रमशः आते हैं",
+          "बिल्कुल सही",
+          "आधा सही आधा गलत"
+        ],
+        "en": [
+          "Right only for girls",
+          "Wrong — these changes come gradually over several years",
+          "Absolutely right",
+          "Half right, half wrong"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "यौवन कोई स्विच नहीं, ऋतु है — कई बरसों की धूप-छाँव में रूप बनता है।",
+        "en": "Puberty is not a switch but a season — the form is built over years of sun and shade."
+      }
+    },
+    {
+      "id": "ch10_q1059",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था में जिज्ञासा और नए प्रयोग करने की प्रवृत्ति को सही दिशा कैसे दी जाती है?",
+        "en": "How is the adolescent tendency of curiosity and experimentation channelled rightly?"
+      },
+      "options": {
+        "hi": [
+          "टीवी देखकर ही",
+          "खाना-सोकर",
+          "खेल, कला, विज्ञान जैसे रचनात्मक क्षेत्रों में सक्रिय भागीदारी से",
+          "सब प्रयोग रोककर"
+        ],
+        "en": [
+          "Only by watching TV",
+          "Only by eating and sleeping",
+          "Through active participation in creative fields like sports, arts and science",
+          "By banning all experiments"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जिज्ञासा की नदी को बाँधना नहीं, मोड़ना चाहिए — मैदान, मंच और प्रयोगशाला उसके सही ग्राह्य-खाते हैं।",
+        "en": "The river of curiosity should be turned, not dammed — field, stage and lab are its right channels."
+      }
+    },
+    {
+      "id": "ch10_q1060",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था के शारीरिक-मानसिक परिवर्तनों को समझना किशोर के लिए क्यों उपयोगी है?",
+        "en": "Why is understanding the bodily-mental changes useful for an adolescent?"
+      },
+      "options": {
+        "hi": [
+          "इससे आयु बढ़ती है",
+          "इससे कद घटता है",
+          "इससे परीक्षा टल जाती है",
+          "आत्मविश्वास बनता है और भ्रम-मिथकों से बचा जा सकता है"
+        ],
+        "en": [
+          "It increases lifespan",
+          "It reduces height",
+          "It cancels exams",
+          "It builds self-confidence and keeps confusion-myths away"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जाना-समझा बदलाव डराता नहीं — शरीर की बात जानने वाला किशोर मिथकों की गली में नहीं भटकता।",
+        "en": "A known change does not frighten — an adolescent who knows his body's story does not stray into myths' lane."
+      }
+    },
+    {
+      "id": "ch10_q1061",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था में मस्तिष्क की परिपक्वता शारीरिक वृद्धि की तुलना में कैसी चलती है?",
+        "en": "How does the brain's maturation in adolescence proceed compared to physical growth?"
+      },
+      "options": {
+        "hi": [
+          "मस्तिष्क की परिपक्वता धीरे-धीरे और शरीर से पीछे चलती रहती है",
+          "दोनों एक ही दिन पूरे हो जाते हैं",
+          "मस्तिष्क पहले पूर्ण परिपक्व हो जाता है",
+          "मस्तिष्क परिपक्व ही नहीं होता"
+        ],
+        "en": [
+          "The brain matures slowly, lagging behind the body",
+          "Both finish on the same day",
+          "The brain matures fully first",
+          "The brain never matures"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शरीर जल्दी बड़ा, समझ धीरे-धीरे — इसी अंतराल में मार्गदर्शन सहारा बनता है।",
+        "en": "Body grows fast, judgement slowly — guidance becomes the support inside this very gap."
+      }
+    },
+    {
+      "id": "ch10_q1062",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था में भूख क्यों बढ़ जाती है?",
+        "en": "Why does appetite increase in adolescence?"
+      },
+      "options": {
+        "hi": [
+          "आँखें कमजोर हो जाती हैं",
+          "तेज़ वृद्धि और ऊर्जा-खर्च की माँग बढ़ जाती है",
+          "पाचन रुक जाता है",
+          "नींद समाप्त हो जाती है"
+        ],
+        "en": [
+          "Eyes weaken",
+          "The demand of rapid growth and energy expenditure rises",
+          "Digestion stops",
+          "Sleep ends"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बढ़ते शरीर की ईंट-गारे की जरूरत खाने से ही मिलती है — भूख वृद्धि की मजदूरी है।",
+        "en": "The bricks-mortar of a growing body come only from food — appetite is growth's wage."
+      }
+    },
+    {
+      "id": "ch10_q1063",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर के अपने शरीर के प्रति सकारात्मक दृष्टिकोण (self-image) क्यों जरूरी है?",
+        "en": "Why is a positive self-image about one's own body important for an adolescent?"
+      },
+      "options": {
+        "hi": [
+          "इससे यौवन रुक जाता है",
+          "इससे भूख खत्म हो जाती है",
+          "हर शरीर अपनी गति से बदलता है — तुलना से नहीं, स्वीकार से आत्मविश्वास बनता है",
+          "इससे कद बढ़ता है"
+        ],
+        "en": [
+          "It stops puberty",
+          "It ends appetite",
+          "Every body changes at its own pace — confidence comes from acceptance, not comparison",
+          "It increases height"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दूसरों से तौला हुआ किशोर हमेशा घटता है — अपनी तराज़ू पर तौलने से ही संतुलन बनता है।",
+        "en": "An adolescent weighed against others always falls short — balance comes only from being weighed on one's own scale."
+      }
+    },
+    {
+      "id": "ch10_q1064",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था के प्रश्नों पर माता-पिता अथवा शिक्षकों से खुलकर बात करना क्यों सहायक है?",
+        "en": "Why is it helpful to talk openly with parents or teachers about adolescent questions?"
+      },
+      "options": {
+        "hi": [
+          "इससे स्कूल छूट जाता है",
+          "इससे यौवन जल्दी आता है",
+          "इससे भोजन मुफ्त मिलता है",
+          "विश्वसनीय जानकारी मिलती है और अनावश्यक चिंता दूर होती है"
+        ],
+        "en": [
+          "It gets school cancelled",
+          "It brings puberty earlier",
+          "It gets free food",
+          "One gets trustworthy information and needless worry goes away"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "घर-विद्यालय का दरवाज़ा खुला रखने वाला किशोर अफवाहों के बाजार में नहीं खरीदारी करता।",
+        "en": "An adolescent who keeps the home-school door open does not shop in the bazaar of rumours."
+      }
+    },
+    {
+      "id": "ch10_q1065",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था में नई क्षमताओं (संगीत, खेल, लेखन) का विकास किस श्रेणी का उदाहरण है?",
+        "en": "The development of new capacities (music, sports, writing) in adolescence is an example of which category?"
+      },
+      "options": {
+        "hi": [
+          "विकास (development) — कार्य-कौशल की परिपक्वता",
+          "केवल वृद्धि (growth)",
+          "केवल आयु-गणना",
+          "केवल त्वचा-परिवर्तन"
+        ],
+        "en": [
+          "Development — the maturation of functional skill",
+          "Only growth",
+          "Only counting of age",
+          "Only a change of skin"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लंबाई वृद्धि है, कौशल विकास — दोनों अलग डिब्बे हैं, दोनों जरूरी हैं।",
+        "en": "Height is growth, skill is development — two separate boxes, both necessary."
+      }
+    },
+    {
+      "id": "ch10_q1066",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर अब भी पूर्ण वयस्क नहीं होता — इस अवस्था में उसे क्या सीखना चाहिए?",
+        "en": "An adolescent is not yet a full adult — what should be learnt at this stage?"
+      },
+      "options": {
+        "hi": [
+          "रात भर जागना",
+          "संयम और जिम्मेदार निर्णय लेने का अभ्यास",
+          "सब काम इच्छा से करना",
+          "वयस्कों की अनदेखी करना"
+        ],
+        "en": [
+          "Staying awake all night",
+          "The practice of restraint and responsible decision-making",
+          "Doing everything on impulse",
+          "Ignoring adults"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आज़ादी के पहाड़ पर चढ़ने वाले को रस्सी-संयम भी पकड़ना होता है — किशोरावस्था वही अभ्यास-मैदान है।",
+        "en": "The climber of freedom's hill must also grip the rope of restraint — adolescence is that practice-ground."
+      }
+    },
+    {
+      "id": "ch10_q1067",
+      "topic": "puberty-adolescence",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लड़के-लड़कियों दोनों में किशोरावस्था के सामान्य शारीरिक परिवर्तनों में कौन-सा सम्मिलित है?",
+        "en": "Which is included among the ordinary bodily changes of adolescence in BOTH boys and girls?"
+      },
+      "options": {
+        "hi": [
+          "केवल स्तन-विकास",
+          "केवल आवाज़ भारी होना",
+          "ऊँचाई-वृद्धि, शरीर पर बाल और त्वचा में बदलाव",
+          "केवल दाढ़ी आना"
+        ],
+        "en": [
+          "Only breast development",
+          "Only deepening of voice",
+          "Increase in height, body hair and changes in skin",
+          "Only the appearance of a beard"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कुछ बदलाव दोनों के साझे हैं — लंबाई, केश, त्वचा; कुछ अलग — दाढ़ी या स्तन।",
+        "en": "Some changes are shared by both — height, hair, skin; some are distinct — beard or breast."
+      }
+    },
+    {
+      "id": "ch10_q1068",
+      "topic": "puberty-adolescence",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किशोरावस्था और यौवनारंभ में मूल अंतर क्या है?",
+        "en": "What is the basic difference between adolescence and puberty?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक ही का दो नाम हैं",
+          "यौवनारंभ लंबी अवधि है, किशोरावस्था क्षण",
+          "दोनों में कोई संबंध नहीं",
+          "किशोरावस्था पूरी अवधि है, यौवनारंभ उसकी शुरुआत का द्वार-क्षण"
+        ],
+        "en": [
+          "Both are two names of the same thing",
+          "Puberty is the long period, adolescence a moment",
+          "The two are unrelated",
+          "Adolescence is the whole period; puberty is the doorway-moment of its beginning"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "किशोरावस्था पूरी सड़क है; यौवनारंभ उस पर पहला मोड़ — जहाँ से शरीर नया मोड़ लेता है।",
+        "en": "Adolescence is the whole road; puberty its first turning — where the body takes a new bend."
+      }
+    },
+    {
+      "id": "ch10_q1069",
+      "topic": "puberty-adolescence",
+      "difficulty": "hard",
+      "question": {
+        "hi": "12 वर्ष की एक लड़की में यौवन-परिवर्तन दिख रहे हैं — उसके शरीर में प्रधानतः कौन-सा हार्मोन काम कर रहा होगा?",
+        "en": "Puberty changes are appearing in a 12-year-old girl — which hormone is predominantly at work in her body?"
+      },
+      "options": {
+        "hi": [
+          "अंडाशय से स्रावित एस्ट्रोजन",
+          "वृषण से स्रावित टेस्टोस्टेरोन",
+          "अधिवृक्क से स्रावित एड्रेनालिन",
+          "थायरॉइड से स्रावित थायरॉक्सिन"
+        ],
+        "en": [
+          "Oestrogen secreted by the ovaries",
+          "Testosterone secreted by the testes",
+          "Adrenaline secreted by the adrenal",
+          "Thyroxine secreted by the thyroid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "लड़की का यौवन-मंच एस्ट्रोजन संचालित करता है — स्रोत उसके अंडाशय।",
+        "en": "A girl's puberty-stage is run by oestrogen — the source being her ovaries."
+      }
+    },
+    {
+      "id": "ch10_q1070",
+      "topic": "puberty-adolescence",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किशोरावस्था संबंधी निम्न में से कौन-सा कथन गलत है?",
+        "en": "Which statement about adolescence is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "यह बाल्यावस्था से वयस्कता का संक्रमण है",
+          "किशोरावस्था के सारे परिवर्तन एक निश्चित उम्र के दिन ही सब पर आते हैं",
+          "इस दौरान भावनात्मक उतार-चढ़ाव सामान्य है",
+          "हार्मोन इन परिवर्तनों के सूत्रधार हैं"
+        ],
+        "en": [
+          "It is the transition from childhood to adulthood",
+          "All adolescent changes arrive on one fixed age-day for everyone",
+          "Emotional ups and downs are normal in this phase",
+          "Hormones direct these changes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "परिवर्तनों की आयु-घड़ी सबकी भिन्न — पहले कथन ही गलत; बाकी तीनों सही।",
+        "en": "Everyone's age-clock of changes differs — the first statement itself is wrong; the other three stand correct."
+      }
+    },
+    {
+      "id": "ch10_q1071",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़कों में ठुड्डी और मूँछ पर बाल आना किस श्रेणी का परिवर्तन माना जाता है?",
+        "en": "The appearance of hair on the chin and upper lip of boys is counted as which kind of change?"
+      },
+      "options": {
+        "hi": [
+          "रोग",
+          "आहार-परिवर्तन",
+          "द्वितीयक लैंगिक लक्षण",
+          "प्राथमिक लैंगिक लक्षण"
+        ],
+        "en": [
+          "A disease",
+          "A dietary change",
+          "A secondary sexual characteristic",
+          "A primary sexual characteristic"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "यौवन में उभरे लक्षण जो प्रजनन-अंग से अलग शरीर पर दिखते हैं — द्वितीयक लैंगिक लक्षण कहलाते हैं।",
+        "en": "Features emerging at puberty visible on the body apart from reproductive organs — called secondary sexual characteristics."
+      }
+    },
+    {
+      "id": "ch10_q1072",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़कियों में स्तनों का विकास किस प्रकार का लक्षण है?",
+        "en": "Breast development in girls is which type of characteristic?"
+      },
+      "options": {
+        "hi": [
+          "प्राथमिक लैंगिक लक्षण",
+          "अल्पकालिक बीमारी",
+          "जन्मजात दोष",
+          "द्वितीयक लैंगिक लक्षण"
+        ],
+        "en": [
+          "A primary sexual characteristic",
+          "A short illness",
+          "A birth defect",
+          "A secondary sexual characteristic"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "यौवन-हार्मोन से उभरा, प्रजनन-अंग से भिन्न लक्षण — इसलिए द्वितीयक।",
+        "en": "Emerging from puberty-hormone, a feature apart from reproductive organs — hence secondary."
+      }
+    },
+    {
+      "id": "ch10_q1073",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़कों के स्वर (आवाज़) का भारी होना किस वर्ग में गिना जाता है?",
+        "en": "Deepening of voice in boys is counted in which class?"
+      },
+      "options": {
+        "hi": [
+          "द्वितीयक लैंगिक लक्षण",
+          "प्राथमिक लैंगिक लक्षण",
+          "संवेदन-लक्षण",
+          "पाचन-लक्षण"
+        ],
+        "en": [
+          "Secondary sexual characteristic",
+          "Primary sexual characteristic",
+          "A sensory feature",
+          "A digestive feature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आवाज़ का रूप-बदलाव यौवन की देन है — श्रेणी द्वितीयक।",
+        "en": "The voice's change of grain is puberty's gift — class secondary."
+      }
+    },
+    {
+      "id": "ch10_q1074",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बगलों और शरीर पर बाल आना लड़कों और लड़कियों — दोनों में किस श्रेणी का परिवर्तन है?",
+        "en": "Hair appearing in the armpits and on the body — in BOTH boys and girls — is a change of which category?"
+      },
+      "options": {
+        "hi": [
+          "केवल आयु-चिह्न",
+          "द्वितीयक लैंगिक लक्षण",
+          "प्राथमिक लैंगिक लक्षण",
+          "केवल त्वचा-रोग"
+        ],
+        "en": [
+          "Only an age-mark",
+          "Secondary sexual characteristic",
+          "Primary sexual characteristic",
+          "Only a skin disease"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शरीर-केश दोनों लिंगों में यौवन के साझे द्वितीयक लक्षण हैं।",
+        "en": "Body hair is puberty's shared secondary feature in both sexes."
+      }
+    },
+    {
+      "id": "ch10_q1075",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'प्राथमिक लैंगिक लक्षण' से क्या तात्पर्य है?",
+        "en": "What is meant by 'primary sexual characteristics'?"
+      },
+      "options": {
+        "hi": [
+          "यौवन में बदली आवाज़",
+          "किशोरावस्था के मुँहासे",
+          "जन्म से उपस्थित प्रजनन अंग",
+          "यौवन में आई दाढ़ी"
+        ],
+        "en": [
+          "The voice that changes at puberty",
+          "Adolescent pimples",
+          "The reproductive organs present from birth",
+          "The beard that comes at puberty"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जन्मजात प्रजनन-अंग प्राथमिक; यौवन की प्रसूनि में खिले लक्षण द्वितीयक।",
+        "en": "Birth-given reproductive organs are primary; features blooming in puberty's spring are secondary."
+      }
+    },
+    {
+      "id": "ch10_q1076",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मुँहासे (pimples) प्रायः किस आयु-दौर में सामान्य रूप से दिखते हैं?",
+        "en": "In which age-phase do pimples commonly appear as a normal happening?"
+      },
+      "options": {
+        "hi": [
+          "पहले वर्ष में",
+          "वृद्धावस्था में",
+          "भ्रूणावस्था में",
+          "किशोरावस्था में"
+        ],
+        "en": [
+          "In the first year",
+          "In old age",
+          "In the embryonic stage",
+          "In adolescence"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हार्मोन-मौसम में त्वचा की तेल-ग्रंथियाँ जागती हैं — मुँहासे उसी ऋतु की ओस हैं, रोग नहीं।",
+        "en": "In the hormone-season the skin's oil glands awaken — pimples are that season's dew, not a disease."
+      }
+    },
+    {
+      "id": "ch10_q1077",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़कियों में कूल्हों (हिप्स) का चौड़ा होना किस श्रेणी का लक्षण है?",
+        "en": "Broadening of hips in girls is a characteristic of which category?"
+      },
+      "options": {
+        "hi": [
+          "द्वितीयक लैंगिक लक्षण",
+          "प्राथमिक लैंगिक लक्षण",
+          "अस्थि-रोग",
+          "मांसपेशी-रोग"
+        ],
+        "en": [
+          "A secondary sexual characteristic",
+          "A primary sexual characteristic",
+          "A bone disease",
+          "A muscle disease"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यौवन-हार्मोन की छाँव में शरीर की बनावट स्त्री-रूप की ओर घूमती है — कूल्हों की चौड़ाई उसी का अंग।",
+        "en": "Under puberty-hormone's shade the build turns towards the feminine form — hip-breadth is part of it."
+      }
+    },
+    {
+      "id": "ch10_q1078",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लड़कों में द्वितीयक लैंगिक लक्षणों को कौन-सा हार्मोन सामने लाता है?",
+        "en": "Which hormone brings forth the secondary sexual characteristics in boys?"
+      },
+      "options": {
+        "hi": [
+          "एड्रेनालिन",
+          "टेस्टोस्टेरोन",
+          "एस्ट्रोजन",
+          "इंसुलिन"
+        ],
+        "en": [
+          "Adrenaline",
+          "Testosterone",
+          "Oestrogen",
+          "Insulin"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "टेस्टोस्टेरोन के इशारे पर दाढ़ी, आवाज़, कंधे — सब रंगमंच पर आते हैं।",
+        "en": "At testosterone's cue the beard, voice, shoulders — all enter the stage."
+      }
+    },
+    {
+      "id": "ch10_q1079",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लड़कियों के द्वितीयक लैंगिक लक्षणों के विकास का मुख्य स्रोत-हार्मोन कौन-सा है?",
+        "en": "Which is the main source-hormone for the development of secondary sexual characteristics in girls?"
+      },
+      "options": {
+        "hi": [
+          "थायरॉक्सिन",
+          "वृद्धि हार्मोन",
+          "एस्ट्रोजन",
+          "टेस्टोस्टेरोन"
+        ],
+        "en": [
+          "Thyroxine",
+          "Growth hormone",
+          "Oestrogen",
+          "Testosterone"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "एस्ट्रोजन लड़की के शरीर का यौवन-वास्तुकार है।",
+        "en": "Oestrogen is the puberty-architect of a girl's body."
+      }
+    },
+    {
+      "id": "ch10_q1080",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्राथमिक और द्वितीयक लैंगिक लक्षणों का मूल अंतर क्या है?",
+        "en": "What is the basic difference between primary and secondary sexual characteristics?"
+      },
+      "options": {
+        "hi": [
+          "दोनों जन्म से होते हैं",
+          "दोनों यौवन में आते हैं",
+          "प्राथमिक यौवन में, द्वितीयक जन्म से",
+          "प्राथमिक जन्म से होते हैं; द्वितीयक यौवन में विकसित होते हैं"
+        ],
+        "en": [
+          "Both exist from birth",
+          "Both come at puberty",
+          "Primary at puberty, secondary from birth",
+          "Primary exist from birth; secondary develop at puberty"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जन्म की थाती में प्राथमिक; यौवन की कली में द्वितीयक — समय ही विभाजक रेखा।",
+        "en": "In birth's store lie the primary; in puberty's bud the secondary — time itself is the dividing line."
+      }
+    },
+    {
+      "id": "ch10_q1081",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "लड़कों के गले में उभरने वाला 'एडम्स एप्पल' वास्तव में क्या है?",
+        "en": "What actually is the 'Adam's apple' that protrudes in boys' throats?"
+      },
+      "options": {
+        "hi": [
+          "बढ़े हुए स्वरयंत्र (voice box) का उभार",
+          "अतिरिक्त हड्डी",
+          "गले की गाँठ",
+          "कोई मांसपेशी का खिंचाव"
+        ],
+        "en": [
+          "The bulge of the grown voice box (larynx)",
+          "An extra bone",
+          "A knot of the throat",
+          "A pull of some muscle"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "यौवन में स्वरयंत्र आगे की ओर बढ़ जाता है — वही उभार एडम्स एप्पल, और बड़े स्वरयंत्र से आवाज़ भारी।",
+        "en": "At puberty the voice box grows forward — that bulge is Adam's apple, and the larger box deepens the voice."
+      }
+    },
+    {
+      "id": "ch10_q1082",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा लड़कों या लड़कियों का द्वितीयक लैंगिक लक्षण नहीं है?",
+        "en": "Which of the following is NOT a secondary sexual characteristic of boys or girls?"
+      },
+      "options": {
+        "hi": [
+          "आवाज़ का भारी होना",
+          "आँखों का रंग",
+          "दाढ़ी-मूँछ का आना",
+          "स्तनों का विकास"
+        ],
+        "en": [
+          "Deepening of voice",
+          "Colour of the eyes",
+          "Appearance of facial hair",
+          "Development of breasts"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "आँखों का रंग जन्मजात लक्षण है, यौवन की देन नहीं — बाकी तीनों द्वितीयक।",
+        "en": "Eye colour is a birth-given trait, not puberty's gift — the other three are secondary."
+      }
+    },
+    {
+      "id": "ch10_q1083",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था में मुँहासे क्यों निकलते हैं?",
+        "en": "Why do pimples break out in adolescence?"
+      },
+      "options": {
+        "hi": [
+          "पढ़ने से",
+          "जूते पहनने से",
+          "हार्मोन के प्रभाव से त्वचा की तेल-ग्रंथियाँ अधिक सक्रिय हो जाती हैं",
+          "पानी पीने से"
+        ],
+        "en": [
+          "From studying",
+          "From wearing shoes",
+          "Under hormone influence the skin's oil glands become overactive",
+          "From drinking water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हार्मोन की गर्मी में तेल-ग्रंथियाँ धम-धम बहती हैं — रोमछिद्र बंद होते हैं, मुँहासे जन्म लेते हैं।",
+        "en": "In hormone's heat the oil glands flow thick — pores clog and pimples are born."
+      }
+    },
+    {
+      "id": "ch10_q1084",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आवाज़ का परिवर्तन लड़कों में लड़कियों की तुलना में अधिक स्पष्ट क्यों होता है?",
+        "en": "Why is the change of voice more distinct in boys than in girls?"
+      },
+      "options": {
+        "hi": [
+          "लड़के अधिक बोलते हैं",
+          "लड़कों की जीभ लंबी होती है",
+          "लड़के अधिक गाते हैं",
+          "लड़कों का स्वरयंत्र अधिक बढ़ जाता है"
+        ],
+        "en": [
+          "Boys talk more",
+          "Boys' tongues are longer",
+          "Boys sing more",
+          "The voice box grows more in boys"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "टेस्टोस्टेरोन स्वरयंत्र को बड़ा-भारी बनाता है — तार लंबे, सुर गहरा; लड़कियों में वृद्धि हल्की।",
+        "en": "Testosterone makes the voice box big-heavy — longer cords, deeper tone; in girls the growth is mild."
+      }
+    },
+    {
+      "id": "ch10_q1085",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यौवन में लड़कों के कंधे चौड़े और लड़कियों के कूल्हे चौड़े — यह भिन्नता किसका प्रतीक है?",
+        "en": "In puberty boys' shoulders broaden and girls' hips widen — this difference is a mark of what?"
+      },
+      "options": {
+        "hi": [
+          "लैंगिक भिन्नता के द्वितीयक लक्षणों की",
+          "पोशाक की",
+          "आहार की",
+          "मौसम की"
+        ],
+        "en": [
+          "The secondary characteristics of sexual difference",
+          "Of clothing",
+          "Of diet",
+          "Of weather"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शरीर की बनावट ही यौवन में लिंग-रूप ग्रहण करती है — कंधा-कूल्हा उसी नक्शे की रेखाएँ।",
+        "en": "The body's very build takes a sex-form at puberty — shoulder and hip are lines of the same map."
+      }
+    },
+    {
+      "id": "ch10_q1086",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यौवन में मांसपेशियों का विकास प्रायः किसमें अधिक प्रखर होता है?",
+        "en": "The development of muscles at puberty is usually more pronounced in whom?"
+      },
+      "options": {
+        "hi": [
+          "किसी में नहीं",
+          "लड़कों में — टेस्टोस्टेरोन के प्रभाव से",
+          "लड़कियों में — एस्ट्रोजन के प्रभाव से",
+          "दोनों में समान"
+        ],
+        "en": [
+          "In neither",
+          "In boys — under testosterone's influence",
+          "In girls — under oestrogen's influence",
+          "Equally in both"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "टेस्टोस्टेरोन मांसपेशी का पुश्तैनी है — इसीलिए लड़कों का ढाँचा भरसक बनता है।",
+        "en": "Testosterone is the patron of muscle — hence a boy's frame fills out amply."
+      }
+    },
+    {
+      "id": "ch10_q1087",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा समूह पूर्णतः लड़कियों के द्वितीयक लैंगिक लक्षणों का है?",
+        "en": "Which group consists ENTIRELY of secondary sexual characteristics of girls?"
+      },
+      "options": {
+        "hi": [
+          "कंधे चौड़े, एडम्स एप्पल",
+          "मूँछें और स्तन-विकास",
+          "स्तन-विकास, कूल्हों का चौड़ा होना, शरीर-केश",
+          "दाढ़ी, मूँछ, भारी आवाज़"
+        ],
+        "en": [
+          "Broad shoulders, Adam's apple",
+          "Moustache and breast development",
+          "Breast development, broadening of hips, body hair",
+          "Beard, moustache, heavy voice"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पहला समूह लड़कियों का; दूसरा-तीसरा लड़कों का; चौथा मिलाजुला — शुद्ध लड़कियों वाला केवल पहला।",
+        "en": "The first group is girls'; second-third are boys'; the fourth is mixed — purely girls' is only the first."
+      }
+    },
+    {
+      "id": "ch10_q1088",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्राथमिक लैंगिक लक्षण और द्वितीयक लैंगिक लक्षण — सुमेलन परीक्षण: कौन-सा युग्म सही है?",
+        "en": "Primary and secondary sexual characteristics — matching test: which pair is correct?"
+      },
+      "options": {
+        "hi": [
+          "प्राथमिक — दाढ़ी; द्वितीयक — प्रजनन अंग",
+          "प्राथमिक — आवाज़; द्वितीयक — प्रजनन अंग",
+          "दोनों — केवल आँतरिक भावनाएँ",
+          "प्राथमिक — जन्मजात प्रजनन अंग; द्वितीयक — यौवन में विकसित बाह्य लक्षण"
+        ],
+        "en": [
+          "Primary — beard; secondary — reproductive organs",
+          "Primary — voice; secondary — reproductive organs",
+          "Both — only inner feelings",
+          "Primary — birth-given reproductive organs; secondary — external features developed at puberty"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जन्म की संरचना प्राथमिक, यौवन की प्रसूनि द्वितीयक — सुमेलन केवल पहले युग्म में सही बैठता है।",
+        "en": "Birth's structure is primary, puberty's bloom secondary — the matching sits right only in the first pair."
+      }
+    },
+    {
+      "id": "ch10_q1089",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "मानव में स्तन-ग्रंथियों (मैमरी ग्लैंड्स) का यौवन में विकसित होना किस श्रेणी में आता है — यह प्रश्न अक्सर भ्रमित करता है?",
+        "en": "In humans, the development of mammary glands at puberty falls in which category — a question that often confuses?"
+      },
+      "options": {
+        "hi": [
+          "द्वितीयक लैंगिक लक्षण",
+          "प्राथमिक लैंगिक लक्षण",
+          "अंतःस्रावी रोग",
+          "पाचन लक्षण"
+        ],
+        "en": [
+          "A secondary sexual characteristic",
+          "A primary sexual characteristic",
+          "An endocrine disease",
+          "A digestive feature"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ग्रंथि जन्म से है, पर उसका विकास-विस्तार यौवन में होता है — इसलिए मानव-शास्त्र में इसे द्वितीयक लक्षण की श्रेणी में रखा जाता है।",
+        "en": "The gland exists from birth, but its growth-expansion happens at puberty — hence in human science it is placed among secondary characteristics."
+      }
+    },
+    {
+      "id": "ch10_q1090",
+      "topic": "secondary-sexual-characteristics",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निम्न लिंग-लक्षण युग्मों में से कौन-सा गलत है?",
+        "en": "Which of these sex-characteristic pairs is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "लड़कियाँ — स्तनों का विकास",
+          "लड़के — एस्ट्रोजन का प्रभावी स्रोत",
+          "लड़कियाँ — एस्ट्रोजन का प्रभावी स्रोत",
+          "लड़के — दाढ़ी-मूँछ का विकास"
+        ],
+        "en": [
+          "Girls — development of breasts",
+          "Boys — the effective source of oestrogen",
+          "Girls — the effective source of oestrogen",
+          "Boys — development of facial hair"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एस्ट्रोजन की मुख्य कुर्सी अंडाशय है, वृषण नहीं — पहला युग्म ही गलत; बाकी तीन सही।",
+        "en": "Oestrogen's main seat is the ovary, not the testes — the first pair is wrong; the rest three stand right."
+      }
+    },
+    {
+      "id": "ch10_q1091",
+      "topic": "growth-hormone",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वृद्धि हार्मोन (growth hormone) किस ग्रंथि से स्रावित होता है?",
+        "en": "From which gland is the growth hormone secreted?"
+      },
+      "options": {
+        "hi": [
+          "अधिवृक्क से",
+          "अग्न्याशय से",
+          "पिट्यूटरी से",
+          "थायरॉइड से"
+        ],
+        "en": [
+          "The adrenal",
+          "The pancreas",
+          "The pituitary",
+          "The thyroid"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मस्तिष्क-तल पर बैठी पिट्यूटरी ही शरीर की वृद्धि की मुख्य बागडोर रखती है।",
+        "en": "The pituitary, seated at the brain's floor, holds the main charge of the body's growth."
+      }
+    },
+    {
+      "id": "ch10_q1092",
+      "topic": "growth-hormone",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वृद्धि हार्मोन का मुख्य कार्य क्या है?",
+        "en": "What is the main function of the growth hormone?"
+      },
+      "options": {
+        "hi": [
+          "भोजन पचाना",
+          "रुधिर जमाना",
+          "बालों का रंग बदलना",
+          "शरीर की समग्र वृद्धि को नियंत्रित और बढ़ावा देना"
+        ],
+        "en": [
+          "Digesting food",
+          "Clotting blood",
+          "Changing hair colour",
+          "Controlling and promoting the body's overall growth"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हड्डियों, मांसपेशियों, अंगों — समूचे शरीर के निर्माण-कार्य की मेजबानी वृद्धि हार्मोन करता है।",
+        "en": "Bones, muscles, organs — the growth hormone hosts the construction-work of the whole body."
+      }
+    },
+    {
+      "id": "ch10_q1093",
+      "topic": "growth-hormone",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बचपन में वृद्धि हार्मोन की कमी से क्या हो सकता है?",
+        "en": "What can happen from a deficiency of growth hormone in childhood?"
+      },
+      "options": {
+        "hi": [
+          "बौनापन (कद बहुत कम रह जाना)",
+          "विशालकायता",
+          "रात में लंबा होना",
+          "बाल सफेद होना"
+        ],
+        "en": [
+          "Dwarfism (height staying very short)",
+          "Gigantism",
+          "Growing tall at night",
+          "Hair turning grey"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ईंट-सीमेंट की आपूर्ति घटी तो दीवार अधूरी — बचपन की कमी बौनेपन का रूप ले लेती है।",
+        "en": "Less brick-cement supply, unfinished wall — childhood shortage takes the form of dwarfism."
+      }
+    },
+    {
+      "id": "ch10_q1094",
+      "topic": "growth-hormone",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बचपन में ही वृद्धि हार्मोन का स्रावण बहुत अधिक होने पर क्या स्थिति उत्पन्न हो सकती है?",
+        "en": "What condition can arise if growth hormone secretion is far too much in childhood itself?"
+      },
+      "options": {
+        "hi": [
+          "मोटापा घटना",
+          "विशालकायता (असामान्य लंबाई)",
+          "बौनापन",
+          "कद स्थिर रहना"
+        ],
+        "en": [
+          "Obesity decreasing",
+          "Gigantism (abnormal tallness)",
+          "Dwarfism",
+          "Height staying static"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सीमा से बढ़ी आपूर्ति तो दीवार आसमान छूए — बचपन की अधिकता विशालकायता बनती है।",
+        "en": "Supply beyond limit and the wall touches the sky — childhood excess becomes gigantism."
+      }
+    },
+    {
+      "id": "ch10_q1095",
+      "topic": "growth-hormone",
+      "difficulty": "easy",
+      "question": {
+        "hi": "'वृद्धि' और 'विकास' में मूल अंतर क्या है?",
+        "en": "What is the basic difference between 'growth' and 'development'?"
+      },
+      "options": {
+        "hi": [
+          "वृद्धि केवल बच्चों में, विकास केवल वृद्धों में",
+          "विकास आकार है, वृद्धि परिपक्वता",
+          "वृद्धि आकार में वृद्धि है; विकास कार्य-क्षमता की परिपक्वता",
+          "दोनों एक ही हैं"
+        ],
+        "en": [
+          "Growth only in children, development only in the old",
+          "Development is size, growth is maturity",
+          "Growth is increase in size; development is maturation of function",
+          "Both are the same"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "लंबाई-वजन बढ़ना वृद्धि; समझ-कौशल-जिम्मेदारी का पकना विकास — दोनों पहिए मिलकर जीवन-गाड़ी चलाते हैं।",
+        "en": "Rise of height-weight is growth; the ripening of sense-skill-responsibility is development — both wheels roll life's cart."
+      }
+    },
+    {
+      "id": "ch10_q1096",
+      "topic": "growth-hormone",
+      "difficulty": "easy",
+      "question": {
+        "hi": "शरीर की लंबाई में वृद्धि मुख्यतः किस हार्मोन से जुड़ी मानी जाती है?",
+        "en": "Increase in the body's height is linked mainly with which hormone?"
+      },
+      "options": {
+        "hi": [
+          "एड्रेनालिन",
+          "इंसुलिन",
+          "एस्ट्रोजन",
+          "वृद्धि हार्मोन"
+        ],
+        "en": [
+          "Adrenaline",
+          "Insulin",
+          "Oestrogen",
+          "The growth hormone"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कद की कुंजी पिट्यूटरी की इसी चाबी में रहती है।",
+        "en": "The key of height stays with this very key of the pituitary."
+      }
+    },
+    {
+      "id": "ch10_q1097",
+      "topic": "growth-hormone",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गहरी नींद के दौरान वृद्धि हार्मोन का स्रावण कैसा रहता है?",
+        "en": "How is the secretion of growth hormone during deep sleep?"
+      },
+      "options": {
+        "hi": [
+          "अपेक्षाकृत अधिक",
+          "पूरी तरह बंद",
+          "आधा-अधूरा",
+          "केवल दिन में होता है"
+        ],
+        "en": [
+          "Relatively more",
+          "Fully stopped",
+          "Half-done",
+          "It occurs only in the day"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सोते शरीर में वृद्धि की रात-पाली चलती है — इसीलिए बच्चों-किशोरों की भरपूर नींद जरूरी।",
+        "en": "In the sleeping body runs the night-shift of growth — hence full sleep matters for children and adolescents."
+      }
+    },
+    {
+      "id": "ch10_q1098",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'वृद्धि हार्मोन केवल लंबाई बढ़ाता है' — यह कथन क्यों अधूरा है?",
+        "en": "Why is the statement 'growth hormone only increases height' incomplete?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि वह केवल दाँत बढ़ाता है",
+          "वह लंबाई के साथ मांसपेशियों और अंगों की समग्र वृद्धि भी नियंत्रित करता है",
+          "क्योंकि वह केवल बाल बढ़ाता है",
+          "क्योंकि वह कुछ नहीं करता"
+        ],
+        "en": [
+          "Because it only grows teeth",
+          "Along with height it governs the overall growth of muscles and organs",
+          "Because it only grows hair",
+          "Because it does nothing"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "केवल फूल नहीं — पूरा बगीचा; वृद्धि हार्मोन का अधिकार शरीर के समग्र नक्शे पर है।",
+        "en": "Not just one flower — the whole garden; growth hormone's writ runs over the body's whole map."
+      }
+    },
+    {
+      "id": "ch10_q1099",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बौनेपन का हार्मोन-संबंधी कारण क्या हो सकता है?",
+        "en": "What can be the hormone-related cause of dwarfism?"
+      },
+      "options": {
+        "hi": [
+          "इंसुलिन की अधिकता",
+          "एस्ट्रोजन की कमी",
+          "बचपन में वृद्धि हार्मोन की कमी",
+          "वयस्कता में एड्रेनालिन की अधिकता"
+        ],
+        "en": [
+          "Excess of insulin",
+          "Deficiency of oestrogen",
+          "Deficiency of growth hormone in childhood",
+          "Excess of adrenaline in adulthood"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जिस उम्र में नींव गढ़ी जाती है, उसी में सामग्री कम पड़ी — तो कद की इमारत नीची रह गई।",
+        "en": "The age when the foundation is cast, right there the material fell short — so the tower of height stayed low."
+      }
+    },
+    {
+      "id": "ch10_q1100",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विशालकायता विकसित होने की शर्त क्या है?",
+        "en": "What is the condition for gigantism to develop?"
+      },
+      "options": {
+        "hi": [
+          "हड्डियों की वृद्धि रुकने के बाद कमी",
+          "केवल वृद्धावस्था में अधिकता",
+          "केवल नवजात में कमी",
+          "हड्डियों की वृद्धि चालू होने की अवस्था में ही हार्मोन की अधिकता"
+        ],
+        "en": [
+          "Deficiency after bones' growth stops",
+          "Excess only in old age",
+          "Deficiency only in the newborn",
+          "Hormone excess while the bones' growth is still running"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बढ़ती ईंटों पर ही अतिरिक्त गारा चढ़ेगा — नक्शा जम चुका हो तो लंबाई का दरवाजा बंद।",
+        "en": "Extra mortar sticks only on rising bricks — once the design is set, the door of height closes."
+      }
+    },
+    {
+      "id": "ch10_q1101",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पिट्यूटरी → वृद्धि हार्मोन → परिणाम — श्रृंखला का सही सुमेलन कौन-सा है?",
+        "en": "Pituitary → growth hormone → outcome — which is the correct matching of the chain?"
+      },
+      "options": {
+        "hi": [
+          "पिट्यूटरी से वृद्धि हार्मोन → शरीर की समग्र वृद्धि",
+          "पिट्यूटरी से इंसुलिन → शर्करा नियंत्रण",
+          "थायरॉइड से वृद्धि हार्मोन → आपात तत्परता",
+          "अधिवृक्क से वृद्धि हार्मोन → चयापचय"
+        ],
+        "en": [
+          "Pituitary gives growth hormone → overall growth of body",
+          "Pituitary gives insulin → sugar control",
+          "Thyroid gives growth hormone → emergency alertness",
+          "Adrenal gives growth hormone → metabolism"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ग्रंथि-हार्मोन-फल तीनों की तारतम्य पहले युग्म में ही शुद्ध बैठती है।",
+        "en": "The tuning of gland-hormone-fruit sits true only in the first pair."
+      }
+    },
+    {
+      "id": "ch10_q1102",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वृद्धि में थायरॉक्सिन की भूमिका क्या है?",
+        "en": "What is thyroxine's role in growth?"
+      },
+      "options": {
+        "hi": [
+          "उसका वृद्धि से कोई लेना-देना नहीं",
+          "वह वृद्धि हार्मोन का सहयोगी है — चयापचय चुस्त रखकर वृद्धि को गति देता है",
+          "वह वृद्धि रोकता है",
+          "वह केवल आवाज़ बदलता है"
+        ],
+        "en": [
+          "It has nothing to do with growth",
+          "It is the growth hormone's ally — keeping metabolism brisk, it speeds growth",
+          "It stops growth",
+          "It only changes the voice"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "टैडपोल का रूपांतरण हो या बच्चे की लंबाई — थायरॉक्सिन घास-फूस का काम नहीं करता, इंजन का।",
+        "en": "Be it a tadpole's transformation or a child's height — thyroxine works not as the hay but as the engine."
+      }
+    },
+    {
+      "id": "ch10_q1103",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "निम्न में से कौन-सा 'विकास' (development) का सही उदाहरण है?",
+        "en": "Which of these is a correct example of 'development'?"
+      },
+      "options": {
+        "hi": [
+          "केवल कद बढ़ना",
+          "केवल बाल लंबे होना",
+          "निर्णय लेने की क्षमता का पकना",
+          "केवल वजन बढ़ना"
+        ],
+        "en": [
+          "Only height gain",
+          "Only hair getting longer",
+          "The ripening of decision-making capacity",
+          "Only weight gain"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "आकार की बढ़त वृद्धि है; क्षमता की बढ़त विकास — तर्क-क्षमता बाद वाली श्रेणी की सधी हुई मिसाल।",
+        "en": "Size's increase is growth; capacity's increase is development — reasoning-power is a seasoned specimen of the latter."
+      }
+    },
+    {
+      "id": "ch10_q1104",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था में ऊँचाई की तीव्र बढ़त (growth spurt) के पीछे कौन-सी हार्मोन-स्थिति होती है?",
+        "en": "Which hormone-situation lies behind the sharp rise of height (growth spurt) in adolescence?"
+      },
+      "options": {
+        "hi": [
+          "सभी हार्मोन बंद हो जाना",
+          "केवल एड्रेनालिन बढ़ना",
+          "इंसुलिन शून्य होना",
+          "वृद्धि हार्मोन के साथ यौवन-हार्मोनों का भी स्रावण ऊँचा हो जाना"
+        ],
+        "en": [
+          "All hormones shutting off",
+          "Only adrenaline rising",
+          "Insulin falling to zero",
+          "Growth hormone's secretion rising high together with the puberty hormones"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दो नदियों का संगम-मौसम — वृद्धि हार्मोन और यौवन-हार्मोन एक साथ बहते हैं, कद झटपट खिंचता है।",
+        "en": "The confluence-season of two rivers — growth hormone and puberty hormones flow together, height pulls up swiftly."
+      }
+    },
+    {
+      "id": "ch10_q1105",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बच्चे की वृद्धि उम्र के अनुसार असामान्य रूप से धीमी दिखे तो सबसे उचित कदम क्या है?",
+        "en": "If a child's growth looks abnormally slow for age, what is the most proper step?"
+      },
+      "options": {
+        "hi": [
+          "चिकित्सक से जाँच-परामर्श कराना",
+          "घर पर रहकर इंतज़ार करना",
+          "अफवाहों पर भरोसा करना",
+          "खाना बंद कर देना"
+        ],
+        "en": [
+          "Getting a check-up and counselling from a doctor",
+          "Waiting at home",
+          "Trusting rumours",
+          "Stopping food"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धीमी वृद्धि के पीछे हार्मोन भी हो सकते हैं, पोषण भी — जाँच ही असली कारण खोलती है।",
+        "en": "Behind slow growth may lie hormones or nutrition — only a check-up opens the real cause."
+      }
+    },
+    {
+      "id": "ch10_q1106",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "हड्डियों की लंबी-वृद्धि वाली अवस्था समाप्त होने के बाद कद में वृद्धि कैसी रह जाती है?",
+        "en": "After the stage of bones' length-growth ends, what happens to height?"
+      },
+      "options": {
+        "hi": [
+          "रोज़ बदलती रहती है",
+          "प्रायः लगभग स्थिर रह जाती है",
+          "दोगुनी बढ़ने लगती है",
+          "आधी घट जाती है"
+        ],
+        "en": [
+          "It changes daily",
+          "It usually stays nearly fixed",
+          "It starts doubling",
+          "It halves"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लंबाई की दुकान जब शटर डाल देती है, तो कद अपने अंतिम आँकड़े पर टिक जाता है।",
+        "en": "When the shop of lengthiness pulls its shutter down, height settles at its final figure."
+      }
+    },
+    {
+      "id": "ch10_q1107",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर की ऊँचाई के पीछे काम करने वाले तीन प्रमुख कारक कौन-से हैं?",
+        "en": "Which three chief factors work behind an adolescent's height?"
+      },
+      "options": {
+        "hi": [
+          "मौसम, पते और नाम",
+          "स्कूल, बस और बैग",
+          "आनुवंशिकता, हार्मोन और पोषण",
+          "जूते, कपड़े और टोपी"
+        ],
+        "en": [
+          "Weather, address and name",
+          "School, bus and bag",
+          "Heredity, hormones and nutrition",
+          "Shoes, clothes and cap"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "मिलानटैंक में तीनों की भरपाई जरूरी — वंश नक्शा देता है, हार्मोन गति, पोषण ईंटें।",
+        "en": "All three must be filled in the balance-tank — heredity gives the map, hormones the speed, nutrition the bricks."
+      }
+    },
+    {
+      "id": "ch10_q1108",
+      "topic": "growth-hormone",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सही 'विकास' की पहचान वाला कथन चुनिए — विकास में गिनती किस चीज़ की जाती है?",
+        "en": "Pick the statement identifying true 'development' — in development, what gets counted?"
+      },
+      "options": {
+        "hi": [
+          "केवल शरीर का भार",
+          "केवल बालों की लंबाई",
+          "केवल आँखों की संख्या",
+          "समझ, कौशल और व्यवहार की परिपक्वता"
+        ],
+        "en": [
+          "Only the body's weight",
+          "Only the length of hair",
+          "Only the number of eyes",
+          "The maturity of understanding, skill and behaviour"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विकास का मापदंड तराजू से नहीं, व्यवहार से — समझदारी जितनी गहरी, विकास उतना ऊँचा।",
+        "en": "Development's measure is not the scale but conduct — the deeper the judgement, the taller the development."
+      }
+    },
+    {
+      "id": "ch10_q1109",
+      "topic": "growth-hormone",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक व्यक्ति का कद बचपन से ही असामान्य रूप से कम रहा — प्रायः कौन-सी ग्रंथि की कम-सक्रियता संभावित कारण हो सकती है?",
+        "en": "A person's height stayed abnormally short since childhood — which gland's under-activity is the likely cause?"
+      },
+      "options": {
+        "hi": [
+          "पिट्यूटरी",
+          "अधिवृक्क",
+          "अग्न्याशय",
+          "थायरॉइड नहीं, अपितु यकृत"
+        ],
+        "en": [
+          "The pituitary",
+          "The adrenal",
+          "The pancreas",
+          "Not the thyroid but the liver"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वृद्धि-हार्मोन की फैक्ट्री पिट्यूटरी है — बचपन से ठप पड़ी फैक्ट्री का नतीजा बौना कद।",
+        "en": "The growth-hormone factory is the pituitary — a factory stalled since childhood yields a short stature."
+      }
+    },
+    {
+      "id": "ch10_q1110",
+      "topic": "growth-hormone",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वृद्धि हार्मोन संबंधी निम्न में से कौन-सा कथन गलत है?",
+        "en": "Which statement about growth hormone is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "यह समग्र शारीरिक वृद्धि नियंत्रित करता है",
+          "वृद्धि हार्मोन की अधिकता से हमेशा बौनापन होता है",
+          "यह पिट्यूटरी से स्रावित होता है",
+          "इसकी बचपन की कमी बौनापन का कारण बन सकती है"
+        ],
+        "en": [
+          "It controls overall bodily growth",
+          "Excess of growth hormone always causes dwarfism",
+          "It is secreted by the pituitary",
+          "Its childhood deficiency can cause dwarfism"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अधिकता बौनापन नहीं — विशालकायता की ओर ले जाती है; कमी से बौनापन — पहला कथन ही उल्टा पड़ा है।",
+        "en": "Excess leads not to dwarfism but towards gigantism; deficiency gives dwarfism — the first statement stands inverted."
+      }
+    },
+    {
+      "id": "ch10_q1111",
+      "topic": "reproductive-phase",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मासिक धर्म (menstruation) के दौरान शरीर से वास्तव में क्या निकलता है?",
+        "en": "What actually flows out of the body during menstruation?"
+      },
+      "options": {
+        "hi": [
+          "पाचक रस",
+          "लसीका वाहिकाओं का दूध",
+          "गर्भाशय की अंतर-परत का टूटा ऊतक और रक्त",
+          "केवल शुद्ध पानी"
+        ],
+        "en": [
+          "Digestive juice",
+          "The lymph's milk",
+          "The broken tissue of the uterus's inner lining and blood",
+          "Only pure water"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गर्भाशय की बिछाई गद्दी जब काम न आए, तो शरीर उसे तोड़कर बाहर भेजता है — यही मासिक धर्म है।",
+        "en": "When the uterus's spread mattress serves no use, the body breaks and sends it out — that is menstruation."
+      }
+    },
+    {
+      "id": "ch10_q1112",
+      "topic": "reproductive-phase",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्त्रियों में प्रजनन अवस्था की समाप्ति को क्या कहते हैं?",
+        "en": "What is the end of the reproductive phase in women called?"
+      },
+      "options": {
+        "hi": [
+          "मेनार्क",
+          "यौवनारंभ",
+          "ओव्यूलेशन",
+          "रजोनिवृत्ति (मेनोपॉज)"
+        ],
+        "en": [
+          "Menarche",
+          "Puberty onset",
+          "Ovulation",
+          "Menopause"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मासिक चक्र की स्थायी विदाई — रजोनिवृत्ति; इसके बाद प्रजनन क्षमता समाप्त मानी जाती है।",
+        "en": "The permanent farewell of the monthly cycle — menopause; after it reproductive capacity is taken as ended."
+      }
+    },
+    {
+      "id": "ch10_q1113",
+      "topic": "reproductive-phase",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रजोनिवृत्ति (मेनोपॉज) के बाद स्त्री में क्या स्थिति हो जाती है?",
+        "en": "After menopause, what becomes the state of a woman?"
+      },
+      "options": {
+        "hi": [
+          "मासिक धर्म और प्रजनन क्षमता समाप्त हो जाती है",
+          "मासिक धर्म दोगुना हो जाता है",
+          "प्रजनन क्षमता बढ़ जाती है",
+          "कुछ नहीं बदलता"
+        ],
+        "en": [
+          "Menstruation and reproductive capacity come to an end",
+          "Menstruation doubles",
+          "Reproductive capacity increases",
+          "Nothing changes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जो घड़ी वर्षों टिकती रही, वह रजोनिवृत्ति पर स्थिर हो जाती है — यह सामान्य जैविक घटना है, बीमारी नहीं।",
+        "en": "The clock that ticked for years stands still at menopause — a normal biological event, not an illness."
+      }
+    },
+    {
+      "id": "ch10_q1114",
+      "topic": "reproductive-phase",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पुरुषों में शुक्राणुओं का उत्पादन प्रायः कब आरंभ होता है?",
+        "en": "When does sperm production in males usually begin?"
+      },
+      "options": {
+        "hi": [
+          "रजोनिवृत्ति के बाद",
+          "यौवनारंभ के साथ — लगभग 11–14 वर्ष पर",
+          "जन्म के समय",
+          "पाँच वर्ष की आयु में"
+        ],
+        "en": [
+          "After menopause",
+          "With the onset of puberty — around 11–14 years",
+          "At the time of birth",
+          "At age five"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "यौवन की घंटी के साथ ही वृषण सक्रिय हो उठते हैं — शुक्राणु-उत्पादन का कारखाना चालू।",
+        "en": "With puberty's bell the testes wake — the sperm factory switches on."
+      }
+    },
+    {
+      "id": "ch10_q1115",
+      "topic": "reproductive-phase",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मासिक धर्म-चक्र का दोहराव प्रायः कितने समय के अंतराल पर होता है?",
+        "en": "At roughly what interval does the menstrual cycle repeat?"
+      },
+      "options": {
+        "hi": [
+          "हर घंटे",
+          "साल में एक बार",
+          "लगभग एक माह (मासिक) पर",
+          "प्रतिदिन"
+        ],
+        "en": [
+          "Every hour",
+          "Once a year",
+          "About one month (monthly)",
+          "Every day"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चंद्र-चक्र की कद-काठी के बराबर अंतराल — इसीलिए नाम 'मासिक' धर्म पड़ा।",
+        "en": "An interval of about the moon-cycle's span — hence the name 'monthly' flow."
+      }
+    },
+    {
+      "id": "ch10_q1116",
+      "topic": "reproductive-phase",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़कियों में प्रजनन अवस्था का आरंभ प्रायः किस आयु-दौर में होता है?",
+        "en": "In girls, the reproductive phase usually begins in which age-bracket?"
+      },
+      "options": {
+        "hi": [
+          "2–3 वर्ष में",
+          "20–22 वर्ष में",
+          "60–62 वर्ष में",
+          "लगभग 10–12 वर्ष के आसपास"
+        ],
+        "en": [
+          "At 2–3 years",
+          "At 20–22 years",
+          "At 60–62 years",
+          "Around 10–12 years"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दस से बारह के बीच मेनार्क की घंटी प्रायः बज जाती है — किसी की जल्दी, किसी की देर।",
+        "en": "Between ten and twelve the bell of menarche usually rings — early for some, late for others."
+      }
+    },
+    {
+      "id": "ch10_q1117",
+      "topic": "reproductive-phase",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मासिक धर्म का पहली बार आरंभ होना किसका संकेत है?",
+        "en": "The first-ever beginning of menstruation signals what?"
+      },
+      "options": {
+        "hi": [
+          "किशोरी में प्रजनन परिपक्वता की ओर बढ़ने का",
+          "किसी गंभीर रोग का",
+          "कद घटने का",
+          "आँखें कमजोर होने का"
+        ],
+        "en": [
+          "The adolescent's move towards reproductive maturity",
+          "Some serious disease",
+          "Height shrinking",
+          "Eyes weakening"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मेनार्क रोग नहीं, परिपक्वता का पहला पत्र है — शरीर यह घोषणा करता है कि वह बड़ा हो रहा है।",
+        "en": "Menarche is not disease but maturity's first letter — the body declares it is growing up."
+      }
+    },
+    {
+      "id": "ch10_q1118",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मासिक चक्र में गर्भाशय की भीतरी परत हर बार क्यों मोटी-तैयार होती है?",
+        "en": "Why does the uterus's inner lining thicken in readiness every cycle?"
+      },
+      "options": {
+        "hi": [
+          "श्वास में सहायता हेतु",
+          "संभावित गर्भाधान की स्थिति में भ्रूण को सहारा देने की तैयारी में",
+          "पाचन में सहायता हेतु",
+          "शरीर को गर्म रखने हेतु"
+        ],
+        "en": [
+          "To help breathing",
+          "In preparation to support an embryo in case a pregnancy begins",
+          "To help digestion",
+          "To keep the body warm"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गर्भाशय हर माह एक पलंग बिछाता है — अतिथि आए तो ठीक, न आए तो गद्दी समेट ली जाती है।",
+        "en": "The uterus spreads a bed each month — if the guest arrives, well; if not, the mattress is folded away."
+      }
+    },
+    {
+      "id": "ch10_q1119",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जब गर्भाधान नहीं होता, तो गर्भाशय की तैयार परत का क्या होता है?",
+        "en": "When pregnancy does not happen, what becomes of the uterus's prepared lining?"
+      },
+      "options": {
+        "hi": [
+          "वह पथरी बन जाती है",
+          "वह फेफड़ों तक चली जाती है",
+          "वह टूटकर मासिक धर्म के रूप में बाहर निकल जाती है",
+          "वह स्थायी रह जाती है"
+        ],
+        "en": [
+          "It turns to stone",
+          "It walks off to the lungs",
+          "It breaks down and flows out as menstruation",
+          "It stays permanently"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अनुपयुक्त बिसातर समेटना शरीर का पुराना नियम — अगले चक्र में नई परत फिर तैयार।",
+        "en": "Folding the unused bedding is the body's old rule — the next cycle readies a fresh lining again."
+      }
+    },
+    {
+      "id": "ch10_q1120",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेनार्क के बाद प्रारंभिक कुछ महीनों-वर्षों में मासिक धर्म अनियमित होना कैसा माना जाता है?",
+        "en": "Menstruation being irregular in the first months-years after menarche is considered how?"
+      },
+      "options": {
+        "hi": [
+          "गंभीर रोग का चिह्न",
+          "स्थायी समस्या",
+          "उपचार असंभव",
+          "सामान्य — हार्मोन-तंत्र धीरे-धीरे सधता है"
+        ],
+        "en": [
+          "A sign of grave disease",
+          "A permanent problem",
+          "Untreatable",
+          "Normal — the hormone-system settles gradually"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नई घड़ी पहले दिनों में थोड़ी आगे-पीछे चलती है — फिर क्रम में बैठ जाती है।",
+        "en": "A new clock runs a little off in early days — then settles into order."
+      }
+    },
+    {
+      "id": "ch10_q1121",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मेनार्क और रजोनिवृत्ति में मूल अंतर क्या है?",
+        "en": "What is the basic difference between menarche and menopause?"
+      },
+      "options": {
+        "hi": [
+          "मेनार्क प्रजनन अवस्था का आरंभ है, रजोनिवृत्ति उसकी समाप्ति",
+          "दोनों एक ही घटना हैं",
+          "मेनार्क समाप्ति है, रजोनिवृत्ति आरंभ",
+          "दोनों पुरुषों में होती हैं"
+        ],
+        "en": [
+          "Menarche is the START of the reproductive phase, menopause its END",
+          "Both are the same event",
+          "Menarche is the end, menopause the start",
+          "Both occur in males"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक द्वार-दालन, दूसरा द्वार-विदाई — बीच की पूरी दालान ही प्रजनन अवस्था है।",
+        "en": "One is the doorway-welcome, the other the doorway-farewell — the whole hall between is the reproductive phase."
+      }
+    },
+    {
+      "id": "ch10_q1122",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मासिक चक्र का हार्मोन-संचालन मुख्यतः कौन-सी ग्रंथि करती है?",
+        "en": "Which gland mainly conducts the hormonal running of the menstrual cycle?"
+      },
+      "options": {
+        "hi": [
+          "आमाशय — अम्ल के द्वारा",
+          "अंडाशय — एस्ट्रोजन और प्रोजेस्टेरोन के द्वारा",
+          "यकृत — पित्त के द्वारा",
+          "गुर्दा — मूत्र के द्वारा"
+        ],
+        "en": [
+          "The stomach — by acid",
+          "The ovaries — by means of oestrogen and progesterone",
+          "The liver — by bile",
+          "The kidney — by urine"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अंडाशय के दो हार्मोन चक्र के स्वर-लय तय करते हैं — एक परत बनाता है, दूसरा उसे सँभालता है।",
+        "en": "The ovary's two hormones set the cycle's note-rhythm — one builds the lining, the other maintains it."
+      }
+    },
+    {
+      "id": "ch10_q1123",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मासिक धर्म को लेकर सही दृष्टिकोण कौन-सा है?",
+        "en": "Which is the right attitude towards menstruation?"
+      },
+      "options": {
+        "hi": [
+          "यह केवल वयस्कों की समस्या है",
+          "इसमें स्कूल जाना हानिकारक है",
+          "यह एक सामान्य, स्वस्थ शारीरिक प्रक्रिया है — शर्म या अछूतपन की नहीं",
+          "यह बीमारी है जिसमें घर से बाहर निकलना मना"
+        ],
+        "en": [
+          "Only an adults' problem",
+          "Going to school in it is harmful",
+          "A normal, healthy bodily process — not one of shame or untouchability",
+          "A disease barring leaving the house"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शरीर की ऋतु को शर्म की चादर में नहीं, समझ के दिन-चंद्रा में देखना चाहिए — सामान्य व स्वाभाविक।",
+        "en": "The body's season should be seen in the daylight of understanding, not a sheet of shame — normal and natural."
+      }
+    },
+    {
+      "id": "ch10_q1124",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मासिक धर्म के दिनों में आयरन-युक्त आहार लड़कियों को विशेष क्यों सुझाया जाता है?",
+        "en": "Why is iron-rich food specially advised to girls during menstrual days?"
+      },
+      "options": {
+        "hi": [
+          "आयरन से आवाज़ भारी होती है",
+          "आयरन कद घटाता है",
+          "आयरन नींद लाता है",
+          "रक्त की हानि की पूर्ति में आयरन सहायक है"
+        ],
+        "en": [
+          "Iron deepens the voice",
+          "Iron reduces height",
+          "Iron brings sleep",
+          "Iron helps make up the loss of blood"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जो धातु रुधिर की स्याही है, वही मासिक-दिनों की भरपाई का पुल है — हरी सब्जियाँ, फल, गुड़।",
+        "en": "The metal that is blood's ink is the very bridge of replenishment in menstrual days — greens, fruits, jaggery."
+      }
+    },
+    {
+      "id": "ch10_q1125",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रजनन अवस्था की समाप्ति के संदर्भ में स्त्री और पुरुष में प्रायः क्या अंतर देखा जाता है?",
+        "en": "Regarding the end of the reproductive phase, what difference is usually seen between women and men?"
+      },
+      "options": {
+        "hi": [
+          "स्त्रियों में रजोनिवृत्ति जैसी निश्चित समाप्ति आती है; पुरुषों में ऐसी तीक्ष्ण समाप्ति नहीं",
+          "दोनों में एक साथ रजोनिवृत्ति आती है",
+          "पुरुषों में पहले रजोनिवृत्ति आती है",
+          "किसी में कभी समाप्ति नहीं होती"
+        ],
+        "en": [
+          "Women get a definite end like menopause; men do not have such a sharp end",
+          "Both get menopause together",
+          "Men get menopause first",
+          "No one's phase ever ends"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्त्री की प्रजनन-घड़ी एक दिन विराम लेती है; पुरुष की चाल धीमी अवश्य पड़ती है, पर ठप नहीं होती।",
+        "en": "A woman's reproductive clock pauses one day; a man's pace slows but does not halt."
+      }
+    },
+    {
+      "id": "ch10_q1126",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रत्येक नए चक्र में गर्भाशय की परत के साथ क्या होता है?",
+        "en": "What happens to the uterine lining with every new cycle?"
+      },
+      "options": {
+        "hi": [
+          "परत हृदय तक चली जाती है",
+          "पुरानी परत निकलने के बाद नई परत फिर से बनती है",
+          "परतें जमा होती जाती हैं",
+          "परत कभी नहीं बदलती"
+        ],
+        "en": [
+          "The lining walks to the heart",
+          "After the old lining flows out, a fresh lining builds again",
+          "Linings keep stacking up",
+          "The lining never changes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "झाड़ू लगा दुकान, फिर नई व्यवस्था — गर्भाशय हर चक्र में ताज़ा कवर बिछाता है।",
+        "en": "Shop swept, then a new arrangement — the uterus spreads a fresh cover every cycle."
+      }
+    },
+    {
+      "id": "ch10_q1127",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मासिक धर्म के दिनों में सामान्य देखभाल के अंतर्गत क्या सम्मिलित है?",
+        "en": "What is included under ordinary care during menstrual days?"
+      },
+      "options": {
+        "hi": [
+          "खाना-पीना बंद करना",
+          "स्कूल से स्थायी छुट्टी",
+          "विश्राम, स्वच्छता का ध्यान और संतुलित आहार",
+          "पूरा बिस्तर छोड़ देना"
+        ],
+        "en": [
+          "Stopping all food",
+          "Permanent leave from school",
+          "Rest, attention to cleanliness and a balanced diet",
+          "Leaving the bed entirely"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सामान्य-सा ध्यान ही काफी है — स्वच्छता, विश्राम और पौष्टिक भोजन; जीवन वैसा ही चलता रहता है।",
+        "en": "Ordinary care suffices — cleanliness, rest and nourishing food; life runs on as usual."
+      }
+    },
+    {
+      "id": "ch10_q1128",
+      "topic": "reproductive-phase",
+      "difficulty": "medium",
+      "question": {
+        "hi": "'प्रजनन अवस्था' किस काल-खंड को कहते हैं?",
+        "en": "Which span of time is called the 'reproductive phase'?"
+      },
+      "options": {
+        "hi": [
+          "जन्म से मेनार्क तक",
+          "रजोनिवृत्ति के बाद का काल",
+          "पूरा जीवन-काल",
+          "मेनार्क से रजोनिवृत्ति तक की अवधि"
+        ],
+        "en": [
+          "Birth to menarche",
+          "The time after menopause",
+          "The whole lifespan",
+          "The period from menarche to menopause"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "जिस दौर में शरीर प्रजनन में सक्षम रहता है — उसकी दो मील के पत्थर मेनार्क और रजोनिवृत्ति हैं।",
+        "en": "The span in which the body remains capable of reproduction — its two milestones are menarche and menopause."
+      }
+    },
+    {
+      "id": "ch10_q1129",
+      "topic": "reproductive-phase",
+      "difficulty": "hard",
+      "question": {
+        "hi": "चक्र की उद्देश्य-श्रृंखला पर विचार कीजिए — गर्भाशय परत तैयार → गर्भाधान नहीं → परत झड़ती है। इसमें मासिक धर्म किस चरण का नाम है?",
+        "en": "Consider the purpose-chain of the cycle — uterine lining prepares → no pregnancy → lining sheds. Menstruation is the name of which step?"
+      },
+      "options": {
+        "hi": [
+          "तीसरा चरण — तैयार परत का टूटकर बाहर आना",
+          "पहला चरण — परत का बनना",
+          "दूसरा चरण — गर्भाधान",
+          "कोई चरण नहीं"
+        ],
+        "en": [
+          "The third step — the prepared lining breaking and flowing out",
+          "The first step — the lining's formation",
+          "The second step — pregnancy",
+          "No step at all"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तैयारी → अवसर न मिलना → समेटना: मासिक धर्म तीसरे मोड़ का नाम है, अंत का नहीं — चक्र फिर शुरू होता है।",
+        "en": "Preparation → occasion not arriving → folding up: menstruation names the third turn, not the end — the cycle starts afresh."
+      }
+    },
+    {
+      "id": "ch10_q1130",
+      "topic": "reproductive-phase",
+      "difficulty": "hard",
+      "question": {
+        "hi": "प्रजनन अवस्था संबंधी निम्न में से कौन-सा कथन सही नहीं है?",
+        "en": "Which statement about the reproductive phase is NOT correct?"
+      },
+      "options": {
+        "hi": [
+          "अंडाशय इस अवस्था में सक्रिय रहते हैं",
+          "रजोनिवृत्ति के बाद भी मासिक धर्म चलता रहता है",
+          "मेनार्क प्रजनन अवस्था का आरंभ है",
+          "यह अवस्था हार्मोनों द्वारा संचालित है"
+        ],
+        "en": [
+          "The ovaries stay active in this phase",
+          "Even after menopause menstruation keeps running",
+          "Menarche is the start of the reproductive phase",
+          "This phase is run by hormones"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रजोनिवृत्ति का अर्थ ही चक्र की स्थायी विराम-घंटी — पहला कथन संबंध-हीन; बाकी तीन सही।",
+        "en": "Menopause itself means the cycle's permanent pause-bell — the first statement is off; the other three stand."
+      }
+    },
+    {
+      "id": "ch10_q1131",
+      "topic": "adolescent-health",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किशोरावस्था में संतुलित आहार की माँग सामान्य से अधिक क्यों हो जाती है?",
+        "en": "Why does the demand for a balanced diet rise above normal in adolescence?"
+      },
+      "options": {
+        "hi": [
+          "क्योंकि पाचन बंद हो जाता है",
+          "क्योंकि नींद दोगुनी होती है",
+          "इस दौर में शरीर की वृद्धि सबसे तेज़ चलती है — ईंट-गारे की जरूरत चरम पर",
+          "क्योंकि किशोर केवल खेलते हैं"
+        ],
+        "en": [
+          "Because digestion stops",
+          "Because sleep doubles",
+          "In this phase the body's growth runs fastest — brick-and-mortar need at its peak",
+          "Because adolescents only play"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बढ़ती इमारत को चूना-ईंट सबसे ज्यादा उसी मौसम में चाहिए जब रफ्तार तेज़ हो — किशोरावस्था वही निर्माण-मौसम है।",
+        "en": "A rising building needs lime-brick most in the season of fast pace — adolescence is that construction-season."
+      }
+    },
+    {
+      "id": "ch10_q1132",
+      "topic": "adolescent-health",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किशोरावस्था में मांसपेशियों और शरीर-निर्माण की दृष्टि से कौन-सा आहार-घटक विशेष उपयोगी है?",
+        "en": "Which dietary component is specially useful for muscles and body-building in adolescence?"
+      },
+      "options": {
+        "hi": [
+          "केवल चीनी",
+          "केवल नमक",
+          "केवल बर्फ",
+          "प्रोटीन — दालें, दूध, अंडा, पनीर"
+        ],
+        "en": [
+          "Only sugar",
+          "Only salt",
+          "Only ice",
+          "Protein — pulses, milk, egg, cottage cheese"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बढ़ती मांसपेशी का गारा प्रोटीन है — किशोर की थाली में दाल-दूध का दरवाजा खुला रहना चाहिए।",
+        "en": "The mortar of growing muscle is protein — the door of pulses-milk must stay open in an adolescent's plate."
+      }
+    },
+    {
+      "id": "ch10_q1133",
+      "topic": "adolescent-health",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लड़कियों को किशोरावस्था में आयरन-युक्त आहार (हरी सब्जियाँ, गुड़) की अतिरिक्त सलाह क्यों दी जाती है?",
+        "en": "Why are girls additionally advised iron-rich food (green vegetables, jaggery) in adolescence?"
+      },
+      "options": {
+        "hi": [
+          "मासिक धर्म में रक्त-हानि की भरपाई के लिए",
+          "आवाज़ भारी करने के लिए",
+          "कद घटाने के लिए",
+          "बाल सीधे करने के लिए"
+        ],
+        "en": [
+          "To make up the blood loss in menstruation",
+          "To deepen the voice",
+          "To reduce height",
+          "To straighten hair"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "जिस मौसम में रक्त की बहावत होती है, उसी मौसम में आयरन की आपूर्ति भी बढ़ानी होती है।",
+        "en": "In the season of blood's flow, the iron supply must be raised in the same season."
+      }
+    },
+    {
+      "id": "ch10_q1134",
+      "topic": "adolescent-health",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किशोरावस्था में हड्डियों की तेज़ वृद्धि के लिए कौन-सा खनिज आहार में पर्याप्त चाहिए?",
+        "en": "Which mineral must be ample in the diet for the rapid bone-growth of adolescence?"
+      },
+      "options": {
+        "hi": [
+          "सीसा — पेंट से",
+          "कैल्शियम — दूध, दही, पनीर से",
+          "लोहा — केवल पानी से",
+          "सोडियम — केवल नमक से"
+        ],
+        "en": [
+          "Lead — from paint",
+          "Calcium — from milk, curd, cottage cheese",
+          "Iron — only from water",
+          "Sodium — only from salt"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कद की तीखी उड़ान वाले मौसम में हड्डियों का सीमेंट कैल्शियम है — दूध-दही उसके सीधे भंडार।",
+        "en": "In the season of height's sharp flight, bones' cement is calcium — milk and curd its direct storehouse."
+      }
+    },
+    {
+      "id": "ch10_q1135",
+      "topic": "adolescent-health",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नशे की लत से बचने का सबसे सरल मंत्र क्या है?",
+        "en": "What is the simplest formula to stay safe from addiction?"
+      },
+      "options": {
+        "hi": [
+          "दोस्तों के आगे झुक जाना",
+          "बाद में छोड़ने की योजना बनाना",
+          "पहली पेशकश पर ही दृढ़ता से 'नहीं' कह देना",
+          "थोड़ा-थोड़ा चलते रहना"
+        ],
+        "en": [
+          "Bowing before friends",
+          "Planning to quit later",
+          "Saying a firm 'NO' at the very first offer",
+          "Continuing little by little"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "पहली सीढ़ी ही न चढ़े तो गिरने का सवाल ही नहीं — SAY NO यही एकमात्र मजबूत दरवाज़ा है।",
+        "en": "If the first stair is never climbed, there is no question of falling — SAY NO is the only strong door."
+      }
+    },
+    {
+      "id": "ch10_q1136",
+      "topic": "adolescent-health",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किशोर के लिए प्रतिरात्रि पर्याप्त नींद लगभग कितनी मानी जाती है?",
+        "en": "About how much sleep per night is considered enough for an adolescent?"
+      },
+      "options": {
+        "hi": [
+          "2–3 घंटे",
+          "लगभग 1 घंटा",
+          "20–22 घंटे",
+          "लगभग 8–9 घंटे"
+        ],
+        "en": [
+          "2–3 hours",
+          "About 1 hour",
+          "20–22 hours",
+          "About 8–9 hours"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वृद्धि की रात-पाली पूरी नींद में ही चलती है — आठ-नौ घंटे किशोर शरीर-मस्तिष्क की साझा आवश्यकता।",
+        "en": "Growth's night-shift runs only in full sleep — eight-nine hours are the shared need of adolescent body and brain."
+      }
+    },
+    {
+      "id": "ch10_q1137",
+      "topic": "adolescent-health",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किशोरावस्था में प्रतिदिन स्नान और स्वच्छ रहना विशेष क्यों जरूरी हो जाता है?",
+        "en": "Why do daily bathing and cleanliness become specially necessary in adolescence?"
+      },
+      "options": {
+        "hi": [
+          "इस उम्र में स्वेद-ग्रंथियाँ अधिक सक्रिय हो जाती हैं",
+          "क्योंकि बारिश अधिक होती है",
+          "क्योंकि स्कूल बंद रहता है",
+          "क्योंकि कपड़े नहीं मिलते"
+        ],
+        "en": [
+          "The sweat glands become more active at this age",
+          "Because it rains more",
+          "Because school stays closed",
+          "Because clothes are unavailable"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हार्मोन की गर्मी में पसीने की फैक्ट्री तेज़ चलती है — रोज़ स्नान, साफ कपड़े उसी की साथ-चलने वाली जरूरत।",
+        "en": "In hormone's heat the sweat-factory runs fast — daily bath and clean clothes are its fellow-travellers."
+      }
+    },
+    {
+      "id": "ch10_q1138",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मादक पदार्थ (नशा) किशोर के लिए विशेष रूप से हानिकारक क्यों हैं?",
+        "en": "Why are intoxicants specially harmful for an adolescent?"
+      },
+      "options": {
+        "hi": [
+          "वे भूख बढ़ाते हैं",
+          "विकासशील शरीर-मस्तिष्क को हानि पहुँचाकर लत बना देते हैं",
+          "वे केवल वयस्कों के लिए अच्छे हैं",
+          "वे कद बढ़ाते हैं"
+        ],
+        "en": [
+          "They increase appetite",
+          "They harm the developing body-brain and turn into addiction",
+          "They are good only for adults",
+          "They increase height"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कच्चे घर की नींव पर हथौड़ा — नशा विकासशील मस्तिष्क को वही करता है; साथ ही लत का फंदा भी।",
+        "en": "A hammer on a raw house's foundation — that is what intoxicants do to a developing brain; plus the noose of dependence."
+      }
+    },
+    {
+      "id": "ch10_q1139",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धूम्रपान सहित नशीले पदार्थ किशोर के समग्र विकास पर कैसा प्रभाव डालते हैं?",
+        "en": "How do smoky and narcotic substances affect an adolescent's overall development?"
+      },
+      "options": {
+        "hi": [
+          "कोई प्रभाव नहीं",
+          "विकास दोगुना करते हैं",
+          "शारीरिक वृद्धि, मानसिक एकाग्रता और सीखने की क्षमता — तीनों को धीमा-क्षतिग्रस्त करते हैं",
+          "केवल बाल बढ़ाते हैं"
+        ],
+        "en": [
+          "No effect",
+          "They double development",
+          "They slow and damage bodily growth, mental focus and the capacity to learn — all three",
+          "They only grow hair"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जहर-मिला ईंधन इंजन को दौड़ा नहीं सकता — नशे की गाड़ी में विकास की रफ्तार गिरती है।",
+        "en": "Poison-mixed fuel cannot race an engine — in addiction's vehicle the speed of development falls."
+      }
+    },
+    {
+      "id": "ch10_q1140",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर के लिए तनाव (stress) के स्वस्थ नियंत्रण का तरीका क्या है?",
+        "en": "What is a healthy way of stress-control for an adolescent?"
+      },
+      "options": {
+        "hi": [
+          "झगड़ा करना",
+          "कमरे में बंद रहना",
+          "नशे का सहारा",
+          "शौक, खेल या किसी विश्वसनीय अपने से बातचीत"
+        ],
+        "en": [
+          "Picking fights",
+          "Staying locked in a room",
+          "Taking refuge in intoxicants",
+          "A hobby, sport or talk with a trusted one"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "भाप को सीटी से निकलना चाहिए, बर्तन नहीं फटना चाहिए — खेल, शौक और संवाद वे सीटियाँ हैं।",
+        "en": "Steam must leave by the whistle, not burst the vessel — sport, hobby and conversation are those whistles."
+      }
+    },
+    {
+      "id": "ch10_q1141",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था के शारीरिक परिवर्तनों को लेकर फैले मिथकों से कैसे निपटा जाता है?",
+        "en": "How does one deal with the myths spread about adolescent bodily changes?"
+      },
+      "options": {
+        "hi": [
+          "विज्ञान-आधारित सही जानकारी से — जाँचकर, पूछकर",
+          "मिथक को ही सच मान लेकर",
+          "दोस्तों की बात पर बिना जाँच भरोसा करके",
+          "विषय से पीछे हटकर"
+        ],
+        "en": [
+          "With correct science-based information — checking and asking",
+          "Accepting the myth as truth",
+          "Trusting friends' word unchecked",
+          "Backing away from the subject"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "मिथक अंधेरे की दीवार है, जानकारी उसमें खिड़की — प्रमाणित ज्ञान ही किशोर का असली दीवार-तोड़ है।",
+        "en": "A myth is a wall of darkness, information its window — verified knowledge alone is the adolescent's true wall-breaker."
+      }
+    },
+    {
+      "id": "ch10_q1142",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सहपाठियों के दबाव (peer pressure) में गलत काम करने से बचने की सशक्त रणनीति क्या है?",
+        "en": "What is an empowered strategy to avoid wrong deeds under peer pressure?"
+      },
+      "options": {
+        "hi": [
+          "झूठ बोलना",
+          "अपना स्पष्ट 'नहीं' बनाए रखना और सही संग चुनना",
+          "सब दोस्त छोड़ देना",
+          "हर बात मान लेना"
+        ],
+        "en": [
+          "Telling lies",
+          "Holding one's clear 'no' and choosing right company",
+          "Leaving all friends",
+          "Agreeing every time"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "डगर बदलना पड़े तो बदलो, लेकिन मंज़िल के आगे नहीं — साफ इनकार और अच्छी संगति दोनों ढाल हैं।",
+        "en": "Change the lane if needed, but not ahead of the goal — clear refusal and good company are both shields."
+      }
+    },
+    {
+      "id": "ch10_q1143",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर के लिए सुबह का नाश्ता न छोड़ना क्यों कहा जाता है?",
+        "en": "Why is an adolescent told never to skip breakfast?"
+      },
+      "options": {
+        "hi": [
+          "इससे कद घटता है",
+          "इससे आवाज़ बदलती है",
+          "दिन भर की ऊर्जा और स्कूल में एकाग्रता की नींव वही रखती है",
+          "इससे नींद आती है"
+        ],
+        "en": [
+          "It reduces height",
+          "It changes the voice",
+          "It lays the base of the whole day's energy and focus at school",
+          "It brings sleep"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खाली टैंक से सुबह की रेस नहीं — नाश्ता दिन की पहली ईंधन-भराई है, मन और शरीर दोनों की।",
+        "en": "No morning race on an empty tank — breakfast is the day's first fuelling, of both mind and body."
+      }
+    },
+    {
+      "id": "ch10_q1144",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर की दैनिक दिनचर्या में खेल-व्यायाम का स्थान क्यों निर्धारित होना चाहिए?",
+        "en": "Why must a fixed place for play-exercise be there in an adolescent's daily routine?"
+      },
+      "options": {
+        "hi": [
+          "इससे भूख मर जाती है",
+          "इससे पढ़ाई रुक जाती है",
+          "इससे हड्डियाँ घुल जाती हैं",
+          "इससे मांसपेशियाँ मजबूत, मन हल्का और नींद गहरी होती है"
+        ],
+        "en": [
+          "It kills appetite",
+          "It stops study",
+          "It dissolves bones",
+          "Muscles grow strong, the mind light and sleep deep"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चलती धारा ही साफ रहती है — चलता शरीर ही स्वस्थ; व्यायाम किशोर की डाली को लचीला-मजबूत बनाता है।",
+        "en": "Only a flowing stream stays clean — only a moving body stays healthy; exercise keeps the adolescent branch supple-strong."
+      }
+    },
+    {
+      "id": "ch10_q1145",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मुँहासों के दौर में त्वचा की सामान्य देखभाल-पद्धति क्या है?",
+        "en": "What is the ordinary care routine for skin in the pimple-phase?"
+      },
+      "options": {
+        "hi": [
+          "मुँह को दिन में दो बार हल्के साबुन-पानी से धोना और दाबना-कुतरना नहीं",
+          "मुँहासों को नाखून से दबाते रहना",
+          "मोटी क्रीम की मालिश",
+          "त्वचा को पूरी तरह छेड़छाड़"
+        ],
+        "en": [
+          "Washing the face twice a day with mild soap-water and not squeezing or picking",
+          "Pressing the pimples with nails",
+          "Massaging thick cream",
+          "Tampering with the skin fully"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "हल्की सफाई और धैर्य — यही मुँहासों की सामान्य चिकित्सा; दबाने से जलन और दाग बढ़ते हैं।",
+        "en": "Gentle cleaning and patience — that is the ordinary treatment of pimples; squeezing raises irritation and marks."
+      }
+    },
+    {
+      "id": "ch10_q1146",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर-स्वास्थ्य का सूत्र-समूह कौन-सा है?",
+        "en": "Which is the formula-set of adolescent health?"
+      },
+      "options": {
+        "hi": [
+          "नशा + तनाव",
+          "संतुलित आहार + नियमित व्यायाम + पर्याप्त नींद + सकारात्मक दृष्टिकोण",
+          "भरपूर मिठाई + देर रात जागना",
+          "अधूरा भोजन + दिन भर बैठना"
+        ],
+        "en": [
+          "Intoxicants + stress",
+          "Balanced diet + regular exercise + adequate sleep + positive attitude",
+          "Plenty of sweets + late-night waking",
+          "Half meals + sitting all day"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "चार पहिए — आहार, व्यायाम, नींद, सोच — इन्हीं पर किशोर-स्वास्थ्य की गाड़ी सधी चलती है।",
+        "en": "Four wheels — diet, exercise, sleep, outlook — on these very wheels runs the cart of adolescent health."
+      }
+    },
+    {
+      "id": "ch10_q1147",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोरावस्था के भावनात्मक उतार-चढ़ावों में वयस्कों का मार्गदर्शन कैसा सहारा सिद्ध होता है?",
+        "en": "In the emotional swings of adolescence, how does adult guidance prove supportive?"
+      },
+      "options": {
+        "hi": [
+          "यह समस्याएँ बढ़ाता है",
+          "इसका कोई प्रभाव नहीं",
+          "अनुभव की रोशनी में सही-गलत की राह दिखाता है और अकेलापन मिटाता है",
+          "यह स्वतंत्रता छीन लेता है"
+        ],
+        "en": [
+          "It multiplies problems",
+          "It has no effect",
+          "In the light of experience it shows the right-wrong road and removes loneliness",
+          "It snatches independence"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कोहरे में चलते मुसाफ़िर को दूर का दीया काम आता है — वयस्क-मार्गदर्शन किशोर का वही दूर-दीया है।",
+        "en": "To a traveller in fog, a distant lamp helps — adult guidance is that far lamp for the adolescent."
+      }
+    },
+    {
+      "id": "ch10_q1148",
+      "topic": "adolescent-health",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किशोर के लिए नियमित दिनचर्या (routine) का महत्व क्यों बताया जाता है?",
+        "en": "Why is a regular routine emphasised for an adolescent?"
+      },
+      "options": {
+        "hi": [
+          "इससे छुट्टियाँ बढ़ती हैं",
+          "इससे स्कूल भूल जाता है",
+          "इससे भूख खत्म होती है",
+          "खाने-सोने-पढ़ने का संतुलित क्रम शरीर-घड़ी को सधाता है"
+        ],
+        "en": [
+          "It increases holidays",
+          "It makes one forget school",
+          "It ends appetite",
+          "A balanced order of eating-sleeping-studying tunes the body-clock"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "घड़ी की सुइयाँ जब नियम से चलें, तभी समय का सदुपयोग होता है — दिनचर्या वही नियम-सुई है।",
+        "en": "Only when the clock's hands run by rule is time well-used — routine is that rule-hand."
+      }
+    },
+    {
+      "id": "ch10_q1149",
+      "topic": "adolescent-health",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक किशोर रोज़ नाश्ता छोड़ता है, देर रात जागता है और बाहर का भोजन खाता है — इस शैली का दीर्घकालिक प्रभाव क्या रहेगा?",
+        "en": "An adolescent skips breakfast daily, wakes late nights and eats out — what will be the long-term effect of this style?"
+      },
+      "options": {
+        "hi": [
+          "वृद्धि-ऊर्जा-एकाग्रता तीनों पर धीरे-धीरे विपरीत असर",
+          "कोई प्रभाव नहीं",
+          "तीनों दोगुने हो जाएँगे",
+          "केवल बाल अच्छे होंगे"
+        ],
+        "en": [
+          "Gradual adverse effect on growth, energy and concentration — all three",
+          "No effect",
+          "All three will double",
+          "Only hair will improve"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तीन कमजोर थंब खड़ी दीवार नहीं खींचते — कमजोर आदतें मिलकर किशोर की वृद्धि-इमारत को धीमा करती हैं।",
+        "en": "Three weak pegs cannot hold a standing wall — weak habits together slow the adolescent's growth-edifice."
+      }
+    },
+    {
+      "id": "ch10_q1150",
+      "topic": "adolescent-health",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किशोर-स्वास्थ्य संबंधी निम्न में से कौन-सा कथन गलत है?",
+        "en": "Which statement about adolescent health is WRONG?"
+      },
+      "options": {
+        "hi": [
+          "व्यायाम मानसिक स्वास्थ्य को भी सहायक है",
+          "मादक पदार्थों का कभी-कभार सेवन हानिरहित होता है",
+          "पर्याप्त नींद वृद्धि के अनुकूल है",
+          "संतुलित आहार में सभी पोषक तत्व होते हैं"
+        ],
+        "en": [
+          "Exercise helps mental health too",
+          "Occasional use of intoxicants is harmless",
+          "Adequate sleep favours growth",
+          "A balanced diet contains all nutrients"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पहला कदम ही पुल नहीं बनने दो — 'कभी-कभार' वाला कथन जाल है; नशे की कोई हानिरहित मात्रा नहीं।",
+        "en": "Do not let the first step itself become a bridge — the 'occasional' claim is a snare; no dose of intoxicant is harmless."
+      }
+    }
+  ]
+}

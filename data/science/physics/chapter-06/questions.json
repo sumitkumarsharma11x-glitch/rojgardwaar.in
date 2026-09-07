@@ -1,0 +1,4204 @@
+{
+  "questions": [
+    {
+      "id": "phy6_q101",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊष्मा किसे कहते हैं?",
+        "en": "What is heat?"
+      },
+      "options": {
+        "hi": [
+          "तापांतर के कारण एक वस्तु से दूसरी वस्तु में स्थानांतरित होने वाली ऊर्जा",
+          "केवल गर्मी का अनुभव",
+          "वस्तु का भार",
+          "वस्तु का रंग"
+        ],
+        "en": [
+          "The energy transferred from one body to another due to a temperature difference",
+          "Only the feeling of warmth",
+          "An object's weight",
+          "An object's colour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊष्मा ऊर्जा का रूप है जो गर्म पिंड से ठंडे पिंड की ओर बहती है।",
+        "en": "Heat is a form of energy flowing from a hot body towards a colder one."
+      }
+    },
+    {
+      "id": "phy6_q102",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ताप किसे कहते हैं?",
+        "en": "What is temperature?"
+      },
+      "options": {
+        "hi": [
+          "पिंड का आयतन",
+          "किसी पिंड की गर्मी-ठंडक की तीव्रता का माप",
+          "पिंड की कुल ऊर्जा",
+          "पिंड का द्रव्यमान"
+        ],
+        "en": [
+          "A body's volume",
+          "The measure of the intensity of a body's hotness or coldness",
+          "A body's total energy",
+          "A body's mass"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ताप बताता है कि वस्तु कितनी गर्म या ठंडी है — यह तीव्रता का माप है।",
+        "en": "Temperature tells how hot or cold a body is — a measure of intensity."
+      }
+    },
+    {
+      "id": "phy6_q103",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊष्मा का SI मात्रक क्या है?",
+        "en": "What is the SI unit of heat?"
+      },
+      "options": {
+        "hi": [
+          "वाट (W)",
+          "किलोग्राम (kg)",
+          "जूल (J)",
+          "केल्विन (K)"
+        ],
+        "en": [
+          "Watt (W)",
+          "Kilogram (kg)",
+          "Joule (J)",
+          "Kelvin (K)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऊष्मा ऊर्जा है — इसका SI मात्रक जूल है (कैलोरी भी प्रचलित)।",
+        "en": "Heat is energy — its SI unit is the joule (the calorie is also common)."
+      }
+    },
+    {
+      "id": "phy6_q104",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ताप का SI मात्रक क्या है?",
+        "en": "What is the SI unit of temperature?"
+      },
+      "options": {
+        "hi": [
+          "जूल (J)",
+          "डिग्री सेल्सियस (°C)",
+          "कैलोरी (cal)",
+          "केल्विन (K)"
+        ],
+        "en": [
+          "Joule (J)",
+          "Degree Celsius (°C)",
+          "Calorie (cal)",
+          "Kelvin (K)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "SI में ताप केल्विन में; डिग्री सेल्सियस सामान्य पैमाना है।",
+        "en": "In SI, temperature is in kelvin; degree Celsius is the everyday scale."
+      }
+    },
+    {
+      "id": "phy6_q105",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ताप मापने का यंत्र कौन-सा है?",
+        "en": "Which instrument measures temperature?"
+      },
+      "options": {
+        "hi": [
+          "थर्मामीटर",
+          "कैलोरीमीटर",
+          "बैरोमीटर",
+          "अमीटर"
+        ],
+        "en": [
+          "Thermometer",
+          "Calorimeter",
+          "Barometer",
+          "Ammeter"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "थर्मामीटर पारे/तरल के फैलाव से ताप बताता है।",
+        "en": "A thermometer reads temperature via the expansion of mercury or liquid."
+      }
+    },
+    {
+      "id": "phy6_q106",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊष्मा की मात्रा मापने का यंत्र —",
+        "en": "The instrument for measuring quantities of heat is —"
+      },
+      "options": {
+        "hi": [
+          "हाइड्रोमीटर",
+          "कैलोरीमीटर",
+          "थर्मामीटर",
+          "स्प्रिंग बैलेंस"
+        ],
+        "en": [
+          "Hydrometer",
+          "Calorimeter",
+          "Thermometer",
+          "Spring balance"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कैलोरीमीटर ऊष्मा का आदान-प्रदान मापता है।",
+        "en": "A calorimeter measures the exchange of heat."
+      }
+    },
+    {
+      "id": "phy6_q107",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊष्मा किस दिशा में प्रवाहित होती है?",
+        "en": "In which direction does heat flow?"
+      },
+      "options": {
+        "hi": [
+          "दोनों दिशाओं में समान",
+          "किसी भी दिशा में",
+          "गर्म पिंड से ठंडे पिंड की ओर",
+          "ठंडे पिंड से गर्म की ओर"
+        ],
+        "en": [
+          "Equally in both directions",
+          "In any direction",
+          "From the hot body towards the cold body",
+          "From the cold body towards the hot one"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "तापांतर हटने तक ऊष्मा गर्म से ठंडे की ओर ही बहती है।",
+        "en": "Heat flows from hot to cold until the temperature difference is gone."
+      }
+    },
+    {
+      "id": "phy6_q108",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 कैलोरी लगभग कितने जूल होती है?",
+        "en": "One calorie is about how many joules?"
+      },
+      "options": {
+        "hi": [
+          "1 जूल",
+          "42 जूल",
+          "0.42 जूल",
+          "4.2 जूल"
+        ],
+        "en": [
+          "1 joule",
+          "42 joules",
+          "0.42 joule",
+          "4.2 joules"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "1 cal ≈ 4.2 J — ऊष्मा की दो इकाइयों का संबंध।",
+        "en": "1 cal ≈ 4.2 J — the relation between the two heat units."
+      }
+    },
+    {
+      "id": "phy6_q109",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बर्फ का गलनांक (सामान्य दाब पर) —",
+        "en": "The melting point of ice (at normal pressure) is —"
+      },
+      "options": {
+        "hi": [
+          "0 °C",
+          "100 °C",
+          "273 °C",
+          "−100 °C"
+        ],
+        "en": [
+          "0 °C",
+          "100 °C",
+          "273 °C",
+          "−100 °C"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "0 °C पर बर्फ पिघलती है — यही जल का हिमांक है।",
+        "en": "Ice melts at 0 °C — water's freezing point."
+      }
+    },
+    {
+      "id": "phy6_q110",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सामान्य दाब पर जल का क्वथनांक —",
+        "en": "The boiling point of water at normal pressure is —"
+      },
+      "options": {
+        "hi": [
+          "212 °C",
+          "100 °C",
+          "0 °C",
+          "50 °C"
+        ],
+        "en": [
+          "212 °C",
+          "100 °C",
+          "0 °C",
+          "50 °C"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "100 °C पर जल उबलकर भाप बनता है।",
+        "en": "At 100 °C water boils into steam."
+      }
+    },
+    {
+      "id": "phy6_q111",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्वस्थ मानव शरीर का सामान्य ताप लगभग —",
+        "en": "The normal temperature of a healthy human body is about —"
+      },
+      "options": {
+        "hi": [
+          "47 °C",
+          "0 °C",
+          "37 °C",
+          "27 °C"
+        ],
+        "en": [
+          "47 °C",
+          "0 °C",
+          "37 °C",
+          "27 °C"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शरीर का सामान्य ताप लगभग 37 °C होता है।",
+        "en": "The body's normal temperature is about 37 °C."
+      }
+    },
+    {
+      "id": "phy6_q112",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊष्मा और ताप में मूल अंतर क्या है?",
+        "en": "What is the fundamental difference between heat and temperature?"
+      },
+      "options": {
+        "hi": [
+          "दोनों एक ही हैं",
+          "ताप कुल ऊर्जा है, ऊष्मा तीव्रता",
+          "ऊष्मा दिशा है, ताप द्रव्यमान",
+          "ऊष्मा कुल ऊर्जा है, ताप उसकी तीव्रता का माप"
+        ],
+        "en": [
+          "Both are the same",
+          "Temperature is total energy, heat is intensity",
+          "Heat is a direction, temperature is mass",
+          "Heat is the total energy, temperature measures its intensity"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ऊष्मा = कितनी ऊर्जा; ताप = कितनी गर्मी की मात्रा का सूचक।",
+        "en": "Heat = how much energy; temperature = how intense the hotness is."
+      }
+    },
+    {
+      "id": "phy6_q113",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "क्लिनिकल थर्मामीटर की माप सीमा (रेंज) प्रायः —",
+        "en": "The measuring range of a clinical thermometer is usually —"
+      },
+      "options": {
+        "hi": [
+          "35 °C से 42 °C",
+          "0 °C से 100 °C",
+          "−10 °C से 110 °C",
+          "273 K से 373 K"
+        ],
+        "en": [
+          "35 °C to 42 °C",
+          "0 °C to 100 °C",
+          "−10 °C to 110 °C",
+          "273 K to 373 K"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "शरीर-ताप के आसपास की सीमा 35–42 °C ही काफी है।",
+        "en": "The body-temperature vicinity, 35–42 °C, is all that is needed."
+      }
+    },
+    {
+      "id": "phy6_q114",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "केल्विन पैमाने पर जल का क्वथनांक —",
+        "en": "On the Kelvin scale, the boiling point of water is —"
+      },
+      "options": {
+        "hi": [
+          "473 K",
+          "373 K",
+          "273 K",
+          "100 K"
+        ],
+        "en": [
+          "473 K",
+          "373 K",
+          "273 K",
+          "100 K"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "K = °C + 273 → 100 + 273 = 373 K।",
+        "en": "K = °C + 273 → 100 + 273 = 373 K."
+      }
+    },
+    {
+      "id": "phy6_q115",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "केल्विन पैमाने पर बर्फ का गलनांक —",
+        "en": "On the Kelvin scale, the melting point of ice is —"
+      },
+      "options": {
+        "hi": [
+          "0 K",
+          "173 K",
+          "273 K",
+          "373 K"
+        ],
+        "en": [
+          "0 K",
+          "173 K",
+          "273 K",
+          "373 K"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "0 + 273 = 273 K।",
+        "en": "0 + 273 = 273 K."
+      }
+    },
+    {
+      "id": "phy6_q116",
+      "topic": "heat-and-temperature",
+      "difficulty": "easy",
+      "question": {
+        "hi": "थर्मामीटर में पारे का उपयोग क्यों होता है?",
+        "en": "Why is mercury used in thermometers?"
+      },
+      "options": {
+        "hi": [
+          "यह सस्ता है",
+          "यह रंगीन है",
+          "यह हल्का है",
+          "यह चालक, चमकदार है और समान रूप से फैलता है"
+        ],
+        "en": [
+          "It is cheap",
+          "It is colourful",
+          "It is light",
+          "It is conductive, shiny and expands uniformly"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पारे का फैलाव ताप के साथ एकसार और दृश्य होता है।",
+        "en": "Mercury's expansion is uniform with temperature and clearly visible."
+      }
+    },
+    {
+      "id": "phy6_q117",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सेल्सियस को केल्विन में बदलने का सूत्र —",
+        "en": "The formula for converting Celsius to Kelvin is —"
+      },
+      "options": {
+        "hi": [
+          "K = °C + 273",
+          "K = °C − 273",
+          "K = °C × 273",
+          "K = °C + 100"
+        ],
+        "en": [
+          "K = °C + 273",
+          "K = °C − 273",
+          "K = °C × 273",
+          "K = °C + 100"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "केल्विन = सेल्सियस + 273।",
+        "en": "Kelvin = Celsius + 273."
+      }
+    },
+    {
+      "id": "phy6_q118",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "27 °C को केल्विन में —",
+        "en": "27 °C in kelvin is —"
+      },
+      "options": {
+        "hi": [
+          "327 K",
+          "300 K",
+          "273 K",
+          "246 K"
+        ],
+        "en": [
+          "327 K",
+          "300 K",
+          "273 K",
+          "246 K"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "27 + 273 = 300 K।",
+        "en": "27 + 273 = 300 K."
+      }
+    },
+    {
+      "id": "phy6_q119",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "30 °C = ? K",
+        "en": "30 °C = ? K"
+      },
+      "options": {
+        "hi": [
+          "243 K",
+          "330 K",
+          "303 K",
+          "300 K"
+        ],
+        "en": [
+          "243 K",
+          "330 K",
+          "303 K",
+          "300 K"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "30 + 273 = 303 K।",
+        "en": "30 + 273 = 303 K."
+      }
+    },
+    {
+      "id": "phy6_q120",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "50 °C केल्विन में —",
+        "en": "50 °C in kelvin is —"
+      },
+      "options": {
+        "hi": [
+          "223 K",
+          "350 K",
+          "273 K",
+          "323 K"
+        ],
+        "en": [
+          "223 K",
+          "350 K",
+          "273 K",
+          "323 K"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "50 + 273 = 323 K।",
+        "en": "50 + 273 = 323 K."
+      }
+    },
+    {
+      "id": "phy6_q121",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "373 K सेल्सियस में —",
+        "en": "373 K in Celsius is —"
+      },
+      "options": {
+        "hi": [
+          "100 °C",
+          "0 °C",
+          "50 °C",
+          "646 °C"
+        ],
+        "en": [
+          "100 °C",
+          "0 °C",
+          "50 °C",
+          "646 °C"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "373 − 273 = 100 °C।",
+        "en": "373 − 273 = 100 °C."
+      }
+    },
+    {
+      "id": "phy6_q122",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "300 K सेल्सियस में —",
+        "en": "300 K in Celsius is —"
+      },
+      "options": {
+        "hi": [
+          "573 °C",
+          "27 °C",
+          "30 °C",
+          "0 °C"
+        ],
+        "en": [
+          "573 °C",
+          "27 °C",
+          "30 °C",
+          "0 °C"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "300 − 273 = 27 °C।",
+        "en": "300 − 273 = 27 °C."
+      }
+    },
+    {
+      "id": "phy6_q123",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्लिनिकल थर्मामीटर में कष्ठिका (kink) क्यों होती है?",
+        "en": "Why does a clinical thermometer have a kink?"
+      },
+      "options": {
+        "hi": [
+          "कांच मजबूत रहे",
+          "थर्मामीटर सस्ता रहे",
+          "पढ़ने के समय पारा नीचे न उतरे, रीडिंग टिकी रहे",
+          "पारा ऊपर चढ़े नहीं"
+        ],
+        "en": [
+          "To strengthen the glass",
+          "To keep the thermometer cheap",
+          "So the mercury does not fall back and the reading stays",
+          "So the mercury cannot rise"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कष्ठिका पारे को रोककर पढ़ाई में सहायक बनती है।",
+        "en": "The kink traps the mercury so the reading can be read at ease."
+      }
+    },
+    {
+      "id": "phy6_q124",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो वस्तुओं के बीच ऊष्मा प्रवाह कब रुक जाता है?",
+        "en": "When does heat flow between two bodies stop?"
+      },
+      "options": {
+        "hi": [
+          "जब दोनों की ऊष्मा समान हो",
+          "जब दोनों का द्रव्यमान समान हो",
+          "कभी नहीं रुकता",
+          "जब दोनों का ताप समान हो जाए (तापीय संतुलन)"
+        ],
+        "en": [
+          "When both have equal heat",
+          "When both have equal mass",
+          "It never stops",
+          "When both reach the same temperature (thermal equilibrium)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "तापांतर शून्य → प्रवाह रुकता है।",
+        "en": "Zero temperature difference → the flow ceases."
+      }
+    },
+    {
+      "id": "phy6_q125",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "छोटे कप की तेज़ गर्म चाय और बड़े बर्तन का गुनगुना पानी — किसमें कुल ऊष्मा अधिक हो सकती है?",
+        "en": "A small cup of very hot tea versus a large vessel of lukewarm water — which can hold more total heat?"
+      },
+      "options": {
+        "hi": [
+          "बड़े बर्तन में (द्रव्यमान बहुत अधिक)",
+          "छोटे कप में (ताप अधिक)",
+          "दोनों में समान",
+          "निर्धारित नहीं कर सकते"
+        ],
+        "en": [
+          "The large vessel (far greater mass)",
+          "The small cup (higher temperature)",
+          "Equal in both",
+          "Cannot be determined"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कुल ऊष्मा द्रव्यमान पर भी निर्भर करती है — यही परीक्षा-जाल है।",
+        "en": "Total heat also depends on mass — this is the classic exam trap."
+      }
+    },
+    {
+      "id": "phy6_q126",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कैलोरी किसे कहते हैं?",
+        "en": "What is one calorie?"
+      },
+      "options": {
+        "hi": [
+          "100 जूल ऊर्जा",
+          "1 ग्राम जल को 1 °C गर्म करने की आवश्यक ऊष्मा",
+          "1 किलोग्राम को 1 °C गर्म करने की ऊष्मा",
+          "1 ग्राम बर्फ पिघलाने की ऊष्मा"
+        ],
+        "en": [
+          "100 joules of energy",
+          "The heat needed to warm 1 gram of water by 1 °C",
+          "The heat to warm 1 kilogram by 1 °C",
+          "The heat to melt 1 gram of ice"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1 cal = 1 g जल का 1 °C ताप-वृद्धि लागी ऊष्मा।",
+        "en": "1 cal = the heat raising 1 g of water by 1 °C."
+      }
+    },
+    {
+      "id": "phy6_q127",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म वस्तु और ठंडी वस्तु को संपर्क में रखा जाए — अंतिम साम्य ताप —",
+        "en": "A hot and a cold body are brought into contact — the final equilibrium temperature lies —"
+      },
+      "options": {
+        "hi": [
+          "ठंडी वस्तु के ताप पर",
+          "दोनों से ऊपर",
+          "दोनों के प्रारंभिक तापों के बीच",
+          "गर्म वस्तु के ताप पर"
+        ],
+        "en": [
+          "At the cold body's temperature",
+          "Above both",
+          "Between the two initial temperatures",
+          "At the hot body's temperature"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ऊष्मा हस्तांतरण के बाद साम्य ताप मध्यवर्ती हो जाता है।",
+        "en": "After the exchange the equilibrium temperature settles in between."
+      }
+    },
+    {
+      "id": "phy6_q128",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आधुनिक डिजिटल थर्मामीटर को पारे वाले पर वरीयता क्यों दी जाती है?",
+        "en": "Why are digital thermometers preferred over mercury ones today?"
+      },
+      "options": {
+        "hi": [
+          "डिजिटल सस्ता हमेशा",
+          "पारा ठंडा होता है",
+          "डिजिटल रंगीन होता है",
+          "पारा विषाक्त है — टूटने पर जोखिम"
+        ],
+        "en": [
+          "Digitals are always cheaper",
+          "Mercury is cold",
+          "Digitals are colourful",
+          "Mercury is toxic — a breakage poses a risk"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पारे के स्वास्थ्य-जोखिम के कारण डिजिटल सुरक्षित माना जाता है।",
+        "en": "Digital is safer because mercury poses health hazards."
+      }
+    },
+    {
+      "id": "phy6_q129",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "25 °C के कमरे में रखा 40 °C का पानी — ऊष्मा किसकी ओर बहेगी?",
+        "en": "Water at 40 °C stands in a 25 °C room — which way does the heat flow?"
+      },
+      "options": {
+        "hi": [
+          "पानी से कमरे की ओर",
+          "कमरे से पानी की ओर",
+          "कहीं नहीं",
+          "दोनों ओर समान"
+        ],
+        "en": [
+          "From the water to the room",
+          "From the room to the water",
+          "Nowhere",
+          "Equally both ways"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "40 से 25 की ओर — गर्म से ठंडे की ओर नियम।",
+        "en": "From 40 °C to 25 °C — hot to cold, as the rule goes."
+      }
+    },
+    {
+      "id": "phy6_q130",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: ताप अदिश राशि है। कथन B: ऊष्मा भी अदिश राशि है। सही विकल्प —",
+        "en": "Statement A: temperature is a scalar. Statement B: heat is also a scalar. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही"
+        ],
+        "en": [
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ताप और ऊष्मा दोनों केवल परिमाण बताते हैं — दोनों अदिश।",
+        "en": "Both temperature and heat carry magnitude only — both scalars."
+      }
+    },
+    {
+      "id": "phy6_q131",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान ताप के दो पिंड — एक 100 g, दूसरा 500 g — किसमें अधिक ऊष्मा (सामान्यतः)?",
+        "en": "Two bodies at the same temperature — one 100 g, the other 500 g — which generally holds more heat?"
+      },
+      "options": {
+        "hi": [
+          "समान",
+          "कोई नहीं",
+          "500 g वाले में",
+          "100 g वाले में"
+        ],
+        "en": [
+          "Equal",
+          "Neither",
+          "The 500 g one",
+          "The 100 g one"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अधिक द्रव्यमान में उसी ताप पर अधिक कुल ऊर्जा जमा रहती है।",
+        "en": "At the same temperature, more mass stores more total energy."
+      }
+    },
+    {
+      "id": "phy6_q132",
+      "topic": "heat-and-temperature",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्लिनिकल थर्मामीटर को दोबारा उपयोग से पहले हिलाकर पारा नीचे क्यों लाया जाता है?",
+        "en": "Before reuse, why is a clinical thermometer shaken to bring the mercury down?"
+      },
+      "options": {
+        "hi": [
+          "पारा गर्म हो जाता है",
+          "कांच थक जाता है",
+          "पैमाना बदल जाता है",
+          "कष्ठिका से रुका पारा पिछली रीडिंग पर ही रहता है"
+        ],
+        "en": [
+          "The mercury gets hot",
+          "The glass tires out",
+          "The scale changes",
+          "The mercury trapped at the kink stays at the last reading"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "झटका पारे को कष्ठिका के पार उतारकर नई माप के लिए शून्य करता है।",
+        "en": "The jerk pushes the mercury past the kink, resetting for a fresh reading."
+      }
+    },
+    {
+      "id": "phy6_q133",
+      "topic": "heat-and-temperature",
+      "difficulty": "hard",
+      "question": {
+        "hi": "−40 °C केल्विन में —",
+        "en": "−40 °C in kelvin is —"
+      },
+      "options": {
+        "hi": [
+          "233 K",
+          "313 K",
+          "−313 K",
+          "273 K"
+        ],
+        "en": [
+          "233 K",
+          "313 K",
+          "−313 K",
+          "273 K"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "−40 + 273 = 233 K।",
+        "en": "−40 + 273 = 233 K."
+      }
+    },
+    {
+      "id": "phy6_q134",
+      "topic": "heat-and-temperature",
+      "difficulty": "hard",
+      "question": {
+        "hi": "100 g जल को 40 °C से 60 °C गर्म करने में आवश्यक ऊष्मा —",
+        "en": "The heat needed to warm 100 g of water from 40 °C to 60 °C is —"
+      },
+      "options": {
+        "hi": [
+          "1000 cal",
+          "2000 cal",
+          "200 cal",
+          "6000 cal"
+        ],
+        "en": [
+          "1000 cal",
+          "2000 cal",
+          "200 cal",
+          "6000 cal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Q = 100 × 1 × (60 − 40) = 2000 cal।",
+        "en": "Q = 100 × 1 × (60 − 40) = 2000 cal."
+      }
+    },
+    {
+      "id": "phy6_q135",
+      "topic": "heat-and-temperature",
+      "difficulty": "hard",
+      "question": {
+        "hi": "50 g जल को 20 °C से बढ़ाकर 45 °C करने में ऊष्मा —",
+        "en": "Raising 50 g of water from 20 °C to 45 °C takes heat of —"
+      },
+      "options": {
+        "hi": [
+          "2250 cal",
+          "500 cal",
+          "1250 cal",
+          "250 cal"
+        ],
+        "en": [
+          "2250 cal",
+          "500 cal",
+          "1250 cal",
+          "250 cal"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "Q = 50 × 1 × 25 = 1250 cal।",
+        "en": "Q = 50 × 1 × 25 = 1250 cal."
+      }
+    },
+    {
+      "id": "phy6_q136",
+      "topic": "heat-and-temperature",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: गर्म पिंड में हमेशा अधिक ऊष्मा होती है। कथन B: ताप समान रहने पर भी ऊष्मा भिन्न हो सकती है। सही विकल्प —",
+        "en": "Statement A: a hotter body always holds more heat. Statement B: even at the same temperature, the heat can differ. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A सही, B गलत",
+          "दोनों सही",
+          "दोनों गलत",
+          "A गलत, B सही (द्रव्यमान मायने रखता है)"
+        ],
+        "en": [
+          "A right, B wrong",
+          "Both right",
+          "Both wrong",
+          "A wrong, B right (mass matters)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ताप तीव्रता है; कुल ऊष्मा द्रव्यमान पर निर्भर — A जाल, B सही।",
+        "en": "Temperature is intensity; total heat depends on mass — A is the trap, B holds."
+      }
+    },
+    {
+      "id": "phy6_q137",
+      "topic": "heat-and-temperature",
+      "difficulty": "hard",
+      "question": {
+        "hi": "केल्विन पैमाने पर ऋणात्मक ताप क्यों नहीं होता?",
+        "en": "Why are there no negative temperatures on the Kelvin scale?"
+      },
+      "options": {
+        "hi": [
+          "शून्य केल्विन से नीचे ठंडा संभव नहीं (पूर्ण शून्य सीमा)",
+          "केल्विन गलत पैमाना है",
+          "ऋणात्मक अंक निषिद्ध हैं",
+          "पारा जम जाता है"
+        ],
+        "en": [
+          "Nothing can be colder than zero kelvin (absolute zero is the limit)",
+          "Kelvin is a wrong scale",
+          "Negative digits are forbidden",
+          "Mercury freezes"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "0 K = पूर्ण शून्य — कणों की न्यूनतम ऊर्जा; इससे नीचे ताप संभव नहीं।",
+        "en": "0 K = absolute zero — minimum particle energy; no lower temperature exists."
+      }
+    },
+    {
+      "id": "phy6_q138",
+      "topic": "heat-and-temperature",
+      "difficulty": "hard",
+      "question": {
+        "hi": "200 g जल को 30 °C से 80 °C गर्म करने में लगी ऊष्मा —",
+        "en": "Warming 200 g of water from 30 °C to 80 °C requires heat of —"
+      },
+      "options": {
+        "hi": [
+          "5000 cal",
+          "10,000 cal",
+          "1000 cal",
+          "16,000 cal"
+        ],
+        "en": [
+          "5000 cal",
+          "10,000 cal",
+          "1000 cal",
+          "16,000 cal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Q = 200 × 1 × 50 = 10,000 cal।",
+        "en": "Q = 200 × 1 × 50 = 10,000 cal."
+      }
+    },
+    {
+      "id": "phy6_q139",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ऊष्मा संचरण की तीन विधियाँ कौन-सी हैं?",
+        "en": "Which are the three modes of heat transfer?"
+      },
+      "options": {
+        "hi": [
+          "संवहन, दाब, प्रवाह",
+          "विकिरण, वाष्पीकरण, संघनन",
+          "चालन, संवहन, विकिरण",
+          "चालन, विद्युत, घर्षण"
+        ],
+        "en": [
+          "Convection, pressure, flow",
+          "Radiation, evaporation, condensation",
+          "Conduction, convection, radiation",
+          "Conduction, electricity, friction"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ठोस में चालन, द्रव-गैस में संवहन, बिना माध्यम विकिरण।",
+        "en": "Conduction in solids, convection in fluids, radiation needs no medium."
+      }
+    },
+    {
+      "id": "phy6_q140",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "चालन किसे कहते हैं?",
+        "en": "What is conduction?"
+      },
+      "options": {
+        "hi": [
+          "कण स्वयं चलकर ऊष्मा ले जाएँ",
+          "तरंगों से बिना माध्यम ऊष्मा",
+          "ऊष्मा का प्रकाश में बदलना",
+          "कण अपने स्थान पर रहकर कंपन से ऊष्मा आगे बढ़ाएँ"
+        ],
+        "en": [
+          "Particles themselves carry the heat away",
+          "Heat travels as waves without a medium",
+          "Heat turning into light",
+          "Particles stay put and pass heat on by vibration"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चालन में कण अपनी जगह छोड़े बिना ऊष्मा हस्तांतरित करते हैं।",
+        "en": "In conduction particles hand on heat without leaving their places."
+      }
+    },
+    {
+      "id": "phy6_q141",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संवहन किसे कहते हैं?",
+        "en": "What is convection?"
+      },
+      "options": {
+        "hi": [
+          "गर्म कण हल्के होकर उठते और ठंडे नीचे आते हैं — कणों की स्वयं गति",
+          "कण अपने स्थान पर रहकर ऊष्मा दें",
+          "तरंगों द्वारा ऊष्मा",
+          "ऊष्मा का जमना"
+        ],
+        "en": [
+          "Hot light particles rise and cold ones sink — actual movement of particles",
+          "Particles pass heat while staying put",
+          "Heat through waves",
+          "Freezing of heat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "द्रवों-गैसों में कण स्वयं उठ-उतरकर ऊष्मा फैलाते हैं।",
+        "en": "In fluids the particles themselves rise and sink, spreading heat."
+      }
+    },
+    {
+      "id": "phy6_q142",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विकिरण किसे कहते हैं?",
+        "en": "What is radiation?"
+      },
+      "options": {
+        "hi": [
+          "द्रव में धाराएँ",
+          "बिना किसी माध्यम के तरंगों द्वारा ऊष्मा का संचरण",
+          "कणों की गति से ऊष्मा",
+          "कंपन से ऊष्मा"
+        ],
+        "en": [
+          "Currents in liquids",
+          "Heat transfer by waves without any medium",
+          "Heat by particle motion",
+          "Heat by vibration"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सूर्य की गर्मी निर्वात से गुजरकर आती है — विकिरण।",
+        "en": "The sun's heat crosses vacuum to reach us — radiation."
+      }
+    },
+    {
+      "id": "phy6_q143",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किस संचरण विधि को माध्यम की आवश्यकता नहीं होती?",
+        "en": "Which mode of transfer needs no medium?"
+      },
+      "options": {
+        "hi": [
+          "संवहन",
+          "चालन और संवहन दोनों",
+          "विकिरण",
+          "चालन"
+        ],
+        "en": [
+          "Convection",
+          "Both conduction and convection",
+          "Radiation",
+          "Conduction"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "केवल विकिरण निर्वात में भी संभव है।",
+        "en": "Only radiation works even in vacuum."
+      }
+    },
+    {
+      "id": "phy6_q144",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "धातुएँ ऊष्मा की कैसी चालक हैं?",
+        "en": "What kind of heat conductors are metals?"
+      },
+      "options": {
+        "hi": [
+          "कुचालक",
+          "इन्सुलेटर",
+          "चालक ही नहीं",
+          "सुचालक"
+        ],
+        "en": [
+          "Bad conductors",
+          "Insulators",
+          "Not conductors at all",
+          "Good conductors"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धातुओं में चालन तेज़ होता है।",
+        "en": "Metals conduct heat quickly."
+      }
+    },
+    {
+      "id": "phy6_q145",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लकड़ी और प्लास्टिक ऊष्मा की कैसी चालक हैं?",
+        "en": "Wood and plastic are what kind of heat conductors?"
+      },
+      "options": {
+        "hi": [
+          "कुचालक (उष्मारोधी)",
+          "सुचालक",
+          "अर्धचालक",
+          "चालक नहीं होती"
+        ],
+        "en": [
+          "Bad conductors (insulators)",
+          "Good conductors",
+          "Semi-conductors",
+          "Non-conductors"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "इसीलिए बर्तनों के हत्थे लकड़ी/प्लास्टिक के होते हैं।",
+        "en": "That is why utensil handles are of wood or plastic."
+      }
+    },
+    {
+      "id": "phy6_q146",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गर्म सूप में डाला चाकू? नहीं — चम्मच का धातु वाला हिस्सा गर्म हो जाता है — यह कौन-सी विधि है?",
+        "en": "The metal part of a spoon dipped in hot soup becomes hot — which mode is this?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण",
+          "चालन",
+          "संवहन",
+          "विकिरण"
+        ],
+        "en": [
+          "Evaporation",
+          "Conduction",
+          "Convection",
+          "Radiation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ऊष्मा धातु के कणों से होते हुए ऊपर चढ़ती है — चालन।",
+        "en": "Heat climbs up through the metal's particles — conduction."
+      }
+    },
+    {
+      "id": "phy6_q147",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सूर्य की गर्मी पृथ्वी तक किस विधि से पहुँचती है?",
+        "en": "By which mode does the sun's heat reach the earth?"
+      },
+      "options": {
+        "hi": [
+          "संवहन",
+          "चालन+संवहन",
+          "विकिरण",
+          "चालन"
+        ],
+        "en": [
+          "Convection",
+          "Conduction and convection",
+          "Radiation",
+          "Conduction"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अंतरिक्ष निर्वात है — केवल विकिरण संभव।",
+        "en": "Space is vacuum — only radiation is possible."
+      }
+    },
+    {
+      "id": "phy6_q148",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पानी गर्म करने पर पूरा पानी गर्म हो जाता है — मुख्य विधि —",
+        "en": "Heating water warms the whole bulk — the main mode is —"
+      },
+      "options": {
+        "hi": [
+          "चालन",
+          "विकिरण",
+          "संघनन",
+          "संवहन"
+        ],
+        "en": [
+          "Conduction",
+          "Radiation",
+          "Condensation",
+          "Convection"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नीचे का गर्म पानी उठता, ऊपर का ठंडा उतरता — संवहन धाराएँ।",
+        "en": "Hot water below rises, cold above sinks — convection currents."
+      }
+    },
+    {
+      "id": "phy6_q149",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ठंड में ऊनी कपड़े गर्म रखते हैं क्योंकि —",
+        "en": "Woollen clothes keep us warm in winter because —"
+      },
+      "options": {
+        "hi": [
+          "ऊन में फँसी हवा कुचालक है — ऊष्मा बाहर नहीं जाने देती",
+          "ऊन गर्म पैदा करता है",
+          "ऊन विकिरण देता है",
+          "ऊन भारी होता है"
+        ],
+        "en": [
+          "The air trapped in wool is a bad conductor — heat cannot escape",
+          "Wool generates heat",
+          "Wool radiates",
+          "Wool is heavy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊन के रोमों में बंद हवा उष्मारोधी काम करती है।",
+        "en": "Air locked in wool's fibres acts as insulation."
+      }
+    },
+    {
+      "id": "phy6_q150",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दिन में समुद्री समीरण किस दिशा से बहती है?",
+        "en": "In the daytime the sea breeze blows —"
+      },
+      "options": {
+        "hi": [
+          "किसी भी दिशा में",
+          "समुद्र से स्थल की ओर",
+          "स्थल से समुद्र की ओर",
+          "ऊपर की ओर"
+        ],
+        "en": [
+          "In any direction",
+          "From the sea towards the land",
+          "From the land towards the sea",
+          "Upwards"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दिन में स्थल जल्दी गर्म → हवा उठती → ठंडी समुद्री हवा भरती है।",
+        "en": "Land heats fast by day → air rises → cool sea air moves in."
+      }
+    },
+    {
+      "id": "phy6_q151",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रात में स्थलीय समीरण किस दिशा से बहती है?",
+        "en": "At night the land breeze blows —"
+      },
+      "options": {
+        "hi": [
+          "नीचे की ओर",
+          "कहीं नहीं",
+          "स्थल से समुद्र की ओर",
+          "समुद्र से स्थल की ओर"
+        ],
+        "en": [
+          "Downwards",
+          "Nowhere",
+          "From the land towards the sea",
+          "From the sea towards the land"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रात में स्थल जल्दी ठंडा → समुद्र की गर्म हवा उठती → स्थल से ठंडी हवा जाती है।",
+        "en": "Land cools fast at night → warm sea air rises → cool air flows out from land."
+      }
+    },
+    {
+      "id": "phy6_q152",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "काली सतह विकिरण के प्रति कैसी होती है?",
+        "en": "How does a black surface behave towards radiation?"
+      },
+      "options": {
+        "hi": [
+          "अच्छी परावर्तक",
+          "उदासीन",
+          "विकिरण रोकती है",
+          "अच्छी अवशोषक (और उत्सर्जक)"
+        ],
+        "en": [
+          "A good reflector",
+          "Indifferent",
+          "It blocks radiation",
+          "A good absorber (and emitter)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गहरा रंग विकिरण सोख लेता है; सफेद चमक परावर्तित करती है।",
+        "en": "Dark colours absorb radiation; shiny white reflects it."
+      }
+    },
+    {
+      "id": "phy6_q153",
+      "topic": "heat-transfer",
+      "difficulty": "easy",
+      "question": {
+        "hi": "थर्मोस फ्लास्क का काम क्या है?",
+        "en": "What is the job of a thermos flask?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा संचरण को रोककर पेय का ताप बनाए रखना",
+          "पेय को गर्म करना",
+          "पेय को ठंडा करना",
+          "पेय उबालना"
+        ],
+        "en": [
+          "To stop heat transfer and keep the drink's temperature steady",
+          "To heat the drink",
+          "To chill the drink",
+          "To boil the drink"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फ्लास्क तीनों विधियाँ (चालन, संवहन, विकिरण) रोकती है।",
+        "en": "The flask blocks all three modes (conduction, convection, radiation)."
+      }
+    },
+    {
+      "id": "phy6_q154",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दिन में समुद्री समीरण चलने का कारण-क्रम है —",
+        "en": "The causal chain behind the daytime sea breeze is —"
+      },
+      "options": {
+        "hi": [
+          "सूर्य स्थल पर विकिरण नहीं करता",
+          "स्थल तेज़ गर्म → वहाँ की हवा उठती → समुद्र की ठंडी हवा स्थल की ओर",
+          "समुद्र तेज़ गर्म → हवा समुद्र से उठती",
+          "स्थल ठंडा → हवा नीचे उतरती"
+        ],
+        "en": [
+          "The sun radiates nothing onto land",
+          "Land heats quickly → its air rises → cool sea air flows landward",
+          "The sea heats fast → air rises from the sea",
+          "Land cools → air sinks"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "स्थल की गर्म हल्की हवा संवहन से उठती है और समुद्र की ठंडी हवा जगह लेती है।",
+        "en": "Warm light air over land rises by convection and cool sea air takes its place."
+      }
+    },
+    {
+      "id": "phy6_q155",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रात में दिशा उलट क्यों जाती है?",
+        "en": "Why does the breeze reverse at night?"
+      },
+      "options": {
+        "hi": [
+          "सूर्य रात में ठंडा करता है",
+          "हवा की दिशा स्थिर होती है",
+          "रात में स्थल जल्दी ठंडा, समुद्र अपेक्षाकृत गर्म → समुद्र की हवा उठती, स्थल से ठंडी हवा जाती है",
+          "रात में समुद्र जम जाता है"
+        ],
+        "en": [
+          "The sun cools at night",
+          "Wind direction is fixed",
+          "At night land cools fast while the sea stays warmer → sea air rises and cool land air flows out",
+          "The sea freezes at night"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जल धीरे गर्म/ठंडा होता है — रात में वही अपेक्षाकृत गर्म रहता है।",
+        "en": "Water warms and cools slowly — at night it stays relatively warm."
+      }
+    },
+    {
+      "id": "phy6_q156",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ठोस में संवहन क्यों नहीं होता?",
+        "en": "Why does convection not occur in solids?"
+      },
+      "options": {
+        "hi": [
+          "ठोस में ऊष्मा नहीं होती",
+          "ठोस संघनित गैस है",
+          "ठोस में कण नहीं होते",
+          "ठोस के कण स्थान नहीं बदल सकते"
+        ],
+        "en": [
+          "Solids hold no heat",
+          "A solid is condensed gas",
+          "Solids lack particles",
+          "The particles of a solid cannot change places"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "संवहन के लिए कणों का बहाव चाहिए — ठोस में कण जड़े रहते हैं।",
+        "en": "Convection needs flowing particles — in solids they are fixed."
+      }
+    },
+    {
+      "id": "phy6_q157",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वायु और जल कुचालक हैं, फिर भी कमरा/बर्तन गर्म हो जाता है — कारण —",
+        "en": "Air and water are bad conductors, yet a room or a vessel gets warm — because —"
+      },
+      "options": {
+        "hi": [
+          "उनमें संवहन धाराएँ ऊष्मा फैला देती हैं",
+          "वे सुचालक बन जाते हैं",
+          "विकिरण से ठोस हो जाते हैं",
+          "कुचालक होना अफवाह है"
+        ],
+        "en": [
+          "Convection currents within them spread the heat",
+          "They turn into conductors",
+          "Radiation solidifies them",
+          "Their being insulators is a rumour"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कुचालक तरल/गैस में संवहन ही ऊष्मा वहन करता है।",
+        "en": "In an insulating fluid or gas, convection carries the heat."
+      }
+    },
+    {
+      "id": "phy6_q158",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कमरे का हीटर फर्श के पास रखना चाहिए — क्यों?",
+        "en": "Why should a room heater be placed near the floor?"
+      },
+      "options": {
+        "hi": [
+          "छत टूट जाती है",
+          "गर्म हवा उठती है और ठंडी नीचे आती — संवहन चक्र पूरा कमरा गर्म करता है",
+          "फर्श गर्म होता है",
+          "दीवार ठंडी होती है"
+        ],
+        "en": [
+          "The ceiling breaks",
+          "Hot air rises and cold descends — the convection loop warms the whole room",
+          "The floor gets hot",
+          "The wall is cold"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "नीचे से गर्म करने पर संवहन धारा पूरे कमरे में चक्कर लगाती है।",
+        "en": "Heating from below sets a convection loop circling the whole room."
+      }
+    },
+    {
+      "id": "phy6_q159",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एसी/कूलर का वेंट ऊपर की दीवार पर क्यों लगाया जाता है?",
+        "en": "Why is an AC vent mounted high on the wall?"
+      },
+      "options": {
+        "hi": [
+          "छत गर्म होती है",
+          "वेंट नीचे नहीं लग सकता",
+          "ठंडी हवा भारी होकर नीचे उतरती है — पूरा कमरा ठंडा होता है",
+          "ठंडी हवा उपर उठती है"
+        ],
+        "en": [
+          "The ceiling is hot",
+          "A vent cannot be lower",
+          "Cold air is heavy and sinks — the whole room cools",
+          "Cold air rises"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ठंडी सघन हवा नीचे बैठती है — ऊपर से ठंडक फैलती है।",
+        "en": "Dense cold air settles down — cooling spreads from the top."
+      }
+    },
+    {
+      "id": "phy6_q160",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ईंटें खोखली क्यों बनाई जाती हैं?",
+        "en": "Why are bricks made hollow?"
+      },
+      "options": {
+        "hi": [
+          "ईंट हल्की लगे",
+          "गारा बचता है",
+          "रंग सुंदर लगे",
+          "भीतर बंद हवा कुचालक है — घर गर्म/ठंडा रहता है"
+        ],
+        "en": [
+          "The brick looks light",
+          "Mortar is saved",
+          "The colour looks nice",
+          "The trapped air is a bad conductor — the house stays warm or cool"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हवा का जाल ही उष्मारोधण करता है।",
+        "en": "The air pocket itself provides the insulation."
+      }
+    },
+    {
+      "id": "phy6_q161",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बर्फ के डिब्बे (freezer) में बर्फ ऊपर के कम्पार्टमेंट में क्यों रखते हैं?",
+        "en": "Why is the freezer compartment placed at the top in a fridge?"
+      },
+      "options": {
+        "hi": [
+          "ठंडी हवा नीचे उतरकर पूरा डिब्बा ठंडा करती है",
+          "नीचे रखने पर गिर जाती",
+          "ऊपर जगह कम होती है",
+          "प्रकाश ऊपर होता है"
+        ],
+        "en": [
+          "The cold air sinks and cools the entire cabinet",
+          "It would fall if placed low",
+          "Less space above",
+          "The light is up there"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊपर ठंडा → संवहन से नीचे फैलता है।",
+        "en": "Cold at the top → convection spreads it downward."
+      }
+    },
+    {
+      "id": "phy6_q162",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मियों में सफेद/हल्के रंग के कपड़े क्यों पहनते हैं?",
+        "en": "Why are white or light-coloured clothes worn in summer?"
+      },
+      "options": {
+        "hi": [
+          "वे पसीना पीते हैं",
+          "वे सूर्य का विकिरण परावर्तित कर देते हैं — कम गर्मी",
+          "वे हवा देते हैं",
+          "वे भारी होते हैं"
+        ],
+        "en": [
+          "They drink sweat",
+          "They reflect the sun's radiation — less heating",
+          "They supply air",
+          "They are heavy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सफेद परावर्तक, काला अवशोषक — गर्मी में सफेद ठंडक।",
+        "en": "White reflects, black absorbs — white keeps you cool."
+      }
+    },
+    {
+      "id": "phy6_q163",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "थर्मोस फ्लास्क की दोहरी दीवार के बीच वायु निकाली जाती है — कारण —",
+        "en": "The air between a flask's double walls is removed — because —"
+      },
+      "options": {
+        "hi": [
+          "कांच टूटता है",
+          "विकिरण बढ़ता है",
+          "निर्वात चालन व संवहन दोनों रोक देता है",
+          "हवा भारी होती है"
+        ],
+        "en": [
+          "Glass breaks",
+          "Radiation increases",
+          "The vacuum stops both conduction and convection",
+          "Air is heavy"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कण ही नहीं → चालन/संवहन असंभव; चांदी की परत विकिरण रोकती है।",
+        "en": "No particles → no conduction or convection; the silver coat checks radiation."
+      }
+    },
+    {
+      "id": "phy6_q164",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अंगीठी के पास बैठे चेहरे को गर्मी कैसे मिलती है?",
+        "en": "Sitting near a fire, how does your face receive the warmth?"
+      },
+      "options": {
+        "hi": [
+          "चालन से",
+          "संवहन से",
+          "वाष्पीकरण से",
+          "मुख्यतः विकिरण से"
+        ],
+        "en": [
+          "By conduction",
+          "By convection",
+          "By evaporation",
+          "Mainly by radiation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हवा से पहले तरंगें पहुँचती हैं — विकिरण का अनुभव।",
+        "en": "The waves arrive ahead of the air — the feel of radiation."
+      }
+    },
+    {
+      "id": "phy6_q165",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बर्तन धातु के और हत्थे लकड़ी/प्लास्टिक के — कारण —",
+        "en": "Cooking vessels are metal but their handles wood or plastic — because —"
+      },
+      "options": {
+        "hi": [
+          "धातु सुचालक (खाना जल्दी), हत्था कुचालक (हाथ सुरक्षित)",
+          "धातु सस्ती है",
+          "लकड़ी सुंदर है",
+          "धातु भारी होती है"
+        ],
+        "en": [
+          "Metal conducts well (fast cooking) while the handle insulates (safe grip)",
+          "Metal is cheap",
+          "Wood is beautiful",
+          "Metal is heavy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "एक ही वस्तु में सुचालक+कुचालक का बुद्धिमान मेल।",
+        "en": "A smart pairing of conductor and insulator in one object."
+      }
+    },
+    {
+      "id": "phy6_q166",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मी में घर की छत पर सफेद चूना पोतने का लाभ —",
+        "en": "Whitewashing the roof in summer helps because —"
+      },
+      "options": {
+        "hi": [
+          "बरसात भाग जाती है",
+          "सफेद सतह सौर विकिरण परावर्तित कर कम गर्म करती है",
+          "चूना ठंडा उत्पन्न करता है",
+          "छत भारी होती है"
+        ],
+        "en": [
+          "Rain runs off",
+          "The white surface reflects solar radiation and heats less",
+          "Lime generates cold",
+          "The roof gets heavy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "परावर्तन बढ़ा → अवशोषण घटा → घर ठंडा।",
+        "en": "More reflection → less absorption → a cooler home."
+      }
+    },
+    {
+      "id": "phy6_q167",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: चालन के लिए माध्यम आवश्यक है। कथन B: विकिरण निर्वात में भी होता है। सही विकल्प —",
+        "en": "Statement A: conduction requires a medium. Statement B: radiation occurs even in vacuum. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "चालन/संवहन को कण चाहिए; विकिरण को नहीं — दोनों कथन सही।",
+        "en": "Conduction and convection need particles; radiation does not — both hold."
+      }
+    },
+    {
+      "id": "phy6_q168",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "जल को नीचे से गर्म करने पर ऊपर का जल भी गर्म हो जाता है पर ऊपर से गर्म करने पर नीचे का जल ठंडा रह जाता है — कारण —",
+        "en": "Water heated from below warms throughout, but heated from above the lower water stays cool — because —"
+      },
+      "options": {
+        "hi": [
+          "नीचे का जल जमा होता है",
+          "ऊपर विकिरण नहीं होता",
+          "जल सुचालक है",
+          "गर्म जल हल्का ऊपर रहता है, नीचे उतरने का संवहन चक्र नहीं बनता"
+        ],
+        "en": [
+          "The bottom water is frozen",
+          "No radiation above",
+          "Water is a good conductor",
+          "Warm water stays light at the top — no convection loop forms to carry heat down"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "संवहन को नीचे से गर्म करना पड़ता है — ऊपर से गर्म करने पर चक्र अपने आप नहीं बनता।",
+        "en": "Convection must be driven from below — top heating never starts the loop."
+      }
+    },
+    {
+      "id": "phy6_q169",
+      "topic": "heat-transfer",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समुद्र-स्थल क्यों तेज़ गर्म/ठंडा होते हैं जबकि जल धीमा?",
+        "en": "Why do land and sea surfaces heat and cool at different rates?"
+      },
+      "options": {
+        "hi": [
+          "जल की विशिष्ट ऊष्मा अधिक — वह धीरे गर्म और धीरे ठंडा होता है",
+          "स्थल में अधिक ऊर्जा होती है",
+          "जल विकिरण नहीं सोखता",
+          "स्थल के कण तेज़ चलते हैं"
+        ],
+        "en": [
+          "Water's specific heat is higher — it warms and cools slowly",
+          "Land holds more energy",
+          "Water absorbs no radiation",
+          "Land's particles move faster"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "विशिष्ट ऊष्मा का अंतर ही समीरण-चक्र का मूल कारण है।",
+        "en": "The specific-heat difference is the root cause of the breeze cycle."
+      }
+    },
+    {
+      "id": "phy6_q170",
+      "topic": "heat-transfer",
+      "difficulty": "hard",
+      "question": {
+        "hi": "निर्वात में ऊष्मा संचरण की कौन-सी विधियाँ संभव हैं?",
+        "en": "Which modes of heat transfer are possible in vacuum?"
+      },
+      "options": {
+        "hi": [
+          "तीनों",
+          "केवल विकिरण",
+          "चालन और विकिरण",
+          "संवहन और विकिरण"
+        ],
+        "en": [
+          "All three",
+          "Only radiation",
+          "Conduction and radiation",
+          "Convection and radiation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बिना कण के चालन-संवहन असंभव — केवल विकिरण।",
+        "en": "Without particles conduction and convection fail — radiation alone."
+      }
+    },
+    {
+      "id": "phy6_q171",
+      "topic": "heat-transfer",
+      "difficulty": "hard",
+      "question": {
+        "hi": "थर्मोस फ्लास्क में — (i) निर्वात (ii) चांदी की परत — क्रमशः क्या रोकते हैं?",
+        "en": "In a thermos flask — (i) the vacuum (ii) the silver coating — respectively stop what?"
+      },
+      "options": {
+        "hi": [
+          "(i) संवहन, (ii) चालन",
+          "(i) सब, (ii) कुछ नहीं",
+          "(i) चालन+संवहन, (ii) विकिरण",
+          "(i) विकिरण, (ii) चालन"
+        ],
+        "en": [
+          "(i) convection, (ii) conduction",
+          "(i) everything, (ii) nothing",
+          "(i) conduction + convection, (ii) radiation",
+          "(i) radiation, (ii) conduction"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "निर्वात कण-माध्यम खत्म; चमकदार परत विकिरण परावर्तित करती है।",
+        "en": "The vacuum removes the particle medium; the mirror coat reflects radiation."
+      }
+    },
+    {
+      "id": "phy6_q172",
+      "topic": "heat-transfer",
+      "difficulty": "hard",
+      "question": {
+        "hi": "धातु की छड़ के एक सिरे पर मोम कागज चिपके हैं — गर्म करने पर सबसे पहले कौन-सा गिरेगा?",
+        "en": "Wax papers are stuck along a metal rod — on heating one end, which falls first?"
+      },
+      "options": {
+        "hi": [
+          "मध्य वाला",
+          "ठंडे सिरे वाला",
+          "एक साथ सब",
+          "गर्म सिरे के सबसे पास वाला"
+        ],
+        "en": [
+          "The middle one",
+          "The far-end one",
+          "All together",
+          "The one nearest the heated end"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चालन में ऊष्मा क्रमशः आगे बढ़ती है — पास वाला पहले गर्म।",
+        "en": "Conduction carries heat onward stepwise — the nearest paper heats first."
+      }
+    },
+    {
+      "id": "phy6_q173",
+      "topic": "heat-transfer",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: संवहन केवल द्रवों और गैसों में होता है। कथन B: विकिरण के लिए माध्यम वैकल्पिक है। सही विकल्प —",
+        "en": "Statement A: convection happens only in liquids and gases. Statement B: for radiation a medium is optional. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "A और B दोनों सही",
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत"
+        ],
+        "en": [
+          "Both A and B are right",
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ठोस में प्रवाह नहीं → संवहन नहीं; विकिरण स्वतंत्र — दोनों सही।",
+        "en": "Solids cannot flow → no convection; radiation is independent — both right."
+      }
+    },
+    {
+      "id": "phy6_q174",
+      "topic": "heat-transfer",
+      "difficulty": "hard",
+      "question": {
+        "hi": "समुद्र तट पर दिन में मछुआरे अपनी नाव समुद्र की ओर ले जाते हैं — इसका ऊष्मा-आधार —",
+        "en": "Fishermen sail out to sea by day — the heat-based reasoning is —"
+      },
+      "options": {
+        "hi": [
+          "विकिरण नाव धकेलता है",
+          "दिन की समुद्री समीरण (समुद्र → स्थल) नाव को समुद्र से खींचती है",
+          "स्थलीय समीरण खींचती है",
+          "समुद्र गर्म होता है"
+        ],
+        "en": [
+          "Radiation pushes the boat",
+          "The daytime sea breeze (sea → land) carries the boat seaward first",
+          "The land breeze pulls it",
+          "The sea is hotter"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दिन में समुद्री समीरण समुद्र से तट की ओर — तट छोड़ते समय पाल सहायक।",
+        "en": "By day the sea breeze blows sea → land — helpful when leaving the coast."
+      }
+    },
+    {
+      "id": "phy6_q175",
+      "topic": "heat-transfer",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ही ताप पर चमकदार और काली चाय-केतली — किसमें चाय जल्दी ठंडी होगी?",
+        "en": "At the same temperature, a shiny and a black kettle — whose tea cools faster?"
+      },
+      "options": {
+        "hi": [
+          "दोनों समान",
+          "निर्भर नहीं",
+          "काली — विकिरण देने में भी अच्छी",
+          "चमकदार"
+        ],
+        "en": [
+          "Both equally",
+          "It does not depend",
+          "The black one — it is also a good emitter of radiation",
+          "The shiny one"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "काली सतह अवशोषक और उत्सर्जक दोनों अच्छी — गर्म चाय की ऊष्मा तेज़ विकिरित।",
+        "en": "A black surface is both a good absorber and emitter — the hot tea radiates away faster."
+      }
+    },
+    {
+      "id": "phy6_q176",
+      "topic": "heat-transfer",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो एक-जैसे चम्मच — एक धातु, एक लकड़ी — उबलते पानी में 5 मिनट — बाहर निकालकर पकड़ने पर —",
+        "en": "Two similar spoons — one metal, one wood — kept 5 minutes in boiling water — on grabbing them —"
+      },
+      "options": {
+        "hi": [
+          "दोनों समान गर्म",
+          "लकड़ी अधिक गर्म",
+          "दोनों ठंडी",
+          "धातु गर्म लगेगी (चालन से ऊष्मा पूरे चम्मच में), लकड़ी ठंडी (कुचालक)"
+        ],
+        "en": [
+          "Both equally hot",
+          "The wood is hotter",
+          "Both cool",
+          "The metal feels hot (conduction all along), the wood cool (insulator)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "पानी का ताप समान होने पर भी संचरण-क्षमता का अंतर अनुभव होता है।",
+        "en": "Though the water's temperature is the same, the difference in conduction is felt."
+      }
+    },
+    {
+      "id": "phy6_q177",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अवस्था परिवर्तन किसे कहते हैं?",
+        "en": "What is a change of state?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा देने/लेने पर पदार्थ का ठोस-द्रव-गैस रूप में बदलना",
+          "पदार्थ का रंग बदलना",
+          "पदार्थ का भार बदलना",
+          "पदार्थ का आकार बदलना"
+        ],
+        "en": [
+          "A substance turning solid-liquid-gas under heat exchange",
+          "A change of colour",
+          "A change of weight",
+          "A change of shape"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "गलन/क्वथन/जमन/संघनन — अवस्था परिवर्तन के नाम हैं।",
+        "en": "Melting, boiling, freezing and condensation are the changes of state."
+      }
+    },
+    {
+      "id": "phy6_q178",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पिघलते समय बर्फ का ताप —",
+        "en": "While ice is melting, its temperature —"
+      },
+      "options": {
+        "hi": [
+          "पहले बढ़ता फिर घटता",
+          "स्थिर रहता है",
+          "बढ़ता रहता है",
+          "घटता रहता है"
+        ],
+        "en": [
+          "Rises first then falls",
+          "Stays constant",
+          "Keeps rising",
+          "Keeps falling"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "दी गई ऊष्मा गुप्त ऊष्मा बनती है — ताप 0 °C पर रुका रहता है।",
+        "en": "The supplied heat becomes latent heat — the temperature holds at 0 °C."
+      }
+    },
+    {
+      "id": "phy6_q179",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उबलते समय जल का ताप —",
+        "en": "While water is boiling, its temperature —"
+      },
+      "options": {
+        "hi": [
+          "घटता है",
+          "शून्य हो जाता है",
+          "स्थिर रहता है (100 °C पर)",
+          "लगातार बढ़ता है"
+        ],
+        "en": [
+          "Falls",
+          "Becomes zero",
+          "Stays constant (at 100 °C)",
+          "Keeps rising"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "क्वथनांक पर सारी ऊष्मा वाष्पीकरण में जाती है — ताप स्थिर।",
+        "en": "At the boiling point all heat goes into vaporisation — steady temperature."
+      }
+    },
+    {
+      "id": "phy6_q180",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गुप्त ऊष्मा किसे कहते हैं?",
+        "en": "What is latent heat?"
+      },
+      "options": {
+        "hi": [
+          "ताप बढ़ाने वाली ऊष्मा",
+          "खोई हुई ऊष्मा",
+          "छिपाई गई ऊर्जा",
+          "अवस्था परिवर्तन के समय बिना ताप बढ़ाए दी/ली गई ऊष्मा"
+        ],
+        "en": [
+          "Heat that raises temperature",
+          "Lost heat",
+          "Hidden energy",
+          "The heat given or taken during a change of state without any rise in temperature"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुप्त = छिपा हुआ — थर्मामीटर में न दिखने वाली ऊष्मा।",
+        "en": "Latent = hidden — heat that never shows on the thermometer."
+      }
+    },
+    {
+      "id": "phy6_q181",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बर्फ के पिघलने की गुप्त ऊष्मा कितनी होती है?",
+        "en": "What is the latent heat of melting of ice?"
+      },
+      "options": {
+        "hi": [
+          "80 cal/g",
+          "540 cal/g",
+          "100 cal/g",
+          "1 cal/g"
+        ],
+        "en": [
+          "80 cal/g",
+          "540 cal/g",
+          "100 cal/g",
+          "1 cal/g"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "1 ग्राम बर्फ 0 °C पर पिघलने में 80 कैलोरी लेती है।",
+        "en": "One gram of ice takes 80 calories to melt at 0 °C."
+      }
+    },
+    {
+      "id": "phy6_q182",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जल के क्वथन (वाष्पीकरण) की गुप्त ऊष्मा —",
+        "en": "The latent heat of vaporisation of water is —"
+      },
+      "options": {
+        "hi": [
+          "5400 cal/g",
+          "540 cal/g",
+          "80 cal/g",
+          "100 cal/g"
+        ],
+        "en": [
+          "5400 cal/g",
+          "540 cal/g",
+          "80 cal/g",
+          "100 cal/g"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1 ग्राम जल 100 °C पर भाप बनने में 540 कैलोरी लेता है।",
+        "en": "One gram of water takes 540 calories to turn into steam at 100 °C."
+      }
+    },
+    {
+      "id": "phy6_q183",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण किसे कहते हैं?",
+        "en": "What is evaporation?"
+      },
+      "options": {
+        "hi": [
+          "गैस का द्रव बनना",
+          "द्रव का जमना",
+          "किसी भी ताप पर द्रव की सतह से गैस बनना",
+          "केवल 100 °C पर गैस बनना"
+        ],
+        "en": [
+          "A gas turning liquid",
+          "A liquid freezing",
+          "A liquid turning gas at its surface at any temperature",
+          "Turning gas only at 100 °C"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सतह के अणु ऊर्जा लेकर उड़ते हैं — वाष्पीकरण।",
+        "en": "Surface molecules escape with energy — evaporation."
+      }
+    },
+    {
+      "id": "phy6_q184",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "संघनन किसे कहते हैं?",
+        "en": "What is condensation?"
+      },
+      "options": {
+        "hi": [
+          "द्रव का गैस बनना",
+          "द्रव का ठोस बनना",
+          "ठोस का द्रव बनना",
+          "गैस का द्रव में बदलना"
+        ],
+        "en": [
+          "A liquid turning gas",
+          "A liquid turning solid",
+          "A solid turning liquid",
+          "A gas turning into a liquid"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "ठंडी सतह पर जलवाष्प का बूँदों में बदलना संघनन है।",
+        "en": "Water vapour turning into drops on a cold surface is condensation."
+      }
+    },
+    {
+      "id": "phy6_q185",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "जमना (हिमीकरण) किस अवस्था परिवर्तन है?",
+        "en": "Freezing is which change of state?"
+      },
+      "options": {
+        "hi": [
+          "द्रव → ठोस",
+          "ठोस → द्रव",
+          "द्रव → गैस",
+          "गैस → द्रव"
+        ],
+        "en": [
+          "Liquid → solid",
+          "Solid → liquid",
+          "Liquid → gas",
+          "Gas → liquid"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊष्मा निकालने पर द्रव जमकर ठोस बनता है।",
+        "en": "Removing heat freezes a liquid into a solid."
+      }
+    },
+    {
+      "id": "phy6_q186",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पिघलती बर्फ हाथ पर जल की तुलना में अधिक ठंडक क्यों देती है?",
+        "en": "Why does melting ice feel colder on the hand than water?"
+      },
+      "options": {
+        "hi": [
+          "जल गर्म होता है",
+          "पिघलने में वह हाथ से गुप्त ऊष्मा खींच लेती है",
+          "बर्फ हल्की होती है",
+          "बर्फ सफेद होती है"
+        ],
+        "en": [
+          "Water is warm",
+          "While melting it draws latent heat from the hand",
+          "Ice is lighter",
+          "Ice is white"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "0 °C बर्फ पिघलते हुए त्वचा से ऊष्मा चुराती रहती है।",
+        "en": "Melting 0 °C ice keeps stealing heat from the skin."
+      }
+    },
+    {
+      "id": "phy6_q187",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "100 °C की भाप 100 °C के जल से अधिक जला देती है — कारण —",
+        "en": "Steam at 100 °C scalds worse than water at 100 °C — because —"
+      },
+      "options": {
+        "hi": [
+          "जल ठंडा होता है",
+          "भाप हल्की होती है",
+          "भाप में 540 cal/g गुप्त ऊष्मा अतिरिक्त होती है",
+          "भाप गर्म होती है"
+        ],
+        "en": [
+          "Water is cold",
+          "Steam is light",
+          "Steam carries an extra 540 cal/g of latent heat",
+          "Steam is hotter"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ताप समान, पर भाप की कुल ऊर्जा गुप्त ऊष्मा से कहीं अधिक।",
+        "en": "Same temperature, but steam's total energy is far higher due to latent heat."
+      }
+    },
+    {
+      "id": "phy6_q188",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सामान्य दाब पर उबलता जल 100 °C से ऊपर क्यों नहीं जाता?",
+        "en": "At normal pressure why does boiling water not go above 100 °C?"
+      },
+      "options": {
+        "hi": [
+          "जल ठंडा हो जाता है",
+          "बर्तन टूट जाता है",
+          "ताप नापा नहीं जा सकता",
+          "अतिरिक्त ऊष्मा भाप बनाने में लग जाती है"
+        ],
+        "en": [
+          "The water cools",
+          "The vessel breaks",
+          "Temperature cannot be measured",
+          "The extra heat goes into making steam"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "क्वथनांक पर सारी नई ऊष्मा गुप्त रूप में जाती है।",
+        "en": "At the boiling point all new heat turns latent."
+      }
+    },
+    {
+      "id": "phy6_q189",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पहाड़ों पर जल समुद्र तल से कम ताप पर उबलता है — कारण —",
+        "en": "On mountains water boils below 100 °C — because —"
+      },
+      "options": {
+        "hi": [
+          "वायुमंडलीय दाब कम होने से क्वथनांक घट जाता है",
+          "वहाँ ठंड अधिक है",
+          "वहाँ जल शुद्ध है",
+          "वहाँ गैस नहीं होती"
+        ],
+        "en": [
+          "Lower atmospheric pressure lowers the boiling point",
+          "It is colder there",
+          "The water is purer",
+          "There is no gas there"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "दाब घटा → अणु जल्दी उड़ते हैं → कम ताप पर क्वथन।",
+        "en": "Less pressure → molecules escape sooner → boiling at lower temperature."
+      }
+    },
+    {
+      "id": "phy6_q190",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गर्म चीज़ को छूने से पहले भाप की अहटकारी आवाज़? नहीं — सीधा प्रश्न: क्वथन के समय बुलबुले कहाँ बनते हैं?",
+        "en": "During boiling, where do the bubbles form?"
+      },
+      "options": {
+        "hi": [
+          "हवा में",
+          "द्रव के भीतर (तल व आंतरिक भाग में)",
+          "केवल सतह पर",
+          "बर्तन के बाहर"
+        ],
+        "en": [
+          "In the air",
+          "Inside the liquid (at the bottom and within)",
+          "Only at the surface",
+          "Outside the vessel"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्वथन पूरे द्रव की आंतरिक घटना है — बुलबुले भीतर बनते हैं।",
+        "en": "Boiling is a bulk phenomenon — bubbles form within the liquid."
+      }
+    },
+    {
+      "id": "phy6_q191",
+      "topic": "change-of-state",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गलनांक पर पदार्थ की कौन-सी दो अवस्थाएँ साथ-साथ रहती हैं?",
+        "en": "At the melting point, which two states of a substance coexist?"
+      },
+      "options": {
+        "hi": [
+          "ठोस और गैस",
+          "कोई नहीं",
+          "ठोस और द्रव",
+          "द्रव और गैस"
+        ],
+        "en": [
+          "Solid and gas",
+          "None",
+          "Solid and liquid",
+          "Liquid and gas"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गलनांक पर ठोस पिघलता और द्रव जमता रहता है — साम्य।",
+        "en": "At the melting point solid melts and liquid freezes — an equilibrium."
+      }
+    },
+    {
+      "id": "phy6_q192",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 g बर्फ पिघलाने में आवश्यक ऊष्मा (0 °C पर) —",
+        "en": "The heat needed to melt 10 g of ice (at 0 °C) is —"
+      },
+      "options": {
+        "hi": [
+          "80 cal",
+          "5400 cal",
+          "8 cal",
+          "800 cal"
+        ],
+        "en": [
+          "80 cal",
+          "5400 cal",
+          "8 cal",
+          "800 cal"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "Q = 10 × 80 = 800 cal।",
+        "en": "Q = 10 × 80 = 800 cal."
+      }
+    },
+    {
+      "id": "phy6_q193",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "20 g बर्फ पिघलने के लिए ऊष्मा —",
+        "en": "The heat required to melt 20 g of ice is —"
+      },
+      "options": {
+        "hi": [
+          "1600 cal",
+          "100 cal",
+          "160 cal",
+          "5400 cal"
+        ],
+        "en": [
+          "1600 cal",
+          "100 cal",
+          "160 cal",
+          "5400 cal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "Q = 20 × 80 = 1600 cal।",
+        "en": "Q = 20 × 80 = 1600 cal."
+      }
+    },
+    {
+      "id": "phy6_q194",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 g जल को 100 °C पर पूरी तरह भाप बनाने में ऊष्मा —",
+        "en": "The heat to turn 5 g of water fully into steam at 100 °C is —"
+      },
+      "options": {
+        "hi": [
+          "270 cal",
+          "2700 cal",
+          "540 cal",
+          "500 cal"
+        ],
+        "en": [
+          "270 cal",
+          "2700 cal",
+          "540 cal",
+          "500 cal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Q = 5 × 540 = 2700 cal।",
+        "en": "Q = 5 × 540 = 2700 cal."
+      }
+    },
+    {
+      "id": "phy6_q195",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 g भाप के संघनित होने पर दी गई ऊष्मा —",
+        "en": "The heat released when 10 g of steam condenses is —"
+      },
+      "options": {
+        "hi": [
+          "540 cal",
+          "54000 cal",
+          "5400 cal",
+          "800 cal"
+        ],
+        "en": [
+          "540 cal",
+          "54000 cal",
+          "5400 cal",
+          "800 cal"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "Q = 10 × 540 = 5400 cal (संघनन में गुप्त ऊष्मा मुक्त)।",
+        "en": "Q = 10 × 540 = 5400 cal (latent heat released on condensing)."
+      }
+    },
+    {
+      "id": "phy6_q196",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "50 g जल 100 °C पर पूरा वाष्पित हो तो ली गई ऊष्मा —",
+        "en": "If 50 g of water at 100 °C fully vaporises, the heat taken is —"
+      },
+      "options": {
+        "hi": [
+          "4000 cal",
+          "5000 cal",
+          "2700 cal",
+          "27,000 cal"
+        ],
+        "en": [
+          "4000 cal",
+          "5000 cal",
+          "2700 cal",
+          "27,000 cal"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "Q = 50 × 540 = 27,000 cal।",
+        "en": "Q = 50 × 540 = 27,000 cal."
+      }
+    },
+    {
+      "id": "phy6_q197",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बर्फ+जल का मिश्रण गर्म करने पर सारी बर्फ पिघलने तक ताप —",
+        "en": "On heating an ice + water mixture, until all the ice melts the temperature —"
+      },
+      "options": {
+        "hi": [
+          "0 °C ही रहता है",
+          "तेज़ी से बढ़ता है",
+          "घटता है",
+          "100 °C हो जाता है"
+        ],
+        "en": [
+          "Stays at 0 °C",
+          "Rises rapidly",
+          "Falls",
+          "Shoots to 100 °C"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पहले सारी बर्फ गुप्त ऊष्मा लेकर पिघलती है, तब तक ताप स्थिर।",
+        "en": "First all the ice absorbs latent heat and melts — the temperature holds."
+      }
+    },
+    {
+      "id": "phy6_q198",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "उबलते जल को और तेज़ गर्म करें तो ताप —",
+        "en": "If boiling water is heated even harder, the temperature —"
+      },
+      "options": {
+        "hi": [
+          "0 °C हो जाता है",
+          "100 °C पर ही रहता है, वाष्पीकरण तेज़ होता है",
+          "100 से ऊपर चला जाता है",
+          "घट जाता है"
+        ],
+        "en": [
+          "Drops to 0 °C",
+          "Stays at 100 °C while evaporation speeds up",
+          "Climbs above 100 °C",
+          "Falls"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अतिरिक्त ऊष्मा और भाप बनाती है, ताप नहीं बढ़ता।",
+        "en": "Extra heat just makes more steam, not higher temperature."
+      }
+    },
+    {
+      "id": "phy6_q199",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1 kg बर्फ पिघलाने में कुल ऊष्मा —",
+        "en": "The total heat to melt 1 kg of ice is —"
+      },
+      "options": {
+        "hi": [
+          "540 kcal",
+          "8000 cal",
+          "80,000 cal (80 kcal)",
+          "800 cal"
+        ],
+        "en": [
+          "540 kcal",
+          "8000 cal",
+          "80,000 cal (80 kcal)",
+          "800 cal"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1000 g × 80 = 80,000 cal।",
+        "en": "1000 g × 80 = 80,000 cal."
+      }
+    },
+    {
+      "id": "phy6_q200",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पिघलती बर्फ का ताप स्थिर क्यों रहता है?",
+        "en": "Why does melting ice hold a steady temperature?"
+      },
+      "options": {
+        "hi": [
+          "ऊष्मा बाहर निकल जाती है",
+          "बर्फ ऊष्मा नहीं लेती",
+          "थर्मामीटर गलत होता है",
+          "दी गई ऊष्मा अणु-बंध तोड़ने में (गुप्त ऊष्मा) लग जाती है"
+        ],
+        "en": [
+          "The heat leaks out",
+          "Ice absorbs nothing",
+          "The thermometer is wrong",
+          "The supplied heat is used up breaking molecular bonds (latent heat)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "गुप्त ऊष्मा अवस्था बदलती है, ताप नहीं।",
+        "en": "Latent heat changes the state, not the temperature."
+      }
+    },
+    {
+      "id": "phy6_q201",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 kg जल को 30 °C से 100 °C गर्म करने में ऊष्मा —",
+        "en": "The heat needed to warm 2 kg of water from 30 °C to 100 °C is —"
+      },
+      "options": {
+        "hi": [
+          "140,000 cal (140 kcal)",
+          "14,000 cal",
+          "2000 cal",
+          "70,000 cal"
+        ],
+        "en": [
+          "140,000 cal (140 kcal)",
+          "14,000 cal",
+          "2000 cal",
+          "70,000 cal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "Q = 2000 × 1 × 70 = 140,000 cal।",
+        "en": "Q = 2000 × 1 × 70 = 140,000 cal."
+      }
+    },
+    {
+      "id": "phy6_q202",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्वथन और वाष्पीकरण में मुख्य अंतर —",
+        "en": "The main difference between boiling and evaporation is —"
+      },
+      "options": {
+        "hi": [
+          "क्वथन सतह पर होता है",
+          "क्वथन पूरे द्रव में निश्चित ताप पर, वाष्पीकरण सतह पर किसी भी ताप पर",
+          "दोनों एक ही हैं",
+          "वाष्पीकरण तेज़ होता है"
+        ],
+        "en": [
+          "Boiling happens at the surface",
+          "Boiling occurs through the liquid at a fixed temperature; evaporation at the surface at any temperature",
+          "Both are identical",
+          "Evaporation is faster"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्वथन = थोक + निश्चित ताप; वाष्पीकरण = सतह + सभी ताप।",
+        "en": "Boiling = bulk + fixed temperature; evaporation = surface + any temperature."
+      }
+    },
+    {
+      "id": "phy6_q203",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: पिघलने में ताप स्थिर रहता है। कथन B: पिघलने में ऊष्मा शोषित होती है। सही विकल्प —",
+        "en": "Statement A: during melting the temperature stays constant. Statement B: during melting heat is absorbed. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ताप स्थिर + ऊष्मा शोषण = गुप्त ऊष्मा की परिभाषा।",
+        "en": "Steady temperature + absorbed heat = latent heat by definition."
+      }
+    },
+    {
+      "id": "phy6_q204",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रेशर कुकर में खाना जल्दी क्यों पकता है?",
+        "en": "Why does food cook faster in a pressure cooker?"
+      },
+      "options": {
+        "hi": [
+          "कुकर में जल अधिक होता है",
+          "कुकर धातु का होता है",
+          "वहाँ विकिरण होता है",
+          "दाब बढ़ने से जल 100 °C से ऊपर उबलता है"
+        ],
+        "en": [
+          "The cooker holds more water",
+          "The cooker is metallic",
+          "Radiation happens there",
+          "Higher pressure makes water boil above 100 °C"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बढ़ा दाब → बढ़ा क्वथनांक → अधिक ताप पर पकाना।",
+        "en": "More pressure → higher boiling point → cooking at a hotter temperature."
+      }
+    },
+    {
+      "id": "phy6_q205",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बर्फ में नमक मिलाने पर मिश्रण का गलनांक —",
+        "en": "Mixing salt into ice makes the mixture's melting point —"
+      },
+      "options": {
+        "hi": [
+          "घट जाता है (ठंडा मिश्रण बनता है)",
+          "बढ़ जाता है",
+          "समान रहता है",
+          "0 °C हो जाता है"
+        ],
+        "en": [
+          "Falls (a freezing mixture forms)",
+          "Rises",
+          "Stays unchanged",
+          "Becomes exactly 0 °C"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नमक गलनांक नीचे लाता है — आइसक्रीम बनाने में उपयोग।",
+        "en": "Salt depresses the melting point — used in making ice cream."
+      }
+    },
+    {
+      "id": "phy6_q206",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गलनांक पर बर्फ को ऊष्मा देते रहने पर घटनाक्रम होगा —",
+        "en": "On continuously heating ice at its melting point, the sequence is —"
+      },
+      "options": {
+        "hi": [
+          "जल जम जाएगा",
+          "पहले सारी बर्फ 0 °C पर पिघलेगी, फिर जल का ताप बढ़ेगा",
+          "ताप तुरंत बढ़ेगा",
+          "बर्फ सीधे भाप बनेगी"
+        ],
+        "en": [
+          "The water freezes",
+          "First all the ice melts at 0 °C, then the water's temperature rises",
+          "The temperature jumps at once",
+          "Ice turns directly to steam"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गुप्त ऊष्मा पहले पूरी, ताप-वृद्धि बाद में।",
+        "en": "Latent heat first, temperature rise afterwards."
+      }
+    },
+    {
+      "id": "phy6_q207",
+      "topic": "change-of-state",
+      "difficulty": "medium",
+      "question": {
+        "hi": "भाप से जलने की गंभीरता जल से अधिक — संख्यात्मक आधार (1 g के लिए) —",
+        "en": "Steam scalds more severely than water — the numerical basis (per 1 g) is —"
+      },
+      "options": {
+        "hi": [
+          "ताप 540 °C",
+          "घनत्व 540 गुना",
+          "भाप में 540 cal अतिरिक्त गुप्त ऊष्मा",
+          "भार 540 गुना"
+        ],
+        "en": [
+          "540 °C of temperature",
+          "540 times the density",
+          "Steam holds 540 cal of extra latent heat",
+          "540 times the weight"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "संघनित होते हुए भाप त्वचा पर 540 cal/g छोड़ती है।",
+        "en": "Condensing on skin, steam releases 540 cal/g."
+      }
+    },
+    {
+      "id": "phy6_q208",
+      "topic": "change-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "0 °C की बर्फ बनाम 0 °C का जल — पेय को ठंडा करने में कौन अधिक प्रभावी?",
+        "en": "0 °C ice versus 0 °C water — which cools a drink more effectively?"
+      },
+      "options": {
+        "hi": [
+          "जल — द्रव होने से",
+          "दोनों समान",
+          "कोई नहीं",
+          "बर्फ — पिघलते हुए 80 cal/g अतिरिक्त लेती है"
+        ],
+        "en": [
+          "Water — being liquid",
+          "Both equally",
+          "Neither",
+          "Ice — it draws an extra 80 cal/g while melting"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समान ताप पर भी गुप्त ऊष्मा का फर्क बर्फ को अधिक शीतलक बनाता है।",
+        "en": "Even at equal temperature the latent-heat edge makes ice the better coolant."
+      }
+    },
+    {
+      "id": "phy6_q209",
+      "topic": "change-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "40 g बर्फ (0 °C) को पिघलाकर प्राप्त जल को 40 °C तक गर्म करने की कुल ऊष्मा —",
+        "en": "The total heat to melt 40 g of ice at 0 °C and then warm the water to 40 °C is —"
+      },
+      "options": {
+        "hi": [
+          "4800 cal",
+          "3200 cal",
+          "1600 cal",
+          "2400 cal"
+        ],
+        "en": [
+          "4800 cal",
+          "3200 cal",
+          "1600 cal",
+          "2400 cal"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पिघलना: 40 × 80 = 3200; गर्म करना: 40 × 40 = 1600; कुल 4800 cal।",
+        "en": "Melting: 40 × 80 = 3200; warming: 40 × 40 = 1600; total 4800 cal."
+      }
+    },
+    {
+      "id": "phy6_q210",
+      "topic": "change-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "क्वथन के समय दी गई ऊर्जा का क्या होता है?",
+        "en": "What happens to the energy supplied during boiling?"
+      },
+      "options": {
+        "hi": [
+          "नष्ट हो जाती है",
+          "अणुओं के बंधन तोड़ने में — गुप्त ऊष्मा",
+          "ताप बढ़ाने में",
+          "बर्तन गर्म करने में सब"
+        ],
+        "en": [
+          "It is destroyed",
+          "It breaks the molecular bonds — as latent heat",
+          "It raises the temperature",
+          "It all heats the vessel"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "द्रव → गैस संक्रमण में अंतर-अणु बल तोड़ने पर ऊर्जा खर्च होती है।",
+        "en": "The energy goes into overcoming intermolecular attraction in liquid → gas."
+      }
+    },
+    {
+      "id": "phy6_q211",
+      "topic": "change-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: 100 °C भाप में जितनी ऊर्जा उसी द्रव्यमान के 100 °C जल से अधिक है। कथन B: संघनन में यह अतिरिक्त ऊर्जा मुक्त हो जाती है। सही विकल्प —",
+        "en": "Statement A: steam at 100 °C holds more energy than the same mass of water at 100 °C. Statement B: on condensing this extra energy is released. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही",
+          "केवल A सही"
+        ],
+        "en": [
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right",
+          "Only A is right"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गुप्त ऊष्मा भाप में संचित, संघनन पर मुक्त — दोनों सही।",
+        "en": "Latent heat is stored in steam and freed on condensing — both right."
+      }
+    },
+    {
+      "id": "phy6_q212",
+      "topic": "change-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "25 g जल 100 °C पर भाप में बदलने में ली गई ऊष्मा —",
+        "en": "The heat absorbed when 25 g of water at 100 °C turns to steam is —"
+      },
+      "options": {
+        "hi": [
+          "2000 cal",
+          "13,500 J",
+          "2500 cal",
+          "13,500 cal"
+        ],
+        "en": [
+          "2000 cal",
+          "13,500 J",
+          "2500 cal",
+          "13,500 cal"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "Q = 25 × 540 = 13,500 cal।",
+        "en": "Q = 25 × 540 = 13,500 cal."
+      }
+    },
+    {
+      "id": "phy6_q213",
+      "topic": "change-of-state",
+      "difficulty": "hard",
+      "question": {
+        "hi": "गर्मी के दिन बर्फ वाले पेय में बर्फ डालने पर पेय 0 °C तक क्यों और कब तक ठंडा होता रहता है?",
+        "en": "Why does an iced drink keep cooling down to 0 °C and hold there?"
+      },
+      "options": {
+        "hi": [
+          "बर्फ पिघलते हुए पेय से गुप्त ऊष्मा लेती रहती है जब तक सारी बर्फ न घुले",
+          "बर्फ जल में ठंडी हवा छोड़ती है",
+          "बर्फ का रंग ठंडक देता है",
+          "पेय स्वयं 0 °C पर पहुँच जाता है"
+        ],
+        "en": [
+          "Melting ice keeps drawing latent heat from the drink until all of it dissolves",
+          "Ice releases cold air into the drink",
+          "Ice's colour gives coolness",
+          "The drink reaches 0 °C on its own"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "सारी बर्फ पिघलने तक ताप 0 °C पर रुका रहता है।",
+        "en": "The temperature parks at 0 °C until the last ice has melted."
+      }
+    },
+    {
+      "id": "phy6_q214",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण से शीतलन क्यों होता है?",
+        "en": "Why does evaporation cause cooling?"
+      },
+      "options": {
+        "hi": [
+          "रंग बदलता है",
+          "सतह के अणु ऊष्मा लेकर उड़ते हैं — बचा द्रव ठंडा रह जाता है",
+          "हवा ठंडी आती है",
+          "द्रव जमता है"
+        ],
+        "en": [
+          "The colour changes",
+          "Surface molecules escape taking heat — the remaining liquid cools",
+          "Cold air arrives",
+          "The liquid freezes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "उड़ने वाले अणु ऊर्जा साथ ले जाते हैं — औसत ऊर्जा घटती है।",
+        "en": "Escaping molecules carry energy away — the average energy drops."
+      }
+    },
+    {
+      "id": "phy6_q215",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पसीने से शरीर को ठंडक क्यों मिलती है?",
+        "en": "Why does sweat cool the body?"
+      },
+      "options": {
+        "hi": [
+          "पसीना भारी होता है",
+          "पसीना नमकीन होता है",
+          "पसीना वाष्पित होते हुए त्वचा की ऊष्मा लेता है",
+          "पसीना ठंडा होता है"
+        ],
+        "en": [
+          "Sweat is heavy",
+          "Sweat is salty",
+          "Evaporating sweat draws heat from the skin",
+          "Sweat is cold by nature"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वाष्पीकरण की गुप्त ऊष्मा शरीर से आती है।",
+        "en": "The latent heat of evaporation comes from the body."
+      }
+    },
+    {
+      "id": "phy6_q216",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गीले कपड़े पहनने पर ठंडक —",
+        "en": "Wearing wet clothes feels cool because —"
+      },
+      "options": {
+        "hi": [
+          "कपड़े हल्के होते हैं",
+          "पानी ठंडा होता है",
+          "कपड़े सफेद होते हैं",
+          "जल वाष्पित होते हुए शरीर से ऊष्मा लेता है"
+        ],
+        "en": [
+          "The clothes are light",
+          "Water is cold",
+          "The clothes are white",
+          "The evaporating water draws heat from the body"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वाष्पीकरण का शीतलन-प्रभाव।",
+        "en": "The cooling effect of evaporation."
+      }
+    },
+    {
+      "id": "phy6_q217",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "मिट्टी के सुराही का जल ठंडा क्यों रहता है?",
+        "en": "Why does water in an earthen pot stay cool?"
+      },
+      "options": {
+        "hi": [
+          "सुराही की दीवारों से जल रिसकर वाष्पित होता है — ऊष्मा निकलती है",
+          "मिट्टी ठंडी होती है",
+          "सुराही छाया में रहता है",
+          "मिट्टी गहरे रंग की होती है"
+        ],
+        "en": [
+          "Water seeps through the pot's pores and evaporates, carrying heat away",
+          "The clay is cold",
+          "The pot sits in shade",
+          "The clay is dark"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "छिद्रों से वाष्पीकरण — सुराही का जल ठंडा।",
+        "en": "Evaporation through the pores keeps the pot's water cool."
+      }
+    },
+    {
+      "id": "phy6_q218",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खुली थाली का पानी गर्मी में धीरे-धीरे कम हो जाता है — कारण —",
+        "en": "Water in an open plate slowly disappears in summer — because of —"
+      },
+      "options": {
+        "hi": [
+          "जमना",
+          "वाष्पीकरण",
+          "क्वथन",
+          "संघनन"
+        ],
+        "en": [
+          "Freezing",
+          "Evaporation",
+          "Boiling",
+          "Condensation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सतह से अणु उड़ते रहते हैं।",
+        "en": "Molecules keep escaping from the surface."
+      }
+    },
+    {
+      "id": "phy6_q219",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्प्रिट/एल्कोहल लगाने पर त्वचा ठंडी लगती है —",
+        "en": "The skin feels cold when spirit (alcohol) is applied because —"
+      },
+      "options": {
+        "hi": [
+          "एल्कोहल गाढ़ा होता है",
+          "त्वचा नम होती है",
+          "एल्कोहल बहुत तेज़ वाष्पित होता है",
+          "एल्कोहल ठंडा होता है"
+        ],
+        "en": [
+          "Alcohol is thick",
+          "The skin is moist",
+          "Alcohol evaporates very fast",
+          "Alcohol is cold"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "उड़नशील तरल जल्दी भागते हैं — तुरंत ठंडक।",
+        "en": "Volatile liquids escape quickly — instant coolness."
+      }
+    },
+    {
+      "id": "phy6_q220",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "हवा चलने पर वाष्पीकरण —",
+        "en": "When wind blows, evaporation —"
+      },
+      "options": {
+        "hi": [
+          "धीमा हो जाता है",
+          "बंद हो जाता है",
+          "उलट दिशा में होता है",
+          "तेज़ हो जाता है"
+        ],
+        "en": [
+          "Slows down",
+          "Stops",
+          "Happens in reverse",
+          "Speeds up"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "हवा भाप को उड़ा लेती है — नई जगह बनती है।",
+        "en": "Wind sweeps the vapour away — fresh room for more."
+      }
+    },
+    {
+      "id": "phy6_q221",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "कपड़े धूप में जल्दी सूखते हैं —",
+        "en": "Clothes dry faster in the sun because —"
+      },
+      "options": {
+        "hi": [
+          "ताप अधिक → वाष्पीकरण तेज़",
+          "धूप कपड़े देखती है",
+          "हवा गर्म होती है",
+          "कपड़े हल्के होते हैं"
+        ],
+        "en": [
+          "Higher temperature → faster evaporation",
+          "The sun watches the clothes",
+          "The wind is warm",
+          "The clothes are light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ताप बढ़ा → अणु ऊर्जा लेकर जल्दी उड़े।",
+        "en": "Higher temperature → molecules fly off sooner with energy."
+      }
+    },
+    {
+      "id": "phy6_q222",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "पेड़ों के पत्ते गर्मी में ठंडे रहते हैं —",
+        "en": "Leaves stay cool in summer because —"
+      },
+      "options": {
+        "hi": [
+          "जड़ें ठंडी होती हैं",
+          "पत्तों से जल वाष्पित (वाष्पोत्सर्जन) होता रहता है",
+          "पत्ते हरे होते हैं",
+          "पेड़ छाया देते हैं"
+        ],
+        "en": [
+          "The roots are cold",
+          "Water keeps evaporating from the leaves (transpiration)",
+          "The leaves are green",
+          "Trees give shade"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "वाष्पोत्सर्जन = पौधों का वाष्पीकरण — शीतलन।",
+        "en": "Transpiration is the plant's evaporation — it cools."
+      }
+    },
+    {
+      "id": "phy6_q223",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दूध को पतली थाली में फैलाकर रखने पर जल्दी ठंडा होता है —",
+        "en": "Milk spread on a shallow plate cools quickly because —"
+      },
+      "options": {
+        "hi": [
+          "दूध पतला होता है",
+          "थाली सफेद होती है",
+          "सतह क्षेत्रफल बढ़ने से वाष्पीकरण तेज़",
+          "थाली ठंडी होती है"
+        ],
+        "en": [
+          "The milk is thin",
+          "The plate is white",
+          "A larger surface area speeds evaporation",
+          "The plate is cold"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "फैलाव → सतह बड़ी → अधिक अणु उड़ें।",
+        "en": "Spreading out → bigger surface → more escaping molecules."
+      }
+    },
+    {
+      "id": "phy6_q224",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वाष्पीकरण में द्रव किस अवस्था में बदलता है?",
+        "en": "In evaporation a liquid changes into which state?"
+      },
+      "options": {
+        "hi": [
+          "ठोस",
+          "प्लाज़्मा",
+          "कोई नहीं",
+          "गैस"
+        ],
+        "en": [
+          "Solid",
+          "Plasma",
+          "None",
+          "Gas"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "द्रव → गैस ही वाष्पीकरण है।",
+        "en": "Liquid → gas is what evaporation means."
+      }
+    },
+    {
+      "id": "phy6_q225",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ठंडी रात में घास पर ओस किस कारण बनती है?",
+        "en": "Dew on grass on a cold night forms by which process?"
+      },
+      "options": {
+        "hi": [
+          "संघनन — जलवाष्प की बूँदें",
+          "वाष्पीकरण",
+          "क्वथन",
+          "पिघलना"
+        ],
+        "en": [
+          "Condensation — of water vapour into drops",
+          "Evaporation",
+          "Boiling",
+          "Melting"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ठंडी सतह पर वायु की जलवाष्प जमा हो जाती है।",
+        "en": "On cold surfaces the air's vapour settles into drops."
+      }
+    },
+    {
+      "id": "phy6_q226",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सर्दियों में मुँह से निकलती साँस 'धुएँ' जैसी दिखती है — कारण —",
+        "en": "In winter, exhaled breath looks like smoke because of —"
+      },
+      "options": {
+        "hi": [
+          "दहन",
+          "संघनन — गर्म साँस की जलवाष्प ठंडी हवा में बूँदें",
+          "वाष्पीकरण",
+          "विकिरण"
+        ],
+        "en": [
+          "Combustion",
+          "Condensation — the breath's vapour turns to drops in cold air",
+          "Evaporation",
+          "Radiation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गर्म जलवाष्प + ठंडी वायु = छोटी बूँदें।",
+        "en": "Warm vapour + cold air = tiny droplets."
+      }
+    },
+    {
+      "id": "phy6_q227",
+      "topic": "evaporation-cooling",
+      "difficulty": "easy",
+      "question": {
+        "hi": "गीले हाथ पर हवा फूँकने पर ठंडक —",
+        "en": "Blowing air over a wet hand feels cool because —"
+      },
+      "options": {
+        "hi": [
+          "हाथ सूख जाता है",
+          "हवा गर्म होती है",
+          "हवा वाष्पीकरण तेज़ कर देती है",
+          "हवा ठंडी होती है"
+        ],
+        "en": [
+          "The hand dries",
+          "The air is warm",
+          "The air speeds up evaporation",
+          "The air is cold"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बहती हवा भाप हटाकर नए अणुओं को उड़ने देती है।",
+        "en": "Moving air removes vapour, letting more molecules escape."
+      }
+    },
+    {
+      "id": "phy6_q228",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "थाली और कटोरी में समान जल — वाष्पीकरण किसमें तेज़?",
+        "en": "Equal water in a plate and a bowl — in which does evaporation run faster?"
+      },
+      "options": {
+        "hi": [
+          "कटोरी में",
+          "दोनों समान",
+          "निर्भर नहीं",
+          "थाली में (सतह क्षेत्रफल अधिक)"
+        ],
+        "en": [
+          "In the bowl",
+          "Both equal",
+          "It does not depend",
+          "In the plate (larger surface area)"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बड़ी सतह → एक साथ अधिक अणु उड़ सकते हैं।",
+        "en": "Bigger surface → more molecules escape at once."
+      }
+    },
+    {
+      "id": "phy6_q229",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म चाय को झांकने (फूँक मारने) से जल्दी ठंडी करने का कारण —",
+        "en": "Blowing on hot tea cools it quickly because —"
+      },
+      "options": {
+        "hi": [
+          "भाप हटती है, वाष्पीकरण तेज़ होता है और ऊष्मा उड़ती है",
+          "हवा ठंडी होती है",
+          "चाय हल्की हो जाती है",
+          "कप ठंडा होता है"
+        ],
+        "en": [
+          "The vapour is swept away, evaporation quickens and heat leaves",
+          "The air is cold",
+          "The tea gets lighter",
+          "The cup cools"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "फूँक = वाष्प हटाना = तेज़ वाष्पीकरण = तेज़ ठंडक।",
+        "en": "Blowing = clearing vapour = faster evaporation = faster cooling."
+      }
+    },
+    {
+      "id": "phy6_q230",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "पंखा चलाने से कमरे की हवा का ताप नहीं बदलता, फिर भी शरीर को ठंडक —",
+        "en": "A fan does not change the room air's temperature, yet the body feels cool —"
+      },
+      "options": {
+        "hi": [
+          "शरीर का ताप गिर जाता है",
+          "पंखे से पसीने का वाष्पीकरण तेज़ होता है",
+          "पंखा ठंडी हवा बनाता है",
+          "पंखा ऊर्जा खा जाता है"
+        ],
+        "en": [
+          "The body temperature drops",
+          "The fan hastens the evaporation of sweat",
+          "The fan creates cold air",
+          "The fan eats energy"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ठंडक वाष्पीकरण से — हवा की गति से, ताप से नहीं।",
+        "en": "The coolness comes from evaporation — via air speed, not temperature."
+      }
+    },
+    {
+      "id": "phy6_q231",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "नाखून हटाने वाले एसीटोन की बूँद हाथ पर ठंडी लगती है —",
+        "en": "A drop of nail-polish remover (acetone) feels cold on the hand because —"
+      },
+      "options": {
+        "hi": [
+          "एसीटोन भारी है",
+          "हाथ गर्म होता है",
+          "एसीटोन अत्यंत उड़नशील है — वाष्पीकरण तुरंत ऊष्मा लेता है",
+          "एसीटोन बर्फ से आता है"
+        ],
+        "en": [
+          "Acetone is heavy",
+          "The hand is hot",
+          "Acetone is highly volatile — its instant evaporation draws heat",
+          "Acetone comes from ice"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "कम उबालांक वाले द्रव पल भर में उड़ जाते हैं।",
+        "en": "Low-boiling liquids vanish within moments."
+      }
+    },
+    {
+      "id": "phy6_q232",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "वाष्पीकरण की गति किन कारकों पर निर्भर करती है?",
+        "en": "The rate of evaporation depends on which factors?"
+      },
+      "options": {
+        "hi": [
+          "केवल ताप",
+          "केवल दाब",
+          "रंग और गंध",
+          "ताप, सतह क्षेत्रफल, हवा की गति और आर्द्रता"
+        ],
+        "en": [
+          "Temperature only",
+          "Pressure only",
+          "Colour and smell",
+          "Temperature, surface area, wind speed and humidity"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "चारों कारक मिलकर वाष्पीकरण की दर तय करते हैं।",
+        "en": "All four factors together fix the rate of evaporation."
+      }
+    },
+    {
+      "id": "phy6_q233",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आर्द्र (उमस भरे) दिन पसीना सूखता नहीं — कारण —",
+        "en": "On a humid day sweat does not dry — because —"
+      },
+      "options": {
+        "hi": [
+          "वायु में पहले से बहुत जलवाष्प है — नई भाप की जगह नहीं",
+          "पसीना नमकीन होता है",
+          "शरीर ठंडा होता है",
+          "सूर्य छिपा रहता है"
+        ],
+        "en": [
+          "The air already holds much vapour — no room for more",
+          "Sweat is salty",
+          "The body is cold",
+          "The sun stays hidden"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आर्द्रता अधिक → वाष्पीकरण धीमा → ठंडक कम।",
+        "en": "High humidity → slow evaporation → little cooling."
+      }
+    },
+    {
+      "id": "phy6_q234",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ठंडी पानी की बोतल बाहर रखने पर उस पर बूँदे क्यों जमा होती हैं?",
+        "en": "Why do droplets gather on a cold water bottle kept outside?"
+      },
+      "options": {
+        "hi": [
+          "हवा बोतल को चाटती है",
+          "वायु की जलवाष्प ठंडी सतह पर संघनित होती है",
+          "बोतल में पानी रिसता है",
+          "बोतल पसीना करती है"
+        ],
+        "en": [
+          "The air licks the bottle",
+          "The air's water vapour condenses on the cold surface",
+          "Water leaks from the bottle",
+          "The bottle sweats"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ठंडी सतह वायु को ओस-बिंदु तक ठंडा करती है — संघनन।",
+        "en": "The cold surface chills the air to its dew point — condensation."
+      }
+    },
+    {
+      "id": "phy6_q235",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्या वाष्पीकरण ठंडे मौसम में भी होता है?",
+        "en": "Does evaporation occur in cold weather too?"
+      },
+      "options": {
+        "hi": [
+          "केवल बर्फ पर",
+          "केवल रात में",
+          "हाँ — धीमी दर से",
+          "नहीं — कभी नहीं"
+        ],
+        "en": [
+          "Only on ice",
+          "Only at night",
+          "Yes — at a slower rate",
+          "No — never"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "किसी भी ताप पर कुछ अणु पलायन करते हैं; दर ताप से बदलती है।",
+        "en": "At any temperature some molecules escape; the rate just varies."
+      }
+    },
+    {
+      "id": "phy6_q236",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कपड़े सूखने में गर्म व शुष्क दिन, आर्द्र दिन से तेज़ — कारण —",
+        "en": "Clothes dry faster on a hot dry day than a humid one — because —"
+      },
+      "options": {
+        "hi": [
+          "गर्म दिन में हवा तेज़ होती है",
+          "कपड़े पतले हो जाते हैं",
+          "सूर्य कपड़े सुखाता है",
+          "कम आर्द्रता + अधिक ताप = तेज़ वाष्पीकरण"
+        ],
+        "en": [
+          "Wind is faster on hot days",
+          "Clothes get thinner",
+          "The sun dries them",
+          "Low humidity + high temperature = rapid evaporation"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दोनों अनुकूल कारक मिले — वाष्पीकरण अधिकतम।",
+        "en": "Both favourable factors combine — maximal evaporation."
+      }
+    },
+    {
+      "id": "phy6_q237",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मिट्टी के घड़े का जल दिन में ठंडा — रात में क्या होता है?",
+        "en": "An earthen pot's water cools by day — what happens at night?"
+      },
+      "options": {
+        "hi": [
+          "वाष्पीकरण जारी रहता है, ठंडक बनी रहती है (कुछ कम)",
+          "जल गर्म हो जाता है",
+          "घड़ा फट जाता है",
+          "वाष्पीकरण उलटा चलता है"
+        ],
+        "en": [
+          "Evaporation continues, coolness persists (somewhat less)",
+          "The water heats up",
+          "The pot cracks",
+          "Evaporation reverses"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "रात में ताप गिरने से दर घटती है पर रुकती नहीं।",
+        "en": "The cooler night lowers the rate but never stops it."
+      }
+    },
+    {
+      "id": "phy6_q238",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कूलर के गीले खस-खस के पैड से हवा ठंडी होकर आती है — तत्व —",
+        "en": "A cooler's wet khus pads send out cooled air — the principle is —"
+      },
+      "options": {
+        "hi": [
+          "पानी जम जाता है",
+          "पानी का वाष्पीकरण हवा से ऊष्मा लेता है",
+          "खस बर्फ बनाता है",
+          "पंखा हवा गाड़ता है"
+        ],
+        "en": [
+          "The water freezes",
+          "Evaporating water draws heat from the air",
+          "Khus makes ice",
+          "The fan digs the air"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "गीले पैड से गुजरती हवा वाष्पीकरण-शीतलन से ठंडी।",
+        "en": "Air passing wet pads is cooled by evaporative chilling."
+      }
+    },
+    {
+      "id": "phy6_q239",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्म दूध को पतली परत में फैलाकर मथने/चलाने से जल्दी ठंडा —",
+        "en": "Stirring hot milk spread thin cools it fast — the combined reason is —"
+      },
+      "options": {
+        "hi": [
+          "बर्तन गर्म होता है",
+          "दूध गाढ़ा होता है",
+          "सतह बड़ी + भाप हटती है → वाष्पीकरण दोनों से तेज़",
+          "दूध मीठा होता है"
+        ],
+        "en": [
+          "The vessel is hot",
+          "Milk is thick",
+          "Bigger surface + vapour removal → evaporation speeds up both ways",
+          "Milk is sweet"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "दोनों उपाय वाष्पीकरण की दर बढ़ाते हैं।",
+        "en": "Both measures raise the rate of evaporation."
+      }
+    },
+    {
+      "id": "phy6_q240",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "कथन A: वाष्पीकरण सतही घटना है। कथन B: क्वथन पूरे द्रव की घटना। सही विकल्प —",
+        "en": "Statement A: evaporation is a surface phenomenon. Statement B: boiling is a whole-liquid phenomenon. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वाष्पीकरण सिर्फ सतह से; क्वथन तल सहित सर्वत्र।",
+        "en": "Evaporation is surface-only; boiling happens everywhere in the bulk."
+      }
+    },
+    {
+      "id": "phy6_q241",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "डाइनिंग टेबल पर ढकी थाली में जल बना रहता है, खुली थाली सूख जाती है — कारण —",
+        "en": "Covered water stays; open water dries — because —"
+      },
+      "options": {
+        "hi": [
+          "ढक्कन वापस संघनित भाप जल में मिलाता है और आर्द्रता बनाए रखता है",
+          "ढका जल भारी होता है",
+          "खुली थाली गर्म होती है",
+          "ढक्कन पानी पी जाता है"
+        ],
+        "en": [
+          "The lid returns condensed vapour and keeps the air humid inside",
+          "Covered water is heavy",
+          "The open plate is hot",
+          "The lid drinks the water"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "बंद जगह में जलवाष्प संतुलन — वाष्पीकरण लगभग रुकता है।",
+        "en": "Inside a closed space vapour equilibrates — evaporation nearly stops."
+      }
+    },
+    {
+      "id": "phy6_q242",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गर्मी में रेगिस्तान में कपड़े बहुत जल्दी सूखते हैं —",
+        "en": "In deserts clothes dry very fast because —"
+      },
+      "options": {
+        "hi": [
+          "सूर्य पास होता है",
+          "शुष्क हवा (अत्यल्प आर्द्रता) वाष्पीकरण तीव्र करती है",
+          "रेत गर्म होती है",
+          "वहाँ कपड़े नहीं होते"
+        ],
+        "en": [
+          "The sun is nearer",
+          "The dry air (very low humidity) makes evaporation intense",
+          "The sand is hot",
+          "There are no clothes there"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शून्य के पास आर्द्रता = भाप को स्थान अनंत।",
+        "en": "Near-zero humidity = unlimited room for vapour."
+      }
+    },
+    {
+      "id": "phy6_q243",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "गीले तौलिये में लिपटी ठंडी पानी की बोतल —",
+        "en": "A cold water bottle wrapped in a wet towel —"
+      },
+      "options": {
+        "hi": [
+          "कोई अंतर नहीं",
+          "तौलिया गर्म करता है",
+          "तौलिये के जल के वाष्पीकरण से और ठंडी रहती है",
+          "जल्दी गर्म हो जाती है"
+        ],
+        "en": [
+          "No difference",
+          "The towel heats it",
+          "Stays cooler still, thanks to the towel-water's evaporation",
+          "Warms up quickly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "गीली परत का वाष्पीकरण बोतल से ऊष्मा खींचता रहता है।",
+        "en": "The wet layer's evaporation keeps drawing heat from the bottle."
+      }
+    },
+    {
+      "id": "phy6_q244",
+      "topic": "evaporation-cooling",
+      "difficulty": "medium",
+      "question": {
+        "hi": "आर्द्र (उमस भरे) दिन कूलर का असर क्यों घट जाता है?",
+        "en": "Why does a cooler work poorly on a humid day?"
+      },
+      "options": {
+        "hi": [
+          "कूलर का पंखा उलटा घूमता है",
+          "पानी गर्म हो जाता है",
+          "कूलर की बत्ती जल जाती है",
+          "वायु पहले से जलवाष्प से भरी — वाष्पीकरण धीमा — शीतलन कम"
+        ],
+        "en": [
+          "The fan turns backwards",
+          "The water gets hot",
+          "The cooler's bulb burns",
+          "The air is already vapour-laden — slow evaporation — less cooling"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वाष्पीकरण आधारित शीतलन आर्द्रता बढ़ने पर मंद पड़ता है।",
+        "en": "Evaporation-based cooling weakens as humidity rises."
+      }
+    },
+    {
+      "id": "phy6_q245",
+      "topic": "evaporation-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "तेज़ बुखार में माथे पर गीली पट्टी — शीतलन का भौतिक आधार —",
+        "en": "A wet cloth strip on the forehead in high fever — the physical basis of the relief is —"
+      },
+      "options": {
+        "hi": [
+          "पट्टी के जल का वाष्पीकरण माथे से गुप्त ऊष्मा खींचता है",
+          "पट्टी बर्फ है",
+          "पानी दवा है",
+          "कपड़ा ऊर्जा देता है"
+        ],
+        "en": [
+          "The strip's evaporating water draws latent heat from the forehead",
+          "The strip is ice",
+          "Water is medicine",
+          "The cloth gives energy"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वाष्पीकरण-शीतलन का सीधा चिकित्सीय उपयोग।",
+        "en": "A direct medical use of evaporative cooling."
+      }
+    },
+    {
+      "id": "phy6_q246",
+      "topic": "evaporation-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "क्या उबलते जल में भी वाष्पीकरण-शीतलन ताप घटाता है?",
+        "en": "Does evaporative cooling lower the temperature of boiling water too?"
+      },
+      "options": {
+        "hi": [
+          "ताप ऊपर चढ़ता है",
+          "नहीं — क्वथनांक पर ताप स्थिर रहता है",
+          "हाँ — ताप गिरता है",
+          "कभी-कभी"
+        ],
+        "en": [
+          "The temperature climbs",
+          "No — at the boiling point the temperature stays put",
+          "Yes — it falls",
+          "Sometimes"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "क्वथन के समय दी गई ऊष्मा तुरंत भाप बनती है — ताप न घटता न बढ़ता।",
+        "en": "During boiling, supplied heat instantly turns to steam — the temperature neither falls nor rises."
+      }
+    },
+    {
+      "id": "phy6_q247",
+      "topic": "evaporation-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "फैले हुए गर्म दूध vs ढके गर्म दूध — ठंडा होने की तुलना —",
+        "en": "Hot milk spread open versus covered — comparing their cooling —"
+      },
+      "options": {
+        "hi": [
+          "दोनों समान",
+          "ढका कभी ठंडा नहीं",
+          "फैला दूध जल्दी ठंडा (सतह+वाष्पीकरण+संवहन सब अनुकूल)",
+          "ढका दूध जल्दी"
+        ],
+        "en": [
+          "Both the same",
+          "The covered never cools",
+          "The open spread milk cools faster (surface, evaporation and convection all help)",
+          "The covered one cools faster"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "खुली सतह पर तीनों ऊष्मा-हानि मार्ग खुलते हैं।",
+        "en": "An open surface opens all three heat-loss routes."
+      }
+    },
+    {
+      "id": "phy6_q248",
+      "topic": "evaporation-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "कथन A: वाष्पीकरण ताप घटाता है। कथन B: वाष्पीकरण किसी भी ताप पर होता है। सही विकल्प —",
+        "en": "Statement A: evaporation lowers the temperature. Statement B: evaporation occurs at any temperature. The correct option —"
+      },
+      "options": {
+        "hi": [
+          "केवल A सही",
+          "केवल B सही",
+          "दोनों गलत",
+          "A और B दोनों सही"
+        ],
+        "en": [
+          "Only A is right",
+          "Only B is right",
+          "Both are wrong",
+          "Both A and B are right"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "दोनों कथन वाष्पीकरण के मूल गुण हैं।",
+        "en": "Both statements are core properties of evaporation."
+      }
+    },
+    {
+      "id": "phy6_q249",
+      "topic": "evaporation-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "उड़नशीलता (volatility) और वाष्पीकरण-दर का संबंध —",
+        "en": "How is volatility related to the rate of evaporation?"
+      },
+      "options": {
+        "hi": [
+          "अधिक उड़नशील द्रव तेज़ वाष्पित — अधिक शीतलन",
+          "कोई संबंध नहीं",
+          "उलटा — धीमा",
+          "केवल गंध से"
+        ],
+        "en": [
+          "A more volatile liquid evaporates faster — more cooling",
+          "No relation",
+          "Inverse — slower",
+          "Only through smell"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "पेट्रोल/एसीटोन जल से तेज़ उड़ते हैं — तीव्र ठंडक।",
+        "en": "Petrol/acetone escape faster than water — quicker cooling."
+      }
+    },
+    {
+      "id": "phy6_q250",
+      "topic": "evaporation-cooling",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पेड़ के नीचे बैठने पर गर्मी में भी ठंडक का एक ऊष्मा-आधारित कारण (छाया से इतर) —",
+        "en": "Besides shade, one heat-based reason for coolness under a tree is —"
+      },
+      "options": {
+        "hi": [
+          "पत्ते काले होते हैं",
+          "पत्तियों का वाष्पोत्सर्जन आसपास की हवा को ठंडा रखता है",
+          "तना ठंडा होता है",
+          "जड़ें बर्फ पीती हैं"
+        ],
+        "en": [
+          "The leaves are black",
+          "The leaves' transpiration keeps the surrounding air cool",
+          "The trunk is cold",
+          "The roots drink ice"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लाखों पत्तों का वाष्पोत्सर्जन = प्राकृतिक कूलर।",
+        "en": "Millions of transpiring leaves act as a natural cooler."
+      }
+    }
+  ]
+}

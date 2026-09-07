@@ -1,0 +1,137 @@
+{
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-08",
+  "chapterNumber": 7,
+  "code": "B07",
+  "chapterName": {
+    "hi": "श्वसन एवं गैसों का आदान-प्रदान",
+    "en": "Respiration & Gas Exchange"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "श्वसन में भोजन के ऑक्सीकरण द्वारा ऊर्जा मुक्त होती है; यह कोशिकाओं में होने वाली जैविक प्रक्रिया है। ऑक्सीजन की उपस्थिति में होने वाला श्वसन वायुीय और अनुपस्थिति में होने वाला अवायुीय कहलाता है। मनुष्य में नासिका छिद्रों से फेफड़ों तक का मार्ग और उसमें गैसों का आदान-प्रदान वायुकोशों (एल्वियोलाई) में होता है।",
+      "example": "दौड़ के बाद मांसपेशियों में जलन अवायुीय श्वसन से बने लैक्टिक अम्ल के कारण होती है।",
+      "sections": [
+        {
+          "heading": "श्वसन बनाम श्वास",
+          "content": "श्वसन कोशिकाओं में ऊर्जा-उत्पादन है, जबकि श्वास केवल वायु का अंदर-बाहर आना है — दोनों को मिलाकर न लिखें।"
+        },
+        {
+          "heading": "वायुीय एवं अवायुीय श्वसन",
+          "content": "वायुीय श्वसन में ग्लूकोज + ऑक्सीजन → CO₂ + जल + अधिक ऊर्जा; अवायुीय में यीस्ट अल्कोहल और मांसपेशियाँ लैक्टिक अम्ल बनाती हैं।"
+        },
+        {
+          "heading": "मानव श्वसन तंत्र",
+          "content": "वायु नासिका → श्वासनली → श्वसनी → फेफड़ों के वायुकोशों तक जाती है; डायाफ्राम और पसलियाँ साँस लेने में सहायक हैं।"
+        },
+        {
+          "heading": "पौधों एवं अन्य जीवों में श्वसन",
+          "content": "पौधों में रंध्र और जड़ों में वायु अंतराल से, मछली में क्लोम से और कीटों में श्वासनलिकाओं से गैसों का आदान-प्रदान होता है।"
+        }
+      ],
+      "keyPoints": [
+        "श्वसन भोजन के ऑक्सीकरण से ऊर्जा मुक्त करने की कोशिकीय प्रक्रिया है",
+        "वायुीय श्वसन के उत्पाद — CO₂, जल और 38 ATP के आसपास ऊर्जा",
+        "अवायुीय श्वसन में यीस्ट अल्कोहल + CO₂ देता है (किण्वन)",
+        "मांसपेशियों में अवायुीय श्वसन से लैक्टिक अम्ल बनता है",
+        "गैसों का आदान-प्रदान वायुकोशों (एल्वियोलाई) में होता है",
+        "श्वसन और प्रकाश संश्लेषण की दिशा एक-दूसरे के विपरीत है"
+      ],
+      "examFocus": [
+        "श्वसन और श्वास में अंतर स्पष्ट रूप से याद रखें",
+        "वायुीय और अवायुीय श्वसन के उत्पादों की तुलना करें",
+        "विभिन्न जीवों के श्वसन अंग (क्लोम, श्वासनलिका, त्वचा) जोड़कर याद करें"
+      ],
+      "examTraps": [
+        "श्वास लेना ही श्वसन नहीं है — ऊर्जा-उत्पादन कोशिकाओं में होता है",
+        "सभी जीव फेफड़ों से श्वास नहीं लेते — मछली क्लोम से, केंचुआ त्वचा से साँस लेता है"
+      ],
+      "thinkBeforeAnswer": [
+        "अल्कोहल/किण्वन का उल्लेख मिले तो यीस्ट का अवायुीय श्वसन याद करें",
+        "मांसपेशियों में जलन का कारण पूछा जाए तो लैक्टिक अम्ल उत्तर है"
+      ],
+      "memoryTricks": [
+        "Aerobic = A for Air (हवा के साथ), Anaerobic = An = नहीं (हवा के बिना)",
+        "यीस्ट-अल्कोहल-मदिरा त्रिक को एक साथ याद करें"
+      ],
+      "pyqSignals": [
+        "वायुीय बनाम अवायुीय श्वसन की तुलना परीक्षा में बार-बार आती है",
+        "विभिन्न जीवों के श्वसन अंग पूछे जाते हैं"
+      ],
+      "mustRemember": [
+        "श्वसन की परिभाषा और उद्देश्य",
+        "वायुीय-अवायुीय श्वसन के उत्पाद",
+        "मानव श्वसन तंत्र का मार्ग",
+        "विभिन्न जीवों के श्वसन अंग"
+      ],
+      "quickRevision": "श्वसन कोशिकाओं में भोजन के ऑक्सीकरण द्वारा ऊर्जा मुक्त करने की प्रक्रिया है। वायुीय श्वसन में ऑक्सीजन लेकर CO₂, जल और अधिक ऊर्जा मिलती है; अवायुीय श्वसन में यीस्ट अल्कोहल और मांसपेशियाँ लैक्टिक अम्ल बनाती हैं। मनुष्य में गैसों का आदान-प्रदान फेफड़ों के वायुकोशों में होता है और अन्य जीवों में श्वसन अंग भिन्न होते हैं।"
+    },
+    "en": {
+      "concept": "In respiration, energy is released by oxidation of food; it is a cellular process. Respiration with oxygen is aerobic and without oxygen is anaerobic. In humans, air travels from nostrils to the lungs and gases exchange in the alveoli.",
+      "example": "Muscle cramps after running are due to lactic acid formed by anaerobic respiration.",
+      "sections": [
+        {
+          "heading": "Respiration vs Breathing",
+          "content": "Respiration is energy production inside cells, while breathing is only the inward-outward movement of air — do not mix them."
+        },
+        {
+          "heading": "Aerobic and Anaerobic Respiration",
+          "content": "Aerobic: glucose + oxygen → CO₂ + water + more energy; anaerobic: yeast gives alcohol and muscles give lactic acid."
+        },
+        {
+          "heading": "Human Respiratory System",
+          "content": "Air passes nostrils → trachea → bronchi → alveoli of lungs; the diaphragm and ribs help in breathing."
+        },
+        {
+          "heading": "Respiration in Plants and Other Organisms",
+          "content": "Plants exchange gases through stomata and root air spaces, fish through gills, and insects through tracheae."
+        }
+      ],
+      "keyPoints": [
+        "Respiration is the cellular process of releasing energy by oxidising food",
+        "Aerobic products — CO₂, water and energy (about 38 ATP)",
+        "In anaerobic respiration yeast gives alcohol + CO₂ (fermentation)",
+        "Muscles form lactic acid in anaerobic respiration",
+        "Gas exchange occurs in the alveoli",
+        "Respiration and photosynthesis run in opposite directions"
+      ],
+      "examFocus": [
+        "Keep the difference between respiration and breathing clear",
+        "Compare the products of aerobic and anaerobic respiration",
+        "Pair respiratory organs of different organisms (gills, tracheae, skin)"
+      ],
+      "examTraps": [
+        "Breathing is not respiration — energy production happens in cells",
+        "Not all organisms breathe with lungs — fish use gills and earthworms use their skin"
+      ],
+      "thinkBeforeAnswer": [
+        "Mention of alcohol/fermentation points to anaerobic respiration in yeast",
+        "For muscle cramps, the answer is lactic acid"
+      ],
+      "memoryTricks": [
+        "Aerobic = A for Air; Anaerobic = An = without air",
+        "Remember the trio yeast-alcohol-brewing together"
+      ],
+      "pyqSignals": [
+        "Comparison of aerobic vs anaerobic respiration is asked repeatedly",
+        "Respiratory organs of different organisms are common questions"
+      ],
+      "mustRemember": [
+        "Definition and purpose of respiration",
+        "Products of aerobic-anaerobic respiration",
+        "Path of the human respiratory system",
+        "Respiratory organs of various organisms"
+      ],
+      "quickRevision": "Respiration releases energy by oxidising food inside cells. Aerobic respiration uses oxygen to give CO₂, water and more energy; anaerobic respiration makes alcohol in yeast and lactic acid in muscles. In humans gas exchange occurs in the alveoli, and different organisms use different respiratory organs."
+    }
+  }
+}

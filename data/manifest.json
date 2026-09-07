@@ -1,118 +1,256 @@
 {
-  "classes": [
+  "version": 2,
+  "note": "Subject-first Science Preparation manifest. The user picks a SUBJECT (Biology/Physics/Chemistry) and then one of its 12 important integrated NCERT Class 6-10 chapters. Class-first navigation is intentionally NOT used.",
+  "subjects": [
     {
-      "class": 6,
-      "label": {
-        "hi": "कक्षा 6",
-        "en": "Class 6"
+      "subject": "biology",
+      "icon": "🔬",
+      "label": { "hi": "जीव विज्ञान", "en": "Biology" },
+      "tagline": {
+        "hi": "कोशिका से पारितंत्र तक — NCERT आधारित सम्पूर्ण जीव विज्ञान",
+        "en": "From the cell to the ecosystem — complete NCERT-based Biology"
       },
-      "subjects": [
+      "classes": "NCERT Class 6–10",
+      "chapters": [
         {
-          "subject": "science",
-          "label": {
-            "hi": "विज्ञान",
-            "en": "Science"
-          },
-          "chapters": []
-        }
-      ]
-    },
-    {
-      "class": 7,
-      "label": {
-        "hi": "कक्षा 7",
-        "en": "Class 7"
-      },
-      "subjects": [
-        {
-          "subject": "science",
-          "label": {
-            "hi": "विज्ञान",
-            "en": "Science"
-          },
-          "chapters": []
-        }
-      ]
-    },
-    {
-      "class": 8,
-      "label": {
-        "hi": "कक्षा 8",
-        "en": "Class 8"
-      },
-      "subjects": [
-        {
-          "subject": "science",
-          "label": {
-            "hi": "विज्ञान",
-            "en": "Science"
-          },
-          "chapters": []
-        }
-      ]
-    },
-    {
-      "class": 9,
-      "label": {
-        "hi": "कक्षा 9",
-        "en": "Class 9"
-      },
-      "subjects": [
-        {
-          "subject": "biology",
-          "label": {
-            "hi": "जीव विज्ञान",
-            "en": "Biology"
-          },
-          "chapters": [
-            {
-              "chapter": "chapter-01",
-              "name": {
-                "hi": "कोशिका एवं ऊतक",
-                "en": "Cell & Tissue"
-              }
-            },
-            {
-              "chapter": "chapter-02",
-              "name": {
-                "hi": "जनन — जीवन की निरंतरता",
-                "en": "Reproduction: How Life Continues"
-              }
-            }
-          ]
+          "chapter": "chapter-01",
+          "code": "B01",
+          "name": { "hi": "कोशिका एवं ऊतक", "en": "Cell & Tissue" },
+          "desc": { "hi": "कोशिका, कोशिकांग और कोशिका का संगठन।", "en": "The cell, its organelles and cellular organization." }
         },
         {
-          "subject": "chemistry",
-          "label": {
-            "hi": "रसायन विज्ञान",
-            "en": "Chemistry"
-          },
-          "chapters": []
+          "chapter": "chapter-03",
+          "code": "B02",
+          "name": { "hi": "ऊतक एवं शरीर की संरचना", "en": "Tissues & Body Structure" },
+          "desc": { "hi": "पादप-जंतु ऊतक और अस्थि-पंजर।", "en": "Plant-animal tissues and the skeletal system." }
         },
         {
-          "subject": "physics",
-          "label": {
-            "hi": "भौतिक विज्ञान",
-            "en": "Physics"
-          },
-          "chapters": []
+          "chapter": "chapter-04",
+          "code": "B03",
+          "name": { "hi": "जीवों में विविधता एवं वर्गीकरण", "en": "Diversity & Classification of Living Organisms" },
+          "desc": { "hi": "वर्गीकरण की श्रेणियाँ और पाँच जगत।", "en": "Ranks of classification and the five kingdoms." }
+        },
+        {
+          "chapter": "chapter-05",
+          "code": "B04",
+          "name": { "hi": "पादप जीवन एवं पादप क्रियाएँ", "en": "Plant Life & Plant Functions" },
+          "desc": { "hi": "पौधे के भाग, प्रकाश संश्लेषण और वाष्पोत्सर्जन।", "en": "Plant parts, photosynthesis and transpiration." }
+        },
+        {
+          "chapter": "chapter-06",
+          "code": "B05",
+          "name": { "hi": "जंतु जीवन एवं शरीर क्रियाएँ", "en": "Animal Life & Body Functions" },
+          "desc": { "hi": "अंग-तंत्र, समन्वय और उत्सर्जन।", "en": "Organ systems, coordination and excretion." }
+        },
+        {
+          "chapter": "chapter-07",
+          "code": "B06",
+          "name": { "hi": "पोषण एवं पाचन", "en": "Nutrition & Digestion" },
+          "desc": { "hi": "पोषक तत्व, पोषण के प्रकार और पाचन तंत्र।", "en": "Nutrients, modes of nutrition and digestion." }
+        },
+        {
+          "chapter": "chapter-08",
+          "code": "B07",
+          "name": { "hi": "श्वसन एवं गैसों का आदान-प्रदान", "en": "Respiration & Gas Exchange" },
+          "desc": { "hi": "वायुीय-अवायुीय श्वसन और श्वसन अंग।", "en": "Aerobic-anaerobic respiration and respiratory organs." }
+        },
+        {
+          "chapter": "chapter-09",
+          "code": "B08",
+          "name": { "hi": "परिवहन एवं रक्त संचार", "en": "Transportation & Circulation" },
+          "desc": { "hi": "रक्त, हृदय और पौधों में परिवहन।", "en": "Blood, the heart and transport in plants." }
+        },
+        {
+          "chapter": "chapter-02",
+          "code": "B09",
+          "name": { "hi": "जनन एवं जीवन की निरंतरता", "en": "Reproduction & Life Continuity" },
+          "desc": { "hi": "लैंगिक-अलैंगिक जनन और मानव जनन तंत्र।", "en": "Sexual-asexual reproduction and human reproduction." }
+        },
+        {
+          "chapter": "chapter-10",
+          "code": "B10",
+          "name": { "hi": "वृद्धि, विकास एवं किशोरावस्था", "en": "Growth, Development & Adolescence" },
+          "desc": { "hi": "किशोरावस्था के परिवर्तन और हार्मोन।", "en": "Changes of adolescence and hormones." }
+        },
+        {
+          "chapter": "chapter-11",
+          "code": "B11",
+          "name": { "hi": "स्वास्थ्य, रोग एवं सूक्ष्मजीव", "en": "Health, Disease & Microorganisms" },
+          "desc": { "hi": "संक्रामक रोग, टीकाकरण और उपयोगी सूक्ष्मजीव।", "en": "Infectious diseases, vaccination and useful microbes." }
+        },
+        {
+          "chapter": "chapter-12",
+          "code": "B12",
+          "name": { "hi": "पर्यावरण, पारितंत्र एवं प्राकृतिक संसाधन", "en": "Environment, Ecosystems & Natural Resources" },
+          "desc": { "hi": "खाद्य श्रृंखला और संसाधन संरक्षण।", "en": "Food chains and conservation of resources." }
         }
       ]
     },
     {
-      "class": 10,
-      "label": {
-        "hi": "कक्षा 10",
-        "en": "Class 10"
+      "subject": "physics",
+      "icon": "⚡",
+      "label": { "hi": "भौतिक विज्ञान", "en": "Physics" },
+      "tagline": {
+        "hi": "मापन से अंतरिक्ष तक — NCERT आधारित सम्पूर्ण भौतिकी",
+        "en": "From measurement to space — complete NCERT-based Physics"
       },
-      "subjects": [
+      "classes": "NCERT Class 6–10",
+      "chapters": [
         {
-          "subject": "science",
-          "label": {
-            "hi": "विज्ञान",
-            "en": "Science"
-          },
-          "chapters": []
+          "chapter": "chapter-01",
+          "code": "P01",
+          "name": { "hi": "मापन, मात्रक एवं वैज्ञानिक अन्वेषण", "en": "Measurement, Units & Scientific Investigation" },
+          "desc": { "hi": "SI मात्रक, मापक उपकरण और त्रुटि।", "en": "SI units, measuring instruments and errors." }
+        },
+        {
+          "chapter": "chapter-02",
+          "code": "P02",
+          "name": { "hi": "गति एवं समय", "en": "Motion & Time" },
+          "desc": { "hi": "दूरी-विस्थापन, चाल-वेग और ग्राफ।", "en": "Distance-displacement, speed-velocity and graphs." }
+        },
+        {
+          "chapter": "chapter-03",
+          "code": "P03",
+          "name": { "hi": "बल एवं गति के नियम", "en": "Force & Laws of Motion" },
+          "desc": { "hi": "न्यूटन के तीन नियम और घर्षण।", "en": "Newton's three laws and friction." }
+        },
+        {
+          "chapter": "chapter-04",
+          "code": "P04",
+          "name": { "hi": "गुरुत्वाकर्षण, भार एवं दाब", "en": "Gravitation, Weight & Pressure" },
+          "desc": { "hi": "गुरुत्व, दाब और उत्प्लावकता।", "en": "Gravity, pressure and buoyancy." }
+        },
+        {
+          "chapter": "chapter-05",
+          "code": "P05",
+          "name": { "hi": "कार्य, ऊर्जा एवं शक्ति", "en": "Work, Energy & Power" },
+          "desc": { "hi": "कार्य, ऊर्जा संरक्षण और शक्ति।", "en": "Work, conservation of energy and power." }
+        },
+        {
+          "chapter": "chapter-06",
+          "code": "P06",
+          "name": { "hi": "ऊष्मा एवं ताप", "en": "Heat & Temperature" },
+          "desc": { "hi": "ऊष्मा संचरण और अवस्था परिवर्तन।", "en": "Heat transfer and change of state." }
+        },
+        {
+          "chapter": "chapter-07",
+          "code": "P07",
+          "name": { "hi": "ध्वनि एवं उसके अनुप्रयोग", "en": "Sound & Its Applications" },
+          "desc": { "hi": "ध्वनि तरंगें, प्रतिध्वनि और पराश्रव्य।", "en": "Sound waves, echo and ultrasound." }
+        },
+        {
+          "chapter": "chapter-08",
+          "code": "P08",
+          "name": { "hi": "प्रकाश, परावर्तन एवं अपवर्तन", "en": "Light, Reflection & Refraction" },
+          "desc": { "hi": "दर्पण, लेंस और विक्षेपण।", "en": "Mirrors, lenses and dispersion." }
+        },
+        {
+          "chapter": "chapter-09",
+          "code": "P09",
+          "name": { "hi": "विद्युत एवं विद्युत परिपथ", "en": "Electricity & Electric Circuits" },
+          "desc": { "hi": "ओम का नियम और प्रतिरोध संयोजन।", "en": "Ohm's law and combinations of resistances." }
+        },
+        {
+          "chapter": "chapter-10",
+          "code": "P10",
+          "name": { "hi": "चुंबकत्व एवं विद्युत-चुंबकीय प्रभाव", "en": "Magnetism & Electromagnetic Effects" },
+          "desc": { "hi": "चुंबकीय क्षेत्र, विद्युत-चुंबक, मोटर-जनित्र।", "en": "Magnetic fields, electromagnets, motor-generator." }
+        },
+        {
+          "chapter": "chapter-11",
+          "code": "P11",
+          "name": { "hi": "विद्युत धारा के प्रभाव एवं ऊर्जा", "en": "Effects of Electric Current & Energy" },
+          "desc": { "hi": "तापीय-रासायनिक-चुंबकीय प्रभाव और स्रोत।", "en": "Heating-chemical-magnetic effects and energy sources." }
+        },
+        {
+          "chapter": "chapter-12",
+          "code": "P12",
+          "name": { "hi": "अंतरिक्ष, पृथ्वी एवं मूल भौतिक परिघटनाएँ", "en": "Space, Earth & Basic Physical Phenomena" },
+          "desc": { "hi": "सौर परिवार, ग्रहण और अंतरिक्ष अभियान।", "en": "The solar system, eclipses and space missions." }
+        }
+      ]
+    },
+    {
+      "subject": "chemistry",
+      "icon": "🧪",
+      "label": { "hi": "रसायन विज्ञान", "en": "Chemistry" },
+      "tagline": {
+        "hi": "परमाणु से दैनिक जीवन तक — NCERT आधारित सम्पूर्ण रसायन",
+        "en": "From the atom to daily life — complete NCERT-based Chemistry"
+      },
+      "classes": "NCERT Class 6–10",
+      "chapters": [
+        {
+          "chapter": "chapter-01",
+          "code": "C01",
+          "name": { "hi": "पदार्थ एवं उसकी अवस्थाएँ", "en": "Matter & Its States" },
+          "desc": { "hi": "ठोस-द्रव-गैस और अवस्था परिवर्तन।", "en": "Solid-liquid-gas and changes of state." }
+        },
+        {
+          "chapter": "chapter-02",
+          "code": "C02",
+          "name": { "hi": "भौतिक एवं रासायनिक परिवर्तन", "en": "Physical & Chemical Changes" },
+          "desc": { "hi": "परिवर्तनों की पहचान और जंग।", "en": "Identifying changes and rusting." }
+        },
+        {
+          "chapter": "chapter-03",
+          "code": "C03",
+          "name": { "hi": "पदार्थों का पृथक्करण एवं मिश्रण", "en": "Separation of Substances & Mixtures" },
+          "desc": { "hi": "छानने से आसवन तक की विधियाँ।", "en": "Methods from sieving to distillation." }
+        },
+        {
+          "chapter": "chapter-04",
+          "code": "C04",
+          "name": { "hi": "तत्व, यौगिक एवं शुद्ध पदार्थ", "en": "Elements, Compounds & Pure Substances" },
+          "desc": { "hi": "तत्व-यौगिक-मिश्रण का वर्गीकरण।", "en": "Classification of elements-compounds-mixtures." }
+        },
+        {
+          "chapter": "chapter-05",
+          "code": "C05",
+          "name": { "hi": "परमाणु, अणु एवं रासायनिक सूत्र", "en": "Atoms, Molecules & Chemical Formulae" },
+          "desc": { "hi": "संयोजकता और सूत्र लेखन।", "en": "Valency and formula writing." }
+        },
+        {
+          "chapter": "chapter-06",
+          "code": "C06",
+          "name": { "hi": "परमाणु की संरचना", "en": "Structure of the Atom" },
+          "desc": { "hi": "उपकण, मॉडल और समस्थानिक।", "en": "Subatomic particles, models and isotopes." }
+        },
+        {
+          "chapter": "chapter-07",
+          "code": "C07",
+          "name": { "hi": "रासायनिक अभिक्रियाएँ एवं समीकरण", "en": "Chemical Reactions & Equations" },
+          "desc": { "hi": "संतुलन और अभिक्रिया प्रकार।", "en": "Balancing and types of reactions." }
+        },
+        {
+          "chapter": "chapter-08",
+          "code": "C08",
+          "name": { "hi": "अम्ल, क्षार, लवण एवं सूचक", "en": "Acids, Bases, Salts & Indicators" },
+          "desc": { "hi": "सूचक, उदासीनीकरण और pH।", "en": "Indicators, neutralisation and pH." }
+        },
+        {
+          "chapter": "chapter-09",
+          "code": "C09",
+          "name": { "hi": "धातुएँ एवं अधातुएँ", "en": "Metals & Non-metals" },
+          "desc": { "hi": "गुण, क्रियाशीलता श्रेणी और मिश्र धातुएँ।", "en": "Properties, reactivity series and alloys." }
+        },
+        {
+          "chapter": "chapter-10",
+          "code": "C10",
+          "name": { "hi": "कार्बन एवं उसके यौगिक", "en": "Carbon & Its Compounds" },
+          "desc": { "hi": "समपरमाणुकता और उपयोगी यौगिक।", "en": "Allotropy and useful compounds." }
+        },
+        {
+          "chapter": "chapter-11",
+          "code": "C11",
+          "name": { "hi": "वायु, जल एवं पर्यावरणीय रसायन", "en": "Air, Water & Environmental Chemistry" },
+          "desc": { "hi": "वायु-जल की संरचना और प्रदूषण।", "en": "Composition of air-water and pollution." }
+        },
+        {
+          "chapter": "chapter-12",
+          "code": "C12",
+          "name": { "hi": "ईंधन, दहन एवं दैनिक जीवन का रसायन", "en": "Fuels, Combustion & Everyday Chemistry" },
+          "desc": { "hi": "दहन, कैलोरीफिक मान और स्वच्छ ईंधन।", "en": "Combustion, calorific value and clean fuels." }
         }
       ]
     }

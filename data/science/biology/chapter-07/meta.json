@@ -1,0 +1,137 @@
+{
+  "subject": "biology",
+  "subjectName": {
+    "hi": "जीव विज्ञान",
+    "en": "Biology"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-07",
+  "chapterNumber": 6,
+  "code": "B06",
+  "chapterName": {
+    "hi": "पोषण एवं पाचन",
+    "en": "Nutrition & Digestion"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "भोजन से मिलने वाले पोषक तत्व — कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन और खनिज — शरीर के विकास, ऊर्जा और रक्षा के लिए आवश्यक हैं। पौधे स्वपोषी होते हैं जबकि जंतु परपोषी; कुछ जीव मृतोपजीवी या परजीवी होते हैं। मनुष्य के पाचन तंत्र में भोजन मुँह से मलाशय तक क्रमबद्ध रूप से पचता है।",
+      "example": "आमाशय में हाइड्रोक्लोरिक अम्ल भोजन को अम्लीय बनाता है और पेप्सिन प्रोटीन का पाचन करता है — अम्ल का यह कार्य रक्षा भी करता है।",
+      "sections": [
+        {
+          "heading": "पोषक तत्व एवं संतुलित आहार",
+          "content": "ऊर्जा के लिए कार्बोहाइड्रेट और वसा, शरीर-निर्माण के लिए प्रोटीन तथा रक्षा-नियंत्रण के लिए विटामिन-खनिज आवश्यक हैं।"
+        },
+        {
+          "heading": "पोषण के प्रकार",
+          "content": "स्वपोषी (पौधे), परपोषी (जंतु), मृतोपजीवी (फंजस) और परजीवी (फीताकृमि) — पोषण की विधि से जीवों का वर्गीकरण।"
+        },
+        {
+          "heading": "मानव पाचन तंत्र",
+          "content": "मुँह (लार में एमाइलेज) → आमाशय (HCl + पेप्सिन) → छोटी आँत (पित्त + एंजाइम) → अवशोषण → बड़ी आँत।"
+        },
+        {
+          "heading": "विटामिन एवं उनकी कमी",
+          "content": "विटामिन A की कमी से रतौंधी, C से स्कर्वी, D से रिकेट्स, B1 से बेरी-बेरी और आयोडीन की कमी से घेघा होता है।"
+        }
+      ],
+      "keyPoints": [
+        "पोषक तत्व पाँच प्रकार के होते हैं — कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन, खनिज (और जल)",
+        "पौधे स्वपोषी, जंतु परपोषी होते हैं",
+        "लार में स्टार्च पचाने वाला एमाइलेज होता है",
+        "आमाशय का अम्ल पेप्सिन को सक्रिय करता है और कीटाणु मारता है",
+        "छोटी आँत भोजन का अवशोषण करती है",
+        "विटामिन-खनिज जल में घुलनशील और वसा में घुलनशील दो वर्गों में बाँटे जाते हैं"
+      ],
+      "examFocus": [
+        "किस विटामिन की कमी से कौन-सा रोग — यह जोड़ा रटें",
+        "पाचन तंत्र के अंगों का क्रम और उनके एंजाइम याद रखें",
+        "स्वपोषी/परपोषी/मृतोपजीवी/परजीवी के उदाहरण एक-एक करके याद करें"
+      ],
+      "examTraps": [
+        "सभी एंजाइम एक ही स्थान पर नहीं कार्य करते — लार, आमाशय और आँत के एंजाइम अलग हैं",
+        "लार केवल आर्द्र करने के लिए नहीं है — उसमें एमाइलेज होता है"
+      ],
+      "thinkBeforeAnswer": [
+        "प्रश्न में प्रोटीन का पाचन हो तो पेप्सिन और आमाशय याद करें",
+        "कमी-रोग का प्रश्न आए तो जोड़े (विटामिन-रोग) दोहराएँ"
+      ],
+      "memoryTricks": [
+        "A-रतौंधी, C-स्कर्वी, D-रिकेट्स, B1-बेरीबेरी — अक्षर-जोड़ से याद करें",
+        "भोजन का मार्ग 'मुँ-आ-छो-बड़ा-मल' क्रम से याद करें"
+      ],
+      "pyqSignals": [
+        "पाचन तंत्र के भाग और एंजाइम पर सीधे प्रश्न आम हैं",
+        "विटामिन कमी से होने वाले रोग बार-बार पूछे जाते हैं"
+      ],
+      "mustRemember": [
+        "पोषक तत्व और उनके कार्य",
+        "पोषण के प्रकार और उदाहरण",
+        "पाचन तंत्र के मुख्य अंग और एंजाइम",
+        "विटामिन कमी के रोग"
+      ],
+      "quickRevision": "भोजन के पोषक तत्व ऊर्जा, वृद्धि और रक्षा के लिए आवश्यक हैं। पोषण स्वपोषी, परपोषी, मृतोपजीवी और परजीवी प्रकार का होता है। मानव के पाचन तंत्र में मुँह, आमाशय और छोटी आँत के एंजाइम भोजन को सरल अणुओं में बदलते हैं और छोटी आँत उसे अवशोषित करती है। विटामिनों की कमी से विशिष्ट रोग होते हैं।"
+    },
+    "en": {
+      "concept": "Nutrients from food — carbohydrates, proteins, fats, vitamins and minerals — are needed for growth, energy and protection. Plants are autotrophic while animals are heterotrophic; some organisms are saprophytic or parasitic. In the human digestive system food is digested step by step from mouth to rectum.",
+      "example": "Hydrochloric acid in the stomach makes food acidic and activates pepsin to digest protein; the acid also kills germs.",
+      "sections": [
+        {
+          "heading": "Nutrients and Balanced Diet",
+          "content": "Carbohydrates and fats give energy, proteins build the body, and vitamins-minerals protect and regulate."
+        },
+        {
+          "heading": "Modes of Nutrition",
+          "content": "Autotrophic (plants), heterotrophic (animals), saprophytic (fungi) and parasitic (tapeworm) — classification by mode of nutrition."
+        },
+        {
+          "heading": "Human Digestive System",
+          "content": "Mouth (salivary amylase) → stomach (HCl + pepsin) → small intestine (bile + enzymes) → absorption → large intestine."
+        },
+        {
+          "heading": "Vitamins and Deficiency",
+          "content": "Lack of vitamin A causes night-blindness, C scurvy, D rickets, B1 beri-beri, and iodine deficiency causes goitre."
+        }
+      ],
+      "keyPoints": [
+        "There are five nutrients — carbohydrates, proteins, fats, vitamins, minerals (plus water)",
+        "Plants are autotrophic; animals are heterotrophic",
+        "Saliva contains amylase which digests starch",
+        "Stomach acid activates pepsin and kills germs",
+        "The small intestine absorbs digested food",
+        "Vitamins are classified as water-soluble and fat-soluble"
+      ],
+      "examFocus": [
+        "Memorise which vitamin deficiency causes which disease",
+        "Learn the order of digestive organs and their enzymes",
+        "Remember one example each of autotrophic/heterotrophic/saprophytic/parasitic nutrition"
+      ],
+      "examTraps": [
+        "Not all enzymes work in one place — saliva, stomach and intestine have different enzymes",
+        "Saliva is not just for moistening — it contains amylase"
+      ],
+      "thinkBeforeAnswer": [
+        "Protein digestion points to pepsin and the stomach",
+        "For deficiency-disease questions, recall the vitamin-disease pairs"
+      ],
+      "memoryTricks": [
+        "Remember A-night-blindness, C-scurvy, D-rickets, B1-beri-beri by letter pairs",
+        "Learn the food path as Mouth-Stomach-Small-Large-Rectum in order"
+      ],
+      "pyqSignals": [
+        "Direct questions on digestive parts and enzymes are common",
+        "Diseases caused by vitamin deficiency are asked repeatedly"
+      ],
+      "mustRemember": [
+        "Nutrients and their functions",
+        "Modes of nutrition with examples",
+        "Main organs and enzymes of the digestive system",
+        "Deficiency diseases of vitamins"
+      ],
+      "quickRevision": "Nutrients are essential for energy, growth and protection. Nutrition may be autotrophic, heterotrophic, saprophytic or parasitic. In humans, enzymes of the mouth, stomach and small intestine simplify food, and the small intestine absorbs it. Vitamin deficiencies cause specific diseases."
+    }
+  }
+}

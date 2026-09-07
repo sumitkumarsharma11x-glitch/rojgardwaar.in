@@ -1,0 +1,5604 @@
+{
+  "questions": [
+    {
+      "id": "phy9_q101",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत आवेश का SI मात्रक क्या है?",
+        "en": "What is the SI unit of electric charge?"
+      },
+      "options": {
+        "hi": [
+          "कूलॉम (C)",
+          "एम्पियर (A)",
+          "वोल्ट (V)",
+          "ओम (Ω)"
+        ],
+        "en": [
+          "Coulomb (C)",
+          "Ampere (A)",
+          "Volt (V)",
+          "Ohm (Ω)"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "आवेश का मात्रक कूलॉम है; एम्पियर धारा का, वोल्ट विभवांतर का।",
+        "en": "Charge is measured in coulombs; ampere for current, volt for potential difference."
+      }
+    },
+    {
+      "id": "phy9_q102",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी चालक में बहने वाली धारा को किस इकाई में व्यक्त करते हैं?",
+        "en": "In which unit do we express the current flowing through a conductor?"
+      },
+      "options": {
+        "hi": [
+          "जूल (J)",
+          "एम्पियर (A)",
+          "कूलॉम (C)",
+          "वाट (W)"
+        ],
+        "en": [
+          "Joule (J)",
+          "Ampere (A)",
+          "Coulomb (C)",
+          "Watt (W)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "धारा का मात्रक एम्पियर है, जिसे प्रति सेकंड कूलॉम के रूप में व्यक्त करते हैं।",
+        "en": "The unit of current is the ampere, expressed as coulombs per second."
+      }
+    },
+    {
+      "id": "phy9_q103",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत धारा किसे कहते हैं?",
+        "en": "What is meant by electric current?"
+      },
+      "options": {
+        "hi": [
+          "तार की मोटाई",
+          "सेल की शक्ति",
+          "आवेश के प्रवाह की दर",
+          "आवेश का कुल मान"
+        ],
+        "en": [
+          "The thickness of a wire",
+          "The power of a cell",
+          "The rate of flow of charge",
+          "The total amount of charge"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "धारा वह दर है जिससे आवेश किसी अनुप्रस्थ काट से गुज़रता है — I = Q/t।",
+        "en": "Current is the rate at which charge passes a cross-section — I = Q/t."
+      }
+    },
+    {
+      "id": "phy9_q104",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत धारा मापने का यंत्र कौन-सा है?",
+        "en": "Which instrument measures electric current?"
+      },
+      "options": {
+        "hi": [
+          "वोल्टमीटर",
+          "थर्मामीटर",
+          "ओममीटर",
+          "अमीटर"
+        ],
+        "en": [
+          "Voltmeter",
+          "Thermometer",
+          "Ohmmeter",
+          "Ammeter"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "अमीटर धारा मापता है और श्रेणी क्रम में जुड़ता है।",
+        "en": "An ammeter measures current and is connected in series."
+      }
+    },
+    {
+      "id": "phy9_q105",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "एक इलेक्ट्रॉन पर आवेश का मान लगभग कितना होता है?",
+        "en": "What is the approximate charge on an electron?"
+      },
+      "options": {
+        "hi": [
+          "1.6 × 10^-19 कूलॉम (ऋणात्मक)",
+          "1.6 × 10^-19 कूलॉम (धनात्मक)",
+          "1 कूलॉम",
+          "6.25 × 10^18 कूलॉम"
+        ],
+        "en": [
+          "1.6 × 10^-19 coulomb (negative)",
+          "1.6 × 10^-19 coulomb (positive)",
+          "1 coulomb",
+          "6.25 × 10^18 coulombs"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "इलेक्ट्रॉन का आवेश −1.6 × 10^-19 कूलॉम है; प्रोटॉन पर उतना ही धनात्मक आवेश।",
+        "en": "An electron carries −1.6 × 10^-19 C; a proton carries an equal positive charge."
+      }
+    },
+    {
+      "id": "phy9_q106",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 एम्पियर धारा किसके बराबर होती है?",
+        "en": "One ampere of current equals what?"
+      },
+      "options": {
+        "hi": [
+          "प्रति घंटा 1 कूलॉम",
+          "प्रति सेकंड 1 कूलॉम आवेश का प्रवाह",
+          "प्रति मिनट 1 कूलॉम",
+          "प्रति सेकंड 1 वोल्ट"
+        ],
+        "en": [
+          "1 coulomb per hour",
+          "A flow of 1 coulomb per second",
+          "1 coulomb per minute",
+          "1 volt per second"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1 A = 1 C/s — सेकंड में एक कूलॉम आवेश बहना।",
+        "en": "1 A = 1 C/s — one coulomb of charge flowing each second."
+      }
+    },
+    {
+      "id": "phy9_q107",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत सेल का मुख्य कार्य क्या है?",
+        "en": "What is the main function of an electric cell?"
+      },
+      "options": {
+        "hi": [
+          "धारा को मापना",
+          "प्रतिरोध बढ़ाना",
+          "रासायनिक ऊर्जा को विद्युत ऊर्जा में बदलना",
+          "विद्युत को प्रकाश में बदलना"
+        ],
+        "en": [
+          "To measure current",
+          "To increase resistance",
+          "To convert chemical energy into electrical energy",
+          "To convert electricity into light"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "सेल भीतर रासायनिक क्रिया से अपने टर्मिनलों पर विभवांतर बनाता है।",
+        "en": "A cell uses an internal chemical reaction to maintain a potential difference across its terminals."
+      }
+    },
+    {
+      "id": "phy9_q108",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बैट्री किसे कहते हैं?",
+        "en": "What is a battery?"
+      },
+      "options": {
+        "hi": [
+          "एक ही सेल का दूसरा नाम",
+          "धारा मापने का यंत्र",
+          "प्रतिरोध का मात्रक",
+          "एक से अधिक सेलों का संयोजन"
+        ],
+        "en": [
+          "Another name for a single cell",
+          "A current-measuring instrument",
+          "A unit of resistance",
+          "A combination of more than one cell"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कई सेल श्रेणी क्रम में जोड़ने पर बैट्री बनती है।",
+        "en": "Several cells joined in series form a battery."
+      }
+    },
+    {
+      "id": "phy9_q109",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत परिपथ किसे कहते हैं?",
+        "en": "What is an electric circuit?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत धारा के प्रवाह का एक बंद (पूर्ण) मार्ग",
+          "आवेश का मात्रक",
+          "सेल का प्रतीक",
+          "रोधी पदार्थ"
+        ],
+        "en": [
+          "A closed (complete) path for the flow of electric current",
+          "A unit of charge",
+          "The symbol of a cell",
+          "An insulating material"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्रोत, चालक तार और उपकरण मिलकर पूर्ण परिपथ बनाते हैं।",
+        "en": "A source, conducting wires and devices together form a complete circuit."
+      }
+    },
+    {
+      "id": "phy9_q110",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "खुला परिपथ (open circuit) किस स्थिति में होता है?",
+        "en": "When is a circuit called an open circuit?"
+      },
+      "options": {
+        "hi": [
+          "जब अमीटर जुड़ा हो",
+          "जब परिपथ कहीं टूटा हो और धारा न बह सके",
+          "जब स्विच चालू हो",
+          "जब बल्ब जल रहा हो"
+        ],
+        "en": [
+          "When an ammeter is connected",
+          "When the path is broken somewhere and current cannot flow",
+          "When the switch is ON",
+          "When the bulb is glowing"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "खुले परिपथ में धारा प्रवाह शून्य रहता है।",
+        "en": "In an open circuit the current is zero."
+      }
+    },
+    {
+      "id": "phy9_q111",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "स्विच (कुंजी) का कार्य क्या है?",
+        "en": "What is the function of a switch?"
+      },
+      "options": {
+        "hi": [
+          "वोल्टेज बढ़ाना",
+          "प्रतिरोध बढ़ाना",
+          "परिपथ को इच्छानुसार जोड़ना और तोड़ना",
+          "धारा को मापना"
+        ],
+        "en": [
+          "To increase voltage",
+          "To increase resistance",
+          "To make or break the circuit at will",
+          "To measure current"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "स्विच बंद परिपथ को पूर्ण करता है, खुला स्विच उसे तोड़ देता है।",
+        "en": "A closed switch completes the circuit; an open switch breaks it."
+      }
+    },
+    {
+      "id": "phy9_q112",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से कौन विद्युत का सुचालक है?",
+        "en": "Which of the following is a good conductor of electricity?"
+      },
+      "options": {
+        "hi": [
+          "रबर",
+          "काँच",
+          "सूखी लकड़ी",
+          "ताँबा"
+        ],
+        "en": [
+          "Rubber",
+          "Glass",
+          "Dry wood",
+          "Copper"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धातुएँ जैसे ताँबा, चाँदी, एल्युमिनियम सुचालक होती हैं।",
+        "en": "Metals such as copper, silver and aluminium are good conductors."
+      }
+    },
+    {
+      "id": "phy9_q113",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से रोधी (इन्सुलेटर) पदार्थ कौन-सा है?",
+        "en": "Which of the following is an insulator?"
+      },
+      "options": {
+        "hi": [
+          "प्लास्टिक",
+          "ताँबा",
+          "चाँदी",
+          "एल्युमिनियम"
+        ],
+        "en": [
+          "Plastic",
+          "Copper",
+          "Silver",
+          "Aluminium"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्लास्टिक, रबर, काँच में मुक्त इलेक्ट्रॉन नहीं होते — रोधी।",
+        "en": "Plastic, rubber and glass have no free electrons — insulators."
+      }
+    },
+    {
+      "id": "phy9_q114",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अमीटर को परिपथ में किस प्रकार जोड़ा जाता है?",
+        "en": "How is an ammeter connected in a circuit?"
+      },
+      "options": {
+        "hi": [
+          "कहीं भी, कोई अंतर नहीं",
+          "श्रेणी क्रम में",
+          "समान्तर क्रम में",
+          "बैटरी के भीतर"
+        ],
+        "en": [
+          "Anywhere, it makes no difference",
+          "In series",
+          "In parallel",
+          "Inside the battery"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अमीटर श्रेणी में जुड़ता है ताकि पूरी धारा उससे गुज़रे।",
+        "en": "An ammeter is joined in series so that the whole current passes through it."
+      }
+    },
+    {
+      "id": "phy9_q115",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "परिपथ चित्र में प्रतिरोध का प्रतीक कैसा होता है?",
+        "en": "What does the symbol of a resistor look like in a circuit diagram?"
+      },
+      "options": {
+        "hi": [
+          "लंबी सीधी रेखा",
+          "तीर का निशान",
+          "टेढ़ी-मेढ़ी (ज़िगज़ैग) रेखा या आयत",
+          "वृत्त"
+        ],
+        "en": [
+          "A long straight line",
+          "An arrowhead",
+          "A zigzag line or a rectangle",
+          "A circle"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "प्रतिरोध को ज़िगज़ैग या आयत से दर्शाते हैं।",
+        "en": "A resistor is shown as a zigzag or a rectangle."
+      }
+    },
+    {
+      "id": "phy9_q116",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "सेल के प्रतीक में लंबी रेखा क्या दर्शाती है?",
+        "en": "In a cell's symbol, what does the long line represent?"
+      },
+      "options": {
+        "hi": [
+          "ऋणात्मक टर्मिनल",
+          "स्विच",
+          "भू-संपर्क",
+          "धनात्मक टर्मिनल"
+        ],
+        "en": [
+          "The negative terminal",
+          "A switch",
+          "The earth connection",
+          "The positive terminal"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "लंबी पतली रेखा धनात्मक, छोटी मोटी रेखा ऋणात्मक टर्मिनल।",
+        "en": "The long thin line is positive; the short thick line is negative."
+      }
+    },
+    {
+      "id": "phy9_q117",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "परंपरागत धारा किस टर्मिनल से प्रवाहित मानी जाती है?",
+        "en": "From which terminal is conventional current said to flow?"
+      },
+      "options": {
+        "hi": [
+          "धनात्मक से ऋणात्मक की ओर (बाह्य परिपथ में)",
+          "ऋणात्मक से धनात्मक की ओर",
+          "दोनों दिशाओं से",
+          "कोई दिशा नहीं"
+        ],
+        "en": [
+          "From positive to negative (in the external circuit)",
+          "From negative to positive",
+          "From both directions",
+          "It has no direction"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "परंपरागत धारा धनात्मक से ऋणात्मक मानी जाती है; इलेक्ट्रॉन विपरीत दिशा में बहते हैं।",
+        "en": "Conventional current runs positive to negative; electrons move the opposite way."
+      }
+    },
+    {
+      "id": "phy9_q118",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत तार बनाने के लिए मुख्यतः कौन-सी धातु उपयोग होती है?",
+        "en": "Which metal is mainly used for making electric wires?"
+      },
+      "options": {
+        "hi": [
+          "सीसा",
+          "ताँबा",
+          "लोहा",
+          "पारा"
+        ],
+        "en": [
+          "Lead",
+          "Copper",
+          "Iron",
+          "Mercury"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ताँबा सस्ता और कम प्रतिरोध वाला सुचालक है।",
+        "en": "Copper is a cheap conductor with low resistance."
+      }
+    },
+    {
+      "id": "phy9_q119",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 कूलॉम आवेश में लगभग कितने इलेक्ट्रॉन होते हैं?",
+        "en": "About how many electrons make up 1 coulomb of charge?"
+      },
+      "options": {
+        "hi": [
+          "6.25 × 10^19",
+          "1.6 × 10^-19",
+          "6.25 × 10^18",
+          "1.6 × 10^19"
+        ],
+        "en": [
+          "6.25 × 10^19",
+          "1.6 × 10^-19",
+          "6.25 × 10^18",
+          "1.6 × 10^19"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "n = Q/e = 1 ÷ (1.6 × 10^-19) = 6.25 × 10^18 इलेक्ट्रॉन।",
+        "en": "n = Q/e = 1 ÷ (1.6 × 10^-19) = 6.25 × 10^18 electrons."
+      }
+    },
+    {
+      "id": "phy9_q120",
+      "topic": "charge-and-current",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी तार में 0.5 एम्पियर धारा 1 सेकंड तक बहती है। प्रवाहित आवेश कितना होगा?",
+        "en": "A current of 0.5 A flows for 1 second. How much charge passes?"
+      },
+      "options": {
+        "hi": [
+          "1 कूलॉम",
+          "2 कूलॉम",
+          "0.25 कूलॉम",
+          "0.5 कूलॉम"
+        ],
+        "en": [
+          "1 coulomb",
+          "2 coulombs",
+          "0.25 coulomb",
+          "0.5 coulomb"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "Q = I × t = 0.5 × 1 = 0.5 कूलॉम।",
+        "en": "Q = I × t = 0.5 × 1 = 0.5 C."
+      }
+    },
+    {
+      "id": "phy9_q121",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 एम्पियर धारा 10 सेकंड तक बहती है। प्रवाहित आवेश निकालिए।",
+        "en": "A current of 2 A flows for 10 s. Find the charge passed."
+      },
+      "options": {
+        "hi": [
+          "20 कूलॉम",
+          "5 कूलॉम",
+          "12 कूलॉम",
+          "0.2 कूलॉम"
+        ],
+        "en": [
+          "20 C",
+          "5 C",
+          "12 C",
+          "0.2 C"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "Q = It = 2 × 10 = 20 कूलॉम।",
+        "en": "Q = It = 2 × 10 = 20 C."
+      }
+    },
+    {
+      "id": "phy9_q122",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी चालक से 15 सेकंड में 30 कूलॉम आवेश बहता है। धारा कितनी है?",
+        "en": "30 C of charge flows through a conductor in 15 s. What is the current?"
+      },
+      "options": {
+        "hi": [
+          "15 एम्पियर",
+          "2 एम्पियर",
+          "0.5 एम्पियर",
+          "450 एम्पियर"
+        ],
+        "en": [
+          "15 A",
+          "2 A",
+          "0.5 A",
+          "450 A"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "I = Q/t = 30/15 = 2 एम्पियर।",
+        "en": "I = Q/t = 30/15 = 2 A."
+      }
+    },
+    {
+      "id": "phy9_q123",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.5 एम्पियर धारा 2 मिनट तक बहती है। कुल आवेश कितना बहेगा?",
+        "en": "A current of 0.5 A flows for 2 minutes. What total charge passes?"
+      },
+      "options": {
+        "hi": [
+          "30 कूलॉम",
+          "120 कूलॉम",
+          "60 कूलॉम",
+          "1 कूलॉम"
+        ],
+        "en": [
+          "30 C",
+          "120 C",
+          "60 C",
+          "1 C"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "t = 120 सेकंड; Q = 0.5 × 120 = 60 कूलॉम।",
+        "en": "t = 120 s; Q = 0.5 × 120 = 60 C."
+      }
+    },
+    {
+      "id": "phy9_q124",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी तार में 2 सेकंड में 12 कूलॉम आवेश प्रवाहित होता है। धारा निकालिए।",
+        "en": "12 C of charge flows through a wire in 2 s. Find the current."
+      },
+      "options": {
+        "hi": [
+          "24 एम्पियर",
+          "0.17 एम्पियर",
+          "12 एम्पियर",
+          "6 एम्पियर"
+        ],
+        "en": [
+          "24 A",
+          "0.17 A",
+          "12 A",
+          "6 A"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "I = Q/t = 12/2 = 6 एम्पियर।",
+        "en": "I = Q/t = 12/2 = 6 A."
+      }
+    },
+    {
+      "id": "phy9_q125",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "3.2 × 10^-19 कूलॉम आवेश में कितने इलेक्ट्रॉन होंगे?",
+        "en": "How many electrons are there in a charge of 3.2 × 10^-19 C?"
+      },
+      "options": {
+        "hi": [
+          "2",
+          "1",
+          "10",
+          "0.5"
+        ],
+        "en": [
+          "2",
+          "1",
+          "10",
+          "0.5"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "n = Q/e = (3.2 × 10^-19) ÷ (1.6 × 10^-19) = 2 इलेक्ट्रॉन।",
+        "en": "n = Q/e = (3.2 × 10^-19) ÷ (1.6 × 10^-19) = 2 electrons."
+      }
+    },
+    {
+      "id": "phy9_q126",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 मिलीएम्पियर (mA) धारा एम्पियर में कितनी होती है?",
+        "en": "How much is a current of 5 milliampere (mA) in ampere?"
+      },
+      "options": {
+        "hi": [
+          "0.5 एम्पियर",
+          "5 × 10^-3 एम्पियर",
+          "5 × 10^3 एम्पियर",
+          "5 × 10^-6 एम्पियर"
+        ],
+        "en": [
+          "0.5 A",
+          "5 × 10^-3 A",
+          "5 × 10^3 A",
+          "5 × 10^-6 A"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1 mA = 10^-3 A, अतः 5 mA = 0.005 एम्पियर।",
+        "en": "1 mA = 10^-3 A, so 5 mA = 0.005 A."
+      }
+    },
+    {
+      "id": "phy9_q127",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धातु के तार में इलेक्ट्रॉनों का प्रवाह किस दिशा में होता है?",
+        "en": "In a metal wire, in which direction do electrons flow?"
+      },
+      "options": {
+        "hi": [
+          "दोनों दिशाओं में एक साथ",
+          "इलेक्ट्रॉन बहते ही नहीं",
+          "परंपरागत धारा के ठीक विपरीत",
+          "परंपरागत धारा की ही दिशा में"
+        ],
+        "en": [
+          "In both directions simultaneously",
+          "Electrons do not flow at all",
+          "Exactly opposite to the conventional current",
+          "In the same direction as conventional current"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इलेक्ट्रॉन ऋणात्मक से धनात्मक की ओर बहते हैं — परंपरागत धारा से उलट।",
+        "en": "Electrons flow from negative to positive — opposite to conventional current."
+      }
+    },
+    {
+      "id": "phy9_q128",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धातुएँ विद्युत की सुचालक क्यों होती हैं?",
+        "en": "Why are metals good conductors of electricity?"
+      },
+      "options": {
+        "hi": [
+          "उनमें कोई इलेक्ट्रॉन नहीं होता",
+          "उनका गलनांक ऊँचा होता है",
+          "वे चमकीली होती हैं",
+          "उनमें मुक्त (स्वतंत्र) इलेक्ट्रॉन बहुतायत होते हैं"
+        ],
+        "en": [
+          "They contain no electrons",
+          "They have high melting points",
+          "They are shiny",
+          "They contain plenty of free electrons"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "मुक्त इलेक्ट्रॉन विभवांतर लगते ही दिशित गति करने लगते हैं — धारा बनती है।",
+        "en": "Free electrons start drifting as soon as a potential difference is applied — current flows."
+      }
+    },
+    {
+      "id": "phy9_q129",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अमीटर का प्रतिरोध अत्यंत कम क्यों रखा जाता है?",
+        "en": "Why is an ammeter made with extremely low resistance?"
+      },
+      "options": {
+        "hi": [
+          "ताकि वह परिपथ की धारा को लगभग न बदले",
+          "ताकि वह अधिक धारा माप सके",
+          "ताकि उसमें अधिक ऊष्मा बने",
+          "ताकि वह वोल्टेज भी माप ले"
+        ],
+        "en": [
+          "So that it hardly changes the circuit's current",
+          "So that it can measure larger currents",
+          "So that more heat is produced in it",
+          "So that it can also measure voltage"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "श्रेणी में जुड़े अमीटर का अपना प्रतिरोध नगण्य रहना चाहिए, वरना धारा घट जाएगी।",
+        "en": "A series ammeter must add negligible resistance, else the circuit current would fall."
+      }
+    },
+    {
+      "id": "phy9_q130",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1.5 एम्पियर धारा 40 सेकंड तक बहती है। प्रवाहित आवेश निकालिए।",
+        "en": "A current of 1.5 A flows for 40 s. Find the charge passed."
+      },
+      "options": {
+        "hi": [
+          "600 कूलॉम",
+          "60 कूलॉम",
+          "41.5 कूलॉम",
+          "26.7 कूलॉम"
+        ],
+        "en": [
+          "600 C",
+          "60 C",
+          "41.5 C",
+          "26.7 C"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Q = 1.5 × 40 = 60 कूलॉम।",
+        "en": "Q = 1.5 × 40 = 60 C."
+      }
+    },
+    {
+      "id": "phy9_q131",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "परिपथ पूर्ण करते ही बल्ब जल उठता है। इसका कारण बताइए।",
+        "en": "The bulb glows as soon as the circuit is completed. Why?"
+      },
+      "options": {
+        "hi": [
+          "बल्ब में आवेश भर जाता है",
+          "स्विच ऊर्जा पैदा करता है",
+          "बैटरी से बल्ब तक विद्युत ऊर्जा का प्रवाह तुरंत आरंभ हो जाता है",
+          "तार गर्म हो जाते हैं"
+        ],
+        "en": [
+          "Charge fills up inside the bulb",
+          "The switch generates energy",
+          "Electrical energy starts flowing from the battery to the bulb at once",
+          "The wires get heated"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बंद परिपथ में आवेश-प्रवाह (धारा) तुरंत स्थापित होता है।",
+        "en": "In a closed circuit the charge flow (current) is established immediately."
+      }
+    },
+    {
+      "id": "phy9_q132",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "ताँबे के तारों पर प्लास्टिक की मोटी परत क्यों चढ़ाई जाती है?",
+        "en": "Why is a thick plastic coating put over copper wires?"
+      },
+      "options": {
+        "hi": [
+          "तार को मज़बूत बनाने के लिए",
+          "धारा बढ़ाने के लिए",
+          "तार को सुंदर बनाने के लिए",
+          "सुरक्षा के लिए — प्लास्टिक रोधी है और झटका नहीं लगने देता"
+        ],
+        "en": [
+          "To strengthen the wire",
+          "To increase the current",
+          "To beautify the wire",
+          "For safety — plastic insulates and prevents shocks"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "रोधी परिपथ के ज़रिए संपर्क से बचाती है।",
+        "en": "The insulating cover prevents accidental contact."
+      }
+    },
+    {
+      "id": "phy9_q133",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धारा नियत रखने पर समय दोगुना कर दिया जाए तो प्रवाहित आवेश का क्या होगा?",
+        "en": "If the time is doubled at constant current, what happens to the charge passed?"
+      },
+      "options": {
+        "hi": [
+          "दोगुना हो जाता है",
+          "आधा हो जाता है",
+          "अपरिवर्तित रहता है",
+          "चार गुना हो जाता है"
+        ],
+        "en": [
+          "It doubles",
+          "It halves",
+          "It remains unchanged",
+          "It becomes four times"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "Q = It — धारा नियत, समय दोगुना ⇒ आवेश दोगुना।",
+        "en": "Q = It — constant I, doubled t ⇒ doubled charge."
+      }
+    },
+    {
+      "id": "phy9_q134",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक परिपथ चित्र में सेल, स्विच और बल्ब क्रम से जुड़े हैं। ऐसा परिपथ किस रूप का है?",
+        "en": "A circuit diagram shows a cell, a switch and a bulb joined end to end. What kind of circuit is this?"
+      },
+      "options": {
+        "hi": [
+          "खुला परिपथ",
+          "श्रेणी परिपथ — धारा के लिए एक ही मार्ग",
+          "समान्तर परिपथ",
+          "मिश्रित परिपथ"
+        ],
+        "en": [
+          "An open circuit",
+          "A series circuit — a single path for the current",
+          "A parallel circuit",
+          "A mixed circuit"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "सभी अवयव एक ही पाश में — श्रेणी परिपथ।",
+        "en": "All components in one loop — a series circuit."
+      }
+    },
+    {
+      "id": "phy9_q135",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "0.1 मिनट (6 सेकंड) में 12 कूलॉम आवेश बहता है। धारा निकालिए।",
+        "en": "12 C of charge flows in 0.1 minute (6 s). Find the current."
+      },
+      "options": {
+        "hi": [
+          "0.5 एम्पियर",
+          "12 एम्पियर",
+          "2 एम्पियर",
+          "120 एम्पियर"
+        ],
+        "en": [
+          "0.5 A",
+          "12 A",
+          "2 A",
+          "120 A"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "I = 12/6 = 2 एम्पियर।",
+        "en": "I = 12/6 = 2 A."
+      }
+    },
+    {
+      "id": "phy9_q136",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "सेल परिपथ में धारा का प्रवाह कैसे बनाए रखती है?",
+        "en": "How does a cell keep current flowing in a circuit?"
+      },
+      "options": {
+        "hi": [
+          "आवेश पैदा करके",
+          "तार को गर्म करके",
+          "प्रतिरोध हटाकर",
+          "अपने टर्मिनलों पर विभवांतर बनाए रखकर"
+        ],
+        "en": [
+          "By creating charge",
+          "By heating the wire",
+          "By removing resistance",
+          "By maintaining a potential difference across its terminals"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "निरंतर विभवांतर ही आवेश को बहते रखने का कारण है।",
+        "en": "A sustained potential difference keeps the charge moving."
+      }
+    },
+    {
+      "id": "phy9_q137",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "क्या तार में बहते हुए इलेक्ट्रॉन उपकरण में खर्च हो जाते हैं?",
+        "en": "Are the electrons flowing in a wire used up by the appliance?"
+      },
+      "options": {
+        "hi": [
+          "नहीं — इलेक्ट्रॉन संख्या संरक्षित रहती है; उनकी ऊर्जा उपकरण ग्रहण करता है",
+          "हाँ — बल्ब इलेक्ट्रॉन खा जाता है",
+          "आधे खर्च हो जाते हैं",
+          "केवल ऋणात्मक इलेक्ट्रॉन खर्च होते हैं"
+        ],
+        "en": [
+          "No — the number of electrons is conserved; the appliance takes up their energy",
+          "Yes — the bulb consumes electrons",
+          "Half of them are used up",
+          "Only negative electrons are consumed"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धारा परिपथ में आवेश संरक्षित रहता है; ऊर्जा का स्थानांतरण होता है।",
+        "en": "Charge is conserved in the circuit; it is energy that gets transferred."
+      }
+    },
+    {
+      "id": "phy9_q138",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक तार से 1 घंटे में 720 कूलॉम आवेश बहता है। धारा निकालिए।",
+        "en": "720 C of charge flows through a wire in 1 hour. Find the current."
+      },
+      "options": {
+        "hi": [
+          "0.01 एम्पियर",
+          "0.2 एम्पियर",
+          "12 एम्पियर",
+          "720 एम्पियर"
+        ],
+        "en": [
+          "0.01 A",
+          "0.2 A",
+          "12 A",
+          "720 A"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "t = 3600 सेकंड; I = 720/3600 = 0.2 एम्पियर।",
+        "en": "t = 3600 s; I = 720/3600 = 0.2 A."
+      }
+    },
+    {
+      "id": "phy9_q139",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "खारा जल विद्युत का सुचालक होता है, जबकि आसुत जल खराब सुचालक। कारण बताइए।",
+        "en": "Salt water conducts electricity well, while distilled water is a poor conductor. Give the reason."
+      },
+      "options": {
+        "hi": [
+          "आसुत जल में इलेक्ट्रॉन भरे होते हैं",
+          "नमक धातु है",
+          "खारा जल में मुक्त आयन होते हैं; आसुत जल में आयन नहीं",
+          "खारा जल गाढ़ा होता है"
+        ],
+        "en": [
+          "Distilled water is full of electrons",
+          "Salt is a metal",
+          "Salt water has free ions; distilled water has none",
+          "Salt water is denser"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विलयन में आवेश वाहक आयन होते हैं; आसुत जल में वे अनुपस्थित।",
+        "en": "In solutions the charge carriers are ions; distilled water lacks them."
+      }
+    },
+    {
+      "id": "phy9_q140",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक सेकंड में 1.25 × 10^19 इलेक्ट्रॉन बहते हैं। धारा निकालिए।",
+        "en": "1.25 × 10^19 electrons flow per second. Find the current."
+      },
+      "options": {
+        "hi": [
+          "1.25 एम्पियर",
+          "0.8 एम्पियर",
+          "20 एम्पियर",
+          "2 एम्पियर"
+        ],
+        "en": [
+          "1.25 A",
+          "0.8 A",
+          "20 A",
+          "2 A"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "Q = n × e = 1.25 × 10^19 × 1.6 × 10^-19 = 2 कूलॉम ⇒ I = 2/1 = 2 एम्पियर।",
+        "en": "Q = n × e = 1.25 × 10^19 × 1.6 × 10^-19 = 2 C ⇒ I = 2 A."
+      }
+    },
+    {
+      "id": "phy9_q141",
+      "topic": "charge-and-current",
+      "difficulty": "medium",
+      "question": {
+        "hi": "धातु तार में आवेश वाहक क्या हैं और विद्युत विलयन में क्या?",
+        "en": "What are the charge carriers in a metallic wire and in an electrolytic solution?"
+      },
+      "options": {
+        "hi": [
+          "धातु में — इलेक्ट्रॉन; विलयन में — धनात्मक व ऋणात्मक आयन",
+          "दोनों में केवल इलेक्ट्रॉन",
+          "दोनों में केवल प्रोटॉन",
+          "धातु में आयन; विलयन में इलेक्ट्रॉन"
+        ],
+        "en": [
+          "In metals — electrons; in solutions — positive and negative ions",
+          "Only electrons in both",
+          "Only protons in both",
+          "Ions in metals; electrons in solutions"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "धातु में मुक्त इलेक्ट्रॉन, विलयन में दोनों प्रकार के आयन धारा बनाते हैं।",
+        "en": "Free electrons carry current in metals; both ion types do in solutions."
+      }
+    },
+    {
+      "id": "phy9_q142",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "10^19 इलेक्ट्रॉन 4 सेकंड में किसी अनुप्रस्थ काट से गुज़रते हैं। धारा निकालिए।",
+        "en": "10^19 electrons pass a cross-section in 4 s. Find the current."
+      },
+      "options": {
+        "hi": [
+          "1.6 एम्पियर",
+          "0.4 एम्पियर",
+          "4 एम्पियर",
+          "0.1 एम्पियर"
+        ],
+        "en": [
+          "1.6 A",
+          "0.4 A",
+          "4 A",
+          "0.1 A"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "Q = 10^19 × 1.6 × 10^-19 = 1.6 कूलॉम; I = 1.6/4 = 0.4 एम्पियर।",
+        "en": "Q = 10^19 × 1.6 × 10^-19 = 1.6 C; I = 1.6/4 = 0.4 A."
+      }
+    },
+    {
+      "id": "phy9_q143",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "5 × 10^18 इलेक्ट्रॉनों का कुल आवेश कितना होगा?",
+        "en": "What is the total charge of 5 × 10^18 electrons?"
+      },
+      "options": {
+        "hi": [
+          "0.08 कूलॉम",
+          "1.6 कूलॉम",
+          "0.8 कूलॉम",
+          "8 कूलॉम"
+        ],
+        "en": [
+          "0.08 C",
+          "1.6 C",
+          "0.8 C",
+          "8 C"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "Q = 5 × 10^18 × 1.6 × 10^-19 = 0.8 कूलॉम।",
+        "en": "Q = 5 × 10^18 × 1.6 × 10^-19 = 0.8 C."
+      }
+    },
+    {
+      "id": "phy9_q144",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "250 मिलीएम्पियर धारा 4 सेकंड तक बहती है। प्रवाहित आवेश निकालिए।",
+        "en": "A current of 250 mA flows for 4 s. Find the charge passed."
+      },
+      "options": {
+        "hi": [
+          "1000 कूलॉम",
+          "0.25 कूलॉम",
+          "4 कूलॉम",
+          "1 कूलॉम"
+        ],
+        "en": [
+          "1000 C",
+          "0.25 C",
+          "4 C",
+          "1 C"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "250 mA = 0.25 A; Q = 0.25 × 4 = 1 कूलॉम।",
+        "en": "250 mA = 0.25 A; Q = 0.25 × 4 = 1 C."
+      }
+    },
+    {
+      "id": "phy9_q145",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "रबर की छड़ को ऊनी कपड़े से रगड़ने पर आवेश आता है, पर वह 'धारा' नहीं। क्यों?",
+        "en": "Rubbing a rubber rod with wool produces charge, but no 'current'. Why?"
+      },
+      "options": {
+        "hi": [
+          "धारा आवेश का निरंतर प्रवाह है; रगड़ने से केवल स्थैतिक आवेश जमा होता है, प्रवाह नहीं",
+          "आवेश बहुत कम होता है",
+          "रबर में इलेक्ट्रॉन नहीं होते",
+          "ऊन आवेश सोख लेता है"
+        ],
+        "en": [
+          "Current requires a continuous flow; rubbing only piles up static charge",
+          "The charge is too small",
+          "Rubber has no electrons",
+          "Wool absorbs the charge"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "स्थैतिक आवेश स्थानीय वितरण है; धारा के लिए बंद पथ में निरंतर प्रवाह चाहिए।",
+        "en": "Static charge is a local accumulation; current needs continuous flow in a closed path."
+      }
+    },
+    {
+      "id": "phy9_q146",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि अमीटर को गलती से समान्तर क्रम में जोड़ दिया जाए तो क्या होगा?",
+        "en": "What happens if an ammeter is wrongly connected in parallel?"
+      },
+      "options": {
+        "hi": [
+          "परिपथ की धारा शून्य हो जाती है",
+          "उसके अत्यल्प प्रतिरोध से परिपथ लगभग लघुपथ हो जाता है — बड़ी धारा अमीटर को नुकसान पहुँचा सकती है",
+          "कुछ नहीं होता, पाठ्यांक सही रहता है",
+          "अमीटर वोल्टेज दिखाने लगता है"
+        ],
+        "en": [
+          "The circuit current becomes zero",
+          "Its very low resistance nearly short-circuits the path — a large current can damage the ammeter",
+          "Nothing happens; the reading stays correct",
+          "The ammeter starts showing voltage"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "अमीटर सदैव श्रेणी में; समान्तर में उसका न्यून प्रतिरोध खतरनाक रूप से बड़ी धारा खींचता है।",
+        "en": "An ammeter belongs in series; in parallel its low resistance draws dangerously large current."
+      }
+    },
+    {
+      "id": "phy9_q147",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "वोल्टमीटर को गलती से श्रेणी क्रम में जोड़ दिया जाए तो परिपथ का क्या होगा?",
+        "en": "What happens to the circuit if a voltmeter is wrongly connected in series?"
+      },
+      "options": {
+        "hi": [
+          "वोल्टमीटर जल जाता है",
+          "कोई अंतर नहीं पड़ता",
+          "उसके अत्यधिक प्रतिरोध से धारा लगभग शून्य हो जाती है — बल्ब नहीं जलता",
+          "धारा बहुत बढ़ जाती है"
+        ],
+        "en": [
+          "The voltmeter burns out",
+          "It makes no difference",
+          "Its very high resistance makes the current almost zero — the bulb will not glow",
+          "The current rises greatly"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "वोल्टमीटर का उच्च प्रतिरोध श्रेणी में परिपथ को लगभग खुला बना देता है।",
+        "en": "In series, a voltmeter's high resistance almost opens the circuit."
+      }
+    },
+    {
+      "id": "phy9_q148",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "0.25 एम्पियर धारा 2 मिनट तक बहती है। कितने इलेक्ट्रॉन बहे?",
+        "en": "A current of 0.25 A flows for 2 minutes. How many electrons pass?"
+      },
+      "options": {
+        "hi": [
+          "1.875 × 10^19",
+          "30 × 10^19",
+          "5 × 10^18",
+          "1.875 × 10^20"
+        ],
+        "en": [
+          "1.875 × 10^19",
+          "30 × 10^19",
+          "5 × 10^18",
+          "1.875 × 10^20"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "Q = 0.25 × 120 = 30 कूलॉम; n = 30 ÷ (1.6 × 10^-19) = 1.875 × 10^20।",
+        "en": "Q = 0.25 × 120 = 30 C; n = 30 ÷ (1.6 × 10^-19) = 1.875 × 10^20."
+      }
+    },
+    {
+      "id": "phy9_q149",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक परिपथ में बल्ब जल रहा था, अचानक बुझ गया; सेल नई है। सबसे संभावित कारण क्या है?",
+        "en": "A glowing bulb suddenly goes off; the cell is new. What is the most likely cause?"
+      },
+      "options": {
+        "hi": [
+          "परिपथ कहीं टूट गया — जैसे फिलामेंट टूटना या संपर्क ढीला होना",
+          "सेल का आवेश खत्म",
+          "धारा का मान बढ़ गया",
+          "तार का प्रतिरोध शून्य हो गया"
+        ],
+        "en": [
+          "The circuit broke somewhere — a snapped filament or a loose contact",
+          "The cell ran out of charge",
+          "The current value increased",
+          "The wire's resistance became zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नई सेल के साथ अचानक बुझना खुले परिपथ का संकेत है।",
+        "en": "With a fresh cell, sudden failure indicates an open circuit."
+      }
+    },
+    {
+      "id": "phy9_q150",
+      "topic": "charge-and-current",
+      "difficulty": "hard",
+      "question": {
+        "hi": "अमीटर शून्य पाठ्यांक दिखा रहा है। इसके संभावित कारणों में से कौन-सा नहीं है?",
+        "en": "An ammeter reads zero. Which of these is NOT a possible cause?"
+      },
+      "options": {
+        "hi": [
+          "संपर्क तार ढीला होना",
+          "परिपथ पूर्ण और बंद होना",
+          "फ्यूज़ पिघल गया होना",
+          "स्विच खुला होना"
+        ],
+        "en": [
+          "A loose connecting wire",
+          "The circuit being complete and closed",
+          "A blown fuse",
+          "An open switch"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "पूर्ण बंद परिपथ में धारा बहती है — पाठ्यांक शून्य नहीं होगा; शेष तीनों धारा रोकते हैं।",
+        "en": "A complete closed circuit carries current — the reading would not be zero; the other three stop it."
+      }
+    },
+    {
+      "id": "phy9_q151",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विभवांतर (वोल्टेज) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of potential difference (voltage)?"
+      },
+      "options": {
+        "hi": [
+          "ओम (Ω)",
+          "वाट (W)",
+          "वोल्ट (V)",
+          "एम्पियर (A)"
+        ],
+        "en": [
+          "Ohm (Ω)",
+          "Watt (W)",
+          "Volt (V)",
+          "Ampere (A)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "विभवांतर वोल्ट में मापा जाता है।",
+        "en": "Potential difference is measured in volts."
+      }
+    },
+    {
+      "id": "phy9_q152",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विभवांतर मापने का यंत्र कौन-सा है?",
+        "en": "Which instrument measures potential difference?"
+      },
+      "options": {
+        "hi": [
+          "अमीटर",
+          "स्टॉपवॉच",
+          "थर्मामीटर",
+          "वोल्टमीटर"
+        ],
+        "en": [
+          "Ammeter",
+          "Stopwatch",
+          "Thermometer",
+          "Voltmeter"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वोल्टमीटर किसी अवयव के सिरों का विभवांतर बताता है।",
+        "en": "A voltmeter reads the potential difference across a component."
+      }
+    },
+    {
+      "id": "phy9_q153",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "वोल्टमीटर को परिपथ में किस प्रकार जोड़ा जाता है?",
+        "en": "How is a voltmeter connected in a circuit?"
+      },
+      "options": {
+        "hi": [
+          "जिस अवयव को मापना है उसके समान्तर में",
+          "श्रेणी क्रम में",
+          "बैटरी के भीतर",
+          "स्विच के साथ श्रेणी में"
+        ],
+        "en": [
+          "In parallel with the component being measured",
+          "In series",
+          "Inside the battery",
+          "In series with the switch"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "वोल्टमीटर समान्तर में जुड़ता है — यही परीक्षा-प्रश्न है।",
+        "en": "A voltmeter is connected in parallel — a classic exam point."
+      }
+    },
+    {
+      "id": "phy9_q154",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओम के नियम का कथन क्या है?",
+        "en": "What does Ohm's law state?"
+      },
+      "options": {
+        "hi": [
+          "शक्ति धारा के समानुपाती होती है",
+          "नियत ताप पर विभवांतर धारा के अनुक्रमानुपाती होता है",
+          "विभवांतर धारा के व्युत्क्रमानुपाती होता है",
+          "धारा आवेश के समानुपाती होती है"
+        ],
+        "en": [
+          "Power is proportional to current",
+          "At constant temperature, potential difference is proportional to current",
+          "Potential difference is inversely proportional to current",
+          "Current is proportional to charge"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "V ∝ I (नियत ताप) ⇒ V = IR — यही ओम का नियम है।",
+        "en": "V ∝ I (constant temperature) ⇒ V = IR — that is Ohm's law."
+      }
+    },
+    {
+      "id": "phy9_q155",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओम का नियम किस वैज्ञानिक ने दिया?",
+        "en": "Which scientist gave Ohm's law?"
+      },
+      "options": {
+        "hi": [
+          "माइकल फैराडे",
+          "जेम्स वाट",
+          "जॉर्ज साइमन ओम",
+          "थॉमस एडिसन"
+        ],
+        "en": [
+          "Michael Faraday",
+          "James Watt",
+          "Georg Simon Ohm",
+          "Thomas Edison"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "जर्मन भौतिक विज्ञानी जॉर्ज साइमन ओम ने 1827 में यह नियम दिया।",
+        "en": "The German physicist Georg Simon Ohm gave this law in 1827."
+      }
+    },
+    {
+      "id": "phy9_q156",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओम के नियम का सूत्ररूप क्या है?",
+        "en": "What is the formula form of Ohm's law?"
+      },
+      "options": {
+        "hi": [
+          "V = I/R",
+          "I = VR",
+          "R = VI",
+          "V = IR"
+        ],
+        "en": [
+          "V = I/R",
+          "I = VR",
+          "R = VI",
+          "V = IR"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "V = IR — तीनों राशियों में से कोई भी दो ज्ञात होने पर तीसरी निकल जाती है।",
+        "en": "V = IR — any two known quantities give the third."
+      }
+    },
+    {
+      "id": "phy9_q157",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 वोल्ट की परिभाषा क्या है?",
+        "en": "How is one volt defined?"
+      },
+      "options": {
+        "hi": [
+          "प्रति कूलॉम आवेश पर 1 जूल कार्य करने वाला विभवांतर",
+          "प्रति सेकंड 1 कूलॉम आवेश",
+          "प्रति सेकंड 1 जूल शक्ति",
+          "1 ओम प्रतिरोध"
+        ],
+        "en": [
+          "The potential difference doing 1 joule of work per coulomb",
+          "1 coulomb per second",
+          "1 joule per second of power",
+          "A resistance of 1 ohm"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "V = W/Q — 1 जूल प्रति कूलॉम = 1 वोल्ट।",
+        "en": "V = W/Q — 1 joule per coulomb = 1 volt."
+      }
+    },
+    {
+      "id": "phy9_q158",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 ओम प्रतिरोध की परिभाषा क्या है?",
+        "en": "How is a resistance of 1 ohm defined?"
+      },
+      "options": {
+        "hi": [
+          "प्रति मीटर प्रतिरोध का मात्रक",
+          "यदि 1 वोल्ट विभवांतर पर 1 एम्पियर धारा बहे",
+          "यदि 1 वोल्ट पर शून्य धारा बहे",
+          "यदि 2 वोल्ट पर 1 एम्पियर बहे"
+        ],
+        "en": [
+          "The unit of resistance per metre",
+          "When 1 volt of potential difference drives 1 ampere of current",
+          "When 1 volt drives zero current",
+          "When 2 volts drive 1 ampere"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "R = V/I = 1 V / 1 A = 1 Ω।",
+        "en": "R = V/I = 1 V / 1 A = 1 Ω."
+      }
+    },
+    {
+      "id": "phy9_q159",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओम के नियम का पालन करने वाले चालक का V-I आलेख कैसा होता है?",
+        "en": "What does the V-I graph of an ohmic conductor look like?"
+      },
+      "options": {
+        "hi": [
+          "वृत्त",
+          "अनियमित बिंदु",
+          "मूल बिंदु से गुज़रती सीधी रेखा",
+          "वक्र"
+        ],
+        "en": [
+          "A circle",
+          "Scattered points",
+          "A straight line through the origin",
+          "A curve"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "V ∝ I सीधी रेखा देता है; ढाल से प्रतिरोध मिलता है।",
+        "en": "V ∝ I gives a straight line; its slope yields resistance."
+      }
+    },
+    {
+      "id": "phy9_q160",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "2 एम्पियर धारा 5 ओम प्रतिरोध में बहती है। विभवांतर निकालिए।",
+        "en": "A current of 2 A flows through a 5 Ω resistor. Find the potential difference."
+      },
+      "options": {
+        "hi": [
+          "2.5 वोल्ट",
+          "7 वोल्ट",
+          "0.4 वोल्ट",
+          "10 वोल्ट"
+        ],
+        "en": [
+          "2.5 V",
+          "7 V",
+          "0.4 V",
+          "10 V"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "V = IR = 2 × 5 = 10 वोल्ट।",
+        "en": "V = IR = 2 × 5 = 10 V."
+      }
+    },
+    {
+      "id": "phy9_q161",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "12 वोल्ट के स्रोत से 4 ओम का प्रतिरोध जुड़ा है। धारा निकालिए।",
+        "en": "A 4 Ω resistor is connected to a 12 V source. Find the current."
+      },
+      "options": {
+        "hi": [
+          "3 एम्पियर",
+          "48 एम्पियर",
+          "0.33 एम्पियर",
+          "8 एम्पियर"
+        ],
+        "en": [
+          "3 A",
+          "48 A",
+          "0.33 A",
+          "8 A"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "I = V/R = 12/4 = 3 एम्पियर।",
+        "en": "I = V/R = 12/4 = 3 A."
+      }
+    },
+    {
+      "id": "phy9_q162",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी चालक पर 9 वोल्ट विभवांतर पर 3 एम्पियर धारा बहती है। प्रतिरोध निकालिए।",
+        "en": "A conductor carries 3 A when 9 V is applied. Find its resistance."
+      },
+      "options": {
+        "hi": [
+          "6 ओम",
+          "3 ओम",
+          "27 ओम",
+          "0.33 ओम"
+        ],
+        "en": [
+          "6 Ω",
+          "3 Ω",
+          "27 Ω",
+          "0.33 Ω"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "R = V/I = 9/3 = 3 ओम।",
+        "en": "R = V/I = 9/3 = 3 Ω."
+      }
+    },
+    {
+      "id": "phy9_q163",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "रोस्टैट (रिओस्टैट) किसे कहते हैं?",
+        "en": "What is a rheostat?"
+      },
+      "options": {
+        "hi": [
+          "वोल्टेज मापने का यंत्र",
+          "एक प्रकार का सेल",
+          "परिवर्ती (समायोज्य) प्रतिरोध",
+          "धारा मापने का यंत्र"
+        ],
+        "en": [
+          "A voltage-measuring instrument",
+          "A type of cell",
+          "A variable (adjustable) resistance",
+          "A current-measuring instrument"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रोस्टैट परिपथ में प्रतिरोध घटाना-बढ़ाने की सुविधा देता है, जिससे धारा नियंत्रित होती है।",
+        "en": "A rheostat lets us increase or decrease resistance, thereby controlling the current."
+      }
+    },
+    {
+      "id": "phy9_q164",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "परिपथ में सेल की भूमिका क्या है?",
+        "en": "What is the role of a cell in a circuit?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिरोध पैदा करना",
+          "धारा को मापना",
+          "परिपथ को तोड़ना",
+          "दोनों टर्मिनलों के बीच विभवांतर बनाए रखना"
+        ],
+        "en": [
+          "To create resistance",
+          "To measure current",
+          "To break the circuit",
+          "To maintain a potential difference between its terminals"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "विभवांतर ही धारा के प्रवाह का कारण है।",
+        "en": "The potential difference is what drives the current."
+      }
+    },
+    {
+      "id": "phy9_q165",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिरोध नियत रखने पर विभवांतर दोगुना करने पर धारा का क्या होगा?",
+        "en": "With resistance fixed, what happens to the current if the potential difference is doubled?"
+      },
+      "options": {
+        "hi": [
+          "दोगुनी हो जाती है",
+          "आधी हो जाती है",
+          "अपरिवर्तित रहती है",
+          "चार गुनी हो जाती है"
+        ],
+        "en": [
+          "It doubles",
+          "It halves",
+          "It stays the same",
+          "It becomes four times"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "I = V/R — V दोगुना और R स्थिर ⇒ I दोगुनी।",
+        "en": "I = V/R — double V at constant R ⇒ double I."
+      }
+    },
+    {
+      "id": "phy9_q166",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1.5 वोल्ट के सेल का क्या अर्थ है?",
+        "en": "What does a 1.5 V cell mean?"
+      },
+      "options": {
+        "hi": [
+          "सेल 1.5 कूलॉम आवेश रखती है",
+          "प्रत्येक कूलॉम आवेश को स्थानांतरित करने पर सेल 1.5 जूल कार्य करती है",
+          "सेल 1.5 एम्पियर धारा देती है",
+          "सेल का प्रतिरोध 1.5 ओम है"
+        ],
+        "en": [
+          "The cell stores 1.5 C of charge",
+          "The cell does 1.5 joules of work per coulomb of charge transferred",
+          "The cell supplies 1.5 A of current",
+          "The cell's resistance is 1.5 Ω"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1.5 V = 1.5 जूल प्रति कूलॉम।",
+        "en": "1.5 V = 1.5 joules per coulomb."
+      }
+    },
+    {
+      "id": "phy9_q167",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "बल्ब में विद्युत ऊर्जा किस रूप में बदलती है?",
+        "en": "Into what forms is electrical energy converted in a bulb?"
+      },
+      "options": {
+        "hi": [
+          "रासायनिक ऊर्जा",
+          "यांत्रिक ऊर्जा",
+          "प्रकाश और ऊष्मा",
+          "केवल ध्वनि"
+        ],
+        "en": [
+          "Chemical energy",
+          "Mechanical energy",
+          "Light and heat",
+          "Only sound"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बल्ब विद्युत ऊर्जा को प्रकाश एवं ऊष्मा में बदलता है।",
+        "en": "A bulb converts electrical energy into light and heat."
+      }
+    },
+    {
+      "id": "phy9_q168",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1.5 वोल्ट के चार सेल श्रेणी क्रम में जोड़ें, तो कुल विभवांतर कितना होगा?",
+        "en": "Four cells of 1.5 V each are joined in series. What is the total potential difference?"
+      },
+      "options": {
+        "hi": [
+          "1.5 वोल्ट",
+          "3 वोल्ट",
+          "0.375 वोल्ट",
+          "6 वोल्ट"
+        ],
+        "en": [
+          "1.5 V",
+          "3 V",
+          "0.375 V",
+          "6 V"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "श्रेणी में विभवांतर जुड़ते हैं: 4 × 1.5 = 6 वोल्ट।",
+        "en": "In series the voltages add: 4 × 1.5 = 6 V."
+      }
+    },
+    {
+      "id": "phy9_q169",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से ओम के नियम का सही संबंध चुनिए।",
+        "en": "Choose the correct relation from the following (Ohm's law)."
+      },
+      "options": {
+        "hi": [
+          "I = V/R",
+          "I = VR",
+          "V = I/R",
+          "R = I/V"
+        ],
+        "en": [
+          "I = V/R",
+          "I = VR",
+          "V = I/R",
+          "R = I/V"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "V = IR से I = V/R और R = V/I प्राप्त होते हैं।",
+        "en": "From V = IR we get I = V/R and R = V/I."
+      }
+    },
+    {
+      "id": "phy9_q170",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ओम का नियम किस शर्त पर लागू रहता है?",
+        "en": "Under what condition does Ohm's law hold?"
+      },
+      "options": {
+        "hi": [
+          "केवल गैसों के लिए",
+          "नियत ताप पर",
+          "बदलते ताप पर",
+          "किसी भी स्थिति में सदैव"
+        ],
+        "en": [
+          "Only for gases",
+          "At constant temperature",
+          "At varying temperature",
+          "Always, in every situation"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ताप बदलने पर प्रतिरोध बदल जाता है और V-I अनुपात स्थिर नहीं रहता।",
+        "en": "A change of temperature alters resistance, so the V-I ratio no longer stays fixed."
+      }
+    },
+    {
+      "id": "phy9_q171",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 कूलॉम आवेश को स्थानांतरित करने में 20 जूल कार्य होता है। विभवांतर निकालिए।",
+        "en": "20 J of work is done in moving 5 C of charge. Find the potential difference."
+      },
+      "options": {
+        "hi": [
+          "0.25 वोल्ट",
+          "25 वोल्ट",
+          "4 वोल्ट",
+          "100 वोल्ट"
+        ],
+        "en": [
+          "0.25 V",
+          "25 V",
+          "4 V",
+          "100 V"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "V = W/Q = 20/5 = 4 वोल्ट।",
+        "en": "V = W/Q = 20/5 = 4 V."
+      }
+    },
+    {
+      "id": "phy9_q172",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "12 वोल्ट की बैटरी 50 कूलॉम आवेश को एक बिंदु से दूसरे बिंदु तक ले जाती है। किया गया कार्य निकालिए।",
+        "en": "A 12 V battery moves 50 C of charge between two points. Find the work done."
+      },
+      "options": {
+        "hi": [
+          "4.2 जूल",
+          "62 जूल",
+          "12 जूल",
+          "600 जूल"
+        ],
+        "en": [
+          "4.2 J",
+          "62 J",
+          "12 J",
+          "600 J"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "W = V × Q = 12 × 50 = 600 जूल।",
+        "en": "W = V × Q = 12 × 50 = 600 J."
+      }
+    },
+    {
+      "id": "phy9_q173",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 ओम के प्रतिरोध में 0.5 एम्पियर धारा बह रही है। सिरों पर विभवांतर कितना है?",
+        "en": "A current of 0.5 A flows through a 10 Ω resistor. What is the PD across it?"
+      },
+      "options": {
+        "hi": [
+          "5 वोल्ट",
+          "20 वोल्ट",
+          "0.05 वोल्ट",
+          "10 वोल्ट"
+        ],
+        "en": [
+          "5 V",
+          "20 V",
+          "0.05 V",
+          "10 V"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "V = IR = 10 × 0.5 = 5 वोल्ट।",
+        "en": "V = IR = 10 × 0.5 = 5 V."
+      }
+    },
+    {
+      "id": "phy9_q174",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "220 वोल्ट विभवांतर पर 110 ओम का प्रतिरोध जुड़ा है। धारा निकालिए।",
+        "en": "A 110 Ω resistor is connected across 220 V. Find the current."
+      },
+      "options": {
+        "hi": [
+          "110 एम्पियर",
+          "2 एम्पियर",
+          "0.5 एम्पियर",
+          "24200 एम्पियर"
+        ],
+        "en": [
+          "110 A",
+          "2 A",
+          "0.5 A",
+          "24200 A"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "I = V/R = 220/110 = 2 एम्पियर।",
+        "en": "I = V/R = 220/110 = 2 A."
+      }
+    },
+    {
+      "id": "phy9_q175",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी बल्ब पर 220 वोल्ट लगाने पर 0.4 एम्पियर धारा बहती है। बल्ब का प्रतिरोध निकालिए।",
+        "en": "A bulb draws 0.4 A at 220 V. Find the resistance of the bulb."
+      },
+      "options": {
+        "hi": [
+          "0.0018 ओम",
+          "220.4 ओम",
+          "550 ओम",
+          "88 ओम"
+        ],
+        "en": [
+          "0.0018 Ω",
+          "220.4 Ω",
+          "550 Ω",
+          "88 Ω"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "R = V/I = 220/0.4 = 550 ओम।",
+        "en": "R = V/I = 220/0.4 = 550 Ω."
+      }
+    },
+    {
+      "id": "phy9_q176",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "220 वोल्ट के मेन से 11 ओम का तापक (हीटर) जुड़ा है। धारा कितनी बहेगी?",
+        "en": "An 11 Ω heater is connected to a 220 V mains. How much current flows?"
+      },
+      "options": {
+        "hi": [
+          "11 एम्पियर",
+          "231 एम्पियर",
+          "0.05 एम्पियर",
+          "20 एम्पियर"
+        ],
+        "en": [
+          "11 A",
+          "231 A",
+          "0.05 A",
+          "20 A"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "I = 220/11 = 20 एम्पियर।",
+        "en": "I = 220/11 = 20 A."
+      }
+    },
+    {
+      "id": "phy9_q177",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "रोस्टैट से प्रतिरोध घटाने पर बल्ब की चमक क्यों बढ़ती है?",
+        "en": "Why does a bulb glow brighter when the rheostat resistance is reduced?"
+      },
+      "options": {
+        "hi": [
+          "परिपथ का कुल प्रतिरोध घटता है, इसलिए I = V/R से धारा बढ़ जाती है",
+          "बैटरी का वोल्टेज बढ़ जाता है",
+          "बल्ब का अपना प्रतिरोध घटता है",
+          "आवेश की मात्रा बढ़ती है"
+        ],
+        "en": [
+          "Total resistance falls, so I = V/R gives a larger current",
+          "The battery voltage rises",
+          "The bulb's own resistance falls",
+          "The amount of charge increases"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "नियत V पर R घटने से I बढ़ती है — बल्ब अधिक ऊर्जा लेता है।",
+        "en": "At fixed V, lower R means larger I — the bulb draws more energy."
+      }
+    },
+    {
+      "id": "phy9_q178",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "V-I आलेख की ढाल (स्लोप) क्या बताती है?",
+        "en": "What does the slope of a V-I graph indicate?"
+      },
+      "options": {
+        "hi": [
+          "आवेश का मान",
+          "चालक का प्रतिरोध",
+          "चालक की धारा",
+          "चालक की शक्ति"
+        ],
+        "en": [
+          "The value of charge",
+          "The resistance of the conductor",
+          "The current of the conductor",
+          "The power of the conductor"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "ढाल = V/I = R; अधिक खड़ी रेखा का अर्थ अधिक प्रतिरोध।",
+        "en": "Slope = V/I = R; a steeper line means higher resistance."
+      }
+    },
+    {
+      "id": "phy9_q179",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक चालक के लिए V-I पाठ्यांक 3 V-1 A, 6 V-2 A, 9 V-3 A हैं। प्रतिरोध कितना है और क्या यह ओम के नियम का पालन करता है?",
+        "en": "For a conductor the V-I readings are 3 V-1 A, 6 V-2 A, 9 V-3 A. What is the resistance, and does it obey Ohm's law?"
+      },
+      "options": {
+        "hi": [
+          "1 ओम — नहीं",
+          "3 ओम — नहीं, अनुपात बदलता है",
+          "3 ओम — हाँ, V/I स्थिर है",
+          "9 ओम — नहीं"
+        ],
+        "en": [
+          "1 Ω — no",
+          "3 Ω — no, the ratio changes",
+          "3 Ω — yes, V/I is constant",
+          "9 Ω — no"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "हर पठन में V/I = 3 स्थिर — ओम के नियम का पालन, R = 3 ओम।",
+        "en": "V/I = 3 in every reading — Ohm's law holds with R = 3 Ω."
+      }
+    },
+    {
+      "id": "phy9_q180",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "6 वोल्ट विभवांतर और 8 ओम प्रतिरोध पर धारा कितनी होगी?",
+        "en": "What is the current with a 6 V potential difference and 8 Ω resistance?"
+      },
+      "options": {
+        "hi": [
+          "1.33 एम्पियर",
+          "48 एम्पियर",
+          "2 एम्पियर",
+          "0.75 एम्पियर"
+        ],
+        "en": [
+          "1.33 A",
+          "48 A",
+          "2 A",
+          "0.75 A"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "I = 6/8 = 0.75 एम्पियर।",
+        "en": "I = 6/8 = 0.75 A."
+      }
+    },
+    {
+      "id": "phy9_q181",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "किसी चालक पर 6 वोल्ट पर अमीटर 300 मिलीएम्पियर दिखाता है। प्रतिरोध निकालिए।",
+        "en": "An ammeter reads 300 mA across a 6 V conductor. Find the resistance."
+      },
+      "options": {
+        "hi": [
+          "20 ओम",
+          "0.05 ओम",
+          "1800 ओम",
+          "50 ओम"
+        ],
+        "en": [
+          "20 Ω",
+          "0.05 Ω",
+          "1800 Ω",
+          "50 Ω"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "300 mA = 0.3 A; R = 6/0.3 = 20 ओम।",
+        "en": "300 mA = 0.3 A; R = 6/0.3 = 20 Ω."
+      }
+    },
+    {
+      "id": "phy9_q182",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो समान 1.5 वोल्ट सेल समान्तर क्रम में जोड़े गए हैं। कुल विभवांतर कितना रहेगा?",
+        "en": "Two identical 1.5 V cells are connected in parallel. What is the total PD?"
+      },
+      "options": {
+        "hi": [
+          "6 वोल्ट",
+          "1.5 वोल्ट ही — समान्तर में वोल्टेज नहीं बढ़ता",
+          "3 वोल्ट",
+          "0.75 वोल्ट"
+        ],
+        "en": [
+          "6 V",
+          "Still 1.5 V — parallel connection does not raise the voltage",
+          "3 V",
+          "0.75 V"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समान्तर में सेलों का विभवांतर समान रहता है; श्रेणी में ही वह जुड़ता है।",
+        "en": "In parallel the cell voltage stays the same; only in series does it add."
+      }
+    },
+    {
+      "id": "phy9_q183",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "प्रतिरोध नियत हो तो धारा आधी करने के लिए विभवांतर का क्या करना होगा?",
+        "en": "With resistance fixed, what must be done to the PD to halve the current?"
+      },
+      "options": {
+        "hi": [
+          "चार गुना करना होगा",
+          "कुछ नहीं करना होगा",
+          "आधा करना होगा",
+          "दोगुना करना होगा"
+        ],
+        "en": [
+          "It must be quadrupled",
+          "Nothing needs to be done",
+          "It must be halved",
+          "It must be doubled"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "I ∝ V (R स्थिर) — I आधी चाहिए तो V आधा।",
+        "en": "I ∝ V (fixed R) — halve V to halve I."
+      }
+    },
+    {
+      "id": "phy9_q184",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "बल्ब के सिरों पर वोल्टमीटर जोड़ने पर वह क्या पढ़ता है?",
+        "en": "What does a voltmeter connected across the terminals of a bulb read?"
+      },
+      "options": {
+        "hi": [
+          "परिपथ की कुल धारा",
+          "बल्ब की शक्ति",
+          "बैटरी का आंतरिक प्रतिरोध",
+          "बल्ब के सिरों का विभवांतर"
+        ],
+        "en": [
+          "The total circuit current",
+          "The bulb's power",
+          "The battery's internal resistance",
+          "The potential difference across the bulb"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समान्तर में जुड़ा वोल्टमीटर उसी अवयव का विभवांतर दर्शाता है।",
+        "en": "A voltmeter in parallel reads the PD of that very component."
+      }
+    },
+    {
+      "id": "phy9_q185",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो अवयवों पर समान विभवांतर है, परंतु उनके प्रतिरोध भिन्न हैं। किसमें अधिक धारा बहेगी?",
+        "en": "Two components have the same PD across them but different resistances. Which carries more current?"
+      },
+      "options": {
+        "hi": [
+          "जिसका प्रतिरोध कम है",
+          "जिसका प्रतिरोध अधिक है",
+          "दोनों में समान",
+          "निर्भर नहीं करता"
+        ],
+        "en": [
+          "The one with lower resistance",
+          "The one with higher resistance",
+          "Equal in both",
+          "It does not depend on resistance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "I = V/R — समान V पर कम R वाले में धारा अधिक।",
+        "en": "I = V/R — at the same V, the lower-R device passes more current."
+      }
+    },
+    {
+      "id": "phy9_q186",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "12 वोल्ट की बैटरी से जुड़े परिपथ में अमीटर 4 एम्पियर दिखाता है। परिपथ का कुल प्रतिरोध निकालिए।",
+        "en": "In a circuit on a 12 V battery the ammeter reads 4 A. Find the total circuit resistance."
+      },
+      "options": {
+        "hi": [
+          "8 ओम",
+          "3 ओम",
+          "48 ओम",
+          "0.33 ओम"
+        ],
+        "en": [
+          "8 Ω",
+          "3 Ω",
+          "48 Ω",
+          "0.33 Ω"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "R = V/I = 12/4 = 3 ओम।",
+        "en": "R = V/I = 12/4 = 3 Ω."
+      }
+    },
+    {
+      "id": "phy9_q187",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 किलो-ओम प्रतिरोध ओम में कितना होता है?",
+        "en": "How many ohms are there in 2 kilo-ohm?"
+      },
+      "options": {
+        "hi": [
+          "2 × 10^6 ओम",
+          "200 ओम",
+          "2000 ओम",
+          "0.002 ओम"
+        ],
+        "en": [
+          "2 × 10^6 Ω",
+          "200 Ω",
+          "2000 Ω",
+          "0.002 Ω"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1 kΩ = 1000 Ω; 3 MΩ = 3 × 10^6 Ω के भाँति उपसर्ग लगाकर बदला जाता है।",
+        "en": "1 kΩ = 1000 Ω; prefixes convert similarly, e.g. 3 MΩ = 3 × 10^6 Ω."
+      }
+    },
+    {
+      "id": "phy9_q188",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि किसी परिपथ में प्रतिरोध लगभग शून्य हो जाए तो क्या खतरा है?",
+        "en": "What is the danger if a circuit's resistance becomes almost zero?"
+      },
+      "options": {
+        "hi": [
+          "धारा शून्य हो जाती है",
+          "कोई खतरा नहीं",
+          "वोल्टेज शून्य हो जाता है",
+          "अत्यधिक धारा बहती है — लघुपथ (शॉर्ट सर्किट) की स्थिति"
+        ],
+        "en": [
+          "The current becomes zero",
+          "There is no danger",
+          "The voltage becomes zero",
+          "A very large current flows — a short-circuit condition"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "I = V/R में R शून्य के पास ⇒ I अत्यंत बड़ी — तार गर्म, आग का खतरा।",
+        "en": "In I = V/R, R near zero ⇒ enormous I — overheated wires and fire risk."
+      }
+    },
+    {
+      "id": "phy9_q189",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "8 ओम के प्रतिरोध में 0.25 एम्पियर धारा बह रही है। विभवांतर निकालिए।",
+        "en": "A current of 0.25 A flows through an 8 Ω resistor. Find the PD."
+      },
+      "options": {
+        "hi": [
+          "2 वोल्ट",
+          "32 वोल्ट",
+          "0.03 वोल्ट",
+          "8.25 वोल्ट"
+        ],
+        "en": [
+          "2 V",
+          "32 V",
+          "0.03 V",
+          "8.25 V"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "V = IR = 8 × 0.25 = 2 वोल्ट।",
+        "en": "V = IR = 8 × 0.25 = 2 V."
+      }
+    },
+    {
+      "id": "phy9_q190",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "व्यवहार में सेलों को श्रेणी क्रम में जोड़ने का मुख्य कारण क्या है?",
+        "en": "What is the main practical reason for connecting cells in series?"
+      },
+      "options": {
+        "hi": [
+          "वोल्टेज घटाने के लिए",
+          "अधिक विभवांतर (वोल्टेज) प्राप्त करने के लिए",
+          "धारा घटाने के लिए",
+          "प्रतिरोध घटाने के लिए"
+        ],
+        "en": [
+          "To lower the voltage",
+          "To obtain a higher potential difference (voltage)",
+          "To reduce the current",
+          "To reduce resistance"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "टॉर्च की दो 1.5 V सेल श्रेणी में जुड़कर 3 V देती हैं।",
+        "en": "Two 1.5 V torch cells in series give 3 V."
+      }
+    },
+    {
+      "id": "phy9_q191",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक प्रयोग में V दोगुना करने पर I भी ठीक दोगुना मिला। इसका क्या निष्कर्ष है?",
+        "en": "In an experiment, doubling V exactly doubled I. What is the conclusion?"
+      },
+      "options": {
+        "hi": [
+          "प्रतिरोध बदल गया",
+          "ताप बढ़ गया",
+          "चालक ओमीय है और उसका प्रतिरोध स्थिर रहा",
+          "चालक ओम का नियम तोड़ता है"
+        ],
+        "en": [
+          "The resistance changed",
+          "The temperature rose",
+          "The conductor is ohmic and its resistance stayed constant",
+          "The conductor violates Ohm's law"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "V-I अनुक्रमानुपाती संबंध स्थिर R का संकेत है।",
+        "en": "A proportional V-I relation signals a constant R."
+      }
+    },
+    {
+      "id": "phy9_q192",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "20 कूलॉम आवेश स्थानांतरित करने में 50 जूल कार्य हुआ। विभवांतर निकालिए।",
+        "en": "50 J of work is done in transferring 20 C of charge. Find the potential difference."
+      },
+      "options": {
+        "hi": [
+          "0.4 वोल्ट",
+          "1000 वोल्ट",
+          "30 वोल्ट",
+          "2.5 वोल्ट"
+        ],
+        "en": [
+          "0.4 V",
+          "1000 V",
+          "30 V",
+          "2.5 V"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "V = W/Q = 50/20 = 2.5 वोल्ट।",
+        "en": "V = W/Q = 50/20 = 2.5 V."
+      }
+    },
+    {
+      "id": "phy9_q193",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "6 वोल्ट की बैटरी कुल 120 जूल ऊर्जा देती है। बहने वाला कुल आवेश कितना था?",
+        "en": "A 6 V battery delivers 120 J of energy in all. What total charge flowed?"
+      },
+      "options": {
+        "hi": [
+          "20 कूलॉम",
+          "720 कूलॉम",
+          "0.05 कूलॉम",
+          "114 कूलॉम"
+        ],
+        "en": [
+          "20 C",
+          "720 C",
+          "0.05 C",
+          "114 C"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "Q = W/V = 120/6 = 20 कूलॉम।",
+        "en": "Q = W/V = 120/6 = 20 C."
+      }
+    },
+    {
+      "id": "phy9_q194",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "बल्ब जलने के बाद उसके फिलामेंट का प्रतिरोध बढ़ जाता है। ओम के नियम की दृष्टि से इसका अर्थ बताइए।",
+        "en": "A bulb's filament resistance increases after it glows. What does this mean for Ohm's law?"
+      },
+      "options": {
+        "hi": [
+          "धारा बढ़ने से कुछ नहीं बदलता",
+          "ताप बदलने से R स्थिर नहीं रहता — ओम का नियम केवल नियत ताप पर लागू है",
+          "ओम का नियम पूर्णतः गलत है",
+          "फिलामेंट ओमीय चालक है"
+        ],
+        "en": [
+          "Nothing changes as current rises",
+          "With temperature changing, R is not constant — Ohm's law applies only at constant temperature",
+          "Ohm's law is completely wrong",
+          "The filament is an ohmic conductor"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "V-I अनुपात केवल स्थिर ताप पर स्थिर रहता है — गरम फिलामेंट अपवाद नहीं, शर्त का उल्लंघन है।",
+        "en": "The V-I ratio stays fixed only at steady temperature — a hot filament breaks the condition, not the law."
+      }
+    },
+    {
+      "id": "phy9_q195",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी बल्ब के फिलामेंट का V-I आलेख सीधी रेखा के बजाय मुड़ा हुआ क्यों मिलता है?",
+        "en": "Why is the V-I graph of a bulb's filament curved rather than a straight line?"
+      },
+      "options": {
+        "hi": [
+          "वोल्टमीटर गलत होता है",
+          "बल्ब में सेल श्रेणी में होते हैं",
+          "धारा बढ़ने पर फिलामेंट गरम होकर प्रतिरोध बढ़ा देता है, इसलिए अनुपात स्थिर नहीं रहता",
+          "फिलामेंट में आवेश खत्म हो जाता है"
+        ],
+        "en": [
+          "The voltmeter is faulty",
+          "The bulb contains cells in series",
+          "As current rises the filament heats up and its resistance grows, so the ratio is not constant",
+          "The filament runs out of charge"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "ताप-निर्भर प्रतिरोध आलेख को मोड़ देता है।",
+        "en": "Temperature-dependent resistance bends the graph."
+      }
+    },
+    {
+      "id": "phy9_q196",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "12 वोल्ट के स्रोत पर रोस्टैट का प्रतिरोध 2 ओम से 6 ओम किया गया। धारा कितनी घटेगी?",
+        "en": "On a 12 V source a rheostat is changed from 2 Ω to 6 Ω. By how much does the current fall?"
+      },
+      "options": {
+        "hi": [
+          "2 एम्पियर से 6 एम्पियर — वृद्धि",
+          "12 एम्पियर से 2 एम्पियर",
+          "कोई परिवर्तन नहीं",
+          "6 एम्पियर से 2 एम्पियर — 4 एम्पियर की कमी"
+        ],
+        "en": [
+          "From 2 A to 6 A — a rise",
+          "From 12 A to 2 A",
+          "No change",
+          "From 6 A to 2 A — a fall of 4 A"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "I₁ = 12/2 = 6 A; I₂ = 12/6 = 2 A — अंतर 4 एम्पियर।",
+        "en": "I₁ = 12/2 = 6 A; I₂ = 12/6 = 2 A — a drop of 4 A."
+      }
+    },
+    {
+      "id": "phy9_q197",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक ओमीय चालक में V = 2 V पर I = 0.5 A और V = 4 V पर I = 1 A मिला। V = 6 V पर धारा कितनी होगी?",
+        "en": "An ohmic conductor gives I = 0.5 A at 2 V and 1 A at 4 V. What is the current at 6 V?"
+      },
+      "options": {
+        "hi": [
+          "1.5 एम्पियर",
+          "2 एम्पियर",
+          "3 एम्पियर",
+          "0.75 एम्पियर"
+        ],
+        "en": [
+          "1.5 A",
+          "2 A",
+          "3 A",
+          "0.75 A"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "R = 2/0.5 = 4 ओम; I = 6/4 = 1.5 एम्पियर।",
+        "en": "R = 2/0.5 = 4 Ω; I = 6/4 = 1.5 A."
+      }
+    },
+    {
+      "id": "phy9_q198",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी चालक में 3 वोल्ट पर 0.6 एम्पियर बहती है। विभवांतर 4.5 वोल्ट करने पर धारा कितनी होगी (ताप नियत)?",
+        "en": "A conductor passes 0.6 A at 3 V. What current flows if the PD is raised to 4.5 V (temperature constant)?"
+      },
+      "options": {
+        "hi": [
+          "0.6 एम्पियर",
+          "0.9 एम्पियर",
+          "0.4 एम्पियर",
+          "1.2 एम्पियर"
+        ],
+        "en": [
+          "0.6 A",
+          "0.9 A",
+          "0.4 A",
+          "1.2 A"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "R = 3/0.6 = 5 ओम; I = 4.5/5 = 0.9 एम्पियर।",
+        "en": "R = 3/0.6 = 5 Ω; I = 4.5/5 = 0.9 A."
+      }
+    },
+    {
+      "id": "phy9_q199",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "यदि 220 वोल्ट स्रोत के दोनों तार सीधे जुड़ जाएँ और पथ का प्रतिरोध 0.1 ओम रह जाए, तो धारा कितनी होगी?",
+        "en": "If both wires of a 220 V source touch directly and the path resistance is 0.1 Ω, how large is the current?"
+      },
+      "options": {
+        "hi": [
+          "220 एम्पियर",
+          "2.2 एम्पियर",
+          "2200 एम्पियर",
+          "22 एम्पियर"
+        ],
+        "en": [
+          "220 A",
+          "2.2 A",
+          "2200 A",
+          "22 A"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "I = V/R = 220/0.1 = 2200 एम्पियर — इसीलिए फ्यूज़/MCB ज़रूरी है।",
+        "en": "I = V/R = 220/0.1 = 2200 A — hence fuses/MCBs are essential."
+      }
+    },
+    {
+      "id": "phy9_q200",
+      "topic": "potential-difference-and-ohms-law",
+      "difficulty": "hard",
+      "question": {
+        "hi": "3 वोल्ट की सेल से एक परिपथ 2 मिनट में 360 जूल ऊर्जा लेता है। धारा निकालिए।",
+        "en": "A circuit takes 360 J of energy from a 3 V cell in 2 minutes. Find the current."
+      },
+      "options": {
+        "hi": [
+          "2 एम्पियर",
+          "0.5 एम्पियर",
+          "60 एम्पियर",
+          "1 एम्पियर"
+        ],
+        "en": [
+          "2 A",
+          "0.5 A",
+          "60 A",
+          "1 A"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "Q = W/V = 360/3 = 120 कूलॉम; I = 120/120 = 1 एम्पियर।",
+        "en": "Q = W/V = 360/3 = 120 C; I = 120/120 = 1 A."
+      }
+    },
+    {
+      "id": "phy9_q201",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिरोध किसे कहते हैं?",
+        "en": "What is resistance?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत धारा के प्रवाह में आने वाली बाधा",
+          "धारा का मात्रक",
+          "विभवांतर का माप",
+          "धारा बढ़ाने वाला गुण"
+        ],
+        "en": [
+          "The obstruction offered to the flow of electric current",
+          "A unit of current",
+          "A measure of potential difference",
+          "A property that increases current"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रतिरोध धारा को रोकने की प्रवृत्ति है; मात्रक ओम।",
+        "en": "Resistance is the tendency to oppose current; its unit is the ohm."
+      }
+    },
+    {
+      "id": "phy9_q202",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिरोध का SI मात्रक क्या है?",
+        "en": "What is the SI unit of resistance?"
+      },
+      "options": {
+        "hi": [
+          "कूलॉम (C)",
+          "ओम (Ω)",
+          "वोल्ट (V)",
+          "वाट (W)"
+        ],
+        "en": [
+          "Coulomb (C)",
+          "Ohm (Ω)",
+          "Volt (V)",
+          "Watt (W)"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रतिरोध ओम में मापा जाता है; 1 Ω = 1 V/A।",
+        "en": "Resistance is measured in ohms; 1 Ω = 1 V/A."
+      }
+    },
+    {
+      "id": "phy9_q203",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समान पदार्थ के तार की लंबाई बढ़ाने पर प्रतिरोध का क्या होता है?",
+        "en": "What happens to the resistance of a wire of the same material if its length is increased?"
+      },
+      "options": {
+        "hi": [
+          "अपरिवर्तित रहता है",
+          "शून्य हो जाता है",
+          "बढ़ जाता है",
+          "घट जाता है"
+        ],
+        "en": [
+          "It remains unchanged",
+          "It becomes zero",
+          "It increases",
+          "It decreases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "R ∝ l — लंबा रास्ता, अधिक बाधा।",
+        "en": "R ∝ l — a longer path offers more opposition."
+      }
+    },
+    {
+      "id": "phy9_q204",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "तार की मोटाई (अनुप्रस्थ काट का क्षेत्रफल) बढ़ाने पर प्रतिरोध कैसा होता है?",
+        "en": "What happens to resistance when the wire's thickness (cross-sectional area) is increased?"
+      },
+      "options": {
+        "hi": [
+          "बढ़ जाता है",
+          "समान रहता है",
+          "दोगुना हो जाता है",
+          "घट जाता है"
+        ],
+        "en": [
+          "It increases",
+          "It stays the same",
+          "It doubles",
+          "It decreases"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "R ∝ 1/A — मोटा तार, कम प्रतिरोध।",
+        "en": "R ∝ 1/A — a thicker wire has less resistance."
+      }
+    },
+    {
+      "id": "phy9_q205",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्रेणी क्रम में जुड़े प्रतिरोधों का समतुल्य प्रतिरोध कैसा होता है?",
+        "en": "What is the equivalent resistance of resistors joined in series?"
+      },
+      "options": {
+        "hi": [
+          "सभी प्रतिरोधों का योग (R = R₁ + R₂)",
+          "सभी का गुणनफल",
+          "सबसे छोटे प्रतिरोध जितना",
+          "शून्य"
+        ],
+        "en": [
+          "The sum of all the resistances (R = R₁ + R₂)",
+          "The product of all",
+          "Equal to the smallest one",
+          "Zero"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "श्रेणी में प्रतिरोध जुड़ जाते हैं।",
+        "en": "In series, resistances add up."
+      }
+    },
+    {
+      "id": "phy9_q206",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समान्तर क्रम में जुड़े प्रतिरोधों का समतुल्य प्रतिरोध कैसा होता है?",
+        "en": "What is the equivalent resistance of resistors joined in parallel?"
+      },
+      "options": {
+        "hi": [
+          "सभी का गुणनफल",
+          "सबसे छोटे प्रतिरोध से भी कम",
+          "सबसे बड़े प्रतिरोध से अधिक",
+          "सभी का योग"
+        ],
+        "en": [
+          "The product of all",
+          "Less than even the smallest resistance",
+          "More than the largest resistance",
+          "The sum of all"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "समान्तर में धारा के अनेक मार्ग बन जाते हैं — कुल बाधा घटती है।",
+        "en": "Parallel paths give the current more routes — total opposition falls."
+      }
+    },
+    {
+      "id": "phy9_q207",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्रेणी परिपथ में प्रत्येक अवयव से गुज़रने वाली धारा कैसी होती है?",
+        "en": "What is the current through each component in a series circuit?"
+      },
+      "options": {
+        "hi": [
+          "क्रमशः घटती",
+          "शून्य",
+          "सभी में समान",
+          "भिन्न-भिन्न"
+        ],
+        "en": [
+          "Successively decreasing",
+          "Zero",
+          "The same through all",
+          "Different in each"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "श्रेणी में धारा का एक ही मार्ग होता है — हर अवयव से वही धारा बहती है।",
+        "en": "A series circuit has a single path — the same current runs through every component."
+      }
+    },
+    {
+      "id": "phy9_q208",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समान्तर परिपथ में प्रत्येक अवयव के सिरों पर विभवांतर कैसा होता है?",
+        "en": "What is the PD across each component in a parallel circuit?"
+      },
+      "options": {
+        "hi": [
+          "भिन्न-भिन्न",
+          "क्रमशः बढ़ता",
+          "शून्य",
+          "सभी में समान"
+        ],
+        "en": [
+          "Different for each",
+          "Successively increasing",
+          "Zero",
+          "The same across all"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समान्तर शाखाओं के सिरे समान दो बिंदुओं से जुड़े होते हैं।",
+        "en": "Parallel branches connect across the same two points."
+      }
+    },
+    {
+      "id": "phy9_q209",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिरोधकता (resistivity) का SI मात्रक क्या है?",
+        "en": "What is the SI unit of resistivity?"
+      },
+      "options": {
+        "hi": [
+          "ओम-मीटर (Ω m)",
+          "ओम",
+          "वोल्ट",
+          "वाट"
+        ],
+        "en": [
+          "Ohm-metre (Ω m)",
+          "Ohm",
+          "Volt",
+          "Watt"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "R = ρl/A में ρ का मात्रक Ω m है।",
+        "en": "In R = ρl/A, ρ has the unit Ω m."
+      }
+    },
+    {
+      "id": "phy9_q210",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "ताँबा और एल्युमिनियम विद्युत चालन के लिए उपयुक्त क्यों हैं?",
+        "en": "Why are copper and aluminium suitable for electrical conduction?"
+      },
+      "options": {
+        "hi": [
+          "ये चुंबकीय होते हैं",
+          "इनकी प्रतिरोधकता बहुत कम होती है",
+          "इनका गलनांक कम होता है",
+          "ये हल्के रंग के होते हैं"
+        ],
+        "en": [
+          "They are magnetic",
+          "Their resistivity is very low",
+          "Their melting point is low",
+          "They are light-coloured"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कम प्रतिरोधकता — ऊर्जा हानि न्यूनतम।",
+        "en": "Low resistivity means minimum energy loss."
+      }
+    },
+    {
+      "id": "phy9_q211",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "नाइक्रोम का उपयोग तापक उपकरणों के तार में क्यों होता है?",
+        "en": "Why is nichrome used for the wires of heating appliances?"
+      },
+      "options": {
+        "hi": [
+          "यह चालक होता है",
+          "यह प्रकाश देता है",
+          "इसकी प्रतिरोधकता बहुत अधिक होती है",
+          "यह सस्ता होता है"
+        ],
+        "en": [
+          "It is a conductor",
+          "It gives light",
+          "Its resistivity is very high",
+          "It is cheap"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "उच्च प्रतिरोधकता से तार में अधिक ऊष्मा विकसित होती है।",
+        "en": "High resistivity makes the wire release more heat."
+      }
+    },
+    {
+      "id": "phy9_q212",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घरेलू विद्युत परिपथ में उपकरण किस क्रम में जुड़े होते हैं?",
+        "en": "How are appliances connected in household wiring?"
+      },
+      "options": {
+        "hi": [
+          "श्रेणी क्रम में",
+          "मिश्रित में से केवल श्रेणी",
+          "कोई निश्चित क्रम नहीं",
+          "समान्तर क्रम में"
+        ],
+        "en": [
+          "In series",
+          "Only series of the mixed kind",
+          "No fixed order",
+          "In parallel"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समान्तर जोड़ से प्रत्येक उपकरण को पूरा वोल्टेज और स्वतंत्र नियंत्रण मिलता है।",
+        "en": "Parallel connection gives every appliance full voltage and independent control."
+      }
+    },
+    {
+      "id": "phy9_q213",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "दो समान प्रतिरोध R को समान्तर में जोड़ने पर समतुल्य प्रतिरोध कितना होगा?",
+        "en": "Two equal resistances R are joined in parallel. What is the equivalent resistance?"
+      },
+      "options": {
+        "hi": [
+          "R/2",
+          "2R",
+          "R",
+          "R/4"
+        ],
+        "en": [
+          "R/2",
+          "2R",
+          "R",
+          "R/4"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समान दो प्रतिरोध समान्तर में आधा देते हैं।",
+        "en": "Two identical resistors in parallel give half."
+      }
+    },
+    {
+      "id": "phy9_q214",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी तार का प्रतिरोध किन कारकों पर निर्भर करता है?",
+        "en": "On what factors does the resistance of a wire depend?"
+      },
+      "options": {
+        "hi": [
+          "केवल वोल्टेज",
+          "लंबाई, अनुप्रस्थ काट, पदार्थ और ताप",
+          "केवल लंबाई",
+          "केवल रंग और आकार"
+        ],
+        "en": [
+          "Only voltage",
+          "Length, cross-section, material and temperature",
+          "Only length",
+          "Only colour and shape"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "R = ρl/A — निर्माण व ताप दोनों मायने रखते हैं।",
+        "en": "R = ρl/A — both construction and temperature matter."
+      }
+    },
+    {
+      "id": "phy9_q215",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी परिपथ में एक प्रतिरोध और जोड़ने पर कुल प्रतिरोध का क्या होगा (श्रेणी)?",
+        "en": "What happens to total resistance when one more resistor is added in series?"
+      },
+      "options": {
+        "hi": [
+          "समान रहता है",
+          "शून्य हो जाता है",
+          "बढ़ जाता है",
+          "घट जाता है"
+        ],
+        "en": [
+          "It stays the same",
+          "It becomes zero",
+          "It increases",
+          "It decreases"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "श्रेणी में हर नया प्रतिरोध योग में जुड़ता है।",
+        "en": "Every added series resistor adds to the sum."
+      }
+    },
+    {
+      "id": "phy9_q216",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "किसी समान्तर संयोजन में एक और शाखा जोड़ने पर कुल प्रतिरोध का क्या होता है?",
+        "en": "What happens to total resistance when one more branch is added in parallel?"
+      },
+      "options": {
+        "hi": [
+          "बढ़ जाता है",
+          "अपरिवर्तित रहता है",
+          "अनंत हो जाता है",
+          "घट जाता है"
+        ],
+        "en": [
+          "It increases",
+          "It remains unchanged",
+          "It becomes infinite",
+          "It decreases"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "धारा को एक और मार्ग मिलता है — कुल बाधा घटती है।",
+        "en": "The current gains one more route — total opposition falls."
+      }
+    },
+    {
+      "id": "phy9_q217",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "समान लंबाई के दो तार — एक मोटा, एक पतला। किसका प्रतिरोध कम होगा?",
+        "en": "Two wires of equal length — one thick, one thin. Which has lower resistance?"
+      },
+      "options": {
+        "hi": [
+          "मोटे तार का",
+          "पतले तार का",
+          "दोनों का समान",
+          "तार की मोटाई से कोई संबंध नहीं"
+        ],
+        "en": [
+          "The thick wire's",
+          "The thin wire's",
+          "Equal for both",
+          "Thickness has no relation to resistance"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अधिक क्षेत्रफल — अधिक जगह से धारा बहना — कम प्रतिरोध।",
+        "en": "More area means more room for the current — lower resistance."
+      }
+    },
+    {
+      "id": "phy9_q218",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "श्रेणी और समान्तर परिपथ में धारा के मार्गों का अंतर बताइए।",
+        "en": "State the difference in current paths between series and parallel circuits."
+      },
+      "options": {
+        "hi": [
+          "दोनों में अनेक मार्ग",
+          "श्रेणी में एक ही मार्ग, समान्तर में अनेक मार्ग",
+          "श्रेणी में अनेक मार्ग, समान्तर में एक",
+          "दोनों में एक ही मार्ग"
+        ],
+        "en": [
+          "Both have many paths",
+          "Series has a single path; parallel has many paths",
+          "Series has many; parallel has one",
+          "Both have a single path"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मार्गों की संख्या ही दोनों संयोजनों का मूल अंतर है।",
+        "en": "The number of paths is the core difference between the two connections."
+      }
+    },
+    {
+      "id": "phy9_q219",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "प्रतिरोधक (resistor) का परिपथ में क्या कार्य है?",
+        "en": "What does a resistor do in a circuit?"
+      },
+      "options": {
+        "hi": [
+          "धारा पैदा करना",
+          "आवेश भरना",
+          "धारा को नियंत्रित (घटाना) करना",
+          "वोल्टेज पैदा करना"
+        ],
+        "en": [
+          "To generate current",
+          "To store charge",
+          "To control (reduce) the current",
+          "To generate voltage"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "उपयुक्त प्रतिरोध चुनकर धारा वांछित मान तक घटाई जाती है।",
+        "en": "A suitable resistance brings the current down to the desired value."
+      }
+    },
+    {
+      "id": "phy9_q220",
+      "topic": "resistance-and-combinations",
+      "difficulty": "easy",
+      "question": {
+        "hi": "घरेलू वायरिंग में मुख्य तार मोटे क्यों रखे जाते हैं?",
+        "en": "Why are the main wires in household wiring kept thick?"
+      },
+      "options": {
+        "hi": [
+          "मोटे तार सस्ते होते हैं",
+          "मोटे तार हल्के होते हैं",
+          "मोटे तार अधिक ऊर्जा खाते हैं",
+          "मोटे तार का प्रतिरोध कम होता है, बड़ी धारा सुरक्षित रूप से बह सकती है"
+        ],
+        "en": [
+          "Thick wires are cheaper",
+          "Thick wires are lighter",
+          "Thick wires consume more energy",
+          "Thick wires have low resistance, letting large currents flow safely"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "कम प्रतिरोध से तार अधिक गर्म नहीं होते।",
+        "en": "Low resistance keeps the wires from overheating."
+      }
+    },
+    {
+      "id": "phy9_q221",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 ओम, 3 ओम और 5 ओम के प्रतिरोध श्रेणी में जुड़े हैं। कुल प्रतिरोध निकालिए।",
+        "en": "Resistors of 2 Ω, 3 Ω and 5 Ω are connected in series. Find the total resistance."
+      },
+      "options": {
+        "hi": [
+          "10 ओम",
+          "1 ओम",
+          "30 ओम",
+          "5 ओम"
+        ],
+        "en": [
+          "10 Ω",
+          "1 Ω",
+          "30 Ω",
+          "5 Ω"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "R = 2 + 3 + 5 = 10 ओम।",
+        "en": "R = 2 + 3 + 5 = 10 Ω."
+      }
+    },
+    {
+      "id": "phy9_q222",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "3 ओम और 6 ओम के प्रतिरोध समान्तर में जुड़े हैं। समतुल्य प्रतिरोध निकालिए।",
+        "en": "3 Ω and 6 Ω resistors are connected in parallel. Find the equivalent resistance."
+      },
+      "options": {
+        "hi": [
+          "4.5 ओम",
+          "2 ओम",
+          "9 ओम",
+          "18 ओम"
+        ],
+        "en": [
+          "4.5 Ω",
+          "2 Ω",
+          "9 Ω",
+          "18 Ω"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1/R = 1/3 + 1/6 = 1/2 ⇒ R = 2 ओम।",
+        "en": "1/R = 1/3 + 1/6 = 1/2 ⇒ R = 2 Ω."
+      }
+    },
+    {
+      "id": "phy9_q223",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो 2 ओम के प्रतिरोध समान्तर में हैं। समतुल्य प्रतिरोध कितना है?",
+        "en": "Two 2 Ω resistors are in parallel. What is the equivalent resistance?"
+      },
+      "options": {
+        "hi": [
+          "2 ओम",
+          "0.5 ओम",
+          "1 ओम",
+          "4 ओम"
+        ],
+        "en": [
+          "2 Ω",
+          "0.5 Ω",
+          "1 Ω",
+          "4 Ω"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "समान दो प्रतिरोध: R/2 = 2/2 = 1 ओम।",
+        "en": "Two identical resistors: R/2 = 2/2 = 1 Ω."
+      }
+    },
+    {
+      "id": "phy9_q224",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "चार 8 ओम के प्रतिरोध समान्तर में जुड़े हैं। कुल प्रतिरोध निकालिए।",
+        "en": "Four 8 Ω resistors are connected in parallel. Find the total resistance."
+      },
+      "options": {
+        "hi": [
+          "32 ओम",
+          "8 ओम",
+          "0.5 ओम",
+          "2 ओम"
+        ],
+        "en": [
+          "32 Ω",
+          "8 Ω",
+          "0.5 Ω",
+          "2 Ω"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "n समान प्रतिरोध समान्तर में: R/n = 8/4 = 2 ओम।",
+        "en": "n identical resistors in parallel: R/n = 8/4 = 2 Ω."
+      }
+    },
+    {
+      "id": "phy9_q225",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "7 ओम प्रतिरोध वाले तार की लंबाई दोगुनी कर दी जाए तो नया प्रतिरोध कितना होगा?",
+        "en": "A wire of resistance 7 Ω is doubled in length. What is the new resistance?"
+      },
+      "options": {
+        "hi": [
+          "14 ओम",
+          "3.5 ओम",
+          "7 ओम",
+          "28 ओम"
+        ],
+        "en": [
+          "14 Ω",
+          "3.5 Ω",
+          "7 Ω",
+          "28 Ω"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "R ∝ l — लंबाई दोगुनी ⇒ प्रतिरोध दोगुना = 14 ओम।",
+        "en": "R ∝ l — double length ⇒ double resistance = 14 Ω."
+      }
+    },
+    {
+      "id": "phy9_q226",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "10 ओम प्रतिरोध वाले तार की मोटाई (क्षेत्रफल) दोगुनी कर दी जाए तो प्रतिरोध कितना रह जाएगा?",
+        "en": "The thickness (area) of a 10 Ω wire is doubled. What is the new resistance?"
+      },
+      "options": {
+        "hi": [
+          "2.5 ओम",
+          "5 ओम",
+          "20 ओम",
+          "10 ओम"
+        ],
+        "en": [
+          "2.5 Ω",
+          "5 Ω",
+          "20 Ω",
+          "10 Ω"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "R ∝ 1/A — क्षेत्रफल दोगुना ⇒ प्रतिरोध आधा = 5 ओम।",
+        "en": "R ∝ 1/A — doubled area ⇒ halved resistance = 5 Ω."
+      }
+    },
+    {
+      "id": "phy9_q227",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "9 ओम प्रतिरोध वाले तार की लंबाई एक-तिहाई कर दी जाए तो प्रतिरोध क्या होगा?",
+        "en": "The length of a 9 Ω wire is reduced to one-third. What is the resistance now?"
+      },
+      "options": {
+        "hi": [
+          "9 ओम",
+          "6 ओम",
+          "3 ओम",
+          "27 ओम"
+        ],
+        "en": [
+          "9 Ω",
+          "6 Ω",
+          "3 Ω",
+          "27 Ω"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "R ∝ l — लंबाई 1/3 ⇒ प्रतिरोध 9/3 = 3 ओम।",
+        "en": "R ∝ l — one-third length ⇒ resistance 9/3 = 3 Ω."
+      }
+    },
+    {
+      "id": "phy9_q228",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "12 वोल्ट की बैटरी से 4 ओम और 8 ओम श्रेणी में जुड़े हैं। धारा तथा प्रत्येक पर विभवांतर निकालिए।",
+        "en": "A 12 V battery feeds 4 Ω and 8 Ω in series. Find the current and the PD across each."
+      },
+      "options": {
+        "hi": [
+          "12 एम्पियर; 0 वोल्ट",
+          "2 एम्पियर; 6 वोल्ट प्रत्येक",
+          "1 एम्पियर; 6 वोल्ट प्रत्येक",
+          "1 एम्पियर; 4 वोल्ट और 8 वोल्ट"
+        ],
+        "en": [
+          "12 A; 0 V",
+          "2 A; 6 V each",
+          "1 A; 6 V each",
+          "1 A; 4 V and 8 V"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "R = 12 Ω; I = 12/12 = 1 A; V = IR से 4×1 = 4 V और 8×1 = 8 V।",
+        "en": "R = 12 Ω; I = 12/12 = 1 A; V = IR gives 4×1 = 4 V and 8×1 = 8 V."
+      }
+    },
+    {
+      "id": "phy9_q229",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान दो 6 ओम प्रतिरोधों को समान्तर में जोड़ने पर परिपथ का कुल प्रतिरोध कितना हो जाता है?",
+        "en": "What does the total circuit resistance become when two identical 6 Ω resistors are joined in parallel?"
+      },
+      "options": {
+        "hi": [
+          "3 ओम",
+          "12 ओम",
+          "6 ओम",
+          "1.5 ओम"
+        ],
+        "en": [
+          "3 Ω",
+          "12 Ω",
+          "6 Ω",
+          "1.5 Ω"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "समान दो प्रतिरोध समान्तर में आधा देते हैं: 6/2 = 3 ओम।",
+        "en": "Two identical resistors in parallel give half: 6/2 = 3 Ω."
+      }
+    },
+    {
+      "id": "phy9_q230",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्रेणी परिपथ में बड़े प्रतिरोध वाले अवयव पर विभवांतर कैसा होता है?",
+        "en": "In a series circuit, how is the PD across the higher-resistance component?"
+      },
+      "options": {
+        "hi": [
+          "समान",
+          "अधिक — विभवांतर प्रतिरोध के अनुक्रमानुपाती",
+          "कम",
+          "शून्य"
+        ],
+        "en": [
+          "Equal",
+          "Larger — PD is proportional to resistance",
+          "Smaller",
+          "Zero"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "एक ही धारा बहती है; V = IR से बड़े R पर बड़ा V।",
+        "en": "The same current flows; V = IR gives more V across the bigger R."
+      }
+    },
+    {
+      "id": "phy9_q231",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्रेणी में जुड़े तीन बल्बों में एक का फिलामेंट टूट गया। शेष बल्बों का क्या होगा?",
+        "en": "One of three series-connected bulbs fuses. What happens to the rest?"
+      },
+      "options": {
+        "hi": [
+          "केवल एक बुझता है",
+          "कोई प्रभाव नहीं",
+          "सभी बुझ जाते हैं — परिपथ खुल गया",
+          "बाकी पहले से अधिक चमकते हैं"
+        ],
+        "en": [
+          "Only one goes off",
+          "No effect",
+          "All go off — the circuit is broken",
+          "The rest glow brighter than before"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "श्रेणी का एक मार्ग टूटा मानो पूरा मार्ग टूटा।",
+        "en": "A single break in the series path stops everything."
+      }
+    },
+    {
+      "id": "phy9_q232",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान्तर में जुड़े तीन बल्बों में एक बंद कर दिया गया। शेष बल्बों का क्या होगा?",
+        "en": "One of three parallel-connected bulbs is switched off. What happens to the others?"
+      },
+      "options": {
+        "hi": [
+          "वे भी बुझ जाते हैं",
+          "उनकी चमक घट जाती है",
+          "उन पर वोल्टेज बढ़ जाता है",
+          "वे सामान्य ही जलते रहते हैं"
+        ],
+        "en": [
+          "They also go off",
+          "Their brightness falls",
+          "Their voltage rises",
+          "They keep glowing normally"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समान्तर शाखाएँ स्वतंत्र होती हैं।",
+        "en": "Parallel branches are independent."
+      }
+    },
+    {
+      "id": "phy9_q233",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "तार A लंबा और पतला है, तार B छोटा और मोटा (उसी पदार्थ का)। किसका प्रतिरोध कम है?",
+        "en": "Wire A is long and thin; wire B is short and thick (same material). Which has lower resistance?"
+      },
+      "options": {
+        "hi": [
+          "B",
+          "A",
+          "दोनों समान",
+          "पदार्थ से तय नहीं होता"
+        ],
+        "en": [
+          "B",
+          "A",
+          "Both equal",
+          "It is not decided by the material"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "छोटी लंबाई + बड़ा क्षेत्रफल दोनों B का प्रतिरोध घटाते हैं।",
+        "en": "Shorter length and larger area both cut B's resistance."
+      }
+    },
+    {
+      "id": "phy9_q234",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "समान मापों के ताँबे और नाइक्रोम तारों में किसका प्रतिरोध अधिक होगा?",
+        "en": "Between copper and nichrome wires of identical dimensions, which has higher resistance?"
+      },
+      "options": {
+        "hi": [
+          "मापों से तय नहीं",
+          "नाइक्रोम — प्रतिरोधकता अधिक",
+          "ताँबा",
+          "दोनों समान"
+        ],
+        "en": [
+          "Not decided by dimensions",
+          "Nichrome — higher resistivity",
+          "Copper",
+          "Both equal"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रतिरोधकता पदार्थ-गुण है; नाइक्रोम का ρ ताँबे से बहुत अधिक।",
+        "en": "Resistivity is a material property; nichrome's ρ far exceeds copper's."
+      }
+    },
+    {
+      "id": "phy9_q235",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "यदि घर के सभी बल्ब श्रेणी में जुड़े होते तो क्या समस्या आती?",
+        "en": "What problem would arise if all house bulbs were connected in series?"
+      },
+      "options": {
+        "hi": [
+          "बल्ब जल्दी फटते",
+          "कोई समस्या नहीं",
+          "एक बल्ब बंद करते ही सब बंद; वोल्टेज बँटकर चमक घटती",
+          "बिजली बिल दोगुना हो जाता"
+        ],
+        "en": [
+          "Bulbs would blow quickly",
+          "No problem at all",
+          "Switching one off kills all; shared voltage dims every bulb",
+          "The bill would double"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "इसीलिए घरेलू परिपथ समान्तर बनाए जाते हैं।",
+        "en": "That is why household circuits are wired in parallel."
+      }
+    },
+    {
+      "id": "phy9_q236",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1 मीटर तार का प्रतिरोध 2 ओम है। उसी तार के 3 मीटर का प्रतिरोध कितना होगा?",
+        "en": "A 1 m wire has resistance 2 Ω. What is the resistance of 3 m of the same wire?"
+      },
+      "options": {
+        "hi": [
+          "2 ओम",
+          "3 ओम",
+          "0.67 ओम",
+          "6 ओम"
+        ],
+        "en": [
+          "2 Ω",
+          "3 Ω",
+          "0.67 Ω",
+          "6 Ω"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "R ∝ l: 3 गुना लंबाई ⇒ 3 × 2 = 6 ओम।",
+        "en": "R ∝ l: triple length ⇒ 3 × 2 = 6 Ω."
+      }
+    },
+    {
+      "id": "phy9_q237",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही तार ठंडी अवस्था की तुलना में गर्म होने पर कम धारा देता है। कारण बताइए।",
+        "en": "The same wire passes less current when hot than when cold. Give the reason."
+      },
+      "options": {
+        "hi": [
+          "ताप बढ़ने पर धातु का प्रतिरोध बढ़ जाता है",
+          "ताप बढ़ने पर वोल्टेज घटता है",
+          "गर्म तार आवेश सोखता है",
+          "गर्मी से इलेक्ट्रॉन गिर जाते हैं"
+        ],
+        "en": [
+          "A metal's resistance increases with temperature",
+          "Voltage drops with temperature",
+          "A hot wire absorbs charge",
+          "Electrons fall off due to heat"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अधिक प्रतिरोध पर I = V/R से धारा घटती है।",
+        "en": "Higher R means lower I at the same V."
+      }
+    },
+    {
+      "id": "phy9_q238",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "4 ओम, 4 ओम और 2 ओम के तीन प्रतिरोध समान्तर में जुड़े हैं। कुल प्रतिरोध निकालिए।",
+        "en": "Three resistors of 4 Ω, 4 Ω and 2 Ω are in parallel. Find the total resistance."
+      },
+      "options": {
+        "hi": [
+          "0.5 ओम",
+          "1 ओम",
+          "10 ओम",
+          "2 ओम"
+        ],
+        "en": [
+          "0.5 Ω",
+          "1 Ω",
+          "10 Ω",
+          "2 Ω"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "1/R = 1/4 + 1/4 + 1/2 = 1 ⇒ R = 1 ओम।",
+        "en": "1/R = 1/4 + 1/4 + 1/2 = 1 ⇒ R = 1 Ω."
+      }
+    },
+    {
+      "id": "phy9_q239",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्रेणी परिपथ में अमीटर का पाठ्यांक किसी भी स्थान पर क्यों एक ही रहता है?",
+        "en": "Why does an ammeter read the same value at any point of a series circuit?"
+      },
+      "options": {
+        "hi": [
+          "तार हर जगह मोटे होते हैं",
+          "बैटरी धारा बढ़ा देती है",
+          "धारा का एक ही मार्ग है — आवेश न बनता है न नष्ट होता है",
+          "अमीटर हर जगह वोल्टेज मापता है"
+        ],
+        "en": [
+          "The wires are thick everywhere",
+          "The battery boosts the current",
+          "There is a single path — charge is neither created nor destroyed",
+          "The ammeter measures voltage everywhere"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "आवेश संरक्षण के कारण श्रेणी धारा सर्वत्र समान।",
+        "en": "Conservation of charge keeps the series current identical everywhere."
+      }
+    },
+    {
+      "id": "phy9_q240",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो 6 ओम प्रतिरोधों को पहले श्रेणी में, फिर समान्तर में जोड़ा गया। दोनों स्थितियों में कुल प्रतिरोधों का अनुपात कितना है?",
+        "en": "Two 6 Ω resistors are first joined in series, then in parallel. What is the ratio of the two total resistances?"
+      },
+      "options": {
+        "hi": [
+          "1 : 4",
+          "2 : 1",
+          "1 : 1",
+          "4 : 1"
+        ],
+        "en": [
+          "1 : 4",
+          "2 : 1",
+          "1 : 1",
+          "4 : 1"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "श्रेणी 12 Ω, समान्तर 3 Ω — अनुपात 12:3 = 4:1।",
+        "en": "Series 12 Ω, parallel 3 Ω — ratio 12:3 = 4:1."
+      }
+    },
+    {
+      "id": "phy9_q241",
+      "topic": "resistance-and-combinations",
+      "difficulty": "medium",
+      "question": {
+        "hi": "संयोजन तारों (connecting wires) का प्रतिरोध नगण्य क्यों माना जाता है?",
+        "en": "Why is the resistance of connecting wires considered negligible?"
+      },
+      "options": {
+        "hi": [
+          "वे छोटे, मोटे और कम-प्रतिरोधकता वाले (ताँबे) होते हैं",
+          "वे रोधी होते हैं",
+          "उनमें धारा नहीं बहती",
+          "वे रबर के बनते हैं"
+        ],
+        "en": [
+          "They are short, thick and of low-resistivity copper",
+          "They are insulators",
+          "No current flows in them",
+          "They are made of rubber"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "R = ρl/A — तीनों कारक मिलकर प्रतिरोध लगभग शून्य कर देते हैं।",
+        "en": "R = ρl/A — all three factors push the resistance towards zero."
+      }
+    },
+    {
+      "id": "phy9_q242",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "8 ओम प्रतिरोध वाले तार को दोहरा कर (मोड़कर) समान्तर में जोड़ दिया जाए तो कुल प्रतिरोध कितना होगा?",
+        "en": "A wire of 8 Ω is folded into two equal parts joined in parallel. What is the total resistance?"
+      },
+      "options": {
+        "hi": [
+          "16 ओम",
+          "2 ओम",
+          "4 ओम",
+          "8 ओम"
+        ],
+        "en": [
+          "16 Ω",
+          "2 Ω",
+          "4 Ω",
+          "8 Ω"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "मोड़ने पर प्रत्येक आधा 4 Ω का; दोनों समान्तर: 4/2 = 2 ओम।",
+        "en": "Folding gives two 4 Ω halves in parallel: 4/2 = 2 Ω."
+      }
+    },
+    {
+      "id": "phy9_q243",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "4 ओम का प्रतिरोध उस संयोजन से श्रेणी में है जिसमें 3 ओम और 6 ओम समान्तर जुड़े हैं। कुल प्रतिरोध निकालिए।",
+        "en": "A 4 Ω resistor is in series with a parallel combination of 3 Ω and 6 Ω. Find the total resistance."
+      },
+      "options": {
+        "hi": [
+          "9 ओम",
+          "2 ओम",
+          "6 ओम",
+          "13 ओम"
+        ],
+        "en": [
+          "9 Ω",
+          "2 Ω",
+          "6 Ω",
+          "13 Ω"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "समान्तर भाग = 2 ओम; श्रेणी योग = 4 + 2 = 6 ओम।",
+        "en": "Parallel part = 2 Ω; series sum = 4 + 2 = 6 Ω."
+      }
+    },
+    {
+      "id": "phy9_q244",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "6 ओम और 3 ओम श्रेणी में 18 वोल्ट स्रोत से जुड़े हैं। प्रत्येक पर विभवांतर निकालिए।",
+        "en": "6 Ω and 3 Ω are in series across an 18 V source. Find the PD across each."
+      },
+      "options": {
+        "hi": [
+          "6 ओम पर 6 वोल्ट; 3 ओम पर 12 वोल्ट",
+          "दोनों पर 9 वोल्ट",
+          "6 ओम पर 18 वोल्ट; 3 ओम पर शून्य",
+          "6 ओम पर 12 वोल्ट; 3 ओम पर 6 वोल्ट"
+        ],
+        "en": [
+          "6 V across 6 Ω; 12 V across 3 Ω",
+          "9 V across each",
+          "18 V across 6 Ω; zero across 3 Ω",
+          "12 V across 6 Ω; 6 V across 3 Ω"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "I = 18/9 = 2 A; V = IR से 6×2 = 12 V और 3×2 = 6 V।",
+        "en": "I = 18/9 = 2 A; V = IR gives 6×2 = 12 V and 3×2 = 6 V."
+      }
+    },
+    {
+      "id": "phy9_q245",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "6 ओम और 3 ओम समान्तर में 6 वोल्ट स्रोत पर हैं। किस शाखा में धारा अधिक और कितनी होगी?",
+        "en": "6 Ω and 3 Ω are in parallel across a 6 V source. Which branch carries more current, and how much?"
+      },
+      "options": {
+        "hi": [
+          "3 ओम वाली — 2 एम्पियर (6 ओम वाली में 1 एम्पियर)",
+          "6 ओम वाली — 2 एम्पियर",
+          "दोनों में 2 एम्पियर",
+          "3 ओम वाली — 0.5 एम्पियर"
+        ],
+        "en": [
+          "The 3 Ω branch — 2 A (the 6 Ω branch gets 1 A)",
+          "The 6 Ω branch — 2 A",
+          "2 A in both",
+          "The 3 Ω branch — 0.5 A"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "I = V/R: 6/3 = 2 A और 6/6 = 1 A — कम प्रतिरोध, अधिक धारा।",
+        "en": "I = V/R: 6/3 = 2 A and 6/6 = 1 A — lower resistance, higher current."
+      }
+    },
+    {
+      "id": "phy9_q246",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "2 ओम प्रतिरोध वाले तार को खींचकर लंबाई दोगुनी कर दी गई (आयतन स्थिर)। नया प्रतिरोध कितना होगा?",
+        "en": "A wire of 2 Ω is stretched to double its length (volume constant). What is the new resistance?"
+      },
+      "options": {
+        "hi": [
+          "1 ओम",
+          "8 ओम",
+          "4 ओम",
+          "2 ओम"
+        ],
+        "en": [
+          "1 Ω",
+          "8 Ω",
+          "4 Ω",
+          "2 Ω"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लंबाई दोगुनी और क्षेत्रफल आधा — दोनों कारण मिलकर R चार गुना = 8 ओम।",
+        "en": "Length doubles while area halves — together R becomes four times = 8 Ω."
+      }
+    },
+    {
+      "id": "phy9_q247",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "2 ओम, 3 ओम और 6 ओम के तीनों प्रतिरोध समान्तर में जुड़े हैं। कुल प्रतिरोध निकालिए।",
+        "en": "Resistors of 2 Ω, 3 Ω and 6 Ω are all in parallel. Find the total resistance."
+      },
+      "options": {
+        "hi": [
+          "3.67 ओम",
+          "0.5 ओम",
+          "1 ओम",
+          "11 ओम"
+        ],
+        "en": [
+          "3.67 Ω",
+          "0.5 Ω",
+          "1 Ω",
+          "11 Ω"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1/R = 1/2 + 1/3 + 1/6 = 1 ⇒ R = 1 ओम।",
+        "en": "1/R = 1/2 + 1/3 + 1/6 = 1 ⇒ R = 1 Ω."
+      }
+    },
+    {
+      "id": "phy9_q248",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "2 ओम का प्रतिरोध उस संयोजन से श्रेणी में है जिसमें 4 ओम और 4 ओम समान्तर जुड़े हैं। परिपथ 12 वोल्ट पर है। धारा निकालिए।",
+        "en": "A 2 Ω resistor is in series with a parallel pair of 4 Ω and 4 Ω. The circuit runs on 12 V. Find the current."
+      },
+      "options": {
+        "hi": [
+          "6 एम्पियर",
+          "1.5 एम्पियर",
+          "2 एम्पियर",
+          "3 एम्पियर"
+        ],
+        "en": [
+          "6 A",
+          "1.5 A",
+          "2 A",
+          "3 A"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "समान्तर भाग 2 ओम; कुल 4 ओम; I = 12/4 = 3 एम्पियर।",
+        "en": "Parallel part 2 Ω; total 4 Ω; I = 12/4 = 3 A."
+      }
+    },
+    {
+      "id": "phy9_q249",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "ताँबे का तार: प्रतिरोधकता 1.7 × 10^-8 ओम-मीटर, लंबाई 2 मीटर, क्षेत्रफल 10^-6 वर्ग मीटर। प्रतिरोध निकालिए।",
+        "en": "A copper wire: resistivity 1.7 × 10^-8 Ω m, length 2 m, area 10^-6 m². Find its resistance."
+      },
+      "options": {
+        "hi": [
+          "0.034 ओम",
+          "0.34 ओम",
+          "0.0085 ओम",
+          "3.4 ओम"
+        ],
+        "en": [
+          "0.034 Ω",
+          "0.34 Ω",
+          "0.0085 Ω",
+          "3.4 Ω"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "R = ρl/A = (1.7 × 10^-8 × 2) ÷ 10^-6 = 0.034 ओम।",
+        "en": "R = ρl/A = (1.7 × 10^-8 × 2) ÷ 10^-6 = 0.034 Ω."
+      }
+    },
+    {
+      "id": "phy9_q250",
+      "topic": "resistance-and-combinations",
+      "difficulty": "hard",
+      "question": {
+        "hi": "नियत वोल्टेज के परिपथ में एक प्रतिरोध और श्रेणी में जोड़ने पर अमीटर का पाठ्यांक घट जाता है। व्याख्या कीजिए।",
+        "en": "In a fixed-voltage circuit, adding one more series resistor lowers the ammeter reading. Explain."
+      },
+      "options": {
+        "hi": [
+          "आवेश खर्च हो जाता है",
+          "कुल प्रतिरोध बढ़ता है, इसलिए I = V/R से धारा घटती है",
+          "बैटरी कमज़ोर हो जाती है",
+          "वोल्टेज बढ़ जाता है"
+        ],
+        "en": [
+          "Charge gets used up",
+          "Total resistance rises, so I = V/R gives a smaller current",
+          "The battery weakens",
+          "The voltage increases"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "V स्थिर, R बढ़ा ⇒ I घटी — ओम के नियम का सीधा परिणाम।",
+        "en": "Fixed V with larger R ⇒ smaller I — a direct consequence of Ohm's law."
+      }
+    },
+    {
+      "id": "phy9_q251",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत शक्ति का SI मात्रक क्या है?",
+        "en": "What is the SI unit of electrical power?"
+      },
+      "options": {
+        "hi": [
+          "कूलॉम (C)",
+          "ओम (Ω)",
+          "वाट (W)",
+          "जूल (J)"
+        ],
+        "en": [
+          "Coulomb (C)",
+          "Ohm (Ω)",
+          "Watt (W)",
+          "Joule (J)"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "शक्ति का मात्रक वाट है; 1 W = 1 J/s।",
+        "en": "The unit of power is the watt; 1 W = 1 J/s."
+      }
+    },
+    {
+      "id": "phy9_q252",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत शक्ति का सूत्र क्या है?",
+        "en": "What is the formula for electrical power?"
+      },
+      "options": {
+        "hi": [
+          "P = V/I",
+          "P = I/V",
+          "P = V + I",
+          "P = VI"
+        ],
+        "en": [
+          "P = V/I",
+          "P = I/V",
+          "P = V + I",
+          "P = VI"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "P = VI — वोल्ट और एम्पियर के गुणनफल से वाट मिलते हैं।",
+        "en": "P = VI — volts times amperes gives watts."
+      }
+    },
+    {
+      "id": "phy9_q253",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 वाट किसके बराबर होता है?",
+        "en": "What is 1 watt equal to?"
+      },
+      "options": {
+        "hi": [
+          "1 वोल्ट × 1 एम्पियर",
+          "1 वोल्ट ÷ 1 एम्पियर",
+          "1 जूल × 1 सेकंड",
+          "1 कूलॉम प्रति सेकंड"
+        ],
+        "en": [
+          "1 volt × 1 ampere",
+          "1 volt ÷ 1 ampere",
+          "1 joule × 1 second",
+          "1 coulomb per second"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "1 W = 1 V × 1 A = 1 जूल प्रति सेकंड।",
+        "en": "1 W = 1 V × 1 A = 1 joule per second."
+      }
+    },
+    {
+      "id": "phy9_q254",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत ऊर्जा के व्यावसायिक मात्रक को क्या कहते हैं?",
+        "en": "What is the commercial unit of electrical energy called?"
+      },
+      "options": {
+        "hi": [
+          "एम्पियर-घंटा",
+          "किलोवाट-घंटा (यूनिट)",
+          "किलोजूल",
+          "वाट"
+        ],
+        "en": [
+          "Ampere-hour",
+          "Kilowatt-hour (the unit)",
+          "Kilojoule",
+          "Watt"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बिजली की खपत यूनिट में बेची जाती है; 1 यूनिट = 1 kWh।",
+        "en": "Electricity is sold in units; 1 unit = 1 kWh."
+      }
+    },
+    {
+      "id": "phy9_q255",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 किलोवाट-घंटा (1 यूनिट) किसके बराबर है?",
+        "en": "What is 1 kilowatt-hour (1 unit) equal to?"
+      },
+      "options": {
+        "hi": [
+          "1000 W का 1 सेकंड",
+          "1 kW का 1 सेकंड",
+          "1 kW का उपकरण 1 घंटा चलने की ऊर्जा",
+          "1 W का 1 घंटा"
+        ],
+        "en": [
+          "1000 W for 1 second",
+          "1 kW for 1 second",
+          "The energy of a 1 kW appliance running 1 hour",
+          "1 W for 1 hour"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1 kWh = 1 kW × 1 h।",
+        "en": "1 kWh = 1 kW × 1 h."
+      }
+    },
+    {
+      "id": "phy9_q256",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फ्यूज़ का परिपथ में क्या कार्य है?",
+        "en": "What does a fuse do in a circuit?"
+      },
+      "options": {
+        "hi": [
+          "वोल्टेज बढ़ाता है",
+          "धारा मापता है",
+          "प्रतिरोध घटाता है",
+          "अत्यधिक धारा बहने पर पिघलकर परिपथ तोड़ देता है"
+        ],
+        "en": [
+          "It raises the voltage",
+          "It measures current",
+          "It lowers resistance",
+          "It melts and breaks the circuit when excessive current flows"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फ्यूज़ अति-धारा से परिपथ की रक्षा करता है।",
+        "en": "A fuse protects the circuit from excess current."
+      }
+    },
+    {
+      "id": "phy9_q257",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फ्यूज़ का तार किस गुण वाली मिश्रधातु का बनता है?",
+        "en": "What property should the alloy of a fuse wire have?"
+      },
+      "options": {
+        "hi": [
+          "कम गलनांक — जल्दी पिघल जाए",
+          "बहुत ऊँचा गलनांक",
+          "बहुत अधिक मोटाई",
+          "रोधी होना"
+        ],
+        "en": [
+          "A low melting point — so it melts quickly",
+          "A very high melting point",
+          "Very large thickness",
+          "Being an insulator"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "कम गलनांक वाला मिश्रधातु (टिन-सीसा) अधिक धारा पर तुरंत पिघलता है।",
+        "en": "A low-melting alloy (tin-lead) melts at once on overload."
+      }
+    },
+    {
+      "id": "phy9_q258",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "फ्यूज़ तार परिपथ में किस तार से जोड़ा जाता है?",
+        "en": "The fuse wire is connected to which wire of the circuit?"
+      },
+      "options": {
+        "hi": [
+          "किसी से भी",
+          "लाइव (जीवित) तार से",
+          "न्यूट्रल से",
+          "अर्थ से"
+        ],
+        "en": [
+          "Any of them",
+          "The live wire",
+          "The neutral",
+          "The earth"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "लाइव तार में फ्यूज़ लगाने से अति-धारा पर स्रोत ही जुड़ाव से कट जाता है।",
+        "en": "Putting the fuse in the live wire disconnects the source itself on overload."
+      }
+    },
+    {
+      "id": "phy9_q259",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "अर्थिंग (भू-संपर्क) का क्या उद्देश्य है?",
+        "en": "What is the purpose of earthing?"
+      },
+      "options": {
+        "hi": [
+          "बिल घटाना",
+          "प्रतिरोध बढ़ाना",
+          "उपकरण की धातु बॉडी का धरती से संपर्क — लीक होने पर धारा ज़मीन में चली जाए और झटका न लगे",
+          "वोल्टेज बढ़ाना"
+        ],
+        "en": [
+          "To lower the bill",
+          "To increase resistance",
+          "Connecting the metal body to the earth so leakage current passes into the ground instead of shocking the user",
+          "To raise the voltage"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अर्थ तार लीकेज धारा को सुरक्षित मार्ग देता है।",
+        "en": "The earth wire gives leakage current a safe path."
+      }
+    },
+    {
+      "id": "phy9_q260",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "MCB क्या है?",
+        "en": "What is an MCB?"
+      },
+      "options": {
+        "hi": [
+          "धारा मापने का यंत्र",
+          "उच्च वोल्टेज बनाने का यंत्र",
+          "एक प्रकार का सेल",
+          "स्वचालित सर्किट ब्रेकर — अधिक धारा पर स्वयं बंद हो जाता है"
+        ],
+        "en": [
+          "A current-measuring device",
+          "A high-voltage generator",
+          "A type of cell",
+          "A miniature circuit breaker — it switches itself off on excess current"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "MCB अति-भार होने पर परिपथ स्वतः काट देता है।",
+        "en": "An MCB cuts the circuit automatically on overload."
+      }
+    },
+    {
+      "id": "phy9_q261",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत बिल किस इकाई में बनाया जाता है?",
+        "en": "In what unit is the electricity bill prepared?"
+      },
+      "options": {
+        "hi": [
+          "यूनिट (kWh)",
+          "वाट",
+          "एम्पियर",
+          "जूल"
+        ],
+        "en": [
+          "Units (kWh)",
+          "Watts",
+          "Amperes",
+          "Joules"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "खपत ऊर्जा यूनिट में गिनी जाती है।",
+        "en": "Consumed energy is counted in units."
+      }
+    },
+    {
+      "id": "phy9_q262",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "12 वोल्ट पर 2 एम्पियर लेने वाले उपकरण की शक्ति निकालिए।",
+        "en": "Find the power of a device drawing 2 A at 12 V."
+      },
+      "options": {
+        "hi": [
+          "0.17 वाट",
+          "24 वाट",
+          "6 वाट",
+          "14 वाट"
+        ],
+        "en": [
+          "0.17 W",
+          "24 W",
+          "6 W",
+          "14 W"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "P = VI = 12 × 2 = 24 वाट।",
+        "en": "P = VI = 12 × 2 = 24 W."
+      }
+    },
+    {
+      "id": "phy9_q263",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "1 किलोवाट का गीज़र 1 घंटा चले तो कितने यूनिट खर्च होंगे?",
+        "en": "How many units are consumed if a 1 kW geyser runs for 1 hour?"
+      },
+      "options": {
+        "hi": [
+          "60 यूनिट",
+          "1000 यूनिट",
+          "1 यूनिट",
+          "0.5 यूनिट"
+        ],
+        "en": [
+          "60 units",
+          "1000 units",
+          "1 unit",
+          "0.5 unit"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1 kW × 1 h = 1 kWh = 1 यूनिट।",
+        "en": "1 kW × 1 h = 1 kWh = 1 unit."
+      }
+    },
+    {
+      "id": "phy9_q264",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत स्विच को गीले हाथ से क्यों नहीं छूना चाहिए?",
+        "en": "Why should an electrical switch not be touched with wet hands?"
+      },
+      "options": {
+        "hi": [
+          "स्विच गीला होकर खराब हो जाता है",
+          "बिल बढ़ता है",
+          "तार जल जाते हैं",
+          "गीली त्वचा का प्रतिरोध बहुत घट जाता है — झटका लगने का खतरा"
+        ],
+        "en": [
+          "The switch spoils by getting wet",
+          "The bill rises",
+          "The wires burn",
+          "Wet skin's resistance drops greatly — risk of a shock"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "नमी शरीर को चालक बना देती है।",
+        "en": "Moisture turns the body into a conductor."
+      }
+    },
+    {
+      "id": "phy9_q265",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "निम्न में से सर्वाधिक शक्ति खाने वाला उपकरण कौन-सा है?",
+        "en": "Which of the following consumes the most power?"
+      },
+      "options": {
+        "hi": [
+          "विद्युत गीज़र (लगभग 2000 वाट)",
+          "LED बल्ब (लगभग 9 वाट)",
+          "पंखा (लगभग 60 वाट)",
+          "मोबाइल चार्जर (लगभग 20 वाट)"
+        ],
+        "en": [
+          "An electric geyser (about 2000 W)",
+          "An LED bulb (about 9 W)",
+          "A fan (about 60 W)",
+          "A mobile charger (about 20 W)"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "तापक उपकरण सबसे अधिक शक्ति लेते हैं।",
+        "en": "Heating appliances draw the most power."
+      }
+    },
+    {
+      "id": "phy9_q266",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "LED बल्ब ऊर्जा-बचत के लिए क्यों कहे जाते हैं?",
+        "en": "Why are LED bulbs called energy-saving?"
+      },
+      "options": {
+        "hi": [
+          "वे ठंडक देते हैं",
+          "वे उतनी ही रोशनी बहुत कम वाट में देते हैं",
+          "वे सस्ते होते हैं",
+          "वे बिना बिजली चलते हैं"
+        ],
+        "en": [
+          "They provide cooling",
+          "They give the same light at far fewer watts",
+          "They are cheap",
+          "They run without electricity"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "कम वाट — कम यूनिट — कम बिल।",
+        "en": "Fewer watts — fewer units — a smaller bill."
+      }
+    },
+    {
+      "id": "phy9_q267",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "P = I²R सूत्र किस राशि का द्योतक है?",
+        "en": "What quantity does the formula P = I²R represent?"
+      },
+      "options": {
+        "hi": [
+          "विभवांतर",
+          "प्रतिरोधकता",
+          "विद्युत शक्ति (वाट में)",
+          "विद्युत आवेश"
+        ],
+        "en": [
+          "Potential difference",
+          "Resistivity",
+          "Electrical power (in watts)",
+          "Electric charge"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P = VI = I²R = V²/R — तीनों रूप शक्ति के ही हैं।",
+        "en": "P = VI = I²R = V²/R — all three are forms of power."
+      }
+    },
+    {
+      "id": "phy9_q268",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "उपकरण पर अंकित '1000 W' का क्या अर्थ है?",
+        "en": "What does '1000 W' printed on an appliance mean?"
+      },
+      "options": {
+        "hi": [
+          "वह 1000 वोल्ट पर चलता है",
+          "वह 1000 एम्पियर धारा लेता है",
+          "वह 1000 यूनिट बिजली खाता है",
+          "वह प्रति सेकंड 1000 जूल ऊर्जा लेता है"
+        ],
+        "en": [
+          "It runs at 1000 volts",
+          "It draws 1000 amperes",
+          "It consumes 1000 units",
+          "It takes 1000 joules of energy every second"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "वाट रेटिंग प्रति सेकंड ऊर्जा-खपत बताती है: 1000 W = 1000 जूल प्रति सेकंड।",
+        "en": "The watt rating gives energy use per second: 1000 W = 1000 J each second."
+      }
+    },
+    {
+      "id": "phy9_q269",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "विद्युत अति-भार (overload) से क्या तात्पर्य है?",
+        "en": "What is meant by electrical overload?"
+      },
+      "options": {
+        "hi": [
+          "एक ही परिपथ में इतने उपकरण जुड़ जाना कि धारा सुरक्षित सीमा से बढ़ जाए",
+          "वोल्टेज घट जाना",
+          "तार मोटा होना",
+          "फ्यूज़ जुड़ना"
+        ],
+        "en": [
+          "Connecting so many appliances on one circuit that the current exceeds the safe limit",
+          "The voltage falling",
+          "The wire being thick",
+          "A fuse being connected"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अति-भार पर तार गर्म होकर खतरा पैदा कर सकते हैं।",
+        "en": "Overloaded wires heat up and can create hazards."
+      }
+    },
+    {
+      "id": "phy9_q270",
+      "topic": "electric-power-and-safety",
+      "difficulty": "easy",
+      "question": {
+        "hi": "लघुपथ (शॉर्ट सर्किट) कब कहलाता है?",
+        "en": "When is it called a short circuit?"
+      },
+      "options": {
+        "hi": [
+          "जब फ्यूज़ सही हो",
+          "जब लाइव और न्यूट्रल तार सीधे छू जाएँ — प्रतिरोध लगभग शून्य, धारा अत्यधिक",
+          "जब बल्ब फट जाए",
+          "जब स्विच बंद हो"
+        ],
+        "en": [
+          "When the fuse is intact",
+          "When the live and neutral wires touch directly — resistance near zero, huge current",
+          "When a bulb bursts",
+          "When the switch is off"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शून्य-प्रतिरोध पथ खतरनाक रूप से बड़ी धारा खींचता है।",
+        "en": "A near-zero resistance path draws dangerously large current."
+      }
+    },
+    {
+      "id": "phy9_q271",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "220 वोल्ट पर 0.5 एम्पियर लेने वाले उपकरण की शक्ति निकालिए।",
+        "en": "Find the power of a device drawing 0.5 A at 220 V."
+      },
+      "options": {
+        "hi": [
+          "55 वाट",
+          "220.5 वाट",
+          "110 वाट",
+          "440 वाट"
+        ],
+        "en": [
+          "55 W",
+          "220.5 W",
+          "110 W",
+          "440 W"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P = VI = 220 × 0.5 = 110 वाट।",
+        "en": "P = VI = 220 × 0.5 = 110 W."
+      }
+    },
+    {
+      "id": "phy9_q272",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "220 वोल्ट पर 1100 वाट का गीज़र कितनी धारा लेगा?",
+        "en": "What current does an 1100 W geyser draw at 220 V?"
+      },
+      "options": {
+        "hi": [
+          "2 एम्पियर",
+          "0.2 एम्पियर",
+          "242,000 एम्पियर",
+          "5 एम्पियर"
+        ],
+        "en": [
+          "2 A",
+          "0.2 A",
+          "242,000 A",
+          "5 A"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "I = P/V = 1100/220 = 5 एम्पियर।",
+        "en": "I = P/V = 1100/220 = 5 A."
+      }
+    },
+    {
+      "id": "phy9_q273",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "220 वोल्ट-100 वाट के बल्ब का प्रतिरोध निकालिए।",
+        "en": "Find the resistance of a 220 V-100 W bulb."
+      },
+      "options": {
+        "hi": [
+          "484 ओम",
+          "2.2 ओम",
+          "22 ओम",
+          "48.4 ओम"
+        ],
+        "en": [
+          "484 Ω",
+          "2.2 Ω",
+          "22 Ω",
+          "48.4 Ω"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "R = V²/P = 48400/100 = 484 ओम।",
+        "en": "R = V²/P = 48400/100 = 484 Ω."
+      }
+    },
+    {
+      "id": "phy9_q274",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 एम्पियर धारा 10 ओम प्रतिरोध से बहती है। व्यय शक्ति निकालिए।",
+        "en": "A current of 2 A flows through a 10 Ω resistor. Find the power spent."
+      },
+      "options": {
+        "hi": [
+          "0.5 वाट",
+          "40 वाट",
+          "20 वाट",
+          "5 वाट"
+        ],
+        "en": [
+          "0.5 W",
+          "40 W",
+          "20 W",
+          "5 W"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "P = I²R = 4 × 10 = 40 वाट।",
+        "en": "P = I²R = 4 × 10 = 40 W."
+      }
+    },
+    {
+      "id": "phy9_q275",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "44 ओम का तापक 220 वोल्ट पर जुड़ा है। उसकी शक्ति निकालिए।",
+        "en": "A 44 Ω heater is connected to 220 V. Find its power."
+      },
+      "options": {
+        "hi": [
+          "220 वाट",
+          "9680 वाट",
+          "1100 वाट",
+          "5 वाट"
+        ],
+        "en": [
+          "220 W",
+          "9680 W",
+          "1100 W",
+          "5 W"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P = V²/R = 48400/44 = 1100 वाट।",
+        "en": "P = V²/R = 48400/44 = 1100 W."
+      }
+    },
+    {
+      "id": "phy9_q276",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "100 वाट का बल्ब रोज़ 10 घंटे जले तो एक दिन में कितने यूनिट खर्च होंगे?",
+        "en": "A 100 W bulb glows 10 hours daily. How many units per day?"
+      },
+      "options": {
+        "hi": [
+          "10 यूनिट",
+          "0.1 यूनिट",
+          "100 यूनिट",
+          "1 यूनिट"
+        ],
+        "en": [
+          "10 units",
+          "0.1 unit",
+          "100 units",
+          "1 unit"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "E = Pt = 100 W × 10 h = 1000 Wh = 1 kWh।",
+        "en": "E = Pt = 100 W × 10 h = 1000 Wh = 1 kWh."
+      }
+    },
+    {
+      "id": "phy9_q277",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "2 किलोवाट का गीज़र 3 घंटे चला। खर्च यूनिट निकालिए।",
+        "en": "A 2 kW geyser runs for 3 hours. Find the units consumed."
+      },
+      "options": {
+        "hi": [
+          "6 यूनिट",
+          "2 यूनिट",
+          "1.5 यूनिट",
+          "5 यूनिट"
+        ],
+        "en": [
+          "6 units",
+          "2 units",
+          "1.5 units",
+          "5 units"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "E = 2 kW × 3 h = 6 kWh = 6 यूनिट।",
+        "en": "E = 2 kW × 3 h = 6 kWh = 6 units."
+      }
+    },
+    {
+      "id": "phy9_q278",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक माह 30 यूनिट खपत हुई; दर 5 रुपये प्रति यूनिट है। बिल कितना बनेगा?",
+        "en": "A month's consumption is 30 units at 5 rupees per unit. What is the bill?"
+      },
+      "options": {
+        "hi": [
+          "300 रुपये",
+          "150 रुपये",
+          "35 रुपये",
+          "6 रुपये"
+        ],
+        "en": [
+          "300 rupees",
+          "150 rupees",
+          "35 rupees",
+          "6 rupees"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "बिल = 30 × 5 = 150 रुपये।",
+        "en": "Bill = 30 × 5 = 150 rupees."
+      }
+    },
+    {
+      "id": "phy9_q279",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1 kWh जूल में कितने होते हैं?",
+        "en": "How many joules are in 1 kWh?"
+      },
+      "options": {
+        "hi": [
+          "1000 जूल",
+          "3.6 × 10^9 जूल",
+          "3.6 × 10^6 जूल",
+          "3.6 × 10^3 जूल"
+        ],
+        "en": [
+          "1000 J",
+          "3.6 × 10^9 J",
+          "3.6 × 10^6 J",
+          "3.6 × 10^3 J"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "1000 W × 3600 s = 3.6 × 10^6 जूल।",
+        "en": "1000 W × 3600 s = 3.6 × 10^6 J."
+      }
+    },
+    {
+      "id": "phy9_q280",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "100 वाट का बल्ब 1 मिनट में कितनी ऊर्जा (जूल में) खाता है?",
+        "en": "How much energy (in joules) does a 100 W bulb use in 1 minute?"
+      },
+      "options": {
+        "hi": [
+          "100 जूल",
+          "600 जूल",
+          "360,000 जूल",
+          "6000 जूल"
+        ],
+        "en": [
+          "100 J",
+          "600 J",
+          "360,000 J",
+          "6000 J"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "E = Pt = 100 × 60 = 6000 जूल।",
+        "en": "E = Pt = 100 × 60 = 6000 J."
+      }
+    },
+    {
+      "id": "phy9_q281",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "60 वाट का बल्ब 5 घंटे जले तो kWh में ऊर्जा कितनी?",
+        "en": "A 60 W bulb burns for 5 hours. What is the energy in kWh?"
+      },
+      "options": {
+        "hi": [
+          "0.3 kWh",
+          "3 kWh",
+          "300 kWh",
+          "0.03 kWh"
+        ],
+        "en": [
+          "0.3 kWh",
+          "3 kWh",
+          "300 kWh",
+          "0.03 kWh"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "E = 60 W × 5 h = 300 Wh = 0.3 kWh।",
+        "en": "E = 60 W × 5 h = 300 Wh = 0.3 kWh."
+      }
+    },
+    {
+      "id": "phy9_q282",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "5 एम्पियर के फ्यूज़ वाले परिपथ में 10 एम्पियर खाने वाला उपकरण जोड़ा गया। क्या होगा?",
+        "en": "An appliance drawing 10 A is connected on a circuit with a 5 A fuse. What happens?"
+      },
+      "options": {
+        "hi": [
+          "बिल घट जाएगा",
+          "फ्यूज़ पिघलकर परिपथ तोड़ देगा — यही उसका काम है",
+          "उपकरण सामान्य चलेगा",
+          "फ्यूज़ धारा बढ़ा देगा"
+        ],
+        "en": [
+          "The bill falls",
+          "The fuse melts and breaks the circuit — that is its job",
+          "The appliance runs normally",
+          "The fuse raises the current"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "रेटिंग से अधिक धारा पर फ्यूज़ सुरक्षा काटता है।",
+        "en": "Above its rating the fuse cuts in for protection."
+      }
+    },
+    {
+      "id": "phy9_q283",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "अर्थिंग किस प्रकार झटके से बचाती है?",
+        "en": "How does earthing protect against shocks?"
+      },
+      "options": {
+        "hi": [
+          "वह धारा रोक देती है",
+          "वह बिजली सोख लेती है",
+          "लीक हुई धारा कम-प्रतिरोध वाले अर्थ-मार्ग से ज़मीन में चली जाती है, शरीर से नहीं",
+          "वह वोल्टेज शून्य कर देती है"
+        ],
+        "en": [
+          "It stops the current",
+          "It absorbs the electricity",
+          "Leaked current finds the low-resistance earth path into the ground, not through the body",
+          "It zeroes the voltage"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "अर्थ पथ का प्रतिरोध शरीर से बहुत कम होता है।",
+        "en": "The earth path's resistance is far lower than the body's."
+      }
+    },
+    {
+      "id": "phy9_q284",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "MCB फ्यूज़ की तुलना में सुविधाजनक क्यों माना जाता है?",
+        "en": "Why is an MCB considered more convenient than a fuse?"
+      },
+      "options": {
+        "hi": [
+          "वह सस्ता होता है",
+          "वह धारा बढ़ाता है",
+          "वह वोल्टेज घटाता है",
+          "शॉर्ट/ओवरलोड के बाद उसे बदलने की ज़रूरत नहीं — स्विच उठाकर पुनः चालू"
+        ],
+        "en": [
+          "It is cheaper",
+          "It increases current",
+          "It lowers voltage",
+          "After a trip it needs no replacement — just reset the switch"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "फ्यूज़ तार हर बार बदलना पड़ता है; MCB पुनः चालू हो जाता है।",
+        "en": "A fuse wire must be replaced each time; an MCB is simply reset."
+      }
+    },
+    {
+      "id": "phy9_q285",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "एक ही सॉकेट में अनेक उच्च-शक्ति उपकरण जोड़ना क्यों खतरनाक है?",
+        "en": "Why is plugging many high-power appliances into one socket dangerous?"
+      },
+      "options": {
+        "hi": [
+          "कुल धारा सुरक्षा सीमा पार कर जाती है — तार गर्म, आग का खतरा",
+          "वोल्टेज दोगुना हो जाता है",
+          "प्रतिरोध शून्य हो जाता है",
+          "बिल स्वतः नहीं आता"
+        ],
+        "en": [
+          "The total current crosses the safe limit — wires heat up, fire risk",
+          "The voltage doubles",
+          "The resistance becomes zero",
+          "The bill stops coming"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "अति-भार से बचने के लिए भार बाँटना ज़रूरी।",
+        "en": "Loads must be spread out to avoid overload."
+      }
+    },
+    {
+      "id": "phy9_q286",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "श्रेणी में जुड़े बल्ब समान्तर की तुलना में मंद क्यों जलते हैं?",
+        "en": "Why do series-connected bulbs glow dimmer than parallel ones?"
+      },
+      "options": {
+        "hi": [
+          "बल्ब गर्म नहीं होते",
+          "प्रत्येक बल्ब को वोल्टेज बँट जाता है — कम V, कम शक्ति",
+          "श्रेणी में धारा शून्य हो जाती है",
+          "समान्तर में वोल्टेज बँटता है"
+        ],
+        "en": [
+          "The bulbs do not heat up",
+          "The voltage divides among the bulbs — less V, less power",
+          "Series current becomes zero",
+          "In parallel the voltage divides"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "शक्ति ∝ वोल्टेज; बँटे वोल्टेज पर चमक घटती है।",
+        "en": "Power scales with voltage; shared voltage dims the glow."
+      }
+    },
+    {
+      "id": "phy9_q287",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "220 वोल्ट पर 0.4 एम्पियर लेने वाले पंखे की शक्ति निकालिए।",
+        "en": "Find the power of a fan drawing 0.4 A at 220 V."
+      },
+      "options": {
+        "hi": [
+          "220.4 वाट",
+          "44 वाट",
+          "88 वाट",
+          "550 वाट"
+        ],
+        "en": [
+          "220.4 W",
+          "44 W",
+          "88 W",
+          "550 W"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "P = 220 × 0.4 = 88 वाट।",
+        "en": "P = 220 × 0.4 = 88 W."
+      }
+    },
+    {
+      "id": "phy9_q288",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "500 वाट की मिक्सी 12 मिनट चली। kWh में ऊर्जा निकालिए।",
+        "en": "A 500 W mixer runs for 12 minutes. Find the energy in kWh."
+      },
+      "options": {
+        "hi": [
+          "6 kWh",
+          "0.5 kWh",
+          "100 kWh",
+          "0.1 kWh"
+        ],
+        "en": [
+          "6 kWh",
+          "0.5 kWh",
+          "100 kWh",
+          "0.1 kWh"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "12 मिनट = 0.2 घंटा; E = 0.5 kW × 0.2 h = 0.1 kWh।",
+        "en": "12 min = 0.2 h; E = 0.5 kW × 0.2 h = 0.1 kWh."
+      }
+    },
+    {
+      "id": "phy9_q289",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "दो 100 वाट के बल्ब समान्तर में जुड़े हैं। कुल शक्ति कितनी?",
+        "en": "Two 100 W bulbs are connected in parallel. What is the total power?"
+      },
+      "options": {
+        "hi": [
+          "200 वाट",
+          "100 वाट",
+          "50 वाट",
+          "400 वाट"
+        ],
+        "en": [
+          "200 W",
+          "100 W",
+          "50 W",
+          "400 W"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "प्रत्येक को पूरा वोल्टेज — दोनों पूरी शक्ति — योग 200 वाट।",
+        "en": "Each gets full voltage — both draw full power — total 200 W."
+      }
+    },
+    {
+      "id": "phy9_q290",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "1.5 किलोवाट का एसी 8 घंटे चला। यूनिट निकालिए।",
+        "en": "A 1.5 kW air conditioner runs for 8 hours. Find the units."
+      },
+      "options": {
+        "hi": [
+          "9.5 यूनिट",
+          "12 यूनिट",
+          "1.5 यूनिट",
+          "8 यूनिट"
+        ],
+        "en": [
+          "9.5 units",
+          "12 units",
+          "1.5 units",
+          "8 units"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "E = 1.5 × 8 = 12 kWh = 12 यूनिट।",
+        "en": "E = 1.5 × 8 = 12 kWh = 12 units."
+      }
+    },
+    {
+      "id": "phy9_q291",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "विद्युत मरम्मत के समय रबर के दस्ताने क्यों पहने जाते हैं?",
+        "en": "Why are rubber gloves worn during electrical repairs?"
+      },
+      "options": {
+        "hi": [
+          "रबर से पकड़ मज़बूत होती है",
+          "रबर ठंडा रखता है",
+          "रबर रोधी है — धारा को शरीर तक नहीं पहुँचने देता",
+          "रबर नरम होता है"
+        ],
+        "en": [
+          "Rubber gives a better grip",
+          "Rubber keeps hands cool",
+          "Rubber insulates — it does not let current reach the body",
+          "Rubber is soft"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "रोधी सामग्री विद्युत-पथ शरीर तक आने से पहले ही काट देती है।",
+        "en": "Insulating material cuts the electrical path before it reaches the body."
+      }
+    },
+    {
+      "id": "phy9_q292",
+      "topic": "electric-power-and-safety",
+      "difficulty": "medium",
+      "question": {
+        "hi": "मरम्मत से पहले मेन स्विच बंद करना क्यों ज़रूरी है?",
+        "en": "Why is it essential to switch off the mains before repairs?"
+      },
+      "options": {
+        "hi": [
+          "बिल बचता है",
+          "तार ठंडे हो जाते हैं",
+          "बल्ब जल्दी नहीं जलते",
+          "परिपथ को स्रोत से पूर्णतः अलग करना ताकि कोई धारा न बहे"
+        ],
+        "en": [
+          "It saves the bill",
+          "The wires cool down",
+          "Bulbs do not burn out",
+          "To isolate the circuit from the source so that no current can flow"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "खुले परिपथ में काम करना ही सुरक्षित तरीका है।",
+        "en": "Working on an open circuit is the only safe way."
+      }
+    },
+    {
+      "id": "phy9_q293",
+      "topic": "electric-power-and-safety",
+      "difficulty": "hard",
+      "question": {
+        "hi": "60 वाट और 100 वाट के दो बल्ब (दोनों 220 वोल्ट के) श्रेणी में जुड़े हैं। कौन-सा अधिक चमकेगा?",
+        "en": "A 60 W and a 100 W bulb (both 220 V) are connected in series. Which glows more?"
+      },
+      "options": {
+        "hi": [
+          "60 वाट वाला — उसका प्रतिरोध अधिक है, एक ही धारा पर P = I²R अधिक",
+          "100 वाट वाला",
+          "दोनों समान",
+          "कोई नहीं जलेगा"
+        ],
+        "en": [
+          "The 60 W one — its resistance is higher, and the same current gives more P = I²R",
+          "The 100 W one",
+          "Both equally",
+          "Neither will glow"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "R = V²/P से 60 W बल्ब का R अधिक; श्रेणी में समान I बहती है — अधिक R वाला अधिक शक्ति खाता है।",
+        "en": "R = V²/P makes the 60 W bulb's R higher; series carries one current — higher R dissipates more power."
+      }
+    },
+    {
+      "id": "phy9_q294",
+      "topic": "electric-power-and-safety",
+      "difficulty": "hard",
+      "question": {
+        "hi": "दो समरूप बल्ब (प्रत्येक 220 V-100 W) श्रेणी में 220 वोल्ट पर जुड़े हैं। संयोजन की कुल शक्ति कितनी होगी (R स्थिर मानकर)?",
+        "en": "Two identical bulbs (each 220 V-100 W) are in series across 220 V. What is the total power (take R constant)?"
+      },
+      "options": {
+        "hi": [
+          "25 वाट",
+          "50 वाट — प्रत्येक बल्ब पर आधा वोल्टेज, प्रत्येक केवल 25 वाट देता है",
+          "200 वाट",
+          "100 वाट"
+        ],
+        "en": [
+          "25 W",
+          "50 W — each bulb gets half the voltage and yields only 25 W",
+          "200 W",
+          "100 W"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "प्रत्येक बल्ब पर 110 V; R = 484 Ω ⇒ P = 110²/484 = 25 W — कुल 50 वाट।",
+        "en": "Each bulb gets 110 V; R = 484 Ω ⇒ P = 110²/484 = 25 W — total 50 W."
+      }
+    },
+    {
+      "id": "phy9_q295",
+      "topic": "electric-power-and-safety",
+      "difficulty": "hard",
+      "question": {
+        "hi": "किसी परिपथ की सामान्य धारा 4 एम्पियर है। उपयुक्त फ्यूज़ रेटिंग क्या होनी चाहिए?",
+        "en": "A circuit normally carries 4 A. What should the suitable fuse rating be?"
+      },
+      "options": {
+        "hi": [
+          "2 एम्पियर — सस्ता विकल्प",
+          "60 एम्पियर — मुख्य लाइन जैसा",
+          "लगभग 5 एम्पियर — सामान्य धारा से थोड़ी अधिक, अति-भार पर तुरंत कट जाए",
+          "20 एम्पियर — बड़ा ही सुरक्षिका"
+        ],
+        "en": [
+          "2 A — a cheaper option",
+          "60 A — like the main line",
+          "About 5 A — slightly above the normal current, cutting off instantly on overload",
+          "20 A — a bigger safety margin"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "बहुत कम रेटिंग बार-बार कटेगी; बहुत अधिक रेटिंग अति-भार पर भी नहीं कटेगी — दोनों असुरक्षित।",
+        "en": "Too small a rating trips repeatedly; too large never trips — both unsafe."
+      }
+    },
+    {
+      "id": "phy9_q296",
+      "topic": "electric-power-and-safety",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक घर में 100 वाट के बल्ब 6 घंटे और 500 वाट का तापक 2 घंटे रोज़ चलते हैं। 30 दिन की कुल यूनिट निकालिए।",
+        "en": "A home runs a 100 W bulb 6 h and a 500 W heater 2 h daily. Find the total units for 30 days."
+      },
+      "options": {
+        "hi": [
+          "18 यूनिट",
+          "30 यूनिट",
+          "66 यूनिट",
+          "48 यूनिट"
+        ],
+        "en": [
+          "18 units",
+          "30 units",
+          "66 units",
+          "48 units"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "बल्ब: 0.1 × 6 × 30 = 18; तापक: 0.5 × 2 × 30 = 30; कुल 48 यूनिट।",
+        "en": "Bulb: 0.1 × 6 × 30 = 18; heater: 0.5 × 2 × 30 = 30; total 48 units."
+      }
+    },
+    {
+      "id": "phy9_q297",
+      "topic": "electric-power-and-safety",
+      "difficulty": "hard",
+      "question": {
+        "hi": "पतले तार वाले एक्सटेंशन बोर्ड पर भारी उपकरण चलाना क्यों खतरनाक है?",
+        "en": "Why is running heavy appliances on a thin-wired extension board dangerous?"
+      },
+      "options": {
+        "hi": [
+          "पतले तार का प्रतिरोध अधिक — उसी धारा पर P = I²R से तार अत्यधिक गर्म हो जाता है",
+          "पतले तार वोल्टेज बढ़ा देते हैं",
+          "पतले तार धारा रोक देते हैं",
+          "बोर्ड हल्का हो जाता है"
+        ],
+        "en": [
+          "Thin wire has higher resistance — at the same current P = I²R overheats it",
+          "Thin wires raise the voltage",
+          "Thin wires stop the current",
+          "The board becomes light"
+        ]
+      },
+      "correct": 0,
+      "explanation": {
+        "hi": "ऊष्मा विकास धारा के वर्ग और प्रतिरोध दोनों पर बढ़ता है।",
+        "en": "Heat production grows with both the square of current and the resistance."
+      }
+    },
+    {
+      "id": "phy9_q298",
+      "topic": "electric-power-and-safety",
+      "difficulty": "hard",
+      "question": {
+        "hi": "220 वोल्ट-100 वाट का बल्ब (प्रतिरोध स्थिर मानकर) 110 वोल्ट पर जोड़ा गया। अब शक्ति कितनी होगी?",
+        "en": "A 220 V-100 W bulb (resistance assumed constant) is connected at 110 V. What is the power now?"
+      },
+      "options": {
+        "hi": [
+          "200 वाट",
+          "25 वाट",
+          "50 वाट",
+          "100 वाट"
+        ],
+        "en": [
+          "200 W",
+          "25 W",
+          "50 W",
+          "100 W"
+        ]
+      },
+      "correct": 1,
+      "explanation": {
+        "hi": "R = 484 Ω; P = V²/R = 12100/484 = 25 वाट — वोल्टेज आधा, शक्ति एक-चौथाई।",
+        "en": "R = 484 Ω; P = V²/R = 12100/484 = 25 W — half voltage, quarter power."
+      }
+    },
+    {
+      "id": "phy9_q299",
+      "topic": "electric-power-and-safety",
+      "difficulty": "hard",
+      "question": {
+        "hi": "एक कमरे में 3 बल्ब (प्रत्येक 60 वाट) रोज़ 4 घंटे 30 दिन तक जलते हैं। कुल यूनिट निकालिए।",
+        "en": "A room has 3 bulbs (60 W each) burning 4 h daily for 30 days. Find the total units."
+      },
+      "options": {
+        "hi": [
+          "216 यूनिट",
+          "72 यूनिट",
+          "21.6 यूनिट",
+          "7.2 यूनिट"
+        ],
+        "en": [
+          "216 units",
+          "72 units",
+          "21.6 units",
+          "7.2 units"
+        ]
+      },
+      "correct": 2,
+      "explanation": {
+        "hi": "0.06 × 3 × 4 × 30 = 21.6 kWh = 21.6 यूनिट।",
+        "en": "0.06 × 3 × 4 × 30 = 21.6 kWh = 21.6 units."
+      }
+    },
+    {
+      "id": "phy9_q300",
+      "topic": "electric-power-and-safety",
+      "difficulty": "hard",
+      "question": {
+        "hi": "लघुपथ की स्थिति में 220 वोल्ट और 0.5 ओम पथ-प्रतिरोध पर धारा कितनी बहती है और फ्यूज़/MCB क्यों ज़रूरी है?",
+        "en": "In a short circuit with 220 V and 0.5 Ω path resistance, how much current flows, and why are fuses/MCBs essential?"
+      },
+      "options": {
+        "hi": [
+          "22 एम्पियर — कोई खतरा नहीं",
+          "4400 एम्पियर — कुछ नहीं किया जा सकता",
+          "44 एम्पियर — बिल बढ़ता है",
+          "440 एम्पियर — ऐसी अति-धारा तार तपा सकती है; सुरक्षा यंत्र तुरंत परिपथ काटते हैं"
+        ],
+        "en": [
+          "22 A — no danger",
+          "4400 A — nothing can be done",
+          "44 A — only the bill rises",
+          "440 A — such excessive current can heat wires dangerously; protective devices cut the circuit instantly"
+        ]
+      },
+      "correct": 3,
+      "explanation": {
+        "hi": "I = 220/0.5 = 440 एम्पियर; फ्यूज़/MCB इसे मिनटों में काट देते हैं।",
+        "en": "I = 220/0.5 = 440 A; a fuse or MCB cuts it off within moments."
+      }
+    }
+  ]
+}

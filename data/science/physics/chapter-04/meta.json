@@ -1,0 +1,137 @@
+{
+  "subject": "physics",
+  "subjectName": {
+    "hi": "भौतिक विज्ञान",
+    "en": "Physics"
+  },
+  "classRange": "6-10",
+  "chapter": "chapter-04",
+  "chapterNumber": 4,
+  "code": "P04",
+  "chapterName": {
+    "hi": "गुरुत्वाकर्षण, भार एवं दाब",
+    "en": "Gravitation, Weight & Pressure"
+  },
+  "mockQuestionCount": 30,
+  "practiceQuestionTarget": 150,
+  "mockTestTarget": 5,
+  "topics": [],
+  "notes": {
+    "hi": {
+      "concept": "हर वस्तु हर दूसरी वस्तु को गुरुत्वाकर्षण बल से आकर्षित करती है। पृथ्वी के कारण यह बल वस्तुओं को नीचे खींचता है जिसे भार कहते हैं। दाब इकाई क्षेत्रफल पर लगने वाला बल है और द्रवों में गहराई के साथ बढ़ता है, जिससे उत्प्लावकता का नियम बनता है।",
+      "example": "नुकीली कील आसानी से दीवार में घुस जाती है क्योंकि उसका क्षेत्रफल कम होने से दाब अधिक होता है।",
+      "sections": [
+        {
+          "heading": "गुरुत्वाकर्षण का नियम",
+          "content": "दो वस्तुओं के बीच आकर्षण बल द्रव्यमानों के गुणनफल के समानुपाती और दूरी के वर्ग के व्युत्क्रमानुपाती होता है।"
+        },
+        {
+          "heading": "गुरुत्वीय त्वरण एवं भार",
+          "content": "पृथ्वी पर g ≈ 9.8 m/s²; भार W = mg, जो स्थान के साथ बदलता है जबकि द्रव्यमान स्थिर रहता है।"
+        },
+        {
+          "heading": "दाब",
+          "content": "दाब = बल/क्षेत्रफल, मात्रक पास्कल; द्रवों में दाब गहराई के साथ बढ़ता है और सभी दिशाओं में समान रूप से कार्य करता है।"
+        },
+        {
+          "heading": "उत्प्लावकता",
+          "content": "आर्किमिडीज के अनुसार पिंड पर उठाव बल विस्थापित द्रव के भार के बराबर होता है; इसी से प्लवनशीलता का नियम बनता है।"
+        }
+      ],
+      "keyPoints": [
+        "गुरुत्वाकर्षण सार्वत्रिक बल है",
+        "g का मान पृथ्वी पर लगभग 9.8 m/s² है",
+        "भार W = mg — यह बल है, मात्रक न्यूटन",
+        "चंद्रमा पर भार पृथ्वी का लगभग 1/6 होता है",
+        "दाब = बल/क्षेत्रफल, मात्रक पास्कल (N/m²)",
+        "वायुमंडलीय दाब सभी दिशाओं में कार्य करता है"
+      ],
+      "examFocus": [
+        "द्रव्यमान-भार अंतर की तुलना तालिका याद रखें",
+        "आर्किमिडीज सिद्धांत और प्लवन का नियम के उदाहरण जानें",
+        "दाब-क्षेत्रफल संबंधी संख्यात्मक प्रश्नों का अभ्यास करें"
+      ],
+      "examTraps": [
+        "द्रव्यमान और भार को समान न लें — द्रव्यमान स्थान बदलने पर स्थिर रहता है",
+        "गुरुत्वीय त्वरण सदा नीचे की ओर होता है, वस्तु की गति की दिशा से स्वतंत्र"
+      ],
+      "thinkBeforeAnswer": [
+        "चंद्रमा पर भार का प्रश्न हो तो 1/6 का उपयोग करें",
+        "प्लवन/डूबने का प्रश्न हो तो घनत्व की तुलना करें"
+      ],
+      "memoryTricks": [
+        "'W = mg — Weight has g' वाक्य दोहराएँ",
+        "छोटा क्षेत्रफल = अधिक दाब — कील और नुकीले जूते उदाहरण हैं"
+      ],
+      "pyqSignals": [
+        "द्रव्यमान-भार अंतर परीक्षा का प्रिय प्रश्न है",
+        "आर्किमिडीज सिद्धांत पर प्रश्न बार-बार आते हैं"
+      ],
+      "mustRemember": [
+        "गुरुत्वाकर्षण का सार्वत्रिक नियम",
+        "भार और द्रव्यमान में अंतर",
+        "दाब की परिभाषा और मात्रक",
+        "आर्किमिडीज सिद्धांत और प्लवन का नियम"
+      ],
+      "quickRevision": "प्रत्येक वस्तु गुरुत्वाकर्षण बल से दूसरी को आकर्षित करती है। पृथ्वी पर g ≈ 9.8 m/s² तथा भार W = mg होता है जो द्रव्यमान से भिन्न है। दाब बल प्रति इकाई क्षेत्रफल है और द्रव में गहराई के साथ बढ़ता है। आर्किमिडीज के सिद्धांत से उत्प्लावकता और प्लवन का नियम निकलता है।"
+    },
+    "en": {
+      "concept": "Every object attracts every other object by gravitational force. Earth's pull gives objects weight. Pressure is force per unit area and increases with depth in fluids, leading to the law of buoyancy.",
+      "example": "A pointed nail enters a wall easily because its small area gives high pressure.",
+      "sections": [
+        {
+          "heading": "Law of Gravitation",
+          "content": "The attraction between two bodies is proportional to the product of masses and inversely proportional to the square of distance."
+        },
+        {
+          "heading": "Gravitational Acceleration and Weight",
+          "content": "On Earth g ≈ 9.8 m/s²; weight W = mg changes with place while mass stays constant."
+        },
+        {
+          "heading": "Pressure",
+          "content": "Pressure = force/area, unit pascal; in fluids it increases with depth and acts equally in all directions."
+        },
+        {
+          "heading": "Buoyancy",
+          "content": "By Archimedes' principle, the upward force on a body equals the weight of fluid displaced; this gives the law of floatation."
+        }
+      ],
+      "keyPoints": [
+        "Gravitation is a universal force",
+        "g is about 9.8 m/s² on Earth",
+        "Weight W = mg — it is a force in newtons",
+        "On the Moon the weight is about 1/6 of that on Earth",
+        "Pressure = force/area, unit pascal (N/m²)",
+        "Atmospheric pressure acts in all directions"
+      ],
+      "examFocus": [
+        "Keep a comparison table of mass vs weight",
+        "Know examples of Archimedes' principle and the law of floatation",
+        "Practise numericals on pressure and area"
+      ],
+      "examTraps": [
+        "Do not confuse mass and weight — mass stays constant everywhere",
+        "Gravitational acceleration always points downward, independent of the object's motion"
+      ],
+      "thinkBeforeAnswer": [
+        "For weight on the Moon, use the 1/6 factor",
+        "For floating/sinking, compare densities"
+      ],
+      "memoryTricks": [
+        "Repeat 'W = mg — Weight has g'",
+        "Small area = high pressure — nail and pointed shoes are examples"
+      ],
+      "pyqSignals": [
+        "The mass-weight difference is an exam favourite",
+        "Questions on Archimedes' principle appear repeatedly"
+      ],
+      "mustRemember": [
+        "Universal law of gravitation",
+        "Difference between weight and mass",
+        "Definition and unit of pressure",
+        "Archimedes' principle and the law of floatation"
+      ],
+      "quickRevision": "Every body attracts another gravitationally. On Earth g ≈ 9.8 m/s² and weight W = mg differs from mass. Pressure is force per unit area and grows with depth in fluids. Archimedes' principle gives buoyancy and the law of floatation."
+    }
+  }
+}
