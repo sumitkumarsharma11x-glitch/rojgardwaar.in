@@ -55,6 +55,8 @@ const LanguageManager = (function () {
     retry: { hi: "पुनः प्रयास करें", en: "Retry" },
     noWrongQuestions: { hi: "बधाई हो! आपके कोई गलत प्रश्न नहीं हैं।", en: "Congratulations! You have no wrong questions." },
     reviewAnswers: { hi: "उत्तर समीक्षा", en: "Answer Review" },
+    topicAnalysis: { hi: "विषयवार प्रदर्शन", en: "Topic-wise Performance" },
+    noTopicAnalysis: { hi: "विषयवार डेटा उपलब्ध नहीं है।", en: "Topic-wise data is not available." },
     performanceGreat: { hi: "शानदार प्रदर्शन! 🎉", en: "Great performance! 🎉" },
     performanceGood: { hi: "अच्छा प्रदर्शन! 👍", en: "Good performance! 👍" },
     performanceAverage: { hi: "ठीक-ठाक, और अभ्यास करें 💪", en: "Fair, practice more 💪" },
