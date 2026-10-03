@@ -2668,3 +2668,46 @@ button:focus-visible {
     font-size: 23px;
   }
 }
+
+
+.rjd-topic-analysis {
+  margin-top: 22px;
+}
+
+.rjd-topic-list {
+  display: grid;
+  gap: 10px;
+}
+
+.rjd-topic-row {
+  padding: 12px 14px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+}
+
+.rjd-topic-row__head {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 7px;
+  font-size: 13px;
+}
+
+.rjd-topic-row__head strong {
+  white-space: nowrap;
+}
+
+.rjd-topic-bar {
+  height: 7px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: var(--paper-deep);
+}
+
+.rjd-topic-bar span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--gold);
+}
