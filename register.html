@@ -1,79 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  <title>Create Account | RojgarDwaar</title>
-  <link rel="stylesheet" href="./css/style.css">
-  <link rel="stylesheet" href="./css/auth.css?v=20261003premium">
-  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-  <script src="./js/supabase-config.js"></script>
-  <script src="./js/auth.js" defer></script>
-</head>
-<body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a href="./index.html" class="logo">ROJGARDWAAR<span>.IN</span></a>
-    </div>
-  </header>
-
-  <main class="auth-page auth-register-page">
-    <section class="auth-card premium-auth-card">
-      <div class="auth-brand-mark" aria-hidden="true">RD</div>
-      <div class="premium-badge"><span>✦</span> PREMIUM LEARNING ACCESS</div>
-      <h1>Create your account</h1>
-      <p class="auth-sub">Join RojgarDwaar to unlock premium test series, track your performance and keep your preparation in one place.</p>
-
-      <div class="auth-benefits">
-        <div><strong>✓</strong><span>Premium test series access</span></div>
-        <div><strong>✓</strong><span>Detailed performance analysis</span></div>
-        <div><strong>✓</strong><span>Secure account &amp; progress</span></div>
-      </div>
-
-      <div class="auth-progress" aria-label="Registration progress">
-        <div class="auth-progress-step is-active"><span>1</span><small>Account</small></div>
-        <div class="auth-progress-line"></div>
-        <div class="auth-progress-step"><span>2</span><small>Email verify</small></div>
-        <div class="auth-progress-line"></div>
-        <div class="auth-progress-step"><span>3</span><small>Ready</small></div>
-      </div>
-
-      <div id="authMsg" class="auth-msg info" hidden></div>
-
-      <form id="registerForm" class="auth-form" onsubmit="registerUser(event)">
-        <div class="auth-field">
-          <label for="name">Full name</label>
-          <input id="name" type="text" placeholder="Enter your name" required autocomplete="name">
-        </div>
-        <div class="auth-field">
-          <label for="email">Email address</label>
-          <input id="email" type="email" placeholder="you@example.com" required autocomplete="email">
-        </div>
-        <div class="auth-field">
-          <label for="password">Password</label>
-          <input id="password" type="password" placeholder="Minimum 8 characters" minlength="8" required autocomplete="new-password">
-        </div>
-        <button class="auth-btn premium-btn" type="submit"><span>Create secure account</span><b>→</b></button>
-      </form>
-
-      <div id="otpBox" class="otp-box" hidden>
-        <div class="otp-icon" aria-hidden="true">✉</div>
-        <div class="otp-label">EMAIL VERIFICATION</div>
-        <h2>Check your inbox</h2>
-        <p class="auth-sub">We sent a 6-digit verification code to your email address. Enter it below to activate your account.</p>
-        <form class="auth-form" onsubmit="verifySignupOtp(event)">
-          <div class="auth-field">
-            <label for="otp">6-digit verification code</label>
-            <input id="otp" class="otp-input" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="6" pattern="[0-9]{6}" placeholder="000000" required>
-          </div>
-          <button class="auth-btn premium-btn" type="submit"><span>Verify &amp; continue</span><b>✓</b></button>
-        </form>
-        <button class="auth-secondary" type="button" onclick="resendSignupOtp()">↻ Resend verification code</button>
-      </div>
-
-      <p class="auth-link">Already have an account? <a href="./login.html">Sign in</a></p>
-      <p class="auth-trust">🔒 Your account information is protected securely.</p>
-    </section>
-  </main>
-</body>
-</html>
+<html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Create Account | RojgarDwaar</title>
+<link rel="stylesheet" href="./css/style.css"><link rel="stylesheet" href="./css/auth.css?v=20261003edu2">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="./js/supabase-config.js"></script><script src="./js/auth.js" defer></script>
+</head><body>
+<header class="site-header"><div class="container header-inner"><a href="./index.html" class="logo">ROJGARDWAAR<span>.IN</span></a></div></header>
+<main class="auth-page education-auth-page">
+<section class="auth-card education-auth-card">
+<div class="education-icon" aria-hidden="true">📚</div>
+<div class="education-kicker">STUDENT LEARNING ACCOUNT</div>
+<h1>Start your preparation</h1>
+<p class="auth-sub">Create your free RojgarDwaar account to save your progress, practice mock tests and continue learning from where you stopped.</p>
+<div class="learning-points">
+<div><span>✓</span><p><strong>Track your practice</strong><small>Keep your test attempts and progress together.</small></p></div>
+<div><span>✓</span><p><strong>Learn &amp; revise</strong><small>Practice with notes, questions and mock tests.</small></p></div>
+</div>
+<div id="authMsg" class="auth-msg info" hidden></div>
+<form id="registerForm" class="auth-form" onsubmit="registerUser(event)">
+<div class="auth-field"><label for="name">Full name</label><input id="name" type="text" placeholder="Your name" required autocomplete="name"></div>
+<div class="auth-field"><label for="email">Email address</label><input id="email" type="email" placeholder="you@example.com" required autocomplete="email"></div>
+<div class="auth-field"><label for="password">Password</label><input id="password" type="password" placeholder="At least 8 characters" minlength="8" required autocomplete="new-password"></div>
+<button class="auth-btn education-btn" type="submit"><span>Create student account</span><b>→</b></button>
+</form>
+<div id="otpBox" class="otp-box" hidden>
+<div class="otp-icon" aria-hidden="true">✉</div><div class="otp-label">EMAIL VERIFICATION</div><h2>Verify your email</h2>
+<p class="auth-sub">We sent a 6-digit code to your email. Enter it below to activate your learning account.</p>
+<form class="auth-form" onsubmit="verifySignupOtp(event)"><div class="auth-field"><label for="otp">6-digit verification code</label><input id="otp" class="otp-input" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="6" pattern="[0-9]{6}" placeholder="000000" required></div><button class="auth-btn education-btn" type="submit"><span>Verify &amp; continue</span><b>✓</b></button></form>
+<button class="auth-secondary" type="button" onclick="resendSignupOtp()">↻ Resend verification code</button>
+</div>
+<p class="auth-link">Already have an account? <a href="./login.html">Sign in</a></p>
+<p class="auth-trust">Your account is used only to manage your RojgarDwaar learning progress.</p>
+</section>
+</main></body></html>
