@@ -1,1 +1,29 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>My Account | RojgarDwaar</title><link rel="stylesheet" href="./css/style.css"><link rel="stylesheet" href="./css/auth.css"><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="./js/supabase-config.js"></script><script src="./js/auth.js" defer></script></head><body onload="loadAccount()"><header class="site-header"><div class="container header-inner"><a href="./index.html" class="logo">ROJGARDWAAR<span>.IN</span></a></div></header><main class="auth-page"><section class="auth-card account-card"><h1>My Account</h1><p class="auth-sub">Welcome to your RojgarDwaar dashboard.</p><div id="authMsg" class="auth-msg info" hidden></div><div class="account-box"><strong id="accountName">Loading...</strong><br><span id="accountEmail"></span></div><h2>My Courses</h2><p>Purchased Railway test series will appear here after payment integration is connected.</p><div class="account-actions"><a href="./railway-exams.html">🚆 Railway Exams</a><a class="secondary" href="./index.html">Home</a><button class="secondary" onclick="logoutUser()">Logout</button></div></section></main></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>My Account | RojgarDwaar</title>
+<link rel="stylesheet" href="./css/style.css"><link rel="stylesheet" href="./css/auth.css?v=20261003premium">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script src="./js/supabase-config.js"></script><script src="./js/auth.js" defer></script>
+</head>
+<body onload="loadAccount()">
+<header class="site-header"><div class="container header-inner"><a href="./index.html" class="logo">ROJGARDWAAR<span>.IN</span></a></div></header>
+<main class="auth-page auth-register-page">
+<section class="auth-card account-card premium-auth-card">
+<div class="auth-brand-mark" aria-hidden="true">RD</div>
+<div class="premium-badge"><span>✦</span> ROJGARDWAAR ACCOUNT</div>
+<h1>My Account</h1>
+<p class="auth-sub">Your preparation hub for premium test series and performance tracking.</p>
+<div id="authMsg" class="auth-msg info" hidden></div>
+<div class="account-box premium-account-box">
+<div class="account-avatar" aria-hidden="true">👤</div>
+<div><strong id="accountName">Loading...</strong><br><span id="accountEmail"></span></div>
+</div>
+<div class="account-section-title">MY PREPARATION</div>
+<div class="account-box account-feature-box"><strong>Premium Test Series</strong><span>Purchased Railway test series will appear here after payment integration is connected.</span></div>
+<div class="account-actions"><a href="./railway-exams.html">🚆 Railway Exams</a><a class="secondary" href="./index.html">Home</a><button class="secondary" onclick="logoutUser()">Logout</button></div>
+<p class="auth-trust">🔒 Your account information is protected securely.</p>
+</section>
+</main>
+</body></html>
