@@ -139,22 +139,34 @@
         <path d="M160 298v32" stroke="#c1852c" stroke-width="2.6"/>
       </g>
 
-      <!-- student (front-facing, navy uniform) -->
+      <!-- student (young school child, friendly NCERT-learning look) -->
       <g>
-        <path d="M172 330v-36a58 58 0 0 1 116 0v36z" fill="#1b2a4a"/>
-        <path d="M200 296h60v10a30 30 0 0 1-60 0z" fill="#c1852c" opacity=".9"/>
-        <path d="M288 300c14 6 20 16 20 30h-20zM172 300c-14 6-20 16-20 30h20z" fill="#e9bd8f"/>
-        <circle cx="230" cy="234" r="38" fill="#e9bd8f"/>
-        <path d="M192 226a38 38 0 0 1 76 0v-8c0-16-12-30-26-32h-24c-14 2-26 16-26 32z" fill="#23180f"/>
-        <path d="M196 222c10-8 20-12 28-12h12c8 0 18 4 28 12" fill="none" stroke="#23180f" stroke-width="8" stroke-linecap="round"/>
-        <circle cx="216" cy="236" r="3.4" fill="#23180f"/><circle cx="244" cy="236" r="3.4" fill="#23180f"/>
-        <path d="M222 254c4 3 12 3 16 0" fill="none" stroke="#8a5a3d" stroke-width="3" stroke-linecap="round"/>
+        <!-- small school body / uniform -->
+        <path d="M188 330v-30c0-26 18-44 42-44s42 18 42 44v30z" fill="#24456f"/>
+        <path d="M202 274h56v14c0 18-12 30-28 30s-28-12-28-30z" fill="#f8fafc"/>
+        <path d="M230 270v48" stroke="#c1852c" stroke-width="3"/>
+        <path d="M188 298c-14 5-21 16-21 32h21zM272 298c14 5 21 16 21 32h-21z" fill="#e9bd8f"/>
+        <!-- larger child head -->
+        <circle cx="230" cy="224" r="43" fill="#f0c39a"/>
+        <!-- simple child hair -->
+        <path d="M188 218c0-25 18-45 42-45s42 20 42 45v-8c0-25-17-43-42-43s-42 18-42 43z" fill="#2a1b14"/>
+        <path d="M193 201c10-12 23-18 37-18 14 0 27 6 37 18" fill="none" stroke="#2a1b14" stroke-width="9" stroke-linecap="round"/>
+        <!-- ears -->
+        <circle cx="187" cy="227" r="7" fill="#e9bd8f"/><circle cx="273" cy="227" r="7" fill="#e9bd8f"/>
+        <!-- bright child expression -->
+        <circle cx="215" cy="230" r="3.7" fill="#23180f"/><circle cx="245" cy="230" r="3.7" fill="#23180f"/>
+        <circle cx="204" cy="243" r="5" fill="#e9a99a" opacity=".55"/><circle cx="256" cy="243" r="5" fill="#e9a99a" opacity=".55"/>
+        <path d="M220 249c5 6 15 6 20 0" fill="none" stroke="#8a5a3d" stroke-width="3" stroke-linecap="round"/>
+        <!-- little collar -->
+        <path d="M216 264l14 12 14-12" fill="#fff" stroke="#d8dde5" stroke-width="1.5"/>
         <!-- writing arm -->
-        <path d="M282 306c16 4 26 12 30 24l-30-4z" fill="#1b2a4a"/>
-        <path d="M306 326c8 2 12 6 12 10h-16z" fill="#e9bd8f"/>
+        <path d="M267 304c15 5 23 13 27 25l-27-5z" fill="#24456f"/>
+        <path d="M291 325c8 2 12 6 12 10h-16z" fill="#f0c39a"/>
         <!-- pencil -->
-        <rect x="312" y="296" width="7" height="34" rx="2" transform="rotate(24 312 296)" fill="#c1852c"/>
-        <path d="M318 328l6 10-11-2z" fill="#23180f"/>
+        <rect x="303" y="296" width="7" height="34" rx="2" transform="rotate(24 303 296)" fill="#c1852c"/>
+        <path d="M309 328l6 10-11-2z" fill="#23180f"/>
+        <!-- school badge -->
+        <circle cx="230" cy="299" r="7" fill="#c1852c"/><path d="M227 299l3 3 5-6" fill="none" stroke="#fff" stroke-width="1.8"/>
       </g>
 
       <!-- gold stamp -->
