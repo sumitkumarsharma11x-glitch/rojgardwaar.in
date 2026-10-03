@@ -12,7 +12,7 @@ const ScoreEngine = (function () {
    * @param {Object} answers - map of questionId -> selectedOptionIndex
    * @param {number} timeTakenSeconds
    */
-  function calculate(questions, answers, timeTakenSeconds) {
+  function calculate(questions, answers, timeTakenSeconds, meta = null) {
     let correct = 0;
     let wrong = 0;
     let unattempted = 0;
@@ -57,7 +57,11 @@ const ScoreEngine = (function () {
     const total = questions.length;
     const attempted = correct + wrong;
     const accuracy = attempted > 0 ? Math.round((correct / attempted) * 100) : 0;
-    const percentage = total > 0 ? Math.round((correct / total) * 100) : 0;
+    const negativePerWrong = meta && Number(meta.negativeMarkingDenominator) > 0
+      ? 1 / Number(meta.negativeMarkingDenominator)
+      : 0;
+    const netScore = Math.max(0, correct - wrong * negativePerWrong);
+    const percentage = total > 0 ? Math.round((netScore / total) * 100) : 0;
     const avgTimePerQ = total > 0 ? Math.round(timeTakenSeconds / total) : 0;
 
     const topicWise = Object.keys(topicStats).map((topic) => ({
@@ -81,6 +85,8 @@ const ScoreEngine = (function () {
         unattempted,
         percentage,
         accuracy,
+        netScore,
+        negativePerWrong,
         timeTakenSeconds,
         avgTimePerQ,
         performanceKey,
