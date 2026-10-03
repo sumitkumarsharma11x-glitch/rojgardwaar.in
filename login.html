@@ -1,31 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
+<html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Login | RojgarDwaar</title>
-<link rel="stylesheet" href="./css/style.css"><link rel="stylesheet" href="./css/auth.css?v=20261003premium">
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="./js/supabase-config.js"></script><script src="./js/auth.js" defer></script>
-</head>
-<body>
+<link rel="stylesheet" href="./css/style.css"><link rel="stylesheet" href="./css/auth.css?v=20261003edu2">
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script><script src="./js/supabase-config.js"></script><script src="./js/auth.js" defer></script>
+</head><body>
 <header class="site-header"><div class="container header-inner"><a href="./index.html" class="logo">ROJGARDWAAR<span>.IN</span></a></div></header>
-<main class="auth-page auth-register-page">
-<section class="auth-card premium-auth-card">
-<div class="auth-brand-mark" aria-hidden="true">RD</div>
-<div class="premium-badge"><span>✦</span> PREMIUM LEARNING ACCESS</div>
+<main class="auth-page education-auth-page">
+<section class="auth-card education-auth-card login-education-card">
+<div class="education-icon" aria-hidden="true">📖</div>
+<div class="education-kicker">STUDENT LEARNING ACCOUNT</div>
 <h1>Welcome back</h1>
-<p class="auth-sub">Sign in to continue your RojgarDwaar preparation and access your premium test series.</p>
-<div class="auth-benefits">
-<div><strong>✓</strong><span>Premium test series</span></div><div><strong>✓</strong><span>Performance insights</span></div><div><strong>✓</strong><span>Secure progress</span></div>
+<p class="auth-sub">Sign in to continue your preparation, review your progress and practice on RojgarDwaar.</p>
+<div class="learning-points compact">
+<div><span>✓</span><p><strong>Continue learning</strong><small>Pick up your preparation where you left off.</small></p></div>
+<div><span>✓</span><p><strong>Review your practice</strong><small>Keep your test history in one place.</small></p></div>
 </div>
 <div id="authMsg" class="auth-msg info" hidden></div>
 <form class="auth-form" onsubmit="loginUser(event)">
 <div class="auth-field"><label for="email">Email address</label><input id="email" type="email" placeholder="you@example.com" required autocomplete="email"></div>
 <div class="auth-field"><label for="password">Password</label><input id="password" type="password" placeholder="Enter your password" required autocomplete="current-password"></div>
-<button class="auth-btn premium-btn" type="submit"><span>Sign in securely</span><b>→</b></button>
+<button class="auth-btn education-btn" type="submit"><span>Continue to learning</span><b>→</b></button>
 </form>
-<p class="auth-link">New to RojgarDwaar? <a href="./register.html">Create your account</a></p>
-<p class="auth-trust">🔒 Secure sign-in powered by RojgarDwaar</p>
+<p class="auth-link">New to RojgarDwaar? <a href="./register.html">Create a student account</a></p>
+<p class="auth-trust">A simple account for your learning progress and practice history.</p>
 </section>
-</main>
-</body></html>
+</main></body></html>
