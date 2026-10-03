@@ -92,3 +92,18 @@
 .education-btn:hover{background:#1d4ed8!important}
 .education-btn b{color:#fff}
 .education-auth-card .auth-link a{color:#2563eb}
+
+/* Two-column academic auth layout inspired by modern learning portals */
+.auth-split-page{min-height:calc(100vh - 72px);display:grid;grid-template-columns:minmax(420px,1fr) minmax(420px,1fr);background:#fff}
+.auth-visual{background:linear-gradient(145deg,#eef5ff 0%,#f7fbff 100%);display:flex;flex-direction:column;justify-content:center;padding:55px clamp(35px,6vw,90px);position:relative;overflow:hidden}
+.auth-visual:after{content:"";position:absolute;width:280px;height:280px;border-radius:50%;background:#dbeafe;right:-140px;bottom:-140px}
+.auth-visual-art{width:min(100%,560px);margin:0 auto 22px;display:block}
+.auth-visual h2{max-width:560px;margin:0 0 9px;color:#172033;font-size:25px;letter-spacing:-.4px}
+.auth-visual p{max-width:540px;margin:0;color:#51657b;font-size:14px;line-height:1.6}
+.auth-dots{display:flex;gap:8px;margin:34px auto 0}.auth-dots span{width:9px;height:9px;border-radius:50%;background:#b8c4d2}.auth-dots span.active{width:36px;border-radius:10px;background:#2563eb}
+.auth-form-panel{display:flex;align-items:center;justify-content:center;padding:50px 45px;background:#fff}
+.auth-form-panel .education-auth-card{box-shadow:none;border:0;border-top:0;width:min(480px,100%);padding:20px 15px}
+.auth-form-panel .education-auth-card:before{display:none}
+.auth-form-panel .education-auth-card h1{font-size:29px}
+.auth-form-panel .education-icon{margin-bottom:12px}
+@media(max-width:900px){.auth-split-page{grid-template-columns:1fr}.auth-visual{min-height:390px;padding:35px 25px}.auth-visual-art{width:min(100%,430px);max-height:280px}.auth-form-panel{padding:35px 20px}.auth-visual h2{font-size:22px}}
