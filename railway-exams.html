@@ -1,209 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Railway Exams preparation on RojgarDwaar — RRB Technician, Group D, JE, ALP and more with mock tests and practice series.">
-  <meta name="theme-color" content="#1a56db">
-  <title>Railway Exams | RojgarDwaar</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="./css/style.css">
-  <link rel="stylesheet" href="./css/railway-exams.css">
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🚆%3C/text%3E%3C/svg%3E">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Railway Exams | ROJGARDWAAR.IN</title>
+<meta name="description" content="Railway Government Exam preparation with mock tests, practice questions and performance analysis.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="./css/railway-exams.css">
 </head>
 <body>
-  <a href="#main-content" class="skip-link">Skip to content</a>
-
-  <header class="site-header" role="banner">
-    <div class="container header-inner">
-      <a href="./index.html" class="rjd-logo" aria-label="ROJGARDWAAR.IN Home">
-  <span class="rjd-logo-mark" aria-hidden="true">📖</span>
-  <span><strong>ROJGARDWAAR.IN</strong><small>Your Gateway to Government Jobs</small></span>
-</a>
-      <nav class="main-nav" aria-label="Main navigation">
-        <a href="./index.html" class="nav-link">🏠 Home</a>
-        <a href="./mock-test.html" class="nav-link">▤ Mock Test</a>
-        <a href="./railway-exams.html" class="nav-link railway-active">🚆 Railway Exams</a>
-        <a href="./ssc.html" class="nav-link">🏛️ SSC</a>
-        <a href="./pages/about.html" class="nav-link">ⓘ About</a>
-        <a href="./pages/contact.html" class="nav-link">✉ Contact</a>
-      </nav>
-      <button class="menu-toggle" id="railwayMenuToggle" aria-expanded="false" aria-controls="railwayMobileMenu" aria-label="Toggle navigation menu">
-        <svg width="24" height="24" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/></svg>
-      </button>
-    </div>
-    <nav class="mobile-menu" id="railwayMobileMenu" aria-label="Mobile navigation">
-      <a href="./index.html" class="nav-link">Home</a>
-      <a href="./mock-test.html" class="nav-link">Mock Test</a>
-      <a href="./railway-exams.html" class="nav-link railway-active">🚆 Railway Exams</a>
-      <a href="./ssc.html" class="nav-link">🏛️ SSC</a>
-      <a href="./pages/about.html" class="nav-link">About</a>
-      <a href="./pages/contact.html" class="nav-link">Contact</a>
+<header class="reference-header">
+  <div class="ref-container header-row">
+    <a class="brand-image" href="./index.html" aria-label="ROJGARDWAAR.IN"><img src="data:image/jpeg;base64,__LOGO__" alt="ROJGARDWAAR.IN"></a>
+    <nav class="reference-nav">
+      <a href="./index.html">⌂ <span>Home</span></a>
+      <a href="./mock-test.html">▤ <span>Mock Test</span></a>
+      <a class="active" href="./railway-exams.html">🚆 <span>Railway Exams</span></a>
+      <a href="./ssc.html">▰ <span>SSC</span></a>
+      <a href="./pages/about.html">● <span>About</span></a>
+      <a href="./pages/contact.html">✉ <span>Contact</span></a>
     </nav>
-  </header>
+    <button class="mobile-menu-btn" id="refMenuBtn" aria-label="Open menu">☰</button>
+  </div>
+  <div class="mobile-ref-menu" id="refMenu">
+    <a href="./index.html">⌂ Home</a><a href="./mock-test.html">▤ Mock Test</a><a class="active" href="./railway-exams.html">🚆 Railway Exams</a><a href="./ssc.html">▰ SSC</a><a href="./pages/about.html">● About</a><a href="./pages/contact.html">✉ Contact</a>
+  </div>
+</header>
 
-  <main id="main-content">
-    <section class="railway-hero"><div class="hero-photo" aria-hidden="true"></div>
-      <div class="container railway-hero-inner">
-        <div class="railway-hero-copy">
-          <div class="railway-title"><span class="railway-title-icon">🚆</span><span>Railway <em>Exams</em></span></div>
-          <p>Prepare for Railway Government Exams with Mock Tests, Practice Questions and Performance Analysis</p>
-          <div class="hero-points">
-  <span class="hero-feature green"><i>▤</i><b>Latest<br>Exam Pattern</b></span>
-  <span class="hero-feature blue"><i>▥</i><b>Topic-wise<br>Practice</b></span>
-  <span class="hero-feature orange"><i>☑</i><b>Full Length<br>Mock Tests</b></span>
-  <span class="hero-feature purple"><i>◔</i><b>Detailed<br>Performance Analysis</b></span>
-</div>
-        </div>
-        <div class="train-art" aria-hidden="true">
-          <div class="track-line"></div>
-          <div class="train-emoji">🚆</div>
-          <div class="rail-badge">RRB</div>
-        </div>
+<main>
+<section class="reference-hero">
+  <div class="hero-image"></div>
+  <div class="ref-container hero-inner">
+    <div class="hero-copy">
+      <h1><span class="train-icon">🚆</span> Railway <em>Exams</em></h1>
+      <p>Prepare for Railway Government Exams with<br class="desktop-only"> Mock Tests, Practice Questions and Performance Analysis</p>
+      <div class="hero-features">
+        <div><i class="green">▤</i><span><b>Latest</b><br>Exam Pattern</span></div>
+        <div><i class="blue">▥</i><span><b>Topic-wise</b><br>Practice</span></div>
+        <div><i class="orange">☑</i><span><b>Full Length</b><br>Mock Tests</span></div>
+        <div><i class="purple">◔</i><span><b>Detailed</b><br>Performance Analysis</span></div>
       </div>
-    </section>
-
-    <section class="railway-intro">
-      <div class="container">
-        <div class="notice-card">
-          <span class="notice-icon">📢</span>
-          <div>Start your preparation for various Railway Recruitment Board (RRB) exams. Practice with updated questions<br class="notice-break"> and improve your chances of selection.</div>
-        </div>
-      </div>
-    </section>
-
-    <section class="exam-section">
-      <div class="container">
-        <div class="section-heading">
-          <div><h2>Choose Your Railway Exam</h2></div>
-          <div class="syllabus-note">📖 &nbsp;All courses are based on latest syllabus and exam pattern</div>
-        </div>
-
-        <div class="exam-grid">
-          <article class="exam-card featured">
-            <div class="popular-badge">Popular</div>
-            <div class="exam-icon technician">🔧</div>
-            <h3>RRB Technician<br>Grade-III</h3>
-            <p>Complete mock test series with subject-wise practice</p>
-            <ul>
-              <li>50 Full Mock Tests</li>
-              <li>3 Free + 47 Premium</li>
-              <li>Topic-wise Practice</li>
-            </ul>
-            <a class="exam-btn primary" href="./railway-technician-grade-3.html">Explore Now <span>→</span></a>
-          </article>
-
-          <article class="exam-card">
-            <div class="exam-icon groupd">👥</div>
-            <h3>RRB Group D</h3>
-            <p>Mock tests and practice questions for Group D preparation.</p>
-            <ul><li>Full Test Series</li><li>Subject-wise Tests</li><li>Previous Year Questions</li></ul>
-            <a class="exam-btn" href="#coming-soon">Explore Now <span>→</span></a>
-          </article>
-
-          <article class="exam-card">
-            <div class="exam-icon grade1">⚙️</div>
-            <h3>RRB Technician<br>Grade-I</h3>
-            <p>Dedicated mock tests and subject-wise preparation.</p>
-            <ul><li>Full Test Series</li><li>Subject-wise Tests</li><li>Previous Year Questions</li></ul>
-            <a class="exam-btn" href="#coming-soon">Coming Soon <span>→</span></a>
-          </article>
-
-          <article class="exam-card">
-            <div class="exam-icon je">🛠️</div>
-            <h3>RRB JE</h3>
-            <p>Complete preparation with mock tests and PYQs</p>
-            <ul><li>Full Test Series</li><li>Subject-wise Tests</li><li>Practice Questions</li></ul>
-            <a class="exam-btn" href="#coming-soon">Coming Soon <span>→</span></a>
-          </article>
-
-          <article class="exam-card">
-            <div class="exam-icon alp">🚆</div>
-            <h3>RRB ALP</h3>
-            <p>Practice with mock tests and subject-wise questions</p>
-            <ul><li>Full Test Series</li><li>Subject-wise Tests</li><li>Practice Questions</li></ul>
-            <a class="exam-btn" href="#coming-soon">Coming Soon <span>→</span></a>
-          </article>
-
-          <article class="exam-card more-card" id="coming-soon">
-            <div class="exam-icon more">•••</div>
-            <h3>More Railway Exams</h3>
-            <p>More Railway recruitment categories will be added here.</p>
-            <ul><li>RRB NTPC</li><li>RRB Ministerial &amp; Isolated</li><li>Other RRB categories</li></ul>
-            <span class="exam-btn disabled">Coming Soon</span>
-          </article>
-        </div>
-      </div>
-    </section>
-
-    <section class="featured-course">
-      <div class="container">
-        <div class="featured-inner">
-          <div class="featured-copy">
-            <span class="featured-label">Featured Course</span>
-            <h2>RRB Technician Grade-III</h2>
-            <p class="featured-subtitle">50 Full Mock Tests • 100 Questions • 90 Minutes</p>
-            <div class="stat-row">
-              <div><strong>50</strong><span>Mock Tests</span></div>
-              <div><strong>3 Free</strong><span>47 Premium</span></div>
-              <div><strong>100</strong><span>Questions / Test</span></div>
-              <div><strong>90</strong><span>Minutes</span></div>
-            </div>
-            <ul class="feature-list">
-              <li>Based on latest syllabus</li>
-              <li>Subject-wise &amp; full length tests</li>
-              <li>Detailed results &amp; performance analysis</li>
-              <li>Improve accuracy and speed</li>
-            </ul>
-            <div class="featured-actions">
-              <a class="featured-btn" href="./railway-technician-grade-3.html">Start Free Test Now →</a>
-              <a class="featured-link" href="./railway-technician-grade-3.html">ⓘ View Course Details</a>
-            </div>
-          </div>
-          <div class="featured-visual" aria-hidden="true"><div class="featured-photo"></div>
-            <div class="railway-roundel">🚆<br><small>RRB</small></div>
-            <div class="big-train">🚆</div>
-            <div class="visual-title">TECHNICIAN<br><span>GRADE-III</span></div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="benefits-section">
-      <div class="container">
-        <div class="section-heading centered">
-          <span class="section-kicker">RojgarDwaar</span>
-          <h2>Why Choose RojgarDwaar for Railway Exams?</h2>
-        </div>
-        <div class="benefit-grid">
-          <div class="benefit-card"><span>🎯</span><h3>Updated Content</h3><p>Questions based on latest exam pattern and syllabus</p></div>
-          <div class="benefit-card"><span>📊</span><h3>Performance Analysis</h3><p>Detailed results with strength and weakness</p></div>
-          <div class="benefit-card"><span>📖</span><h3>Practice &amp; Improve</h3><p>Topic-wise practice and full length mock tests</p></div>
-          <div class="benefit-card"><span>🏆</span><h3>Boost Selection Chances</h3><p>Build confidence with real exam experience</p></div>
-        </div>
-      </div>
-    </section>
-  </main>
-
-  <footer class="railway-footer">
-    <div class="container">
-      <strong>ROJGARDWAAR.IN</strong>
-      <span>Railway Exams • Mock Tests • Practice</span>
     </div>
-  </footer>
+  </div>
+</section>
 
-  <script>
-    (function () {
-      const toggle = document.getElementById('railwayMenuToggle');
-      const menu = document.getElementById('railwayMobileMenu');
-      if (!toggle || !menu) return;
-      toggle.addEventListener('click', function () {
-        const open = menu.classList.toggle('active');
-        toggle.setAttribute('aria-expanded', String(open));
-      });
-    })();
-  </script>
-</body>
-</html>
+<section class="notice-wrap">
+ <div class="ref-container"><div class="notice"><span>📢</span><p>Start your preparation for various Railway Recruitment Board (RRB) exams. Practice with updated questions<br class="desktop-only"> and improve your chances of selection.</p></div></div>
+</section>
+
+<section class="exam-area">
+ <div class="ref-container">
+  <div class="section-head"><h2>Choose Your Railway Exam</h2><div class="syllabus">📖 &nbsp;All courses are based on latest syllabus and exam pattern</div></div>
+  <div class="cards">
+   <article class="exam-card popular"><span class="badge">Popular</span><div class="round red">🔧</div><h3>RRB Technician<br>Grade-III</h3><p>Complete mock test series with subject-wise practice</p><ul><li>▤ <span>50 Mock Tests</span></li><li>▱ <span>3 Free + 47 Premium</span></li><li>▤ <span>Topic-wise Practice</span></li></ul><a class="card-btn red-btn" href="./railway-technician-grade-3.html">Explore Now →</a></article>
+   <article class="exam-card"><div class="round blue-round">👥</div><h3>RRB Group D</h3><p>Test series and practice questions for RRB Group D</p><ul><li>▤ <span>Full Test Series</span></li><li>▱ <span>Subject-wise Tests</span></li><li>▤ <span>Previous Year Questions</span></li></ul><a class="card-btn blue-btn" href="#coming-soon">Explore Now →</a></article>
+   <article class="exam-card"><div class="round green-round">⚙</div><h3>RRB Technician<br>Grade-I</h3><p>Prepare with mock tests and subject-wise practice</p><ul><li>▤ <span>Full Test Series</span></li><li>▱ <span>Subject-wise Tests</span></li><li>▤ <span>Previous Year Questions</span></li></ul><a class="card-btn green-btn" href="#coming-soon">Explore Now →</a></article>
+   <article class="exam-card"><div class="round purple-round">♟</div><h3>RRB JE<br>(Junior Engineer)</h3><p>Complete preparation with mock tests and PYQs</p><ul><li>▤ <span>Full Test Series</span></li><li>▱ <span>Subject-wise Tests</span></li><li>▤ <span>Previous Year Questions</span></li></ul><a class="card-btn purple-btn" href="#coming-soon">Explore Now →</a></article>
+   <article class="exam-card"><div class="round orange-round">🚆</div><h3>RRB ALP<br>(Assistant Loco Pilot)</h3><p>Practice with mock tests and subject-wise questions</p><ul><li>▤ <span>Full Test Series</span></li><li>▱ <span>Subject-wise Tests</span></li><li>▤ <span>Previous Year Questions</span></li></ul><a class="card-btn orange-btn" href="#coming-soon">Explore Now →</a></article>
+   <article class="exam-card" id="coming-soon"><div class="round gray-round">•••</div><h3>More Railway Exams</h3><p class="more-space"></p><ul class="checks"><li>✓ <span>RRB NTPC</span></li><li>✓ <span>RRB Ministerial &amp; Isolated</span></li><li>✓ <span>RRB Paramedical</span></li><li>✓ <span>RRB Stenographer</span></li><li>✓ <span>and more...</span></li></ul><span class="card-btn gray-btn">Coming Soon</span></article>
+  </div>
+ </div>
+</section>
+
+<section class="featured-section">
+ <div class="ref-container">
+  <div class="featured">
+   <div class="featured-photo"></div>
+   <div class="featured-content">
+    <span class="featured-badge">Featured Course</span>
+    <h2>RRB Technician Grade-III</h2><h4>Complete Test Series for Sure Success</h4>
+    <div class="stats"><div><b>50</b><span>Mock Tests</span></div><div><b>3 Free +</b><span>47 Premium</span></div><div><b>100</b><span>Questions/Test</span></div><div><b>90</b><span>Minutes</span></div></div>
+    <div class="checks-grid"><p>✓ Based on latest syllabus</p><p>✓ Subject-wise &amp; full length tests</p><p>✓ Detailed results &amp; performance analysis</p><p>✓ Improve accuracy and speed</p></div>
+    <div class="feature-buttons"><a href="./railway-technician-grade-3.html">Start Free Test Now →</a><a href="./railway-technician-grade-3.html">ⓘ &nbsp;View Course Details</a></div>
+   </div>
+  </div>
+ </div>
+</section>
+
+<section class="why">
+ <div class="ref-container"><h2>Why Choose RojgarDwaar for Railway Exams?</h2><div class="why-grid">
+  <div><i>🎯</i><span><b>Updated Content</b><small>Questions based on latest<br>exam pattern and syllabus</small></span></div>
+  <div><i>▥</i><span><b>Performance Analysis</b><small>Detailed results with<br>strength and weakness</small></span></div>
+  <div><i>📖</i><span><b>Practice &amp; Improve</b><small>Topic-wise practice and<br>full length mock tests</small></span></div>
+  <div><i>🏆</i><span><b>Boost Selection Chances</b><small>Build confidence with<br>real exam experience</small></span></div>
+ </div></div>
+</section>
+</main>
+<script>
+document.getElementById('refMenuBtn').addEventListener('click',()=>document.getElementById('refMenu').classList.toggle('show'));
+</script>
+</body></html>
