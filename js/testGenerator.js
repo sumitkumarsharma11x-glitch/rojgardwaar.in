@@ -76,7 +76,9 @@ const TestGenerator = (function () {
       : SMALL_CHAPTER_QUESTION_COUNT;
   }
 
-  function timeLimitMinutesFor(mockQuestionCount) {
+  function timeLimitMinutesFor(mockQuestionCount, meta) {
+    const explicit = meta && Number(meta.timeLimitMin);
+    if (Number.isFinite(explicit) && explicit > 0) return explicit;
     return Math.max(
       MIN_TIME_LIMIT_MINUTES,
       Math.round(mockQuestionCount * MINUTES_PER_QUESTION)
@@ -98,7 +100,7 @@ const TestGenerator = (function () {
     const unique = sortedUniqueQuestions(bank);
     const mockQuestionCount = resolveMockQuestionCount(meta, unique.length);
     const mockCount = Math.floor(unique.length / mockQuestionCount);
-    const timeLimitMin = timeLimitMinutesFor(mockQuestionCount);
+    const timeLimitMin = timeLimitMinutesFor(mockQuestionCount, meta);
 
     const configs = [];
     const sets = [];
