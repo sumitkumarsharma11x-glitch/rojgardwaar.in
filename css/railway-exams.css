@@ -1,0 +1,92 @@
+/* RojgarDwaar Railway Exams — mobile-first */
+.railway-active{color:var(--primary)!important;font-weight:700}
+.railway-hero{background:linear-gradient(120deg,#0b2f68 0%,#1559c7 58%,#1a56db 100%);color:#fff;overflow:hidden}
+.railway-hero-inner{min-height:350px;display:grid;grid-template-columns:1fr;align-items:center;gap:1rem;padding-top:2.5rem;padding-bottom:2.5rem}
+.railway-hero-copy{position:relative;z-index:2}
+.eyebrow{display:inline-flex;align-items:center;padding:.45rem .8rem;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.1);border-radius:999px;font-size:.82rem;font-weight:700;margin-bottom:1rem}
+.railway-hero h1{color:#fff;font-size:clamp(2.2rem,8vw,4.5rem);letter-spacing:-.045em;margin-bottom:.7rem}
+.railway-hero h1 span{color:#ffd83d}
+.railway-hero p{color:rgba(255,255,255,.92);font-size:clamp(1rem,2.4vw,1.25rem);max-width:680px;margin-bottom:1.25rem}
+.hero-points{display:flex;flex-wrap:wrap;gap:.6rem .9rem}
+.hero-points span{font-size:.82rem;font-weight:600;color:#fff;background:rgba(255,255,255,.11);padding:.45rem .7rem;border-radius:.6rem}
+.train-art{position:relative;min-height:145px;display:flex;align-items:center;justify-content:center;opacity:.98}
+.train-emoji{font-size:7rem;filter:drop-shadow(0 12px 15px rgba(0,0,0,.2));transform:scaleX(-1)}
+.track-line{position:absolute;left:0;right:0;bottom:27px;height:4px;background:linear-gradient(90deg,transparent,#d9e9ff,transparent);box-shadow:0 14px 0 rgba(217,233,255,.45)}
+.rail-badge{position:absolute;right:5%;top:4%;background:#fff;color:#c91924;border-radius:50%;width:78px;height:78px;display:grid;place-items:center;font-weight:900;font-size:1rem;box-shadow:0 8px 20px rgba(0,0,0,.18)}
+.railway-intro{background:#f8fbff;padding:1rem 0}
+.notice-card{display:flex;gap:.8rem;align-items:center;background:#eef6ff;border:1px solid #cfe3ff;border-radius:var(--radius-lg);padding:.9rem 1rem;color:#17386f}
+.notice-card span{color:var(--primary)}
+.notice-card strong{color:#0f2f62}
+.notice-card div span{font-size:.85rem;color:#52657d}
+.exam-section{padding:2.5rem 0;background:var(--bg-light)}
+.section-heading{margin-bottom:1.35rem}
+.section-kicker{display:block;color:var(--primary);font-size:.78rem;font-weight:800;text-transform:uppercase;letter-spacing:.09em;margin-bottom:.3rem}
+.section-heading h2{margin-bottom:.35rem}
+.section-heading p{margin:0}
+.section-heading.centered{text-align:center}
+.exam-grid{display:grid;grid-template-columns:1fr;gap:1rem}
+.exam-card{position:relative;background:#fff;border:1px solid var(--border);border-radius:1rem;padding:1.25rem;box-shadow:var(--shadow-sm);display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease}
+.exam-card:hover{transform:translateY(-3px);box-shadow:var(--shadow-md)}
+.exam-card.featured{border:2px solid #ef3340;box-shadow:0 8px 25px rgba(239,51,64,.1)}
+.popular-badge{position:absolute;right:1rem;top:0;background:#ef3340;color:#fff;padding:.35rem .65rem;border-radius:0 0 .55rem .55rem;font-size:.72rem;font-weight:800}
+.exam-icon{width:58px;height:58px;border-radius:50%;display:grid;place-items:center;font-size:1.8rem;margin-bottom:1rem;background:#eaf3ff}
+.exam-icon.technician{background:#ffe8e8}.exam-icon.groupd{background:#e5f1ff}.exam-icon.grade1{background:#e9f8eb}.exam-icon.je{background:#eee7ff}.exam-icon.alp{background:#fff0df}.exam-icon.more{background:#eef2f7;color:#52657d;font-size:1.4rem}
+.exam-card h3{font-size:1.2rem;margin-bottom:.45rem}
+.exam-card p{font-size:.9rem;min-height:48px}
+.exam-card ul{list-style:none;margin:0 0 1.1rem;padding:0;display:grid;gap:.4rem}
+.exam-card li{font-size:.82rem;color:var(--text-secondary)}
+.exam-card li::before{content:'✓';color:var(--success);font-weight:800;margin-right:.5rem}
+.exam-btn{margin-top:auto;display:flex;align-items:center;justify-content:center;gap:.4rem;min-height:46px;border-radius:.65rem;background:#1473e6;color:#fff;font-weight:700;text-decoration:none;padding:.65rem 1rem}
+.exam-btn:hover{color:#fff;text-decoration:none;filter:brightness(.96)}
+.exam-btn.primary{background:#ef3340}.exam-btn.disabled{background:#cbd5e1;color:#475569;cursor:default}
+.featured-course{padding:1.5rem 0 2.5rem;background:#fff}
+.featured-inner{border-radius:1.2rem;overflow:hidden;background:linear-gradient(120deg,#fff3f3,#fff);border:1px solid #ffd1d1;display:grid;grid-template-columns:1fr}
+.featured-copy{padding:1.5rem}
+.featured-label{display:inline-block;background:#ef3340;color:#fff;padding:.35rem .65rem;border-radius:.5rem;font-size:.72rem;font-weight:800;text-transform:uppercase;margin-bottom:.7rem}
+.featured-copy h2{margin-bottom:.3rem}
+.featured-subtitle{font-weight:600;color:#334155}
+.stat-row{display:grid;grid-template-columns:repeat(2,1fr);gap:.6rem;margin:1rem 0}
+.stat-row div{background:#fff;border:1px solid var(--border);border-radius:.7rem;padding:.7rem;text-align:center}
+.stat-row strong{display:block;color:var(--primary);font-size:1.2rem}
+.stat-row span{display:block;color:var(--text-muted);font-size:.7rem}
+.feature-list{list-style:none;padding:0;margin:0 0 1.2rem;display:grid;gap:.45rem}
+.feature-list li{font-size:.85rem;color:#334155}.feature-list li::before{content:'✓';color:var(--success);font-weight:800;margin-right:.5rem}
+.featured-actions{display:flex;flex-direction:column;gap:.65rem}
+.featured-btn{display:inline-flex;align-items:center;justify-content:center;background:#ef3340;color:#fff;border-radius:.65rem;padding:.8rem 1rem;font-weight:800;text-decoration:none}
+.featured-btn:hover{color:#fff;text-decoration:none;background:#d92532}
+.featured-link{text-align:center;font-weight:700;padding:.6rem}
+.featured-visual{min-height:220px;background:linear-gradient(145deg,#0c3a79,#1a56db);color:#fff;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}
+.big-train{font-size:8rem;filter:drop-shadow(0 15px 15px rgba(0,0,0,.22));transform:scaleX(-1);opacity:.95}
+.railway-roundel{position:absolute;right:1rem;top:1rem;width:70px;height:70px;border-radius:50%;background:#fff;color:#d21f2f;display:grid;place-items:center;text-align:center;font-weight:900;line-height:1;font-size:1.4rem}
+.railway-roundel small{font-size:.7rem}
+.visual-title{position:absolute;bottom:1rem;right:1rem;font-size:1rem;font-weight:800;text-align:right}.visual-title span{color:#ffd83d}
+.benefits-section{padding:2.5rem 0;background:#f3f8ff}
+.benefit-grid{display:grid;grid-template-columns:1fr;gap:.8rem}
+.benefit-card{background:#fff;border:1px solid #dbe8f7;border-radius:1rem;padding:1.1rem}
+.benefit-card>span{font-size:1.7rem}.benefit-card h3{font-size:1rem;margin:.4rem 0}.benefit-card p{font-size:.82rem;margin:0}
+.railway-footer{background:#0b2148;color:#dce9ff;padding:1.5rem 0}.railway-footer .container{display:flex;flex-direction:column;gap:.25rem}.railway-footer strong{color:#fff}.railway-footer span{font-size:.82rem}
+@media (min-width:640px){
+  .exam-grid{grid-template-columns:repeat(2,1fr)}
+  .benefit-grid{grid-template-columns:repeat(2,1fr)}
+  .stat-row{grid-template-columns:repeat(4,1fr)}
+  .featured-actions{flex-direction:row;align-items:center}.featured-link{padding-left:.3rem}
+}
+@media (min-width:768px){
+  .railway-hero-inner{grid-template-columns:1.25fr .75fr;min-height:400px;padding-top:3.5rem;padding-bottom:3.5rem}
+  .train-art{min-height:260px}
+  .exam-grid{grid-template-columns:repeat(3,1fr)}
+  .benefit-grid{grid-template-columns:repeat(4,1fr)}
+}
+@media (min-width:1024px){
+  .featured-inner{grid-template-columns:1.4fr .6fr}.featured-copy{padding:2rem 2.25rem}.featured-visual{min-height:330px}
+  .big-train{font-size:10rem}.railway-footer .container{flex-direction:row;justify-content:space-between;align-items:center}
+}
+@media (max-width:767px){
+  .main-nav{display:none!important}
+  .railway-hero h1{font-size:2.6rem}
+  .railway-hero-inner{padding-top:2rem;padding-bottom:1.75rem}
+  .train-art{min-height:125px}
+  .train-emoji{font-size:5.5rem}
+  .rail-badge{width:58px;height:58px;font-size:.8rem}
+  .notice-card{align-items:flex-start}
+}
