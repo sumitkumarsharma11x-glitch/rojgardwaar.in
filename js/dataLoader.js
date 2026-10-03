@@ -15,7 +15,7 @@ const DataLoader = (function () {
 
   function basePath(classNum, subject, chapter) {
     const scienceBranches = ["biology", "chemistry", "physics"];
-    if (scienceBranches.includes(subject)) {
+    if (classNum === "railway") { return `data/railway/${subject}/${chapter}`; }\n    if (scienceBranches.includes(subject)) {
       return `data/science/${subject}/${chapter}`;
     }
     return `data/class${classNum}/${subject}/${chapter}`;
@@ -70,7 +70,7 @@ const DataLoader = (function () {
     const base = basePath(classNum, subject, chapter);
     const [meta, questionData] = await Promise.all([
       fetchJSON(`${base}/meta.json`),
-      fetchJSON(`${base}/questions.json`),
+      fetchJSON(`${base}/questions.json?v=20261003-railway`),
     ]);
 
     const bundle = {
