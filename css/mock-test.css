@@ -141,6 +141,22 @@ img {
   color: var(--ink);
 }
 
+.rjd-lang-toggle button:hover {
+  background: rgba(193, 133, 44, 0.28);
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+.rjd-lang-toggle button:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+.rjd-lang-toggle button.is-active:hover {
+  background: var(--gold);
+  color: var(--ink);
+}
+
 /* ---------- Buttons ------------------------------------------------------ */
 .rjd-btn {
   font-family: var(--font-body);
