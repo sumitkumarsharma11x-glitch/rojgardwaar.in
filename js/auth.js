@@ -20,18 +20,79 @@ function requireConfig() {
   return true;
 }
 
+function getSafeRedirect() {
+  const value=new URLSearchParams(window.location.search).get("redirect");
+  if(!value) return "./account.html";
+  if(value.startsWith("/") || value.startsWith("./")) {
+    if(!value.includes("://") && !value.startsWith("//")) return value;
+  }
+  return "./account.html";
+}
+
+function showOtpStep() {
+  const registerForm=document.getElementById("registerForm");
+  const otpBox=document.getElementById("otpBox");
+  if(registerForm) registerForm.hidden=true;
+  if(otpBox) otpBox.hidden=false;
+}
+
 async function registerUser(event) {
   event.preventDefault();
   if(!requireConfig()) return;
   const email=document.getElementById("email").value.trim();
   const password=document.getElementById("password").value;
   const name=document.getElementById("name").value.trim();
-  const {error}=await supabaseClient.auth.signUp({
+  const button=event.submitter;
+  if(button) button.disabled=true;
+
+  const {data,error}=await supabaseClient.auth.signUp({
     email,password,
     options:{data:{full_name:name}}
   });
+
+  if(button) button.disabled=false;
   if(error) return showMsg(error.message,"error");
-  showMsg("Registration successful. Check your email if email confirmation is enabled, then log in.","success");
+
+  if(data.session) {
+    showMsg("Account created successfully. You are verified and logged in.","success");
+    setTimeout(()=>{ window.location.href="./account.html"; },700);
+    return;
+  }
+
+  showOtpStep();
+  showMsg("We sent a 6-digit verification code to your email. Enter it below.","success");
+  const otp=document.getElementById("otp");
+  if(otp) otp.focus();
+}
+
+async function verifySignupOtp(event) {
+  event.preventDefault();
+  if(!requireConfig()) return;
+  const email=document.getElementById("email").value.trim();
+  const token=document.getElementById("otp").value.trim();
+  if(!/^\d{6}$/.test(token)) return showMsg("Please enter the 6-digit OTP.","error");
+
+  const button=event.submitter;
+  if(button) button.disabled=true;
+  const {error}=await supabaseClient.auth.verifyOtp({email,token,type:"signup"});
+  if(button) button.disabled=false;
+
+  if(error) return showMsg(error.message,"error");
+
+  showMsg("Email verified successfully. You can now log in.","success");
+  setTimeout(()=>{
+    window.location.href="./login.html?verified=1";
+  },700);
+}
+
+async function resendSignupOtp() {
+  if(!requireConfig()) return;
+  const email=document.getElementById("email").value.trim();
+  if(!email) return showMsg("Enter your email first.","error");
+
+  const {error}=await supabaseClient.auth.resend({type:"signup",email});
+  if(error) return showMsg(error.message,"error");
+  showMsg("A new 6-digit verification code has been sent.","success");
 }
 
 async function loginUser(event) {
@@ -41,7 +102,7 @@ async function loginUser(event) {
   const password=document.getElementById("password").value;
   const {error}=await supabaseClient.auth.signInWithPassword({email,password});
   if(error) return showMsg(error.message,"error");
-  window.location.href="./account.html";
+  window.location.href=getSafeRedirect();
 }
 
 async function loadAccount() {
