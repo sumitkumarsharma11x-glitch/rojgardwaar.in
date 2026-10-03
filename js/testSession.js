@@ -434,7 +434,7 @@ function initTestSession(rootEl) {
     if (timer) timer.stop();
 
     const timeTaken = Math.round((Date.now() - state.startedAt) / 1000);
-    const result = ScoreEngine.calculate(state.questions, state.answers, timeTaken);
+    const result = ScoreEngine.calculate(state.questions, state.answers, timeTaken, meta);
 
     const allIds = state.questions.map((q) => q.id);
     StorageManager.addSeenQuestionIds(classNum, subject, chapter, allIds);
