@@ -34,6 +34,20 @@ const ResultRenderer = (function () {
           <div class="rjd-stat"><span class="rjd-stat__value">${summary.avgTimePerQ}${LanguageManager.getCurrent() === "hi" ? "से" : "s"}</span><span class="rjd-stat__label">${LanguageManager.get("avgTimePerQ")}</span></div>
         </div>
 
+        <div class="rjd-topic-analysis">
+          <h3 class="rjd-section-title">${LanguageManager.get("topicAnalysis")}</h3>
+          <div class="rjd-topic-list">
+            ${result.topicWise && result.topicWise.length ? result.topicWise.map((item) => `
+              <div class="rjd-topic-row">
+                <div class="rjd-topic-row__head">
+                  <span>${item.topic}</span>
+                  <strong>${item.correct}/${item.total} · ${item.accuracy}%</strong>
+                </div>
+                <div class="rjd-topic-bar"><span style="width:${item.accuracy}%"></span></div>
+              </div>
+            `).join("") : `<p>${LanguageManager.get("noTopicAnalysis")}</p>`}
+          </div>
+        </div>
         <div class="rjd-result__actions">
           <button type="button" class="rjd-btn rjd-btn--danger" id="rjd-practice-wrong" ${wrongQuestionIds.length === 0 ? "disabled" : ""}>${LanguageManager.get("practiceWrong")}</button>
           <button type="button" class="rjd-btn rjd-btn--secondary" id="rjd-wrong-test" ${wrongQuestionIds.length === 0 ? "disabled" : ""}>${LanguageManager.get("wrongQuestionsTest")}</button>
