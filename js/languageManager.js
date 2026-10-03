@@ -102,11 +102,44 @@ const LanguageManager = (function () {
     listeners.push(fn);
   }
 
+  function bindToggle() {
+    const toggleRoot = document.getElementById("rjd-lang-toggle");
+    if (!toggleRoot) return;
+
+    const buttons = toggleRoot.querySelectorAll("[data-lang]");
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => {
+        setLanguage(button.dataset.lang);
+      });
+    });
+
+    updateToggleState();
+  }
+
+  function updateToggleState() {
+    const toggleRoot = document.getElementById("rjd-lang-toggle");
+    if (!toggleRoot) return;
+
+    toggleRoot.querySelectorAll("[data-lang]").forEach((button) => {
+      button.classList.toggle("is-active", button.dataset.lang === currentLang);
+      button.setAttribute("aria-pressed", button.dataset.lang === currentLang ? "true" : "false");
+    });
+  }
+
   /** Pull the right-language string out of a bilingual field object {hi, en} */
   function pick(field) {
     if (!field) return "";
     return field[currentLang] || field.hi || field.en || "";
   }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", bindToggle);
+  } else {
+    bindToggle();
+  }
+
+  // Keep the visible Hindi/English button state synchronized whenever language changes.
+  listeners.push(updateToggleState);
 
   return { get, getCurrent, setLanguage, toggle, onChange, pick };
 })();
