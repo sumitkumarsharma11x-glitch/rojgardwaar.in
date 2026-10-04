@@ -8,60 +8,48 @@
 <link rel="canonical" href="https://rojgardwaar.in/science/index.html">
 <link rel="stylesheet" href="../css/style.css">
 <style>
-.science-hub{max-width:1180px;margin:26px auto;padding:0 18px;color:#263238}
-.science-hero{text-align:center;margin:8px 0 26px}.science-hero .eyebrow{font-size:13px;color:#5f6b72;margin:0 0 4px}.science-hero h1{color:#17324d;margin:4px 0 8px;font-size:clamp(30px,4vw,44px)}.science-hero p{color:#5f6b72;line-height:1.6;margin:0}
-.subject-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
-.subject-card{min-height:300px;border:1px solid #dfe9e4;border-radius:16px;padding:20px 18px;background:linear-gradient(180deg,#f8fffb 0%,#fff 65%);box-shadow:0 4px 14px rgba(20,40,60,.06);display:flex;flex-direction:column;text-align:center}
-.subject-icon{height:100px;display:flex;align-items:center;justify-content:center;font-size:64px;margin:2px 0 8px}
-.subject-card h2{font-size:25px;color:#17324d;margin:4px 0}.subject-card .count{font-size:14px;color:#5f6b72;margin:0 0 18px}
-.subject-card a{display:block;margin-top:auto;padding:11px 14px;border-radius:10px;color:#fff;text-decoration:none;font-weight:800}
-.subject-card.biology a{background:#18794e}.subject-card.physics a{background:#1769e0}.subject-card.chemistry a{background:#7b3fe4}
-.info-row{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:22px 0 26px}.info-item{padding:13px 8px;border:1px solid #e6ebef;border-radius:12px;background:#f8fafb;text-align:center;font-size:13px;font-weight:700;color:#45545e}
-.notice{padding:15px;border:1px solid #e3e7ea;border-radius:12px;line-height:1.7;background:#fafbfc}
-.science-footer{max-width:1180px;margin:38px auto;padding:20px 18px;border-top:1px solid #e3e7ea;color:#5f6b72}.science-footer a{margin-right:14px;color:#17324d}
-@media(max-width:760px){.subject-grid{grid-template-columns:1fr}.info-row{grid-template-columns:repeat(2,1fr)}}
+.science-hub{max-width:1180px;margin:0 auto;padding:0 18px 28px;color:#182b5c}
+.science-breadcrumb{padding:14px 0 10px;font-size:14px;color:#5070a5}.science-breadcrumb a{color:#5070a5;text-decoration:none}
+.science-hero{position:relative;overflow:hidden;text-align:center;background:linear-gradient(180deg,#dff0ff 0%,#cfe7ff 100%);border-radius:20px;padding:42px 24px 34px;margin:0 0 20px;min-height:270px;box-sizing:border-box}
+.science-hero h1{position:relative;z-index:2;margin:0 0 8px;font-size:clamp(34px,5vw,52px);line-height:1.1;color:#102766}.science-hero .sub{position:relative;z-index:2;font-size:21px;margin:0 0 10px;color:#182b5c}.science-hero .stats{position:relative;z-index:2;font-size:18px;margin:0;color:#182b5c}
+.science-illustration{position:absolute;right:38px;bottom:12px;font-size:72px;opacity:.95;letter-spacing:8px}
+.subject-panel{background:#fff;border-radius:20px;padding:18px 20px 20px;box-shadow:0 5px 18px rgba(30,70,120,.10);position:relative;margin-top:-2px}
+.subject-panel h2{margin:0 0 12px;font-size:24px;color:#17284d}.subject-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.subject-card{min-height:235px;border-radius:16px;padding:18px;display:flex;flex-direction:column;align-items:center;text-align:center;box-sizing:border-box;border:1px solid rgba(255,255,255,.8)}
+.subject-card.biology{background:linear-gradient(145deg,#ecfff4,#f5fffa)}.subject-card.physics{background:linear-gradient(145deg,#eef5ff,#f7faff)}.subject-card.chemistry{background:linear-gradient(145deg,#f5efff,#fbf8ff)}
+.subject-icon{height:88px;display:flex;align-items:center;justify-content:center;font-size:62px}.subject-card h3{font-size:25px;margin:5px 0 3px;color:#111f52}.subject-card .count{font-size:16px;margin:0 0 16px;color:#23335f}.subject-card a{width:78%;box-sizing:border-box;color:#fff;text-decoration:none;font-weight:800;font-size:16px;padding:11px 12px;border-radius:10px;margin-top:auto}.biology a{background:#0aa24a}.physics a{background:#1669e8}.chemistry a{background:#7d29ed}
+.feature-strip{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;margin-top:18px;background:#edf6ff;border-radius:14px;padding:12px 10px}.feature{text-align:center;font-size:13px;color:#182b5c;white-space:nowrap}.feature b{font-size:21px;display:block;margin-bottom:3px}
+.science-footer{max-width:1180px;margin:20px auto;padding:18px;color:#5f6b72;border-top:1px solid #e1e7ef}.science-footer a{margin-right:14px;color:#17324d;text-decoration:none}
+@media(max-width:800px){.subject-grid{grid-template-columns:1fr}.science-illustration{right:12px;font-size:48px}.feature-strip{grid-template-columns:repeat(3,1fr)}.feature{white-space:normal}}
 </style>
 </head>
 <body>
-<header class="rjd-site-header">
-<div class="rjd-site-header__inner">
-<a href="../index.html" class="rjd-brand"><span class="rjd-brand__icon">🚂</span><span class="rjd-brand__mark">RojgarDwaar</span></a>
-<nav aria-label="मुख्य नेविगेशन">
-<a href="../index.html">Home</a><a href="index.html">Science</a><a href="../railway-exams.html">Railway</a><a href="../pages/about.html">About</a><a href="../pages/contact.html">Contact</a>
-</nav>
-</div>
-</header>
+<header class="site-header" role="banner">
+<div class="container header-inner">
+<a href="../index.html" class="logo" aria-label="ROJGARDWAAR.IN Home">ROJGARDWAAR<span>.IN</span></a>
+<nav class="main-nav" role="navigation" aria-label="Main navigation">
+<a href="../index.html" class="nav-link">Home</a><a href="index.html" class="nav-link">Science</a><a href="../railway-exams.html" class="nav-link">Railway</a><a href="../pages/about.html" class="nav-link">About</a><a href="../pages/contact.html" class="nav-link">Contact</a>
+</nav></div></header>
 
 <main class="science-hub">
+<div class="science-breadcrumb"><a href="../index.html">Home</a>　›　<a href="../index.html">Class 6–10</a>　›　Science</div>
 <section class="science-hero">
-<p class="eyebrow">NCERT आधारित | Class 6–10 | 36 Chapters</p>
 <h1>Science — Class 6–10</h1>
-<p>Biology, Physics और Chemistry को विषयवार व्यवस्थित करके Notes, Practice Questions और Mock Tests के साथ पढ़ें।</p>
+<p class="sub">NCERT आधारित विज्ञान की संपूर्ण तैयारी</p>
+<p class="stats">36 अध्याय &nbsp;|&nbsp; 3 विषय &nbsp;|&nbsp; नोट्स &nbsp;|&nbsp; अभ्यास प्रश्न &nbsp;|&nbsp; मॉक टेस्ट</p>
+<div class="science-illustration" aria-hidden="true">🔬 ⚗️ 🌱</div>
 </section>
-<section aria-labelledby="subjects-title">
-<h2 id="subjects-title" style="color:#17324d;margin-bottom:14px">विषय चुनें</h2>
+<section class="subject-panel" aria-labelledby="subjects-title">
+<h2 id="subjects-title">विषय चुनें</h2>
 <div class="subject-grid">
-<article class="subject-card biology">
-<div class="subject-icon" aria-hidden="true">🧬</div>
-<h2>Biology</h2><p class="count">12 Chapters</p>
-<a href="biology/index.html">अध्याय देखें →</a>
-</article>
-<article class="subject-card physics">
-<div class="subject-icon" aria-hidden="true">⚛️</div>
-<h2>Physics</h2><p class="count">12 Chapters</p>
-<a href="../mock-test.html?subject=physics">अध्याय देखें →</a>
-</article>
-<article class="subject-card chemistry">
-<div class="subject-icon" aria-hidden="true">🧪</div>
-<h2>Chemistry</h2><p class="count">12 Chapters</p>
-<a href="../mock-test.html?subject=chemistry">अध्याय देखें →</a>
-</article>
+<article class="subject-card biology"><div class="subject-icon">🌿</div><h3>Biology</h3><p class="count">12 अध्याय</p><a href="biology/index.html">अध्याय देखें →</a></article>
+<article class="subject-card physics"><div class="subject-icon">⚛️</div><h3>Physics</h3><p class="count">12 अध्याय</p><a href="../mock-test.html?subject=physics">अध्याय देखें →</a></article>
+<article class="subject-card chemistry"><div class="subject-icon">⚗️</div><h3>Chemistry</h3><p class="count">12 अध्याय</p><a href="../mock-test.html?subject=chemistry">अध्याय देखें →</a></article>
 </div>
 </section>
-<div class="info-row">
-<div class="info-item">📚 36 अध्याय</div><div class="info-item">🎓 Class 6–10</div><div class="info-item">📖 Free Notes</div><div class="info-item">📝 Practice Questions</div><div class="info-item">🎯 Mock Tests</div>
+<div class="feature-strip">
+<div class="feature"><b>▣</b>NCERT आधारित</div><div class="feature"><b>▤</b>Class 6–10</div><div class="feature"><b>▥</b>36 अध्याय</div><div class="feature"><b>▤</b>Free Notes</div><div class="feature"><b>✓</b>Practice Questions</div><div class="feature"><b>◎</b>Mock Tests</div>
 </div>
-<div class="notice"><strong>महत्वपूर्ण सूचना:</strong> RojgarDwaar एक स्वतंत्र शैक्षिक वेबसाइट है। यह किसी सरकारी विभाग, NCERT या किसी अन्य आधिकारिक परीक्षा संस्था की आधिकारिक वेबसाइट नहीं है।</div>
 </main>
 
 <footer class="science-footer">
