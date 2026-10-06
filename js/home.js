@@ -473,10 +473,148 @@
   }
 
   /* =========================================================
+     RAILWAY MOCK TEST HUB — modern landing
+  ========================================================= */
+  function renderRailwayLanding() {
+    currentView = "landing";
+    selectedSubject = null;
+
+    root.innerHTML = `
+      <section class="rjd-mock-hero">
+        <div class="rjd-mock-hero__inner">
+          <div class="rjd-mock-hero__copy">
+            <div class="rjd-mock-kicker">🚆 RAILWAY MOCK TEST • RRB • RPF • RPSF</div>
+            <h1>Railway Exam की तैयारी<br><span>अब और भी आसान</span></h1>
+            <p>Mock Tests, Practice Questions और Performance Analysis के साथ अपनी तैयारी को सही दिशा दें।</p>
+            <div class="rjd-mock-feature-row">
+              <div><b>Latest Pattern</b><small>Exam-focused practice</small></div>
+              <div><b>Chapter-wise</b><small>Targeted preparation</small></div>
+              <div><b>Full Mock Tests</b><small>Real-test experience</small></div>
+              <div><b>Detailed Result</b><small>Know your performance</small></div>
+            </div>
+            <div class="rjd-mock-actions">
+              <a class="rjd-mock-primary" href="railway-technician-grade-3.html">Railway Mock Test शुरू करें →</a>
+              <a class="rjd-mock-secondary" href="railway-exams.html">Railway Exams देखें</a>
+            </div>
+          </div>
+          <div class="rjd-mock-hero-art" aria-hidden="true">
+            <div class="rjd-train-scene">
+              <div class="rjd-train-sky"></div>
+              <div class="rjd-train-track"></div>
+              <div class="rjd-train">
+                <div class="rjd-train-front"><i></i><i></i><b>INDIAN<br>RAILWAYS</b></div>
+                <div class="rjd-train-coach"></div>
+                <div class="rjd-train-coach"></div>
+              </div>
+              <div class="rjd-cloud c1"></div><div class="rjd-cloud c2"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="rjd-mock-stats">
+        <div><strong>10+</strong><span>Railway Exams</span></div>
+        <div><strong>50+</strong><span>Mock Tests / Exam</span></div>
+        <div><strong>100</strong><span>Questions / Test</span></div>
+        <div><strong>90</strong><span>Minutes</span></div>
+        <div><strong>Full</strong><span>Performance Analysis</span></div>
+        <div><strong>✓</strong><span>Updated Content</span></div>
+      </section>
+
+      <section class="rjd-mock-section">
+        <div class="rjd-mock-heading">
+          <div>
+            <span>CHOOSE YOUR PREPARATION</span>
+            <h2>🚆 Railway Exam Categories</h2>
+            <p>अपनी परीक्षा चुनें और Mock Test से तैयारी शुरू करें।</p>
+          </div>
+          <div class="rjd-mock-note">📘 Exam pattern & syllabus focused</div>
+        </div>
+
+        <div class="rjd-railway-grid">
+          <article class="rjd-railway-card featured">
+            <div class="rjd-card-icon red">🔧</div><span class="rjd-popular">POPULAR</span>
+            <h3>RRB Technician<br>Grade-III</h3>
+            <p>Complete mock test series with subject-wise preparation.</p>
+            <div class="rjd-card-pills"><b>50 Mock Tests</b><b>100 Questions</b><b>90 Minutes</b></div>
+            <a href="railway-technician-grade-3.html">Mock Test शुरू करें →</a>
+          </article>
+
+          <article class="rjd-railway-card">
+            <div class="rjd-card-icon blue">👥</div>
+            <h3>RRB Group D</h3>
+            <p>Practice and mock tests for Railway Group D preparation.</p>
+            <div class="rjd-card-pills"><b>Test Series</b><b>Practice</b><b>PYQ</b></div>
+            <span class="disabled">Coming Soon</span>
+          </article>
+
+          <article class="rjd-railway-card">
+            <div class="rjd-card-icon green">⚙</div>
+            <h3>RRB Technician<br>Grade-I Signal</h3>
+            <p>Subject-wise practice and full mock test preparation.</p>
+            <div class="rjd-card-pills"><b>50 Mock Tests</b><b>100 Questions</b><b>90 Minutes</b></div>
+            <a href="railway-technician-grade-1-signal.html">Mock Test शुरू करें →</a>
+          </article>
+
+          <article class="rjd-railway-card">
+            <div class="rjd-card-icon purple">🛠</div>
+            <h3>RRB JE</h3>
+            <p>Technical exam preparation with practice and mock tests.</p>
+            <div class="rjd-card-pills"><b>Full Tests</b><b>Practice</b><b>PYQ</b></div>
+            <span class="disabled">Coming Soon</span>
+          </article>
+
+          <article class="rjd-railway-card">
+            <div class="rjd-card-icon orange">🚆</div>
+            <h3>RRB ALP</h3>
+            <p>Build speed, accuracy and confidence with exam practice.</p>
+            <div class="rjd-card-pills"><b>Full Tests</b><b>Practice</b><b>PYQ</b></div>
+            <span class="disabled">Coming Soon</span>
+          </article>
+
+          <article class="rjd-railway-card">
+            <div class="rjd-card-icon violet">📋</div>
+            <h3>RRB NTPC</h3>
+            <p>Practice for graduate and undergraduate Railway posts.</p>
+            <div class="rjd-card-pills"><b>Mock Tests</b><b>Practice</b><b>PYQ</b></div>
+            <span class="disabled">Coming Soon</span>
+          </article>
+
+          <article class="rjd-railway-card">
+            <div class="rjd-card-icon teal">🛡️</div>
+            <h3>RPF Constable</h3>
+            <p>Railway Protection Force exam-focused practice.</p>
+            <div class="rjd-card-pills"><b>Mock Tests</b><b>Practice</b><b>Analysis</b></div>
+            <span class="disabled">Coming Soon</span>
+          </article>
+
+          <article class="rjd-railway-card">
+            <div class="rjd-card-icon gold">🎯</div>
+            <h3>RPF SI</h3>
+            <p>Focused preparation with practice and test-based revision.</p>
+            <div class="rjd-card-pills"><b>Mock Tests</b><b>Practice</b><b>Analysis</b></div>
+            <span class="disabled">Coming Soon</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="rjd-mock-journey">
+        <div><span>01</span><b>Exam चुनें</b><small>अपनी Railway परीक्षा select करें</small></div>
+        <i>→</i>
+        <div><span>02</span><b>Practice करें</b><small>Topic और chapter पर पकड़ बनाएं</small></div>
+        <i>→</i>
+        <div><span>03</span><b>Mock Test दें</b><small>Exam जैसे माहौल में test दें</small></div>
+        <i>→</i>
+        <div><span>04</span><b>Result सुधारें</b><small>गलतियों को पहचानकर दोबारा practice करें</small></div>
+      </section>
+    `;
+  }
+
+  /* =========================================================
      SUBJECT PAGE — chapters of one subject (preserved)
   ========================================================= */
   function renderSubject() {
-    if (!selectedSubject) return renderLanding();
+    if (!selectedSubject) return renderRailwayLanding();
     currentView = "subject";
 
     const chapters = selectedSubject.chapters || [];
@@ -563,7 +701,7 @@
   function backToLanding() {
     selectedSubject = null;
     pushSubject(null);
-    renderLanding();
+    renderRailwayLanding();
     window.scrollTo({ top: 0, behavior: "auto" });
   }
 
@@ -611,7 +749,7 @@
     }
 
     if (selectedSubject) renderSubject();
-    else renderLanding();
+    else renderRailwayLanding();
 
     renderLangToggle();
   }
@@ -624,7 +762,7 @@
 
   LanguageManager.onChange(() => {
     renderLangToggle();
-    if (currentView === "landing" || !selectedSubject) renderLanding();
+    if (currentView === "landing" || !selectedSubject) renderRailwayLanding();
     else renderSubject();
   });
 
@@ -632,7 +770,7 @@
     const id = readSubjectFromURL();
     selectedSubject = id ? findSubject(id) : null;
     if (selectedSubject) renderSubject();
-    else renderLanding();
+    else renderRailwayLanding();
   });
 
   boot();
