@@ -65,6 +65,7 @@
 
   function renderShell() {
     const hasBank = bank.length > 0;
+    const isScienceChapter = ["biology", "physics", "chemistry", "science"].includes(subject);
     const code = meta.code
       ? `${meta.code} · `
       : `${isHindi() ? "अध्याय" : "Chapter"} ${meta.chapterNumber}: `;
@@ -99,6 +100,10 @@
                  )}
                </p>`
         }
+
+        ${isScienceChapter ? `
+          <div class="rjd-free-access-note" style="margin-top:10px;padding:8px 12px;border-radius:10px;background:#eefaf3;border:1px solid #c9ead7;color:#176b47;font-size:12px;font-weight:800;">🆓 Notes, 150 Practice Questions और 5 Mock Tests — यह Science learning content FREE है।</div>
+        ` : ""}
 
       </section>
 
