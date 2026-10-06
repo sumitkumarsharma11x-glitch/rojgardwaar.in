@@ -13,7 +13,11 @@
 
   const classNum = params.get("class") || "6";
   const subject = params.get("subject") || "science";
-  const chapter = params.get("chapter") || "chapter-01";
+  let chapter = params.get("chapter") || "chapter-01";
+  // Science hubs use compact chapter numbers (01, 02, ...), while data folders use chapter-01, chapter-02, ...
+  if (/^\d{1,2}$/.test(chapter)) {
+    chapter = `chapter-${String(chapter).padStart(2, "0")}`;
+  }
   const openParam = params.get("open");
 
   let meta = null;
