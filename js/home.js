@@ -589,7 +589,23 @@
       console.warn("Manifest load failed", err);
     }
 
+    const params = new URLSearchParams(window.location.search);
     const deepLinked = readSubjectFromURL();
+    const chapter = params.get("chapter");
+
+    // Subject-only legacy URLs are now redirected to the dedicated
+    // subject hubs. Chapter deep-links remain on chapter.html.
+    const subjectHubMap = {
+      biology: "science/biology/index.html",
+      physics: "science/physics/index.html",
+      chemistry: "science/chemistry/index.html"
+    };
+
+    if (deepLinked && !chapter && subjectHubMap[deepLinked]) {
+      window.location.replace(subjectHubMap[deepLinked]);
+      return;
+    }
+
     if (deepLinked) {
       selectedSubject = findSubject(deepLinked);
     }
