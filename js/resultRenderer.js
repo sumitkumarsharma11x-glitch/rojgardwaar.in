@@ -48,6 +48,23 @@ const ResultRenderer = (function () {
             `).join("") : `<p>${LanguageManager.get("noTopicAnalysis")}</p>`}
           </div>
         </div>
+        <section class="rjd-result-next">
+          <div class="rjd-result-next__badge">🆓 FREE PREPARATION LOOP</div>
+          <h3>${LanguageManager.getCurrent() === "hi" ? "अब इस Result का फायदा उठाइए" : "Use this result to improve"}</h3>
+          <p>${LanguageManager.getCurrent() === "hi"
+            ? (wrongQuestionIds.length
+              ? "आपके " + wrongQuestionIds.length + " प्रश्न गलत हुए। पहले इन्हें दोबारा practice करें, फिर अगला Mock Test दें।"
+              : "बहुत बढ़िया! अब अगला Mock Test देकर अपनी consistency check करें।")
+            : (wrongQuestionIds.length
+              ? "You got " + wrongQuestionIds.length + " questions wrong. Practise them again, then take the next Mock Test."
+              : "Great work! Take the next Mock Test to check your consistency.")}</p>
+          <div class="rjd-result-next__flow">
+            <span>${LanguageManager.getCurrent() === "hi" ? "Result" : "Result"}</span><b>→</b>
+            <span>${LanguageManager.getCurrent() === "hi" ? "गलतियाँ सुधारें" : "Fix mistakes"}</span><b>→</b>
+            <span>${LanguageManager.getCurrent() === "hi" ? "अगला Test" : "Next Test"}</span>
+          </div>
+        </section>
+
         <div class="rjd-result__actions">
           <button type="button" class="rjd-btn rjd-btn--danger" id="rjd-practice-wrong" ${wrongQuestionIds.length === 0 ? "disabled" : ""}>${LanguageManager.get("practiceWrong")}</button>
           <button type="button" class="rjd-btn rjd-btn--secondary" id="rjd-wrong-test" ${wrongQuestionIds.length === 0 ? "disabled" : ""}>${LanguageManager.get("wrongQuestionsTest")}</button>
