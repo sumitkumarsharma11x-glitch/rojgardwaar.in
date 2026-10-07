@@ -26,26 +26,26 @@
       "concept": "वायु, जल एवं पर्यावरणीय रसायन को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
       "example": "वायु, जल एवं पर्यावरणीय रसायन का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
       "sections": [
-        [
-          "मूल अवधारणा",
-          "वायु, जल एवं पर्यावरणीय रसायन को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।"
-        ],
-        [
-          "मुख्य गुण और उदाहरण",
-          "इस अध्याय में वायु, जल एवं पर्यावरणीय रसायन से जुड़े प्रमुख गुणों को उदाहरणों के साथ समझें। केवल परिभाषा याद करने के बजाय यह देखें कि नियम किस परिस्थिति में लागू होता है।"
-        ],
-        [
-          "दैनिक जीवन में उपयोग",
-          "अध्याय की अवधारणाओं को दैनिक जीवन और सामान्य विज्ञान के उदाहरणों से जोड़कर समझें। इससे concept-based questions हल करना आसान होता है।"
-        ],
-        [
-          "परीक्षा में कैसे पूछें जा सकते हैं",
-          "परिभाषा, तुलना, कारण, उदाहरण, पहचान और अनुप्रयोग आधारित प्रश्नों पर विशेष ध्यान दें। विकल्पों को पढ़कर पहले concept पहचानें।"
-        ],
-        [
-          "सामान्य भ्रम",
-          "समान दिखने वाली अवधारणाओं, शब्दों और प्रक्रियाओं में अंतर स्पष्ट रखें। उत्तर चुनने से पहले units, conditions और key terms जाँचें।"
-        ]
+        {
+          "heading": "वायु की संरचना",
+          "content": "वायु विभिन्न गैसों का मिश्रण है। नाइट्रोजन और ऑक्सीजन इसके प्रमुख घटक हैं, साथ में कार्बन डाइऑक्साइड, जलवाष्प और अन्य गैसें कम मात्रा में होती हैं।"
+        },
+        {
+          "heading": "जल और उसके स्रोत",
+          "content": "जल नदियों, झीलों, भूजल और वर्षा जैसे स्रोतों से मिलता है। जल चक्र में वाष्पीकरण, संघनन और वर्षण जैसी प्रक्रियाएँ शामिल हैं।"
+        },
+        {
+          "heading": "वायु प्रदूषण",
+          "content": "धुआँ, धूल और हानिकारक गैसें वायु प्रदूषण बढ़ा सकती हैं। वाहन और उद्योग इसके प्रमुख मानव-जनित स्रोतों में शामिल हैं।"
+        },
+        {
+          "heading": "जल प्रदूषण और उपचार",
+          "content": "घरेलू सीवेज, औद्योगिक अपशिष्ट और कृषि रसायन जल को प्रदूषित कर सकते हैं। जल उपचार में अशुद्धियों को हटाने के विभिन्न चरण उपयोग किए जाते हैं।"
+        },
+        {
+          "heading": "पर्यावरणीय रसायन",
+          "content": "ग्रीनहाउस गैसों में वृद्धि, अम्ल वर्षा और ओजोन परत से जुड़े प्रश्नों में प्रदूषक, कारण और प्रभाव के बीच संबंध समझना जरूरी है।"
+        }
       ],
       "keyPoints": [
         "वायु, जल एवं पर्यावरणीय रसायन की मूल परिभाषा समझें।",
@@ -86,26 +86,26 @@
       "concept": "Study Air, Water and Environmental Chemistry through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
       "example": "Learning Air, Water and Environmental Chemistry through examples and applications makes concept-based questions easier to solve.",
       "sections": [
-        [
-          "Core Concept",
-          "Study Air, Water and Environmental Chemistry through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property."
-        ],
-        [
-          "Key Properties and Examples",
-          "Understand the major properties of Air, Water and Environmental Chemistry with examples. Do not rely only on definitions; focus on when and why a rule applies."
-        ],
-        [
-          "Everyday Applications",
-          "Connect the chapter concepts with familiar examples and everyday science. This helps with application-based questions."
-        ],
-        [
-          "How Questions Are Asked",
-          "Pay attention to definition, comparison, reason, example, identification and application-based questions. Identify the tested concept before choosing an option."
-        ],
-        [
-          "Common Confusions",
-          "Keep closely related terms and processes distinct. Before answering, check conditions, units and key words in the question."
-        ]
+        {
+          "heading": "Composition of air",
+          "content": "Air is a mixture of gases. Nitrogen and oxygen are the major components, with smaller amounts of carbon dioxide, water vapour and other gases."
+        },
+        {
+          "heading": "Water and its sources",
+          "content": "Water is obtained from sources such as rivers, lakes, groundwater and rainfall. The water cycle includes evaporation, condensation and precipitation."
+        },
+        {
+          "heading": "Air pollution",
+          "content": "Smoke, dust and harmful gases can increase air pollution. Vehicles and industries are important human-made sources."
+        },
+        {
+          "heading": "Water pollution and treatment",
+          "content": "Domestic sewage, industrial waste and agricultural chemicals can pollute water. Water treatment uses different stages to remove impurities."
+        },
+        {
+          "heading": "Environmental chemistry",
+          "content": "Questions on greenhouse gases, acid rain and the ozone layer require understanding the links between pollutants, causes and effects."
+        }
       ],
       "keyPoints": [
         "Understand the core definition of Air, Water and Environmental Chemistry.",
