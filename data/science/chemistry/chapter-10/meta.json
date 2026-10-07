@@ -26,26 +26,26 @@
       "concept": "कार्बन एवं उसके यौगिक को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
       "example": "कार्बन एवं उसके यौगिक का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
       "sections": [
-        [
-          "मूल अवधारणा",
-          "कार्बन एवं उसके यौगिक को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।"
-        ],
-        [
-          "मुख्य गुण और उदाहरण",
-          "इस अध्याय में कार्बन एवं उसके यौगिक से जुड़े प्रमुख गुणों को उदाहरणों के साथ समझें। केवल परिभाषा याद करने के बजाय यह देखें कि नियम किस परिस्थिति में लागू होता है।"
-        ],
-        [
-          "दैनिक जीवन में उपयोग",
-          "अध्याय की अवधारणाओं को दैनिक जीवन और सामान्य विज्ञान के उदाहरणों से जोड़कर समझें। इससे concept-based questions हल करना आसान होता है।"
-        ],
-        [
-          "परीक्षा में कैसे पूछें जा सकते हैं",
-          "परिभाषा, तुलना, कारण, उदाहरण, पहचान और अनुप्रयोग आधारित प्रश्नों पर विशेष ध्यान दें। विकल्पों को पढ़कर पहले concept पहचानें।"
-        ],
-        [
-          "सामान्य भ्रम",
-          "समान दिखने वाली अवधारणाओं, शब्दों और प्रक्रियाओं में अंतर स्पष्ट रखें। उत्तर चुनने से पहले units, conditions और key terms जाँचें।"
-        ]
+        {
+          "heading": "कार्बन की विशेषता",
+          "content": "कार्बन की चतुसंयोजकता और श्रृंखलन क्षमता के कारण यह बहुत बड़ी संख्या में यौगिक बना सकता है। यह कार्बनिक रसायन की आधारभूत अवधारणा है।"
+        },
+        {
+          "heading": "संतृप्त और असंतृप्त यौगिक",
+          "content": "एकल बंध वाले हाइड्रोकार्बन संतृप्त होते हैं, जबकि द्वि या त्रि बंध वाले हाइड्रोकार्बन असंतृप्त कहलाते हैं।"
+        },
+        {
+          "heading": "समजातीय श्रेणी",
+          "content": "समजातीय श्रेणी में समान कार्यात्मक समूह वाले यौगिकों के क्रमिक सदस्यों में सामान्यतः –CH₂– का अंतर होता है और रासायनिक गुणों में समानता रहती है।"
+        },
+        {
+          "heading": "कार्यात्मक समूह",
+          "content": "–OH, –COOH और –CHO जैसे कार्यात्मक समूह कार्बनिक यौगिकों के गुणों और नामकरण को प्रभावित करते हैं।"
+        },
+        {
+          "heading": "दहन और उपयोग",
+          "content": "हाइड्रोकार्बन का पूर्ण दहन सामान्यतः कार्बन डाइऑक्साइड, जल और ऊर्जा देता है। ईंधन, अल्कोहल और कई दैनिक उपयोग की वस्तुएँ कार्बन यौगिकों से जुड़ी हैं।"
+        }
       ],
       "keyPoints": [
         "कार्बन एवं उसके यौगिक की मूल परिभाषा समझें।",
@@ -86,26 +86,26 @@
       "concept": "Study Carbon and Its Compounds through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
       "example": "Learning Carbon and Its Compounds through examples and applications makes concept-based questions easier to solve.",
       "sections": [
-        [
-          "Core Concept",
-          "Study Carbon and Its Compounds through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property."
-        ],
-        [
-          "Key Properties and Examples",
-          "Understand the major properties of Carbon and Its Compounds with examples. Do not rely only on definitions; focus on when and why a rule applies."
-        ],
-        [
-          "Everyday Applications",
-          "Connect the chapter concepts with familiar examples and everyday science. This helps with application-based questions."
-        ],
-        [
-          "How Questions Are Asked",
-          "Pay attention to definition, comparison, reason, example, identification and application-based questions. Identify the tested concept before choosing an option."
-        ],
-        [
-          "Common Confusions",
-          "Keep closely related terms and processes distinct. Before answering, check conditions, units and key words in the question."
-        ]
+        {
+          "heading": "Special nature of carbon",
+          "content": "Carbon can form a large number of compounds because of its tetravalency and ability to form chains. These are fundamental ideas in organic chemistry."
+        },
+        {
+          "heading": "Saturated and unsaturated compounds",
+          "content": "Hydrocarbons containing only single bonds are saturated, while those containing double or triple bonds are unsaturated."
+        },
+        {
+          "heading": "Homologous series",
+          "content": "Members of a homologous series have the same functional group and commonly differ from the next member by –CH₂– while showing similar chemical behaviour."
+        },
+        {
+          "heading": "Functional groups",
+          "content": "Groups such as –OH, –COOH and –CHO influence the properties and naming of organic compounds."
+        },
+        {
+          "heading": "Combustion and uses",
+          "content": "Complete combustion of a hydrocarbon generally produces carbon dioxide, water and energy. Fuels, alcohols and many everyday materials involve carbon compounds."
+        }
       ],
       "keyPoints": [
         "Understand the core definition of Carbon and Its Compounds.",
