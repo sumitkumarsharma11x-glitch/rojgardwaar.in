@@ -105,6 +105,47 @@ async function loginUser(event) {
   window.location.href=getSafeRedirect();
 }
 
+function switchLoginMode(mode) {
+  const passwordForm=document.getElementById("passwordLoginForm");
+  const otpBox=document.getElementById("otpLoginBox");
+  const passwordTab=document.getElementById("passwordTab");
+  const otpTab=document.getElementById("otpTab");
+  const isOtp=mode==="otp";
+  if(passwordForm) passwordForm.hidden=isOtp;
+  if(otpBox) otpBox.hidden=!isOtp;
+  if(passwordTab) passwordTab.classList.toggle("is-active",!isOtp);
+  if(otpTab) otpTab.classList.toggle("is-active",isOtp);
+  if(isOtp) document.getElementById("otpEmail")?.focus();
+}
+
+async function sendLoginOtp(event) {
+  if(event?.preventDefault) event.preventDefault();
+  if(!requireConfig()) return;
+  const email=document.getElementById("otpEmail")?.value.trim();
+  if(!email) return showMsg("Enter your email address first.","error");
+  const {error}=await supabaseClient.auth.signInWithOtp({
+    email,
+    options:{shouldCreateUser:false}
+  });
+  if(error) return showMsg(error.message,"error");
+  const verifyBox=document.getElementById("loginOtpVerify");
+  if(verifyBox) verifyBox.hidden=false;
+  showMsg("A 6-digit OTP has been sent to your email.","success");
+  document.getElementById("loginOtp")?.focus();
+}
+
+async function verifyLoginOtp(event) {
+  event.preventDefault();
+  if(!requireConfig()) return;
+  const email=document.getElementById("otpEmail")?.value.trim();
+  const token=document.getElementById("loginOtp")?.value.trim();
+  if(!/^\d{6}$/.test(token)) return showMsg("Please enter the 6-digit OTP.","error");
+  const {data,error}=await supabaseClient.auth.verifyOtp({email,token,type:"email"});
+  if(error) return showMsg(error.message,"error");
+  showMsg("Login successful. Redirecting...","success");
+  setTimeout(()=>{ window.location.href=getSafeRedirect(); },300);
+}
+
 async function loadAccount() {
   if(!requireConfig()) return;
   const {data,error}=await supabaseClient.auth.getUser();
