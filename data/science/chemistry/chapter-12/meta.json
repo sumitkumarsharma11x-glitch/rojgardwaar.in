@@ -26,26 +26,26 @@
       "concept": "ईंधन, दहन एवं दैनिक जीवन का रसायन को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
       "example": "ईंधन, दहन एवं दैनिक जीवन का रसायन का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
       "sections": [
-        [
-          "मूल अवधारणा",
-          "ईंधन, दहन एवं दैनिक जीवन का रसायन को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।"
-        ],
-        [
-          "मुख्य गुण और उदाहरण",
-          "इस अध्याय में ईंधन, दहन एवं दैनिक जीवन का रसायन से जुड़े प्रमुख गुणों को उदाहरणों के साथ समझें। केवल परिभाषा याद करने के बजाय यह देखें कि नियम किस परिस्थिति में लागू होता है।"
-        ],
-        [
-          "दैनिक जीवन में उपयोग",
-          "अध्याय की अवधारणाओं को दैनिक जीवन और सामान्य विज्ञान के उदाहरणों से जोड़कर समझें। इससे concept-based questions हल करना आसान होता है।"
-        ],
-        [
-          "परीक्षा में कैसे पूछें जा सकते हैं",
-          "परिभाषा, तुलना, कारण, उदाहरण, पहचान और अनुप्रयोग आधारित प्रश्नों पर विशेष ध्यान दें। विकल्पों को पढ़कर पहले concept पहचानें।"
-        ],
-        [
-          "सामान्य भ्रम",
-          "समान दिखने वाली अवधारणाओं, शब्दों और प्रक्रियाओं में अंतर स्पष्ट रखें। उत्तर चुनने से पहले units, conditions और key terms जाँचें।"
-        ]
+        {
+          "heading": "ईंधन",
+          "content": "ईंधन वह पदार्थ है जो नियंत्रित दहन से उपयोगी ऊष्मा या ऊर्जा देता है। ठोस, द्रव और गैसीय ईंधन के अलग-अलग उपयोग और गुण होते हैं।"
+        },
+        {
+          "heading": "दहन",
+          "content": "दहन में पदार्थ ऑक्सीजन के साथ अभिक्रिया करके सामान्यतः ऊष्मा और अक्सर प्रकाश उत्पन्न करता है। पूर्ण दहन के लिए पर्याप्त ऑक्सीजन आवश्यक होती है।"
+        },
+        {
+          "heading": "पूर्ण और अपूर्ण दहन",
+          "content": "पर्याप्त ऑक्सीजन में पूर्ण दहन से अधिकतर कार्बन डाइऑक्साइड और जल बनते हैं। ऑक्सीजन की कमी में कार्बन मोनोऑक्साइड और कालिख जैसे उत्पाद बन सकते हैं।"
+        },
+        {
+          "heading": "ईंधन की गुणवत्ता",
+          "content": "किसी ईंधन की उपयोगिता उसकी ऊष्मीय मान, उपलब्धता, लागत, भंडारण और प्रदूषणकारी प्रभाव जैसे कारकों से प्रभावित होती है।"
+        },
+        {
+          "heading": "दैनिक जीवन और सुरक्षा",
+          "content": "रसोई गैस, पेट्रोल, डीजल और ठोस ईंधन के उपयोग में उचित वेंटिलेशन और आग से सुरक्षा जरूरी है। अधूरा दहन कार्बन मोनोऑक्साइड पैदा कर सकता है।"
+        }
       ],
       "keyPoints": [
         "ईंधन, दहन एवं दैनिक जीवन का रसायन की मूल परिभाषा समझें।",
@@ -86,26 +86,26 @@
       "concept": "Study Fuels, Combustion and Chemistry in Daily Life through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
       "example": "Learning Fuels, Combustion and Chemistry in Daily Life through examples and applications makes concept-based questions easier to solve.",
       "sections": [
-        [
-          "Core Concept",
-          "Study Fuels, Combustion and Chemistry in Daily Life through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property."
-        ],
-        [
-          "Key Properties and Examples",
-          "Understand the major properties of Fuels, Combustion and Chemistry in Daily Life with examples. Do not rely only on definitions; focus on when and why a rule applies."
-        ],
-        [
-          "Everyday Applications",
-          "Connect the chapter concepts with familiar examples and everyday science. This helps with application-based questions."
-        ],
-        [
-          "How Questions Are Asked",
-          "Pay attention to definition, comparison, reason, example, identification and application-based questions. Identify the tested concept before choosing an option."
-        ],
-        [
-          "Common Confusions",
-          "Keep closely related terms and processes distinct. Before answering, check conditions, units and key words in the question."
-        ]
+        {
+          "heading": "Fuels",
+          "content": "A fuel is a substance that releases useful heat or energy during controlled combustion. Solid, liquid and gaseous fuels have different properties and uses."
+        },
+        {
+          "heading": "Combustion",
+          "content": "Combustion is a reaction with oxygen that generally releases heat and often light. Adequate oxygen is important for complete combustion."
+        },
+        {
+          "heading": "Complete and incomplete combustion",
+          "content": "With sufficient oxygen, complete combustion of carbon-based fuels mainly produces carbon dioxide and water. Limited oxygen can produce carbon monoxide and soot."
+        },
+        {
+          "heading": "Fuel quality",
+          "content": "The usefulness of a fuel depends on factors such as calorific value, availability, cost, storage requirements and environmental impact."
+        },
+        {
+          "heading": "Daily-life use and safety",
+          "content": "LPG, petrol, diesel and solid fuels require safe handling and proper ventilation. Incomplete combustion can produce poisonous carbon monoxide."
+        }
       ],
       "keyPoints": [
         "Understand the core definition of Fuels, Combustion and Chemistry in Daily Life.",
