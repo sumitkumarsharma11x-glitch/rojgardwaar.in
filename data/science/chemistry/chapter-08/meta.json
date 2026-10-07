@@ -26,26 +26,26 @@
       "concept": "अम्ल, क्षार, लवण एवं सूचक को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
       "example": "अम्ल, क्षार, लवण एवं सूचक का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
       "sections": [
-        [
-          "मूल अवधारणा",
-          "अम्ल, क्षार, लवण एवं सूचक को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।"
-        ],
-        [
-          "मुख्य गुण और उदाहरण",
-          "इस अध्याय में अम्ल, क्षार, लवण एवं सूचक से जुड़े प्रमुख गुणों को उदाहरणों के साथ समझें। केवल परिभाषा याद करने के बजाय यह देखें कि नियम किस परिस्थिति में लागू होता है।"
-        ],
-        [
-          "दैनिक जीवन में उपयोग",
-          "अध्याय की अवधारणाओं को दैनिक जीवन और सामान्य विज्ञान के उदाहरणों से जोड़कर समझें। इससे concept-based questions हल करना आसान होता है।"
-        ],
-        [
-          "परीक्षा में कैसे पूछें जा सकते हैं",
-          "परिभाषा, तुलना, कारण, उदाहरण, पहचान और अनुप्रयोग आधारित प्रश्नों पर विशेष ध्यान दें। विकल्पों को पढ़कर पहले concept पहचानें।"
-        ],
-        [
-          "सामान्य भ्रम",
-          "समान दिखने वाली अवधारणाओं, शब्दों और प्रक्रियाओं में अंतर स्पष्ट रखें। उत्तर चुनने से पहले units, conditions और key terms जाँचें।"
-        ]
+        {
+          "heading": "अम्ल और क्षार",
+          "content": "अम्ल सामान्यतः खट्टे होते हैं और नीला लिटमस लाल करते हैं, जबकि क्षार लाल लिटमस को नीला कर सकते हैं। स्वाद के आधार पर रसायनों की पहचान करना सुरक्षित तरीका नहीं है।"
+        },
+        {
+          "heading": "सूचक",
+          "content": "लिटमस, हल्दी और फिनॉल्फ्थेलिन जैसे सूचक अम्लीय या क्षारीय प्रकृति के बारे में संकेत देते हैं। अलग-अलग सूचक अलग रंग परिवर्तन दिखा सकते हैं।"
+        },
+        {
+          "heading": "लवण और उदासीनीकरण",
+          "content": "अम्ल और क्षार की अभिक्रिया से सामान्यतः लवण और जल बनते हैं; इसे उदासीनीकरण कहते हैं। उदाहरण: HCl + NaOH → NaCl + H₂O।"
+        },
+        {
+          "heading": "pH का अर्थ",
+          "content": "pH किसी विलयन की अम्लीय या क्षारीय प्रकृति बताने का पैमाना है। कम pH अधिक अम्लीय और अधिक pH अधिक क्षारीय प्रकृति दर्शाता है।"
+        },
+        {
+          "heading": "दैनिक जीवन में उपयोग",
+          "content": "एंटासिड, मिट्टी का उपचार और मधुमक्खी के डंक जैसे उदाहरण अम्ल-क्षार अवधारणाओं से जुड़े हैं। प्रश्नों में उपयुक्त सूचक या उदासीनीकरण पहचानना महत्वपूर्ण है।"
+        }
       ],
       "keyPoints": [
         "अम्ल, क्षार, लवण एवं सूचक की मूल परिभाषा समझें।",
@@ -86,26 +86,26 @@
       "concept": "Study Acids, Bases, Salts and Indicators through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
       "example": "Learning Acids, Bases, Salts and Indicators through examples and applications makes concept-based questions easier to solve.",
       "sections": [
-        [
-          "Core Concept",
-          "Study Acids, Bases, Salts and Indicators through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property."
-        ],
-        [
-          "Key Properties and Examples",
-          "Understand the major properties of Acids, Bases, Salts and Indicators with examples. Do not rely only on definitions; focus on when and why a rule applies."
-        ],
-        [
-          "Everyday Applications",
-          "Connect the chapter concepts with familiar examples and everyday science. This helps with application-based questions."
-        ],
-        [
-          "How Questions Are Asked",
-          "Pay attention to definition, comparison, reason, example, identification and application-based questions. Identify the tested concept before choosing an option."
-        ],
-        [
-          "Common Confusions",
-          "Keep closely related terms and processes distinct. Before answering, check conditions, units and key words in the question."
-        ]
+        {
+          "heading": "Acids and bases",
+          "content": "Acids commonly turn blue litmus red, while bases can turn red litmus blue. Identifying chemicals by tasting them is not a safe method."
+        },
+        {
+          "heading": "Indicators",
+          "content": "Indicators such as litmus, turmeric and phenolphthalein provide clues about acidic or basic nature through characteristic colour changes."
+        },
+        {
+          "heading": "Salts and neutralisation",
+          "content": "An acid and a base generally react to form salt and water; this is called neutralisation. Example: HCl + NaOH → NaCl + H₂O."
+        },
+        {
+          "heading": "Meaning of pH",
+          "content": "pH is a scale used to describe how acidic or basic a solution is. A lower pH indicates greater acidity and a higher pH indicates greater basicity."
+        },
+        {
+          "heading": "Everyday applications",
+          "content": "Antacids, soil treatment and examples such as insect stings can be linked to acid-base chemistry. Questions often test indicator choice and neutralisation."
+        }
       ],
       "keyPoints": [
         "Understand the core definition of Acids, Bases, Salts and Indicators.",
