@@ -74,7 +74,7 @@ async function verifySignupOtp(event) {
 
   const button=event.submitter;
   if(button) button.disabled=true;
-  const {error}=await supabaseClient.auth.verifyOtp({email,token,type:"email"});
+  const {error}=await supabaseClient.auth.verifyOtp({email,token,type:"signup"});
   if(button) button.disabled=false;
 
   if(error) return showMsg(error.message,"error");
