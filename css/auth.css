@@ -134,3 +134,29 @@
 .rjd-study-form .auth-link a{color:#315b91}
 .rjd-study-note{margin-top:18px;padding:10px 12px;border-left:3px solid #c78b25;background:#fbf7ec;color:#66788d;font-size:11px;line-height:1.45}
 @media(max-width:900px){.rjd-study-auth{grid-template-columns:1fr}.rjd-study-visual{min-height:430px;padding:42px 25px}.rjd-study-visual h2{font-size:31px}.rjd-study-art{height:205px}.rjd-study-form{border-left:0;border-top:1px solid #ddd6c8;padding:35px 22px}}
+
+
+.auth-login-tabs {
+  display: flex;
+  gap: 6px;
+  margin: 0 0 16px;
+  padding: 4px;
+  border: 1px solid #e6e8eb;
+  border-radius: 10px;
+  background: #f7f8f9;
+}
+.auth-login-tab {
+  flex: 1;
+  border: 0;
+  border-radius: 7px;
+  padding: 9px 10px;
+  background: transparent;
+  color: #68717d;
+  font-weight: 800;
+  cursor: pointer;
+}
+.auth-login-tab.is-active {
+  background: #fff;
+  color: #1f2937;
+  box-shadow: 0 1px 5px rgba(0,0,0,.08);
+}
