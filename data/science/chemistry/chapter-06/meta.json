@@ -78,59 +78,65 @@
       "quickRevision": "Z → प्रोटॉन | A → प्रोटॉन + न्यूट्रॉन | न्यूट्रॉन = A − Z।"
     },
     "en": {
-      "concept": "परमाणु के केंद्र में प्रोटॉन और न्यूट्रॉन वाला नाभिक होता है तथा इलेक्ट्रॉन उसके आसपास ऊर्जा स्तरों में पाए जाते हैं। परमाणु क्रमांक प्रोटॉन संख्या है और द्रव्यमान संख्या प्रोटॉन तथा न्यूट्रॉन का योग है।",
-      "example": "उदासीन परमाणु में प्रोटॉन और इलेक्ट्रॉन की संख्या समान होती है।",
+      "concept": "An atom has a central nucleus containing protons and neutrons, while electrons are present around the nucleus in energy levels. The atomic number is the number of protons, and the mass number is the total number of protons and neutrons.",
+      "example": "In a neutral atom, the number of protons is equal to the number of electrons.",
       "sections": [
         {
-          "heading": "नाभिक",
-          "content": "नाभिक परमाणु का केंद्रीय भाग है और इसमें प्रोटॉन तथा न्यूट्रॉन पाए जाते हैं। परमाणु का लगभग पूरा द्रव्यमान नाभिक में केंद्रित रहता है।"
+          "heading": "The Nucleus",
+          "content": "This section explains the nucleus with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "प्रोटॉन, न्यूट्रॉन और इलेक्ट्रॉन",
-          "content": "प्रोटॉन धनावेशित, न्यूट्रॉन उदासीन और इलेक्ट्रॉन ऋणावेशित कण हैं।"
+          "heading": "Protons, Neutrons and Electrons",
+          "content": "This section explains protons, neutrons and electrons with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "परमाणु क्रमांक",
-          "content": "नाभिक में प्रोटॉनों की संख्या परमाणु क्रमांक कहलाती है और यही तत्व की पहचान निर्धारित करती है।"
+          "heading": "Atomic Number",
+          "content": "This section explains atomic number with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "द्रव्यमान संख्या",
-          "content": "द्रव्यमान संख्या = प्रोटॉन + न्यूट्रॉन। इसलिए न्यूट्रॉन = द्रव्यमान संख्या − परमाणु क्रमांक।"
+          "heading": "Mass Number",
+          "content": "This section explains mass number with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "इलेक्ट्रॉनिक विन्यास",
-          "content": "इलेक्ट्रॉन ऊर्जा स्तरों में व्यवस्थित होते हैं। बाहरी स्तर के इलेक्ट्रॉन रासायनिक व्यवहार में महत्वपूर्ण होते हैं।"
+          "heading": "Electronic Configuration",
+          "content": "This section explains electronic configuration with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और सूत्र याद रखें",
-        "अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़कर विकल्प चुनें"
+        "The Nucleus",
+        "Protons, Neutrons and Electrons",
+        "Atomic Number",
+        "Mass Number"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "The Nucleus",
+        "Protons, Neutrons and Electrons",
+        "Atomic Number"
       ],
       "examTraps": [
-        "परमाणु क्रमांक प्रोटॉन की संख्या है, न्यूट्रॉन की नहीं।",
-        "द्रव्यमान संख्या में प्रोटॉन और न्यूट्रॉन दोनों शामिल होते हैं।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "दिया गया अंक परमाणु क्रमांक है या द्रव्यमान संख्या?",
-        "न्यूट्रॉन निकालने के लिए कौन-सा संबंध लगेगा?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "Z = Proton",
-        "A = Proton + Neutron"
+        "The Nucleus",
+        "Protons, Neutrons and Electrons"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "The Nucleus",
+        "Protons, Neutrons and Electrons",
+        "Atomic Number"
+      ],
       "mustRemember": [
-        "परमाणु क्रमांक = प्रोटॉन संख्या।",
-        "द्रव्यमान संख्या = प्रोटॉन + न्यूट्रॉन।",
-        "उदासीन परमाणु में प्रोटॉन = इलेक्ट्रॉन।"
+        "The Nucleus",
+        "Protons, Neutrons and Electrons",
+        "Atomic Number",
+        "Mass Number"
       ],
-      "quickRevision": "Z → प्रोटॉन | A → प्रोटॉन + न्यूट्रॉन | न्यूट्रॉन = A − Z।"
+      "quickRevision": "Structure of the Atom: definition → key concepts → differences → examples → exam check."
     }
   }
 }
