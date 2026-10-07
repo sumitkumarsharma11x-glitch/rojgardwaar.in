@@ -3,5 +3,29 @@
 <body><header class="site-header"><div class="container header-inner"><a href="./index.html" class="logo">ROJGARDWAAR<span>.IN</span></a></div><nav class="rjd-universal-nav" aria-label="Main navigation"><a href="./index.html">Home</a><a href="./science/index.html">Science</a><a href="./railway-exams.html">Railway</a><a href="./pages/about.html">About</a><a href="./pages/contact.html">Contact</a></nav></header>
 <main class="rjd-study-auth">
 <section class="rjd-study-visual"><div class="rjd-study-visual-inner"><div class="rjd-study-eyebrow">ROJGARDWAAR • STUDY &amp; PRACTICE</div><h2>पढ़ाई को एक सही <em>Preparation Journey</em> बनाओ</h2><p>Notes, practice questions और mock tests — अपनी तैयारी को एक ही जगह से आगे बढ़ाओ.</p><img class="rjd-study-art" src="./assets/student-learning.svg" alt="Student studying with books and digital learning resources"><div class="rjd-study-tags"><span>NCERT Class 6–10</span><span>Practice Questions</span><span>Mock Tests</span></div></div></section>
-<section class="rjd-study-form"><div class="auth-card education-auth-card"><div class="education-icon" aria-hidden="true">📖</div><div class="education-kicker">STUDENT LEARNING ACCOUNT</div><h1>Welcome back</h1><p class="auth-sub">अपनी preparation जारी रखने के लिए अपने account में login करें.</p><div id="authMsg" class="auth-msg info" hidden></div><form class="auth-form" onsubmit="loginUser(event)"><div class="auth-field"><label for="email">Email address</label><input id="email" type="email" placeholder="you@example.com" required autocomplete="email"></div><div class="auth-field"><label for="password">Password</label><input id="password" type="password" placeholder="Enter your password" required autocomplete="current-password"></div><button class="auth-btn rjd-study-btn" type="submit"><span>Login to continue</span><b>→</b></button></form><p class="auth-link">Account नहीं है? <a href="./register.html">Create an account</a></p><div class="rjd-study-note">आपका account आपकी learning progress और practice history को manage करने के लिए है.</div></div></section>
+<section class="rjd-study-form"><div class="auth-card education-auth-card"><div class="education-icon" aria-hidden="true">📖</div><div class="education-kicker">STUDENT LEARNING ACCOUNT</div><h1>Welcome back</h1><p class="auth-sub">अपनी preparation जारी रखने के लिए अपने account में login करें.</p><div id="authMsg" class="auth-msg info" hidden></div><div class="auth-login-tabs" role="tablist">
+<button type="button" class="auth-login-tab is-active" id="passwordTab" onclick="switchLoginMode('password')">Password Login</button>
+<button type="button" class="auth-login-tab" id="otpTab" onclick="switchLoginMode('otp')">Login with OTP</button>
+</div>
+<form id="passwordLoginForm" class="auth-form" onsubmit="loginUser(event)">
+<div class="auth-field"><label for="email">Email address</label><input id="email" type="email" placeholder="you@example.com" required autocomplete="email"></div>
+<div class="auth-field"><label for="password">Password</label><input id="password" type="password" placeholder="Enter your password" required autocomplete="current-password"></div>
+<button class="auth-btn rjd-study-btn" type="submit"><span>Login to continue</span><b>→</b></button>
+</form>
+<div id="otpLoginBox" class="otp-box" hidden>
+<div class="otp-icon" aria-hidden="true">✉</div><div class="otp-label">EMAIL OTP LOGIN</div>
+<h2>Login with OTP</h2><p class="auth-sub">Enter your email and we will send a 6-digit verification code.</p>
+<form class="auth-form" onsubmit="sendLoginOtp(event)">
+<div class="auth-field"><label for="otpEmail">Email address</label><input id="otpEmail" type="email" placeholder="you@example.com" required autocomplete="email"></div>
+<button class="auth-btn rjd-study-btn" type="submit"><span>Send OTP</span><b>→</b></button>
+</form>
+<div id="loginOtpVerify" hidden>
+<form class="auth-form" onsubmit="verifyLoginOtp(event)">
+<div class="auth-field"><label for="loginOtp">6-digit OTP</label><input id="loginOtp" class="otp-input" type="text" inputmode="numeric" autocomplete="one-time-code" maxlength="6" pattern="[0-9]{6}" placeholder="000000" required></div>
+<button class="auth-btn rjd-study-btn" type="submit"><span>Verify &amp; Login</span><b>✓</b></button>
+</form>
+<button class="auth-secondary" type="button" onclick="sendLoginOtp()">↻ Resend OTP</button>
+</div>
+</div>
+<p class="auth-link">Account नहीं है? <a href="./register.html">Create an account</a></p><div class="rjd-study-note">आपका account आपकी learning progress और practice history को manage करने के लिए है.</div></div></section>
 </main><footer class="rjd-universal-footer"><p><a href="./index.html">Home</a> · <a href="./science/index.html">Science</a> · <a href="./railway-exams.html">Railway</a> · <a href="./pages/about.html">About</a> · <a href="./pages/contact.html">Contact</a> · <a href="./pages/privacy-policy.html">Privacy Policy</a> · <a href="./pages/terms.html">Terms</a> · <a href="./pages/disclaimer.html">Disclaimer</a></p><p>© 2026 RojgarDwaar</p></footer></body></html>
