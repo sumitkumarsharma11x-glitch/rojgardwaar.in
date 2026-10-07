@@ -78,59 +78,65 @@
       "quickRevision": "प्रतीक पहचानें → संयोजकता देखें → परमाणु अनुपात संतुलित करें → सूत्र लिखें।"
     },
     "en": {
-      "concept": "परमाणु तत्व की मूल रासायनिक इकाई है। अणु दो या अधिक परमाणुओं के संयोजन से बना कण हो सकता है। रासायनिक सूत्र पदार्थ में उपस्थित तत्वों और उनके परमाणुओं के अनुपात को दर्शाता है।",
-      "example": "H₂O में H के 2 और O के 1 परमाणु होते हैं।",
+      "concept": "An atom is the basic chemical unit of an element. A molecule may consist of two or more atoms chemically bonded together. A chemical formula represents the elements present in a substance and the ratio of their atoms.",
+      "example": "H₂O contains two hydrogen atoms and one oxygen atom.",
       "sections": [
         {
-          "heading": "परमाणु और अणु",
-          "content": "परमाणु तत्व की मूल रासायनिक इकाई है। अणु दो या अधिक परमाणुओं के संयोजन से बना कण हो सकता है।"
+          "heading": "Atoms and Molecules",
+          "content": "This section explains atoms and molecules with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "रासायनिक प्रतीक",
-          "content": "हर तत्व का निश्चित प्रतीक होता है। पहला अक्षर Capital और दूसरा अक्षर होने पर छोटा लिखा जाता है।"
+          "heading": "Chemical Symbols",
+          "content": "This section explains chemical symbols with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "रासायनिक सूत्र",
-          "content": "सूत्र पदार्थ में उपस्थित तत्वों और उनके परमाणुओं के अनुपात को दर्शाता है। नीचे का अंक संबंधित तत्व के परमाणुओं की संख्या बताता है।"
+          "heading": "Chemical Formulae",
+          "content": "This section explains chemical formulae with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "संयोजकता",
-          "content": "संयोजकता तत्व की संयोजन क्षमता बताती है और यौगिक का सरल सूत्र बनाने में सहायता करती है।"
+          "heading": "Valency",
+          "content": "This section explains valency with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "सूत्र पढ़ना",
-          "content": "H₂O में H के 2 और O के 1 परमाणु होते हैं। यदि किसी प्रतीक के नीचे अंक नहीं है तो संख्या 1 मानी जाती है।"
+          "heading": "Reading Formulae",
+          "content": "This section explains reading formulae with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और सूत्र याद रखें",
-        "अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़कर विकल्प चुनें"
+        "Atoms and Molecules",
+        "Chemical Symbols",
+        "Chemical Formulae",
+        "Valency"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "Atoms and Molecules",
+        "Chemical Symbols",
+        "Chemical Formulae"
       ],
       "examTraps": [
-        "Subscript केवल उसके ठीक पहले वाले तत्व पर लागू होता है।",
-        "तत्व प्रतीकों में Capital और small letters का सही प्रयोग जरूरी है।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "सूत्र में नीचे दिया अंक किस तत्व पर लागू है?",
-        "क्या सूत्र में परमाणुओं का अनुपात सबसे सरल है?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "छोटा अंक = उसी तत्व के परमाणुओं की संख्या",
-        "पहला अक्षर Capital"
+        "Atoms and Molecules",
+        "Chemical Symbols"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "Atoms and Molecules",
+        "Chemical Symbols",
+        "Chemical Formulae"
+      ],
       "mustRemember": [
-        "Subscript परमाणुओं की संख्या बताता है।",
-        "संयोजकता सूत्र निर्माण में महत्वपूर्ण है।",
-        "रासायनिक प्रतीक सही capitalization के साथ लिखे जाते हैं।"
+        "Atoms and Molecules",
+        "Chemical Symbols",
+        "Chemical Formulae",
+        "Valency"
       ],
-      "quickRevision": "प्रतीक पहचानें → संयोजकता देखें → परमाणु अनुपात संतुलित करें → सूत्र लिखें।"
+      "quickRevision": "Atoms, Molecules and Chemical Formulae: definition → key concepts → differences → examples → exam check."
     }
   }
 }
