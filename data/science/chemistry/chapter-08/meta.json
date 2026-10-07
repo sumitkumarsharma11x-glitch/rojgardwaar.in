@@ -77,58 +77,65 @@
       "quickRevision": "अम्ल → नीला लिटमस लाल | क्षार → लाल लिटमस नीला | अम्ल + क्षार → उदासीनीकरण।"
     },
     "en": {
-      "concept": "अम्ल, क्षार और लवण रसायन के महत्वपूर्ण पदार्थ हैं। सूचक रंग बदलकर अम्लीय या क्षारीय प्रकृति की पहचान में सहायता करते हैं। अम्ल और क्षार की अभिक्रिया को उदासीनीकरण कहा जाता है।",
-      "example": "नींबू का रस अम्लीय प्रकृति का उदाहरण है और लिटमस एक सामान्य सूचक है।",
+      "concept": "Acids, bases and salts are important groups of substances in chemistry. Indicators help identify acidic or basic nature through colour changes. Acids and bases can react in a neutralisation reaction to form salt and water under suitable conditions.",
+      "example": "Lemon juice is acidic, while litmus is a common indicator used to test acidic or basic solutions.",
       "sections": [
         {
-          "heading": "अम्ल",
-          "content": "अम्लीय पदार्थ सामान्यतः नीले लिटमस को लाल कर सकते हैं और जल में H⁺ आयनों से जुड़े गुण दिखाते हैं।"
+          "heading": "Acids",
+          "content": "This section explains acids with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "क्षार",
-          "content": "क्षारीय पदार्थ लाल लिटमस को नीला कर सकते हैं और जल में OH⁻ आयनों से जुड़े गुण दिखाते हैं।"
+          "heading": "Bases",
+          "content": "This section explains bases with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "सूचक",
-          "content": "लिटमस, हल्दी और अन्य सूचक पदार्थ अम्लीय या क्षारीय प्रकृति के अनुसार रंग बदल सकते हैं।"
+          "heading": "Indicators",
+          "content": "This section explains indicators with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "लवण और उदासीनीकरण",
-          "content": "अम्ल और क्षार की अभिक्रिया को उदासीनीकरण कहते हैं; उपयुक्त परिस्थितियों में इससे लवण और जल बनते हैं।"
+          "heading": "Salts and Neutralisation",
+          "content": "This section explains salts and neutralisation with clear concepts, examples and exam-oriented understanding."
         },
         {
           "heading": "pH",
-          "content": "pH जलीय विलयन की अम्लीय या क्षारीय प्रकृति का मात्रात्मक संकेत देता है। कम pH अधिक अम्लीय प्रकृति दर्शाता है।"
+          "content": "This section explains ph with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और सूत्र याद रखें",
-        "अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़कर विकल्प चुनें"
+        "Acids",
+        "Bases",
+        "Indicators",
+        "Salts and Neutralisation"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "Acids",
+        "Bases",
+        "Indicators"
       ],
       "examTraps": [
-        "रसायनों को स्वाद या स्पर्श से पहचानना सुरक्षित तरीका नहीं है।",
-        "कम pH अधिक अम्लीय प्रकृति दर्शाता है।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "सूचक का प्रारंभिक रंग क्या है?",
-        "प्रश्न pH, सूचक या उदासीनीकरण में से क्या पूछ रहा है?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "Acid: Blue litmus → Red | Base: Red litmus → Blue"
+        "Acids",
+        "Bases"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "Acids",
+        "Bases",
+        "Indicators"
+      ],
       "mustRemember": [
-        "अम्ल और क्षार की पहचान सूचक से की जा सकती है।",
-        "उदासीनीकरण में अम्ल और क्षार अभिक्रिया करते हैं।",
-        "कम pH अधिक अम्लीयता दर्शाता है।"
+        "Acids",
+        "Bases",
+        "Indicators",
+        "Salts and Neutralisation"
       ],
-      "quickRevision": "अम्ल → नीला लिटमस लाल | क्षार → लाल लिटमस नीला | अम्ल + क्षार → उदासीनीकरण।"
+      "quickRevision": "Acids, Bases, Salts and Indicators: definition → key concepts → differences → examples → exam check."
     }
   }
 }
