@@ -78,59 +78,65 @@
       "quickRevision": "Carbon 4 → bonding → saturated/unsaturated → homologous series → functional groups।"
     },
     "en": {
-      "concept": "कार्बन की चतुसंयोजकता और श्रृंखला बनाने की क्षमता के कारण बहुत बड़ी संख्या में यौगिक बनते हैं। संतृप्त और असंतृप्त हाइड्रोकार्बन, समजातीय श्रेणी और कार्यात्मक समूह इसके प्रमुख विचार हैं।",
-      "example": "मीथेन CH₄ एक संतृप्त हाइड्रोकार्बन है। एथेनॉल और एथेनोइक अम्ल महत्वपूर्ण कार्बन यौगिक हैं।",
+      "concept": "Carbon forms a very large number of compounds because of its tetravalency and its ability to form chains. Saturated and unsaturated hydrocarbons, homologous series and functional groups are important concepts.",
+      "example": "Methane, CH₄, is a simple saturated hydrocarbon. Ethanol and ethanoic acid are important carbon compounds.",
       "sections": [
         {
-          "heading": "कार्बन की चतुसंयोजकता",
-          "content": "कार्बन चार बंध बना सकता है। यही गुण उसे अनेक संरचनाएँ और यौगिक बनाने में सक्षम करता है।"
+          "heading": "Tetravalency of Carbon",
+          "content": "This section explains tetravalency of carbon with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "संतृप्त और असंतृप्त यौगिक",
-          "content": "केवल एकल C–C बंध वाले हाइड्रोकार्बन संतृप्त होते हैं। द्वि या त्रि बंध वाले हाइड्रोकार्बन असंतृप्त कहलाते हैं।"
+          "heading": "Saturated and Unsaturated Compounds",
+          "content": "This section explains saturated and unsaturated compounds with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "समजातीय श्रेणी",
-          "content": "समान कार्यात्मक समूह और समान सामान्य सूत्र वाले संबंधित कार्बनिक यौगिकों की श्रेणी में क्रमिक सदस्यों का अंतर सामान्यतः CH₂ होता है।"
+          "heading": "Homologous Series",
+          "content": "This section explains homologous series with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "कार्यात्मक समूह",
-          "content": "कार्यात्मक समूह कार्बनिक यौगिक के विशिष्ट रासायनिक गुणों को प्रभावित करता है।"
+          "heading": "Functional Groups",
+          "content": "This section explains functional groups with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "साबुन और डिटर्जेंट",
-          "content": "साबुन और डिटर्जेंट जल में गंदगी हटाने में मदद करते हैं। कठोर जल में साबुन की प्रभावशीलता घट सकती है।"
+          "heading": "Soaps and Detergents",
+          "content": "This section explains soaps and detergents with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और तथ्य याद रखें",
-        "समान अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़ें"
+        "Tetravalency of Carbon",
+        "Saturated and Unsaturated Compounds",
+        "Homologous Series",
+        "Functional Groups"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "Tetravalency of Carbon",
+        "Saturated and Unsaturated Compounds",
+        "Homologous Series"
       ],
       "examTraps": [
-        "द्वि/त्रि बंध को संतृप्त न समझें।",
-        "समजातीय श्रेणी के क्रमिक अंतर को याद रखें।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "C–C बंध का प्रकार क्या है?",
-        "क्या क्रमिक यौगिकों में CH₂ का अंतर है?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "Carbon = 4 valency",
-        "Single = Saturated | Double/Triple = Unsaturated"
+        "Tetravalency of Carbon",
+        "Saturated and Unsaturated Compounds"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "Tetravalency of Carbon",
+        "Saturated and Unsaturated Compounds",
+        "Homologous Series"
+      ],
       "mustRemember": [
-        "कार्बन की संयोजकता 4 है।",
-        "संतृप्त में केवल एकल C–C बंध होते हैं।",
-        "समजातीय सदस्यों में क्रमिक अंतर CH₂ होता है।"
+        "Tetravalency of Carbon",
+        "Saturated and Unsaturated Compounds",
+        "Homologous Series",
+        "Functional Groups"
       ],
-      "quickRevision": "Carbon 4 → bonding → saturated/unsaturated → homologous series → functional groups।"
+      "quickRevision": "Carbon and Its Compounds: definition → key concepts → differences → examples → exam check."
     }
   }
 }
