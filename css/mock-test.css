@@ -3272,3 +3272,74 @@ body:has(#rjd-home-root) .rjd-train-front b{font-size:14px}
   padding: 16px 18px;
   margin: 0 0 18px;
 }
+
+
+.rjd-prep-progress {
+  margin: 0 0 18px;
+  padding: 17px 18px;
+  border: 1px solid var(--line, #e5e7eb);
+  border-radius: var(--radius-md, 14px);
+  background: var(--surface, #fff);
+}
+.rjd-prep-progress__head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+.rjd-prep-progress__eyebrow {
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  color: var(--ink-soft);
+}
+.rjd-prep-progress h3 {
+  margin: 3px 0 0;
+  font-size: 17px;
+}
+.rjd-prep-progress__head > strong {
+  font-size: 24px;
+  line-height: 1;
+}
+.rjd-prep-progress__bar {
+  height: 8px;
+  margin: 14px 0;
+  border-radius: 999px;
+  background: #edf0f2;
+  overflow: hidden;
+}
+.rjd-prep-progress__bar span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--gold, #d69e2e);
+}
+.rjd-prep-progress__stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+.rjd-prep-progress__stats div {
+  padding: 9px 10px;
+  border-radius: 10px;
+  background: #f7f8f9;
+}
+.rjd-prep-progress__stats b {
+  display: block;
+  font-size: 15px;
+}
+.rjd-prep-progress__stats span {
+  display: block;
+  margin-top: 2px;
+  font-size: 10px;
+  color: var(--ink-soft);
+}
+.rjd-prep-progress__next {
+  margin: 12px 0 0;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--ink-soft);
+}
+@media (max-width: 700px) {
+  .rjd-prep-progress__stats { grid-template-columns: repeat(2, 1fr); }
+}
