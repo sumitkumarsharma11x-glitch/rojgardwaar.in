@@ -83,64 +83,65 @@
       "quickRevision": "मिश्रण → समांगी/विषमांगी → घटकों के गुण पहचानें → सही पृथक्करण विधि चुनें।"
     },
     "en": {
-      "concept": "मिश्रण दो या अधिक पदार्थों का भौतिक मेल है, जिसमें घटक अपने मूल गुण बनाए रखते हैं। मिश्रण समांगी या विषमांगी हो सकता है। घटकों को कण आकार, घुलनशीलता, घनत्व या क्वथनांक जैसे भौतिक गुणों के अंतर से अलग किया जा सकता है।",
-      "example": "रेत और पानी को छानकर अलग किया जा सकता है, जबकि नमक के घोल से नमक वाष्पीकरण द्वारा प्राप्त किया जा सकता है।",
+      "concept": "A mixture is formed when two or more substances are physically combined without forming a new substance. The components retain their individual properties. Mixtures may be homogeneous or heterogeneous and can be separated using differences in physical properties.",
+      "example": "Sand and water can be separated by filtration, while salt can be recovered from a salt solution by evaporation.",
       "sections": [
         {
-          "heading": "मिश्रण और उसके प्रकार",
-          "content": "समांगी मिश्रण की संरचना पूरे नमूने में समान होती है, जैसे नमक का घोल। विषमांगी मिश्रण में घटक अलग-अलग पहचाने जा सकते हैं, जैसे रेत और पानी।"
+          "heading": "Types of Mixtures",
+          "content": "This section explains types of mixtures with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "छानना",
-          "content": "अघुलनशील ठोस को द्रव से अलग करने के लिए छानना उपयोगी है। इसमें फिल्टर के छिद्रों के कारण ठोस रुक जाता है और द्रव निकल जाता है।"
+          "heading": "Filtration",
+          "content": "This section explains filtration with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "वाष्पीकरण",
-          "content": "घुले हुए ठोस को द्रव से अलग करने के लिए वाष्पीकरण किया जा सकता है। नमक के घोल से नमक प्राप्त करना इसका सामान्य उदाहरण है।"
+          "heading": "Evaporation",
+          "content": "This section explains evaporation with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "आसवन",
-          "content": "अलग-अलग क्वथनांक वाले द्रवों को गर्म करके वाष्प और फिर ठंडा करके संघनित किया जाता है। इस प्रक्रिया को आसवन कहते हैं।"
+          "heading": "Distillation",
+          "content": "This section explains distillation with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "सही विधि का चयन",
-          "content": "पृथक्करण की विधि हमेशा मिश्रण के घटकों के भौतिक गुणों पर निर्भर करती है। प्रश्न में पहले घटकों और उनके गुणों को पहचानें।"
+          "heading": "Choosing a Separation Method",
+          "content": "This section explains choosing a separation method with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मिश्रण में घटक अपने मूल गुण बनाए रखते हैं।",
-        "समांगी मिश्रण की संरचना समान होती है।",
-        "छानना अघुलनशील ठोस और द्रव के लिए उपयोगी है।",
-        "वाष्पीकरण से घुले ठोस को अलग किया जा सकता है।",
-        "आसवन अलग क्वथनांक वाले द्रवों पर आधारित है।"
+        "Types of Mixtures",
+        "Filtration",
+        "Evaporation",
+        "Distillation"
       ],
       "examFocus": [
-        "समांगी और विषमांगी मिश्रण की पहचान",
-        "मिश्रण के लिए सही पृथक्करण विधि चुनना",
-        "छानना, वाष्पीकरण और आसवन का अंतर"
+        "Types of Mixtures",
+        "Filtration",
+        "Evaporation"
       ],
       "examTraps": [
-        "घुले हुए नमक को साधारण छानने से अलग नहीं किया जा सकता।",
-        "मिश्रण और यौगिक को एक जैसा न मानें।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "क्या ठोस द्रव में घुला है या अघुलनशील है?",
-        "क्या दोनों घटक द्रव हैं और उनके क्वथनांक अलग हैं?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "छानना = अघुलनशील ठोस + द्रव",
-        "वाष्पीकरण = घुले ठोस को वापस पाना"
+        "Types of Mixtures",
+        "Filtration"
       ],
       "pyqSignals": [
-        "पृथक्करण की सही विधि चुनने वाले प्रश्न",
-        "समांगी और विषमांगी मिश्रण की पहचान"
+        "Types of Mixtures",
+        "Filtration",
+        "Evaporation"
       ],
       "mustRemember": [
-        "मिश्रण में घटक भौतिक रूप से जुड़े होते हैं।",
-        "पृथक्करण भौतिक गुणों के अंतर पर आधारित होता है।",
-        "विधि चुनने से पहले घटकों के गुण पहचानें।"
+        "Types of Mixtures",
+        "Filtration",
+        "Evaporation",
+        "Distillation"
       ],
-      "quickRevision": "मिश्रण → समांगी/विषमांगी → घटकों के गुण पहचानें → सही पृथक्करण विधि चुनें।"
+      "quickRevision": "Separation of Substances and Mixtures: definition → key concepts → differences → examples → exam check."
     }
   }
 }
