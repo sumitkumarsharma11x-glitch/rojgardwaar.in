@@ -28,23 +28,23 @@
       "sections": [
         {
           "heading": "परमाणु और अणु",
-          "content": "परमाणु तत्व की मूल रासायनिक इकाई है। अणु दो या अधिक परमाणुओं के संयोजन से बना कण हो सकता है।"
-        },
-        {
-          "heading": "रासायनिक प्रतीक",
-          "content": "हर तत्व का निश्चित प्रतीक होता है। पहला अक्षर Capital और दूसरा अक्षर होने पर छोटा लिखा जाता है।"
+          "content": "परमाणु तत्व की मूल इकाई है जो उसके रासायनिक गुणों को दर्शाती है। दो या अधिक परमाणु रासायनिक बंध से जुड़कर अणु बना सकते हैं।"
         },
         {
           "heading": "रासायनिक सूत्र",
-          "content": "सूत्र पदार्थ में उपस्थित तत्वों और उनके परमाणुओं के अनुपात को दर्शाता है। नीचे का अंक संबंधित तत्व के परमाणुओं की संख्या बताता है।"
+          "content": "रासायनिक सूत्र किसी पदार्थ में उपस्थित तत्वों और उनके परमाणुओं के अनुपात को दर्शाता है। H₂O में दो हाइड्रोजन और एक ऑक्सीजन परमाणु होते हैं।"
         },
         {
-          "heading": "संयोजकता",
-          "content": "संयोजकता तत्व की संयोजन क्षमता बताती है और यौगिक का सरल सूत्र बनाने में सहायता करती है।"
+          "heading": "द्विपरमाणुक अणु",
+          "content": "हाइड्रोजन, ऑक्सीजन और नाइट्रोजन जैसी कई गैसें सामान्य अवस्था में द्विपरमाणुक अणु के रूप में पाई जाती हैं, जैसे H₂, O₂ और N₂।"
         },
         {
-          "heading": "सूत्र पढ़ना",
-          "content": "H₂O में H के 2 और O के 1 परमाणु होते हैं। यदि किसी प्रतीक के नीचे अंक नहीं है तो संख्या 1 मानी जाती है।"
+          "heading": "संयोजकता और सूत्र लेखन",
+          "content": "किसी तत्व की संयोजकता का उपयोग यौगिक का सही सूत्र लिखने में किया जाता है। उदाहरण के लिए Mg की संयोजकता 2 और Cl की 1 होने से MgCl₂ बनता है।"
+        },
+        {
+          "heading": "सूत्रों को पढ़ना",
+          "content": "सूत्र में नीचे लिखा अंक उस तत्व के परमाणुओं की संख्या बताता है। NaCl में Na और Cl एक-एक हैं, जबकि CO₂ में एक C और दो O होते हैं।"
         }
       ],
       "keyPoints": [
@@ -82,24 +82,24 @@
       "example": "Study Atoms, Molecules and Chemical Formulae with definitions, examples, comparisons and applications so that the concept can be used to solve unfamiliar questions.",
       "sections": [
         {
-          "heading": "Atoms and Molecules",
-          "content": "Understand Atoms, Molecules and Chemical Formulae through its definition, core idea and the conditions under which it applies."
+          "heading": "Atoms and molecules",
+          "content": "An atom is a basic unit of an element that shows its chemical properties. Two or more atoms can be chemically bonded to form a molecule."
         },
         {
-          "heading": "Chemical Symbols",
-          "content": "Use clear examples to distinguish the important ideas in Atoms, Molecules and Chemical Formulae and connect them with familiar situations."
+          "heading": "Chemical formulae",
+          "content": "A chemical formula shows which elements are present and their atomic ratio. H₂O contains two hydrogen atoms for every one oxygen atom."
         },
         {
-          "heading": "Chemical Formulae",
-          "content": "Focus on how the process or property works, not only on memorising its definition."
+          "heading": "Diatomic molecules",
+          "content": "Several elements such as hydrogen, oxygen and nitrogen commonly exist as diatomic molecules, for example H₂, O₂ and N₂."
         },
         {
-          "heading": "Valency",
-          "content": "In exam questions, identify the concept being tested before selecting an option or writing an explanation."
+          "heading": "Valency and formula writing",
+          "content": "Valency helps determine the correct formula of a compound. Magnesium has valency 2 and chlorine has valency 1, giving MgCl₂."
         },
         {
-          "heading": "Reading Formulae",
-          "content": "Check closely related terms, conditions and exceptions so that similar concepts are not confused."
+          "heading": "Reading formulae",
+          "content": "A subscript shows the number of atoms of that element. NaCl has one Na and one Cl, while CO₂ has one C and two O atoms."
         }
       ],
       "keyPoints": [
