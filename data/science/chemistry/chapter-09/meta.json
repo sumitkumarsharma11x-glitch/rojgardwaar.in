@@ -26,26 +26,26 @@
       "concept": "धातुएँ एवं अधातुएँ को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
       "example": "धातुएँ एवं अधातुएँ का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
       "sections": [
-        [
-          "मूल अवधारणा",
-          "धातुएँ एवं अधातुएँ को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।"
-        ],
-        [
-          "मुख्य गुण और उदाहरण",
-          "इस अध्याय में धातुएँ एवं अधातुएँ से जुड़े प्रमुख गुणों को उदाहरणों के साथ समझें। केवल परिभाषा याद करने के बजाय यह देखें कि नियम किस परिस्थिति में लागू होता है।"
-        ],
-        [
-          "दैनिक जीवन में उपयोग",
-          "अध्याय की अवधारणाओं को दैनिक जीवन और सामान्य विज्ञान के उदाहरणों से जोड़कर समझें। इससे concept-based questions हल करना आसान होता है।"
-        ],
-        [
-          "परीक्षा में कैसे पूछें जा सकते हैं",
-          "परिभाषा, तुलना, कारण, उदाहरण, पहचान और अनुप्रयोग आधारित प्रश्नों पर विशेष ध्यान दें। विकल्पों को पढ़कर पहले concept पहचानें।"
-        ],
-        [
-          "सामान्य भ्रम",
-          "समान दिखने वाली अवधारणाओं, शब्दों और प्रक्रियाओं में अंतर स्पष्ट रखें। उत्तर चुनने से पहले units, conditions और key terms जाँचें।"
-        ]
+        {
+          "heading": "धातुओं के सामान्य गुण",
+          "content": "धातुएँ सामान्यतः चमकीली, तन्य और आघातवर्धनीय होती हैं तथा ऊष्मा और विद्युत की अच्छी चालक होती हैं। सभी धातुओं में हर गुण समान रूप से नहीं पाया जाता।"
+        },
+        {
+          "heading": "अधातुओं के गुण",
+          "content": "अधातुएँ सामान्यतः भंगुर होती हैं और ऊष्मा व विद्युत की खराब चालक होती हैं, हालांकि ग्रेफाइट जैसी अपवाद स्थिति मिलती है।"
+        },
+        {
+          "heading": "धातु और ऑक्सीजन",
+          "content": "कई धातुएँ ऑक्सीजन से अभिक्रिया करके धातु ऑक्साइड बनाती हैं। कुछ धातु ऑक्साइड अम्ल और क्षार दोनों के साथ अभिक्रिया कर सकते हैं।"
+        },
+        {
+          "heading": "अभिक्रियाशीलता और विस्थापन",
+          "content": "अधिक अभिक्रियाशील धातु कम अभिक्रियाशील धातु को उसके लवण के विलयन से विस्थापित कर सकती है। अभिक्रियाशीलता श्रेणी ऐसे प्रश्नों में उपयोगी होती है।"
+        },
+        {
+          "heading": "जंग और संरक्षण",
+          "content": "लोहे पर ऑक्सीजन और नमी की उपस्थिति में जंग लगती है। पेंटिंग, गैल्वनाइजेशन और मिश्रधातु बनाना धातुओं को क्षरण से बचाने के तरीके हैं।"
+        }
       ],
       "keyPoints": [
         "धातुएँ एवं अधातुएँ की मूल परिभाषा समझें।",
@@ -86,26 +86,26 @@
       "concept": "Study Metals and Non-metals through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
       "example": "Learning Metals and Non-metals through examples and applications makes concept-based questions easier to solve.",
       "sections": [
-        [
-          "Core Concept",
-          "Study Metals and Non-metals through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property."
-        ],
-        [
-          "Key Properties and Examples",
-          "Understand the major properties of Metals and Non-metals with examples. Do not rely only on definitions; focus on when and why a rule applies."
-        ],
-        [
-          "Everyday Applications",
-          "Connect the chapter concepts with familiar examples and everyday science. This helps with application-based questions."
-        ],
-        [
-          "How Questions Are Asked",
-          "Pay attention to definition, comparison, reason, example, identification and application-based questions. Identify the tested concept before choosing an option."
-        ],
-        [
-          "Common Confusions",
-          "Keep closely related terms and processes distinct. Before answering, check conditions, units and key words in the question."
-        ]
+        {
+          "heading": "General properties of metals",
+          "content": "Metals are generally lustrous, malleable and ductile and conduct heat and electricity well. Individual metals can show exceptions."
+        },
+        {
+          "heading": "Properties of non-metals",
+          "content": "Non-metals are generally brittle and poor conductors of heat and electricity, although exceptions such as graphite exist."
+        },
+        {
+          "heading": "Metals with oxygen",
+          "content": "Many metals react with oxygen to form metal oxides. Some metal oxides can react with both acids and bases."
+        },
+        {
+          "heading": "Reactivity and displacement",
+          "content": "A more reactive metal can displace a less reactive metal from its salt solution. The reactivity series helps answer such questions."
+        },
+        {
+          "heading": "Rusting and prevention",
+          "content": "Iron rusts in the presence of oxygen and moisture. Painting, galvanisation and alloying are methods used to reduce corrosion."
+        }
       ],
       "keyPoints": [
         "Understand the core definition of Metals and Non-metals.",
