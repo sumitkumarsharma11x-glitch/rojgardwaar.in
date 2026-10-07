@@ -1120,6 +1120,16 @@
         chapter
       );
 
+    const coverage = bank.length > 0
+      ? Math.min(100, Math.round((attemptedCount / bank.length) * 100))
+      : 0;
+    const overallAccuracy = attemptedCount > 0
+      ? Math.max(0, Math.round(((attemptedCount - wrongCount) / attemptedCount) * 100))
+      : 0;
+    const bestScore = history.length
+      ? Math.max(...history.map((h) => Number(h.summary?.percentage) || 0))
+      : null;
+
     panel.innerHTML = `
 
       <section class="rjd-free-test-banner">
@@ -1132,6 +1142,30 @@
         <div class="rjd-free-test-banner__steps">
           <span>01 ${text("Test", "Test")}</span><span>→</span><span>02 ${text("Result", "Result")}</span><span>→</span><span>03 ${text("Improve", "Improve")}</span><span>→</span><span>04 ${text("Retest", "Retest")}</span>
         </div>
+      </section>
+
+      <section class="rjd-prep-progress">
+        <div class="rjd-prep-progress__head">
+          <div>
+            <div class="rjd-prep-progress__eyebrow">📊 ${text("आपकी तैयारी", "YOUR PREPARATION")}</div>
+            <h3>${text("इस Chapter में आपकी स्थिति", "Your chapter progress")}</h3>
+          </div>
+          <strong>${coverage}%</strong>
+        </div>
+        <div class="rjd-prep-progress__bar"><span style="width:${coverage}%"></span></div>
+        <div class="rjd-prep-progress__stats">
+          <div><b>${attemptedCount}/${bank.length}</b><span>${text("Questions attempted", "Questions attempted")}</span></div>
+          <div><b>${overallAccuracy}%</b><span>${text("Accuracy", "Accuracy")}</span></div>
+          <div><b>${wrongCount}</b><span>${text("Questions to improve", "Questions to improve")}</span></div>
+          <div><b>${bestScore === null ? "—" : bestScore + "%"}</b><span>${text("Best mock score", "Best mock score")}</span></div>
+        </div>
+        <p class="rjd-prep-progress__next">
+          ${wrongCount > 0
+            ? text("अगला कदम: पहले अपने गलत questions की Practice करें, फिर Revision Test दें।", "Next: practise your wrong questions first, then take the Revision Test.")
+            : attemptedCount > 0
+              ? text("बहुत बढ़िया! अब अगला Mock Test देकर अपनी consistency बढ़ाएँ।", "Great! Take the next Mock Test to improve your consistency.")
+              : text("अभी शुरुआत करें: एक FREE Mock Test दें और अपनी preparation का पहला score पाएँ।", "Start now: take a FREE Mock Test and get your first preparation score.")}
+        </p>
       </section>
 
       <div class="rjd-testcard-grid">
