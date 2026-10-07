@@ -106,7 +106,7 @@
         }
 
         ${isScienceChapter ? `
-          <div class="rjd-free-access-note" style="margin-top:10px;padding:8px 12px;border-radius:10px;background:#eefaf3;border:1px solid #c9ead7;color:#176b47;font-size:12px;font-weight:800;">🆓 Notes, 150 Practice Questions और 5 Mock Tests — यह Science learning content FREE है।</div>
+          <div class="rjd-free-access-note" style="margin-top:10px;padding:10px 12px;border-radius:10px;background:#eefaf3;border:1px solid #c9ead7;color:#176b47;font-size:12px;font-weight:800;">🆓 ${text("Notes, Practice Questions और Mock Tests — यह Science learning content FREE है।", "Notes, Practice Questions and Mock Tests — this Science learning content is FREE.")}</div>
         ` : ""}
 
       </section>
@@ -1122,6 +1122,18 @@
 
     panel.innerHTML = `
 
+      <section class="rjd-free-test-banner">
+        <div class="rjd-free-test-banner__badge">🆓 ${text("FREE MOCK TEST", "FREE MOCK TEST")}</div>
+        <h3>${text("पहले Free में अपनी तैयारी check करें", "Check your preparation for FREE")}</h3>
+        <p>${text(
+          "हर chapter के Mock Tests बिना payment के हैं। Test दें → Result देखें → कमजोर topics पहचानें → गलत questions की दोबारा practice करें।",
+          "Every chapter Mock Test is free. Take the test → check your result → identify weak topics → practise your mistakes again."
+        )}</p>
+        <div class="rjd-free-test-banner__steps">
+          <span>01 ${text("Test", "Test")}</span><span>→</span><span>02 ${text("Result", "Result")}</span><span>→</span><span>03 ${text("Improve", "Improve")}</span><span>→</span><span>04 ${text("Retest", "Retest")}</span>
+        </div>
+      </section>
+
       <div class="rjd-testcard-grid">
 
         ${configs
@@ -1140,6 +1152,7 @@
                 <span class="rjd-testcard__label">
                   ${LanguageManager.pick(c.label)}
                 </span>
+                <span class="rjd-testcard__free">FREE</span>
 
                 <span class="rjd-testcard__meta">
                   ${c.questionCount}
@@ -1230,10 +1243,14 @@
 
 
       <h3 class="rjd-section-title">
-        ${LanguageManager.get(
-          "selectTopic"
-        )}
+        ${LanguageManager.get("selectTopic")}
       </h3>
+      <p class="rjd-free-hint">
+        ${text(
+          "Topic Test भी FREE है — पहले कमजोर topic चुनकर practice करें।",
+          "Topic Tests are also FREE — start with a weak topic and practise it."
+        )}
+      </p>
 
 
       <div class="rjd-topic-grid">
