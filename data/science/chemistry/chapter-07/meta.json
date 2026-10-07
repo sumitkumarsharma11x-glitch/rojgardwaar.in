@@ -78,59 +78,65 @@
       "quickRevision": "अभिकारक → उत्पाद → परमाणु गिनें → गुणांक लगाएँ → दोबारा जाँचें।"
     },
     "en": {
-      "concept": "रासायनिक अभिक्रिया में पदार्थ बदलकर नए पदार्थ बनते हैं। इसे रासायनिक समीकरण से दर्शाया जाता है। संतुलित समीकरण में दोनों ओर प्रत्येक तत्व के परमाणुओं की संख्या समान होती है।",
-      "example": "मैग्नीशियम का ऑक्सीजन के साथ अभिक्रिया करके मैग्नीशियम ऑक्साइड बनना रासायनिक अभिक्रिया है।",
+      "concept": "A chemical reaction is a process in which one or more substances change to form new substances. It is represented using a chemical equation. Reactants are written on the left and products on the right. A balanced equation has the same number of atoms of each element on both sides.",
+      "example": "Magnesium reacts with oxygen to form magnesium oxide. When balancing an equation, change coefficients, not the subscripts in chemical formulae.",
       "sections": [
         {
-          "heading": "रासायनिक अभिक्रिया",
-          "content": "जब पदार्थों के रासायनिक गुण बदलकर नए पदार्थ बनते हैं तो रासायनिक अभिक्रिया होती है।"
+          "heading": "Chemical Reactions",
+          "content": "This section explains chemical reactions with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "अभिकारक और उत्पाद",
-          "content": "अभिकारक वे पदार्थ हैं जो अभिक्रिया में भाग लेते हैं और उत्पाद वे पदार्थ हैं जो बनते हैं।"
+          "heading": "Reactants and Products",
+          "content": "This section explains reactants and products with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "समीकरण संतुलित करना",
-          "content": "संतुलित समीकरण में प्रत्येक तत्व के परमाणुओं की संख्या दोनों ओर समान होती है। संतुलन के लिए गुणांक बदले जाते हैं।"
+          "heading": "Balancing Equations",
+          "content": "This section explains balancing equations with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "अभिक्रिया के संकेत",
-          "content": "गैस निकलना, अवक्षेप बनना, रंग बदलना या ऊर्जा में परिवर्तन रासायनिक अभिक्रिया के संकेत हो सकते हैं।"
+          "heading": "Signs of a Reaction",
+          "content": "This section explains signs of a reaction with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "द्रव्यमान संरक्षण",
-          "content": "रासायनिक अभिक्रिया में कुल द्रव्यमान संरक्षित रहता है, इसलिए समीकरण में परमाणुओं की संख्या संतुलित होती है।"
+          "heading": "Conservation of Mass",
+          "content": "This section explains conservation of mass with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और सूत्र याद रखें",
-        "अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़कर विकल्प चुनें"
+        "Chemical Reactions",
+        "Reactants and Products",
+        "Balancing Equations",
+        "Signs of a Reaction"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "Chemical Reactions",
+        "Reactants and Products",
+        "Balancing Equations"
       ],
       "examTraps": [
-        "समीकरण संतुलित करते समय chemical formula के subscript नहीं बदलें।",
-        "अभिकारक और उत्पाद की स्थिति उलटकर न लिखें।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "क्या नया पदार्थ बना है?",
-        "क्या दोनों ओर हर तत्व के परमाणु बराबर हैं?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "Left = Reactants | Right = Products",
-        "Formula मत बदलो, coefficient बदलो"
+        "Chemical Reactions",
+        "Reactants and Products"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "Chemical Reactions",
+        "Reactants and Products",
+        "Balancing Equations"
+      ],
       "mustRemember": [
-        "संतुलित समीकरण में हर तत्व के परमाणु दोनों ओर समान होते हैं।",
-        "संतुलन के लिए गुणांक बदले जाते हैं।",
-        "अभिकारक बाईं और उत्पाद दाईं ओर होते हैं।"
+        "Chemical Reactions",
+        "Reactants and Products",
+        "Balancing Equations",
+        "Signs of a Reaction"
       ],
-      "quickRevision": "अभिकारक → उत्पाद → परमाणु गिनें → गुणांक लगाएँ → दोबारा जाँचें।"
+      "quickRevision": "Chemical Reactions and Equations: definition → key concepts → differences → examples → exam check."
     }
   }
 }
