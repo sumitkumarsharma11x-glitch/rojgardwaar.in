@@ -77,58 +77,65 @@
       "quickRevision": "गुण → ऑक्सीजन/अम्ल अभिक्रिया → अभिक्रियाशीलता → संक्षारण/संरक्षण।"
     },
     "en": {
-      "concept": "धातुएँ सामान्यतः चमकीली, तन्य, आघातवर्धनीय तथा ऊष्मा और विद्युत की अच्छी चालक होती हैं। अधातुओं में सामान्यतः इनके विपरीत गुण पाए जाते हैं, हालांकि अपवाद होते हैं।",
-      "example": "लोहा और तांबा धातु हैं; ऑक्सीजन और सल्फर अधातु हैं।",
+      "concept": "Metals are generally lustrous, malleable, ductile and good conductors of heat and electricity. Non-metals generally show different physical properties, although exceptions exist. Metals and non-metals also differ in their chemical reactions.",
+      "example": "Iron and copper are metals, while oxygen and sulphur are non-metals.",
       "sections": [
         {
-          "heading": "धातुओं के भौतिक गुण",
-          "content": "धातुएँ सामान्यतः चमकीली, तन्य, आघातवर्धनीय और ऊष्मा तथा विद्युत की अच्छी चालक होती हैं।"
+          "heading": "Physical Properties of Metals",
+          "content": "This section explains physical properties of metals with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "अधातुओं के गुण",
-          "content": "अधातु सामान्यतः भंगुर और खराब चालक होते हैं, लेकिन अपवाद मौजूद हैं; ग्रेफाइट विद्युत का चालक है।"
+          "heading": "Properties of Non-metals",
+          "content": "This section explains properties of non-metals with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "ऑक्सीजन और अम्ल के साथ अभिक्रिया",
-          "content": "धातु और अधातु ऑक्सीजन तथा अम्लों के साथ अलग-अलग व्यवहार कर सकते हैं। सक्रिय धातुएँ अम्लों से अभिक्रिया करके हाइड्रोजन दे सकती हैं।"
+          "heading": "Reactions with Oxygen and Acids",
+          "content": "This section explains reactions with oxygen and acids with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "अभिक्रियाशीलता",
-          "content": "धातुओं की अभिक्रियाशीलता समान नहीं होती। अधिक सक्रिय धातु कम सक्रिय धातु को उसके यौगिक से विस्थापित कर सकती है।"
+          "heading": "Reactivity",
+          "content": "This section explains reactivity with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "संक्षारण",
-          "content": "धातु की सतह का पर्यावरण के कारण धीरे-धीरे क्षतिग्रस्त होना संक्षारण है। पेंटिंग और गैल्वनाइजेशन जैसी विधियाँ सुरक्षा में मदद करती हैं।"
+          "heading": "Corrosion and Protection",
+          "content": "This section explains corrosion and protection with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और तथ्य याद रखें",
-        "समान अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़ें"
+        "Physical Properties of Metals",
+        "Properties of Non-metals",
+        "Reactions with Oxygen and Acids",
+        "Reactivity"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "Physical Properties of Metals",
+        "Properties of Non-metals",
+        "Reactions with Oxygen and Acids"
       ],
       "examTraps": [
-        "हर धातु अम्ल से समान तेजी से अभिक्रिया नहीं करती।",
-        "ग्रेफाइट अधातु होते हुए विद्युत का चालक है।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "प्रश्न भौतिक गुण पूछ रहा है या रासायनिक गुण?",
-        "क्या धातुओं की अभिक्रियाशीलता की तुलना हो रही है?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "धातु = चमक + तन्यता + चालकता (सामान्यतः)"
+        "Physical Properties of Metals",
+        "Properties of Non-metals"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "Physical Properties of Metals",
+        "Properties of Non-metals",
+        "Reactions with Oxygen and Acids"
+      ],
       "mustRemember": [
-        "धातु सामान्यतः अच्छे चालक और आघातवर्धनीय होते हैं।",
-        "अधातुओं में कई विपरीत गुण पाए जाते हैं।",
-        "धातुओं की अभिक्रियाशीलता अलग-अलग होती है।"
+        "Physical Properties of Metals",
+        "Properties of Non-metals",
+        "Reactions with Oxygen and Acids",
+        "Reactivity"
       ],
-      "quickRevision": "गुण → ऑक्सीजन/अम्ल अभिक्रिया → अभिक्रियाशीलता → संक्षारण/संरक्षण।"
+      "quickRevision": "Metals and Non-metals: definition → key concepts → differences → examples → exam check."
     }
   }
 }
