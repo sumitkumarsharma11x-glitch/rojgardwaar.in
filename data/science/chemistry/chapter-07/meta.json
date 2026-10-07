@@ -26,26 +26,26 @@
       "concept": "रासायनिक अभिक्रियाएँ एवं समीकरण को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
       "example": "रासायनिक अभिक्रियाएँ एवं समीकरण का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
       "sections": [
-        [
-          "मूल अवधारणा",
-          "रासायनिक अभिक्रियाएँ एवं समीकरण को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।"
-        ],
-        [
-          "मुख्य गुण और उदाहरण",
-          "इस अध्याय में रासायनिक अभिक्रियाएँ एवं समीकरण से जुड़े प्रमुख गुणों को उदाहरणों के साथ समझें। केवल परिभाषा याद करने के बजाय यह देखें कि नियम किस परिस्थिति में लागू होता है।"
-        ],
-        [
-          "दैनिक जीवन में उपयोग",
-          "अध्याय की अवधारणाओं को दैनिक जीवन और सामान्य विज्ञान के उदाहरणों से जोड़कर समझें। इससे concept-based questions हल करना आसान होता है।"
-        ],
-        [
-          "परीक्षा में कैसे पूछें जा सकते हैं",
-          "परिभाषा, तुलना, कारण, उदाहरण, पहचान और अनुप्रयोग आधारित प्रश्नों पर विशेष ध्यान दें। विकल्पों को पढ़कर पहले concept पहचानें।"
-        ],
-        [
-          "सामान्य भ्रम",
-          "समान दिखने वाली अवधारणाओं, शब्दों और प्रक्रियाओं में अंतर स्पष्ट रखें। उत्तर चुनने से पहले units, conditions और key terms जाँचें।"
-        ]
+        {
+          "heading": "रासायनिक अभिक्रिया की पहचान",
+          "content": "रासायनिक अभिक्रिया में एक या अधिक पदार्थ बदलकर नए पदार्थ बनाते हैं। रंग परिवर्तन, गैस निकलना, तापमान परिवर्तन या अवक्षेप बनना इसके संकेत हो सकते हैं।"
+        },
+        {
+          "heading": "अभिक्रिया के प्रकार",
+          "content": "संयोजन में कई पदार्थ मिलकर एक उत्पाद बनाते हैं; अपघटन में एक यौगिक टूटता है। विस्थापन और द्विविस्थापन में पदार्थों के घटकों का पुनर्विन्यास होता है।"
+        },
+        {
+          "heading": "रासायनिक समीकरण",
+          "content": "रासायनिक समीकरण अभिकारकों और उत्पादों को सूत्रों द्वारा दर्शाता है। संतुलित समीकरण में दोनों ओर प्रत्येक तत्व के परमाणुओं की संख्या समान रहती है।"
+        },
+        {
+          "heading": "ऑक्सीकरण और अपचयन",
+          "content": "ऑक्सीजन का जुड़ना ऑक्सीकरण का एक सामान्य उदाहरण है, जबकि ऑक्सीजन का हटना अपचयन से जोड़ा जा सकता है। दोनों प्रक्रियाएँ एक साथ भी हो सकती हैं।"
+        },
+        {
+          "heading": "दैनिक जीवन से संबंध",
+          "content": "जंग लगना, दहन और भोजन का पाचन रासायनिक परिवर्तनों के उदाहरण हैं। प्रश्नों में अभिकारक, उत्पाद और अभिक्रिया का प्रकार पहचानने को कहा जा सकता है।"
+        }
       ],
       "keyPoints": [
         "रासायनिक अभिक्रियाएँ एवं समीकरण की मूल परिभाषा समझें।",
@@ -86,26 +86,26 @@
       "concept": "Study Chemical Reactions and Equations through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
       "example": "Learning Chemical Reactions and Equations through examples and applications makes concept-based questions easier to solve.",
       "sections": [
-        [
-          "Core Concept",
-          "Study Chemical Reactions and Equations through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property."
-        ],
-        [
-          "Key Properties and Examples",
-          "Understand the major properties of Chemical Reactions and Equations with examples. Do not rely only on definitions; focus on when and why a rule applies."
-        ],
-        [
-          "Everyday Applications",
-          "Connect the chapter concepts with familiar examples and everyday science. This helps with application-based questions."
-        ],
-        [
-          "How Questions Are Asked",
-          "Pay attention to definition, comparison, reason, example, identification and application-based questions. Identify the tested concept before choosing an option."
-        ],
-        [
-          "Common Confusions",
-          "Keep closely related terms and processes distinct. Before answering, check conditions, units and key words in the question."
-        ]
+        {
+          "heading": "Identifying a chemical reaction",
+          "content": "A chemical reaction forms new substances from one or more starting substances. Colour change, gas formation, temperature change or a precipitate may indicate a reaction."
+        },
+        {
+          "heading": "Types of reactions",
+          "content": "In combination reactions, substances form a single product; in decomposition, a compound breaks down. Displacement and double displacement involve rearrangement of components."
+        },
+        {
+          "heading": "Chemical equations",
+          "content": "A chemical equation represents reactants and products using formulae. A balanced equation has the same number of atoms of each element on both sides."
+        },
+        {
+          "heading": "Oxidation and reduction",
+          "content": "Addition of oxygen is a common example of oxidation, while removal of oxygen can be associated with reduction. The two processes may occur together."
+        },
+        {
+          "heading": "Everyday connections",
+          "content": "Rusting, combustion and digestion involve chemical changes. Questions may ask students to identify reactants, products or the reaction type."
+        }
       ],
       "keyPoints": [
         "Understand the core definition of Chemical Reactions and Equations.",
