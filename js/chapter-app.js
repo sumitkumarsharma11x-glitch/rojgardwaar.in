@@ -1334,6 +1334,30 @@
   }
 
   /* =========================================================
+     SEO META
+  ========================================================= */
+
+  function updateSeoMeta() {
+    if (!meta) return;
+    const name = LanguageManager.pick(meta.chapterName);
+    const subjectName = LanguageManager.pick(meta.subjectName);
+    const chapterNo = meta.chapterNumber || "";
+    const title = isHindi()
+      ? "Chapter " + chapterNo + " — " + name + " | RojgarDwaar"
+      : "Class 6–10 " + subjectName + ": Chapter " + chapterNo + " — " + name + " | RojgarDwaar";
+    const description = isHindi()
+      ? name + " के लिए NCERT आधारित Notes, 150 Practice Questions और 5 Mock Tests। RojgarDwaar पर concept revision और exam practice करें।"
+      : "Study " + name + " with NCERT-based notes, 150 practice questions and 5 mock tests on RojgarDwaar.";
+    document.title = title;
+    let desc = document.querySelector('meta[name="description"]');
+    if (!desc) { desc = document.createElement("meta"); desc.name = "description"; document.head.appendChild(desc); }
+    desc.content = description;
+    let canonical = document.querySelector('link[rel="canonical"]');
+    if (!canonical) { canonical = document.createElement("link"); canonical.rel = "canonical"; document.head.appendChild(canonical); }
+    canonical.href = "https://rojgardwaar.in/chapter.html?subject=" + encodeURIComponent(subject) + "&chapter=" + encodeURIComponent(chapter);
+  }
+
+  /* =========================================================
      BOOT
   ========================================================= */
 
@@ -1358,6 +1382,7 @@
       meta = bundle.meta;
       bank = bundle.questions;
 
+      updateSeoMeta();
       renderShell();
       renderLangToggle();
 
@@ -1410,6 +1435,7 @@
       renderLangToggle();
 
       if (meta) {
+        updateSeoMeta();
         renderShell();
       }
 
