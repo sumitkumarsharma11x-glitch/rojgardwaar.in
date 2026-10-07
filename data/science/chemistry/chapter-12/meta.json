@@ -77,58 +77,65 @@
       "quickRevision": "ईंधन + O₂ + उचित तापमान → दहन → ऊर्जा; O₂ कम → अपूर्ण दहन का खतरा।"
     },
     "en": {
-      "concept": "ईंधन से उपयोगी ऊर्जा प्राप्त की जाती है। दहन में ईंधन ऑक्सीजन के साथ अभिक्रिया करके ऊर्जा देता है। दहन के लिए ईंधन, ऑक्सीजन और उपयुक्त तापमान आवश्यक हैं; ऑक्सीजन की कमी में अपूर्ण दहन हो सकता है।",
-      "example": "LPG का नियंत्रित दहन खाना पकाने के लिए ऊष्मा देता है। अपूर्ण दहन में हानिकारक उत्पाद बन सकते हैं।",
+      "concept": "Fuels are substances from which useful energy can be obtained. Combustion is a chemical reaction in which a substance reacts with oxygen and releases energy. Fuel, oxygen and a suitable temperature are required for combustion.",
+      "example": "Controlled combustion of LPG provides heat for cooking. Incomplete combustion can produce harmful substances.",
       "sections": [
         {
-          "heading": "दहन",
-          "content": "दहन वह रासायनिक अभिक्रिया है जिसमें पदार्थ ऑक्सीजन के साथ अभिक्रिया करके ऊर्जा, प्रायः ऊष्मा और कभी प्रकाश, देता है।"
+          "heading": "Combustion",
+          "content": "This section explains combustion with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "दहन की आवश्यक शर्तें",
-          "content": "दहन के लिए ईंधन, ऑक्सीजन और उपयुक्त तापमान आवश्यक हैं। इन्हें Fire Triangle के रूप में याद किया जा सकता है।"
+          "heading": "Conditions for Combustion",
+          "content": "This section explains conditions for combustion with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "ईंधन और ऊष्मीय मान",
-          "content": "ईंधन से उपयोगी ऊर्जा प्राप्त होती है। ऊष्मीय मान किसी निश्चित मात्रा के ईंधन के पूर्ण दहन से प्राप्त ऊष्मा का संकेत देता है।"
+          "heading": "Fuels and Calorific Value",
+          "content": "This section explains fuels and calorific value with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "पूर्ण और अपूर्ण दहन",
-          "content": "पर्याप्त ऑक्सीजन में पूर्ण दहन हो सकता है। ऑक्सीजन की कमी में अपूर्ण दहन और हानिकारक उत्पाद बन सकते हैं।"
+          "heading": "Complete and Incomplete Combustion",
+          "content": "This section explains complete and incomplete combustion with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "स्वच्छ और सुरक्षित ईंधन",
-          "content": "ईंधन चुनते समय ऊर्जा, लागत, उपलब्धता, सुरक्षा और प्रदूषण जैसे कारकों को साथ देखना चाहिए।"
+          "heading": "Choosing a Fuel",
+          "content": "This section explains choosing a fuel with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और तथ्य याद रखें",
-        "समान अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़ें"
+        "Combustion",
+        "Conditions for Combustion",
+        "Fuels and Calorific Value",
+        "Complete and Incomplete Combustion"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "Combustion",
+        "Conditions for Combustion",
+        "Fuels and Calorific Value"
       ],
       "examTraps": [
-        "दहन के लिए केवल ईंधन पर्याप्त नहीं; ऑक्सीजन और उचित तापमान भी आवश्यक हैं।",
-        "अपूर्ण दहन को पूर्ण दहन न मानें।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "क्या ऑक्सीजन पर्याप्त है?",
-        "प्रश्न दहन के प्रकार, ऊर्जा या प्रदूषण में से क्या पूछ रहा है?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "Fire Triangle = Fuel + Oxygen + Heat"
+        "Combustion",
+        "Conditions for Combustion"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "Combustion",
+        "Conditions for Combustion",
+        "Fuels and Calorific Value"
+      ],
       "mustRemember": [
-        "दहन के लिए ईंधन, ऑक्सीजन और ignition temperature आवश्यक हैं।",
-        "अपूर्ण दहन हानिकारक उत्पाद दे सकता है।",
-        "ईंधन चयन में ऊर्जा और प्रदूषण दोनों देखें।"
+        "Combustion",
+        "Conditions for Combustion",
+        "Fuels and Calorific Value",
+        "Complete and Incomplete Combustion"
       ],
-      "quickRevision": "ईंधन + O₂ + उचित तापमान → दहन → ऊर्जा; O₂ कम → अपूर्ण दहन का खतरा।"
+      "quickRevision": "Fuels, Combustion and Chemistry in Daily Life: definition → key concepts → differences → examples → exam check."
     }
   }
 }
