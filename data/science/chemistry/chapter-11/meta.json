@@ -77,58 +77,65 @@
       "quickRevision": "वायु/जल की संरचना → प्रदूषक → स्रोत → प्रभाव → नियंत्रण उपाय।"
     },
     "en": {
-      "concept": "वायु विभिन्न गैसों का मिश्रण है और जल जीवन के लिए आवश्यक संसाधन है। प्रदूषण से वायु और जल की गुणवत्ता प्रभावित हो सकती है। स्रोत, प्रदूषक, प्रभाव और नियंत्रण को साथ समझना परीक्षा में उपयोगी है।",
-      "example": "वाहनों का धुआँ वायु गुणवत्ता प्रभावित कर सकता है और बिना उपचारित अपशिष्ट जल स्रोत को प्रदूषित कर सकता है।",
+      "concept": "Air is a mixture of gases, while water is an essential natural resource. The quality of air and water can be affected by pollutants. Understanding their sources, effects and control measures is important in environmental chemistry.",
+      "example": "Vehicle exhaust can affect air quality, while untreated wastewater can pollute water sources.",
       "sections": [
         {
-          "heading": "वायु का संघटन",
-          "content": "वायु विभिन्न गैसों का मिश्रण है। इसमें मुख्यतः नाइट्रोजन और ऑक्सीजन के साथ अन्य गैसें, जलवाष्प और सूक्ष्म कण भी पाए जा सकते हैं।"
+          "heading": "Composition of Air",
+          "content": "This section explains composition of air with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "जल की भूमिका",
-          "content": "जल पीने, कृषि, उद्योग और जीवों की जैविक क्रियाओं के लिए आवश्यक है। इसकी गुणवत्ता घुले और निलंबित पदार्थों से प्रभावित हो सकती है।"
+          "heading": "Importance of Water",
+          "content": "This section explains importance of water with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "वायु प्रदूषण",
-          "content": "धुआँ, कण और कुछ गैसें वायु प्रदूषण बढ़ा सकती हैं। वाहन, उद्योग और कचरा जलाना इसके स्रोत हो सकते हैं।"
+          "heading": "Air Pollution",
+          "content": "This section explains air pollution with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "जल प्रदूषण",
-          "content": "सीवेज, औद्योगिक अपशिष्ट और कृषि से आने वाले कुछ पदार्थ जल स्रोतों की गुणवत्ता प्रभावित कर सकते हैं।"
+          "heading": "Water Pollution",
+          "content": "This section explains water pollution with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "पर्यावरण संरक्षण",
-          "content": "प्रदूषण नियंत्रण के लिए स्रोत पर रोक, अपशिष्ट उपचार, स्वच्छ ऊर्जा और संसाधनों का जिम्मेदार उपयोग महत्वपूर्ण हैं।"
+          "heading": "Environmental Protection",
+          "content": "This section explains environmental protection with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और तथ्य याद रखें",
-        "समान अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़ें"
+        "Composition of Air",
+        "Importance of Water",
+        "Air Pollution",
+        "Water Pollution"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "Composition of Air",
+        "Importance of Water",
+        "Air Pollution"
       ],
       "examTraps": [
-        "वायु तत्व या यौगिक नहीं, गैसों का मिश्रण है।",
-        "प्रदूषण में स्रोत और प्रभाव अलग-अलग पहचानें।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "प्रश्न पदार्थ की संरचना पूछ रहा है या प्रदूषण का स्रोत?",
-        "प्रदूषक और उसके प्रभाव को अलग रखें।"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "प्रदूषण: स्रोत → प्रदूषक → प्रभाव → नियंत्रण"
+        "Composition of Air",
+        "Importance of Water"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "Composition of Air",
+        "Importance of Water",
+        "Air Pollution"
+      ],
       "mustRemember": [
-        "वायु मिश्रण है।",
-        "जल की गुणवत्ता प्रदूषकों से प्रभावित हो सकती है।",
-        "प्रदूषण नियंत्रण में स्रोत पर रोक और उपचार दोनों महत्वपूर्ण हैं।"
+        "Composition of Air",
+        "Importance of Water",
+        "Air Pollution",
+        "Water Pollution"
       ],
-      "quickRevision": "वायु/जल की संरचना → प्रदूषक → स्रोत → प्रभाव → नियंत्रण उपाय।"
+      "quickRevision": "Air, Water and Environmental Chemistry: definition → key concepts → differences → examples → exam check."
     }
   }
 }
