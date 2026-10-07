@@ -60,7 +60,7 @@ async function registerUser(event) {
   }
 
   showOtpStep();
-  showMsg("We sent a 6-digit verification code to your email. Enter it below.","success");
+  showMsg("We sent a verification code to your email. Enter it below.","success");
   const otp=document.getElementById("otp");
   if(otp) otp.focus();
 }
@@ -70,7 +70,7 @@ async function verifySignupOtp(event) {
   if(!requireConfig()) return;
   const email=document.getElementById("email").value.trim();
   const token=document.getElementById("otp").value.trim();
-  if(!/^\d{6}$/.test(token)) return showMsg("Please enter the 6-digit OTP.","error");
+  if(!/^\d{6,10}$/.test(token)) return showMsg("Please enter the OTP (6–10 digits).","error");
 
   const button=event.submitter;
   if(button) button.disabled=true;
@@ -92,7 +92,7 @@ async function resendSignupOtp() {
 
   const {error}=await supabaseClient.auth.resend({type:"signup",email});
   if(error) return showMsg(error.message,"error");
-  showMsg("A new 6-digit verification code has been sent.","success");
+  showMsg("A new verification code has been sent.","success");
 }
 
 async function loginUser(event) {
@@ -130,7 +130,7 @@ async function sendLoginOtp(event) {
   if(error) return showMsg(error.message,"error");
   const verifyBox=document.getElementById("loginOtpVerify");
   if(verifyBox) verifyBox.hidden=false;
-  showMsg("A 6-digit OTP has been sent to your email.","success");
+  showMsg("An OTP has been sent to your email.","success");
   document.getElementById("loginOtp")?.focus();
 }
 
@@ -139,7 +139,7 @@ async function verifyLoginOtp(event) {
   if(!requireConfig()) return;
   const email=document.getElementById("otpEmail")?.value.trim();
   const token=document.getElementById("loginOtp")?.value.trim();
-  if(!/^\d{6}$/.test(token)) return showMsg("Please enter the 6-digit OTP.","error");
+  if(!/^\d{6,10}$/.test(token)) return showMsg("Please enter the OTP (6–10 digits).","error");
   const {data,error}=await supabaseClient.auth.verifyOtp({email,token,type:"email"});
   if(error) return showMsg(error.message,"error");
   showMsg("Login successful. Redirecting...","success");
