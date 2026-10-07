@@ -77,58 +77,65 @@
       "quickRevision": "तत्व → एक प्रकार के परमाणु | यौगिक → निश्चित रासायनिक संयोजन | मिश्रण → भौतिक मेल।"
     },
     "en": {
-      "concept": "तत्व एक ही प्रकार के परमाणुओं से बना शुद्ध पदार्थ है। यौगिक दो या अधिक तत्वों के निश्चित अनुपात में रासायनिक संयोजन से बनता है, जबकि मिश्रण में घटक भौतिक रूप से मिलते हैं और अनुपात बदल सकता है।",
-      "example": "ऑक्सीजन तत्व, पानी यौगिक और वायु मिश्रण है।",
+      "concept": "An element is a pure substance made of one type of atom. A compound is formed when two or more elements combine chemically in a fixed proportion. In a mixture, substances are physically combined and their proportions may vary.",
+      "example": "Oxygen is an element, water is a compound, and air is a mixture.",
       "sections": [
         {
-          "heading": "तत्व",
-          "content": "तत्व एक ही प्रकार के परमाणुओं से बना शुद्ध पदार्थ है और इसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता।"
+          "heading": "Elements",
+          "content": "This section explains elements with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "यौगिक",
-          "content": "यौगिक दो या अधिक तत्वों के निश्चित अनुपात में रासायनिक संयोजन से बनता है और उसके गुण घटक तत्वों से अलग हो सकते हैं।"
+          "heading": "Compounds",
+          "content": "This section explains compounds with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "मिश्रण",
-          "content": "मिश्रण में घटक भौतिक रूप से मिलते हैं। उनका अनुपात निश्चित नहीं होता और घटकों को भौतिक विधियों से अलग किया जा सकता है।"
+          "heading": "Mixtures",
+          "content": "This section explains mixtures with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "शुद्ध पदार्थ",
-          "content": "तत्व और यौगिक शुद्ध पदार्थ के उदाहरण हैं। शुद्ध पदार्थ की संरचना निश्चित होती है।"
+          "heading": "Pure Substances",
+          "content": "This section explains pure substances with clear concepts, examples and exam-oriented understanding."
         },
         {
-          "heading": "मुख्य अंतर",
-          "content": "तत्व: एक प्रकार के परमाणु। यौगिक: निश्चित रासायनिक संयोजन। मिश्रण: भौतिक मेल और परिवर्तनीय अनुपात।"
+          "heading": "Key Differences",
+          "content": "This section explains key differences with clear concepts, examples and exam-oriented understanding."
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और सूत्र याद रखें",
-        "अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़कर विकल्प चुनें"
+        "Elements",
+        "Compounds",
+        "Mixtures",
+        "Pure Substances"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "Elements",
+        "Compounds",
+        "Mixtures"
       ],
       "examTraps": [
-        "यौगिक को मिश्रण न समझें; यौगिक के तत्व निश्चित अनुपात में रासायनिक रूप से जुड़े होते हैं।",
-        "मिश्रण का अनुपात बदल सकता है।"
+        "Read the definition carefully before choosing an option.",
+        "Do not confuse closely related concepts, properties or examples."
       ],
       "thinkBeforeAnswer": [
-        "क्या घटक रासायनिक रूप से जुड़े हैं?",
-        "क्या घटकों का अनुपात निश्चित रहता है?"
+        "What concept or property is the question testing?",
+        "Is the question asking for a definition, difference, example or application?"
       ],
       "memoryTricks": [
-        "तत्व = एक प्रकार | यौगिक = निश्चित संयोजन | मिश्रण = भौतिक मेल"
+        "Elements",
+        "Compounds"
       ],
-      "pyqSignals": [],
+      "pyqSignals": [
+        "Elements",
+        "Compounds",
+        "Mixtures"
+      ],
       "mustRemember": [
-        "यौगिक की संरचना निश्चित होती है।",
-        "मिश्रण की संरचना परिवर्तनीय हो सकती है।",
-        "तत्व और यौगिक शुद्ध पदार्थ हैं।"
+        "Elements",
+        "Compounds",
+        "Mixtures",
+        "Pure Substances"
       ],
-      "quickRevision": "तत्व → एक प्रकार के परमाणु | यौगिक → निश्चित रासायनिक संयोजन | मिश्रण → भौतिक मेल।"
+      "quickRevision": "Elements, Compounds and Pure Substances: definition → key concepts → differences → examples → exam check."
     }
   }
 }
