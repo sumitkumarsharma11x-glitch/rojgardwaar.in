@@ -281,6 +281,9 @@
                 "NCERT Class 6–10 concepts, practice questions and mock tests — all in one place."
               )}
             </p>
+            <div class="rjd-free-access-note" style="display:inline-block;margin:2px 0 10px;padding:7px 11px;border-radius:999px;background:#eefaf3;border:1px solid #c9ead7;color:#176b47;font-size:12px;font-weight:800;">
+              🆓 ${text("Free Notes + Free Practice + Free Mock Tests", "Free Notes + Free Practice + Free Mock Tests")}
+            </div>
             <div class="rjd-hero__actions">
               <button type="button" class="rjd-gold-btn" data-goto="rjd-subjects">
                 ${text("Preparation शुरू करें →", "Start Preparing →")}
