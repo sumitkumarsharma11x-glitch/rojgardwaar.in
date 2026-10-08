@@ -1,29 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8"><meta name="robots" content="noindex, follow"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>My Account | RojgarDwaar</title>
-<link rel="stylesheet" href="./css/style.css"><link rel="stylesheet" href="./css/auth.css?v=20261003premium">
+<meta charset="UTF-8">
+<meta name="robots" content="noindex, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Account | ROJGARDWAAR.IN</title>
+<meta name="description" content="ROJGARDWAAR student dashboard for free preparation progress and premium Railway test series.">
+<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="./css/auth.css?v=20261008account1">
+<link rel="stylesheet" href="./css/account.css?v=20261008account1">
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="./js/supabase-config.js"></script><script src="./js/auth.js" defer></script>
+<script src="./js/supabase-config.js"></script>
+<script src="./js/auth.js" defer></script>
+<script src="./js/storageManager.js"></script>
+<script src="./js/account.js?v=20261008account1" defer></script>
 </head>
 <body onload="loadAccount()">
 <header class="site-header"><div class="container header-inner"><a href="./index.html" class="logo">ROJGARDWAAR<span>.IN</span></a></div><nav class="rjd-universal-nav" aria-label="Main navigation"><a href="./index.html">Home</a><a href="./science/index.html">Science</a><a href="./railway-exams.html">Railway</a><a href="./pages/about.html">About</a><a href="./pages/contact.html">Contact</a></nav></header>
-<main class="auth-page auth-register-page">
-<section class="auth-card account-card premium-auth-card">
-<div class="auth-brand-mark" aria-hidden="true">RD</div>
-<div class="premium-badge"><span>✦</span> ROJGARDWAAR ACCOUNT</div>
-<h1>My Account</h1>
-<p class="auth-sub">Your preparation hub for premium test series and performance tracking.</p>
-<div id="authMsg" class="auth-msg info" hidden></div>
-<div class="account-box premium-account-box">
-<div class="account-avatar" aria-hidden="true">👤</div>
-<div><strong id="accountName">Loading...</strong><br><span id="accountEmail"></span></div>
-</div>
-<div class="account-section-title">MY PREPARATION</div>
-<div class="account-box account-feature-box"><strong>Premium Test Series</strong><span>Purchased Railway test series will appear here after payment integration is connected.</span></div>
-<div class="account-actions"><a href="./railway-exams.html">🚆 Railway Exams</a><a class="secondary" href="./index.html">Home</a><button class="secondary" onclick="logoutUser()">Logout</button></div>
-<p class="auth-trust">🔒 Your account information is protected securely.</p>
-</section>
-</main>
-<footer class="rjd-universal-footer"><p><a href="./index.html">Home</a> · <a href="./science/index.html">Science</a> · <a href="./railway-exams.html">Railway</a> · <a href="./pages/about.html">About</a> · <a href="./pages/contact.html">Contact</a> · <a href="./pages/privacy-policy.html">Privacy Policy</a> · <a href="./pages/terms.html">Terms</a> · <a href="./pages/disclaimer.html">Disclaimer</a></p><p>© 2026 RojgarDwaar</p></footer></body></html>
+<main class="account-dashboard-page"><div class="dashboard-shell">
+<section class="dashboard-welcome"><div><p class="dashboard-kicker">ROJGARDWAAR STUDENT DASHBOARD</p><h1>Welcome back, <span id="welcomeName">Student</span> 👋</h1><p>Track your preparation, fix weak areas and continue from where you stopped.</p></div><div class="dashboard-profile-chip"><div class="account-avatar" aria-hidden="true">👤</div><div><strong id="accountName">Loading...</strong><span id="accountEmail">Loading...</span></div></div></section>
+<section class="dashboard-metrics" aria-label="Preparation summary"><div class="dashboard-metric"><b id="metricAttempted">0</b><span>Questions Attempted</span></div><div class="dashboard-metric"><b id="metricAccuracy">0%</b><span>Overall Accuracy</span></div><div class="dashboard-metric"><b id="metricMocks">0</b><span>FREE Mock Tests</span></div><div class="dashboard-metric"><b id="metricBest">0%</b><span>Best Mock Score</span></div><div class="dashboard-metric"><b id="metricWrong">0</b><span>Questions to Improve</span></div><div class="dashboard-metric"><b id="metricChapters">0/36</b><span>Chapters Started</span></div></section>
+<div class="dashboard-grid"><section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Continue Learning</h2><span>FREE Science</span></div><div class="continue-card"><div><h3 id="continueTitle">Start your first chapter</h3><p id="continueMeta">Notes → Practice → FREE Mock Test</p></div><a id="continueBtn" class="dashboard-btn dashboard-btn-primary" href="./science/biology/index.html">Continue →</a></div><div class="coverage"><div class="coverage-line"><span>Science question coverage</span><strong id="coverageValue">0%</strong></div><div class="coverage-track"><span id="coverageBar"></span></div></div><div class="account-created">Account created: <span id="accountCreated">—</span></div></section>
+<section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Questions to Improve</h2><span>Most recent mistakes</span></div><div class="wrong-card"><div class="wrong-number" id="wrongCount">0</div><div><h3>Wrong Questions</h3><p id="wrongDescription">Loading your improvement list...</p></div><a id="wrongBtn" class="dashboard-btn dashboard-btn-secondary" href="./science/index.html">Practice →</a></div></section></div>
+<section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Subject Progress</h2><span>Biology · Physics · Chemistry</span></div><div id="subjectGrid" class="dashboard-subject-grid"></div></section>
+<section class="dashboard-grid" style="margin-top:16px"><section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Recent Mock Tests</h2><span>Latest activity</span></div><div id="recentList" class="recent-list"></div></section>
+<section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Your Free Preparation Loop</h2><span>Recommended</span></div><div class="learning-points compact"><div><span>1</span><p><strong>Read Notes</strong><small>Understand the chapter concepts.</small></p></div><div><span>2</span><p><strong>Practice Questions</strong><small>Build question familiarity.</small></p></div><div><span>3</span><p><strong>Take FREE Mock</strong><small>Measure your current level.</small></p></div><div><span>4</span><p><strong>Fix Mistakes</strong><small>Practice wrong questions and retest.</small></p></div></div><a class="dashboard-btn dashboard-btn-secondary" href="./science/index.html">Explore Free Science →</a></section></section>
+<section class="paid-section"><div class="paid-section-head"><div><h2>MY PAID EXAMS</h2><p>Your premium Railway test series will appear here after purchase.</p></div></div><div id="paidExamGrid" class="paid-exam-grid"></div></section>
+<div class="dashboard-account-actions"><a class="dashboard-btn dashboard-btn-secondary" href="./railway-exams.html">🚆 Railway Exams</a><a class="dashboard-btn dashboard-btn-secondary" href="./index.html">Home</a><button class="dashboard-btn dashboard-btn-secondary" type="button" onclick="logoutUser()">Logout</button></div>
+</div></main>
+<footer class="rjd-universal-footer"><p><a href="./index.html">Home</a> · <a href="./science/index.html">Science</a> · <a href="./railway-exams.html">Railway</a> · <a href="./pages/about.html">About</a> · <a href="./pages/contact.html">Contact</a> · <a href="./pages/privacy-policy.html">Privacy Policy</a> · <a href="./pages/terms.html">Terms</a> · <a href="./pages/disclaimer.html">Disclaimer</a></p><p>© 2026 RojgarDwaar</p></footer>
+</body></html>
