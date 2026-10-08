@@ -146,3 +146,26 @@
   }
   window.loadAccount = init;
 })();
+
+(function setupProfileDetails(){
+  function openProfileDetails(){
+    const modal=document.getElementById("profileDetailsModal");
+    if(!modal) return;
+    const name=document.getElementById("accountName")?.textContent || "—";
+    const email=document.getElementById("accountEmail")?.textContent || "—";
+    const created=document.getElementById("accountCreated")?.textContent || "—";
+    document.getElementById("profileDetailName").textContent=name;
+    document.getElementById("profileDetailEmail").textContent=email;
+    document.getElementById("profileDetailCreated").textContent=created;
+    modal.hidden=false;
+    document.getElementById("profileDetailsClose")?.focus();
+  }
+  function closeProfileDetails(){ const modal=document.getElementById("profileDetailsModal"); if(modal) modal.hidden=true; }
+  document.addEventListener("DOMContentLoaded",function(){
+    document.getElementById("profileDetailsBtn")?.addEventListener("click",openProfileDetails);
+    document.getElementById("profileDetailsClose")?.addEventListener("click",closeProfileDetails);
+    document.getElementById("profileDetailsDone")?.addEventListener("click",closeProfileDetails);
+    document.getElementById("profileDetailsModal")?.addEventListener("click",function(e){if(e.target===this) closeProfileDetails();});
+    document.addEventListener("keydown",function(e){if(e.key==="Escape") closeProfileDetails();});
+  });
+})();
