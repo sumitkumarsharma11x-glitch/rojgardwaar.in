@@ -165,3 +165,13 @@ async function logoutUser() {
   if(supabaseClient) await supabaseClient.auth.signOut();
   window.location.href="./login.html";
 }
+
+async function loginWithGoogle() {
+  if(!requireConfig()) return;
+  const redirectTo = new URL("./account.html", window.location.href).href;
+  const {error}=await supabaseClient.auth.signInWithOAuth({
+    provider:"google",
+    options:{redirectTo}
+  });
+  if(error) showMsg(error.message,"error");
+}
