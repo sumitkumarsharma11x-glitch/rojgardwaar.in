@@ -585,3 +585,41 @@
 .market-body h3{font-size:20px}.market-body p{font-size:10.5px}
 .market-features span{font-size:8px}
 @media(max-width:720px){.market-visual{height:300px}.market-art-copy{width:48%}.market-feature-stack{width:205px}}
+
+/* Final course-card correction: real railway train image + larger readable typography */
+.market-visual-grade3 .market-train-photo{
+  background-image:url("https://upload.wikimedia.org/wikipedia/commons/7/7e/WAP-7_class_electric_locomotive_of_Indian_Railways.jpg") !important;
+  background-position:center center !important;
+  background-size:cover !important;
+}
+.market-visual-signal .market-train-photo{
+  background-image:url("https://upload.wikimedia.org/wikipedia/commons/7/7e/WAP-7_class_electric_locomotive_of_Indian_Railways.jpg") !important;
+  background-position:center center !important;
+  background-size:cover !important;
+}
+.market-title-art strong{font-size:48px !important}
+.market-title-art b{font-size:42px !important}
+.market-title-art em{font-size:31px !important}
+.market-hindi-art{
+  font-size:18px !important;
+  line-height:1.5 !important;
+  padding:10px 13px !important;
+}
+.market-badge{font-size:11px !important;padding:8px 13px !important}
+.market-hinglish{font-size:11px !important;padding:9px 13px !important}
+.market-feature-stack{width:250px !important}
+.market-feature-stack span{font-size:10px !important;padding:10px 12px !important}
+.market-body h3{font-size:22px !important}
+.market-body p{font-size:11px !important}
+.market-features span{font-size:9px !important}
+.market-price strong{font-size:31px !important}
+.market-price small{font-size:9px !important}
+.market-cta{font-size:11px !important;min-height:44px !important}
+@media(max-width:720px){
+  .market-title-art strong{font-size:36px !important}
+  .market-title-art b{font-size:32px !important}
+  .market-title-art em{font-size:24px !important}
+  .market-hindi-art{font-size:14px !important}
+  .market-feature-stack{width:210px !important}
+  .market-feature-stack span{font-size:8.5px !important}
+}
