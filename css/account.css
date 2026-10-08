@@ -104,3 +104,150 @@
 .profile-detail-row span{color:#7b8b9b;font-size:12px}.profile-detail-row strong{color:#243f5b;font-size:12px;text-align:right;word-break:break-word}
 .profile-detail-actions{display:flex;justify-content:flex-end;gap:9px;margin-top:20px}
 @media(max-width:520px){.profile-details-hint{display:none}.profile-modal{padding:22px}.profile-detail-row{align-items:flex-start;flex-direction:column;gap:4px}.profile-detail-row strong{text-align:left}}
+
+/* ===== Dashboard visual polish v3 ===== */
+.site-header{
+  background:rgba(255,255,255,.96);
+  backdrop-filter:blur(10px);
+}
+.site-header .header-inner{
+  min-height:68px;
+  height:auto;
+  gap:28px;
+}
+.site-header .logo{flex:0 0 auto}
+.site-header .header-inner .rjd-universal-nav{
+  display:flex !important;
+  flex:1 1 auto;
+  align-items:center;
+  justify-content:flex-end;
+  gap:6px;
+  margin:0 0 0 auto;
+  flex-wrap:nowrap;
+}
+.site-header .header-inner .rjd-universal-nav a{
+  display:inline-flex !important;
+  align-items:center;
+  justify-content:center;
+  min-height:36px;
+  padding:7px 11px;
+  border-radius:9px;
+  color:#526579;
+  font-size:13px;
+  font-weight:650;
+}
+.site-header .header-inner .rjd-universal-nav a:hover,
+.site-header .header-inner .rjd-universal-nav a:focus{
+  color:#1a56db;
+  background:#eef5ff;
+}
+.site-header .header-inner .rjd-universal-nav a::after{display:none}
+
+.account-dashboard-page{
+  position:relative;
+  overflow:hidden;
+  background:
+    radial-gradient(circle at 8% 0%,rgba(26,86,219,.10),transparent 28%),
+    radial-gradient(circle at 92% 8%,rgba(49,91,145,.08),transparent 24%),
+    linear-gradient(180deg,#f7fbff 0%,#edf4fa 100%);
+}
+.account-dashboard-page::before{
+  content:'';
+  position:absolute;
+  top:-150px;right:-120px;
+  width:380px;height:380px;
+  border-radius:50%;
+  background:rgba(26,86,219,.045);
+  pointer-events:none;
+}
+.dashboard-welcome{
+  position:relative;
+  padding:25px 28px;
+  border:1px solid rgba(207,222,237,.9);
+  border-radius:20px;
+  background:linear-gradient(135deg,rgba(255,255,255,.97),rgba(245,250,255,.94));
+  box-shadow:0 12px 32px rgba(30,64,175,.07);
+}
+.dashboard-welcome h1{font-size:34px}
+.dashboard-kicker{color:#1a56db}
+.dashboard-profile-chip{
+  min-width:245px;
+  padding:11px 13px;
+  background:#fff;
+  box-shadow:0 8px 22px rgba(30,64,175,.08);
+}
+.dashboard-profile-chip .account-avatar{
+  display:grid;
+  place-items:center;
+  border-radius:12px;
+  background:linear-gradient(135deg,#172b45,#315b91);
+  color:#fff;
+}
+.dashboard-metrics{
+  position:relative;
+  gap:14px;
+}
+.dashboard-metric{
+  position:relative;
+  overflow:hidden;
+  padding:17px 16px;
+  border-radius:16px;
+  box-shadow:0 8px 22px rgba(30,64,175,.055);
+}
+.dashboard-metric::before{
+  content:'';
+  position:absolute;
+  left:0;top:0;bottom:0;
+  width:3px;
+  background:#315b91;
+}
+.dashboard-metric b{font-size:25px}
+.dashboard-panel{
+  border-radius:19px;
+  box-shadow:0 9px 26px rgba(30,64,175,.055);
+}
+.dashboard-panel-head h2{font-size:19px}
+.continue-card{
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.8);
+}
+.dashboard-btn-primary{
+  background:linear-gradient(135deg,#315b91,#1e429f);
+}
+.dashboard-subject-card{
+  transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease;
+}
+.dashboard-subject-card:hover{
+  transform:translateY(-2px);
+  border-color:#c8d9ea;
+  box-shadow:0 8px 20px rgba(30,64,175,.07);
+}
+.paid-exam-card{
+  transition:transform .2s ease,box-shadow .2s ease;
+}
+.paid-exam-card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 10px 24px rgba(30,64,175,.08);
+}
+
+@media(max-width:767px){
+  .site-header .header-inner{
+    min-height:64px;
+    padding-top:9px;
+    padding-bottom:9px;
+    gap:10px;
+  }
+  .site-header .header-inner .rjd-universal-nav{
+    gap:2px;
+    flex-wrap:wrap;
+    justify-content:flex-end;
+  }
+  .site-header .header-inner .rjd-universal-nav a{
+    min-height:32px;
+    padding:6px 7px;
+    font-size:11px;
+  }
+}
+@media(max-width:520px){
+  .dashboard-welcome{padding:20px 18px}
+  .dashboard-welcome h1{font-size:27px}
+}
