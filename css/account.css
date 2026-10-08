@@ -546,3 +546,42 @@
 @media(max-width:900px){.premium-course-benefits{grid-template-columns:repeat(2,1fr)}.market-visual{height:300px}}
 @media(max-width:720px){.premium-marketplace-grid{grid-template-columns:1fr}.premium-marketplace-head{align-items:flex-start;flex-direction:column}.market-visual{height:300px}}
 @media(max-width:520px){.premium-marketplace{padding:20px 12px 14px}.premium-course-benefits{grid-template-columns:1fr}.market-visual{height:285px}.market-title-art strong{font-size:31px}.market-title-art b{font-size:29px}.market-title-art em{font-size:21px}.market-feature-stack{width:190px}.market-feature-stack span{font-size:7.5px}}
+
+/* FINAL Railway reference polish — sharp photos, readable Hindi, sky-toned cards */
+.premium-marketplace{background:linear-gradient(180deg,#fafdff 0%,#f4f9ff 100%);padding:24px 22px 16px}
+.premium-marketplace-head h2{font-family:"Noto Sans Devanagari",Inter,Arial,sans-serif;font-size:31px;color:#102544;margin:0 0 4px}
+.premium-marketplace-head p{font-family:"Noto Sans Devanagari",Inter,Arial,sans-serif;font-size:12px;color:#31577d}
+.premium-course-benefits{margin:4px 0 20px}
+.premium-course-benefits b,.premium-course-benefits span{font-family:"Noto Sans Devanagari",Inter,Arial,sans-serif}
+.premium-marketplace-grid{gap:18px}
+.premium-market-card{border-radius:15px}
+.market-visual{height:325px;isolation:isolate}
+.market-art-copy{position:absolute;z-index:8;left:22px;top:18px;bottom:20px;width:43%;pointer-events:none}
+.market-visual-grade3{
+ background:
+ linear-gradient(90deg,rgba(220,255,165,.98) 0%,rgba(180,242,166,.82) 27%,rgba(88,181,205,.18) 57%,rgba(19,99,190,.10) 100%),
+ url("https://images.unsplash.com/photo-1531058020387-3be344556be6?auto=format&fit=crop&w=1600&q=88") center/cover no-repeat;
+}
+.market-visual-signal{
+ background:
+ linear-gradient(90deg,rgba(255,218,226,.96) 0%,rgba(255,190,199,.72) 28%,rgba(157,115,220,.22) 62%,rgba(88,55,171,.16) 100%),
+ url("https://images.unsplash.com/photo-1515169067868-5387ec356754?auto=format&fit=crop&w=1600&q=88") center/cover no-repeat;
+}
+.market-visual:after{content:"";position:absolute;z-index:3;inset:0;background:linear-gradient(90deg,rgba(255,255,255,.04) 0%,transparent 45%,rgba(0,21,50,.08) 100%);pointer-events:none}
+.market-train-photo{position:absolute;z-index:5;right:-3%;top:0;width:73%;height:100%;background-repeat:no-repeat;background-position:center;background-size:cover;clip-path:polygon(24% 0,100% 0,100% 100%,0 100%);mix-blend-mode:normal;filter:saturate(1.08) contrast(1.04)}
+.market-visual-grade3 .market-train-photo{background-image:url("https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=1500&q=92")}
+.market-visual-signal .market-train-photo{background-image:url("https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&w=1500&q=92")}
+.market-title-art{position:relative;z-index:10;top:48px;left:0;text-shadow:none}
+.market-title-art strong{font-size:43px;line-height:.95;color:#0b8e3c}
+.market-title-art b{font-size:38px;line-height:.95;color:#0a1422}
+.market-title-art em{font-size:27px;line-height:1;margin-top:7px;padding:7px 11px;border-radius:7px}
+.market-purple .market-title-art strong{color:#5927bd}.market-purple .market-title-art em{background:#5a24c7}
+.market-hindi-art{position:absolute;z-index:11;left:0;bottom:8px;color:#071a2c;font-family:"Noto Sans Devanagari",sans-serif;font-size:15px;font-weight:700;line-height:1.4;text-shadow:0 1px 0 rgba(255,255,255,.45)}
+.market-badge{position:relative;left:0;top:0;display:inline-flex;font-family:"Noto Sans Devanagari",sans-serif}
+.market-hinglish{z-index:12;font-family:"Noto Sans Devanagari",sans-serif}
+.market-feature-stack{z-index:15;right:17px;bottom:15px;width:232px}
+.market-feature-stack span{font-family:"Noto Sans Devanagari",Inter,sans-serif;font-size:9px;padding:9px 11px;background:rgba(5,25,48,.84);box-shadow:0 2px 7px rgba(0,0,0,.15)}
+.market-body,.market-body *{font-family:"Noto Sans Devanagari",Inter,Arial,sans-serif}
+.market-body h3{font-size:20px}.market-body p{font-size:10.5px}
+.market-features span{font-size:8px}
+@media(max-width:720px){.market-visual{height:300px}.market-art-copy{width:48%}.market-feature-stack{width:205px}}
