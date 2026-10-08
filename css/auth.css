@@ -164,3 +164,11 @@
 
 /* Auth mode visibility: keep inactive login panels hidden even if theme styles override [hidden]. */
 #passwordLoginForm[hidden], #otpLoginBox[hidden], #loginOtpVerify[hidden] { display: none !important; }
+
+
+.auth-google-wrap{margin:18px 0 2px}
+.auth-google-btn{width:100%;min-height:48px;display:flex;align-items:center;justify-content:center;gap:10px;border:1px solid #d5dce5;border-radius:8px;background:#fff;color:#26364b;font:inherit;font-weight:800;cursor:pointer;transition:background .2s,border-color .2s,box-shadow .2s}
+.auth-google-btn:hover{background:#f8fafc;border-color:#b9c6d5;box-shadow:0 3px 10px rgba(15,23,42,.06)}
+.google-mark{width:22px;height:22px;display:grid;place-items:center;font-family:Arial,sans-serif;font-size:19px;font-weight:800;color:#4285f4}
+.auth-divider{display:flex;align-items:center;gap:10px;margin:14px 0 0;color:#94a3b8;font-size:12px}
+.auth-divider:before,.auth-divider:after{content:"";height:1px;background:#e2e8f0;flex:1}
