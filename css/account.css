@@ -455,3 +455,35 @@
   .premium-course-benefits{grid-template-columns:1fr}
   .premium-bottom-note{justify-content:flex-start}
 }
+
+/* Approved Railway marketplace visual — reference-matched */
+.premium-marketplace{padding:22px;margin-bottom:18px;background:linear-gradient(180deg,#fff 0%,#f8fbff 100%);border:1px solid #dce8f4;border-radius:20px}
+.premium-marketplace-head h2{font-size:28px;margin:7px 0 4px;color:#102645}
+.premium-marketplace-head p{font-size:11px}
+.premium-course-benefits{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin:0 0 16px}
+.premium-course-benefits>div{padding:11px 13px;border:1px solid #dce8f3;border-radius:12px;background:#fff}
+.premium-course-benefits b{font-size:10px;color:#173653}.premium-course-benefits span{display:block;margin-top:4px;font-size:8px;color:#7b8da0}
+.premium-marketplace-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.premium-market-card{border:1px solid #d7e3ef;border-radius:17px;overflow:hidden;background:#fff;box-shadow:0 8px 22px rgba(30,64,110,.07)}
+.market-visual{height:315px;position:relative;overflow:hidden;color:#fff}
+.market-visual-grade3{background:linear-gradient(120deg,#d8ff9d 0%,#69d89d 38%,#1189d5 100%)}
+.market-visual-signal{background:linear-gradient(120deg,#ffd9df 0%,#f4a8bc 35%,#7353df 100%)}
+.market-visual:after{content:'';position:absolute;inset:0;background:linear-gradient(120deg,rgba(255,255,255,.18),transparent 42%,rgba(8,25,55,.22));pointer-events:none}
+.market-route{position:absolute;z-index:5;left:22px;top:18px;font-size:10px;font-weight:950;letter-spacing:.09em}
+.market-badge{position:absolute;z-index:6;left:22px;top:45px;padding:7px 11px;border-radius:999px;background:#ff3f26;color:#fff;font-size:9px;font-weight:950;box-shadow:0 5px 12px rgba(0,0,0,.13)}
+.market-purple .market-badge{background:#5d28d9}
+.market-hinglish{position:absolute;z-index:6;right:18px;top:17px;padding:8px 11px;border-radius:9px;background:rgba(255,255,255,.93);color:#1455a5;font-size:9px;font-weight:900}
+.market-title-art{position:absolute;z-index:5;left:22px;top:88px;display:flex;flex-direction:column;line-height:.88;text-shadow:0 2px 0 rgba(255,255,255,.25)}
+.market-title-art strong{font-size:36px;color:#098f38}.market-title-art b{font-size:34px;color:#101827}.market-title-art em{margin-top:6px;display:inline-block;width:max-content;padding:5px 9px;border-radius:7px;background:#0b923c;color:#fff;font-style:normal;font-size:25px}
+.market-purple .market-title-art strong{color:#5426b7}.market-purple .market-title-art em{background:#4e20b8}
+.market-hindi-art{position:absolute;z-index:6;left:22px;bottom:38px;color:#102d48;font-size:15px;font-weight:800;line-height:1.35}
+.market-train-art,.market-signal-art{position:absolute;z-index:4;right:2px;bottom:7px;font-size:130px;filter:drop-shadow(0 13px 9px rgba(0,0,0,.25))}
+.market-signal-art{font-size:105px;right:35px;bottom:35px}
+.market-feature-stack{position:absolute;z-index:7;right:18px;bottom:18px;display:grid;gap:6px;width:220px}
+.market-feature-stack span{padding:9px 10px;border-radius:7px;background:rgba(9,27,48,.75);backdrop-filter:blur(4px);font-size:9px;font-weight:850}
+.market-body{padding:15px 16px 16px}.market-meta{font-size:8px}.market-body h3{font-size:19px;margin:8px 0 5px}.market-body p{font-size:10px}.market-features span{font-size:7.5px}
+.market-price{display:flex;align-items:center;gap:9px}.market-price strong{font-size:28px;color:#ed2e1b}.market-price del{font-size:12px;color:#718096}.market-price small{padding:5px 8px;border-radius:999px;background:#dff7e9;color:#09934e;font-size:9px;font-weight:900}
+.market-cta{min-height:40px;padding:0 17px;font-size:10px}.market-blue .market-cta{background:#1768df}.market-purple .market-cta{background:#6331d4}
+@media(max-width:900px){.premium-course-benefits{grid-template-columns:repeat(2,1fr)}.market-visual{height:285px}}
+@media(max-width:720px){.premium-marketplace-grid{grid-template-columns:1fr}.market-visual{height:300px}}
+@media(max-width:520px){.premium-course-benefits{grid-template-columns:1fr}.market-visual{height:285px}.market-title-art strong{font-size:29px}.market-title-art b{font-size:27px}.market-title-art em{font-size:19px}.market-feature-stack{width:185px}.market-feature-stack span{font-size:8px}}
