@@ -125,6 +125,15 @@
     }).join("") : "<div class=\"empty-dashboard\">Your test history will appear here after your first FREE Mock Test.</div>";
   }
 
+
+  function renderAdvancedProgress(){
+    const active=state.chapters.filter(function(x){return x.attempted||x.mocks;}).length;
+    const course=Math.min(100,(active/36)*100);
+    const ring=document.getElementById("overallProgress"); if(ring) ring.textContent=Math.round(course)+"%";
+    const msg=document.getElementById("progressMessage"); if(msg) msg.textContent=active+" of 36 chapters started. Complete your preparation step by step.";
+    const vals=["weakBio","weakPhy","weakChem"];
+    SUBJECTS.forEach(function(s,i){const el=document.getElementById(vals[i]); if(el) el.textContent=subjectStats(s.key).wrong;});
+  }
   async function renderPaidExams() {
     const products = [
       { code: "technician-grade-iii", icon: "🔧", title: "RRB Technician Grade-III", desc: "50 full mock tests · 3 free + 47 premium", href: "./railway-technician-grade-3.html" },
@@ -142,7 +151,7 @@
   }
   async function init() {
     if (!await loadUser()) return;
-    loadProgress(); renderMetrics(); renderContinue(); renderWrong(); renderSubjects(); renderRecent(); await renderPaidExams();
+    loadProgress(); renderMetrics(); renderContinue(); renderWrong(); renderSubjects(); renderRecent(); renderAdvancedProgress(); await renderPaidExams();
   }
   window.loadAccount = init;
 })();
