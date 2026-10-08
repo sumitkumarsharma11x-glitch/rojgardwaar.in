@@ -487,3 +487,62 @@
 @media(max-width:900px){.premium-course-benefits{grid-template-columns:repeat(2,1fr)}.market-visual{height:285px}}
 @media(max-width:720px){.premium-marketplace-grid{grid-template-columns:1fr}.market-visual{height:300px}}
 @media(max-width:520px){.premium-course-benefits{grid-template-columns:1fr}.market-visual{height:285px}.market-title-art strong{font-size:29px}.market-title-art b{font-size:27px}.market-title-art em{font-size:19px}.market-feature-stack{width:185px}.market-feature-stack span{font-size:8px}}
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700;800;900&display=swap');
+
+/* Reference-matched Railway marketplace v2 */
+.premium-marketplace{padding:28px 22px 16px;background:linear-gradient(180deg,#fff 0%,#f7fbff 100%);border:0;border-radius:0;box-shadow:none}
+.premium-marketplace *{font-family:"Noto Sans Devanagari",Inter,Arial,sans-serif}
+.premium-marketplace-head{margin-bottom:20px}
+.premium-marketplace-head h2{font-size:32px;letter-spacing:-.7px;margin:6px 0 3px;color:#102443}
+.premium-marketplace-head p{font-size:12px;color:#345d87;line-height:1.55}
+.premium-view-all{padding:11px 16px;border:1px solid #b9d4f5;background:#f8fbff;color:#0e5bd7;font-size:10px;border-radius:9px}
+.premium-course-benefits{gap:16px;margin-bottom:22px}
+.premium-course-benefits>div{border:0;background:transparent;padding:4px 10px;display:grid;grid-template-columns:42px 1fr;column-gap:10px;align-items:center}
+.premium-course-benefits>div:before{content:"";grid-row:1/3;width:42px;height:42px;border-radius:50%;background:#fff1d8;box-shadow:inset 0 0 0 1px #ffe1aa}
+.premium-course-benefits>div:nth-child(2):before{background:#e9f2ff;box-shadow:inset 0 0 0 1px #cfe2ff}
+.premium-course-benefits>div:nth-child(3):before{background:#eeeaff;box-shadow:inset 0 0 0 1px #ddd5ff}
+.premium-course-benefits>div:nth-child(4):before{background:#e6f8ed;box-shadow:inset 0 0 0 1px #ccefdc}
+.premium-course-benefits b{font-size:11px;color:#102443}
+.premium-course-benefits span{font-size:9px;color:#45637f}
+.premium-marketplace-grid{gap:20px}
+.premium-market-card{border:1px solid #d7e5f3;border-radius:17px;box-shadow:0 10px 24px rgba(30,75,120,.07)}
+.market-visual{height:320px}
+.market-visual-grade3{
+ background:
+ linear-gradient(90deg,rgba(194,255,132,.93) 0%,rgba(126,221,151,.52) 36%,rgba(14,124,218,.15) 60%),
+ url("https://upload.wikimedia.org/wikipedia/commons/7/7e/WAP-7_class_electric_locomotive_of_Indian_Railways.jpg") center 62%/cover no-repeat;
+}
+.market-visual-signal{
+ background:
+ linear-gradient(90deg,rgba(255,211,220,.92) 0%,rgba(246,162,185,.54) 35%,rgba(105,72,205,.28) 68%),
+ url("https://upload.wikimedia.org/wikipedia/commons/7/7e/WAP-7_class_electric_locomotive_of_Indian_Railways.jpg") center 55%/cover no-repeat;
+}
+.market-visual:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(255,255,255,.20),transparent 48%,rgba(6,24,51,.22));z-index:1}
+.market-badge{left:22px;top:18px;padding:8px 13px;font-size:10px}
+.market-hinglish{right:18px;top:17px;padding:8px 12px;font-size:10px}
+.market-title-art{top:72px;left:22px;z-index:6;text-shadow:none}
+.market-title-art strong{font-size:43px;color:#07933b}
+.market-title-art b{font-size:39px;color:#0b1422}
+.market-title-art em{font-size:29px;margin-top:7px;padding:6px 11px}
+.market-purple .market-title-art strong{color:#5421b7}.market-purple .market-title-art em{background:#5b25c5}
+.market-hindi-art{left:22px;bottom:31px;font-size:16px;z-index:8;color:#0d243d}
+.market-photo{position:absolute;z-index:4;left:25%;right:-8px;top:0;bottom:0;background:url("https://upload.wikimedia.org/wikipedia/commons/7/7e/WAP-7_class_electric_locomotive_of_Indian_Railways.jpg") center/cover no-repeat;clip-path:polygon(30% 0,100% 0,100% 100%,0 100%);opacity:.92}
+.market-visual-signal .market-photo{filter:saturate(1.15) hue-rotate(8deg)}
+.market-feature-stack{right:18px;bottom:17px;width:235px;z-index:10;gap:5px}
+.market-feature-stack span{padding:9px 11px;font-size:9px;background:rgba(5,25,49,.82);border:1px solid rgba(255,255,255,.12)}
+.market-body{padding:17px 17px 18px}
+.market-meta{font-size:8.5px}.market-body h3{font-size:20px;margin:8px 0 5px;color:#102443}
+.market-body p{font-size:10.5px;color:#476788}
+.market-features{gap:6px;margin-top:13px}
+.market-features span{padding:6px 8px;font-size:8px;background:#f1f6fb;color:#244b70}
+.market-bottom{margin-top:15px;padding-top:12px}
+.market-price{display:flex;align-items:baseline;gap:9px}
+.market-price strong{font-size:30px;color:#ed2f1f}.market-price small{font-size:8px;background:#dff7e9;color:#0a9250;padding:5px 8px;border-radius:999px}
+.market-cta{min-height:43px;padding:0 20px;font-size:11px;border-radius:8px}
+.market-blue .market-cta{background:#1468e5}.market-purple .market-cta{background:#612bd2}
+.premium-bottom-note{margin-top:16px}
+.train-attribution{margin-top:7px;text-align:center;color:#9aa9b8;font-size:7px}
+@media(max-width:900px){.premium-course-benefits{grid-template-columns:repeat(2,1fr)}.market-visual{height:300px}}
+@media(max-width:720px){.premium-marketplace-grid{grid-template-columns:1fr}.premium-marketplace-head{align-items:flex-start;flex-direction:column}.market-visual{height:300px}}
+@media(max-width:520px){.premium-marketplace{padding:20px 12px 14px}.premium-course-benefits{grid-template-columns:1fr}.market-visual{height:285px}.market-title-art strong{font-size:31px}.market-title-art b{font-size:29px}.market-title-art em{font-size:21px}.market-feature-stack{width:190px}.market-feature-stack span{font-size:7.5px}}
