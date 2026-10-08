@@ -24,20 +24,45 @@
     return state.subjectStats[subject] || { attempted: 0, wrong: 0, mocks: 0, best: 0, lastTs: 0, chapters: 0 };
   }
 
-  async function loadUser() {
-    const result = await supabaseClient.auth.getUser();
-    if (result.error || !result.data.user) {
-      window.location.href = "./login.html?redirect=account.html";
+  async function loadUser(retry = 0) {
+    if (!supabaseClient) {
+      if (retry < 3) {
+        setTimeout(function () { loadUser(retry + 1); }, 800 * (retry + 1));
+      }
       return false;
     }
-    state.user = result.data.user;
-    const name = result.data.user.user_metadata && result.data.user.user_metadata.full_name
-      ? result.data.user.user_metadata.full_name
-      : ((result.data.user.email || "").split("@")[0] || "Student");
+
+    const result = await supabaseClient.auth.getSession();
+
+    if (result.error) {
+      // Temporary network/session-restore errors must never be treated as logout.
+      if (retry < 3) {
+        setTimeout(function () { loadUser(retry + 1); }, 1000 * (retry + 1));
+      }
+      return false;
+    }
+
+    const session = result.data && result.data.session;
+    if (!session || !session.user) {
+      // Give Supabase a few moments to restore a persisted localStorage session
+      // before deciding that the user is genuinely logged out.
+      if (retry < 3) {
+        setTimeout(function () { loadUser(retry + 1); }, 800 * (retry + 1));
+        return false;
+      }
+      window.location.replace("./login.html?redirect=account.html");
+      return false;
+    }
+
+    const user = session.user;
+    state.user = user;
+    const name = user.user_metadata && user.user_metadata.full_name
+      ? user.user_metadata.full_name
+      : ((user.email || "").split("@")[0] || "Student");
     $("accountName").textContent = name;
-    $("accountEmail").textContent = result.data.user.email || "";
+    $("accountEmail").textContent = user.email || "";
     $("welcomeName").textContent = name;
-    $("accountCreated").textContent = formatDate(result.data.user.created_at);
+    $("accountCreated").textContent = formatDate(user.created_at);
     return true;
   }
 
