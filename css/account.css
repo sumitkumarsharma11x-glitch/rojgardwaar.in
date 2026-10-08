@@ -374,3 +374,84 @@
   .market-signal{font-size:72px}
   .market-body h3{font-size:16px}
 }
+
+
+/* Real ROJGARDWAAR course marketplace — actual products only */
+.premium-course-benefits{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:8px;
+  margin:0 0 15px;
+  padding:10px 0;
+}
+.premium-course-benefits>div{
+  padding:10px 11px;
+  border:1px solid #e4edf5;
+  border-radius:11px;
+  background:#fbfdff;
+}
+.premium-course-benefits b{display:block;color:#193652;font-size:9px}
+.premium-course-benefits span{display:block;margin-top:3px;color:#8091a2;font-size:7.5px;line-height:1.35}
+.market-visual{
+  height:156px;
+  background:linear-gradient(135deg,#dff4ff 0%,#8bc7ff 48%,#2d78df 100%);
+}
+.market-purple .market-visual{
+  background:linear-gradient(135deg,#eee8ff 0%,#b7a0ff 48%,#6540c7 100%);
+}
+.market-route{z-index:4}
+.market-badge{z-index:5}
+.market-train-art,.market-signal-art{
+  position:absolute;
+  z-index:3;
+  right:24px;
+  bottom:8px;
+  font-size:82px;
+  filter:drop-shadow(0 8px 7px rgba(12,42,78,.22));
+}
+.market-signal-art{font-size:76px;right:35px}
+.market-track{
+  z-index:2;
+  bottom:20px;
+  height:3px;
+  background:rgba(255,255,255,.6);
+}
+.market-skyline{
+  position:absolute;
+  left:0;right:0;bottom:22px;height:45px;
+  opacity:.22;
+  background:repeating-linear-gradient(90deg,transparent 0 18px,#fff 18px 21px,transparent 21px 37px);
+  transform:skewX(-18deg);
+}
+.market-signal-line{
+  position:absolute;
+  left:20px;bottom:30px;width:42%;height:80px;
+  border-left:3px solid rgba(255,255,255,.45);
+  border-bottom:3px solid rgba(255,255,255,.45);
+}
+.premium-bottom-note{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:7px;
+  margin-top:14px;
+  padding-top:11px;
+  border-top:1px solid #e8eef4;
+  color:#71869b;
+  font-size:8px;
+}
+.premium-bottom-note span:first-child{color:#0ca66d;font-size:12px}
+.premium-bottom-note b{font-weight:800;color:#526b84}
+
+@media(max-width:900px){
+  .premium-course-benefits{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:720px){
+  .premium-course-benefits{grid-template-columns:1fr 1fr}
+  .market-visual{height:140px}
+}
+@media(max-width:520px){
+  .premium-course-benefits{grid-template-columns:1fr}
+  .premium-bottom-note{justify-content:flex-start}
+}
