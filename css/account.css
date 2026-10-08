@@ -623,3 +623,54 @@
   .market-feature-stack{width:210px !important}
   .market-feature-stack span{font-size:8.5px !important}
 }
+
+/* FINAL visual cleanup — Railway-only photography, no bus/coach imagery */
+.market-visual-grade3{
+  background:
+    linear-gradient(90deg,rgba(220,255,171,.98) 0%,rgba(180,239,166,.82) 28%,rgba(75,157,202,.18) 55%,rgba(10,73,145,.08) 100%),
+    url("https://commons.wikimedia.org/wiki/Special:Redirect/file/Ajni%20based%20WAP7%20locomotive%20head.jpg") center/cover no-repeat !important;
+}
+.market-visual-signal{
+  background:
+    linear-gradient(90deg,rgba(255,220,228,.97) 0%,rgba(249,184,200,.78) 28%,rgba(143,105,218,.22) 62%,rgba(74,44,163,.12) 100%),
+    url("https://commons.wikimedia.org/wiki/Special:Redirect/file/LGD%20WAP7%2030306.jpg") center/cover no-repeat !important;
+}
+.market-train-photo{display:none !important}
+.market-art-copy{width:48% !important}
+.market-title-art{
+  margin-top:17px !important;
+  padding:11px 13px 10px !important;
+  border-radius:10px !important;
+  background:rgba(255,255,255,.90) !important;
+  box-shadow:0 6px 16px rgba(7,30,55,.12) !important;
+}
+.market-title-art strong{font-size:46px !important}
+.market-title-art b{font-size:39px !important}
+.market-title-art em{font-size:28px !important}
+.market-hindi-art{
+  margin-top:12px !important;
+  padding:9px 12px !important;
+  font-size:17px !important;
+  background:rgba(255,255,255,.94) !important;
+  color:#081d34 !important;
+  border-radius:8px !important;
+  box-shadow:0 5px 14px rgba(7,30,55,.10) !important;
+}
+.market-feature-stack{
+  width:242px !important;
+  right:16px !important;
+  bottom:15px !important;
+}
+.market-feature-stack span{
+  font-size:9.5px !important;
+  padding:10px 12px !important;
+  background:rgba(3,23,47,.90) !important;
+}
+@media(max-width:720px){
+  .market-art-copy{width:50% !important}
+  .market-title-art strong{font-size:34px !important}
+  .market-title-art b{font-size:30px !important}
+  .market-title-art em{font-size:22px !important}
+  .market-hindi-art{font-size:13px !important}
+  .market-feature-stack{width:205px !important}
+}
