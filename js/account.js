@@ -144,10 +144,12 @@
       const { data } = await supabaseClient.from("purchases").select("product_code,status,purchased_at").eq("user_id", state.user.id).eq("status", "paid");
       (data || []).forEach(function (row) { purchased[row.product_code] = row; });
     } catch (e) {}
-    $("paidExamGrid").innerHTML = products.map(function (p) {
+    const paidMarkup = products.map(function (p) {
       const own = !!purchased[p.code];
       return "<article class=\"paid-exam-card\"><div class=\"paid-exam-icon\">" + p.icon + "</div><div class=\"paid-exam-copy\"><span class=\"paid-status " + (own ? "is-purchased" : "") + "\">" + (own ? "PURCHASED • UNLOCKED" : "NOT PURCHASED") + "</span><h3>" + p.title + "</h3><p>" + p.desc + "</p><div class=\"paid-exam-meta\"><span>₹49 Launch Price</span><span>" + (own ? "Access unlocked" : "Secure Razorpay checkout") + "</span></div></div><a class=\"dashboard-btn dashboard-btn-primary\" href=\"" + p.href + "\">" + (own ? "Continue Preparation →" : "View & Buy →") + "</a></article>";
     }).join("");
+    $("paidExamGrid").innerHTML = paidMarkup;
+    const topGrid = $("paidExamGridTop"); if (topGrid) topGrid.innerHTML = paidMarkup;
   }
   async function init() {
     if (!await loadUser()) return;
