@@ -674,3 +674,185 @@
   .market-hindi-art{font-size:13px !important}
   .market-feature-stack{width:205px !important}
 }
+
+/* MOBILE-FIRST Railway course cards — no overlap, no tiny text, no horizontal overflow */
+@media (max-width: 600px){
+  .premium-marketplace{
+    padding:20px 10px 14px !important;
+    overflow:hidden !important;
+  }
+  .premium-marketplace-head{
+    gap:12px !important;
+    margin-bottom:16px !important;
+  }
+  .premium-marketplace-head h2{
+    font-size:25px !important;
+    line-height:1.15 !important;
+  }
+  .premium-marketplace-head p{
+    font-size:11px !important;
+    line-height:1.5 !important;
+  }
+  .premium-view-all{
+    width:100% !important;
+    justify-content:center !important;
+    box-sizing:border-box !important;
+  }
+  .premium-course-benefits{
+    grid-template-columns:1fr 1fr !important;
+    gap:8px !important;
+    margin-bottom:14px !important;
+  }
+  .premium-course-benefits>div{
+    min-width:0 !important;
+    padding:9px 8px !important;
+    grid-template-columns:30px 1fr !important;
+    column-gap:7px !important;
+  }
+  .premium-course-benefits>div:before{
+    width:30px !important;
+    height:30px !important;
+  }
+  .premium-course-benefits b{
+    font-size:9px !important;
+    line-height:1.2 !important;
+  }
+  .premium-course-benefits span{
+    font-size:7.5px !important;
+    line-height:1.25 !important;
+  }
+
+  .premium-marketplace-grid{
+    grid-template-columns:1fr !important;
+    gap:14px !important;
+  }
+  .premium-market-card{
+    width:100% !important;
+    min-width:0 !important;
+  }
+
+  .market-visual{
+    height:330px !important;
+  }
+  .market-art-copy{
+    left:14px !important;
+    top:14px !important;
+    bottom:auto !important;
+    width:62% !important;
+  }
+  .market-badge{
+    font-size:9px !important;
+    padding:7px 10px !important;
+  }
+  .market-hinglish{
+    right:12px !important;
+    top:12px !important;
+    font-size:9px !important;
+    padding:7px 9px !important;
+  }
+  .market-title-art{
+    margin-top:13px !important;
+    padding:8px 9px !important;
+    border-radius:8px !important;
+  }
+  .market-title-art strong{
+    font-size:31px !important;
+  }
+  .market-title-art b{
+    font-size:27px !important;
+  }
+  .market-title-art em{
+    font-size:20px !important;
+    margin-top:5px !important;
+    padding:5px 7px !important;
+  }
+  .market-hindi-art{
+    margin-top:9px !important;
+    padding:7px 9px !important;
+    font-size:12px !important;
+    line-height:1.38 !important;
+  }
+
+  /* Keep the train visible on the right instead of letting text cover it. */
+  .market-visual-grade3,
+  .market-visual-signal{
+    background-position:center right !important;
+  }
+  .market-feature-stack{
+    right:10px !important;
+    bottom:10px !important;
+    width:54% !important;
+    max-width:205px !important;
+    gap:4px !important;
+  }
+  .market-feature-stack span{
+    font-size:8px !important;
+    line-height:1.15 !important;
+    padding:8px 9px !important;
+    white-space:normal !important;
+  }
+
+  .market-body{
+    padding:14px !important;
+  }
+  .market-body h3{
+    font-size:18px !important;
+    line-height:1.25 !important;
+  }
+  .market-body p{
+    font-size:10px !important;
+    line-height:1.45 !important;
+  }
+  .market-features{
+    gap:5px !important;
+  }
+  .market-features span{
+    font-size:8px !important;
+    padding:6px 7px !important;
+  }
+  .market-bottom{
+    align-items:center !important;
+  }
+  .market-price strong{
+    font-size:27px !important;
+  }
+  .market-price small{
+    font-size:8px !important;
+  }
+  .market-cta{
+    min-height:40px !important;
+    padding:0 13px !important;
+    font-size:9px !important;
+  }
+  .premium-bottom-note{
+    font-size:7px !important;
+    line-height:1.4 !important;
+    justify-content:center !important;
+    text-align:center !important;
+  }
+}
+
+/* Very small phones */
+@media (max-width:380px){
+  .premium-course-benefits{
+    grid-template-columns:1fr !important;
+  }
+  .market-visual{
+    height:360px !important;
+  }
+  .market-art-copy{
+    width:68% !important;
+  }
+  .market-title-art strong{font-size:28px !important}
+  .market-title-art b{font-size:24px !important}
+  .market-title-art em{font-size:18px !important}
+  .market-hindi-art{font-size:11px !important}
+  .market-feature-stack{
+    width:57% !important;
+    max-width:190px !important;
+  }
+  .market-feature-stack span{font-size:7.5px !important}
+  .market-bottom{
+    flex-direction:row !important;
+  }
+}
