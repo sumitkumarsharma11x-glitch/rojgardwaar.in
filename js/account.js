@@ -125,15 +125,24 @@
     }).join("") : "<div class=\"empty-dashboard\">Your test history will appear here after your first FREE Mock Test.</div>";
   }
 
-  function renderPaidExams() {
-    $("paidExamGrid").innerHTML =
-      "<article class=\"paid-exam-card\"><div class=\"paid-exam-icon\">🔧</div><div class=\"paid-exam-copy\"><span class=\"paid-status\">NOT PURCHASED</span><h3>RRB Technician Grade-III</h3><p>Complete exam-focused test series with premium mocks, practice and performance analysis.</p><div class=\"paid-exam-meta\"><span>50 Mock Tests</span><span>3 Free + 47 Premium</span></div></div><a class=\"dashboard-btn dashboard-btn-primary\" href=\"./railway-technician-grade-3.html\">View Course</a></article>" +
-      "<article class=\"paid-exam-card\"><div class=\"paid-exam-icon\">⚙️</div><div class=\"paid-exam-copy\"><span class=\"paid-status\">NOT PURCHASED</span><h3>RRB Technician Grade-I Signal</h3><p>Exam-specific mock tests and structured practice for Grade-I Signal preparation.</p><div class=\"paid-exam-meta\"><span>Premium Test Series</span><span>Exam-focused Practice</span></div></div><a class=\"dashboard-btn dashboard-btn-primary\" href=\"./railway-technician-grade-1-signal.html\">View Course</a></article>";
+  async function renderPaidExams() {
+    const products = [
+      { code: "technician-grade-iii", icon: "🔧", title: "RRB Technician Grade-III", desc: "50 full mock tests · 3 free + 47 premium", href: "./railway-technician-grade-3.html" },
+      { code: "technician-grade-i-signal", icon: "⚙️", title: "RRB Technician Grade-I Signal", desc: "50 full mock tests · 3 free + 47 premium", href: "./railway-technician-grade-1-signal.html" }
+    ];
+    let purchased = {};
+    try {
+      const { data } = await supabaseClient.from("purchases").select("product_code,status,purchased_at").eq("user_id", state.user.id).eq("status", "paid");
+      (data || []).forEach(function (row) { purchased[row.product_code] = row; });
+    } catch (e) {}
+    $("paidExamGrid").innerHTML = products.map(function (p) {
+      const own = !!purchased[p.code];
+      return "<article class=\"paid-exam-card\"><div class=\"paid-exam-icon\">" + p.icon + "</div><div class=\"paid-exam-copy\"><span class=\"paid-status " + (own ? "is-purchased" : "") + "\">" + (own ? "PURCHASED • UNLOCKED" : "NOT PURCHASED") + "</span><h3>" + p.title + "</h3><p>" + p.desc + "</p><div class=\"paid-exam-meta\"><span>₹49 Launch Price</span><span>" + (own ? "Access unlocked" : "Secure Razorpay checkout") + "</span></div></div><a class=\"dashboard-btn dashboard-btn-primary\" href=\"" + p.href + "\">" + (own ? "Continue Preparation →" : "View & Buy →") + "</a></article>";
+    }).join("");
   }
-
   async function init() {
     if (!await loadUser()) return;
-    loadProgress(); renderMetrics(); renderContinue(); renderWrong(); renderSubjects(); renderRecent(); renderPaidExams();
+    loadProgress(); renderMetrics(); renderContinue(); renderWrong(); renderSubjects(); renderRecent(); await renderPaidExams();
   }
   window.loadAccount = init;
 })();
