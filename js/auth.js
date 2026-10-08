@@ -1,7 +1,15 @@
 const sbConfig = window.ROJGARDWAAR_SUPABASE || {};
 const supabaseClient = (window.supabase && sbConfig.url && sbConfig.anonKey &&
   !sbConfig.url.startsWith("YOUR_") && !sbConfig.anonKey.startsWith("YOUR_"))
-  ? window.supabase.createClient(sbConfig.url, sbConfig.anonKey)
+  ? window.supabase.createClient(sbConfig.url, sbConfig.anonKey, {
+      auth: {
+        persistSession: true,
+        autoRefreshToken: true,
+        detectSessionInUrl: true,
+        storage: window.localStorage,
+        storageKey: "rojgardwaar-auth"
+      }
+    })
   : null;
 
 function showMsg(message, type="info") {
@@ -146,20 +154,44 @@ async function verifyLoginOtp(event) {
   setTimeout(()=>{ window.location.href="./account.html"; },300);
 }
 
-async function loadAccount() {
+async function loadAccount(retry=0) {
   if(!requireConfig()) return;
-  const {data,error}=await supabaseClient.auth.getUser();
-  if(error || !data.user) {
-    window.location.href="./login.html";
+  // On mobile, a backgrounded tab can be suspended. Never treat a
+  // temporary network/session error as a real logout.
+  const {data,error}=await supabaseClient.auth.getSession();
+  if(error) {
+    if(retry < 3) {
+      setTimeout(()=>loadAccount(retry+1), 1000 * (retry+1));
+    }
     return;
   }
-  const user=data.user;
+  const session=data?.session;
+  if(!session?.user) {
+    // Give Supabase a moment to restore a persisted localStorage session
+    // before redirecting to login.
+    if(retry < 3) {
+      setTimeout(()=>loadAccount(retry+1), 800 * (retry+1));
+    } else {
+      window.location.href="./login.html";
+    }
+    return;
+  }
+  const user=session.user;
   const name=user.user_metadata?.full_name || user.email?.split("@")[0] || "User";
   const nameEl=document.getElementById("accountName");
   const emailEl=document.getElementById("accountEmail");
   if(nameEl) nameEl.textContent=name;
   if(emailEl) emailEl.textContent=user.email || "";
 }
+
+// Keep the session alive when a mobile browser resumes a suspended tab.
+// This does NOT log the user out; it simply asks Supabase for the
+// persisted/refreshable session again.
+document.addEventListener("visibilitychange", () => {
+  if(document.visibilityState === "visible" && supabaseClient) {
+    supabaseClient.auth.getSession().catch(()=>{});
+  }
+});
 
 async function logoutUser() {
   if(supabaseClient) await supabaseClient.auth.signOut();
