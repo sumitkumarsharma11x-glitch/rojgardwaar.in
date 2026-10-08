@@ -146,3 +146,231 @@
   .premium-course-grid{grid-template-columns:1fr}
   .premium-trust{align-self:flex-start}
 }
+
+
+/* Railway marketplace redesign — light EdTech course cards */
+.premium-marketplace{
+  padding:22px;
+  margin-bottom:18px;
+  border:1px solid #d9e7f5;
+  border-radius:20px;
+  background:linear-gradient(180deg,#ffffff 0%,#f8fbff 100%);
+  box-shadow:0 10px 28px rgba(35,82,130,.07);
+  overflow:hidden;
+}
+.premium-marketplace:before,
+.premium-marketplace:after{display:none}
+.premium-marketplace-head{
+  position:relative;
+  z-index:2;
+  display:flex;
+  align-items:flex-end;
+  justify-content:space-between;
+  gap:18px;
+  margin-bottom:17px;
+}
+.premium-marketplace-head h2{
+  margin:9px 0 5px;
+  color:#122844;
+  font-size:23px;
+  line-height:1.15;
+  letter-spacing:-.45px;
+}
+.premium-marketplace-head p{
+  margin:0;
+  max-width:760px;
+  color:#667d96;
+  font-size:10.5px;
+  line-height:1.5;
+}
+.premium-marketplace .premium-badge{
+  background:#fff0c7;
+  border:1px solid #f5d47a;
+  color:#a76200;
+}
+.premium-view-all{
+  flex:0 0 auto;
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  padding:10px 13px;
+  border:1px solid #cfe0f5;
+  border-radius:9px;
+  background:#f7fbff;
+  color:#145bd2;
+  text-decoration:none;
+  font-size:10px;
+  font-weight:900;
+}
+.premium-view-all:hover{background:#edf6ff}
+.premium-view-all span{font-size:15px}
+.premium-marketplace-grid{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:15px;
+}
+.premium-market-card{
+  display:block;
+  overflow:hidden;
+  border:1px solid #d9e5f0;
+  border-radius:16px;
+  background:#fff;
+  color:inherit;
+  text-decoration:none;
+  box-shadow:0 7px 18px rgba(35,82,130,.06);
+  transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease;
+}
+.premium-market-card:hover{
+  transform:translateY(-3px);
+  border-color:#bdd3eb;
+  box-shadow:0 14px 28px rgba(35,82,130,.12);
+}
+.market-visual{
+  position:relative;
+  height:145px;
+  overflow:hidden;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.market-blue .market-visual{background:linear-gradient(135deg,#1d7bf0 0%,#1554c7 58%,#103b91 100%)}
+.market-purple .market-visual{background:linear-gradient(135deg,#7851e9 0%,#5831c4 55%,#3b238f 100%)}
+.market-glow{
+  position:absolute;
+  width:220px;height:220px;
+  right:-35px;top:-95px;
+  border-radius:50%;
+  background:rgba(255,255,255,.13);
+}
+.market-train,.market-signal{
+  position:absolute;
+  right:24px;
+  bottom:-9px;
+  font-size:92px;
+  filter:drop-shadow(0 8px 8px rgba(0,0,0,.16));
+  transform:rotate(-4deg);
+}
+.market-signal{font-size:86px;right:31px;bottom:0;transform:none}
+.market-route{
+  position:absolute;
+  left:18px;top:17px;
+  color:rgba(255,255,255,.9);
+  font-size:9px;
+  font-weight:950;
+  letter-spacing:.12em;
+}
+.market-badge{
+  position:absolute;
+  left:18px;top:42px;
+  padding:6px 9px;
+  border-radius:999px;
+  background:#fff;
+  color:#155bd4;
+  font-size:8px;
+  font-weight:950;
+  box-shadow:0 5px 12px rgba(0,0,0,.10);
+}
+.market-purple .market-badge{color:#5a35c8}
+.market-track{
+  position:absolute;
+  left:-10px;right:-10px;bottom:18px;
+  height:2px;
+  background:rgba(255,255,255,.32);
+  transform:rotate(-4deg);
+  box-shadow:0 0 0 8px rgba(255,255,255,.035);
+}
+.market-body{padding:14px 15px 15px}
+.market-meta{
+  display:flex;
+  justify-content:space-between;
+  gap:8px;
+  color:#647b94;
+  font-size:8px;
+  font-weight:900;
+  letter-spacing:.06em;
+}
+.market-meta span:last-child{
+  padding:3px 7px;
+  border-radius:999px;
+  background:#eef5ff;
+  color:#3267a7;
+  letter-spacing:0;
+}
+.market-body h3{
+  margin:8px 0 5px;
+  color:#162f4d;
+  font-size:17px;
+  line-height:1.18;
+}
+.market-body p{
+  margin:0;
+  min-height:28px;
+  color:#6e8298;
+  font-size:9.5px;
+  line-height:1.45;
+}
+.market-features{
+  display:flex;
+  flex-wrap:wrap;
+  gap:5px;
+  margin-top:10px;
+}
+.market-features span{
+  padding:5px 7px;
+  border-radius:6px;
+  background:#f3f7fb;
+  color:#49637e;
+  font-size:7.5px;
+  font-weight:800;
+}
+.market-bottom{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  margin-top:13px;
+  padding-top:11px;
+  border-top:1px solid #edf2f6;
+}
+.market-price strong{
+  display:block;
+  color:#172d49;
+  font-size:22px;
+  line-height:1;
+}
+.market-price small{
+  display:block;
+  margin-top:4px;
+  color:#8293a5;
+  font-size:7.5px;
+}
+.market-cta{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  min-height:35px;
+  padding:0 13px;
+  border-radius:8px;
+  background:#172536;
+  color:#fff;
+  font-size:9px;
+  font-weight:900;
+  box-shadow:0 5px 12px rgba(23,37,54,.13);
+}
+.market-blue .market-cta{background:#1766d8}
+.market-purple .market-cta{background:#5b35ca}
+.market-cta b{font-size:14px;font-weight:500}
+
+@media(max-width:720px){
+  .premium-marketplace{padding:17px}
+  .premium-marketplace-head{align-items:flex-start;flex-direction:column}
+  .premium-marketplace-head h2{font-size:20px}
+  .premium-view-all{width:100%;justify-content:center}
+  .premium-marketplace-grid{grid-template-columns:1fr}
+}
+@media(max-width:520px){
+  .market-visual{height:130px}
+  .market-train{font-size:78px}
+  .market-signal{font-size:72px}
+  .market-body h3{font-size:16px}
+}
