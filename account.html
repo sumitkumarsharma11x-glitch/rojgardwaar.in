@@ -8,46 +8,125 @@
 <meta name="description" content="ROJGARDWAAR student dashboard for free preparation progress and premium Railway test series.">
 <link rel="stylesheet" href="./css/style.css">
 <link rel="stylesheet" href="./css/auth.css?v=20261008account1">
-<link rel="stylesheet" href="./css/account.css?v=20261008account3">
+<link rel="stylesheet" href="./css/account.css?v=20261008account4">
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="./js/supabase-config.js"></script>
 <script src="./js/auth.js" defer></script>
 <script src="./js/storageManager.js"></script>
-<script src="./js/account.js?v=20261008account1" defer></script>
+<script src="./js/account.js?v=20261008account2" defer></script>
 </head>
 <body onload="loadAccount()">
-<header class="site-header">
+<header class="site-header dashboard-header">
   <div class="container header-inner">
-    <a href="./index.html" class="logo" aria-label="ROJGARDWAAR.IN Home">ROJGARDWAAR<span>.IN</span></a>
+    <a href="./index.html" class="logo dashboard-logo" aria-label="ROJGARDWAAR.IN Home">ROJGARDWAAR<span>.IN</span><small>Learn · Practice · Prepare · Succeed</small></a>
     <nav class="rjd-universal-nav" aria-label="Main navigation">
-      <a href="./index.html">Home</a>
-      <a href="./science/index.html">Science</a>
-      <a href="./railway-exams.html">Railway</a>
-      <a href="./pages/about.html">About</a>
-      <a href="./pages/contact.html">Contact</a>
+      <a class="active" href="./index.html">⌂ <span>Home</span></a>
+      <a href="./science/index.html">♙ <span>Science</span></a>
+      <a href="./railway-exams.html">▣ <span>Railway</span></a>
+      <a href="./pages/about.html">ⓘ <span>About</span></a>
+      <a href="./pages/contact.html">▣ <span>Contact</span></a>
     </nav>
+    <button type="button" class="dashboard-profile-mini" id="profileDetailsBtn" aria-haspopup="dialog" aria-controls="profileDetailsModal">
+      <span class="mini-avatar">👤</span><span class="mini-copy"><strong id="accountName">Loading...</strong><small id="accountEmail">Loading...</small></span><span class="mini-chevron">⌄</span>
+    </button>
   </div>
 </header>
-<main class="account-dashboard-page"><div class="dashboard-shell">
-<section class="dashboard-welcome"><div><p class="dashboard-kicker">ROJGARDWAAR STUDENT DASHBOARD</p><h1>Welcome back, <span id="welcomeName">Student</span> 👋</h1><p>Track your preparation, fix weak areas and continue from where you stopped.</p></div><button type="button" class="dashboard-profile-chip" id="profileDetailsBtn" aria-haspopup="dialog" aria-controls="profileDetailsModal"><div class="account-avatar" aria-hidden="true">👤</div><div><strong id="accountName">Loading...</strong><span id="accountEmail">Loading...</span></div><span class="profile-details-hint">Details →</span></button></section>
-<section class="dashboard-metrics" aria-label="Preparation summary"><div class="dashboard-metric"><b id="metricAttempted">0</b><span>Questions Attempted</span></div><div class="dashboard-metric"><b id="metricAccuracy">0%</b><span>Overall Accuracy</span></div><div class="dashboard-metric"><b id="metricMocks">0</b><span>FREE Mock Tests</span></div><div class="dashboard-metric"><b id="metricBest">0%</b><span>Best Mock Score</span></div><div class="dashboard-metric"><b id="metricWrong">0</b><span>Questions to Improve</span></div><div class="dashboard-metric"><b id="metricChapters">0/36</b><span>Chapters Started</span></div></section>
-<div class="dashboard-grid"><section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Continue Learning</h2><span>FREE Science</span></div><div class="continue-card"><div><h3 id="continueTitle">Start your first chapter</h3><p id="continueMeta">Notes → Practice → FREE Mock Test</p></div><a id="continueBtn" class="dashboard-btn dashboard-btn-primary" href="./science/biology/index.html">Continue →</a></div><div class="coverage"><div class="coverage-line"><span>Science question coverage</span><strong id="coverageValue">0%</strong></div><div class="coverage-track"><span id="coverageBar"></span></div></div><div class="account-created">Account created: <span id="accountCreated">—</span></div></section>
-<section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Questions to Improve</h2><span>Most recent mistakes</span></div><div class="wrong-card"><div class="wrong-number" id="wrongCount">0</div><div><h3>Wrong Questions</h3><p id="wrongDescription">Loading your improvement list...</p></div><a id="wrongBtn" class="dashboard-btn dashboard-btn-secondary" href="./science/index.html">Practice →</a></div></section></div>
-<section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Subject Progress</h2><span>Biology · Physics · Chemistry</span></div><div id="subjectGrid" class="dashboard-subject-grid"></div></section>
-<section class="dashboard-grid" style="margin-top:16px"><section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Recent Mock Tests</h2><span>Latest activity</span></div><div id="recentList" class="recent-list"></div></section>
-<section class="dashboard-panel"><div class="dashboard-panel-head"><h2>Your Free Preparation Loop</h2><span>Recommended</span></div><div class="learning-points compact"><div><span>1</span><p><strong>Read Notes</strong><small>Understand the chapter concepts.</small></p></div><div><span>2</span><p><strong>Practice Questions</strong><small>Build question familiarity.</small></p></div><div><span>3</span><p><strong>Take FREE Mock</strong><small>Measure your current level.</small></p></div><div><span>4</span><p><strong>Fix Mistakes</strong><small>Practice wrong questions and retest.</small></p></div></div><a class="dashboard-btn dashboard-btn-secondary" href="./science/index.html">Explore Free Science →</a></section></section>
+
+<main class="account-dashboard-page">
+<div class="dashboard-shell">
+
+<section class="dashboard-hero">
+  <div class="hero-copy">
+    <p class="dashboard-kicker">ROJGARDWAAR STUDENT DASHBOARD</p>
+    <h1>Welcome back,<br><span id="welcomeName">Student</span> 👋</h1>
+    <p>Track your preparation, fix weak areas and continue from where you stopped.</p>
+  </div>
+  <div class="hero-art" aria-hidden="true">
+    <div class="book book-one"></div><div class="book book-two"></div><div class="book book-three"></div>
+    <div class="pencil pencil-one"></div><div class="pencil pencil-two"></div><div class="spark">↗</div>
+    <div class="hero-note">Small Steps<br><b>Big Results</b></div>
+  </div>
+  <div class="hero-quote">“Consistent practice<br>today creates your<br>success tomorrow.”<span></span></div>
+</section>
+
+<section class="dashboard-metrics" aria-label="Preparation summary">
+  <div class="dashboard-metric metric-blue"><i>▤</i><div><b id="metricAttempted">0</b><span>Questions Attempted</span><small>Keep going! You're on track.</small></div></div>
+  <div class="dashboard-metric metric-green"><i>◎</i><div><b id="metricAccuracy">0%</b><span>Overall Accuracy</span><small>Good progress · Aim for 80%+</small></div></div>
+  <div class="dashboard-metric metric-yellow"><i>▧</i><div><b id="metricMocks">0</b><span>FREE Mock Tests</span><small>Use your free tests wisely.</small></div></div>
+  <div class="dashboard-metric metric-purple"><i>★</i><div><b id="metricBest">0%</b><span>Best Mock Score</span><small>You can do better!</small></div></div>
+  <div class="dashboard-metric metric-red"><i>↗</i><div><b id="metricWrong">0</b><span>Questions to Improve</span><small>Focus on weak topics.</small></div></div>
+  <div class="dashboard-metric metric-sky"><i>▣</i><div><b id="metricChapters">0/36</b><span>Chapters Started</span><small>Complete all chapters.</small></div></div>
+</section>
+
+<section class="dashboard-main-grid">
+  <div class="dashboard-column">
+    <section class="dashboard-panel continue-panel">
+      <div class="dashboard-panel-head"><h2>▶ Continue Learning</h2><span class="pill-blue">FREE Science</span></div>
+      <div class="continue-card">
+        <div class="continue-icon">🧪</div>
+        <div class="continue-copy"><h3 id="continueTitle">Start your first chapter</h3><p id="continueMeta">Notes → Practice → FREE Mock Test</p><div class="continue-track"><span id="coverageBar"></span></div><small><span id="coverageValue">0%</span> Complete</small></div>
+        <a id="continueBtn" class="dashboard-btn dashboard-btn-primary" href="./science/biology/index.html">Continue →</a>
+      </div>
+      <div class="quick-actions">
+        <a href="./science/index.html"><b>▶</b>Resume Last Test</a><a href="./science/index.html"><b>▣</b>Browse Chapters</a><a href="./science/index.html"><b>▤</b>Take Mock Test</a><a href="./science/index.html"><b>◎</b>View Weak Topics</a>
+      </div>
+    </section>
+
+    <section class="dashboard-panel">
+      <div class="dashboard-panel-head"><h2>▣ Subject Progress</h2><span>Biology · Physics · Chemistry</span></div>
+      <div id="subjectGrid" class="dashboard-subject-grid"></div>
+    </section>
+
+    <section class="dashboard-panel">
+      <div class="dashboard-panel-head"><h2>★ Recommended for You</h2><span>Based on your activity</span></div>
+      <div class="recommend-grid">
+        <a href="./science/index.html"><b>▤</b><strong>Take a Mock Test<small>Check your current level</small></strong><span>→</span></a>
+        <a href="./science/index.html"><b>◎</b><strong>Practice Wrong Questions<small>Improve weak areas</small></strong><span>→</span></a>
+        <a href="./science/index.html"><b>▣</b><strong>Explore Chapters<small>Continue your preparation</small></strong><span>→</span></a>
+        <a href="./account.html"><b>▥</b><strong>Track Your Progress<small>See detailed analytics</small></strong><span>→</span></a>
+      </div>
+    </section>
+  </div>
+
+  <div class="dashboard-side">
+    <section class="dashboard-panel improve-panel">
+      <div class="dashboard-panel-head"><h2>◎ Questions to Improve</h2><span>Most recent mistakes →</span></div>
+      <div class="wrong-card"><div class="wrong-number" id="wrongCount">0</div><div><h3>Wrong Questions</h3><p id="wrongDescription">Loading your improvement list...</p></div><a id="wrongBtn" class="dashboard-btn dashboard-btn-warm" href="./science/index.html">Practice Now →</a></div>
+      <div class="weak-bars"><div><span>Biology</span><i><b></b></i><em id="weakBio">0</em></div><div><span>Physics</span><i><b></b></i><em id="weakPhy">0</em></div><div><span>Chemistry</span><i><b></b></i><em id="weakChem">0</em></div></div>
+    </section>
+
+    <section class="progress-card">
+      <div class="progress-card-head"><h2>▥ Your Progress</h2></div>
+      <div class="progress-ring"><div><strong id="overallProgress">0%</strong><span>Overall Course<br>Progress</span></div></div>
+      <p>🚀 Keep going!</p><small id="progressMessage">Complete your preparation step by step.</small>
+    </section>
+
+    <section class="dashboard-panel recent-panel">
+      <div class="dashboard-panel-head"><h2>▤ Recent Mock Tests</h2><a href="./science/index.html">View All →</a></div>
+      <div id="recentList" class="recent-list"></div>
+    </section>
+
+    <section class="streak-card">
+      <h2>🔥 Study Streak</h2><p>Keep your streak alive!</p><div class="streak-days"><span class="on">✓<small>Mon</small></span><span>○<small>Tue</small></span><span>○<small>Wed</small></span><span>○<small>Thu</small></span><span>○<small>Fri</small></span><span>○<small>Sat</small></span><span>○<small>Sun</small></span></div>
+    </section>
+  </div>
+</section>
+
 <section class="paid-section"><div class="paid-section-head"><div><h2>MY PAID EXAMS</h2><p>Your premium Railway test series will appear here after purchase.</p></div></div><div id="paidExamGrid" class="paid-exam-grid"></div></section>
+
 <div class="dashboard-account-actions"><a class="dashboard-btn dashboard-btn-secondary" href="./railway-exams.html">🚆 Railway Exams</a><a class="dashboard-btn dashboard-btn-secondary" href="./index.html">Home</a><button class="dashboard-btn dashboard-btn-secondary" type="button" onclick="logoutUser()">Logout</button></div>
-</div><div class="profile-modal-backdrop" id="profileDetailsModal" hidden>
+<div class="account-created">Account created: <span id="accountCreated">—</span></div>
+
+<div class="profile-modal-backdrop" id="profileDetailsModal" hidden>
   <div class="profile-modal" role="dialog" aria-modal="true" aria-labelledby="profileDetailsTitle">
     <button type="button" class="profile-modal-close" id="profileDetailsClose" aria-label="Close account details">×</button>
-    <p class="dashboard-kicker">ACCOUNT DETAILS</p>
-    <h2 id="profileDetailsTitle">Your ROJGARDWAAR Account</h2>
+    <p class="dashboard-kicker">ACCOUNT DETAILS</p><h2 id="profileDetailsTitle">Your ROJGARDWAAR Account</h2>
     <div class="profile-detail-row"><span>Name</span><strong id="profileDetailName">—</strong></div>
     <div class="profile-detail-row"><span>Email</span><strong id="profileDetailEmail">—</strong></div>
     <div class="profile-detail-row"><span>Account Created</span><strong id="profileDetailCreated">—</strong></div>
     <div class="profile-detail-actions"><button type="button" class="dashboard-btn dashboard-btn-secondary" id="profileDetailsDone">Close</button><button type="button" class="dashboard-btn dashboard-btn-primary" onclick="logoutUser()">Logout</button></div>
   </div>
+</div>
 </div></main>
 <footer class="rjd-universal-footer"><p><a href="./index.html">Home</a> · <a href="./science/index.html">Science</a> · <a href="./railway-exams.html">Railway</a> · <a href="./pages/about.html">About</a> · <a href="./pages/contact.html">Contact</a> · <a href="./pages/privacy-policy.html">Privacy Policy</a> · <a href="./pages/terms.html">Terms</a> · <a href="./pages/disclaimer.html">Disclaimer</a></p><p>© 2026 RojgarDwaar</p></footer>
 </body></html>
