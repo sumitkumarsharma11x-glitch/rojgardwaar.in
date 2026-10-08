@@ -8,7 +8,7 @@
 <meta name="description" content="ROJGARDWAAR student dashboard for free preparation progress and premium Railway test series.">
 <link rel="stylesheet" href="./css/style.css">
 <link rel="stylesheet" href="./css/auth.css?v=20261008account1">
-<link rel="stylesheet" href="./css/account.css?v=20261008account1">
+<link rel="stylesheet" href="./css/account.css?v=20261008account2">
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="./js/supabase-config.js"></script>
 <script src="./js/auth.js" defer></script>
@@ -16,7 +16,18 @@
 <script src="./js/account.js?v=20261008account1" defer></script>
 </head>
 <body onload="loadAccount()">
-<header class="site-header"><div class="container header-inner"><a href="./index.html" class="logo">ROJGARDWAAR<span>.IN</span></a></div><nav class="rjd-universal-nav" aria-label="Main navigation"><a href="./index.html">Home</a><a href="./science/index.html">Science</a><a href="./railway-exams.html">Railway</a><a href="./pages/about.html">About</a><a href="./pages/contact.html">Contact</a></nav></header>
+<header class="site-header">
+  <div class="container header-inner">
+    <a href="./index.html" class="logo" aria-label="ROJGARDWAAR.IN Home">ROJGARDWAAR<span>.IN</span></a>
+    <nav class="rjd-universal-nav" aria-label="Main navigation">
+      <a href="./index.html">Home</a>
+      <a href="./science/index.html">Science</a>
+      <a href="./railway-exams.html">Railway</a>
+      <a href="./pages/about.html">About</a>
+      <a href="./pages/contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
 <main class="account-dashboard-page"><div class="dashboard-shell">
 <section class="dashboard-welcome"><div><p class="dashboard-kicker">ROJGARDWAAR STUDENT DASHBOARD</p><h1>Welcome back, <span id="welcomeName">Student</span> 👋</h1><p>Track your preparation, fix weak areas and continue from where you stopped.</p></div><div class="dashboard-profile-chip"><div class="account-avatar" aria-hidden="true">👤</div><div><strong id="accountName">Loading...</strong><span id="accountEmail">Loading...</span></div></div></section>
 <section class="dashboard-metrics" aria-label="Preparation summary"><div class="dashboard-metric"><b id="metricAttempted">0</b><span>Questions Attempted</span></div><div class="dashboard-metric"><b id="metricAccuracy">0%</b><span>Overall Accuracy</span></div><div class="dashboard-metric"><b id="metricMocks">0</b><span>FREE Mock Tests</span></div><div class="dashboard-metric"><b id="metricBest">0%</b><span>Best Mock Score</span></div><div class="dashboard-metric"><b id="metricWrong">0</b><span>Questions to Improve</span></div><div class="dashboard-metric"><b id="metricChapters">0/36</b><span>Chapters Started</span></div></section>
