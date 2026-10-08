@@ -160,3 +160,7 @@
   color: #1f2937;
   box-shadow: 0 1px 5px rgba(0,0,0,.08);
 }
+
+
+/* Auth mode visibility: keep inactive login panels hidden even if theme styles override [hidden]. */
+#passwordLoginForm[hidden], #otpLoginBox[hidden], #loginOtpVerify[hidden] { display: none !important; }
