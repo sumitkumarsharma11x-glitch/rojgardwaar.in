@@ -46,6 +46,8 @@
       "#rjd-account-chip .rjd-chip-details strong,#rjd-account-chip .rjd-chip-details small{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}",
       "#rjd-account-chip .rjd-chip-details small{font-size:11px;font-weight:500;color:#64748b}",
       "#rjd-account-chip .rjd-chip-logout{border:0;border-radius:7px;padding:7px 9px;background:#fee2e2;color:#991b1b;font-weight:700;cursor:pointer;white-space:nowrap}",
+      ".rjd-has-chip{column-gap:clamp(14px,2.5vw,32px)}",
+      ".rjd-has-chip>.main-nav,.rjd-has-chip>.rjd-universal-nav,.rjd-has-chip>.reference-nav{margin-left:clamp(8px,1.5vw,24px)}",
       "body.rjd-logged-in .auth-nav-link,body.rjd-logged-in .auth-register-link{display:none!important}",
       "@media(min-width:768px){body.rjd-nav-has-auth #rjd-account-chip .rjd-chip-link{display:none}}",
       "@media(max-width:767px){#rjd-account-chip{gap:6px}#rjd-account-chip .rjd-chip-details{max-width:120px}#rjd-account-chip .rjd-chip-identity{padding:4px 6px;gap:6px}}",
@@ -73,17 +75,13 @@
     chip = document.createElement("div");
     chip.id = "rjd-account-chip";
     chip.setAttribute("aria-live", "polite");
+    host.classList.add("rjd-has-chip");
     var burger = host.querySelector(":scope > .mobile-menu-disclosure");
     if (burger) host.insertBefore(chip, burger); else host.appendChild(chip);
     return chip;
   }
 
   function render(user) {
-    // account.html has its own profile control and logout actions; avoid injecting a second chip.
-    if (document.querySelector(".dashboard-profile-mini")) {
-      document.body.classList.toggle("rjd-logged-in", !!user);
-      return;
-    }
     var host = getHost();
     if (!host) return;
     injectStyle();
@@ -133,7 +131,8 @@
     identity.appendChild(avatar);
     identity.appendChild(details);
     identity.appendChild(caret);
-    chip.appendChild(identity);
+    var hasNativeIdentity = !!host.querySelector(".dashboard-profile-mini");
+    if (!hasNativeIdentity) chip.appendChild(identity);
 
     var logout = document.createElement("button");
     logout.type = "button";
