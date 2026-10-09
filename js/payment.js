@@ -1,8 +1,18 @@
 /* ROJGARDWAAR paid-series checkout */
 (function () {
   const config = window.ROJGARDWAAR_SUPABASE || {};
-  const client = (window.supabase && config.url && config.anonKey)
-    ? window.supabase.createClient(config.url, config.anonKey)
+  // Must match js/auth.js so checkout reads the same persisted login session.
+  const client = (window.supabase && config.url && config.anonKey &&
+    !config.url.startsWith("YOUR_") && !config.anonKey.startsWith("YOUR_"))
+    ? window.supabase.createClient(config.url, config.anonKey, {
+        auth: {
+          persistSession: true,
+          autoRefreshToken: true,
+          detectSessionInUrl: true,
+          storage: window.localStorage,
+          storageKey: "rojgardwaar-auth"
+        }
+      })
     : null;
 
   const PRODUCTS = {
