@@ -151,7 +151,7 @@ a:focus-visible {
 
 .header-inner > .logo {
   flex: 0 0 auto;
-  margin-right: 4px;
+  margin-right: 24px !important;
   white-space: nowrap;
 }
 
