@@ -1,4 +1,4 @@
-/* Shared ROJGARDWAAR login indicator for every page. */
+/* Shared ROJGARDWAAR account identity for every page. */
 (function () {
   "use strict";
   var scriptUrl = document.currentScript && document.currentScript.src
@@ -6,6 +6,7 @@
   var siteRoot = new URL("/", scriptUrl).origin;
   var client = null;
   var statusEl = null;
+  var accountChip = null;
 
   function loadScript(src) {
     return new Promise(function (resolve, reject) {
@@ -27,18 +28,25 @@
     });
   }
 
-  function ensureStatus() {
-    if (statusEl && statusEl.isConnected) return statusEl;
-    statusEl = document.getElementById("rjd-auth-status");
-    if (statusEl) return statusEl;
-    var host = document.querySelector(".header-inner, .header-row, .rjd-site-header__inner, header");
+  function ensureAccountChip() {
+    accountChip = document.getElementById("rjd-account-chip");
+    if (accountChip) return accountChip;
+    var host = document.querySelector(".header-inner, .header-row, .rjd-site-header__inner");
     if (!host) return null;
-    statusEl = document.createElement("div");
-    statusEl.id = "rjd-auth-status";
-    statusEl.setAttribute("aria-live", "polite");
-    statusEl.style.cssText = "display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap;font:600 13px/1.35 Inter,Arial,sans-serif;margin:6px 10px;padding:6px 10px;border:1px solid #dbeafe;border-radius:10px;background:#eff6ff;color:#1e3a8a;";
-    host.appendChild(statusEl);
-    return statusEl;
+    accountChip = document.createElement("div");
+    accountChip.id = "rjd-account-chip";
+    accountChip.setAttribute("aria-live", "polite");
+    accountChip.style.cssText = "margin-left:auto;display:flex;align-items:center;justify-content:flex-end;gap:8px;flex-wrap:wrap;max-width:100%;font:600 13px/1.35 Inter,Arial,sans-serif;";
+    host.appendChild(accountChip);
+    return accountChip;
+  }
+
+  function makeLink(text, href) {
+    var a = document.createElement("a");
+    a.href = href;
+    a.textContent = text;
+    a.style.cssText = "color:#1d4ed8;text-decoration:none;font-weight:700;white-space:nowrap";
+    return a;
   }
 
   function accountUrl() { return siteRoot + "/account.html"; }
@@ -56,33 +64,48 @@
       el.setAttribute("aria-label", user ? "My Account" : "Create Account");
     });
 
-    var box = ensureStatus();
-    if (!box) return;
-    box.replaceChildren();
+    var oldStatus = document.getElementById("rjd-auth-status");
+    if (oldStatus) oldStatus.remove();
+
+    var chip = ensureAccountChip();
+    if (!chip) return;
+    chip.replaceChildren();
+    chip.style.cssText = "margin-left:auto;display:flex;align-items:center;justify-content:flex-end;gap:8px;flex-wrap:wrap;max-width:100%;font:600 13px/1.35 Inter,Arial,sans-serif;";
     if (!user) {
-      var login = document.createElement("a");
-      login.href = loginUrl();
-      login.textContent = "🔐 Login";
-      login.style.cssText = "color:#1d4ed8;text-decoration:none;font-weight:700";
-      box.appendChild(login);
+      var login = makeLink("🔐 Login", loginUrl());
+      chip.appendChild(login);
       return;
     }
 
-    var label = document.createElement("span");
-    label.textContent = "✓ Logged in: " + (user.email || user.user_metadata?.full_name || "My account");
-    label.style.cssText = "overflow-wrap:anywhere";
-    box.appendChild(label);
-
-    var account = document.createElement("a");
-    account.href = accountUrl();
-    account.textContent = "My Account";
-    account.style.cssText = "color:#1d4ed8;text-decoration:underline;white-space:nowrap";
-    box.appendChild(account);
+    var identity = document.createElement("a");
+    identity.href = accountUrl();
+    identity.style.cssText = "display:flex;align-items:center;gap:8px;max-width:100%;padding:7px 10px;border:1px solid #dbe3ef;border-radius:12px;background:#fff;color:#172554;text-decoration:none;box-shadow:0 2px 8px rgba(15,23,42,.04)";
+    var avatar = document.createElement("span");
+    avatar.textContent = "♙";
+    avatar.setAttribute("aria-hidden", "true");
+    avatar.style.cssText = "display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;flex:0 0 34px;border-radius:9px;background:#172b49;color:#fff;font-size:18px";
+    var details = document.createElement("span");
+    details.style.cssText = "display:flex;flex-direction:column;min-width:0;max-width:190px";
+    var name = document.createElement("strong");
+    name.textContent = user.user_metadata?.full_name || user.user_metadata?.name || (user.email ? user.email.split("@")[0] : "My Account");
+    name.style.cssText = "overflow:hidden;text-overflow:ellipsis;white-space:nowrap";
+    var email = document.createElement("small");
+    email.textContent = user.email || "";
+    email.style.cssText = "font-size:11px;font-weight:500;color:#64748b;overflow:hidden;text-overflow:ellipsis;white-space:nowrap";
+    details.appendChild(name);
+    details.appendChild(email);
+    var arrow = document.createElement("span");
+    arrow.textContent = "⌄";
+    arrow.style.cssText = "color:#64748b;margin-left:3px";
+    identity.appendChild(avatar);
+    identity.appendChild(details);
+    identity.appendChild(arrow);
+    chip.appendChild(identity);
 
     var logout = document.createElement("button");
     logout.type = "button";
     logout.textContent = "Logout";
-    logout.style.cssText = "border:0;border-radius:6px;padding:5px 8px;background:#fee2e2;color:#991b1b;font-weight:700;cursor:pointer";
+    logout.style.cssText = "border:0;border-radius:7px;padding:7px 9px;background:#fee2e2;color:#991b1b;font-weight:700;cursor:pointer";
     logout.addEventListener("click", async function () {
       logout.disabled = true;
       logout.textContent = "Logging out…";
@@ -99,45 +122,4 @@
         alert("Logout नहीं हो पाया। कृपया फिर से कोशिश करें।");
       }
     });
-    box.appendChild(logout);
-  }
-
-  async function bootAuthNav() {
-    try {
-      if (!window.supabase) {
-        await loadScript("https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2");
-      }
-      if (!window.ROJGARDWAAR_SUPABASE) {
-        await loadScript(siteRoot + "/js/supabase-config.js");
-      }
-      var config = window.ROJGARDWAAR_SUPABASE || {};
-      if (!window.supabase || !config.url || !config.anonKey) {
-        updateAuthNav(null);
-        return;
-      }
-      client = window.supabase.createClient(config.url, config.anonKey, {
-        auth: {
-          persistSession: true,
-          autoRefreshToken: true,
-          detectSessionInUrl: true,
-          storage: window.localStorage,
-          storageKey: "rojgardwaar-auth"
-        }
-      });
-      var result = await client.auth.getSession();
-      updateAuthNav(result && result.data ? result.data.session?.user : null);
-      client.auth.onAuthStateChange(function (_event, session) {
-        updateAuthNav(session ? session.user : null);
-      });
-    } catch (err) {
-      console.warn("Auth navigation update failed", err);
-      updateAuthNav(null);
-    }
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", bootAuthNav);
-  } else {
-    bootAuthNav();
-  }
-})();
+    chip.appendChild(logout);
