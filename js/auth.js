@@ -110,7 +110,7 @@ async function loginUser(event) {
   const password=document.getElementById("password").value;
   const {error}=await supabaseClient.auth.signInWithPassword({email,password});
   if(error) return showMsg(error.message,"error");
-  window.location.href="./account.html";
+  window.location.href=getSafeRedirect();
 }
 
 function switchLoginMode(mode) {
@@ -151,7 +151,7 @@ async function verifyLoginOtp(event) {
   const {data,error}=await supabaseClient.auth.verifyOtp({email,token,type:"email"});
   if(error) return showMsg(error.message,"error");
   showMsg("Login successful. Redirecting...","success");
-  setTimeout(()=>{ window.location.href="./account.html"; },300);
+  setTimeout(()=>{ window.location.href=getSafeRedirect(); },300);
 }
 
 async function loadAccount(retry=0) {
