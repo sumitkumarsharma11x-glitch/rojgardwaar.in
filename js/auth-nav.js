@@ -10,19 +10,22 @@
 
   function loadScript(src) {
     return new Promise(function (resolve, reject) {
-      var existing = Array.from(document.scripts).find(function (s) { return s.src === src; });
+      var existing = Array.from(document.scripts).find(function (s) {
+        return s.src === src || s.src.split("?")[0] === src.split("?")[0];
+      });
+      var ready = src.indexOf("supabase-js") !== -1
+        ? !!window.supabase
+        : !!window.ROJGARDWAAR_SUPABASE;
+      if (ready) return resolve();
       if (existing) {
-        if (existing.dataset.loaded === "true") return resolve();
         existing.addEventListener("load", resolve, { once: true });
         existing.addEventListener("error", reject, { once: true });
-        if (existing.dataset.loading !== "true") resolve();
         return;
       }
       var s = document.createElement("script");
       s.src = src;
       s.async = true;
-      s.dataset.loading = "true";
-      s.onload = function () { s.dataset.loaded = "true"; resolve(); };
+      s.onload = resolve;
       s.onerror = reject;
       document.head.appendChild(s);
     });
