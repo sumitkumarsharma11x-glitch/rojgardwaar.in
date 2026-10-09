@@ -23,7 +23,7 @@
       <a href="./pages/about.html">● <span>About</span></a>
       <a href="./pages/contact.html">✉ <span>Contact</span></a>
     </nav>
-    <button type="button" class="mobile-menu-btn" id="refMenuBtn" aria-label="Open menu" aria-controls="refMenu" aria-expanded="false">☰</button>
+    <button type="button" class="mobile-menu-btn" id="refMenuBtn" aria-label="Open menu" aria-controls="refMenu" aria-expanded="false" onclick="toggleRailwayMenu()"> <span aria-hidden="true">☰</span> </button>
   </div>
   <div class="mobile-ref-menu" id="refMenu">
     <a href="./index.html">⌂ Home</a><a href="./mock-test.html">▤ Mock Test</a><a class="active" href="./railway-exams.html">🚆 Railway Exams</a><a href="./ssc.html">▰ SSC</a><a href="./pages/about.html">● About</a><a href="./pages/contact.html">✉ Contact</a>
@@ -90,31 +90,32 @@
 </section>
 </main>
 <script>
+function toggleRailwayMenu() {
+  const button = document.getElementById("refMenuBtn");
+  const menu = document.getElementById("refMenu");
+  if (!button || !menu) return;
+  const open = button.getAttribute("aria-expanded") !== "true";
+  menu.classList.toggle("show", open);
+  button.setAttribute("aria-expanded", String(open));
+  button.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+}
 (function () {
   const button = document.getElementById("refMenuBtn");
   const menu = document.getElementById("refMenu");
   if (!button || !menu) return;
-
-  function setMenuOpen(open) {
-    menu.classList.toggle("show", open);
-    button.setAttribute("aria-expanded", String(open));
-    button.setAttribute("aria-label", open ? "Close menu" : "Open menu");
-  }
-
-  button.addEventListener("click", function () {
-    setMenuOpen(button.getAttribute("aria-expanded") !== "true");
-  });
-
   document.addEventListener("keydown", function (event) {
-    if (event.key === "Escape") setMenuOpen(false);
+    if (event.key === "Escape") {
+      menu.classList.remove("show");
+      button.setAttribute("aria-expanded", "false");
+      button.setAttribute("aria-label", "Open menu");
+    }
   });
-
-  document.addEventListener("click", function (event) {
-    if (!menu.contains(event.target) && !button.contains(event.target)) setMenuOpen(false);
-  });
-
   menu.querySelectorAll("a").forEach(function (link) {
-    link.addEventListener("click", function () { setMenuOpen(false); });
+    link.addEventListener("click", function () {
+      menu.classList.remove("show");
+      button.setAttribute("aria-expanded", "false");
+      button.setAttribute("aria-label", "Open menu");
+    });
   });
 })();
 </script>
