@@ -145,7 +145,20 @@ a:focus-visible {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: clamp(14px, 2vw, 28px);
   height: 64px;
+}
+
+.header-inner > .logo {
+  flex: 0 0 auto;
+  margin-right: 4px;
+  white-space: nowrap;
+}
+
+.header-inner > .main-nav {
+  flex: 0 1 auto;
+  min-width: 0;
+  margin-left: 4px;
 }
 
 .logo {
