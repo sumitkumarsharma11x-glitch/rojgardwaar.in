@@ -23,10 +23,12 @@
       <a href="./pages/about.html">● <span>About</span></a>
       <a href="./pages/contact.html">✉ <span>Contact</span></a>
     </nav>
-    <button type="button" class="mobile-menu-btn" id="refMenuBtn" aria-label="Open menu" aria-controls="refMenu" aria-expanded="false"> <span aria-hidden="true">☰</span> </button>
-  </div>
-  <div class="mobile-ref-menu" id="refMenu">
-    <a href="./index.html">⌂ Home</a><a href="./mock-test.html">▤ Mock Test</a><a class="active" href="./railway-exams.html">🚆 Railway Exams</a><a href="./ssc.html">▰ SSC</a><a href="./pages/about.html">● About</a><a href="./pages/contact.html">✉ Contact</a>
+    <details class="mobile-menu-disclosure">
+      <summary aria-label="Open navigation menu"><span aria-hidden="true">☰</span></summary>
+      <nav class="mobile-ref-menu" aria-label="Mobile navigation">
+        <a href="./index.html">⌂ Home</a><a href="./mock-test.html">▤ Mock Test</a><a class="active" href="./railway-exams.html">🚆 Railway Exams</a><a href="./ssc.html">▰ SSC</a><a href="./pages/about.html">● About</a><a href="./pages/contact.html">✉ Contact</a>
+      </nav>
+    </details>
   </div>
 </header>
 
@@ -89,44 +91,5 @@
  </div></div>
 </section>
 </main>
-<script>
-(function () {
-  function initRailwayMenu() {
-    var button = document.getElementById("refMenuBtn");
-    var menu = document.getElementById("refMenu");
-    if (!button || !menu || button.dataset.menuReady === "true") return;
-    button.dataset.menuReady = "true";
 
-    function setOpen(open) {
-      menu.classList.toggle("show", open);
-      button.setAttribute("aria-expanded", open ? "true" : "false");
-      button.setAttribute("aria-label", open ? "Close menu" : "Open menu");
-    }
-
-    button.addEventListener("click", function (event) {
-      event.preventDefault();
-      event.stopPropagation();
-      setOpen(button.getAttribute("aria-expanded") !== "true");
-    });
-
-    menu.addEventListener("click", function (event) {
-      if (event.target.closest("a")) setOpen(false);
-    });
-
-    document.addEventListener("click", function (event) {
-      if (!menu.contains(event.target) && !button.contains(event.target)) setOpen(false);
-    });
-
-    document.addEventListener("keydown", function (event) {
-      if (event.key === "Escape") setOpen(false);
-    });
-  }
-
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initRailwayMenu);
-  } else {
-    initRailwayMenu();
-  }
-})();
-</script>
 <footer class="site-footer"><div class="container"><p><a href="./index.html">Home</a> · <a href="./science/index.html">Science</a> · <a href="./railway-exams.html">Railway</a> · <a href="./pages/about.html">About</a> · <a href="./pages/contact.html">Contact</a> · <a href="./pages/privacy-policy.html">Privacy Policy</a> · <a href="./pages/terms.html">Terms</a> · <a href="./pages/disclaimer.html">Disclaimer</a></p><p>© 2026 RojgarDwaar</p></div></footer></body></html>
