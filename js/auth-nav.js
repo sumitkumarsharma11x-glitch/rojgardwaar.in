@@ -79,6 +79,11 @@
   }
 
   function render(user) {
+    // account.html has its own profile control and logout actions; avoid injecting a second chip.
+    if (document.querySelector(".dashboard-profile-mini")) {
+      document.body.classList.toggle("rjd-logged-in", !!user);
+      return;
+    }
     var host = getHost();
     if (!host) return;
     injectStyle();
