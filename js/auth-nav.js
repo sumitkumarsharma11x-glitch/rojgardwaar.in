@@ -31,7 +31,7 @@
   function ensureAccountChip() {
     accountChip = document.getElementById("rjd-account-chip");
     if (accountChip) return accountChip;
-    var host = document.querySelector(".header-inner, .header-row, .rjd-site-header__inner");
+    var host = document.querySelector(".header-inner, .header-row, .rjd-site-header__inner") || document.querySelector("header");
     if (!host) return null;
     accountChip = document.createElement("div");
     accountChip.id = "rjd-account-chip";
