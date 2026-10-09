@@ -32,7 +32,7 @@
     if (!client) throw new Error("Payment system is not configured.");
     const { data, error } = await client.auth.getSession();
     if (error || !data.session) {
-      const back = encodeURIComponent(location.pathname.split("/").pop() + location.search);
+      const back = encodeURIComponent("./" + location.pathname.split("/").pop() + location.search);
       location.href = "./login.html?redirect=" + back;
       throw new Error("Login required.");
     }
