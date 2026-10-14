@@ -15,7 +15,11 @@
       '10th Pass': 1,
       '12th Pass': 2,
       'Graduation': 3,
-      'Post-Graduation': 4
+      'Post-Graduation': 4,
+      'ITI': 1,
+      'Diploma': 2,
+      'B.E. / B.Tech': 3,
+      'Professional Qualification': 2
     }
   };
 
@@ -45,7 +49,10 @@
     menuToggle: document.getElementById('menuToggle'),
     dobError: document.getElementById('dobError'),
     categoryError: document.getElementById('categoryError'),
-    qualificationError: document.getElementById('qualificationError')
+    qualificationError: document.getElementById('qualificationError'),
+    examCategorySelect: document.getElementById('examCategory'),
+    tradeGroup: document.getElementById('tradeGroup'),
+    tradeSelect: document.getElementById('itiTrade')
   };
 
   // ============================================
@@ -99,7 +106,8 @@
    * @returns {string} Formatted date
    */
   function formatDate(dateString) {
-    const date = new Date(dateString);
+    const parts = String(dateString || '').split('-').map(Number);
+    const date = parts.length === 3 ? new Date(parts[0], parts[1] - 1, parts[2]) : new Date(dateString);
     return date.toLocaleDateString('en-IN', {
       day: 'numeric',
       month: 'long',
@@ -127,6 +135,20 @@
   function checkQualification(userQualification, exam) {
     const userLevel = CONFIG.qualificationLevels[userQualification] || 0;
     const examLevel = exam.qualificationLevel || (CONFIG.qualificationLevels[exam.qualification] || 0);
+
+    const acceptedQualifications = exam.acceptedQualifications || [exam.qualification];
+    if (acceptedQualifications.includes(userQualification)) {
+      return { met: true, reason: 'Qualification matches an accepted option' };
+    }
+    if (userQualification === 'ITI' && examLevel === 1) {
+      return { met: true, reason: 'ITI may satisfy some matriculation-level posts; verify the notification' };
+    }
+    if (userQualification === 'Diploma' && examLevel === 2) {
+      return { met: true, reason: 'Diploma may satisfy some 12th/diploma-level posts; verify the notification' };
+    }
+    if (userQualification === 'B.E. / B.Tech' && examLevel === 3) {
+      return { met: true, reason: 'Engineering degree meets the configured graduate-level threshold; verify post-specific rules' };
+    }
 
     // Special case: Some exams have specific qualification requirements
     if (exam.qualification && exam.qualification !== userQualification) {
@@ -567,11 +589,22 @@
     const dob = elements.dobInput.value;
     const category = elements.categorySelect.value;
     const qualification = elements.qualificationSelect.value;
-
-    // Calculate results for each exam
-    currentResults = examData.exams.map(exam => {
+    const examCategory = elements.examCategorySelect?.value || 'all';
+    const selectedTrade = elements.tradeSelect?.value || '';
+    const selectedExams = examData.exams.filter(exam => examCategory === 'all' || exam.examCategory === examCategory || exam.examCategory === 'all');
+    currentResults = selectedExams.map(exam => {
       const age = calculateAge(dob, exam.ageCutoffDate);
-      return determineEligibility(exam, age, category, qualification);
+      const result = determineEligibility(exam, age, category, qualification);
+      if (exam.itiTrades && qualification === 'ITI') {
+        if (!selectedTrade) {
+          result.status = 'Verification Required'; result.statusType = 'verification';
+          result.explanation = 'Select your ITI trade and verify the official notification.';
+        } else if (!exam.itiTrades.includes(selectedTrade)) {
+          result.status = 'Qualification Not Met'; result.statusType = 'qualification';
+          result.explanation = 'This configured post does not list the selected trade. Verify the official notification.';
+        }
+      }
+      return result;
     });
 
     // Sort: Eligible first, then by name
@@ -583,7 +616,7 @@
         'qualification': 3,
         'over-age': 4
       };
-      const diff = (priority[a.statusType] || 5) - (priority[b.statusType] || 5);
+      const diff = (priority[a.statusType] ?? 5) - (priority[b.statusType] ?? 5);
       if (diff !== 0) return diff;
       return a.exam.exam.localeCompare(b.exam.exam);
     });
@@ -615,6 +648,7 @@
         Object.assign(CONFIG.qualificationLevels, examData.qualificationHierarchy);
       }
 
+      if (!Array.isArray(examData.exams)) throw new Error('Exam database format is invalid');
       console.log(`✅ Loaded ${examData.exams.length} exams`);
     } catch (error) {
       console.error('Error loading exam data:', error);
@@ -641,7 +675,16 @@
     // Clear errors on input
     elements.dobInput.addEventListener('input', () => hideError(elements.dobError));
     elements.categorySelect.addEventListener('change', () => hideError(elements.categoryError));
-    elements.qualificationSelect.addEventListener('change', () => hideError(elements.qualificationError));
+    elements.qualificationSelect.addEventListener('change', () => {
+      hideError(elements.qualificationError);
+      if (elements.tradeGroup) elements.tradeGroup.hidden = elements.qualificationSelect.value !== 'ITI';
+    });
+    elements.examCategorySelect?.addEventListener('change', () => {
+      if (elements.resultsSection.classList.contains('visible')) processScan();
+    });
+    elements.tradeSelect?.addEventListener('change', () => {
+      if (elements.resultsSection.classList.contains('visible')) processScan();
+    });
 
     // Mobile menu toggle
     elements.menuToggle.addEventListener('click', function() {
@@ -690,7 +733,8 @@
     initEventListeners();
 
     // Set max date for DOB input to today
-    const today = new Date().toISOString().split('T')[0];
+    const now = new Date();
+    const today = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
     elements.dobInput.setAttribute('max', today);
 
     console.log('🚀 ROJGARDWAAR.IN Eligibility Matrix initialized');
