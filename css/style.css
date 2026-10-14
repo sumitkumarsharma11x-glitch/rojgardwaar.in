@@ -1150,3 +1150,6 @@ input[type="date"] {
     border-width: 2px;
   }
 }
+
+/* Eligibility calculator extension */
+.results-section{display:none;margin-top:2rem;scroll-margin-top:1rem}.results-section.visible{display:block}.results-header{margin-bottom:1rem}.results-header h2{margin-bottom:.4rem}.results-header p,.eligibility-disclaimer,.form-help{color:var(--text-muted);font-size:.875rem;line-height:1.55}.no-results{padding:1rem;margin:1rem 0;border:1px solid var(--border-color);border-radius:var(--radius);background:var(--surface-secondary)}.results-section .exam-table-wrapper{overflow-x:auto}.results-section .exam-table{min-width:1050px}.results-section .filter-tabs{flex-wrap:wrap}.results-section .filter-tab{margin:.2rem}.form-group[hidden]{display:none!important}.eligibility-disclaimer{margin-top:1.25rem;padding:1rem;border-left:3px solid var(--warning);background:var(--warning-bg);border-radius:var(--radius)}
