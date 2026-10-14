@@ -140,23 +140,25 @@
     if (acceptedQualifications.includes(userQualification)) {
       return { met: true, reason: 'Qualification matches an accepted option' };
     }
-    if (userQualification === 'ITI' && examLevel === 1) {
-      return { met: true, reason: 'ITI may satisfy some matriculation-level posts; verify the notification' };
-    }
-    if (userQualification === 'Diploma' && examLevel === 2) {
-      return { met: true, reason: 'Diploma may satisfy some 12th/diploma-level posts; verify the notification' };
-    }
-    if (userQualification === 'B.E. / B.Tech' && examLevel === 3) {
-      return { met: true, reason: 'Engineering degree meets the configured graduate-level threshold; verify post-specific rules' };
+
+    // Only academic qualifications use the general minimum-level comparison.
+    // ITI, Diploma and professional certificates are not treated as interchangeable
+    // with school/degree qualifications unless an exam explicitly accepts them.
+    const academicLevels = {
+      '10th Pass': 1,
+      '12th Pass': 2,
+      'Graduation': 3,
+      'B.E. / B.Tech': 3,
+      'Post-Graduation': 4
+    };
+    const userAcademicLevel = academicLevels[userQualification] || 0;
+    const requiredAcademicLevel = academicLevels[exam.qualification] || 0;
+    if (userAcademicLevel > 0 && requiredAcademicLevel > 0 && userAcademicLevel >= requiredAcademicLevel) {
+      return { met: true, reason: 'Academic qualification meets the configured minimum level; verify post-specific rules' };
     }
 
-    // Special case: Some exams have specific qualification requirements
     if (exam.qualification && exam.qualification !== userQualification) {
-      // Check if user's qualification is higher
-      if (userLevel >= examLevel) {
-        return { met: true, reason: 'Higher qualification accepted' };
-      }
-      return { met: false, reason: `Requires ${exam.qualification}` };
+      return { met: false, reason: `Requires ${exam.qualification}; check whether your qualification is explicitly accepted` };
     }
 
     return { met: true, reason: 'Qualification matches' };
