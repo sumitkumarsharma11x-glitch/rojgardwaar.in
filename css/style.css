@@ -1191,3 +1191,32 @@ input[type="date"] {
   .results-section .summary-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .results-section .filter-tab { flex: 0 1 auto; font-size: .8rem; padding: .55rem .7rem; }
 }
+
+
+/* Final results UX: first result must be readable without horizontal scrolling
+   on both desktop and mobile. Keep the existing table markup for fallback, but
+   always display the existing result cards instead. */
+html, body { max-width: 100%; overflow-x: clip; }
+.results-section, #resultsSection { display: block; width: 100%; max-width: 100%; min-width: 0; }
+.results-section .exam-table-wrapper { display: none !important; }
+.results-section .exam-cards { display: flex !important; flex-direction: column !important; width: 100%; max-width: 100%; min-width: 0; gap: 1rem; }
+.results-section .exam-card { display: block; width: 100%; max-width: 100%; min-width: 0; height: auto !important; margin: 0; padding: 1rem; overflow: visible; }
+.results-section .exam-card-header { display: flex; align-items: flex-start; justify-content: space-between; gap: .75rem; flex-wrap: wrap; }
+.results-section .exam-card-title { min-width: 0; flex: 1 1 220px; overflow-wrap: anywhere; }
+.results-section .exam-card-details { display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: .75rem; width: 100%; min-width: 0; }
+.results-section .exam-detail { min-width: 0; }
+.results-section .exam-detail-value, .results-section .exam-card-explanation, .results-section .exam-card-org { max-width: 100%; overflow-wrap: anywhere; }
+.results-section .exam-card-actions { display: flex; flex-wrap: wrap; gap: .6rem; }
+.results-section .exam-card-actions a { flex: 1 1 140px; min-width: 0; text-align: center; justify-content: center; white-space: normal; }
+.results-section .filter-tabs { display: flex; flex-wrap: wrap; gap: .5rem; max-width: 100%; }
+.results-section .filter-tab { white-space: normal; max-width: 100%; }
+@media (min-width: 768px) {
+  .results-section .exam-cards { display: grid !important; grid-template-columns: minmax(0, 1fr) !important; }
+  .results-section .exam-card { max-width: 100%; }
+}
+@media (max-width: 480px) {
+  .results-section .exam-card { padding: .9rem; border-radius: 14px; }
+  .results-section .exam-card-details { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; gap: .7rem .6rem; }
+  .results-section .exam-card-actions a { flex-basis: 100%; }
+  .results-section .summary-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
