@@ -303,7 +303,7 @@
 
   function parseDobInput(value) {
     const text = String(value || '').trim();
-    let match = text.match(/^(\\d{1,2})[-/.](\\d{1,2})[-/.](\\d{4})$/);
+    let match = text.match(/^(\d{1,2})[-/.](\d{1,2})[-/.](\d{4})$/);
     let year, month, day;
     if (match) { day = Number(match[1]); month = Number(match[2]); year = Number(match[3]); }
     else { match = text.match(/^(\\d{4})-(\\d{1,2})-(\\d{1,2})$/); if (!match) return null; year = Number(match[1]); month = Number(match[2]); day = Number(match[3]); }
