@@ -301,6 +301,18 @@
     element.previousElementSibling?.classList.remove('error');
   }
 
+  function parseDobInput(value) {
+    const text = String(value || '').trim();
+    let match = text.match(/^(\\d{1,2})[-/.](\\d{1,2})[-/.](\\d{4})$/);
+    let year, month, day;
+    if (match) { day = Number(match[1]); month = Number(match[2]); year = Number(match[3]); }
+    else { match = text.match(/^(\\d{4})-(\\d{1,2})-(\\d{1,2})$/); if (!match) return null; year = Number(match[1]); month = Number(match[2]); day = Number(match[3]); }
+    const date = new Date(year, month - 1, day);
+    if (date.getFullYear() !== year || date.getMonth() !== month - 1 || date.getDate() !== day) return null;
+    date.setHours(0,0,0,0); const today = new Date(); today.setHours(0,0,0,0);
+    return date <= today ? date : null;
+  }
+
   /**
    * Validate form
    * @returns {boolean} Is valid
@@ -316,8 +328,8 @@
       showError(elements.dobError, 'Please enter your date of birth.');
       isValid = false;
     } else {
-      const dob = new Date(dobValue);
-      if (isNaN(dob.getTime())) {
+      const dob = parseDobInput(dobValue);
+      if (!dob) {
         showError(elements.dobError, 'Please enter a valid date of birth.');
         isValid = false;
       } else if (dob > today) {
@@ -597,7 +609,8 @@
     // Small delay for UX feedback
     await new Promise(resolve => setTimeout(resolve, 600));
 
-    const dob = elements.dobInput.value;
+    const parsedDob = parseDobInput(elements.dobInput.value);
+    const dob = `${parsedDob.getFullYear()}-${String(parsedDob.getMonth()+1).padStart(2,'0')}-${String(parsedDob.getDate()).padStart(2,'0')}`;
     const category = elements.categorySelect.value;
     const qualification = elements.qualificationSelect.value;
     const examCategory = elements.examCategorySelect?.value || 'all';
@@ -744,9 +757,7 @@
     initEventListeners();
 
     // Set max date for DOB input to today
-    const now = new Date();
-    const today = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
-    elements.dobInput.setAttribute('max', today);
+    // DOB picker supports DD-MM-YYYY text entry and its own date validation.
 
     console.log('🚀 ROJGARDWAAR.IN Eligibility Matrix initialized');
   }
