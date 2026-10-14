@@ -306,7 +306,7 @@
     let match = text.match(/^(\d{1,2})[-/.](\d{1,2})[-/.](\d{4})$/);
     let year, month, day;
     if (match) { day = Number(match[1]); month = Number(match[2]); year = Number(match[3]); }
-    else { match = text.match(/^(\\d{4})-(\\d{1,2})-(\\d{1,2})$/); if (!match) return null; year = Number(match[1]); month = Number(match[2]); day = Number(match[3]); }
+    else { match = text.match(/^(\d{4})-(\d{1,2})-(\d{1,2})$/); if (!match) return null; year = Number(match[1]); month = Number(match[2]); day = Number(match[3]); }
     const date = new Date(year, month - 1, day);
     if (date.getFullYear() !== year || date.getMonth() !== month - 1 || date.getDate() !== day) return null;
     date.setHours(0,0,0,0); const today = new Date(); today.setHours(0,0,0,0);
