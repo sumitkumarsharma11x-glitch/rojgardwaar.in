@@ -197,6 +197,15 @@
       return result;
     }
 
+    // Some technical entries are intentionally screening-only until their current
+    // notification has been verified. Never infer age eligibility from placeholders.
+    if (exam.ageRulesUnknown) {
+      result.status = 'Verification Required';
+      result.statusType = 'verification';
+      result.explanation = exam.verificationReason || 'Age cutoff and eligibility rules must be verified in the current official notification.';
+      return result;
+    }
+
     // Check minimum age
     if (age.decimalAge < exam.minAge) {
       result.status = 'Check Official Notification';
@@ -449,11 +458,11 @@
         <div class="exam-card-details">
           <div class="exam-detail">
             <span class="exam-detail-label">Min Age</span>
-            <span class="exam-detail-value">${r.exam.minAge} years</span>
+            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.minAge} years`}</span>
           </div>
           <div class="exam-detail">
             <span class="exam-detail-label">Max Age</span>
-            <span class="exam-detail-value">${r.exam.maxAge} years</span>
+            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.maxAge} years`}</span>
           </div>
           <div class="exam-detail">
             <span class="exam-detail-label">Your Age</span>
@@ -461,7 +470,7 @@
           </div>
           <div class="exam-detail">
             <span class="exam-detail-label">Cutoff Date</span>
-            <span class="exam-detail-value">${formatDate(r.exam.ageCutoffDate)}</span>
+            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Notification-specific" : formatDate(r.exam.ageCutoffDate)}</span>
           </div>
           ${r.relaxation > 0 ? `
           <div class="exam-detail">
@@ -523,10 +532,10 @@
           <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem;">${r.exam.description}</div>
         </td>
         <td class="exam-org-cell">${r.exam.organization}</td>
-        <td>${r.exam.minAge} - ${r.exam.maxAge} yrs</td>
+        <td>${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.minAge} - ${r.exam.maxAge} yrs`}</td>
         <td>
           <strong>${r.age.shortFormatted}</strong>
-          <div style="font-size: 0.75rem; color: var(--text-muted);">as of ${formatDate(r.exam.ageCutoffDate)}</div>
+          <div style="font-size: 0.75rem; color: var(--text-muted);">as of ${r.exam.ageRulesUnknown ? "notification-specific date" : formatDate(r.exam.ageCutoffDate)}</div>
         </td>
         <td>
           ${r.relaxation > 0 ? `+${r.relaxation} yrs (${elements.categorySelect.value})` : 'None'}
