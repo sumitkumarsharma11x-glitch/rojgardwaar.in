@@ -15,7 +15,11 @@
       '10th Pass': 1,
       '12th Pass': 2,
       'Graduation': 3,
-      'Post-Graduation': 4
+      'Post-Graduation': 4,
+      'ITI': 1,
+      'Diploma': 2,
+      'B.E. / B.Tech': 3,
+      'Professional Qualification': 2
     }
   };
 
@@ -45,7 +49,10 @@
     menuToggle: document.getElementById('menuToggle'),
     dobError: document.getElementById('dobError'),
     categoryError: document.getElementById('categoryError'),
-    qualificationError: document.getElementById('qualificationError')
+    qualificationError: document.getElementById('qualificationError'),
+    examCategorySelect: document.getElementById('examCategory'),
+    tradeGroup: document.getElementById('tradeGroup'),
+    tradeSelect: document.getElementById('itiTrade')
   };
 
   // ============================================
@@ -99,7 +106,8 @@
    * @returns {string} Formatted date
    */
   function formatDate(dateString) {
-    const date = new Date(dateString);
+    const parts = String(dateString || '').split('-').map(Number);
+    const date = parts.length === 3 ? new Date(parts[0], parts[1] - 1, parts[2]) : new Date(dateString);
     return date.toLocaleDateString('en-IN', {
       day: 'numeric',
       month: 'long',
@@ -128,13 +136,29 @@
     const userLevel = CONFIG.qualificationLevels[userQualification] || 0;
     const examLevel = exam.qualificationLevel || (CONFIG.qualificationLevels[exam.qualification] || 0);
 
-    // Special case: Some exams have specific qualification requirements
+    const acceptedQualifications = exam.acceptedQualifications || [exam.qualification];
+    if (acceptedQualifications.includes(userQualification)) {
+      return { met: true, reason: 'Qualification matches an accepted option' };
+    }
+
+    // Only academic qualifications use the general minimum-level comparison.
+    // ITI, Diploma and professional certificates are not treated as interchangeable
+    // with school/degree qualifications unless an exam explicitly accepts them.
+    const academicLevels = {
+      '10th Pass': 1,
+      '12th Pass': 2,
+      'Graduation': 3,
+      'B.E. / B.Tech': 3,
+      'Post-Graduation': 4
+    };
+    const userAcademicLevel = academicLevels[userQualification] || 0;
+    const requiredAcademicLevel = academicLevels[exam.qualification] || 0;
+    if (userAcademicLevel > 0 && requiredAcademicLevel > 0 && userAcademicLevel >= requiredAcademicLevel) {
+      return { met: true, reason: 'Academic qualification meets the configured minimum level; verify post-specific rules' };
+    }
+
     if (exam.qualification && exam.qualification !== userQualification) {
-      // Check if user's qualification is higher
-      if (userLevel >= examLevel) {
-        return { met: true, reason: 'Higher qualification accepted' };
-      }
-      return { met: false, reason: `Requires ${exam.qualification}` };
+      return { met: false, reason: `Requires ${exam.qualification}; check whether your qualification is explicitly accepted` };
     }
 
     return { met: true, reason: 'Qualification matches' };
@@ -170,6 +194,15 @@
       result.status = 'Qualification Not Met';
       result.statusType = 'qualification';
       result.explanation = `Your qualification (${qualification}) does not meet the requirement of ${exam.qualification}.`;
+      return result;
+    }
+
+    // Some technical entries are intentionally screening-only until their current
+    // notification has been verified. Never infer age eligibility from placeholders.
+    if (exam.ageRulesUnknown) {
+      result.status = 'Verification Required';
+      result.statusType = 'verification';
+      result.explanation = exam.verificationReason || 'Age cutoff and eligibility rules must be verified in the current official notification.';
       return result;
     }
 
@@ -425,11 +458,11 @@
         <div class="exam-card-details">
           <div class="exam-detail">
             <span class="exam-detail-label">Min Age</span>
-            <span class="exam-detail-value">${r.exam.minAge} years</span>
+            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.minAge} years`}</span>
           </div>
           <div class="exam-detail">
             <span class="exam-detail-label">Max Age</span>
-            <span class="exam-detail-value">${r.exam.maxAge} years</span>
+            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.maxAge} years`}</span>
           </div>
           <div class="exam-detail">
             <span class="exam-detail-label">Your Age</span>
@@ -437,7 +470,7 @@
           </div>
           <div class="exam-detail">
             <span class="exam-detail-label">Cutoff Date</span>
-            <span class="exam-detail-value">${formatDate(r.exam.ageCutoffDate)}</span>
+            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Notification-specific" : formatDate(r.exam.ageCutoffDate)}</span>
           </div>
           ${r.relaxation > 0 ? `
           <div class="exam-detail">
@@ -499,10 +532,10 @@
           <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem;">${r.exam.description}</div>
         </td>
         <td class="exam-org-cell">${r.exam.organization}</td>
-        <td>${r.exam.minAge} - ${r.exam.maxAge} yrs</td>
+        <td>${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.minAge} - ${r.exam.maxAge} yrs`}</td>
         <td>
           <strong>${r.age.shortFormatted}</strong>
-          <div style="font-size: 0.75rem; color: var(--text-muted);">as of ${formatDate(r.exam.ageCutoffDate)}</div>
+          <div style="font-size: 0.75rem; color: var(--text-muted);">as of ${r.exam.ageRulesUnknown ? "notification-specific date" : formatDate(r.exam.ageCutoffDate)}</div>
         </td>
         <td>
           ${r.relaxation > 0 ? `+${r.relaxation} yrs (${elements.categorySelect.value})` : 'None'}
@@ -567,11 +600,22 @@
     const dob = elements.dobInput.value;
     const category = elements.categorySelect.value;
     const qualification = elements.qualificationSelect.value;
-
-    // Calculate results for each exam
-    currentResults = examData.exams.map(exam => {
+    const examCategory = elements.examCategorySelect?.value || 'all';
+    const selectedTrade = elements.tradeSelect?.value || '';
+    const selectedExams = examData.exams.filter(exam => examCategory === 'all' || exam.examCategory === examCategory || exam.examCategory === 'all');
+    currentResults = selectedExams.map(exam => {
       const age = calculateAge(dob, exam.ageCutoffDate);
-      return determineEligibility(exam, age, category, qualification);
+      const result = determineEligibility(exam, age, category, qualification);
+      if (exam.itiTrades && qualification === 'ITI') {
+        if (!selectedTrade) {
+          result.status = 'Verification Required'; result.statusType = 'verification';
+          result.explanation = 'Select your ITI trade and verify the official notification.';
+        } else if (!exam.itiTrades.includes(selectedTrade)) {
+          result.status = 'Qualification Not Met'; result.statusType = 'qualification';
+          result.explanation = 'This configured post does not list the selected trade. Verify the official notification.';
+        }
+      }
+      return result;
     });
 
     // Sort: Eligible first, then by name
@@ -583,7 +627,7 @@
         'qualification': 3,
         'over-age': 4
       };
-      const diff = (priority[a.statusType] || 5) - (priority[b.statusType] || 5);
+      const diff = (priority[a.statusType] ?? 5) - (priority[b.statusType] ?? 5);
       if (diff !== 0) return diff;
       return a.exam.exam.localeCompare(b.exam.exam);
     });
@@ -615,6 +659,7 @@
         Object.assign(CONFIG.qualificationLevels, examData.qualificationHierarchy);
       }
 
+      if (!Array.isArray(examData.exams)) throw new Error('Exam database format is invalid');
       console.log(`✅ Loaded ${examData.exams.length} exams`);
     } catch (error) {
       console.error('Error loading exam data:', error);
@@ -641,7 +686,16 @@
     // Clear errors on input
     elements.dobInput.addEventListener('input', () => hideError(elements.dobError));
     elements.categorySelect.addEventListener('change', () => hideError(elements.categoryError));
-    elements.qualificationSelect.addEventListener('change', () => hideError(elements.qualificationError));
+    elements.qualificationSelect.addEventListener('change', () => {
+      hideError(elements.qualificationError);
+      if (elements.tradeGroup) elements.tradeGroup.hidden = elements.qualificationSelect.value !== 'ITI';
+    });
+    elements.examCategorySelect?.addEventListener('change', () => {
+      if (elements.resultsSection.classList.contains('visible')) processScan();
+    });
+    elements.tradeSelect?.addEventListener('change', () => {
+      if (elements.resultsSection.classList.contains('visible')) processScan();
+    });
 
     // Mobile menu toggle
     elements.menuToggle.addEventListener('click', function() {
@@ -690,7 +744,8 @@
     initEventListeners();
 
     // Set max date for DOB input to today
-    const today = new Date().toISOString().split('T')[0];
+    const now = new Date();
+    const today = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;
     elements.dobInput.setAttribute('max', today);
 
     console.log('🚀 ROJGARDWAAR.IN Eligibility Matrix initialized');
