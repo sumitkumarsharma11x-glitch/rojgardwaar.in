@@ -508,7 +508,8 @@
       "examCategory": "railway",
       "requiresVerification": true,
       "verificationReason": "Screening placeholder only. Confirm the current RRB Technician notification, exact post, age cutoff, trade mapping and medical standards.",
-      "verificationNote": "Not a confirmed current vacancy or final eligibility result."
+      "verificationNote": "Not a confirmed current vacancy or final eligibility result.",
+      "ageRulesUnknown": true
     },
     {
       "id": "rrb-alp-iti-screening",
@@ -547,7 +548,8 @@
       "examCategory": "railway",
       "requiresVerification": true,
       "verificationReason": "Screening placeholder only. Confirm the latest ALP notification, accepted trades or diploma/degree routes, age cutoff and medical standard.",
-      "verificationNote": "ALP eligibility includes strict technical and medical conditions; verify the official notice."
+      "verificationNote": "ALP eligibility includes strict technical and medical conditions; verify the official notice.",
+      "ageRulesUnknown": true
     },
     {
       "id": "rrb-group-d-iti-screening",
@@ -576,7 +578,8 @@
       "examCategory": "railway",
       "requiresVerification": true,
       "verificationReason": "Screening placeholder only. Confirm the current Level-1 notification, age cutoff, qualification and post-specific standards.",
-      "verificationNote": "ITI is not a universal substitute for every Level-1 post requirement."
+      "verificationNote": "ITI is not a universal substitute for every Level-1 post requirement.",
+      "ageRulesUnknown": true
     }
   ],
   "qualificationHierarchy": {
