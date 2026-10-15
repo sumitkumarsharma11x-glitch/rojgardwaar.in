@@ -875,12 +875,13 @@
       "applyUrl": "https://neet.nta.nic.in/2026/",
       "description": "Entrance test for undergraduate medical admissions; subject combination, qualifying marks and age conditions must be checked in the bulletin.",
       "requiresVerification": true,
-      "ageRulesUnknown": false,
+      "ageRulesUnknown": true,
       "verificationReason": "Age check uses the NEET (UG) 2026 bulletin minimum age of 17 years by 31 December 2026. Subject combination, qualifying marks and admission-specific conditions still require official verification.",
       "verificationNote": "Minimum age: 17 by 31 December 2026; no upper age limit in the 2026 bulletin. PCB/English subjects and qualifying marks are not captured by this calculator.",
       "examCategory": "neet",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationNotes": "NEET UG 2026 Information Bulletin: minimum age 17 completed on or before 31 Dec 2026; no upper age limit. maxAge=100 is a technical placeholder only and MUST NOT be interpreted as a real upper limit. Keep screening-only until engine supports no-upper-age-limit semantics and verify subject/qualifying-exam rules. Official source: https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/20260208939209382.pdf"
     },
     {
       "id": "jee-main-screening-2026",
@@ -903,7 +904,7 @@
       "applyUrl": "https://jeemain.nta.nic.in/",
       "description": "JEE Main 2026 screening only. The 2026 bulletin permits candidates who first passed Class XII/equivalent in 2024 or 2025, or are appearing in 2026. This is a qualifying-year window, not an age limit; verify future-year rules against that year's bulletin.",
       "requiresVerification": true,
-      "ageRulesUnknown": false,
+      "ageRulesUnknown": true,
       "verificationReason": "The official JEE Main 2026 bulletin states no age limit and allows Class XII/equivalent pass years 2024/2025 or appearing in 2026. Admission institutions may impose their own criteria. This entry is specifically for the 2026 cycle; do not reuse the 2026 qualifying-year window for JEE Main 2027 without its bulletin.",
       "verificationNote": "2026 bulletin only: no exam age limit; Class XII pass in 2024/2025 or appearing in 2026. Class XII subject/marks and institute rules are not checked. Check the 2027 bulletin before using this record for 2027.",
       "examCategory": "jee",
@@ -919,7 +920,8 @@
         "missingText": "Select your Class 12 passing/appearing year to check the JEE Main 2026 qualifying-year window. This does not confirm admission eligibility.",
         "failText": "For JEE Main 2026, candidates who passed Class 12 before 2024 do not fit the stored qualifying-year window. Verify the official bulletin.",
         "passText": "Your Class 12 year falls within the stored JEE Main 2026 window. Subject requirements and institute criteria are not checked; verify the official bulletin."
-      }
+      },
+      "verificationNotes": "JEE Main 2026 has no age limit; eligibility depends on qualifying examination/passing-year window and course/institute conditions. Do not use 0–100 as a meaningful age band. Requires a passing-year rule in the engine. Official bulletin index: https://jeemain.nta.nic.in/information-bulletin/"
     },
     {
       "id": "jee-advanced-screening-2026",
@@ -947,7 +949,8 @@
       "verificationNote": "Age/birth-date window, attempt limits, JEE Main qualification and Class XII conditions must be checked in the 2026 brochure.",
       "examCategory": "jee",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationNotes": "JEE Advanced 2026 generally permits two attempts in two consecutive years; official DOB condition is born on/after 01 Oct 2001, relaxed to 01 Oct 1996 for SC/ST/PwD, with an official 2026 third-attempt exception for a narrowly defined 2023 Class XII cohort. Class XII first-appearance year and PCM subjects also apply. A simple age range is insufficient. Official brochure: https://jeeadv.ac.in/documents/IBEnglish_2026_1.pdf"
     },
     {
       "id": "cuet-ug-screening-2026",
@@ -975,7 +978,8 @@
       "verificationNote": "Choose a university and programme, then verify its CUET 2026 eligibility rules.",
       "examCategory": "cuet",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationNotes": "CUET UG 2026 has no exam-level age limit. Candidate must have passed/appeared in Class 12, and each participating university/course may impose its own age and eligibility criteria. Do not interpret 0–100 as an official age range. Official bulletin: https://cdnbbsr.s3waas.gov.in/s3d1a21da7bca4abff8b0b61b87597de73/uploads/2026/01/202601031633478370.pdf"
     },
     {
       "id": "ctet-teacher-screening-2026",
