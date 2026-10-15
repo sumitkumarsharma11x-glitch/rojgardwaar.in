@@ -198,7 +198,8 @@
       }
     }
     if (exam.ageRulesUnknown === true) issues.push('Age limits and cutoff date depend on the specific notification and are not stored.');
-    if (bands.some(b => Number(b.maxAge) >= 65)) issues.push('The stored maximum age is a placeholder, not an official rule.');
+    if (exam.ageLimitType && !['bounded', 'none', 'minimum-only', 'dob-window'].includes(exam.ageLimitType)) issues.push('The configured age-limit type is not supported.');
+    if (exam.ageLimitType !== 'none' && exam.ageLimitType !== 'minimum-only' && bands.some(b => Number(b.maxAge) >= 65)) issues.push('The stored maximum age is a placeholder, not an official rule.');
     if (exam.sourceConflict) issues.push(`Sources disagree: ${exam.sourceConflict}`);
     if (!exam.qualification) issues.push('The qualification rule is missing in our data.');
     return issues;
