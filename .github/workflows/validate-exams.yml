@@ -1,0 +1,31 @@
+name: Validate Eligibility Data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/exams.json'
+      - 'scripts/validate-exams.js'
+      - '.github/workflows/validate-exams.yml'
+  pull_request:
+    paths:
+      - 'data/exams.json'
+      - 'scripts/validate-exams.js'
+      - '.github/workflows/validate-exams.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Validate exam data
+        run: node scripts/validate-exams.js
