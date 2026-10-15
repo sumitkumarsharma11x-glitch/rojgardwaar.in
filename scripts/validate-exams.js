@@ -52,6 +52,8 @@ function validate(data) {
       errors.push(`${label}: verificationStatus says verified but verifiedForCurrentCycle is not true.`);
     }
     if (exam.ageRulesUnknown === true && exam.verifiedForCurrentCycle === true) errors.push(`${label}: ageRulesUnknown contradicts verified.`);
+    if (exam.ageLimitType !== undefined && !['bounded', 'none', 'minimum-only', 'dob-window'].includes(exam.ageLimitType)) errors.push(`${label}: unsupported ageLimitType.`);
+    if (exam.ageLimitType === 'none' && exam.maxAge !== 100) warnings.push(`${label}: no-upper-age-limit record should use 100 only as a technical sentinel until UI rendering supports open-ended age ranges.`);
   });
   return { errors, warnings };
 }
