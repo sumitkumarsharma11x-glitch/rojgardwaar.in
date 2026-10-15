@@ -181,6 +181,23 @@
     // Keep records with unknown/complex rules fail-closed. Records with a basic
     // age cutoff and qualification can be screened provisionally, but never called
     // definitively eligible/ineligible until their current-cycle notice is audited.
+    // Historical recruitment cycles must never appear as current potential matches.
+    if (exam.recruitmentStatus === 'historical') {
+      const relaxation = getRelaxation(exam, category);
+      const qualCheck = checkQualification(qualification, exam);
+      return {
+        exam,
+        age,
+        relaxation,
+        effectiveMaxAge: Number.isFinite(Number(exam.maxAge)) ? Number(exam.maxAge) + relaxation : null,
+        qualificationMet: qualCheck.met,
+        qualificationReason: qualCheck.reason,
+        status: 'Historical Recruitment — Not Current',
+        statusType: 'verification',
+        explanation: exam.verificationReason || 'This recruitment cycle is historical and must not be treated as a current application opportunity. Check the latest official notification.'
+      };
+    }
+
     const isPreliminary = exam.verifiedForCurrentCycle !== true;
     const needsHardVerification = isPreliminary && (
       exam.requiresVerification === true ||
