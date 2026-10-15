@@ -1,4 +1,5 @@
 {
+  "dataVersion": "2026-10-15",
   "exams": [
     {
       "id": "ssc-cgl-2026",
@@ -19,12 +20,166 @@
       },
       "officialNotificationUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf",
       "applyUrl": "https://ssc.gov.in/",
-      "description": "Group B and C posts in various ministries/departments",
-      "requiresVerification": true,
+      "description": "Group B and C posts in various ministries/departments (CGLE 2026, F. No. HQ-C11018/1/2026-C-1)",
       "examCategory": "ssc",
       "verifiedForCurrentCycle": false,
       "verificationStatus": "official-notice-found-post-specific-rules-not-fully-modeled",
-      "verificationNote": "The official CGL 2026 notice lists different age bands by post (18–27, 18–30, 20–30 and 18–32) and post-specific qualifications/physical-medical conditions. The calculator's single age range is only a broad screen; check the exact post and eligibility in the notice.",
+      "verificationNote": "The official CGL 2026 notice lists different age bands by post and post-specific qualifications/physical-medical conditions. The calculator's single age range is only a broad screen; check the exact post and eligibility in the notice.",
+      "verificationNotes": "Age cutoff 01-08-2026. Post-wise bands 18-27, 20-30, 18-30, 18-32 with the exact born-between dates in para 5.1. Relaxation para 5.2 (SC/ST 5, OBC 3, PwBD 10; PwBD-OBC 13, PwBD-SC/ST 15; ESM and Group C employee/widow rules not modelled). EWS has no age relaxation. Qualification: bachelor degree for most posts; JSO, Statistical Investigator Gr-II and State-cadre AAO/AAcO have extra conditions (para 8). Physical/medical standards for posts in para 15.7. Applications ran 21-05-2026 to 22-06-2026.",
+      "applicationWindow": {
+        "start": "2026-05-21",
+        "end": "2026-06-22"
+      },
+      "relaxationNote": "PwD value is the unreserved PwBD relaxation (10). OBC-PwBD gets 13 and SC/ST-PwBD gets 15. Ex-servicemen, central civilian employees and widows/divorced women (Group C) have separate relaxations not calculated here.",
+      "ageBands": [
+        {
+          "id": "b27",
+          "label": "18–27 yrs",
+          "minAge": 18,
+          "maxAge": 27,
+          "posts": [
+            {
+              "name": "Auditor (C&AG / CGDA / other ministries)"
+            },
+            {
+              "name": "Accountant / Junior Accountant"
+            },
+            {
+              "name": "Postal Assistant / Sorting Assistant"
+            },
+            {
+              "name": "Senior Secretariat Assistant / UDC"
+            },
+            {
+              "name": "Senior Administrative Assistant (MES)"
+            },
+            {
+              "name": "Tax Assistant (CBDT / CBIC)"
+            },
+            {
+              "name": "Sub-Inspector (Central Bureau of Narcotics)",
+              "conditions": [
+                "physical standards, physical test and medical standards (Annexures XV-XVI)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2030",
+          "label": "20–30 yrs",
+          "minAge": 20,
+          "maxAge": 30,
+          "posts": [
+            {
+              "name": "Assistant Section Officer (CSS / Railways / MEA / AFHQ)"
+            },
+            {
+              "name": "Sub-Inspector (CBI)",
+              "conditions": [
+                "physical standards, physical test and medical standards (Annexures XV-XVI)"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1830",
+          "label": "18–30 yrs",
+          "minAge": 18,
+          "maxAge": 30,
+          "posts": [
+            {
+              "name": "Assistant Audit Officer (Central Cadre)"
+            },
+            {
+              "name": "Assistant Audit Officer (State Cadre)",
+              "conditions": [
+                "certificate of proficiency in the State regional/official language at matriculation level"
+              ]
+            },
+            {
+              "name": "Assistant Accounts Officer (State Cadre)",
+              "conditions": [
+                "certificate of proficiency in the State regional/official language at matriculation level"
+              ]
+            },
+            {
+              "name": "Assistant Section Officer (IB / MeitY)"
+            },
+            {
+              "name": "Assistant / ASO (other ministries)"
+            },
+            {
+              "name": "Inspector of Income Tax"
+            },
+            {
+              "name": "Inspector (Central Excise / Preventive Officer / Examiner)",
+              "conditions": [
+                "physical standards, physical test and medical standards (Annexures XV-XVI)"
+              ]
+            },
+            {
+              "name": "Assistant Enforcement Officer"
+            },
+            {
+              "name": "Inspector (Posts)"
+            },
+            {
+              "name": "Inspector (Central Bureau of Narcotics)",
+              "conditions": [
+                "physical standards, physical test and medical standards (Annexures XV-XVI)"
+              ]
+            },
+            {
+              "name": "Executive Assistant (CBIC)"
+            },
+            {
+              "name": "Research Assistant (NHRC)"
+            },
+            {
+              "name": "Divisional Accountant"
+            },
+            {
+              "name": "Sub-Inspector (NIA)",
+              "conditions": [
+                "physical standards, physical test and medical standards (Annexures XV-XVI)"
+              ]
+            },
+            {
+              "name": "Sub-Inspector / Junior Intelligence Officer (NCB)",
+              "conditions": [
+                "physical standards, physical test and medical standards (Annexures XV-XVI)"
+              ]
+            },
+            {
+              "name": "Statistical Investigator Grade-II",
+              "conditions": [
+                "bachelor degree in a specified subject such as Statistics, Mathematics, Economics, Computer Science"
+              ]
+            },
+            {
+              "name": "Office Superintendent (CBDT)"
+            },
+            {
+              "name": "Section Head (DGFT)"
+            }
+          ]
+        },
+        {
+          "id": "b1832",
+          "label": "18–32 yrs",
+          "minAge": 18,
+          "maxAge": 32,
+          "posts": [
+            {
+              "name": "Junior Statistical Officer",
+              "conditions": [
+                "12th-level Mathematics with 60% marks, or Statistics as a degree subject"
+              ]
+            }
+          ]
+        }
+      ],
+      "requiresVerification": true,
       "verificationReason": "CGL has multiple post-specific age bands and some posts require additional subject, physical, medical or other conditions not captured by this form."
     },
     {
@@ -50,7 +205,12 @@
       "requiresVerification": false,
       "examCategory": "ssc",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "official-text-seen-via-mirror-only",
+      "applicationWindow": {
+        "start": "2026-09-07",
+        "end": "2026-10-07"
+      },
+      "verificationNote": "Notice dated 07-09-2026: age 18-27 as on 01-08-2026 (born 02-08-1999 to 01-08-2008); applications 07-09-2026 to 07-10-2026. The notice text was seen only on a third-party mirror, so the record stays unverified until the ssc.gov.in copy and the qualification/relaxation clauses are checked."
     },
     {
       "id": "ssc-mts-2026",
@@ -209,7 +369,8 @@
       "verifiedForCurrentCycle": false,
       "verificationStatus": "official-notice-found-post-specific-rules-not-fully-modeled",
       "verificationReason": "The prior record mixed undergraduate qualification with graduate-level post descriptions and used an unsupported 01.07.2026 cutoff. Age/qualification must be checked against CEN 07/2025 and post-specific rules.",
-      "verificationNote": "Use the CEN 07/2025 undergraduate notice. Graduate NTPC posts are a separate recruitment notice."
+      "verificationNote": "Use the CEN 07/2025 undergraduate notice. Graduate NTPC posts are a separate recruitment notice.",
+      "cycleHint": "closed"
     },
     {
       "id": "rrb-ntpc-graduate-cen-06-2025",
@@ -236,7 +397,9 @@
       "verificationNote": "Separate from RRB NTPC Undergraduate CEN 07/2025. Check the full CEN 06/2025 notification and corrigenda.",
       "examCategory": "railway",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "official-notice-found-post-specific-rules-not-fully-modeled"
+      "verificationStatus": "official-notice-found-post-specific-rules-not-fully-modeled",
+      "cycleHint": "closed",
+      "sourceConflict": "most sources list 18-33 as on 01-01-2026 for CEN 06/2025 (Graduate) but one lists 18-36; the stored value is 36 and the official notice text was not read"
     },
     {
       "id": "rrb-group-d-2026",
@@ -745,7 +908,18 @@
       "verificationNote": "2026 bulletin only: no exam age limit; Class XII pass in 2024/2025 or appearing in 2026. Class XII subject/marks and institute rules are not checked. Check the 2027 bulletin before using this record for 2027.",
       "examCategory": "jee",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "class12YearRule": {
+        "examCategory": "jee",
+        "allowed": [
+          "2024",
+          "2025",
+          "2026"
+        ],
+        "missingText": "Select your Class 12 passing/appearing year to check the JEE Main 2026 qualifying-year window. This does not confirm admission eligibility.",
+        "failText": "For JEE Main 2026, candidates who passed Class 12 before 2024 do not fit the stored qualifying-year window. Verify the official bulletin.",
+        "passText": "Your Class 12 year falls within the stored JEE Main 2026 window. Subject requirements and institute criteria are not checked; verify the official bulletin."
+      }
     },
     {
       "id": "jee-advanced-screening-2026",

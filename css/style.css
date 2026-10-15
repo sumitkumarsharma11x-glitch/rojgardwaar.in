@@ -1220,3 +1220,14 @@ html, body { max-width: 100%; overflow-x: clip; }
   .results-section .exam-card-actions a { flex-basis: 100%; }
   .results-section .summary-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
+
+/* Eligibility results v2 */
+.summary-sub{font-size:.75rem;color:var(--text-muted);margin-top:.25rem}
+.exam-card.status-additional::before,.exam-card.status-potential::before{background:var(--warning)}
+.exam-card.status-unlikely::before,.exam-card.status-verification::before{background:var(--neutral)}
+.exam-card.status-age-not-met::before,.exam-card.status-qualification-not-met::before{background:var(--danger)}
+.exam-note{background:var(--warning-bg);border-left:3px solid var(--warning)}
+.exam-posts{margin:.5rem 0;font-size:.85rem;line-height:1.5}
+.exam-posts summary{cursor:pointer;font-weight:600}
+.cell-sub{font-size:.75rem;color:var(--text-muted);margin-top:.25rem}
+.cell-why{font-size:.875rem;color:var(--text-secondary);line-height:1.5}
