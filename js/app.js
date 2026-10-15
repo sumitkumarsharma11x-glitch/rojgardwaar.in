@@ -588,6 +588,38 @@
     });
   }
 
+  // Hindi companion text for the preliminary explanation and exam-specific caution.
+  // Keep the original English text as well, so the tool remains bilingual.
+  function getHindiPreliminaryExplanation(result) {
+    const age = result.age?.formatted || 'उपलब्ध नहीं';
+    const min = Number(result.exam.minAge);
+    const max = Number(result.effectiveMaxAge ?? result.exam.maxAge);
+    let ageText = 'उम्र की जाँच उपलब्ध डेटा से भरोसेमंद तरीके से नहीं हो सकी।';
+    if (result.age && Number.isFinite(min) && Number.isFinite(max)) {
+      if (result.age.years < min) {
+        ageText = `सेव किए गए डेटा के अनुसार आपकी उम्र ${age} है, जो निर्धारित न्यूनतम उम्र ${min} वर्ष से कम है।`;
+      } else if (result.age.years > max) {
+        ageText = `सेव किए गए डेटा के अनुसार आपकी उम्र ${age} है, जो ${result.category || ''} श्रेणी की दर्ज छूट सहित अधिकतम ${max} वर्ष से अधिक है।`;
+      } else {
+        ageText = `सेव किए गए डेटा के अनुसार आपकी उम्र ${age} निर्धारित ${min}–${max} वर्ष की सीमा में आती है।`;
+      }
+    }
+    const cutoff = result.exam.ageCutoffDate
+      ? `आयु की निर्धारित कटऑफ तारीख: ${formatDate(result.exam.ageCutoffDate)}।`
+      : 'आयु की विश्वसनीय कटऑफ तारीख डेटा में दर्ज नहीं है।';
+    const qualification = result.qualificationMet
+      ? `आपकी चुनी गई योग्यता (${result.userQualification || 'चयनित योग्यता'}) डेटा में दर्ज न्यूनतम योग्यता (${result.exam.qualification}) से मेल खाती है। फिर भी पद के अनुसार विषय, पास होने का वर्ष या अन्य शर्तें लागू हो सकती हैं।`
+      : `आपकी चुनी गई योग्यता (${result.userQualification || 'चयनित योग्यता'}) डेटा में दर्ज न्यूनतम योग्यता (${result.exam.qualification}) से मेल नहीं खाती। स्वीकार्य योग्यता और पद-विशेष नियम जाँचें।`;
+    return `${ageText} ${cutoff} ${qualification} यह केवल सेव किए गए डेटा पर आधारित प्रारंभिक जाँच है, पक्की पात्रता का निर्णय नहीं। आवेदन करने से पहले वर्तमान आधिकारिक भर्ती सूचना और पद/श्रेणी से जुड़ी सभी शर्तें ज़रूर जाँचें।`;
+  }
+
+  function getHindiVerificationNote(note) {
+    const translations = {
+      'ALP eligibility includes strict technical and medical conditions; verify the official notice.': 'ALP के लिए तकनीकी योग्यता और मेडिकल मानक सख्त होते हैं। आवेदन से पहले आधिकारिक भर्ती सूचना में इन शर्तों की पुष्टि ज़रूर करें।'
+    };
+    return translations[note] || 'महत्वपूर्ण: ऊपर दी गई शर्त के साथ आधिकारिक भर्ती सूचना भी ध्यान से जाँचें। पद, योग्यता, आयु-सीमा और मेडिकल/शारीरिक मानक अलग हो सकते हैं।';
+  }
+
   /**
    * Render exam cards (mobile view)
    * @param {Array} results - Filtered results
@@ -650,11 +682,11 @@
           </div>
         </div>
         <div class="exam-card-explanation">
-          <strong>Preliminary screening:</strong> ${r.explanation}
+          <strong>Preliminary screening (प्रारंभिक जाँच):</strong> ${r.explanation}<p lang="hi" class="hindi-explanation"><strong>हिंदी में:</strong> ${getHindiPreliminaryExplanation({...r, category: elements.categorySelect.value})}</p>
         </div>
         ${r.exam.verificationNote ? `
         <div class="exam-card-explanation" style="background: var(--warning-bg); border-left: 3px solid var(--warning);">
-          <strong>⚠️ Important:</strong> ${r.exam.verificationNote}
+          <strong>⚠️ Important (महत्वपूर्ण):</strong> ${r.exam.verificationNote}<p lang="hi" class="hindi-explanation"><strong>हिंदी में:</strong> ${getHindiVerificationNote(r.exam.verificationNote)}</p>
         </div>
         ` : ''}
         <div class="exam-card-actions">
@@ -706,7 +738,7 @@
           <div style="font-size: 0.875rem; color: var(--text-secondary); line-height: 1.5;">${r.explanation}</div>
           ${r.exam.verificationNote ? `
           <div style="font-size: 0.875rem; color: var(--warning); line-height: 1.5; margin-top: 0.5rem; padding: 0.5rem; background: var(--warning-bg); border-radius: var(--radius); border-left: 3px solid var(--warning);">
-            <strong>⚠️</strong> ${r.exam.verificationNote}
+            <strong>⚠️ Important (महत्वपूर्ण):</strong> ${r.exam.verificationNote}<p lang="hi" class="hindi-explanation"><strong>हिंदी में:</strong> ${getHindiVerificationNote(r.exam.verificationNote)}</p>
           </div>
           ` : ''}
         </td>
