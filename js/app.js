@@ -52,7 +52,9 @@
     qualificationError: document.getElementById('qualificationError'),
     examCategorySelect: document.getElementById('examCategory'),
     tradeGroup: document.getElementById('tradeGroup'),
-    tradeSelect: document.getElementById('itiTrade')
+    tradeSelect: document.getElementById('itiTrade'),
+    class12YearGroup: document.getElementById('class12YearGroup'),
+    class12YearSelect: document.getElementById('class12Year')
   };
 
   // ============================================
@@ -615,10 +617,30 @@
     const qualification = elements.qualificationSelect.value;
     const examCategory = elements.examCategorySelect?.value || 'all';
     const selectedTrade = elements.tradeSelect?.value || '';
+    const class12Year = elements.class12YearSelect?.value || '';
     const selectedExams = examData.exams.filter(exam => examCategory === 'all' || exam.examCategory === examCategory || exam.examCategory === 'all');
     currentResults = selectedExams.map(exam => {
       const age = calculateAge(dob, exam.ageCutoffDate);
       const result = determineEligibility(exam, age, category, qualification);
+      if (exam.id === 'jee-main-screening-2026') {
+        if (examCategory !== 'jee' || !class12Year) {
+          result.status = 'Verification Required';
+          result.statusType = 'verification';
+          result.explanation = 'Select JEE as the exam category and provide your Class 12 passing/appearing year to check the JEE Main 2026 qualifying-year window. This does not confirm admission eligibility.';
+        } else if (class12Year === 'before2024') {
+          result.status = 'Qualification Not Met';
+          result.statusType = 'qualification';
+          result.explanation = 'For JEE Main 2026, candidates who passed Class 12/equivalent before 2024 do not meet the configured qualifying-year window. Verify the official bulletin.';
+        } else if (!['2024','2025','2026'].includes(class12Year)) {
+          result.status = 'Verification Required';
+          result.statusType = 'verification';
+          result.explanation = 'The Class 12 year was not confirmed. Check the official JEE Main 2026 bulletin.';
+        } else {
+          result.status = 'Verification Required';
+          result.statusType = 'verification';
+          result.explanation = 'Your Class 12 year falls within the configured JEE Main 2026 window. Subject requirements and institute/admission criteria are not checked by this calculator; verify the official bulletin.';
+        }
+      }
       if (exam.itiTrades && qualification === 'ITI') {
         if (!selectedTrade) {
           result.status = 'Verification Required'; result.statusType = 'verification';
@@ -703,7 +725,15 @@
       hideError(elements.qualificationError);
       if (elements.tradeGroup) elements.tradeGroup.hidden = elements.qualificationSelect.value !== 'ITI';
     });
+    const updateClass12YearVisibility = () => {
+      if (elements.class12YearGroup) elements.class12YearGroup.hidden = elements.examCategorySelect?.value !== 'jee';
+    };
+    updateClass12YearVisibility();
     elements.examCategorySelect?.addEventListener('change', () => {
+      updateClass12YearVisibility();
+      if (elements.resultsSection.classList.contains('visible')) processScan();
+    });
+    elements.class12YearSelect?.addEventListener('change', () => {
       if (elements.resultsSection.classList.contains('visible')) processScan();
     });
     elements.tradeSelect?.addEventListener('change', () => {
