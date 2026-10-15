@@ -622,7 +622,7 @@
     currentResults = selectedExams.map(exam => {
       const age = calculateAge(dob, exam.ageCutoffDate);
       const result = determineEligibility(exam, age, category, qualification);
-      if (exam.id === 'jee-main-screening-2026') {
+      if (exam.id === 'jee-main-screening-2026' && examCategory === 'jee' && result.qualificationMet) {
         if (examCategory !== 'jee' || !class12Year) {
           result.status = 'Verification Required';
           result.statusType = 'verification';
