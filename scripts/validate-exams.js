@@ -52,6 +52,12 @@ function validate(data) {
       errors.push(`${label}: verificationStatus says verified but verifiedForCurrentCycle is not true.`);
     }
     if (exam.ageRulesUnknown === true && exam.verifiedForCurrentCycle === true) errors.push(`${label}: ageRulesUnknown contradicts verified.`);
+    if (exam.eligibilityCriteria !== undefined) {
+      const c = exam.eligibilityCriteria;
+      if (!c || typeof c !== 'object' || !Number.isInteger(c.cycle) || typeof c.source !== 'string' || !/^https:\/\//i.test(c.source) || !Array.isArray(c.requirements) || c.requirements.length === 0) errors.push(`${label}: eligibilityCriteria needs cycle, HTTPS source and non-empty requirements[].`);
+      else if (c.requirements.some(r => !r || typeof r.key !== 'string' || typeof r.label !== 'string' || typeof r.rule !== 'string')) errors.push(`${label}: eligibilityCriteria requirements need key, label and rule strings.`);
+      if (c && c.requiresManualReview === true && exam.verifiedForCurrentCycle === true) errors.push(`${label}: manual-review criteria cannot be marked verified.`);
+    }
     if (exam.ageLimitType !== undefined && !['bounded', 'none', 'minimum-only', 'dob-window'].includes(exam.ageLimitType)) errors.push(`${label}: unsupported ageLimitType.`);
     if (exam.ageLimitType === 'none' && exam.maxAge !== 100) warnings.push(`${label}: no-upper-age-limit record should use 100 only as a technical sentinel until UI rendering supports open-ended age ranges.`);
   });
