@@ -21,7 +21,9 @@
       "applyUrl": "https://ssc.gov.in/",
       "description": "Group B and C posts in various ministries/departments",
       "requiresVerification": false,
-      "examCategory": "ssc"
+      "examCategory": "ssc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "ssc-chsl-2026",
@@ -44,7 +46,9 @@
       "applyUrl": "https://ssc.gov.in/",
       "description": "Lower Division Clerk, Data Entry Operator, Postal Assistant",
       "requiresVerification": false,
-      "examCategory": "ssc"
+      "examCategory": "ssc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "ssc-mts-2026",
@@ -67,7 +71,9 @@
       "applyUrl": "https://ssc.gov.in/",
       "description": "Multi Tasking Staff in various central government offices",
       "requiresVerification": false,
-      "examCategory": "ssc"
+      "examCategory": "ssc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "ssc-gd-2026",
@@ -92,7 +98,9 @@
       "verificationNote": "No age relaxation for PwD category in SSC GD Constable. Physical fitness standards apply.",
       "requiresVerification": true,
       "verificationReason": "SSC GD Constable has physical fitness standards and no PwD age relaxation that this calculator does not fully verify.",
-      "examCategory": "ssc"
+      "examCategory": "ssc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "upsc-cse-2026",
@@ -116,7 +124,9 @@
       "description": "IAS, IPS, IFS and other Group A services",
       "requiresVerification": true,
       "verificationReason": "UPSC CSE has attempt limits (6 for General, 9 for OBC, unlimited for SC/ST) that this calculator does not track.",
-      "examCategory": "upsc"
+      "examCategory": "upsc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "upsc-cds-2026",
@@ -141,7 +151,9 @@
       "verificationNote": "Age limits vary by academy: IMA (19-24), OTA (19-25), Naval Academy (19-22), Air Force Academy (20-24). No category relaxation applies to any academy. Please verify exact age for your preferred academy in the official notification.",
       "requiresVerification": true,
       "verificationReason": "CDS has different age limits for each academy (IMA, OTA, Naval Academy, Air Force Academy) and physical/medical standards that this calculator does not verify.",
-      "examCategory": "upsc"
+      "examCategory": "upsc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "upsc-nda-2026",
@@ -166,7 +178,9 @@
       "verificationNote": "Age must be between 15.5 and 18.5 years as of the notification date. No category relaxation. Only unmarried male/female candidates can apply.",
       "requiresVerification": true,
       "verificationReason": "NDA requires unmarried candidates and has physical/medical standards that this calculator does not verify.",
-      "examCategory": "upsc"
+      "examCategory": "upsc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "rrb-ntpc-2026",
@@ -189,7 +203,9 @@
       "applyUrl": "https://rrbcdg.gov.in/",
       "description": "Commercial Apprentice, Traffic Apprentice, Goods Guard, Junior Clerk",
       "requiresVerification": false,
-      "examCategory": "railway"
+      "examCategory": "railway",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "rrb-group-d-2026",
@@ -212,7 +228,9 @@
       "applyUrl": "https://rrbcdg.gov.in/",
       "description": "Track Maintainer, Pointsman, Helper, Porter and other Level-1 posts",
       "requiresVerification": false,
-      "examCategory": "railway"
+      "examCategory": "railway",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "ibps-po-2026",
@@ -235,7 +253,9 @@
       "applyUrl": "https://www.ibps.in/",
       "description": "Probationary Officer in participating public sector banks",
       "requiresVerification": false,
-      "examCategory": "banking"
+      "examCategory": "banking",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "ibps-clerk-2026",
@@ -258,7 +278,9 @@
       "applyUrl": "https://www.ibps.in/",
       "description": "Clerk in participating public sector banks",
       "requiresVerification": false,
-      "examCategory": "banking"
+      "examCategory": "banking",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "sbi-po-2026",
@@ -281,7 +303,9 @@
       "applyUrl": "https://sbi.co.in/",
       "description": "Probationary Officer in State Bank of India",
       "requiresVerification": false,
-      "examCategory": "banking"
+      "examCategory": "banking",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "sbi-clerk-2026",
@@ -304,7 +328,9 @@
       "applyUrl": "https://sbi.co.in/",
       "description": "Junior Associate in State Bank of India",
       "requiresVerification": false,
-      "examCategory": "banking"
+      "examCategory": "banking",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "afcat-2026",
@@ -329,7 +355,9 @@
       "verificationNote": "Age limits vary by branch: Flying Branch (20-24 years), Ground Duty Technical (20-26 years), Ground Duty Non-Technical (20-26 years). No category relaxation. Please verify exact age for your preferred branch in the official notification.",
       "requiresVerification": true,
       "verificationReason": "AFCAT has different age limits for each branch (Flying, Ground Duty Technical, Ground Duty Non-Technical) and medical/physical standards that this calculator does not verify.",
-      "examCategory": "upsc"
+      "examCategory": "upsc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "capf-ac-2026",
@@ -354,7 +382,9 @@
       "verificationNote": "No age relaxation for PwD category in CAPF AC. Physical standards apply.",
       "requiresVerification": true,
       "verificationReason": "CAPF AC has physical standards, medical requirements, and no PwD age relaxation that this calculator does not fully verify.",
-      "examCategory": "upsc"
+      "examCategory": "upsc",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "ctet-2026",
@@ -377,7 +407,9 @@
       "applyUrl": "https://ctet.nic.in/",
       "description": "Eligibility for teaching posts in central government schools",
       "requiresVerification": false,
-      "examCategory": "state"
+      "examCategory": "state",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "bpsc-69-2026",
@@ -400,7 +432,9 @@
       "applyUrl": "https://bpsc.bih.nic.in/",
       "description": "Various administrative posts in Bihar state government",
       "requiresVerification": false,
-      "examCategory": "state"
+      "examCategory": "state",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "mppsc-2026",
@@ -423,7 +457,9 @@
       "applyUrl": "https://mppsc.mp.gov.in/",
       "description": "State Administrative Service, Police Service, Forest Service",
       "requiresVerification": false,
-      "examCategory": "state"
+      "examCategory": "state",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "uppsc-pcs-2026",
@@ -446,7 +482,9 @@
       "applyUrl": "https://uppsc.up.nic.in/",
       "description": "Various Group A and B posts in Uttar Pradesh",
       "requiresVerification": false,
-      "examCategory": "state"
+      "examCategory": "state",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "rpsc-ras-2026",
@@ -469,7 +507,9 @@
       "applyUrl": "https://rpsc.rajasthan.gov.in/",
       "description": "Rajasthan Administrative Service, Police Service, other state services",
       "requiresVerification": false,
-      "examCategory": "state"
+      "examCategory": "state",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "rrb-technician-iti-screening",
@@ -509,7 +549,9 @@
       "requiresVerification": true,
       "verificationReason": "Screening placeholder only. Confirm the current RRB Technician notification, exact post, age cutoff, trade mapping and medical standards.",
       "verificationNote": "Not a confirmed current vacancy or final eligibility result.",
-      "ageRulesUnknown": true
+      "ageRulesUnknown": true,
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "rrb-alp-iti-screening",
@@ -549,7 +591,9 @@
       "requiresVerification": true,
       "verificationReason": "Screening placeholder only. Confirm the latest ALP notification, accepted trades or diploma/degree routes, age cutoff and medical standard.",
       "verificationNote": "ALP eligibility includes strict technical and medical conditions; verify the official notice.",
-      "ageRulesUnknown": true
+      "ageRulesUnknown": true,
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "rrb-group-d-iti-screening",
@@ -579,7 +623,9 @@
       "requiresVerification": true,
       "verificationReason": "Screening placeholder only. Confirm the current Level-1 notification, age cutoff, qualification and post-specific standards.",
       "verificationNote": "ITI is not a universal substitute for every Level-1 post requirement.",
-      "ageRulesUnknown": true
+      "ageRulesUnknown": true,
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "rrb-paramedical-cen-03-2025",
@@ -605,7 +651,9 @@
       "ageRulesUnknown": true,
       "verificationReason": "RRB CEN 03/2025 sets different age bands and educational/professional requirements by paramedical post. The candidate must choose a specific post and check the official CEN post-wise table; this generic record cannot confirm age or qualification.",
       "verificationNote": "Select the exact paramedical post and check its age band, qualification and registration in the official CEN 03/2025.",
-      "examCategory": "paramedical"
+      "examCategory": "paramedical",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "neet-ug-screening-2026",
@@ -631,7 +679,9 @@
       "ageRulesUnknown": false,
       "verificationReason": "Age check uses the NEET (UG) 2026 bulletin minimum age of 17 years by 31 December 2026. Subject combination, qualifying marks and admission-specific conditions still require official verification.",
       "verificationNote": "Minimum age: 17 by 31 December 2026; no upper age limit in the 2026 bulletin. PCB/English subjects and qualifying marks are not captured by this calculator.",
-      "examCategory": "neet"
+      "examCategory": "neet",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "jee-main-screening-2026",
@@ -657,7 +707,9 @@
       "ageRulesUnknown": false,
       "verificationReason": "The official JEE Main 2026 bulletin states no age limit and allows Class XII/equivalent pass years 2024/2025 or appearing in 2026. Admission institutions may impose their own criteria. This entry is specifically for the 2026 cycle; do not reuse the 2026 qualifying-year window for JEE Main 2027 without its bulletin.",
       "verificationNote": "2026 bulletin only: no exam age limit; Class XII pass in 2024/2025 or appearing in 2026. Class XII subject/marks and institute rules are not checked. Check the 2027 bulletin before using this record for 2027.",
-      "examCategory": "jee"
+      "examCategory": "jee",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "jee-advanced-screening-2026",
@@ -683,7 +735,9 @@
       "ageRulesUnknown": true,
       "verificationReason": "JEE Advanced has cycle-specific birth-date, attempt-limit, JEE Main performance, Class XII year and category conditions. This calculator does not collect all of those inputs; check the official JEE Advanced 2026 information brochure.",
       "verificationNote": "Age/birth-date window, attempt limits, JEE Main qualification and Class XII conditions must be checked in the 2026 brochure.",
-      "examCategory": "jee"
+      "examCategory": "jee",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "cuet-ug-screening-2026",
@@ -709,7 +763,9 @@
       "ageRulesUnknown": true,
       "verificationReason": "There is no single universal age/qualification rule for all CUET participating programmes. Check the current CUET bulletin and the selected university's programme-specific eligibility; this calculator does not collect university/programme or subject mapping.",
       "verificationNote": "Choose a university and programme, then verify its CUET 2026 eligibility rules.",
-      "examCategory": "cuet"
+      "examCategory": "cuet",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "ctet-teacher-screening-2026",
@@ -735,7 +791,9 @@
       "ageRulesUnknown": true,
       "verificationReason": "CTET eligibility depends on the paper selected and prescribed education/teacher-training combinations. A universal age range is not encoded here, and this calculator does not capture all accepted combinations.",
       "verificationNote": "Check the CTET September 2026 bulletin and the exact Paper I/Paper II qualification combination.",
-      "examCategory": "teacher"
+      "examCategory": "teacher",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "state-tet-screening",
@@ -761,7 +819,9 @@
       "ageRulesUnknown": true,
       "verificationReason": "State TET and teacher recruitment rules vary by state, post, paper and recruitment notification. No universal national age limit or qualification combination can be inferred from this record.",
       "verificationNote": "Choose the state and exact recruitment notification; this generic entry is only a directory pointer.",
-      "examCategory": "teacher"
+      "examCategory": "teacher",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "iti-trade-screening",
@@ -787,7 +847,9 @@
       "ageRulesUnknown": true,
       "verificationReason": "ITI eligibility depends on the target vacancy, accepted trade, NCVT/SCVT certificate and sometimes NAC or experience. This generic record cannot confirm eligibility for a specific post.",
       "verificationNote": "Select the target recruitment and compare the exact ITI trade/certificate with its official notification.",
-      "examCategory": "iti"
+      "examCategory": "iti",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     },
     {
       "id": "apprenticeship-iti-screening",
@@ -813,7 +875,9 @@
       "ageRulesUnknown": true,
       "verificationReason": "DGT guidance states apprentices must be at least 14 and meet trade-specific physical/educational standards. Some trades and individual vacancies have additional rules, so this broad entry cannot confirm final eligibility.",
       "verificationNote": "General DGT guidance: minimum age 14; verify trade, qualification, physical standards and vacancy-specific rules.",
-      "examCategory": "iti"
+      "examCategory": "iti",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "needs-current-cycle-official-audit"
     }
   ],
   "qualificationHierarchy": {
