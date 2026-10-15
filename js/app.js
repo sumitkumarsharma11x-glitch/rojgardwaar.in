@@ -824,7 +824,7 @@
         'age-not-met': 'over-age', 'qualification-not-met': 'qualification'
       };
       const result = {
-        exam: item.exam, age: calculateAge(dob, item.exam.ageCutoffDate),
+        exam: item.exam, age: item.age,
         status: item.status, statusType: typeMap[item.statusType] || 'verification',
         explanation: item.explanation, qualificationMet: !!(item.qualification && item.qualification.met),
         qualificationReason: item.qualification ? item.qualification.reason : 'Qualification could not be verified.',
