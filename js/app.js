@@ -824,7 +824,7 @@
         'age-not-met': 'over-age', 'qualification-not-met': 'qualification'
       };
       const result = {
-        exam: item.exam, age: item.age,
+        exam: item.exam, age: item.age ? { ...item.age, shortFormatted: item.age.short, decimalAge: item.age.years + item.age.months / 12 + item.age.days / 365.2425 } : null,
         status: item.status, statusType: typeMap[item.statusType] || 'verification',
         explanation: item.explanation, qualificationMet: !!(item.qualification && item.qualification.met),
         qualificationReason: item.qualification ? item.qualification.reason : 'Qualification could not be verified.',
