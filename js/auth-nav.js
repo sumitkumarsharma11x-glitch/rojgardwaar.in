@@ -57,7 +57,7 @@
   }
 
   function getHost() {
-    return document.querySelector(".header-inner, .header-row, .rjd-site-header__inner") ||
+    return document.querySelector(".rd-head, .header-inner, .header-row, .rjd-site-header__inner") ||
       document.querySelector("header");
   }
 
@@ -76,7 +76,7 @@
     chip.id = "rjd-account-chip";
     chip.setAttribute("aria-live", "polite");
     host.classList.add("rjd-has-chip");
-    var burger = host.querySelector(":scope > .mobile-menu-disclosure");
+    var burger = host.querySelector(":scope > .mobile-menu-disclosure, :scope > .rd-menu-btn");
     if (burger) host.insertBefore(chip, burger); else host.appendChild(chip);
     return chip;
   }
