@@ -611,7 +611,7 @@
       "id": "neet-ug-screening-2026",
       "exam": "NEET (UG) — Medical / Dental / AYUSH Admissions",
       "organization": "National Testing Agency (NTA)",
-      "minAge": 0,
+      "minAge": 17,
       "maxAge": 100,
       "ageCutoffDate": "2026-12-31",
       "qualification": "12th Pass",
@@ -628,9 +628,9 @@
       "applyUrl": "https://neet.nta.nic.in/2026/",
       "description": "Entrance test for undergraduate medical admissions; subject combination, qualifying marks and age conditions must be checked in the bulletin.",
       "requiresVerification": true,
-      "ageRulesUnknown": true,
-      "verificationReason": "NEET admission eligibility depends on the current bulletin, age on the specified date, qualifying subjects and marks. The calculator cannot validate subject-wise marks or admission-specific rules.",
-      "verificationNote": "12th subjects and qualifying marks are not captured by this basic calculator.",
+      "ageRulesUnknown": false,
+      "verificationReason": "Age check uses the NEET (UG) 2026 bulletin minimum age of 17 years by 31 December 2026. Subject combination, qualifying marks and admission-specific conditions still require official verification.",
+      "verificationNote": "Minimum age: 17 by 31 December 2026; no upper age limit in the 2026 bulletin. PCB/English subjects and qualifying marks are not captured by this calculator.",
       "examCategory": "neet"
     },
     {
@@ -654,9 +654,9 @@
       "applyUrl": "https://jeemain.nta.nic.in/",
       "description": "Engineering and architecture entrance examination; qualifying year, subjects and institute-specific criteria may apply.",
       "requiresVerification": true,
-      "ageRulesUnknown": true,
-      "verificationReason": "JEE Main eligibility depends on qualifying examination year, subject combination and programme/institute rules. These are not fully captured by DOB and qualification alone.",
-      "verificationNote": "Check the 2026 bulletin and the relevant institute/admission rules.",
+      "ageRulesUnknown": false,
+      "verificationReason": "JEE Main has no general upper age limit, but admission eligibility can depend on the year of passing Class XII, subject combination and institute/programme rules. These are not fully captured here.",
+      "verificationNote": "No general upper age limit; qualifying year, subjects and institute-specific admission criteria must be checked.",
       "examCategory": "jee"
     },
     {
