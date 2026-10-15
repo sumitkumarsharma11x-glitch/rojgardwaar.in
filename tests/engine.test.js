@@ -114,9 +114,17 @@ test('academic age-limit types distinguish no-upper-limit from fake 0-100 placeh
   assert.equal(minimumOnly.statusType, 'verification');
   assert.ok(!minimumOnly.issues.some(x => x.includes('maximum age is a placeholder')));
 });
-test('JEE Advanced remains verification-only while DOB/attempt/Class XII criteria are incomplete', () => {
+test('JEE Advanced stores official 2026 criteria and remains fail-closed', () => {
   const ex = data.exams.find(e => e.id === 'jee-advanced-screening-2026');
   assert.equal(ex.ageLimitType, 'dob-window');
+  assert.equal(ex.eligibilityCriteria.cycle, 2026);
+  assert.match(ex.eligibilityCriteria.source, /^https:\/\//);
+  assert.ok(ex.eligibilityCriteria.requirements.some(r => r.key === 'jeeMainRank'));
+  assert.ok(ex.eligibilityCriteria.requirements.some(r => r.key === 'dateOfBirth'));
+  assert.ok(ex.eligibilityCriteria.requirements.some(r => r.key === 'attempts'));
+  assert.ok(ex.eligibilityCriteria.requirements.some(r => r.key === 'class12FirstAppearance'));
+  assert.ok(ex.eligibilityCriteria.requirements.some(r => r.key === 'priorIITAdmission'));
+  assert.equal(ex.eligibilityCriteria.requiresManualReview, true);
   assert.equal(E.evaluateExam(ex, prof('2005-01-01'), TODAY).statusType, 'verification');
 });
 test('contradictory verification metadata is not trusted', () => {
