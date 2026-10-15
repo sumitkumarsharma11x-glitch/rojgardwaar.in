@@ -67,9 +67,21 @@
    * @param {string} cutoffString - Cutoff date (YYYY-MM-DD)
    * @returns {Object} Age details
    */
+  function parseISODateLocal(value) {
+    if (typeof value !== 'string' || !/^\\d{4}-\\d{2}-\\d{2}$/.test(value)) return null;
+    const [year, month, day] = value.split('-').map(Number);
+    const date = new Date(year, month - 1, day);
+    if (date.getFullYear() !== year || date.getMonth() !== month - 1 || date.getDate() !== day) return null;
+    date.setHours(0, 0, 0, 0);
+    return date;
+  }
+
   function calculateAge(dobString, cutoffString) {
-    const dob = new Date(dobString);
-    const cutoff = new Date(cutoffString);
+    // Parse date-only values as local calendar dates. new Date('YYYY-MM-DD')
+    // parses as UTC and can shift the day in time zones such as India.
+    const dob = parseISODateLocal(dobString);
+    const cutoff = parseISODateLocal(cutoffString);
+    if (!dob || !cutoff || dob > cutoff) return null;
 
     let years = cutoff.getFullYear() - dob.getFullYear();
     let months = cutoff.getMonth() - dob.getMonth();
@@ -85,19 +97,22 @@
     }
 
     const totalMonths = years * 12 + months;
-    const decimalAge = years + (months / 12) + (days / 365.25);
+    const totalDays = Math.floor((Date.UTC(cutoff.getFullYear(), cutoff.getMonth(), cutoff.getDate()) -
+      Date.UTC(dob.getFullYear(), dob.getMonth(), dob.getDate())) / 86400000);
+    const decimalAge = years + (months / 12) + (days / 365.2425);
 
     return {
       years,
       months,
       days,
       totalMonths,
+      totalDays,
       decimalAge: Math.round(decimalAge * 10000) / 10000,
-      formatted: years === 0 && months === 0 
-        ? `${days} days` 
-        : years === 0 
+      formatted: years === 0 && months === 0
+        ? `${days} days`
+        : years === 0
           ? `${months} months ${days} days`
-          : `${years} years ${months} months`,
+          : `${years} years ${months} months ${days} days`,
       shortFormatted: `${years}y ${months}m`
     };
   }
@@ -175,6 +190,17 @@
    * @returns {Object} Eligibility result
    */
   function determineEligibility(exam, age, category, qualification) {
+    if (!age) {
+      return {
+        exam,
+        age: null,
+        qualificationMet: false,
+        status: 'Age Check Unavailable',
+        statusType: 'verification',
+        explanation: 'The date of birth or age cutoff date is invalid, or the date of birth is after the cutoff date. Check both dates; no eligibility decision was made.'
+      };
+    }
+
     // Fail-closed safety gate: do not issue definitive eligibility decisions
     // until this exact exam record has been audited against its current official
     // notification and all mandatory inputs are represented in the form.
@@ -217,9 +243,9 @@
       const hasAgeRange = Number.isFinite(Number(exam.minAge)) && Number.isFinite(Number(exam.maxAge));
       let screeningSummary = 'Age screening could not be calculated reliably from the saved record.';
       if (ageIsUsable && hasAgeRange) {
-        if (age.decimalAge < Number(exam.minAge)) {
+        if (age.years < Number(exam.minAge)) {
           screeningSummary = `Saved-data age screen: age ${age.formatted} is below the configured minimum ${exam.minAge} years.`;
-        } else if (age.decimalAge > effectiveMaxAge) {
+        } else if (age.years > effectiveMaxAge) {
           screeningSummary = `Saved-data age screen: age ${age.formatted} is above the configured maximum ${effectiveMaxAge} years including the saved ${category} relaxation.`;
         } else {
           screeningSummary = `Saved-data age screen: age ${age.formatted} falls within the configured ${exam.minAge}–${effectiveMaxAge}-year range.`;
@@ -280,7 +306,7 @@
     }
 
     // Check minimum age
-    if (age.decimalAge < exam.minAge) {
+    if (age.years < exam.minAge) {
       result.status = isPreliminary ? 'Age Check — Not Verified' : 'Check Official Notification';
       result.statusType = isPreliminary ? 'preliminary' : 'verify';
       result.explanation = isPreliminary
@@ -290,7 +316,7 @@
     }
 
     // Check maximum age with relaxation
-    if (age.decimalAge <= effectiveMaxAge) {
+    if (age.years <= effectiveMaxAge) {
       // SAFETY: If exam has unchecked mandatory conditions, NEVER show definitive Eligible
       if (exam.requiresVerification) {
         result.status = '⚠️ Verification Required';
