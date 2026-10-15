@@ -497,18 +497,35 @@
     };
 
     currentResults.forEach(r => {
-      if (counts[r.statusType] !== undefined) {
-        counts[r.statusType]++;
-      }
+      if (counts[r.statusType] !== undefined) counts[r.statusType]++;
     });
 
-    const totalEligible = counts.eligible + counts.relaxation;
+    // A useful screening metric, separate from confirmed eligibility:
+    // count only records with a known cutoff/range where saved age + qualification
+    // both match. Exclude unknown age rules and explicitly historical records.
+    const savedRulePotentialMatches = currentResults.filter(r => {
+      const exam = r.exam || {};
+      const age = r.age;
+      if (!age || exam.recruitmentStatus === 'historical' || exam.ageRulesUnknown === true) return false;
+      if (!exam.ageCutoffDate ||
+          !Number.isFinite(Number(exam.minAge)) ||
+          !Number.isFinite(Number(exam.maxAge)) ||
+          r.qualificationMet !== true) return false;
+      const maxAge = Number(exam.maxAge) + (Number(r.relaxation) || 0);
+      return age.years >= Number(exam.minAge) && age.years <= maxAge;
+    }).length;
+
+    // These are the only results the tool may present as officially confirmed.
+    const officiallyVerifiedEligible = currentResults.filter(r =>
+      r.exam?.verifiedForCurrentCycle === true &&
+      (r.statusType === 'eligible' || r.statusType === 'relaxation')
+    ).length;
     const totalVerify = counts.verify + counts.verification;
 
     elements.summaryGrid.innerHTML = `
-      <div class="summary-card eligible">
-        <div class="summary-number">${totalEligible}</div>
-        <div class="summary-label">Eligible Exams</div>
+      <div class="summary-card verify" title="Age and qualification match the saved record only; official conditions may still apply.">
+        <div class="summary-number">${savedRulePotentialMatches}</div>
+        <div class="summary-label">Potential Matches (Saved Rules)</div>
       </div>
       <div class="summary-card over-age">
         <div class="summary-number">${counts['over-age']}</div>
@@ -522,9 +539,9 @@
         <div class="summary-number">${totalVerify}</div>
         <div class="summary-label">Verification Required</div>
       </div>
-      <div class="summary-card verify">
-        <div class="summary-number">${counts.preliminary}</div>
-        <div class="summary-label">Preliminary Matches (Not Verified)</div>
+      <div class="summary-card eligible">
+        <div class="summary-number">${officiallyVerifiedEligible}</div>
+        <div class="summary-label">Officially Verified Eligible</div>
       </div>
     `;
   }
