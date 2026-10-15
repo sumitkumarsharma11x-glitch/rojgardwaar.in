@@ -953,7 +953,40 @@
       "verifiedForCurrentCycle": false,
       "verificationStatus": "needs-current-cycle-official-audit",
       "verificationNotes": "JEE Advanced 2026 generally permits two attempts in two consecutive years; official DOB condition is born on/after 01 Oct 2001, relaxed to 01 Oct 1996 for SC/ST/PwD, with an official 2026 third-attempt exception for a narrowly defined 2023 Class XII cohort. Class XII first-appearance year and PCM subjects also apply. A simple age range is insufficient. Official brochure: https://jeeadv.ac.in/documents/IBEnglish_2026_1.pdf",
-      "ageLimitType": "dob-window"
+      "ageLimitType": "dob-window",
+      "eligibilityCriteria": {
+        "cycle": 2026,
+        "source": "https://jeeadv.ac.in/eligibility.html",
+        "requirements": [
+          {
+            "key": "jeeMainRank",
+            "label": "JEE Main 2026 B.E./B.Tech paper",
+            "rule": "Must be among the top 250,000 successful candidates including all categories."
+          },
+          {
+            "key": "dateOfBirth",
+            "label": "Date of birth",
+            "rule": "Born on or after 2001-10-01; SC/ST/PwD relaxation: born on or after 1996-10-01."
+          },
+          {
+            "key": "attempts",
+            "label": "Number of attempts",
+            "rule": "Maximum two attempts in two consecutive years, subject to the official exception described in the 2026 brochure."
+          },
+          {
+            "key": "class12FirstAppearance",
+            "label": "First Class XII appearance",
+            "rule": "Normally first appeared in 2025 or 2026 with Physics, Chemistry and Mathematics; 2024 board-result exception and narrowly defined 2023 third-attempt exception require manual documentary verification."
+          },
+          {
+            "key": "priorIITAdmission",
+            "label": "Earlier IIT admission",
+            "rule": "Prior admission/seat acceptance can disqualify; exceptions and exact cases must be checked against Criterion A5."
+          }
+        ],
+        "requiresManualReview": true,
+        "verificationNotes": "Official JEE Advanced 2026 eligibility page reviewed. Criteria include top-250,000 JEE Main rank, DOB cutoff (01 Oct 2001; SC/ST/PwD 01 Oct 1996), two attempts in consecutive years, Class XII first-appearance years/PCM, earlier IIT admission restrictions, and narrow documented exceptions. Calculator does not collect or verify all required inputs, so this record must remain verification-only. Source: https://jeeadv.ac.in/eligibility.html"
+      }
     },
     {
       "id": "cuet-ug-screening-2026",
