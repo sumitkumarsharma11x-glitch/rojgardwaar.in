@@ -178,7 +178,19 @@
     // Fail-closed safety gate: do not issue definitive eligibility decisions
     // until this exact exam record has been audited against its current official
     // notification and all mandatory inputs are represented in the form.
-    if (exam.verifiedForCurrentCycle !== true) {
+    // Keep records with unknown/complex rules fail-closed. Records with a basic
+    // age cutoff and qualification can be screened provisionally, but never called
+    // definitively eligible/ineligible until their current-cycle notice is audited.
+    const isPreliminary = exam.verifiedForCurrentCycle !== true;
+    const needsHardVerification = isPreliminary && (
+      exam.requiresVerification === true ||
+      exam.ageRulesUnknown === true ||
+      !exam.ageCutoffDate ||
+      !Number.isFinite(Number(exam.minAge)) ||
+      !Number.isFinite(Number(exam.maxAge)) ||
+      Number(exam.maxAge) >= 65
+    );
+    if (needsHardVerification) {
       const relaxation = getRelaxation(exam, category);
       const qualCheck = checkQualification(qualification, exam);
       return {
@@ -190,7 +202,7 @@
         qualificationReason: qualCheck.reason,
         status: 'Official Verification Required',
         statusType: 'verification',
-        explanation: 'Safety check: this exam record has not yet passed a complete current-cycle official-notification audit with all mandatory eligibility fields. The calculator will not declare you eligible or ineligible from incomplete data. Open the official notification and confirm age/cutoff date, qualification, category rules and post/course-specific conditions.'
+        explanation: 'This exam has not passed a complete current-cycle official-notification audit, or its rules require additional inputs. No eligibility decision is being made. Confirm age/cutoff date, qualification, category rules and post/course-specific conditions in the official notification.'
       };
     }
     const relaxation = getRelaxation(exam, category);
@@ -211,9 +223,11 @@
 
     // Check qualification first
     if (!qualCheck.met) {
-      result.status = 'Qualification Not Met';
-      result.statusType = 'qualification';
-      result.explanation = `Your qualification (${qualification}) does not meet the requirement of ${exam.qualification}.`;
+      result.status = isPreliminary ? 'Qualification Check — Not Verified' : 'Qualification Not Met';
+      result.statusType = isPreliminary ? 'preliminary' : 'qualification';
+      result.explanation = isPreliminary
+        ? `Saved data suggests this qualification may not match ${exam.qualification}, but this exam's current-cycle rules have not been officially audited. Treat this as a preliminary screening result only.`
+        : `Your qualification (${qualification}) does not meet the requirement of ${exam.qualification}.`;
       return result;
     }
 
@@ -228,9 +242,11 @@
 
     // Check minimum age
     if (age.decimalAge < exam.minAge) {
-      result.status = 'Check Official Notification';
-      result.statusType = 'verify';
-      result.explanation = `Your age (${age.formatted}) is below the minimum required age of ${exam.minAge} years. Please verify if any exceptions apply in the official notification.`;
+      result.status = isPreliminary ? 'Age Check — Not Verified' : 'Check Official Notification';
+      result.statusType = isPreliminary ? 'preliminary' : 'verify';
+      result.explanation = isPreliminary
+        ? `Saved data suggests your age (${age.formatted}) is below the configured minimum of ${exam.minAge} years. The current-cycle rule is not verified; confirm the official notification.`
+        : `Your age (${age.formatted}) is below the minimum required age of ${exam.minAge} years. Please verify if any exceptions apply in the official notification.`;
       return result;
     }
 
@@ -244,7 +260,11 @@
         return result;
       }
 
-      if (relaxation > 0) {
+      if (isPreliminary) {
+        result.status = 'Potential Match — Not Verified';
+        result.statusType = 'preliminary';
+        result.explanation = `Saved rules suggest your age (${age.formatted}) and qualification may fit the configured criteria (maximum age ${effectiveMaxAge} years including any configured relaxation). This is NOT a confirmed eligibility result because the current-cycle official notification has not been audited.`;
+      } else if (relaxation > 0) {
         result.status = 'Eligible with Relaxation';
         result.statusType = 'relaxation';
         result.explanation = `Your age on cutoff date: ${age.formatted}. Maximum age with ${category} relaxation (${relaxation} years): ${effectiveMaxAge} years. You appear to meet the configured age and qualification criteria.`;
@@ -257,9 +277,11 @@
     }
 
     // Over age
-    result.status = 'Over Age';
-    result.statusType = 'over-age';
-    result.explanation = `Your age on cutoff date: ${age.formatted}. Maximum age with applicable relaxation: ${effectiveMaxAge} years. You have exceeded the permissible age limit by approximately ${Math.round((age.decimalAge - effectiveMaxAge) * 12)} months.`;
+    result.status = isPreliminary ? 'Age Limit Check — Not Verified' : 'Over Age';
+    result.statusType = isPreliminary ? 'preliminary' : 'over-age';
+    result.explanation = isPreliminary
+      ? `Saved rules suggest your age (${age.formatted}) exceeds the configured maximum age of ${effectiveMaxAge} years. Because the current-cycle official notification is not audited, this is only a preliminary flag, not a final rejection.`
+      : `Your age on cutoff date: ${age.formatted}. Maximum age with applicable relaxation: ${effectiveMaxAge} years. You have exceeded the permissible age limit by approximately ${Math.round((age.decimalAge - effectiveMaxAge) * 12)} months.`;
     return result;
   }
 
@@ -275,7 +297,8 @@
       'over-age': 'badge-danger',
       'qualification': 'badge-warning',
       'verify': 'badge-neutral',
-      'verification': 'badge-warning'
+      'verification': 'badge-warning',
+      'preliminary': 'badge-warning'
     };
     return map[statusType] || 'badge-neutral';
   }
@@ -292,7 +315,8 @@
       'over-age': 'over-age',
       'qualification': 'qualification',
       'verify': 'verify',
-      'verification': 'verify'
+      'verification': 'verify',
+      'preliminary': 'verify'
     };
     return map[statusType] || 'verify';
   }
@@ -403,7 +427,8 @@
       'over-age': 0,
       qualification: 0,
       verify: 0,
-      verification: 0
+      verification: 0,
+      preliminary: 0
     };
 
     currentResults.forEach(r => {
@@ -432,6 +457,10 @@
         <div class="summary-number">${totalVerify}</div>
         <div class="summary-label">Verification Required</div>
       </div>
+      <div class="summary-card verify">
+        <div class="summary-number">${counts.preliminary}</div>
+        <div class="summary-label">Preliminary Matches (Not Verified)</div>
+      </div>
     `;
   }
 
@@ -444,6 +473,7 @@
       { key: 'eligible', label: 'Eligible' },
       { key: 'relaxation', label: 'With Relaxation' },
       { key: 'verification', label: '⚠️ Verification Required' },
+      { key: 'preliminary', label: 'Preliminary (Not Verified)' },
       { key: 'over-age', label: 'Over Age' },
       { key: 'qualification', label: 'Qualification Issue' },
       { key: 'verify', label: 'Below Min Age' }
