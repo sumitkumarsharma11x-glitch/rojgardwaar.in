@@ -610,16 +610,20 @@
           </div>
           ` : ''}
           <div class="exam-detail">
-            <span class="exam-detail-label">Qualification</span>
-            <span class="exam-detail-value">${r.exam.qualification}</span>
+            <span class="exam-detail-label">Your Qualification</span>
+            <span class="exam-detail-value">${r.userQualification || 'Not selected'}</span>
           </div>
           <div class="exam-detail">
-            <span class="exam-detail-label">Required</span>
-            <span class="exam-detail-value">${r.qualificationMet ? '✓ Met' : '✗ Not Met'}</span>
+            <span class="exam-detail-label">Required Qualification</span>
+            <span class="exam-detail-value">${r.exam.qualification}${r.exam.acceptedQualifications && r.exam.acceptedQualifications.length > 1 ? ' (or listed equivalent)' : ''}</span>
+          </div>
+          <div class="exam-detail">
+            <span class="exam-detail-label">Qualification Check</span>
+            <span class="exam-detail-value">${r.qualificationMet ? '✓ Saved-data match' : '✗ No configured match'}</span>
           </div>
         </div>
         <div class="exam-card-explanation">
-          <strong>Why:</strong> ${r.explanation}
+          <strong>Preliminary screening:</strong> ${r.explanation}
         </div>
         ${r.exam.verificationNote ? `
         <div class="exam-card-explanation" style="background: var(--warning-bg); border-left: 3px solid var(--warning);">
@@ -735,6 +739,7 @@
     currentResults = selectedExams.map(exam => {
       const age = calculateAge(dob, exam.ageCutoffDate);
       const result = determineEligibility(exam, age, category, qualification);
+      result.userQualification = qualification;
       if (exam.id === 'jee-main-screening-2026' && examCategory === 'jee' && result.qualificationMet) {
         if (examCategory !== 'jee' || !class12Year) {
           result.status = 'Verification Required';
