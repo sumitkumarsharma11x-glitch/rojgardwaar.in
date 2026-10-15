@@ -193,16 +193,38 @@
     if (needsHardVerification) {
       const relaxation = getRelaxation(exam, category);
       const qualCheck = checkQualification(qualification, exam);
+      const effectiveMaxAge = Number.isFinite(Number(exam.maxAge))
+        ? Number(exam.maxAge) + relaxation
+        : null;
+      const ageIsUsable = age && Number.isFinite(age.decimalAge);
+      const hasAgeRange = Number.isFinite(Number(exam.minAge)) && Number.isFinite(Number(exam.maxAge));
+      let screeningSummary = 'Age screening could not be calculated reliably from the saved record.';
+      if (ageIsUsable && hasAgeRange) {
+        if (age.decimalAge < Number(exam.minAge)) {
+          screeningSummary = `Saved-data age screen: age ${age.formatted} is below the configured minimum ${exam.minAge} years.`;
+        } else if (age.decimalAge > effectiveMaxAge) {
+          screeningSummary = `Saved-data age screen: age ${age.formatted} is above the configured maximum ${effectiveMaxAge} years including the saved ${category} relaxation.`;
+        } else {
+          screeningSummary = `Saved-data age screen: age ${age.formatted} falls within the configured ${exam.minAge}–${effectiveMaxAge}-year range.`;
+        }
+      }
+      const qualificationSummary = qualCheck.met
+        ? `The selected qualification (${qualification}) meets the dataset's configured minimum (${exam.qualification}), but post-specific subject, passing-year or other conditions may still apply.`
+        : `The selected qualification (${qualification}) does not match the dataset's configured minimum (${exam.qualification}); check accepted qualifications and post-specific rules.`;
+      const cutoffSummary = exam.ageCutoffDate
+        ? `Configured age cutoff: ${formatDate(exam.ageCutoffDate)}.`
+        : 'No reliable age cutoff date is stored.';
       return {
         exam,
         age,
         relaxation,
-        effectiveMaxAge: exam.maxAge + relaxation,
+        effectiveMaxAge,
         qualificationMet: qualCheck.met,
         qualificationReason: qualCheck.reason,
+        screeningOnly: true,
         status: 'Official Verification Required',
         statusType: 'verification',
-        explanation: 'This exam has not passed a complete current-cycle official-notification audit, or its rules require additional inputs. No eligibility decision is being made. Confirm age/cutoff date, qualification, category rules and post/course-specific conditions in the official notification.'
+        explanation: `${screeningSummary} ${cutoffSummary} ${qualificationSummary} This is a preliminary screen using saved data, NOT a confirmed eligibility decision. Verify the current official notification and all post/category-specific conditions before applying.`
       };
     }
     const relaxation = getRelaxation(exam, category);
