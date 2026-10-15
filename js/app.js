@@ -511,8 +511,10 @@
           !Number.isFinite(Number(exam.minAge)) ||
           !Number.isFinite(Number(exam.maxAge)) ||
           r.qualificationMet !== true) return false;
+      const decimalAge = Number(age.decimalAge);
+      if (!Number.isFinite(decimalAge)) return false;
       const maxAge = Number(exam.maxAge) + (Number(r.relaxation) || 0);
-      return age.years >= Number(exam.minAge) && age.years <= maxAge;
+      return decimalAge >= Number(exam.minAge) && decimalAge <= maxAge;
     }).length;
 
     // These are the only results the tool may present as officially confirmed.
