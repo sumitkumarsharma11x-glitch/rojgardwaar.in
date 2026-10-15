@@ -144,7 +144,7 @@ test('dataset: unique ids and valid cutoff/age fields on every record', () => {
 });
 test('dataset: SSC CGL 2026 matches the official notice dates', () => {
   const cgl = data.exams.find(e => e.id === 'ssc-cgl-2026');
-  assert.equal(E.isVerified(cgl), true);
+  assert.equal(E.isVerified(cgl), false); // post-specific conditions are not fully modeled, so fail closed
   const w = Object.fromEntries(cgl.ageBands.map(b => [b.id, E.ageWindow(cgl.ageCutoffDate, b.minAge, b.maxAge, 0)]));
   assert.equal(w.b27.earliestDob, '1999-08-02');
   assert.equal(w.b2030.earliestDob, '1996-08-02'); assert.equal(w.b2030.latestDob, '2006-08-01');
@@ -160,10 +160,10 @@ test('REPRODUCIBLE CASE: DOB 17-09-1999, General, Graduation, All exams', () => 
   assert.equal(s.groups.reduce((a, g) => a + g.count, 0), s.total);          // exclusive groups sum to total
   for (const g of s.groups) assert.equal(E.filterResults(results, g.key).length, g.count);
   const cgl = results.find(r => r.exam.id === 'ssc-cgl-2026');
-  assert.equal(cgl.statusType, 'eligible');
+  assert.equal(cgl.statusType, 'verification'); // do not claim verified eligibility until CGL post rules are modeled
   assert.equal(cgl.cycle.status, 'closed');
   assert.equal(cgl.age.formatted, '26 years 10 months 15 days');
-  assert.ok(cgl.posts.clear.length > 0 && cgl.posts.conditional.length > 0);
+  assert.equal(cgl.posts.clear.length, 0); // fail-closed verification returns before post classification
   assert.ok(s.byType.eligible >= 1);
   assert.equal(s.openNow, 0);
 });
