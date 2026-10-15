@@ -104,6 +104,21 @@ test('missing or invalid cutoff / ages / placeholder -> verification, never a de
   assert.equal(type(mk({ ageRulesUnknown: true }), prof('1999-09-17')), 'verification');
   assert.equal(type(mk({ sourceConflict: 'a vs b' }), prof('1999-09-17')), 'verification');
 });
+
+test('academic age-limit types distinguish no-upper-limit from fake 0-100 placeholder', () => {
+  const base = mk({ minAge: 0, maxAge: 100, ageRulesUnknown: false, ageLimitType: 'none', requiresVerification: true });
+  const result = E.evaluateExam(base, prof('1999-09-17'), TODAY);
+  assert.equal(result.statusType, 'verification'); // still fail-closed until all academic criteria are modeled
+  assert.ok(!result.issues.some(x => x.includes('maximum age is a placeholder')));
+  const minimumOnly = E.evaluateExam(mk({ minAge: 17, maxAge: 100, ageRulesUnknown: false, ageLimitType: 'minimum-only', requiresVerification: true }), prof('2009-01-01'), TODAY);
+  assert.equal(minimumOnly.statusType, 'verification');
+  assert.ok(!minimumOnly.issues.some(x => x.includes('maximum age is a placeholder')));
+});
+test('JEE Advanced remains verification-only while DOB/attempt/Class XII criteria are incomplete', () => {
+  const ex = data.exams.find(e => e.id === 'jee-advanced-screening-2026');
+  assert.equal(ex.ageLimitType, 'dob-window');
+  assert.equal(E.evaluateExam(ex, prof('2005-01-01'), TODAY).statusType, 'verification');
+});
 test('contradictory verification metadata is not trusted', () => {
   assert.equal(E.isVerified(mk(evidence)), true);
   assert.equal(E.isVerified(mk({ verifiedForCurrentCycle: true })), false);
