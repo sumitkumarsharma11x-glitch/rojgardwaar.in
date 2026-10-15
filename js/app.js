@@ -808,51 +808,31 @@
       }
       return exam.examCategory === examCategory || exam.examCategory === 'all';
     });
-    currentResults = selectedExams.map(exam => {
-      const age = calculateAge(dob, exam.ageCutoffDate);
-      const result = determineEligibility(exam, age, category, qualification);
-      result.userQualification = qualification;
-      result.userTrade = selectedTrade;
-      if (qualification === 'ITI' && Array.isArray(exam.itiTrades) && exam.itiTrades.length > 0) {
-        if (!selectedTrade || !exam.itiTrades.includes(selectedTrade)) {
-          result.qualificationMet = false;
-          result.qualificationReason = !selectedTrade
-            ? 'Select your ITI trade and verify the official notification.'
-            : `The selected ITI trade (${selectedTrade}) is not in this record's configured trade list.`;
-          if (result.statusType !== 'verification') {
-            result.status = 'Qualification Check — Not Verified';
-            result.statusType = 'preliminary';
-          }
-        }
-      }
-      if (exam.id === 'jee-main-screening-2026' && examCategory === 'jee' && result.qualificationMet) {
-        if (examCategory !== 'jee' || !class12Year) {
-          result.status = 'Verification Required';
-          result.statusType = 'verification';
-          result.explanation = 'Select JEE as the exam category and provide your Class 12 passing/appearing year to check the JEE Main 2026 qualifying-year window. This does not confirm admission eligibility.';
-        } else if (class12Year === 'before2024') {
-          result.status = 'Qualification Not Met';
-          result.statusType = 'qualification';
-          result.explanation = 'For JEE Main 2026, candidates who passed Class 12/equivalent before 2024 do not meet the configured qualifying-year window. Verify the official bulletin.';
-        } else if (!['2024','2025','2026'].includes(class12Year)) {
-          result.status = 'Verification Required';
-          result.statusType = 'verification';
-          result.explanation = 'The Class 12 year was not confirmed. Check the official JEE Main 2026 bulletin.';
-        } else {
-          result.status = 'Verification Required';
-          result.statusType = 'verification';
-          result.explanation = 'Your Class 12 year falls within the configured JEE Main 2026 window. Subject requirements and institute/admission criteria are not checked by this calculator; verify the official bulletin.';
-        }
-      }
-      if (exam.itiTrades && qualification === 'ITI') {
-        if (!selectedTrade) {
-          result.status = 'Verification Required'; result.statusType = 'verification';
-          result.explanation = 'Select your ITI trade and verify the official notification.';
-        } else if (!exam.itiTrades.includes(selectedTrade)) {
-          result.status = 'Qualification Not Met'; result.statusType = 'qualification';
-          result.explanation = 'This configured post does not list the selected trade. Verify the official notification.';
-        }
-      }
+    if (!window.EligibilityEngine) {
+      setButtonLoading(false);
+      console.error('Eligibility engine did not load.');
+      alert('Eligibility engine load nahi hua. Page refresh karke dobara try karein.');
+      return;
+    }
+
+    const engineProfile = { dob, category, qualification, trade: selectedTrade, examCategory, class12Year };
+    const evaluated = window.EligibilityEngine.evaluateAll(selectedExams, engineProfile);
+    currentResults = evaluated.map(item => {
+      const typeMap = {
+        eligible: 'eligible', relaxation: 'relaxation', additional: 'verification',
+        potential: 'preliminary', verification: 'verification', unlikely: 'preliminary',
+        'age-not-met': 'over-age', 'qualification-not-met': 'qualification'
+      };
+      const result = {
+        exam: item.exam, age: calculateAge(dob, item.exam.ageCutoffDate),
+        status: item.status, statusType: typeMap[item.statusType] || 'verification',
+        explanation: item.explanation, qualificationMet: !!(item.qualification && item.qualification.met),
+        qualificationReason: item.qualification ? item.qualification.reason : 'Qualification could not be verified.',
+        relaxation: item.relaxation || 0, effectiveMaxAge: item.effectiveMaxAge,
+        screeningOnly: !item.verified, verificationState: item.verificationState,
+        cycle: item.cycle, engineResult: item
+      };
+      result.userQualification = qualification; result.userTrade = selectedTrade;
       return result;
     });
 
