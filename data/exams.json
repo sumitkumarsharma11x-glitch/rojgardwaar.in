@@ -446,11 +446,11 @@
     },
     {
       "id": "bpsc-69-2026",
-      "exam": "BPSC 69th Combined Competitive Exam",
+      "exam": "BPSC 69th Combined Competitive Exam (Historical — 2023)",
       "organization": "Bihar Public Service Commission (BPSC)",
       "minAge": 20,
       "maxAge": 37,
-      "ageCutoffDate": "2026-08-01",
+      "ageCutoffDate": "2023-01-01",
       "qualification": "Graduation",
       "qualificationLevel": 3,
       "relaxation": {
@@ -464,10 +464,13 @@
       "officialNotificationUrl": "https://bpsc.bih.nic.in/",
       "applyUrl": "https://bpsc.bih.nic.in/",
       "description": "Various administrative posts in Bihar state government",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "state",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "historical-cycle-not-current",
+      "recruitmentStatus": "historical",
+      "verificationNote": "This is the BPSC 69th CCE recruitment announced in 2023, not a current 2026 recruitment. It must not be treated as an active application opportunity. Age cutoff shown here is a historical reference only; the exact post-wise age date/rules must be checked in the original 2023 notice.",
+      "verificationReason": "Historical recruitment cycle (BPSC 69th CCE 2023). Do not treat this record as current eligibility or an open application. Use the latest BPSC recruitment notification for current opportunities."
     },
     {
       "id": "mppsc-2026",
