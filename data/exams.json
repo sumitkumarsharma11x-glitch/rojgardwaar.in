@@ -598,13 +598,13 @@
         "PwD": 0,
         "General": 0
       },
-      "officialNotificationUrl": "https://www.rrbcdg.gov.in/employment-notices.php",
-      "applyUrl": "https://www.rrbcdg.gov.in/employment-notices.php",
-      "description": "Railway paramedical recruitment; exact qualification, registration, age and post requirements vary by post.",
+      "officialNotificationUrl": "https://www.rrbcdg.gov.in/2025-03-pmed.php",
+      "applyUrl": "https://www.rrbcdg.gov.in/2025-03-pmed.php",
+      "description": "RRB CEN 03/2025 paramedical recruitment. Posts have different professional qualifications, registration requirements and post-wise age limits; this record is a directory/screening entry, not a universal eligibility ruling.",
       "requiresVerification": true,
       "ageRulesUnknown": true,
-      "verificationReason": "RRB paramedical posts have post-specific qualifications, professional registration and age rules. Check the current CEN and post-wise annexures; this result does not confirm eligibility.",
-      "verificationNote": "Post-specific qualification and registration are mandatory where prescribed.",
+      "verificationReason": "RRB CEN 03/2025 sets different age bands and educational/professional requirements by paramedical post. The candidate must choose a specific post and check the official CEN post-wise table; this generic record cannot confirm age or qualification.",
+      "verificationNote": "Select the exact paramedical post and check its age band, qualification and registration in the official CEN 03/2025.",
       "examCategory": "paramedical"
     },
     {
@@ -681,8 +681,8 @@
       "description": "IIT admission entrance; JEE Main qualification/rank, attempt limits and Class XII year/subject rules apply.",
       "requiresVerification": true,
       "ageRulesUnknown": true,
-      "verificationReason": "JEE Advanced has additional attempt, qualifying-year, JEE Main performance and category-specific conditions that this calculator cannot validate.",
-      "verificationNote": "Eligibility is not determined by age and 12th qualification alone.",
+      "verificationReason": "JEE Advanced has cycle-specific birth-date, attempt-limit, JEE Main performance, Class XII year and category conditions. This calculator does not collect all of those inputs; check the official JEE Advanced 2026 information brochure.",
+      "verificationNote": "Age/birth-date window, attempt limits, JEE Main qualification and Class XII conditions must be checked in the 2026 brochure.",
       "examCategory": "jee"
     },
     {
@@ -704,11 +704,11 @@
       },
       "officialNotificationUrl": "https://cuet.nta.nic.in/",
       "applyUrl": "https://cuet.nta.nic.in/",
-      "description": "Common entrance test for participating universities; programme-wise subjects and admission eligibility vary by university.",
+      "description": "CUET (UG) 2026 entrance test for participating universities. Eligibility, subject combinations, marks and age requirements depend on the selected university and programme.",
       "requiresVerification": true,
       "ageRulesUnknown": true,
-      "verificationReason": "CUET eligibility and age conditions can depend on the participating university and selected programme. Subject mapping, marks and university-specific conditions are not checked here.",
-      "verificationNote": "Check the chosen university's current programme eligibility before applying.",
+      "verificationReason": "There is no single universal age/qualification rule for all CUET participating programmes. Check the current CUET bulletin and the selected university's programme-specific eligibility; this calculator does not collect university/programme or subject mapping.",
+      "verificationNote": "Choose a university and programme, then verify its CUET 2026 eligibility rules.",
       "examCategory": "cuet"
     },
     {
@@ -728,13 +728,13 @@
         "PwD": 0,
         "General": 0
       },
-      "officialNotificationUrl": "https://ctet.nic.in/information-bulletin/",
+      "officialNotificationUrl": "https://ctet.nic.in/document/ctet-sept-2026-information-bulletin/",
       "applyUrl": "https://ctet.nic.in/",
-      "description": "Teacher eligibility test; Paper I/Paper II have specific education, teacher-training and subject conditions.",
+      "description": "CTET September 2026. Paper I and Paper II use specific academic and teacher-training qualification combinations; a generic degree label is not enough to establish eligibility.",
       "requiresVerification": true,
       "ageRulesUnknown": true,
-      "verificationReason": "CTET eligibility depends on the relevant paper and prescribed teacher-training/degree combinations. The current input does not capture all accepted combinations.",
-      "verificationNote": "Choose Paper I/II and verify the required teacher-training qualification in the bulletin.",
+      "verificationReason": "CTET eligibility depends on the paper selected and prescribed education/teacher-training combinations. A universal age range is not encoded here, and this calculator does not capture all accepted combinations.",
+      "verificationNote": "Check the CTET September 2026 bulletin and the exact Paper I/Paper II qualification combination.",
       "examCategory": "teacher"
     },
     {
@@ -759,8 +759,8 @@
       "description": "State teacher eligibility/recruitment; rules differ by state, paper, subject and post.",
       "requiresVerification": true,
       "ageRulesUnknown": true,
-      "verificationReason": "State TET and teacher recruitment rules are state-specific. Select the relevant state's current official notification before relying on eligibility.",
-      "verificationNote": "This is a general directory entry, not a single national recruitment rule.",
+      "verificationReason": "State TET and teacher recruitment rules vary by state, post, paper and recruitment notification. No universal national age limit or qualification combination can be inferred from this record.",
+      "verificationNote": "Choose the state and exact recruitment notification; this generic entry is only a directory pointer.",
       "examCategory": "teacher"
     },
     {
@@ -785,17 +785,17 @@
       "description": "ITI qualification pathway for technical jobs and apprenticeship opportunities; accepted trades and certificate type depend on the post.",
       "requiresVerification": true,
       "ageRulesUnknown": true,
-      "verificationReason": "ITI acceptance depends on trade, NCVT/SCVT certificate, apprenticeship/NAC requirements and the recruiting notification. This tool does not validate the selected trade against each post.",
-      "verificationNote": "The tool's ITI trade field is a screening aid; verify the exact trade in the official notice.",
+      "verificationReason": "ITI eligibility depends on the target vacancy, accepted trade, NCVT/SCVT certificate and sometimes NAC or experience. This generic record cannot confirm eligibility for a specific post.",
+      "verificationNote": "Select the target recruitment and compare the exact ITI trade/certificate with its official notification.",
       "examCategory": "iti"
     },
     {
       "id": "apprenticeship-iti-screening",
       "exam": "Apprenticeship Opportunities for ITI Candidates",
       "organization": "Directorate General of Training (DGT) / Establishments",
-      "minAge": 0,
+      "minAge": 14,
       "maxAge": 100,
-      "ageCutoffDate": "2026-12-31",
+      "ageCutoffDate": "2026-10-15",
       "qualification": "ITI",
       "qualificationLevel": 1,
       "relaxation": {
@@ -806,13 +806,13 @@
         "PwD": 0,
         "General": 0
       },
-      "officialNotificationUrl": "https://www.apprenticeshipindia.gov.in/",
+      "officialNotificationUrl": "https://www.dgt.gov.in/en/faqs-0",
       "applyUrl": "https://www.apprenticeshipindia.gov.in/",
-      "description": "ITI apprenticeship opportunities; trade, age, medical fitness and establishment-specific criteria apply.",
+      "description": "Apprenticeship opportunities across trade, technician, vocational and graduate pathways. DGT guidance states a general minimum age of 14, but educational standards, trade-specific age rules and vacancies vary by apprenticeship.",
       "requiresVerification": true,
       "ageRulesUnknown": true,
-      "verificationReason": "Apprenticeship eligibility varies by trade, establishment and individual vacancy. No universal age cutoff can be safely inferred.",
-      "verificationNote": "Check the individual apprenticeship advertisement and trade requirements.",
+      "verificationReason": "DGT guidance states apprentices must be at least 14 and meet trade-specific physical/educational standards. Some trades and individual vacancies have additional rules, so this broad entry cannot confirm final eligibility.",
+      "verificationNote": "General DGT guidance: minimum age 14; verify trade, qualification, physical standards and vacancy-specific rules.",
       "examCategory": "iti"
     }
   ],
