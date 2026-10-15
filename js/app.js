@@ -175,6 +175,24 @@
    * @returns {Object} Eligibility result
    */
   function determineEligibility(exam, age, category, qualification) {
+    // Fail-closed safety gate: do not issue definitive eligibility decisions
+    // until this exact exam record has been audited against its current official
+    // notification and all mandatory inputs are represented in the form.
+    if (exam.verifiedForCurrentCycle !== true) {
+      const relaxation = getRelaxation(exam, category);
+      const qualCheck = checkQualification(qualification, exam);
+      return {
+        exam,
+        age,
+        relaxation,
+        effectiveMaxAge: exam.maxAge + relaxation,
+        qualificationMet: qualCheck.met,
+        qualificationReason: qualCheck.reason,
+        status: 'Official Verification Required',
+        statusType: 'verification',
+        explanation: 'Safety check: this exam record has not yet passed a complete current-cycle official-notification audit with all mandatory eligibility fields. The calculator will not declare you eligible or ineligible from incomplete data. Open the official notification and confirm age/cutoff date, qualification, category rules and post/course-specific conditions.'
+      };
+    }
     const relaxation = getRelaxation(exam, category);
     const effectiveMaxAge = exam.maxAge + relaxation;
     const qualCheck = checkQualification(qualification, exam);
