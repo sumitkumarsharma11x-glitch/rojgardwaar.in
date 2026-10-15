@@ -17,13 +17,15 @@
         "PwD": 10,
         "General": 0
       },
-      "officialNotificationUrl": "https://ssc.gov.in/",
+      "officialNotificationUrl": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_adv_cgl_2026.pdf",
       "applyUrl": "https://ssc.gov.in/",
       "description": "Group B and C posts in various ministries/departments",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "ssc",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "official-notice-found-post-specific-rules-not-fully-modeled",
+      "verificationNote": "The official CGL 2026 notice lists different age bands by post (18–27, 18–30, 20–30 and 18–32) and post-specific qualifications/physical-medical conditions. The calculator's single age range is only a broad screen; check the exact post and eligibility in the notice.",
+      "verificationReason": "CGL has multiple post-specific age bands and some posts require additional subject, physical, medical or other conditions not captured by this form."
     },
     {
       "id": "ssc-chsl-2026",
@@ -184,11 +186,11 @@
     },
     {
       "id": "rrb-ntpc-2026",
-      "exam": "RRB NTPC (Non-Technical Popular Categories)",
+      "exam": "RRB NTPC Undergraduate Posts (CEN 07/2025)",
       "organization": "Railway Recruitment Board (RRB)",
       "minAge": 18,
       "maxAge": 33,
-      "ageCutoffDate": "2026-07-01",
+      "ageCutoffDate": "2026-01-01",
       "qualification": "12th Pass",
       "qualificationLevel": 2,
       "relaxation": {
@@ -199,21 +201,50 @@
         "PwD": 10,
         "General": 0
       },
-      "officialNotificationUrl": "https://rrbcdg.gov.in/",
-      "applyUrl": "https://rrbcdg.gov.in/",
-      "description": "Commercial Apprentice, Traffic Apprentice, Goods Guard, Junior Clerk",
-      "requiresVerification": false,
+      "officialNotificationUrl": "https://www.rrbcdg.gov.in/uploads/2025/07-NTPCUG/072025NTPCUG-CEN.pdf",
+      "applyUrl": "https://www.rrbcdg.gov.in/",
+      "description": "Undergraduate NTPC posts; current record is for the CEN 07/2025 undergraduate notice, not graduate-level posts.",
+      "requiresVerification": true,
       "examCategory": "railway",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "official-notice-found-post-specific-rules-not-fully-modeled",
+      "verificationReason": "The prior record mixed undergraduate qualification with graduate-level post descriptions and used an unsupported 01.07.2026 cutoff. Age/qualification must be checked against CEN 07/2025 and post-specific rules.",
+      "verificationNote": "Use the CEN 07/2025 undergraduate notice. Graduate NTPC posts are a separate recruitment notice."
+    },
+    {
+      "id": "rrb-ntpc-graduate-cen-06-2025",
+      "exam": "RRB NTPC Graduate Posts (CEN 06/2025)",
+      "organization": "Railway Recruitment Boards (RRB)",
+      "minAge": 18,
+      "maxAge": 36,
+      "ageCutoffDate": "2026-01-01",
+      "qualification": "Graduation",
+      "qualificationLevel": 3,
+      "relaxation": {
+        "OBC": 3,
+        "SC": 5,
+        "ST": 5,
+        "EWS": 0,
+        "PwD": 10,
+        "General": 0
+      },
+      "officialNotificationUrl": "https://www.rrbcdg.gov.in/uploads/2025/06-NTPCG/062025NTPCG-Corrigendum1.pdf",
+      "applyUrl": "https://www.rrbcdg.gov.in/",
+      "description": "Graduate-level NTPC recruitment under CEN 06/2025; verify post-specific age bands, qualification cut-off and medical standards.",
+      "requiresVerification": true,
+      "verificationReason": "Graduate NTPC has post-wise age limits, specific qualification/cut-off rules, and medical standards not represented in this basic calculator.",
+      "verificationNote": "Separate from RRB NTPC Undergraduate CEN 07/2025. Check the full CEN 06/2025 notification and corrigenda.",
+      "examCategory": "railway",
+      "verifiedForCurrentCycle": false,
+      "verificationStatus": "official-notice-found-post-specific-rules-not-fully-modeled"
     },
     {
       "id": "rrb-group-d-2026",
       "exam": "RRB Group D",
       "organization": "Railway Recruitment Board (RRB)",
       "minAge": 18,
-      "maxAge": 33,
-      "ageCutoffDate": "2026-07-01",
+      "maxAge": 36,
+      "ageCutoffDate": "2026-01-01",
       "qualification": "10th Pass",
       "qualificationLevel": 1,
       "relaxation": {
@@ -224,13 +255,15 @@
         "PwD": 10,
         "General": 0
       },
-      "officialNotificationUrl": "https://rrbcdg.gov.in/",
-      "applyUrl": "https://rrbcdg.gov.in/",
-      "description": "Track Maintainer, Pointsman, Helper, Porter and other Level-1 posts",
-      "requiresVerification": false,
+      "officialNotificationUrl": "https://www.rrbcdg.gov.in/uploads/2025/09-LVL1/092025-CEN.pdf",
+      "applyUrl": "https://www.rrbcdg.gov.in/",
+      "description": "RRB Level-1 posts under CEN 09/2025; age reckoned as on 01.01.2026. Official notice includes a one-time upper-age relaxation, and post/medical/physical criteria must be checked.",
+      "requiresVerification": true,
       "examCategory": "railway",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "official-notice-found-additional-rules-not-fully-modeled",
+      "verificationReason": "CEN 09/2025 has additional post-wise eligibility, physical/medical criteria and category rules; the calculator does not yet model all mandatory conditions.",
+      "verificationNote": "Age cutoff is 01.01.2026 per CEN 09/2025. Check the exact post, one-time age-relaxation clauses and required qualification in the official notice."
     },
     {
       "id": "ibps-po-2026",
