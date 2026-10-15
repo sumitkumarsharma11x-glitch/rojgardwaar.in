@@ -762,11 +762,37 @@
     const examCategory = elements.examCategorySelect?.value || 'all';
     const selectedTrade = elements.tradeSelect?.value || '';
     const class12Year = elements.class12YearSelect?.value || '';
-    const selectedExams = examData.exams.filter(exam => examCategory === 'all' || exam.examCategory === examCategory || exam.examCategory === 'all');
+    const selectedExams = examData.exams.filter(exam => {
+      if (examCategory === 'all') return true;
+      // "ITI" is a qualification/trade filter, not just an exam-sector category:
+      // railway ALP and Technician records belong to the railway sector but are
+      // relevant to ITI candidates and must be included in ITI screening.
+      if (examCategory === 'iti') {
+        const accepted = exam.acceptedQualifications || [exam.qualification];
+        return exam.examCategory === 'iti' ||
+          exam.qualification === 'ITI' ||
+          accepted.includes('ITI') ||
+          (Array.isArray(exam.itiTrades) && exam.itiTrades.length > 0);
+      }
+      return exam.examCategory === examCategory || exam.examCategory === 'all';
+    });
     currentResults = selectedExams.map(exam => {
       const age = calculateAge(dob, exam.ageCutoffDate);
       const result = determineEligibility(exam, age, category, qualification);
       result.userQualification = qualification;
+      result.userTrade = selectedTrade;
+      if (qualification === 'ITI' && Array.isArray(exam.itiTrades) && exam.itiTrades.length > 0) {
+        if (!selectedTrade || !exam.itiTrades.includes(selectedTrade)) {
+          result.qualificationMet = false;
+          result.qualificationReason = !selectedTrade
+            ? 'Select your ITI trade and verify the official notification.'
+            : `The selected ITI trade (${selectedTrade}) is not in this record's configured trade list.`;
+          if (result.statusType !== 'verification') {
+            result.status = 'Qualification Check — Not Verified';
+            result.statusType = 'preliminary';
+          }
+        }
+      }
       if (exam.id === 'jee-main-screening-2026' && examCategory === 'jee' && result.qualificationMet) {
         if (examCategory !== 'jee' || !class12Year) {
           result.status = 'Verification Required';
