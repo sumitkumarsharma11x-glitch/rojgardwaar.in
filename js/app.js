@@ -506,15 +506,23 @@
     const savedRulePotentialMatches = currentResults.filter(r => {
       const exam = r.exam || {};
       const age = r.age;
-      if (!age || exam.recruitmentStatus === 'historical' || exam.ageRulesUnknown === true) return false;
+      if (!age || exam.recruitmentStatus === 'historical') return false;
       if (!exam.ageCutoffDate ||
           !Number.isFinite(Number(exam.minAge)) ||
           !Number.isFinite(Number(exam.maxAge)) ||
           r.qualificationMet !== true) return false;
+
+      // Do not count broad placeholder ranges (for example 0–100) as matches.
+      // A record with a plausible configured range can be shown as a potential
+      // match even when ageRulesUnknown is true, but it must remain unverified.
+      const minAge = Number(exam.minAge);
+      const savedMaxAge = Number(exam.maxAge);
+      if (minAge < 14 || savedMaxAge >= 65 || savedMaxAge < minAge) return false;
+
       const decimalAge = Number(age.decimalAge);
       if (!Number.isFinite(decimalAge)) return false;
-      const maxAge = Number(exam.maxAge) + (Number(r.relaxation) || 0);
-      return decimalAge >= Number(exam.minAge) && decimalAge <= maxAge;
+      const maxAge = savedMaxAge + (Number(r.relaxation) || 0);
+      return decimalAge >= minAge && decimalAge <= maxAge;
     }).length;
 
     // These are the only results the tool may present as officially confirmed.
