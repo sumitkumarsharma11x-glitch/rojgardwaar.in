@@ -841,7 +841,7 @@
       const priority = {
         'eligible': 0,
         'relaxation': 1,
-        'verify': 2,
+        'verification': 2,
         'qualification': 3,
         'over-age': 4
       };
