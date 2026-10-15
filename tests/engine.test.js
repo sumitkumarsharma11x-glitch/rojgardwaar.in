@@ -164,7 +164,7 @@ test('REPRODUCIBLE CASE: DOB 17-09-1999, General, Graduation, All exams', () => 
   assert.equal(cgl.cycle.status, 'closed');
   assert.equal(cgl.age.formatted, '26 years 10 months 15 days');
   assert.equal(cgl.posts.clear.length, 0); // fail-closed verification returns before post classification
-  assert.ok(s.byType.eligible >= 1);
+  assert.ok(s.byType.verification >= 1); // the dataset currently has no fully audited current-cycle records
   assert.equal(s.openNow, 0);
 });
 test('summary: filters are consistent with counts for every status', () => {
