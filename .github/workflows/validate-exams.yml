@@ -37,5 +37,10 @@ jobs:
           node-version: '20'
       - name: Validate exam data
         run: node scripts/validate-exams.js
+      - name: Check JavaScript syntax
+        run: |
+          node --check js/eligibility-engine.js
+          node --check js/app.js
+          node --check scripts/validate-exams.js
       - name: Run eligibility tests
         run: node --test tests/*.test.js
