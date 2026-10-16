@@ -1,15 +1,23 @@
-name: Validate Eligibility Data
+name: Eligibility tests and data validation
 
 on:
   push:
     branches: [main]
     paths:
       - 'data/exams.json'
+      - 'js/eligibility-engine.js'
+      - 'js/app.js'
+      - 'tests/**'
+      - 'eligibility.html'
       - 'scripts/validate-exams.js'
       - '.github/workflows/validate-exams.yml'
   pull_request:
     paths:
       - 'data/exams.json'
+      - 'js/eligibility-engine.js'
+      - 'js/app.js'
+      - 'tests/**'
+      - 'eligibility.html'
       - 'scripts/validate-exams.js'
       - '.github/workflows/validate-exams.yml'
   workflow_dispatch:
@@ -29,3 +37,10 @@ jobs:
           node-version: '20'
       - name: Validate exam data
         run: node scripts/validate-exams.js
+      - name: Check JavaScript syntax
+        run: |
+          node --check js/eligibility-engine.js
+          node --check js/app.js
+          node --check scripts/validate-exams.js
+      - name: Run eligibility tests
+        run: node --test tests/*.test.js

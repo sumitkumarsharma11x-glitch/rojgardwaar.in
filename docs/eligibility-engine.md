@@ -239,3 +239,14 @@ Main eligibility decision function.
 **Version:** 1.1.0  
 **Last Updated:** September 1, 2026  
 **Maintainer:** ROJGARDWAAR.IN Team
+
+
+## v2 (October 2026)
+
+Decision logic now lives in `js/eligibility-engine.js` (pure functions, unit-tested with `node --test tests/*.test.js`);
+`js/app.js` only reads the form and renders. Ages are compared as calendar dates ("born between X and Y"), not decimal years.
+Outcomes are mutually exclusive: eligible, relaxation, additional, potential, verification, unlikely, age-not-met, qualification-not-met.
+A record is "verified" only when `verifiedForCurrentCycle` is true AND the evidence fields
+(`verificationStatus: "verified"`, `verificationCheckedAt`, `verificationSourceTitle`, `verificationNotes`) are present and consistent.
+Optional record fields: `ageBands[]` (post-wise age limits with `posts[].conditions`), `applicationWindow {start,end}`,
+`cycleHint`, `sourceConflict`, `conditions[]`, `relaxationNote`.
