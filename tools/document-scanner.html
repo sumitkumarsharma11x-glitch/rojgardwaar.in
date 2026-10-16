@@ -1,7 +1,179 @@
 <!doctype html>
-<html lang="hi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="फोटो से साफ PDF बनाएं, crop और contrast adjust करें।"><title>Document Scanner | ROJGARDWAAR.IN</title><link rel="icon" href="../rd-logo.svg"><style>
-:root{--blue:#1a56db;--ink:#16223a;--muted:#52607a;--line:#d5dff0}*{box-sizing:border-box}body{margin:0;background:#f4f7fc;color:var(--ink);font:16px/1.6 Inter,"Noto Sans Devanagari",system-ui,sans-serif}.wrap{max-width:900px;width:calc(100% - 28px);margin:auto}.top{padding:18px 0;background:#fff;border-bottom:1px solid var(--line)}a{color:var(--blue)}h1{font-size:clamp(27px,5vw,38px);color:var(--blue);margin:25px 0 8px}.panel{background:white;border:1px solid var(--line);border-radius:16px;padding:20px;margin:18px 0}label{font-weight:700;display:block;margin:12px 0 5px}input,select,button{font:inherit}input,select{max-width:100%;padding:9px;border:1px solid #bdcbe2;border-radius:9px}button{border:0;border-radius:10px;padding:11px 16px;background:var(--blue);color:#fff;font-weight:700;cursor:pointer;margin:8px 6px 8px 0}button:disabled{opacity:.5;cursor:not-allowed}.muted{color:var(--muted)}.pages{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px}.page{border:1px solid var(--line);padding:10px;border-radius:10px;background:#fafcff}.page canvas{width:100%;height:auto;display:block}.status{font-weight:600;margin:10px 0}.note{background:#fff5d6;padding:12px;border-radius:8px}@media(max-width:480px){.panel{padding:14px}}
-</style></head><body><header class="top"><div class="wrap"><a href="../index.html">← ROJGARDWAAR.IN</a></div></header><main class="wrap"><h1>Document Scanner</h1><p class="muted">एक या कई document photos चुनें, contrast सुधारें और PDF बनाएं। सभी processing आपके browser में होती है।</p><div class="panel"><label for="files">Document की फोटो चुनें (एक से अधिक चुन सकते हैं)</label><input id="files" type="file" accept="image/*" multiple><label for="mode">Scan look</label><select id="mode"><option value="color">Original colour</option><option value="gray">Grayscale</option><option value="bw">Black & white (high contrast)</option></select><div id="pages" class="pages"></div><button id="pdf" disabled>Download scanned PDF</button><div id="status" class="status" role="status" aria-live="polite"></div></div><div class="note">यह basic scanner है: इसमें automatic edge detection/crop शामिल नहीं है। दस्तावेज़ की चारों सीमाएँ फ्रेम में रखें और PDF डाउनलोड के बाद पढ़ने योग्य होने की जाँच करें।</div></main>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js" defer></script><script>
-(()=>{const $=id=>document.getElementById(id);let pages=[];function draw(){const mode=$('mode').value;$('pages').innerHTML='';pages.forEach((p,i)=>{const c=document.createElement('canvas');const max=1200,scale=Math.min(1,max/Math.max(p.img.naturalWidth,p.img.naturalHeight));c.width=Math.round(p.img.naturalWidth*scale);c.height=Math.round(p.img.naturalHeight*scale);const ctx=c.getContext('2d');ctx.drawImage(p.img,0,0,c.width,c.height);const im=ctx.getImageData(0,0,c.width,c.height);for(let k=0;k<im.data.length;k+=4){const lum=.299*im.data[k]+.587*im.data[k+1]+.114*im.data[k+2];if(mode==='gray'){im.data[k]=im.data[k+1]=im.data[k+2]=lum}else if(mode==='bw'){const v=lum>160?255:0;im.data[k]=im.data[k+1]=im.data[k+2]=v}}ctx.putImageData(im,0,0);const d=document.createElement('div');d.className='page';const title=document.createElement('div');title.textContent='Page '+(i+1);d.append(title,c);$('pages').append(d);p.canvas=c});$('pdf').disabled=!pages.length}$('files').addEventListener('change',async()=>{pages.forEach(p=>p.url&&URL.revokeObjectURL(p.url));pages=[];$('status').textContent='';const list=Array.from($('files').files||[]);if(list.length>30){$('status').textContent='एक बार में अधिकतम 30 images चुनें।';return}if(!list.length){draw();return}for(const f of list){if(!f.type.startsWith('image/'))continue;if(f.size>15*1024*1024){$('status').textContent=f.name+' 15 MB से बड़ी है; इसे compress करके फिर चुनें।';continue}const url=URL.createObjectURL(f);const img=new Image();await new Promise(resolve=>{img.onload=()=>resolve();img.onerror=()=>resolve();img.src=url});if(img.naturalWidth)pages.push({img,url});else URL.revokeObjectURL(url)}draw();$('status').textContent=pages.length+' पेज तैयार।'+(pages.length?' अब PDF डाउनलोड कर सकते हैं।':' कोई valid image लोड नहीं हुई।')});$('mode').addEventListener('change',draw);$('pdf').addEventListener('click',()=>{if(!window.jspdf?.jsPDF){$('status').textContent='PDF library लोड नहीं हुई। इंटरनेट कनेक्शन जाँचकर पेज refresh करें।';return}if(!pages.length){$('status').textContent='पहले document images चुनें।';return}try{const {jsPDF}=window.jspdf;const pdf=new jsPDF({orientation:'portrait',unit:'pt',format:'a4',compress:true});pages.forEach((p,i)=>{if(i)pdf.addPage();const pw=pdf.internal.pageSize.getWidth(),ph=pdf.internal.pageSize.getHeight(),ratio=Math.min(pw/p.canvas.width,ph/p.canvas.height),w=p.canvas.width*ratio,h=p.canvas.height*ratio;pdf.addImage(p.canvas.toDataURL('image/jpeg',.88),'JPEG',(pw-w)/2,(ph-h)/2,w,h,undefined,'FAST')});pdf.save('rojgardwaar-scanned-document.pdf');$('status').textContent='PDF डाउनलोड शुरू हो गया। डाउनलोड की गई PDF खोलकर हर पेज की जाँच करें।'}catch(e){$('status').textContent='PDF बनाते समय समस्या आई: '+e.message+'। कम images चुनकर दोबारा कोशिश करें।'}});})();
+<html lang="hi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="फोटो से document scan करें: crop, rotate, readability सुधारें और 100/200/500 KB का JPG या PDF बनाएं। सब कुछ आपके browser में।"><title>Document Scanner | ROJGARDWAAR.IN</title><link rel="icon" href="../rd-logo.svg"><style>
+:root{--blue:#1a56db;--ink:#16223a;--muted:#52607a;--line:#d5dff0;--ok:#0b6b3a;--okbg:#e6f6ec;--warn:#8a5a00;--warnbg:#fff5d6;--err:#a11a1a;--errbg:#fdeaea}*{box-sizing:border-box}body{margin:0;background:#f4f7fc;color:var(--ink);font:16px/1.6 Inter,"Noto Sans Devanagari",system-ui,sans-serif}.wrap{max-width:900px;width:calc(100% - 28px);margin:auto}.top{padding:14px 0;background:#fff;border-bottom:1px solid var(--line)}.top a{display:inline-flex;align-items:center;gap:10px;font-weight:700;text-decoration:none}.top img{width:32px;height:32px}a{color:var(--blue)}h1{font-size:clamp(27px,5vw,38px);line-height:1.2;color:var(--blue);margin:25px 0 8px}h2{font-size:19px;margin:0 0 6px;display:flex;align-items:center;gap:10px}.num{flex:none;width:30px;height:30px;border-radius:50%;background:var(--blue);color:#fff;font-size:16px;display:grid;place-items:center}.panel{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px;margin:14px 0}[hidden]{display:none!important}.muted{color:var(--muted);margin:0 0 8px}label,.lbl{font-weight:700;display:block;margin:10px 0 5px}input,select,button{font:inherit}select{width:100%;min-height:46px;padding:9px 10px;border:1px solid #b9c8e0;border-radius:9px;background:#fff;color:var(--ink)}input[type=range]{width:100%;min-height:36px}input[type=file]{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}button,.btn{border:0;border-radius:12px;min-height:48px;padding:11px 18px;background:var(--blue);color:#fff;font-weight:700;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;text-align:center;text-decoration:none;margin:6px 6px 6px 0}.secondary{background:#e8efff;color:#1847a9}button:disabled{opacity:.5;cursor:not-allowed}.big{width:100%;font-size:18px;min-height:56px}:focus-visible,input[type=file]:focus-visible+.btn{outline:3px solid #f5a623;outline-offset:2px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}.stage{background:#e9eef7;border:1px solid var(--line);border-radius:10px;padding:8px;text-align:center}.stage canvas,.stage img{max-width:100%;height:auto;display:inline-block;vertical-align:top}#crop{touch-action:none;cursor:crosshair;background:#fff}.seg{display:flex;flex-wrap:wrap;gap:8px}.seg label{margin:0;font-weight:600;display:flex;align-items:center;gap:8px;min-height:46px;padding:8px 14px;border:1px solid #b9c8e0;border-radius:10px;background:#fff;cursor:pointer}.seg input{width:20px;height:20px;margin:0}.msg{padding:12px;border-radius:8px;margin:10px 0;font-weight:600}.msg:empty{display:none}.msg.ok{background:var(--okbg);color:var(--ok)}.msg.warn{background:var(--warnbg);color:var(--warn)}.msg.err{background:var(--errbg);color:var(--err)}.msg.info{background:#eaf1ff;color:#1847a9}.note{background:var(--warnbg);padding:12px;border-radius:8px;font-size:15px}.size{font-size:20px;font-weight:800}@media(max-width:480px){.panel{padding:14px}.btn,button{flex:1 1 40%}}
+</style></head><body>
+<header class="top"><div class="wrap"><a href="../index.html"><img src="../rd-logo.svg" alt="" width="32" height="32"><span>← ROJGARDWAAR.IN</span></a></div></header>
+<main class="wrap">
+<h1>Document Scanner</h1>
+<p class="muted">Document की फोटो से साफ़ JPG या PDF बनाएं। सारी processing आपके phone/computer के browser में होती है; आपकी फोटो किसी server पर upload नहीं होती। <br><span lang="en">Your document photo is processed in your browser and never uploaded.</span></p>
+
+<section class="panel" aria-labelledby="h1s"><h2 id="h1s"><span class="num">1</span> फोटो चुनें (Choose photo)</h2>
+<p class="muted">JPG, PNG या WebP, अधिकतम 25 MB। दस्तावेज़ को सपाट रखें, रोशनी बराबर हो, चारों कोने फ्रेम में हों।</p>
+<input id="file" type="file" accept="image/jpeg,image/png,image/webp"><label class="btn" for="file" id="fileBtn" tabindex="0" role="button">📁 Gallery / File से चुनें</label>
+<input id="cam" type="file" accept="image/*" capture="environment"><label class="btn secondary" for="cam" id="camBtn" tabindex="0" role="button" hidden>📷 Camera से फोटो लें</label>
+<div id="msgLoad" class="msg" role="status" aria-live="polite"></div></section>
+
+<section class="panel" id="sCrop" aria-labelledby="h2s" hidden><h2 id="h2s"><span class="num">2</span> Original, Crop और Rotate</h2>
+<p class="muted">नीचे आपकी original फोटो है। नीले कोनों को उंगली/माउस से खींचकर सिर्फ document वाला हिस्सा चुनें। (Drag the blue corners to crop.)</p>
+<div class="stage"><canvas id="crop" width="300" height="200" aria-label="Original photo with crop frame"></canvas></div>
+<div id="origInfo" class="muted" style="margin-top:8px"></div>
+<button type="button" class="secondary" id="rotL">⟲ बाएँ घुमाएँ</button><button type="button" class="secondary" id="rotR">⟳ दाएँ घुमाएँ</button><button type="button" class="secondary" id="cropReset">Crop reset</button>
+<p class="muted">Rotate करने पर crop फ्रेम पूरी फोटो पर वापस आ जाता है।</p></section>
+
+<section class="panel" id="sEnh" aria-labelledby="h3s" hidden><h2 id="h3s"><span class="num">3</span> पढ़ने योग्य बनाएं (Enhance)</h2>
+<div class="lbl" id="modeLbl">Scan mode</div>
+<div class="seg" role="radiogroup" aria-labelledby="modeLbl">
+<label><input type="radio" name="mode" value="color" checked> Color (डिफ़ॉल्ट)</label>
+<label><input type="radio" name="mode" value="gray"> Grayscale</label>
+<label><input type="radio" name="mode" value="bw"> Black &amp; White</label></div>
+<div class="grid"><div><label for="bri">Brightness: <span id="briV">0</span></label><input id="bri" type="range" min="-50" max="50" value="0"></div>
+<div><label for="con">Contrast: <span id="conV">0</span></label><input id="con" type="range" min="-50" max="50" value="0"></div></div>
+<button type="button" class="secondary" id="enhReset">Brightness/Contrast reset</button>
+<div class="lbl">Processed preview (यह crop + सेटिंग के बाद की झलक है)</div>
+<div class="stage"><canvas id="prev" width="300" height="200" aria-label="Processed preview"></canvas></div></section>
+
+<section class="panel" id="sOut" aria-labelledby="h4s" hidden><h2 id="h4s"><span class="num">4</span> Output और Download</h2>
+<div class="grid"><div><label for="fmt">Format</label><select id="fmt"><option value="jpg">JPG</option><option value="pdf">PDF</option></select></div>
+<div><label for="tgt">File size target</label><select id="tgt"><option value="100">100 KB तक</option><option value="200" selected>200 KB तक</option><option value="500">500 KB तक</option></select></div></div>
+<button type="button" class="big" id="make">Final file तैयार करें</button>
+<div id="msgOut" class="msg" role="status" aria-live="polite"></div>
+<div id="result" hidden><div class="lbl">Final preview</div><div class="stage"><img id="resImg" alt="Final processed document preview"></div>
+<p>असली final file size: <span class="size" id="resSize"></span> <span id="resFmt" class="muted"></span></p>
+<a class="btn big" id="dl" download="rojgardwaar-scan.jpg" href="#">⬇ Download</a></div></section>
+
+<div class="note">ध्यान दें: final quality और file size आपकी original फोटो और चुनी गई settings पर निर्भर करते हैं। यह tool सिर्फ image को साफ़/छोटा करता है; यह किसी भी तरह से certified या official रूप से verified document नहीं बनाता। Form submit करने से पहले file खोलकर हर शब्द पढ़ने योग्य है या नहीं, जाँच लें। <span lang="en">Quality and size depend on your original photo and settings. This tool does not certify or officially verify any document.</span></div>
+</main>
+<noscript><div class="wrap"><div class="msg err">यह tool चलाने के लिए JavaScript चालू करें (Please enable JavaScript).</div></div></noscript>
+<script src="../js/document-scanner-core.js"></script>
+<script>
+(()=>{'use strict';
+const C=window.DocScanCore,$=id=>document.getElementById(id);
+const S={src:null,rot:0,crop:{x0:0,y0:0,x1:1,y1:1},busy:false,url:null,gen:0,timer:0};
+function setMsg(id,kind,text){const e=$(id);e.className='msg'+(kind?' '+kind:'');e.textContent=text||''}
+function release(c){if(c){c.width=1;c.height=1}}
+function clearResult(){S.gen++;if(S.url){URL.revokeObjectURL(S.url);S.url=null}$('resImg').removeAttribute('src');$('dl').removeAttribute('href');$('result').hidden=true;setMsg('msgOut','','')}
+function setBusy(b){S.busy=b;for(const id of ['make','rotL','rotR','cropReset','enhReset','fmt','tgt'])$(id).disabled=b;$('make').textContent=b?'प्रोसेस हो रहा है… (Processing)':'Final file तैयार करें'}
+const tick=()=>new Promise(r=>setTimeout(r,0));
+
+/* ---------- loading ---------- */
+async function loadFile(f){
+  const chk=C.checkFile(f);
+  if(!chk.ok){setMsg('msgLoad','err',chk.message);return}
+  clearResult();setMsg('msgLoad','info','फोटो खुल रही है… (Loading)');await tick();
+  let bmp=null,url=null,w,h,srcEl;
+  try{
+    if(window.createImageBitmap){try{bmp=await createImageBitmap(f,{imageOrientation:'from-image'})}catch(e){bmp=null}}
+    if(bmp){srcEl=bmp;w=bmp.width;h=bmp.height}
+    else{url=URL.createObjectURL(f);const img=new Image();await new Promise((res,rej)=>{img.onload=res;img.onerror=()=>rej(new Error('decode'));img.src=url});srcEl=img;w=img.naturalWidth;h=img.naturalHeight}
+    if(!w||!h)throw new Error('empty');
+    const d=C.fitDims(w,h,C.LIMITS.maxSourceSide),c=document.createElement('canvas');c.width=d.w;c.height=d.h;
+    const x=c.getContext('2d');if(!x)throw new Error('canvas');x.drawImage(srcEl,0,0,d.w,d.h);
+    x.getImageData(0,0,1,1);
+    release(S.src);S.src=c;S.rot=0;S.crop={x0:0,y0:0,x1:1,y1:1};
+    $('origInfo').textContent=f.name+' · '+w+'×'+h+' px · '+C.formatSize(f.size)+(d.scale<1?' (तेज़ चलाने के लिए '+d.w+'×'+d.h+' पर छोटा किया गया)':'');
+    for(const id of ['sCrop','sEnh','sOut'])$(id).hidden=false;
+    setMsg('msgLoad','ok','फोटो तैयार है। अब crop करें और नीचे सेटिंग चुनें।');
+    drawCrop();schedulePreview();
+  }catch(e){
+    setMsg('msgLoad','err','यह फोटो खुल नहीं सकी — फ़ाइल खराब या असमर्थित हो सकती है। कोई दूसरी JPG/PNG फोटो चुनें। (Could not read this image.)');
+  }finally{if(bmp&&bmp.close)bmp.close();if(url)URL.revokeObjectURL(url)}
+}
+for(const id of ['file','cam'])$(id).addEventListener('change',e=>{const f=e.target.files&&e.target.files[0];e.target.value='';if(f)loadFile(f)});
+for(const id of ['fileBtn','camBtn'])$(id).addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();$(id==='fileBtn'?'file':'cam').click()}});
+if(navigator.maxTouchPoints>0||(window.matchMedia&&matchMedia('(pointer:coarse)').matches))$('camBtn').hidden=false;
+
+/* ---------- geometry ---------- */
+function rotSize(){return C.rotatedDims(S.src.width,S.src.height,S.rot)}
+/** Draw the source rotated by S.rot, cropped to rect (normalised), at output scale s, into new canvas. */
+function render(crop,maxSide){
+  const r=rotSize(),cx=crop.x0*r.w,cy=crop.y0*r.h,cw=(crop.x1-crop.x0)*r.w,ch=(crop.y1-crop.y0)*r.h;
+  const d=C.fitDims(cw,ch,maxSide),s=d.scale,c=document.createElement('canvas');
+  c.width=d.w;c.height=d.h;const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);
+  x.save();x.scale(d.w/cw,d.h/ch);x.translate(-cx,-cy);
+  if(S.rot===90)x.transform(0,1,-1,0,r.w,0);else if(S.rot===180)x.transform(-1,0,0,-1,r.w,r.h);else if(S.rot===270)x.transform(0,-1,1,0,0,r.h);
+  x.drawImage(S.src,0,0);x.restore();return c;
+}
+
+/* ---------- crop UI ---------- */
+const cv=$('crop');let drag=null,dispW=0,dispH=0;
+function drawCrop(){
+  if(!S.src)return;const r=rotSize(),maxW=Math.min(820,($('sCrop').clientWidth||320)-36),maxH=Math.round(window.innerHeight*0.6);
+  const sc=Math.min(maxW/r.w,maxH/r.h,1);dispW=Math.max(60,Math.round(r.w*sc));dispH=Math.max(60,Math.round(r.h*sc));
+  if(cv.width!==dispW||cv.height!==dispH){cv.width=dispW;cv.height=dispH}
+  const x=cv.getContext('2d');x.setTransform(1,0,0,1,0,0);x.clearRect(0,0,dispW,dispH);
+  x.save();x.scale(dispW/r.w,dispH/r.h);
+  if(S.rot===90)x.transform(0,1,-1,0,r.w,0);else if(S.rot===180)x.transform(-1,0,0,-1,r.w,r.h);else if(S.rot===270)x.transform(0,-1,1,0,0,r.h);
+  x.drawImage(S.src,0,0);x.restore();
+  const c=S.crop,X0=c.x0*dispW,Y0=c.y0*dispH,X1=c.x1*dispW,Y1=c.y1*dispH;
+  x.fillStyle='rgba(10,20,40,.55)';x.fillRect(0,0,dispW,Y0);x.fillRect(0,Y1,dispW,dispH-Y1);x.fillRect(0,Y0,X0,Y1-Y0);x.fillRect(X1,Y0,dispW-X1,Y1-Y0);
+  x.strokeStyle='#1a56db';x.lineWidth=2;x.strokeRect(X0,Y0,X1-X0,Y1-Y0);
+  x.fillStyle='#1a56db';x.strokeStyle='#fff';for(const [px,py] of [[X0,Y0],[X1,Y0],[X0,Y1],[X1,Y1]]){x.beginPath();x.arc(px,py,11,0,7);x.fill();x.stroke()}
+}
+function pt(e){const b=cv.getBoundingClientRect();return{x:(e.clientX-b.left)*dispW/b.width,y:(e.clientY-b.top)*dispH/b.height,k:dispW/b.width}}
+cv.addEventListener('pointerdown',e=>{
+  if(!S.src||S.busy)return;const p=pt(e),c=S.crop,R=26*p.k;let mode=null;
+  for(const [n,px,py] of [['tl',c.x0,c.y0],['tr',c.x1,c.y0],['bl',c.x0,c.y1],['br',c.x1,c.y1]])if(Math.hypot(p.x-px*dispW,p.y-py*dispH)<=R){mode=n;break}
+  if(!mode&&p.x>c.x0*dispW&&p.x<c.x1*dispW&&p.y>c.y0*dispH&&p.y<c.y1*dispH)mode='mv';
+  if(!mode)return;drag={mode,sx:p.x/dispW,sy:p.y/dispH,c:{...c}};cv.setPointerCapture(e.pointerId);e.preventDefault();
+});
+cv.addEventListener('pointermove',e=>{
+  if(!drag)return;const p=pt(e),dx=p.x/dispW-drag.sx,dy=p.y/dispH-drag.sy,o=drag.c;let n={...o};
+  if(drag.mode==='mv'){const w=o.x1-o.x0,h=o.y1-o.y0;n.x0=Math.min(Math.max(o.x0+dx,0),1-w);n.y0=Math.min(Math.max(o.y0+dy,0),1-h);n.x1=n.x0+w;n.y1=n.y0+h}
+  else{if(drag.mode[1]==='l')n.x0=o.x0+dx;else n.x1=o.x1+dx;if(drag.mode[0]==='t')n.y0=o.y0+dy;else n.y1=o.y1+dy;
+    // keep dragged corner from crossing the opposite one
+    const M=0.05;if(drag.mode[1]==='l')n.x0=Math.min(n.x0,o.x1-M);else n.x1=Math.max(n.x1,o.x0+M);if(drag.mode[0]==='t')n.y0=Math.min(n.y0,o.y1-M);else n.y1=Math.max(n.y1,o.y0+M)}
+  S.crop=C.clampCrop(n);drawCrop();
+});
+function endDrag(){if(!drag)return;drag=null;clearResult();schedulePreview()}
+cv.addEventListener('pointerup',endDrag);cv.addEventListener('pointercancel',endDrag);
+function rotate(d){if(!S.src||S.busy)return;S.rot=(S.rot+d+360)%360;S.crop={x0:0,y0:0,x1:1,y1:1};clearResult();drawCrop();schedulePreview()}
+$('rotL').onclick=()=>rotate(-90);$('rotR').onclick=()=>rotate(90);
+$('cropReset').onclick=()=>{S.crop={x0:0,y0:0,x1:1,y1:1};clearResult();drawCrop();schedulePreview()};
+window.addEventListener('resize',()=>{if(S.src)drawCrop()});
+
+/* ---------- enhance + preview ---------- */
+function opts(){return{mode:document.querySelector('input[name=mode]:checked').value,brightness:+$('bri').value,contrast:+$('con').value}}
+function filtered(maxSide){const c=render(S.crop,maxSide),x=c.getContext('2d'),im=x.getImageData(0,0,c.width,c.height);C.applyFilter(im.data,opts());x.putImageData(im,0,0);return c}
+function schedulePreview(){clearTimeout(S.timer);S.timer=setTimeout(()=>{if(!S.src)return;const p=$('prev'),c=filtered(900);p.width=c.width;p.height=c.height;p.getContext('2d').drawImage(c,0,0);release(c)},60)}
+function onEnh(){$('briV').textContent=$('bri').value;$('conV').textContent=$('con').value;clearResult();schedulePreview()}
+for(const el of document.querySelectorAll('input[name=mode]'))el.addEventListener('change',onEnh);
+$('bri').addEventListener('input',onEnh);$('con').addEventListener('input',onEnh);
+$('enhReset').onclick=()=>{$('bri').value=0;$('con').value=0;onEnh()};
+for(const id of ['fmt','tgt'])$(id).addEventListener('change',clearResult);
+
+/* ---------- export ---------- */
+const toBlob=(c,q)=>new Promise((res,rej)=>c.toBlob(b=>b?res(b):rej(new Error('encode')),'image/jpeg',q));
+$('make').addEventListener('click',async()=>{
+  if(!S.src||S.busy)return;clearResult();setBusy(true);setMsg('msgOut','info','Final file बन रही है, कृपया रुकें… (Processing)');
+  const gen=S.gen;let full=null,work=null;
+  try{
+    await tick();
+    full=filtered(C.LIMITS.exportMaxSide);
+    const fmt=$('fmt').value,kb=+$('tgt').value,target=kb*1024;
+    const encode=async(scale,q)=>{
+      let c=full;
+      if(scale<1){c=document.createElement('canvas');c.width=Math.max(1,Math.round(full.width*scale));c.height=Math.max(1,Math.round(full.height*scale));const x=c.getContext('2d');x.imageSmoothingQuality='high';x.drawImage(full,0,0,c.width,c.height)}
+      const blob=await toBlob(c,q);if(c!==full)release(c);
+      if(fmt==='jpg')return{size:blob.size,payload:blob};
+      const pdf=C.buildPdf(new Uint8Array(await blob.arrayBuffer()));
+      return{size:pdf.length,payload:{pdf,jpg:blob}};
+    };
+    const r=await C.searchToTarget(encode,target,{width:full.width,height:full.height});
+    if(gen!==S.gen)return; // settings changed meanwhile
+    const outBlob=fmt==='jpg'?r.payload:new Blob([r.payload.pdf],{type:'application/pdf'});
+    const prevBlob=fmt==='jpg'?r.payload:r.payload.jpg;
+    S.url=URL.createObjectURL(outBlob);const pu=URL.createObjectURL(prevBlob);
+    const img=$('resImg');img.onload=()=>URL.revokeObjectURL(pu);img.src=pu;
+    $('resSize').textContent=C.formatSize(outBlob.size);$('resFmt').textContent='('+(fmt==='jpg'?'JPG':'PDF')+', target '+kb+' KB)';
+    const dl=$('dl');dl.href=S.url;dl.download='rojgardwaar-scan.'+(fmt==='jpg'?'jpg':'pdf');dl.textContent='⬇ '+(fmt==='jpg'?'JPG':'PDF')+' Download';
+    $('result').hidden=false;
+    if(r.met)setMsg('msgOut','ok','✔ Target पूरा हुआ: '+C.formatSize(outBlob.size)+' (limit '+kb+' KB)। Download से पहले preview में पढ़ने योग्यता जाँच लें।');
+    else setMsg('msgOut','warn','⚠ '+kb+' KB का target इस फोटो के लिए बिना ज़्यादा quality खोए संभव नहीं हुआ। सबसे छोटी readable file '+C.formatSize(outBlob.size)+' बनी (target से बड़ी है)। बड़ा target (200/500 KB) चुनें, या document को ज़्यादा crop करें / कम बारीक लिखावट वाली फोटो लें। (Target NOT met.)');
+    $('result').scrollIntoView({block:'nearest'});
+  }catch(e){
+    setMsg('msgOut','err','Processing में समस्या आई। छोटी फोटो या कम crop क्षेत्र के साथ दोबारा कोशिश करें। (Processing error: '+(e&&e.message||e)+')');
+  }finally{release(full);release(work);setBusy(false)}
+});
+window.addEventListener('pagehide',()=>{clearResult();release(S.src)});
+})();
 </script></body></html>

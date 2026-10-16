@@ -1,22 +1,72 @@
+name: Eligibility tests and data validation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/exams.json'
       - 'js/eligibility-engine.js'
       - 'js/app.js'
-      - 'tests/**'
       - 'js/photo-signature-core.js'
-      - 'tools/photo-signature.html'
+      - 'js/document-scanner-core.js'
+      - 'tests/**'
       - 'eligibility.html'
+      - 'tools/photo-signature.html'
+      - 'tools/document-scanner.html'
       - 'scripts/validate-exams.js'
       - '.github/workflows/validate-exams.yml'
+  pull_request:
+    paths:
+      - 'data/exams.json'
       - 'js/eligibility-engine.js'
       - 'js/app.js'
-      - 'tests/**'
       - 'js/photo-signature-core.js'
-      - 'tools/photo-signature.html'
+      - 'js/document-scanner-core.js'
+      - 'tests/**'
       - 'eligibility.html'
+      - 'tools/photo-signature.html'
+      - 'tools/document-scanner.html'
       - 'scripts/validate-exams.js'
       - '.github/workflows/validate-exams.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Validate exam data
+        run: node scripts/validate-exams.js
+      - name: Check JavaScript syntax
+        run: |
           node --check js/eligibility-engine.js
           node --check js/app.js
           node --check scripts/validate-exams.js
           node --check js/photo-signature-core.js
-      - name: Run eligibility tests
+          node --check js/document-scanner-core.js
+      - name: Run unit tests
         run: node --test tests/*.test.js
+
+  document-scanner-browser:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser test dependencies
+        run: |
+          python -m pip install playwright pillow pypdf pypdfium2
+          python -m playwright install --with-deps chromium
+      - name: Document scanner real-browser test
+        run: python tests/browser/document-scanner.e2e.py
