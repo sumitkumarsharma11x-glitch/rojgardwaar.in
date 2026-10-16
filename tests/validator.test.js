@@ -28,6 +28,12 @@ test('rejects verified flag without evidence, or contradictory metadata', () => 
   assert.ok(errs([{ ...base, verificationStatus: 'verified' }]).length);
   assert.deepEqual(errs([{ ...base, ...ev }]), []);
 });
+test('supports open-ended age rules without numeric placeholder bounds', () => {
+  assert.deepEqual(errs([{ ...base, minAge: null, maxAge: null, ageLimitType: 'none' }]), []);
+  assert.deepEqual(errs([{ ...base, minAge: 17, maxAge: null, ageLimitType: 'minimum-only' }]), []);
+  assert.deepEqual(errs([{ ...base, minAge: null, maxAge: null, ageLimitType: 'dob-window', ageRulesUnknown: true }]), []);
+  assert.ok(errs([{ ...base, minAge: 0, maxAge: 100, ageLimitType: 'none' }]).some(e => /null minAge\/maxAge/.test(e)));
+});
 test('rejects bad applicationWindow and ageBands', () => {
   assert.ok(errs([{ ...base, applicationWindow: { start: '2026-07-01', end: '2026-06-01' } }]).length);
   assert.ok(errs([{ ...base, ageBands: [{ id: 'b', label: 'x', minAge: 18, maxAge: 5, posts: [] }] }]).length);

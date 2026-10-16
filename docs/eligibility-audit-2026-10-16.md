@@ -54,3 +54,11 @@ The draft branch dataset contains 32 records. At the start of this audit, all 32
 
 ## Important limitation
 This is an initial evidence audit, not a claim that all 32 exams have been fully verified. Official source existence alone does not prove every rule is correctly encoded. No exam was promoted to verified by this report.
+
+
+## Follow-up UI safety patch — 2026-10-16
+
+- Records with `ageLimitType: "none"` store no numeric min/max age sentinels; the UI says “No exam-level age limit” rather than displaying a 0–100 range.
+- Records with unknown age rules and placeholder values of 65 or more have numeric sentinels removed and remain unverified. The generic CTET record is fail-closed rather than suggesting a verified 18–65 range.
+- The qualification row says “Saved-data match only — not verified” unless the current-cycle record passes the complete evidence gate.
+- For JEE Main 2026, no exam-level age limit is applied. The Class XII year window remains a screening condition; subject/marks and institution-specific criteria are not fully evaluated. This patch does not confirm eligibility.
