@@ -1,9 +1,201 @@
 <!doctype html>
-<html lang="hi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="सरकारी नौकरी के फॉर्म के लिए फोटो और हस्ताक्षर का आकार बदलें।"><title>Photo & Signature Resizer | ROJGARDWAAR.IN</title><link rel="icon" href="../rd-logo.svg"><style>
-:root{--blue:#1a56db;--ink:#16223a;--muted:#52607a;--line:#d5dff0}*{box-sizing:border-box}body{margin:0;background:#f4f7fc;color:var(--ink);font:16px/1.6 Inter,"Noto Sans Devanagari",system-ui,sans-serif}.wrap{max-width:900px;width:calc(100% - 28px);margin:auto}.top{padding:18px 0;background:#fff;border-bottom:1px solid var(--line)}a{color:var(--blue)}h1{font-size:clamp(27px,5vw,38px);line-height:1.2;color:var(--blue);margin:25px 0 8px}.panel{background:white;border:1px solid var(--line);border-radius:16px;padding:20px;margin:18px 0;box-shadow:0 4px 18px #16223a08}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}label{font-weight:700;display:block;margin:10px 0 5px}input,select,button{font:inherit}input[type=number],select{width:100%;padding:10px;border:1px solid #b9c8e0;border-radius:9px;background:white}input[type=file]{max-width:100%}button,.btn{border:0;border-radius:10px;padding:11px 16px;background:var(--blue);color:#fff;font-weight:700;cursor:pointer;display:inline-block;text-decoration:none;margin:6px 5px 6px 0}button.secondary,.btn.secondary{background:#e8efff;color:#1847a9}canvas,img.preview{max-width:100%;height:auto;border:1px dashed #bdcbe2;border-radius:8px;margin-top:12px}small,.muted{color:var(--muted)}.status{margin-top:10px;font-weight:600}.back{display:inline-block;margin:12px 0}.note{background:#fff5d6;border-left:4px solid #e5a000;padding:12px;border-radius:8px}@media(max-width:480px){.panel{padding:15px}}
-</style></head><body><header class="top"><div class="wrap"><a href="../index.html">← ROJGARDWAAR.IN</a></div></header><main class="wrap"><h1>Photo & Signature Resizer</h1><p class="muted">फोटो या हस्ताक्षर चुनें, आवश्यक dimensions और file size सेट करें, फिर JPG डाउनलोड करें।</p>
-<div class="panel"><div class="grid"><div><label for="file">फोटो / हस्ताक्षर चुनें</label><input id="file" type="file" accept="image/*"><small>JPG, PNG या WebP इमेज। प्रोसेसिंग आपके ब्राउज़र में होगी।</small></div><div><label for="preset">प्रारंभिक सेटिंग</label><select id="preset"><option value="photo">Photo — 3.5 × 4.5 cm (लगभग 413×531 px at 300 DPI)</option><option value="signature">Signature — 4 × 2 cm (लगभग 472×236 px at 300 DPI)</option><option value="custom">Custom pixels</option></select></div></div><div class="grid"><div><label for="crop">Image fitting</label><select id="crop"><option value="cover">Crop to fill (fills full frame)</option><option value="contain">Fit whole image (may add white space)</option><option value="stretch">Stretch to exact size</option></select></div><div><label for="width">Width (px)</label><input id="width" type="number" min="1" max="5000" value="413"></div><div><label for="height">Height (px)</label><input id="height" type="number" min="1" max="5000" value="531"></div><div><label for="quality">JPG quality</label><select id="quality"><option value=".9">High — 90%</option><option value=".8">Balanced — 80%</option><option value=".7">Smaller file — 70%</option></select></div><div><label for="maxkb">Target max file size (KB, optional)</label><input id="maxkb" type="number" min="0" max="10000" value="100"><small>यह अनुमानित सीमा है; portal की official requirement जरूर देखें।</small></div></div><button id="make">Resize image</button><button id="download" class="secondary" disabled>Download JPG</button><div id="status" class="status" role="status" aria-live="polite"></div><canvas id="canvas" hidden></canvas><div><strong>Preview:</strong><br><canvas id="preview" width="413" height="531" aria-label="Resized image preview"></canvas></div></div>
-<div class="note">महत्वपूर्ण: अलग-अलग भर्ती फॉर्म में फोटो/साइन के dimensions, background, file type और KB सीमा अलग हो सकती है। यह टूल कोई आधिकारिक specification अनुमान से तय नहीं करता—फॉर्म के निर्देश देखकर values डालें।</div></main>
+<html lang="hi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="सरकारी नौकरी के फॉर्म के लिए फोटो और हस्ताक्षर को एक साथ जोड़ें, size और KB सेट करें और JPG/PNG डाउनलोड करें। फोटो आपके ब्राउज़र में ही प्रोसेस होती है।"><title>Photo & Signature Resizer | ROJGARDWAAR.IN</title><link rel="icon" href="../rd-logo.svg"><style>
+:root{--blue:#1a56db;--ink:#16223a;--muted:#52607a;--line:#d5dff0;--ok:#0b6b3a;--okbg:#e6f6ec;--warn:#8a5a00;--warnbg:#fff5d6;--err:#a11a1a;--errbg:#fdeaea}*{box-sizing:border-box}body{margin:0;background:#f4f7fc;color:var(--ink);font:16px/1.6 Inter,"Noto Sans Devanagari",system-ui,sans-serif}.wrap{max-width:900px;width:calc(100% - 28px);margin:auto}.top{padding:18px 0;background:#fff;border-bottom:1px solid var(--line)}a{color:var(--blue)}h1{font-size:clamp(27px,5vw,38px);line-height:1.2;color:var(--blue);margin:25px 0 8px}h2{font-size:19px;margin:0 0 6px;display:flex;align-items:center;gap:10px}.num{flex:none;width:30px;height:30px;border-radius:50%;background:var(--blue);color:#fff;font-size:16px;display:grid;place-items:center}.panel{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px;margin:14px 0;box-shadow:0 4px 18px #16223a08}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}label,.lbl{font-weight:700;display:block;margin:10px 0 5px}input,select,button{font:inherit}input[type=number],select{width:100%;min-height:46px;padding:9px 10px;border:1px solid #b9c8e0;border-radius:9px;background:#fff;color:var(--ink)}input[type=range]{width:100%;min-height:36px}input[type=file]{position:absolute;width:1px;height:1px;opacity:0;pointer-events:none}button,.btn{border:0;border-radius:12px;min-height:48px;padding:11px 18px;background:var(--blue);color:#fff;font-weight:700;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;text-align:center;text-decoration:none;margin:6px 6px 6px 0}.btn.secondary,button.secondary{background:#e8efff;color:#1847a9}button:disabled{opacity:.5;cursor:not-allowed}.big{width:100%;font-size:18px;min-height:56px}:focus-visible{outline:3px solid #f5a623;outline-offset:2px}.chips{display:flex;flex-wrap:wrap;gap:8px}.chip{margin:0;min-height:44px;padding:8px 14px;background:#fff;color:#1847a9;border:2px solid #b9c8e0}.chip[aria-pressed=true]{background:var(--blue);color:#fff;border-color:var(--blue)}.seg{display:flex;flex-wrap:wrap;gap:8px}.seg label{margin:0;font-weight:600}.seg input{position:absolute;opacity:0;width:1px;height:1px}.seg span{display:flex;align-items:center;min-height:46px;padding:8px 14px;border:2px solid #b9c8e0;border-radius:12px;background:#fff;cursor:pointer}.seg input:checked+span{background:var(--blue);color:#fff;border-color:var(--blue)}.seg input:focus-visible+span{outline:3px solid #f5a623;outline-offset:2px}canvas{max-width:100%;max-height:70vh;width:auto;height:auto;border:1px dashed #bdcbe2;border-radius:8px;background:#fff}small,.muted{color:var(--muted)}.picked{margin:8px 0 0;font-weight:600;word-break:break-all}.msg{margin:10px 0;padding:10px 12px;border-radius:9px;font-weight:600}.msg.ok{background:var(--okbg);color:var(--ok)}.msg.warn{background:var(--warnbg);color:var(--warn)}.msg.err{background:var(--errbg);color:var(--err)}.msg:empty{display:none}.note{background:var(--warnbg);border-left:4px solid #e5a000;padding:12px;border-radius:8px;margin:12px 0}details{margin:10px 0}summary{cursor:pointer;font-weight:700;min-height:44px;display:flex;align-items:center}.stats{list-style:none;padding:0;margin:10px 0}.stats li{padding:6px 0;border-bottom:1px solid #eef2fa}.hidden{display:none!important}.pv{text-align:center;padding:10px 0}output{font-weight:700;color:var(--blue)}@media(max-width:480px){.panel{padding:14px}}@media(prefers-reduced-motion:no-preference){button{transition:background .15s}}
+</style></head><body><header class="top"><div class="wrap"><a href="../index.html">← ROJGARDWAAR.IN</a></div></header><main class="wrap"><h1>Photo & Signature Resizer</h1><p class="muted">फोटो और हस्ताक्षर चुनें, ज़रूरी size और KB भरें, और तैयार फाइल डाउनलोड करें। आपकी इमेज इसी पेज में, आपके फोन/कंप्यूटर के ब्राउज़र में प्रोसेस होती है।</p>
+<noscript><div class="msg err">यह टूल चलाने के लिए JavaScript ज़रूरी है।</div></noscript>
+<details class="panel" open><summary>पहली बार? 5 आसान स्टेप</summary><ol><li>फोटो चुनें, फिर हस्ताक्षर चुनें (हस्ताक्षर सफेद कागज़ पर काली/नीली स्याही से, अच्छी रोशनी में)।</li><li>अपने फॉर्म की notification में लिखा width, height और KB भरें।</li><li>नीचे Preview में देखें। ज़रूरत हो तो Zoom या Move से adjust करें।</li><li>हरा ✓ दिखे तो Download दबाएँ।</li><li>अपलोड से पहले फाइल को एक बार portal की शर्तों से मिलाएँ।</li></ol></details>
+
+<section class="panel" aria-label="क्या बनाना है"><div class="lbl" id="modeLbl">क्या बनाना है?</div><div class="seg" role="radiogroup" aria-labelledby="modeLbl"><label><input type="radio" name="mode" value="both" checked><span>फोटो + हस्ताक्षर (एक फाइल)</span></label><label><input type="radio" name="mode" value="photo"><span>सिर्फ फोटो</span></label><label><input type="radio" name="mode" value="sign"><span>सिर्फ हस्ताक्षर</span></label></div></section>
+
+<section class="panel" id="stepPhoto"><h2><span class="num">1</span>फोटो चुनें (Photo)</h2><label class="btn big" for="fPhoto">📷 फोटो चुनें (JPG / PNG)</label><input id="fPhoto" type="file" accept="image/jpeg,image/png,image/webp"><p class="picked" id="nPhoto" aria-live="polite"></p><div class="msg err" id="ePhoto" role="alert"></div>
+<details id="dPhoto" class="hidden"><summary>फोटो adjust करें (Zoom / Move)</summary><div class="grid"><div><label for="pFit">Fitting</label><select id="pFit"><option value="cover">पूरा frame भरें (किनारे कट सकते हैं)</option><option value="contain">पूरी फोटो दिखाएँ (सफेद जगह बच सकती है)</option></select></div><div><label for="pZoom">Zoom <output id="oPZoom">1.0×</output></label><input id="pZoom" type="range" min="1" max="3" step="0.05" value="1"></div><div><label for="pX">बाएँ ↔ दाएँ</label><input id="pX" type="range" min="-100" max="100" step="1" value="0"></div><div><label for="pY">ऊपर ↕ नीचे</label><input id="pY" type="range" min="-100" max="100" step="1" value="0"></div></div><button type="button" class="secondary" id="pReset">Position reset</button></details></section>
+
+<section class="panel" id="stepSign"><h2><span class="num">2</span>हस्ताक्षर चुनें (Signature)</h2><label class="btn big" for="fSign">✍️ हस्ताक्षर की फोटो चुनें (JPG / PNG)</label><input id="fSign" type="file" accept="image/jpeg,image/png,image/webp"><p class="picked" id="nSign" aria-live="polite"></p><div class="msg err" id="eSign" role="alert"></div>
+<details id="dSign" class="hidden"><summary>हस्ताक्षर adjust करें (Zoom / Move)</summary><div class="grid"><div><label for="sFit">Fitting</label><select id="sFit"><option value="contain">पूरा हस्ताक्षर दिखाएँ (सुझाव)</option><option value="cover">पूरा frame भरें (किनारे कट सकते हैं)</option></select></div><div><label for="sZoom">Zoom <output id="oSZoom">1.0×</output></label><input id="sZoom" type="range" min="1" max="3" step="0.05" value="1"></div><div><label for="sX">बाएँ ↔ दाएँ</label><input id="sX" type="range" min="-100" max="100" step="1" value="0"></div><div><label for="sY">ऊपर ↕ नीचे</label><input id="sY" type="range" min="-100" max="100" step="1" value="0"></div></div><button type="button" class="secondary" id="sReset">Position reset</button></details></section>
+
+<section class="panel" id="stepReq"><h2><span class="num">3</span>ज़रूरत भरें (Requirements)</h2>
+<div class="note">हर भर्ती का size, KB और format अलग हो सकता है। यहाँ कोई एक "सरकारी नियम" नहीं माना गया है। अपने फॉर्म की <strong>official notification</strong> में लिखे मान भरें।</div>
+<div class="grid"><div><label for="preset">Example sizes (सिर्फ शुरुआत के लिए)</label><select id="preset"><option value="">अपना size भरें</option><option value="413x767">फोटो + हस्ताक्षर साथ: 413 × 767 px</option><option value="413x531">फोटो 3.5 × 4.5 cm ≈ 413 × 531 px (300 DPI)</option><option value="472x236">हस्ताक्षर 4 × 2 cm ≈ 472 × 236 px (300 DPI)</option></select></div><div><label for="w">Width (px)</label><input id="w" type="number" inputmode="numeric" min="20" max="4000" value="413"></div><div><label for="h">Height (px)</label><input id="h" type="number" inputmode="numeric" min="20" max="4000" value="767"></div><div><label for="fmt">File format</label><select id="fmt"><option value="jpeg">JPG (छोटी फाइल, ज़्यादातर फॉर्म में)</option><option value="png">PNG (फाइल बड़ी होती है)</option></select></div></div>
+<div class="lbl" id="kbLbl">Maximum file size (KB) <small>(ज़रूरी न हो तो "No limit")</small></div><div class="chips" role="group" aria-labelledby="kbLbl" id="kbChips"><button type="button" class="chip" data-kb="" aria-pressed="true">No limit</button><button type="button" class="chip" data-kb="20" aria-pressed="false">20 KB</button><button type="button" class="chip" data-kb="50" aria-pressed="false">50 KB</button><button type="button" class="chip" data-kb="100" aria-pressed="false">100 KB</button><button type="button" class="chip" data-kb="200" aria-pressed="false">200 KB</button></div><label for="kb">या अपना KB लिखें</label><input id="kb" type="number" inputmode="decimal" min="1" max="10000" step="any" placeholder="जैसे 45"><div class="msg err" id="eReq" role="alert"></div>
+<div id="layoutBox"><details><summary>Layout (फोटो और हस्ताक्षर की जगह)</summary><div class="seg" role="radiogroup" aria-label="Layout"><label><input type="radio" name="layout" value="stack" checked><span>फोटो ऊपर, हस्ताक्षर नीचे</span></label><label><input type="radio" name="layout" value="side"><span>फोटो बाएँ, हस्ताक्षर दाएँ</span></label></div><div class="grid"><div><label for="share">फोटो का हिस्सा <output id="oShare">69%</output></label><input id="share" type="range" min="15" max="85" step="1" value="69"></div><div><label for="gap">दोनों के बीच gap <output id="oGap">0 px</output></label><input id="gap" type="range" min="0" max="100" step="1" value="0"></div><div><label for="align">Alignment (छोटी image के लिए)</label><select id="align"><option value="center">बीच में</option><option value="left">बाएँ</option><option value="right">दाएँ</option></select></div></div></details></div></section>
+
+<section class="panel" id="stepPrev"><h2><span class="num">4</span>Preview और जाँच</h2><div class="pv"><canvas id="preview" width="413" height="767" aria-label="अंतिम इमेज का preview"></canvas></div><div class="msg" id="busy" role="status" aria-live="polite"></div><ul class="stats" id="stats" aria-live="polite"></ul><div class="msg" id="verdict" role="status"></div></section>
+
+<section class="panel" id="stepDl"><h2><span class="num">5</span>Download</h2><button class="big" id="dl" disabled>⬇️ Download</button><button type="button" class="secondary big" id="reset">🔄 सब कुछ हटाएँ (Reset)</button><p class="muted">Download से पहले ऊपर दिखे size, KB और ✓ निशान देखें। अपलोड की अंतिम शर्तें आपके फॉर्म की notification से ही तय होती हैं।</p></section>
+</main>
+<script src="../js/photo-signature-core.js"></script>
 <script>
-(()=>{const $=id=>document.getElementById(id);let source=null,outBlob=null;const presets={photo:[413,531],signature:[472,236]};$('preset').addEventListener('change',()=>{const p=presets[$('preset').value];if(p){$('width').value=p[0];$('height').value=p[1]}});$('file').addEventListener('change',()=>{source=null;outBlob=null;$('download').disabled=true;$('status').textContent='';const f=$('file').files[0];if(!f)return;if(!f.type.startsWith('image/')){$('status').textContent='कृपया image file चुनें।';return}const url=URL.createObjectURL(f),img=new Image();img.onload=()=>{source=img;$('status').textContent='इमेज लोड हो गई: '+img.naturalWidth+' × '+img.naturalHeight+' px';URL.revokeObjectURL(url)};img.onerror=()=>{$('status').textContent='इमेज नहीं खुल सकी। दूसरी फाइल चुनें।';URL.revokeObjectURL(url)};img.src=url});$('make').addEventListener('click',async()=>{if(!source){$('status').textContent='पहले इमेज चुनें।';return}const w=Number($('width').value),h=Number($('height').value),max=Number($('maxkb').value),q=Number($('quality').value);if(!Number.isInteger(w)||!Number.isInteger(h)||w<1||h<1||w>5000||h>5000||max<0){$('status').textContent='Width/height 1–5000 px रखें और file size सही भरें।';return}const c=$('canvas');c.width=w;c.height=h;const ctx=c.getContext('2d');ctx.fillStyle='#fff';ctx.fillRect(0,0,w,h);const mode=$('crop').value,sw=source.naturalWidth,sh=source.naturalHeight;if(mode==='stretch'){ctx.drawImage(source,0,0,w,h)}else{const scale=mode==='cover'?Math.max(w/sw,h/sh):Math.min(w/sw,h/sh),dw=sw*scale,dh=sh*scale,dx=(w-dw)/2,dy=(h-dh)/2;ctx.drawImage(source,dx,dy,dw,dh)}const p=$('preview');p.width=w;p.height=h;p.getContext('2d').drawImage(c,0,0);let quality=q;const toBlob=quality=>new Promise(resolve=>c.toBlob(resolve,'image/jpeg',quality));outBlob=await toBlob(quality);if(max>0){while(outBlob&&outBlob.size>max*1024&&quality>.25){quality=Math.max(.25,quality-.05);outBlob=await toBlob(quality)}}if(!outBlob){$('status').textContent='JPG नहीं बन सका। कृपया दूसरी image आज़माएँ।';return}$('download').disabled=false;$('status').textContent='तैयार: '+w+' × '+h+' px, '+(outBlob.size/1024).toFixed(1)+' KB'+(max>0&&outBlob.size>max*1024?' — न्यूनतम quality पर भी file target से बड़ी है। अधिक KB सीमा या छोटे dimensions चुनें।':max>0?' — target size के भीतर है।':'')});$('download').addEventListener('click',()=>{if(!outBlob)return;const a=document.createElement('a');a.href=URL.createObjectURL(outBlob);a.download='rojgardwaar-resized.jpg';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)})})();
+(()=>{'use strict';
+const C=window.PhotoSignCore,$=id=>document.getElementById(id);
+const DEFAULT_ADJ=()=>({photo:{fit:'cover',zoom:1,panX:0,panY:0},sign:{fit:'contain',zoom:1,panX:0,panY:0}});
+const MODE_PRESET={both:'413x767',photo:'413x531',sign:'472x236'};
+const st={imgs:{photo:null,sign:null},adj:DEFAULT_ADJ(),blob:null,fileName:'',token:0,timer:0,busyTimer:0,raf:0,sizeTouched:false,loadId:{photo:0,sign:0}};
+const ctl={photo:{file:'fPhoto',name:'nPhoto',err:'ePhoto',det:'dPhoto',fit:'pFit',zoom:'pZoom',x:'pX',y:'pY',oz:'oPZoom',reset:'pReset'},sign:{file:'fSign',name:'nSign',err:'eSign',det:'dSign',fit:'sFit',zoom:'sZoom',x:'sX',y:'sY',oz:'oSZoom',reset:'sReset'}};
+const mode=()=>document.querySelector('input[name=mode]:checked').value;
+const layout=()=>document.querySelector('input[name=layout]:checked').value;
+const needs=()=>({photo:mode()!=='sign',sign:mode()!=='photo'});
+function msg(el,text,cls){el.textContent=text||'';el.className='msg'+(cls?' '+cls:'');}
+
+/* ---------- loading images (EXIF-aware, downscaled for low-memory phones) ---------- */
+async function decode(file){
+  if(typeof createImageBitmap==='function'){
+    try{
+      let b=await createImageBitmap(file,{imageOrientation:'from-image'});
+      const ow=b.width,oh=b.height;
+      const d=C.decodeSize(b.width,b.height,3200);
+      if(d.scaled){const s=await createImageBitmap(b,{resizeWidth:d.w,resizeHeight:d.h,resizeQuality:'high'});b.close();b=s;}
+      return {src:b,w:b.width,h:b.height,ow:ow,oh:oh,close:()=>b.close&&b.close()};
+    }catch(e){/* fall through to <img> */}
+  }
+  const url=URL.createObjectURL(file);
+  try{
+    const img=await new Promise((ok,bad)=>{const i=new Image();i.onload=()=>ok(i);i.onerror=()=>bad(new Error('decode'));i.src=url;});
+    return {src:img,w:img.naturalWidth,h:img.naturalHeight,ow:img.naturalWidth,oh:img.naturalHeight,close(){}};
+  }finally{URL.revokeObjectURL(url);}
+}
+async function pick(kind){
+  const c=ctl[kind],input=$(c.file),f=input.files[0],id=++st.loadId[kind];
+  msg($(c.err),'');
+  if(!f)return;
+  const chk=C.checkFile(f);
+  if(!chk.ok){msg($(c.err),chk.message,'err');input.value='';return;}
+  let d;
+  try{d=await decode(f);}catch(e){if(id===st.loadId[kind]){msg($(c.err),'इमेज नहीं खुल सकी। फाइल खराब हो सकती है, कोई दूसरी JPG/PNG चुनें।','err');input.value='';}return;}
+  if(id!==st.loadId[kind]){d.close();return;}
+  if(!(d.w>0&&d.h>0)){d.close();msg($(c.err),'इमेज खाली दिख रही है। दूसरी फाइल चुनें।','err');return;}
+  if(st.imgs[kind])st.imgs[kind].close();
+  st.imgs[kind]=d;
+  $(c.name).textContent='✔ '+f.name+' ('+d.ow+' × '+d.oh+' px'+(d.ow!==d.w?', तेज़ प्रोसेसिंग के लिए छोटा करके इस्तेमाल':'')+')';
+  $(c.det).classList.remove('hidden');
+  changed();
+}
+
+/* ---------- drawing ---------- */
+function slots(W,H){return C.computeSlots({W,H,mode:mode(),layout:layout(),share:$('share').value/100,gap:$('gap').value});}
+function paint(ctx,W,H,forPreview){
+  ctx.fillStyle='#fff';ctx.fillRect(0,0,W,H);
+  ctx.imageSmoothingEnabled=true;ctx.imageSmoothingQuality='high';
+  const s=slots(W,H),al=$('align').value;
+  for(const kind of ['photo','sign']){
+    const slot=s[kind];if(!slot)continue;
+    const im=st.imgs[kind];
+    if(!im){
+      if(forPreview){ctx.save();ctx.fillStyle='#eef3fb';ctx.fillRect(slot.x,slot.y,slot.w,slot.h);ctx.strokeStyle='#9db2d8';ctx.setLineDash([8,6]);ctx.lineWidth=2;ctx.strokeRect(slot.x+1,slot.y+1,slot.w-2,slot.h-2);ctx.fillStyle='#52607a';ctx.font='bold '+Math.max(12,Math.min(slot.w,slot.h)/8)+'px sans-serif';ctx.textAlign='center';ctx.textBaseline='middle';ctx.fillText(kind==='photo'?'Photo':'Signature',slot.x+slot.w/2,slot.y+slot.h/2);ctx.restore();}
+      continue;
+    }
+    const a=st.adj[kind],r=C.placeImage(im.w,im.h,slot,{fit:a.fit,zoom:a.zoom,panX:a.panX,panY:a.panY,align:al});
+    ctx.save();ctx.beginPath();ctx.rect(slot.x,slot.y,slot.w,slot.h);ctx.clip();ctx.drawImage(im.src,r.dx,r.dy,r.dw,r.dh);ctx.restore();
+  }
+}
+function dims(){const v=C.validateDims($('w').value,$('h').value);return v;}
+function drawPreview(){
+  st.raf=0;
+  const v=dims();if(!v.ok)return;
+  const cv=$('preview'),pw=Math.min(v.W,520),ph=Math.max(1,Math.round(v.H*pw/v.W)),k=pw/v.W;
+  if(cv.width!==pw)cv.width=pw;if(cv.height!==ph)cv.height=ph;
+  const ctx=cv.getContext('2d');ctx.setTransform(k,0,0,k,0,0);paint(ctx,v.W,v.H,true);ctx.setTransform(1,0,0,1,0,0);
+}
+
+/* ---------- export + verification (debounced; only the latest request runs) ---------- */
+function setStats(items){const ul=$('stats');ul.textContent='';for(const t of items){const li=document.createElement('li');li.textContent=t;ul.appendChild(li);}}
+function noOutput(why,cls){st.blob=null;$('dl').disabled=true;$('dl').textContent='⬇️ Download';setStats([]);msg($('verdict'),why,cls||'');}
+async function finalize(){
+  const t=++st.token;
+  clearTimeout(st.busyTimer);msg($('busy'),'');
+  const v=dims(),kb=C.parseTargetKB($('kb').value),n=needs();
+  msg($('eReq'),'');
+  if(!v.ok){msg($('eReq'),v.message,'err');return noOutput('Size सही भरने पर ही फाइल बनेगी।','warn');}
+  if(!kb.ok){msg($('eReq'),kb.message,'err');return noOutput('KB सही भरने पर ही फाइल बनेगी।','warn');}
+  const miss=[];if(n.photo&&!st.imgs.photo)miss.push('फोटो');if(n.sign&&!st.imgs.sign)miss.push('हस्ताक्षर');
+  if(miss.length)return noOutput(miss.join(' और ')+' चुनें, फिर फाइल बनेगी।','warn');
+  st.busyTimer=setTimeout(()=>{if(t===st.token)msg($('busy'),'⏳ फाइल तैयार हो रही है…','warn');},250);
+  try{
+    const cv=document.createElement('canvas');cv.width=v.W;cv.height=v.H;
+    paint(cv.getContext('2d'),v.W,v.H,false);
+    const png=$('fmt').value==='png',target=kb.kb?Math.floor(kb.kb*1024):0;
+    let blob,quality=null,met,reason;
+    if(png){blob=await new Promise(r=>cv.toBlob(r,'image/png'));met=!target||(blob&&blob.size<=target);reason=met?'ok':'png-too-big';}
+    else{const r=await C.fitQuality(q=>new Promise(res=>cv.toBlob(res,'image/jpeg',q)),target);blob=r.blob;quality=r.quality;met=r.met;reason=r.reason;}
+    if(t!==st.token)return;
+    if(!blob)throw new Error('encode');
+    /* verify the real exported file, not our intent */
+    let vw=0,vh=0;
+    try{const bm=await createImageBitmap(blob);vw=bm.width;vh=bm.height;bm.close&&bm.close();}
+    catch(e){const u=URL.createObjectURL(blob);try{const im=await new Promise((ok,bad)=>{const i=new Image();i.onload=()=>ok(i);i.onerror=bad;i.src=u;});vw=im.naturalWidth;vh=im.naturalHeight;}finally{URL.revokeObjectURL(u);}}
+    if(t!==st.token)return;
+    const dimOk=vw===v.W&&vh===v.H,sizeOk=!target||blob.size<=target,fmtName=blob.type==='image/png'?'PNG':(blob.type==='image/jpeg'?'JPG':blob.type);
+    clearTimeout(st.busyTimer);msg($('busy'),'');
+    st.blob=blob;st.fileName='rojgardwaar-'+(mode()==='both'?'photo-signature':mode()==='photo'?'photo':'signature')+(png?'.png':'.jpg');
+    setStats([
+      (dimOk?'✓':'✗')+' Size: '+vw+' × '+vh+' px'+(dimOk?'':' (माँगे गए '+v.W+' × '+v.H+' से अलग!)'),
+      '✓ Format: '+fmtName,
+      (target?(sizeOk?'✓':'✗'):'•')+' File size: '+C.formatKB(blob.size)+(target?' (सीमा '+C.formatKB(target)+')':' (कोई सीमा नहीं चुनी)')
+    ]);
+    const warns=[];
+    if(!dimOk)warns.push('एक्सपोर्ट की गई फाइल का size माँगे गए size से मेल नहीं खाया। दोबारा कोशिश करें।');
+    if(target&&!sizeOk){
+      warns.push(reason==='png-too-big'?'PNG में फाइल '+C.formatKB(blob.size)+' बनी, जो सीमा से बड़ी है। JPG चुनें या KB सीमा बढ़ाएँ।':'इस size पर भी फाइल सबसे कम स्वीकार्य quality में '+C.formatKB(blob.size)+' बनी, जो '+C.formatKB(target)+' से बड़ी है। KB सीमा बढ़ाएँ या (अगर notification में अनुमति हो) width/height घटाएँ। quality और घटाने से फोटो बिगड़ जाएगी।');
+    }
+    if(quality!==null&&quality<0.5&&sizeOk&&dimOk)warns.push('इस KB सीमा के लिए quality काफ़ी कम करनी पड़ी। Preview में फोटो और हस्ताक्षर साफ़ दिख रहे हैं या नहीं, ज़रूर जाँचें।');
+    if(dimOk&&sizeOk&&!warns.length)msg($('verdict'),'✓ जाँची गई असली फाइल आपके भरे size'+(target?' और KB सीमा':'')+' के अनुसार है। अपलोड से पहले portal की शर्तें एक बार फिर देख लें।','ok');
+    else if(dimOk&&sizeOk)msg($('verdict'),'✓ Size'+(target?' और KB सीमा':'')+' ठीक है। ध्यान दें: '+warns.join(' '),'warn');
+    else msg($('verdict'),'⚠ '+warns.join(' '),'err');
+    $('dl').disabled=!dimOk;$('dl').textContent=(target&&!sizeOk)?'⬇️ फिर भी Download (सीमा से बड़ी फाइल)':'⬇️ Download '+fmtName+' ('+C.formatKB(blob.size)+')';
+  }catch(e){
+    if(t!==st.token)return;
+    clearTimeout(st.busyTimer);msg($('busy'),'');
+    noOutput('फाइल नहीं बन सकी। छोटा size या दूसरी इमेज आज़माएँ।','err');
+  }
+}
+
+/* ---------- change handling ---------- */
+function changed(){
+  st.blob=null;$('dl').disabled=true;
+  if(!st.raf)st.raf=requestAnimationFrame(drawPreview);
+  clearTimeout(st.timer);st.timer=setTimeout(finalize,350);
+  st.token++; /* invalidate any in-flight export right away */
+}
+function syncOutputs(){
+  $('oPZoom').textContent=Number($('pZoom').value).toFixed(1)+'×';$('oSZoom').textContent=Number($('sZoom').value).toFixed(1)+'×';
+  $('oShare').textContent=$('share').value+'%';$('oGap').textContent=$('gap').value+' px';
+}
+function applyAdj(kind){const c=ctl[kind];st.adj[kind]={fit:$(c.fit).value,zoom:Number($(c.zoom).value),panX:Number($(c.x).value),panY:Number($(c.y).value)};}
+for(const kind of ['photo','sign']){
+  const c=ctl[kind];
+  $(c.file).addEventListener('change',()=>pick(kind));
+  for(const k of ['fit','zoom','x','y'])$(c[k]).addEventListener('input',()=>{applyAdj(kind);syncOutputs();changed();});
+  $(c.reset).addEventListener('click',()=>{$(c.zoom).value=1;$(c.x).value=0;$(c.y).value=0;applyAdj(kind);syncOutputs();changed();});
+}
+for(const id of ['share','gap','align'])$(id).addEventListener('input',()=>{syncOutputs();changed();});
+document.querySelectorAll('input[name=layout]').forEach(r=>r.addEventListener('change',changed));
+$('fmt').addEventListener('change',changed);
+function setSize(s){const p=s.split('x');$('w').value=p[0];$('h').value=p[1];}
+$('preset').addEventListener('change',()=>{if($('preset').value){setSize($('preset').value);st.sizeTouched=true;changed();}});
+for(const id of ['w','h'])$(id).addEventListener('input',()=>{st.sizeTouched=true;$('preset').value='';changed();});
+function setKB(v){document.querySelectorAll('#kbChips .chip').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.kb===String(v))));}
+document.querySelectorAll('#kbChips .chip').forEach(b=>b.addEventListener('click',()=>{$('kb').value=b.dataset.kb;setKB(b.dataset.kb);changed();}));
+$('kb').addEventListener('input',()=>{setKB($('kb').value);changed();});
+function applyMode(){
+  const n=needs();
+  $('stepPhoto').classList.toggle('hidden',!n.photo);$('stepSign').classList.toggle('hidden',!n.sign);$('layoutBox').classList.toggle('hidden',mode()!=='both');
+  if(!st.sizeTouched){setSize(MODE_PRESET[mode()]);$('share').value=69;syncOutputs();}
+}
+document.querySelectorAll('input[name=mode]').forEach(r=>r.addEventListener('change',()=>{applyMode();changed();}));
+
+$('dl').addEventListener('click',()=>{
+  if(!st.blob)return;
+  const a=document.createElement('a'),u=URL.createObjectURL(st.blob);a.href=u;a.download=st.fileName;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),4000);
+});
+$('reset').addEventListener('click',()=>{
+  st.token++;clearTimeout(st.timer);clearTimeout(st.busyTimer);st.loadId.photo++;st.loadId.sign++;
+  for(const k of ['photo','sign']){if(st.imgs[k])st.imgs[k].close();st.imgs[k]=null;const c=ctl[k];$(c.file).value='';$(c.name).textContent='';msg($(c.err),'');$(c.det).classList.add('hidden');$(c.det).open=false;}
+  st.adj=DEFAULT_ADJ();$('pFit').value='cover';$('sFit').value='contain';
+  for(const id of ['pZoom','sZoom'])$(id).value=1;for(const id of ['pX','pY','sX','sY','gap'])$(id).value=0;$('share').value=69;$('align').value='center';
+  document.querySelector('input[name=mode][value=both]').checked=true;document.querySelector('input[name=layout][value=stack]').checked=true;
+  $('fmt').value='jpeg';$('kb').value='';setKB('');$('preset').value='';st.sizeTouched=false;setSize(MODE_PRESET.both);
+  st.blob=null;st.fileName='';applyMode();syncOutputs();noOutput('','');msg($('eReq'),'');msg($('busy'),'');
+  drawPreview();finalize();
+});
+applyMode();syncOutputs();drawPreview();finalize();
+})();
 </script></body></html>
