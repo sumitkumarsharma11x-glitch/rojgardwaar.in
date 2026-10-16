@@ -20,9 +20,14 @@ function validate(data) {
     if (!exam.id || typeof exam.id !== 'string') errors.push(`${label}: missing string id.`);
     else if (seen.has(exam.id)) errors.push(`${label}: duplicate id.`); else seen.add(exam.id);
     for (const f of ['exam', 'organization', 'qualification', 'examCategory']) if (typeof exam[f] !== 'string' || !exam[f].trim()) errors.push(`${label}: missing ${f}.`);
+    const openEndedAgeRule = ['none', 'minimum-only', 'dob-window'].includes(exam.ageLimitType) || exam.ageRulesUnknown === true;
     const agePairs = [[exam.minAge, exam.maxAge, 'record']].concat((exam.ageBands || []).map(b => [b.minAge, b.maxAge, `band ${b.id}`]));
     for (const [mn, mx, where] of agePairs) {
-      if (!Number.isFinite(mn) || !Number.isFinite(mx)) errors.push(`${label}: minAge/maxAge must be numbers (${where}).`);
+      if (where === 'record' && openEndedAgeRule) {
+        if (exam.ageLimitType === 'minimum-only' && (!Number.isFinite(mn) || mn < 0 || mx !== null)) errors.push(`${label}: minimum-only age rule needs a numeric minAge and null maxAge.`);
+        else if (exam.ageLimitType === 'none' && (mn !== null || mx !== null)) errors.push(`${label}: no-age-limit records must use null minAge/maxAge, not placeholder values.`);
+        else if ((exam.ageRulesUnknown === true || exam.ageLimitType === 'dob-window') && (mn !== null || mx !== null)) errors.push(`${label}: unknown/DOB-window age rules must not store numeric placeholder bounds.`);
+      } else if (!Number.isFinite(mn) || !Number.isFinite(mx)) errors.push(`${label}: minAge/maxAge must be numbers (${where}).`);
       else if (mn < 0 || mx < mn || mx > 100) errors.push(`${label}: invalid age range ${mn}-${mx} (${where}).`);
     }
     if (!E.parseISODate(exam.ageCutoffDate)) errors.push(`${label}: ageCutoffDate must be a real YYYY-MM-DD date.`);
@@ -59,7 +64,7 @@ function validate(data) {
       if (c && c.requiresManualReview === true && exam.verifiedForCurrentCycle === true) errors.push(`${label}: manual-review criteria cannot be marked verified.`);
     }
     if (exam.ageLimitType !== undefined && !['bounded', 'none', 'minimum-only', 'dob-window'].includes(exam.ageLimitType)) errors.push(`${label}: unsupported ageLimitType.`);
-    if (exam.ageLimitType === 'none' && exam.maxAge !== 100) warnings.push(`${label}: no-upper-age-limit record should use 100 only as a technical sentinel until UI rendering supports open-ended age ranges.`);
+    if (exam.ageLimitType === 'none' && (exam.minAge !== null || exam.maxAge !== null)) errors.push(`${label}: no-age-limit records must not use numeric placeholders.`);
   });
   return { errors, warnings };
 }
