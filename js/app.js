@@ -236,13 +236,16 @@
     if (needsHardVerification) {
       const relaxation = getRelaxation(exam, category);
       const qualCheck = checkQualification(qualification, exam);
-      const effectiveMaxAge = Number.isFinite(Number(exam.maxAge))
-        ? Number(exam.maxAge) + relaxation
+      const hasStoredMinimum = Number.isFinite(exam.minAge);
+      const hasStoredMaximum = Number.isFinite(exam.maxAge);
+      const effectiveMaxAge = hasStoredMaximum && exam.ageLimitType !== 'none'
+        ? exam.maxAge + relaxation
         : null;
       const ageIsUsable = age && Number.isFinite(age.decimalAge);
-      const hasAgeRange = Number.isFinite(Number(exam.minAge)) && Number.isFinite(Number(exam.maxAge));
+      const hasRealAgeRange = exam.ageLimitType === 'bounded' && hasStoredMinimum && hasStoredMaximum && exam.maxAge < 65;
+      const hasMinimumOnly = exam.ageLimitType === 'minimum-only' && hasStoredMinimum;
       let screeningSummary = 'Age screening could not be calculated reliably from the saved record.';
-      if (ageIsUsable && hasAgeRange) {
+      if (ageIsUsable && hasRealAgeRange) {
         if (age.years < Number(exam.minAge)) {
           screeningSummary = `Saved-data age screen: age ${age.formatted} is below the configured minimum ${exam.minAge} years.`;
         } else if (age.years > effectiveMaxAge) {
