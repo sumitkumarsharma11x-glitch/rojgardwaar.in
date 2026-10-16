@@ -670,8 +670,8 @@
             <span class="exam-detail-value">${r.age.formatted}</span>
           </div>
           <div class="exam-detail">
-            <span class="exam-detail-label">Cutoff Date</span>
-            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Notification-specific" : formatDate(r.exam.ageCutoffDate)}</span>
+            <span class="exam-detail-label">Age Cutoff</span>
+            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Check notification" : r.exam.ageLimitType === 'none' ? "Not applicable at exam level" : r.exam.ageLimitType === 'minimum-only' ? formatDate(r.exam.ageCutoffDate) : formatDate(r.exam.ageCutoffDate)}</span>
           </div>
           ${r.relaxation > 0 ? `
           <div class="exam-detail">
@@ -740,7 +740,7 @@
         <td>${r.exam.ageRulesUnknown ? "Check notification" : r.exam.ageLimitType === 'none' ? "No exam-level age limit" : r.exam.ageLimitType === 'minimum-only' ? `Minimum ${r.exam.minAge} yrs; no upper limit` : r.exam.ageLimitType === 'bounded' ? `${r.exam.minAge} - ${r.exam.maxAge} yrs (stored)` : "Check notification"}</td>
         <td>
           <strong>${r.age.shortFormatted}</strong>
-          <div style="font-size: 0.75rem; color: var(--text-muted);">as of ${r.exam.ageRulesUnknown ? "notification-specific date" : formatDate(r.exam.ageCutoffDate)}</div>
+          <div style="font-size: 0.75rem; color: var(--text-muted);">${r.exam.ageRulesUnknown ? "age date: check notification" : r.exam.ageLimitType === 'none' ? "no exam-level age cutoff" : `as of ${formatDate(r.exam.ageCutoffDate)}`}</div>
         </td>
         <td>
           ${r.relaxation > 0 ? `+${r.relaxation} yrs (${elements.categorySelect.value})` : 'None'}
