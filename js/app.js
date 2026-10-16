@@ -250,13 +250,23 @@
         } else {
           screeningSummary = `Saved-data age screen: age ${age.formatted} falls within the configured ${exam.minAge}–${effectiveMaxAge}-year range.`;
         }
+      } else if (ageIsUsable && hasMinimumOnly) {
+        screeningSummary = age.years < Number(exam.minAge)
+          ? `Saved-data age screen: age ${age.formatted} is below the configured minimum ${exam.minAge} years; no upper age limit is stored.`
+          : `Saved-data age screen: age ${age.formatted} meets the configured minimum ${exam.minAge} years; no upper age limit is stored. Other conditions still require verification.`;
+      } else if (exam.ageLimitType === 'none') {
+        screeningSummary = 'The exam itself has no age limit in this cycle; this is not an age-eligibility decision for any particular course or institution.';
       }
       const qualificationSummary = qualCheck.met
         ? `The selected qualification (${qualification}) meets the dataset's configured minimum (${exam.qualification}), but post-specific subject, passing-year or other conditions may still apply.`
         : `The selected qualification (${qualification}) does not match the dataset's configured minimum (${exam.qualification}); check accepted qualifications and post-specific rules.`;
-      const cutoffSummary = exam.ageCutoffDate
-        ? `Configured age cutoff: ${formatDate(exam.ageCutoffDate)}.`
-        : 'No reliable age cutoff date is stored.';
+      const cutoffSummary = exam.ageLimitType === 'none'
+        ? 'No exam-level age cutoff applies; course or institution rules may differ.'
+        : exam.ageLimitType === 'minimum-only'
+          ? `Configured minimum-age reference date: ${formatDate(exam.ageCutoffDate)}; no upper age limit is stored.`
+          : exam.ageCutoffDate
+            ? `Configured age cutoff: ${formatDate(exam.ageCutoffDate)}.`
+            : 'No reliable age cutoff date is stored.';
       return {
         exam,
         age,
@@ -595,7 +605,13 @@
     const min = Number(result.exam.minAge);
     const max = Number(result.effectiveMaxAge ?? result.exam.maxAge);
     let ageText = 'उम्र की जाँच उपलब्ध डेटा से भरोसेमंद तरीके से नहीं हो सकी।';
-    if (result.age && Number.isFinite(min) && Number.isFinite(max)) {
+    if (result.exam.ageLimitType === 'none') {
+      ageText = 'इस परीक्षा के लिए इस चक्र में परीक्षा-स्तर पर आयु सीमा नहीं है; लेकिन चुने गए कोर्स/संस्थान की शर्तें अलग हो सकती हैं।';
+    } else if (result.exam.ageLimitType === 'minimum-only' && result.age && Number.isFinite(min)) {
+      ageText = result.age.years < min
+        ? `सेव किए गए डेटा के अनुसार आपकी उम्र ${age} है, जो दर्ज न्यूनतम ${min} वर्ष से कम है। कोई अधिकतम आयु सीमा दर्ज नहीं है।`
+        : `सेव किए गए डेटा के अनुसार आपकी उम्र ${age} दर्ज न्यूनतम ${min} वर्ष पूरी करती है। कोई अधिकतम आयु सीमा दर्ज नहीं है; अन्य शर्तें जाँचें।`;
+    } else if (result.age && result.exam.ageRulesUnknown !== true && result.exam.ageLimitType === 'bounded' && Number.isFinite(min) && Number.isFinite(max)) {
       if (result.age.years < min) {
         ageText = `सेव किए गए डेटा के अनुसार आपकी उम्र ${age} है, जो निर्धारित न्यूनतम उम्र ${min} वर्ष से कम है।`;
       } else if (result.age.years > max) {
@@ -643,12 +659,8 @@
         <p class="exam-card-org">${r.exam.organization}</p>
         <div class="exam-card-details">
           <div class="exam-detail">
-            <span class="exam-detail-label">Min Age</span>
-            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.minAge} years`}</span>
-          </div>
-          <div class="exam-detail">
-            <span class="exam-detail-label">Max Age</span>
-            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.maxAge} years`}</span>
+            <span class="exam-detail-label">Age Rule</span>
+            <span class="exam-detail-value">${r.exam.ageRulesUnknown ? "Check notification" : r.exam.ageLimitType === 'none' ? "No exam-level age limit" : r.exam.ageLimitType === 'minimum-only' ? `Minimum ${r.exam.minAge} years; no upper limit` : r.exam.ageLimitType === 'bounded' ? `${r.exam.minAge}–${r.exam.maxAge} years (stored range)` : "Check notification"}</span>
           </div>
           <div class="exam-detail">
             <span class="exam-detail-label">Your Age</span>
@@ -678,7 +690,7 @@
           </div>
           <div class="exam-detail">
             <span class="exam-detail-label">Qualification Check</span>
-            <span class="exam-detail-value">${r.qualificationMet ? '✓ Saved-data match' : '✗ No configured match'}</span>
+            <span class="exam-detail-value">${r.qualificationMet ? ((r.exam.verifiedForCurrentCycle === true && r.statusType !== 'verification' && r.statusType !== 'preliminary') ? '✓ Meets verified stored rule' : 'Saved-data match only — not verified') : 'No configured match — verify official rules'}</span>
           </div>
         </div>
         <div class="exam-card-explanation">
@@ -722,7 +734,7 @@
           <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 0.25rem;">${r.exam.description}</div>
         </td>
         <td class="exam-org-cell">${r.exam.organization}</td>
-        <td>${r.exam.ageRulesUnknown ? "Check notification" : `${r.exam.minAge} - ${r.exam.maxAge} yrs`}</td>
+        <td>${r.exam.ageRulesUnknown ? "Check notification" : r.exam.ageLimitType === 'none' ? "No exam-level age limit" : r.exam.ageLimitType === 'minimum-only' ? `Minimum ${r.exam.minAge} yrs; no upper limit` : r.exam.ageLimitType === 'bounded' ? `${r.exam.minAge} - ${r.exam.maxAge} yrs (stored)` : "Check notification"}</td>
         <td>
           <strong>${r.age.shortFormatted}</strong>
           <div style="font-size: 0.75rem; color: var(--text-muted);">as of ${r.exam.ageRulesUnknown ? "notification-specific date" : formatDate(r.exam.ageCutoffDate)}</div>
