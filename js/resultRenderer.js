@@ -86,6 +86,19 @@ const ResultRenderer = (function () {
               <p class="rjd-review-item__answer"><strong>${LanguageManager.get("yourAnswer")}:</strong> ${r.isAttempted ? LanguageManager.pick(r.options)[r.userAnswer] : "—"}</p>
               ${!r.isCorrect ? `<p class="rjd-review-item__answer"><strong>${LanguageManager.get("correctAnswer")}:</strong> ${LanguageManager.pick(r.options)[r.correctAnswer]}</p>` : ""}
               <p class="rjd-review-item__explanation"><strong>${LanguageManager.get("explanation")}:</strong> ${LanguageManager.pick(r.explanation)}</p>
+              ${r.optionExplanations && (r.optionExplanations[LanguageManager.getCurrent()] || (LanguageManager.getCurrent() === "hi" ? r.optionExplanations.hi : r.optionExplanations.en)) ? `
+                <div class="rjd-option-review">
+                  <h4>${LanguageManager.getCurrent() === "hi" ? "चारों विकल्पों की व्याख्या" : "Why each option is right or wrong"}</h4>
+                  <ol>
+                    ${(r.optionExplanations[LanguageManager.getCurrent()] || (LanguageManager.getCurrent() === "hi" ? r.optionExplanations.hi : r.optionExplanations.en)).map((reason, optionIndex) => `
+                      <li class="${optionIndex === r.correctAnswer ? "is-correct" : "is-incorrect"}">
+                        <strong>${String.fromCharCode(65 + optionIndex)} — ${optionIndex === r.correctAnswer ? (LanguageManager.getCurrent() === "hi" ? "सही" : "Correct") : (LanguageManager.getCurrent() === "hi" ? "गलत" : "Incorrect")}:</strong>
+                        ${reason}
+                      </li>
+                    `).join("")}
+                  </ol>
+                </div>
+              ` : ""}
             </div>
           `
             )
