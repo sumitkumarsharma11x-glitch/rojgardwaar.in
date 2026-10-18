@@ -105,10 +105,10 @@ function createPracticeSession(container, questions, opts = {}) {
     const feedback = container.querySelector("#rjd-feedback");
     feedback.hidden = false;
     feedback.className = `rjd-feedback rjd-feedback--${isCorrect ? "correct" : "wrong"}`;
+    const currentLanguage = LanguageManager.getCurrent();
     const optionExplanations = q.optionExplanations && (
-      q.optionExplanations[LanguageManager.getCurrent()] ||
-      q.optionExplanations.hi ||
-      q.optionExplanations.en
+      q.optionExplanations[currentLanguage] ||
+      (currentLanguage === "hi" ? q.optionExplanations.hi : q.optionExplanations.en)
     );
     const optionReview = Array.isArray(optionExplanations)
       ? `
