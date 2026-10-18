@@ -3343,3 +3343,12 @@ body:has(#rjd-home-root) .rjd-train-front b{font-size:14px}
 @media (max-width: 700px) {
   .rjd-prep-progress__stats { grid-template-columns: repeat(2, 1fr); }
 }
+
+
+/* Option-by-option learning feedback */
+.rjd-option-review{margin-top:14px;padding:13px;border:1px solid #d9e5ed;border-radius:10px;background:#f8fbfd;color:#243746}
+.rjd-option-review h4{margin:0 0 8px;font-size:14px}
+.rjd-option-review ol{margin:0;padding-left:22px}
+.rjd-option-review li{margin:8px 0;padding:8px 10px;border-radius:7px;font-size:13px;line-height:1.55}
+.rjd-option-review li.is-correct{background:#eaf8ef;border-left:3px solid #21864b}
+.rjd-option-review li.is-incorrect{background:#fff;border-left:3px solid #cbd7df}

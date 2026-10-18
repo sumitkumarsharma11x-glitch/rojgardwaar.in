@@ -105,9 +105,30 @@ function createPracticeSession(container, questions, opts = {}) {
     const feedback = container.querySelector("#rjd-feedback");
     feedback.hidden = false;
     feedback.className = `rjd-feedback rjd-feedback--${isCorrect ? "correct" : "wrong"}`;
+    const currentLanguage = LanguageManager.getCurrent();
+    const optionExplanations = q.optionExplanations && (
+      q.optionExplanations[currentLanguage] ||
+      (currentLanguage === "hi" ? q.optionExplanations.hi : q.optionExplanations.en)
+    );
+    const optionReview = Array.isArray(optionExplanations)
+      ? `
+        <div class="rjd-option-review">
+          <h4>${LanguageManager.getCurrent() === "hi" ? "चारों विकल्पों की व्याख्या" : "Why each option is right or wrong"}</h4>
+          <ol>
+            ${optionExplanations.map((reason, i) => `
+              <li class="${i === q.correctAnswer ? "is-correct" : "is-incorrect"}">
+                <strong>${optionLetter(i)} — ${i === q.correctAnswer ? (LanguageManager.getCurrent() === "hi" ? "सही" : "Correct") : (LanguageManager.getCurrent() === "hi" ? "गलत" : "Incorrect")}:</strong>
+                ${reason}
+              </li>
+            `).join("")}
+          </ol>
+        </div>
+      `
+      : "";
     feedback.innerHTML = `
       <p class="rjd-feedback__verdict">${isCorrect ? "✅ " + LanguageManager.get("correct") : "❌ " + LanguageManager.get("wrong")}</p>
       <p class="rjd-feedback__explanation"><strong>${LanguageManager.get("explanation")}:</strong> ${LanguageManager.pick(q.explanation)}</p>
+      ${optionReview}
     `;
 
     container.querySelector("#rjd-check").hidden = true;

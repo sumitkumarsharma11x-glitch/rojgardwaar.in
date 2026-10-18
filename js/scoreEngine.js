@@ -49,6 +49,7 @@ const ScoreEngine = (function () {
         isCorrect,
         isAttempted,
         explanation: q.explanation,
+        optionExplanations: q.optionExplanations || null,
         topic: q.topic,
         difficulty: q.difficulty,
       });
