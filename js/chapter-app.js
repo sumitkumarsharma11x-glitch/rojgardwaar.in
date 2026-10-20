@@ -253,6 +253,17 @@
                           : ""
                       }
 
+                      ${Array.isArray(section.diagrams) && section.diagrams.length ? `
+                        <div class="rjd-topic-diagrams">
+                          ${section.diagrams.map((diagram) => `
+                            <figure class="rjd-topic-diagram">
+                              <img src="${diagram.src}" alt="${isHindi() ? diagram.altHi : diagram.altEn}" loading="lazy" decoding="async">
+                              <figcaption>${isHindi() ? diagram.captionHi : diagram.captionEn}</figcaption>
+                            </figure>
+                          `).join("")}
+                        </div>
+                      ` : ""}
+
                     </article>
                   `
                 )
