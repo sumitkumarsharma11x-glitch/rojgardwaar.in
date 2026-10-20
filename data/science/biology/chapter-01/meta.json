@@ -79,7 +79,23 @@
         },
         {
           "heading": "पादप कोशिका बनाम जंतु कोशिका",
-          "content": "पादप कोशिका में कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पाई जाती है; जंतु कोशिका में कोशिका भित्ति और हरितलवक नहीं होते, तथा रिक्तिकाएँ छोटी हो सकती हैं।"
+          "content": "पादप कोशिका में कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पाई जाती है; जंतु कोशिका में कोशिका भित्ति और हरितलवक नहीं होते, तथा रिक्तिकाएँ छोटी हो सकती हैं।",
+          "diagrams": [
+            {
+              "src": "assets/diagrams/biology/chapter-01/plant-cell.svg",
+              "altHi": "पादप कोशिका का सरल योजनात्मक चित्र",
+              "altEn": "Simplified schematic of a plant cell",
+              "captionHi": "चित्र 1: पादप कोशिका—कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका पहचानें। चित्र योजनात्मक है, मापानुसार नहीं।",
+              "captionEn": "Figure 1: Plant cell—identify the cell wall, chloroplasts and large central vacuole. Schematic, not to scale."
+            },
+            {
+              "src": "assets/diagrams/biology/chapter-01/animal-cell.svg",
+              "altHi": "जंतु कोशिका का सरल योजनात्मक चित्र",
+              "altEn": "Simplified schematic of an animal cell",
+              "captionHi": "चित्र 2: जंतु कोशिका—कोशिका झिल्ली, केंद्रक और माइटोकॉन्ड्रिया पहचानें। चित्र योजनात्मक है, मापानुसार नहीं।",
+              "captionEn": "Figure 2: Animal cell—identify the cell membrane, nucleus and mitochondrion. Schematic, not to scale."
+            }
+          ]
         },
         {
           "heading": "प्रमुख कोशिकांग एवं उनके कार्य",
@@ -95,7 +111,16 @@
         },
         {
           "heading": "जाइलम एवं फ्लोएम की संरचना",
-          "content": "जाइलम वाहिनिका, वाहिका, जाइलम मृदूतक और जाइलम रेशों से मिलकर बना होता है, इसमें अधिकांश कोशिकाएँ मृत होती हैं। फ्लोएम चालनी नलिका, सह-कोशिका, फ्लोएम मृदूतक और फ्लोएम रेशों से मिलकर बना होता है, इसमें चालनी नलिका और सह-कोशिका जीवित होती हैं। इस अध्याय में केवल इनकी संरचना पढ़नी है, इनका जल एवं भोजन परिवहन कार्य अध्याय तीन में पढ़ा जाएगा।"
+          "content": "जाइलम वाहिनिका, वाहिका, जाइलम मृदूतक और जाइलम रेशों से मिलकर बना होता है, इसमें अधिकांश कोशिकाएँ मृत होती हैं। फ्लोएम चालनी नलिका, सह-कोशिका, फ्लोएम मृदूतक और फ्लोएम रेशों से मिलकर बना होता है, इसमें चालनी नलिका और सह-कोशिका जीवित होती हैं। इस अध्याय में केवल इनकी संरचना पढ़नी है, इनका जल एवं भोजन परिवहन कार्य अध्याय तीन में पढ़ा जाएगा।",
+          "diagrams": [
+            {
+              "src": "assets/diagrams/biology/chapter-01/xylem-phloem.svg",
+              "altHi": "जाइलम और फ्लोएम की संरचना का तुलनात्मक चित्र",
+              "altEn": "Schematic comparison of xylem and phloem structure",
+              "captionHi": "चित्र 3: जाइलम और फ्लोएम की संरचना का सरल तुलनात्मक चित्र। चित्र योजनात्मक है, मापानुसार नहीं।",
+              "captionEn": "Figure 3: Simplified structural comparison of xylem and phloem. Schematic, not to scale."
+            }
+          ]
         }
       ],
       "keyPoints": [
@@ -159,7 +184,23 @@
         },
         {
           "heading": "Plant Cell vs Animal Cell",
-          "content": "A plant cell has a cell wall, chloroplasts and usually a large central vacuole; an animal cell lacks a cell wall and chloroplasts, and its vacuoles, if present, tend to be small."
+          "content": "A plant cell has a cell wall, chloroplasts and usually a large central vacuole; an animal cell lacks a cell wall and chloroplasts, and its vacuoles, if present, tend to be small.",
+          "diagrams": [
+            {
+              "src": "assets/diagrams/biology/chapter-01/plant-cell.svg",
+              "altHi": "पादप कोशिका का सरल योजनात्मक चित्र",
+              "altEn": "Simplified schematic of a plant cell",
+              "captionHi": "चित्र 1: पादप कोशिका—कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका पहचानें। चित्र योजनात्मक है, मापानुसार नहीं।",
+              "captionEn": "Figure 1: Plant cell—identify the cell wall, chloroplasts and large central vacuole. Schematic, not to scale."
+            },
+            {
+              "src": "assets/diagrams/biology/chapter-01/animal-cell.svg",
+              "altHi": "जंतु कोशिका का सरल योजनात्मक चित्र",
+              "altEn": "Simplified schematic of an animal cell",
+              "captionHi": "चित्र 2: जंतु कोशिका—कोशिका झिल्ली, केंद्रक और माइटोकॉन्ड्रिया पहचानें। चित्र योजनात्मक है, मापानुसार नहीं।",
+              "captionEn": "Figure 2: Animal cell—identify the cell membrane, nucleus and mitochondrion. Schematic, not to scale."
+            }
+          ]
         },
         {
           "heading": "Major Cell Organelles and Their Functions",
@@ -175,7 +216,16 @@
         },
         {
           "heading": "Structure of Xylem and Phloem",
-          "content": "Xylem is made up of tracheids, vessels, xylem parenchyma and xylem fibres, and most of its cells are dead. Phloem is made up of sieve tubes, companion cells, phloem parenchyma and phloem fibres, and its sieve tubes and companion cells are living. This chapter covers only their structure, their function of transporting water and food will be covered in Chapter 3."
+          "content": "Xylem is made up of tracheids, vessels, xylem parenchyma and xylem fibres, and most of its cells are dead. Phloem is made up of sieve tubes, companion cells, phloem parenchyma and phloem fibres, and its sieve tubes and companion cells are living. This chapter covers only their structure, their function of transporting water and food will be covered in Chapter 3.",
+          "diagrams": [
+            {
+              "src": "assets/diagrams/biology/chapter-01/xylem-phloem.svg",
+              "altHi": "जाइलम और फ्लोएम की संरचना का तुलनात्मक चित्र",
+              "altEn": "Schematic comparison of xylem and phloem structure",
+              "captionHi": "चित्र 3: जाइलम और फ्लोएम की संरचना का सरल तुलनात्मक चित्र। चित्र योजनात्मक है, मापानुसार नहीं।",
+              "captionEn": "Figure 3: Simplified structural comparison of xylem and phloem. Schematic, not to scale."
+            }
+          ]
         }
       ],
       "keyPoints": [
