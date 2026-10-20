@@ -3511,3 +3511,22 @@ body.rjd-chapter-page{
  .rjd-chapter-page .rjd-topic-diagrams{grid-column:1 / -1}
  .rjd-chapter-page .rjd-topic-diagram{padding:9px}
 }
+
+/* Accessibility fix: readable text in the pale Quick Revision panel */
+.rjd-chapter-page .rjd-quick-revision-premium{
+  background:#fff9e8;
+  border:1px solid #f1dfaa;
+  border-left:4px solid #e5b547;
+  color:#65501f;
+}
+.rjd-chapter-page .rjd-quick-revision-premium strong{
+  color:#925b0a;
+}
+.rjd-chapter-page .rjd-quick-revision-premium p{
+  color:#5b4b2b;
+}
+.rjd-chapter-page .rjd-quick-revision-premium .rjd-quick-icon{
+  color:#6f4b08;
+  background:#f4d78d;
+  border-radius:50%;
+}
