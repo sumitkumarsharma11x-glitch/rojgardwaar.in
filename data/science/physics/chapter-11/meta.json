@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "heating-effect-of-current",
+      "name": {
+        "hi": "तापीय प्रभाव",
+        "en": "Heating Effect Of Current"
+      }
+    },
+    {
+      "id": "chemical-effect-of-current",
+      "name": {
+        "hi": "रासायनिक प्रभाव",
+        "en": "Chemical Effect Of Current"
+      }
+    },
+    {
+      "id": "magnetic-effect-of-current",
+      "name": {
+        "hi": "चुंबकीय प्रभाव",
+        "en": "Magnetic Effect Of Current"
+      }
+    },
+    {
+      "id": "electric-energy-and-sources",
+      "name": {
+        "hi": "ऊर्जा स्रोत",
+        "en": "Electric Energy And Sources"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "विद्युत धारा के तीन मुख्य प्रभाव हैं — तापीय (हीटर, बल्ब), रासायनिक (विद्युत अपघटन, विद्युतलेपन) और चुंबकीय (विद्युत-चुंबक, मोटर)। इन्हीं प्रभावों पर घरेलू उपकरण और औद्योगिक प्रक्रियाएँ चलती हैं। विद्युत ऊर्जा प्राप्त करने के पारंपरिक और गैर-पारंपरिक स्रोतों का ज्ञान परीक्षा के लिए आवश्यक है।",
