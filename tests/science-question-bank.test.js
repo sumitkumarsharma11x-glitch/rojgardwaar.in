@@ -89,3 +89,45 @@ test("all 36 Science chapters have usable bilingual question banks", () => {
 
   assert.equal(checked, 36);
 });
+
+test("all 36 Science chapters meet the minimum notes-depth and originality checklist", () => {
+  const genericPatterns = [
+    /Study .* with definitions, examples, comparisons and applications/i,
+    /Understand the core idea of/i,
+    /Connect each major concept with an example/i,
+    /Distinguish closely related terms and processes/i,
+    /Apply the concept to simple real-life or exam situations/i,
+    /Core definitions and concepts/i,
+    /Important properties and examples/i,
+    /Comparison and reasoning questions/i,
+    /Application-based questions/i,
+    /मुख्य परिभाषा समझें/,
+    /मुख्य गुणों को उदाहरणों के साथ जोड़ें/,
+    /प्रश्न को ध्यान से पढ़कर विकल्प चुनें/
+  ];
+
+  for (const subject of SUBJECTS) {
+    for (const chapter of CHAPTERS) {
+      const base = path.join("data", "science", subject, chapter);
+      const meta = readJson(path.join(base, "meta.json"));
+      for (const language of ["hi", "en"]) {
+        const notes = meta.notes?.[language];
+        assert.ok(notes, `${base}: missing ${language} notes`);
+        assert.ok(typeof notes.concept === "string" && notes.concept.trim().length >= 180,
+          `${base}: ${language} concept needs meaningful explanation`);
+        assert.ok(typeof notes.example === "string" && notes.example.trim().length >= 60,
+          `${base}: ${language} example needs a concrete, useful explanation`);
+        assert.ok(Array.isArray(notes.sections) && notes.sections.length >= 4,
+          `${base}: ${language} notes need at least four sections`);
+        assert.ok(Array.isArray(notes.keyPoints) && notes.keyPoints.length >= 4,
+          `${base}: ${language} needs at least four specific key points`);
+        assert.ok(Array.isArray(notes.examFocus) && notes.examFocus.length >= 3,
+          `${base}: ${language} needs at least three specific exam-focus points`);
+        const text = [notes.example, ...(notes.keyPoints || []), ...(notes.examFocus || [])].join("\\n");
+        for (const pattern of genericPatterns) {
+          assert.doesNotMatch(text, pattern, `${base}: generic/filler notes detected in ${language}`);
+        }
+      }
+    }
+  }
+});
