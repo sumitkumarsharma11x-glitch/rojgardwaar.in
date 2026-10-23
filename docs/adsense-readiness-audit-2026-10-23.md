@@ -95,3 +95,5 @@ The current NCERT Grade 9 Science textbook, *Exploration* (First Edition, April 
 - Changed the visible labels on the 35 Biology/Physics/Chemistry pages to “Topic Guide” rather than “Chapter” to reduce the risk of implying official NCERT chapter numbering.
 - Corrected the Biology reproduction notes and MCQs that overgeneralised asexual reproduction as always using mitosis. The revised explanation distinguishes mitosis in many eukaryotes from binary fission in prokaryotes such as bacteria.
 - This is an initial fact-check correction, not evidence that every scientific claim across the full question bank has been independently verified.
+
+- A second structural pass found two SI-unit MCQs whose options differed only by letter case. Replaced the distractors with distinct unit symbols while preserving the correct answer: kilogram is `kg` and kelvin is `K`. The Physics Topic Guide 01 bank now passes the option-distinctness check.
