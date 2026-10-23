@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "heat-and-temperature",
+      "name": {
+        "hi": "ताप एवं ऊष्मा",
+        "en": "Heat And Temperature"
+      }
+    },
+    {
+      "id": "heat-transfer",
+      "name": {
+        "hi": "ऊष्मा संचरण",
+        "en": "Heat Transfer"
+      }
+    },
+    {
+      "id": "change-of-state",
+      "name": {
+        "hi": "अवस्था परिवर्तन एवं गुप्त ऊष्मा",
+        "en": "Change Of State"
+      }
+    },
+    {
+      "id": "evaporation-cooling",
+      "name": {
+        "hi": "दैनिक जीवन में ऊष्मा",
+        "en": "Evaporation Cooling"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "ऊष्मा ऊर्जा का रूप है जो गर्म पिंड से ठंडे पिंड की ओर प्रवाहित होती है, जबकि ताप वस्तु की गर्मी की डिग्री बताता है। ऊष्मा चालन, संवहन और विकिरण तीन विधियों से संचरित होती है। अवस्था परिवर्तन में ताप स्थिर रहता है और गुप्त ऊष्मा अवशोषित होती है।",
