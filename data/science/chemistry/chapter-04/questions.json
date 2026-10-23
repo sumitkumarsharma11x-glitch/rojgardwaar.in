@@ -39,19 +39,19 @@
       },
       "options": {
         "hi": [
+          "केवल गैसों से",
           "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
           "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से",
-          "केवल धातुओं से",
-          "केवल गैसों से"
+          "केवल धातुओं से"
         ],
         "en": [
+          "Only gases",
           "Chemical combination of elements in a fixed ratio",
           "Physical mixing in any ratio",
-          "Only metals",
-          "Only gases"
+          "Only metals"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: तत्वों के निश्चित अनुपात में रासायनिक संयोजन से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical combination of elements in a fixed ratio. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -67,19 +67,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
-          "तत्व",
           "विषमांगी मिश्रण",
-          "तत्वों का भौतिक मिश्रण"
+          "तत्वों का भौतिक मिश्रण",
+          "यौगिक",
+          "तत्व"
         ],
         "en": [
-          "Compound",
-          "Element",
           "Heterogeneous mixture",
-          "Physical mixture of elements"
+          "Physical mixture of elements",
+          "Compound",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -95,19 +95,19 @@
       },
       "options": {
         "hi": [
-          "तत्व",
           "यौगिक",
           "मिश्रण",
-          "विलयन"
+          "विलयन",
+          "तत्व"
         ],
         "en": [
-          "Element",
           "Compound",
           "Mixture",
-          "Solution"
+          "Solution",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -151,19 +151,19 @@
       },
       "options": {
         "hi": [
+          "केवल 1:1",
           "निश्चित",
           "हमेशा बदलता हुआ",
-          "कोई निश्चित अनुपात नहीं",
-          "केवल 1:1"
+          "कोई निश्चित अनुपात नहीं"
         ],
         "en": [
+          "Only 1:1",
           "Fixed",
           "Always changing",
-          "No fixed ratio",
-          "Only 1:1"
+          "No fixed ratio"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: निश्चित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fixed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -179,19 +179,19 @@
       },
       "options": {
         "hi": [
-          "वह बदल सकता है",
-          "वह हमेशा निश्चित रहता है",
           "वह केवल 1:1 होता है",
-          "वह शून्य होता है"
+          "वह शून्य होता है",
+          "वह बदल सकता है",
+          "वह हमेशा निश्चित रहता है"
         ],
         "en": [
-          "It can vary",
-          "It is always fixed",
           "It is always 1:1",
-          "It is zero"
+          "It is zero",
+          "It can vary",
+          "It is always fixed"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: वह बदल सकता है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It can vary. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -207,19 +207,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण",
           "यौगिक",
           "तत्व",
-          "शुद्ध धातु"
+          "शुद्ध धातु",
+          "मिश्रण"
         ],
         "en": [
-          "Mixture",
           "Compound",
           "Element",
-          "Pure metal"
+          "Pure metal",
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -263,19 +263,19 @@
       },
       "options": {
         "hi": [
+          "केवल गैस",
           "समान रूप से वितरित",
           "हर जगह अलग-अलग",
-          "केवल ठोस",
-          "केवल गैस"
+          "केवल ठोस"
         ],
         "en": [
+          "Only gas",
           "Uniformly distributed",
           "Different everywhere",
-          "Only solid",
-          "Only gas"
+          "Only solid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: समान रूप से वितरित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Uniformly distributed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -291,19 +291,19 @@
       },
       "options": {
         "hi": [
-          "संघटक समान रूप से वितरित नहीं होते",
-          "संरचना हमेशा निश्चित होती है",
           "वह हमेशा तत्व होता है",
-          "वह केवल गैस होता है"
+          "वह केवल गैस होता है",
+          "संघटक समान रूप से वितरित नहीं होते",
+          "संरचना हमेशा निश्चित होती है"
         ],
         "en": [
-          "Components are not uniformly distributed",
-          "Composition is always fixed",
           "It is always an element",
-          "It is only a gas"
+          "It is only a gas",
+          "Components are not uniformly distributed",
+          "Composition is always fixed"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: संघटक समान रूप से वितरित नहीं होते। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Components are not uniformly distributed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -319,19 +319,19 @@
       },
       "options": {
         "hi": [
-          "Fe",
           "F",
           "Ir",
-          "I"
+          "I",
+          "Fe"
         ],
         "en": [
-          "Fe",
           "F",
           "Ir",
-          "I"
+          "I",
+          "Fe"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: Fe। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fe. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -375,19 +375,19 @@
       },
       "options": {
         "hi": [
+          "N",
           "Na",
           "S",
-          "So",
-          "N"
+          "So"
         ],
         "en": [
+          "N",
           "Na",
           "S",
-          "So",
-          "N"
+          "So"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Na। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Na. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -403,19 +403,19 @@
       },
       "options": {
         "hi": [
-          "अक्सर भिन्न होते हैं",
-          "हमेशा बिल्कुल समान होते हैं",
           "हमेशा केवल धातु जैसे होते हैं",
-          "कोई संबंध नहीं"
+          "कोई संबंध नहीं",
+          "अक्सर भिन्न होते हैं",
+          "हमेशा बिल्कुल समान होते हैं"
         ],
         "en": [
-          "They are often different",
-          "Always exactly the same",
           "Always metallic",
-          "No relation"
+          "No relation",
+          "They are often different",
+          "Always exactly the same"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अक्सर भिन्न होते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They are often different. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -431,19 +431,19 @@
       },
       "options": {
         "hi": [
-          "हाँ, सामान्यतः",
           "नहीं, हमेशा नष्ट हो जाते हैं",
           "केवल गैस रखते हैं",
-          "केवल ठोस रखते हैं"
+          "केवल ठोस रखते हैं",
+          "हाँ, सामान्यतः"
         ],
         "en": [
-          "Yes, generally",
           "No, they are always destroyed",
           "Only gases retain them",
-          "Only solids retain them"
+          "Only solids retain them",
+          "Yes, generally"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाँ, सामान्यतः। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Yes, generally. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -487,19 +487,19 @@
       },
       "options": {
         "hi": [
+          "विषमांगी मिश्रण",
           "समांगी मिश्रण",
           "यौगिक",
-          "तत्व",
-          "विषमांगी मिश्रण"
+          "तत्व"
         ],
         "en": [
+          "Heterogeneous mixture",
           "Homogeneous mixture",
           "Compound",
-          "Element",
-          "Heterogeneous mixture"
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: समांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Homogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -515,19 +515,19 @@
       },
       "options": {
         "hi": [
-          "विषमांगी मिश्रण",
-          "समांगी मिश्रण",
           "यौगिक",
-          "तत्व"
+          "तत्व",
+          "विषमांगी मिश्रण",
+          "समांगी मिश्रण"
         ],
         "en": [
-          "Heterogeneous mixture",
-          "Homogeneous mixture",
           "Compound",
-          "Element"
+          "Element",
+          "Heterogeneous mixture",
+          "Homogeneous mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: विषमांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heterogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -543,19 +543,19 @@
       },
       "options": {
         "hi": [
-          "निश्चित",
           "हमेशा बदलती हुई",
           "अनिश्चित",
-          "केवल गैसीय"
+          "केवल गैसीय",
+          "निश्चित"
         ],
         "en": [
-          "Fixed",
           "Always changing",
           "Uncertain",
-          "Only gaseous"
+          "Only gaseous",
+          "Fixed"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निश्चित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fixed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -599,19 +599,19 @@
       },
       "options": {
         "hi": [
+          "शुद्ध पदार्थ",
           "कोलॉइड",
           "तत्व",
-          "यौगिक",
-          "शुद्ध पदार्थ"
+          "यौगिक"
         ],
         "en": [
+          "Pure substance",
           "Colloid",
           "Element",
-          "Compound",
-          "Pure substance"
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: कोलॉइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Colloid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -627,19 +627,19 @@
       },
       "options": {
         "hi": [
-          "तांबा और टिन",
-          "लोहा और कार्बन",
           "तांबा और जस्ता",
-          "सोडियम और क्लोरीन"
+          "सोडियम और क्लोरीन",
+          "तांबा और टिन",
+          "लोहा और कार्बन"
         ],
         "en": [
-          "Copper and tin",
-          "Iron and carbon",
           "Copper and zinc",
-          "Sodium and chlorine"
+          "Sodium and chlorine",
+          "Copper and tin",
+          "Iron and carbon"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: तांबा और टिन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Copper and tin. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -655,19 +655,19 @@
       },
       "options": {
         "hi": [
-          "तांबा और जस्ता",
           "तांबा और टिन",
           "लोहा और कार्बन",
-          "सोडियम और पोटैशियम"
+          "सोडियम और पोटैशियम",
+          "तांबा और जस्ता"
         ],
         "en": [
-          "Copper and zinc",
           "Copper and tin",
           "Iron and carbon",
-          "Sodium and potassium"
+          "Sodium and potassium",
+          "Copper and zinc"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तांबा और जस्ता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Copper and zinc. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -711,19 +711,19 @@
       },
       "options": {
         "hi": [
+          "विलयन",
           "तत्व",
           "यौगिक",
-          "मिश्रण",
-          "विलयन"
+          "मिश्रण"
         ],
         "en": [
+          "Solution",
           "Element",
           "Compound",
-          "Mixture",
-          "Solution"
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -739,19 +739,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
-          "मिश्रण ही",
           "तत्व",
-          "निलंबन"
+          "निलंबन",
+          "यौगिक",
+          "मिश्रण ही"
         ],
         "en": [
-          "A compound",
-          "Only a mixture",
           "An element",
-          "A suspension"
+          "A suspension",
+          "A compound",
+          "Only a mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -767,19 +767,19 @@
       },
       "options": {
         "hi": [
-          "तत्व",
           "यौगिक",
           "मिश्रण",
-          "विलयन"
+          "विलयन",
+          "तत्व"
         ],
         "en": [
-          "Element",
           "Compound",
           "Mixture",
-          "Solution"
+          "Solution",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -823,19 +823,19 @@
       },
       "options": {
         "hi": [
+          "कोलॉइड",
           "शुद्ध पदार्थ",
           "मिश्रण",
-          "निलंबन",
-          "कोलॉइड"
+          "निलंबन"
         ],
         "en": [
+          "Colloids",
           "Pure substances",
           "Mixtures",
-          "Suspensions",
-          "Colloids"
+          "Suspensions"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: शुद्ध पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pure substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -851,19 +851,19 @@
       },
       "options": {
         "hi": [
-          "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता",
-          "दो पदार्थों का मिश्रण",
           "केवल एक प्रकार का मिश्रण",
-          "हमेशा दो तत्वों का मेल"
+          "हमेशा दो तत्वों का मेल",
+          "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता",
+          "दो पदार्थों का मिश्रण"
         ],
         "en": [
-          "A pure substance that cannot be broken into simpler substances by chemical means",
-          "A mixture of two substances",
           "Only one type of mixture",
-          "Always a combination of two elements"
+          "Always a combination of two elements",
+          "A pure substance that cannot be broken into simpler substances by chemical means",
+          "A mixture of two substances"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A pure substance that cannot be broken into simpler substances by chemical means. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -879,19 +879,19 @@
       },
       "options": {
         "hi": [
-          "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता",
           "दो पदार्थों का मिश्रण",
           "केवल एक प्रकार का मिश्रण",
-          "हमेशा दो तत्वों का मेल"
+          "हमेशा दो तत्वों का मेल",
+          "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता"
         ],
         "en": [
-          "A pure substance that cannot be broken into simpler substances by chemical means",
           "A mixture of two substances",
           "Only one type of mixture",
-          "Always a combination of two elements"
+          "Always a combination of two elements",
+          "A pure substance that cannot be broken into simpler substances by chemical means"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A pure substance that cannot be broken into simpler substances by chemical means. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -935,19 +935,19 @@
       },
       "options": {
         "hi": [
+          "हमेशा दो तत्वों का मेल",
           "ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता",
           "दो पदार्थों का मिश्रण",
-          "केवल एक प्रकार का मिश्रण",
-          "हमेशा दो तत्वों का मेल"
+          "केवल एक प्रकार का मिश्रण"
         ],
         "en": [
+          "Always a combination of two elements",
           "A pure substance that cannot be broken into simpler substances by chemical means",
           "A mixture of two substances",
-          "Only one type of mixture",
-          "Always a combination of two elements"
+          "Only one type of mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऐसा शुद्ध पदार्थ जिसे रासायनिक विधि से सरल पदार्थों में नहीं तोड़ा जा सकता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A pure substance that cannot be broken into simpler substances by chemical means. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -963,19 +963,19 @@
       },
       "options": {
         "hi": [
-          "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
-          "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से",
           "केवल धातुओं से",
-          "केवल गैसों से"
+          "केवल गैसों से",
+          "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
+          "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से"
         ],
         "en": [
-          "Chemical combination of elements in a fixed ratio",
-          "Physical mixing in any ratio",
           "Only metals",
-          "Only gases"
+          "Only gases",
+          "Chemical combination of elements in a fixed ratio",
+          "Physical mixing in any ratio"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: तत्वों के निश्चित अनुपात में रासायनिक संयोजन से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical combination of elements in a fixed ratio. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -991,19 +991,19 @@
       },
       "options": {
         "hi": [
-          "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
           "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से",
           "केवल धातुओं से",
-          "केवल गैसों से"
+          "केवल गैसों से",
+          "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से"
         ],
         "en": [
-          "Chemical combination of elements in a fixed ratio",
           "Physical mixing in any ratio",
           "Only metals",
-          "Only gases"
+          "Only gases",
+          "Chemical combination of elements in a fixed ratio"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तत्वों के निश्चित अनुपात में रासायनिक संयोजन से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical combination of elements in a fixed ratio. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1047,19 +1047,19 @@
       },
       "options": {
         "hi": [
+          "केवल गैसों से",
           "तत्वों के निश्चित अनुपात में रासायनिक संयोजन से",
           "पदार्थों के किसी भी अनुपात में भौतिक मिश्रण से",
-          "केवल धातुओं से",
-          "केवल गैसों से"
+          "केवल धातुओं से"
         ],
         "en": [
+          "Only gases",
           "Chemical combination of elements in a fixed ratio",
           "Physical mixing in any ratio",
-          "Only metals",
-          "Only gases"
+          "Only metals"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: तत्वों के निश्चित अनुपात में रासायनिक संयोजन से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical combination of elements in a fixed ratio. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1075,19 +1075,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
-          "तत्व",
           "विषमांगी मिश्रण",
-          "तत्वों का भौतिक मिश्रण"
+          "तत्वों का भौतिक मिश्रण",
+          "यौगिक",
+          "तत्व"
         ],
         "en": [
-          "Compound",
-          "Element",
           "Heterogeneous mixture",
-          "Physical mixture of elements"
+          "Physical mixture of elements",
+          "Compound",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1103,19 +1103,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
           "तत्व",
           "विषमांगी मिश्रण",
-          "तत्वों का भौतिक मिश्रण"
+          "तत्वों का भौतिक मिश्रण",
+          "यौगिक"
         ],
         "en": [
-          "Compound",
           "Element",
           "Heterogeneous mixture",
-          "Physical mixture of elements"
+          "Physical mixture of elements",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1159,19 +1159,19 @@
       },
       "options": {
         "hi": [
+          "तत्वों का भौतिक मिश्रण",
           "यौगिक",
           "तत्व",
-          "विषमांगी मिश्रण",
-          "तत्वों का भौतिक मिश्रण"
+          "विषमांगी मिश्रण"
         ],
         "en": [
+          "Physical mixture of elements",
           "Compound",
           "Element",
-          "Heterogeneous mixture",
-          "Physical mixture of elements"
+          "Heterogeneous mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1187,19 +1187,19 @@
       },
       "options": {
         "hi": [
-          "तत्व",
-          "यौगिक",
           "मिश्रण",
-          "विलयन"
+          "विलयन",
+          "तत्व",
+          "यौगिक"
         ],
         "en": [
-          "Element",
-          "Compound",
           "Mixture",
-          "Solution"
+          "Solution",
+          "Element",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1215,19 +1215,19 @@
       },
       "options": {
         "hi": [
-          "तत्व",
           "यौगिक",
           "मिश्रण",
-          "विलयन"
+          "विलयन",
+          "तत्व"
         ],
         "en": [
-          "Element",
           "Compound",
           "Mixture",
-          "Solution"
+          "Solution",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1271,19 +1271,19 @@
       },
       "options": {
         "hi": [
+          "विलयन",
           "तत्व",
           "यौगिक",
-          "मिश्रण",
-          "विलयन"
+          "मिश्रण"
         ],
         "en": [
+          "Solution",
           "Element",
           "Compound",
-          "Mixture",
-          "Solution"
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1299,19 +1299,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण",
-          "तत्व",
           "यौगिक",
-          "शुद्ध पदार्थ"
+          "शुद्ध पदार्थ",
+          "मिश्रण",
+          "तत्व"
         ],
         "en": [
-          "Mixture",
-          "Element",
           "Compound",
-          "Pure substance"
+          "Pure substance",
+          "Mixture",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1327,19 +1327,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण",
           "तत्व",
           "यौगिक",
-          "शुद्ध पदार्थ"
+          "शुद्ध पदार्थ",
+          "मिश्रण"
         ],
         "en": [
-          "Mixture",
           "Element",
           "Compound",
-          "Pure substance"
+          "Pure substance",
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1383,19 +1383,19 @@
       },
       "options": {
         "hi": [
+          "शुद्ध पदार्थ",
           "मिश्रण",
           "तत्व",
-          "यौगिक",
-          "शुद्ध पदार्थ"
+          "यौगिक"
         ],
         "en": [
+          "Pure substance",
           "Mixture",
           "Element",
-          "Compound",
-          "Pure substance"
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1411,19 +1411,19 @@
       },
       "options": {
         "hi": [
-          "निश्चित",
-          "हमेशा बदलता हुआ",
           "कोई निश्चित अनुपात नहीं",
-          "केवल 1:1"
+          "केवल 1:1",
+          "निश्चित",
+          "हमेशा बदलता हुआ"
         ],
         "en": [
-          "Fixed",
-          "Always changing",
           "No fixed ratio",
-          "Only 1:1"
+          "Only 1:1",
+          "Fixed",
+          "Always changing"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: निश्चित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fixed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1439,19 +1439,19 @@
       },
       "options": {
         "hi": [
-          "निश्चित",
           "हमेशा बदलता हुआ",
           "कोई निश्चित अनुपात नहीं",
-          "केवल 1:1"
+          "केवल 1:1",
+          "निश्चित"
         ],
         "en": [
-          "Fixed",
           "Always changing",
           "No fixed ratio",
-          "Only 1:1"
+          "Only 1:1",
+          "Fixed"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निश्चित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fixed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1495,19 +1495,19 @@
       },
       "options": {
         "hi": [
+          "केवल 1:1",
           "निश्चित",
           "हमेशा बदलता हुआ",
-          "कोई निश्चित अनुपात नहीं",
-          "केवल 1:1"
+          "कोई निश्चित अनुपात नहीं"
         ],
         "en": [
+          "Only 1:1",
           "Fixed",
           "Always changing",
-          "No fixed ratio",
-          "Only 1:1"
+          "No fixed ratio"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: निश्चित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fixed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1523,19 +1523,19 @@
       },
       "options": {
         "hi": [
-          "वह बदल सकता है",
-          "वह हमेशा निश्चित रहता है",
           "वह केवल 1:1 होता है",
-          "वह शून्य होता है"
+          "वह शून्य होता है",
+          "वह बदल सकता है",
+          "वह हमेशा निश्चित रहता है"
         ],
         "en": [
-          "It can vary",
-          "It is always fixed",
           "It is always 1:1",
-          "It is zero"
+          "It is zero",
+          "It can vary",
+          "It is always fixed"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: वह बदल सकता है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It can vary. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1551,19 +1551,19 @@
       },
       "options": {
         "hi": [
-          "वह बदल सकता है",
           "वह हमेशा निश्चित रहता है",
           "वह केवल 1:1 होता है",
-          "वह शून्य होता है"
+          "वह शून्य होता है",
+          "वह बदल सकता है"
         ],
         "en": [
-          "It can vary",
           "It is always fixed",
           "It is always 1:1",
-          "It is zero"
+          "It is zero",
+          "It can vary"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: वह बदल सकता है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It can vary. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1607,19 +1607,19 @@
       },
       "options": {
         "hi": [
+          "वह शून्य होता है",
           "वह बदल सकता है",
           "वह हमेशा निश्चित रहता है",
-          "वह केवल 1:1 होता है",
-          "वह शून्य होता है"
+          "वह केवल 1:1 होता है"
         ],
         "en": [
+          "It is zero",
           "It can vary",
           "It is always fixed",
-          "It is always 1:1",
-          "It is zero"
+          "It is always 1:1"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: वह बदल सकता है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It can vary. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1635,19 +1635,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण",
-          "यौगिक",
           "तत्व",
-          "शुद्ध धातु"
+          "शुद्ध धातु",
+          "मिश्रण",
+          "यौगिक"
         ],
         "en": [
-          "Mixture",
-          "Compound",
           "Element",
-          "Pure metal"
+          "Pure metal",
+          "Mixture",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1663,19 +1663,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण",
           "यौगिक",
           "तत्व",
-          "शुद्ध धातु"
+          "शुद्ध धातु",
+          "मिश्रण"
         ],
         "en": [
-          "Mixture",
           "Compound",
           "Element",
-          "Pure metal"
+          "Pure metal",
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1719,19 +1719,19 @@
       },
       "options": {
         "hi": [
+          "शुद्ध धातु",
           "मिश्रण",
           "यौगिक",
-          "तत्व",
-          "शुद्ध धातु"
+          "तत्व"
         ],
         "en": [
+          "Pure metal",
           "Mixture",
           "Compound",
-          "Element",
-          "Pure metal"
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1747,19 +1747,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
-          "तत्व",
           "मिश्रण",
-          "निलंबन"
+          "निलंबन",
+          "यौगिक",
+          "तत्व"
         ],
         "en": [
-          "Compound",
-          "Element",
           "Mixture",
-          "Suspension"
+          "Suspension",
+          "Compound",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1775,19 +1775,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
           "तत्व",
           "मिश्रण",
-          "निलंबन"
+          "निलंबन",
+          "यौगिक"
         ],
         "en": [
-          "Compound",
           "Element",
           "Mixture",
-          "Suspension"
+          "Suspension",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1831,19 +1831,19 @@
       },
       "options": {
         "hi": [
+          "निलंबन",
           "यौगिक",
           "तत्व",
-          "मिश्रण",
-          "निलंबन"
+          "मिश्रण"
         ],
         "en": [
+          "Suspension",
           "Compound",
           "Element",
-          "Mixture",
-          "Suspension"
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1859,19 +1859,19 @@
       },
       "options": {
         "hi": [
-          "समान रूप से वितरित",
-          "हर जगह अलग-अलग",
           "केवल ठोस",
-          "केवल गैस"
+          "केवल गैस",
+          "समान रूप से वितरित",
+          "हर जगह अलग-अलग"
         ],
         "en": [
-          "Uniformly distributed",
-          "Different everywhere",
           "Only solid",
-          "Only gas"
+          "Only gas",
+          "Uniformly distributed",
+          "Different everywhere"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: समान रूप से वितरित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Uniformly distributed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1887,19 +1887,19 @@
       },
       "options": {
         "hi": [
-          "समान रूप से वितरित",
           "हर जगह अलग-अलग",
           "केवल ठोस",
-          "केवल गैस"
+          "केवल गैस",
+          "समान रूप से वितरित"
         ],
         "en": [
-          "Uniformly distributed",
           "Different everywhere",
           "Only solid",
-          "Only gas"
+          "Only gas",
+          "Uniformly distributed"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: समान रूप से वितरित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Uniformly distributed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1943,19 +1943,19 @@
       },
       "options": {
         "hi": [
+          "केवल गैस",
           "समान रूप से वितरित",
           "हर जगह अलग-अलग",
-          "केवल ठोस",
-          "केवल गैस"
+          "केवल ठोस"
         ],
         "en": [
+          "Only gas",
           "Uniformly distributed",
           "Different everywhere",
-          "Only solid",
-          "Only gas"
+          "Only solid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: समान रूप से वितरित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Uniformly distributed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1971,19 +1971,19 @@
       },
       "options": {
         "hi": [
-          "संघटक समान रूप से वितरित नहीं होते",
-          "संरचना हमेशा निश्चित होती है",
           "वह हमेशा तत्व होता है",
-          "वह केवल गैस होता है"
+          "वह केवल गैस होता है",
+          "संघटक समान रूप से वितरित नहीं होते",
+          "संरचना हमेशा निश्चित होती है"
         ],
         "en": [
-          "Components are not uniformly distributed",
-          "Composition is always fixed",
           "It is always an element",
-          "It is only a gas"
+          "It is only a gas",
+          "Components are not uniformly distributed",
+          "Composition is always fixed"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: संघटक समान रूप से वितरित नहीं होते। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Components are not uniformly distributed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1999,19 +1999,19 @@
       },
       "options": {
         "hi": [
-          "संघटक समान रूप से वितरित नहीं होते",
           "संरचना हमेशा निश्चित होती है",
           "वह हमेशा तत्व होता है",
-          "वह केवल गैस होता है"
+          "वह केवल गैस होता है",
+          "संघटक समान रूप से वितरित नहीं होते"
         ],
         "en": [
-          "Components are not uniformly distributed",
           "Composition is always fixed",
           "It is always an element",
-          "It is only a gas"
+          "It is only a gas",
+          "Components are not uniformly distributed"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: संघटक समान रूप से वितरित नहीं होते। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Components are not uniformly distributed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2055,19 +2055,19 @@
       },
       "options": {
         "hi": [
+          "वह केवल गैस होता है",
           "संघटक समान रूप से वितरित नहीं होते",
           "संरचना हमेशा निश्चित होती है",
-          "वह हमेशा तत्व होता है",
-          "वह केवल गैस होता है"
+          "वह हमेशा तत्व होता है"
         ],
         "en": [
+          "It is only a gas",
           "Components are not uniformly distributed",
           "Composition is always fixed",
-          "It is always an element",
-          "It is only a gas"
+          "It is always an element"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: संघटक समान रूप से वितरित नहीं होते। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Components are not uniformly distributed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2083,19 +2083,19 @@
       },
       "options": {
         "hi": [
-          "Fe",
-          "F",
           "Ir",
-          "I"
+          "I",
+          "Fe",
+          "F"
         ],
         "en": [
-          "Fe",
-          "F",
           "Ir",
-          "I"
+          "I",
+          "Fe",
+          "F"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: Fe। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fe. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2111,19 +2111,19 @@
       },
       "options": {
         "hi": [
-          "Fe",
           "F",
           "Ir",
-          "I"
+          "I",
+          "Fe"
         ],
         "en": [
-          "Fe",
           "F",
           "Ir",
-          "I"
+          "I",
+          "Fe"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: Fe। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fe. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2167,19 +2167,19 @@
       },
       "options": {
         "hi": [
+          "I",
           "Fe",
           "F",
-          "Ir",
-          "I"
+          "Ir"
         ],
         "en": [
+          "I",
           "Fe",
           "F",
-          "Ir",
-          "I"
+          "Ir"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Fe। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fe. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2195,19 +2195,19 @@
       },
       "options": {
         "hi": [
-          "Cu",
-          "Co",
           "C",
-          "Cp"
+          "Cp",
+          "Cu",
+          "Co"
         ],
         "en": [
-          "Cu",
-          "Co",
           "C",
-          "Cp"
+          "Cp",
+          "Cu",
+          "Co"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: Cu। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Cu. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2223,19 +2223,19 @@
       },
       "options": {
         "hi": [
-          "Cu",
           "Co",
           "C",
-          "Cp"
+          "Cp",
+          "Cu"
         ],
         "en": [
-          "Cu",
           "Co",
           "C",
-          "Cp"
+          "Cp",
+          "Cu"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: Cu। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Cu. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2279,19 +2279,19 @@
       },
       "options": {
         "hi": [
+          "Cp",
           "Cu",
           "Co",
-          "C",
-          "Cp"
+          "C"
         ],
         "en": [
+          "Cp",
           "Cu",
           "Co",
-          "C",
-          "Cp"
+          "C"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Cu। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Cu. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2307,19 +2307,19 @@
       },
       "options": {
         "hi": [
-          "Na",
-          "S",
           "So",
-          "N"
+          "N",
+          "Na",
+          "S"
         ],
         "en": [
-          "Na",
-          "S",
           "So",
-          "N"
+          "N",
+          "Na",
+          "S"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: Na। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Na. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2335,19 +2335,19 @@
       },
       "options": {
         "hi": [
-          "Na",
           "S",
           "So",
-          "N"
+          "N",
+          "Na"
         ],
         "en": [
-          "Na",
           "S",
           "So",
-          "N"
+          "N",
+          "Na"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: Na। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Na. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2391,19 +2391,19 @@
       },
       "options": {
         "hi": [
+          "N",
           "Na",
           "S",
-          "So",
-          "N"
+          "So"
         ],
         "en": [
+          "N",
           "Na",
           "S",
-          "So",
-          "N"
+          "So"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Na। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Na. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2419,19 +2419,19 @@
       },
       "options": {
         "hi": [
-          "अक्सर भिन्न होते हैं",
-          "हमेशा बिल्कुल समान होते हैं",
           "हमेशा केवल धातु जैसे होते हैं",
-          "कोई संबंध नहीं"
+          "कोई संबंध नहीं",
+          "अक्सर भिन्न होते हैं",
+          "हमेशा बिल्कुल समान होते हैं"
         ],
         "en": [
-          "They are often different",
-          "Always exactly the same",
           "Always metallic",
-          "No relation"
+          "No relation",
+          "They are often different",
+          "Always exactly the same"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अक्सर भिन्न होते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They are often different. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2447,19 +2447,19 @@
       },
       "options": {
         "hi": [
-          "अक्सर भिन्न होते हैं",
           "हमेशा बिल्कुल समान होते हैं",
           "हमेशा केवल धातु जैसे होते हैं",
-          "कोई संबंध नहीं"
+          "कोई संबंध नहीं",
+          "अक्सर भिन्न होते हैं"
         ],
         "en": [
-          "They are often different",
           "Always exactly the same",
           "Always metallic",
-          "No relation"
+          "No relation",
+          "They are often different"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अक्सर भिन्न होते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They are often different. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2503,19 +2503,19 @@
       },
       "options": {
         "hi": [
+          "कोई संबंध नहीं",
           "अक्सर भिन्न होते हैं",
           "हमेशा बिल्कुल समान होते हैं",
-          "हमेशा केवल धातु जैसे होते हैं",
-          "कोई संबंध नहीं"
+          "हमेशा केवल धातु जैसे होते हैं"
         ],
         "en": [
+          "No relation",
           "They are often different",
           "Always exactly the same",
-          "Always metallic",
-          "No relation"
+          "Always metallic"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अक्सर भिन्न होते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They are often different. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2531,19 +2531,19 @@
       },
       "options": {
         "hi": [
-          "हाँ, सामान्यतः",
-          "नहीं, हमेशा नष्ट हो जाते हैं",
           "केवल गैस रखते हैं",
-          "केवल ठोस रखते हैं"
+          "केवल ठोस रखते हैं",
+          "हाँ, सामान्यतः",
+          "नहीं, हमेशा नष्ट हो जाते हैं"
         ],
         "en": [
-          "Yes, generally",
-          "No, they are always destroyed",
           "Only gases retain them",
-          "Only solids retain them"
+          "Only solids retain them",
+          "Yes, generally",
+          "No, they are always destroyed"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: हाँ, सामान्यतः। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Yes, generally. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2559,19 +2559,19 @@
       },
       "options": {
         "hi": [
-          "हाँ, सामान्यतः",
           "नहीं, हमेशा नष्ट हो जाते हैं",
           "केवल गैस रखते हैं",
-          "केवल ठोस रखते हैं"
+          "केवल ठोस रखते हैं",
+          "हाँ, सामान्यतः"
         ],
         "en": [
-          "Yes, generally",
           "No, they are always destroyed",
           "Only gases retain them",
-          "Only solids retain them"
+          "Only solids retain them",
+          "Yes, generally"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाँ, सामान्यतः। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Yes, generally. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2615,19 +2615,19 @@
       },
       "options": {
         "hi": [
+          "केवल ठोस रखते हैं",
           "हाँ, सामान्यतः",
           "नहीं, हमेशा नष्ट हो जाते हैं",
-          "केवल गैस रखते हैं",
-          "केवल ठोस रखते हैं"
+          "केवल गैस रखते हैं"
         ],
         "en": [
+          "Only solids retain them",
           "Yes, generally",
           "No, they are always destroyed",
-          "Only gases retain them",
-          "Only solids retain them"
+          "Only gases retain them"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: हाँ, सामान्यतः। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Yes, generally. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2643,19 +2643,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक विधि",
-          "साधारण छानना",
           "चुंबक",
-          "हाथ से चुनना"
+          "हाथ से चुनना",
+          "रासायनिक विधि",
+          "साधारण छानना"
         ],
         "en": [
-          "A chemical method",
-          "Simple filtration",
           "A magnet",
-          "Handpicking"
+          "Handpicking",
+          "A chemical method",
+          "Simple filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक विधि। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A chemical method. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2671,19 +2671,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक विधि",
           "साधारण छानना",
           "चुंबक",
-          "हाथ से चुनना"
+          "हाथ से चुनना",
+          "रासायनिक विधि"
         ],
         "en": [
-          "A chemical method",
           "Simple filtration",
           "A magnet",
-          "Handpicking"
+          "Handpicking",
+          "A chemical method"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक विधि। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A chemical method. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2727,19 +2727,19 @@
       },
       "options": {
         "hi": [
+          "हाथ से चुनना",
           "रासायनिक विधि",
           "साधारण छानना",
-          "चुंबक",
-          "हाथ से चुनना"
+          "चुंबक"
         ],
         "en": [
+          "Handpicking",
           "A chemical method",
           "Simple filtration",
-          "A magnet",
-          "Handpicking"
+          "A magnet"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक विधि। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A chemical method. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2755,19 +2755,19 @@
       },
       "options": {
         "hi": [
-          "समांगी मिश्रण",
-          "यौगिक",
           "तत्व",
-          "विषमांगी मिश्रण"
+          "विषमांगी मिश्रण",
+          "समांगी मिश्रण",
+          "यौगिक"
         ],
         "en": [
-          "Homogeneous mixture",
-          "Compound",
           "Element",
-          "Heterogeneous mixture"
+          "Heterogeneous mixture",
+          "Homogeneous mixture",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: समांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Homogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2783,19 +2783,19 @@
       },
       "options": {
         "hi": [
-          "समांगी मिश्रण",
           "यौगिक",
           "तत्व",
-          "विषमांगी मिश्रण"
+          "विषमांगी मिश्रण",
+          "समांगी मिश्रण"
         ],
         "en": [
-          "Homogeneous mixture",
           "Compound",
           "Element",
-          "Heterogeneous mixture"
+          "Heterogeneous mixture",
+          "Homogeneous mixture"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: समांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Homogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2839,19 +2839,19 @@
       },
       "options": {
         "hi": [
+          "विषमांगी मिश्रण",
           "समांगी मिश्रण",
           "यौगिक",
-          "तत्व",
-          "विषमांगी मिश्रण"
+          "तत्व"
         ],
         "en": [
+          "Heterogeneous mixture",
           "Homogeneous mixture",
           "Compound",
-          "Element",
-          "Heterogeneous mixture"
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: समांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Homogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2867,19 +2867,19 @@
       },
       "options": {
         "hi": [
-          "विषमांगी मिश्रण",
-          "समांगी मिश्रण",
           "यौगिक",
-          "तत्व"
+          "तत्व",
+          "विषमांगी मिश्रण",
+          "समांगी मिश्रण"
         ],
         "en": [
-          "Heterogeneous mixture",
-          "Homogeneous mixture",
           "Compound",
-          "Element"
+          "Element",
+          "Heterogeneous mixture",
+          "Homogeneous mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: विषमांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heterogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2895,19 +2895,19 @@
       },
       "options": {
         "hi": [
-          "विषमांगी मिश्रण",
           "समांगी मिश्रण",
           "यौगिक",
-          "तत्व"
+          "तत्व",
+          "विषमांगी मिश्रण"
         ],
         "en": [
-          "Heterogeneous mixture",
           "Homogeneous mixture",
           "Compound",
-          "Element"
+          "Element",
+          "Heterogeneous mixture"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: विषमांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heterogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2951,19 +2951,19 @@
       },
       "options": {
         "hi": [
+          "तत्व",
           "विषमांगी मिश्रण",
           "समांगी मिश्रण",
-          "यौगिक",
-          "तत्व"
+          "यौगिक"
         ],
         "en": [
+          "Element",
           "Heterogeneous mixture",
           "Homogeneous mixture",
-          "Compound",
-          "Element"
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: विषमांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heterogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2979,19 +2979,19 @@
       },
       "options": {
         "hi": [
-          "निश्चित",
-          "हमेशा बदलती हुई",
           "अनिश्चित",
-          "केवल गैसीय"
+          "केवल गैसीय",
+          "निश्चित",
+          "हमेशा बदलती हुई"
         ],
         "en": [
-          "Fixed",
-          "Always changing",
           "Uncertain",
-          "Only gaseous"
+          "Only gaseous",
+          "Fixed",
+          "Always changing"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: निश्चित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fixed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3007,19 +3007,19 @@
       },
       "options": {
         "hi": [
-          "निश्चित",
           "हमेशा बदलती हुई",
           "अनिश्चित",
-          "केवल गैसीय"
+          "केवल गैसीय",
+          "निश्चित"
         ],
         "en": [
-          "Fixed",
           "Always changing",
           "Uncertain",
-          "Only gaseous"
+          "Only gaseous",
+          "Fixed"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निश्चित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fixed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3063,19 +3063,19 @@
       },
       "options": {
         "hi": [
+          "केवल गैसीय",
           "निश्चित",
           "हमेशा बदलती हुई",
-          "अनिश्चित",
-          "केवल गैसीय"
+          "अनिश्चित"
         ],
         "en": [
+          "Only gaseous",
           "Fixed",
           "Always changing",
-          "Uncertain",
-          "Only gaseous"
+          "Uncertain"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: निश्चित। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Fixed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3091,19 +3091,19 @@
       },
       "options": {
         "hi": [
-          "शुद्ध पदार्थ",
-          "हर मिश्रण",
           "केवल निलंबन",
-          "केवल कोलॉइड"
+          "केवल कोलॉइड",
+          "शुद्ध पदार्थ",
+          "हर मिश्रण"
         ],
         "en": [
-          "Pure substance",
-          "Every mixture",
           "Only suspensions",
-          "Only colloids"
+          "Only colloids",
+          "Pure substance",
+          "Every mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: शुद्ध पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pure substance. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3119,19 +3119,19 @@
       },
       "options": {
         "hi": [
-          "शुद्ध पदार्थ",
           "हर मिश्रण",
           "केवल निलंबन",
-          "केवल कोलॉइड"
+          "केवल कोलॉइड",
+          "शुद्ध पदार्थ"
         ],
         "en": [
-          "Pure substance",
           "Every mixture",
           "Only suspensions",
-          "Only colloids"
+          "Only colloids",
+          "Pure substance"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: शुद्ध पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pure substance. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3175,19 +3175,19 @@
       },
       "options": {
         "hi": [
+          "केवल कोलॉइड",
           "शुद्ध पदार्थ",
           "हर मिश्रण",
-          "केवल निलंबन",
-          "केवल कोलॉइड"
+          "केवल निलंबन"
         ],
         "en": [
+          "Only colloids",
           "Pure substance",
           "Every mixture",
-          "Only suspensions",
-          "Only colloids"
+          "Only suspensions"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: शुद्ध पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pure substance. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3203,19 +3203,19 @@
       },
       "options": {
         "hi": [
-          "कोलॉइड",
-          "तत्व",
           "यौगिक",
-          "शुद्ध पदार्थ"
+          "शुद्ध पदार्थ",
+          "कोलॉइड",
+          "तत्व"
         ],
         "en": [
-          "Colloid",
-          "Element",
           "Compound",
-          "Pure substance"
+          "Pure substance",
+          "Colloid",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: कोलॉइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Colloid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3231,19 +3231,19 @@
       },
       "options": {
         "hi": [
-          "कोलॉइड",
           "तत्व",
           "यौगिक",
-          "शुद्ध पदार्थ"
+          "शुद्ध पदार्थ",
+          "कोलॉइड"
         ],
         "en": [
-          "Colloid",
           "Element",
           "Compound",
-          "Pure substance"
+          "Pure substance",
+          "Colloid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: कोलॉइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Colloid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3287,19 +3287,19 @@
       },
       "options": {
         "hi": [
+          "शुद्ध पदार्थ",
           "कोलॉइड",
           "तत्व",
-          "यौगिक",
-          "शुद्ध पदार्थ"
+          "यौगिक"
         ],
         "en": [
+          "Pure substance",
           "Colloid",
           "Element",
-          "Compound",
-          "Pure substance"
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: कोलॉइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Colloid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3315,19 +3315,19 @@
       },
       "options": {
         "hi": [
-          "तांबा और टिन",
-          "लोहा और कार्बन",
           "तांबा और जस्ता",
-          "सोडियम और क्लोरीन"
+          "सोडियम और क्लोरीन",
+          "तांबा और टिन",
+          "लोहा और कार्बन"
         ],
         "en": [
-          "Copper and tin",
-          "Iron and carbon",
           "Copper and zinc",
-          "Sodium and chlorine"
+          "Sodium and chlorine",
+          "Copper and tin",
+          "Iron and carbon"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: तांबा और टिन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Copper and tin. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3343,19 +3343,19 @@
       },
       "options": {
         "hi": [
-          "तांबा और टिन",
           "लोहा और कार्बन",
           "तांबा और जस्ता",
-          "सोडियम और क्लोरीन"
+          "सोडियम और क्लोरीन",
+          "तांबा और टिन"
         ],
         "en": [
-          "Copper and tin",
           "Iron and carbon",
           "Copper and zinc",
-          "Sodium and chlorine"
+          "Sodium and chlorine",
+          "Copper and tin"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तांबा और टिन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Copper and tin. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3399,19 +3399,19 @@
       },
       "options": {
         "hi": [
+          "सोडियम और क्लोरीन",
           "तांबा और टिन",
           "लोहा और कार्बन",
-          "तांबा और जस्ता",
-          "सोडियम और क्लोरीन"
+          "तांबा और जस्ता"
         ],
         "en": [
+          "Sodium and chlorine",
           "Copper and tin",
           "Iron and carbon",
-          "Copper and zinc",
-          "Sodium and chlorine"
+          "Copper and zinc"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: तांबा और टिन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Copper and tin. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3427,19 +3427,19 @@
       },
       "options": {
         "hi": [
-          "तांबा और जस्ता",
-          "तांबा और टिन",
           "लोहा और कार्बन",
-          "सोडियम और पोटैशियम"
+          "सोडियम और पोटैशियम",
+          "तांबा और जस्ता",
+          "तांबा और टिन"
         ],
         "en": [
-          "Copper and zinc",
-          "Copper and tin",
           "Iron and carbon",
-          "Sodium and potassium"
+          "Sodium and potassium",
+          "Copper and zinc",
+          "Copper and tin"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: तांबा और जस्ता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Copper and zinc. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3455,19 +3455,19 @@
       },
       "options": {
         "hi": [
-          "तांबा और जस्ता",
           "तांबा और टिन",
           "लोहा और कार्बन",
-          "सोडियम और पोटैशियम"
+          "सोडियम और पोटैशियम",
+          "तांबा और जस्ता"
         ],
         "en": [
-          "Copper and zinc",
           "Copper and tin",
           "Iron and carbon",
-          "Sodium and potassium"
+          "Sodium and potassium",
+          "Copper and zinc"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तांबा और जस्ता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Copper and zinc. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3511,19 +3511,19 @@
       },
       "options": {
         "hi": [
+          "सोडियम और पोटैशियम",
           "तांबा और जस्ता",
           "तांबा और टिन",
-          "लोहा और कार्बन",
-          "सोडियम और पोटैशियम"
+          "लोहा और कार्बन"
         ],
         "en": [
+          "Sodium and potassium",
           "Copper and zinc",
           "Copper and tin",
-          "Iron and carbon",
-          "Sodium and potassium"
+          "Iron and carbon"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: तांबा और जस्ता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Copper and zinc. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3539,19 +3539,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
-          "तत्व",
           "मिश्रण",
-          "मिश्रधातु"
+          "मिश्रधातु",
+          "यौगिक",
+          "तत्व"
         ],
         "en": [
-          "Compound",
-          "Element",
           "Mixture",
-          "Alloy"
+          "Alloy",
+          "Compound",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3567,19 +3567,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
           "तत्व",
           "मिश्रण",
-          "मिश्रधातु"
+          "मिश्रधातु",
+          "यौगिक"
         ],
         "en": [
-          "Compound",
           "Element",
           "Mixture",
-          "Alloy"
+          "Alloy",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3623,19 +3623,19 @@
       },
       "options": {
         "hi": [
+          "मिश्रधातु",
           "यौगिक",
           "तत्व",
-          "मिश्रण",
-          "मिश्रधातु"
+          "मिश्रण"
         ],
         "en": [
+          "Alloy",
           "Compound",
           "Element",
-          "Mixture",
-          "Alloy"
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3651,19 +3651,19 @@
       },
       "options": {
         "hi": [
-          "तत्व",
-          "यौगिक",
           "मिश्रण",
-          "विलयन"
+          "विलयन",
+          "तत्व",
+          "यौगिक"
         ],
         "en": [
-          "Element",
-          "Compound",
           "Mixture",
-          "Solution"
+          "Solution",
+          "Element",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3679,19 +3679,19 @@
       },
       "options": {
         "hi": [
-          "तत्व",
           "यौगिक",
           "मिश्रण",
-          "विलयन"
+          "विलयन",
+          "तत्व"
         ],
         "en": [
-          "Element",
           "Compound",
           "Mixture",
-          "Solution"
+          "Solution",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3735,19 +3735,19 @@
       },
       "options": {
         "hi": [
+          "विलयन",
           "तत्व",
           "यौगिक",
-          "मिश्रण",
-          "विलयन"
+          "मिश्रण"
         ],
         "en": [
+          "Solution",
           "Element",
           "Compound",
-          "Mixture",
-          "Solution"
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3763,19 +3763,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
-          "मिश्रण ही",
           "तत्व",
-          "निलंबन"
+          "निलंबन",
+          "यौगिक",
+          "मिश्रण ही"
         ],
         "en": [
-          "A compound",
-          "Only a mixture",
           "An element",
-          "A suspension"
+          "A suspension",
+          "A compound",
+          "Only a mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3791,19 +3791,19 @@
       },
       "options": {
         "hi": [
-          "यौगिक",
           "मिश्रण ही",
           "तत्व",
-          "निलंबन"
+          "निलंबन",
+          "यौगिक"
         ],
         "en": [
-          "A compound",
           "Only a mixture",
           "An element",
-          "A suspension"
+          "A suspension",
+          "A compound"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3847,19 +3847,19 @@
       },
       "options": {
         "hi": [
+          "निलंबन",
           "यौगिक",
           "मिश्रण ही",
-          "तत्व",
-          "निलंबन"
+          "तत्व"
         ],
         "en": [
+          "A suspension",
           "A compound",
           "Only a mixture",
-          "An element",
-          "A suspension"
+          "An element"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: यौगिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A compound. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3875,19 +3875,19 @@
       },
       "options": {
         "hi": [
-          "तत्व",
-          "यौगिक",
           "मिश्रण",
-          "विलयन"
+          "विलयन",
+          "तत्व",
+          "यौगिक"
         ],
         "en": [
-          "Element",
-          "Compound",
           "Mixture",
-          "Solution"
+          "Solution",
+          "Element",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3903,19 +3903,19 @@
       },
       "options": {
         "hi": [
-          "तत्व",
           "यौगिक",
           "मिश्रण",
-          "विलयन"
+          "विलयन",
+          "तत्व"
         ],
         "en": [
-          "Element",
           "Compound",
           "Mixture",
-          "Solution"
+          "Solution",
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3959,19 +3959,19 @@
       },
       "options": {
         "hi": [
+          "विलयन",
           "तत्व",
           "यौगिक",
-          "मिश्रण",
-          "विलयन"
+          "मिश्रण"
         ],
         "en": [
+          "Solution",
           "Element",
           "Compound",
-          "Mixture",
-          "Solution"
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: तत्व। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3987,19 +3987,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण",
-          "यौगिक",
           "तत्व",
-          "शुद्ध पदार्थ"
+          "शुद्ध पदार्थ",
+          "मिश्रण",
+          "यौगिक"
         ],
         "en": [
-          "Mixture",
-          "Compound",
           "Element",
-          "Pure substance"
+          "Pure substance",
+          "Mixture",
+          "Compound"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4015,19 +4015,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण",
           "यौगिक",
           "तत्व",
-          "शुद्ध पदार्थ"
+          "शुद्ध पदार्थ",
+          "मिश्रण"
         ],
         "en": [
-          "Mixture",
           "Compound",
           "Element",
-          "Pure substance"
+          "Pure substance",
+          "Mixture"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4071,19 +4071,19 @@
       },
       "options": {
         "hi": [
+          "शुद्ध पदार्थ",
           "मिश्रण",
           "यौगिक",
-          "तत्व",
-          "शुद्ध पदार्थ"
+          "तत्व"
         ],
         "en": [
+          "Pure substance",
           "Mixture",
           "Compound",
-          "Element",
-          "Pure substance"
+          "Element"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4099,19 +4099,19 @@
       },
       "options": {
         "hi": [
-          "शुद्ध पदार्थ",
-          "मिश्रण",
           "निलंबन",
-          "कोलॉइड"
+          "कोलॉइड",
+          "शुद्ध पदार्थ",
+          "मिश्रण"
         ],
         "en": [
-          "Pure substances",
-          "Mixtures",
           "Suspensions",
-          "Colloids"
+          "Colloids",
+          "Pure substances",
+          "Mixtures"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: शुद्ध पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pure substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4127,19 +4127,19 @@
       },
       "options": {
         "hi": [
-          "शुद्ध पदार्थ",
           "मिश्रण",
           "निलंबन",
-          "कोलॉइड"
+          "कोलॉइड",
+          "शुद्ध पदार्थ"
         ],
         "en": [
-          "Pure substances",
           "Mixtures",
           "Suspensions",
-          "Colloids"
+          "Colloids",
+          "Pure substances"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: शुद्ध पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pure substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4183,19 +4183,19 @@
       },
       "options": {
         "hi": [
+          "कोलॉइड",
           "शुद्ध पदार्थ",
           "मिश्रण",
-          "निलंबन",
-          "कोलॉइड"
+          "निलंबन"
         ],
         "en": [
+          "Colloids",
           "Pure substances",
           "Mixtures",
-          "Suspensions",
-          "Colloids"
+          "Suspensions"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: शुद्ध पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pure substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
