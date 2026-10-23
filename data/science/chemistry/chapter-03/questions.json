@@ -39,19 +39,19 @@
       },
       "options": {
         "hi": [
+          "कभी नहीं",
           "भौतिक विधियों से",
           "केवल रासायनिक अभिक्रिया से",
-          "केवल विद्युत अपघटन से",
-          "कभी नहीं"
+          "केवल विद्युत अपघटन से"
         ],
         "en": [
+          "Never",
           "By physical methods",
           "Only by chemical reaction",
-          "Only by electrolysis",
-          "Never"
+          "Only by electrolysis"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: भौतिक विधियों से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By physical methods. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -67,19 +67,19 @@
       },
       "options": {
         "hi": [
-          "वाष्पीकरण",
-          "निस्यंदन",
           "चुंबकीय पृथक्करण",
-          "अवसादन"
+          "अवसादन",
+          "वाष्पीकरण",
+          "निस्यंदन"
         ],
         "en": [
-          "Evaporation",
-          "Filtration",
           "Magnetic separation",
-          "Sedimentation"
+          "Sedimentation",
+          "Evaporation",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: वाष्पीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Evaporation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -95,19 +95,19 @@
       },
       "options": {
         "hi": [
-          "निस्यंदन",
           "आसवन",
           "क्रोमैटोग्राफी",
-          "उर्ध्वपातन"
+          "उर्ध्वपातन",
+          "निस्यंदन"
         ],
         "en": [
-          "Filtration",
           "Distillation",
           "Chromatography",
-          "Sublimation"
+          "Sublimation",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निस्यंदन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Filtration. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -151,19 +151,19 @@
       },
       "options": {
         "hi": [
+          "विलेय",
           "अवशेष",
           "निस्यंद",
-          "विलायक",
-          "विलेय"
+          "विलायक"
         ],
         "en": [
+          "Solute",
           "Residue",
           "Filtrate",
-          "Solvent",
-          "Solute"
+          "Solvent"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अवशेष। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Residue. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -179,19 +179,19 @@
       },
       "options": {
         "hi": [
-          "निस्यंद",
-          "अवशेष",
           "विलेय",
-          "तलछट"
+          "तलछट",
+          "निस्यंद",
+          "अवशेष"
         ],
         "en": [
-          "Filtrate",
-          "Residue",
           "Solute",
-          "Sediment"
+          "Sediment",
+          "Filtrate",
+          "Residue"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: निस्यंद। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Filtrate. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -207,19 +207,19 @@
       },
       "options": {
         "hi": [
-          "पृथक्करण कीप",
           "फिल्टर पेपर",
           "क्रूसिबल",
-          "घड़ी कांच"
+          "घड़ी कांच",
+          "पृथक्करण कीप"
         ],
         "en": [
-          "Separating funnel",
           "Filter paper",
           "Crucible",
-          "Watch glass"
+          "Watch glass",
+          "Separating funnel"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: पृथक्करण कीप। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Separating funnel. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -263,19 +263,19 @@
       },
       "options": {
         "hi": [
+          "चुंबकीयता",
           "क्वथनांक",
           "रंग",
-          "आकार",
-          "चुंबकीयता"
+          "आकार"
         ],
         "en": [
+          "Magnetism",
           "Boiling point",
           "Colour",
-          "Size",
-          "Magnetism"
+          "Size"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्वथनांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Boiling point. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -291,19 +291,19 @@
       },
       "options": {
         "hi": [
-          "संघनन",
-          "वाष्पीकरण",
           "उर्ध्वपातन",
-          "गलन"
+          "गलन",
+          "संघनन",
+          "वाष्पीकरण"
         ],
         "en": [
-          "Condensation",
-          "Evaporation",
           "Sublimation",
-          "Melting"
+          "Melting",
+          "Condensation",
+          "Evaporation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: संघनन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Condensation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -319,19 +319,19 @@
       },
       "options": {
         "hi": [
-          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
           "जब ठोस और पानी मिले हों",
           "जब एक पदार्थ चुंबकीय हो",
-          "जब दोनों पदार्थ अघुलनशील हों"
+          "जब दोनों पदार्थ अघुलनशील हों",
+          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों"
         ],
         "en": [
-          "When miscible liquids have close boiling points",
           "When a solid and water are mixed",
           "When one substance is magnetic",
-          "When both substances are immiscible"
+          "When both substances are immiscible",
+          "When miscible liquids have close boiling points"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: When miscible liquids have close boiling points. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -375,19 +375,19 @@
       },
       "options": {
         "hi": [
+          "चुंबकीय पृथक्करण",
           "क्रोमैटोग्राफी",
           "निस्यंदन",
-          "अवसादन",
-          "चुंबकीय पृथक्करण"
+          "अवसादन"
         ],
         "en": [
+          "Magnetic separation",
           "Chromatography",
           "Filtration",
-          "Sedimentation",
-          "Magnetic separation"
+          "Sedimentation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्रोमैटोग्राफी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chromatography. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -403,19 +403,19 @@
       },
       "options": {
         "hi": [
-          "चुंबक",
-          "फिल्टर पेपर",
           "आसवन",
-          "पृथक्करण कीप"
+          "पृथक्करण कीप",
+          "चुंबक",
+          "फिल्टर पेपर"
         ],
         "en": [
-          "A magnet",
-          "Filter paper",
           "Distillation",
-          "Separating funnel"
+          "Separating funnel",
+          "A magnet",
+          "Filter paper"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: चुंबक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A magnet. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -431,19 +431,19 @@
       },
       "options": {
         "hi": [
-          "हाथ से चुनना",
           "आसवन",
           "क्रोमैटोग्राफी",
-          "संघनन"
+          "संघनन",
+          "हाथ से चुनना"
         ],
         "en": [
-          "Handpicking",
           "Distillation",
           "Chromatography",
-          "Condensation"
+          "Condensation",
+          "Handpicking"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाथ से चुनना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Handpicking. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -487,19 +487,19 @@
       },
       "options": {
         "hi": [
+          "क्रोमैटोग्राफी",
           "छानना",
           "आसवन",
-          "संघनन",
-          "क्रोमैटोग्राफी"
+          "संघनन"
         ],
         "en": [
+          "Chromatography",
           "Sieving",
           "Distillation",
-          "Condensation",
-          "Chromatography"
+          "Condensation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: छानना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sieving. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -515,19 +515,19 @@
       },
       "options": {
         "hi": [
-          "नीचे बैठ जाते हैं",
-          "वाष्प बन जाते हैं",
           "घुल जाते हैं",
-          "ऊपर तैरने लगते हैं"
+          "ऊपर तैरने लगते हैं",
+          "नीचे बैठ जाते हैं",
+          "वाष्प बन जाते हैं"
         ],
         "en": [
-          "Settle at the bottom",
-          "Turn into vapour",
           "Dissolve",
-          "Float upward"
+          "Float upward",
+          "Settle at the bottom",
+          "Turn into vapour"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नीचे बैठ जाते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Settle at the bottom. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -543,19 +543,19 @@
       },
       "options": {
         "hi": [
-          "निथारना",
           "उर्ध्वपातन",
           "आसवन",
-          "क्रोमैटोग्राफी"
+          "क्रोमैटोग्राफी",
+          "निथारना"
         ],
         "en": [
-          "Decantation",
           "Sublimation",
           "Distillation",
-          "Chromatography"
+          "Chromatography",
+          "Decantation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निथारना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decantation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -599,19 +599,19 @@
       },
       "options": {
         "hi": [
+          "छानना",
           "वाष्पीकरण",
           "निस्यंदन",
-          "चुंबकीय पृथक्करण",
-          "छानना"
+          "चुंबकीय पृथक्करण"
         ],
         "en": [
+          "Sieving",
           "Evaporation",
           "Filtration",
-          "Magnetic separation",
-          "Sieving"
+          "Magnetic separation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: वाष्पीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Evaporation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -627,19 +627,19 @@
       },
       "options": {
         "hi": [
-          "क्रिस्टलीकरण",
-          "निस्यंदन",
           "चुंबकीय पृथक्करण",
-          "अवसादन"
+          "अवसादन",
+          "क्रिस्टलीकरण",
+          "निस्यंदन"
         ],
         "en": [
-          "Crystallization",
-          "Filtration",
           "Magnetic separation",
-          "Sedimentation"
+          "Sedimentation",
+          "Crystallization",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्रिस्टलीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Crystallization. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -655,19 +655,19 @@
       },
       "options": {
         "hi": [
-          "उसकी संरचना निश्चित होती है",
           "उसकी संरचना हमेशा बदलती रहती है",
           "उसमें अनिवार्य रूप से दो तत्व होते हैं",
-          "उसे केवल छानकर अलग किया जा सकता है"
+          "उसे केवल छानकर अलग किया जा सकता है",
+          "उसकी संरचना निश्चित होती है"
         ],
         "en": [
-          "It has a fixed composition",
           "Its composition always changes",
           "It must contain two elements",
-          "It can only be separated by filtration"
+          "It can only be separated by filtration",
+          "It has a fixed composition"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उसकी संरचना निश्चित होती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It has a fixed composition. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -711,19 +711,19 @@
       },
       "options": {
         "hi": [
+          "अवशेष",
           "विलेय",
           "विलायक",
-          "निस्यंद",
-          "अवशेष"
+          "निस्यंद"
         ],
         "en": [
+          "Residue",
           "Solute",
           "Solvent",
-          "Filtrate",
-          "Residue"
+          "Filtrate"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: विलेय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solute. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -739,19 +739,19 @@
       },
       "options": {
         "hi": [
-          "विलायक",
-          "विलेय",
           "तलछट",
-          "अवशेष"
+          "अवशेष",
+          "विलायक",
+          "विलेय"
         ],
         "en": [
-          "Solvent",
-          "Solute",
           "Sediment",
-          "Residue"
+          "Residue",
+          "Solvent",
+          "Solute"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: विलायक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solvent. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -767,19 +767,19 @@
       },
       "options": {
         "hi": [
-          "आसवन",
           "निस्यंदन मात्र",
           "चुंबकीय पृथक्करण",
-          "हाथ से चुनना"
+          "हाथ से चुनना",
+          "आसवन"
         ],
         "en": [
-          "Distillation",
           "Filtration alone",
           "Magnetic separation",
-          "Handpicking"
+          "Handpicking",
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: आसवन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Distillation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -823,19 +823,19 @@
       },
       "options": {
         "hi": [
+          "केवल पात्र का आकार",
           "घटकों के भौतिक गुणों में अंतर",
           "केवल मिश्रण का रंग",
-          "केवल मिश्रण का नाम",
-          "केवल पात्र का आकार"
+          "केवल मिश्रण का नाम"
         ],
         "en": [
+          "Only the size of the container",
           "Difference in physical properties of the components",
           "Only the colour of the mixture",
-          "Only the name of the mixture",
-          "Only the size of the container"
+          "Only the name of the mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: घटकों के भौतिक गुणों में अंतर। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Difference in physical properties of the components. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -851,19 +851,19 @@
       },
       "options": {
         "hi": [
-          "दो या अधिक पदार्थों का भौतिक मेल",
-          "एक ही तत्व का शुद्ध रूप",
           "केवल एक यौगिक",
-          "केवल एक धातु"
+          "केवल एक धातु",
+          "दो या अधिक पदार्थों का भौतिक मेल",
+          "एक ही तत्व का शुद्ध रूप"
         ],
         "en": [
-          "Physical combination of two or more substances",
-          "Pure form of one element",
           "Only one compound",
-          "Only one metal"
+          "Only one metal",
+          "Physical combination of two or more substances",
+          "Pure form of one element"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: दो या अधिक पदार्थों का भौतिक मेल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Physical combination of two or more substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -879,19 +879,19 @@
       },
       "options": {
         "hi": [
-          "दो या अधिक पदार्थों का भौतिक मेल",
           "एक ही तत्व का शुद्ध रूप",
           "केवल एक यौगिक",
-          "केवल एक धातु"
+          "केवल एक धातु",
+          "दो या अधिक पदार्थों का भौतिक मेल"
         ],
         "en": [
-          "Physical combination of two or more substances",
           "Pure form of one element",
           "Only one compound",
-          "Only one metal"
+          "Only one metal",
+          "Physical combination of two or more substances"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: दो या अधिक पदार्थों का भौतिक मेल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Physical combination of two or more substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -935,19 +935,19 @@
       },
       "options": {
         "hi": [
+          "केवल एक धातु",
           "दो या अधिक पदार्थों का भौतिक मेल",
           "एक ही तत्व का शुद्ध रूप",
-          "केवल एक यौगिक",
-          "केवल एक धातु"
+          "केवल एक यौगिक"
         ],
         "en": [
+          "Only one metal",
           "Physical combination of two or more substances",
           "Pure form of one element",
-          "Only one compound",
-          "Only one metal"
+          "Only one compound"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: दो या अधिक पदार्थों का भौतिक मेल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Physical combination of two or more substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -963,19 +963,19 @@
       },
       "options": {
         "hi": [
-          "भौतिक विधियों से",
-          "केवल रासायनिक अभिक्रिया से",
           "केवल विद्युत अपघटन से",
-          "कभी नहीं"
+          "कभी नहीं",
+          "भौतिक विधियों से",
+          "केवल रासायनिक अभिक्रिया से"
         ],
         "en": [
-          "By physical methods",
-          "Only by chemical reaction",
           "Only by electrolysis",
-          "Never"
+          "Never",
+          "By physical methods",
+          "Only by chemical reaction"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: भौतिक विधियों से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By physical methods. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -991,19 +991,19 @@
       },
       "options": {
         "hi": [
-          "भौतिक विधियों से",
           "केवल रासायनिक अभिक्रिया से",
           "केवल विद्युत अपघटन से",
-          "कभी नहीं"
+          "कभी नहीं",
+          "भौतिक विधियों से"
         ],
         "en": [
-          "By physical methods",
           "Only by chemical reaction",
           "Only by electrolysis",
-          "Never"
+          "Never",
+          "By physical methods"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: भौतिक विधियों से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By physical methods. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1047,19 +1047,19 @@
       },
       "options": {
         "hi": [
+          "कभी नहीं",
           "भौतिक विधियों से",
           "केवल रासायनिक अभिक्रिया से",
-          "केवल विद्युत अपघटन से",
-          "कभी नहीं"
+          "केवल विद्युत अपघटन से"
         ],
         "en": [
+          "Never",
           "By physical methods",
           "Only by chemical reaction",
-          "Only by electrolysis",
-          "Never"
+          "Only by electrolysis"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: भौतिक विधियों से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By physical methods. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1075,19 +1075,19 @@
       },
       "options": {
         "hi": [
-          "वाष्पीकरण",
-          "निस्यंदन",
           "चुंबकीय पृथक्करण",
-          "अवसादन"
+          "अवसादन",
+          "वाष्पीकरण",
+          "निस्यंदन"
         ],
         "en": [
-          "Evaporation",
-          "Filtration",
           "Magnetic separation",
-          "Sedimentation"
+          "Sedimentation",
+          "Evaporation",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: वाष्पीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Evaporation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1103,19 +1103,19 @@
       },
       "options": {
         "hi": [
-          "वाष्पीकरण",
           "निस्यंदन",
           "चुंबकीय पृथक्करण",
-          "अवसादन"
+          "अवसादन",
+          "वाष्पीकरण"
         ],
         "en": [
-          "Evaporation",
           "Filtration",
           "Magnetic separation",
-          "Sedimentation"
+          "Sedimentation",
+          "Evaporation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: वाष्पीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Evaporation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1159,19 +1159,19 @@
       },
       "options": {
         "hi": [
+          "अवसादन",
           "वाष्पीकरण",
           "निस्यंदन",
-          "चुंबकीय पृथक्करण",
-          "अवसादन"
+          "चुंबकीय पृथक्करण"
         ],
         "en": [
+          "Sedimentation",
           "Evaporation",
           "Filtration",
-          "Magnetic separation",
-          "Sedimentation"
+          "Magnetic separation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: वाष्पीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Evaporation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1187,19 +1187,19 @@
       },
       "options": {
         "hi": [
-          "निस्यंदन",
-          "आसवन",
           "क्रोमैटोग्राफी",
-          "उर्ध्वपातन"
+          "उर्ध्वपातन",
+          "निस्यंदन",
+          "आसवन"
         ],
         "en": [
-          "Filtration",
-          "Distillation",
           "Chromatography",
-          "Sublimation"
+          "Sublimation",
+          "Filtration",
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: निस्यंदन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Filtration. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1215,19 +1215,19 @@
       },
       "options": {
         "hi": [
-          "निस्यंदन",
           "आसवन",
           "क्रोमैटोग्राफी",
-          "उर्ध्वपातन"
+          "उर्ध्वपातन",
+          "निस्यंदन"
         ],
         "en": [
-          "Filtration",
           "Distillation",
           "Chromatography",
-          "Sublimation"
+          "Sublimation",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निस्यंदन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Filtration. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1271,19 +1271,19 @@
       },
       "options": {
         "hi": [
+          "उर्ध्वपातन",
           "निस्यंदन",
           "आसवन",
-          "क्रोमैटोग्राफी",
-          "उर्ध्वपातन"
+          "क्रोमैटोग्राफी"
         ],
         "en": [
+          "Sublimation",
           "Filtration",
           "Distillation",
-          "Chromatography",
-          "Sublimation"
+          "Chromatography"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: निस्यंदन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Filtration. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1299,19 +1299,19 @@
       },
       "options": {
         "hi": [
-          "छिद्रयुक्त फिल्टर",
-          "चुंबक",
           "थर्मामीटर",
-          "ब्यूरेट"
+          "ब्यूरेट",
+          "छिद्रयुक्त फिल्टर",
+          "चुंबक"
         ],
         "en": [
-          "A porous filter",
-          "A magnet",
           "A thermometer",
-          "A burette"
+          "A burette",
+          "A porous filter",
+          "A magnet"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: छिद्रयुक्त फिल्टर। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A porous filter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1327,19 +1327,19 @@
       },
       "options": {
         "hi": [
-          "छिद्रयुक्त फिल्टर",
           "चुंबक",
           "थर्मामीटर",
-          "ब्यूरेट"
+          "ब्यूरेट",
+          "छिद्रयुक्त फिल्टर"
         ],
         "en": [
-          "A porous filter",
           "A magnet",
           "A thermometer",
-          "A burette"
+          "A burette",
+          "A porous filter"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: छिद्रयुक्त फिल्टर। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A porous filter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1383,19 +1383,19 @@
       },
       "options": {
         "hi": [
+          "ब्यूरेट",
           "छिद्रयुक्त फिल्टर",
           "चुंबक",
-          "थर्मामीटर",
-          "ब्यूरेट"
+          "थर्मामीटर"
         ],
         "en": [
+          "A burette",
           "A porous filter",
           "A magnet",
-          "A thermometer",
-          "A burette"
+          "A thermometer"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: छिद्रयुक्त फिल्टर। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A porous filter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1411,19 +1411,19 @@
       },
       "options": {
         "hi": [
-          "अवशेष",
-          "निस्यंद",
           "विलायक",
-          "विलेय"
+          "विलेय",
+          "अवशेष",
+          "निस्यंद"
         ],
         "en": [
-          "Residue",
-          "Filtrate",
           "Solvent",
-          "Solute"
+          "Solute",
+          "Residue",
+          "Filtrate"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अवशेष। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Residue. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1439,19 +1439,19 @@
       },
       "options": {
         "hi": [
-          "अवशेष",
           "निस्यंद",
           "विलायक",
-          "विलेय"
+          "विलेय",
+          "अवशेष"
         ],
         "en": [
-          "Residue",
           "Filtrate",
           "Solvent",
-          "Solute"
+          "Solute",
+          "Residue"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अवशेष। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Residue. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1495,19 +1495,19 @@
       },
       "options": {
         "hi": [
+          "विलेय",
           "अवशेष",
           "निस्यंद",
-          "विलायक",
-          "विलेय"
+          "विलायक"
         ],
         "en": [
+          "Solute",
           "Residue",
           "Filtrate",
-          "Solvent",
-          "Solute"
+          "Solvent"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अवशेष। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Residue. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1523,19 +1523,19 @@
       },
       "options": {
         "hi": [
-          "निस्यंद",
-          "अवशेष",
           "विलेय",
-          "तलछट"
+          "तलछट",
+          "निस्यंद",
+          "अवशेष"
         ],
         "en": [
-          "Filtrate",
-          "Residue",
           "Solute",
-          "Sediment"
+          "Sediment",
+          "Filtrate",
+          "Residue"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: निस्यंद। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Filtrate. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1551,19 +1551,19 @@
       },
       "options": {
         "hi": [
-          "निस्यंद",
           "अवशेष",
           "विलेय",
-          "तलछट"
+          "तलछट",
+          "निस्यंद"
         ],
         "en": [
-          "Filtrate",
           "Residue",
           "Solute",
-          "Sediment"
+          "Sediment",
+          "Filtrate"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निस्यंद। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Filtrate. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1607,19 +1607,19 @@
       },
       "options": {
         "hi": [
+          "तलछट",
           "निस्यंद",
           "अवशेष",
-          "विलेय",
-          "तलछट"
+          "विलेय"
         ],
         "en": [
+          "Sediment",
           "Filtrate",
           "Residue",
-          "Solute",
-          "Sediment"
+          "Solute"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: निस्यंद। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Filtrate. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1635,19 +1635,19 @@
       },
       "options": {
         "hi": [
-          "पृथक्करण कीप",
-          "फिल्टर पेपर",
           "क्रूसिबल",
-          "घड़ी कांच"
+          "घड़ी कांच",
+          "पृथक्करण कीप",
+          "फिल्टर पेपर"
         ],
         "en": [
-          "Separating funnel",
-          "Filter paper",
           "Crucible",
-          "Watch glass"
+          "Watch glass",
+          "Separating funnel",
+          "Filter paper"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: पृथक्करण कीप। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Separating funnel. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1663,19 +1663,19 @@
       },
       "options": {
         "hi": [
-          "पृथक्करण कीप",
           "फिल्टर पेपर",
           "क्रूसिबल",
-          "घड़ी कांच"
+          "घड़ी कांच",
+          "पृथक्करण कीप"
         ],
         "en": [
-          "Separating funnel",
           "Filter paper",
           "Crucible",
-          "Watch glass"
+          "Watch glass",
+          "Separating funnel"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: पृथक्करण कीप। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Separating funnel. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1719,19 +1719,19 @@
       },
       "options": {
         "hi": [
+          "घड़ी कांच",
           "पृथक्करण कीप",
           "फिल्टर पेपर",
-          "क्रूसिबल",
-          "घड़ी कांच"
+          "क्रूसिबल"
         ],
         "en": [
+          "Watch glass",
           "Separating funnel",
           "Filter paper",
-          "Crucible",
-          "Watch glass"
+          "Crucible"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: पृथक्करण कीप। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Separating funnel. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1747,19 +1747,19 @@
       },
       "options": {
         "hi": [
-          "आसवन",
-          "निस्यंदन",
           "अवसादन",
-          "चुंबकीय पृथक्करण"
+          "चुंबकीय पृथक्करण",
+          "आसवन",
+          "निस्यंदन"
         ],
         "en": [
-          "Distillation",
-          "Filtration",
           "Sedimentation",
-          "Magnetic separation"
+          "Magnetic separation",
+          "Distillation",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: आसवन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Distillation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1775,19 +1775,19 @@
       },
       "options": {
         "hi": [
-          "आसवन",
           "निस्यंदन",
           "अवसादन",
-          "चुंबकीय पृथक्करण"
+          "चुंबकीय पृथक्करण",
+          "आसवन"
         ],
         "en": [
-          "Distillation",
           "Filtration",
           "Sedimentation",
-          "Magnetic separation"
+          "Magnetic separation",
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: आसवन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Distillation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1831,19 +1831,19 @@
       },
       "options": {
         "hi": [
+          "चुंबकीय पृथक्करण",
           "आसवन",
           "निस्यंदन",
-          "अवसादन",
-          "चुंबकीय पृथक्करण"
+          "अवसादन"
         ],
         "en": [
+          "Magnetic separation",
           "Distillation",
           "Filtration",
-          "Sedimentation",
-          "Magnetic separation"
+          "Sedimentation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: आसवन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Distillation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1859,19 +1859,19 @@
       },
       "options": {
         "hi": [
-          "क्वथनांक",
-          "रंग",
           "आकार",
-          "चुंबकीयता"
+          "चुंबकीयता",
+          "क्वथनांक",
+          "रंग"
         ],
         "en": [
-          "Boiling point",
-          "Colour",
           "Size",
-          "Magnetism"
+          "Magnetism",
+          "Boiling point",
+          "Colour"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्वथनांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Boiling point. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1887,19 +1887,19 @@
       },
       "options": {
         "hi": [
-          "क्वथनांक",
           "रंग",
           "आकार",
-          "चुंबकीयता"
+          "चुंबकीयता",
+          "क्वथनांक"
         ],
         "en": [
-          "Boiling point",
           "Colour",
           "Size",
-          "Magnetism"
+          "Magnetism",
+          "Boiling point"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: क्वथनांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Boiling point. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1943,19 +1943,19 @@
       },
       "options": {
         "hi": [
+          "चुंबकीयता",
           "क्वथनांक",
           "रंग",
-          "आकार",
-          "चुंबकीयता"
+          "आकार"
         ],
         "en": [
+          "Magnetism",
           "Boiling point",
           "Colour",
-          "Size",
-          "Magnetism"
+          "Size"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्वथनांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Boiling point. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1971,19 +1971,19 @@
       },
       "options": {
         "hi": [
-          "संघनन",
-          "वाष्पीकरण",
           "उर्ध्वपातन",
-          "गलन"
+          "गलन",
+          "संघनन",
+          "वाष्पीकरण"
         ],
         "en": [
-          "Condensation",
-          "Evaporation",
           "Sublimation",
-          "Melting"
+          "Melting",
+          "Condensation",
+          "Evaporation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: संघनन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Condensation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1999,19 +1999,19 @@
       },
       "options": {
         "hi": [
-          "संघनन",
           "वाष्पीकरण",
           "उर्ध्वपातन",
-          "गलन"
+          "गलन",
+          "संघनन"
         ],
         "en": [
-          "Condensation",
           "Evaporation",
           "Sublimation",
-          "Melting"
+          "Melting",
+          "Condensation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: संघनन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Condensation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2055,19 +2055,19 @@
       },
       "options": {
         "hi": [
+          "गलन",
           "संघनन",
           "वाष्पीकरण",
-          "उर्ध्वपातन",
-          "गलन"
+          "उर्ध्वपातन"
         ],
         "en": [
+          "Melting",
           "Condensation",
           "Evaporation",
-          "Sublimation",
-          "Melting"
+          "Sublimation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: संघनन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Condensation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2083,19 +2083,19 @@
       },
       "options": {
         "hi": [
-          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
-          "जब ठोस और पानी मिले हों",
           "जब एक पदार्थ चुंबकीय हो",
-          "जब दोनों पदार्थ अघुलनशील हों"
+          "जब दोनों पदार्थ अघुलनशील हों",
+          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
+          "जब ठोस और पानी मिले हों"
         ],
         "en": [
-          "When miscible liquids have close boiling points",
-          "When a solid and water are mixed",
           "When one substance is magnetic",
-          "When both substances are immiscible"
+          "When both substances are immiscible",
+          "When miscible liquids have close boiling points",
+          "When a solid and water are mixed"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: When miscible liquids have close boiling points. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2111,19 +2111,19 @@
       },
       "options": {
         "hi": [
-          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
           "जब ठोस और पानी मिले हों",
           "जब एक पदार्थ चुंबकीय हो",
-          "जब दोनों पदार्थ अघुलनशील हों"
+          "जब दोनों पदार्थ अघुलनशील हों",
+          "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों"
         ],
         "en": [
-          "When miscible liquids have close boiling points",
           "When a solid and water are mixed",
           "When one substance is magnetic",
-          "When both substances are immiscible"
+          "When both substances are immiscible",
+          "When miscible liquids have close boiling points"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: When miscible liquids have close boiling points. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2167,19 +2167,19 @@
       },
       "options": {
         "hi": [
+          "जब दोनों पदार्थ अघुलनशील हों",
           "जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों",
           "जब ठोस और पानी मिले हों",
-          "जब एक पदार्थ चुंबकीय हो",
-          "जब दोनों पदार्थ अघुलनशील हों"
+          "जब एक पदार्थ चुंबकीय हो"
         ],
         "en": [
+          "When both substances are immiscible",
           "When miscible liquids have close boiling points",
           "When a solid and water are mixed",
-          "When one substance is magnetic",
-          "When both substances are immiscible"
+          "When one substance is magnetic"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: जब मिश्रणीय द्रवों के क्वथनांक पास-पास हों। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: When miscible liquids have close boiling points. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2195,19 +2195,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण में उपस्थित विभिन्न रंगीन घटक",
-          "केवल लोहे और रेत",
           "केवल तेल और पानी",
-          "केवल पत्थर और रेत"
+          "केवल पत्थर और रेत",
+          "मिश्रण में उपस्थित विभिन्न रंगीन घटक",
+          "केवल लोहे और रेत"
         ],
         "en": [
-          "Different coloured components in a mixture",
-          "Only iron and sand",
           "Only oil and water",
-          "Only stones and sand"
+          "Only stones and sand",
+          "Different coloured components in a mixture",
+          "Only iron and sand"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण में उपस्थित विभिन्न रंगीन घटक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Different coloured components in a mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2223,19 +2223,19 @@
       },
       "options": {
         "hi": [
-          "मिश्रण में उपस्थित विभिन्न रंगीन घटक",
           "केवल लोहे और रेत",
           "केवल तेल और पानी",
-          "केवल पत्थर और रेत"
+          "केवल पत्थर और रेत",
+          "मिश्रण में उपस्थित विभिन्न रंगीन घटक"
         ],
         "en": [
-          "Different coloured components in a mixture",
           "Only iron and sand",
           "Only oil and water",
-          "Only stones and sand"
+          "Only stones and sand",
+          "Different coloured components in a mixture"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण में उपस्थित विभिन्न रंगीन घटक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Different coloured components in a mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2279,19 +2279,19 @@
       },
       "options": {
         "hi": [
+          "केवल पत्थर और रेत",
           "मिश्रण में उपस्थित विभिन्न रंगीन घटक",
           "केवल लोहे और रेत",
-          "केवल तेल और पानी",
-          "केवल पत्थर और रेत"
+          "केवल तेल और पानी"
         ],
         "en": [
+          "Only stones and sand",
           "Different coloured components in a mixture",
           "Only iron and sand",
-          "Only oil and water",
-          "Only stones and sand"
+          "Only oil and water"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: मिश्रण में उपस्थित विभिन्न रंगीन घटक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Different coloured components in a mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2307,19 +2307,19 @@
       },
       "options": {
         "hi": [
-          "क्रोमैटोग्राफी",
-          "निस्यंदन",
           "अवसादन",
-          "चुंबकीय पृथक्करण"
+          "चुंबकीय पृथक्करण",
+          "क्रोमैटोग्राफी",
+          "निस्यंदन"
         ],
         "en": [
-          "Chromatography",
-          "Filtration",
           "Sedimentation",
-          "Magnetic separation"
+          "Magnetic separation",
+          "Chromatography",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्रोमैटोग्राफी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chromatography. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2335,19 +2335,19 @@
       },
       "options": {
         "hi": [
-          "क्रोमैटोग्राफी",
           "निस्यंदन",
           "अवसादन",
-          "चुंबकीय पृथक्करण"
+          "चुंबकीय पृथक्करण",
+          "क्रोमैटोग्राफी"
         ],
         "en": [
-          "Chromatography",
           "Filtration",
           "Sedimentation",
-          "Magnetic separation"
+          "Magnetic separation",
+          "Chromatography"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: क्रोमैटोग्राफी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chromatography. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2391,19 +2391,19 @@
       },
       "options": {
         "hi": [
+          "चुंबकीय पृथक्करण",
           "क्रोमैटोग्राफी",
           "निस्यंदन",
-          "अवसादन",
-          "चुंबकीय पृथक्करण"
+          "अवसादन"
         ],
         "en": [
+          "Magnetic separation",
           "Chromatography",
           "Filtration",
-          "Sedimentation",
-          "Magnetic separation"
+          "Sedimentation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्रोमैटोग्राफी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chromatography. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2419,19 +2419,19 @@
       },
       "options": {
         "hi": [
-          "चुंबक",
-          "फिल्टर पेपर",
           "आसवन",
-          "पृथक्करण कीप"
+          "पृथक्करण कीप",
+          "चुंबक",
+          "फिल्टर पेपर"
         ],
         "en": [
-          "A magnet",
-          "Filter paper",
           "Distillation",
-          "Separating funnel"
+          "Separating funnel",
+          "A magnet",
+          "Filter paper"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: चुंबक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A magnet. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2447,19 +2447,19 @@
       },
       "options": {
         "hi": [
-          "चुंबक",
           "फिल्टर पेपर",
           "आसवन",
-          "पृथक्करण कीप"
+          "पृथक्करण कीप",
+          "चुंबक"
         ],
         "en": [
-          "A magnet",
           "Filter paper",
           "Distillation",
-          "Separating funnel"
+          "Separating funnel",
+          "A magnet"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: चुंबक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A magnet. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2503,19 +2503,19 @@
       },
       "options": {
         "hi": [
+          "पृथक्करण कीप",
           "चुंबक",
           "फिल्टर पेपर",
-          "आसवन",
-          "पृथक्करण कीप"
+          "आसवन"
         ],
         "en": [
+          "Separating funnel",
           "A magnet",
           "Filter paper",
-          "Distillation",
-          "Separating funnel"
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: चुंबक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A magnet. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2531,19 +2531,19 @@
       },
       "options": {
         "hi": [
-          "हाथ से चुनना",
-          "आसवन",
           "क्रोमैटोग्राफी",
-          "संघनन"
+          "संघनन",
+          "हाथ से चुनना",
+          "आसवन"
         ],
         "en": [
-          "Handpicking",
-          "Distillation",
           "Chromatography",
-          "Condensation"
+          "Condensation",
+          "Handpicking",
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: हाथ से चुनना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Handpicking. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2559,19 +2559,19 @@
       },
       "options": {
         "hi": [
-          "हाथ से चुनना",
           "आसवन",
           "क्रोमैटोग्राफी",
-          "संघनन"
+          "संघनन",
+          "हाथ से चुनना"
         ],
         "en": [
-          "Handpicking",
           "Distillation",
           "Chromatography",
-          "Condensation"
+          "Condensation",
+          "Handpicking"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाथ से चुनना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Handpicking. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2615,19 +2615,19 @@
       },
       "options": {
         "hi": [
+          "संघनन",
           "हाथ से चुनना",
           "आसवन",
-          "क्रोमैटोग्राफी",
-          "संघनन"
+          "क्रोमैटोग्राफी"
         ],
         "en": [
+          "Condensation",
           "Handpicking",
           "Distillation",
-          "Chromatography",
-          "Condensation"
+          "Chromatography"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: हाथ से चुनना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Handpicking. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2643,19 +2643,19 @@
       },
       "options": {
         "hi": [
-          "फटकना",
-          "निस्यंदन",
           "आसवन",
-          "उर्ध्वपातन"
+          "उर्ध्वपातन",
+          "फटकना",
+          "निस्यंदन"
         ],
         "en": [
-          "Winnowing",
-          "Filtration",
           "Distillation",
-          "Sublimation"
+          "Sublimation",
+          "Winnowing",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: फटकना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Winnowing. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2671,19 +2671,19 @@
       },
       "options": {
         "hi": [
-          "फटकना",
           "निस्यंदन",
           "आसवन",
-          "उर्ध्वपातन"
+          "उर्ध्वपातन",
+          "फटकना"
         ],
         "en": [
-          "Winnowing",
           "Filtration",
           "Distillation",
-          "Sublimation"
+          "Sublimation",
+          "Winnowing"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: फटकना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Winnowing. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2727,19 +2727,19 @@
       },
       "options": {
         "hi": [
+          "उर्ध्वपातन",
           "फटकना",
           "निस्यंदन",
-          "आसवन",
-          "उर्ध्वपातन"
+          "आसवन"
         ],
         "en": [
+          "Sublimation",
           "Winnowing",
           "Filtration",
-          "Distillation",
-          "Sublimation"
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: फटकना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Winnowing. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2755,19 +2755,19 @@
       },
       "options": {
         "hi": [
-          "छानना",
-          "आसवन",
           "संघनन",
-          "क्रोमैटोग्राफी"
+          "क्रोमैटोग्राफी",
+          "छानना",
+          "आसवन"
         ],
         "en": [
-          "Sieving",
-          "Distillation",
           "Condensation",
-          "Chromatography"
+          "Chromatography",
+          "Sieving",
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: छानना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sieving. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2783,19 +2783,19 @@
       },
       "options": {
         "hi": [
-          "छानना",
           "आसवन",
           "संघनन",
-          "क्रोमैटोग्राफी"
+          "क्रोमैटोग्राफी",
+          "छानना"
         ],
         "en": [
-          "Sieving",
           "Distillation",
           "Condensation",
-          "Chromatography"
+          "Chromatography",
+          "Sieving"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: छानना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sieving. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2839,19 +2839,19 @@
       },
       "options": {
         "hi": [
+          "क्रोमैटोग्राफी",
           "छानना",
           "आसवन",
-          "संघनन",
-          "क्रोमैटोग्राफी"
+          "संघनन"
         ],
         "en": [
+          "Chromatography",
           "Sieving",
           "Distillation",
-          "Condensation",
-          "Chromatography"
+          "Condensation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: छानना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sieving. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2867,19 +2867,19 @@
       },
       "options": {
         "hi": [
-          "नीचे बैठ जाते हैं",
-          "वाष्प बन जाते हैं",
           "घुल जाते हैं",
-          "ऊपर तैरने लगते हैं"
+          "ऊपर तैरने लगते हैं",
+          "नीचे बैठ जाते हैं",
+          "वाष्प बन जाते हैं"
         ],
         "en": [
-          "Settle at the bottom",
-          "Turn into vapour",
           "Dissolve",
-          "Float upward"
+          "Float upward",
+          "Settle at the bottom",
+          "Turn into vapour"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नीचे बैठ जाते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Settle at the bottom. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2895,19 +2895,19 @@
       },
       "options": {
         "hi": [
-          "नीचे बैठ जाते हैं",
           "वाष्प बन जाते हैं",
           "घुल जाते हैं",
-          "ऊपर तैरने लगते हैं"
+          "ऊपर तैरने लगते हैं",
+          "नीचे बैठ जाते हैं"
         ],
         "en": [
-          "Settle at the bottom",
           "Turn into vapour",
           "Dissolve",
-          "Float upward"
+          "Float upward",
+          "Settle at the bottom"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नीचे बैठ जाते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Settle at the bottom. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2951,19 +2951,19 @@
       },
       "options": {
         "hi": [
+          "ऊपर तैरने लगते हैं",
           "नीचे बैठ जाते हैं",
           "वाष्प बन जाते हैं",
-          "घुल जाते हैं",
-          "ऊपर तैरने लगते हैं"
+          "घुल जाते हैं"
         ],
         "en": [
+          "Float upward",
           "Settle at the bottom",
           "Turn into vapour",
-          "Dissolve",
-          "Float upward"
+          "Dissolve"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नीचे बैठ जाते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Settle at the bottom. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2979,19 +2979,19 @@
       },
       "options": {
         "hi": [
-          "निथारना",
-          "उर्ध्वपातन",
           "आसवन",
-          "क्रोमैटोग्राफी"
+          "क्रोमैटोग्राफी",
+          "निथारना",
+          "उर्ध्वपातन"
         ],
         "en": [
-          "Decantation",
-          "Sublimation",
           "Distillation",
-          "Chromatography"
+          "Chromatography",
+          "Decantation",
+          "Sublimation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: निथारना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decantation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3007,19 +3007,19 @@
       },
       "options": {
         "hi": [
-          "निथारना",
           "उर्ध्वपातन",
           "आसवन",
-          "क्रोमैटोग्राफी"
+          "क्रोमैटोग्राफी",
+          "निथारना"
         ],
         "en": [
-          "Decantation",
           "Sublimation",
           "Distillation",
-          "Chromatography"
+          "Chromatography",
+          "Decantation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निथारना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decantation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3063,19 +3063,19 @@
       },
       "options": {
         "hi": [
+          "क्रोमैटोग्राफी",
           "निथारना",
           "उर्ध्वपातन",
-          "आसवन",
-          "क्रोमैटोग्राफी"
+          "आसवन"
         ],
         "en": [
+          "Chromatography",
           "Decantation",
           "Sublimation",
-          "Distillation",
-          "Chromatography"
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: निथारना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decantation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3091,19 +3091,19 @@
       },
       "options": {
         "hi": [
-          "पानी मिलाकर नमक घोलना",
-          "चुंबक लगाना",
           "सीधे आसवन करना",
-          "केवल हाथ से चुनना"
+          "केवल हाथ से चुनना",
+          "पानी मिलाकर नमक घोलना",
+          "चुंबक लगाना"
         ],
         "en": [
-          "Add water to dissolve the salt",
-          "Use a magnet",
           "Distil directly",
-          "Only handpick"
+          "Only handpick",
+          "Add water to dissolve the salt",
+          "Use a magnet"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: पानी मिलाकर नमक घोलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Add water to dissolve the salt. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3119,19 +3119,19 @@
       },
       "options": {
         "hi": [
-          "पानी मिलाकर नमक घोलना",
           "चुंबक लगाना",
           "सीधे आसवन करना",
-          "केवल हाथ से चुनना"
+          "केवल हाथ से चुनना",
+          "पानी मिलाकर नमक घोलना"
         ],
         "en": [
-          "Add water to dissolve the salt",
           "Use a magnet",
           "Distil directly",
-          "Only handpick"
+          "Only handpick",
+          "Add water to dissolve the salt"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: पानी मिलाकर नमक घोलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Add water to dissolve the salt. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3175,19 +3175,19 @@
       },
       "options": {
         "hi": [
+          "केवल हाथ से चुनना",
           "पानी मिलाकर नमक घोलना",
           "चुंबक लगाना",
-          "सीधे आसवन करना",
-          "केवल हाथ से चुनना"
+          "सीधे आसवन करना"
         ],
         "en": [
+          "Only handpick",
           "Add water to dissolve the salt",
           "Use a magnet",
-          "Distil directly",
-          "Only handpick"
+          "Distil directly"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: पानी मिलाकर नमक घोलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Add water to dissolve the salt. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3203,19 +3203,19 @@
       },
       "options": {
         "hi": [
-          "वाष्पीकरण",
-          "निस्यंदन",
           "चुंबकीय पृथक्करण",
-          "छानना"
+          "छानना",
+          "वाष्पीकरण",
+          "निस्यंदन"
         ],
         "en": [
-          "Evaporation",
-          "Filtration",
           "Magnetic separation",
-          "Sieving"
+          "Sieving",
+          "Evaporation",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: वाष्पीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Evaporation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3231,19 +3231,19 @@
       },
       "options": {
         "hi": [
-          "वाष्पीकरण",
           "निस्यंदन",
           "चुंबकीय पृथक्करण",
-          "छानना"
+          "छानना",
+          "वाष्पीकरण"
         ],
         "en": [
-          "Evaporation",
           "Filtration",
           "Magnetic separation",
-          "Sieving"
+          "Sieving",
+          "Evaporation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: वाष्पीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Evaporation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3287,19 +3287,19 @@
       },
       "options": {
         "hi": [
+          "छानना",
           "वाष्पीकरण",
           "निस्यंदन",
-          "चुंबकीय पृथक्करण",
-          "छानना"
+          "चुंबकीय पृथक्करण"
         ],
         "en": [
+          "Sieving",
           "Evaporation",
           "Filtration",
-          "Magnetic separation",
-          "Sieving"
+          "Magnetic separation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: वाष्पीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Evaporation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3315,19 +3315,19 @@
       },
       "options": {
         "hi": [
-          "क्रिस्टलीकरण",
-          "निस्यंदन",
           "चुंबकीय पृथक्करण",
-          "अवसादन"
+          "अवसादन",
+          "क्रिस्टलीकरण",
+          "निस्यंदन"
         ],
         "en": [
-          "Crystallization",
-          "Filtration",
           "Magnetic separation",
-          "Sedimentation"
+          "Sedimentation",
+          "Crystallization",
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्रिस्टलीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Crystallization. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3343,19 +3343,19 @@
       },
       "options": {
         "hi": [
-          "क्रिस्टलीकरण",
           "निस्यंदन",
           "चुंबकीय पृथक्करण",
-          "अवसादन"
+          "अवसादन",
+          "क्रिस्टलीकरण"
         ],
         "en": [
-          "Crystallization",
           "Filtration",
           "Magnetic separation",
-          "Sedimentation"
+          "Sedimentation",
+          "Crystallization"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: क्रिस्टलीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Crystallization. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3399,19 +3399,19 @@
       },
       "options": {
         "hi": [
+          "अवसादन",
           "क्रिस्टलीकरण",
           "निस्यंदन",
-          "चुंबकीय पृथक्करण",
-          "अवसादन"
+          "चुंबकीय पृथक्करण"
         ],
         "en": [
+          "Sedimentation",
           "Crystallization",
           "Filtration",
-          "Magnetic separation",
-          "Sedimentation"
+          "Magnetic separation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्रिस्टलीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Crystallization. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3427,19 +3427,19 @@
       },
       "options": {
         "hi": [
-          "उसकी संरचना निश्चित होती है",
-          "उसकी संरचना हमेशा बदलती रहती है",
           "उसमें अनिवार्य रूप से दो तत्व होते हैं",
-          "उसे केवल छानकर अलग किया जा सकता है"
+          "उसे केवल छानकर अलग किया जा सकता है",
+          "उसकी संरचना निश्चित होती है",
+          "उसकी संरचना हमेशा बदलती रहती है"
         ],
         "en": [
-          "It has a fixed composition",
-          "Its composition always changes",
           "It must contain two elements",
-          "It can only be separated by filtration"
+          "It can only be separated by filtration",
+          "It has a fixed composition",
+          "Its composition always changes"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उसकी संरचना निश्चित होती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It has a fixed composition. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3455,19 +3455,19 @@
       },
       "options": {
         "hi": [
-          "उसकी संरचना निश्चित होती है",
           "उसकी संरचना हमेशा बदलती रहती है",
           "उसमें अनिवार्य रूप से दो तत्व होते हैं",
-          "उसे केवल छानकर अलग किया जा सकता है"
+          "उसे केवल छानकर अलग किया जा सकता है",
+          "उसकी संरचना निश्चित होती है"
         ],
         "en": [
-          "It has a fixed composition",
           "Its composition always changes",
           "It must contain two elements",
-          "It can only be separated by filtration"
+          "It can only be separated by filtration",
+          "It has a fixed composition"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उसकी संरचना निश्चित होती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It has a fixed composition. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3511,19 +3511,19 @@
       },
       "options": {
         "hi": [
+          "उसे केवल छानकर अलग किया जा सकता है",
           "उसकी संरचना निश्चित होती है",
           "उसकी संरचना हमेशा बदलती रहती है",
-          "उसमें अनिवार्य रूप से दो तत्व होते हैं",
-          "उसे केवल छानकर अलग किया जा सकता है"
+          "उसमें अनिवार्य रूप से दो तत्व होते हैं"
         ],
         "en": [
+          "It can only be separated by filtration",
           "It has a fixed composition",
           "Its composition always changes",
-          "It must contain two elements",
-          "It can only be separated by filtration"
+          "It must contain two elements"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उसकी संरचना निश्चित होती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It has a fixed composition. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3539,19 +3539,19 @@
       },
       "options": {
         "hi": [
-          "समांगी मिश्रण",
-          "विषमांगी मिश्रण",
           "केवल ठोस मिश्रण",
-          "केवल गैसीय मिश्रण"
+          "केवल गैसीय मिश्रण",
+          "समांगी मिश्रण",
+          "विषमांगी मिश्रण"
         ],
         "en": [
-          "Homogeneous mixture",
-          "Heterogeneous mixture",
           "Only a solid mixture",
-          "Only a gaseous mixture"
+          "Only a gaseous mixture",
+          "Homogeneous mixture",
+          "Heterogeneous mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: समांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Homogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3567,19 +3567,19 @@
       },
       "options": {
         "hi": [
-          "समांगी मिश्रण",
           "विषमांगी मिश्रण",
           "केवल ठोस मिश्रण",
-          "केवल गैसीय मिश्रण"
+          "केवल गैसीय मिश्रण",
+          "समांगी मिश्रण"
         ],
         "en": [
-          "Homogeneous mixture",
           "Heterogeneous mixture",
           "Only a solid mixture",
-          "Only a gaseous mixture"
+          "Only a gaseous mixture",
+          "Homogeneous mixture"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: समांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Homogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3623,19 +3623,19 @@
       },
       "options": {
         "hi": [
+          "केवल गैसीय मिश्रण",
           "समांगी मिश्रण",
           "विषमांगी मिश्रण",
-          "केवल ठोस मिश्रण",
-          "केवल गैसीय मिश्रण"
+          "केवल ठोस मिश्रण"
         ],
         "en": [
+          "Only a gaseous mixture",
           "Homogeneous mixture",
           "Heterogeneous mixture",
-          "Only a solid mixture",
-          "Only a gaseous mixture"
+          "Only a solid mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: समांगी मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Homogeneous mixture. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3651,19 +3651,19 @@
       },
       "options": {
         "hi": [
-          "विलेय",
-          "विलायक",
           "निस्यंद",
-          "अवशेष"
+          "अवशेष",
+          "विलेय",
+          "विलायक"
         ],
         "en": [
-          "Solute",
-          "Solvent",
           "Filtrate",
-          "Residue"
+          "Residue",
+          "Solute",
+          "Solvent"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: विलेय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solute. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3679,19 +3679,19 @@
       },
       "options": {
         "hi": [
-          "विलेय",
           "विलायक",
           "निस्यंद",
-          "अवशेष"
+          "अवशेष",
+          "विलेय"
         ],
         "en": [
-          "Solute",
           "Solvent",
           "Filtrate",
-          "Residue"
+          "Residue",
+          "Solute"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: विलेय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solute. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3735,19 +3735,19 @@
       },
       "options": {
         "hi": [
+          "अवशेष",
           "विलेय",
           "विलायक",
-          "निस्यंद",
-          "अवशेष"
+          "निस्यंद"
         ],
         "en": [
+          "Residue",
           "Solute",
           "Solvent",
-          "Filtrate",
-          "Residue"
+          "Filtrate"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: विलेय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solute. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3763,19 +3763,19 @@
       },
       "options": {
         "hi": [
-          "विलायक",
-          "विलेय",
           "तलछट",
-          "अवशेष"
+          "अवशेष",
+          "विलायक",
+          "विलेय"
         ],
         "en": [
-          "Solvent",
-          "Solute",
           "Sediment",
-          "Residue"
+          "Residue",
+          "Solvent",
+          "Solute"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: विलायक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solvent. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3791,19 +3791,19 @@
       },
       "options": {
         "hi": [
-          "विलायक",
           "विलेय",
           "तलछट",
-          "अवशेष"
+          "अवशेष",
+          "विलायक"
         ],
         "en": [
-          "Solvent",
           "Solute",
           "Sediment",
-          "Residue"
+          "Residue",
+          "Solvent"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: विलायक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solvent. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3847,19 +3847,19 @@
       },
       "options": {
         "hi": [
+          "अवशेष",
           "विलायक",
           "विलेय",
-          "तलछट",
-          "अवशेष"
+          "तलछट"
         ],
         "en": [
+          "Residue",
           "Solvent",
           "Solute",
-          "Sediment",
-          "Residue"
+          "Sediment"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: विलायक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solvent. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3875,19 +3875,19 @@
       },
       "options": {
         "hi": [
-          "आसवन",
-          "निस्यंदन मात्र",
           "चुंबकीय पृथक्करण",
-          "हाथ से चुनना"
+          "हाथ से चुनना",
+          "आसवन",
+          "निस्यंदन मात्र"
         ],
         "en": [
-          "Distillation",
-          "Filtration alone",
           "Magnetic separation",
-          "Handpicking"
+          "Handpicking",
+          "Distillation",
+          "Filtration alone"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: आसवन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Distillation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3903,19 +3903,19 @@
       },
       "options": {
         "hi": [
-          "आसवन",
           "निस्यंदन मात्र",
           "चुंबकीय पृथक्करण",
-          "हाथ से चुनना"
+          "हाथ से चुनना",
+          "आसवन"
         ],
         "en": [
-          "Distillation",
           "Filtration alone",
           "Magnetic separation",
-          "Handpicking"
+          "Handpicking",
+          "Distillation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: आसवन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Distillation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3959,19 +3959,19 @@
       },
       "options": {
         "hi": [
+          "हाथ से चुनना",
           "आसवन",
           "निस्यंदन मात्र",
-          "चुंबकीय पृथक्करण",
-          "हाथ से चुनना"
+          "चुंबकीय पृथक्करण"
         ],
         "en": [
+          "Handpicking",
           "Distillation",
           "Filtration alone",
-          "Magnetic separation",
-          "Handpicking"
+          "Magnetic separation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: आसवन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Distillation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3987,19 +3987,19 @@
       },
       "options": {
         "hi": [
-          "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना",
-          "लोहे को चुंबक से अलग करना",
           "केवल गैसों को अलग करना",
-          "बड़े पत्थर चुनना"
+          "बड़े पत्थर चुनना",
+          "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना",
+          "लोहे को चुंबक से अलग करना"
         ],
         "en": [
-          "Obtaining a dissolved solid as relatively pure crystals",
-          "Separating iron with a magnet",
           "Separating only gases",
-          "Picking large stones"
+          "Picking large stones",
+          "Obtaining a dissolved solid as relatively pure crystals",
+          "Separating iron with a magnet"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Obtaining a dissolved solid as relatively pure crystals. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4015,19 +4015,19 @@
       },
       "options": {
         "hi": [
-          "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना",
           "लोहे को चुंबक से अलग करना",
           "केवल गैसों को अलग करना",
-          "बड़े पत्थर चुनना"
+          "बड़े पत्थर चुनना",
+          "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना"
         ],
         "en": [
-          "Obtaining a dissolved solid as relatively pure crystals",
           "Separating iron with a magnet",
           "Separating only gases",
-          "Picking large stones"
+          "Picking large stones",
+          "Obtaining a dissolved solid as relatively pure crystals"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Obtaining a dissolved solid as relatively pure crystals. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4071,19 +4071,19 @@
       },
       "options": {
         "hi": [
+          "बड़े पत्थर चुनना",
           "घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना",
           "लोहे को चुंबक से अलग करना",
-          "केवल गैसों को अलग करना",
-          "बड़े पत्थर चुनना"
+          "केवल गैसों को अलग करना"
         ],
         "en": [
+          "Picking large stones",
           "Obtaining a dissolved solid as relatively pure crystals",
           "Separating iron with a magnet",
-          "Separating only gases",
-          "Picking large stones"
+          "Separating only gases"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Obtaining a dissolved solid as relatively pure crystals. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4099,19 +4099,19 @@
       },
       "options": {
         "hi": [
-          "घटकों के भौतिक गुणों में अंतर",
-          "केवल मिश्रण का रंग",
           "केवल मिश्रण का नाम",
-          "केवल पात्र का आकार"
+          "केवल पात्र का आकार",
+          "घटकों के भौतिक गुणों में अंतर",
+          "केवल मिश्रण का रंग"
         ],
         "en": [
-          "Difference in physical properties of the components",
-          "Only the colour of the mixture",
           "Only the name of the mixture",
-          "Only the size of the container"
+          "Only the size of the container",
+          "Difference in physical properties of the components",
+          "Only the colour of the mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: घटकों के भौतिक गुणों में अंतर। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Difference in physical properties of the components. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4127,19 +4127,19 @@
       },
       "options": {
         "hi": [
-          "घटकों के भौतिक गुणों में अंतर",
           "केवल मिश्रण का रंग",
           "केवल मिश्रण का नाम",
-          "केवल पात्र का आकार"
+          "केवल पात्र का आकार",
+          "घटकों के भौतिक गुणों में अंतर"
         ],
         "en": [
-          "Difference in physical properties of the components",
           "Only the colour of the mixture",
           "Only the name of the mixture",
-          "Only the size of the container"
+          "Only the size of the container",
+          "Difference in physical properties of the components"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: घटकों के भौतिक गुणों में अंतर। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Difference in physical properties of the components. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4183,19 +4183,19 @@
       },
       "options": {
         "hi": [
+          "केवल पात्र का आकार",
           "घटकों के भौतिक गुणों में अंतर",
           "केवल मिश्रण का रंग",
-          "केवल मिश्रण का नाम",
-          "केवल पात्र का आकार"
+          "केवल मिश्रण का नाम"
         ],
         "en": [
+          "Only the size of the container",
           "Difference in physical properties of the components",
           "Only the colour of the mixture",
-          "Only the name of the mixture",
-          "Only the size of the container"
+          "Only the name of the mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: घटकों के भौतिक गुणों में अंतर। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Difference in physical properties of the components. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
