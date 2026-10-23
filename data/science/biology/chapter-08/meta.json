@@ -15,7 +15,43 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "human-respiratory-system",
+      "name": {
+        "hi": "Human Respiratory System",
+        "en": "Human Respiratory System"
+      }
+    },
+    {
+      "id": "aerobic-anaerobic-respiration",
+      "name": {
+        "hi": "Aerobic Anaerobic Respiration",
+        "en": "Aerobic Anaerobic Respiration"
+      }
+    },
+    {
+      "id": "gas-exchange-transport",
+      "name": {
+        "hi": "Gas Exchange Transport",
+        "en": "Gas Exchange Transport"
+      }
+    },
+    {
+      "id": "respiration-other-organisms",
+      "name": {
+        "hi": "Respiration Other Organisms",
+        "en": "Respiration Other Organisms"
+      }
+    },
+    {
+      "id": "respiration-vs-other-processes",
+      "name": {
+        "hi": "Respiration Vs Other Processes",
+        "en": "Respiration Vs Other Processes"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "श्वसन में भोजन के ऑक्सीकरण द्वारा ऊर्जा मुक्त होती है; यह कोशिकाओं में होने वाली जैविक प्रक्रिया है। ऑक्सीजन की उपस्थिति में होने वाला श्वसन वायुीय और अनुपस्थिति में होने वाला अवायुीय कहलाता है। मनुष्य में नासिका छिद्रों से फेफड़ों तक का मार्ग और उसमें गैसों का आदान-प्रदान वायुकोशों (एल्वियोलाई) में होता है।",
