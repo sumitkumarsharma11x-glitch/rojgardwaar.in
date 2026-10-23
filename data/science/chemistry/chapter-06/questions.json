@@ -39,19 +39,19 @@
       },
       "options": {
         "hi": [
+          "केवल न्यूट्रॉन",
           "प्रोटॉन और न्यूट्रॉन",
           "इलेक्ट्रॉन और प्रोटॉन",
-          "केवल इलेक्ट्रॉन",
-          "केवल न्यूट्रॉन"
+          "केवल इलेक्ट्रॉन"
         ],
         "en": [
+          "Only neutrons",
           "Protons and neutrons",
           "Electrons and protons",
-          "Only electrons",
-          "Only neutrons"
+          "Only electrons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -67,19 +67,19 @@
       },
       "options": {
         "hi": [
-          "ऋणात्मक",
-          "धनात्मक",
           "उदासीन",
-          "परिवर्तनशील"
+          "परिवर्तनशील",
+          "ऋणात्मक",
+          "धनात्मक"
         ],
         "en": [
-          "Negative",
-          "Positive",
           "Neutral",
-          "Variable"
+          "Variable",
+          "Negative",
+          "Positive"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऋणात्मक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Negative. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -95,19 +95,19 @@
       },
       "options": {
         "hi": [
-          "धनात्मक",
           "ऋणात्मक",
           "उदासीन",
-          "कोई आवेश नहीं"
+          "कोई आवेश नहीं",
+          "धनात्मक"
         ],
         "en": [
-          "Positive",
           "Negative",
           "Neutral",
-          "No charge"
+          "No charge",
+          "Positive"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: धनात्मक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Positive. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -151,19 +151,19 @@
       },
       "options": {
         "hi": [
+          "इलेक्ट्रॉन और न्यूट्रॉन का योग",
           "प्रोटॉनों की संख्या",
           "न्यूट्रॉनों की संख्या",
-          "कुल न्यूक्लिऑनों की संख्या",
-          "इलेक्ट्रॉन और न्यूट्रॉन का योग"
+          "कुल न्यूक्लिऑनों की संख्या"
         ],
         "en": [
+          "Electrons plus neutrons",
           "Number of protons",
           "Number of neutrons",
-          "Total nucleons",
-          "Electrons plus neutrons"
+          "Total nucleons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉनों की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of protons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -179,19 +179,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉन और न्यूट्रॉन",
-          "प्रोटॉन और इलेक्ट्रॉन",
           "इलेक्ट्रॉन और न्यूट्रॉन",
-          "केवल प्रोटॉन"
+          "केवल प्रोटॉन",
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन"
         ],
         "en": [
-          "Protons and neutrons",
-          "Protons and electrons",
           "Electrons and neutrons",
-          "Only protons"
+          "Only protons",
+          "Protons and neutrons",
+          "Protons and electrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -207,19 +207,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉनों की संख्या",
           "न्यूट्रॉनों की संख्या",
           "द्रव्यमान संख्या",
-          "नाभिकीय कणों की संख्या"
+          "नाभिकीय कणों की संख्या",
+          "प्रोटॉनों की संख्या"
         ],
         "en": [
-          "Number of protons",
           "Number of neutrons",
           "Mass number",
-          "Nucleons"
+          "Nucleons",
+          "Number of protons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉनों की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of protons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -263,19 +263,19 @@
       },
       "options": {
         "hi": [
+          "तत्व का नाम",
           "न्यूट्रॉन संख्या",
           "प्रोटॉन संख्या",
-          "परमाणु क्रमांक",
-          "तत्व का नाम"
+          "परमाणु क्रमांक"
         ],
         "en": [
+          "Element name",
           "Number of neutrons",
           "Number of protons",
-          "Atomic number",
-          "Element name"
+          "Atomic number"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: न्यूट्रॉन संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -291,19 +291,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक के बाहर ऊर्जा स्तरों में",
-          "नाभिक के भीतर",
           "केवल न्यूट्रॉन में",
-          "केवल प्रोटॉन में"
+          "केवल प्रोटॉन में",
+          "नाभिक के बाहर ऊर्जा स्तरों में",
+          "नाभिक के भीतर"
         ],
         "en": [
-          "In energy levels outside the nucleus",
-          "Inside the nucleus",
           "Only in neutrons",
-          "Only in protons"
+          "Only in protons",
+          "In energy levels outside the nucleus",
+          "Inside the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नाभिक के बाहर ऊर्जा स्तरों में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In energy levels outside the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -319,19 +319,19 @@
       },
       "options": {
         "hi": [
-          "2",
           "8",
           "18",
-          "32"
+          "32",
+          "2"
         ],
         "en": [
-          "2",
           "8",
           "18",
-          "32"
+          "32",
+          "2"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 2। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 2. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -375,19 +375,19 @@
       },
       "options": {
         "hi": [
+          "8 ऊर्जा स्तर",
           "बाहरी कक्षा में 8 इलेक्ट्रॉन",
           "नाभिक में 8 प्रोटॉन",
-          "कुल 8 न्यूट्रॉन",
-          "8 ऊर्जा स्तर"
+          "कुल 8 न्यूट्रॉन"
         ],
         "en": [
+          "8 energy levels",
           "8 electrons in the outer shell",
           "8 protons in nucleus",
-          "8 neutrons total",
-          "8 energy levels"
+          "8 neutrons total"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: बाहरी कक्षा में 8 इलेक्ट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 8 electrons in the outer shell. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -403,19 +403,19 @@
       },
       "options": {
         "hi": [
-          "सबसे बाहरी ऊर्जा स्तर में",
-          "नाभिक में",
           "K-शेल में हमेशा",
-          "न्यूट्रॉन के अंदर"
+          "न्यूट्रॉन के अंदर",
+          "सबसे बाहरी ऊर्जा स्तर में",
+          "नाभिक में"
         ],
         "en": [
-          "In the outermost energy level",
-          "In the nucleus",
           "Always in K shell",
-          "Inside neutrons"
+          "Inside neutrons",
+          "In the outermost energy level",
+          "In the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: सबसे बाहरी ऊर्जा स्तर में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In the outermost energy level. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -431,19 +431,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक की उपस्थिति",
           "न्यूट्रॉन की खोज",
           "क्वांटम संख्या",
-          "रासायनिक बंधन"
+          "रासायनिक बंधन",
+          "नाभिक की उपस्थिति"
         ],
         "en": [
-          "Presence of the nucleus",
           "Discovery of neutron",
           "Quantum number",
-          "Chemical bonding"
+          "Chemical bonding",
+          "Presence of the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नाभिक की उपस्थिति। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Presence of the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -487,19 +487,19 @@
       },
       "options": {
         "hi": [
+          "परमाणु से बाहर",
           "बहुत छोटा",
           "लगभग समान",
-          "बहुत बड़ा",
-          "परमाणु से बाहर"
+          "बहुत बड़ा"
         ],
         "en": [
+          "Outside the atom",
           "Very small",
           "Nearly the same",
-          "Very large",
-          "Outside the atom"
+          "Very large"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: बहुत छोटा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Very small. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -515,19 +515,19 @@
       },
       "options": {
         "hi": [
-          "रिक्त स्थान",
-          "ठोस द्रव्य",
           "न्यूट्रॉन",
-          "प्रोटॉन"
+          "प्रोटॉन",
+          "रिक्त स्थान",
+          "ठोस द्रव्य"
         ],
         "en": [
-          "Empty space",
-          "Solid matter",
           "Neutrons",
-          "Protons"
+          "Protons",
+          "Empty space",
+          "Solid matter"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रिक्त स्थान। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Empty space. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -543,19 +543,19 @@
       },
       "options": {
         "hi": [
-          "इलेक्ट्रॉन खोने या पाने से",
           "प्रोटॉन बदलने से सामान्यतः",
           "न्यूट्रॉन के पिघलने से",
-          "तत्व का नाम बदलने से"
+          "तत्व का नाम बदलने से",
+          "इलेक्ट्रॉन खोने या पाने से"
         ],
         "en": [
-          "By losing or gaining electrons",
           "Usually by changing protons",
           "By melting neutrons",
-          "By changing the element's name"
+          "By changing the element's name",
+          "By losing or gaining electrons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन खोने या पाने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By losing or gaining electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -599,19 +599,19 @@
       },
       "options": {
         "hi": [
+          "न्यूट्रॉन खोने से",
           "इलेक्ट्रॉन पाने से",
           "इलेक्ट्रॉन खोने से",
-          "प्रोटॉन पाने से",
-          "न्यूट्रॉन खोने से"
+          "प्रोटॉन पाने से"
         ],
         "en": [
+          "By losing neutrons",
           "By gaining electrons",
           "By losing electrons",
-          "By gaining protons",
-          "By losing neutrons"
+          "By gaining protons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन पाने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By gaining electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -627,19 +627,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉन और न्यूट्रॉन",
-          "प्रोटॉन और इलेक्ट्रॉन",
           "इलेक्ट्रॉन और न्यूट्रॉन",
-          "केवल इलेक्ट्रॉन"
+          "केवल इलेक्ट्रॉन",
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन"
         ],
         "en": [
-          "Protons and neutrons",
-          "Protons and electrons",
           "Electrons and neutrons",
-          "Only electrons"
+          "Only electrons",
+          "Protons and neutrons",
+          "Protons and electrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -655,19 +655,19 @@
       },
       "options": {
         "hi": [
-          "11",
           "10",
           "12",
-          "22"
+          "22",
+          "11"
         ],
         "en": [
-          "11",
           "10",
           "12",
-          "22"
+          "22",
+          "11"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 11। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 11. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -711,19 +711,19 @@
       },
       "options": {
         "hi": [
+          "0",
           "12",
           "6",
-          "18",
-          "0"
+          "18"
         ],
         "en": [
+          "0",
           "12",
           "6",
-          "18",
-          "0"
+          "18"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 12। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 12. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -739,19 +739,19 @@
       },
       "options": {
         "hi": [
-          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
-          "उनकी न्यूट्रॉन संख्या समान होती है",
           "उनकी द्रव्यमान संख्या समान होती है",
-          "उनके रंग समान होते हैं"
+          "उनके रंग समान होते हैं",
+          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
+          "उनकी न्यूट्रॉन संख्या समान होती है"
         ],
         "en": [
-          "They have the same electronic configuration",
-          "They have the same neutron number",
           "They have the same mass number",
-          "They have the same colour"
+          "They have the same colour",
+          "They have the same electronic configuration",
+          "They have the same neutron number"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उनकी इलेक्ट्रॉनिक संरचना समान होती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They have the same electronic configuration. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -767,19 +767,19 @@
       },
       "options": {
         "hi": [
-          "परमाणु क्रमांक",
           "द्रव्यमान संख्या",
           "न्यूट्रॉन संख्या",
-          "इलेक्ट्रॉन संख्या हमेशा"
+          "इलेक्ट्रॉन संख्या हमेशा",
+          "परमाणु क्रमांक"
         ],
         "en": [
-          "Atomic number",
           "Mass number",
           "Neutron number",
-          "Always electron number"
+          "Always electron number",
+          "Atomic number"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: परमाणु क्रमांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Atomic number. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -823,19 +823,19 @@
       },
       "options": {
         "hi": [
+          "केवल आयनों को",
           "नाभिक के कणों को",
           "केवल इलेक्ट्रॉनों को",
-          "केवल अणुओं को",
-          "केवल आयनों को"
+          "केवल अणुओं को"
         ],
         "en": [
+          "Only ions",
           "Particles in the nucleus",
           "Only electrons",
-          "Only molecules",
-          "Only ions"
+          "Only molecules"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नाभिक के कणों को। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Particles in the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -851,19 +851,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक",
-          "कक्षा",
           "इलेक्ट्रॉन बादल",
-          "संयोजकता"
+          "संयोजकता",
+          "नाभिक",
+          "कक्षा"
         ],
         "en": [
-          "Nucleus",
-          "Orbit",
           "Electron cloud",
-          "Valency"
+          "Valency",
+          "Nucleus",
+          "Orbit"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नाभिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -879,19 +879,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक",
           "कक्षा",
           "इलेक्ट्रॉन बादल",
-          "संयोजकता"
+          "संयोजकता",
+          "नाभिक"
         ],
         "en": [
-          "Nucleus",
           "Orbit",
           "Electron cloud",
-          "Valency"
+          "Valency",
+          "Nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नाभिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -935,19 +935,19 @@
       },
       "options": {
         "hi": [
+          "संयोजकता",
           "नाभिक",
           "कक्षा",
-          "इलेक्ट्रॉन बादल",
-          "संयोजकता"
+          "इलेक्ट्रॉन बादल"
         ],
         "en": [
+          "Valency",
           "Nucleus",
           "Orbit",
-          "Electron cloud",
-          "Valency"
+          "Electron cloud"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नाभिक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -963,19 +963,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉन और न्यूट्रॉन",
-          "इलेक्ट्रॉन और प्रोटॉन",
           "केवल इलेक्ट्रॉन",
-          "केवल न्यूट्रॉन"
+          "केवल न्यूट्रॉन",
+          "प्रोटॉन और न्यूट्रॉन",
+          "इलेक्ट्रॉन और प्रोटॉन"
         ],
         "en": [
-          "Protons and neutrons",
-          "Electrons and protons",
           "Only electrons",
-          "Only neutrons"
+          "Only neutrons",
+          "Protons and neutrons",
+          "Electrons and protons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -991,19 +991,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉन और न्यूट्रॉन",
           "इलेक्ट्रॉन और प्रोटॉन",
           "केवल इलेक्ट्रॉन",
-          "केवल न्यूट्रॉन"
+          "केवल न्यूट्रॉन",
+          "प्रोटॉन और न्यूट्रॉन"
         ],
         "en": [
-          "Protons and neutrons",
           "Electrons and protons",
           "Only electrons",
-          "Only neutrons"
+          "Only neutrons",
+          "Protons and neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1047,19 +1047,19 @@
       },
       "options": {
         "hi": [
+          "केवल न्यूट्रॉन",
           "प्रोटॉन और न्यूट्रॉन",
           "इलेक्ट्रॉन और प्रोटॉन",
-          "केवल इलेक्ट्रॉन",
-          "केवल न्यूट्रॉन"
+          "केवल इलेक्ट्रॉन"
         ],
         "en": [
+          "Only neutrons",
           "Protons and neutrons",
           "Electrons and protons",
-          "Only electrons",
-          "Only neutrons"
+          "Only electrons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1075,19 +1075,19 @@
       },
       "options": {
         "hi": [
-          "ऋणात्मक",
-          "धनात्मक",
           "उदासीन",
-          "परिवर्तनशील"
+          "परिवर्तनशील",
+          "ऋणात्मक",
+          "धनात्मक"
         ],
         "en": [
-          "Negative",
-          "Positive",
           "Neutral",
-          "Variable"
+          "Variable",
+          "Negative",
+          "Positive"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऋणात्मक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Negative. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1103,19 +1103,19 @@
       },
       "options": {
         "hi": [
-          "ऋणात्मक",
           "धनात्मक",
           "उदासीन",
-          "परिवर्तनशील"
+          "परिवर्तनशील",
+          "ऋणात्मक"
         ],
         "en": [
-          "Negative",
           "Positive",
           "Neutral",
-          "Variable"
+          "Variable",
+          "Negative"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऋणात्मक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Negative. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1159,19 +1159,19 @@
       },
       "options": {
         "hi": [
+          "परिवर्तनशील",
           "ऋणात्मक",
           "धनात्मक",
-          "उदासीन",
-          "परिवर्तनशील"
+          "उदासीन"
         ],
         "en": [
+          "Variable",
           "Negative",
           "Positive",
-          "Neutral",
-          "Variable"
+          "Neutral"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऋणात्मक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Negative. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1187,19 +1187,19 @@
       },
       "options": {
         "hi": [
-          "धनात्मक",
-          "ऋणात्मक",
           "उदासीन",
-          "कोई आवेश नहीं"
+          "कोई आवेश नहीं",
+          "धनात्मक",
+          "ऋणात्मक"
         ],
         "en": [
-          "Positive",
-          "Negative",
           "Neutral",
-          "No charge"
+          "No charge",
+          "Positive",
+          "Negative"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: धनात्मक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Positive. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1215,19 +1215,19 @@
       },
       "options": {
         "hi": [
-          "धनात्मक",
           "ऋणात्मक",
           "उदासीन",
-          "कोई आवेश नहीं"
+          "कोई आवेश नहीं",
+          "धनात्मक"
         ],
         "en": [
-          "Positive",
           "Negative",
           "Neutral",
-          "No charge"
+          "No charge",
+          "Positive"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: धनात्मक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Positive. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1271,19 +1271,19 @@
       },
       "options": {
         "hi": [
+          "कोई आवेश नहीं",
           "धनात्मक",
           "ऋणात्मक",
-          "उदासीन",
-          "कोई आवेश नहीं"
+          "उदासीन"
         ],
         "en": [
+          "No charge",
           "Positive",
           "Negative",
-          "Neutral",
-          "No charge"
+          "Neutral"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: धनात्मक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Positive. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1299,19 +1299,19 @@
       },
       "options": {
         "hi": [
-          "उदासीन",
-          "धनात्मक",
           "ऋणात्मक",
-          "दोगुना धनात्मक"
+          "दोगुना धनात्मक",
+          "उदासीन",
+          "धनात्मक"
         ],
         "en": [
-          "Neutral",
-          "Positive",
           "Negative",
-          "Doubly positive"
+          "Doubly positive",
+          "Neutral",
+          "Positive"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उदासीन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutral. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1327,19 +1327,19 @@
       },
       "options": {
         "hi": [
-          "उदासीन",
           "धनात्मक",
           "ऋणात्मक",
-          "दोगुना धनात्मक"
+          "दोगुना धनात्मक",
+          "उदासीन"
         ],
         "en": [
-          "Neutral",
           "Positive",
           "Negative",
-          "Doubly positive"
+          "Doubly positive",
+          "Neutral"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उदासीन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutral. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1383,19 +1383,19 @@
       },
       "options": {
         "hi": [
+          "दोगुना धनात्मक",
           "उदासीन",
           "धनात्मक",
-          "ऋणात्मक",
-          "दोगुना धनात्मक"
+          "ऋणात्मक"
         ],
         "en": [
+          "Doubly positive",
           "Neutral",
           "Positive",
-          "Negative",
-          "Doubly positive"
+          "Negative"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उदासीन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutral. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1411,19 +1411,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉनों की संख्या",
-          "न्यूट्रॉनों की संख्या",
           "कुल न्यूक्लिऑनों की संख्या",
-          "इलेक्ट्रॉन और न्यूट्रॉन का योग"
+          "इलेक्ट्रॉन और न्यूट्रॉन का योग",
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या"
         ],
         "en": [
-          "Number of protons",
-          "Number of neutrons",
           "Total nucleons",
-          "Electrons plus neutrons"
+          "Electrons plus neutrons",
+          "Number of protons",
+          "Number of neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉनों की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of protons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1439,19 +1439,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉनों की संख्या",
           "न्यूट्रॉनों की संख्या",
           "कुल न्यूक्लिऑनों की संख्या",
-          "इलेक्ट्रॉन और न्यूट्रॉन का योग"
+          "इलेक्ट्रॉन और न्यूट्रॉन का योग",
+          "प्रोटॉनों की संख्या"
         ],
         "en": [
-          "Number of protons",
           "Number of neutrons",
           "Total nucleons",
-          "Electrons plus neutrons"
+          "Electrons plus neutrons",
+          "Number of protons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉनों की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of protons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1495,19 +1495,19 @@
       },
       "options": {
         "hi": [
+          "इलेक्ट्रॉन और न्यूट्रॉन का योग",
           "प्रोटॉनों की संख्या",
           "न्यूट्रॉनों की संख्या",
-          "कुल न्यूक्लिऑनों की संख्या",
-          "इलेक्ट्रॉन और न्यूट्रॉन का योग"
+          "कुल न्यूक्लिऑनों की संख्या"
         ],
         "en": [
+          "Electrons plus neutrons",
           "Number of protons",
           "Number of neutrons",
-          "Total nucleons",
-          "Electrons plus neutrons"
+          "Total nucleons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉनों की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of protons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1523,19 +1523,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉन और न्यूट्रॉन",
-          "प्रोटॉन और इलेक्ट्रॉन",
           "इलेक्ट्रॉन और न्यूट्रॉन",
-          "केवल प्रोटॉन"
+          "केवल प्रोटॉन",
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन"
         ],
         "en": [
-          "Protons and neutrons",
-          "Protons and electrons",
           "Electrons and neutrons",
-          "Only protons"
+          "Only protons",
+          "Protons and neutrons",
+          "Protons and electrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1551,19 +1551,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉन और न्यूट्रॉन",
           "प्रोटॉन और इलेक्ट्रॉन",
           "इलेक्ट्रॉन और न्यूट्रॉन",
-          "केवल प्रोटॉन"
+          "केवल प्रोटॉन",
+          "प्रोटॉन और न्यूट्रॉन"
         ],
         "en": [
-          "Protons and neutrons",
           "Protons and electrons",
           "Electrons and neutrons",
-          "Only protons"
+          "Only protons",
+          "Protons and neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1607,19 +1607,19 @@
       },
       "options": {
         "hi": [
+          "केवल प्रोटॉन",
           "प्रोटॉन और न्यूट्रॉन",
           "प्रोटॉन और इलेक्ट्रॉन",
-          "इलेक्ट्रॉन और न्यूट्रॉन",
-          "केवल प्रोटॉन"
+          "इलेक्ट्रॉन और न्यूट्रॉन"
         ],
         "en": [
+          "Only protons",
           "Protons and neutrons",
           "Protons and electrons",
-          "Electrons and neutrons",
-          "Only protons"
+          "Electrons and neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1635,19 +1635,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉनों की संख्या",
-          "न्यूट्रॉनों की संख्या",
           "द्रव्यमान संख्या",
-          "नाभिकीय कणों की संख्या"
+          "नाभिकीय कणों की संख्या",
+          "प्रोटॉनों की संख्या",
+          "न्यूट्रॉनों की संख्या"
         ],
         "en": [
-          "Number of protons",
-          "Number of neutrons",
           "Mass number",
-          "Nucleons"
+          "Nucleons",
+          "Number of protons",
+          "Number of neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉनों की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of protons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1663,19 +1663,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉनों की संख्या",
           "न्यूट्रॉनों की संख्या",
           "द्रव्यमान संख्या",
-          "नाभिकीय कणों की संख्या"
+          "नाभिकीय कणों की संख्या",
+          "प्रोटॉनों की संख्या"
         ],
         "en": [
-          "Number of protons",
           "Number of neutrons",
           "Mass number",
-          "Nucleons"
+          "Nucleons",
+          "Number of protons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉनों की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of protons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1719,19 +1719,19 @@
       },
       "options": {
         "hi": [
+          "नाभिकीय कणों की संख्या",
           "प्रोटॉनों की संख्या",
           "न्यूट्रॉनों की संख्या",
-          "द्रव्यमान संख्या",
-          "नाभिकीय कणों की संख्या"
+          "द्रव्यमान संख्या"
         ],
         "en": [
+          "Nucleons",
           "Number of protons",
           "Number of neutrons",
-          "Mass number",
-          "Nucleons"
+          "Mass number"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉनों की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of protons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1747,19 +1747,19 @@
       },
       "options": {
         "hi": [
-          "परमाणु क्रमांक",
-          "द्रव्यमान संख्या",
           "न्यूट्रॉन संख्या",
-          "परमाणु द्रव्यमान हमेशा"
+          "परमाणु द्रव्यमान हमेशा",
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या"
         ],
         "en": [
-          "Atomic number",
-          "Mass number",
           "Neutron number",
-          "Always atomic mass"
+          "Always atomic mass",
+          "Atomic number",
+          "Mass number"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: परमाणु क्रमांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Atomic number. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1775,19 +1775,19 @@
       },
       "options": {
         "hi": [
-          "परमाणु क्रमांक",
           "द्रव्यमान संख्या",
           "न्यूट्रॉन संख्या",
-          "परमाणु द्रव्यमान हमेशा"
+          "परमाणु द्रव्यमान हमेशा",
+          "परमाणु क्रमांक"
         ],
         "en": [
-          "Atomic number",
           "Mass number",
           "Neutron number",
-          "Always atomic mass"
+          "Always atomic mass",
+          "Atomic number"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: परमाणु क्रमांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Atomic number. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1831,19 +1831,19 @@
       },
       "options": {
         "hi": [
+          "परमाणु द्रव्यमान हमेशा",
           "परमाणु क्रमांक",
           "द्रव्यमान संख्या",
-          "न्यूट्रॉन संख्या",
-          "परमाणु द्रव्यमान हमेशा"
+          "न्यूट्रॉन संख्या"
         ],
         "en": [
+          "Always atomic mass",
           "Atomic number",
           "Mass number",
-          "Neutron number",
-          "Always atomic mass"
+          "Neutron number"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: परमाणु क्रमांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Atomic number. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1859,19 +1859,19 @@
       },
       "options": {
         "hi": [
-          "न्यूट्रॉन संख्या",
-          "प्रोटॉन संख्या",
           "परमाणु क्रमांक",
-          "तत्व का नाम"
+          "तत्व का नाम",
+          "न्यूट्रॉन संख्या",
+          "प्रोटॉन संख्या"
         ],
         "en": [
-          "Number of neutrons",
-          "Number of protons",
           "Atomic number",
-          "Element name"
+          "Element name",
+          "Number of neutrons",
+          "Number of protons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: न्यूट्रॉन संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1887,19 +1887,19 @@
       },
       "options": {
         "hi": [
-          "न्यूट्रॉन संख्या",
           "प्रोटॉन संख्या",
           "परमाणु क्रमांक",
-          "तत्व का नाम"
+          "तत्व का नाम",
+          "न्यूट्रॉन संख्या"
         ],
         "en": [
-          "Number of neutrons",
           "Number of protons",
           "Atomic number",
-          "Element name"
+          "Element name",
+          "Number of neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: न्यूट्रॉन संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1943,19 +1943,19 @@
       },
       "options": {
         "hi": [
+          "तत्व का नाम",
           "न्यूट्रॉन संख्या",
           "प्रोटॉन संख्या",
-          "परमाणु क्रमांक",
-          "तत्व का नाम"
+          "परमाणु क्रमांक"
         ],
         "en": [
+          "Element name",
           "Number of neutrons",
           "Number of protons",
-          "Atomic number",
-          "Element name"
+          "Atomic number"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: न्यूट्रॉन संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1971,19 +1971,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक के बाहर ऊर्जा स्तरों में",
-          "नाभिक के भीतर",
           "केवल न्यूट्रॉन में",
-          "केवल प्रोटॉन में"
+          "केवल प्रोटॉन में",
+          "नाभिक के बाहर ऊर्जा स्तरों में",
+          "नाभिक के भीतर"
         ],
         "en": [
-          "In energy levels outside the nucleus",
-          "Inside the nucleus",
           "Only in neutrons",
-          "Only in protons"
+          "Only in protons",
+          "In energy levels outside the nucleus",
+          "Inside the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नाभिक के बाहर ऊर्जा स्तरों में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In energy levels outside the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1999,19 +1999,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक के बाहर ऊर्जा स्तरों में",
           "नाभिक के भीतर",
           "केवल न्यूट्रॉन में",
-          "केवल प्रोटॉन में"
+          "केवल प्रोटॉन में",
+          "नाभिक के बाहर ऊर्जा स्तरों में"
         ],
         "en": [
-          "In energy levels outside the nucleus",
           "Inside the nucleus",
           "Only in neutrons",
-          "Only in protons"
+          "Only in protons",
+          "In energy levels outside the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नाभिक के बाहर ऊर्जा स्तरों में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In energy levels outside the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2055,19 +2055,19 @@
       },
       "options": {
         "hi": [
+          "केवल प्रोटॉन में",
           "नाभिक के बाहर ऊर्जा स्तरों में",
           "नाभिक के भीतर",
-          "केवल न्यूट्रॉन में",
-          "केवल प्रोटॉन में"
+          "केवल न्यूट्रॉन में"
         ],
         "en": [
+          "Only in protons",
           "In energy levels outside the nucleus",
           "Inside the nucleus",
-          "Only in neutrons",
-          "Only in protons"
+          "Only in neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नाभिक के बाहर ऊर्जा स्तरों में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In energy levels outside the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2083,19 +2083,19 @@
       },
       "options": {
         "hi": [
-          "2",
-          "8",
           "18",
-          "32"
+          "32",
+          "2",
+          "8"
         ],
         "en": [
-          "2",
-          "8",
           "18",
-          "32"
+          "32",
+          "2",
+          "8"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 2। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 2. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2111,19 +2111,19 @@
       },
       "options": {
         "hi": [
-          "2",
           "8",
           "18",
-          "32"
+          "32",
+          "2"
         ],
         "en": [
-          "2",
           "8",
           "18",
-          "32"
+          "32",
+          "2"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 2। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 2. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2167,19 +2167,19 @@
       },
       "options": {
         "hi": [
+          "32",
           "2",
           "8",
-          "18",
-          "32"
+          "18"
         ],
         "en": [
+          "32",
           "2",
           "8",
-          "18",
-          "32"
+          "18"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 2। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 2. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2195,19 +2195,19 @@
       },
       "options": {
         "hi": [
-          "8",
-          "2",
           "18",
-          "32"
+          "32",
+          "8",
+          "2"
         ],
         "en": [
-          "8",
-          "2",
           "18",
-          "32"
+          "32",
+          "8",
+          "2"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 8। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 8. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2223,19 +2223,19 @@
       },
       "options": {
         "hi": [
-          "8",
           "2",
           "18",
-          "32"
+          "32",
+          "8"
         ],
         "en": [
-          "8",
           "2",
           "18",
-          "32"
+          "32",
+          "8"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 8। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 8. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2279,19 +2279,19 @@
       },
       "options": {
         "hi": [
+          "32",
           "8",
           "2",
-          "18",
-          "32"
+          "18"
         ],
         "en": [
+          "32",
           "8",
           "2",
-          "18",
-          "32"
+          "18"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 8। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 8. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2307,19 +2307,19 @@
       },
       "options": {
         "hi": [
-          "बाहरी कक्षा में 8 इलेक्ट्रॉन",
-          "नाभिक में 8 प्रोटॉन",
           "कुल 8 न्यूट्रॉन",
-          "8 ऊर्जा स्तर"
+          "8 ऊर्जा स्तर",
+          "बाहरी कक्षा में 8 इलेक्ट्रॉन",
+          "नाभिक में 8 प्रोटॉन"
         ],
         "en": [
-          "8 electrons in the outer shell",
-          "8 protons in nucleus",
           "8 neutrons total",
-          "8 energy levels"
+          "8 energy levels",
+          "8 electrons in the outer shell",
+          "8 protons in nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: बाहरी कक्षा में 8 इलेक्ट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 8 electrons in the outer shell. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2335,19 +2335,19 @@
       },
       "options": {
         "hi": [
-          "बाहरी कक्षा में 8 इलेक्ट्रॉन",
           "नाभिक में 8 प्रोटॉन",
           "कुल 8 न्यूट्रॉन",
-          "8 ऊर्जा स्तर"
+          "8 ऊर्जा स्तर",
+          "बाहरी कक्षा में 8 इलेक्ट्रॉन"
         ],
         "en": [
-          "8 electrons in the outer shell",
           "8 protons in nucleus",
           "8 neutrons total",
-          "8 energy levels"
+          "8 energy levels",
+          "8 electrons in the outer shell"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: बाहरी कक्षा में 8 इलेक्ट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 8 electrons in the outer shell. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2391,19 +2391,19 @@
       },
       "options": {
         "hi": [
+          "8 ऊर्जा स्तर",
           "बाहरी कक्षा में 8 इलेक्ट्रॉन",
           "नाभिक में 8 प्रोटॉन",
-          "कुल 8 न्यूट्रॉन",
-          "8 ऊर्जा स्तर"
+          "कुल 8 न्यूट्रॉन"
         ],
         "en": [
+          "8 energy levels",
           "8 electrons in the outer shell",
           "8 protons in nucleus",
-          "8 neutrons total",
-          "8 energy levels"
+          "8 neutrons total"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: बाहरी कक्षा में 8 इलेक्ट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 8 electrons in the outer shell. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2419,19 +2419,19 @@
       },
       "options": {
         "hi": [
-          "सबसे बाहरी ऊर्जा स्तर में",
-          "नाभिक में",
           "K-शेल में हमेशा",
-          "न्यूट्रॉन के अंदर"
+          "न्यूट्रॉन के अंदर",
+          "सबसे बाहरी ऊर्जा स्तर में",
+          "नाभिक में"
         ],
         "en": [
-          "In the outermost energy level",
-          "In the nucleus",
           "Always in K shell",
-          "Inside neutrons"
+          "Inside neutrons",
+          "In the outermost energy level",
+          "In the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: सबसे बाहरी ऊर्जा स्तर में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In the outermost energy level. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2447,19 +2447,19 @@
       },
       "options": {
         "hi": [
-          "सबसे बाहरी ऊर्जा स्तर में",
           "नाभिक में",
           "K-शेल में हमेशा",
-          "न्यूट्रॉन के अंदर"
+          "न्यूट्रॉन के अंदर",
+          "सबसे बाहरी ऊर्जा स्तर में"
         ],
         "en": [
-          "In the outermost energy level",
           "In the nucleus",
           "Always in K shell",
-          "Inside neutrons"
+          "Inside neutrons",
+          "In the outermost energy level"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: सबसे बाहरी ऊर्जा स्तर में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In the outermost energy level. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2503,19 +2503,19 @@
       },
       "options": {
         "hi": [
+          "न्यूट्रॉन के अंदर",
           "सबसे बाहरी ऊर्जा स्तर में",
           "नाभिक में",
-          "K-शेल में हमेशा",
-          "न्यूट्रॉन के अंदर"
+          "K-शेल में हमेशा"
         ],
         "en": [
+          "Inside neutrons",
           "In the outermost energy level",
           "In the nucleus",
-          "Always in K shell",
-          "Inside neutrons"
+          "Always in K shell"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: सबसे बाहरी ऊर्जा स्तर में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In the outermost energy level. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2531,19 +2531,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक की उपस्थिति",
-          "न्यूट्रॉन की खोज",
           "क्वांटम संख्या",
-          "रासायनिक बंधन"
+          "रासायनिक बंधन",
+          "नाभिक की उपस्थिति",
+          "न्यूट्रॉन की खोज"
         ],
         "en": [
-          "Presence of the nucleus",
-          "Discovery of neutron",
           "Quantum number",
-          "Chemical bonding"
+          "Chemical bonding",
+          "Presence of the nucleus",
+          "Discovery of neutron"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नाभिक की उपस्थिति। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Presence of the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2559,19 +2559,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक की उपस्थिति",
           "न्यूट्रॉन की खोज",
           "क्वांटम संख्या",
-          "रासायनिक बंधन"
+          "रासायनिक बंधन",
+          "नाभिक की उपस्थिति"
         ],
         "en": [
-          "Presence of the nucleus",
           "Discovery of neutron",
           "Quantum number",
-          "Chemical bonding"
+          "Chemical bonding",
+          "Presence of the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नाभिक की उपस्थिति। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Presence of the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2615,19 +2615,19 @@
       },
       "options": {
         "hi": [
+          "रासायनिक बंधन",
           "नाभिक की उपस्थिति",
           "न्यूट्रॉन की खोज",
-          "क्वांटम संख्या",
-          "रासायनिक बंधन"
+          "क्वांटम संख्या"
         ],
         "en": [
+          "Chemical bonding",
           "Presence of the nucleus",
           "Discovery of neutron",
-          "Quantum number",
-          "Chemical bonding"
+          "Quantum number"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नाभिक की उपस्थिति। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Presence of the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2643,19 +2643,19 @@
       },
       "options": {
         "hi": [
-          "निश्चित ऊर्जा स्तरों में",
-          "नाभिक के भीतर",
           "किसी भी ऊर्जा पर",
-          "केवल सतह पर"
+          "केवल सतह पर",
+          "निश्चित ऊर्जा स्तरों में",
+          "नाभिक के भीतर"
         ],
         "en": [
-          "In fixed energy levels",
-          "Inside the nucleus",
           "At any energy",
-          "Only on the surface"
+          "Only on the surface",
+          "In fixed energy levels",
+          "Inside the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: निश्चित ऊर्जा स्तरों में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In fixed energy levels. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2671,19 +2671,19 @@
       },
       "options": {
         "hi": [
-          "निश्चित ऊर्जा स्तरों में",
           "नाभिक के भीतर",
           "किसी भी ऊर्जा पर",
-          "केवल सतह पर"
+          "केवल सतह पर",
+          "निश्चित ऊर्जा स्तरों में"
         ],
         "en": [
-          "In fixed energy levels",
           "Inside the nucleus",
           "At any energy",
-          "Only on the surface"
+          "Only on the surface",
+          "In fixed energy levels"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: निश्चित ऊर्जा स्तरों में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In fixed energy levels. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2727,19 +2727,19 @@
       },
       "options": {
         "hi": [
+          "केवल सतह पर",
           "निश्चित ऊर्जा स्तरों में",
           "नाभिक के भीतर",
-          "किसी भी ऊर्जा पर",
-          "केवल सतह पर"
+          "किसी भी ऊर्जा पर"
         ],
         "en": [
+          "Only on the surface",
           "In fixed energy levels",
           "Inside the nucleus",
-          "At any energy",
-          "Only on the surface"
+          "At any energy"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: निश्चित ऊर्जा स्तरों में। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: In fixed energy levels. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2755,19 +2755,19 @@
       },
       "options": {
         "hi": [
-          "बहुत छोटा",
-          "लगभग समान",
           "बहुत बड़ा",
-          "परमाणु से बाहर"
+          "परमाणु से बाहर",
+          "बहुत छोटा",
+          "लगभग समान"
         ],
         "en": [
-          "Very small",
-          "Nearly the same",
           "Very large",
-          "Outside the atom"
+          "Outside the atom",
+          "Very small",
+          "Nearly the same"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: बहुत छोटा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Very small. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2783,19 +2783,19 @@
       },
       "options": {
         "hi": [
-          "बहुत छोटा",
           "लगभग समान",
           "बहुत बड़ा",
-          "परमाणु से बाहर"
+          "परमाणु से बाहर",
+          "बहुत छोटा"
         ],
         "en": [
-          "Very small",
           "Nearly the same",
           "Very large",
-          "Outside the atom"
+          "Outside the atom",
+          "Very small"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: बहुत छोटा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Very small. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2839,19 +2839,19 @@
       },
       "options": {
         "hi": [
+          "परमाणु से बाहर",
           "बहुत छोटा",
           "लगभग समान",
-          "बहुत बड़ा",
-          "परमाणु से बाहर"
+          "बहुत बड़ा"
         ],
         "en": [
+          "Outside the atom",
           "Very small",
           "Nearly the same",
-          "Very large",
-          "Outside the atom"
+          "Very large"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: बहुत छोटा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Very small. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2867,19 +2867,19 @@
       },
       "options": {
         "hi": [
-          "रिक्त स्थान",
-          "ठोस द्रव्य",
           "न्यूट्रॉन",
-          "प्रोटॉन"
+          "प्रोटॉन",
+          "रिक्त स्थान",
+          "ठोस द्रव्य"
         ],
         "en": [
-          "Empty space",
-          "Solid matter",
           "Neutrons",
-          "Protons"
+          "Protons",
+          "Empty space",
+          "Solid matter"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रिक्त स्थान। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Empty space. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2895,19 +2895,19 @@
       },
       "options": {
         "hi": [
-          "रिक्त स्थान",
           "ठोस द्रव्य",
           "न्यूट्रॉन",
-          "प्रोटॉन"
+          "प्रोटॉन",
+          "रिक्त स्थान"
         ],
         "en": [
-          "Empty space",
           "Solid matter",
           "Neutrons",
-          "Protons"
+          "Protons",
+          "Empty space"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: रिक्त स्थान। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Empty space. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2951,19 +2951,19 @@
       },
       "options": {
         "hi": [
+          "प्रोटॉन",
           "रिक्त स्थान",
           "ठोस द्रव्य",
-          "न्यूट्रॉन",
-          "प्रोटॉन"
+          "न्यूट्रॉन"
         ],
         "en": [
+          "Protons",
           "Empty space",
           "Solid matter",
-          "Neutrons",
-          "Protons"
+          "Neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: रिक्त स्थान। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Empty space. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2979,19 +2979,19 @@
       },
       "options": {
         "hi": [
-          "इलेक्ट्रॉन खोने या पाने से",
-          "प्रोटॉन बदलने से सामान्यतः",
           "न्यूट्रॉन के पिघलने से",
-          "तत्व का नाम बदलने से"
+          "तत्व का नाम बदलने से",
+          "इलेक्ट्रॉन खोने या पाने से",
+          "प्रोटॉन बदलने से सामान्यतः"
         ],
         "en": [
-          "By losing or gaining electrons",
-          "Usually by changing protons",
           "By melting neutrons",
-          "By changing the element's name"
+          "By changing the element's name",
+          "By losing or gaining electrons",
+          "Usually by changing protons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन खोने या पाने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By losing or gaining electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3007,19 +3007,19 @@
       },
       "options": {
         "hi": [
-          "इलेक्ट्रॉन खोने या पाने से",
           "प्रोटॉन बदलने से सामान्यतः",
           "न्यूट्रॉन के पिघलने से",
-          "तत्व का नाम बदलने से"
+          "तत्व का नाम बदलने से",
+          "इलेक्ट्रॉन खोने या पाने से"
         ],
         "en": [
-          "By losing or gaining electrons",
           "Usually by changing protons",
           "By melting neutrons",
-          "By changing the element's name"
+          "By changing the element's name",
+          "By losing or gaining electrons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन खोने या पाने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By losing or gaining electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3063,19 +3063,19 @@
       },
       "options": {
         "hi": [
+          "तत्व का नाम बदलने से",
           "इलेक्ट्रॉन खोने या पाने से",
           "प्रोटॉन बदलने से सामान्यतः",
-          "न्यूट्रॉन के पिघलने से",
-          "तत्व का नाम बदलने से"
+          "न्यूट्रॉन के पिघलने से"
         ],
         "en": [
+          "By changing the element's name",
           "By losing or gaining electrons",
           "Usually by changing protons",
-          "By melting neutrons",
-          "By changing the element's name"
+          "By melting neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन खोने या पाने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By losing or gaining electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3091,19 +3091,19 @@
       },
       "options": {
         "hi": [
-          "इलेक्ट्रॉन खोने से",
-          "इलेक्ट्रॉन पाने से",
           "प्रोटॉन खोने से",
-          "न्यूट्रॉन पाने से"
+          "न्यूट्रॉन पाने से",
+          "इलेक्ट्रॉन खोने से",
+          "इलेक्ट्रॉन पाने से"
         ],
         "en": [
-          "By losing electrons",
-          "By gaining electrons",
           "By losing protons",
-          "By gaining neutrons"
+          "By gaining neutrons",
+          "By losing electrons",
+          "By gaining electrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन खोने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By losing electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3119,19 +3119,19 @@
       },
       "options": {
         "hi": [
-          "इलेक्ट्रॉन खोने से",
           "इलेक्ट्रॉन पाने से",
           "प्रोटॉन खोने से",
-          "न्यूट्रॉन पाने से"
+          "न्यूट्रॉन पाने से",
+          "इलेक्ट्रॉन खोने से"
         ],
         "en": [
-          "By losing electrons",
           "By gaining electrons",
           "By losing protons",
-          "By gaining neutrons"
+          "By gaining neutrons",
+          "By losing electrons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन खोने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By losing electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3175,19 +3175,19 @@
       },
       "options": {
         "hi": [
+          "न्यूट्रॉन पाने से",
           "इलेक्ट्रॉन खोने से",
           "इलेक्ट्रॉन पाने से",
-          "प्रोटॉन खोने से",
-          "न्यूट्रॉन पाने से"
+          "प्रोटॉन खोने से"
         ],
         "en": [
+          "By gaining neutrons",
           "By losing electrons",
           "By gaining electrons",
-          "By losing protons",
-          "By gaining neutrons"
+          "By losing protons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन खोने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By losing electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3203,19 +3203,19 @@
       },
       "options": {
         "hi": [
-          "इलेक्ट्रॉन पाने से",
-          "इलेक्ट्रॉन खोने से",
           "प्रोटॉन पाने से",
-          "न्यूट्रॉन खोने से"
+          "न्यूट्रॉन खोने से",
+          "इलेक्ट्रॉन पाने से",
+          "इलेक्ट्रॉन खोने से"
         ],
         "en": [
-          "By gaining electrons",
-          "By losing electrons",
           "By gaining protons",
-          "By losing neutrons"
+          "By losing neutrons",
+          "By gaining electrons",
+          "By losing electrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन पाने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By gaining electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3231,19 +3231,19 @@
       },
       "options": {
         "hi": [
-          "इलेक्ट्रॉन पाने से",
           "इलेक्ट्रॉन खोने से",
           "प्रोटॉन पाने से",
-          "न्यूट्रॉन खोने से"
+          "न्यूट्रॉन खोने से",
+          "इलेक्ट्रॉन पाने से"
         ],
         "en": [
-          "By gaining electrons",
           "By losing electrons",
           "By gaining protons",
-          "By losing neutrons"
+          "By losing neutrons",
+          "By gaining electrons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन पाने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By gaining electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3287,19 +3287,19 @@
       },
       "options": {
         "hi": [
+          "न्यूट्रॉन खोने से",
           "इलेक्ट्रॉन पाने से",
           "इलेक्ट्रॉन खोने से",
-          "प्रोटॉन पाने से",
-          "न्यूट्रॉन खोने से"
+          "प्रोटॉन पाने से"
         ],
         "en": [
+          "By losing neutrons",
           "By gaining electrons",
           "By losing electrons",
-          "By gaining protons",
-          "By losing neutrons"
+          "By gaining protons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: इलेक्ट्रॉन पाने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By gaining electrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3315,19 +3315,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉन और न्यूट्रॉन",
-          "प्रोटॉन और इलेक्ट्रॉन",
           "इलेक्ट्रॉन और न्यूट्रॉन",
-          "केवल इलेक्ट्रॉन"
+          "केवल इलेक्ट्रॉन",
+          "प्रोटॉन और न्यूट्रॉन",
+          "प्रोटॉन और इलेक्ट्रॉन"
         ],
         "en": [
-          "Protons and neutrons",
-          "Protons and electrons",
           "Electrons and neutrons",
-          "Only electrons"
+          "Only electrons",
+          "Protons and neutrons",
+          "Protons and electrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3343,19 +3343,19 @@
       },
       "options": {
         "hi": [
-          "प्रोटॉन और न्यूट्रॉन",
           "प्रोटॉन और इलेक्ट्रॉन",
           "इलेक्ट्रॉन और न्यूट्रॉन",
-          "केवल इलेक्ट्रॉन"
+          "केवल इलेक्ट्रॉन",
+          "प्रोटॉन और न्यूट्रॉन"
         ],
         "en": [
-          "Protons and neutrons",
           "Protons and electrons",
           "Electrons and neutrons",
-          "Only electrons"
+          "Only electrons",
+          "Protons and neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3399,19 +3399,19 @@
       },
       "options": {
         "hi": [
+          "केवल इलेक्ट्रॉन",
           "प्रोटॉन और न्यूट्रॉन",
           "प्रोटॉन और इलेक्ट्रॉन",
-          "इलेक्ट्रॉन और न्यूट्रॉन",
-          "केवल इलेक्ट्रॉन"
+          "इलेक्ट्रॉन और न्यूट्रॉन"
         ],
         "en": [
+          "Only electrons",
           "Protons and neutrons",
           "Protons and electrons",
-          "Electrons and neutrons",
-          "Only electrons"
+          "Electrons and neutrons"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: प्रोटॉन और न्यूट्रॉन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Protons and neutrons. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3427,19 +3427,19 @@
       },
       "options": {
         "hi": [
-          "11",
-          "10",
           "12",
-          "22"
+          "22",
+          "11",
+          "10"
         ],
         "en": [
-          "11",
-          "10",
           "12",
-          "22"
+          "22",
+          "11",
+          "10"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 11। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 11. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3455,19 +3455,19 @@
       },
       "options": {
         "hi": [
-          "11",
           "10",
           "12",
-          "22"
+          "22",
+          "11"
         ],
         "en": [
-          "11",
           "10",
           "12",
-          "22"
+          "22",
+          "11"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 11। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 11. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3511,19 +3511,19 @@
       },
       "options": {
         "hi": [
+          "22",
           "11",
           "10",
-          "12",
-          "22"
+          "12"
         ],
         "en": [
+          "22",
           "11",
           "10",
-          "12",
-          "22"
+          "12"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 11। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 11. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3539,19 +3539,19 @@
       },
       "options": {
         "hi": [
-          "17",
-          "16",
           "18",
-          "34"
+          "34",
+          "17",
+          "16"
         ],
         "en": [
-          "17",
-          "16",
           "18",
-          "34"
+          "34",
+          "17",
+          "16"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 17। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 17. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3567,19 +3567,19 @@
       },
       "options": {
         "hi": [
-          "17",
           "16",
           "18",
-          "34"
+          "34",
+          "17"
         ],
         "en": [
-          "17",
           "16",
           "18",
-          "34"
+          "34",
+          "17"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 17। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 17. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3623,19 +3623,19 @@
       },
       "options": {
         "hi": [
+          "34",
           "17",
           "16",
-          "18",
-          "34"
+          "18"
         ],
         "en": [
+          "34",
           "17",
           "16",
-          "18",
-          "34"
+          "18"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 17। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 17. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3651,19 +3651,19 @@
       },
       "options": {
         "hi": [
-          "12",
-          "6",
           "18",
-          "0"
+          "0",
+          "12",
+          "6"
         ],
         "en": [
-          "12",
-          "6",
           "18",
-          "0"
+          "0",
+          "12",
+          "6"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 12। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 12. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3679,19 +3679,19 @@
       },
       "options": {
         "hi": [
-          "12",
           "6",
           "18",
-          "0"
+          "0",
+          "12"
         ],
         "en": [
-          "12",
           "6",
           "18",
-          "0"
+          "0",
+          "12"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 12। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 12. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3735,19 +3735,19 @@
       },
       "options": {
         "hi": [
+          "0",
           "12",
           "6",
-          "18",
-          "0"
+          "18"
         ],
         "en": [
+          "0",
           "12",
           "6",
-          "18",
-          "0"
+          "18"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 12। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 12. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3763,19 +3763,19 @@
       },
       "options": {
         "hi": [
-          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
-          "उनकी न्यूट्रॉन संख्या समान होती है",
           "उनकी द्रव्यमान संख्या समान होती है",
-          "उनके रंग समान होते हैं"
+          "उनके रंग समान होते हैं",
+          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
+          "उनकी न्यूट्रॉन संख्या समान होती है"
         ],
         "en": [
-          "They have the same electronic configuration",
-          "They have the same neutron number",
           "They have the same mass number",
-          "They have the same colour"
+          "They have the same colour",
+          "They have the same electronic configuration",
+          "They have the same neutron number"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उनकी इलेक्ट्रॉनिक संरचना समान होती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They have the same electronic configuration. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3791,19 +3791,19 @@
       },
       "options": {
         "hi": [
-          "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
           "उनकी न्यूट्रॉन संख्या समान होती है",
           "उनकी द्रव्यमान संख्या समान होती है",
-          "उनके रंग समान होते हैं"
+          "उनके रंग समान होते हैं",
+          "उनकी इलेक्ट्रॉनिक संरचना समान होती है"
         ],
         "en": [
-          "They have the same electronic configuration",
           "They have the same neutron number",
           "They have the same mass number",
-          "They have the same colour"
+          "They have the same colour",
+          "They have the same electronic configuration"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उनकी इलेक्ट्रॉनिक संरचना समान होती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They have the same electronic configuration. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3847,19 +3847,19 @@
       },
       "options": {
         "hi": [
+          "उनके रंग समान होते हैं",
           "उनकी इलेक्ट्रॉनिक संरचना समान होती है",
           "उनकी न्यूट्रॉन संख्या समान होती है",
-          "उनकी द्रव्यमान संख्या समान होती है",
-          "उनके रंग समान होते हैं"
+          "उनकी द्रव्यमान संख्या समान होती है"
         ],
         "en": [
+          "They have the same colour",
           "They have the same electronic configuration",
           "They have the same neutron number",
-          "They have the same mass number",
-          "They have the same colour"
+          "They have the same mass number"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उनकी इलेक्ट्रॉनिक संरचना समान होती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They have the same electronic configuration. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3875,19 +3875,19 @@
       },
       "options": {
         "hi": [
-          "परमाणु क्रमांक",
-          "द्रव्यमान संख्या",
           "न्यूट्रॉन संख्या",
-          "इलेक्ट्रॉन संख्या हमेशा"
+          "इलेक्ट्रॉन संख्या हमेशा",
+          "परमाणु क्रमांक",
+          "द्रव्यमान संख्या"
         ],
         "en": [
-          "Atomic number",
-          "Mass number",
           "Neutron number",
-          "Always electron number"
+          "Always electron number",
+          "Atomic number",
+          "Mass number"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: परमाणु क्रमांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Atomic number. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3903,19 +3903,19 @@
       },
       "options": {
         "hi": [
-          "परमाणु क्रमांक",
           "द्रव्यमान संख्या",
           "न्यूट्रॉन संख्या",
-          "इलेक्ट्रॉन संख्या हमेशा"
+          "इलेक्ट्रॉन संख्या हमेशा",
+          "परमाणु क्रमांक"
         ],
         "en": [
-          "Atomic number",
           "Mass number",
           "Neutron number",
-          "Always electron number"
+          "Always electron number",
+          "Atomic number"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: परमाणु क्रमांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Atomic number. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3959,19 +3959,19 @@
       },
       "options": {
         "hi": [
+          "इलेक्ट्रॉन संख्या हमेशा",
           "परमाणु क्रमांक",
           "द्रव्यमान संख्या",
-          "न्यूट्रॉन संख्या",
-          "इलेक्ट्रॉन संख्या हमेशा"
+          "न्यूट्रॉन संख्या"
         ],
         "en": [
+          "Always electron number",
           "Atomic number",
           "Mass number",
-          "Neutron number",
-          "Always electron number"
+          "Neutron number"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: परमाणु क्रमांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Atomic number. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3987,19 +3987,19 @@
       },
       "options": {
         "hi": [
-          "बहुत कम",
-          "अधिक",
           "समान",
-          "शून्य से अधिक नहीं"
+          "शून्य से अधिक नहीं",
+          "बहुत कम",
+          "अधिक"
         ],
         "en": [
-          "Much smaller",
-          "Greater",
           "Equal",
-          "Not greater than zero"
+          "Not greater than zero",
+          "Much smaller",
+          "Greater"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: बहुत कम। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Much smaller. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4015,19 +4015,19 @@
       },
       "options": {
         "hi": [
-          "बहुत कम",
           "अधिक",
           "समान",
-          "शून्य से अधिक नहीं"
+          "शून्य से अधिक नहीं",
+          "बहुत कम"
         ],
         "en": [
-          "Much smaller",
           "Greater",
           "Equal",
-          "Not greater than zero"
+          "Not greater than zero",
+          "Much smaller"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: बहुत कम। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Much smaller. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4071,19 +4071,19 @@
       },
       "options": {
         "hi": [
+          "शून्य से अधिक नहीं",
           "बहुत कम",
           "अधिक",
-          "समान",
-          "शून्य से अधिक नहीं"
+          "समान"
         ],
         "en": [
+          "Not greater than zero",
           "Much smaller",
           "Greater",
-          "Equal",
-          "Not greater than zero"
+          "Equal"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: बहुत कम। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Much smaller. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4099,19 +4099,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक के कणों को",
-          "केवल इलेक्ट्रॉनों को",
           "केवल अणुओं को",
-          "केवल आयनों को"
+          "केवल आयनों को",
+          "नाभिक के कणों को",
+          "केवल इलेक्ट्रॉनों को"
         ],
         "en": [
-          "Particles in the nucleus",
-          "Only electrons",
           "Only molecules",
-          "Only ions"
+          "Only ions",
+          "Particles in the nucleus",
+          "Only electrons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नाभिक के कणों को। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Particles in the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4127,19 +4127,19 @@
       },
       "options": {
         "hi": [
-          "नाभिक के कणों को",
           "केवल इलेक्ट्रॉनों को",
           "केवल अणुओं को",
-          "केवल आयनों को"
+          "केवल आयनों को",
+          "नाभिक के कणों को"
         ],
         "en": [
-          "Particles in the nucleus",
           "Only electrons",
           "Only molecules",
-          "Only ions"
+          "Only ions",
+          "Particles in the nucleus"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नाभिक के कणों को। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Particles in the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4183,19 +4183,19 @@
       },
       "options": {
         "hi": [
+          "केवल आयनों को",
           "नाभिक के कणों को",
           "केवल इलेक्ट्रॉनों को",
-          "केवल अणुओं को",
-          "केवल आयनों को"
+          "केवल अणुओं को"
         ],
         "en": [
+          "Only ions",
           "Particles in the nucleus",
           "Only electrons",
-          "Only molecules",
-          "Only ions"
+          "Only molecules"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नाभिक के कणों को। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Particles in the nucleus. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
