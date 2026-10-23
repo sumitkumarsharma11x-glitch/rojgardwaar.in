@@ -24,7 +24,7 @@
   "notes": {
     "hi": {
       "concept": "परमाणु के केंद्र में प्रोटॉन और न्यूट्रॉन वाला नाभिक होता है तथा इलेक्ट्रॉन उसके आसपास ऊर्जा स्तरों में पाए जाते हैं। परमाणु क्रमांक प्रोटॉन संख्या है और द्रव्यमान संख्या प्रोटॉन तथा न्यूट्रॉन का योग है।",
-      "example": "उदासीन परमाणु में प्रोटॉन और इलेक्ट्रॉन की संख्या समान होती है।",
+      "example": "उदासीन परमाणु में प्रोटॉन और इलेक्ट्रॉन की संख्या बराबर होती है। यदि किसी परमाणु में 11 प्रोटॉन और 12 न्यूट्रॉन हों, तो उसका परमाणु क्रमांक 11 और द्रव्यमान संख्या 23 होगी।",
       "sections": [
         {
           "heading": "परमाणु की संरचना",
@@ -48,14 +48,17 @@
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और सूत्र याद रखें",
-        "अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़कर विकल्प चुनें"
+        "प्रोटॉन धनात्मक, इलेक्ट्रॉन ऋणात्मक और न्यूट्रॉन उदासीन होता है।",
+        "परमाणु क्रमांक = प्रोटॉनों की संख्या।",
+        "द्रव्यमान संख्या = प्रोटॉन + न्यूट्रॉन।",
+        "उदासीन परमाणु में प्रोटॉन और इलेक्ट्रॉन बराबर होते हैं।",
+        "समस्थानिकों का परमाणु क्रमांक समान, लेकिन न्यूट्रॉन और द्रव्यमान संख्या अलग होती है।"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "प्रोटॉन, न्यूट्रॉन और इलेक्ट्रॉन के आवेश",
+        "परमाणु क्रमांक और द्रव्यमान संख्या की गणना",
+        "समस्थानिक और समभारिक में अंतर",
+        "बोह्र मॉडल में इलेक्ट्रॉन विन्यास"
       ],
       "examTraps": [
         "परमाणु क्रमांक प्रोटॉन की संख्या है, न्यूट्रॉन की नहीं।",
@@ -79,7 +82,7 @@
     },
     "en": {
       "concept": "An atom has a central nucleus containing protons and neutrons, while electrons are present around the nucleus in energy levels. The atomic number is the number of protons, and the mass number is the total number of protons and neutrons.",
-      "example": "Study Structure of the Atom with definitions, examples, comparisons and applications so that the concept can be used to solve unfamiliar questions.",
+      "example": "A neutral atom has equal numbers of protons and electrons. An atom with 11 protons and 12 neutrons has atomic number 11 and mass number 23.",
       "sections": [
         {
           "heading": "Structure of the atom",
@@ -103,16 +106,17 @@
         }
       ],
       "keyPoints": [
-        "Understand the core idea of Structure of the Atom.",
-        "Connect each major concept with an example.",
-        "Distinguish closely related terms and processes.",
-        "Apply the concept to simple real-life or exam situations."
+        "Protons are positive, electrons are negative and neutrons have no charge.",
+        "Atomic number equals the number of protons.",
+        "Mass number equals protons plus neutrons.",
+        "A neutral atom has equal numbers of protons and electrons.",
+        "Isotopes have the same atomic number but different neutron counts and mass numbers."
       ],
       "examFocus": [
-        "Core definitions and concepts",
-        "Important properties and examples",
-        "Comparison and reasoning questions",
-        "Application-based questions"
+        "Charges of protons, neutrons and electrons",
+        "Calculating atomic number and mass number",
+        "Distinguishing isotopes from isobars",
+        "Electron arrangement in the Bohr model"
       ],
       "examTraps": [
         "Do not choose an answer only because a familiar keyword appears.",
