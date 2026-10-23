@@ -24,8 +24,10 @@
   let bank = [];
 
   let activeTab =
-    openParam === "practice-wrong"
+    openParam === "practice" || openParam === "practice-wrong"
       ? "practice"
+      : openParam === "mocktests"
+      ? "mocktests"
       : "notes";
 
   let practiceMode =
