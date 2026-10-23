@@ -333,7 +333,7 @@
       "correct": 3,
       "explanation": {
         "hi": "हाथ का बल मिट्टी का आकार बदल देता है।",
-        "en": "The hand's force changes the clay's shape."
+        "en": "For “A potter presses the clay and its shape changes — this shows that —,” “Force can change shape” matches the relevant physical quantity or rule. “Force changes mass and Force changes colour” are different quantities or conditions, so they should not be substituted here."
       }
     },
     {
@@ -2152,8 +2152,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "द्वितीय नियम: बल = द्रव्यमान × त्वरण।",
-        "en": "Second law: force = mass × acceleration."
+        "hi": "प्रश्न “न्यूटन के द्वितीय नियम का गणितीय रूप क्या है” में “F = ma” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “F = mv और F = m/v” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
+        "en": "For “What is the mathematical form of Newton's second law,” “F = ma” matches the relevant physical quantity or rule. “F = mv and F = m/v” are different quantities or conditions, so they should not be substituted here."
       }
     },
     {
@@ -2460,7 +2460,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "बल का SI मात्रक न्यूटन है।",
+        "hi": "प्रश्न “न्यूटन (N) किस भौतिक राशि का मात्रक है” में “बल” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “द्रव्यमान और संवेग” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
         "en": "The SI unit of force is the newton."
       }
     },
@@ -2516,8 +2516,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "m स्थिर हो तो a ∝ F।",
-        "en": "With m fixed, a ∝ F."
+        "hi": "प्रश्न “a = F/m के अनुसार त्वरण किसके समानुपाती है” में “लगाए गए बल के” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “आयतन के और द्रव्यमान के” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
+        "en": "For “According to a = F/m, the acceleration is proportional to —,” “The applied force” matches the relevant physical quantity or rule. “The volume and The mass” are different quantities or conditions, so they should not be substituted here."
       }
     },
     {
@@ -2656,8 +2656,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "a = 12/6 = 2 m/s²।",
-        "en": "a = 12/6 = 2 m/s²."
+        "hi": "बल धक्का या खिंचाव है जो गति, दिशा या आकार बदल सकता है; संतुलित बलों का कुल प्रभाव शून्य हो सकता है।",
+        "en": "A force is a push or pull that can change motion, direction or shape; balanced forces can have zero net effect."
       }
     },
     {
@@ -3468,8 +3468,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "धारावाहिक आकार द्रव/वायु का प्रतिरोध घटाता है।",
-        "en": "A streamlined shape cuts down fluid resistance."
+        "hi": "प्रश्न “मछलियों और विमानों का धारावाहिक (streamlined) आकार किसलिए है” में “वायु/जल का घर्षण घटाने के लिए” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “घर्षण बढ़ाने के लिए और सुंदर दिखने के लिए” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
+        "en": "For “Why do fish and aircraft have streamlined shapes,” “To reduce friction with air/water” matches the relevant physical quantity or rule. “To increase friction and To look beautiful” are different quantities or conditions, so they should not be substituted here."
       }
     },
     {
@@ -3889,7 +3889,7 @@
       "correct": 2,
       "explanation": {
         "hi": "12 − 5 = 7 N आगे की ओर।",
-        "en": "12 − 5 = 7 N forward."
+        "en": "A force is a push or pull that can change motion, direction or shape; balanced forces can have zero net effect."
       }
     },
     {
