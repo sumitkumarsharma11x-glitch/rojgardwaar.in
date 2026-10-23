@@ -15,7 +15,50 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "animal-diversity",
+      "name": {
+        "hi": "Animal Diversity",
+        "en": "Animal Diversity"
+      }
+    },
+    {
+      "id": "classification-hierarchy",
+      "name": {
+        "hi": "Classification Hierarchy",
+        "en": "Classification Hierarchy"
+      }
+    },
+    {
+      "id": "five-kingdoms",
+      "name": {
+        "hi": "Five Kingdoms",
+        "en": "Five Kingdoms"
+      }
+    },
+    {
+      "id": "plant-diversity",
+      "name": {
+        "hi": "Plant Diversity",
+        "en": "Plant Diversity"
+      }
+    },
+    {
+      "id": "heredity-variation",
+      "name": {
+        "hi": "Heredity Variation",
+        "en": "Heredity Variation"
+      }
+    },
+    {
+      "id": "habitats-adaptations",
+      "name": {
+        "hi": "Habitats Adaptations",
+        "en": "Habitats Adaptations"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "पृथ्वी पर लाखों प्रकार के जीव पाए जाते हैं, इसलिए उन्हें समान लक्षणों के आधार पर समूहों में बाँटा जाता है। वर्गीकरण की मुख्य श्रेणियाँ हैं — साम्राज्य, संघ, वर्ग, गण, कुल, वंश और जाति। इसी आधार पर जीवों को पाँच जगतों में और पौधों-जंतुओं को आगे उपविभागों में बाँटा गया है।",
