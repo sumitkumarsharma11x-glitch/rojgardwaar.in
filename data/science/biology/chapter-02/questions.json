@@ -620,8 +620,8 @@
     "topic": "asexual-vs-sexual",
     "difficulty": "medium",
     "question": {
-      "hi": "अलैंगिक जनन किस प्रकार के कोशिका विभाजन पर आधारित है?",
-      "en": "Asexual reproduction is based on which type of cell division?"
+      "hi": "कई यूकैरियोटिक जीवों में अलैंगिक जनन के दौरान सामान्यतः कौन-सा कोशिका विभाजन होता है?",
+      "en": "Which type of cell division commonly occurs during asexual reproduction in many eukaryotes?"
     },
     "options": {
       "hi": [
@@ -639,8 +639,8 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है, जिससे गुणसूत्र संख्या समान रहती है।",
-      "en": "Asexual reproduction is based on mitosis, which keeps the chromosome number the same."
+      "hi": "कई यूकैरियोटिक जीवों में mitosis से बनने वाली कोशिकाओं में गुणसूत्र संख्या सामान्यतः जनक कोशिका जैसी रहती है। जीवाणु जैसे प्रोकैरियोट्स mitosis नहीं करते; वे binary fission से विभाजित होते हैं।",
+      "en": "In many eukaryotes, mitosis produces cells that generally retain the parent cell's chromosome number. Prokaryotes such as bacteria do not undergo mitosis; they divide by binary fission."
     }
   },
   {
@@ -1712,8 +1712,8 @@
     "topic": "asexual-methods-organisms",
     "difficulty": "medium",
     "question": {
-      "hi": "अलैंगिक जनन किस कोशिका विभाजन पर आधारित है?",
-      "en": "Asexual reproduction is based on which cell division?"
+      "hi": "कई यूकैरियोटिक जीवों में अलैंगिक जनन के दौरान सामान्यतः कौन-सा कोशिका विभाजन होता है?",
+      "en": "Which type of cell division commonly occurs during asexual reproduction in many eukaryotes?"
     },
     "options": {
       "hi": [
@@ -1731,8 +1731,8 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है।",
-      "en": "Asexual reproduction produces offspring from one parent; offspring are often genetically very similar, although mutations can occur."
+      "hi": "कई यूकैरियोटिक जीवों में mitosis से बनने वाली कोशिकाओं में गुणसूत्र संख्या सामान्यतः जनक कोशिका जैसी रहती है। जीवाणु जैसे प्रोकैरियोट्स mitosis नहीं करते; वे binary fission से विभाजित होते हैं।",
+      "en": "In many eukaryotes, mitosis produces cells that generally retain the parent cell's chromosome number. Prokaryotes such as bacteria do not undergo mitosis; they divide by binary fission."
     }
   },
   {
