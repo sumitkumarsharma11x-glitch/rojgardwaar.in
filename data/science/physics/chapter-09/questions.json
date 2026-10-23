@@ -893,7 +893,7 @@
       "correct": 3,
       "explanation": {
         "hi": "रोधी परिपथ के ज़रिए संपर्क से बचाती है।",
-        "en": "The insulating cover prevents accidental contact."
+        "en": "For “Why is a thick plastic coating put over copper wires,” “For safety — plastic insulates and prevents shocks” matches the relevant scientific principle or quantity. “To strengthen the wire and To increase the current” are different concepts and do not answer this situation."
       }
     },
     {
@@ -976,8 +976,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "I = 12/6 = 2 एम्पियर।",
-        "en": "I = 12/6 = 2 A."
+        "hi": "विद्युत धारा आवेश के प्रवाह की दर है: I = Q/t। इसकी SI इकाई एम्पियर है।",
+        "en": "Electric current is the rate of flow of charge: I = Q/t. Its SI unit is the ampere."
       }
     },
     {
@@ -1424,8 +1424,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "विभवांतर वोल्ट में मापा जाता है।",
-        "en": "Potential difference is measured in volts."
+        "hi": "विभवांतर प्रति इकाई आवेश स्थानांतरित करने में किया गया कार्य है; इसकी SI इकाई वोल्ट है।",
+        "en": "Potential difference is the work done per unit charge transferred; its SI unit is the volt."
       }
     },
     {
@@ -1844,8 +1844,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "1.5 V = 1.5 जूल प्रति कूलॉम।",
-        "en": "1.5 V = 1.5 joules per coulomb."
+        "hi": "विभवांतर प्रति इकाई आवेश स्थानांतरित करने में किया गया कार्य है; इसकी SI इकाई वोल्ट है।",
+        "en": "For “What does a 1.5 V cell mean,” “The cell does 1.5 joules of work per coulomb of charge transferred” matches the relevant scientific principle or quantity. “The cell stores 1.5 C of charge and The cell supplies 1.5 A of current” are different concepts and do not answer this situation."
       }
     },
     {
@@ -2124,8 +2124,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "I = 220/11 = 20 एम्पियर।",
-        "en": "I = 220/11 = 20 A."
+        "hi": "विद्युत धारा आवेश के प्रवाह की दर है: I = Q/t। इसकी SI इकाई एम्पियर है।",
+        "en": "Electric current is the rate of flow of charge: I = Q/t. Its SI unit is the ampere."
       }
     },
     {
@@ -2236,8 +2236,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "I = 6/8 = 0.75 एम्पियर।",
-        "en": "I = 6/8 = 0.75 A."
+        "hi": "विद्युत धारा आवेश के प्रवाह की दर है: I = Q/t। इसकी SI इकाई एम्पियर है।",
+        "en": "Electric current is the rate of flow of charge: I = Q/t. Its SI unit is the ampere."
       }
     },
     {
@@ -2656,8 +2656,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "ताप-निर्भर प्रतिरोध आलेख को मोड़ देता है।",
-        "en": "Temperature-dependent resistance bends the graph."
+        "hi": "प्रश्न “किसी बल्ब के फिलामेंट का V-I आलेख सीधी रेखा के बजाय मुड़ा हुआ क्यों मिलता है” में “धारा बढ़ने पर फिलामेंट गरम होकर प्रतिरोध बढ़ा देता है, इसलिए अनुपात स्थिर नहीं रहता” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या राशि से मेल खाता है। “वोल्टमीटर गलत होता है और बल्ब में सेल श्रेणी में होते हैं” अलग अवधारणाएँ हैं और इस स्थिति का उत्तर नहीं देतीं।",
+        "en": "For “Why is the V-I graph of a bulb's filament curved rather than a straight line,” “As current rises the filament heats up and its resistance grows, so the ratio is not constant” matches the relevant scientific principle or quantity. “The voltmeter is faulty and The bulb contains cells in series” are different concepts and do not answer this situation."
       }
     },
     {
@@ -2936,8 +2936,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "श्रेणी में प्रतिरोध जुड़ जाते हैं।",
-        "en": "In series, resistances add up."
+        "hi": "ओम के नियम के अनुसार स्थिर तापमान पर V = IR; प्रतिरोध धारा के प्रवाह का विरोध दर्शाता है।",
+        "en": "Ohm's law states V = IR at constant temperature; resistance describes opposition to current flow."
       }
     },
     {
@@ -3076,8 +3076,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "कम प्रतिरोधकता — ऊर्जा हानि न्यूनतम।",
-        "en": "Low resistivity means minimum energy loss."
+        "hi": "प्रश्न “ताँबा और एल्युमिनियम विद्युत चालन के लिए उपयुक्त क्यों हैं” में “इनकी प्रतिरोधकता बहुत कम होती है” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या राशि से मेल खाता है। “ये चुंबकीय होते हैं और इनका गलनांक कम होता है” अलग अवधारणाएँ हैं और इस स्थिति का उत्तर नहीं देतीं।",
+        "en": "For “Why are copper and aluminium suitable for electrical conduction,” “Their resistivity is very low” matches the relevant scientific principle or quantity. “They are magnetic and Their melting point is low” are different concepts and do not answer this situation."
       }
     },
     {
@@ -3161,7 +3161,7 @@
       "correct": 0,
       "explanation": {
         "hi": "समान दो प्रतिरोध समान्तर में आधा देते हैं।",
-        "en": "Two identical resistors in parallel give half."
+        "en": "Ohm's law states V = IR at constant temperature; resistance describes opposition to current flow."
       }
     },
     {
@@ -3357,7 +3357,7 @@
       "correct": 3,
       "explanation": {
         "hi": "कम प्रतिरोध से तार अधिक गर्म नहीं होते।",
-        "en": "Low resistance keeps the wires from overheating."
+        "en": "For “Why are the main wires in household wiring kept thick,” “Thick wires have low resistance, letting large currents flow safely” matches the relevant scientific principle or quantity. “Thick wires are cheaper and Thick wires are lighter” are different concepts and do not answer this situation."
       }
     },
     {
@@ -3692,8 +3692,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "समान्तर शाखाएँ स्वतंत्र होती हैं।",
-        "en": "Parallel branches are independent."
+        "hi": "प्रश्न “समान्तर में जुड़े तीन बल्बों में एक बंद कर दिया गया। शेष बल्बों का क्या होगा” में “वे सामान्य ही जलते रहते हैं” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या राशि से मेल खाता है। “वे भी बुझ जाते हैं और उनकी चमक घट जाती है” अलग अवधारणाएँ हैं और इस स्थिति का उत्तर नहीं देतीं।",
+        "en": "For “One of three parallel-connected bulbs is switched off. What happens to the others,” “They keep glowing normally” matches the relevant scientific principle or quantity. “They also go off and Their brightness falls” are different concepts and do not answer this situation."
       }
     },
     {
@@ -3776,7 +3776,7 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "इसीलिए घरेलू परिपथ समान्तर बनाए जाते हैं।",
+        "hi": "प्रश्न “यदि घर के सभी बल्ब श्रेणी में जुड़े होते तो क्या समस्या आती” में “एक बल्ब बंद करते ही सब बंद; वोल्टेज बँटकर चमक घटती” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या राशि से मेल खाता है। “बल्ब जल्दी फटते और कोई समस्या नहीं” अलग अवधारणाएँ हैं और इस स्थिति का उत्तर नहीं देतीं।",
         "en": "That is why household circuits are wired in parallel."
       }
     },
@@ -4504,8 +4504,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "खपत ऊर्जा यूनिट में गिनी जाती है।",
-        "en": "Consumed energy is counted in units."
+        "hi": "प्रश्न “विद्युत बिल किस इकाई में बनाया जाता है” में “यूनिट (kWh)” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या राशि से मेल खाता है। “वाट और एम्पियर” अलग अवधारणाएँ हैं और इस स्थिति का उत्तर नहीं देतीं।",
+        "en": "For “In what unit is the electricity bill prepared,” “Units (kWh)” matches the relevant scientific principle or quantity. “Watts and Amperes” are different concepts and do not answer this situation."
       }
     },
     {
@@ -4588,8 +4588,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "नमी शरीर को चालक बना देती है।",
-        "en": "Moisture turns the body into a conductor."
+        "hi": "प्रश्न “विद्युत स्विच को गीले हाथ से क्यों नहीं छूना चाहिए” में “गीली त्वचा का प्रतिरोध बहुत घट जाता है — झटका लगने का खतरा” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या राशि से मेल खाता है। “स्विच गीला होकर खराब हो जाता है और बिल बढ़ता है” अलग अवधारणाएँ हैं और इस स्थिति का उत्तर नहीं देतीं।",
+        "en": "For “Why should an electrical switch not be touched with wet hands,” “Wet skin's resistance drops greatly — risk of a shock” matches the relevant scientific principle or quantity. “The switch spoils by getting wet and The bill rises” are different concepts and do not answer this situation."
       }
     },
     {
@@ -4616,8 +4616,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "तापक उपकरण सबसे अधिक शक्ति लेते हैं।",
-        "en": "Heating appliances draw the most power."
+        "hi": "विद्युत शक्ति ऊर्जा उपयोग की दर है: P = VI; प्रतिरोध के लिए P = I²R या V²/R भी उपयोगी हैं।",
+        "en": "Electrical power is the rate of energy use: P = VI; for a resistor, P = I²R or V²/R can also be used."
       }
     },
     {
