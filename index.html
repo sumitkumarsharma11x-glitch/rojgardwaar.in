@@ -19,10 +19,10 @@
   <style>
     :root{--blue:#174ea6;--deep:#102e63;--ink:#17243a;--muted:#58677d;--line:#dbe4f0;--pale:#eef5ff;--gold:#ffca45}
     *{box-sizing:border-box}body{margin:0;background:#f5f8fc;color:var(--ink);font:16px/1.65 Inter,"Noto Sans Devanagari",system-ui,sans-serif}a{text-decoration:none}
-    .wrap{width:min(1120px,calc(100% - 32px));margin:auto}.top{background:#fff;border-bottom:1px solid var(--line)}.head{min-height:70px;display:flex;align-items:center;justify-content:space-between;gap:18px}.logo{font-size:22px;font-weight:850;color:var(--blue);white-space:nowrap}.logo span{color:#101828}.nav{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.nav a{color:#34445e;padding:8px 10px;border-radius:9px;font-size:14px}.nav a:hover{background:var(--pale);color:var(--blue)}.nav .login{background:var(--blue);color:#fff}
+    .wrap{width:min(1120px,calc(100% - 32px));margin:auto}.top{background:#fff;border-bottom:1px solid var(--line)}.head{min-height:70px;display:flex;align-items:center;justify-content:space-between;gap:18px}.logo{font-size:22px;font-weight:850;color:var(--blue);white-space:nowrap}.logo span{color:#101828}.nav{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.nav a{color:#34445e;padding:8px 10px;border-radius:9px;font-size:14px}.nav a:hover{background:var(--pale);color:var(--blue)}.nav .login{background:var(--blue);color:#fff}.menu-btn{display:none;border:1px solid var(--line);background:#fff;border-radius:9px;padding:8px 11px;font-size:20px;color:var(--ink)}.mobile-nav{display:none;padding:6px 0 14px}.mobile-nav.open{display:block}.mobile-nav a{display:block;padding:10px 12px;border-radius:8px;color:var(--ink)}.mobile-nav a:hover{background:var(--pale)}
     .hero{background:linear-gradient(130deg,var(--deep),#1e61b8);color:#fff;padding:54px 0 48px}.hero-grid{display:grid;grid-template-columns:1.25fr .75fr;gap:34px;align-items:center}.eyebrow{font-size:13px;letter-spacing:.09em;text-transform:uppercase;color:#ffe39a;font-weight:800}.hero h1{font-size:clamp(32px,5vw,48px);line-height:1.15;margin:12px 0}.hero p{color:#e0eaff;font-size:17px;max-width:650px;margin:0 0 24px}.actions{display:flex;gap:12px;flex-wrap:wrap}.btn{display:inline-flex;align-items:center;justify-content:center;border-radius:11px;padding:12px 18px;font-weight:800;min-height:46px}.btn-gold{background:var(--gold);color:#17243a}.btn-outline{border:1px solid #b8d0f7;color:#fff}.hero-panel{background:#fff;color:var(--ink);border-radius:18px;padding:22px;box-shadow:0 16px 36px #061a3d35}.hero-panel h2{margin:0 0 8px;font-size:21px;color:var(--deep)}.hero-panel p{font-size:14px;color:var(--muted);margin:0 0 14px}.state-mini{display:grid;grid-template-columns:1fr 1fr;gap:8px}.state-mini span{background:#f0f5fd;border-radius:9px;padding:8px 10px;font-size:13px;font-weight:700}
     .section{padding:36px 0 8px}.section h2{margin:0;font-size:clamp(24px,3vw,31px);line-height:1.25;color:var(--deep)}.lead{margin:8px 0 20px;color:var(--muted)}.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}.card{display:flex;flex-direction:column;gap:7px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px;min-height:155px;color:var(--ink);box-shadow:0 2px 7px #152a4a08}.card:hover,.card:focus-visible{border-color:#7da9eb;outline:none;transform:translateY(-2px)}.emoji{font-size:27px}.card h3{margin:0;font-size:17px;line-height:1.35}.card p{margin:0;color:var(--muted);font-size:14px}.state-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}.state{background:#fff;border:1px solid var(--line);border-radius:11px;padding:12px;font-weight:700;color:#273b5c}.state small{display:block;font-weight:500;color:var(--muted);font-size:12px}.notice{background:#fff8e5;border-left:4px solid #e6aa20;border-radius:10px;padding:15px 17px;color:#654b0b;margin:18px 0}.foot{margin-top:40px;background:#fff;border-top:1px solid var(--line);padding:24px 0;text-align:center;color:var(--muted);font-size:14px}.foot a{color:var(--blue)}
-    @media(max-width:850px){.hero-grid{grid-template-columns:1fr}.hero-panel{max-width:520px}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.state-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.nav{display:none}.head{min-height:62px}}
+    @media(max-width:850px){.hero-grid{grid-template-columns:1fr}.hero-panel{max-width:520px}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.state-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.nav{display:none}.menu-btn{display:block}.head{min-height:62px}}
     @media(max-width:440px){.wrap{width:calc(100% - 26px)}.hero{padding:36px 0}.grid{gap:10px}.card{padding:14px;min-height:150px}.hero h1{font-size:32px}.btn{width:100%}}
   </style>
   <script type="application/ld+json">
@@ -38,7 +38,12 @@
   <nav class="nav" aria-label="Main navigation">
     <a href="./jobs.html">Latest Jobs</a><a href="#states">North-East States</a><a href="#tools">Free Tools</a><a href="#study">Study Centre</a><a href="./eligibility.html">Eligibility Calculator</a><a href="./pages/about.html">About</a><a href="./pages/contact.html">Contact</a><a href="./login.html" class="auth-nav-link">Login</a><a href="./register.html" class="login auth-register-link">Create Account</a>
   </nav>
-</div></header>
+  <button class="menu-btn" id="menuToggle" type="button" aria-expanded="false" aria-controls="mobileNav" aria-label="Open menu">☰</button>
+</div>
+<nav class="mobile-nav wrap" id="mobileNav" aria-label="Mobile navigation">
+  <a href="./jobs.html">Latest Jobs</a><a href="#states">North-East States</a><a href="#tools">Free Tools</a><a href="#study">Study Centre</a><a href="./eligibility.html">Eligibility Calculator</a><a href="./pages/about.html">About</a><a href="./pages/contact.html">Contact</a><a href="./login.html" class="auth-nav-link">Login</a><a href="./register.html" class="auth-register-link">Create Account</a>
+</nav>
+</header>
 <main>
   <section class="hero"><div class="wrap hero-grid">
     <div><div class="eyebrow">North-East India • Government Recruitment</div>
@@ -82,6 +87,18 @@
   </div>
 </main>
 <footer class="foot"><div class="wrap">ROJGARDWAAR.IN · Verify every recruitment detail against the official notification.<p><a href="./pages/about.html">About</a> · <a href="./pages/contact.html">Contact</a> · <a href="./pages/privacy-policy.html">Privacy Policy</a> · <a href="./pages/terms.html">Terms</a> · <a href="./pages/disclaimer.html">Disclaimer</a></p><span>© 2026 ROJGARDWAAR.IN. All rights reserved.</span></div></footer>
+<script>
+  const menuToggle = document.getElementById('menuToggle');
+  const mobileNav = document.getElementById('mobileNav');
+  if (menuToggle && mobileNav) {
+    menuToggle.addEventListener('click', function () {
+      const open = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', String(!open));
+      mobileNav.classList.toggle('open', !open);
+      this.setAttribute('aria-label', open ? 'Open menu' : 'Close menu');
+    });
+  }
+</script>
 <script src="./js/supabase-config.js" defer></script>
 <script src="./js/auth-nav.js?v=20261023ne1" defer></script>
 </body></html>
