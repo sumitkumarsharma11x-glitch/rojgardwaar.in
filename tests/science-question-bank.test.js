@@ -131,3 +131,23 @@ test("all 36 Science chapters meet the minimum notes-depth and originality check
     }
   }
 });
+
+test("all 36 Science chapters have static, canonical, source-transparent notes pages", () => {
+  for (const subject of SUBJECTS) {
+    for (const chapter of CHAPTERS) {
+      const file = path.join(ROOT, "science", subject, `${chapter}.html`);
+      assert.ok(fs.existsSync(file), `${subject}/${chapter}: missing static notes page`);
+      const html = fs.readFileSync(file, "utf8");
+      assert.match(html, /<meta name="robots" content="noindex,follow">/i,
+        `${subject}/${chapter}: keep noindex until the full fact/source review is complete`);
+      assert.match(html, /<link rel="canonical" href="https:\/\/rojgardwaar\.in\/science\//i,
+        `${subject}/${chapter}: missing static canonical URL`);
+      assert.match(html, /https:\/\/ncert\.nic\.in\/textbook\.php/i,
+        `${subject}/${chapter}: missing official textbook reference`);
+      assert.match(html, /pages\/contact\.html/i,
+        `${subject}/${chapter}: missing correction/feedback route`);
+      assert.match(html.trim(), /<\/html>$/i,
+        `${subject}/${chapter}: malformed HTML ending`);
+    }
+  }
+});
