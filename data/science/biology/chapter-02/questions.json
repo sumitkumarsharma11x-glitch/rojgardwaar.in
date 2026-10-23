@@ -9,19 +9,19 @@
     },
     "options": {
       "hi": [
-        "भोजन ग्रहण करते हैं",
         "अपने जैसे नए जीव उत्पन्न करते हैं",
         "केवल श्वसन करते हैं",
-        "केवल वृद्धि करते हैं"
+        "केवल वृद्धि करते हैं",
+        "भोजन ग्रहण करते हैं"
       ],
       "en": [
-        "Take in food",
         "Produce new individuals of their own kind",
         "Only respire",
-        "Only grow"
+        "Only grow",
+        "Take in food"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "जनन से सजीव अपने जैसे नए जीव उत्पन्न करते हैं।",
       "en": "Reproduction is how living beings produce new individuals of their own kind."
@@ -37,19 +37,19 @@
     },
     "options": {
       "hi": [
+        "केवल आकार",
         "जीवनकाल",
         "रंग",
-        "आवास",
-        "केवल आकार"
+        "आवास"
       ],
       "en": [
+        "Only size",
         "Life span",
         "Colour",
-        "Habitat",
-        "Only size"
+        "Habitat"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "प्रत्येक जीव जन्म लेता है, बढ़ता है, परिपक्व होता है, जनन करता है और मर जाता है—यही उसका निश्चित जीवनकाल है।",
       "en": "Every organism is born, grows, matures, reproduces and dies — this is its definite life span."
@@ -65,19 +65,19 @@
     },
     "options": {
       "hi": [
+        "केवल शरीर का आकार बढ़ाना",
         "केवल ऊर्जा प्राप्त करना",
         "पृथ्वी पर जीवन की निरंतरता बनाए रखना",
-        "केवल भोजन का पाचन",
-        "केवल शरीर का आकार बढ़ाना"
+        "केवल भोजन का पाचन"
       ],
       "en": [
+        "Only increasing body size",
         "Only gaining energy",
         "Maintaining the continuity of life on Earth",
-        "Only digestion of food",
-        "Only increasing body size"
+        "Only digestion of food"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "जनन से ही पृथ्वी पर जीवन की निरंतरता बनी रहती है।",
       "en": "Reproduction keeps life continuing on Earth."
@@ -93,19 +93,19 @@
     },
     "options": {
       "hi": [
-        "वृक्ष कभी नहीं मरता",
-        "बीज नए आम के पौधों के रूप में अंकुरित होते हैं",
         "आम केवल फल देता है",
-        "बीज का कोई उपयोग नहीं होता"
+        "बीज का कोई उपयोग नहीं होता",
+        "वृक्ष कभी नहीं मरता",
+        "बीज नए आम के पौधों के रूप में अंकुरित होते हैं"
       ],
       "en": [
-        "A tree never dies",
-        "Seeds germinate into new mango plants",
         "Mango only gives fruit",
-        "Seeds are useless"
+        "Seeds are useless",
+        "A tree never dies",
+        "Seeds germinate into new mango plants"
       ]
     },
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "hi": "आम का वृक्ष नष्ट हो सकता है, पर उसके बीज नए पौधों में विकसित होकर जाति को बनाए रखते हैं।",
       "en": "A mango tree may die, but its seeds grow into new plants, keeping the species alive."
@@ -121,19 +121,19 @@
     },
     "options": {
       "hi": [
-        "वह तेजी से बढ़ेगी",
         "वह धीरे-धीरे लुप्त हो जाएगी",
         "उसका जीवनकाल बढ़ जाएगा",
-        "कुछ नहीं बदलेगा"
+        "कुछ नहीं बदलेगा",
+        "वह तेजी से बढ़ेगी"
       ],
       "en": [
-        "It would grow rapidly",
         "It would gradually become extinct",
         "Its life span would increase",
-        "Nothing would change"
+        "Nothing would change",
+        "It would grow rapidly"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "जनन के बिना पीढ़ियाँ नहीं बनेंगी और जाति लुप्त हो जाएगी।",
       "en": "Without reproduction there would be no new generations, and the species would become extinct."
@@ -149,19 +149,19 @@
     },
     "options": {
       "hi": [
+        "वृद्धि, मृत्यु, जन्म, जनन",
         "जन्म, वृद्धि, परिपक्वता, जनन, मृत्यु",
         "मृत्यु, जन्म, जनन, वृद्धि",
-        "जनन, जन्म, मृत्यु, परिपक्वता",
-        "वृद्धि, मृत्यु, जन्म, जनन"
+        "जनन, जन्म, मृत्यु, परिपक्वता"
       ],
       "en": [
+        "Growth, death, birth, reproduction",
         "Birth, growth, maturity, reproduction, death",
         "Death, birth, reproduction, growth",
-        "Reproduction, birth, death, maturity",
-        "Growth, death, birth, reproduction"
+        "Reproduction, birth, death, maturity"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "हर जीव जन्म लेता है, वृद्धि करता है, परिपक्व होता है, जनन करता है और अंततः मर जाता है।",
       "en": "Every organism is born, grows, matures, reproduces and finally dies."
@@ -205,19 +205,19 @@
     },
     "options": {
       "hi": [
-        "केवल गति",
-        "अपनी जाति को बनाए रखना",
         "केवल पोषण",
-        "केवल उत्सर्जन"
+        "केवल उत्सर्जन",
+        "केवल गति",
+        "अपनी जाति को बनाए रखना"
       ],
       "en": [
-        "Only movement",
-        "Perpetuating their own species",
         "Only nutrition",
-        "Only excretion"
+        "Only excretion",
+        "Only movement",
+        "Perpetuating their own species"
       ]
     },
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "hi": "जनन जाति को बनाए रखने की विशेषता है, जबकि पोषण और श्वसन व्यक्ति को जीवित रखते हैं।",
       "en": "Reproduction perpetuates the species, whereas nutrition and respiration keep an individual alive."
@@ -289,19 +289,19 @@
     },
     "options": {
       "hi": [
-        "जीवन की निरंतरता",
-        "केवल वृद्धि",
         "केवल उत्सर्जन",
-        "केवल श्वसन"
+        "केवल श्वसन",
+        "जीवन की निरंतरता",
+        "केवल वृद्धि"
       ],
       "en": [
-        "Continuity of life",
-        "Only growth",
         "Only excretion",
-        "Only respiration"
+        "Only respiration",
+        "Continuity of life",
+        "Only growth"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "बीज से नया पौधा बनकर जाति की निरंतरता बनी रहती है।",
       "en": "A new plant from a seed keeps the continuity of the species."
@@ -317,19 +317,19 @@
     },
     "options": {
       "hi": [
-        "अपने जैसे नए जीवों का निर्माण",
         "केवल भोजन करना",
         "केवल सोना",
-        "केवल जल पीना"
+        "केवल जल पीना",
+        "अपने जैसे नए जीवों का निर्माण"
       ],
       "en": [
-        "Production of new individuals of one's own kind",
         "Only eating",
         "Only sleeping",
-        "Only drinking water"
+        "Only drinking water",
+        "Production of new individuals of one's own kind"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "जनन का अर्थ है अपने जैसे नए जीवों का निर्माण करना।",
       "en": "Reproduction means producing new individuals of one's own kind."
@@ -345,19 +345,19 @@
     },
     "options": {
       "hi": [
-        "पिल्ले",
-        "बछड़े",
         "शिशु",
-        "बिलौटे"
+        "बिलौटे",
+        "पिल्ले",
+        "बछड़े"
       ],
       "en": [
-        "Puppies",
-        "Calves",
         "Babies",
-        "Kittens"
+        "Kittens",
+        "Puppies",
+        "Calves"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "hi": "मनुष्य शिशुओं को जन्म देते हैं।",
       "en": "Humans give birth to babies."
@@ -373,19 +373,19 @@
     },
     "options": {
       "hi": [
+        "जीवनकाल ही जनन है",
         "जीवनकाल समाप्त होने पर भी जनन से जाति बनी रहती है",
         "जनन जीवनकाल को समाप्त कर देता है",
-        "दोनों का कोई संबंध नहीं है",
-        "जीवनकाल ही जनन है"
+        "दोनों का कोई संबंध नहीं है"
       ],
       "en": [
+        "Life span is reproduction",
         "Even after the life span ends, reproduction keeps the species alive",
         "Reproduction ends the life span",
-        "There is no relation between them",
-        "Life span is reproduction"
+        "There is no relation between them"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "हर जीव का जीवनकाल सीमित होता है, पर जनन द्वारा उत्पन्न संतति जाति को आगे बढ़ाती है।",
       "en": "Every organism has a limited life span, but the offspring produced by reproduction carry the species forward."
@@ -401,19 +401,19 @@
     },
     "options": {
       "hi": [
-        "एक पीढ़ी से दूसरी पीढ़ी का बनते रहना",
-        "केवल भोजन का मिलना",
         "केवल जल की उपलब्धता",
-        "केवल श्वसन का होना"
+        "केवल श्वसन का होना",
+        "एक पीढ़ी से दूसरी पीढ़ी का बनते रहना",
+        "केवल भोजन का मिलना"
       ],
       "en": [
-        "Generation after generation keeps forming",
-        "Only getting food",
         "Only availability of water",
-        "Only respiration"
+        "Only respiration",
+        "Generation after generation keeps forming",
+        "Only getting food"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "जनन से एक पीढ़ी दूसरी पीढ़ी को जन्म देती रहती है—यही जीवन की निरंतरता है।",
       "en": "Through reproduction, one generation keeps giving rise to the next — this is the continuity of life."
@@ -429,19 +429,19 @@
     },
     "options": {
       "hi": [
-        "एक",
         "दो",
         "तीन",
-        "चार"
+        "चार",
+        "एक"
       ],
       "en": [
-        "One",
         "Two",
         "Three",
-        "Four"
+        "Four",
+        "One"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "अलैंगिक जनन में केवल एक ही जनक संतति उत्पन्न करता है।",
       "en": "In asexual reproduction, a single parent produces the offspring."
@@ -457,19 +457,19 @@
     },
     "options": {
       "hi": [
-        "एक",
         "दो",
         "तीन",
-        "कोई नहीं"
+        "कोई नहीं",
+        "एक"
       ],
       "en": [
-        "One",
         "Two",
         "Three",
-        "None"
+        "None",
+        "One"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "लैंगिक जनन में दो जनक भाग लेते हैं और संतति में दोनों की विशेषताएँ आती हैं।",
       "en": "Sexual reproduction involves two parents, and the offspring inherit features of both."
@@ -485,19 +485,19 @@
     },
     "options": {
       "hi": [
+        "भ्रूण",
         "क्लोन",
         "संकर",
-        "युग्मनज",
-        "भ्रूण"
+        "युग्मनज"
       ],
       "en": [
+        "Embryo",
         "Clones",
         "Hybrids",
-        "Zygote",
-        "Embryo"
+        "Zygote"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "अलैंगिक जनन की आनुवंशिक रूप से समान संतति क्लोन कहलाती है।",
       "en": "Genetically identical offspring of asexual reproduction are called clones."
@@ -513,19 +513,19 @@
     },
     "options": {
       "hi": [
+        "हमेशा बड़ी",
         "पूर्णतः भिन्न",
         "लगभग सटीक प्रति",
-        "केवल आधी समान",
-        "हमेशा बड़ी"
+        "केवल आधी समान"
       ],
       "en": [
+        "Always larger",
         "Completely different",
         "An almost exact copy",
-        "Only half similar",
-        "Always larger"
+        "Only half similar"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "अलैंगिक जनन में संतति जनक की लगभग सटीक प्रति होती है।",
       "en": "In asexual reproduction the offspring is an almost exact copy of the parent."
@@ -541,19 +541,19 @@
     },
     "options": {
       "hi": [
-        "विभिन्नता",
         "केवल समानता",
         "केवल आकार वृद्धि",
-        "कुछ नहीं"
+        "कुछ नहीं",
+        "विभिन्नता"
       ],
       "en": [
-        "Variation",
         "Only similarity",
         "Only growth in size",
-        "Nothing"
+        "Nothing",
+        "Variation"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "दो जनकों की विशेषताओं के मिश्रण से संतति में विभिन्नता उत्पन्न होती है।",
       "en": "Mixing of two parents' characteristics produces variation in offspring."
@@ -625,19 +625,19 @@
     },
     "options": {
       "hi": [
+        "कोई नहीं",
         "अर्धसूत्री विभाजन",
         "समसूत्री विभाजन",
-        "दोनों",
-        "कोई नहीं"
+        "दोनों"
       ],
       "en": [
+        "None",
         "Meiosis",
         "Mitosis",
-        "Both",
-        "None"
+        "Both"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है, जिससे गुणसूत्र संख्या समान रहती है।",
       "en": "Asexual reproduction is based on mitosis, which keeps the chromosome number the same."
@@ -653,19 +653,19 @@
     },
     "options": {
       "hi": [
-        "समसूत्री विभाजन",
-        "अर्धसूत्री विभाजन",
         "केवल संलयन",
-        "कोई विभाजन नहीं"
+        "कोई विभाजन नहीं",
+        "समसूत्री विभाजन",
+        "अर्धसूत्री विभाजन"
       ],
       "en": [
-        "Mitosis",
-        "Meiosis",
         "Only fusion",
-        "No division"
+        "No division",
+        "Mitosis",
+        "Meiosis"
       ]
     },
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "hi": "युग्मक अर्धसूत्री विभाजन (meiosis) से बनते हैं, जिसमें गुणसूत्र संख्या आधी हो जाती है।",
       "en": "Gametes are formed by meiosis, which halves the chromosome number."
@@ -709,19 +709,19 @@
     },
     "options": {
       "hi": [
+        "अंडोत्सर्ग",
         "मुकुलन",
         "निषेचन",
-        "परागण",
-        "अंडोत्सर्ग"
+        "परागण"
       ],
       "en": [
+        "Ovulation",
         "Budding",
         "Fertilisation",
-        "Pollination",
-        "Ovulation"
+        "Pollination"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "मुकुलन अलैंगिक जनन है; निषेचन और परागण लैंगिक जनन से जुड़े हैं।",
       "en": "Budding is asexual reproduction; fertilisation and pollination are part of sexual reproduction."
@@ -737,19 +737,19 @@
     },
     "options": {
       "hi": [
+        "कोई नहीं",
         "लैंगिक",
         "अलैंगिक",
-        "दोनों",
-        "कोई नहीं"
+        "दोनों"
       ],
       "en": [
+        "None",
         "Sexual",
         "Asexual",
-        "Both",
-        "None"
+        "Both"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "अलैंगिक जनन से आनुवंशिक रूप से समान संतति (क्लोन) बनती है।",
       "en": "Asexual reproduction produces genetically identical offspring called clones."
@@ -765,19 +765,19 @@
     },
     "options": {
       "hi": [
-        "अलैंगिक",
         "लैंगिक",
         "केवल पर-परागण से",
-        "केवल निषेचन से"
+        "केवल निषेचन से",
+        "अलैंगिक"
       ],
       "en": [
-        "Asexual",
         "Sexual",
         "Only cross-pollination",
-        "Only fertilisation"
+        "Only fertilisation",
+        "Asexual"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "अलैंगिक जनन में एक ही जनक होने से संतति आनुवंशिक रूप से समान होती है।",
       "en": "With a single parent, asexual reproduction gives genetically identical offspring."
@@ -849,19 +849,19 @@
     },
     "options": {
       "hi": [
+        "केवल फल",
         "केवल बीज",
         "कायिक भागों (तना, जड़, पत्ती) से",
-        "केवल फूल",
-        "केवल फल"
+        "केवल फूल"
       ],
       "en": [
+        "Only fruits",
         "Only seeds",
         "Vegetative parts (stem, root, leaf)",
-        "Only flowers",
-        "Only fruits"
+        "Only flowers"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "कायिक प्रवर्धन में नया पौधा कायिक भागों से बिना बीज के बनता है।",
       "en": "In vegetative propagation a new plant arises from vegetative parts without seeds."
@@ -877,19 +877,19 @@
     },
     "options": {
       "hi": [
-        "पत्ती",
-        "भूमिगत तना",
         "फूल",
-        "बीज"
+        "बीज",
+        "पत्ती",
+        "भूमिगत तना"
       ],
       "en": [
-        "Leaf",
-        "Underground stem",
         "Flower",
-        "Seed"
+        "Seed",
+        "Leaf",
+        "Underground stem"
       ]
     },
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "hi": "आलू अपने भूमिगत तने से नए पौधे बनाता है।",
       "en": "Potato produces new plants from its underground stem."
@@ -905,19 +905,19 @@
     },
     "options": {
       "hi": [
-        "बीज",
         "भूमिगत तना",
         "फल",
-        "पत्ती"
+        "पत्ती",
+        "बीज"
       ],
       "en": [
-        "Seed",
         "Underground stem",
         "Fruit",
-        "Leaf"
+        "Leaf",
+        "Seed"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "अदरक का भूमिगत तना नए पौधे बनाता है।",
       "en": "Ginger's underground stem produces new plants."
@@ -961,19 +961,19 @@
     },
     "options": {
       "hi": [
-        "तने की कर्तन",
-        "केवल बीज",
         "केवल फूल",
-        "केवल जड़ के बाल"
+        "केवल जड़ के बाल",
+        "तने की कर्तन",
+        "केवल बीज"
       ],
       "en": [
-        "Stem cutting",
-        "Only seeds",
         "Only flowers",
-        "Only root hairs"
+        "Only root hairs",
+        "Stem cutting",
+        "Only seeds"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "गन्ने के तने की कर्तन नया पौधा बनाती है।",
       "en": "A stem cutting of sugarcane grows into a new plant."
@@ -989,19 +989,19 @@
     },
     "options": {
       "hi": [
-        "लगभग 45°–60°",
         "लगभग 10°",
         "लगभग 90° के ठीक ऊपर",
-        "किसी भी कोण पर नहीं"
+        "किसी भी कोण पर नहीं",
+        "लगभग 45°–60°"
       ],
       "en": [
-        "About 45°–60°",
         "About 10°",
         "Just above 90°",
-        "At no angle"
+        "At no angle",
+        "About 45°–60°"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "कर्तन को मिट्टी की सतह से लगभग 45°–60° के कोण पर रखा जाता है।",
       "en": "The cutting is inserted into the soil at an angle of about 45°–60°."
@@ -1045,19 +1045,19 @@
     },
     "options": {
       "hi": [
+        "एक वर्ष",
         "10–15 दिन",
         "1–2 दिन",
-        "90–100 दिन",
-        "एक वर्ष"
+        "90–100 दिन"
       ],
       "en": [
+        "One year",
         "10–15 days",
         "1–2 days",
-        "90–100 days",
-        "One year"
+        "90–100 days"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "परतन में दबी टहनी पर लगभग 10–15 दिनों में जड़ें विकसित होती हैं।",
       "en": "In layering, roots develop on the buried twig in about 10–15 days."
@@ -1073,19 +1073,19 @@
     },
     "options": {
       "hi": [
-        "प्ररोह शीर्ष (शीर्षस्थ विभज्योतक)",
-        "केवल बीज",
         "केवल फल",
-        "केवल मृत कोशिकाएँ"
+        "केवल मृत कोशिकाएँ",
+        "प्ररोह शीर्ष (शीर्षस्थ विभज्योतक)",
+        "केवल बीज"
       ],
       "en": [
-        "Shoot tip (apical meristem)",
-        "Only seeds",
         "Only fruits",
-        "Only dead cells"
+        "Only dead cells",
+        "Shoot tip (apical meristem)",
+        "Only seeds"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "ऊतक संवर्धन में प्ररोह शीर्ष (apical meristem) से स्वस्थ पादपक बड़ी संख्या में बनते हैं।",
       "en": "Tissue culture raises healthy plantlets in large numbers from the shoot tip (apical meristem)."
@@ -1101,19 +1101,19 @@
     },
     "options": {
       "hi": [
-        "विषाणु-मुक्त पौधे बड़ी संख्या में मिलते हैं",
         "केवल बीज बनते हैं",
         "केवल फल बढ़ते हैं",
-        "पौधे कभी नहीं मरते"
+        "पौधे कभी नहीं मरते",
+        "विषाणु-मुक्त पौधे बड़ी संख्या में मिलते हैं"
       ],
       "en": [
-        "Virus-free plants are obtained in large numbers",
         "Only seeds form",
         "Only fruits grow",
-        "Plants never die"
+        "Plants never die",
+        "Virus-free plants are obtained in large numbers"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "ऊतक संवर्धन से विषाणु-मुक्त, स्वस्थ पौधे बड़ी संख्या में प्राप्त होते हैं।",
       "en": "Tissue culture gives virus-free, healthy plants in large numbers."
@@ -1157,19 +1157,19 @@
     },
     "options": {
       "hi": [
+        "चार",
         "एक",
         "दो",
-        "तीन",
-        "चार"
+        "तीन"
       ],
       "en": [
+        "Four",
         "One",
         "Two",
-        "Three",
-        "Four"
+        "Three"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "कायिक प्रवर्धन अलैंगिक जनन है, इसमें केवल एक ही जनक होता है।",
       "en": "Vegetative propagation is asexual, involving only one parent."
@@ -1185,19 +1185,19 @@
     },
     "options": {
       "hi": [
-        "आनुवंशिक रूप से समान",
-        "पूर्णतः भिन्न",
         "केवल आधे समान",
-        "हमेशा छोटे"
+        "हमेशा छोटे",
+        "आनुवंशिक रूप से समान",
+        "पूर्णतः भिन्न"
       ],
       "en": [
-        "Genetically identical",
-        "Completely different",
         "Only half similar",
-        "Always smaller"
+        "Always smaller",
+        "Genetically identical",
+        "Completely different"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "कायिक प्रवर्धन में एक ही जनक होने से पौधे आनुवंशिक रूप से समान होते हैं।",
       "en": "With one parent, vegetative propagation produces genetically identical plants."
@@ -1213,19 +1213,19 @@
     },
     "options": {
       "hi": [
-        "तने की कर्तन",
         "केवल बीज",
         "केवल फल",
-        "केवल फूल"
+        "केवल फूल",
+        "तने की कर्तन"
       ],
       "en": [
-        "Stem cutting",
         "Only seeds",
         "Only fruits",
-        "Only flowers"
+        "Only flowers",
+        "Stem cutting"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "मनीप्लांट के तने की कर्तन नया पौधा बनाती है।",
       "en": "A stem cutting of money plant grows into a new plant."
@@ -1241,19 +1241,19 @@
     },
     "options": {
       "hi": [
-        "कर्तन",
-        "कलम बाँधना",
         "बीज से अंकुरण",
-        "परतन"
+        "परतन",
+        "कर्तन",
+        "कलम बाँधना"
       ],
       "en": [
-        "Cutting",
-        "Grafting",
         "Germination from seed",
-        "Layering"
+        "Layering",
+        "Cutting",
+        "Grafting"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "hi": "बीज से अंकुरण लैंगिक जनन का भाग है; कर्तन, कलम बाँधना और परतन कायिक प्रवर्धन हैं।",
       "en": "Germination from seed is sexual; cutting, grafting and layering are vegetative propagation."
@@ -1269,19 +1269,19 @@
     },
     "options": {
       "hi": [
+        "क्योंकि परागण होता है",
         "क्योंकि इसमें एक ही जनक होता है",
         "क्योंकि दो जनक होते हैं",
-        "क्योंकि बीज बनते हैं",
-        "क्योंकि परागण होता है"
+        "क्योंकि बीज बनते हैं"
       ],
       "en": [
+        "Because pollination occurs",
         "Because there is a single parent",
         "Because there are two parents",
-        "Because seeds form",
-        "Because pollination occurs"
+        "Because seeds form"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "एक ही जनक से उत्पन्न होने के कारण संतति आनुवंशिक रूप से समान होती है।",
       "en": "Coming from a single parent, the offspring are genetically identical."
@@ -1297,19 +1297,19 @@
     },
     "options": {
       "hi": [
-        "एक किस्म के तने का भाग दूसरी की चीरे में बैठाकर",
-        "केवल बीज मिलाकर",
         "केवल पत्तियाँ जोड़कर",
-        "केवल फूल चिपकाकर"
+        "केवल फूल चिपकाकर",
+        "एक किस्म के तने का भाग दूसरी की चीरे में बैठाकर",
+        "केवल बीज मिलाकर"
       ],
       "en": [
-        "By fitting a stem piece of one variety into a slit of another",
-        "Only by mixing seeds",
         "Only by joining leaves",
-        "Only by pasting flowers"
+        "Only by pasting flowers",
+        "By fitting a stem piece of one variety into a slit of another",
+        "Only by mixing seeds"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "कलम बाँधने में एक किस्म के तने का भाग दूसरी किस्म की चीरे में बैठाया जाता है।",
       "en": "Grafting fits a stem piece of one variety into a slit of another variety."
@@ -1325,19 +1325,19 @@
     },
     "options": {
       "hi": [
-        "मध्य भाग",
         "केवल शीर्ष",
         "केवल फूल",
-        "केवल काँटे"
+        "केवल काँटे",
+        "मध्य भाग"
       ],
       "en": [
-        "The middle part",
         "Only the tip",
         "Only the flower",
-        "Only the thorns"
+        "Only the thorns",
+        "The middle part"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "परतन में टहनी का मध्य भाग मिट्टी में दबाया जाता है, जहाँ से जड़ें निकलती हैं।",
       "en": "In layering, the middle part of a twig is buried in soil, where roots develop."
@@ -1381,19 +1381,19 @@
     },
     "options": {
       "hi": [
+        "Grafting",
         "Tissue culture",
         "Layering",
-        "Cutting",
-        "Grafting"
+        "Cutting"
       ],
       "en": [
+        "Grafting",
         "Tissue culture",
         "Layering",
-        "Cutting",
-        "Grafting"
+        "Cutting"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "ऊतक संवर्धन को अंग्रेजी में tissue culture कहते हैं।",
       "en": "ऊतक संवर्धन is called tissue culture in English."
@@ -1409,19 +1409,19 @@
     },
     "options": {
       "hi": [
-        "ब्रायोफिलम",
-        "गेहूँ",
         "चावल",
-        "मक्का"
+        "मक्का",
+        "ब्रायोफिलम",
+        "गेहूँ"
       ],
       "en": [
-        "Bryophyllum",
-        "Wheat",
         "Rice",
-        "Maize"
+        "Maize",
+        "Bryophyllum",
+        "Wheat"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "ब्रायोफिलम की पत्तियों पर छोटे पादपक निकलकर नए पौधे बनते हैं।",
       "en": "Bryophyllum leaves bear tiny plantlets that grow into new plants."
@@ -1437,19 +1437,19 @@
     },
     "options": {
       "hi": [
-        "जल की हानि कम करने और रोपण आसान बनाने के लिए",
         "केवल सजावट के लिए",
         "केवल फल बढ़ाने के लिए",
-        "केवल रंग बदलने के लिए"
+        "केवल रंग बदलने के लिए",
+        "जल की हानि कम करने और रोपण आसान बनाने के लिए"
       ],
       "en": [
-        "To reduce water loss and ease planting",
         "Only for decoration",
         "Only to increase fruit",
-        "Only to change colour"
+        "Only to change colour",
+        "To reduce water loss and ease planting"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "निचले आधे भाग की पत्तियाँ हटाने से जल की हानि कम होती है और रोपण आसान होता है।",
       "en": "Removing lower-half leaves reduces water loss and makes planting easier."
@@ -1493,19 +1493,19 @@
     },
     "options": {
       "hi": [
+        "दोनों कभी नहीं उगते",
         "दोनों भूमिगत तने से नए पौधे बनाते हैं",
         "दोनों केवल बीज से उगते हैं",
-        "दोनों केवल फूल से उगते हैं",
-        "दोनों कभी नहीं उगते"
+        "दोनों केवल फूल से उगते हैं"
       ],
       "en": [
+        "Both never grow",
         "Both grow new plants from underground stems",
         "Both grow only from seeds",
-        "Both grow only from flowers",
-        "Both never grow"
+        "Both grow only from flowers"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "आलू और अदरक दोनों अपने भूमिगत तने से नए पौधे बनाते हैं।",
       "en": "Both potato and ginger produce new plants from their underground stems."
@@ -1521,19 +1521,19 @@
     },
     "options": {
       "hi": [
-        "क्योंकि वे आनुवंशिक रूप से समान होते हैं",
-        "क्योंकि उनमें विभिन्नता होती है",
         "क्योंकि वे बीज से बनते हैं",
-        "क्योंकि उनमें परागण होता है"
+        "क्योंकि उनमें परागण होता है",
+        "क्योंकि वे आनुवंशिक रूप से समान होते हैं",
+        "क्योंकि उनमें विभिन्नता होती है"
       ],
       "en": [
-        "Because they are genetically identical",
-        "Because they show variation",
         "Because they come from seeds",
-        "Because pollination occurs"
+        "Because pollination occurs",
+        "Because they are genetically identical",
+        "Because they show variation"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "आनुवंशिक समानता के कारण एक ही रोग पूरी फसल को प्रभावित कर सकता है।",
       "en": "Genetic uniformity means a single disease can affect the whole crop."
@@ -1549,19 +1549,19 @@
     },
     "options": {
       "hi": [
-        "यीस्ट",
         "मनुष्य",
         "गाय",
-        "आम"
+        "आम",
+        "यीस्ट"
       ],
       "en": [
-        "Yeast",
         "Human",
         "Cow",
-        "Mango"
+        "Mango",
+        "Yeast"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "यीस्ट मुकुलन द्वारा अलैंगिक जनन करता है।",
       "en": "Yeast reproduces asexually by budding."
@@ -1605,19 +1605,19 @@
     },
     "options": {
       "hi": [
+        "सरीसृप",
         "कवक",
         "स्तनधारी",
-        "पक्षी",
-        "सरीसृप"
+        "पक्षी"
       ],
       "en": [
+        "Reptiles",
         "Fungi",
         "Mammals",
-        "Birds",
-        "Reptiles"
+        "Birds"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "कवकों (जैसे ब्रेड पर लगने वाला फफूँद) में बीजाणु निर्माण होता है।",
       "en": "Fungi, such as bread mould, reproduce by spore formation."
@@ -1633,19 +1633,19 @@
     },
     "options": {
       "hi": [
-        "वायु में उपस्थित बीजाणुओं से",
-        "केवल पानी से",
         "केवल नमक से",
-        "केवल शक्कर से"
+        "केवल शक्कर से",
+        "वायु में उपस्थित बीजाणुओं से",
+        "केवल पानी से"
       ],
       "en": [
-        "Spores present in the air",
-        "Only water",
         "Only salt",
-        "Only sugar"
+        "Only sugar",
+        "Spores present in the air",
+        "Only water"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "वायु में उपस्थित बीजाणु नम ब्रेड पर बैठकर फफूँद बनाते हैं।",
       "en": "Spores in the air settle on moist bread and grow into mould."
@@ -1661,19 +1661,19 @@
     },
     "options": {
       "hi": [
-        "कोशिका विभाजन से",
         "केवल बीज से",
         "केवल परागण से",
-        "केवल निषेचन से"
+        "केवल निषेचन से",
+        "कोशिका विभाजन से"
       ],
       "en": [
-        "By cell division",
         "Only by seeds",
         "Only by pollination",
-        "Only by fertilisation"
+        "Only by fertilisation",
+        "By cell division"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "जीवाणु कोशिका विभाजन द्वारा अलैंगिक जनन करते हैं।",
       "en": "Bacteria reproduce asexually by cell division."
@@ -1717,19 +1717,19 @@
     },
     "options": {
       "hi": [
+        "कोई विभाजन नहीं",
         "समसूत्री विभाजन",
         "अर्धसूत्री विभाजन",
-        "केवल संलयन",
-        "कोई विभाजन नहीं"
+        "केवल संलयन"
       ],
       "en": [
+        "No division",
         "Mitosis",
         "Meiosis",
-        "Only fusion",
-        "No division"
+        "Only fusion"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "अलैंगिक जनन समसूत्री विभाजन (mitosis) पर आधारित है।",
       "en": "Asexual reproduction is based on mitosis."
@@ -1745,19 +1745,19 @@
     },
     "options": {
       "hi": [
-        "क्लोन",
-        "संकर",
         "भ्रूण",
-        "युग्मनज"
+        "युग्मनज",
+        "क्लोन",
+        "संकर"
       ],
       "en": [
-        "Clones",
-        "Hybrids",
         "Embryo",
-        "Zygote"
+        "Zygote",
+        "Clones",
+        "Hybrids"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "अलैंगिक जनन से बनी समान संतति क्लोन कहलाती है।",
       "en": "Identical offspring of asexual reproduction are called clones."
@@ -1773,19 +1773,19 @@
     },
     "options": {
       "hi": [
-        "वायु",
         "केवल मिट्टी",
         "केवल लकड़ी",
-        "केवल धातु"
+        "केवल धातु",
+        "वायु"
       ],
       "en": [
-        "Air",
         "Only soil",
         "Only wood",
-        "Only metal"
+        "Only metal",
+        "Air"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "बीजाणु हल्के होते हैं और वायु की धाराओं से आसानी से फैलते हैं।",
       "en": "Spores are light and spread easily through air currents."
@@ -1829,19 +1829,19 @@
     },
     "options": {
       "hi": [
+        "प्रकाश संश्लेषण",
         "स्वतः जनन (जीव निर्जीव से बनते हैं)",
         "पृथ्वी गोल है",
-        "रक्त परिसंचरण",
-        "प्रकाश संश्लेषण"
+        "रक्त परिसंचरण"
       ],
       "en": [
+        "Photosynthesis",
         "Spontaneous generation (life from non-living)",
         "Earth is round",
-        "Blood circulation",
-        "Photosynthesis"
+        "Blood circulation"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "पाश्चर ने सिद्ध किया कि नया जीवन पहले से उपस्थित जीवन से ही बनता है, निर्जीव से नहीं।",
       "en": "Pasteur proved that new life comes only from pre-existing life, not from non-living matter."
@@ -1857,19 +1857,19 @@
     },
     "options": {
       "hi": [
-        "एककोशिकीय कवक",
-        "बहुकोशिकीय जंतु",
         "एककोशिकीय शैवाल",
-        "बहुकोशिकीय पादप"
+        "बहुकोशिकीय पादप",
+        "एककोशिकीय कवक",
+        "बहुकोशिकीय जंतु"
       ],
       "en": [
-        "Unicellular fungus",
-        "Multicellular animal",
         "Unicellular alga",
-        "Multicellular plant"
+        "Multicellular plant",
+        "Unicellular fungus",
+        "Multicellular animal"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "यीस्ट एक एककोशिकीय कवक है जो मुकुलन से जनन करता है।",
       "en": "Yeast is a unicellular fungus that reproduces by budding."
@@ -1885,19 +1885,19 @@
     },
     "options": {
       "hi": [
-        "छोटा उभार (मुकुल)",
         "बीज",
         "फूल",
-        "फल"
+        "फल",
+        "छोटा उभार (मुकुल)"
       ],
       "en": [
-        "A small outgrowth (bud)",
         "Seed",
         "Flower",
-        "Fruit"
+        "Fruit",
+        "A small outgrowth (bud)"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "मुकुलन में जनक के शरीर पर छोटा उभार बनता है जो बढ़कर नया जीव बन जाता है।",
       "en": "In budding, a small outgrowth appears on the parent that grows into a new organism."
@@ -1941,19 +1941,19 @@
     },
     "options": {
       "hi": [
+        "केवल हवा का दबाव",
         "नमी और पोषण",
         "केवल प्रकाश",
-        "केवल ध्वनि",
-        "केवल हवा का दबाव"
+        "केवल ध्वनि"
       ],
       "en": [
+        "Only air pressure",
         "Moisture and nutrients",
         "Only light",
-        "Only sound",
-        "Only air pressure"
+        "Only sound"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "बीजाणु नमी और पोषक तत्व मिलने पर अंकुरित होकर नया जीव बनाते हैं।",
       "en": "Spores germinate into new organisms when they get moisture and nutrients."
@@ -1969,19 +1969,19 @@
     },
     "options": {
       "hi": [
-        "जनक के समान",
-        "जनक से आधी",
         "जनक से दोगुनी",
-        "शून्य"
+        "शून्य",
+        "जनक के समान",
+        "जनक से आधी"
       ],
       "en": [
-        "Same as the parent",
-        "Half of the parent",
         "Double the parent",
-        "Zero"
+        "Zero",
+        "Same as the parent",
+        "Half of the parent"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "समसूत्री विभाजन में गुणसूत्र संख्या जनक के समान रहती है।",
       "en": "Mitosis keeps the chromosome number the same as the parent."
@@ -1997,19 +1997,19 @@
     },
     "options": {
       "hi": [
-        "अनुकूल परिस्थितियों में तेजी से",
         "केवल धीरे-धीरे",
         "केवल बीज से",
-        "केवल परागण से"
+        "केवल परागण से",
+        "अनुकूल परिस्थितियों में तेजी से"
       ],
       "en": [
-        "Rapidly under favourable conditions",
         "Only slowly",
         "Only by seeds",
-        "Only by pollination"
+        "Only by pollination",
+        "Rapidly under favourable conditions"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "अलैंगिक जनन तेज होता है, इसलिए अनुकूल परिस्थितियों में जनसंख्या तेजी से बढ़ती है।",
       "en": "Asexual reproduction is fast, so populations grow rapidly under favourable conditions."
@@ -2053,19 +2053,19 @@
     },
     "options": {
       "hi": [
+        "स्तनधारी",
         "सरल बहुकोशिकीय जीव",
         "एककोशिकीय जीवाणु",
-        "पुष्पीय पादप",
-        "स्तनधारी"
+        "पुष्पीय पादप"
       ],
       "en": [
+        "Mammal",
         "Simple multicellular organism",
         "Unicellular bacterium",
-        "Flowering plant",
-        "Mammal"
+        "Flowering plant"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "स्पंज एक सरल बहुकोशिकीय जीव है जो अलैंगिक जनन करता है।",
       "en": "Sponge is a simple multicellular organism that reproduces asexually."
@@ -2081,19 +2081,19 @@
     },
     "options": {
       "hi": [
-        "थैली जैसी संरचना में",
-        "फूल में",
         "फल में",
-        "बीज में"
+        "बीज में",
+        "थैली जैसी संरचना में",
+        "फूल में"
       ],
       "en": [
-        "In a sac-like structure",
-        "In the flower",
         "In the fruit",
-        "In the seed"
+        "In the seed",
+        "In a sac-like structure",
+        "In the flower"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "कवकों में बीजाणु थैली जैसी संरचना में बनते हैं।",
       "en": "In fungi, spores are formed in a sac-like structure."
@@ -2109,19 +2109,19 @@
     },
     "options": {
       "hi": [
-        "कोशिका विभाजन से दो भागों में बँटकर",
         "बीज से",
         "परागण से",
-        "निषेचन से"
+        "निषेचन से",
+        "कोशिका विभाजन से दो भागों में बँटकर"
       ],
       "en": [
-        "By dividing into two by cell division",
         "From a seed",
         "By pollination",
-        "By fertilisation"
+        "By fertilisation",
+        "By dividing into two by cell division"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "जीवाणु कोशिका विभाजन से दो नए जीवाणुओं में बँट जाता है।",
       "en": "A bacterium divides into two new bacteria by cell division."
@@ -2165,19 +2165,19 @@
     },
     "options": {
       "hi": [
+        "कभी-कभी समान",
         "समान",
         "भिन्न",
-        "केवल आधी समान",
-        "कभी-कभी समान"
+        "केवल आधी समान"
       ],
       "en": [
+        "Sometimes similar",
         "Identical",
         "Different",
-        "Only half similar",
-        "Sometimes similar"
+        "Only half similar"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "अलैंगिक जनन की संतति आनुवंशिक रूप से समान होती है।",
       "en": "Asexual offspring are genetically identical."
@@ -2193,19 +2193,19 @@
     },
     "options": {
       "hi": [
-        "निषेचन",
-        "मुकुलन",
         "बीजाणु निर्माण",
-        "कायिक प्रवर्धन"
+        "कायिक प्रवर्धन",
+        "निषेचन",
+        "मुकुलन"
       ],
       "en": [
-        "Fertilisation",
-        "Budding",
         "Spore formation",
-        "Vegetative propagation"
+        "Vegetative propagation",
+        "Fertilisation",
+        "Budding"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "निषेचन लैंगिक जनन की प्रक्रिया है; शेष तीनों अलैंगिक हैं।",
       "en": "Fertilisation is part of sexual reproduction; the other three are asexual."
@@ -2221,19 +2221,19 @@
     },
     "options": {
       "hi": [
-        "कम ताप पर कवक और जीवाणुओं का जनन रुक जाता है",
         "केवल भोजन मीठा हो जाता है",
         "केवल भोजन सूख जाता है",
-        "केवल भोजन गर्म हो जाता है"
+        "केवल भोजन गर्म हो जाता है",
+        "कम ताप पर कवक और जीवाणुओं का जनन रुक जाता है"
       ],
       "en": [
-        "Low temperature stops reproduction of fungi and bacteria",
         "Food only becomes sweet",
         "Food only dries",
-        "Food only heats up"
+        "Food only heats up",
+        "Low temperature stops reproduction of fungi and bacteria"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "कम तापमान पर कवकों और जीवाणुओं का जनन रुक जाने से भोजन खराब नहीं होता।",
       "en": "Low temperature stops fungi and bacteria from reproducing, so food does not spoil."
@@ -2277,19 +2277,19 @@
     },
     "options": {
       "hi": [
+        "केवल फल बनाना",
         "कली अवस्था में पुष्प की रक्षा करना",
         "केवल परागण करना",
-        "केवल बीज बनाना",
-        "केवल फल बनाना"
+        "केवल बीज बनाना"
       ],
       "en": [
+        "Only fruit formation",
         "Protecting the flower in the bud stage",
         "Only pollination",
-        "Only seed formation",
-        "Only fruit formation"
+        "Only seed formation"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "बाह्यदल कली अवस्था में पुष्प के भागों की रक्षा करते हैं।",
       "en": "Sepals protect the flower parts in the bud stage."
@@ -2305,19 +2305,19 @@
     },
     "options": {
       "hi": [
-        "परागणकों को आकर्षित करना",
-        "केवल जल सोखना",
         "केवल भोजन बनाना",
-        "केवल सहारा देना"
+        "केवल सहारा देना",
+        "परागणकों को आकर्षित करना",
+        "केवल जल सोखना"
       ],
       "en": [
-        "Attracting pollinators",
-        "Only absorbing water",
         "Only making food",
-        "Only giving support"
+        "Only giving support",
+        "Attracting pollinators",
+        "Only absorbing water"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "रंगीन दल परागणकों (कीट, पक्षी) को आकर्षित करते हैं।",
       "en": "Coloured petals attract pollinators such as insects and birds."
@@ -2333,19 +2333,19 @@
     },
     "options": {
       "hi": [
-        "पुंकेसर",
         "स्त्रीकेसर",
         "बाह्यदल",
-        "दल"
+        "दल",
+        "पुंकेसर"
       ],
       "en": [
-        "Stamen",
         "Pistil",
         "Sepal",
-        "Petal"
+        "Petal",
+        "Stamen"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "पुंकेसर (stamen) पुष्प का नर जनन अंग है।",
       "en": "The stamen is the male reproductive part of a flower."
@@ -2389,19 +2389,19 @@
     },
     "options": {
       "hi": [
+        "बाह्यदल में",
         "परागकोश में",
         "वर्तिकाग्र में",
-        "अंडाशय में",
-        "बाह्यदल में"
+        "अंडाशय में"
       ],
       "en": [
+        "In the sepal",
         "In the anther",
         "In the stigma",
-        "In the ovary",
-        "In the sepal"
+        "In the ovary"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "पुंकेसर के परागकोश में परागकण बनते हैं, जिनमें नर युग्मक होते हैं।",
       "en": "The anther of the stamen produces pollen grains containing male gametes."
@@ -2417,19 +2417,19 @@
     },
     "options": {
       "hi": [
-        "बीजांड में",
-        "परागकोश में",
         "दल में",
-        "बाह्यदल में"
+        "बाह्यदल में",
+        "बीजांड में",
+        "परागकोश में"
       ],
       "en": [
-        "In the ovule",
-        "In the anther",
         "In the petal",
-        "In the sepal"
+        "In the sepal",
+        "In the ovule",
+        "In the anther"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "अंडाशय के बीजांड में अंडाणु (मादा युग्मक) होता है।",
       "en": "The ovule inside the ovary contains the egg cell (female gamete)."
@@ -2445,19 +2445,19 @@
     },
     "options": {
       "hi": [
-        "परागकणों का परागकोश से वर्तिकाग्र तक स्थानांतरण",
         "युग्मकों का संलयन",
         "बीज का अंकुरण",
-        "फल का पकना"
+        "फल का पकना",
+        "परागकणों का परागकोश से वर्तिकाग्र तक स्थानांतरण"
       ],
       "en": [
-        "Transfer of pollen from anther to stigma",
         "Fusion of gametes",
         "Germination of seed",
-        "Ripening of fruit"
+        "Ripening of fruit",
+        "Transfer of pollen from anther to stigma"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "परागकणों का परागकोश से वर्तिकाग्र तक स्थानांतरण परागण कहलाता है।",
       "en": "Pollination is the transfer of pollen grains from the anther to the stigma."
@@ -2501,19 +2501,19 @@
     },
     "options": {
       "hi": [
+        "केवल स्व-स्थानांतरण",
         "एक पौधे के परागकोश से दूसरे पौधे के पुष्प के वर्तिकाग्र तक पराग स्थानांतरण",
         "उसी पुष्प में पराग स्थानांतरण",
-        "केवल कीट द्वारा परागण",
-        "केवल स्व-स्थानांतरण"
+        "केवल कीट द्वारा परागण"
       ],
       "en": [
+        "Only self-transfer",
         "Pollen transfer from the anther of one plant to the stigma of a flower of another plant",
         "Pollen transfer within the same flower",
-        "Only pollination by insects",
-        "Only self-transfer"
+        "Only pollination by insects"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "पर-परागण में एक पौधे का पराग दूसरे पौधे के पुष्प के वर्तिकाग्र तक जाता है।",
       "en": "In cross-pollination, pollen goes from one plant to the stigma of a flower of another plant."
@@ -2529,19 +2529,19 @@
     },
     "options": {
       "hi": [
-        "गेहूँ, मक्का, चावल",
-        "सूरजमुखी, गुड़हल",
         "गेंदा, गुलाब",
-        "कॉरल ट्री"
+        "कॉरल ट्री",
+        "गेहूँ, मक्का, चावल",
+        "सूरजमुखी, गुड़हल"
       ],
       "en": [
-        "Wheat, maize, rice",
-        "Sunflower, hibiscus",
         "Marigold, rose",
-        "Coral tree"
+        "Coral tree",
+        "Wheat, maize, rice",
+        "Sunflower, hibiscus"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "गेहूँ, मक्का और चावल में वायु द्वारा परागण होता है।",
       "en": "Wheat, maize and rice are pollinated by wind."
@@ -2557,19 +2557,19 @@
     },
     "options": {
       "hi": [
-        "Vallisneria और Hydrilla",
         "गेहूँ और चावल",
         "सूरजमुखी",
-        "गुड़हल"
+        "गुड़हल",
+        "Vallisneria और Hydrilla"
       ],
       "en": [
-        "Vallisneria and Hydrilla",
         "Wheat and rice",
         "Sunflower",
-        "Hibiscus"
+        "Hibiscus",
+        "Vallisneria and Hydrilla"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "Vallisneria और Hydrilla जैसे जलीय पादपों में जल द्वारा परागण होता है।",
       "en": "Aquatic plants like Vallisneria and Hydrilla are pollinated by water."
@@ -2613,19 +2613,19 @@
     },
     "options": {
       "hi": [
+        "Vallisneria और Hydrilla",
         "कॉरल ट्री और गुड़हल",
         "गेहूँ और मक्का",
-        "चावल और गन्ना",
-        "Vallisneria और Hydrilla"
+        "चावल और गन्ना"
       ],
       "en": [
+        "Vallisneria and Hydrilla",
         "Coral tree and hibiscus",
         "Wheat and maize",
-        "Rice and sugarcane",
-        "Vallisneria and Hydrilla"
+        "Rice and sugarcane"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "कॉरल ट्री और गुड़हल के पुष्प पक्षियों (जैसे सनबर्ड) द्वारा परागित होते हैं।",
       "en": "Coral tree and hibiscus flowers are pollinated by birds such as sunbirds."
@@ -2641,19 +2641,19 @@
     },
     "options": {
       "hi": [
-        "हल्के, छोटे और बड़ी संख्या में",
-        "भारी और चिपचिपे",
         "केवल काँटेदार",
-        "केवल बड़े"
+        "केवल बड़े",
+        "हल्के, छोटे और बड़ी संख्या में",
+        "भारी और चिपचिपे"
       ],
       "en": [
-        "Light, small and in large numbers",
-        "Heavy and sticky",
         "Only spiny",
-        "Only large"
+        "Only large",
+        "Light, small and in large numbers",
+        "Heavy and sticky"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "वायु परागित पुष्पों में परागकण हल्के, छोटे और बड़ी संख्या में बनते हैं।",
       "en": "Wind-pollinated flowers produce light, small pollen in large numbers."
@@ -2669,19 +2669,19 @@
     },
     "options": {
       "hi": [
-        "नर और मादा युग्मकों का संलयन",
         "पराग का स्थानांतरण",
         "बीज का अंकुरण",
-        "फल का बनना"
+        "फल का बनना",
+        "नर और मादा युग्मकों का संलयन"
       ],
       "en": [
-        "Fusion of male and female gametes",
         "Transfer of pollen",
         "Germination of seed",
-        "Formation of fruit"
+        "Formation of fruit",
+        "Fusion of male and female gametes"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "नर युग्मक का अंडाणु से संलयन निषेचन कहलाता है।",
       "en": "Fertilisation is the fusion of the male gamete with the egg cell."
@@ -2725,19 +2725,19 @@
     },
     "options": {
       "hi": [
+        "फल",
         "युग्मनज",
         "भ्रूण",
-        "बीज",
-        "फल"
+        "बीज"
       ],
       "en": [
+        "Fruit",
         "Zygote",
         "Embryo",
-        "Seed",
-        "Fruit"
+        "Seed"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "निषेचित अंडा युग्मनज कहलाता है, जो बाद में भ्रूण बनता है।",
       "en": "The fertilised egg is called a zygote, which later develops into an embryo."
@@ -2753,19 +2753,19 @@
     },
     "options": {
       "hi": [
-        "फल",
-        "बीज",
         "पत्ती",
-        "जड़"
+        "जड़",
+        "फल",
+        "बीज"
       ],
       "en": [
-        "Fruit",
-        "Seed",
         "Leaf",
-        "Root"
+        "Root",
+        "Fruit",
+        "Seed"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "निषेचन के बाद अंडाशय फल में विकसित होता है।",
       "en": "After fertilisation, the ovary develops into the fruit."
@@ -2781,19 +2781,19 @@
     },
     "options": {
       "hi": [
-        "बीज",
         "फल",
         "दल",
-        "बाह्यदल"
+        "बाह्यदल",
+        "बीज"
       ],
       "en": [
-        "Seeds",
         "Fruit",
         "Petal",
-        "Sepal"
+        "Sepal",
+        "Seeds"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "निषेचन के बाद बीजांड बीज में विकसित होते हैं।",
       "en": "After fertilisation, the ovules develop into seeds."
@@ -2837,19 +2837,19 @@
     },
     "options": {
       "hi": [
+        "केवल मिट्टी का रंग",
         "जल, वायु और उपयुक्त ताप",
         "केवल प्रकाश",
-        "केवल ध्वनि",
-        "केवल मिट्टी का रंग"
+        "केवल ध्वनि"
       ],
       "en": [
+        "Only soil colour",
         "Water, air and suitable temperature",
         "Only light",
-        "Only sound",
-        "Only soil colour"
+        "Only sound"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "जल, वायु और उपयुक्त तापमान मिलने पर बीज अंकुरित होता है।",
       "en": "A seed germinates when it gets water, air and suitable temperature."
@@ -2865,19 +2865,19 @@
     },
     "options": {
       "hi": [
-        "पी. माहेश्वरी",
-        "लुई पाश्चर",
         "रॉबर्ट हुक",
-        "मेंडल"
+        "मेंडल",
+        "पी. माहेश्वरी",
+        "लुई पाश्चर"
       ],
       "en": [
-        "P. Maheshwari",
-        "Louis Pasteur",
         "Robert Hooke",
-        "Mendel"
+        "Mendel",
+        "P. Maheshwari",
+        "Louis Pasteur"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "पी. माहेश्वरी को 'भारतीय भ्रूण विज्ञान के जनक' के रूप में जाना जाता है।",
       "en": "P. Maheshwari is known as the 'Father of Indian Embryology'."
@@ -2893,19 +2893,19 @@
     },
     "options": {
       "hi": [
-        "पुष्प से पुंकेसर हटाए जाते हैं",
         "केवल पानी दिया जाता है",
         "केवल फल तोड़ा जाता है",
-        "केवल जड़ काटी जाती है"
+        "केवल जड़ काटी जाती है",
+        "पुष्प से पुंकेसर हटाए जाते हैं"
       ],
       "en": [
-        "The stamens are removed from the flower",
         "Only water is given",
         "Only the fruit is plucked",
-        "Only the root is cut"
+        "Only the root is cut",
+        "The stamens are removed from the flower"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "कृत्रिम संकरण में स्व-परागण रोकने के लिए पहले पुंकेसर हटाए जाते हैं।",
       "en": "In artificial hybridisation, stamens are removed first to prevent self-pollination."
@@ -2949,19 +2949,19 @@
     },
     "options": {
       "hi": [
+        "पक्षी",
         "वायु",
         "जल",
-        "कीट",
-        "पक्षी"
+        "कीट"
       ],
       "en": [
+        "Birds",
         "Wind",
         "Water",
-        "Insects",
-        "Birds"
+        "Insects"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "मक्का वायु द्वारा परागित होता है।",
       "en": "Maize is pollinated by wind."
@@ -2977,19 +2977,19 @@
     },
     "options": {
       "hi": [
-        "पर-परागण",
-        "केवल स्व-परागण",
         "केवल जल परागण",
-        "कोई परागण नहीं"
+        "कोई परागण नहीं",
+        "पर-परागण",
+        "केवल स्व-परागण"
       ],
       "en": [
-        "Cross-pollination",
-        "Only self-pollination",
         "Only water pollination",
-        "No pollination"
+        "No pollination",
+        "Cross-pollination",
+        "Only self-pollination"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "पपीते में नर और मादा पुष्प प्रायः अलग-अलग पौधों पर होते हैं, इसलिए पर-परागण होता है।",
       "en": "In papaya, male and female flowers are often on different trees, so cross-pollination occurs."
@@ -3005,19 +3005,19 @@
     },
     "options": {
       "hi": [
-        "वर्तिकाग्र, वर्तिका, अंडाशय",
         "तंतु, परागकोश, दल",
         "बाह्यदल, दल, तंतु",
-        "परागकोश, वर्तिका, दल"
+        "परागकोश, वर्तिका, दल",
+        "वर्तिकाग्र, वर्तिका, अंडाशय"
       ],
       "en": [
-        "Stigma, style, ovary",
         "Filament, anther, petal",
         "Sepal, petal, filament",
-        "Anther, style, petal"
+        "Anther, style, petal",
+        "Stigma, style, ovary"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "स्त्रीकेसर के तीन भाग वर्तिकाग्र, वर्तिका और अंडाशय हैं।",
       "en": "The pistil has three parts—stigma, style and ovary."
@@ -3061,19 +3061,19 @@
     },
     "options": {
       "hi": [
+        "कुछ नहीं बदलेगा",
         "फल और बीज नहीं बनेंगे",
         "केवल फल बनेंगे",
-        "केवल पत्तियाँ बढ़ेंगी",
-        "कुछ नहीं बदलेगा"
+        "केवल पत्तियाँ बढ़ेंगी"
       ],
       "en": [
+        "Nothing will change",
         "Fruits and seeds will not form",
         "Only fruits will form",
-        "Only leaves will grow",
-        "Nothing will change"
+        "Only leaves will grow"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "परागण के बिना निषेचन नहीं होगा और फल-बीज नहीं बनेंगे।",
       "en": "Without pollination there is no fertilisation, so fruits and seeds will not form."
@@ -3089,19 +3089,19 @@
     },
     "options": {
       "hi": [
-        "शुक्राणु",
-        "अंडाणु",
         "युग्मनज",
-        "भ्रूण"
+        "भ्रूण",
+        "शुक्राणु",
+        "अंडाणु"
       ],
       "en": [
-        "Sperm",
-        "Egg",
         "Zygote",
-        "Embryo"
+        "Embryo",
+        "Sperm",
+        "Egg"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "मानव में नर युग्मक शुक्राणु (sperm) कहलाता है।",
       "en": "In humans, the male gamete is called sperm."
@@ -3117,19 +3117,19 @@
     },
     "options": {
       "hi": [
-        "अंडाणु",
         "शुक्राणु",
         "युग्मनज",
-        "शिशु"
+        "शिशु",
+        "अंडाणु"
       ],
       "en": [
-        "Egg",
         "Sperm",
         "Zygote",
-        "Baby"
+        "Baby",
+        "Egg"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "मानव में मादा युग्मक अंडाणु (egg) कहलाता है।",
       "en": "In humans, the female gamete is called the egg."
@@ -3173,19 +3173,19 @@
     },
     "options": {
       "hi": [
+        "केवल उत्सर्जन करना",
         "वृषणों को शरीर के ताप से थोड़ा ठंडा रखना",
         "केवल भोजन पचाना",
-        "केवल श्वसन करना",
-        "केवल उत्सर्जन करना"
+        "केवल श्वसन करना"
       ],
       "en": [
+        "Only excretion",
         "Keeping the testes slightly cooler than body temperature",
         "Only digesting food",
-        "Only respiration",
-        "Only excretion"
+        "Only respiration"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "अंडकोश वृषणों को शरीर के ताप से थोड़ा कम ताप पर रखता है, जो शुक्राणु निर्माण के लिए आवश्यक है।",
       "en": "The scrotum keeps the testes slightly cooler than body temperature, which is needed for sperm formation."
@@ -3201,19 +3201,19 @@
     },
     "options": {
       "hi": [
-        "वृषण से शुक्राणु को आगे ले जाना",
-        "केवल मूत्र बनाना",
         "केवल अंडाणु बनाना",
-        "केवल हार्मोन बनाना"
+        "केवल हार्मोन बनाना",
+        "वृषण से शुक्राणु को आगे ले जाना",
+        "केवल मूत्र बनाना"
       ],
       "en": [
-        "Carrying sperm from the testes",
-        "Only making urine",
         "Only making eggs",
-        "Only making hormones"
+        "Only making hormones",
+        "Carrying sperm from the testes",
+        "Only making urine"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "शुक्रवाहिनी वृषण से शुक्राणु को मूत्रमार्ग तक ले जाती है।",
       "en": "The vas deferens carries sperm from the testes to the urethra."
@@ -3229,19 +3229,19 @@
     },
     "options": {
       "hi": [
-        "मूत्र और शुक्राणु",
         "मूत्र और अंडाणु",
         "भोजन और जल",
-        "रक्त और वायु"
+        "रक्त और वायु",
+        "मूत्र और शुक्राणु"
       ],
       "en": [
-        "Urine and sperm",
         "Urine and egg",
         "Food and water",
-        "Blood and air"
+        "Blood and air",
+        "Urine and sperm"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "मूत्रमार्ग मूत्र और शुक्राणु दोनों का सामान्य मार्ग है।",
       "en": "The urethra is a common passage for urine and sperm."
@@ -3285,19 +3285,19 @@
     },
     "options": {
       "hi": [
+        "केवल जड़ जैसी",
         "सिर (आनुवंशिक पदार्थ) और लंबी पूँछ",
         "केवल एक गोला",
-        "केवल पत्ती जैसी",
-        "केवल जड़ जैसी"
+        "केवल पत्ती जैसी"
       ],
       "en": [
+        "Only root-like",
         "A head (genetic material) and a long tail",
         "Only a sphere",
-        "Only leaf-like",
-        "Only root-like"
+        "Only leaf-like"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "शुक्राणु में सिर (आनुवंशिक पदार्थ) और तैरने के लिए लंबी पूँछ होती है।",
       "en": "A sperm has a head with genetic material and a long tail for swimming."
@@ -3313,19 +3313,19 @@
     },
     "options": {
       "hi": [
-        "अंडाणु और हार्मोन",
-        "केवल शुक्राणु",
         "केवल मूत्र",
-        "केवल रक्त"
+        "केवल रक्त",
+        "अंडाणु और हार्मोन",
+        "केवल शुक्राणु"
       ],
       "en": [
-        "Eggs and hormones",
-        "Only sperm",
         "Only urine",
-        "Only blood"
+        "Only blood",
+        "Eggs and hormones",
+        "Only sperm"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "अंडाशय अंडाणु (मादा युग्मक) और हार्मोन बनाते हैं।",
       "en": "The ovaries produce eggs and hormones."
@@ -3341,19 +3341,19 @@
     },
     "options": {
       "hi": [
-        "डिंबवाहिनी (oviduct)",
         "गर्भाशय",
         "अंडाशय",
-        "योनि"
+        "योनि",
+        "डिंबवाहिनी (oviduct)"
       ],
       "en": [
-        "Oviduct",
         "Uterus",
         "Ovary",
-        "Vagina"
+        "Vagina",
+        "Oviduct"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "निषेचन डिंबवाहिनी (oviduct) में होता है।",
       "en": "Fertilisation occurs in the oviduct."
@@ -3397,19 +3397,19 @@
     },
     "options": {
       "hi": [
+        "92",
         "46",
         "23",
-        "44",
-        "92"
+        "44"
       ],
       "en": [
+        "92",
         "46",
         "23",
-        "44",
-        "92"
+        "44"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "मानव कायिक कोशिकाओं में 23 जोड़े अर्थात 46 गुणसूत्र होते हैं।",
       "en": "Human body cells have 23 pairs, i.e. 46 chromosomes."
@@ -3425,19 +3425,19 @@
     },
     "options": {
       "hi": [
-        "23",
-        "46",
         "44",
-        "92"
+        "92",
+        "23",
+        "46"
       ],
       "en": [
-        "23",
-        "46",
         "44",
-        "92"
+        "92",
+        "23",
+        "46"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "अर्धसूत्री विभाजन से युग्मक में गुणसूत्र आधे अर्थात 23 रह जाते हैं।",
       "en": "Meiosis halves the chromosome number, so a gamete has 23 chromosomes."
@@ -3453,19 +3453,19 @@
     },
     "options": {
       "hi": [
-        "अर्धसूत्री विभाजन",
         "समसूत्री विभाजन",
         "केवल संलयन",
-        "कोई विभाजन नहीं"
+        "कोई विभाजन नहीं",
+        "अर्धसूत्री विभाजन"
       ],
       "en": [
-        "Meiosis",
         "Mitosis",
         "Only fusion",
-        "No division"
+        "No division",
+        "Meiosis"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "युग्मक अर्धसूत्री विभाजन (meiosis) से बनते हैं।",
       "en": "Gametes are formed by meiosis."
@@ -3509,19 +3509,19 @@
     },
     "options": {
       "hi": [
+        "7वाँ दिन",
         "14वाँ दिन",
         "पहला दिन",
-        "28वाँ दिन",
-        "7वाँ दिन"
+        "28वाँ दिन"
       ],
       "en": [
+        "Day 7",
         "Day 14",
         "Day 1",
-        "Day 28",
-        "Day 7"
+        "Day 28"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "अंडोत्सर्ग सामान्यतः मासिक चक्र के लगभग 14वें दिन होता है।",
       "en": "Ovulation usually occurs around the 14th day of the menstrual cycle."
@@ -3537,19 +3537,19 @@
     },
     "options": {
       "hi": [
-        "युग्मनज",
-        "अंडाणु",
         "शुक्राणु",
-        "भ्रूण-कोश"
+        "भ्रूण-कोश",
+        "युग्मनज",
+        "अंडाणु"
       ],
       "en": [
-        "Zygote",
-        "Egg",
         "Sperm",
-        "Embryo sac"
+        "Embryo sac",
+        "Zygote",
+        "Egg"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "शुक्राणु और अंडाणु के संलयन से युग्मनज बनता है।",
       "en": "The fusion of sperm and egg forms a zygote."
@@ -3565,19 +3565,19 @@
     },
     "options": {
       "hi": [
-        "46",
         "23",
         "92",
-        "44"
+        "44",
+        "46"
       ],
       "en": [
-        "46",
         "23",
         "92",
-        "44"
+        "44",
+        "46"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "23+23 गुणसूत्रों के मिलने से युग्मनज में पुनः 46 गुणसूत्र हो जाते हैं।",
       "en": "The zygote again has 46 chromosomes (23 + 23)."
@@ -3621,19 +3621,19 @@
     },
     "options": {
       "hi": [
+        "28 दिन से अधिक",
         "3–7 दिन",
         "1 घंटा",
-        "1 वर्ष",
-        "28 दिन से अधिक"
+        "1 वर्ष"
       ],
       "en": [
+        "More than 28 days",
         "3–7 days",
         "1 hour",
-        "1 year",
-        "More than 28 days"
+        "1 year"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "मासिक धर्म सामान्यतः 3 से 7 दिन तक चलता है।",
       "en": "Menstruation usually lasts 3 to 7 days."
@@ -3649,19 +3649,19 @@
     },
     "options": {
       "hi": [
-        "21–35 दिन (प्रायः 28 दिन)",
-        "केवल 7 दिन",
         "केवल 3 दिन",
-        "1 वर्ष"
+        "1 वर्ष",
+        "21–35 दिन (प्रायः 28 दिन)",
+        "केवल 7 दिन"
       ],
       "en": [
-        "21–35 days (often 28 days)",
-        "Only 7 days",
         "Only 3 days",
-        "1 year"
+        "1 year",
+        "21–35 days (often 28 days)",
+        "Only 7 days"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "मासिक चक्र सामान्यतः 21–35 दिन का होता है, प्रायः लगभग 28 दिन।",
       "en": "The menstrual cycle is usually 21–35 days, often about 28 days."
@@ -3677,19 +3677,19 @@
     },
     "options": {
       "hi": [
-        "लगभग 50 वर्ष",
         "लगभग 20 वर्ष",
         "लगभग 30 वर्ष",
-        "लगभग 10 वर्ष"
+        "लगभग 10 वर्ष",
+        "लगभग 50 वर्ष"
       ],
       "en": [
-        "About 50 years",
         "About 20 years",
         "About 30 years",
-        "About 10 years"
+        "About 10 years",
+        "About 50 years"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "रजोनिवृत्ति (menopause) सामान्यतः लगभग 50 वर्ष की आयु में होती है।",
       "en": "Menopause usually occurs around the age of 50."
@@ -3733,19 +3733,19 @@
     },
     "options": {
       "hi": [
+        "XO",
         "XX",
         "XY",
-        "YY",
-        "XO"
+        "YY"
       ],
       "en": [
+        "XO",
         "XX",
         "XY",
-        "YY",
-        "XO"
+        "YY"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "स्त्री में XX और पुरुष में XY लिंग गुणसूत्र होते हैं।",
       "en": "Females have XX and males have XY sex chromosomes."
@@ -3761,19 +3761,19 @@
     },
     "options": {
       "hi": [
-        "लगभग 9 माह",
-        "लगभग 3 माह",
         "लगभग 1 माह",
-        "लगभग 12 माह"
+        "लगभग 12 माह",
+        "लगभग 9 माह",
+        "लगभग 3 माह"
       ],
       "en": [
-        "About 9 months",
-        "About 3 months",
         "About 1 month",
-        "About 12 months"
+        "About 12 months",
+        "About 9 months",
+        "About 3 months"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "मानव में गर्भकाल लगभग 9 माह का होता है।",
       "en": "Human pregnancy lasts about nine months."
@@ -3789,19 +3789,19 @@
     },
     "options": {
       "hi": [
-        "तीन",
         "दो",
         "चार",
-        "पाँच"
+        "पाँच",
+        "तीन"
       ],
       "en": [
-        "Three",
         "Two",
         "Four",
-        "Five"
+        "Five",
+        "Three"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "गर्भावस्था तीन त्रैमासिकों (trimesters) में बँटी होती है।",
       "en": "Pregnancy is divided into three trimesters."
@@ -3845,19 +3845,19 @@
     },
     "options": {
       "hi": [
+        "अंडाशय में",
         "मादा शरीर के बाहर (कल्चर डिश में)",
         "गर्भाशय में",
-        "डिंबवाहिनी में",
-        "अंडाशय में"
+        "डिंबवाहिनी में"
       ],
       "en": [
+        "In the ovary",
         "Outside the female body (in a culture dish)",
         "In the uterus",
-        "In the oviduct",
-        "In the ovary"
+        "In the oviduct"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "IVF में निषेचन शरीर के बाहर कल्चर डिश में कराया जाता है, इसलिए इसे 'test tube baby' कहते हैं।",
       "en": "In IVF, fertilisation occurs outside the body in a culture dish, hence the term 'test tube baby'."
@@ -3873,19 +3873,19 @@
     },
     "options": {
       "hi": [
-        "सुभाष मुखोपाध्याय",
-        "पी. माहेश्वरी",
         "लुई पाश्चर",
-        "मेंडल"
+        "मेंडल",
+        "सुभाष मुखोपाध्याय",
+        "पी. माहेश्वरी"
       ],
       "en": [
-        "Subhash Mukhopadhyay",
-        "P. Maheshwari",
         "Louis Pasteur",
-        "Mendel"
+        "Mendel",
+        "Subhash Mukhopadhyay",
+        "P. Maheshwari"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "1978 में कोलकाता के सुभाष मुखोपाध्याय ने भारत का पहला टेस्ट ट्यूब बेबी (कनुप्रिया अग्रवाल) का प्रयोग किया।",
       "en": "In 1978, Subhash Mukhopadhyay of Kolkata pioneered India's first test tube baby (Kanupriya Agarwal)."
@@ -3901,19 +3901,19 @@
     },
     "options": {
       "hi": [
-        "आवाज का भारी होना और कंधों का चौड़ा होना",
         "केवल बालों का झड़ना",
         "केवल आँखों का रंग बदलना",
-        "केवल नाखून बढ़ना"
+        "केवल नाखून बढ़ना",
+        "आवाज का भारी होना और कंधों का चौड़ा होना"
       ],
       "en": [
-        "Voice deepening and broadening of shoulders",
         "Only hair loss",
         "Only change in eye colour",
-        "Only nail growth"
+        "Only nail growth",
+        "Voice deepening and broadening of shoulders"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "यौवन में लड़कों की लंबाई तेजी से बढ़ती है, कंधे चौड़े होते हैं और आवाज भारी होती है।",
       "en": "During puberty, boys grow taller rapidly, their shoulders broaden and their voice deepens."
@@ -3957,19 +3957,19 @@
     },
     "options": {
       "hi": [
+        "केवल सजावट",
         "गर्भनिरोध और STI से बचाव",
         "केवल जल बचाना",
-        "केवल भोजन रखना",
-        "केवल सजावट"
+        "केवल भोजन रखना"
       ],
       "en": [
+        "Only decoration",
         "Contraception and protection from STIs",
         "Only saving water",
-        "Only storing food",
-        "Only decoration"
+        "Only storing food"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "कंडोम शुक्राणु को अंडाणु तक पहुँचने से रोकता है और STI से भी बचाता है।",
       "en": "A condom stops sperm from reaching the egg and also protects against STIs."
@@ -3985,19 +3985,19 @@
     },
     "options": {
       "hi": [
-        "अंतर्गर्भाशयी युक्ति (IUD)",
-        "केवल हार्मोनल गोली",
         "केवल शल्य विधि",
-        "केवल अवरोधक"
+        "केवल अवरोधक",
+        "अंतर्गर्भाशयी युक्ति (IUD)",
+        "केवल हार्मोनल गोली"
       ],
       "en": [
-        "Intra-uterine device (IUD)",
-        "Only a hormonal pill",
         "Only a surgical method",
-        "Only a barrier"
+        "Only a barrier",
+        "Intra-uterine device (IUD)",
+        "Only a hormonal pill"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "copper-T एक अंतर्गर्भाशयी युक्ति (IUD) है जो गर्भाशय में रखी जाती है।",
       "en": "Copper-T is an intra-uterine device (IUD) placed in the uterus."
@@ -4013,19 +4013,19 @@
     },
     "options": {
       "hi": [
-        "हार्मोन बदलकर अंडाणु के निकलने पर",
         "केवल बालों पर",
         "केवल नाखूनों पर",
-        "केवल हड्डियों पर"
+        "केवल हड्डियों पर",
+        "हार्मोन बदलकर अंडाणु के निकलने पर"
       ],
       "en": [
-        "The release of eggs by altering hormones",
         "Only hair",
         "Only nails",
-        "Only bones"
+        "Only bones",
+        "The release of eggs by altering hormones"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "मौखिक गोलियाँ हार्मोन बदलकर अंडाणु के निकलने (ovulation) को रोकती हैं।",
       "en": "Oral pills alter hormones and prevent the release of eggs."
@@ -4069,19 +4069,19 @@
     },
     "options": {
       "hi": [
+        "केवल गाँवों में प्रतिबंधित",
         "कानूनन प्रतिबंधित",
         "पूर्णतः स्वतंत्र",
-        "केवल शुल्क पर",
-        "केवल गाँवों में प्रतिबंधित"
+        "केवल शुल्क पर"
       ],
       "en": [
+        "Prohibited only in villages",
         "Prohibited by law",
         "Completely free",
-        "Only for a fee",
-        "Prohibited only in villages"
+        "Only for a fee"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "लिंगानुपात बनाए रखने के लिए भारत में जन्मपूर्व लिंग परीक्षण कानूनन प्रतिबंधित है।",
       "en": "To maintain the sex ratio, prenatal sex determination is prohibited by law in India."
@@ -4097,19 +4097,19 @@
     },
     "options": {
       "hi": [
-        "प्रथम त्रैमासिक में",
-        "केवल प्रसव के बाद",
         "केवल द्वितीय वर्ष में",
-        "केवल जन्म के समय"
+        "केवल जन्म के समय",
+        "प्रथम त्रैमासिक में",
+        "केवल प्रसव के बाद"
       ],
       "en": [
-        "In the first trimester",
-        "Only after delivery",
         "Only in the second year",
-        "Only at birth"
+        "Only at birth",
+        "In the first trimester",
+        "Only after delivery"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "गर्भपात सामान्यतः प्रथम त्रैमासिक में, जब भ्रूण बहुत छोटा होता है, किया जाता है।",
       "en": "Abortion is generally done in the first trimester, when the embryo is very small."
@@ -4125,19 +4125,19 @@
     },
     "options": {
       "hi": [
-        "हर 4–6 घंटे में",
         "हर महीने",
         "हर वर्ष",
-        "कभी नहीं"
+        "कभी नहीं",
+        "हर 4–6 घंटे में"
       ],
       "en": [
-        "Every 4–6 hours",
         "Every month",
         "Every year",
-        "Never"
+        "Never",
+        "Every 4–6 hours"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "स्वच्छता के लिए पैड को 4–6 घंटे में (या आवश्यकता अनुसार पहले) बदलना चाहिए।",
       "en": "For hygiene, pads should be changed every 4–6 hours, or earlier if needed."
@@ -4181,19 +4181,19 @@
     },
     "options": {
       "hi": [
+        "केवल वजन",
         "भावनात्मक परिपक्वता",
         "केवल आयु",
-        "केवल लंबाई",
-        "केवल वजन"
+        "केवल लंबाई"
       ],
       "en": [
+        "Only weight",
         "Emotional maturity",
         "Only age",
-        "Only height",
-        "Only weight"
+        "Only height"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "यौन परिपक्वता धीरे-धीरे आती है, पर भावनात्मक परिपक्वता में अधिक समय लगता है और दोनों आवश्यक हैं।",
       "en": "Sexual maturity is gradual, but emotional maturity takes longer—both are necessary."
