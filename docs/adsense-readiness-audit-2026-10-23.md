@@ -89,3 +89,9 @@ The current NCERT Grade 9 Science textbook, *Exploration* (First Edition, April 
 3. Run HTML validation and browser tests on the updated branch.
 4. After merge/deployment, verify live pages, navigation, sitemap and robots directives in a browser and Google Search Console.
 5. Keep the 36 Science pages noindex,follow until the per-chapter source review and live visual tests are complete.
+
+
+### Additional correction after the NCERT mapping review
+- Changed the visible labels on the 35 Biology/Physics/Chemistry pages to “Topic Guide” rather than “Chapter” to reduce the risk of implying official NCERT chapter numbering.
+- Corrected the Biology reproduction notes and MCQs that overgeneralised asexual reproduction as always using mitosis. The revised explanation distinguishes mitosis in many eukaryotes from binary fission in prokaryotes such as bacteria.
+- This is an initial fact-check correction, not evidence that every scientific claim across the full question bank has been independently verified.
