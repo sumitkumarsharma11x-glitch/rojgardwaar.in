@@ -15,7 +15,43 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "photosynthesis",
+      "name": {
+        "hi": "Photosynthesis",
+        "en": "Photosynthesis"
+      }
+    },
+    {
+      "id": "nutrition-modes-in-plants",
+      "name": {
+        "hi": "Nutrition Modes In Plants",
+        "en": "Nutrition Modes In Plants"
+      }
+    },
+    {
+      "id": "plant-parts-functions",
+      "name": {
+        "hi": "Plant Parts Functions",
+        "en": "Plant Parts Functions"
+      }
+    },
+    {
+      "id": "crop-production",
+      "name": {
+        "hi": "Crop Production",
+        "en": "Crop Production"
+      }
+    },
+    {
+      "id": "photosynthesis-experiments",
+      "name": {
+        "hi": "Photosynthesis Experiments",
+        "en": "Photosynthesis Experiments"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "पौधे जड़, तना, पत्ती, फूल और फल से बने होते हैं और हर भाग एक विशेष कार्य करता है। हरे पत्ते क्लोरोफिल की सहायता से प्रकाश संश्लेषण द्वारा भोजन बनाते हैं, जड़ें जल व खनिज ग्रहण करती हैं और वाष्पोत्सर्जन द्वारा पौधे में खिंचाव बना रहता है।",
