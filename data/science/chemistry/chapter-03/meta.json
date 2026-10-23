@@ -24,7 +24,7 @@
   "notes": {
     "hi": {
       "concept": "मिश्रण दो या अधिक पदार्थों का भौतिक मेल है, जिसमें घटक अपने मूल गुण बनाए रखते हैं। मिश्रण समांगी या विषमांगी हो सकता है। घटकों को कण आकार, घुलनशीलता, घनत्व या क्वथनांक जैसे भौतिक गुणों के अंतर से अलग किया जा सकता है।",
-      "example": "रेत और पानी को छानकर अलग किया जा सकता है, जबकि नमक के घोल से नमक वाष्पीकरण द्वारा प्राप्त किया जा सकता है।",
+      "example": "रेत और पानी को छानकर अलग किया जा सकता है, जबकि नमक के घोल से नमक वाष्पीकरण द्वारा प्राप्त किया जा सकता है। यदि पानी भी वापस चाहिए, तो आसवन से वाष्प को ठंडा करके पानी एकत्र किया जा सकता है।",
       "sections": [
         {
           "heading": "मिश्रण और उसके प्रकार",
@@ -49,15 +49,16 @@
       ],
       "keyPoints": [
         "मिश्रण में घटक अपने मूल गुण बनाए रखते हैं।",
-        "समांगी मिश्रण की संरचना समान होती है।",
-        "छानना अघुलनशील ठोस और द्रव के लिए उपयोगी है।",
-        "वाष्पीकरण से घुले ठोस को अलग किया जा सकता है।",
-        "आसवन अलग क्वथनांक वाले द्रवों पर आधारित है।"
+        "समांगी मिश्रण की संरचना समान होती है; विषमांगी मिश्रण में अलग-अलग भाग पहचाने जा सकते हैं।",
+        "छानना अघुलनशील ठोस और द्रव को अलग करता है।",
+        "वाष्पीकरण से घुले ठोस को प्राप्त किया जा सकता है।",
+        "आसवन में वाष्प को संघनित कर विलायक भी वापस पाया जा सकता है।"
       ],
       "examFocus": [
         "समांगी और विषमांगी मिश्रण की पहचान",
-        "मिश्रण के लिए सही पृथक्करण विधि चुनना",
-        "छानना, वाष्पीकरण और आसवन का अंतर"
+        "छानना, अवसादन, वाष्पीकरण और आसवन के सही उपयोग",
+        "अमिश्रणीय द्रवों के लिए पृथक्करण कीप",
+        "मिश्रण के गुणों के आधार पर विधि चुनना"
       ],
       "examTraps": [
         "घुले हुए नमक को साधारण छानने से अलग नहीं किया जा सकता।",
@@ -84,7 +85,7 @@
     },
     "en": {
       "concept": "A mixture is formed when two or more substances are physically combined without forming a new substance. The components retain their individual properties. Mixtures may be homogeneous or heterogeneous and can be separated using differences in physical properties.",
-      "example": "Study Separation of Substances and Mixtures with definitions, examples, comparisons and applications so that the concept can be used to solve unfamiliar questions.",
+      "example": "Sand can be separated from water by filtration. Salt can be recovered from salt water by evaporation; if the water is also needed, distillation condenses the vapour for collection.",
       "sections": [
         {
           "heading": "Mixtures and their types",
@@ -108,16 +109,17 @@
         }
       ],
       "keyPoints": [
-        "Understand the core idea of Separation of Substances and Mixtures.",
-        "Connect each major concept with an example.",
-        "Distinguish closely related terms and processes.",
-        "Apply the concept to simple real-life or exam situations."
+        "Components of a mixture retain their individual properties.",
+        "Homogeneous mixtures have uniform composition; heterogeneous mixtures do not.",
+        "Filtration separates an insoluble solid from a liquid.",
+        "Evaporation can recover a dissolved solid such as salt.",
+        "Distillation can recover the solvent by vapour condensation."
       ],
       "examFocus": [
-        "Core definitions and concepts",
-        "Important properties and examples",
-        "Comparison and reasoning questions",
-        "Application-based questions"
+        "Identifying homogeneous and heterogeneous mixtures",
+        "Choosing between filtration, sedimentation, evaporation and distillation",
+        "Using a separating funnel for immiscible liquids",
+        "Selecting a method from the physical properties of components"
       ],
       "examTraps": [
         "Do not choose an answer only because a familiar keyword appears.",
