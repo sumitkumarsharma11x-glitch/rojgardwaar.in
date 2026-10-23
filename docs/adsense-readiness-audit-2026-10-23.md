@@ -60,3 +60,32 @@ After merge/deploy, manually test:
 ## 5. Decision
 
 **Do not index the 36 Science chapter pages yet.** Keep the current `noindex,follow` protection until per-chapter syllabus alignment, factual review, depth improvements and browser testing are documented. Do not claim live deployment or AdSense approval readiness solely from passing CI. The next priority is to improve and fact-check chapters systematically, then run live-site checks after deployment.
+
+
+## 6. Follow-up work recorded on the audit branch (2026-10-23)
+
+### Learning diagrams and curriculum transparency
+- Added a notebook-style concept map to the 35 Biology/Physics/Chemistry static pages other than Biology 1, which already has its own cell illustration.
+- Updated the concept maps to show the first three topic headings with short summaries drawn from each page's own notes.
+- Added a visible curriculum note to all 36 static pages explaining that the chapter numbers are RojgarDwaar's own topic-guide sequence, not the official NCERT chapter sequence.
+- Removed the inaccurate “Class 9 Biology Chapter 1 / NCERT-aligned concepts” claim from Biology Chapter 1; it is now presented as an original “Cell & Tissue” concept guide.
+
+### Official NCERT mapping issue discovered
+The current NCERT Grade 9 Science textbook, *Exploration* (First Edition, April 2026), lists 13 chapters. In that official book, “Cell: The Building Block of Life” is Chapter 2, “Tissues in Action” is Chapter 3, “Describing Motion Around Us” is Chapter 4, “Exploring Mixtures and their Separation” is Chapter 5, “Reproduction: How Life Continues” is Chapter 11, and “Patterns in Life: Diversity and Classification” is Chapter 12. The site's 36 Biology/Physics/Chemistry sequence is a cross-topic guide and must not be represented as a one-to-one reproduction of the official NCERT chapter numbering.
+- Official current Grade 9 book: https://ncert.nic.in/textbook/pdf/iesc1ps.pdf
+- Official NCERT textbook portal: https://ncert.nic.in/textbook.php
+
+### Question-bank structure and explanation improvements
+- Structural checks were run across the 36 question banks: bilingual prompts, four distinct options, valid correct-answer index, explanation presence, exact duplicate prompts and answer-position balance.
+- The checked bank sizes are 5,750 questions in total (Biology: 12 × 150; Physics: 7 × 150 plus 5 × 200; Chemistry: 2 × 200 plus 10 × 150).
+- Rewrote the short Physics explanations in all 12 chapters to add the relevant definition, rule, formula or reasoning.
+- Replaced generic boilerplate explanations in Chemistry Chapters 3–12 and improved short explanations in Chemistry Chapters 1–2.
+- Improved short explanations in Biology Chapters 1, 2, 5 and 10.
+- The automated structural checks show no missing bilingual prompts/options/explanations, duplicate prompts, or invalid answer indices in the checked banks. This is **not** a full scientific fact-check: each answer still needs source-by-source verification, particularly calculations, chemistry reactions, classification exceptions, and syllabus scope.
+
+### Remaining before this can be considered high quality
+1. Manually verify every correct answer and explanation against the relevant current official textbook or a trusted primary educational source; add worked calculations where appropriate.
+2. Expand chapters with only brief notes into deeper teaching material: worked examples, common misconceptions, practice activities and original diagrams that explain the mechanism—not just topic headings.
+3. Run HTML validation and browser tests on the updated branch.
+4. After merge/deployment, verify live pages, navigation, sitemap and robots directives in a browser and Google Search Console.
+5. Keep the 36 Science pages noindex,follow until the per-chapter source review and live visual tests are complete.
