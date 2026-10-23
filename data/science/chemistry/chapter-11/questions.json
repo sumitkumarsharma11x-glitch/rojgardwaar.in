@@ -39,19 +39,19 @@
       },
       "options": {
         "hi": [
+          "50%",
           "21%",
           "78%",
-          "0.04%",
-          "50%"
+          "0.04%"
         ],
         "en": [
+          "50%",
           "21%",
           "78%",
-          "0.04%",
-          "50%"
+          "0.04%"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 21%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 21%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -67,19 +67,19 @@
       },
       "options": {
         "hi": [
-          "78%",
-          "21%",
           "1%",
-          "10%"
+          "10%",
+          "78%",
+          "21%"
         ],
         "en": [
-          "78%",
-          "21%",
           "1%",
-          "10%"
+          "10%",
+          "78%",
+          "21%"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 78%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 78%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -95,19 +95,19 @@
       },
       "options": {
         "hi": [
-          "लगभग 0.04%",
           "21%",
           "78%",
-          "10%"
+          "10%",
+          "लगभग 0.04%"
         ],
         "en": [
-          "About 0.04%",
           "21%",
           "78%",
-          "10%"
+          "10%",
+          "About 0.04%"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लगभग 0.04%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: About 0.04%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -151,19 +151,19 @@
       },
       "options": {
         "hi": [
+          "मीथेन",
           "ऑक्सीजन",
           "कार्बन डाइऑक्साइड",
-          "नाइट्रोजन",
-          "मीथेन"
+          "नाइट्रोजन"
         ],
         "en": [
+          "Methane",
           "Oxygen",
           "Carbon dioxide",
-          "Nitrogen",
-          "Methane"
+          "Nitrogen"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -179,19 +179,19 @@
       },
       "options": {
         "hi": [
-          "O₃",
-          "O₂",
           "CO₂",
-          "NO₂"
+          "NO₂",
+          "O₃",
+          "O₂"
         ],
         "en": [
-          "O₃",
-          "O₂",
           "CO₂",
-          "NO₂"
+          "NO₂",
+          "O₃",
+          "O₂"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: O₃। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: O₃. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -207,19 +207,19 @@
       },
       "options": {
         "hi": [
-          "हानिकारक पराबैंगनी विकिरण",
           "ध्वनि प्रदूषण",
           "भूकंप",
-          "बाढ़"
+          "बाढ़",
+          "हानिकारक पराबैंगनी विकिरण"
         ],
         "en": [
-          "Harmful ultraviolet radiation",
           "Noise pollution",
           "Earthquakes",
-          "Floods"
+          "Floods",
+          "Harmful ultraviolet radiation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हानिकारक पराबैंगनी विकिरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Harmful ultraviolet radiation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -263,19 +263,19 @@
       },
       "options": {
         "hi": [
+          "Ar",
           "CO₂",
           "O₂",
-          "N₂",
-          "Ar"
+          "N₂"
         ],
         "en": [
+          "Ar",
           "CO₂",
           "O₂",
-          "N₂",
-          "Ar"
+          "N₂"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: CO₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CO₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -291,19 +291,19 @@
       },
       "options": {
         "hi": [
-          "पृथ्वी की ऊष्मा के कुछ भाग के फँसने से",
-          "ऑक्सीजन के पूर्ण समाप्त होने से",
           "पानी के जमने से",
-          "चुंबकीय क्षेत्र के बनने से"
+          "चुंबकीय क्षेत्र के बनने से",
+          "पृथ्वी की ऊष्मा के कुछ भाग के फँसने से",
+          "ऑक्सीजन के पूर्ण समाप्त होने से"
         ],
         "en": [
-          "Trapping of some of Earth's heat",
-          "Complete loss of oxygen",
           "Freezing of water",
-          "Formation of magnetic field"
+          "Formation of magnetic field",
+          "Trapping of some of Earth's heat",
+          "Complete loss of oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: पृथ्वी की ऊष्मा के कुछ भाग के फँसने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Trapping of some of Earth's heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -319,19 +319,19 @@
       },
       "options": {
         "hi": [
-          "SO₂ और NOₓ",
           "O₂ और N₂",
           "H₂ और He",
-          "Ar और Ne"
+          "Ar और Ne",
+          "SO₂ और NOₓ"
         ],
         "en": [
-          "SO₂ and NOₓ",
           "O₂ and N₂",
           "H₂ and He",
-          "Ar and Ne"
+          "Ar and Ne",
+          "SO₂ and NOₓ"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: SO₂ और NOₓ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: SO₂ and NOₓ. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -375,19 +375,19 @@
       },
       "options": {
         "hi": [
+          "10",
           "7",
           "2",
-          "5",
-          "10"
+          "5"
         ],
         "en": [
+          "10",
           "7",
           "2",
-          "5",
-          "10"
+          "5"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 7। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 7. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -403,19 +403,19 @@
       },
       "options": {
         "hi": [
-          "Ca²⁺ और Mg²⁺",
-          "Na⁺ और K⁺",
           "H⁺ और Cl⁻",
-          "O₂ और N₂"
+          "O₂ और N₂",
+          "Ca²⁺ और Mg²⁺",
+          "Na⁺ और K⁺"
         ],
         "en": [
-          "Ca²⁺ and Mg²⁺",
-          "Na⁺ and K⁺",
           "H⁺ and Cl⁻",
-          "O₂ and N₂"
+          "O₂ and N₂",
+          "Ca²⁺ and Mg²⁺",
+          "Na⁺ and K⁺"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: Ca²⁺ और Mg²⁺। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Ca²⁺ and Mg²⁺. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -431,19 +431,19 @@
       },
       "options": {
         "hi": [
-          "उबालने से",
           "चुंबक से",
           "निस्यंदन मात्र से",
-          "ठंडा करने से"
+          "ठंडा करने से",
+          "उबालने से"
         ],
         "en": [
-          "By boiling",
           "With a magnet",
           "By filtration alone",
-          "By cooling"
+          "By cooling",
+          "By boiling"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उबालने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By boiling. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -487,19 +487,19 @@
       },
       "options": {
         "hi": [
+          "चीनी मिलाना",
           "क्लोरीनीकरण",
           "रेत मिलाना",
-          "तेल मिलाना",
-          "चीनी मिलाना"
+          "तेल मिलाना"
         ],
         "en": [
+          "Adding sugar",
           "Chlorination",
           "Adding sand",
-          "Adding oil",
-          "Adding sugar"
+          "Adding oil"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्लोरीनीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chlorination. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -515,19 +515,19 @@
       },
       "options": {
         "hi": [
-          "औद्योगिक अपशिष्ट",
-          "शुद्ध वर्षा जल",
           "ऑक्सीजन",
-          "नाइट्रोजन"
+          "नाइट्रोजन",
+          "औद्योगिक अपशिष्ट",
+          "शुद्ध वर्षा जल"
         ],
         "en": [
-          "Industrial waste",
-          "Pure rainwater",
           "Oxygen",
-          "Nitrogen"
+          "Nitrogen",
+          "Industrial waste",
+          "Pure rainwater"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: औद्योगिक अपशिष्ट। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Industrial waste. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -543,19 +543,19 @@
       },
       "options": {
         "hi": [
-          "जल में पोषक लवणों की अधिकता",
           "जल में ऑक्सीजन की बहुत अधिकता हमेशा",
           "केवल नमक की कमी",
-          "रेगिस्तान बनने से"
+          "रेगिस्तान बनने से",
+          "जल में पोषक लवणों की अधिकता"
         ],
         "en": [
-          "Excess nutrients in water",
           "Always excess oxygen",
           "Only lack of salt",
-          "Formation of deserts"
+          "Formation of deserts",
+          "Excess nutrients in water"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: जल में पोषक लवणों की अधिकता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Excess nutrients in water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -599,19 +599,19 @@
       },
       "options": {
         "hi": [
+          "Plant Matter",
           "Particulate Matter",
           "Pure Metal",
-          "Pressure Measure",
-          "Plant Matter"
+          "Pressure Measure"
         ],
         "en": [
+          "Plant Matter",
           "Particulate Matter",
           "Pure Metal",
-          "Pressure Measure",
-          "Plant Matter"
+          "Pressure Measure"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Particulate Matter। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Particulate Matter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -627,19 +627,19 @@
       },
       "options": {
         "hi": [
-          "धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण",
-          "शुद्ध ऑक्सीजन",
           "शुद्ध जल",
-          "केवल धूल"
+          "केवल धूल",
+          "धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण",
+          "शुद्ध ऑक्सीजन"
         ],
         "en": [
-          "A polluted mixture involving smoke, fog and air pollutants",
-          "Pure oxygen",
           "Pure water",
-          "Only dust"
+          "Only dust",
+          "A polluted mixture involving smoke, fog and air pollutants",
+          "Pure oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A polluted mixture involving smoke, fog and air pollutants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -655,19 +655,19 @@
       },
       "options": {
         "hi": [
-          "यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है",
           "यह ऑक्सीजन बनाती है",
           "यह पानी शुद्ध करती है",
-          "यह नाइट्रोजन हटाती है"
+          "यह नाइट्रोजन हटाती है",
+          "यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है"
         ],
         "en": [
-          "It binds with haemoglobin and interferes with oxygen transport",
           "It produces oxygen",
           "It purifies water",
-          "It removes nitrogen"
+          "It removes nitrogen",
+          "It binds with haemoglobin and interferes with oxygen transport"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It binds with haemoglobin and interferes with oxygen transport. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -711,19 +711,19 @@
       },
       "options": {
         "hi": [
+          "Ne",
           "CO₂",
           "O₂",
-          "He",
-          "Ne"
+          "He"
         ],
         "en": [
+          "Ne",
           "CO₂",
           "O₂",
-          "He",
-          "Ne"
+          "He"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: CO₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CO₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -739,19 +739,19 @@
       },
       "options": {
         "hi": [
-          "जल का द्रव से वाष्प में बदलना",
-          "वाष्प का द्रव बनना",
           "बर्फ का गैस बनना हमेशा",
-          "गैस का ठोस बनना"
+          "गैस का ठोस बनना",
+          "जल का द्रव से वाष्प में बदलना",
+          "वाष्प का द्रव बनना"
         ],
         "en": [
-          "Change of liquid water into vapour",
-          "Change of vapour into liquid",
           "Always ice to gas",
-          "Gas to solid"
+          "Gas to solid",
+          "Change of liquid water into vapour",
+          "Change of vapour into liquid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: जल का द्रव से वाष्प में बदलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change of liquid water into vapour. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -767,19 +767,19 @@
       },
       "options": {
         "hi": [
-          "वाष्प का द्रव में बदलना",
           "द्रव का गैस बनना",
           "ठोस का द्रव बनना",
-          "द्रव का ठोस बनना ही"
+          "द्रव का ठोस बनना ही",
+          "वाष्प का द्रव में बदलना"
         ],
         "en": [
-          "Change of vapour into liquid",
           "Liquid to gas",
           "Solid to liquid",
-          "Only liquid to solid"
+          "Only liquid to solid",
+          "Change of vapour into liquid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: वाष्प का द्रव में बदलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change of vapour into liquid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -823,19 +823,19 @@
       },
       "options": {
         "hi": [
+          "हाइड्रोजन",
           "नाइट्रोजन",
           "ऑक्सीजन",
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन"
+          "कार्बन डाइऑक्साइड"
         ],
         "en": [
+          "Hydrogen",
           "Nitrogen",
           "Oxygen",
-          "Carbon dioxide",
-          "Hydrogen"
+          "Carbon dioxide"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नाइट्रोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Nitrogen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -851,19 +851,19 @@
       },
       "options": {
         "hi": [
-          "नाइट्रोजन",
-          "ऑक्सीजन",
           "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन"
+          "हाइड्रोजन",
+          "नाइट्रोजन",
+          "ऑक्सीजन"
         ],
         "en": [
-          "Nitrogen",
-          "Oxygen",
           "Carbon dioxide",
-          "Hydrogen"
+          "Hydrogen",
+          "Nitrogen",
+          "Oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नाइट्रोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Nitrogen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -879,19 +879,19 @@
       },
       "options": {
         "hi": [
-          "नाइट्रोजन",
           "ऑक्सीजन",
           "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन"
+          "हाइड्रोजन",
+          "नाइट्रोजन"
         ],
         "en": [
-          "Nitrogen",
           "Oxygen",
           "Carbon dioxide",
-          "Hydrogen"
+          "Hydrogen",
+          "Nitrogen"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नाइट्रोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Nitrogen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -935,19 +935,19 @@
       },
       "options": {
         "hi": [
+          "50%",
           "21%",
           "78%",
-          "0.04%",
-          "50%"
+          "0.04%"
         ],
         "en": [
+          "50%",
           "21%",
           "78%",
-          "0.04%",
-          "50%"
+          "0.04%"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 21%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 21%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -963,19 +963,19 @@
       },
       "options": {
         "hi": [
-          "21%",
-          "78%",
           "0.04%",
-          "50%"
+          "50%",
+          "21%",
+          "78%"
         ],
         "en": [
-          "21%",
-          "78%",
           "0.04%",
-          "50%"
+          "50%",
+          "21%",
+          "78%"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 21%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 21%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -991,19 +991,19 @@
       },
       "options": {
         "hi": [
-          "21%",
           "78%",
           "0.04%",
-          "50%"
+          "50%",
+          "21%"
         ],
         "en": [
-          "21%",
           "78%",
           "0.04%",
-          "50%"
+          "50%",
+          "21%"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 21%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 21%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1047,19 +1047,19 @@
       },
       "options": {
         "hi": [
+          "10%",
           "78%",
           "21%",
-          "1%",
-          "10%"
+          "1%"
         ],
         "en": [
+          "10%",
           "78%",
           "21%",
-          "1%",
-          "10%"
+          "1%"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 78%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 78%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1075,19 +1075,19 @@
       },
       "options": {
         "hi": [
-          "78%",
-          "21%",
           "1%",
-          "10%"
+          "10%",
+          "78%",
+          "21%"
         ],
         "en": [
-          "78%",
-          "21%",
           "1%",
-          "10%"
+          "10%",
+          "78%",
+          "21%"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 78%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 78%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1103,19 +1103,19 @@
       },
       "options": {
         "hi": [
-          "78%",
           "21%",
           "1%",
-          "10%"
+          "10%",
+          "78%"
         ],
         "en": [
-          "78%",
           "21%",
           "1%",
-          "10%"
+          "10%",
+          "78%"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 78%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 78%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1159,19 +1159,19 @@
       },
       "options": {
         "hi": [
+          "10%",
           "लगभग 0.04%",
           "21%",
-          "78%",
-          "10%"
+          "78%"
         ],
         "en": [
+          "10%",
           "About 0.04%",
           "21%",
-          "78%",
-          "10%"
+          "78%"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लगभग 0.04%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: About 0.04%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1187,19 +1187,19 @@
       },
       "options": {
         "hi": [
-          "लगभग 0.04%",
-          "21%",
           "78%",
-          "10%"
+          "10%",
+          "लगभग 0.04%",
+          "21%"
         ],
         "en": [
-          "About 0.04%",
-          "21%",
           "78%",
-          "10%"
+          "10%",
+          "About 0.04%",
+          "21%"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: लगभग 0.04%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: About 0.04%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1215,19 +1215,19 @@
       },
       "options": {
         "hi": [
-          "लगभग 0.04%",
           "21%",
           "78%",
-          "10%"
+          "10%",
+          "लगभग 0.04%"
         ],
         "en": [
-          "About 0.04%",
           "21%",
           "78%",
-          "10%"
+          "10%",
+          "About 0.04%"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लगभग 0.04%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: About 0.04%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1271,19 +1271,19 @@
       },
       "options": {
         "hi": [
+          "हीलियम",
           "कार्बन डाइऑक्साइड",
           "नाइट्रोजन",
-          "हाइड्रोजन",
-          "हीलियम"
+          "हाइड्रोजन"
         ],
         "en": [
+          "Helium",
           "Carbon dioxide",
           "Nitrogen",
-          "Hydrogen",
-          "Helium"
+          "Hydrogen"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: कार्बन डाइऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Carbon dioxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1299,19 +1299,19 @@
       },
       "options": {
         "hi": [
-          "कार्बन डाइऑक्साइड",
-          "नाइट्रोजन",
           "हाइड्रोजन",
-          "हीलियम"
+          "हीलियम",
+          "कार्बन डाइऑक्साइड",
+          "नाइट्रोजन"
         ],
         "en": [
-          "Carbon dioxide",
-          "Nitrogen",
           "Hydrogen",
-          "Helium"
+          "Helium",
+          "Carbon dioxide",
+          "Nitrogen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: कार्बन डाइऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Carbon dioxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1327,19 +1327,19 @@
       },
       "options": {
         "hi": [
-          "कार्बन डाइऑक्साइड",
           "नाइट्रोजन",
           "हाइड्रोजन",
-          "हीलियम"
+          "हीलियम",
+          "कार्बन डाइऑक्साइड"
         ],
         "en": [
-          "Carbon dioxide",
           "Nitrogen",
           "Hydrogen",
-          "Helium"
+          "Helium",
+          "Carbon dioxide"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: कार्बन डाइऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Carbon dioxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1383,19 +1383,19 @@
       },
       "options": {
         "hi": [
+          "मीथेन",
           "ऑक्सीजन",
           "कार्बन डाइऑक्साइड",
-          "नाइट्रोजन",
-          "मीथेन"
+          "नाइट्रोजन"
         ],
         "en": [
+          "Methane",
           "Oxygen",
           "Carbon dioxide",
-          "Nitrogen",
-          "Methane"
+          "Nitrogen"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1411,19 +1411,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीजन",
-          "कार्बन डाइऑक्साइड",
           "नाइट्रोजन",
-          "मीथेन"
+          "मीथेन",
+          "ऑक्सीजन",
+          "कार्बन डाइऑक्साइड"
         ],
         "en": [
-          "Oxygen",
-          "Carbon dioxide",
           "Nitrogen",
-          "Methane"
+          "Methane",
+          "Oxygen",
+          "Carbon dioxide"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1439,19 +1439,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीजन",
           "कार्बन डाइऑक्साइड",
           "नाइट्रोजन",
-          "मीथेन"
+          "मीथेन",
+          "ऑक्सीजन"
         ],
         "en": [
-          "Oxygen",
           "Carbon dioxide",
           "Nitrogen",
-          "Methane"
+          "Methane",
+          "Oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1495,19 +1495,19 @@
       },
       "options": {
         "hi": [
+          "NO₂",
           "O₃",
           "O₂",
-          "CO₂",
-          "NO₂"
+          "CO₂"
         ],
         "en": [
+          "NO₂",
           "O₃",
           "O₂",
-          "CO₂",
-          "NO₂"
+          "CO₂"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: O₃। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: O₃. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1523,19 +1523,19 @@
       },
       "options": {
         "hi": [
-          "O₃",
-          "O₂",
           "CO₂",
-          "NO₂"
+          "NO₂",
+          "O₃",
+          "O₂"
         ],
         "en": [
-          "O₃",
-          "O₂",
           "CO₂",
-          "NO₂"
+          "NO₂",
+          "O₃",
+          "O₂"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: O₃। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: O₃. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1551,19 +1551,19 @@
       },
       "options": {
         "hi": [
-          "O₃",
           "O₂",
           "CO₂",
-          "NO₂"
+          "NO₂",
+          "O₃"
         ],
         "en": [
-          "O₃",
           "O₂",
           "CO₂",
-          "NO₂"
+          "NO₂",
+          "O₃"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: O₃। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: O₃. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1607,19 +1607,19 @@
       },
       "options": {
         "hi": [
+          "बाढ़",
           "हानिकारक पराबैंगनी विकिरण",
           "ध्वनि प्रदूषण",
-          "भूकंप",
-          "बाढ़"
+          "भूकंप"
         ],
         "en": [
+          "Floods",
           "Harmful ultraviolet radiation",
           "Noise pollution",
-          "Earthquakes",
-          "Floods"
+          "Earthquakes"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: हानिकारक पराबैंगनी विकिरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Harmful ultraviolet radiation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1635,19 +1635,19 @@
       },
       "options": {
         "hi": [
-          "हानिकारक पराबैंगनी विकिरण",
-          "ध्वनि प्रदूषण",
           "भूकंप",
-          "बाढ़"
+          "बाढ़",
+          "हानिकारक पराबैंगनी विकिरण",
+          "ध्वनि प्रदूषण"
         ],
         "en": [
-          "Harmful ultraviolet radiation",
-          "Noise pollution",
           "Earthquakes",
-          "Floods"
+          "Floods",
+          "Harmful ultraviolet radiation",
+          "Noise pollution"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: हानिकारक पराबैंगनी विकिरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Harmful ultraviolet radiation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1663,19 +1663,19 @@
       },
       "options": {
         "hi": [
-          "हानिकारक पराबैंगनी विकिरण",
           "ध्वनि प्रदूषण",
           "भूकंप",
-          "बाढ़"
+          "बाढ़",
+          "हानिकारक पराबैंगनी विकिरण"
         ],
         "en": [
-          "Harmful ultraviolet radiation",
           "Noise pollution",
           "Earthquakes",
-          "Floods"
+          "Floods",
+          "Harmful ultraviolet radiation"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हानिकारक पराबैंगनी विकिरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Harmful ultraviolet radiation. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1719,19 +1719,19 @@
       },
       "options": {
         "hi": [
+          "H₂O",
           "CFCs",
           "NaCl",
-          "CaCO₃",
-          "H₂O"
+          "CaCO₃"
         ],
         "en": [
+          "H₂O",
           "CFCs",
           "NaCl",
-          "CaCO₃",
-          "H₂O"
+          "CaCO₃"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: CFCs। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CFCs. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1747,19 +1747,19 @@
       },
       "options": {
         "hi": [
-          "CFCs",
-          "NaCl",
           "CaCO₃",
-          "H₂O"
+          "H₂O",
+          "CFCs",
+          "NaCl"
         ],
         "en": [
-          "CFCs",
-          "NaCl",
           "CaCO₃",
-          "H₂O"
+          "H₂O",
+          "CFCs",
+          "NaCl"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: CFCs। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CFCs. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1775,19 +1775,19 @@
       },
       "options": {
         "hi": [
-          "CFCs",
           "NaCl",
           "CaCO₃",
-          "H₂O"
+          "H₂O",
+          "CFCs"
         ],
         "en": [
-          "CFCs",
           "NaCl",
           "CaCO₃",
-          "H₂O"
+          "H₂O",
+          "CFCs"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: CFCs। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CFCs. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1831,19 +1831,19 @@
       },
       "options": {
         "hi": [
+          "Ar",
           "CO₂",
           "O₂",
-          "N₂",
-          "Ar"
+          "N₂"
         ],
         "en": [
+          "Ar",
           "CO₂",
           "O₂",
-          "N₂",
-          "Ar"
+          "N₂"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: CO₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CO₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1859,19 +1859,19 @@
       },
       "options": {
         "hi": [
-          "CO₂",
-          "O₂",
           "N₂",
-          "Ar"
+          "Ar",
+          "CO₂",
+          "O₂"
         ],
         "en": [
-          "CO₂",
-          "O₂",
           "N₂",
-          "Ar"
+          "Ar",
+          "CO₂",
+          "O₂"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: CO₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CO₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1887,19 +1887,19 @@
       },
       "options": {
         "hi": [
-          "CO₂",
           "O₂",
           "N₂",
-          "Ar"
+          "Ar",
+          "CO₂"
         ],
         "en": [
-          "CO₂",
           "O₂",
           "N₂",
-          "Ar"
+          "Ar",
+          "CO₂"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: CO₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CO₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1943,19 +1943,19 @@
       },
       "options": {
         "hi": [
+          "चुंबकीय क्षेत्र के बनने से",
           "पृथ्वी की ऊष्मा के कुछ भाग के फँसने से",
           "ऑक्सीजन के पूर्ण समाप्त होने से",
-          "पानी के जमने से",
-          "चुंबकीय क्षेत्र के बनने से"
+          "पानी के जमने से"
         ],
         "en": [
+          "Formation of magnetic field",
           "Trapping of some of Earth's heat",
           "Complete loss of oxygen",
-          "Freezing of water",
-          "Formation of magnetic field"
+          "Freezing of water"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: पृथ्वी की ऊष्मा के कुछ भाग के फँसने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Trapping of some of Earth's heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1971,19 +1971,19 @@
       },
       "options": {
         "hi": [
-          "पृथ्वी की ऊष्मा के कुछ भाग के फँसने से",
-          "ऑक्सीजन के पूर्ण समाप्त होने से",
           "पानी के जमने से",
-          "चुंबकीय क्षेत्र के बनने से"
+          "चुंबकीय क्षेत्र के बनने से",
+          "पृथ्वी की ऊष्मा के कुछ भाग के फँसने से",
+          "ऑक्सीजन के पूर्ण समाप्त होने से"
         ],
         "en": [
-          "Trapping of some of Earth's heat",
-          "Complete loss of oxygen",
           "Freezing of water",
-          "Formation of magnetic field"
+          "Formation of magnetic field",
+          "Trapping of some of Earth's heat",
+          "Complete loss of oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: पृथ्वी की ऊष्मा के कुछ भाग के फँसने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Trapping of some of Earth's heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1999,19 +1999,19 @@
       },
       "options": {
         "hi": [
-          "पृथ्वी की ऊष्मा के कुछ भाग के फँसने से",
           "ऑक्सीजन के पूर्ण समाप्त होने से",
           "पानी के जमने से",
-          "चुंबकीय क्षेत्र के बनने से"
+          "चुंबकीय क्षेत्र के बनने से",
+          "पृथ्वी की ऊष्मा के कुछ भाग के फँसने से"
         ],
         "en": [
-          "Trapping of some of Earth's heat",
           "Complete loss of oxygen",
           "Freezing of water",
-          "Formation of magnetic field"
+          "Formation of magnetic field",
+          "Trapping of some of Earth's heat"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: पृथ्वी की ऊष्मा के कुछ भाग के फँसने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Trapping of some of Earth's heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2055,19 +2055,19 @@
       },
       "options": {
         "hi": [
+          "Ar और Ne",
           "SO₂ और NOₓ",
           "O₂ और N₂",
-          "H₂ और He",
-          "Ar और Ne"
+          "H₂ और He"
         ],
         "en": [
+          "Ar and Ne",
           "SO₂ and NOₓ",
           "O₂ and N₂",
-          "H₂ and He",
-          "Ar and Ne"
+          "H₂ and He"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: SO₂ और NOₓ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: SO₂ and NOₓ. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2083,19 +2083,19 @@
       },
       "options": {
         "hi": [
-          "SO₂ और NOₓ",
-          "O₂ और N₂",
           "H₂ और He",
-          "Ar और Ne"
+          "Ar और Ne",
+          "SO₂ और NOₓ",
+          "O₂ और N₂"
         ],
         "en": [
-          "SO₂ and NOₓ",
-          "O₂ and N₂",
           "H₂ and He",
-          "Ar and Ne"
+          "Ar and Ne",
+          "SO₂ and NOₓ",
+          "O₂ and N₂"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: SO₂ और NOₓ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: SO₂ and NOₓ. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2111,19 +2111,19 @@
       },
       "options": {
         "hi": [
-          "SO₂ और NOₓ",
           "O₂ और N₂",
           "H₂ और He",
-          "Ar और Ne"
+          "Ar और Ne",
+          "SO₂ और NOₓ"
         ],
         "en": [
-          "SO₂ and NOₓ",
           "O₂ and N₂",
           "H₂ and He",
-          "Ar and Ne"
+          "Ar and Ne",
+          "SO₂ and NOₓ"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: SO₂ और NOₓ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: SO₂ and NOₓ. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2167,19 +2167,19 @@
       },
       "options": {
         "hi": [
+          "H₂",
           "H₂O",
           "CO₂",
-          "O₂",
-          "H₂"
+          "O₂"
         ],
         "en": [
+          "H₂",
           "H₂O",
           "CO₂",
-          "O₂",
-          "H₂"
+          "O₂"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: H₂O। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: H₂O. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2195,19 +2195,19 @@
       },
       "options": {
         "hi": [
-          "H₂O",
-          "CO₂",
           "O₂",
-          "H₂"
+          "H₂",
+          "H₂O",
+          "CO₂"
         ],
         "en": [
-          "H₂O",
-          "CO₂",
           "O₂",
-          "H₂"
+          "H₂",
+          "H₂O",
+          "CO₂"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: H₂O। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: H₂O. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2223,19 +2223,19 @@
       },
       "options": {
         "hi": [
-          "H₂O",
           "CO₂",
           "O₂",
-          "H₂"
+          "H₂",
+          "H₂O"
         ],
         "en": [
-          "H₂O",
           "CO₂",
           "O₂",
-          "H₂"
+          "H₂",
+          "H₂O"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: H₂O। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: H₂O. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2279,19 +2279,19 @@
       },
       "options": {
         "hi": [
+          "10",
           "7",
           "2",
-          "5",
-          "10"
+          "5"
         ],
         "en": [
+          "10",
           "7",
           "2",
-          "5",
-          "10"
+          "5"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 7। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 7. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2307,19 +2307,19 @@
       },
       "options": {
         "hi": [
-          "7",
-          "2",
           "5",
-          "10"
+          "10",
+          "7",
+          "2"
         ],
         "en": [
-          "7",
-          "2",
           "5",
-          "10"
+          "10",
+          "7",
+          "2"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 7। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 7. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2335,19 +2335,19 @@
       },
       "options": {
         "hi": [
-          "7",
           "2",
           "5",
-          "10"
+          "10",
+          "7"
         ],
         "en": [
-          "7",
           "2",
           "5",
-          "10"
+          "10",
+          "7"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 7। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 7. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2391,19 +2391,19 @@
       },
       "options": {
         "hi": [
+          "O₂ और N₂",
           "Ca²⁺ और Mg²⁺",
           "Na⁺ और K⁺",
-          "H⁺ और Cl⁻",
-          "O₂ और N₂"
+          "H⁺ और Cl⁻"
         ],
         "en": [
+          "O₂ and N₂",
           "Ca²⁺ and Mg²⁺",
           "Na⁺ and K⁺",
-          "H⁺ and Cl⁻",
-          "O₂ and N₂"
+          "H⁺ and Cl⁻"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Ca²⁺ और Mg²⁺। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Ca²⁺ and Mg²⁺. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2419,19 +2419,19 @@
       },
       "options": {
         "hi": [
-          "Ca²⁺ और Mg²⁺",
-          "Na⁺ और K⁺",
           "H⁺ और Cl⁻",
-          "O₂ और N₂"
+          "O₂ और N₂",
+          "Ca²⁺ और Mg²⁺",
+          "Na⁺ और K⁺"
         ],
         "en": [
-          "Ca²⁺ and Mg²⁺",
-          "Na⁺ and K⁺",
           "H⁺ and Cl⁻",
-          "O₂ and N₂"
+          "O₂ and N₂",
+          "Ca²⁺ and Mg²⁺",
+          "Na⁺ and K⁺"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: Ca²⁺ और Mg²⁺। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Ca²⁺ and Mg²⁺. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2447,19 +2447,19 @@
       },
       "options": {
         "hi": [
-          "Ca²⁺ और Mg²⁺",
           "Na⁺ और K⁺",
           "H⁺ और Cl⁻",
-          "O₂ और N₂"
+          "O₂ और N₂",
+          "Ca²⁺ और Mg²⁺"
         ],
         "en": [
-          "Ca²⁺ and Mg²⁺",
           "Na⁺ and K⁺",
           "H⁺ and Cl⁻",
-          "O₂ and N₂"
+          "O₂ and N₂",
+          "Ca²⁺ and Mg²⁺"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: Ca²⁺ और Mg²⁺। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Ca²⁺ and Mg²⁺. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2503,19 +2503,19 @@
       },
       "options": {
         "hi": [
+          "ठंडा करने से",
           "उबालने से",
           "चुंबक से",
-          "निस्यंदन मात्र से",
-          "ठंडा करने से"
+          "निस्यंदन मात्र से"
         ],
         "en": [
+          "By cooling",
           "By boiling",
           "With a magnet",
-          "By filtration alone",
-          "By cooling"
+          "By filtration alone"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उबालने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By boiling. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2531,19 +2531,19 @@
       },
       "options": {
         "hi": [
-          "उबालने से",
-          "चुंबक से",
           "निस्यंदन मात्र से",
-          "ठंडा करने से"
+          "ठंडा करने से",
+          "उबालने से",
+          "चुंबक से"
         ],
         "en": [
-          "By boiling",
-          "With a magnet",
           "By filtration alone",
-          "By cooling"
+          "By cooling",
+          "By boiling",
+          "With a magnet"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उबालने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By boiling. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2559,19 +2559,19 @@
       },
       "options": {
         "hi": [
-          "उबालने से",
           "चुंबक से",
           "निस्यंदन मात्र से",
-          "ठंडा करने से"
+          "ठंडा करने से",
+          "उबालने से"
         ],
         "en": [
-          "By boiling",
           "With a magnet",
           "By filtration alone",
-          "By cooling"
+          "By cooling",
+          "By boiling"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उबालने से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By boiling. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2615,19 +2615,19 @@
       },
       "options": {
         "hi": [
+          "धातुकर्म",
           "जल शोधन",
           "दहन",
-          "आसवन ही हमेशा",
-          "धातुकर्म"
+          "आसवन ही हमेशा"
         ],
         "en": [
+          "Metallurgy",
           "Water purification",
           "Combustion",
-          "Always distillation",
-          "Metallurgy"
+          "Always distillation"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: जल शोधन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Water purification. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2643,19 +2643,19 @@
       },
       "options": {
         "hi": [
-          "जल शोधन",
-          "दहन",
           "आसवन ही हमेशा",
-          "धातुकर्म"
+          "धातुकर्म",
+          "जल शोधन",
+          "दहन"
         ],
         "en": [
-          "Water purification",
-          "Combustion",
           "Always distillation",
-          "Metallurgy"
+          "Metallurgy",
+          "Water purification",
+          "Combustion"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: जल शोधन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Water purification. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2671,19 +2671,19 @@
       },
       "options": {
         "hi": [
-          "जल शोधन",
           "दहन",
           "आसवन ही हमेशा",
-          "धातुकर्म"
+          "धातुकर्म",
+          "जल शोधन"
         ],
         "en": [
-          "Water purification",
           "Combustion",
           "Always distillation",
-          "Metallurgy"
+          "Metallurgy",
+          "Water purification"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: जल शोधन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Water purification. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2727,19 +2727,19 @@
       },
       "options": {
         "hi": [
+          "चीनी मिलाना",
           "क्लोरीनीकरण",
           "रेत मिलाना",
-          "तेल मिलाना",
-          "चीनी मिलाना"
+          "तेल मिलाना"
         ],
         "en": [
+          "Adding sugar",
           "Chlorination",
           "Adding sand",
-          "Adding oil",
-          "Adding sugar"
+          "Adding oil"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्लोरीनीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chlorination. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2755,19 +2755,19 @@
       },
       "options": {
         "hi": [
-          "क्लोरीनीकरण",
-          "रेत मिलाना",
           "तेल मिलाना",
-          "चीनी मिलाना"
+          "चीनी मिलाना",
+          "क्लोरीनीकरण",
+          "रेत मिलाना"
         ],
         "en": [
-          "Chlorination",
-          "Adding sand",
           "Adding oil",
-          "Adding sugar"
+          "Adding sugar",
+          "Chlorination",
+          "Adding sand"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्लोरीनीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chlorination. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2783,19 +2783,19 @@
       },
       "options": {
         "hi": [
-          "क्लोरीनीकरण",
           "रेत मिलाना",
           "तेल मिलाना",
-          "चीनी मिलाना"
+          "चीनी मिलाना",
+          "क्लोरीनीकरण"
         ],
         "en": [
-          "Chlorination",
           "Adding sand",
           "Adding oil",
-          "Adding sugar"
+          "Adding sugar",
+          "Chlorination"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: क्लोरीनीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chlorination. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2839,19 +2839,19 @@
       },
       "options": {
         "hi": [
+          "नाइट्रोजन",
           "औद्योगिक अपशिष्ट",
           "शुद्ध वर्षा जल",
-          "ऑक्सीजन",
-          "नाइट्रोजन"
+          "ऑक्सीजन"
         ],
         "en": [
+          "Nitrogen",
           "Industrial waste",
           "Pure rainwater",
-          "Oxygen",
-          "Nitrogen"
+          "Oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: औद्योगिक अपशिष्ट। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Industrial waste. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2867,19 +2867,19 @@
       },
       "options": {
         "hi": [
-          "औद्योगिक अपशिष्ट",
-          "शुद्ध वर्षा जल",
           "ऑक्सीजन",
-          "नाइट्रोजन"
+          "नाइट्रोजन",
+          "औद्योगिक अपशिष्ट",
+          "शुद्ध वर्षा जल"
         ],
         "en": [
-          "Industrial waste",
-          "Pure rainwater",
           "Oxygen",
-          "Nitrogen"
+          "Nitrogen",
+          "Industrial waste",
+          "Pure rainwater"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: औद्योगिक अपशिष्ट। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Industrial waste. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2895,19 +2895,19 @@
       },
       "options": {
         "hi": [
-          "औद्योगिक अपशिष्ट",
           "शुद्ध वर्षा जल",
           "ऑक्सीजन",
-          "नाइट्रोजन"
+          "नाइट्रोजन",
+          "औद्योगिक अपशिष्ट"
         ],
         "en": [
-          "Industrial waste",
           "Pure rainwater",
           "Oxygen",
-          "Nitrogen"
+          "Nitrogen",
+          "Industrial waste"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: औद्योगिक अपशिष्ट। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Industrial waste. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2951,19 +2951,19 @@
       },
       "options": {
         "hi": [
+          "रेगिस्तान बनने से",
           "जल में पोषक लवणों की अधिकता",
           "जल में ऑक्सीजन की बहुत अधिकता हमेशा",
-          "केवल नमक की कमी",
-          "रेगिस्तान बनने से"
+          "केवल नमक की कमी"
         ],
         "en": [
+          "Formation of deserts",
           "Excess nutrients in water",
           "Always excess oxygen",
-          "Only lack of salt",
-          "Formation of deserts"
+          "Only lack of salt"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: जल में पोषक लवणों की अधिकता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Excess nutrients in water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2979,19 +2979,19 @@
       },
       "options": {
         "hi": [
-          "जल में पोषक लवणों की अधिकता",
-          "जल में ऑक्सीजन की बहुत अधिकता हमेशा",
           "केवल नमक की कमी",
-          "रेगिस्तान बनने से"
+          "रेगिस्तान बनने से",
+          "जल में पोषक लवणों की अधिकता",
+          "जल में ऑक्सीजन की बहुत अधिकता हमेशा"
         ],
         "en": [
-          "Excess nutrients in water",
-          "Always excess oxygen",
           "Only lack of salt",
-          "Formation of deserts"
+          "Formation of deserts",
+          "Excess nutrients in water",
+          "Always excess oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: जल में पोषक लवणों की अधिकता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Excess nutrients in water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3007,19 +3007,19 @@
       },
       "options": {
         "hi": [
-          "जल में पोषक लवणों की अधिकता",
           "जल में ऑक्सीजन की बहुत अधिकता हमेशा",
           "केवल नमक की कमी",
-          "रेगिस्तान बनने से"
+          "रेगिस्तान बनने से",
+          "जल में पोषक लवणों की अधिकता"
         ],
         "en": [
-          "Excess nutrients in water",
           "Always excess oxygen",
           "Only lack of salt",
-          "Formation of deserts"
+          "Formation of deserts",
+          "Excess nutrients in water"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: जल में पोषक लवणों की अधिकता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Excess nutrients in water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3063,19 +3063,19 @@
       },
       "options": {
         "hi": [
+          "धातु की कठोरता",
           "जल में जैविक प्रदूषण और ऑक्सीजन की मांग",
           "वायु का दाब",
-          "मिट्टी का रंग",
-          "धातु की कठोरता"
+          "मिट्टी का रंग"
         ],
         "en": [
+          "Metal hardness",
           "Organic pollution and oxygen demand in water",
           "Air pressure",
-          "Soil colour",
-          "Metal hardness"
+          "Soil colour"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: जल में जैविक प्रदूषण और ऑक्सीजन की मांग। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Organic pollution and oxygen demand in water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3091,19 +3091,19 @@
       },
       "options": {
         "hi": [
-          "जल में जैविक प्रदूषण और ऑक्सीजन की मांग",
-          "वायु का दाब",
           "मिट्टी का रंग",
-          "धातु की कठोरता"
+          "धातु की कठोरता",
+          "जल में जैविक प्रदूषण और ऑक्सीजन की मांग",
+          "वायु का दाब"
         ],
         "en": [
-          "Organic pollution and oxygen demand in water",
-          "Air pressure",
           "Soil colour",
-          "Metal hardness"
+          "Metal hardness",
+          "Organic pollution and oxygen demand in water",
+          "Air pressure"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: जल में जैविक प्रदूषण और ऑक्सीजन की मांग। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Organic pollution and oxygen demand in water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3119,19 +3119,19 @@
       },
       "options": {
         "hi": [
-          "जल में जैविक प्रदूषण और ऑक्सीजन की मांग",
           "वायु का दाब",
           "मिट्टी का रंग",
-          "धातु की कठोरता"
+          "धातु की कठोरता",
+          "जल में जैविक प्रदूषण और ऑक्सीजन की मांग"
         ],
         "en": [
-          "Organic pollution and oxygen demand in water",
           "Air pressure",
           "Soil colour",
-          "Metal hardness"
+          "Metal hardness",
+          "Organic pollution and oxygen demand in water"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: जल में जैविक प्रदूषण और ऑक्सीजन की मांग। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Organic pollution and oxygen demand in water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3175,19 +3175,19 @@
       },
       "options": {
         "hi": [
+          "Plant Matter",
           "Particulate Matter",
           "Pure Metal",
-          "Pressure Measure",
-          "Plant Matter"
+          "Pressure Measure"
         ],
         "en": [
+          "Plant Matter",
           "Particulate Matter",
           "Pure Metal",
-          "Pressure Measure",
-          "Plant Matter"
+          "Pressure Measure"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Particulate Matter। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Particulate Matter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3203,19 +3203,19 @@
       },
       "options": {
         "hi": [
-          "Particulate Matter",
-          "Pure Metal",
           "Pressure Measure",
-          "Plant Matter"
+          "Plant Matter",
+          "Particulate Matter",
+          "Pure Metal"
         ],
         "en": [
-          "Particulate Matter",
-          "Pure Metal",
           "Pressure Measure",
-          "Plant Matter"
+          "Plant Matter",
+          "Particulate Matter",
+          "Pure Metal"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: Particulate Matter। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Particulate Matter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3231,19 +3231,19 @@
       },
       "options": {
         "hi": [
-          "Particulate Matter",
           "Pure Metal",
           "Pressure Measure",
-          "Plant Matter"
+          "Plant Matter",
+          "Particulate Matter"
         ],
         "en": [
-          "Particulate Matter",
           "Pure Metal",
           "Pressure Measure",
-          "Plant Matter"
+          "Plant Matter",
+          "Particulate Matter"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: Particulate Matter। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Particulate Matter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3287,19 +3287,19 @@
       },
       "options": {
         "hi": [
+          "केवल धूल",
           "धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण",
           "शुद्ध ऑक्सीजन",
-          "शुद्ध जल",
-          "केवल धूल"
+          "शुद्ध जल"
         ],
         "en": [
+          "Only dust",
           "A polluted mixture involving smoke, fog and air pollutants",
           "Pure oxygen",
-          "Pure water",
-          "Only dust"
+          "Pure water"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A polluted mixture involving smoke, fog and air pollutants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3315,19 +3315,19 @@
       },
       "options": {
         "hi": [
-          "धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण",
-          "शुद्ध ऑक्सीजन",
           "शुद्ध जल",
-          "केवल धूल"
+          "केवल धूल",
+          "धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण",
+          "शुद्ध ऑक्सीजन"
         ],
         "en": [
-          "A polluted mixture involving smoke, fog and air pollutants",
-          "Pure oxygen",
           "Pure water",
-          "Only dust"
+          "Only dust",
+          "A polluted mixture involving smoke, fog and air pollutants",
+          "Pure oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A polluted mixture involving smoke, fog and air pollutants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3343,19 +3343,19 @@
       },
       "options": {
         "hi": [
-          "धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण",
           "शुद्ध ऑक्सीजन",
           "शुद्ध जल",
-          "केवल धूल"
+          "केवल धूल",
+          "धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण"
         ],
         "en": [
-          "A polluted mixture involving smoke, fog and air pollutants",
           "Pure oxygen",
           "Pure water",
-          "Only dust"
+          "Only dust",
+          "A polluted mixture involving smoke, fog and air pollutants"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: धुआँ और कोहरे/वायु प्रदूषकों से बना प्रदूषित मिश्रण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A polluted mixture involving smoke, fog and air pollutants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3399,19 +3399,19 @@
       },
       "options": {
         "hi": [
+          "यह नाइट्रोजन हटाती है",
           "यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है",
           "यह ऑक्सीजन बनाती है",
-          "यह पानी शुद्ध करती है",
-          "यह नाइट्रोजन हटाती है"
+          "यह पानी शुद्ध करती है"
         ],
         "en": [
+          "It removes nitrogen",
           "It binds with haemoglobin and interferes with oxygen transport",
           "It produces oxygen",
-          "It purifies water",
-          "It removes nitrogen"
+          "It purifies water"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It binds with haemoglobin and interferes with oxygen transport. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3427,19 +3427,19 @@
       },
       "options": {
         "hi": [
-          "यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है",
-          "यह ऑक्सीजन बनाती है",
           "यह पानी शुद्ध करती है",
-          "यह नाइट्रोजन हटाती है"
+          "यह नाइट्रोजन हटाती है",
+          "यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है",
+          "यह ऑक्सीजन बनाती है"
         ],
         "en": [
-          "It binds with haemoglobin and interferes with oxygen transport",
-          "It produces oxygen",
           "It purifies water",
-          "It removes nitrogen"
+          "It removes nitrogen",
+          "It binds with haemoglobin and interferes with oxygen transport",
+          "It produces oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It binds with haemoglobin and interferes with oxygen transport. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3455,19 +3455,19 @@
       },
       "options": {
         "hi": [
-          "यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है",
           "यह ऑक्सीजन बनाती है",
           "यह पानी शुद्ध करती है",
-          "यह नाइट्रोजन हटाती है"
+          "यह नाइट्रोजन हटाती है",
+          "यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है"
         ],
         "en": [
-          "It binds with haemoglobin and interferes with oxygen transport",
           "It produces oxygen",
           "It purifies water",
-          "It removes nitrogen"
+          "It removes nitrogen",
+          "It binds with haemoglobin and interferes with oxygen transport"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: यह हीमोग्लोबिन से जुड़कर ऑक्सीजन परिवहन में बाधा डालती है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It binds with haemoglobin and interferes with oxygen transport. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3511,19 +3511,19 @@
       },
       "options": {
         "hi": [
+          "प्राकृतिक गैस",
           "सौर ऊर्जा",
           "कोयला",
-          "पेट्रोलियम",
-          "प्राकृतिक गैस"
+          "पेट्रोलियम"
         ],
         "en": [
+          "Natural gas",
           "Solar energy",
           "Coal",
-          "Petroleum",
-          "Natural gas"
+          "Petroleum"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: सौर ऊर्जा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solar energy. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3539,19 +3539,19 @@
       },
       "options": {
         "hi": [
-          "सौर ऊर्जा",
-          "कोयला",
           "पेट्रोलियम",
-          "प्राकृतिक गैस"
+          "प्राकृतिक गैस",
+          "सौर ऊर्जा",
+          "कोयला"
         ],
         "en": [
-          "Solar energy",
-          "Coal",
           "Petroleum",
-          "Natural gas"
+          "Natural gas",
+          "Solar energy",
+          "Coal"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: सौर ऊर्जा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solar energy. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3567,19 +3567,19 @@
       },
       "options": {
         "hi": [
-          "सौर ऊर्जा",
           "कोयला",
           "पेट्रोलियम",
-          "प्राकृतिक गैस"
+          "प्राकृतिक गैस",
+          "सौर ऊर्जा"
         ],
         "en": [
-          "Solar energy",
           "Coal",
           "Petroleum",
-          "Natural gas"
+          "Natural gas",
+          "Solar energy"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: सौर ऊर्जा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Solar energy. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3623,19 +3623,19 @@
       },
       "options": {
         "hi": [
+          "Ne",
           "CO₂",
           "O₂",
-          "He",
-          "Ne"
+          "He"
         ],
         "en": [
+          "Ne",
           "CO₂",
           "O₂",
-          "He",
-          "Ne"
+          "He"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: CO₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CO₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3651,19 +3651,19 @@
       },
       "options": {
         "hi": [
-          "CO₂",
-          "O₂",
           "He",
-          "Ne"
+          "Ne",
+          "CO₂",
+          "O₂"
         ],
         "en": [
-          "CO₂",
-          "O₂",
           "He",
-          "Ne"
+          "Ne",
+          "CO₂",
+          "O₂"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: CO₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CO₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3679,19 +3679,19 @@
       },
       "options": {
         "hi": [
-          "CO₂",
           "O₂",
           "He",
-          "Ne"
+          "Ne",
+          "CO₂"
         ],
         "en": [
-          "CO₂",
           "O₂",
           "He",
-          "Ne"
+          "Ne",
+          "CO₂"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: CO₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: CO₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3735,19 +3735,19 @@
       },
       "options": {
         "hi": [
+          "गैस का ठोस बनना",
           "जल का द्रव से वाष्प में बदलना",
           "वाष्प का द्रव बनना",
-          "बर्फ का गैस बनना हमेशा",
-          "गैस का ठोस बनना"
+          "बर्फ का गैस बनना हमेशा"
         ],
         "en": [
+          "Gas to solid",
           "Change of liquid water into vapour",
           "Change of vapour into liquid",
-          "Always ice to gas",
-          "Gas to solid"
+          "Always ice to gas"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: जल का द्रव से वाष्प में बदलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change of liquid water into vapour. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3763,19 +3763,19 @@
       },
       "options": {
         "hi": [
-          "जल का द्रव से वाष्प में बदलना",
-          "वाष्प का द्रव बनना",
           "बर्फ का गैस बनना हमेशा",
-          "गैस का ठोस बनना"
+          "गैस का ठोस बनना",
+          "जल का द्रव से वाष्प में बदलना",
+          "वाष्प का द्रव बनना"
         ],
         "en": [
-          "Change of liquid water into vapour",
-          "Change of vapour into liquid",
           "Always ice to gas",
-          "Gas to solid"
+          "Gas to solid",
+          "Change of liquid water into vapour",
+          "Change of vapour into liquid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: जल का द्रव से वाष्प में बदलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change of liquid water into vapour. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3791,19 +3791,19 @@
       },
       "options": {
         "hi": [
-          "जल का द्रव से वाष्प में बदलना",
           "वाष्प का द्रव बनना",
           "बर्फ का गैस बनना हमेशा",
-          "गैस का ठोस बनना"
+          "गैस का ठोस बनना",
+          "जल का द्रव से वाष्प में बदलना"
         ],
         "en": [
-          "Change of liquid water into vapour",
           "Change of vapour into liquid",
           "Always ice to gas",
-          "Gas to solid"
+          "Gas to solid",
+          "Change of liquid water into vapour"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: जल का द्रव से वाष्प में बदलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change of liquid water into vapour. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3847,19 +3847,19 @@
       },
       "options": {
         "hi": [
+          "द्रव का ठोस बनना ही",
           "वाष्प का द्रव में बदलना",
           "द्रव का गैस बनना",
-          "ठोस का द्रव बनना",
-          "द्रव का ठोस बनना ही"
+          "ठोस का द्रव बनना"
         ],
         "en": [
+          "Only liquid to solid",
           "Change of vapour into liquid",
           "Liquid to gas",
-          "Solid to liquid",
-          "Only liquid to solid"
+          "Solid to liquid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: वाष्प का द्रव में बदलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change of vapour into liquid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3875,19 +3875,19 @@
       },
       "options": {
         "hi": [
-          "वाष्प का द्रव में बदलना",
-          "द्रव का गैस बनना",
           "ठोस का द्रव बनना",
-          "द्रव का ठोस बनना ही"
+          "द्रव का ठोस बनना ही",
+          "वाष्प का द्रव में बदलना",
+          "द्रव का गैस बनना"
         ],
         "en": [
-          "Change of vapour into liquid",
-          "Liquid to gas",
           "Solid to liquid",
-          "Only liquid to solid"
+          "Only liquid to solid",
+          "Change of vapour into liquid",
+          "Liquid to gas"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: वाष्प का द्रव में बदलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change of vapour into liquid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3903,19 +3903,19 @@
       },
       "options": {
         "hi": [
-          "वाष्प का द्रव में बदलना",
           "द्रव का गैस बनना",
           "ठोस का द्रव बनना",
-          "द्रव का ठोस बनना ही"
+          "द्रव का ठोस बनना ही",
+          "वाष्प का द्रव में बदलना"
         ],
         "en": [
-          "Change of vapour into liquid",
           "Liquid to gas",
           "Solid to liquid",
-          "Only liquid to solid"
+          "Only liquid to solid",
+          "Change of vapour into liquid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: वाष्प का द्रव में बदलना। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change of vapour into liquid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3959,19 +3959,19 @@
       },
       "options": {
         "hi": [
+          "वे ऑक्सीजन समाप्त करते हैं",
           "CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं",
           "वे नाइट्रोजन पूरी तरह हटा देते हैं",
-          "वे धुआँ बनाते हैं",
-          "वे ऑक्सीजन समाप्त करते हैं"
+          "वे धुआँ बनाते हैं"
         ],
         "en": [
+          "They eliminate oxygen",
           "They can absorb CO₂ and help trap some pollutants",
           "They remove all nitrogen",
-          "They produce smoke",
-          "They eliminate oxygen"
+          "They produce smoke"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They can absorb CO₂ and help trap some pollutants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3987,19 +3987,19 @@
       },
       "options": {
         "hi": [
-          "CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं",
-          "वे नाइट्रोजन पूरी तरह हटा देते हैं",
           "वे धुआँ बनाते हैं",
-          "वे ऑक्सीजन समाप्त करते हैं"
+          "वे ऑक्सीजन समाप्त करते हैं",
+          "CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं",
+          "वे नाइट्रोजन पूरी तरह हटा देते हैं"
         ],
         "en": [
-          "They can absorb CO₂ and help trap some pollutants",
-          "They remove all nitrogen",
           "They produce smoke",
-          "They eliminate oxygen"
+          "They eliminate oxygen",
+          "They can absorb CO₂ and help trap some pollutants",
+          "They remove all nitrogen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They can absorb CO₂ and help trap some pollutants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4015,19 +4015,19 @@
       },
       "options": {
         "hi": [
-          "CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं",
           "वे नाइट्रोजन पूरी तरह हटा देते हैं",
           "वे धुआँ बनाते हैं",
-          "वे ऑक्सीजन समाप्त करते हैं"
+          "वे ऑक्सीजन समाप्त करते हैं",
+          "CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं"
         ],
         "en": [
-          "They can absorb CO₂ and help trap some pollutants",
           "They remove all nitrogen",
           "They produce smoke",
-          "They eliminate oxygen"
+          "They eliminate oxygen",
+          "They can absorb CO₂ and help trap some pollutants"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: CO₂ अवशोषित कर सकते हैं और कुछ प्रदूषक रोक सकते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: They can absorb CO₂ and help trap some pollutants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4071,19 +4071,19 @@
       },
       "options": {
         "hi": [
+          "हाइड्रोजन",
           "नाइट्रोजन",
           "ऑक्सीजन",
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन"
+          "कार्बन डाइऑक्साइड"
         ],
         "en": [
+          "Hydrogen",
           "Nitrogen",
           "Oxygen",
-          "Carbon dioxide",
-          "Hydrogen"
+          "Carbon dioxide"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नाइट्रोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Nitrogen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4099,19 +4099,19 @@
       },
       "options": {
         "hi": [
-          "21%",
-          "78%",
           "0.04%",
-          "50%"
+          "50%",
+          "21%",
+          "78%"
         ],
         "en": [
-          "21%",
-          "78%",
           "0.04%",
-          "50%"
+          "50%",
+          "21%",
+          "78%"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 21%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 21%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4127,19 +4127,19 @@
       },
       "options": {
         "hi": [
-          "78%",
           "21%",
           "1%",
-          "10%"
+          "10%",
+          "78%"
         ],
         "en": [
-          "78%",
           "21%",
           "1%",
-          "10%"
+          "10%",
+          "78%"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 78%। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 78%. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4183,19 +4183,19 @@
       },
       "options": {
         "hi": [
+          "हीलियम",
           "कार्बन डाइऑक्साइड",
           "नाइट्रोजन",
-          "हाइड्रोजन",
-          "हीलियम"
+          "हाइड्रोजन"
         ],
         "en": [
+          "Helium",
           "Carbon dioxide",
           "Nitrogen",
-          "Hydrogen",
-          "Helium"
+          "Hydrogen"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: कार्बन डाइऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Carbon dioxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
