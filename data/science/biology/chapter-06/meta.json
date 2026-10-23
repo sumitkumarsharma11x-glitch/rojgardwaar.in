@@ -15,7 +15,43 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "nervous-system",
+      "name": {
+        "hi": "Nervous System",
+        "en": "Nervous System"
+      }
+    },
+    {
+      "id": "excretion",
+      "name": {
+        "hi": "Excretion",
+        "en": "Excretion"
+      }
+    },
+    {
+      "id": "organization-overview",
+      "name": {
+        "hi": "Organization Overview",
+        "en": "Organization Overview"
+      }
+    },
+    {
+      "id": "movement",
+      "name": {
+        "hi": "Movement",
+        "en": "Movement"
+      }
+    },
+    {
+      "id": "sense-organs",
+      "name": {
+        "hi": "Sense Organs",
+        "en": "Sense Organs"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "जंतुओं का शरीर अनेक अंग-तंत्रों से मिलकर बना है — पाचन, श्वसन, परिवहन, उत्सर्जन, नियंत्रण एवं समन्वय और प्रजनन। तंत्रिका तंत्र और हार्मोन मिलकर शरीर के सभी अंगों का समन्वय करते हैं, जबकि वृक्क अपशिष्ट पदार्थों को रक्त से हटाकर मूत्र बनाते हैं।",
