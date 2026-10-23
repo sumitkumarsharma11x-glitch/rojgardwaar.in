@@ -151,3 +151,18 @@ test("all 36 Science chapters have static, canonical, source-transparent notes p
     }
   }
 });
+
+test("Science hubs connect static Notes and interactive Practice/Mock Tests", () => {
+  for (const subject of SUBJECTS) {
+    const hub = fs.readFileSync(path.join(ROOT, "science", subject, "index.html"), "utf8");
+    for (const chapter of CHAPTERS) {
+      const n = chapter.slice(-2);
+      assert.ok(hub.includes(`href="chapter-${n}.html"`),
+        `${subject}: chapter ${n} Notes link must use its static page`);
+      assert.ok(hub.includes(`chapter=${n}&open=practice`),
+        `${subject}: chapter ${n} must retain its interactive Practice link`);
+      assert.ok(hub.includes(`chapter=${n}&open=mocktests`),
+        `${subject}: chapter ${n} must retain its interactive Mock Test link`);
+    }
+  }
+});
