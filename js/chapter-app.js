@@ -905,6 +905,13 @@
 
         </section>
 
+        <section class="rjd-note-block rjd-source-transparency" aria-label="Sources and content feedback">
+          <h3>${text( "स्रोत और सामग्री की जानकारी", "Sources and content notes" )}</h3>
+          <p>${text( "ये RojgarDwaar द्वारा तैयार किए गए revision notes और practice resources हैं। पाठ्यपुस्तक के संस्करण तथा परीक्षा-सिलेबस के अनुसार विषय-सीमा बदल सकती है; अंतिम पुष्टि आधिकारिक स्रोत से करें।", "These revision notes and practice resources are prepared by RojgarDwaar. Topic coverage may vary by textbook edition and exam syllabus; verify requirements with the official source." )}</p>
+          <p><a href="https://ncert.nic.in/textbook.php" target="_blank" rel="noopener noreferrer">${text( "NCERT की आधिकारिक पाठ्यपुस्तकें", "Official NCERT textbooks" )}</a> · <a href="/pages/contact.html">${text( "सुधार या feedback भेजें", "Send a correction or feedback" )}</a></p>
+          <p>${text( "RojgarDwaar स्वतंत्र शैक्षिक वेबसाइट है और NCERT या किसी सरकारी परीक्षा संस्था की आधिकारिक वेबसाइट नहीं है।", "RojgarDwaar is an independent educational website and is not an official NCERT or government examination website." )}</p>
+        </section>
+
       </div>
     `;
 
