@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "matter-and-particles",
+      "name": {
+        "hi": "पदार्थ कणों से बना है",
+        "en": "Matter And Particles"
+      }
+    },
+    {
+      "id": "states-of-matter",
+      "name": {
+        "hi": "ठोस, द्रव, गैस",
+        "en": "States Of Matter"
+      }
+    },
+    {
+      "id": "changes-of-state",
+      "name": {
+        "hi": "अवस्था परिवर्तन",
+        "en": "Changes Of State"
+      }
+    },
+    {
+      "id": "evaporation-and-cooling",
+      "name": {
+        "hi": "वाष्पीकरण एवं शीतलन",
+        "en": "Evaporation And Cooling"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "पदार्थ वह है जो द्रव्यमान रखता है और स्थान घेरता है। ठोस, द्रव और गैस पदार्थ की तीन अवस्थाएँ हैं जो कणों के बीच आकर्षण और गतिज ऊर्जा के अंतर से निर्धारित होती हैं। ताप बढ़ाने-घटाने से पदार्थ एक अवस्था से दूसरी में बदलता है।",
