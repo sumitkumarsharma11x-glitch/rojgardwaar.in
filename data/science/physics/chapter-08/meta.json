@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "light-propagation-materials",
+      "name": {
+        "hi": "प्रकाश का सीधा व वर्तन",
+        "en": "Light Propagation Materials"
+      }
+    },
+    {
+      "id": "reflection-and-mirrors",
+      "name": {
+        "hi": "परावर्तन एवं दर्पण",
+        "en": "Reflection And Mirrors"
+      }
+    },
+    {
+      "id": "refraction-and-lenses",
+      "name": {
+        "hi": "अपवर्तन एवं लेंस",
+        "en": "Refraction And Lenses"
+      }
+    },
+    {
+      "id": "dispersion-and-human-eye",
+      "name": {
+        "hi": "विक्षेपण एवं मानव नेत्र",
+        "en": "Dispersion And Human Eye"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "प्रकाश सीधी रेखा में चलती है और दर्पण से परावर्तित, लेंस-प्रिज्म से अपवर्तित होकर विभिन्न प्रतिबिंब बनाती है। परावर्तन के नियम समतल व गोलीय दर्पण के प्रतिबिंब निर्धारित करते हैं, जबकि अपवर्तन से लेंस की क्षमता और विक्षेपण की व्याख्या होती है।",
