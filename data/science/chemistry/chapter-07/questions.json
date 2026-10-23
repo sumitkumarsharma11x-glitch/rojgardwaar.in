@@ -39,19 +39,19 @@
       },
       "options": {
         "hi": [
+          "दाब",
           "रासायनिक अभिक्रिया",
           "भौतिक अवस्था",
-          "तापमान",
-          "दाब"
+          "तापमान"
         ],
         "en": [
+          "Pressure",
           "A chemical reaction",
           "Physical state",
-          "Temperature",
-          "Pressure"
+          "Temperature"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -67,19 +67,19 @@
       },
       "options": {
         "hi": [
-          "प्रत्येक तत्व के परमाणुओं की संख्या",
-          "अणुओं की संख्या हमेशा",
           "गुणांक हमेशा",
-          "तापमान"
+          "तापमान",
+          "प्रत्येक तत्व के परमाणुओं की संख्या",
+          "अणुओं की संख्या हमेशा"
         ],
         "en": [
-          "Number of atoms of each element",
-          "Always number of molecules",
           "Coefficients always",
-          "Temperature"
+          "Temperature",
+          "Number of atoms of each element",
+          "Always number of molecules"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रत्येक तत्व के परमाणुओं की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of atoms of each element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -95,19 +95,19 @@
       },
       "options": {
         "hi": [
-          "अभिकारक",
           "उत्पाद",
           "उत्प्रेरक",
-          "अवक्षेप"
+          "अवक्षेप",
+          "अभिकारक"
         ],
         "en": [
-          "Reactants",
           "Products",
           "Catalysts",
-          "Precipitates"
+          "Precipitates",
+          "Reactants"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अभिकारक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Reactants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -151,19 +151,19 @@
       },
       "options": {
         "hi": [
+          "उदासीनीकरण",
           "संयोजन",
           "अपघटन",
-          "विस्थापन",
-          "उदासीनीकरण"
+          "विस्थापन"
         ],
         "en": [
+          "Neutralization",
           "Combination",
           "Decomposition",
-          "Displacement",
-          "Neutralization"
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: संयोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Combination. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -179,19 +179,19 @@
       },
       "options": {
         "hi": [
-          "अपघटन",
-          "संयोजन",
           "विस्थापन",
-          "दहन"
+          "दहन",
+          "अपघटन",
+          "संयोजन"
         ],
         "en": [
-          "Decomposition",
-          "Combination",
           "Displacement",
-          "Combustion"
+          "Combustion",
+          "Decomposition",
+          "Combination"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अपघटन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decomposition. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -207,19 +207,19 @@
       },
       "options": {
         "hi": [
-          "विस्थापन",
           "संयोजन",
           "अपघटन",
-          "उदासीनीकरण"
+          "उदासीनीकरण",
+          "विस्थापन"
         ],
         "en": [
-          "Displacement",
           "Combination",
           "Decomposition",
-          "Neutralization"
+          "Neutralization",
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: विस्थापन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Displacement. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -263,19 +263,19 @@
       },
       "options": {
         "hi": [
+          "केवल पिघलना",
           "रासायनिक परिवर्तन",
           "केवल वाष्पीकरण",
-          "केवल निस्यंदन",
-          "केवल पिघलना"
+          "केवल निस्यंदन"
         ],
         "en": [
+          "Only melting",
           "Chemical change",
           "Only evaporation",
-          "Only filtration",
-          "Only melting"
+          "Only filtration"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -291,19 +291,19 @@
       },
       "options": {
         "hi": [
-          "अभिक्रिया में बनने वाला अघुलनशील ठोस",
-          "एक गैस",
           "एक विलायक",
-          "एक धातु का नाम"
+          "एक धातु का नाम",
+          "अभिक्रिया में बनने वाला अघुलनशील ठोस",
+          "एक गैस"
         ],
         "en": [
-          "An insoluble solid formed in a reaction",
-          "A gas",
           "A solvent",
-          "A metal name"
+          "A metal name",
+          "An insoluble solid formed in a reaction",
+          "A gas"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अभिक्रिया में बनने वाला अघुलनशील ठोस। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: An insoluble solid formed in a reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -319,19 +319,19 @@
       },
       "options": {
         "hi": [
-          "ऊष्मा",
           "केवल प्रकाश",
           "केवल द्रव",
-          "न्यूट्रॉन"
+          "न्यूट्रॉन",
+          "ऊष्मा"
         ],
         "en": [
-          "Heat",
           "Only light",
           "Only liquid",
-          "Neutrons"
+          "Neutrons",
+          "Heat"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऊष्मा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -375,19 +375,19 @@
       },
       "options": {
         "hi": [
+          "अवसादन",
           "ऊष्माक्षेपी",
           "ऊष्माशोषी",
-          "निस्यंदन",
-          "अवसादन"
+          "निस्यंदन"
         ],
         "en": [
+          "Sedimentation",
           "Exothermic",
           "Endothermic",
-          "Filtration",
-          "Sedimentation"
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऊष्माक्षेपी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Exothermic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -403,19 +403,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीकरण/रासायनिक परिवर्तन",
-          "भौतिक मिश्रण",
           "निस्यंदन",
-          "आसवन"
+          "आसवन",
+          "ऑक्सीकरण/रासायनिक परिवर्तन",
+          "भौतिक मिश्रण"
         ],
         "en": [
-          "Oxidation/chemical change",
-          "Physical mixture",
           "Filtration",
-          "Distillation"
+          "Distillation",
+          "Oxidation/chemical change",
+          "Physical mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीकरण/रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxidation/chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -431,19 +431,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीजन",
           "नाइट्रोजन ही",
           "सोडियम ही",
-          "क्लोरीन ही"
+          "क्लोरीन ही",
+          "ऑक्सीजन"
         ],
         "en": [
-          "Oxygen",
           "Only nitrogen",
           "Only sodium",
-          "Only chlorine"
+          "Only chlorine",
+          "Oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -487,19 +487,19 @@
       },
       "options": {
         "hi": [
+          "रंग",
           "अभिकारकों से उत्पाद बनने की दिशा",
           "तापमान",
-          "दाब",
-          "रंग"
+          "दाब"
         ],
         "en": [
+          "Colour",
           "Direction from reactants to products",
           "Temperature",
-          "Pressure",
-          "Colour"
+          "Pressure"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अभिकारकों से उत्पाद बनने की दिशा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Direction from reactants to products. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -515,19 +515,19 @@
       },
       "options": {
         "hi": [
-          "द्रव्यमान संरक्षण का नियम",
-          "गुरुत्वाकर्षण का नियम",
           "ओम का नियम",
-          "पास्कल का नियम"
+          "पास्कल का नियम",
+          "द्रव्यमान संरक्षण का नियम",
+          "गुरुत्वाकर्षण का नियम"
         ],
         "en": [
-          "Law of conservation of mass",
-          "Law of gravitation",
           "Ohm's law",
-          "Pascal's law"
+          "Pascal's law",
+          "Law of conservation of mass",
+          "Law of gravitation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: द्रव्यमान संरक्षण का नियम। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Law of conservation of mass. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -543,19 +543,19 @@
       },
       "options": {
         "hi": [
-          "अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए",
           "उत्पाद का द्रव्यमान बढ़ाना",
           "तत्व को बदलना",
-          "समीकरण मिटाना"
+          "समीकरण मिटाना",
+          "अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए"
         ],
         "en": [
-          "Change reaction rate without being permanently consumed",
           "Increase product mass",
           "Change an element",
-          "Erase the equation"
+          "Erase the equation",
+          "Change reaction rate without being permanently consumed"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change reaction rate without being permanently consumed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -599,19 +599,19 @@
       },
       "options": {
         "hi": [
+          "उदासीनीकरण",
           "अपघटन अभिक्रिया",
           "संयोजन",
-          "विस्थापन",
-          "उदासीनीकरण"
+          "विस्थापन"
         ],
         "en": [
+          "Neutralization",
           "Decomposition reaction",
           "Combination",
-          "Displacement",
-          "Neutralization"
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अपघटन अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decomposition reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -627,19 +627,19 @@
       },
       "options": {
         "hi": [
-          "आमतौर पर अलग",
-          "हमेशा समान",
           "केवल रंग समान",
-          "हमेशा गैसीय"
+          "हमेशा गैसीय",
+          "आमतौर पर अलग",
+          "हमेशा समान"
         ],
         "en": [
-          "Usually different",
-          "Always the same",
           "Only colour is same",
-          "Always gaseous"
+          "Always gaseous",
+          "Usually different",
+          "Always the same"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: आमतौर पर अलग। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Usually different. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -655,19 +655,19 @@
       },
       "options": {
         "hi": [
-          "मैग्नीशियम ऑक्साइड",
           "मैग्नीशियम क्लोराइड",
           "कार्बन डाइऑक्साइड",
-          "सोडियम ऑक्साइड"
+          "सोडियम ऑक्साइड",
+          "मैग्नीशियम ऑक्साइड"
         ],
         "en": [
-          "Magnesium oxide",
           "Magnesium chloride",
           "Carbon dioxide",
-          "Sodium oxide"
+          "Sodium oxide",
+          "Magnesium oxide"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: मैग्नीशियम ऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Magnesium oxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -711,19 +711,19 @@
       },
       "options": {
         "hi": [
+          "केवल अम्ल",
           "लवण और जल",
           "केवल गैस",
-          "केवल धातु",
-          "केवल अम्ल"
+          "केवल धातु"
         ],
         "en": [
+          "Only acid",
           "Salt and water",
           "Only gas",
-          "Only metal",
-          "Only acid"
+          "Only metal"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लवण और जल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Salt and water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -739,19 +739,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक अभिक्रिया",
-          "केवल छानना",
           "केवल गलना",
-          "केवल निथारना"
+          "केवल निथारना",
+          "रासायनिक अभिक्रिया",
+          "केवल छानना"
         ],
         "en": [
-          "Chemical reaction",
-          "Only filtration",
           "Only melting",
-          "Only decantation"
+          "Only decantation",
+          "Chemical reaction",
+          "Only filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -767,19 +767,19 @@
       },
       "options": {
         "hi": [
-          "गुणांक",
           "रासायनिक सूत्र के नीचे के अंक",
           "तत्वों के नाम",
-          "परमाणु क्रमांक"
+          "परमाणु क्रमांक",
+          "गुणांक"
         ],
         "en": [
-          "Coefficients",
           "Subscripts in chemical formulae",
           "Element names",
-          "Atomic numbers"
+          "Atomic numbers",
+          "Coefficients"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: गुणांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Coefficients. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -823,19 +823,19 @@
       },
       "options": {
         "hi": [
+          "केवल ताप",
           "नए पदार्थ",
           "केवल मिश्रण",
-          "केवल विलयन",
-          "केवल ताप"
+          "केवल विलयन"
         ],
         "en": [
+          "Only heat",
           "New substances",
           "Only a mixture",
-          "Only a solution",
-          "Only heat"
+          "Only a solution"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नए पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: New substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -851,19 +851,19 @@
       },
       "options": {
         "hi": [
-          "नए पदार्थ",
-          "केवल मिश्रण",
           "केवल विलयन",
-          "केवल ताप"
+          "केवल ताप",
+          "नए पदार्थ",
+          "केवल मिश्रण"
         ],
         "en": [
-          "New substances",
-          "Only a mixture",
           "Only a solution",
-          "Only heat"
+          "Only heat",
+          "New substances",
+          "Only a mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नए पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: New substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -879,19 +879,19 @@
       },
       "options": {
         "hi": [
-          "नए पदार्थ",
           "केवल मिश्रण",
           "केवल विलयन",
-          "केवल ताप"
+          "केवल ताप",
+          "नए पदार्थ"
         ],
         "en": [
-          "New substances",
           "Only a mixture",
           "Only a solution",
-          "Only heat"
+          "Only heat",
+          "New substances"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नए पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: New substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -935,19 +935,19 @@
       },
       "options": {
         "hi": [
+          "दाब",
           "रासायनिक अभिक्रिया",
           "भौतिक अवस्था",
-          "तापमान",
-          "दाब"
+          "तापमान"
         ],
         "en": [
+          "Pressure",
           "A chemical reaction",
           "Physical state",
-          "Temperature",
-          "Pressure"
+          "Temperature"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -963,19 +963,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक अभिक्रिया",
-          "भौतिक अवस्था",
           "तापमान",
-          "दाब"
+          "दाब",
+          "रासायनिक अभिक्रिया",
+          "भौतिक अवस्था"
         ],
         "en": [
-          "A chemical reaction",
-          "Physical state",
           "Temperature",
-          "Pressure"
+          "Pressure",
+          "A chemical reaction",
+          "Physical state"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -991,19 +991,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक अभिक्रिया",
           "भौतिक अवस्था",
           "तापमान",
-          "दाब"
+          "दाब",
+          "रासायनिक अभिक्रिया"
         ],
         "en": [
-          "A chemical reaction",
           "Physical state",
           "Temperature",
-          "Pressure"
+          "Pressure",
+          "A chemical reaction"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1047,19 +1047,19 @@
       },
       "options": {
         "hi": [
+          "तापमान",
           "प्रत्येक तत्व के परमाणुओं की संख्या",
           "अणुओं की संख्या हमेशा",
-          "गुणांक हमेशा",
-          "तापमान"
+          "गुणांक हमेशा"
         ],
         "en": [
+          "Temperature",
           "Number of atoms of each element",
           "Always number of molecules",
-          "Coefficients always",
-          "Temperature"
+          "Coefficients always"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: प्रत्येक तत्व के परमाणुओं की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of atoms of each element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1075,19 +1075,19 @@
       },
       "options": {
         "hi": [
-          "प्रत्येक तत्व के परमाणुओं की संख्या",
-          "अणुओं की संख्या हमेशा",
           "गुणांक हमेशा",
-          "तापमान"
+          "तापमान",
+          "प्रत्येक तत्व के परमाणुओं की संख्या",
+          "अणुओं की संख्या हमेशा"
         ],
         "en": [
-          "Number of atoms of each element",
-          "Always number of molecules",
           "Coefficients always",
-          "Temperature"
+          "Temperature",
+          "Number of atoms of each element",
+          "Always number of molecules"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: प्रत्येक तत्व के परमाणुओं की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of atoms of each element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1103,19 +1103,19 @@
       },
       "options": {
         "hi": [
-          "प्रत्येक तत्व के परमाणुओं की संख्या",
           "अणुओं की संख्या हमेशा",
           "गुणांक हमेशा",
-          "तापमान"
+          "तापमान",
+          "प्रत्येक तत्व के परमाणुओं की संख्या"
         ],
         "en": [
-          "Number of atoms of each element",
           "Always number of molecules",
           "Coefficients always",
-          "Temperature"
+          "Temperature",
+          "Number of atoms of each element"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: प्रत्येक तत्व के परमाणुओं की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of atoms of each element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1159,19 +1159,19 @@
       },
       "options": {
         "hi": [
+          "अवक्षेप",
           "अभिकारक",
           "उत्पाद",
-          "उत्प्रेरक",
-          "अवक्षेप"
+          "उत्प्रेरक"
         ],
         "en": [
+          "Precipitates",
           "Reactants",
           "Products",
-          "Catalysts",
-          "Precipitates"
+          "Catalysts"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अभिकारक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Reactants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1187,19 +1187,19 @@
       },
       "options": {
         "hi": [
-          "अभिकारक",
-          "उत्पाद",
           "उत्प्रेरक",
-          "अवक्षेप"
+          "अवक्षेप",
+          "अभिकारक",
+          "उत्पाद"
         ],
         "en": [
-          "Reactants",
-          "Products",
           "Catalysts",
-          "Precipitates"
+          "Precipitates",
+          "Reactants",
+          "Products"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अभिकारक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Reactants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1215,19 +1215,19 @@
       },
       "options": {
         "hi": [
-          "अभिकारक",
           "उत्पाद",
           "उत्प्रेरक",
-          "अवक्षेप"
+          "अवक्षेप",
+          "अभिकारक"
         ],
         "en": [
-          "Reactants",
           "Products",
           "Catalysts",
-          "Precipitates"
+          "Precipitates",
+          "Reactants"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अभिकारक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Reactants. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1271,19 +1271,19 @@
       },
       "options": {
         "hi": [
+          "सूचक",
           "उत्पाद",
           "अभिकारक",
-          "विलायक",
-          "सूचक"
+          "विलायक"
         ],
         "en": [
+          "Indicator",
           "Products",
           "Reactants",
-          "Solvent",
-          "Indicator"
+          "Solvent"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उत्पाद। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Products. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1299,19 +1299,19 @@
       },
       "options": {
         "hi": [
-          "उत्पाद",
-          "अभिकारक",
           "विलायक",
-          "सूचक"
+          "सूचक",
+          "उत्पाद",
+          "अभिकारक"
         ],
         "en": [
-          "Products",
-          "Reactants",
           "Solvent",
-          "Indicator"
+          "Indicator",
+          "Products",
+          "Reactants"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उत्पाद। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Products. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1327,19 +1327,19 @@
       },
       "options": {
         "hi": [
-          "उत्पाद",
           "अभिकारक",
           "विलायक",
-          "सूचक"
+          "सूचक",
+          "उत्पाद"
         ],
         "en": [
-          "Products",
           "Reactants",
           "Solvent",
-          "Indicator"
+          "Indicator",
+          "Products"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उत्पाद। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Products. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1383,19 +1383,19 @@
       },
       "options": {
         "hi": [
+          "उदासीनीकरण",
           "संयोजन",
           "अपघटन",
-          "विस्थापन",
-          "उदासीनीकरण"
+          "विस्थापन"
         ],
         "en": [
+          "Neutralization",
           "Combination",
           "Decomposition",
-          "Displacement",
-          "Neutralization"
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: संयोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Combination. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1411,19 +1411,19 @@
       },
       "options": {
         "hi": [
-          "संयोजन",
-          "अपघटन",
           "विस्थापन",
-          "उदासीनीकरण"
+          "उदासीनीकरण",
+          "संयोजन",
+          "अपघटन"
         ],
         "en": [
-          "Combination",
-          "Decomposition",
           "Displacement",
-          "Neutralization"
+          "Neutralization",
+          "Combination",
+          "Decomposition"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: संयोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Combination. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1439,19 +1439,19 @@
       },
       "options": {
         "hi": [
-          "संयोजन",
           "अपघटन",
           "विस्थापन",
-          "उदासीनीकरण"
+          "उदासीनीकरण",
+          "संयोजन"
         ],
         "en": [
-          "Combination",
           "Decomposition",
           "Displacement",
-          "Neutralization"
+          "Neutralization",
+          "Combination"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: संयोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Combination. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1495,19 +1495,19 @@
       },
       "options": {
         "hi": [
+          "दहन",
           "अपघटन",
           "संयोजन",
-          "विस्थापन",
-          "दहन"
+          "विस्थापन"
         ],
         "en": [
+          "Combustion",
           "Decomposition",
           "Combination",
-          "Displacement",
-          "Combustion"
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अपघटन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decomposition. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1523,19 +1523,19 @@
       },
       "options": {
         "hi": [
-          "अपघटन",
-          "संयोजन",
           "विस्थापन",
-          "दहन"
+          "दहन",
+          "अपघटन",
+          "संयोजन"
         ],
         "en": [
-          "Decomposition",
-          "Combination",
           "Displacement",
-          "Combustion"
+          "Combustion",
+          "Decomposition",
+          "Combination"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अपघटन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decomposition. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1551,19 +1551,19 @@
       },
       "options": {
         "hi": [
-          "अपघटन",
           "संयोजन",
           "विस्थापन",
-          "दहन"
+          "दहन",
+          "अपघटन"
         ],
         "en": [
-          "Decomposition",
           "Combination",
           "Displacement",
-          "Combustion"
+          "Combustion",
+          "Decomposition"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अपघटन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decomposition. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1607,19 +1607,19 @@
       },
       "options": {
         "hi": [
+          "उदासीनीकरण",
           "विस्थापन",
           "संयोजन",
-          "अपघटन",
-          "उदासीनीकरण"
+          "अपघटन"
         ],
         "en": [
+          "Neutralization",
           "Displacement",
           "Combination",
-          "Decomposition",
-          "Neutralization"
+          "Decomposition"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: विस्थापन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Displacement. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1635,19 +1635,19 @@
       },
       "options": {
         "hi": [
-          "विस्थापन",
-          "संयोजन",
           "अपघटन",
-          "उदासीनीकरण"
+          "उदासीनीकरण",
+          "विस्थापन",
+          "संयोजन"
         ],
         "en": [
-          "Displacement",
-          "Combination",
           "Decomposition",
-          "Neutralization"
+          "Neutralization",
+          "Displacement",
+          "Combination"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: विस्थापन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Displacement. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1663,19 +1663,19 @@
       },
       "options": {
         "hi": [
-          "विस्थापन",
           "संयोजन",
           "अपघटन",
-          "उदासीनीकरण"
+          "उदासीनीकरण",
+          "विस्थापन"
         ],
         "en": [
-          "Displacement",
           "Combination",
           "Decomposition",
-          "Neutralization"
+          "Neutralization",
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: विस्थापन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Displacement. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1719,19 +1719,19 @@
       },
       "options": {
         "hi": [
+          "तापमान स्थिर रहने का",
           "रासायनिक परिवर्तन",
           "केवल भौतिक परिवर्तन",
-          "मिश्रण बनने का",
-          "तापमान स्थिर रहने का"
+          "मिश्रण बनने का"
         ],
         "en": [
+          "Constant temperature",
           "Chemical change",
           "Only physical change",
-          "Formation of a mixture",
-          "Constant temperature"
+          "Formation of a mixture"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1747,19 +1747,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक परिवर्तन",
-          "केवल भौतिक परिवर्तन",
           "मिश्रण बनने का",
-          "तापमान स्थिर रहने का"
+          "तापमान स्थिर रहने का",
+          "रासायनिक परिवर्तन",
+          "केवल भौतिक परिवर्तन"
         ],
         "en": [
-          "Chemical change",
-          "Only physical change",
           "Formation of a mixture",
-          "Constant temperature"
+          "Constant temperature",
+          "Chemical change",
+          "Only physical change"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1775,19 +1775,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक परिवर्तन",
           "केवल भौतिक परिवर्तन",
           "मिश्रण बनने का",
-          "तापमान स्थिर रहने का"
+          "तापमान स्थिर रहने का",
+          "रासायनिक परिवर्तन"
         ],
         "en": [
-          "Chemical change",
           "Only physical change",
           "Formation of a mixture",
-          "Constant temperature"
+          "Constant temperature",
+          "Chemical change"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1831,19 +1831,19 @@
       },
       "options": {
         "hi": [
+          "केवल पिघलना",
           "रासायनिक परिवर्तन",
           "केवल वाष्पीकरण",
-          "केवल निस्यंदन",
-          "केवल पिघलना"
+          "केवल निस्यंदन"
         ],
         "en": [
+          "Only melting",
           "Chemical change",
           "Only evaporation",
-          "Only filtration",
-          "Only melting"
+          "Only filtration"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1859,19 +1859,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक परिवर्तन",
-          "केवल वाष्पीकरण",
           "केवल निस्यंदन",
-          "केवल पिघलना"
+          "केवल पिघलना",
+          "रासायनिक परिवर्तन",
+          "केवल वाष्पीकरण"
         ],
         "en": [
-          "Chemical change",
-          "Only evaporation",
           "Only filtration",
-          "Only melting"
+          "Only melting",
+          "Chemical change",
+          "Only evaporation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1887,19 +1887,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक परिवर्तन",
           "केवल वाष्पीकरण",
           "केवल निस्यंदन",
-          "केवल पिघलना"
+          "केवल पिघलना",
+          "रासायनिक परिवर्तन"
         ],
         "en": [
-          "Chemical change",
           "Only evaporation",
           "Only filtration",
-          "Only melting"
+          "Only melting",
+          "Chemical change"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1943,19 +1943,19 @@
       },
       "options": {
         "hi": [
+          "एक धातु का नाम",
           "अभिक्रिया में बनने वाला अघुलनशील ठोस",
           "एक गैस",
-          "एक विलायक",
-          "एक धातु का नाम"
+          "एक विलायक"
         ],
         "en": [
+          "A metal name",
           "An insoluble solid formed in a reaction",
           "A gas",
-          "A solvent",
-          "A metal name"
+          "A solvent"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अभिक्रिया में बनने वाला अघुलनशील ठोस। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: An insoluble solid formed in a reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1971,19 +1971,19 @@
       },
       "options": {
         "hi": [
-          "अभिक्रिया में बनने वाला अघुलनशील ठोस",
-          "एक गैस",
           "एक विलायक",
-          "एक धातु का नाम"
+          "एक धातु का नाम",
+          "अभिक्रिया में बनने वाला अघुलनशील ठोस",
+          "एक गैस"
         ],
         "en": [
-          "An insoluble solid formed in a reaction",
-          "A gas",
           "A solvent",
-          "A metal name"
+          "A metal name",
+          "An insoluble solid formed in a reaction",
+          "A gas"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अभिक्रिया में बनने वाला अघुलनशील ठोस। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: An insoluble solid formed in a reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1999,19 +1999,19 @@
       },
       "options": {
         "hi": [
-          "अभिक्रिया में बनने वाला अघुलनशील ठोस",
           "एक गैस",
           "एक विलायक",
-          "एक धातु का नाम"
+          "एक धातु का नाम",
+          "अभिक्रिया में बनने वाला अघुलनशील ठोस"
         ],
         "en": [
-          "An insoluble solid formed in a reaction",
           "A gas",
           "A solvent",
-          "A metal name"
+          "A metal name",
+          "An insoluble solid formed in a reaction"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अभिक्रिया में बनने वाला अघुलनशील ठोस। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: An insoluble solid formed in a reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2055,19 +2055,19 @@
       },
       "options": {
         "hi": [
+          "न्यूट्रॉन",
           "ऊष्मा",
           "केवल प्रकाश",
-          "केवल द्रव",
-          "न्यूट्रॉन"
+          "केवल द्रव"
         ],
         "en": [
+          "Neutrons",
           "Heat",
           "Only light",
-          "Only liquid",
-          "Neutrons"
+          "Only liquid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऊष्मा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2083,19 +2083,19 @@
       },
       "options": {
         "hi": [
-          "ऊष्मा",
-          "केवल प्रकाश",
           "केवल द्रव",
-          "न्यूट्रॉन"
+          "न्यूट्रॉन",
+          "ऊष्मा",
+          "केवल प्रकाश"
         ],
         "en": [
-          "Heat",
-          "Only light",
           "Only liquid",
-          "Neutrons"
+          "Neutrons",
+          "Heat",
+          "Only light"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऊष्मा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2111,19 +2111,19 @@
       },
       "options": {
         "hi": [
-          "ऊष्मा",
           "केवल प्रकाश",
           "केवल द्रव",
-          "न्यूट्रॉन"
+          "न्यूट्रॉन",
+          "ऊष्मा"
         ],
         "en": [
-          "Heat",
           "Only light",
           "Only liquid",
-          "Neutrons"
+          "Neutrons",
+          "Heat"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऊष्मा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2167,19 +2167,19 @@
       },
       "options": {
         "hi": [
+          "अवक्षेप",
           "ऊष्मा",
           "प्रोटॉन",
-          "नमक",
-          "अवक्षेप"
+          "नमक"
         ],
         "en": [
+          "Precipitate",
           "Heat",
           "Protons",
-          "Salt",
-          "Precipitate"
+          "Salt"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऊष्मा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2195,19 +2195,19 @@
       },
       "options": {
         "hi": [
-          "ऊष्मा",
-          "प्रोटॉन",
           "नमक",
-          "अवक्षेप"
+          "अवक्षेप",
+          "ऊष्मा",
+          "प्रोटॉन"
         ],
         "en": [
-          "Heat",
-          "Protons",
           "Salt",
-          "Precipitate"
+          "Precipitate",
+          "Heat",
+          "Protons"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऊष्मा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2223,19 +2223,19 @@
       },
       "options": {
         "hi": [
-          "ऊष्मा",
           "प्रोटॉन",
           "नमक",
-          "अवक्षेप"
+          "अवक्षेप",
+          "ऊष्मा"
         ],
         "en": [
-          "Heat",
           "Protons",
           "Salt",
-          "Precipitate"
+          "Precipitate",
+          "Heat"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऊष्मा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Heat. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2279,19 +2279,19 @@
       },
       "options": {
         "hi": [
+          "अवसादन",
           "ऊष्माक्षेपी",
           "ऊष्माशोषी",
-          "निस्यंदन",
-          "अवसादन"
+          "निस्यंदन"
         ],
         "en": [
+          "Sedimentation",
           "Exothermic",
           "Endothermic",
-          "Filtration",
-          "Sedimentation"
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऊष्माक्षेपी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Exothermic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2307,19 +2307,19 @@
       },
       "options": {
         "hi": [
-          "ऊष्माक्षेपी",
-          "ऊष्माशोषी",
           "निस्यंदन",
-          "अवसादन"
+          "अवसादन",
+          "ऊष्माक्षेपी",
+          "ऊष्माशोषी"
         ],
         "en": [
-          "Exothermic",
-          "Endothermic",
           "Filtration",
-          "Sedimentation"
+          "Sedimentation",
+          "Exothermic",
+          "Endothermic"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऊष्माक्षेपी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Exothermic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2335,19 +2335,19 @@
       },
       "options": {
         "hi": [
-          "ऊष्माक्षेपी",
           "ऊष्माशोषी",
           "निस्यंदन",
-          "अवसादन"
+          "अवसादन",
+          "ऊष्माक्षेपी"
         ],
         "en": [
-          "Exothermic",
           "Endothermic",
           "Filtration",
-          "Sedimentation"
+          "Sedimentation",
+          "Exothermic"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऊष्माक्षेपी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Exothermic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2391,19 +2391,19 @@
       },
       "options": {
         "hi": [
+          "आसवन",
           "ऑक्सीकरण/रासायनिक परिवर्तन",
           "भौतिक मिश्रण",
-          "निस्यंदन",
-          "आसवन"
+          "निस्यंदन"
         ],
         "en": [
+          "Distillation",
           "Oxidation/chemical change",
           "Physical mixture",
-          "Filtration",
-          "Distillation"
+          "Filtration"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीकरण/रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxidation/chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2419,19 +2419,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीकरण/रासायनिक परिवर्तन",
-          "भौतिक मिश्रण",
           "निस्यंदन",
-          "आसवन"
+          "आसवन",
+          "ऑक्सीकरण/रासायनिक परिवर्तन",
+          "भौतिक मिश्रण"
         ],
         "en": [
-          "Oxidation/chemical change",
-          "Physical mixture",
           "Filtration",
-          "Distillation"
+          "Distillation",
+          "Oxidation/chemical change",
+          "Physical mixture"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीकरण/रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxidation/chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2447,19 +2447,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीकरण/रासायनिक परिवर्तन",
           "भौतिक मिश्रण",
           "निस्यंदन",
-          "आसवन"
+          "आसवन",
+          "ऑक्सीकरण/रासायनिक परिवर्तन"
         ],
         "en": [
-          "Oxidation/chemical change",
           "Physical mixture",
           "Filtration",
-          "Distillation"
+          "Distillation",
+          "Oxidation/chemical change"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीकरण/रासायनिक परिवर्तन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxidation/chemical change. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2503,19 +2503,19 @@
       },
       "options": {
         "hi": [
+          "क्लोरीन ही",
           "ऑक्सीजन",
           "नाइट्रोजन ही",
-          "सोडियम ही",
-          "क्लोरीन ही"
+          "सोडियम ही"
         ],
         "en": [
+          "Only chlorine",
           "Oxygen",
           "Only nitrogen",
-          "Only sodium",
-          "Only chlorine"
+          "Only sodium"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2531,19 +2531,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीजन",
-          "नाइट्रोजन ही",
           "सोडियम ही",
-          "क्लोरीन ही"
+          "क्लोरीन ही",
+          "ऑक्सीजन",
+          "नाइट्रोजन ही"
         ],
         "en": [
-          "Oxygen",
-          "Only nitrogen",
           "Only sodium",
-          "Only chlorine"
+          "Only chlorine",
+          "Oxygen",
+          "Only nitrogen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2559,19 +2559,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीजन",
           "नाइट्रोजन ही",
           "सोडियम ही",
-          "क्लोरीन ही"
+          "क्लोरीन ही",
+          "ऑक्सीजन"
         ],
         "en": [
-          "Oxygen",
           "Only nitrogen",
           "Only sodium",
-          "Only chlorine"
+          "Only chlorine",
+          "Oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2615,19 +2615,19 @@
       },
       "options": {
         "hi": [
+          "नमक",
           "ऑक्सीजन",
           "हाइड्रोजन हमेशा",
-          "कार्बन हमेशा",
-          "नमक"
+          "कार्बन हमेशा"
         ],
         "en": [
+          "Salt",
           "Oxygen",
           "Always hydrogen",
-          "Always carbon",
-          "Salt"
+          "Always carbon"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2643,19 +2643,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीजन",
-          "हाइड्रोजन हमेशा",
           "कार्बन हमेशा",
-          "नमक"
+          "नमक",
+          "ऑक्सीजन",
+          "हाइड्रोजन हमेशा"
         ],
         "en": [
-          "Oxygen",
-          "Always hydrogen",
           "Always carbon",
-          "Salt"
+          "Salt",
+          "Oxygen",
+          "Always hydrogen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2671,19 +2671,19 @@
       },
       "options": {
         "hi": [
-          "ऑक्सीजन",
           "हाइड्रोजन हमेशा",
           "कार्बन हमेशा",
-          "नमक"
+          "नमक",
+          "ऑक्सीजन"
         ],
         "en": [
-          "Oxygen",
           "Always hydrogen",
           "Always carbon",
-          "Salt"
+          "Salt",
+          "Oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: ऑक्सीजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Oxygen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2727,19 +2727,19 @@
       },
       "options": {
         "hi": [
+          "रंग",
           "अभिकारकों से उत्पाद बनने की दिशा",
           "तापमान",
-          "दाब",
-          "रंग"
+          "दाब"
         ],
         "en": [
+          "Colour",
           "Direction from reactants to products",
           "Temperature",
-          "Pressure",
-          "Colour"
+          "Pressure"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अभिकारकों से उत्पाद बनने की दिशा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Direction from reactants to products. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2755,19 +2755,19 @@
       },
       "options": {
         "hi": [
-          "अभिकारकों से उत्पाद बनने की दिशा",
-          "तापमान",
           "दाब",
-          "रंग"
+          "रंग",
+          "अभिकारकों से उत्पाद बनने की दिशा",
+          "तापमान"
         ],
         "en": [
-          "Direction from reactants to products",
-          "Temperature",
           "Pressure",
-          "Colour"
+          "Colour",
+          "Direction from reactants to products",
+          "Temperature"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अभिकारकों से उत्पाद बनने की दिशा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Direction from reactants to products. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2783,19 +2783,19 @@
       },
       "options": {
         "hi": [
-          "अभिकारकों से उत्पाद बनने की दिशा",
           "तापमान",
           "दाब",
-          "रंग"
+          "रंग",
+          "अभिकारकों से उत्पाद बनने की दिशा"
         ],
         "en": [
-          "Direction from reactants to products",
           "Temperature",
           "Pressure",
-          "Colour"
+          "Colour",
+          "Direction from reactants to products"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अभिकारकों से उत्पाद बनने की दिशा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Direction from reactants to products. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2839,19 +2839,19 @@
       },
       "options": {
         "hi": [
+          "पास्कल का नियम",
           "द्रव्यमान संरक्षण का नियम",
           "गुरुत्वाकर्षण का नियम",
-          "ओम का नियम",
-          "पास्कल का नियम"
+          "ओम का नियम"
         ],
         "en": [
+          "Pascal's law",
           "Law of conservation of mass",
           "Law of gravitation",
-          "Ohm's law",
-          "Pascal's law"
+          "Ohm's law"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: द्रव्यमान संरक्षण का नियम। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Law of conservation of mass. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2867,19 +2867,19 @@
       },
       "options": {
         "hi": [
-          "द्रव्यमान संरक्षण का नियम",
-          "गुरुत्वाकर्षण का नियम",
           "ओम का नियम",
-          "पास्कल का नियम"
+          "पास्कल का नियम",
+          "द्रव्यमान संरक्षण का नियम",
+          "गुरुत्वाकर्षण का नियम"
         ],
         "en": [
-          "Law of conservation of mass",
-          "Law of gravitation",
           "Ohm's law",
-          "Pascal's law"
+          "Pascal's law",
+          "Law of conservation of mass",
+          "Law of gravitation"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: द्रव्यमान संरक्षण का नियम। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Law of conservation of mass. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2895,19 +2895,19 @@
       },
       "options": {
         "hi": [
-          "द्रव्यमान संरक्षण का नियम",
           "गुरुत्वाकर्षण का नियम",
           "ओम का नियम",
-          "पास्कल का नियम"
+          "पास्कल का नियम",
+          "द्रव्यमान संरक्षण का नियम"
         ],
         "en": [
-          "Law of conservation of mass",
           "Law of gravitation",
           "Ohm's law",
-          "Pascal's law"
+          "Pascal's law",
+          "Law of conservation of mass"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: द्रव्यमान संरक्षण का नियम। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Law of conservation of mass. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2951,19 +2951,19 @@
       },
       "options": {
         "hi": [
+          "समीकरण मिटाना",
           "अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए",
           "उत्पाद का द्रव्यमान बढ़ाना",
-          "तत्व को बदलना",
-          "समीकरण मिटाना"
+          "तत्व को बदलना"
         ],
         "en": [
+          "Erase the equation",
           "Change reaction rate without being permanently consumed",
           "Increase product mass",
-          "Change an element",
-          "Erase the equation"
+          "Change an element"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change reaction rate without being permanently consumed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2979,19 +2979,19 @@
       },
       "options": {
         "hi": [
-          "अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए",
-          "उत्पाद का द्रव्यमान बढ़ाना",
           "तत्व को बदलना",
-          "समीकरण मिटाना"
+          "समीकरण मिटाना",
+          "अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए",
+          "उत्पाद का द्रव्यमान बढ़ाना"
         ],
         "en": [
-          "Change reaction rate without being permanently consumed",
-          "Increase product mass",
           "Change an element",
-          "Erase the equation"
+          "Erase the equation",
+          "Change reaction rate without being permanently consumed",
+          "Increase product mass"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change reaction rate without being permanently consumed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3007,19 +3007,19 @@
       },
       "options": {
         "hi": [
-          "अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए",
           "उत्पाद का द्रव्यमान बढ़ाना",
           "तत्व को बदलना",
-          "समीकरण मिटाना"
+          "समीकरण मिटाना",
+          "अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए"
         ],
         "en": [
-          "Change reaction rate without being permanently consumed",
           "Increase product mass",
           "Change an element",
-          "Erase the equation"
+          "Erase the equation",
+          "Change reaction rate without being permanently consumed"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अभिक्रिया की दर बदलना बिना स्थायी रूप से खर्च हुए। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Change reaction rate without being permanently consumed. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3063,19 +3063,19 @@
       },
       "options": {
         "hi": [
+          "दहन ही",
           "संयोजन अभिक्रिया",
           "अपघटन",
-          "विस्थापन",
-          "दहन ही"
+          "विस्थापन"
         ],
         "en": [
+          "Only combustion",
           "Combination reaction",
           "Decomposition",
-          "Displacement",
-          "Only combustion"
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: संयोजन अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Combination reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3091,19 +3091,19 @@
       },
       "options": {
         "hi": [
-          "संयोजन अभिक्रिया",
-          "अपघटन",
           "विस्थापन",
-          "दहन ही"
+          "दहन ही",
+          "संयोजन अभिक्रिया",
+          "अपघटन"
         ],
         "en": [
-          "Combination reaction",
-          "Decomposition",
           "Displacement",
-          "Only combustion"
+          "Only combustion",
+          "Combination reaction",
+          "Decomposition"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: संयोजन अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Combination reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3119,19 +3119,19 @@
       },
       "options": {
         "hi": [
-          "संयोजन अभिक्रिया",
           "अपघटन",
           "विस्थापन",
-          "दहन ही"
+          "दहन ही",
+          "संयोजन अभिक्रिया"
         ],
         "en": [
-          "Combination reaction",
           "Decomposition",
           "Displacement",
-          "Only combustion"
+          "Only combustion",
+          "Combination reaction"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: संयोजन अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Combination reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3175,19 +3175,19 @@
       },
       "options": {
         "hi": [
+          "उदासीनीकरण",
           "अपघटन अभिक्रिया",
           "संयोजन",
-          "विस्थापन",
-          "उदासीनीकरण"
+          "विस्थापन"
         ],
         "en": [
+          "Neutralization",
           "Decomposition reaction",
           "Combination",
-          "Displacement",
-          "Neutralization"
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अपघटन अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decomposition reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3203,19 +3203,19 @@
       },
       "options": {
         "hi": [
-          "अपघटन अभिक्रिया",
-          "संयोजन",
           "विस्थापन",
-          "उदासीनीकरण"
+          "उदासीनीकरण",
+          "अपघटन अभिक्रिया",
+          "संयोजन"
         ],
         "en": [
-          "Decomposition reaction",
-          "Combination",
           "Displacement",
-          "Neutralization"
+          "Neutralization",
+          "Decomposition reaction",
+          "Combination"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अपघटन अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decomposition reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3231,19 +3231,19 @@
       },
       "options": {
         "hi": [
-          "अपघटन अभिक्रिया",
           "संयोजन",
           "विस्थापन",
-          "उदासीनीकरण"
+          "उदासीनीकरण",
+          "अपघटन अभिक्रिया"
         ],
         "en": [
-          "Decomposition reaction",
           "Combination",
           "Displacement",
-          "Neutralization"
+          "Neutralization",
+          "Decomposition reaction"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अपघटन अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Decomposition reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3287,19 +3287,19 @@
       },
       "options": {
         "hi": [
+          "हमेशा गैसीय",
           "आमतौर पर अलग",
           "हमेशा समान",
-          "केवल रंग समान",
-          "हमेशा गैसीय"
+          "केवल रंग समान"
         ],
         "en": [
+          "Always gaseous",
           "Usually different",
           "Always the same",
-          "Only colour is same",
-          "Always gaseous"
+          "Only colour is same"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: आमतौर पर अलग। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Usually different. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3315,19 +3315,19 @@
       },
       "options": {
         "hi": [
-          "आमतौर पर अलग",
-          "हमेशा समान",
           "केवल रंग समान",
-          "हमेशा गैसीय"
+          "हमेशा गैसीय",
+          "आमतौर पर अलग",
+          "हमेशा समान"
         ],
         "en": [
-          "Usually different",
-          "Always the same",
           "Only colour is same",
-          "Always gaseous"
+          "Always gaseous",
+          "Usually different",
+          "Always the same"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: आमतौर पर अलग। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Usually different. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3343,19 +3343,19 @@
       },
       "options": {
         "hi": [
-          "आमतौर पर अलग",
           "हमेशा समान",
           "केवल रंग समान",
-          "हमेशा गैसीय"
+          "हमेशा गैसीय",
+          "आमतौर पर अलग"
         ],
         "en": [
-          "Usually different",
           "Always the same",
           "Only colour is same",
-          "Always gaseous"
+          "Always gaseous",
+          "Usually different"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: आमतौर पर अलग। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Usually different. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3399,19 +3399,19 @@
       },
       "options": {
         "hi": [
+          "सोडियम ऑक्साइड",
           "मैग्नीशियम ऑक्साइड",
           "मैग्नीशियम क्लोराइड",
-          "कार्बन डाइऑक्साइड",
-          "सोडियम ऑक्साइड"
+          "कार्बन डाइऑक्साइड"
         ],
         "en": [
+          "Sodium oxide",
           "Magnesium oxide",
           "Magnesium chloride",
-          "Carbon dioxide",
-          "Sodium oxide"
+          "Carbon dioxide"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: मैग्नीशियम ऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Magnesium oxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3427,19 +3427,19 @@
       },
       "options": {
         "hi": [
-          "मैग्नीशियम ऑक्साइड",
-          "मैग्नीशियम क्लोराइड",
           "कार्बन डाइऑक्साइड",
-          "सोडियम ऑक्साइड"
+          "सोडियम ऑक्साइड",
+          "मैग्नीशियम ऑक्साइड",
+          "मैग्नीशियम क्लोराइड"
         ],
         "en": [
-          "Magnesium oxide",
-          "Magnesium chloride",
           "Carbon dioxide",
-          "Sodium oxide"
+          "Sodium oxide",
+          "Magnesium oxide",
+          "Magnesium chloride"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: मैग्नीशियम ऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Magnesium oxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3455,19 +3455,19 @@
       },
       "options": {
         "hi": [
-          "मैग्नीशियम ऑक्साइड",
           "मैग्नीशियम क्लोराइड",
           "कार्बन डाइऑक्साइड",
-          "सोडियम ऑक्साइड"
+          "सोडियम ऑक्साइड",
+          "मैग्नीशियम ऑक्साइड"
         ],
         "en": [
-          "Magnesium oxide",
           "Magnesium chloride",
           "Carbon dioxide",
-          "Sodium oxide"
+          "Sodium oxide",
+          "Magnesium oxide"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: मैग्नीशियम ऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Magnesium oxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3511,19 +3511,19 @@
       },
       "options": {
         "hi": [
+          "केवल अवस्था बदलती है",
           "टूटते और नए बंध बनते हैं",
           "कुछ नहीं होता",
-          "केवल रंग बदलता है",
-          "केवल अवस्था बदलती है"
+          "केवल रंग बदलता है"
         ],
         "en": [
+          "Only state changes",
           "Bonds break and new bonds form",
           "Nothing happens",
-          "Only colour changes",
-          "Only state changes"
+          "Only colour changes"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: टूटते और नए बंध बनते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Bonds break and new bonds form. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3539,19 +3539,19 @@
       },
       "options": {
         "hi": [
-          "टूटते और नए बंध बनते हैं",
-          "कुछ नहीं होता",
           "केवल रंग बदलता है",
-          "केवल अवस्था बदलती है"
+          "केवल अवस्था बदलती है",
+          "टूटते और नए बंध बनते हैं",
+          "कुछ नहीं होता"
         ],
         "en": [
-          "Bonds break and new bonds form",
-          "Nothing happens",
           "Only colour changes",
-          "Only state changes"
+          "Only state changes",
+          "Bonds break and new bonds form",
+          "Nothing happens"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: टूटते और नए बंध बनते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Bonds break and new bonds form. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3567,19 +3567,19 @@
       },
       "options": {
         "hi": [
-          "टूटते और नए बंध बनते हैं",
           "कुछ नहीं होता",
           "केवल रंग बदलता है",
-          "केवल अवस्था बदलती है"
+          "केवल अवस्था बदलती है",
+          "टूटते और नए बंध बनते हैं"
         ],
         "en": [
-          "Bonds break and new bonds form",
           "Nothing happens",
           "Only colour changes",
-          "Only state changes"
+          "Only state changes",
+          "Bonds break and new bonds form"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: टूटते और नए बंध बनते हैं। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Bonds break and new bonds form. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3623,19 +3623,19 @@
       },
       "options": {
         "hi": [
+          "केवल अम्ल",
           "लवण और जल",
           "केवल गैस",
-          "केवल धातु",
-          "केवल अम्ल"
+          "केवल धातु"
         ],
         "en": [
+          "Only acid",
           "Salt and water",
           "Only gas",
-          "Only metal",
-          "Only acid"
+          "Only metal"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लवण और जल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Salt and water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3651,19 +3651,19 @@
       },
       "options": {
         "hi": [
-          "लवण और जल",
-          "केवल गैस",
           "केवल धातु",
-          "केवल अम्ल"
+          "केवल अम्ल",
+          "लवण और जल",
+          "केवल गैस"
         ],
         "en": [
-          "Salt and water",
-          "Only gas",
           "Only metal",
-          "Only acid"
+          "Only acid",
+          "Salt and water",
+          "Only gas"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: लवण और जल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Salt and water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3679,19 +3679,19 @@
       },
       "options": {
         "hi": [
-          "लवण और जल",
           "केवल गैस",
           "केवल धातु",
-          "केवल अम्ल"
+          "केवल अम्ल",
+          "लवण और जल"
         ],
         "en": [
-          "Salt and water",
           "Only gas",
           "Only metal",
-          "Only acid"
+          "Only acid",
+          "Salt and water"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लवण और जल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Salt and water. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3735,19 +3735,19 @@
       },
       "options": {
         "hi": [
+          "केवल निथारना",
           "रासायनिक अभिक्रिया",
           "केवल छानना",
-          "केवल गलना",
-          "केवल निथारना"
+          "केवल गलना"
         ],
         "en": [
+          "Only decantation",
           "Chemical reaction",
           "Only filtration",
-          "Only melting",
-          "Only decantation"
+          "Only melting"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3763,19 +3763,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक अभिक्रिया",
-          "केवल छानना",
           "केवल गलना",
-          "केवल निथारना"
+          "केवल निथारना",
+          "रासायनिक अभिक्रिया",
+          "केवल छानना"
         ],
         "en": [
-          "Chemical reaction",
-          "Only filtration",
           "Only melting",
-          "Only decantation"
+          "Only decantation",
+          "Chemical reaction",
+          "Only filtration"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3791,19 +3791,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक अभिक्रिया",
           "केवल छानना",
           "केवल गलना",
-          "केवल निथारना"
+          "केवल निथारना",
+          "रासायनिक अभिक्रिया"
         ],
         "en": [
-          "Chemical reaction",
           "Only filtration",
           "Only melting",
-          "Only decantation"
+          "Only decantation",
+          "Chemical reaction"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3847,19 +3847,19 @@
       },
       "options": {
         "hi": [
+          "परमाणु क्रमांक",
           "गुणांक",
           "रासायनिक सूत्र के नीचे के अंक",
-          "तत्वों के नाम",
-          "परमाणु क्रमांक"
+          "तत्वों के नाम"
         ],
         "en": [
+          "Atomic numbers",
           "Coefficients",
           "Subscripts in chemical formulae",
-          "Element names",
-          "Atomic numbers"
+          "Element names"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: गुणांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Coefficients. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3875,19 +3875,19 @@
       },
       "options": {
         "hi": [
-          "गुणांक",
-          "रासायनिक सूत्र के नीचे के अंक",
           "तत्वों के नाम",
-          "परमाणु क्रमांक"
+          "परमाणु क्रमांक",
+          "गुणांक",
+          "रासायनिक सूत्र के नीचे के अंक"
         ],
         "en": [
-          "Coefficients",
-          "Subscripts in chemical formulae",
           "Element names",
-          "Atomic numbers"
+          "Atomic numbers",
+          "Coefficients",
+          "Subscripts in chemical formulae"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: गुणांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Coefficients. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3903,19 +3903,19 @@
       },
       "options": {
         "hi": [
-          "गुणांक",
           "रासायनिक सूत्र के नीचे के अंक",
           "तत्वों के नाम",
-          "परमाणु क्रमांक"
+          "परमाणु क्रमांक",
+          "गुणांक"
         ],
         "en": [
-          "Coefficients",
           "Subscripts in chemical formulae",
           "Element names",
-          "Atomic numbers"
+          "Atomic numbers",
+          "Coefficients"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: गुणांक। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Coefficients. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3959,19 +3959,19 @@
       },
       "options": {
         "hi": [
+          "शुद्ध धातु",
           "जलीय विलयन",
           "ठोस",
-          "गैस",
-          "शुद्ध धातु"
+          "गैस"
         ],
         "en": [
+          "Pure metal",
           "Aqueous solution",
           "Solid",
-          "Gas",
-          "Pure metal"
+          "Gas"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: जलीय विलयन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Aqueous solution. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3987,19 +3987,19 @@
       },
       "options": {
         "hi": [
-          "जलीय विलयन",
-          "ठोस",
           "गैस",
-          "शुद्ध धातु"
+          "शुद्ध धातु",
+          "जलीय विलयन",
+          "ठोस"
         ],
         "en": [
-          "Aqueous solution",
-          "Solid",
           "Gas",
-          "Pure metal"
+          "Pure metal",
+          "Aqueous solution",
+          "Solid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: जलीय विलयन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Aqueous solution. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4015,19 +4015,19 @@
       },
       "options": {
         "hi": [
-          "जलीय विलयन",
           "ठोस",
           "गैस",
-          "शुद्ध धातु"
+          "शुद्ध धातु",
+          "जलीय विलयन"
         ],
         "en": [
-          "Aqueous solution",
           "Solid",
           "Gas",
-          "Pure metal"
+          "Pure metal",
+          "Aqueous solution"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: जलीय विलयन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Aqueous solution. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4071,19 +4071,19 @@
       },
       "options": {
         "hi": [
+          "केवल ताप",
           "नए पदार्थ",
           "केवल मिश्रण",
-          "केवल विलयन",
-          "केवल ताप"
+          "केवल विलयन"
         ],
         "en": [
+          "Only heat",
           "New substances",
           "Only a mixture",
-          "Only a solution",
-          "Only heat"
+          "Only a solution"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नए पदार्थ। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: New substances. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4099,19 +4099,19 @@
       },
       "options": {
         "hi": [
-          "रासायनिक अभिक्रिया",
-          "भौतिक अवस्था",
           "तापमान",
-          "दाब"
+          "दाब",
+          "रासायनिक अभिक्रिया",
+          "भौतिक अवस्था"
         ],
         "en": [
-          "A chemical reaction",
-          "Physical state",
           "Temperature",
-          "Pressure"
+          "Pressure",
+          "A chemical reaction",
+          "Physical state"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: रासायनिक अभिक्रिया। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: A chemical reaction. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4127,19 +4127,19 @@
       },
       "options": {
         "hi": [
-          "प्रत्येक तत्व के परमाणुओं की संख्या",
           "अणुओं की संख्या हमेशा",
           "गुणांक हमेशा",
-          "तापमान"
+          "तापमान",
+          "प्रत्येक तत्व के परमाणुओं की संख्या"
         ],
         "en": [
-          "Number of atoms of each element",
           "Always number of molecules",
           "Coefficients always",
-          "Temperature"
+          "Temperature",
+          "Number of atoms of each element"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: प्रत्येक तत्व के परमाणुओं की संख्या। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Number of atoms of each element. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4183,19 +4183,19 @@
       },
       "options": {
         "hi": [
+          "सूचक",
           "उत्पाद",
           "अभिकारक",
-          "विलायक",
-          "सूचक"
+          "विलायक"
         ],
         "en": [
+          "Indicator",
           "Products",
           "Reactants",
-          "Solvent",
-          "Indicator"
+          "Solvent"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उत्पाद। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Products. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
