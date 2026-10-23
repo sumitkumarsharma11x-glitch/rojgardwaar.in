@@ -15,7 +15,50 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "heart",
+      "name": {
+        "hi": "Heart",
+        "en": "Heart"
+      }
+    },
+    {
+      "id": "blood-components",
+      "name": {
+        "hi": "Blood Components",
+        "en": "Blood Components"
+      }
+    },
+    {
+      "id": "blood-vessels-pressure",
+      "name": {
+        "hi": "Blood Vessels Pressure",
+        "en": "Blood Vessels Pressure"
+      }
+    },
+    {
+      "id": "xylem-transport",
+      "name": {
+        "hi": "Xylem Transport",
+        "en": "Xylem Transport"
+      }
+    },
+    {
+      "id": "double-circulation-lymph",
+      "name": {
+        "hi": "Double Circulation Lymph",
+        "en": "Double Circulation Lymph"
+      }
+    },
+    {
+      "id": "phloem-translocation",
+      "name": {
+        "hi": "Phloem Translocation",
+        "en": "Phloem Translocation"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "शरीर की कोशिकाओं तक भोजन, ऑक्सीजन और अपशिष्ट पदार्थों का परिवहन रक्त द्वारा होता है। हृदय चार कक्षों का पेशीय अंग है जो रक्त को शरीर में लगातार पंप करता है और मनुष्य में द्विरक्त संचार पाया जाता है। पौधों में जाइलम जल व खनिज ऊपर और फ्लोएम भोजन सभी दिशाओं में ले जाता है।",
