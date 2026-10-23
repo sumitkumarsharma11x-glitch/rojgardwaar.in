@@ -9,29 +9,29 @@
     },
     "options": {
       "hi": [
-        "ऊतक",
         "कोशिकाएँ",
         "अंग-तंत्र",
-        "अंग"
+        "अंग",
+        "ऊतक"
       ],
       "en": [
-        "Tissue",
         "Cells",
         "Organ system",
-        "Organ"
+        "Organ",
+        "Tissue"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "सभी सजीव एक या अधिक कोशिकाओं से बने होते हैं।",
       "en": "All living organisms are made of one or more cells."
     },
     "optionExplanations": {
       "hi": [
-        "ऊतक कोशिकाओं के समूह से बनता है; यह कोशिका से अधिक जटिल स्तर है।",
         "सही: सभी सजीव एक या अधिक कोशिकाओं से बने होते हैं।",
         "अंग-तंत्र कई अंगों से मिलकर बनता है; यह मूल इकाई नहीं है।",
-        "अंग विभिन्न ऊतकों से बनता है; यह कोशिका से अधिक जटिल है।"
+        "अंग विभिन्न ऊतकों से बनता है; यह कोशिका से अधिक जटिल है।",
+        "ऊतक कोशिकाओं के समूह से बनता है; यह कोशिका से अधिक जटिल स्तर है।"
       ]
     }
   },
@@ -81,29 +81,29 @@
     },
     "options": {
       "hi": [
+        "मेंडल",
         "विरचो",
         "श्वान",
-        "श्लाइडेन",
-        "मेंडल"
+        "श्लाइडेन"
       ],
       "en": [
+        "Mendel",
         "Virchow",
         "Schwann",
-        "Schleiden",
-        "Mendel"
+        "Schleiden"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "श्वान का योगदान जंतुओं के कोशिकीय संगठन से जुड़ा है।",
       "en": "Schwann contributed through studies of the cellular organization of animals."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: मेंडल आनुवंशिकी के नियमों के लिए प्रसिद्ध हैं।",
         "गलत: विरचो का योगदान पूर्ववर्ती कोशिकाओं से नई कोशिका बनने के विचार से जुड़ा है।",
         "सही: श्वान ने जंतुओं के कोशिकीय संगठन और कोशिका सिद्धांत में योगदान दिया।",
-        "गलत: श्लाइडेन का प्रमुख योगदान पादपों के अध्ययन से जुड़ा है।",
-        "गलत: मेंडल आनुवंशिकी के नियमों के लिए प्रसिद्ध हैं।"
+        "गलत: श्लाइडेन का प्रमुख योगदान पादपों के अध्ययन से जुड़ा है।"
       ]
     }
   },
@@ -153,29 +153,29 @@
     },
     "options": {
       "hi": [
-        "एक पूरा अंग",
-        "केवल आनुवंशिक पदार्थ",
         "जीवन की मूल संरचनात्मक और क्रियात्मक इकाई",
-        "केवल बाहरी आवरण"
+        "केवल बाहरी आवरण",
+        "एक पूरा अंग",
+        "केवल आनुवंशिक पदार्थ"
       ],
       "en": [
-        "A whole organ",
-        "Only genetic material",
         "The basic structural and functional unit of life",
-        "Only the outer covering"
+        "Only the outer covering",
+        "A whole organ",
+        "Only genetic material"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "hi": "कोशिका जीवन की मूल संरचनात्मक और क्रियात्मक इकाई है।",
       "en": "The cell is the basic structural and functional unit of life."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: अंग शरीर की विशिष्ट संरचना है, सबसे मूल इकाई नहीं।",
-        "गलत: आनुवंशिक पदार्थ कोशिका के घटकों में से एक है, कोशिका की पूरी परिभाषा नहीं।",
         "सही: कोशिका जीवन की मूल संरचनात्मक और क्रियात्मक इकाई है।",
-        "गलत: बाहरी आवरण केवल एक भाग है; कोशिका में कई संरचनाएँ और क्रियाएँ होती हैं।"
+        "गलत: बाहरी आवरण केवल एक भाग है; कोशिका में कई संरचनाएँ और क्रियाएँ होती हैं।",
+        "गलत: अंग शरीर की विशिष्ट संरचना है, सबसे मूल इकाई नहीं।",
+        "गलत: आनुवंशिक पदार्थ कोशिका के घटकों में से एक है, कोशिका की पूरी परिभाषा नहीं।"
       ]
     }
   },
@@ -189,29 +189,29 @@
     },
     "options": {
       "hi": [
+        "केवल केंद्रक",
         "एक ही कोशिका",
         "केवल कोशिका भित्ति",
-        "केवल ऊतक",
-        "केवल केंद्रक"
+        "केवल ऊतक"
       ],
       "en": [
+        "Only the nucleus",
         "A single cell",
         "Only the cell wall",
-        "Only tissue",
-        "Only the nucleus"
+        "Only tissue"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "एककोशिकीय जीव में एक ही कोशिका पूरा जीव होती है।",
       "en": "In a unicellular organism, the single cell constitutes the whole organism."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: केंद्रक कोशिका का एक भाग है; सभी जीवन-क्रियाएँ केवल केंद्रक में नहीं होतीं।",
         "सही: एककोशिकीय जीव में वही एक कोशिका जीवन की आवश्यक क्रियाएँ करती है।",
         "गलत: कोशिका भित्ति कुछ कोशिकाओं में होती है और अकेले जीवन की सभी क्रियाएँ नहीं करती।",
-        "गलत: ऊतक बहुकोशिकीय जीवों में कोशिकाओं के समूह से बनता है; एककोशिकीय जीव में ऊतक नहीं होता।",
-        "गलत: केंद्रक कोशिका का एक भाग है; सभी जीवन-क्रियाएँ केवल केंद्रक में नहीं होतीं।"
+        "गलत: ऊतक बहुकोशिकीय जीवों में कोशिकाओं के समूह से बनता है; एककोशिकीय जीव में ऊतक नहीं होता।"
       ]
     }
   },
@@ -225,29 +225,29 @@
     },
     "options": {
       "hi": [
+        "हर कोशिका एक अंग है",
         "सभी कोशिकाएँ समान आकार की होती हैं",
         "नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं",
-        "सभी कोशिकाएँ पादप हैं",
-        "हर कोशिका एक अंग है"
+        "सभी कोशिकाएँ पादप हैं"
       ],
       "en": [
+        "Every cell is an organ",
         "All cells are of the same size",
         "New cells arise from pre-existing cells",
-        "All cells are plant cells",
-        "Every cell is an organ"
+        "All cells are plant cells"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
-      "hi": "यह कोशिका सिद्धांत का प्रमुख कथन है।",
+      "hi": "कोशिका सभी सजीवों की मूल संरचनात्मक और क्रियात्मक इकाई है; कुछ जीव एक कोशिका के होते हैं और कुछ अनेक कोशिकाओं के।",
       "en": "This is a key statement of cell theory."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: कोशिका और अंग अलग संगठन-स्तर हैं; हर कोशिका अंग नहीं होती।",
         "गलत: कोशिकाओं का आकार और रूप अलग-अलग हो सकता है।",
         "सही: नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं।",
-        "गलत: सजीवों में पादप और जंतु सहित कई समूह हैं; सभी कोशिकाएँ पादप नहीं हैं।",
-        "गलत: कोशिका और अंग अलग संगठन-स्तर हैं; हर कोशिका अंग नहीं होती।"
+        "गलत: सजीवों में पादप और जंतु सहित कई समूह हैं; सभी कोशिकाएँ पादप नहीं हैं।"
       ]
     }
   },
@@ -261,29 +261,29 @@
     },
     "options": {
       "hi": [
+        "दोनों—रक्त",
         "श्लाइडेन—जंतु; श्वान—पादप",
         "दोनों—जीवाणु",
-        "श्लाइडेन—पादप; श्वान—जंतु",
-        "दोनों—रक्त"
+        "श्लाइडेन—पादप; श्वान—जंतु"
       ],
       "en": [
+        "Both — blood",
         "Schleiden—animals; Schwann—plants",
         "Both — bacteria",
-        "Schleiden—plants; Schwann—animals",
-        "Both — blood"
+        "Schleiden—plants; Schwann—animals"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "श्लाइडेन का कार्य पादपों और श्वान का कार्य जंतुओं से संबंधित था।",
       "en": "Schleiden worked on plants and Schwann on animals."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: दोनों का योगदान रक्त के अध्ययन तक सीमित नहीं था।",
         "गलत: श्लाइडेन पादपों और श्वान जंतुओं के कोशिकीय संगठन से जुड़े हैं, उलटा नहीं।",
         "गलत: उनका संयुक्त योगदान केवल जीवाणुओं तक सीमित नहीं था।",
-        "सही: श्लाइडेन—पादप; श्वान—जंतु।",
-        "गलत: दोनों का योगदान रक्त के अध्ययन तक सीमित नहीं था।"
+        "सही: श्लाइडेन—पादप; श्वान—जंतु।"
       ]
     }
   },
@@ -297,29 +297,29 @@
     },
     "options": {
       "hi": [
-        "केवल रक्त",
         "ऊतक और अंग",
         "केवल कोशिका भित्ति",
-        "केवल DNA"
+        "केवल DNA",
+        "केवल रक्त"
       ],
       "en": [
-        "Only blood",
         "Tissues and organs",
         "Only the cell wall",
-        "Only DNA"
+        "Only DNA",
+        "Only blood"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "बहुकोशिकीय जीवों में विशिष्ट कोशिकाएँ ऊतक और अंग बनाने में संगठित हो सकती हैं।",
       "en": "In multicellular organisms, specialized cells can organize into tissues and organs."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: रक्त एक प्रकार का ऊतक है, लेकिन बहुकोशिकीय जीवों में कोशिकाएँ अनेक प्रकार की संरचनाएँ बनाती हैं।",
         "सही: विशिष्ट कोशिकाएँ संगठित होकर ऊतक और आगे अंग बना सकती हैं।",
         "गलत: कोशिका भित्ति पादप कोशिकाओं की एक संरचना है, कोशिकाओं का समूह नहीं।",
-        "गलत: DNA आनुवंशिक पदार्थ है, कोशिकाओं द्वारा बनाए जाने वाला ऊतक या अंग नहीं।"
+        "गलत: DNA आनुवंशिक पदार्थ है, कोशिकाओं द्वारा बनाए जाने वाला ऊतक या अंग नहीं।",
+        "गलत: रक्त एक प्रकार का ऊतक है, लेकिन बहुकोशिकीय जीवों में कोशिकाएँ अनेक प्रकार की संरचनाएँ बनाती हैं।"
       ]
     }
   },
@@ -369,29 +369,29 @@
     },
     "options": {
       "hi": [
+        "नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं",
         "सजीव कोशिकाओं से बने हैं",
         "सभी कोशिकाएँ समान आकार की होती हैं",
-        "कोशिका जीवन की मूल इकाई है",
-        "नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं"
+        "कोशिका जीवन की मूल इकाई है"
       ],
       "en": [
+        "New cells arise from pre-existing cells",
         "Living organisms are made of cells",
         "All cells are of the same size",
-        "The cell is the basic unit of life",
-        "New cells arise from pre-existing cells"
+        "The cell is the basic unit of life"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "सभी कोशिकाओं का आकार समान होना कोशिका सिद्धांत का कथन नहीं है।",
       "en": "All cells having the same size is not a statement of cell theory."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: नई कोशिकाओं का पूर्ववर्ती कोशिकाओं से बनना कोशिका सिद्धांत से जुड़ा है।",
         "गलत: सजीवों का कोशिकाओं से बने होना कोशिका सिद्धांत का भाग है।",
         "सही: कोशिकाओं का आकार अलग-अलग हो सकता है; समान आकार होना सिद्धांत का कथन नहीं है।",
-        "गलत: कोशिका जीवन की मूल इकाई है, कोशिका सिद्धांत का केंद्रीय विचार है।",
-        "गलत: नई कोशिकाओं का पूर्ववर्ती कोशिकाओं से बनना कोशिका सिद्धांत से जुड़ा है।"
+        "गलत: कोशिका जीवन की मूल इकाई है, कोशिका सिद्धांत का केंद्रीय विचार है।"
       ]
     }
   },
@@ -405,29 +405,29 @@
     },
     "options": {
       "hi": [
-        "कोशिका",
         "जीव",
         "ऊतक",
-        "अंग"
+        "अंग",
+        "कोशिका"
       ],
       "en": [
-        "Cell",
         "Organism",
         "Tissue",
-        "Organ"
+        "Organ",
+        "Cell"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "hi": "ऊतक कोशिकाओं के समूह से बनता है।",
+      "hi": "प्रश्न “ऊतक किस मूल संरचनात्मक इकाई से बने होते हैं” में “कोशिका” सही है क्योंकि यह संबंधित जैविक संरचना या प्रक्रिया के कार्य से मेल खाता है। “जीव और ऊतक” अलग कार्य या अवधारणाएँ बताते हैं, इसलिए वे इस प्रश्न का सही उत्तर नहीं हैं।",
       "en": "A tissue is formed from a group of cells."
     },
     "optionExplanations": {
       "hi": [
-        "सही: ऊतक कोशिकाओं के समूह से बनता है।",
         "गलत: जीव पूरा सजीव है, ऊतक की मूल इकाई नहीं।",
         "गलत: ऊतक स्वयं कई कोशिकाओं से बनता है; यह उसकी मूल इकाई नहीं है।",
-        "गलत: अंग कई ऊतकों से बनते हैं और कोशिका से अधिक जटिल हैं।"
+        "गलत: अंग कई ऊतकों से बनते हैं और कोशिका से अधिक जटिल हैं।",
+        "सही: ऊतक कोशिकाओं के समूह से बनता है।"
       ]
     }
   },
@@ -441,29 +441,29 @@
     },
     "options": {
       "hi": [
+        "नई कोशिकाओं का निर्माण",
         "केवल जल का भंडारण",
         "केवल प्रकाश अवशोषण",
-        "रक्त परिसंचरण",
-        "नई कोशिकाओं का निर्माण"
+        "रक्त परिसंचरण"
       ],
       "en": [
+        "Formation of new cells",
         "Only storage of water",
         "Only light absorption",
-        "Blood circulation",
-        "Formation of new cells"
+        "Blood circulation"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "hi": "नई कोशिकाओं का निर्माण वृद्धि में सहायक होता है।",
-      "en": "Production of new cells supports growth."
+      "en": "For “What is necessary to be produced during growth,” “Formation of new cells” matches the function of the relevant biological structure or process. “Only storage of water and Only light absorption” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "सही: वृद्धि में कोशिकाओं का विभाजन और नई कोशिकाओं का निर्माण महत्वपूर्ण भूमिका निभाते हैं।",
         "गलत: जल भंडारण कुछ कोशिकीय संरचनाओं का कार्य है, लेकिन यह वृद्धि का एकमात्र आवश्यक घटक नहीं।",
         "गलत: प्रकाश अवशोषण विशेष प्रक्रियाओं में उपयोगी है; यह सभी जीवों की वृद्धि का सामान्य उत्तर नहीं।",
-        "गलत: रक्त परिसंचरण जंतुओं की एक शारीरिक प्रक्रिया है, सभी जीवों की वृद्धि का सामान्य आधार नहीं।",
-        "सही: वृद्धि में कोशिकाओं का विभाजन और नई कोशिकाओं का निर्माण महत्वपूर्ण भूमिका निभाते हैं।"
+        "गलत: रक्त परिसंचरण जंतुओं की एक शारीरिक प्रक्रिया है, सभी जीवों की वृद्धि का सामान्य आधार नहीं।"
       ]
     }
   },
@@ -477,29 +477,29 @@
     },
     "options": {
       "hi": [
-        "ऊतक",
         "अंग-तंत्र",
         "कोशिका",
-        "अंग"
+        "अंग",
+        "ऊतक"
       ],
       "en": [
-        "Tissue",
         "Organ system",
         "Cell",
-        "Organ"
+        "Organ",
+        "Tissue"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "hi": "संरचनात्मक संगठन की मूल इकाई कोशिका है।",
+      "hi": "प्रश्न “जीव के संरचनात्मक संगठन की मूल इकाई क्या है” में “कोशिका” सही है क्योंकि यह संबंधित जैविक संरचना या प्रक्रिया के कार्य से मेल खाता है। “अंग-तंत्र और अंग” अलग कार्य या अवधारणाएँ बताते हैं, इसलिए वे इस प्रश्न का सही उत्तर नहीं हैं।",
       "en": "The cell is the basic unit of structural organization."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: ऊतक कोशिकाओं से और अंग ऊतकों से बनते हैं।",
         "गलत: अंग-तंत्र कई अंगों से बनता है।",
         "सही: कोशिका जीव के संरचनात्मक संगठन की मूल इकाई है।",
-        "गलत: अंग कई ऊतकों से बनता है; यह कोशिका से उच्च संगठन स्तर है।"
+        "गलत: अंग कई ऊतकों से बनता है; यह कोशिका से उच्च संगठन स्तर है।",
+        "गलत: ऊतक कोशिकाओं से और अंग ऊतकों से बनते हैं।"
       ]
     }
   },
@@ -513,29 +513,29 @@
     },
     "options": {
       "hi": [
-        "सजीवों का कोशिकीय संगठन",
-        "केवल जल की अवस्था",
         "केवल रक्त समूह",
-        "केवल हड्डी की कठोरता"
+        "केवल हड्डी की कठोरता",
+        "सजीवों का कोशिकीय संगठन",
+        "केवल जल की अवस्था"
       ],
       "en": [
-        "Cellular organisation of living organisms",
-        "Only the state of water",
         "Only blood group",
-        "Only the hardness of bone"
+        "Only the hardness of bone",
+        "Cellular organisation of living organisms",
+        "Only the state of water"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "कोशिका सिद्धांत सजीवों के कोशिकीय संगठन को स्पष्ट करता है।",
       "en": "Cell theory explains the cellular organization of living organisms."
     },
     "optionExplanations": {
       "hi": [
-        "सही: कोशिका सिद्धांत सजीवों के कोशिकीय संगठन और कोशिका की मूल भूमिका को स्पष्ट करता है।",
-        "गलत: जल की अवस्था कोशिका सिद्धांत का विषय नहीं है।",
         "गलत: रक्त समूह कोशिका सिद्धांत का केंद्रीय विषय नहीं है।",
-        "गलत: हड्डी की कठोरता ऊतक-विज्ञान का एक विशिष्ट विषय है, कोशिका सिद्धांत का सार नहीं।"
+        "गलत: हड्डी की कठोरता ऊतक-विज्ञान का एक विशिष्ट विषय है, कोशिका सिद्धांत का सार नहीं।",
+        "सही: कोशिका सिद्धांत सजीवों के कोशिकीय संगठन और कोशिका की मूल भूमिका को स्पष्ट करता है।",
+        "गलत: जल की अवस्था कोशिका सिद्धांत का विषय नहीं है।"
       ]
     }
   },
@@ -549,29 +549,29 @@
     },
     "options": {
       "hi": [
+        "केवल बहुकोशिकीय जीवों में पाया जाना",
         "झिल्ली से घिरा स्पष्ट केंद्रक",
         "झिल्ली-बद्ध कोशिकांगों की उपस्थिति",
-        "झिल्ली-बद्ध स्पष्ट केंद्रक का अभाव",
-        "केवल बहुकोशिकीय जीवों में पाया जाना"
+        "झिल्ली-बद्ध स्पष्ट केंद्रक का अभाव"
       ],
       "en": [
+        "A large membrane-bound nucleus",
         "Being only multicellular",
         "Absence of a well-defined membrane-bound nucleus",
-        "Compulsory presence of chloroplast",
-        "A large membrane-bound nucleus"
+        "Compulsory presence of chloroplast"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "प्रोकैरियोटिक कोशिका में DNA एक न्यूक्लियॉइड क्षेत्र में रहता है, जिसके चारों ओर केंद्रकीय झिल्ली नहीं होती। जीवाणु इसके सामान्य उदाहरण हैं।",
       "en": "A prokaryotic cell lacks a well-defined membrane-bound nucleus."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: प्रोकैरियोटिक जीव एककोशिकीय हो सकते हैं; केवल बहुकोशिकीय होना उनकी पहचान नहीं है।",
         "गलत: झिल्ली से घिरा स्पष्ट केंद्रक यूकैरियोटिक कोशिका की पहचान है।",
         "गलत: सामान्य झिल्ली-बद्ध कोशिकांग, जैसे माइटोकॉन्ड्रिया और गॉल्जी निकाय, यूकैरियोटिक कोशिकाओं में पाए जाते हैं।",
-        "सही: प्रोकैरियोटिक कोशिका में झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता।",
-        "गलत: प्रोकैरियोटिक जीव एककोशिकीय हो सकते हैं; केवल बहुकोशिकीय होना उनकी पहचान नहीं है।"
+        "सही: प्रोकैरियोटिक कोशिका में झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता।"
       ]
     }
   },
@@ -585,29 +585,29 @@
     },
     "options": {
       "hi": [
-        "जीवाणु की कोशिका",
         "यूकैरियोटिक कोशिका",
         "केवल विषाणु",
-        "हर प्रकार की प्रोकैरियोटिक कोशिका"
+        "हर प्रकार की प्रोकैरियोटिक कोशिका",
+        "जीवाणु की कोशिका"
       ],
       "en": [
-        "A well-defined nucleus enclosed by a membrane",
         "Nucleoid",
         "Complete absence of nucleus",
-        "Only the cell wall"
+        "Only the cell wall",
+        "A well-defined nucleus enclosed by a membrane"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "यूकैरियोटिक कोशिका में DNA केंद्रकीय झिल्ली से घिरे केंद्रक में व्यवस्थित रहता है। पादप, जंतु और अमीबा की कोशिकाएँ इसके उदाहरण हैं।",
       "en": "In a eukaryotic cell, the nucleus is enclosed by a nuclear membrane."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: जीवाणु प्रोकैरियोट हैं और उनमें झिल्ली-बद्ध केंद्रक नहीं होता।",
         "सही: यूकैरियोटिक कोशिका में झिल्ली से घिरा स्पष्ट केंद्रक होता है।",
         "गलत: विषाणु कोशिका नहीं होते; वे कोशिकीय संरचना से रहित होते हैं।",
-        "गलत: प्रोकैरियोटिक कोशिकाओं में स्पष्ट झिल्ली-बद्ध केंद्रक नहीं होता।"
+        "गलत: प्रोकैरियोटिक कोशिकाओं में स्पष्ट झिल्ली-बद्ध केंद्रक नहीं होता।",
+        "गलत: जीवाणु प्रोकैरियोट हैं और उनमें झिल्ली-बद्ध केंद्रक नहीं होता।"
       ]
     }
   },
@@ -621,29 +621,29 @@
     },
     "options": {
       "hi": [
-        "अमीबा",
         "मानव",
         "जीवाणु",
-        "यीस्ट"
+        "यीस्ट",
+        "अमीबा"
       ],
       "en": [
-        "Bacteria",
         "Amoeba",
         "Human cell",
-        "Plant cell"
+        "Plant cell",
+        "Bacteria"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "hi": "जीवाणु प्रोकैरियोटिक जीव हैं। उनकी कोशिका में झिल्ली-बद्ध केंद्रक नहीं होता, जबकि अमीबा, मानव और यीस्ट यूकैरियोटिक हैं।",
-      "en": "Bacteria are prokaryotic organisms."
+      "en": "For “What is a key feature of a prokaryotic cell? 3,” “Human cell” matches the function of the relevant biological structure or process. “Amoeba and Plant cell” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: अमीबा एक एककोशिकीय यूकैरियोट है और उसमें स्पष्ट केंद्रक होता है।",
         "गलत: मानव की कोशिकाएँ यूकैरियोटिक होती हैं।",
         "सही: जीवाणु प्रोकैरियोटिक होते हैं।",
-        "गलत: यीस्ट एक कवक है और उसकी कोशिका यूकैरियोटिक होती है।"
+        "गलत: यीस्ट एक कवक है और उसकी कोशिका यूकैरियोटिक होती है।",
+        "गलत: अमीबा एक एककोशिकीय यूकैरियोट है और उसमें स्पष्ट केंद्रक होता है।"
       ]
     }
   },
@@ -657,29 +657,29 @@
     },
     "options": {
       "hi": [
+        "गॉल्जी निकाय के भीतर",
         "केंद्रकीय झिल्ली के भीतर",
         "न्यूक्लियॉइड क्षेत्र",
-        "माइटोकॉन्ड्रिया के भीतर",
-        "गॉल्जी निकाय के भीतर"
+        "माइटोकॉन्ड्रिया के भीतर"
       ],
       "en": [
+        "A cell having a nucleoid",
         "Bacteria",
         "Acellular structure",
-        "Human cell",
-        "A cell having a nucleoid"
+        "Human cell"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "प्रोकैरियोट में DNA न्यूक्लियॉइड क्षेत्र में रहता है। यह क्षेत्र झिल्ली से घिरे केंद्रक की तरह अलग नहीं होता।",
-      "en": "Human cells are eukaryotic."
+      "en": "For “Which of the following should be considered the correct answer? 4,” “Acellular structure” matches the function of the relevant biological structure or process. “A cell having a nucleoid and Bacteria” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: गॉल्जी निकाय झिल्ली-बद्ध कोशिकांग है और प्रोकैरियोट में नहीं पाया जाता।",
         "गलत: प्रोकैरियोट में DNA को घेरने वाली केंद्रकीय झिल्ली नहीं होती।",
         "सही: DNA न्यूक्लियॉइड क्षेत्र में पाया जाता है।",
-        "गलत: प्रोकैरियोटिक कोशिका में माइटोकॉन्ड्रिया नहीं होता।",
-        "गलत: गॉल्जी निकाय झिल्ली-बद्ध कोशिकांग है और प्रोकैरियोट में नहीं पाया जाता।"
+        "गलत: प्रोकैरियोटिक कोशिका में माइटोकॉन्ड्रिया नहीं होता।"
       ]
     }
   },
@@ -693,29 +693,29 @@
     },
     "options": {
       "hi": [
+        "माइटोकॉन्ड्रिया",
         "झिल्ली-बद्ध केंद्रक",
         "गॉल्जी निकाय",
-        "राइबोसोम",
-        "माइटोकॉन्ड्रिया"
+        "राइबोसोम"
       ],
       "en": [
+        "Nucleoid region",
         "Chloroplast",
         "Vacuole",
-        "Golgi apparatus",
-        "Nucleoid region"
+        "Golgi apparatus"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "राइबोसोम प्रोटीन संश्लेषण करते हैं और दोनों प्रकार की कोशिकाओं में पाए जाते हैं।",
       "en": "In prokaryotes, DNA lies in the nucleoid region."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: माइटोकॉन्ड्रिया यूकैरियोटिक कोशिकाओं का कोशिकांग है।",
         "गलत: झिल्ली-बद्ध केंद्रक यूकैरियोटिक कोशिका की विशेषता है।",
         "गलत: गॉल्जी निकाय सामान्यतः यूकैरियोटिक कोशिकाओं में पाया जाता है।",
-        "सही: दोनों प्रकार की कोशिकाओं में राइबोसोम होते हैं।",
-        "गलत: माइटोकॉन्ड्रिया यूकैरियोटिक कोशिकाओं का कोशिकांग है।"
+        "सही: दोनों प्रकार की कोशिकाओं में राइबोसोम होते हैं।"
       ]
     }
   },
@@ -729,29 +729,29 @@
     },
     "options": {
       "hi": [
-        "उसमें DNA नहीं होता",
-        "उसमें कोशिका झिल्ली नहीं होती",
         "उसमें झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता",
-        "उसमें राइबोसोम नहीं होते"
+        "उसमें राइबोसोम नहीं होते",
+        "उसमें DNA नहीं होता",
+        "उसमें कोशिका झिल्ली नहीं होती"
       ],
       "en": [
-        "Ribosome",
-        "Chloroplast",
         "Membrane-bound nucleus",
-        "Golgi apparatus"
+        "Golgi apparatus",
+        "Ribosome",
+        "Chloroplast"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "hi": "प्रोकैरियोटिक कोशिकाओं में DNA और राइबोसोम होते हैं, लेकिन झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता।",
-      "en": "Ribosomes occur in both cell types."
+      "en": "For “Which of the following should be considered the correct answer? 6,” “Membrane-bound nucleus” matches the function of the relevant biological structure or process. “Golgi apparatus and Ribosome” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रोकैरियोटिक कोशिकाओं में DNA मौजूद होता है।",
-        "गलत: कोशिका झिल्ली प्रोकैरियोटिक कोशिकाओं में भी होती है।",
         "सही: झिल्ली-बद्ध स्पष्ट केंद्रक अनुपस्थित होता है।",
-        "गलत: प्रोटीन संश्लेषण के लिए प्रोकैरियोटिक कोशिकाओं में राइबोसोम होते हैं।"
+        "गलत: प्रोटीन संश्लेषण के लिए प्रोकैरियोटिक कोशिकाओं में राइबोसोम होते हैं।",
+        "गलत: प्रोकैरियोटिक कोशिकाओं में DNA मौजूद होता है।",
+        "गलत: कोशिका झिल्ली प्रोकैरियोटिक कोशिकाओं में भी होती है।"
       ]
     }
   },
@@ -837,29 +837,29 @@
     },
     "options": {
       "hi": [
-        "प्रोटीन संश्लेषण",
         "प्रकाश संश्लेषण",
         "कोशिका को बाहरी कठोरता देना",
-        "DNA को केंद्रक में बंद रखना"
+        "DNA को केंद्रक में बंद रखना",
+        "प्रोटीन संश्लेषण"
       ],
       "en": [
-        "Nucleus only in eukaryotes",
         "Ribosomes in both prokaryotic and eukaryotic cells",
         "DNA only in prokaryotes",
-        "Both have a membrane-bound nucleus"
+        "Both have a membrane-bound nucleus",
+        "Nucleus only in eukaryotes"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "राइबोसोम अमीनो अम्लों को जोड़कर प्रोटीन बनाते हैं। ये प्रोकैरियोटिक और यूकैरियोटिक दोनों कोशिकाओं में पाए जाते हैं।",
-      "en": "Both cell types contain ribosomes."
+      "en": "For “What is a key feature of a prokaryotic cell? 9,” “Nucleus only in eukaryotes” matches the function of the relevant biological structure or process. “Ribosomes in both prokaryotic and eukaryotic cells and DNA only in prokaryotes” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
-        "सही: राइबोसोम प्रोटीन संश्लेषण के स्थल हैं।",
         "गलत: प्रकाश संश्लेषण मुख्यतः हरितलवक में होता है।",
         "गलत: पादप कोशिका को कठोरता कोशिका भित्ति से मिलती है।",
-        "गलत: यूकैरियोटिक कोशिका में DNA को केंद्रकीय झिल्ली घेरती है; यह राइबोसोम का काम नहीं है।"
+        "गलत: यूकैरियोटिक कोशिका में DNA को केंद्रकीय झिल्ली घेरती है; यह राइबोसोम का काम नहीं है।",
+        "सही: राइबोसोम प्रोटीन संश्लेषण के स्थल हैं।"
       ]
     }
   },
@@ -873,29 +873,29 @@
     },
     "options": {
       "hi": [
-        "प्रोकैरियोटिक कोशिका",
         "यूकैरियोटिक कोशिका",
         "केवल जीवाणु",
-        "कोशिकीय संरचना रहित विषाणु"
+        "कोशिकीय संरचना रहित विषाणु",
+        "प्रोकैरियोटिक कोशिका"
       ],
       "en": [
-        "Eukaryotic",
         "Acellular",
         "Only the one having a nucleoid",
-        "Prokaryotic"
+        "Prokaryotic",
+        "Eukaryotic"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "यूकैरियोटिक कोशिकाओं में माइटोकॉन्ड्रिया, अंतर्द्रव्यी जालिका और गॉल्जी निकाय जैसे झिल्ली-बद्ध कोशिकांग पाए जाते हैं।",
       "en": "A cell with a membrane-bound nucleus is eukaryotic."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रोकैरियोटिक कोशिकाओं में सामान्य झिल्ली-बद्ध कोशिकांग नहीं होते।",
         "सही: यूकैरियोटिक कोशिकाओं में झिल्ली-बद्ध कोशिकांग पाए जाते हैं।",
         "गलत: जीवाणु प्रोकैरियोट हैं।",
-        "गलत: विषाणु कोशिका नहीं हैं और उनमें कोशिकांग नहीं होते।"
+        "गलत: विषाणु कोशिका नहीं हैं और उनमें कोशिकांग नहीं होते।",
+        "गलत: प्रोकैरियोटिक कोशिकाओं में सामान्य झिल्ली-बद्ध कोशिकांग नहीं होते।"
       ]
     }
   },
@@ -909,29 +909,29 @@
     },
     "options": {
       "hi": [
+        "वह कोशिका झिल्ली से रहित होता है",
         "उसमें झिल्ली-बद्ध केंद्रक होता है",
         "वह हमेशा बहुकोशिकीय होता है",
-        "उसमें DNA नहीं होता",
-        "वह कोशिका झिल्ली से रहित होता है"
+        "उसमें DNA नहीं होता"
       ],
       "en": [
+        "Being only multicellular",
         "Absence of a well-defined membrane-bound nucleus",
         "A large membrane-bound nucleus",
-        "Compulsory presence of chloroplast",
-        "Being only multicellular"
+        "Compulsory presence of chloroplast"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "अमीबा एक एककोशिकीय यूकैरियोट है। उसकी कोशिका में झिल्ली से घिरा स्पष्ट केंद्रक होता है।",
       "en": "A prokaryotic cell lacks a well-defined membrane-bound nucleus."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: अमीबा की कोशिका में कोशिका झिल्ली होती है।",
         "सही: झिल्ली-बद्ध केंद्रक यूकैरियोटिक कोशिका की पहचान है।",
         "गलत: अमीबा एककोशिकीय जीव है।",
-        "गलत: अमीबा में DNA होता है।",
-        "गलत: अमीबा की कोशिका में कोशिका झिल्ली होती है।"
+        "गलत: अमीबा में DNA होता है।"
       ]
     }
   },
@@ -945,29 +945,29 @@
     },
     "options": {
       "hi": [
+        "यह केवल कोशिका को ऊर्जा देती है",
         "यह केवल पादप कोशिका में होती है",
         "यह पदार्थों के आवागमन को नियंत्रित करती है",
-        "यह केवल DNA से बनी होती है",
-        "यह केवल कोशिका को ऊर्जा देती है"
+        "यह केवल DNA से बनी होती है"
       ],
       "en": [
+        "Only the cell wall",
         "A well-defined nucleus enclosed by a membrane",
         "Nucleoid",
-        "Complete absence of nucleus",
-        "Only the cell wall"
+        "Complete absence of nucleus"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "कोशिका झिल्ली चयनात्मक पारगम्य होती है और कोशिका में पदार्थों के प्रवेश तथा निकास को नियंत्रित करती है।",
       "en": "In a eukaryotic cell, the nucleus is enclosed by a nuclear membrane."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: ऊर्जा उत्पादन इसका मुख्य कार्य नहीं है।",
         "गलत: कोशिका झिल्ली पादप और जंतु दोनों कोशिकाओं में होती है।",
         "सही: यह पदार्थों के आवागमन को नियंत्रित करती है।",
-        "गलत: झिल्ली मुख्यतः लिपिड और प्रोटीन से बनी होती है, केवल DNA से नहीं।",
-        "गलत: ऊर्जा उत्पादन इसका मुख्य कार्य नहीं है।"
+        "गलत: झिल्ली मुख्यतः लिपिड और प्रोटीन से बनी होती है, केवल DNA से नहीं।"
       ]
     }
   },
@@ -981,29 +981,29 @@
     },
     "options": {
       "hi": [
+        "प्रकाश को क्लोरोफिल से पकड़ना",
         "प्रोटीन संश्लेषण",
         "कोशिका की बाहरी दीवार बनाना",
-        "कोशिकीय श्वसन और ATP उत्पादन",
-        "प्रकाश को क्लोरोफिल से पकड़ना"
+        "कोशिकीय श्वसन और ATP उत्पादन"
       ],
       "en": [
+        "Human cell",
         "Bacteria",
         "Amoeba",
-        "Plant cell",
-        "Human cell"
+        "Plant cell"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ होती हैं, जिनसे ATP के रूप में उपयोगी ऊर्जा मिलती है।",
-      "en": "Bacteria are prokaryotic organisms."
+      "en": "For “What is a key feature of a prokaryotic cell? 13,” “Plant cell” matches the function of the relevant biological structure or process. “Human cell and Bacteria” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: प्रकाश ऊर्जा ग्रहण करने में हरितलवक का क्लोरोफिल भूमिका निभाता है।",
         "गलत: प्रोटीन संश्लेषण राइबोसोम का मुख्य कार्य है।",
         "गलत: पादप कोशिका की बाहरी कठोर भित्ति कोशिका भित्ति होती है।",
-        "सही: माइटोकॉन्ड्रिया ATP उत्पादन में प्रमुख भूमिका निभाता है।",
-        "गलत: प्रकाश ऊर्जा ग्रहण करने में हरितलवक का क्लोरोफिल भूमिका निभाता है।"
+        "सही: माइटोकॉन्ड्रिया ATP उत्पादन में प्रमुख भूमिका निभाता है।"
       ]
     }
   },
@@ -1032,7 +1032,7 @@
     "correct": 0,
     "explanation": {
       "hi": "हरितलवक में क्लोरोफिल होता है, जो प्रकाश ऊर्जा को ग्रहण कर प्रकाश संश्लेषण में मदद करता है।",
-      "en": "Human cells are eukaryotic."
+      "en": "For “Which of the following should be considered the correct answer? 14,” “Acellular structure” matches the function of the relevant biological structure or process. “Human cell and Bacteria” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
@@ -1053,29 +1053,29 @@
     },
     "options": {
       "hi": [
+        "न्यूक्लियॉइड",
         "गॉल्जी निकाय",
         "केंद्रक",
-        "कोशिका भित्ति",
-        "न्यूक्लियॉइड"
+        "कोशिका भित्ति"
       ],
       "en": [
+        "Golgi apparatus",
         "Nucleoid region",
         "Vacuole",
-        "Chloroplast",
-        "Golgi apparatus"
+        "Chloroplast"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "गॉल्जी निकाय कई पदार्थों का संशोधन, छँटाई और पैकेजिंग करके उन्हें उचित स्थान तक पहुँचाने में सहायता करता है।",
       "en": "In prokaryotes, DNA lies in the nucleoid region."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: न्यूक्लियॉइड प्रोकैरियोटिक कोशिका में DNA वाला क्षेत्र है।",
         "सही: संशोधन और पैकेजिंग गॉल्जी निकाय के प्रमुख कार्य हैं।",
         "गलत: केंद्रक आनुवंशिक पदार्थ रखता है और कोशिकीय गतिविधियों के नियमन में भूमिका निभाता है।",
-        "गलत: कोशिका भित्ति सहारा और सुरक्षा देती है।",
-        "गलत: न्यूक्लियॉइड प्रोकैरियोटिक कोशिका में DNA वाला क्षेत्र है।"
+        "गलत: कोशिका भित्ति सहारा और सुरक्षा देती है।"
       ]
     }
   },
@@ -1089,29 +1089,29 @@
     },
     "options": {
       "hi": [
-        "कोशिका भित्ति",
-        "राइबोसोम",
         "केंद्रक",
-        "गॉल्जी निकाय"
+        "गॉल्जी निकाय",
+        "कोशिका भित्ति",
+        "राइबोसोम"
       ],
       "en": [
-        "Membrane-bound nucleus",
-        "Chloroplast",
         "Golgi apparatus",
-        "Ribosome"
+        "Ribosome",
+        "Membrane-bound nucleus",
+        "Chloroplast"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "पादप कोशिका की कोशिका भित्ति मुख्यतः सेल्यूलोज से बनी होती है और उसे आकार, सहारा तथा सुरक्षा देती है।",
-      "en": "Ribosomes occur in both cell types."
+      "en": "For “Which of the following should be considered the correct answer? 16,” “Membrane-bound nucleus” matches the function of the relevant biological structure or process. “Golgi apparatus and Ribosome” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
-        "सही: कोशिका भित्ति कठोरता और सहारा देती है।",
-        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
         "गलत: केंद्रक आनुवंशिक पदार्थ रखता है।",
-        "गलत: गॉल्जी निकाय पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।"
+        "गलत: गॉल्जी निकाय पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।",
+        "सही: कोशिका भित्ति कठोरता और सहारा देती है।",
+        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
       ]
     }
   },
@@ -1125,29 +1125,29 @@
     },
     "options": {
       "hi": [
+        "केंद्रक",
         "कोशिका झिल्ली",
         "कोशिकाद्रव्य",
-        "कोशिका भित्ति",
-        "केंद्रक"
+        "कोशिका भित्ति"
       ],
       "en": [
+        "Membrane-bound organelles",
         "Only ribosomes",
         "Only the cell membrane",
-        "Only the nucleoid",
-        "Membrane-bound organelles"
+        "Only the nucleoid"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "मानव गाल की कोशिका जंतु कोशिका है। इसमें कोशिका झिल्ली, कोशिकाद्रव्य और केंद्रक होते हैं, लेकिन कोशिका भित्ति नहीं होती।",
       "en": "Membrane-bound organelles are a key feature of eukaryotic cells."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: सामान्य गाल कोशिका में केंद्रक पाया जाता है।",
         "गलत: जंतु कोशिका में कोशिका झिल्ली होती है।",
         "गलत: कोशिकाद्रव्य कोशिका का सामान्य घटक है।",
-        "सही: मानव गाल की कोशिका में कोशिका भित्ति नहीं होती।",
-        "गलत: सामान्य गाल कोशिका में केंद्रक पाया जाता है।"
+        "सही: मानव गाल की कोशिका में कोशिका भित्ति नहीं होती।"
       ]
     }
   },
@@ -1161,29 +1161,29 @@
     },
     "options": {
       "hi": [
-        "रिक्तिका केवल जंतु कोशिका में होती है",
         "पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है",
         "रिक्तिका में कभी जल नहीं होता",
-        "हर कोशिका में एक ही आकार की रिक्तिका होती है"
+        "हर कोशिका में एक ही आकार की रिक्तिका होती है",
+        "रिक्तिका केवल जंतु कोशिका में होती है"
       ],
       "en": [
-        "Absence of ribosomes",
         "Absence of nuclear membrane",
         "Absence of DNA",
-        "Absence of cell membrane"
+        "Absence of cell membrane",
+        "Absence of ribosomes"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "परिपक्व पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है, जो जल और घुले पदार्थों के भंडारण तथा तुर्गता बनाए रखने में मदद करती है।",
       "en": "In prokaryotes, DNA is not enclosed by a nuclear membrane."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: बड़ी केंद्रीय रिक्तिका पादप कोशिका की प्रमुख विशेषता है।",
         "सही: पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है।",
         "गलत: रिक्तिका में जल और घुले पदार्थ हो सकते हैं।",
-        "गलत: रिक्तिका का आकार और संख्या कोशिका के प्रकार के अनुसार बदल सकते हैं।"
+        "गलत: रिक्तिका का आकार और संख्या कोशिका के प्रकार के अनुसार बदल सकते हैं।",
+        "गलत: बड़ी केंद्रीय रिक्तिका पादप कोशिका की प्रमुख विशेषता है।"
       ]
     }
   },
@@ -1197,29 +1197,29 @@
     },
     "options": {
       "hi": [
+        "जाइलम",
         "उपकला ऊतक",
         "पेशीय ऊतक",
-        "तंत्रिका ऊतक",
-        "जाइलम"
+        "तंत्रिका ऊतक"
       ],
       "en": [
+        "Both have a membrane-bound nucleus",
         "Nucleus only in eukaryotes",
         "Ribosomes in both prokaryotic and eukaryotic cells",
-        "DNA only in prokaryotes",
-        "Both have a membrane-bound nucleus"
+        "DNA only in prokaryotes"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "उपकला ऊतक शरीर की बाहरी सतह को ढकता है और कई आंतरिक अंगों तथा गुहाओं की परत बनाकर सुरक्षा देता है।",
-      "en": "Both cell types contain ribosomes."
+      "en": "For “What is a key feature of a prokaryotic cell? 19,” “Nucleus only in eukaryotes” matches the function of the relevant biological structure or process. “Both have a membrane-bound nucleus and Ribosomes in both prokaryotic and eukaryotic cells” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: जाइलम पादप का संवहनी ऊतक है।",
         "सही: उपकला ऊतक आवरण और सुरक्षा देता है।",
         "गलत: पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है।",
-        "गलत: तंत्रिका ऊतक संकेतों का संचार करता है।",
-        "गलत: जाइलम पादप का संवहनी ऊतक है।"
+        "गलत: तंत्रिका ऊतक संकेतों का संचार करता है।"
       ]
     }
   },
@@ -1233,29 +1233,29 @@
     },
     "options": {
       "hi": [
+        "तंत्रिका ऊतक",
         "उपकला ऊतक",
         "तरल संयोजी ऊतक",
-        "पेशीय ऊतक",
-        "तंत्रिका ऊतक"
+        "पेशीय ऊतक"
       ],
       "en": [
+        "Prokaryotic",
         "Eukaryotic",
         "Only the one having a nucleoid",
-        "Acellular",
-        "Prokaryotic"
+        "Acellular"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "रक्त को तरल संयोजी ऊतक माना जाता है क्योंकि इसका द्रव मैट्रिक्स प्लाज्मा होता है और यह पदार्थों के परिवहन तथा शरीर के विभिन्न भागों के बीच संबंध में मदद करता है।",
       "en": "A cell with a membrane-bound nucleus is eukaryotic."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: तंत्रिका ऊतक सूचना और संकेतों का संचार करता है।",
         "गलत: उपकला ऊतक आवरण बनाता है।",
         "सही: रक्त एक तरल संयोजी ऊतक है।",
-        "गलत: पेशीय ऊतक संकुचन और गति से संबंधित है।",
-        "गलत: तंत्रिका ऊतक सूचना और संकेतों का संचार करता है।"
+        "गलत: पेशीय ऊतक संकुचन और गति से संबंधित है।"
       ]
     }
   },
@@ -1269,29 +1269,29 @@
     },
     "options": {
       "hi": [
-        "कोशिका भित्ति",
         "कोशिका झिल्ली",
         "केंद्रक",
-        "माइटोकॉन्ड्रिया"
+        "माइटोकॉन्ड्रिया",
+        "कोशिका भित्ति"
       ],
       "en": [
-        "Cell wall",
         "Cell membrane",
         "Nucleus",
-        "Mitochondria"
+        "Mitochondria",
+        "Cell wall"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "कोशिका भित्ति पादप कोशिका को कठोरता एवं आकार देती है और यह जंतु कोशिका में नहीं होती।",
       "en": "The cell wall gives rigidity and shape to a plant cell and is absent in an animal cell."
     },
     "optionExplanations": {
       "hi": [
-        "सही: कोशिका भित्ति पादप कोशिका को यांत्रिक सहारा और निश्चित आकार देती है; जंतु कोशिका में यह नहीं होती।",
         "गलत: कोशिका झिल्ली पादप और जंतु दोनों कोशिकाओं में होती है।",
         "गलत: केंद्रक दोनों प्रकार की कई कोशिकाओं में होता है; यह विशिष्ट अंतर नहीं है।",
-        "गलत: माइटोकॉन्ड्रिया पादप और जंतु दोनों यूकैरियोटिक कोशिकाओं में होता है।"
+        "गलत: माइटोकॉन्ड्रिया पादप और जंतु दोनों यूकैरियोटिक कोशिकाओं में होता है।",
+        "सही: कोशिका भित्ति पादप कोशिका को यांत्रिक सहारा और निश्चित आकार देती है; जंतु कोशिका में यह नहीं होती।"
       ]
     }
   },
@@ -1341,29 +1341,29 @@
     },
     "options": {
       "hi": [
+        "लाइसोसोम",
         "हरितलवक",
         "माइटोकॉन्ड्रिया",
-        "गॉल्जी उपकरण",
-        "लाइसोसोम"
+        "गॉल्जी उपकरण"
       ],
       "en": [
+        "Lysosome",
         "Chloroplast",
         "Mitochondria",
-        "Golgi apparatus",
-        "Lysosome"
+        "Golgi apparatus"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "हरितलवक में क्लोरोफिल होता है जो प्रकाश संश्लेषण में सहायक है और यह पादप कोशिका में पाया जाता है।",
       "en": "Chloroplast contains chlorophyll which assists in photosynthesis, and is found in plant cells."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है; यह प्रकाश संश्लेषण नहीं करता।",
         "सही: हरितलवक में क्लोरोफिल होता है और प्रकाश संश्लेषण में इसकी भूमिका है।",
         "गलत: माइटोकॉन्ड्रिया ऊर्जा-उत्पादन से जुड़ा है और पादप व जंतु दोनों कोशिकाओं में पाया जाता है।",
-        "गलत: गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।",
-        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है; यह प्रकाश संश्लेषण नहीं करता।"
+        "गलत: गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।"
       ]
     }
   },
@@ -1377,29 +1377,29 @@
     },
     "options": {
       "hi": [
-        "यह सामान्यतः छोटी होती है",
-        "यह हमेशा अनुपस्थित होती है",
         "यह हमेशा बड़ी होती है",
-        "इसमें क्लोरोफिल होता है"
+        "इसमें क्लोरोफिल होता है",
+        "यह सामान्यतः छोटी होती है",
+        "यह हमेशा अनुपस्थित होती है"
       ],
       "en": [
-        "It is usually small",
-        "It is always absent",
         "It is always larger",
-        "It contains chlorophyll"
+        "It contains chlorophyll",
+        "It is usually small",
+        "It is always absent"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है जबकि जंतु कोशिका की रिक्तिकाएँ, यदि हों, छोटी होती हैं।",
       "en": "A plant cell usually has a large central vacuole, whereas an animal cell's vacuoles, if present, tend to be small."
     },
     "optionExplanations": {
       "hi": [
-        "सही: जंतु कोशिका की रिक्तिकाएँ यदि उपस्थित हों तो सामान्यतः पादप कोशिका की बड़ी केंद्रीय रिक्तिका से छोटी होती हैं।",
-        "गलत: रिक्तिकाएँ जंतु कोशिकाओं में हमेशा अनुपस्थित नहीं होतीं।",
         "गलत: जंतु कोशिका की रिक्तिका सामान्यतः बड़ी केंद्रीय रिक्तिका जैसी नहीं होती।",
-        "गलत: रिक्तिका में क्लोरोफिल होना उसकी सामान्य विशेषता नहीं है।"
+        "गलत: रिक्तिका में क्लोरोफिल होना उसकी सामान्य विशेषता नहीं है।",
+        "सही: जंतु कोशिका की रिक्तिकाएँ यदि उपस्थित हों तो सामान्यतः पादप कोशिका की बड़ी केंद्रीय रिक्तिका से छोटी होती हैं।",
+        "गलत: रिक्तिकाएँ जंतु कोशिकाओं में हमेशा अनुपस्थित नहीं होतीं।"
       ]
     }
   },
@@ -1413,29 +1413,29 @@
     },
     "options": {
       "hi": [
-        "कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका",
         "केंद्रक, माइटोकॉन्ड्रिया और राइबोसोम",
         "केवल कोशिका झिल्ली और कोशिकाद्रव्य",
-        "केवल गॉल्जी उपकरण और लाइसोसोम"
+        "केवल गॉल्जी उपकरण और लाइसोसोम",
+        "कोशिका भित्ति, हरितलवक और बड़ी केंद्रीय रिक्तिका"
       ],
       "en": [
-        "Cell wall, chloroplast and large central vacuole",
         "Nucleus, mitochondria and ribosome",
         "Only cell membrane and cytoplasm",
-        "Only Golgi apparatus and lysosome"
+        "Only Golgi apparatus and lysosome",
+        "Cell wall, chloroplast and large central vacuole"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पादप कोशिका की अतिरिक्त विशेषताएँ हैं।",
       "en": "Cell wall, chloroplast and usually a large central vacuole are additional features of a plant cell."
     },
     "optionExplanations": {
       "hi": [
-        "सही: कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पादप कोशिका की प्रमुख विशेषताएँ हैं।",
         "गलत: केंद्रक, माइटोकॉन्ड्रिया और राइबोसोम जंतु कोशिकाओं में भी पाए जाते हैं।",
         "गलत: कोशिका झिल्ली और कोशिकाद्रव्य पादप व जंतु दोनों कोशिकाओं में होते हैं।",
-        "गलत: गॉल्जी उपकरण यूकैरियोटिक कोशिकाओं में होता है; लाइसोसोम भी पादप-जंतु के बीच अकेला निर्णायक अंतर नहीं है।"
+        "गलत: गॉल्जी उपकरण यूकैरियोटिक कोशिकाओं में होता है; लाइसोसोम भी पादप-जंतु के बीच अकेला निर्णायक अंतर नहीं है।",
+        "सही: कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पादप कोशिका की प्रमुख विशेषताएँ हैं।"
       ]
     }
   },
@@ -1485,29 +1485,29 @@
     },
     "options": {
       "hi": [
+        "केवल जंतु कोशिका में माइटोकॉन्ड्रिया होता है",
         "पादप कोशिका में हरितलवक और कोशिका भित्ति होती है, जंतु कोशिका में नहीं",
         "जंतु कोशिका में कोशिका भित्ति होती है, पादप कोशिका में नहीं",
-        "दोनों कोशिकाओं में हमेशा केंद्रक नहीं होता",
-        "केवल जंतु कोशिका में माइटोकॉन्ड्रिया होता है"
+        "दोनों कोशिकाओं में हमेशा केंद्रक नहीं होता"
       ],
       "en": [
+        "Only animal cells contain mitochondria",
         "Plant cell has chloroplast and cell wall, animal cell does not",
         "Animal cell has a cell wall, plant cell does not",
-        "Both cells always lack a nucleus",
-        "Only animal cells contain mitochondria"
+        "Both cells always lack a nucleus"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "पादप कोशिका में हरितलवक और कोशिका भित्ति होती है, जो जंतु कोशिका में नहीं होते।",
       "en": "A plant cell has chloroplasts and a cell wall, which an animal cell lacks."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: माइटोकॉन्ड्रिया जंतु कोशिकाओं में भी पाया जाता है।",
         "सही: पादप कोशिकाओं में कोशिका भित्ति और प्रकाश-संश्लेषी कोशिकाओं में हरितलवक पाए जाते हैं; जंतु कोशिकाओं में ये नहीं होते।",
         "गलत: जंतु कोशिका में भी कोशिका भित्ति नहीं, बल्कि केंद्रक हो सकता है; कथन उलटा है।",
-        "गलत: दोनों कोशिकाओं में केंद्रक हो सकता है, इसलिए यह कथन सही अंतर नहीं बताता।",
-        "गलत: माइटोकॉन्ड्रिया जंतु कोशिकाओं में भी पाया जाता है।"
+        "गलत: दोनों कोशिकाओं में केंद्रक हो सकता है, इसलिए यह कथन सही अंतर नहीं बताता।"
       ]
     }
   },
@@ -1521,29 +1521,29 @@
     },
     "options": {
       "hi": [
-        "केंद्रक",
-        "कोशिका भित्ति",
         "हरितलवक",
-        "बड़ी केंद्रीय रिक्तिका"
+        "बड़ी केंद्रीय रिक्तिका",
+        "केंद्रक",
+        "कोशिका भित्ति"
       ],
       "en": [
-        "Nucleus",
-        "Cell wall",
         "Chloroplast",
-        "Large central vacuole"
+        "Large central vacuole",
+        "Nucleus",
+        "Cell wall"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "केंद्रक दोनों प्रकार की कोशिकाओं में पाया जाता है, जबकि कोशिका भित्ति, हरितलवक और बड़ी रिक्तिका केवल पादप कोशिका की विशेषताएँ हैं।",
       "en": "The nucleus is present in both cell types, while cell wall, chloroplast and large vacuole are plant-cell-specific."
     },
     "optionExplanations": {
       "hi": [
-        "सही: सामान्य पादप और जंतु यूकैरियोटिक कोशिकाओं में केंद्रक पाया जाता है।",
-        "गलत: कोशिका भित्ति जंतु कोशिका में नहीं होती।",
         "गलत: हरितलवक जंतु कोशिका में नहीं होता।",
-        "गलत: बड़ी केंद्रीय रिक्तिका पादप कोशिका की सामान्य विशेषता है, दोनों में समान नहीं।"
+        "गलत: बड़ी केंद्रीय रिक्तिका पादप कोशिका की सामान्य विशेषता है, दोनों में समान नहीं।",
+        "सही: सामान्य पादप और जंतु यूकैरियोटिक कोशिकाओं में केंद्रक पाया जाता है।",
+        "गलत: कोशिका भित्ति जंतु कोशिका में नहीं होती।"
       ]
     }
   },
@@ -1557,29 +1557,29 @@
     },
     "options": {
       "hi": [
-        "समान, पादप कोशिका में कुछ अतिरिक्त संरचनाओं के साथ",
         "पूर्णतः भिन्न",
         "हर पहलू में एक समान",
-        "एक-दूसरे से असंबंधित"
+        "एक-दूसरे से असंबंधित",
+        "समान, पादप कोशिका में कुछ अतिरिक्त संरचनाओं के साथ"
       ],
       "en": [
-        "Similar, with some additional structures in plant cells",
         "Completely different",
         "Identical in every respect",
-        "Unrelated"
+        "Unrelated",
+        "Similar, with some additional structures in plant cells"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "पादप और जंतु कोशिका की मूल संरचना समान है, परंतु पादप कोशिका में कुछ अतिरिक्त संरचनाएँ पाई जाती हैं।",
       "en": "Plant and animal cells share the same basic structure, but plant cells have some additional structures."
     },
     "optionExplanations": {
       "hi": [
-        "सही: दोनों कोशिकाओं की मूल योजना समान है, लेकिन पादप कोशिका में कोशिका भित्ति और सामान्यतः बड़ी केंद्रीय रिक्तिका जैसी अतिरिक्त संरचनाएँ होती हैं।",
         "गलत: दोनों कोशिकाएँ पूरी तरह असंबंधित नहीं; उनमें कई साझा संरचनाएँ हैं।",
         "गलत: दोनों में हर पहलू एक जैसा नहीं होता; कुछ महत्वपूर्ण संरचनात्मक अंतर हैं।",
-        "गलत: दोनों कोशिका प्रकार यूकैरियोटिक कोशिकाओं के रूप हैं और कई बुनियादी संरचनाएँ साझा करते हैं।"
+        "गलत: दोनों कोशिका प्रकार यूकैरियोटिक कोशिकाओं के रूप हैं और कई बुनियादी संरचनाएँ साझा करते हैं।",
+        "सही: दोनों कोशिकाओं की मूल योजना समान है, लेकिन पादप कोशिका में कोशिका भित्ति और सामान्यतः बड़ी केंद्रीय रिक्तिका जैसी अतिरिक्त संरचनाएँ होती हैं।"
       ]
     }
   },
@@ -1629,29 +1629,29 @@
     },
     "options": {
       "hi": [
+        "बड़ी केंद्रीय रिक्तिका",
         "माइटोकॉन्ड्रिया",
         "कोशिका भित्ति",
-        "हरितलवक",
-        "बड़ी केंद्रीय रिक्तिका"
+        "हरितलवक"
       ],
       "en": [
+        "Large central vacuole",
         "Mitochondria",
         "Cell wall",
-        "Chloroplast",
-        "Large central vacuole"
+        "Chloroplast"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया दोनों पादप और जंतु कोशिकाओं में पाया जाता है, जबकि अन्य तीन पादप कोशिका तक सीमित हैं।",
       "en": "Mitochondria are present in both plant and animal cells, unlike the other three which are limited to plant cells."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: बड़ी केंद्रीय रिक्तिका सामान्यतः पादप कोशिका की विशेषता है।",
         "सही: माइटोकॉन्ड्रिया पादप और जंतु दोनों कोशिकाओं में पाया जाता है।",
         "गलत: कोशिका भित्ति जंतु कोशिका में नहीं होती और पादप कोशिका की प्रमुख विशेषता है।",
-        "गलत: हरितलवक जंतु कोशिकाओं में नहीं होता।",
-        "गलत: बड़ी केंद्रीय रिक्तिका सामान्यतः पादप कोशिका की विशेषता है।"
+        "गलत: हरितलवक जंतु कोशिकाओं में नहीं होता।"
       ]
     }
   },
@@ -1665,29 +1665,29 @@
     },
     "options": {
       "hi": [
-        "पादप कोशिका",
-        "जंतु कोशिका",
         "जीवाणु कोशिका",
-        "विषाणु"
+        "विषाणु",
+        "पादप कोशिका",
+        "जंतु कोशिका"
       ],
       "en": [
-        "Plant cells",
-        "Animal cells",
         "Bacterial cells",
-        "Viruses"
+        "Viruses",
+        "Plant cells",
+        "Animal cells"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "पादप कोशिका में सामान्यतः एक बड़ी केंद्रीय रिक्तिका पाई जाती है।",
       "en": "A plant cell usually contains a large central vacuole."
     },
     "optionExplanations": {
       "hi": [
-        "सही: परिपक्व पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है।",
-        "गलत: जंतु कोशिका में रिक्तिकाएँ हो सकती हैं, लेकिन सामान्यतः बड़ी केंद्रीय रिक्तिका नहीं होती।",
         "गलत: जीवाणु प्रोकैरियोट हैं और पादप कोशिका जैसी बड़ी केंद्रीय रिक्तिका उनकी सामान्य विशेषता नहीं है।",
-        "गलत: विषाणु कोशिका नहीं होते और उनमें कोशिकीय रिक्तिका नहीं होती।"
+        "गलत: विषाणु कोशिका नहीं होते और उनमें कोशिकीय रिक्तिका नहीं होती।",
+        "सही: परिपक्व पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है।",
+        "गलत: जंतु कोशिका में रिक्तिकाएँ हो सकती हैं, लेकिन सामान्यतः बड़ी केंद्रीय रिक्तिका नहीं होती।"
       ]
     }
   },
@@ -1701,29 +1701,29 @@
     },
     "options": {
       "hi": [
-        "पादप कोशिका — हरितलवक",
         "जंतु कोशिका — कोशिका भित्ति",
         "जंतु कोशिका — हरितलवक",
-        "पादप कोशिका — रिक्तिका का अभाव"
+        "पादप कोशिका — रिक्तिका का अभाव",
+        "पादप कोशिका — हरितलवक"
       ],
       "en": [
-        "Plant cell — chloroplast",
         "Animal cell — cell wall",
         "Animal cell — chloroplast",
-        "Plant cell — absence of vacuole"
+        "Plant cell — absence of vacuole",
+        "Plant cell — chloroplast"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "हरितलवक पादप कोशिका में पाया जाता है, जंतु कोशिका में नहीं।",
       "en": "Chloroplast is found in plant cells, not in animal cells."
     },
     "optionExplanations": {
       "hi": [
-        "सही: हरितलवक पादप कोशिका की विशेषता है, विशेषकर प्रकाश-संश्लेषी ऊतकों में।",
         "गलत: जंतु कोशिका में कोशिका भित्ति नहीं होती।",
         "गलत: जंतु कोशिका में हरितलवक नहीं होता।",
-        "गलत: पादप कोशिकाओं में रिक्तिकाएँ होती हैं; रिक्तिका का अभाव सही मिलान नहीं है।"
+        "गलत: पादप कोशिकाओं में रिक्तिकाएँ होती हैं; रिक्तिका का अभाव सही मिलान नहीं है।",
+        "सही: हरितलवक पादप कोशिका की विशेषता है, विशेषकर प्रकाश-संश्लेषी ऊतकों में।"
       ]
     }
   },
@@ -1773,29 +1773,29 @@
     },
     "options": {
       "hi": [
+        "राइबोसोम और DNA",
         "कोशिका भित्ति और हरितलवक",
         "केंद्रक और कोशिकाद्रव्य",
-        "कोशिका झिल्ली और माइटोकॉन्ड्रिया",
-        "राइबोसोम और DNA"
+        "कोशिका झिल्ली और माइटोकॉन्ड्रिया"
       ],
       "en": [
+        "Ribosome and DNA",
         "Cell wall and chloroplast",
         "Nucleus and cytoplasm",
-        "Cell membrane and mitochondria",
-        "Ribosome and DNA"
+        "Cell membrane and mitochondria"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "जंतु कोशिका में कोशिका भित्ति और हरितलवक नहीं होते, जो पादप कोशिका में पाए जाते हैं।",
       "en": "An animal cell lacks a cell wall and chloroplast, which are present in a plant cell."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: जंतु कोशिकाओं में DNA और राइबोसोम होते हैं।",
         "सही: जंतु कोशिका में कोशिका भित्ति और हरितलवक नहीं होते।",
         "गलत: मानव जंतु कोशिका में सामान्यतः केंद्रक और कोशिकाद्रव्य होते हैं।",
-        "गलत: जंतु कोशिकाओं में कोशिका झिल्ली और माइटोकॉन्ड्रिया होते हैं।",
-        "गलत: जंतु कोशिकाओं में DNA और राइबोसोम होते हैं।"
+        "गलत: जंतु कोशिकाओं में कोशिका झिल्ली और माइटोकॉन्ड्रिया होते हैं।"
       ]
     }
   },
@@ -1809,29 +1809,29 @@
     },
     "options": {
       "hi": [
-        "क्योंकि पादप कोशिका में कोशिका भित्ति होती है",
-        "क्योंकि पादप कोशिका में केंद्रक नहीं होता",
         "क्योंकि पादप कोशिका हमेशा बड़ी होती है",
-        "क्योंकि पादप कोशिका में माइटोकॉन्ड्रिया नहीं होता"
+        "क्योंकि पादप कोशिका में माइटोकॉन्ड्रिया नहीं होता",
+        "क्योंकि पादप कोशिका में कोशिका भित्ति होती है",
+        "क्योंकि पादप कोशिका में केंद्रक नहीं होता"
       ],
       "en": [
-        "Because plant cells have a cell wall",
-        "Because plant cells lack a nucleus",
         "Because plant cells are always larger",
-        "Because plant cells lack mitochondria"
+        "Because plant cells lack mitochondria",
+        "Because plant cells have a cell wall",
+        "Because plant cells lack a nucleus"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "कोशिका भित्ति पादप कोशिका को कठोरता एवं निश्चित आकार प्रदान करती है; जंतु कोशिका में इसका अभाव होने से आकार लचीला रहता है।",
       "en": "The cell wall gives a plant cell rigidity and a fixed shape; lacking it, an animal cell's shape remains flexible."
     },
     "optionExplanations": {
       "hi": [
-        "सही: कोशिका भित्ति पादप कोशिका को सहारा और निश्चित आकार देती है।",
-        "गलत: केंद्रक आनुवंशिक पदार्थ रखता है, कठोरता देना इसका मुख्य कार्य नहीं है।",
         "गलत: पादप कोशिका हमेशा जंतु कोशिका से बड़ी नहीं होती; आकार कोशिका के प्रकार पर निर्भर करता है।",
-        "गलत: पादप कोशिका में माइटोकॉन्ड्रिया होता है; वह कोशिका भित्ति का विकल्प नहीं है।"
+        "गलत: पादप कोशिका में माइटोकॉन्ड्रिया होता है; वह कोशिका भित्ति का विकल्प नहीं है।",
+        "सही: कोशिका भित्ति पादप कोशिका को सहारा और निश्चित आकार देती है।",
+        "गलत: केंद्रक आनुवंशिक पदार्थ रखता है, कठोरता देना इसका मुख्य कार्य नहीं है।"
       ]
     }
   },
@@ -1845,29 +1845,29 @@
     },
     "options": {
       "hi": [
-        "रिक्तिका",
         "केंद्रक",
         "राइबोसोम",
-        "कोशिका भित्ति"
+        "कोशिका भित्ति",
+        "रिक्तिका"
       ],
       "en": [
-        "Vacuole",
         "Nucleus",
         "Ribosome",
-        "Cell wall"
+        "Cell wall",
+        "Vacuole"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "रिक्तिका जल, आयन एवं अपशिष्ट पदार्थों का भंडारण करती है और पादप कोशिका में सामान्यतः बड़ी होती है।",
       "en": "The vacuole stores water, ions and waste materials, and is usually large in a plant cell."
     },
     "optionExplanations": {
       "hi": [
-        "सही: रिक्तिका जल, आयन और घुले पदार्थों के भंडारण में मदद करती है।",
         "गलत: केंद्रक DNA रखता है और कोशिका की गतिविधियों के नियमन में भूमिका निभाता है।",
         "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
-        "गलत: कोशिका भित्ति सहारा देती है; भंडारण इसका मुख्य कार्य नहीं है।"
+        "गलत: कोशिका भित्ति सहारा देती है; भंडारण इसका मुख्य कार्य नहीं है।",
+        "सही: रिक्तिका जल, आयन और घुले पदार्थों के भंडारण में मदद करती है।"
       ]
     }
   },
@@ -1917,29 +1917,29 @@
     },
     "options": {
       "hi": [
+        "कोशिकाद्रव्य और DNA",
         "कोशिका भित्ति और हरितलवक",
         "केंद्रक और माइटोकॉन्ड्रिया",
-        "कोशिका झिल्ली और राइबोसोम",
-        "कोशिकाद्रव्य और DNA"
+        "कोशिका झिल्ली और राइबोसोम"
       ],
       "en": [
+        "Cytoplasm and DNA",
         "Cell wall and chloroplast",
         "Nucleus and mitochondria",
-        "Cell membrane and ribosome",
-        "Cytoplasm and DNA"
+        "Cell membrane and ribosome"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "कोशिका भित्ति और हरितलवक पादप कोशिका के लिए विशिष्ट हैं और जंतु कोशिका में अनुपस्थित होते हैं।",
       "en": "Cell wall and chloroplast are specific to plant cells and are absent in animal cells."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: कोशिकाद्रव्य और DNA जंतु कोशिकाओं में भी होते हैं।",
         "सही: कोशिका भित्ति और हरितलवक पादप कोशिका की प्रमुख अतिरिक्त संरचनाएँ हैं।",
         "गलत: केंद्रक और माइटोकॉन्ड्रिया जंतु कोशिकाओं में भी होते हैं।",
-        "गलत: कोशिका झिल्ली और राइबोसोम पादप तथा जंतु दोनों कोशिकाओं में पाए जाते हैं।",
-        "गलत: कोशिकाद्रव्य और DNA जंतु कोशिकाओं में भी होते हैं।"
+        "गलत: कोशिका झिल्ली और राइबोसोम पादप तथा जंतु दोनों कोशिकाओं में पाए जाते हैं।"
       ]
     }
   },
@@ -1953,29 +1953,29 @@
     },
     "options": {
       "hi": [
-        "मानव गाल की कोशिका",
         "प्याज के छिलके की कोशिका",
         "जंतु कोशिका",
-        "पत्ती की प्रकाश-संश्लेषी कोशिका"
+        "पत्ती की प्रकाश-संश्लेषी कोशिका",
+        "मानव गाल की कोशिका"
       ],
       "en": [
-        "Animal cell",
         "Plant cell",
         "Onion peel cell",
-        "Leaf cell"
+        "Leaf cell",
+        "Animal cell"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
       "hi": "पत्ती की प्रकाश-संश्लेषी कोशिकाओं में हरितलवक और क्लोरोफिल होते हैं, जो प्रकाश संश्लेषण में मदद करते हैं। प्याज के छिलके की सामान्य एपिडर्मल कोशिकाओं में प्रायः हरितलवक नहीं होते।",
       "en": "Chloroplasts are found in plant cells (such as leaf cells), not in animal cells."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: मानव गाल की कोशिका जंतु कोशिका है और इसमें हरितलवक नहीं होता।",
         "गलत: प्याज के छिलके की सामान्य एपिडर्मल कोशिकाओं में प्रायः हरितलवक नहीं होता, क्योंकि वे प्रकाश संश्लेषण नहीं करतीं।",
         "गलत: जंतु कोशिकाओं में हरितलवक नहीं होता।",
-        "सही: पत्ती की प्रकाश-संश्लेषी कोशिकाओं में हरितलवक होता है, जिसमें क्लोरोफिल प्रकाश ऊर्जा ग्रहण करता है।"
+        "सही: पत्ती की प्रकाश-संश्लेषी कोशिकाओं में हरितलवक होता है, जिसमें क्लोरोफिल प्रकाश ऊर्जा ग्रहण करता है।",
+        "गलत: मानव गाल की कोशिका जंतु कोशिका है और इसमें हरितलवक नहीं होता।"
       ]
     }
   },
@@ -1989,29 +1989,29 @@
     },
     "options": {
       "hi": [
-        "केंद्रक",
         "रिक्तिका",
         "गॉल्जी उपकरण",
-        "राइबोसोम"
+        "राइबोसोम",
+        "केंद्रक"
       ],
       "en": [
-        "Vacuole",
         "Nucleus",
         "Golgi apparatus",
-        "Ribosome"
+        "Ribosome",
+        "Vacuole"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "केंद्रक में अधिकांश आनुवंशिक पदार्थ होता है और यह कोशिका की गतिविधियों के नियमन में महत्वपूर्ण है।",
       "en": "The nucleus contains genetic material and controls cell activities."
     },
     "optionExplanations": {
       "hi": [
-        "सही: केंद्रक DNA रखता है और जीन-अभिव्यक्ति के माध्यम से गतिविधियों के नियमन में भूमिका निभाता है।",
         "गलत: रिक्तिका भंडारण और कोशिका में जल-संतुलन से जुड़ी होती है।",
         "गलत: गॉल्जी उपकरण पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है।",
-        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
+        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
+        "सही: केंद्रक DNA रखता है और जीन-अभिव्यक्ति के माध्यम से गतिविधियों के नियमन में भूमिका निभाता है।"
       ]
     }
   },
@@ -2025,29 +2025,29 @@
     },
     "options": {
       "hi": [
-        "गॉल्जी उपकरण",
         "माइटोकॉन्ड्रिया",
         "रिक्तिका",
-        "राइबोसोम"
+        "राइबोसोम",
+        "गॉल्जी उपकरण"
       ],
       "en": [
-        "Golgi apparatus",
         "Mitochondria",
         "Vacuole",
-        "Ribosome"
+        "Ribosome",
+        "Golgi apparatus"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ होती हैं और ATP बनता है।",
       "en": "Mitochondria play a major role in energy production."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।",
         "सही: माइटोकॉन्ड्रिया कोशिकीय श्वसन और ATP उत्पादन में प्रमुख है।",
         "गलत: रिक्तिका मुख्यतः भंडारण और तुर्गता से जुड़ी है।",
-        "गलत: राइबोसोम प्रोटीन बनाते हैं, ATP उत्पादन का मुख्य स्थल नहीं हैं।"
+        "गलत: राइबोसोम प्रोटीन बनाते हैं, ATP उत्पादन का मुख्य स्थल नहीं हैं।",
+        "गलत: गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।"
       ]
     }
   },
@@ -2133,29 +2133,29 @@
     },
     "options": {
       "hi": [
+        "गॉल्जी उपकरण",
         "केंद्रक",
         "राइबोसोम",
-        "कोशिका भित्ति",
-        "गॉल्जी उपकरण"
+        "कोशिका भित्ति"
       ],
       "en": [
+        "Golgi apparatus",
         "Nucleus",
         "Ribosome",
-        "Cell wall",
-        "Golgi apparatus"
+        "Cell wall"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "पादप कोशिका की कोशिका भित्ति मुख्यतः सेल्यूलोज से बनी होती है और उसे सहारा व कठोरता देती है।",
       "en": "The cell wall gives a plant cell rigidity and shape."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
         "गलत: केंद्रक आनुवंशिक पदार्थ रखता है।",
         "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
-        "सही: कोशिका भित्ति पादप कोशिका को सहारा और आकार देती है।",
-        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।"
+        "सही: कोशिका भित्ति पादप कोशिका को सहारा और आकार देती है।"
       ]
     }
   },
@@ -2169,29 +2169,29 @@
     },
     "options": {
       "hi": [
+        "अंतर्द्रव्यी जालिका",
         "कोशिका भित्ति",
         "लाइसोसोम",
-        "हरितलवक",
-        "अंतर्द्रव्यी जालिका"
+        "हरितलवक"
       ],
       "en": [
+        "Endoplasmic reticulum",
         "Cell wall",
         "Lysosome",
-        "Chloroplast",
-        "Endoplasmic reticulum"
+        "Chloroplast"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
       "hi": "अंतर्द्रव्यी जालिका (ER) का खुरदरा भाग राइबोसोम के साथ प्रोटीन निर्माण में और चिकना भाग लिपिड निर्माण में मदद करता है; यह आंतरिक परिवहन में भी भूमिका निभाती है।",
       "en": "The ER helps transport materials within the cell."
     },
     "optionExplanations": {
       "hi": [
+        "सही: ER प्रोटीन/लिपिड निर्माण की प्रक्रियाओं और आंतरिक परिवहन में भाग लेती है।",
         "गलत: कोशिका भित्ति सहारा और सुरक्षा देती है।",
         "गलत: लाइसोसोम पाचक एंजाइमों से जुड़ा है।",
-        "गलत: हरितलवक प्रकाश संश्लेषण करता है।",
-        "सही: ER प्रोटीन/लिपिड निर्माण की प्रक्रियाओं और आंतरिक परिवहन में भाग लेती है।"
+        "गलत: हरितलवक प्रकाश संश्लेषण करता है।"
       ]
     }
   },
@@ -2205,29 +2205,29 @@
     },
     "options": {
       "hi": [
-        "केंद्रक",
         "राइबोसोम",
         "गॉल्जी उपकरण",
-        "माइटोकॉन्ड्रिया"
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक"
       ],
       "en": [
-        "Nucleus",
         "Ribosome",
         "Golgi apparatus",
-        "Mitochondria"
+        "Mitochondria",
+        "Nucleus"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "hi": "गॉल्जी उपकरण पदार्थों को संशोधित करता है, उन्हें छाँटता है और उचित स्थान तक पहुँचाने के लिए पैकेज करता है।",
       "en": "The Golgi apparatus participates in modification and packaging."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: केंद्रक DNA रखता है और कोशिका गतिविधियों के नियमन में भाग लेता है।",
         "गलत: राइबोसोम प्रोटीन का निर्माण करते हैं।",
         "सही: गॉल्जी उपकरण संशोधन, छँटाई और पैकेजिंग करता है।",
-        "गलत: माइटोकॉन्ड्रिया कोशिकीय श्वसन और ATP उत्पादन से जुड़ा है।"
+        "गलत: माइटोकॉन्ड्रिया कोशिकीय श्वसन और ATP उत्पादन से जुड़ा है।",
+        "गलत: केंद्रक DNA रखता है और कोशिका गतिविधियों के नियमन में भाग लेता है।"
       ]
     }
   },
@@ -2241,29 +2241,29 @@
     },
     "options": {
       "hi": [
+        "राइबोसोम",
         "माइटोकॉन्ड्रिया",
         "हरितलवक",
-        "लाइसोसोम",
-        "राइबोसोम"
+        "लाइसोसोम"
       ],
       "en": [
+        "Ribosome",
         "Mitochondria",
         "Chloroplast",
-        "Lysosome",
-        "Ribosome"
+        "Lysosome"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "हरितलवक में क्लोरोफिल प्रकाश ऊर्जा को ग्रहण करता है और प्रकाश संश्लेषण में मदद करता है।",
-      "en": "Chloroplasts are associated with photosynthesis."
+      "en": "For “Which organelle or structure is associated with this function? (8),” “Chloroplast” matches the function of the relevant biological structure or process. “Ribosome and Mitochondria” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
         "गलत: माइटोकॉन्ड्रिया कोशिकीय श्वसन में ATP बनाता है।",
         "सही: हरितलवक प्रकाश संश्लेषण का प्रमुख कोशिकांग है।",
-        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है।",
-        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
+        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है।"
       ]
     }
   },
@@ -2277,29 +2277,29 @@
     },
     "options": {
       "hi": [
+        "प्रकाश संश्लेषण करना",
         "DNA को केंद्रक में रखना",
         "प्रोटीन बनाना",
-        "जल और घुले पदार्थों का भंडारण तथा तुर्गता बनाए रखना",
-        "प्रकाश संश्लेषण करना"
+        "जल और घुले पदार्थों का भंडारण तथा तुर्गता बनाए रखना"
       ],
       "en": [
+        "Golgi apparatus",
         "Nucleus",
         "Vacuole",
-        "Ribosome",
-        "Golgi apparatus"
+        "Ribosome"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "बड़ी केंद्रीय रिक्तिका जल और घुले पदार्थों का भंडारण करती है और कोशिका की तुर्गता बनाए रखने में मदद करती है।",
-      "en": "Vacuoles help store water and other substances."
+      "en": "For “Which organelle or structure is associated with this function? (9),” “Ribosome” matches the function of the relevant biological structure or process. “Golgi apparatus and Nucleus” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।",
         "गलत: DNA मुख्यतः केंद्रक में होता है।",
         "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
-        "सही: रिक्तिका भंडारण और तुर्गता में महत्वपूर्ण है।",
-        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।"
+        "सही: रिक्तिका भंडारण और तुर्गता में महत्वपूर्ण है।"
       ]
     }
   },
@@ -2349,29 +2349,29 @@
     },
     "options": {
       "hi": [
-        "गॉल्जी उपकरण",
-        "रिक्तिका",
         "राइबोसोम",
-        "केंद्रक"
+        "केंद्रक",
+        "गॉल्जी उपकरण",
+        "रिक्तिका"
       ],
       "en": [
-        "Golgi apparatus",
-        "Vacuole",
         "Ribosome",
-        "Nucleus"
+        "Nucleus",
+        "Golgi apparatus",
+        "Vacuole"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "hi": "यूकैरियोटिक कोशिका के केंद्रक में अधिकांश DNA होता है; जीनों की गतिविधि कोशिका के कार्यों को प्रभावित करती है।",
       "en": "The nucleus contains genetic material and controls cell activities."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: गॉल्जी उपकरण संशोधन और पैकेजिंग करता है।",
-        "गलत: रिक्तिका भंडारण और जल-संतुलन से जुड़ी है।",
         "गलत: राइबोसोम प्रोटीन बनाते हैं।",
-        "सही: केंद्रक में अधिकांश DNA होता है और यह नियमन में महत्वपूर्ण है।"
+        "सही: केंद्रक में अधिकांश DNA होता है और यह नियमन में महत्वपूर्ण है।",
+        "गलत: गॉल्जी उपकरण संशोधन और पैकेजिंग करता है।",
+        "गलत: रिक्तिका भंडारण और जल-संतुलन से जुड़ी है।"
       ]
     }
   },
@@ -2421,29 +2421,29 @@
     },
     "options": {
       "hi": [
-        "वे केवल पादप कोशिकाओं में होते हैं",
-        "वे प्रोटीन संश्लेषण करते हैं",
         "वे DNA को केंद्रक में बंद करते हैं",
-        "वे कोशिका झिल्ली बनाकर पदार्थों का आवागमन नियंत्रित करते हैं"
+        "वे कोशिका झिल्ली बनाकर पदार्थों का आवागमन नियंत्रित करते हैं",
+        "वे केवल पादप कोशिकाओं में होते हैं",
+        "वे प्रोटीन संश्लेषण करते हैं"
       ],
       "en": [
-        "Golgi apparatus",
-        "Ribosome",
         "Chloroplast",
-        "Mitochondria"
+        "Mitochondria",
+        "Golgi apparatus",
+        "Ribosome"
       ]
     },
-    "correct": 1,
+    "correct": 3,
     "explanation": {
       "hi": "राइबोसोम प्रोटीन संश्लेषण करते हैं और प्रोकैरियोटिक तथा यूकैरियोटिक दोनों प्रकार की कोशिकाओं में पाए जाते हैं।",
       "en": "Ribosomes are the main site of protein synthesis."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: राइबोसोम पादप और जंतु कोशिकाओं सहित प्रोकैरियोट में भी पाए जाते हैं।",
-        "सही: राइबोसोम प्रोटीन बनाते हैं।",
         "गलत: DNA को केंद्रकीय झिल्ली केंद्रक में घेरती है।",
-        "गलत: पदार्थों का चयनात्मक आवागमन कोशिका झिल्ली नियंत्रित करती है।"
+        "गलत: पदार्थों का चयनात्मक आवागमन कोशिका झिल्ली नियंत्रित करती है।",
+        "गलत: राइबोसोम पादप और जंतु कोशिकाओं सहित प्रोकैरियोट में भी पाए जाते हैं।",
+        "सही: राइबोसोम प्रोटीन बनाते हैं।"
       ]
     }
   },
@@ -2457,29 +2457,29 @@
     },
     "options": {
       "hi": [
-        "वह किसी भी पदार्थ को बिना नियंत्रण आने देती है",
-        "वह केवल DNA को गुजरने देती है",
         "वह पदार्थों के प्रवेश और निकास को चुनिंदा रूप से नियंत्रित करती है",
-        "वह कोशिका को हमेशा कठोर बनाती है"
+        "वह कोशिका को हमेशा कठोर बनाती है",
+        "वह किसी भी पदार्थ को बिना नियंत्रण आने देती है",
+        "वह केवल DNA को गुजरने देती है"
       ],
       "en": [
-        "Nucleus",
-        "Chloroplast",
         "Cell membrane",
-        "Cell wall"
+        "Cell wall",
+        "Nucleus",
+        "Chloroplast"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "hi": "चयनात्मक पारगम्यता का अर्थ है कि झिल्ली कुछ पदार्थों को गुजरने देती है और कुछ के आवागमन को सीमित या नियंत्रित करती है।",
       "en": "The cell membrane is selectively permeable and regulates movement of substances."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: झिल्ली का आवागमन पूरी तरह अनियंत्रित नहीं होता।",
-        "गलत: झिल्ली केवल DNA के लिए नहीं होती; कई प्रकार के पदार्थों का आवागमन नियंत्रित करती है।",
         "सही: झिल्ली पदार्थों के प्रवेश और निकास को चुनिंदा रूप से नियंत्रित करती है।",
-        "गलत: कठोरता मुख्यतः पादप कोशिका की कोशिका भित्ति से जुड़ी है।"
+        "गलत: कठोरता मुख्यतः पादप कोशिका की कोशिका भित्ति से जुड़ी है।",
+        "गलत: झिल्ली का आवागमन पूरी तरह अनियंत्रित नहीं होता।",
+        "गलत: झिल्ली केवल DNA के लिए नहीं होती; कई प्रकार के पदार्थों का आवागमन नियंत्रित करती है।"
       ]
     }
   },
@@ -2529,29 +2529,29 @@
     },
     "options": {
       "hi": [
-        "यह कोशिका के अंदर झिल्लीदार नलिकाओं/थैलियों का जाल बनाती है",
-        "यह केवल बाहरी कठोर आवरण है",
         "यह आनुवंशिक पदार्थ का पूरा भंडार है",
-        "यह केवल प्रकाश ऊर्जा ग्रहण करती है"
+        "यह केवल प्रकाश ऊर्जा ग्रहण करती है",
+        "यह कोशिका के अंदर झिल्लीदार नलिकाओं/थैलियों का जाल बनाती है",
+        "यह केवल बाहरी कठोर आवरण है"
       ],
       "en": [
-        "Cell wall",
-        "Lysosome",
         "Endoplasmic reticulum",
-        "Chloroplast"
+        "Chloroplast",
+        "Cell wall",
+        "Lysosome"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "ER झिल्लियों का जाल है जो कोशिका के भीतर पदार्थों के संश्लेषण और परिवहन में मदद करता है।",
       "en": "The ER helps transport materials within the cell."
     },
     "optionExplanations": {
       "hi": [
-        "सही: ER का झिल्लीदार जाल आंतरिक परिवहन और संश्लेषण में सहायता करता है।",
-        "गलत: बाहरी कठोर आवरण कोशिका भित्ति है, ER नहीं।",
         "गलत: अधिकांश DNA केंद्रक में होता है।",
-        "गलत: प्रकाश ऊर्जा हरितलवक में क्लोरोफिल ग्रहण करता है।"
+        "गलत: प्रकाश ऊर्जा हरितलवक में क्लोरोफिल ग्रहण करता है।",
+        "सही: ER का झिल्लीदार जाल आंतरिक परिवहन और संश्लेषण में सहायता करता है।",
+        "गलत: बाहरी कठोर आवरण कोशिका भित्ति है, ER नहीं।"
       ]
     }
   },
@@ -2565,29 +2565,29 @@
     },
     "options": {
       "hi": [
+        "यह प्रोटीन संश्लेषण का एकमात्र स्थल है",
         "यह कोशिका में DNA का मुख्य भंडार है",
         "यह ATP का मुख्य स्रोत है",
-        "यह पदार्थों को संशोधित, छाँट और पैकेज करता है",
-        "यह प्रोटीन संश्लेषण का एकमात्र स्थल है"
+        "यह पदार्थों को संशोधित, छाँट और पैकेज करता है"
       ],
       "en": [
+        "Mitochondria",
         "Golgi apparatus",
         "Ribosome",
-        "Nucleus",
-        "Mitochondria"
+        "Nucleus"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "गॉल्जी उपकरण प्रोटीन और लिपिड जैसे पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है।",
       "en": "The Golgi apparatus participates in modification and packaging."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
         "गलत: DNA का मुख्य भंडार यूकैरियोटिक कोशिका में केंद्रक है।",
         "गलत: ATP उत्पादन में माइटोकॉन्ड्रिया प्रमुख है।",
-        "सही: गॉल्जी उपकरण पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है।",
-        "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।"
+        "सही: गॉल्जी उपकरण पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है।"
       ]
     }
   },
@@ -2601,29 +2601,29 @@
     },
     "options": {
       "hi": [
-        "दोनों केवल प्रोटीन बनाते हैं",
         "हरितलवक प्रकाश संश्लेषण और माइटोकॉन्ड्रिया कोशिकीय श्वसन से जुड़ा है",
         "माइटोकॉन्ड्रिया केवल पादप कोशिकाओं में होता है",
-        "हरितलवक जंतु कोशिका में सामान्यतः पाया जाता है"
+        "हरितलवक जंतु कोशिका में सामान्यतः पाया जाता है",
+        "दोनों केवल प्रोटीन बनाते हैं"
       ],
       "en": [
-        "Ribosome",
         "Chloroplast",
         "Mitochondria",
-        "Lysosome"
+        "Lysosome",
+        "Ribosome"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "हरितलवक प्रकाश संश्लेषण और माइटोकॉन्ड्रिया कोशिकीय श्वसन/ATP उत्पादन में प्रमुख भूमिका निभाता है।",
-      "en": "Chloroplasts are associated with photosynthesis."
+      "en": "For “Which organelle has this main function? (18),” “Chloroplast” matches the function of the relevant biological structure or process. “Mitochondria and Lysosome” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: दोनों के प्रमुख कार्य प्रोटीन संश्लेषण नहीं हैं।",
         "सही: हरितलवक प्रकाश संश्लेषण, माइटोकॉन्ड्रिया कोशिकीय श्वसन से जुड़ा है।",
         "गलत: माइटोकॉन्ड्रिया पादप और जंतु दोनों यूकैरियोटिक कोशिकाओं में पाया जाता है।",
-        "गलत: हरितलवक जंतु कोशिकाओं में सामान्यतः नहीं पाया जाता।"
+        "गलत: हरितलवक जंतु कोशिकाओं में सामान्यतः नहीं पाया जाता।",
+        "गलत: दोनों के प्रमुख कार्य प्रोटीन संश्लेषण नहीं हैं।"
       ]
     }
   },
@@ -2637,29 +2637,29 @@
     },
     "options": {
       "hi": [
+        "वे प्रोटीन बनाने के एकमात्र स्थल हैं",
         "उनमें पाचक एंजाइम होते हैं",
         "वे प्रकाश संश्लेषण करते हैं",
-        "वे कोशिका को बाहरी आकार देते हैं",
-        "वे प्रोटीन बनाने के एकमात्र स्थल हैं"
+        "वे कोशिका को बाहरी आकार देते हैं"
       ],
       "en": [
+        "Ribosome",
         "Golgi apparatus",
         "Vacuole",
-        "Nucleus",
-        "Ribosome"
+        "Nucleus"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "लाइसोसोम में पाचक एंजाइम होते हैं जो कुछ पदार्थों और पुराने कोशिकीय घटकों को तोड़ने में मदद करते हैं।",
-      "en": "Vacuoles help store water and other substances."
+      "en": "For “Which organelle has this main function? (19),” “Golgi apparatus” matches the function of the relevant biological structure or process. “Ribosome and Vacuole” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
         "सही: लाइसोसोम पाचक एंजाइमों से जुड़े हैं।",
         "गलत: प्रकाश संश्लेषण हरितलवक में होता है।",
-        "गलत: कोशिका को आकार और सहारा कोशिका भित्ति जैसी संरचनाएँ देती हैं।",
-        "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।"
+        "गलत: कोशिका को आकार और सहारा कोशिका भित्ति जैसी संरचनाएँ देती हैं।"
       ]
     }
   },
@@ -2673,29 +2673,29 @@
     },
     "options": {
       "hi": [
+        "वह कोशिका झिल्ली की जगह लेती है",
         "वह DNA का स्थान बन जाती है",
         "वह कोशिका की तुर्गता बनाए रखने और पदार्थों के भंडारण में मदद करती है",
-        "वह सभी राइबोसोम का निर्माण करती है",
-        "वह कोशिका झिल्ली की जगह लेती है"
+        "वह सभी राइबोसोम का निर्माण करती है"
       ],
       "en": [
+        "Ribosome",
         "Nucleus",
         "Chloroplast",
-        "Lysosome",
-        "Ribosome"
+        "Lysosome"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "केंद्रीय रिक्तिका में जल और घुले पदार्थ जमा हो सकते हैं; इससे कोशिका की तुर्गता बनाए रखने में मदद मिलती है।",
       "en": "Lysosomes contain digestive enzymes and help digest waste materials."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: रिक्तिका कोशिका झिल्ली का विकल्प नहीं है।",
         "गलत: DNA मुख्यतः केंद्रक में होता है।",
         "सही: रिक्तिका भंडारण और तुर्गता में मदद करती है।",
-        "गलत: राइबोसोम का निर्माण रिक्तिका का कार्य नहीं है।",
-        "गलत: रिक्तिका कोशिका झिल्ली का विकल्प नहीं है।"
+        "गलत: राइबोसोम का निर्माण रिक्तिका का कार्य नहीं है।"
       ]
     }
   },
@@ -2709,29 +2709,29 @@
     },
     "options": {
       "hi": [
-        "केंद्रक",
         "रिक्तिका",
         "गॉल्जी उपकरण",
-        "राइबोसोम"
+        "राइबोसोम",
+        "केंद्रक"
       ],
       "en": [
-        "Golgi apparatus",
         "Ribosome",
         "Vacuole",
-        "Nucleus"
+        "Nucleus",
+        "Golgi apparatus"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "यूकैरियोटिक कोशिका में अधिकांश DNA झिल्ली-बद्ध केंद्रक में रहता है।",
       "en": "The nucleus contains genetic material and controls cell activities."
     },
     "optionExplanations": {
       "hi": [
-        "सही: केंद्रक DNA को रखता है और कोशिकीय गतिविधियों के नियमन में महत्वपूर्ण है।",
         "गलत: रिक्तिका मुख्यतः भंडारण और जल-संतुलन में सहायता करती है।",
         "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
-        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
+        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
+        "सही: केंद्रक DNA को रखता है और कोशिकीय गतिविधियों के नियमन में महत्वपूर्ण है।"
       ]
     }
   },
@@ -2745,29 +2745,29 @@
     },
     "options": {
       "hi": [
-        "गॉल्जी उपकरण",
         "माइटोकॉन्ड्रिया",
         "रिक्तिका",
-        "राइबोसोम"
+        "राइबोसोम",
+        "गॉल्जी उपकरण"
       ],
       "en": [
-        "Golgi apparatus",
         "Mitochondria",
         "Vacuole",
-        "Ribosome"
+        "Ribosome",
+        "Golgi apparatus"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया कोशिकीय श्वसन में ATP उत्पादन के लिए महत्वपूर्ण है।",
       "en": "Mitochondria play a major role in energy production."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
         "सही: माइटोकॉन्ड्रिया कोशिका को उपयोगी ऊर्जा उपलब्ध कराने में प्रमुख भूमिका निभाता है।",
         "गलत: रिक्तिका मुख्यतः भंडारण और तुर्गता से जुड़ी है।",
-        "गलत: राइबोसोम प्रोटीन बनाते हैं।"
+        "गलत: राइबोसोम प्रोटीन बनाते हैं।",
+        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।"
       ]
     }
   },
@@ -2889,29 +2889,29 @@
     },
     "options": {
       "hi": [
-        "कोशिका भित्ति",
-        "लाइसोसोम",
         "अंतर्द्रव्यी जालिका",
-        "हरितलवक"
+        "हरितलवक",
+        "कोशिका भित्ति",
+        "लाइसोसोम"
       ],
       "en": [
-        "Endoplasmic reticulum",
-        "Chloroplast",
         "Lysosome",
-        "Cell wall"
+        "Cell wall",
+        "Endoplasmic reticulum",
+        "Chloroplast"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
       "hi": "खुरदरी अंतर्द्रव्यी जालिका की सतह पर राइबोसोम लगे होते हैं; यह प्रोटीन निर्माण और परिवहन में सहायता करती है।",
       "en": "The ER helps transport materials within the cell."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: कोशिका भित्ति बाहरी सहारा देती है।",
-        "गलत: लाइसोसोम पाचक एंजाइमों से जुड़ा है।",
         "सही: खुरदरी ER की सतह पर राइबोसोम पाए जाते हैं।",
-        "गलत: हरितलवक प्रकाश संश्लेषण करता है।"
+        "गलत: हरितलवक प्रकाश संश्लेषण करता है।",
+        "गलत: कोशिका भित्ति बाहरी सहारा देती है।",
+        "गलत: लाइसोसोम पाचक एंजाइमों से जुड़ा है।"
       ]
     }
   },
@@ -2925,29 +2925,29 @@
     },
     "options": {
       "hi": [
-        "केंद्रक",
         "राइबोसोम",
         "गॉल्जी उपकरण",
-        "माइटोकॉन्ड्रिया"
+        "माइटोकॉन्ड्रिया",
+        "केंद्रक"
       ],
       "en": [
-        "Mitochondria",
         "Nucleus",
         "Ribosome",
-        "Golgi apparatus"
+        "Golgi apparatus",
+        "Mitochondria"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
       "hi": "गॉल्जी उपकरण पदार्थों को संशोधित, छाँट और पैकेज करता है, ताकि वे उचित स्थान तक पहुँचें।",
       "en": "The Golgi apparatus participates in modification and packaging."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: केंद्रक DNA रखता है और जीन गतिविधि को नियंत्रित करता है।",
         "गलत: राइबोसोम प्रोटीन बनाते हैं, उनकी अंतिम पैकेजिंग नहीं करते।",
         "सही: गॉल्जी उपकरण छँटाई और पैकेजिंग करता है।",
-        "गलत: माइटोकॉन्ड्रिया ATP उत्पादन से जुड़ा है।"
+        "गलत: माइटोकॉन्ड्रिया ATP उत्पादन से जुड़ा है।",
+        "गलत: केंद्रक DNA रखता है और जीन गतिविधि को नियंत्रित करता है।"
       ]
     }
   },
@@ -2961,29 +2961,29 @@
     },
     "options": {
       "hi": [
+        "राइबोसोम",
         "माइटोकॉन्ड्रिया",
         "हरितलवक",
-        "लाइसोसोम",
-        "राइबोसोम"
+        "लाइसोसोम"
       ],
       "en": [
+        "Ribosome",
         "Mitochondria",
         "Lysosome",
-        "Chloroplast",
-        "Ribosome"
+        "Chloroplast"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "हरितलवक में क्लोरोफिल होता है और वहीं प्रकाश संश्लेषण की प्रमुख प्रक्रियाएँ होती हैं।",
-      "en": "Chloroplasts are associated with photosynthesis."
+      "en": "For “If this function must be identified, which organelle is correct? (28),” “Lysosome” matches the function of the relevant biological structure or process. “Ribosome and Mitochondria” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
         "गलत: माइटोकॉन्ड्रिया कोशिकीय श्वसन से जुड़ा है।",
         "सही: हरितलवक प्रकाश संश्लेषण का प्रमुख कोशिकांग है।",
-        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है।",
-        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
+        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है।"
       ]
     }
   },
@@ -2997,29 +2997,29 @@
     },
     "options": {
       "hi": [
+        "प्रकाश को अवशोषित करना",
         "DNA की प्रतिलिपि",
         "प्रोटीन संश्लेषण",
-        "तुर्गता और भंडारण",
-        "प्रकाश को अवशोषित करना"
+        "तुर्गता और भंडारण"
       ],
       "en": [
+        "Golgi apparatus",
         "Nucleus",
         "Vacuole",
-        "Ribosome",
-        "Golgi apparatus"
+        "Ribosome"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "रिक्तिका में जल और घुले पदार्थ होते हैं; यह तुर्गता बनाए रखने और भंडारण में मदद करती है।",
-      "en": "Vacuoles help store water and other substances."
+      "en": "For “If this function must be identified, which organelle is correct? (29),” “Ribosome” matches the function of the relevant biological structure or process. “Golgi apparatus and Nucleus” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: प्रकाश अवशोषण हरितलवक में क्लोरोफिल करता है।",
         "गलत: DNA की प्रतिलिपि कोशिका विभाजन से पहले होती है, रिक्तिका का काम नहीं।",
         "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
-        "सही: केंद्रीय रिक्तिका भंडारण और तुर्गता में सहायता करती है।",
-        "गलत: प्रकाश अवशोषण हरितलवक में क्लोरोफिल करता है।"
+        "सही: केंद्रीय रिक्तिका भंडारण और तुर्गता में सहायता करती है।"
       ]
     }
   },
@@ -3069,29 +3069,29 @@
     },
     "options": {
       "hi": [
-        "गॉल्जी उपकरण",
-        "रिक्तिका",
         "राइबोसोम",
-        "केंद्रक"
+        "केंद्रक",
+        "गॉल्जी उपकरण",
+        "रिक्तिका"
       ],
       "en": [
-        "Ribosome",
-        "Golgi apparatus",
         "Vacuole",
-        "Nucleus"
+        "Nucleus",
+        "Ribosome",
+        "Golgi apparatus"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
       "hi": "केंद्रक में DNA होता है; जीनों की गतिविधि कोशिका के कार्यों को प्रभावित करती है।",
       "en": "The nucleus contains genetic material and controls cell activities."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
-        "गलत: रिक्तिका भंडारण और तुर्गता से जुड़ी है।",
         "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
-        "सही: केंद्रक आनुवंशिक पदार्थ रखता है और कोशिकीय नियमन में महत्वपूर्ण है।"
+        "सही: केंद्रक आनुवंशिक पदार्थ रखता है और कोशिकीय नियमन में महत्वपूर्ण है।",
+        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
+        "गलत: रिक्तिका भंडारण और तुर्गता से जुड़ी है।"
       ]
     }
   },
@@ -3105,29 +3105,29 @@
     },
     "options": {
       "hi": [
+        "रिक्तिका",
         "कोशिका भित्ति",
         "माइटोकॉन्ड्रिया",
-        "गॉल्जी उपकरण",
-        "रिक्तिका"
+        "गॉल्जी उपकरण"
       ],
       "en": [
+        "Vacuole",
         "Golgi apparatus",
         "Ribosome",
-        "Mitochondria",
-        "Vacuole"
+        "Mitochondria"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ ATP बनाने में मदद करती हैं।",
       "en": "Mitochondria play a major role in energy production."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: रिक्तिका मुख्यतः भंडारण और तुर्गता से जुड़ी है।",
         "गलत: कोशिका भित्ति सहारा और सुरक्षा देती है।",
         "सही: माइटोकॉन्ड्रिया ATP उत्पादन में प्रमुख है।",
-        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
-        "गलत: रिक्तिका मुख्यतः भंडारण और तुर्गता से जुड़ी है।"
+        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।"
       ]
     }
   },
@@ -3141,29 +3141,29 @@
     },
     "options": {
       "hi": [
+        "कोशिका भित्ति",
         "कोशिका झिल्ली",
         "केंद्रक",
-        "राइबोसोम",
-        "कोशिका भित्ति"
+        "राइबोसोम"
       ],
       "en": [
+        "Mitochondria",
         "Ribosome",
         "Chloroplast",
-        "Golgi apparatus",
-        "Mitochondria"
+        "Golgi apparatus"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "राइबोसोम कोशिका में छोटे कणों के रूप में पाए जाते हैं और प्रोटीन संश्लेषण करते हैं।",
       "en": "Ribosomes are the main site of protein synthesis."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: कोशिका भित्ति बाहरी सहारा देने वाली परत है।",
         "गलत: कोशिका झिल्ली कोशिका की सीमा और पदार्थों के आवागमन का नियंत्रण करती है।",
         "गलत: केंद्रक DNA रखता है।",
-        "सही: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
-        "गलत: कोशिका भित्ति बाहरी सहारा देने वाली परत है।"
+        "सही: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
       ]
     }
   },
@@ -3177,29 +3177,29 @@
     },
     "options": {
       "hi": [
-        "पूर्णतः अपारगम्य",
         "चयनात्मक पारगम्य",
         "केवल कठोर",
-        "आनुवंशिक पदार्थ"
+        "आनुवंशिक पदार्थ",
+        "पूर्णतः अपारगम्य"
       ],
       "en": [
-        "Cell wall",
         "Cell membrane",
         "Nucleus",
-        "Chloroplast"
+        "Chloroplast",
+        "Cell wall"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
       "hi": "चयनात्मक पारगम्य झिल्ली कुछ पदार्थों के आवागमन को अनुमति देती है और अन्य को सीमित या नियंत्रित करती है।",
       "en": "The cell membrane is selectively permeable and regulates movement of substances."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: झिल्ली पूर्णतः अपारगम्य नहीं होती।",
         "सही: चयनात्मक पारगम्यता पदार्थों के आवागमन के नियंत्रण को दर्शाती है।",
         "गलत: झिल्ली का मुख्य गुण केवल कठोर होना नहीं है।",
-        "गलत: झिल्ली आनुवंशिक पदार्थ नहीं है।"
+        "गलत: झिल्ली आनुवंशिक पदार्थ नहीं है।",
+        "गलत: झिल्ली पूर्णतः अपारगम्य नहीं होती।"
       ]
     }
   },
@@ -3213,29 +3213,29 @@
     },
     "options": {
       "hi": [
+        "यह कोशिका के अधिकांश DNA को रखती है",
         "यह पादप कोशिका को सहारा देती है और जंतु कोशिका में नहीं होती",
         "यह प्रोटीन संश्लेषण करती है",
-        "यह सभी जंतु कोशिकाओं में पाई जाती है",
-        "यह कोशिका के अधिकांश DNA को रखती है"
+        "यह सभी जंतु कोशिकाओं में पाई जाती है"
       ],
       "en": [
+        "Ribosome",
         "Cell wall",
         "Golgi apparatus",
-        "Nucleus",
-        "Ribosome"
+        "Nucleus"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "पादप कोशिका की सेल्यूलोज-समृद्ध भित्ति सहारा और सुरक्षा देती है; जंतु कोशिका में कोशिका भित्ति नहीं होती।",
       "en": "The cell wall gives a plant cell rigidity and shape."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: DNA का अधिकांश भाग यूकैरियोटिक कोशिका के केंद्रक में होता है।",
         "सही: कोशिका भित्ति पादप कोशिका को सहारा देती है और जंतु कोशिका में अनुपस्थित होती है।",
         "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
-        "गलत: जंतु कोशिकाओं में कोशिका भित्ति नहीं होती।",
-        "गलत: DNA का अधिकांश भाग यूकैरियोटिक कोशिका के केंद्रक में होता है।"
+        "गलत: जंतु कोशिकाओं में कोशिका भित्ति नहीं होती।"
       ]
     }
   },
@@ -3249,29 +3249,29 @@
     },
     "options": {
       "hi": [
+        "खुरदरी ER कोशिका भित्ति बनाती है",
         "दोनों केवल DNA को संग्रहित करती हैं",
         "खुरदरी ER प्रोटीन और चिकनी ER लिपिड निर्माण में मदद करती है",
-        "चिकनी ER प्रकाश संश्लेषण करती है",
-        "खुरदरी ER कोशिका भित्ति बनाती है"
+        "चिकनी ER प्रकाश संश्लेषण करती है"
       ],
       "en": [
+        "Lysosome",
         "Endoplasmic reticulum",
         "Chloroplast",
-        "Cell wall",
-        "Lysosome"
+        "Cell wall"
       ]
     },
-    "correct": 1,
+    "correct": 2,
     "explanation": {
       "hi": "खुरदरी ER पर राइबोसोम होते हैं और यह प्रोटीन निर्माण/परिवहन में सहायता करती है; चिकनी ER लिपिड निर्माण में भूमिका निभाती है।",
       "en": "The ER helps transport materials within the cell."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: कोशिका भित्ति निर्माण ER का मुख्य वर्णन नहीं है।",
         "गलत: ER का मुख्य कार्य DNA संग्रहित करना नहीं है।",
         "सही: खुरदरी ER प्रोटीन और चिकनी ER लिपिड निर्माण में मदद करती है।",
-        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।",
-        "गलत: कोशिका भित्ति निर्माण ER का मुख्य वर्णन नहीं है।"
+        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।"
       ]
     }
   },
@@ -3285,29 +3285,29 @@
     },
     "options": {
       "hi": [
+        "प्रकाश संश्लेषण",
         "कोशिका का अधिकांश DNA रखना",
         "ATP का प्रमुख उत्पादन",
-        "प्रोटीनों का संशोधन और पैकेजिंग",
-        "प्रकाश संश्लेषण"
+        "प्रोटीनों का संशोधन और पैकेजिंग"
       ],
       "en": [
+        "Golgi apparatus",
         "Ribosome",
         "Mitochondria",
-        "Nucleus",
-        "Golgi apparatus"
+        "Nucleus"
       ]
     },
-    "correct": 2,
+    "correct": 3,
     "explanation": {
       "hi": "गॉल्जी उपकरण कई प्रोटीनों और लिपिडों का संशोधन, छँटाई और पैकेजिंग करता है।",
       "en": "The Golgi apparatus participates in modification and packaging."
     },
     "optionExplanations": {
       "hi": [
+        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।",
         "गलत: DNA मुख्यतः केंद्रक में होता है।",
         "गलत: ATP उत्पादन में माइटोकॉन्ड्रिया प्रमुख है।",
-        "सही: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
-        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।"
+        "सही: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।"
       ]
     }
   },
@@ -3336,7 +3336,7 @@
     "correct": 0,
     "explanation": {
       "hi": "हरितलवक प्रकाश संश्लेषण करता है; माइटोकॉन्ड्रिया पादप और जंतु दोनों यूकैरियोटिक कोशिकाओं में कोशिकीय श्वसन में प्रमुख है।",
-      "en": "Chloroplasts are associated with photosynthesis."
+      "en": "For “Which organelle best matches this description? (38),” “Ribosome” matches the function of the relevant biological structure or process. “Lysosome and Chloroplast” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
@@ -3372,7 +3372,7 @@
     "correct": 1,
     "explanation": {
       "hi": "लाइसोसोम के एंजाइम कई पदार्थों और पुराने कोशिकीय घटकों को तोड़ने में मदद करते हैं।",
-      "en": "Vacuoles help store water and other substances."
+      "en": "For “Which organelle best matches this description? (39),” “Vacuole” matches the function of the relevant biological structure or process. “Ribosome and Nucleus” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
@@ -3429,29 +3429,29 @@
     },
     "options": {
       "hi": [
-        "उपकला ऊतक",
         "संयोजी ऊतक",
         "पेशीय ऊतक",
-        "तंत्रिका ऊतक"
+        "तंत्रिका ऊतक",
+        "उपकला ऊतक"
       ],
       "en": [
-        "Epithelial tissue",
         "Connective tissue",
         "Muscular tissue",
-        "Nervous tissue"
+        "Nervous tissue",
+        "Epithelial tissue"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "उपकला ऊतक शरीर की सतहों को ढकता है और सुरक्षा देता है।",
       "en": "Epithelial tissue covers body surfaces and provides protection."
     },
     "optionExplanations": {
       "hi": [
-        "सही: उपकला ऊतक शरीर की सतहों को ढकता है और सुरक्षा देता है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
         "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "सही: उपकला ऊतक शरीर की सतहों को ढकता है और सुरक्षा देता है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
       ]
     }
   },
@@ -3501,27 +3501,27 @@
     },
     "options": {
       "hi": [
+        "पाँच",
         "चार",
         "दो",
-        "तीन",
-        "पाँच"
+        "तीन"
       ],
       "en": [
+        "Five",
         "Four",
         "Two",
-        "Three",
-        "Five"
+        "Three"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "जंतु ऊतक चार प्रकार के होते हैं, उपकला, संयोजी, पेशीय और तंत्रिका।",
       "en": "Animal tissues are of four types — epithelial, connective, muscular and nervous."
     },
     "optionExplanations": {
       "hi": [
-        "सही: जंतु ऊतक चार प्रकार के होते हैं, उपकला, संयोजी, पेशीय और तंत्रिका।",
         "यह संख्या सही नहीं है: जंतु ऊतक के मान्य मुख्य प्रकार उपकला, संयोजी, पेशीय और तंत्रिका—कुल चार हैं।",
+        "सही: जंतु ऊतक चार प्रकार के होते हैं, उपकला, संयोजी, पेशीय और तंत्रिका।",
         "यह संख्या सही नहीं है: जंतु ऊतक के मान्य मुख्य प्रकार उपकला, संयोजी, पेशीय और तंत्रिका—कुल चार हैं।",
         "यह संख्या सही नहीं है: जंतु ऊतक के मान्य मुख्य प्रकार उपकला, संयोजी, पेशीय और तंत्रिका—कुल चार हैं।"
       ]
@@ -3537,29 +3537,29 @@
     },
     "options": {
       "hi": [
-        "हृदयक पेशी",
-        "रेखित पेशी",
         "अरेखित पेशी",
-        "उपकला ऊतक"
+        "उपकला ऊतक",
+        "हृदयक पेशी",
+        "रेखित पेशी"
       ],
       "en": [
-        "Cardiac muscle",
-        "Striated muscle",
         "Unstriated muscle",
-        "Epithelial tissue"
+        "Epithelial tissue",
+        "Cardiac muscle",
+        "Striated muscle"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "हृदयक पेशी एक विशेष प्रकार का पेशीय ऊतक है जो हृदय में पाया जाता है।",
       "en": "Cardiac muscle is a specialised muscular tissue found in the heart."
     },
     "optionExplanations": {
       "hi": [
-        "सही: हृदयक पेशी एक विशेष प्रकार का पेशीय ऊतक है जो हृदय में पाया जाता है। हृदयक पेशी हृदय की दीवार में पाई जाती है और अनैच्छिक रूप से लयबद्ध संकुचन करती है।",
-        "यह विकल्प सही उत्तर नहीं है: रेखित पेशी में धारियाँ दिखती हैं; कंकाल से जुड़ी रेखित पेशी सामान्यतः इच्छानुसार गति करती है।",
         "यह विकल्प सही उत्तर नहीं है: अरेखित/चिकनी पेशी आंत, आमाशय और रक्त वाहिकाओं जैसे आंतरिक अंगों की दीवारों में पाई जाती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
+        "सही: हृदयक पेशी एक विशेष प्रकार का पेशीय ऊतक है जो हृदय में पाया जाता है। हृदयक पेशी हृदय की दीवार में पाई जाती है और अनैच्छिक रूप से लयबद्ध संकुचन करती है।",
+        "यह विकल्प सही उत्तर नहीं है: रेखित पेशी में धारियाँ दिखती हैं; कंकाल से जुड़ी रेखित पेशी सामान्यतः इच्छानुसार गति करती है।"
       ]
     }
   },
@@ -3573,29 +3573,29 @@
     },
     "options": {
       "hi": [
-        "पेशीय ऊतक",
         "उपकला ऊतक",
         "संयोजी ऊतक",
-        "तंत्रिका ऊतक"
+        "तंत्रिका ऊतक",
+        "पेशीय ऊतक"
       ],
       "en": [
-        "Muscular tissue",
         "Epithelial tissue",
         "Connective tissue",
-        "Nervous tissue"
+        "Nervous tissue",
+        "Muscular tissue"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है।",
-      "en": "Muscular tissue produces movement through contraction."
+      "en": "For “Movement in the body is mainly produced by the contraction of:,” “Muscular tissue” matches the function of the relevant biological structure or process. “Epithelial tissue and Connective tissue” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
-        "सही: पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है। इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "सही: पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है। इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।"
       ]
     }
   },
@@ -3624,7 +3624,7 @@
     "correct": 0,
     "explanation": {
       "hi": "तंत्रिका ऊतक विद्युत संकेतों के माध्यम से सूचना का संचालन करता है।",
-      "en": "Nervous tissue conducts information via electrical signals."
+      "en": "For “Which tissue conducts information through electrical signals,” “Nervous tissue” matches the function of the relevant biological structure or process. “Muscular tissue and Connective tissue” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
@@ -3645,29 +3645,29 @@
     },
     "options": {
       "hi": [
+        "तंत्रिका ऊतक",
         "संयोजी ऊतक",
         "उपकला ऊतक",
-        "पेशीय ऊतक",
-        "तंत्रिका ऊतक"
+        "पेशीय ऊतक"
       ],
       "en": [
+        "Nervous tissue",
         "Connective tissue",
         "Epithelial tissue",
-        "Muscular tissue",
-        "Nervous tissue"
+        "Muscular tissue"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "अस्थि और उपास्थि संयोजी ऊतक के प्रकार हैं जो शरीर को सहारा देते हैं।",
       "en": "Bone and cartilage are types of connective tissue that support the body."
     },
     "optionExplanations": {
       "hi": [
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
         "सही: अस्थि और उपास्थि संयोजी ऊतक के प्रकार हैं जो शरीर को सहारा देते हैं। यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।"
       ]
     }
   },
@@ -3681,29 +3681,29 @@
     },
     "options": {
       "hi": [
-        "रेखित, अरेखित और हृदयक",
-        "उपकला, संयोजी और तंत्रिका",
         "सरल, जटिल और स्थायी",
-        "जाइलम, फ्लोएम और पैरेंकाइमा"
+        "जाइलम, फ्लोएम और पैरेंकाइमा",
+        "रेखित, अरेखित और हृदयक",
+        "उपकला, संयोजी और तंत्रिका"
       ],
       "en": [
-        "Striated, unstriated and cardiac",
-        "Epithelial, connective and nervous",
         "Simple, complex and permanent",
-        "Xylem, phloem and parenchyma"
+        "Xylem, phloem and parenchyma",
+        "Striated, unstriated and cardiac",
+        "Epithelial, connective and nervous"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "पेशीय ऊतक तीन प्रकार का होता है, रेखित, अरेखित तथा हृदयक।",
       "en": "Muscular tissue is of three types — striated, unstriated and cardiac."
     },
     "optionExplanations": {
       "hi": [
-        "सही: पेशीय ऊतक तीन प्रकार का होता है, रेखित, अरेखित तथा हृदयक।",
-        "उपकला, संयोजी और तंत्रिका का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
         "सरल, जटिल और स्थायी का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।"
+        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
+        "सही: पेशीय ऊतक तीन प्रकार का होता है, रेखित, अरेखित तथा हृदयक।",
+        "उपकला, संयोजी और तंत्रिका का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
       ]
     }
   },
@@ -3717,29 +3717,29 @@
     },
     "options": {
       "hi": [
-        "संयोजी ऊतक",
         "उपकला ऊतक",
         "पेशीय ऊतक",
-        "तंत्रिका ऊतक"
+        "तंत्रिका ऊतक",
+        "संयोजी ऊतक"
       ],
       "en": [
-        "Connective tissue",
         "Epithelial tissue",
         "Muscular tissue",
-        "Nervous tissue"
+        "Nervous tissue",
+        "Connective tissue"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "संयोजी ऊतक अंगों को आपस में जोड़ता और सहारा देता है।",
-      "en": "Connective tissue connects and supports the organs."
+      "en": "For “Which tissue mainly functions to connect and support the organs of the body,” “Connective tissue” matches the function of the relevant biological structure or process. “Epithelial tissue and Muscular tissue” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
-        "सही: संयोजी ऊतक अंगों को आपस में जोड़ता और सहारा देता है। यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
         "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "सही: संयोजी ऊतक अंगों को आपस में जोड़ता और सहारा देता है। यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।"
       ]
     }
   },
@@ -3789,27 +3789,27 @@
     },
     "options": {
       "hi": [
+        "केवल त्वचा में",
         "आमाशय एवं आंत जैसे आंतरिक अंगों में",
         "केवल हृदय में",
-        "केवल कंकाल में",
-        "केवल त्वचा में"
+        "केवल कंकाल में"
       ],
       "en": [
+        "Only the skin",
         "Internal organs such as the stomach and intestine",
         "Only the heart",
-        "Only the skeleton",
-        "Only the skin"
+        "Only the skeleton"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "अरेखित पेशी आंतरिक अंगों की दीवारों में पाई जाती है।",
       "en": "Unstriated muscle is found in the walls of internal organs."
     },
     "optionExplanations": {
       "hi": [
-        "सही: अरेखित पेशी आंतरिक अंगों की दीवारों में पाई जाती है।",
         "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
+        "सही: अरेखित पेशी आंतरिक अंगों की दीवारों में पाई जाती है।",
         "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
         "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।"
       ]
@@ -3825,29 +3825,29 @@
     },
     "options": {
       "hi": [
-        "विभज्योतक ऊतक",
-        "उपकला ऊतक",
         "संयोजी ऊतक",
-        "पेशीय ऊतक"
+        "पेशीय ऊतक",
+        "विभज्योतक ऊतक",
+        "उपकला ऊतक"
       ],
       "en": [
-        "Meristematic tissue",
-        "Epithelial tissue",
         "Connective tissue",
-        "Muscular tissue"
+        "Muscular tissue",
+        "Meristematic tissue",
+        "Epithelial tissue"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "विभज्योतक ऊतक एक पादप ऊतक है, जंतु ऊतक नहीं।",
       "en": "Meristematic tissue is a plant tissue, not an animal tissue."
     },
     "optionExplanations": {
       "hi": [
-        "सही: विभज्योतक ऊतक एक पादप ऊतक है, जंतु ऊतक नहीं। यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।"
+        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
+        "सही: विभज्योतक ऊतक एक पादप ऊतक है, जंतु ऊतक नहीं। यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
       ]
     }
   },
@@ -3861,29 +3861,29 @@
     },
     "options": {
       "hi": [
-        "उपकला ऊतक",
         "संयोजी ऊतक",
         "पेशीय ऊतक",
-        "तंत्रिका ऊतक"
+        "तंत्रिका ऊतक",
+        "उपकला ऊतक"
       ],
       "en": [
-        "Epithelial tissue",
         "Connective tissue",
         "Muscular tissue",
-        "Nervous tissue"
+        "Nervous tissue",
+        "Epithelial tissue"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "त्वचा की ऊपरी सतह उपकला ऊतक का उदाहरण है, जो ढककर सुरक्षा प्रदान करता है।",
       "en": "The outer layer of skin is an example of epithelial tissue, which covers and protects."
     },
     "optionExplanations": {
       "hi": [
-        "सही: त्वचा की ऊपरी सतह उपकला ऊतक का उदाहरण है, जो ढककर सुरक्षा प्रदान करता है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
         "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "सही: त्वचा की ऊपरी सतह उपकला ऊतक का उदाहरण है, जो ढककर सुरक्षा प्रदान करता है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
       ]
     }
   },
@@ -3933,29 +3933,29 @@
     },
     "options": {
       "hi": [
+        "तंत्रिका ऊतक",
         "संयोजी ऊतक",
         "उपकला ऊतक",
-        "पेशीय ऊतक",
-        "तंत्रिका ऊतक"
+        "पेशीय ऊतक"
       ],
       "en": [
+        "Nervous tissue",
         "Connective tissue",
         "Epithelial tissue",
-        "Muscular tissue",
-        "Nervous tissue"
+        "Muscular tissue"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "रक्त, अस्थि और उपास्थि सभी संयोजी ऊतक के उदाहरण हैं।",
       "en": "Blood, bone and cartilage are all examples of connective tissue."
     },
     "optionExplanations": {
       "hi": [
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
         "सही: रक्त, अस्थि और उपास्थि सभी संयोजी ऊतक के उदाहरण हैं। यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।"
       ]
     }
   },
@@ -3969,29 +3969,29 @@
     },
     "options": {
       "hi": [
-        "तंत्रिका ऊतक",
-        "केवल पेशीय ऊतक",
         "उपकला ऊतक",
-        "संयोजी ऊतक"
+        "संयोजी ऊतक",
+        "तंत्रिका ऊतक",
+        "केवल पेशीय ऊतक"
       ],
       "en": [
-        "Nervous tissue",
-        "Muscular tissue only",
         "Epithelial tissue",
-        "Connective tissue"
+        "Connective tissue",
+        "Nervous tissue",
+        "Muscular tissue only"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "तंत्रिका ऊतक, न्यूरॉन के माध्यम से, प्रतिवर्ती संकेतों के संचालन में केंद्रीय भूमिका निभाता है।",
       "en": "Nervous tissue, through neurons, plays a central role in conducting reflex signals."
     },
     "optionExplanations": {
       "hi": [
-        "सही: तंत्रिका ऊतक, न्यूरॉन के माध्यम से, प्रतिवर्ती संकेतों के संचालन में केंद्रीय भूमिका निभाता है। यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
-        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
+        "सही: तंत्रिका ऊतक, न्यूरॉन के माध्यम से, प्रतिवर्ती संकेतों के संचालन में केंद्रीय भूमिका निभाता है। यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।"
       ]
     }
   },
@@ -4005,29 +4005,29 @@
     },
     "options": {
       "hi": [
-        "हृदयक पेशी",
         "उपकला ऊतक",
         "संयोजी ऊतक",
-        "तंत्रिका ऊतक"
+        "तंत्रिका ऊतक",
+        "हृदयक पेशी"
       ],
       "en": [
-        "Cardiac muscle",
         "Epithelial tissue",
         "Connective tissue",
-        "Nervous tissue"
+        "Nervous tissue",
+        "Cardiac muscle"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "हृदयक पेशी पेशीय ऊतक के तीन प्रकारों में से एक है।",
       "en": "Cardiac muscle is one of the three types of muscular tissue."
     },
     "optionExplanations": {
       "hi": [
-        "सही: हृदयक पेशी पेशीय ऊतक के तीन प्रकारों में से एक है। हृदयक पेशी हृदय की दीवार में पाई जाती है और अनैच्छिक रूप से लयबद्ध संकुचन करती है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "सही: हृदयक पेशी पेशीय ऊतक के तीन प्रकारों में से एक है। हृदयक पेशी हृदय की दीवार में पाई जाती है और अनैच्छिक रूप से लयबद्ध संकुचन करती है।"
       ]
     }
   },
@@ -4077,29 +4077,29 @@
     },
     "options": {
       "hi": [
+        "तंत्रिका ऊतक",
         "पेशीय ऊतक",
         "संयोजी ऊतक",
-        "उपकला ऊतक",
-        "तंत्रिका ऊतक"
+        "उपकला ऊतक"
       ],
       "en": [
+        "Nervous tissue",
         "Muscular tissue",
         "Connective tissue",
-        "Epithelial tissue",
-        "Nervous tissue"
+        "Epithelial tissue"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "hi": "ये तीनों पेशीय ऊतक के उप-प्रकार हैं।",
-      "en": "These three are subtypes of muscular tissue."
+      "hi": "प्रश्न “हृदयक, रेखित और अरेखित किस ऊतक के उप-प्रकार हैं” में “पेशीय ऊतक” सही है क्योंकि यह संबंधित जैविक संरचना या प्रक्रिया के कार्य से मेल खाता है। “तंत्रिका ऊतक और संयोजी ऊतक” अलग कार्य या अवधारणाएँ बताते हैं, इसलिए वे इस प्रश्न का सही उत्तर नहीं हैं।",
+      "en": "For “Cardiac, striated and unstriated are subtypes of which tissue,” “Muscular tissue” matches the function of the relevant biological structure or process. “Nervous tissue and Connective tissue” describe different functions or concepts, so they do not answer this question."
     },
     "optionExplanations": {
       "hi": [
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
         "सही: ये तीनों पेशीय ऊतक के उप-प्रकार हैं। इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
       ]
     }
   },
@@ -4110,42 +4110,6 @@
     "question": {
       "hi": "मुँह के भीतरी भाग की सतह पर आपको कौन-सा ऊतक मिलेगा?",
       "en": "Which of the following tissues would you find lining the inside of the mouth?"
-    },
-    "options": {
-      "hi": [
-        "उपकला ऊतक",
-        "पेशीय ऊतक",
-        "तंत्रिका ऊतक",
-        "संयोजी ऊतक"
-      ],
-      "en": [
-        "Epithelial tissue",
-        "Muscular tissue",
-        "Nervous tissue",
-        "Connective tissue"
-      ]
-    },
-    "correct": 0,
-    "explanation": {
-      "hi": "उपकला ऊतक शरीर की सतहों को ढकता है, जिसमें मुँह की भीतरी सतह भी शामिल है।",
-      "en": "Epithelial tissue lines body surfaces, including the inside of the mouth."
-    },
-    "optionExplanations": {
-      "hi": [
-        "सही: उपकला ऊतक शरीर की सतहों को ढकता है, जिसमें मुँह की भीतरी सतह भी शामिल है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।"
-      ]
-    }
-  },
-  {
-    "id": "ch1_q216",
-    "topic": "animal-tissues",
-    "difficulty": "easy",
-    "question": {
-      "hi": "तंत्रिका आवेगों के संचरण के लिए उत्तरदायी जंतु ऊतक कौन-सा है?",
-      "en": "Which animal tissue type is responsible for transmitting nerve impulses?"
     },
     "options": {
       "hi": [
@@ -4161,17 +4125,53 @@
         "Muscular tissue"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
-      "hi": "तंत्रिका ऊतक तंत्रिका आवेगों को संचरित करता है।",
-      "en": "Nervous tissue transmits nerve impulses."
+      "hi": "उपकला ऊतक शरीर की सतहों को ढकता है, जिसमें मुँह की भीतरी सतह भी शामिल है।",
+      "en": "Epithelial tissue lines body surfaces, including the inside of the mouth."
     },
     "optionExplanations": {
       "hi": [
-        "सही: तंत्रिका ऊतक तंत्रिका आवेगों को संचरित करता है। यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
+        "सही: उपकला ऊतक शरीर की सतहों को ढकता है, जिसमें मुँह की भीतरी सतह भी शामिल है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
+        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।"
+      ]
+    }
+  },
+  {
+    "id": "ch1_q216",
+    "topic": "animal-tissues",
+    "difficulty": "easy",
+    "question": {
+      "hi": "तंत्रिका आवेगों के संचरण के लिए उत्तरदायी जंतु ऊतक कौन-सा है?",
+      "en": "Which animal tissue type is responsible for transmitting nerve impulses?"
+    },
+    "options": {
+      "hi": [
+        "संयोजी ऊतक",
+        "उपकला ऊतक",
+        "पेशीय ऊतक",
+        "तंत्रिका ऊतक"
+      ],
+      "en": [
+        "Connective tissue",
+        "Epithelial tissue",
+        "Muscular tissue",
+        "Nervous tissue"
+      ]
+    },
+    "correct": 3,
+    "explanation": {
+      "hi": "तंत्रिका ऊतक तंत्रिका आवेगों को संचरित करता है।",
+      "en": "For “Which animal tissue type is responsible for transmitting nerve impulses,” “Nervous tissue” matches the function of the relevant biological structure or process. “Connective tissue and Epithelial tissue” describe different functions or concepts, so they do not answer this question."
+    },
+    "optionExplanations": {
+      "hi": [
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
         "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।"
+        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
+        "सही: तंत्रिका ऊतक तंत्रिका आवेगों को संचरित करता है। यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
       ]
     }
   },
@@ -4221,29 +4221,29 @@
     },
     "options": {
       "hi": [
+        "अस्थि — उपकला ऊतक",
         "हृदय — हृदयक पेशी",
         "त्वचा की सतह — तंत्रिका ऊतक",
-        "आमाशय की दीवार — तंत्रिका ऊतक",
-        "अस्थि — उपकला ऊतक"
+        "आमाशय की दीवार — तंत्रिका ऊतक"
       ],
       "en": [
+        "Bone — epithelial tissue",
         "Heart — cardiac muscle",
         "Skin surface — nervous tissue",
-        "Stomach wall — nervous tissue",
-        "Bone — epithelial tissue"
+        "Stomach wall — nervous tissue"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "हृदयक पेशी विशेष रूप से हृदय में पाई जाती है।",
       "en": "Cardiac muscle is found specifically in the heart."
     },
     "optionExplanations": {
       "hi": [
+        "अस्थि — उपकला ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
         "सही: हृदयक पेशी विशेष रूप से हृदय में पाई जाती है।",
         "त्वचा की सतह — तंत्रिका ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "आमाशय की दीवार — तंत्रिका ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "अस्थि — उपकला ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "आमाशय की दीवार — तंत्रिका ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
       ]
     }
   },
@@ -4257,29 +4257,29 @@
     },
     "options": {
       "hi": [
-        "उपकला ऊतक",
-        "तंत्रिका ऊतक",
         "न्यूरॉन",
-        "इनमें से कोई नहीं"
+        "इनमें से कोई नहीं",
+        "उपकला ऊतक",
+        "तंत्रिका ऊतक"
       ],
       "en": [
-        "Epithelial tissue",
-        "Nervous tissue",
         "Neuron",
-        "None of the above"
+        "None of the above",
+        "Epithelial tissue",
+        "Nervous tissue"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "उपकला ऊतक का कार्य ढकना और सुरक्षा देना है, विद्युत संकेतों का संचालन नहीं, जो तंत्रिका ऊतक करता है।",
       "en": "Epithelial tissue's function is covering and protection, not conducting electrical signals as nervous tissue does."
     },
     "optionExplanations": {
       "hi": [
-        "सही: उपकला ऊतक का कार्य ढकना और सुरक्षा देना है, विद्युत संकेतों का संचालन नहीं, जो तंत्रिका ऊतक करता है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
         "यह विकल्प सही उत्तर नहीं है: न्यूरॉन तंत्रिका तंत्र की संकेत-संचारित करने वाली कोशिका है; नेफ्रॉन गुर्दे की कार्यात्मक इकाई है।",
-        "इनमें से कोई नहीं का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "इनमें से कोई नहीं का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
+        "सही: उपकला ऊतक का कार्य ढकना और सुरक्षा देना है, विद्युत संकेतों का संचालन नहीं, जो तंत्रिका ऊतक करता है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
       ]
     }
   },
@@ -4293,29 +4293,29 @@
     },
     "options": {
       "hi": [
-        "तंत्रिका",
         "विभज्योतक",
         "संवहनी",
-        "स्थायी"
+        "स्थायी",
+        "तंत्रिका"
       ],
       "en": [
-        "Nervous",
         "Meristematic",
         "Vascular",
-        "Permanent"
+        "Permanent",
+        "Nervous"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "जंतु ऊतक के चार प्रकार उपकला, संयोजी, पेशीय और तंत्रिका हैं।",
       "en": "The four animal tissue types are epithelial, connective, muscular and nervous."
     },
     "optionExplanations": {
       "hi": [
-        "सही: जंतु ऊतक के चार प्रकार उपकला, संयोजी, पेशीय और तंत्रिका हैं। तंत्रिका ऊतक संकेतों का संचार करता है।",
         "यह विकल्प सही उत्तर नहीं है: विभज्योतक ऊतक सक्रिय रूप से विभाजित होकर पौधे की वृद्धि में योगदान देता है।",
         "संवहनी का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "यह विकल्प सही उत्तर नहीं है: स्थायी ऊतक की कोशिकाएँ सामान्यतः विभेदन के बाद विशिष्ट कार्य करती हैं और कम विभाजित होती हैं।"
+        "यह विकल्प सही उत्तर नहीं है: स्थायी ऊतक की कोशिकाएँ सामान्यतः विभेदन के बाद विशिष्ट कार्य करती हैं और कम विभाजित होती हैं।",
+        "सही: जंतु ऊतक के चार प्रकार उपकला, संयोजी, पेशीय और तंत्रिका हैं। तंत्रिका ऊतक संकेतों का संचार करता है।"
       ]
     }
   },
@@ -4365,29 +4365,29 @@
     },
     "options": {
       "hi": [
+        "केवल जाइलम से बना ऊतक",
         "ऊतक जिसकी कोशिकाओं ने विभाजन की क्षमता खो दी है",
         "ऊतक जो निरंतर विभाजित होता रहता है",
-        "केवल जंतुओं में पाया जाने वाला ऊतक",
-        "केवल जाइलम से बना ऊतक"
+        "केवल जंतुओं में पाया जाने वाला ऊतक"
       ],
       "en": [
+        "Tissue made only of xylem",
         "Tissue whose cells have lost the ability to divide",
         "Tissue that keeps dividing continuously",
-        "Tissue found only in animals",
-        "Tissue made only of xylem"
+        "Tissue found only in animals"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "स्थायी ऊतक की कोशिकाओं ने विभाजन की क्षमता खो दी है, विभज्योतक के विपरीत।",
       "en": "Permanent tissue cells have lost the ability to divide, unlike meristematic tissue."
     },
     "optionExplanations": {
       "hi": [
+        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
         "सही: स्थायी ऊतक की कोशिकाओं ने विभाजन की क्षमता खो दी है, विभज्योतक के विपरीत।",
         "ऊतक जो निरंतर विभाजित होता रहता है का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
-        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।"
+        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।"
       ]
     }
   },
@@ -4401,29 +4401,29 @@
     },
     "options": {
       "hi": [
-        "एक प्रकार की कोशिकाओं से",
-        "एक से अधिक प्रकार की कोशिकाओं से",
         "कोई कोशिका नहीं होती",
-        "केवल मृत कोशिकाओं से"
+        "केवल मृत कोशिकाओं से",
+        "एक प्रकार की कोशिकाओं से",
+        "एक से अधिक प्रकार की कोशिकाओं से"
       ],
       "en": [
-        "One type of cell",
-        "More than one type of cell",
         "No cells at all",
-        "Only dead cells"
+        "Only dead cells",
+        "One type of cell",
+        "More than one type of cell"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "सरल स्थायी ऊतक एक ही प्रकार की कोशिकाओं से बना होता है।",
       "en": "Simple permanent tissue consists of one type of cell."
     },
     "optionExplanations": {
       "hi": [
-        "सही: सरल स्थायी ऊतक एक ही प्रकार की कोशिकाओं से बना होता है।",
-        "एक से अधिक प्रकार की कोशिकाओं से का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
         "कोई कोशिका नहीं होती का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।"
+        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
+        "सही: सरल स्थायी ऊतक एक ही प्रकार की कोशिकाओं से बना होता है।",
+        "एक से अधिक प्रकार की कोशिकाओं से का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
       ]
     }
   },
@@ -4437,29 +4437,29 @@
     },
     "options": {
       "hi": [
-        "एक से अधिक प्रकार की कोशिकाओं से",
         "केवल जीवित कोशिकाओं से",
         "केवल मृत कोशिकाओं से",
-        "एक ही प्रकार की कोशिका से"
+        "एक ही प्रकार की कोशिका से",
+        "एक से अधिक प्रकार की कोशिकाओं से"
       ],
       "en": [
-        "More than one type of cell",
         "Only living cells",
         "Only dead cells",
-        "A single type of cell"
+        "A single type of cell",
+        "More than one type of cell"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "जटिल स्थायी ऊतक एक से अधिक प्रकार की कोशिकाओं से बना होता है, जैसे जाइलम और फ्लोएम।",
       "en": "Complex permanent tissue is made of more than one type of cell, such as xylem and phloem."
     },
     "optionExplanations": {
       "hi": [
-        "सही: जटिल स्थायी ऊतक एक से अधिक प्रकार की कोशिकाओं से बना होता है, जैसे जाइलम और फ्लोएम।",
         "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
         "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
-        "एक ही प्रकार की कोशिका से का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "एक ही प्रकार की कोशिका से का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
+        "सही: जटिल स्थायी ऊतक एक से अधिक प्रकार की कोशिकाओं से बना होता है, जैसे जाइलम और फ्लोएम।"
       ]
     }
   },
@@ -4509,29 +4509,29 @@
     },
     "options": {
       "hi": [
+        "केवल जनन",
         "वृद्धि",
         "पाचन",
-        "श्वसन",
-        "केवल जनन"
+        "श्वसन"
       ],
       "en": [
+        "Reproduction only",
         "Growth",
         "Digestion",
-        "Respiration",
-        "Reproduction only"
+        "Respiration"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "विभज्योतक ऊतक निरंतर विभाजित होकर पौधे की वृद्धि करता है।",
       "en": "Meristematic tissue divides continuously to bring about growth in plants."
     },
     "optionExplanations": {
       "hi": [
+        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
         "सही: विभज्योतक ऊतक निरंतर विभाजित होकर पौधे की वृद्धि करता है।",
         "पाचन का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "श्वसन का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।"
+        "श्वसन का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
       ]
     }
   },
@@ -4545,29 +4545,29 @@
     },
     "options": {
       "hi": [
-        "स्थायी ऊतक",
-        "विभज्योतक ऊतक",
         "वर्धी शीर्ष ऊतक",
-        "शीर्षस्थ ऊतक"
+        "शीर्षस्थ ऊतक",
+        "स्थायी ऊतक",
+        "विभज्योतक ऊतक"
       ],
       "en": [
-        "Permanent tissue",
-        "Meristematic tissue",
         "Growing tip tissue",
-        "Apical tissue"
+        "Apical tissue",
+        "Permanent tissue",
+        "Meristematic tissue"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "स्थायी ऊतक की कोशिकाएँ परिपक्व होने के बाद विभाजन की क्षमता खो देती हैं, विभज्योतक के विपरीत।",
       "en": "Permanent tissue cells lose the ability to divide once mature, unlike meristematic tissue."
     },
     "optionExplanations": {
       "hi": [
-        "सही: स्थायी ऊतक की कोशिकाएँ परिपक्व होने के बाद विभाजन की क्षमता खो देती हैं, विभज्योतक के विपरीत। स्थायी ऊतक की कोशिकाएँ सामान्यतः विभेदन के बाद विशेष आकार और कार्य प्राप्त कर लेती हैं और विभाजन की क्षमता घट जाती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
         "वर्धी शीर्ष ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "शीर्षस्थ ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "शीर्षस्थ ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
+        "सही: स्थायी ऊतक की कोशिकाएँ परिपक्व होने के बाद विभाजन की क्षमता खो देती हैं, विभज्योतक के विपरीत। स्थायी ऊतक की कोशिकाएँ सामान्यतः विभेदन के बाद विशेष आकार और कार्य प्राप्त कर लेती हैं और विभाजन की क्षमता घट जाती है।",
+        "यह विकल्प सही उत्तर नहीं है: यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।"
       ]
     }
   },
@@ -4581,29 +4581,29 @@
     },
     "options": {
       "hi": [
-        "सरल स्थायी ऊतक",
         "जटिल स्थायी ऊतक",
         "विभज्योतक ऊतक",
-        "तंत्रिका ऊतक"
+        "तंत्रिका ऊतक",
+        "सरल स्थायी ऊतक"
       ],
       "en": [
-        "Simple permanent tissue",
         "Complex permanent tissue",
         "Meristematic tissue",
-        "Nervous tissue"
+        "Nervous tissue",
+        "Simple permanent tissue"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "सरल स्थायी ऊतक एक ही प्रकार की कोशिकाओं से बना होता है।",
       "en": "Simple permanent tissue is composed of one uniform cell type."
     },
     "optionExplanations": {
       "hi": [
-        "सही: सरल स्थायी ऊतक एक ही प्रकार की कोशिकाओं से बना होता है। यह पौधों में एक ही प्रकार की कोशिकाओं से बना परिपक्व ऊतक है।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
+        "सही: सरल स्थायी ऊतक एक ही प्रकार की कोशिकाओं से बना होता है। यह पौधों में एक ही प्रकार की कोशिकाओं से बना परिपक्व ऊतक है।"
       ]
     }
   },
@@ -4653,29 +4653,29 @@
     },
     "options": {
       "hi": [
+        "यह एक जंतु ऊतक है",
         "यह निरंतर विभाजित होता है और वर्धी क्षेत्रों में पाया जाता है",
         "यह कभी विभाजित नहीं होता और पूरे पौधे में पाया जाता है",
-        "यह केवल जाइलम में पाया जाता है",
-        "यह एक जंतु ऊतक है"
+        "यह केवल जाइलम में पाया जाता है"
       ],
       "en": [
+        "It is a type of animal tissue",
         "It divides continuously and is found at growing regions",
         "It never divides and is found throughout the plant",
-        "It is only found in xylem",
-        "It is a type of animal tissue"
+        "It is only found in xylem"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "विभज्योतक ऊतक निरंतर विभाजित होता है और जड़ व तने के वर्धी शीर्ष जैसे क्षेत्रों में पाया जाता है।",
       "en": "Meristematic tissue divides continuously and is located at growing regions such as root and shoot tips."
     },
     "optionExplanations": {
       "hi": [
+        "यह एक जंतु ऊतक है का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
         "सही: विभज्योतक ऊतक निरंतर विभाजित होता है और जड़ व तने के वर्धी शीर्ष जैसे क्षेत्रों में पाया जाता है।",
         "यह कभी विभाजित नहीं होता और पूरे पौधे में पाया जाता है का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
-        "यह एक जंतु ऊतक है का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।"
       ]
     }
   },
@@ -4689,29 +4689,29 @@
     },
     "options": {
       "hi": [
-        "पैरेंकाइमा",
-        "जाइलम",
         "फ्लोएम",
-        "विभज्योतक ऊतक"
+        "विभज्योतक ऊतक",
+        "पैरेंकाइमा",
+        "जाइलम"
       ],
       "en": [
-        "Parenchyma",
-        "Xylem",
         "Phloem",
-        "Meristematic tissue"
+        "Meristematic tissue",
+        "Parenchyma",
+        "Xylem"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "पैरेंकाइमा एक सरल स्थायी ऊतक है जो एक ही प्रकार की कोशिकाओं से बना होता है, जबकि जाइलम और फ्लोएम जटिल होते हैं।",
       "en": "Parenchyma is a simple permanent tissue made of one type of cell, unlike xylem and phloem which are complex."
     },
     "optionExplanations": {
       "hi": [
-        "सही: पैरेंकाइमा एक सरल स्थायी ऊतक है जो एक ही प्रकार की कोशिकाओं से बना होता है, जबकि जाइलम और फ्लोएम जटिल होते हैं। पैरेंकाइमा एक सरल स्थायी पादप ऊतक है, जो भंडारण और अन्य आधारभूत कार्यों में मदद कर सकता है।",
-        "यह विकल्प सही उत्तर नहीं है: जाइलम पौधों का जटिल स्थायी ऊतक है, जिसमें वाहिका, वाहिनिका, मृदूतक और रेशे शामिल होते हैं।",
         "यह विकल्प सही उत्तर नहीं है: फ्लोएम पौधों का जटिल स्थायी ऊतक है, जिसमें चालनी नलिका, सह-कोशिका, मृदूतक और रेशे शामिल होते हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।"
+        "यह विकल्प सही उत्तर नहीं है: यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
+        "सही: पैरेंकाइमा एक सरल स्थायी ऊतक है जो एक ही प्रकार की कोशिकाओं से बना होता है, जबकि जाइलम और फ्लोएम जटिल होते हैं। पैरेंकाइमा एक सरल स्थायी पादप ऊतक है, जो भंडारण और अन्य आधारभूत कार्यों में मदद कर सकता है।",
+        "यह विकल्प सही उत्तर नहीं है: जाइलम पौधों का जटिल स्थायी ऊतक है, जिसमें वाहिका, वाहिनिका, मृदूतक और रेशे शामिल होते हैं।"
       ]
     }
   },
@@ -4725,29 +4725,29 @@
     },
     "options": {
       "hi": [
-        "जटिल स्थायी ऊतक",
         "सरल स्थायी ऊतक",
         "विभज्योतक ऊतक",
-        "उपकला ऊतक"
+        "उपकला ऊतक",
+        "जटिल स्थायी ऊतक"
       ],
       "en": [
-        "Complex permanent tissue",
         "Simple permanent tissue",
         "Meristematic tissue",
-        "Epithelial tissue"
+        "Epithelial tissue",
+        "Complex permanent tissue"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "जाइलम और फ्लोएम जटिल स्थायी ऊतक हैं, जो प्रत्येक एक से अधिक प्रकार की कोशिकाओं से बने होते हैं।",
       "en": "Xylem and phloem are complex permanent tissues, each made of more than one type of cell."
     },
     "optionExplanations": {
       "hi": [
-        "सही: जाइलम और फ्लोएम जटिल स्थायी ऊतक हैं, जो प्रत्येक एक से अधिक प्रकार की कोशिकाओं से बने होते हैं। यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक ही प्रकार की कोशिकाओं से बना परिपक्व ऊतक है।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
+        "सही: जाइलम और फ्लोएम जटिल स्थायी ऊतक हैं, जो प्रत्येक एक से अधिक प्रकार की कोशिकाओं से बने होते हैं। यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।"
       ]
     }
   },
@@ -4797,29 +4797,29 @@
     },
     "options": {
       "hi": [
+        "विभज्योतक ऊतक, स्थायी ऊतक का ही एक प्रकार है",
         "विभज्योतक और स्थायी, जिसमें स्थायी को आगे सरल और जटिल में बाँटा जाता है",
         "पौधे में केवल विभज्योतक ऊतक पाया जाता है",
-        "स्थायी ऊतक हमेशा सरल होता है",
-        "विभज्योतक ऊतक, स्थायी ऊतक का ही एक प्रकार है"
+        "स्थायी ऊतक हमेशा सरल होता है"
       ],
       "en": [
+        "Meristematic tissue is a type of permanent tissue",
         "Meristematic and permanent, with permanent further divided into simple and complex",
         "Only meristematic tissue exists in plants",
-        "Permanent tissue is always simple",
-        "Meristematic tissue is a type of permanent tissue"
+        "Permanent tissue is always simple"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "पादप ऊतक विभज्योतक और स्थायी में बँटता है, और स्थायी ऊतक आगे सरल एवं जटिल स्थायी ऊतक में बँटता है।",
       "en": "Plant tissue is divided into meristematic and permanent, and permanent tissue is further divided into simple and complex permanent tissue."
     },
     "optionExplanations": {
       "hi": [
+        "विभज्योतक ऊतक, स्थायी ऊतक का ही एक प्रकार है का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
         "सही: पादप ऊतक विभज्योतक और स्थायी में बँटता है, और स्थायी ऊतक आगे सरल एवं जटिल स्थायी ऊतक में बँटता है।",
         "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
-        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
-        "विभज्योतक ऊतक, स्थायी ऊतक का ही एक प्रकार है का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।"
       ]
     }
   },
@@ -4833,29 +4833,29 @@
     },
     "options": {
       "hi": [
-        "विभज्योतक ऊतक",
-        "स्थायी ऊतक",
         "सरल स्थायी ऊतक",
-        "जटिल स्थायी ऊतक"
+        "जटिल स्थायी ऊतक",
+        "विभज्योतक ऊतक",
+        "स्थायी ऊतक"
       ],
       "en": [
-        "Meristematic tissue",
-        "Permanent tissue",
         "Simple permanent tissue",
-        "Complex permanent tissue"
+        "Complex permanent tissue",
+        "Meristematic tissue",
+        "Permanent tissue"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "यह विवरण जड़ के शीर्ष पर पाए जाने वाले विभज्योतक ऊतक का है।",
       "en": "This describes meristematic tissue found at root tips."
     },
     "optionExplanations": {
       "hi": [
-        "सही: यह विवरण जड़ के शीर्ष पर पाए जाने वाले विभज्योतक ऊतक का है। यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
-        "यह विकल्प सही उत्तर नहीं है: स्थायी ऊतक की कोशिकाएँ सामान्यतः विभेदन के बाद विशेष आकार और कार्य प्राप्त कर लेती हैं और विभाजन की क्षमता घट जाती है।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक ही प्रकार की कोशिकाओं से बना परिपक्व ऊतक है।",
-        "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।"
+        "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।",
+        "सही: यह विवरण जड़ के शीर्ष पर पाए जाने वाले विभज्योतक ऊतक का है। यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
+        "यह विकल्प सही उत्तर नहीं है: स्थायी ऊतक की कोशिकाएँ सामान्यतः विभेदन के बाद विशेष आकार और कार्य प्राप्त कर लेती हैं और विभाजन की क्षमता घट जाती है।"
       ]
     }
   },
@@ -4869,29 +4869,29 @@
     },
     "options": {
       "hi": [
-        "विभज्योतक ऊतक",
         "सरल स्थायी ऊतक",
         "जटिल स्थायी ऊतक",
-        "उपकला ऊतक"
+        "उपकला ऊतक",
+        "विभज्योतक ऊतक"
       ],
       "en": [
-        "Meristematic tissue",
         "Simple permanent tissue",
         "Complex permanent tissue",
-        "Epithelial tissue"
+        "Epithelial tissue",
+        "Meristematic tissue"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "विभज्योतक ऊतक के निरंतर विभाजन से जड़ और तने की लंबाई बढ़ती है।",
       "en": "Meristematic tissue's continuous division increases the length of roots and shoots."
     },
     "optionExplanations": {
       "hi": [
-        "सही: विभज्योतक ऊतक के निरंतर विभाजन से जड़ और तने की लंबाई बढ़ती है। यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक ही प्रकार की कोशिकाओं से बना परिपक्व ऊतक है।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
+        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
+        "सही: विभज्योतक ऊतक के निरंतर विभाजन से जड़ और तने की लंबाई बढ़ती है। यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।"
       ]
     }
   },
@@ -4941,29 +4941,29 @@
     },
     "options": {
       "hi": [
+        "फ्लोएम",
         "सरल स्थायी ऊतक",
         "जटिल स्थायी ऊतक",
-        "जाइलम",
-        "फ्लोएम"
+        "जाइलम"
       ],
       "en": [
+        "Phloem",
         "Simple permanent tissue",
         "Complex permanent tissue",
-        "Xylem",
-        "Phloem"
+        "Xylem"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "सरल स्थायी ऊतक, जाइलम या फ्लोएम के विपरीत, केवल एक प्रकार की कोशिका से बना होता है।",
       "en": "Simple permanent tissue, unlike xylem or phloem, is made of only one type of cell."
     },
     "optionExplanations": {
       "hi": [
+        "यह विकल्प सही उत्तर नहीं है: फ्लोएम पौधों का जटिल स्थायी ऊतक है, जिसमें चालनी नलिका, सह-कोशिका, मृदूतक और रेशे शामिल होते हैं।",
         "सही: सरल स्थायी ऊतक, जाइलम या फ्लोएम के विपरीत, केवल एक प्रकार की कोशिका से बना होता है। यह पौधों में एक ही प्रकार की कोशिकाओं से बना परिपक्व ऊतक है।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: जाइलम पौधों का जटिल स्थायी ऊतक है, जिसमें वाहिका, वाहिनिका, मृदूतक और रेशे शामिल होते हैं।",
-        "यह विकल्प सही उत्तर नहीं है: फ्लोएम पौधों का जटिल स्थायी ऊतक है, जिसमें चालनी नलिका, सह-कोशिका, मृदूतक और रेशे शामिल होते हैं।"
+        "यह विकल्प सही उत्तर नहीं है: जाइलम पौधों का जटिल स्थायी ऊतक है, जिसमें वाहिका, वाहिनिका, मृदूतक और रेशे शामिल होते हैं।"
       ]
     }
   },
@@ -4977,29 +4977,29 @@
     },
     "options": {
       "hi": [
-        "यह एक से अधिक प्रकार की कोशिकाओं से बना होता है",
-        "यह केवल जंतुओं में पाया जाता है",
         "इसमें कभी मृत कोशिकाएँ नहीं होतीं",
-        "यह निरंतर विभाजित होता है"
+        "यह निरंतर विभाजित होता है",
+        "यह एक से अधिक प्रकार की कोशिकाओं से बना होता है",
+        "यह केवल जंतुओं में पाया जाता है"
       ],
       "en": [
-        "It is made up of more than one type of cell",
-        "It is found only in animals",
         "It never contains dead cells",
-        "It divides continuously"
+        "It divides continuously",
+        "It is made up of more than one type of cell",
+        "It is found only in animals"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "जाइलम जटिल है क्योंकि यह वाहिनिका, वाहिका, मृदूतक और रेशों जैसी एक से अधिक प्रकार की कोशिकाओं से बना होता है।",
       "en": "Xylem is complex because it consists of more than one type of cell, such as tracheids, vessels, parenchyma and fibres."
     },
     "optionExplanations": {
       "hi": [
-        "सही: जाइलम जटिल है क्योंकि यह वाहिनिका, वाहिका, मृदूतक और रेशों जैसी एक से अधिक प्रकार की कोशिकाओं से बना होता है।",
-        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।",
         "इसमें कभी मृत कोशिकाएँ नहीं होतीं का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "यह निरंतर विभाजित होता है का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "यह निरंतर विभाजित होता है का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
+        "सही: जाइलम जटिल है क्योंकि यह वाहिनिका, वाहिका, मृदूतक और रेशों जैसी एक से अधिक प्रकार की कोशिकाओं से बना होता है।",
+        "यह कथन बहुत निरपेक्ष है और ऊतक/कोशिका की वास्तविक विशेषता को सही तरह नहीं बताता; जैविक संरचनाओं के कार्य और वितरण में संदर्भ महत्वपूर्ण है।"
       ]
     }
   },
@@ -5013,29 +5013,29 @@
     },
     "options": {
       "hi": [
-        "पादप ऊतक → विभज्योतक/स्थायी → स्थायी आगे सरल/जटिल में विभाजित",
         "पादप ऊतक → जाइलम/फ्लोएम → विभज्योतक/स्थायी",
         "पादप ऊतक → सरल/जटिल → विभज्योतक/स्थायी",
-        "पादप ऊतक → जंतु ऊतक → स्थायी ऊतक"
+        "पादप ऊतक → जंतु ऊतक → स्थायी ऊतक",
+        "पादप ऊतक → विभज्योतक/स्थायी → स्थायी आगे सरल/जटिल में विभाजित"
       ],
       "en": [
-        "Plant tissue → meristematic/permanent → permanent further divided into simple/complex",
         "Plant tissue → xylem/phloem → meristematic/permanent",
         "Plant tissue → simple/complex → meristematic/permanent",
-        "Plant tissue → animal tissue → permanent tissue"
+        "Plant tissue → animal tissue → permanent tissue",
+        "Plant tissue → meristematic/permanent → permanent further divided into simple/complex"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "पादप ऊतक पहले विभज्योतक और स्थायी में बँटता है, और स्थायी ऊतक आगे सरल एवं जटिल स्थायी ऊतक में बँटता है।",
       "en": "Plant tissue is first divided into meristematic and permanent, and permanent tissue is further divided into simple and complex permanent tissue."
     },
     "optionExplanations": {
       "hi": [
-        "सही: पादप ऊतक पहले विभज्योतक और स्थायी में बँटता है, और स्थायी ऊतक आगे सरल एवं जटिल स्थायी ऊतक में बँटता है।",
         "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
         "पादप ऊतक → सरल/जटिल → विभज्योतक/स्थायी का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "पादप ऊतक → जंतु ऊतक → स्थायी ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "पादप ऊतक → जंतु ऊतक → स्थायी ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
+        "सही: पादप ऊतक पहले विभज्योतक और स्थायी में बँटता है, और स्थायी ऊतक आगे सरल एवं जटिल स्थायी ऊतक में बँटता है।"
       ]
     }
   },
@@ -5085,29 +5085,29 @@
     },
     "options": {
       "hi": [
+        "विभज्योतक और स्थायी कोशिकाएँ",
         "चालनी नलिका, सह-कोशिका, फ्लोएम मृदूतक और फ्लोएम रेशे",
         "वाहिनिका, वाहिका, जाइलम मृदूतक और जाइलम रेशे",
-        "उपकला और पेशीय कोशिकाएँ",
-        "विभज्योतक और स्थायी कोशिकाएँ"
+        "उपकला और पेशीय कोशिकाएँ"
       ],
       "en": [
+        "Meristematic and permanent cells",
         "Sieve tubes, companion cells, phloem parenchyma and phloem fibres",
         "Tracheids, vessels, xylem parenchyma and xylem fibres",
-        "Epithelial and muscular cells",
-        "Meristematic and permanent cells"
+        "Epithelial and muscular cells"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "फ्लोएम चालनी नलिका, सह-कोशिका, फ्लोएम मृदूतक और फ्लोएम रेशों से मिलकर बना होता है।",
       "en": "Phloem is made up of sieve tubes, companion cells, phloem parenchyma and phloem fibres."
     },
     "optionExplanations": {
       "hi": [
+        "विभज्योतक और स्थायी कोशिकाएँ का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
         "सही: फ्लोएम चालनी नलिका, सह-कोशिका, फ्लोएम मृदूतक और फ्लोएम रेशों से मिलकर बना होता है।",
         "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
-        "उपकला और पेशीय कोशिकाएँ का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "विभज्योतक और स्थायी कोशिकाएँ का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "उपकला और पेशीय कोशिकाएँ का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
       ]
     }
   },
@@ -5121,29 +5121,29 @@
     },
     "options": {
       "hi": [
-        "जटिल स्थायी ऊतक",
-        "सरल स्थायी ऊतक",
         "विभज्योतक ऊतक",
-        "जंतु ऊतक"
+        "जंतु ऊतक",
+        "जटिल स्थायी ऊतक",
+        "सरल स्थायी ऊतक"
       ],
       "en": [
-        "Complex permanent tissue",
-        "Simple permanent tissue",
         "Meristematic tissue",
-        "Animal tissue"
+        "Animal tissue",
+        "Complex permanent tissue",
+        "Simple permanent tissue"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "जाइलम और फ्लोएम दोनों जटिल स्थायी ऊतक हैं जो एक से अधिक प्रकार की कोशिकाओं से बने होते हैं।",
       "en": "Both xylem and phloem are complex permanent tissues made of more than one type of cell."
     },
     "optionExplanations": {
       "hi": [
-        "सही: जाइलम और फ्लोएम दोनों जटिल स्थायी ऊतक हैं जो एक से अधिक प्रकार की कोशिकाओं से बने होते हैं। यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक ही प्रकार की कोशिकाओं से बना परिपक्व ऊतक है।",
         "यह विकल्प सही उत्तर नहीं है: यह पौधों का सक्रिय विभाजन करने वाला ऊतक है, जंतु ऊतक नहीं।",
-        "जंतु ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "जंतु ऊतक का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
+        "सही: जाइलम और फ्लोएम दोनों जटिल स्थायी ऊतक हैं जो एक से अधिक प्रकार की कोशिकाओं से बने होते हैं। यह पौधों में एक से अधिक प्रकार की कोशिकाओं से बना ऊतक है; जाइलम और फ्लोएम इसके उदाहरण हैं।",
+        "यह विकल्प सही उत्तर नहीं है: यह पौधों में एक ही प्रकार की कोशिकाओं से बना परिपक्व ऊतक है।"
       ]
     }
   },
@@ -5157,29 +5157,29 @@
     },
     "options": {
       "hi": [
-        "जाइलम की अधिकांश कोशिकाएँ परिपक्व अवस्था में मृत होती हैं",
         "सभी जाइलम कोशिकाएँ हमेशा जीवित रहती हैं",
         "जाइलम में कोई कोशिकीय घटक नहीं होता",
-        "जाइलम की कोशिकाएँ फ्लोएम की कोशिकाओं के समान होती हैं"
+        "जाइलम की कोशिकाएँ फ्लोएम की कोशिकाओं के समान होती हैं",
+        "जाइलम की अधिकांश कोशिकाएँ परिपक्व अवस्था में मृत होती हैं"
       ],
       "en": [
-        "Most xylem cells are dead at maturity",
         "All xylem cells remain alive throughout",
         "Xylem has no cellular components",
-        "Xylem cells are identical to phloem cells"
+        "Xylem cells are identical to phloem cells",
+        "Most xylem cells are dead at maturity"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "जाइलम की अधिकांश कोशिकाएँ परिपक्व अवस्था में मृत होती हैं, फ्लोएम की चालनी नलिका और सह-कोशिका के विपरीत।",
       "en": "Most cells of xylem are dead at maturity, unlike phloem's sieve tubes and companion cells."
     },
     "optionExplanations": {
       "hi": [
-        "सही: जाइलम की अधिकांश कोशिकाएँ परिपक्व अवस्था में मृत होती हैं, फ्लोएम की चालनी नलिका और सह-कोशिका के विपरीत।",
         "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
         "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
-        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।"
+        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
+        "सही: जाइलम की अधिकांश कोशिकाएँ परिपक्व अवस्था में मृत होती हैं, फ्लोएम की चालनी नलिका और सह-कोशिका के विपरीत।"
       ]
     }
   },
@@ -5229,29 +5229,29 @@
     },
     "options": {
       "hi": [
+        "फ्लोएम रेशा",
         "जाइलम मृदूतक",
         "चालनी नलिका",
-        "सह-कोशिका",
-        "फ्लोएम रेशा"
+        "सह-कोशिका"
       ],
       "en": [
+        "Phloem fibre",
         "Xylem parenchyma",
         "Sieve tube",
-        "Companion cell",
-        "Phloem fibre"
+        "Companion cell"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "जाइलम मृदूतक जाइलम का एक संरचनात्मक घटक है, जो फ्लोएम में नहीं होता।",
       "en": "Xylem parenchyma is a structural component specific to xylem."
     },
     "optionExplanations": {
       "hi": [
+        "यह विकल्प सही उत्तर नहीं है: फ्लोएम रेशे फ्लोएम के घटक हैं और यांत्रिक सहारा देने में मदद करते हैं।",
         "सही: जाइलम मृदूतक जाइलम का एक संरचनात्मक घटक है, जो फ्लोएम में नहीं होता। जाइलम मृदूतक जाइलम का जीवित घटक है; यह फ्लोएम का घटक नहीं है।",
         "यह विकल्प सही उत्तर नहीं है: चालनी नलिकाएँ फ्लोएम के घटक हैं, जंतु ऊतक या जाइलम के नहीं।",
-        "यह विकल्प सही उत्तर नहीं है: सह-कोशिकाएँ फ्लोएम की चालनी नलिकाओं से जुड़ी जीवित कोशिकाएँ हैं।",
-        "यह विकल्प सही उत्तर नहीं है: फ्लोएम रेशे फ्लोएम के घटक हैं और यांत्रिक सहारा देने में मदद करते हैं।"
+        "यह विकल्प सही उत्तर नहीं है: सह-कोशिकाएँ फ्लोएम की चालनी नलिकाओं से जुड़ी जीवित कोशिकाएँ हैं।"
       ]
     }
   },
@@ -5265,29 +5265,29 @@
     },
     "options": {
       "hi": [
-        "फ्लोएम रेशा",
-        "वाहिनिका",
         "वाहिका",
-        "जाइलम मृदूतक"
+        "जाइलम मृदूतक",
+        "फ्लोएम रेशा",
+        "वाहिनिका"
       ],
       "en": [
-        "Phloem fibre",
-        "Tracheid",
         "Vessel",
-        "Xylem parenchyma"
+        "Xylem parenchyma",
+        "Phloem fibre",
+        "Tracheid"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
       "hi": "फ्लोएम रेशा फ्लोएम का एक संरचनात्मक घटक है, जो जाइलम में नहीं होता।",
       "en": "Phloem fibre is a structural component specific to phloem."
     },
     "optionExplanations": {
       "hi": [
-        "सही: फ्लोएम रेशा फ्लोएम का एक संरचनात्मक घटक है, जो जाइलम में नहीं होता। फ्लोएम रेशे फ्लोएम के घटक हैं और यांत्रिक सहारा देने में मदद करते हैं।",
-        "यह विकल्प सही उत्तर नहीं है: वाहिनिका जाइलम का जल-संचालन से जुड़ा घटक है; यह फ्लोएम का घटक नहीं है।",
         "यह विकल्प सही उत्तर नहीं है: वाहिकाएँ जाइलम के जल-संचालन करने वाले घटक हैं।",
-        "यह विकल्प सही उत्तर नहीं है: जाइलम मृदूतक जाइलम का जीवित घटक है; यह फ्लोएम का घटक नहीं है।"
+        "यह विकल्प सही उत्तर नहीं है: जाइलम मृदूतक जाइलम का जीवित घटक है; यह फ्लोएम का घटक नहीं है।",
+        "सही: फ्लोएम रेशा फ्लोएम का एक संरचनात्मक घटक है, जो जाइलम में नहीं होता। फ्लोएम रेशे फ्लोएम के घटक हैं और यांत्रिक सहारा देने में मदद करते हैं।",
+        "यह विकल्प सही उत्तर नहीं है: वाहिनिका जाइलम का जल-संचालन से जुड़ा घटक है; यह फ्लोएम का घटक नहीं है।"
       ]
     }
   },
@@ -5301,29 +5301,29 @@
     },
     "options": {
       "hi": [
-        "वाहिनिका/वाहिका और चालनी नलिका/सह-कोशिका",
         "केवल चालनी नलिका और वाहिनिका",
         "दोनों केवल सह-कोशिका से बने हैं",
-        "जाइलम में सह-कोशिका, फ्लोएम में वाहिनिका"
+        "जाइलम में सह-कोशिका, फ्लोएम में वाहिनिका",
+        "वाहिनिका/वाहिका और चालनी नलिका/सह-कोशिका"
       ],
       "en": [
-        "Tracheid/vessel and sieve tube/companion cell",
         "Only sieve tube and tracheid",
         "Both made of only companion cells",
-        "Xylem has companion cells, phloem has tracheids"
+        "Xylem has companion cells, phloem has tracheids",
+        "Tracheid/vessel and sieve tube/companion cell"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
       "hi": "वाहिनिका और वाहिका जाइलम के प्रमुख घटक हैं; चालनी नलिका और सह-कोशिका फ्लोएम के प्रमुख घटक हैं।",
       "en": "Tracheids and vessels are major components of xylem; sieve tubes and companion cells are major components of phloem."
     },
     "optionExplanations": {
       "hi": [
-        "सही: वाहिनिका और वाहिका जाइलम के प्रमुख घटक हैं; चालनी नलिका और सह-कोशिका फ्लोएम के प्रमुख घटक हैं।",
         "यह पादप संवहनी ऊतक का घटक है; प्रश्न के जंतु ऊतक वाले संदर्भ में यह उपयुक्त नहीं है।",
         "यह संख्या सही नहीं है: जंतु ऊतक के मान्य मुख्य प्रकार उपकला, संयोजी, पेशीय और तंत्रिका—कुल चार हैं।",
-        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।"
+        "यह पौधों का संवहनी ऊतक/घटक है; इसे जंतु ऊतक के रूप में वर्गीकृत नहीं किया जाता।",
+        "सही: वाहिनिका और वाहिका जाइलम के प्रमुख घटक हैं; चालनी नलिका और सह-कोशिका फ्लोएम के प्रमुख घटक हैं।"
       ]
     }
   },
@@ -5373,29 +5373,29 @@
     },
     "options": {
       "hi": [
+        "पाचन प्रक्रिया",
         "संरचना और घटक",
         "जल और भोजन का परिवहन कार्य",
-        "मानव रक्त परिसंचरण",
-        "पाचन प्रक्रिया"
+        "मानव रक्त परिसंचरण"
       ],
       "en": [
+        "Digestive process",
         "Structure and components",
         "Water and food transport function",
-        "Human blood circulation",
-        "Digestive process"
+        "Human blood circulation"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "इस अध्याय में केवल जाइलम और फ्लोएम की संरचना पढ़ी जाती है; परिवहन कार्य अध्याय तीन में है।",
       "en": "This chapter covers only the structure of xylem and phloem; their transport function is covered in Chapter 3."
     },
     "optionExplanations": {
       "hi": [
+        "पाचन प्रक्रिया का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
         "सही: इस अध्याय में केवल जाइलम और फ्लोएम की संरचना पढ़ी जाती है; परिवहन कार्य अध्याय तीन में है।",
         "जल और भोजन का परिवहन कार्य का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "मानव रक्त परिसंचरण का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।",
-        "पाचन प्रक्रिया का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
+        "मानव रक्त परिसंचरण का मुख्य कार्य/वर्गीकरण प्रश्न में पूछी गई विशेषता से अलग है। इसलिए इसे सही विकल्प नहीं माना जाएगा।"
       ]
     }
   }

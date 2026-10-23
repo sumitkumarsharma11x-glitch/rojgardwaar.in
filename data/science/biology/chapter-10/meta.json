@@ -15,7 +15,50 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "endocrine-system",
+      "name": {
+        "hi": "Endocrine System",
+        "en": "Endocrine System"
+      }
+    },
+    {
+      "id": "puberty-adolescence",
+      "name": {
+        "hi": "Puberty Adolescence",
+        "en": "Puberty Adolescence"
+      }
+    },
+    {
+      "id": "secondary-sexual-characteristics",
+      "name": {
+        "hi": "Secondary Sexual Characteristics",
+        "en": "Secondary Sexual Characteristics"
+      }
+    },
+    {
+      "id": "growth-hormone",
+      "name": {
+        "hi": "Growth Hormone",
+        "en": "Growth Hormone"
+      }
+    },
+    {
+      "id": "reproductive-phase",
+      "name": {
+        "hi": "Reproductive Phase",
+        "en": "Reproductive Phase"
+      }
+    },
+    {
+      "id": "adolescent-health",
+      "name": {
+        "hi": "Adolescent Health",
+        "en": "Adolescent Health"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "जन्म से वयस्क होने तक शरीर में लगातार वृद्धि और विकास होता है। किशोरावस्था (लगभग 11–17 वर्ष) में हार्मोनों के प्रभाव से शारीरिक और मानसिक परिवर्तन आते हैं, जिसे यौवनारंभ कहा जाता है। यही अवधि में लिंग-अंगों की परिपक्वता और ग्रंथियों की सक्रियता बढ़ती है।",

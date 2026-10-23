@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "distance-displacement",
+      "name": {
+        "hi": "दूरी एवं विस्थापन",
+        "en": "Distance Displacement"
+      }
+    },
+    {
+      "id": "speed-velocity",
+      "name": {
+        "hi": "चाल एवं वेग",
+        "en": "Speed Velocity"
+      }
+    },
+    {
+      "id": "acceleration",
+      "name": {
+        "hi": "त्वरण",
+        "en": "Acceleration"
+      }
+    },
+    {
+      "id": "motion-graphs",
+      "name": {
+        "hi": "ग्राफ",
+        "en": "Motion Graphs"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "जब किसी वस्तु की स्थिति समय के साथ बदलती है तो वह गति में कहलाती है। दूरी और विस्थापन, चाल और वेग, तथा त्वरण गति का वर्णन करते हैं। दूरी-समय और वेग-समय ग्राफ से गति की प्रकृति सरलता से समझी जाती है।",

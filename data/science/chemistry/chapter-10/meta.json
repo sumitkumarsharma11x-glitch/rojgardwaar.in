@@ -10,7 +10,7 @@
   "mockQuestionCount": 30,
   "topics": [
     {
-      "id": "chemistry-chapter-10",
+      "id": "core",
       "name": {
         "hi": "कार्बन एवं उसके यौगिक",
         "en": "Carbon and Its Compounds"
@@ -24,7 +24,7 @@
   "notes": {
     "hi": {
       "concept": "कार्बन एवं उसके यौगिक को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
-      "example": "कार्बन एवं उसके यौगिक का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
+      "example": "कार्बन चार सहसंयोजक बंध बना सकता है। मीथेन (CH₄) में एक कार्बन परमाणु चार हाइड्रोजन परमाणुओं से जुड़ा होता है; एथेनॉल और एथेनोइक अम्ल में अलग-अलग क्रियात्मक समूह होते हैं, इसलिए उनके गुण भी अलग हैं।",
       "sections": [
         {
           "heading": "कार्बन की विशेषता",
@@ -48,16 +48,17 @@
         }
       ],
       "keyPoints": [
-        "कार्बन एवं उसके यौगिक की मूल परिभाषा समझें।",
-        "मुख्य गुणों को उदाहरणों के साथ जोड़ें।",
-        "समान अवधारणाओं के बीच अंतर पहचानें।",
-        "दैनिक जीवन के अनुप्रयोगों पर ध्यान दें।"
+        "कार्बन की चतुसंयोजकता और श्रृंखलन से अनेक यौगिक बनते हैं।",
+        "सहसंयोजक बंध में परमाणु इलेक्ट्रॉन साझा करते हैं।",
+        "संतृप्त और असंतृप्त हाइड्रोकार्बन में बंधों का अंतर पहचानें।",
+        "क्रियात्मक समूह कार्बनिक यौगिकों के विशिष्ट रासायनिक गुण तय करते हैं।",
+        "साबुन और डिटर्जेंट तेल-मैल हटाने में मदद करते हैं, लेकिन कठोर जल में उनका व्यवहार अलग हो सकता है।"
       ],
       "examFocus": [
-        "परिभाषा और मूल अवधारणा",
-        "मुख्य गुण और उदाहरण",
-        "तुलना तथा कारण आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "सहसंयोजक बंध और कार्बन की चतुसंयोजकता",
+        "संतृप्त तथा असंतृप्त हाइड्रोकार्बन",
+        "क्रियात्मक समूह और समजातीय श्रेणी",
+        "एथेनॉल, एथेनोइक अम्ल, साबुन और डिटर्जेंट"
       ],
       "examTraps": [
         "सिर्फ keyword देखकर उत्तर न चुनें।",
@@ -84,7 +85,7 @@
     },
     "en": {
       "concept": "Study Carbon and Its Compounds through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
-      "example": "Learning Carbon and Its Compounds through examples and applications makes concept-based questions easier to solve.",
+      "example": "Carbon can form four covalent bonds. In methane (CH₄), one carbon atom is bonded to four hydrogen atoms; ethanol and ethanoic acid have different functional groups, so they show different properties.",
       "sections": [
         {
           "heading": "Special nature of carbon",
@@ -108,16 +109,17 @@
         }
       ],
       "keyPoints": [
-        "Understand the core definition of Carbon and Its Compounds.",
-        "Connect key properties with examples.",
-        "Distinguish closely related concepts.",
-        "Focus on practical applications."
+        "Carbon forms many compounds through tetravalency and catenation.",
+        "Covalent bonds involve sharing electrons between atoms.",
+        "Distinguish saturated from unsaturated hydrocarbons by their bonds.",
+        "Functional groups influence the characteristic chemical properties of organic compounds.",
+        "Soaps and detergents help remove grease, but behave differently in hard water."
       ],
       "examFocus": [
-        "Definitions and core concepts",
-        "Key properties and examples",
-        "Comparison and reason-based questions",
-        "Application-based questions"
+        "Covalent bonding and carbon's tetravalency",
+        "Saturated and unsaturated hydrocarbons",
+        "Functional groups and homologous series",
+        "Ethanol, ethanoic acid, soaps and detergents"
       ],
       "examTraps": [
         "Do not select an option only because it contains a familiar keyword.",

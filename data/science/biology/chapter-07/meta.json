@@ -15,7 +15,50 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "nutrients-balanced-diet",
+      "name": {
+        "hi": "Nutrients Balanced Diet",
+        "en": "Nutrients Balanced Diet"
+      }
+    },
+    {
+      "id": "human-digestive-system",
+      "name": {
+        "hi": "Human Digestive System",
+        "en": "Human Digestive System"
+      }
+    },
+    {
+      "id": "enzymes-digestion-steps",
+      "name": {
+        "hi": "Enzymes Digestion Steps",
+        "en": "Enzymes Digestion Steps"
+      }
+    },
+    {
+      "id": "nutrition-modes",
+      "name": {
+        "hi": "Nutrition Modes",
+        "en": "Nutrition Modes"
+      }
+    },
+    {
+      "id": "ingestion-other-animals",
+      "name": {
+        "hi": "Ingestion Other Animals",
+        "en": "Ingestion Other Animals"
+      }
+    },
+    {
+      "id": "digestive-wellness-disorders",
+      "name": {
+        "hi": "Digestive Wellness Disorders",
+        "en": "Digestive Wellness Disorders"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "भोजन से मिलने वाले पोषक तत्व — कार्बोहाइड्रेट, प्रोटीन, वसा, विटामिन और खनिज — शरीर के विकास, ऊर्जा और रक्षा के लिए आवश्यक हैं। पौधे स्वपोषी होते हैं जबकि जंतु परपोषी; कुछ जीव मृतोपजीवी या परजीवी होते हैं। मनुष्य के पाचन तंत्र में भोजन मुँह से मलाशय तक क्रमबद्ध रूप से पचता है।",

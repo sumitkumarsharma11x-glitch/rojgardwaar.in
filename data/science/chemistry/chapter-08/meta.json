@@ -10,7 +10,7 @@
   "mockQuestionCount": 30,
   "topics": [
     {
-      "id": "chemistry-chapter-08",
+      "id": "core",
       "name": {
         "hi": "अम्ल, क्षार, लवण एवं सूचक",
         "en": "Acids, Bases, Salts and Indicators"
@@ -24,7 +24,7 @@
   "notes": {
     "hi": {
       "concept": "अम्ल, क्षार, लवण एवं सूचक को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
-      "example": "अम्ल, क्षार, लवण एवं सूचक का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
+      "example": "नीले लिटमस का लाल होना अम्लीय विलयन का संकेत है, जबकि लाल लिटमस का नीला होना क्षारीय विलयन का संकेत है। अम्ल और क्षार की अभिक्रिया से सामान्यतः लवण और जल बनते हैं; इसे उदासीनीकरण कहते हैं।",
       "sections": [
         {
           "heading": "अम्ल और क्षार",
@@ -48,16 +48,17 @@
         }
       ],
       "keyPoints": [
-        "अम्ल, क्षार, लवण एवं सूचक की मूल परिभाषा समझें।",
-        "मुख्य गुणों को उदाहरणों के साथ जोड़ें।",
-        "समान अवधारणाओं के बीच अंतर पहचानें।",
-        "दैनिक जीवन के अनुप्रयोगों पर ध्यान दें।"
+        "अम्ल और क्षार की पहचान सूचक तथा उनके रासायनिक व्यवहार से की जाती है।",
+        "pH 7 से कम अम्लीय, 7 के आसपास उदासीन और 7 से अधिक क्षारीय विलयन दर्शाता है।",
+        "उदासीनीकरण में अम्ल और क्षार से लवण तथा जल बनते हैं।",
+        "लवणों के गुण उनके आयनों और निर्माण की अभिक्रिया पर निर्भर करते हैं।",
+        "सूचक का रंग बदलना अकेले किसी अज्ञात पदार्थ की पूरी पहचान नहीं बताता।"
       ],
       "examFocus": [
-        "परिभाषा और मूल अवधारणा",
-        "मुख्य गुण और उदाहरण",
-        "तुलना तथा कारण आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "लिटमस और अन्य सूचकों के रंग परिवर्तन",
+        "pH पैमाने की व्याख्या",
+        "उदासीनीकरण के उत्पाद",
+        "अम्ल, क्षार और लवण के दैनिक जीवन के उदाहरण"
       ],
       "examTraps": [
         "सिर्फ keyword देखकर उत्तर न चुनें।",
@@ -84,7 +85,7 @@
     },
     "en": {
       "concept": "Study Acids, Bases, Salts and Indicators through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
-      "example": "Learning Acids, Bases, Salts and Indicators through examples and applications makes concept-based questions easier to solve.",
+      "example": "Blue litmus turning red indicates an acidic solution, while red litmus turning blue indicates a basic solution. An acid reacting with a base generally forms salt and water; this is called neutralisation.",
       "sections": [
         {
           "heading": "Acids and bases",
@@ -108,16 +109,17 @@
         }
       ],
       "keyPoints": [
-        "Understand the core definition of Acids, Bases, Salts and Indicators.",
-        "Connect key properties with examples.",
-        "Distinguish closely related concepts.",
-        "Focus on practical applications."
+        "Acids and bases are identified using indicators and their chemical behaviour.",
+        "A pH below 7 is acidic, around 7 neutral and above 7 basic in the usual aqueous scale.",
+        "Neutralisation of an acid by a base forms salt and water.",
+        "Salt properties depend on their ions and the reaction by which they form.",
+        "An indicator colour change alone does not fully identify an unknown substance."
       ],
       "examFocus": [
-        "Definitions and core concepts",
-        "Key properties and examples",
-        "Comparison and reason-based questions",
-        "Application-based questions"
+        "Colour changes of litmus and other indicators",
+        "Interpreting the pH scale",
+        "Products of neutralisation",
+        "Everyday examples of acids, bases and salts"
       ],
       "examTraps": [
         "Do not select an option only because it contains a familiar keyword.",

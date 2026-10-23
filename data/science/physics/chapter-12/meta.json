@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "solar-system",
+      "name": {
+        "hi": "सौर परिवार",
+        "en": "Solar System"
+      }
+    },
+    {
+      "id": "day-night-and-seasons",
+      "name": {
+        "hi": "दिन-रात एवं ऋतुएँ",
+        "en": "Day Night And Seasons"
+      }
+    },
+    {
+      "id": "moon-phases-and-eclipses",
+      "name": {
+        "hi": "चंद्रमा की कलाएँ एवं ग्रहण",
+        "en": "Moon Phases And Eclipses"
+      }
+    },
+    {
+      "id": "indian-space-missions",
+      "name": {
+        "hi": "भारतीय अंतरिक्ष अभियान",
+        "en": "Indian Space Missions"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "हमारा सौर परिवार सूर्य और उसके चारों ओर घूमते आठ ग्रहों, उपग्रहों, क्षुद्रग्रहों और धूमकेतुओं से बना है। पृथ्वी की घूर्णन और परिक्रमा से दिन-रात और ऋतु परिवर्तन होते हैं, जबकि चंद्रमा की स्थिति से कलाएँ और ग्रहण बनते हैं। भारत के अंतरिक्ष अभियान और कृत्रिम उपग्रह भी परीक्षा का भाग हैं।",

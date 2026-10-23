@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "sound-production",
+      "name": {
+        "hi": "ध्वनि का उत्पन्न एवं संचरण",
+        "en": "Sound Production"
+      }
+    },
+    {
+      "id": "sound-propagation",
+      "name": {
+        "hi": "तरंग गुण",
+        "en": "Sound Propagation"
+      }
+    },
+    {
+      "id": "wave-characteristics",
+      "name": {
+        "hi": "प्रतिध्वनि",
+        "en": "Wave Characteristics"
+      }
+    },
+    {
+      "id": "echo-ultrasound",
+      "name": {
+        "hi": "श्रव्यता सीमा एवं अनुप्रयोग",
+        "en": "Echo Ultrasound"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "ध्वनि कंपन से उत्पन्न होती है और माध्यम (ठोस, द्रव, गैस) में दाब-तरंगों के रूप में चलती है; निर्वात में ध्वनि नहीं चलती। आवृत्ति से पिच (सुर) और आयाम से तीव्रता (प्रबलता) निर्धारित होती है। परावर्तन से प्रतिध्वनि बनती है जिसकी सहायता से दूरी मापी जाती है।",

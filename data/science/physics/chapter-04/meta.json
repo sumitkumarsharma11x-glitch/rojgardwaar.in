@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "gravitation-law",
+      "name": {
+        "hi": "गुरुत्वाकर्षण का नियम",
+        "en": "Gravitation Law"
+      }
+    },
+    {
+      "id": "gravity-and-weight",
+      "name": {
+        "hi": "गुरुत्वीय त्वरण एवं भार",
+        "en": "Gravity And Weight"
+      }
+    },
+    {
+      "id": "pressure",
+      "name": {
+        "hi": "दाब",
+        "en": "Pressure"
+      }
+    },
+    {
+      "id": "buoyancy-flotation",
+      "name": {
+        "hi": "उत्प्लावकता",
+        "en": "Buoyancy Flotation"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "हर वस्तु हर दूसरी वस्तु को गुरुत्वाकर्षण बल से आकर्षित करती है। पृथ्वी के कारण यह बल वस्तुओं को नीचे खींचता है जिसे भार कहते हैं। दाब इकाई क्षेत्रफल पर लगने वाला बल है और द्रवों में गहराई के साथ बढ़ता है, जिससे उत्प्लावकता का नियम बनता है।",

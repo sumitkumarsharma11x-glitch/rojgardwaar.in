@@ -10,7 +10,7 @@
   "mockQuestionCount": 30,
   "topics": [
     {
-      "id": "chemistry-chapter-04",
+      "id": "core",
       "name": {
         "hi": "तत्व, यौगिक एवं शुद्ध पदार्थ",
         "en": "Elements, Compounds and Pure Substances"
@@ -24,7 +24,7 @@
   "notes": {
     "hi": {
       "concept": "तत्व एक ही प्रकार के परमाणुओं से बना शुद्ध पदार्थ है। यौगिक दो या अधिक तत्वों के निश्चित अनुपात में रासायनिक संयोजन से बनता है, जबकि मिश्रण में घटक भौतिक रूप से मिलते हैं और अनुपात बदल सकता है।",
-      "example": "ऑक्सीजन तत्व, पानी यौगिक और वायु मिश्रण है।",
+      "example": "ऑक्सीजन एक तत्व है, शुद्ध जल एक यौगिक है और वायु कई गैसों का मिश्रण है। पीतल तांबा और जस्ता की मिश्रधातु होने के कारण मिश्रण है, जबकि सोडियम क्लोराइड एक यौगिक है।",
       "sections": [
         {
           "heading": "तत्व",
@@ -48,14 +48,16 @@
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और सूत्र याद रखें",
-        "अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़कर विकल्प चुनें"
+        "तत्व को सामान्य रासायनिक विधियों से सरल पदार्थों में नहीं तोड़ा जा सकता।",
+        "यौगिक में तत्व निश्चित अनुपात में रासायनिक रूप से जुड़े होते हैं।",
+        "मिश्रण में घटकों का अनुपात बदल सकता है और वे अपने गुण बनाए रखते हैं।",
+        "शुद्ध पदार्थ की संरचना निश्चित होती है; वायु जैसे मिश्रण की संरचना बदल सकती है।"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "तत्व, यौगिक और मिश्रण के उदाहरण पहचानना",
+        "यौगिक और मिश्रण के बीच अंतर",
+        "रासायनिक सूत्र तथा निश्चित अनुपात की समझ",
+        "दैनिक जीवन के पदार्थों का वर्गीकरण"
       ],
       "examTraps": [
         "यौगिक को मिश्रण न समझें; यौगिक के तत्व निश्चित अनुपात में रासायनिक रूप से जुड़े होते हैं।",
@@ -78,7 +80,7 @@
     },
     "en": {
       "concept": "An element is a pure substance made of one type of atom. A compound is formed when two or more elements combine chemically in a fixed proportion. In a mixture, substances are physically combined and their proportions may vary.",
-      "example": "Study Elements, Compounds and Pure Substances with definitions, examples, comparisons and applications so that the concept can be used to solve unfamiliar questions.",
+      "example": "Oxygen is an element, pure water is a compound, and air is a mixture of gases. Brass is a mixture (an alloy of copper and zinc), whereas sodium chloride is a compound.",
       "sections": [
         {
           "heading": "Elements",
@@ -102,16 +104,16 @@
         }
       ],
       "keyPoints": [
-        "Understand the core idea of Elements, Compounds and Pure Substances.",
-        "Connect each major concept with an example.",
-        "Distinguish closely related terms and processes.",
-        "Apply the concept to simple real-life or exam situations."
+        "An element cannot be broken into simpler substances by ordinary chemical methods.",
+        "A compound contains elements chemically combined in a fixed proportion.",
+        "Mixture components can vary in proportion and retain their properties.",
+        "A pure substance has a definite composition; the composition of a mixture such as air can vary."
       ],
       "examFocus": [
-        "Core definitions and concepts",
-        "Important properties and examples",
-        "Comparison and reasoning questions",
-        "Application-based questions"
+        "Classifying examples as elements, compounds or mixtures",
+        "Distinguishing compounds from mixtures",
+        "Understanding chemical formulae and fixed proportions",
+        "Classifying common everyday materials"
       ],
       "examTraps": [
         "Do not choose an answer only because a familiar keyword appears.",

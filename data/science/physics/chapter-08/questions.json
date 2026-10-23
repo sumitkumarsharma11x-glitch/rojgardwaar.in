@@ -332,7 +332,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "किताब प्रकाश रोकती है, इसलिए अपारदर्शी है।",
+        "hi": "प्रश्न “निम्न में से अपारदर्शी वस्तु कौन-सी है” में “किताब” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या राशि से मेल खाता है। “साफ़ पानी और हवा” अलग अवधारणाएँ हैं और इस स्थिति का उत्तर नहीं देतीं।",
         "en": "A book blocks light, hence it is opaque."
       }
     },
@@ -1005,7 +1005,7 @@
       "correct": 3,
       "explanation": {
         "hi": "परावर्तन, अवशोषण और संचरण प्रायः एक साथ होते हैं।",
-        "en": "Reflection, absorption and transmission usually happen together."
+        "en": "For “What happens when a light ray strikes an object,” “Part is reflected, part absorbed and part (if transparent) transmitted” matches the relevant scientific principle or quantity. “The whole ray returns back and The whole ray is absorbed” are different concepts and do not answer this situation."
       }
     },
     {
@@ -1480,8 +1480,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "दोनों कोण अभिलंब से मापे जाते हैं।",
-        "en": "Both angles are measured from the normal."
+        "hi": "परावर्तन में प्रकाश सतह से लौटता है; परावर्तन के नियम के अनुसार आपतन कोण और परावर्तन कोण बराबर होते हैं।",
+        "en": "Reflection sends light back from a surface; the angle of incidence equals the angle of reflection."
       }
     },
     {
@@ -1704,8 +1704,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "अवतल दर्पण अभिसारी दर्पण है।",
-        "en": "A concave mirror is a converging mirror."
+        "hi": "परावर्तन में प्रकाश सतह से लौटता है; परावर्तन के नियम के अनुसार आपतन कोण और परावर्तन कोण बराबर होते हैं।",
+        "en": "Reflection sends light back from a surface; the angle of incidence equals the angle of reflection."
       }
     },
     {
@@ -1732,8 +1732,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "उत्तल दर्पण अपसारी दर्पण है।",
-        "en": "A convex mirror is a diverging mirror."
+        "hi": "परावर्तन में प्रकाश सतह से लौटता है; परावर्तन के नियम के अनुसार आपतन कोण और परावर्तन कोण बराबर होते हैं।",
+        "en": "Reflection sends light back from a surface; the angle of incidence equals the angle of reflection."
       }
     },
     {
@@ -1844,8 +1844,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "गोलीय दर्पण के लिए f = R/2।",
-        "en": "For a spherical mirror f = R/2."
+        "hi": "परावर्तन में प्रकाश सतह से लौटता है; परावर्तन के नियम के अनुसार आपतन कोण और परावर्तन कोण बराबर होते हैं।",
+        "en": "Reflection sends light back from a surface; the angle of incidence equals the angle of reflection."
       }
     },
     {
@@ -1984,8 +1984,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "∠i = ∠r = 35 डिग्री।",
-        "en": "∠i = ∠r = 35 degrees."
+        "hi": "परावर्तन में प्रकाश सतह से लौटता है; परावर्तन के नियम के अनुसार आपतन कोण और परावर्तन कोण बराबर होते हैं।",
+        "en": "Reflection sends light back from a surface; the angle of incidence equals the angle of reflection."
       }
     },
     {
@@ -2936,7 +2936,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "साधारण काँच का अपवर्तनांक लगभग 1.5 है।",
+        "hi": "अपवर्तन में माध्यम बदलने पर प्रकाश की चाल बदलती है और किरण मुड़ सकती है; दिशा का परिवर्तन आपतन कोण व अपवर्तनांक पर निर्भर है।",
         "en": "Ordinary glass has a refractive index of about 1.5."
       }
     },
@@ -2964,8 +2964,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "उत्तल लेंस अभिसारी लेंस है।",
-        "en": "A convex lens is a converging lens."
+        "hi": "अपवर्तन में माध्यम बदलने पर प्रकाश की चाल बदलती है और किरण मुड़ सकती है; दिशा का परिवर्तन आपतन कोण व अपवर्तनांक पर निर्भर है।",
+        "en": "Refraction occurs when light changes speed between media and may bend; the change depends on incidence angle and refractive index."
       }
     },
     {
@@ -2992,8 +2992,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "अवतल लेंस अपसारी लेंस है।",
-        "en": "A concave lens is a diverging lens."
+        "hi": "अपवर्तन में माध्यम बदलने पर प्रकाश की चाल बदलती है और किरण मुड़ सकती है; दिशा का परिवर्तन आपतन कोण व अपवर्तनांक पर निर्भर है।",
+        "en": "Refraction occurs when light changes speed between media and may bend; the change depends on incidence angle and refractive index."
       }
     },
     {
@@ -4337,7 +4337,7 @@
       "correct": 2,
       "explanation": {
         "hi": "वर्षा की बूँदें छोटे प्रिज़्म की तरह व्यवहार करती हैं।",
-        "en": "Raindrops behave like tiny prisms."
+        "en": "For “A rainbow is the result of which phenomenon,” “Dispersion of light by water droplets” matches the relevant scientific principle or quantity. “Reflection of sound and Absorption of light” are different concepts and do not answer this situation."
       }
     },
     {
@@ -4364,8 +4364,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "लाल का विचलन न्यूनतम, बैंगनी का अधिकतम।",
-        "en": "Red is deviated least, violet most."
+        "hi": "प्रश्न “प्रिज़्म में किस रंग का विचलन सबसे कम होता है” में “लाल” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या राशि से मेल खाता है। “बैंगनी और नीला” अलग अवधारणाएँ हैं और इस स्थिति का उत्तर नहीं देतीं।",
+        "en": "For “Which colour is deviated the least in a prism,” “Red” matches the relevant scientific principle or quantity. “Violet and Blue” are different concepts and do not answer this situation."
       }
     },
     {
