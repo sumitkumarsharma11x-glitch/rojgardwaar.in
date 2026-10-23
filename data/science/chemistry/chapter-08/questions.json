@@ -39,19 +39,19 @@
       },
       "options": {
         "hi": [
+          "फल जैसा",
           "कड़वा",
           "खट्टा",
-          "मीठा",
-          "फल जैसा"
+          "मीठा"
         ],
         "en": [
+          "Fruity",
           "Bitter",
           "Sour",
-          "Sweet",
-          "Fruity"
+          "Sweet"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: कड़वा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Bitter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -67,19 +67,19 @@
       },
       "options": {
         "hi": [
-          "लाल",
-          "नीला",
           "हरा",
-          "पीला"
+          "पीला",
+          "लाल",
+          "नीला"
         ],
         "en": [
-          "Red",
-          "Blue",
           "Green",
-          "Yellow"
+          "Yellow",
+          "Red",
+          "Blue"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -95,19 +95,19 @@
       },
       "options": {
         "hi": [
-          "नीला",
           "लाल",
           "पीला",
-          "काला"
+          "काला",
+          "नीला"
         ],
         "en": [
-          "Blue",
           "Red",
           "Yellow",
-          "Black"
+          "Black",
+          "Blue"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नीला। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Blue. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -151,19 +151,19 @@
       },
       "options": {
         "hi": [
+          "हमेशा लवणीय",
           "अम्लीय",
           "क्षारीय",
-          "उदासीन",
-          "हमेशा लवणीय"
+          "उदासीन"
         ],
         "en": [
+          "Always saline",
           "Acidic",
           "Basic",
-          "Neutral",
-          "Always saline"
+          "Neutral"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अम्लीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Acidic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -179,19 +179,19 @@
       },
       "options": {
         "hi": [
-          "क्षारीय",
-          "अम्लीय",
           "उदासीन",
-          "केवल गैसीय"
+          "केवल गैसीय",
+          "क्षारीय",
+          "अम्लीय"
         ],
         "en": [
-          "Basic",
-          "Acidic",
           "Neutral",
-          "Only gaseous"
+          "Only gaseous",
+          "Basic",
+          "Acidic"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्षारीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Basic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -207,19 +207,19 @@
       },
       "options": {
         "hi": [
-          "लाल-भूरी",
           "नीली",
           "हरी",
-          "सफेद"
+          "सफेद",
+          "लाल-भूरी"
         ],
         "en": [
-          "Reddish-brown",
           "Blue",
           "Green",
-          "White"
+          "White",
+          "Reddish-brown"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लाल-भूरी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Reddish-brown. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -263,19 +263,19 @@
       },
       "options": {
         "hi": [
+          "हरा",
           "लाल",
           "पीला",
-          "नीला",
-          "हरा"
+          "नीला"
         ],
         "en": [
+          "Green",
           "Red",
           "Yellow",
-          "Blue",
-          "Green"
+          "Blue"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -291,19 +291,19 @@
       },
       "options": {
         "hi": [
-          "उदासीनीकरण",
-          "विस्थापन",
           "अपघटन",
-          "उर्ध्वपातन"
+          "उर्ध्वपातन",
+          "उदासीनीकरण",
+          "विस्थापन"
         ],
         "en": [
-          "Neutralization",
-          "Displacement",
           "Decomposition",
-          "Sublimation"
+          "Sublimation",
+          "Neutralization",
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उदासीनीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutralization. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -319,19 +319,19 @@
       },
       "options": {
         "hi": [
-          "हाइड्रोक्लोरिक अम्ल",
           "सल्फ्यूरिक अम्ल",
           "नाइट्रिक अम्ल",
-          "एसीटिक अम्ल"
+          "एसीटिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
-          "Hydrochloric acid",
           "Sulfuric acid",
           "Nitric acid",
-          "Acetic acid"
+          "Acetic acid",
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोक्लोरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrochloric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -375,19 +375,19 @@
       },
       "options": {
         "hi": [
+          "नाइट्रिक अम्ल",
           "एसीटिक अम्ल",
           "सल्फ्यूरिक अम्ल",
-          "हाइड्रोक्लोरिक अम्ल",
-          "नाइट्रिक अम्ल"
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
+          "Nitric acid",
           "Acetic acid",
           "Sulfuric acid",
-          "Hydrochloric acid",
-          "Nitric acid"
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: एसीटिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Acetic acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -403,19 +403,19 @@
       },
       "options": {
         "hi": [
-          "NaCl",
-          "NaOH",
           "HCl",
-          "KClO"
+          "KClO",
+          "NaCl",
+          "NaOH"
         ],
         "en": [
-          "NaCl",
-          "NaOH",
           "HCl",
-          "KClO"
+          "KClO",
+          "NaCl",
+          "NaOH"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: NaCl। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: NaCl. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -431,19 +431,19 @@
       },
       "options": {
         "hi": [
-          "NaHCO₃",
           "NaCl",
           "Na₂CO₃",
-          "CaCO₃"
+          "CaCO₃",
+          "NaHCO₃"
         ],
         "en": [
-          "NaHCO₃",
           "NaCl",
           "Na₂CO₃",
-          "CaCO₃"
+          "CaCO₃",
+          "NaHCO₃"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: NaHCO₃। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: NaHCO₃. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -487,19 +487,19 @@
       },
       "options": {
         "hi": [
+          "NaCl",
           "Ca(OH)₂",
           "NaOH",
-          "HCl",
-          "NaCl"
+          "HCl"
         ],
         "en": [
+          "NaCl",
           "Ca(OH)₂",
           "NaOH",
-          "HCl",
-          "NaCl"
+          "HCl"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Ca(OH)₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Ca(OH)₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -515,19 +515,19 @@
       },
       "options": {
         "hi": [
-          "यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है",
-          "यह अम्ल बनाता है",
           "यह शर्करा बढ़ाता है",
-          "यह दाँत घोलता है"
+          "यह दाँत घोलता है",
+          "यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है",
+          "यह अम्ल बनाता है"
         ],
         "en": [
-          "It makes tooth enamel more resistant",
-          "It produces acid",
           "It increases sugar",
-          "It dissolves teeth"
+          "It dissolves teeth",
+          "It makes tooth enamel more resistant",
+          "It produces acid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It makes tooth enamel more resistant. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -543,19 +543,19 @@
       },
       "options": {
         "hi": [
-          "हाइड्रोक्लोरिक अम्ल",
           "सल्फ्यूरिक अम्ल",
           "नाइट्रिक अम्ल",
-          "एसीटिक अम्ल"
+          "एसीटिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
-          "Hydrochloric acid",
           "Sulfuric acid",
           "Nitric acid",
-          "Acetic acid"
+          "Acetic acid",
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोक्लोरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrochloric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -599,19 +599,19 @@
       },
       "options": {
         "hi": [
+          "कार्बन डाइऑक्साइड हमेशा",
           "हाइड्रोजन",
           "ऑक्सीजन",
-          "नाइट्रोजन",
-          "कार्बन डाइऑक्साइड हमेशा"
+          "नाइट्रोजन"
         ],
         "en": [
+          "Always carbon dioxide",
           "Hydrogen",
           "Oxygen",
-          "Nitrogen",
-          "Always carbon dioxide"
+          "Nitrogen"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrogen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -627,19 +627,19 @@
       },
       "options": {
         "hi": [
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन",
           "ऑक्सीजन",
-          "क्लोरीन"
+          "क्लोरीन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन"
         ],
         "en": [
-          "Carbon dioxide",
-          "Hydrogen",
           "Oxygen",
-          "Chlorine"
+          "Chlorine",
+          "Carbon dioxide",
+          "Hydrogen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: कार्बन डाइऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Carbon dioxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -655,19 +655,19 @@
       },
       "options": {
         "hi": [
-          "अम्ल और क्षार की अभिक्रिया से",
           "केवल पानी उबालने से",
           "केवल चुंबक से",
-          "केवल निस्यंदन से"
+          "केवल निस्यंदन से",
+          "अम्ल और क्षार की अभिक्रिया से"
         ],
         "en": [
-          "By reaction of an acid and a base",
           "Only by boiling water",
           "Only with a magnet",
-          "Only by filtration"
+          "Only by filtration",
+          "By reaction of an acid and a base"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अम्ल और क्षार की अभिक्रिया से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By reaction of an acid and a base. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -711,19 +711,19 @@
       },
       "options": {
         "hi": [
+          "नाइट्रिक अम्ल",
           "लैक्टिक अम्ल",
           "सिट्रिक अम्ल",
-          "हाइड्रोक्लोरिक अम्ल",
-          "नाइट्रिक अम्ल"
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
+          "Nitric acid",
           "Lactic acid",
           "Citric acid",
-          "Hydrochloric acid",
-          "Nitric acid"
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लैक्टिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Lactic acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -739,19 +739,19 @@
       },
       "options": {
         "hi": [
-          "क्षारीय",
-          "अम्लीय",
           "उदासीन",
-          "हमेशा गैसीय"
+          "हमेशा गैसीय",
+          "क्षारीय",
+          "अम्लीय"
         ],
         "en": [
-          "Basic",
-          "Acidic",
           "Neutral",
-          "Always gaseous"
+          "Always gaseous",
+          "Basic",
+          "Acidic"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्षारीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Basic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -767,19 +767,19 @@
       },
       "options": {
         "hi": [
-          "5.6",
           "7.0",
           "8.5",
-          "10"
+          "10",
+          "5.6"
         ],
         "en": [
-          "5.6",
           "7.0",
           "8.5",
-          "10"
+          "10",
+          "5.6"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 5.6। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 5.6. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -823,19 +823,19 @@
       },
       "options": {
         "hi": [
+          "नमकीन ही",
           "खट्टा",
           "मीठा",
-          "कड़वा",
-          "नमकीन ही"
+          "कड़वा"
         ],
         "en": [
+          "Always salty",
           "Sour",
           "Sweet",
-          "Bitter",
-          "Always salty"
+          "Bitter"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: खट्टा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sour. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -851,19 +851,19 @@
       },
       "options": {
         "hi": [
-          "खट्टा",
-          "मीठा",
           "कड़वा",
-          "नमकीन ही"
+          "नमकीन ही",
+          "खट्टा",
+          "मीठा"
         ],
         "en": [
-          "Sour",
-          "Sweet",
           "Bitter",
-          "Always salty"
+          "Always salty",
+          "Sour",
+          "Sweet"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: खट्टा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sour. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -879,19 +879,19 @@
       },
       "options": {
         "hi": [
-          "खट्टा",
           "मीठा",
           "कड़वा",
-          "नमकीन ही"
+          "नमकीन ही",
+          "खट्टा"
         ],
         "en": [
-          "Sour",
           "Sweet",
           "Bitter",
-          "Always salty"
+          "Always salty",
+          "Sour"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: खट्टा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sour. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -935,19 +935,19 @@
       },
       "options": {
         "hi": [
+          "फल जैसा",
           "कड़वा",
           "खट्टा",
-          "मीठा",
-          "फल जैसा"
+          "मीठा"
         ],
         "en": [
+          "Fruity",
           "Bitter",
           "Sour",
-          "Sweet",
-          "Fruity"
+          "Sweet"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: कड़वा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Bitter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -963,19 +963,19 @@
       },
       "options": {
         "hi": [
-          "कड़वा",
-          "खट्टा",
           "मीठा",
-          "फल जैसा"
+          "फल जैसा",
+          "कड़वा",
+          "खट्टा"
         ],
         "en": [
-          "Bitter",
-          "Sour",
           "Sweet",
-          "Fruity"
+          "Fruity",
+          "Bitter",
+          "Sour"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: कड़वा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Bitter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -991,19 +991,19 @@
       },
       "options": {
         "hi": [
-          "कड़वा",
           "खट्टा",
           "मीठा",
-          "फल जैसा"
+          "फल जैसा",
+          "कड़वा"
         ],
         "en": [
-          "Bitter",
           "Sour",
           "Sweet",
-          "Fruity"
+          "Fruity",
+          "Bitter"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: कड़वा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Bitter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1047,19 +1047,19 @@
       },
       "options": {
         "hi": [
+          "पीला",
           "लाल",
           "नीला",
-          "हरा",
-          "पीला"
+          "हरा"
         ],
         "en": [
+          "Yellow",
           "Red",
           "Blue",
-          "Green",
-          "Yellow"
+          "Green"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1075,19 +1075,19 @@
       },
       "options": {
         "hi": [
-          "लाल",
-          "नीला",
           "हरा",
-          "पीला"
+          "पीला",
+          "लाल",
+          "नीला"
         ],
         "en": [
-          "Red",
-          "Blue",
           "Green",
-          "Yellow"
+          "Yellow",
+          "Red",
+          "Blue"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1103,19 +1103,19 @@
       },
       "options": {
         "hi": [
-          "लाल",
           "नीला",
           "हरा",
-          "पीला"
+          "पीला",
+          "लाल"
         ],
         "en": [
-          "Red",
           "Blue",
           "Green",
-          "Yellow"
+          "Yellow",
+          "Red"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1159,19 +1159,19 @@
       },
       "options": {
         "hi": [
+          "काला",
           "नीला",
           "लाल",
-          "पीला",
-          "काला"
+          "पीला"
         ],
         "en": [
+          "Black",
           "Blue",
           "Red",
-          "Yellow",
-          "Black"
+          "Yellow"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: नीला। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Blue. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1187,19 +1187,19 @@
       },
       "options": {
         "hi": [
-          "नीला",
-          "लाल",
           "पीला",
-          "काला"
+          "काला",
+          "नीला",
+          "लाल"
         ],
         "en": [
-          "Blue",
-          "Red",
           "Yellow",
-          "Black"
+          "Black",
+          "Blue",
+          "Red"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: नीला। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Blue. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1215,19 +1215,19 @@
       },
       "options": {
         "hi": [
-          "नीला",
           "लाल",
           "पीला",
-          "काला"
+          "काला",
+          "नीला"
         ],
         "en": [
-          "Blue",
           "Red",
           "Yellow",
-          "Black"
+          "Black",
+          "Blue"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: नीला। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Blue. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1271,19 +1271,19 @@
       },
       "options": {
         "hi": [
+          "अत्यधिक अम्ल",
           "उदासीनता",
           "अम्लीयता",
-          "क्षारीयता",
-          "अत्यधिक अम्ल"
+          "क्षारीयता"
         ],
         "en": [
+          "Strong acid",
           "Neutrality",
           "Acidity",
-          "Basicity",
-          "Strong acid"
+          "Basicity"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उदासीनता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutrality. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1299,19 +1299,19 @@
       },
       "options": {
         "hi": [
-          "उदासीनता",
-          "अम्लीयता",
           "क्षारीयता",
-          "अत्यधिक अम्ल"
+          "अत्यधिक अम्ल",
+          "उदासीनता",
+          "अम्लीयता"
         ],
         "en": [
-          "Neutrality",
-          "Acidity",
           "Basicity",
-          "Strong acid"
+          "Strong acid",
+          "Neutrality",
+          "Acidity"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उदासीनता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutrality. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1327,19 +1327,19 @@
       },
       "options": {
         "hi": [
-          "उदासीनता",
           "अम्लीयता",
           "क्षारीयता",
-          "अत्यधिक अम्ल"
+          "अत्यधिक अम्ल",
+          "उदासीनता"
         ],
         "en": [
-          "Neutrality",
           "Acidity",
           "Basicity",
-          "Strong acid"
+          "Strong acid",
+          "Neutrality"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उदासीनता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutrality. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1383,19 +1383,19 @@
       },
       "options": {
         "hi": [
+          "हमेशा लवणीय",
           "अम्लीय",
           "क्षारीय",
-          "उदासीन",
-          "हमेशा लवणीय"
+          "उदासीन"
         ],
         "en": [
+          "Always saline",
           "Acidic",
           "Basic",
-          "Neutral",
-          "Always saline"
+          "Neutral"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अम्लीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Acidic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1411,19 +1411,19 @@
       },
       "options": {
         "hi": [
-          "अम्लीय",
-          "क्षारीय",
           "उदासीन",
-          "हमेशा लवणीय"
+          "हमेशा लवणीय",
+          "अम्लीय",
+          "क्षारीय"
         ],
         "en": [
-          "Acidic",
-          "Basic",
           "Neutral",
-          "Always saline"
+          "Always saline",
+          "Acidic",
+          "Basic"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अम्लीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Acidic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1439,19 +1439,19 @@
       },
       "options": {
         "hi": [
-          "अम्लीय",
           "क्षारीय",
           "उदासीन",
-          "हमेशा लवणीय"
+          "हमेशा लवणीय",
+          "अम्लीय"
         ],
         "en": [
-          "Acidic",
           "Basic",
           "Neutral",
-          "Always saline"
+          "Always saline",
+          "Acidic"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अम्लीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Acidic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1495,19 +1495,19 @@
       },
       "options": {
         "hi": [
+          "केवल गैसीय",
           "क्षारीय",
           "अम्लीय",
-          "उदासीन",
-          "केवल गैसीय"
+          "उदासीन"
         ],
         "en": [
+          "Only gaseous",
           "Basic",
           "Acidic",
-          "Neutral",
-          "Only gaseous"
+          "Neutral"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्षारीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Basic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1523,19 +1523,19 @@
       },
       "options": {
         "hi": [
-          "क्षारीय",
-          "अम्लीय",
           "उदासीन",
-          "केवल गैसीय"
+          "केवल गैसीय",
+          "क्षारीय",
+          "अम्लीय"
         ],
         "en": [
-          "Basic",
-          "Acidic",
           "Neutral",
-          "Only gaseous"
+          "Only gaseous",
+          "Basic",
+          "Acidic"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्षारीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Basic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1551,19 +1551,19 @@
       },
       "options": {
         "hi": [
-          "क्षारीय",
           "अम्लीय",
           "उदासीन",
-          "केवल गैसीय"
+          "केवल गैसीय",
+          "क्षारीय"
         ],
         "en": [
-          "Basic",
           "Acidic",
           "Neutral",
-          "Only gaseous"
+          "Only gaseous",
+          "Basic"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: क्षारीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Basic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1607,19 +1607,19 @@
       },
       "options": {
         "hi": [
+          "सफेद",
           "लाल-भूरी",
           "नीली",
-          "हरी",
-          "सफेद"
+          "हरी"
         ],
         "en": [
+          "White",
           "Reddish-brown",
           "Blue",
-          "Green",
-          "White"
+          "Green"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लाल-भूरी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Reddish-brown. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1635,19 +1635,19 @@
       },
       "options": {
         "hi": [
-          "लाल-भूरी",
-          "नीली",
           "हरी",
-          "सफेद"
+          "सफेद",
+          "लाल-भूरी",
+          "नीली"
         ],
         "en": [
-          "Reddish-brown",
-          "Blue",
           "Green",
-          "White"
+          "White",
+          "Reddish-brown",
+          "Blue"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: लाल-भूरी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Reddish-brown. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1663,19 +1663,19 @@
       },
       "options": {
         "hi": [
-          "लाल-भूरी",
           "नीली",
           "हरी",
-          "सफेद"
+          "सफेद",
+          "लाल-भूरी"
         ],
         "en": [
-          "Reddish-brown",
           "Blue",
           "Green",
-          "White"
+          "White",
+          "Reddish-brown"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लाल-भूरी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Reddish-brown. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1719,19 +1719,19 @@
       },
       "options": {
         "hi": [
+          "नीली",
           "गुलाबी",
           "रंगहीन",
-          "पीली",
-          "नीली"
+          "पीली"
         ],
         "en": [
+          "Blue",
           "Pink",
           "Colourless",
-          "Yellow",
-          "Blue"
+          "Yellow"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: गुलाबी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pink. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1747,19 +1747,19 @@
       },
       "options": {
         "hi": [
-          "गुलाबी",
-          "रंगहीन",
           "पीली",
-          "नीली"
+          "नीली",
+          "गुलाबी",
+          "रंगहीन"
         ],
         "en": [
-          "Pink",
-          "Colourless",
           "Yellow",
-          "Blue"
+          "Blue",
+          "Pink",
+          "Colourless"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: गुलाबी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pink. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1775,19 +1775,19 @@
       },
       "options": {
         "hi": [
-          "गुलाबी",
           "रंगहीन",
           "पीली",
-          "नीली"
+          "नीली",
+          "गुलाबी"
         ],
         "en": [
-          "Pink",
           "Colourless",
           "Yellow",
-          "Blue"
+          "Blue",
+          "Pink"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: गुलाबी। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Pink. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1831,19 +1831,19 @@
       },
       "options": {
         "hi": [
+          "हरा",
           "लाल",
           "पीला",
-          "नीला",
-          "हरा"
+          "नीला"
         ],
         "en": [
+          "Green",
           "Red",
           "Yellow",
-          "Blue",
-          "Green"
+          "Blue"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1859,19 +1859,19 @@
       },
       "options": {
         "hi": [
-          "लाल",
-          "पीला",
           "नीला",
-          "हरा"
+          "हरा",
+          "लाल",
+          "पीला"
         ],
         "en": [
-          "Red",
-          "Yellow",
           "Blue",
-          "Green"
+          "Green",
+          "Red",
+          "Yellow"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1887,19 +1887,19 @@
       },
       "options": {
         "hi": [
-          "लाल",
           "पीला",
           "नीला",
-          "हरा"
+          "हरा",
+          "लाल"
         ],
         "en": [
-          "Red",
           "Yellow",
           "Blue",
-          "Green"
+          "Green",
+          "Red"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1943,19 +1943,19 @@
       },
       "options": {
         "hi": [
+          "उर्ध्वपातन",
           "उदासीनीकरण",
           "विस्थापन",
-          "अपघटन",
-          "उर्ध्वपातन"
+          "अपघटन"
         ],
         "en": [
+          "Sublimation",
           "Neutralization",
           "Displacement",
-          "Decomposition",
-          "Sublimation"
+          "Decomposition"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उदासीनीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutralization. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1971,19 +1971,19 @@
       },
       "options": {
         "hi": [
-          "उदासीनीकरण",
-          "विस्थापन",
           "अपघटन",
-          "उर्ध्वपातन"
+          "उर्ध्वपातन",
+          "उदासीनीकरण",
+          "विस्थापन"
         ],
         "en": [
-          "Neutralization",
-          "Displacement",
           "Decomposition",
-          "Sublimation"
+          "Sublimation",
+          "Neutralization",
+          "Displacement"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: उदासीनीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutralization. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -1999,19 +1999,19 @@
       },
       "options": {
         "hi": [
-          "उदासीनीकरण",
           "विस्थापन",
           "अपघटन",
-          "उर्ध्वपातन"
+          "उर्ध्वपातन",
+          "उदासीनीकरण"
         ],
         "en": [
-          "Neutralization",
           "Displacement",
           "Decomposition",
-          "Sublimation"
+          "Sublimation",
+          "Neutralization"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: उदासीनीकरण। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutralization. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2055,19 +2055,19 @@
       },
       "options": {
         "hi": [
+          "एसीटिक अम्ल",
           "हाइड्रोक्लोरिक अम्ल",
           "सल्फ्यूरिक अम्ल",
-          "नाइट्रिक अम्ल",
-          "एसीटिक अम्ल"
+          "नाइट्रिक अम्ल"
         ],
         "en": [
+          "Acetic acid",
           "Hydrochloric acid",
           "Sulfuric acid",
-          "Nitric acid",
-          "Acetic acid"
+          "Nitric acid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोक्लोरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrochloric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2083,19 +2083,19 @@
       },
       "options": {
         "hi": [
-          "हाइड्रोक्लोरिक अम्ल",
-          "सल्फ्यूरिक अम्ल",
           "नाइट्रिक अम्ल",
-          "एसीटिक अम्ल"
+          "एसीटिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल",
+          "सल्फ्यूरिक अम्ल"
         ],
         "en": [
-          "Hydrochloric acid",
-          "Sulfuric acid",
           "Nitric acid",
-          "Acetic acid"
+          "Acetic acid",
+          "Hydrochloric acid",
+          "Sulfuric acid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोक्लोरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrochloric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2111,19 +2111,19 @@
       },
       "options": {
         "hi": [
-          "हाइड्रोक्लोरिक अम्ल",
           "सल्फ्यूरिक अम्ल",
           "नाइट्रिक अम्ल",
-          "एसीटिक अम्ल"
+          "एसीटिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
-          "Hydrochloric acid",
           "Sulfuric acid",
           "Nitric acid",
-          "Acetic acid"
+          "Acetic acid",
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोक्लोरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrochloric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2167,19 +2167,19 @@
       },
       "options": {
         "hi": [
+          "कार्बोनिक अम्ल",
           "सल्फ्यूरिक अम्ल",
           "नाइट्रिक अम्ल",
-          "हाइड्रोक्लोरिक अम्ल",
-          "कार्बोनिक अम्ल"
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
+          "Carbonic acid",
           "Sulfuric acid",
           "Nitric acid",
-          "Hydrochloric acid",
-          "Carbonic acid"
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: सल्फ्यूरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sulfuric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2195,19 +2195,19 @@
       },
       "options": {
         "hi": [
-          "सल्फ्यूरिक अम्ल",
-          "नाइट्रिक अम्ल",
           "हाइड्रोक्लोरिक अम्ल",
-          "कार्बोनिक अम्ल"
+          "कार्बोनिक अम्ल",
+          "सल्फ्यूरिक अम्ल",
+          "नाइट्रिक अम्ल"
         ],
         "en": [
-          "Sulfuric acid",
-          "Nitric acid",
           "Hydrochloric acid",
-          "Carbonic acid"
+          "Carbonic acid",
+          "Sulfuric acid",
+          "Nitric acid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: सल्फ्यूरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sulfuric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2223,19 +2223,19 @@
       },
       "options": {
         "hi": [
-          "सल्फ्यूरिक अम्ल",
           "नाइट्रिक अम्ल",
           "हाइड्रोक्लोरिक अम्ल",
-          "कार्बोनिक अम्ल"
+          "कार्बोनिक अम्ल",
+          "सल्फ्यूरिक अम्ल"
         ],
         "en": [
-          "Sulfuric acid",
           "Nitric acid",
           "Hydrochloric acid",
-          "Carbonic acid"
+          "Carbonic acid",
+          "Sulfuric acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: सल्फ्यूरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sulfuric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2279,19 +2279,19 @@
       },
       "options": {
         "hi": [
+          "नाइट्रिक अम्ल",
           "एसीटिक अम्ल",
           "सल्फ्यूरिक अम्ल",
-          "हाइड्रोक्लोरिक अम्ल",
-          "नाइट्रिक अम्ल"
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
+          "Nitric acid",
           "Acetic acid",
           "Sulfuric acid",
-          "Hydrochloric acid",
-          "Nitric acid"
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: एसीटिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Acetic acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2307,19 +2307,19 @@
       },
       "options": {
         "hi": [
-          "एसीटिक अम्ल",
-          "सल्फ्यूरिक अम्ल",
           "हाइड्रोक्लोरिक अम्ल",
-          "नाइट्रिक अम्ल"
+          "नाइट्रिक अम्ल",
+          "एसीटिक अम्ल",
+          "सल्फ्यूरिक अम्ल"
         ],
         "en": [
-          "Acetic acid",
-          "Sulfuric acid",
           "Hydrochloric acid",
-          "Nitric acid"
+          "Nitric acid",
+          "Acetic acid",
+          "Sulfuric acid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: एसीटिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Acetic acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2335,19 +2335,19 @@
       },
       "options": {
         "hi": [
-          "एसीटिक अम्ल",
           "सल्फ्यूरिक अम्ल",
           "हाइड्रोक्लोरिक अम्ल",
-          "नाइट्रिक अम्ल"
+          "नाइट्रिक अम्ल",
+          "एसीटिक अम्ल"
         ],
         "en": [
-          "Acetic acid",
           "Sulfuric acid",
           "Hydrochloric acid",
-          "Nitric acid"
+          "Nitric acid",
+          "Acetic acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: एसीटिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Acetic acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2391,19 +2391,19 @@
       },
       "options": {
         "hi": [
+          "KClO",
           "NaCl",
           "NaOH",
-          "HCl",
-          "KClO"
+          "HCl"
         ],
         "en": [
+          "KClO",
           "NaCl",
           "NaOH",
-          "HCl",
-          "KClO"
+          "HCl"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: NaCl। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: NaCl. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2419,19 +2419,19 @@
       },
       "options": {
         "hi": [
-          "NaCl",
-          "NaOH",
           "HCl",
-          "KClO"
+          "KClO",
+          "NaCl",
+          "NaOH"
         ],
         "en": [
-          "NaCl",
-          "NaOH",
           "HCl",
-          "KClO"
+          "KClO",
+          "NaCl",
+          "NaOH"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: NaCl। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: NaCl. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2447,19 +2447,19 @@
       },
       "options": {
         "hi": [
-          "NaCl",
           "NaOH",
           "HCl",
-          "KClO"
+          "KClO",
+          "NaCl"
         ],
         "en": [
-          "NaCl",
           "NaOH",
           "HCl",
-          "KClO"
+          "KClO",
+          "NaCl"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: NaCl। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: NaCl. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2503,19 +2503,19 @@
       },
       "options": {
         "hi": [
+          "CaCO₃",
           "NaHCO₃",
           "NaCl",
-          "Na₂CO₃",
-          "CaCO₃"
+          "Na₂CO₃"
         ],
         "en": [
+          "CaCO₃",
           "NaHCO₃",
           "NaCl",
-          "Na₂CO₃",
-          "CaCO₃"
+          "Na₂CO₃"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: NaHCO₃। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: NaHCO₃. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2531,19 +2531,19 @@
       },
       "options": {
         "hi": [
-          "NaHCO₃",
-          "NaCl",
           "Na₂CO₃",
-          "CaCO₃"
+          "CaCO₃",
+          "NaHCO₃",
+          "NaCl"
         ],
         "en": [
-          "NaHCO₃",
-          "NaCl",
           "Na₂CO₃",
-          "CaCO₃"
+          "CaCO₃",
+          "NaHCO₃",
+          "NaCl"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: NaHCO₃। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: NaHCO₃. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2559,19 +2559,19 @@
       },
       "options": {
         "hi": [
-          "NaHCO₃",
           "NaCl",
           "Na₂CO₃",
-          "CaCO₃"
+          "CaCO₃",
+          "NaHCO₃"
         ],
         "en": [
-          "NaHCO₃",
           "NaCl",
           "Na₂CO₃",
-          "CaCO₃"
+          "CaCO₃",
+          "NaHCO₃"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: NaHCO₃। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: NaHCO₃. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2615,19 +2615,19 @@
       },
       "options": {
         "hi": [
+          "CaSO₄",
           "Na₂CO₃·10H₂O",
           "NaHCO₃",
-          "NaCl",
-          "CaSO₄"
+          "NaCl"
         ],
         "en": [
+          "CaSO₄",
           "Na₂CO₃·10H₂O",
           "NaHCO₃",
-          "NaCl",
-          "CaSO₄"
+          "NaCl"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Na₂CO₃·10H₂O। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Na₂CO₃·10H₂O. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2643,19 +2643,19 @@
       },
       "options": {
         "hi": [
-          "Na₂CO₃·10H₂O",
-          "NaHCO₃",
           "NaCl",
-          "CaSO₄"
+          "CaSO₄",
+          "Na₂CO₃·10H₂O",
+          "NaHCO₃"
         ],
         "en": [
-          "Na₂CO₃·10H₂O",
-          "NaHCO₃",
           "NaCl",
-          "CaSO₄"
+          "CaSO₄",
+          "Na₂CO₃·10H₂O",
+          "NaHCO₃"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: Na₂CO₃·10H₂O। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Na₂CO₃·10H₂O. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2671,19 +2671,19 @@
       },
       "options": {
         "hi": [
-          "Na₂CO₃·10H₂O",
           "NaHCO₃",
           "NaCl",
-          "CaSO₄"
+          "CaSO₄",
+          "Na₂CO₃·10H₂O"
         ],
         "en": [
-          "Na₂CO₃·10H₂O",
           "NaHCO₃",
           "NaCl",
-          "CaSO₄"
+          "CaSO₄",
+          "Na₂CO₃·10H₂O"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: Na₂CO₃·10H₂O। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Na₂CO₃·10H₂O. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2727,19 +2727,19 @@
       },
       "options": {
         "hi": [
+          "NaCl",
           "Ca(OH)₂",
           "NaOH",
-          "HCl",
-          "NaCl"
+          "HCl"
         ],
         "en": [
+          "NaCl",
           "Ca(OH)₂",
           "NaOH",
-          "HCl",
-          "NaCl"
+          "HCl"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: Ca(OH)₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Ca(OH)₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2755,19 +2755,19 @@
       },
       "options": {
         "hi": [
-          "Ca(OH)₂",
-          "NaOH",
           "HCl",
-          "NaCl"
+          "NaCl",
+          "Ca(OH)₂",
+          "NaOH"
         ],
         "en": [
-          "Ca(OH)₂",
-          "NaOH",
           "HCl",
-          "NaCl"
+          "NaCl",
+          "Ca(OH)₂",
+          "NaOH"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: Ca(OH)₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Ca(OH)₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2783,19 +2783,19 @@
       },
       "options": {
         "hi": [
-          "Ca(OH)₂",
           "NaOH",
           "HCl",
-          "NaCl"
+          "NaCl",
+          "Ca(OH)₂"
         ],
         "en": [
-          "Ca(OH)₂",
           "NaOH",
           "HCl",
-          "NaCl"
+          "NaCl",
+          "Ca(OH)₂"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: Ca(OH)₂। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Ca(OH)₂. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2839,19 +2839,19 @@
       },
       "options": {
         "hi": [
+          "यह दाँत घोलता है",
           "यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है",
           "यह अम्ल बनाता है",
-          "यह शर्करा बढ़ाता है",
-          "यह दाँत घोलता है"
+          "यह शर्करा बढ़ाता है"
         ],
         "en": [
+          "It dissolves teeth",
           "It makes tooth enamel more resistant",
           "It produces acid",
-          "It increases sugar",
-          "It dissolves teeth"
+          "It increases sugar"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It makes tooth enamel more resistant. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2867,19 +2867,19 @@
       },
       "options": {
         "hi": [
-          "यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है",
-          "यह अम्ल बनाता है",
           "यह शर्करा बढ़ाता है",
-          "यह दाँत घोलता है"
+          "यह दाँत घोलता है",
+          "यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है",
+          "यह अम्ल बनाता है"
         ],
         "en": [
-          "It makes tooth enamel more resistant",
-          "It produces acid",
           "It increases sugar",
-          "It dissolves teeth"
+          "It dissolves teeth",
+          "It makes tooth enamel more resistant",
+          "It produces acid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It makes tooth enamel more resistant. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2895,19 +2895,19 @@
       },
       "options": {
         "hi": [
-          "यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है",
           "यह अम्ल बनाता है",
           "यह शर्करा बढ़ाता है",
-          "यह दाँत घोलता है"
+          "यह दाँत घोलता है",
+          "यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है"
         ],
         "en": [
-          "It makes tooth enamel more resistant",
           "It produces acid",
           "It increases sugar",
-          "It dissolves teeth"
+          "It dissolves teeth",
+          "It makes tooth enamel more resistant"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: यह दाँतों के इनेमल को अधिक प्रतिरोधी बनाता है। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: It makes tooth enamel more resistant. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2951,19 +2951,19 @@
       },
       "options": {
         "hi": [
+          "एसीटिक अम्ल",
           "हाइड्रोक्लोरिक अम्ल",
           "सल्फ्यूरिक अम्ल",
-          "नाइट्रिक अम्ल",
-          "एसीटिक अम्ल"
+          "नाइट्रिक अम्ल"
         ],
         "en": [
+          "Acetic acid",
           "Hydrochloric acid",
           "Sulfuric acid",
-          "Nitric acid",
-          "Acetic acid"
+          "Nitric acid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोक्लोरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrochloric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -2979,19 +2979,19 @@
       },
       "options": {
         "hi": [
-          "हाइड्रोक्लोरिक अम्ल",
-          "सल्फ्यूरिक अम्ल",
           "नाइट्रिक अम्ल",
-          "एसीटिक अम्ल"
+          "एसीटिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल",
+          "सल्फ्यूरिक अम्ल"
         ],
         "en": [
-          "Hydrochloric acid",
-          "Sulfuric acid",
           "Nitric acid",
-          "Acetic acid"
+          "Acetic acid",
+          "Hydrochloric acid",
+          "Sulfuric acid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोक्लोरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrochloric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3007,19 +3007,19 @@
       },
       "options": {
         "hi": [
-          "हाइड्रोक्लोरिक अम्ल",
           "सल्फ्यूरिक अम्ल",
           "नाइट्रिक अम्ल",
-          "एसीटिक अम्ल"
+          "एसीटिक अम्ल",
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
-          "Hydrochloric acid",
           "Sulfuric acid",
           "Nitric acid",
-          "Acetic acid"
+          "Acetic acid",
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोक्लोरिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrochloric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3063,19 +3063,19 @@
       },
       "options": {
         "hi": [
+          "धातु गलाने के लिए",
           "अधिक पेट के अम्ल को निष्क्रिय करने के लिए",
           "रक्त में ऑक्सीजन बढ़ाने के लिए",
-          "पानी को नमकीन बनाने के लिए",
-          "धातु गलाने के लिए"
+          "पानी को नमकीन बनाने के लिए"
         ],
         "en": [
+          "To melt metals",
           "To neutralize excess stomach acid",
           "To increase oxygen in blood",
-          "To make water salty",
-          "To melt metals"
+          "To make water salty"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अधिक पेट के अम्ल को निष्क्रिय करने के लिए। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: To neutralize excess stomach acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3091,19 +3091,19 @@
       },
       "options": {
         "hi": [
-          "अधिक पेट के अम्ल को निष्क्रिय करने के लिए",
-          "रक्त में ऑक्सीजन बढ़ाने के लिए",
           "पानी को नमकीन बनाने के लिए",
-          "धातु गलाने के लिए"
+          "धातु गलाने के लिए",
+          "अधिक पेट के अम्ल को निष्क्रिय करने के लिए",
+          "रक्त में ऑक्सीजन बढ़ाने के लिए"
         ],
         "en": [
-          "To neutralize excess stomach acid",
-          "To increase oxygen in blood",
           "To make water salty",
-          "To melt metals"
+          "To melt metals",
+          "To neutralize excess stomach acid",
+          "To increase oxygen in blood"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अधिक पेट के अम्ल को निष्क्रिय करने के लिए। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: To neutralize excess stomach acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3119,19 +3119,19 @@
       },
       "options": {
         "hi": [
-          "अधिक पेट के अम्ल को निष्क्रिय करने के लिए",
           "रक्त में ऑक्सीजन बढ़ाने के लिए",
           "पानी को नमकीन बनाने के लिए",
-          "धातु गलाने के लिए"
+          "धातु गलाने के लिए",
+          "अधिक पेट के अम्ल को निष्क्रिय करने के लिए"
         ],
         "en": [
-          "To neutralize excess stomach acid",
           "To increase oxygen in blood",
           "To make water salty",
-          "To melt metals"
+          "To melt metals",
+          "To neutralize excess stomach acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अधिक पेट के अम्ल को निष्क्रिय करने के लिए। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: To neutralize excess stomach acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3175,19 +3175,19 @@
       },
       "options": {
         "hi": [
+          "कार्बन डाइऑक्साइड हमेशा",
           "हाइड्रोजन",
           "ऑक्सीजन",
-          "नाइट्रोजन",
-          "कार्बन डाइऑक्साइड हमेशा"
+          "नाइट्रोजन"
         ],
         "en": [
+          "Always carbon dioxide",
           "Hydrogen",
           "Oxygen",
-          "Nitrogen",
-          "Always carbon dioxide"
+          "Nitrogen"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrogen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3203,19 +3203,19 @@
       },
       "options": {
         "hi": [
-          "हाइड्रोजन",
-          "ऑक्सीजन",
           "नाइट्रोजन",
-          "कार्बन डाइऑक्साइड हमेशा"
+          "कार्बन डाइऑक्साइड हमेशा",
+          "हाइड्रोजन",
+          "ऑक्सीजन"
         ],
         "en": [
-          "Hydrogen",
-          "Oxygen",
           "Nitrogen",
-          "Always carbon dioxide"
+          "Always carbon dioxide",
+          "Hydrogen",
+          "Oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrogen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3231,19 +3231,19 @@
       },
       "options": {
         "hi": [
-          "हाइड्रोजन",
           "ऑक्सीजन",
           "नाइट्रोजन",
-          "कार्बन डाइऑक्साइड हमेशा"
+          "कार्बन डाइऑक्साइड हमेशा",
+          "हाइड्रोजन"
         ],
         "en": [
-          "Hydrogen",
           "Oxygen",
           "Nitrogen",
-          "Always carbon dioxide"
+          "Always carbon dioxide",
+          "Hydrogen"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: हाइड्रोजन। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Hydrogen. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3287,19 +3287,19 @@
       },
       "options": {
         "hi": [
+          "क्लोरीन",
           "कार्बन डाइऑक्साइड",
           "हाइड्रोजन",
-          "ऑक्सीजन",
-          "क्लोरीन"
+          "ऑक्सीजन"
         ],
         "en": [
+          "Chlorine",
           "Carbon dioxide",
           "Hydrogen",
-          "Oxygen",
-          "Chlorine"
+          "Oxygen"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: कार्बन डाइऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Carbon dioxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3315,19 +3315,19 @@
       },
       "options": {
         "hi": [
-          "कार्बन डाइऑक्साइड",
-          "हाइड्रोजन",
           "ऑक्सीजन",
-          "क्लोरीन"
+          "क्लोरीन",
+          "कार्बन डाइऑक्साइड",
+          "हाइड्रोजन"
         ],
         "en": [
-          "Carbon dioxide",
-          "Hydrogen",
           "Oxygen",
-          "Chlorine"
+          "Chlorine",
+          "Carbon dioxide",
+          "Hydrogen"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: कार्बन डाइऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Carbon dioxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3343,19 +3343,19 @@
       },
       "options": {
         "hi": [
-          "कार्बन डाइऑक्साइड",
           "हाइड्रोजन",
           "ऑक्सीजन",
-          "क्लोरीन"
+          "क्लोरीन",
+          "कार्बन डाइऑक्साइड"
         ],
         "en": [
-          "Carbon dioxide",
           "Hydrogen",
           "Oxygen",
-          "Chlorine"
+          "Chlorine",
+          "Carbon dioxide"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: कार्बन डाइऑक्साइड। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Carbon dioxide. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3399,19 +3399,19 @@
       },
       "options": {
         "hi": [
+          "केवल निस्यंदन से",
           "अम्ल और क्षार की अभिक्रिया से",
           "केवल पानी उबालने से",
-          "केवल चुंबक से",
-          "केवल निस्यंदन से"
+          "केवल चुंबक से"
         ],
         "en": [
+          "Only by filtration",
           "By reaction of an acid and a base",
           "Only by boiling water",
-          "Only with a magnet",
-          "Only by filtration"
+          "Only with a magnet"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: अम्ल और क्षार की अभिक्रिया से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By reaction of an acid and a base. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3427,19 +3427,19 @@
       },
       "options": {
         "hi": [
-          "अम्ल और क्षार की अभिक्रिया से",
-          "केवल पानी उबालने से",
           "केवल चुंबक से",
-          "केवल निस्यंदन से"
+          "केवल निस्यंदन से",
+          "अम्ल और क्षार की अभिक्रिया से",
+          "केवल पानी उबालने से"
         ],
         "en": [
-          "By reaction of an acid and a base",
-          "Only by boiling water",
           "Only with a magnet",
-          "Only by filtration"
+          "Only by filtration",
+          "By reaction of an acid and a base",
+          "Only by boiling water"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: अम्ल और क्षार की अभिक्रिया से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By reaction of an acid and a base. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3455,19 +3455,19 @@
       },
       "options": {
         "hi": [
-          "अम्ल और क्षार की अभिक्रिया से",
           "केवल पानी उबालने से",
           "केवल चुंबक से",
-          "केवल निस्यंदन से"
+          "केवल निस्यंदन से",
+          "अम्ल और क्षार की अभिक्रिया से"
         ],
         "en": [
-          "By reaction of an acid and a base",
           "Only by boiling water",
           "Only with a magnet",
-          "Only by filtration"
+          "Only by filtration",
+          "By reaction of an acid and a base"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: अम्ल और क्षार की अभिक्रिया से। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: By reaction of an acid and a base. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3511,19 +3511,19 @@
       },
       "options": {
         "hi": [
+          "सल्फ्यूरिक अम्ल",
           "सिट्रिक अम्ल",
           "लैक्टिक अम्ल",
-          "एसीटिक अम्ल",
-          "सल्फ्यूरिक अम्ल"
+          "एसीटिक अम्ल"
         ],
         "en": [
+          "Sulfuric acid",
           "Citric acid",
           "Lactic acid",
-          "Acetic acid",
-          "Sulfuric acid"
+          "Acetic acid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: सिट्रिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Citric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3539,19 +3539,19 @@
       },
       "options": {
         "hi": [
-          "सिट्रिक अम्ल",
-          "लैक्टिक अम्ल",
           "एसीटिक अम्ल",
-          "सल्फ्यूरिक अम्ल"
+          "सल्फ्यूरिक अम्ल",
+          "सिट्रिक अम्ल",
+          "लैक्टिक अम्ल"
         ],
         "en": [
-          "Citric acid",
-          "Lactic acid",
           "Acetic acid",
-          "Sulfuric acid"
+          "Sulfuric acid",
+          "Citric acid",
+          "Lactic acid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: सिट्रिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Citric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3567,19 +3567,19 @@
       },
       "options": {
         "hi": [
-          "सिट्रिक अम्ल",
           "लैक्टिक अम्ल",
           "एसीटिक अम्ल",
-          "सल्फ्यूरिक अम्ल"
+          "सल्फ्यूरिक अम्ल",
+          "सिट्रिक अम्ल"
         ],
         "en": [
-          "Citric acid",
           "Lactic acid",
           "Acetic acid",
-          "Sulfuric acid"
+          "Sulfuric acid",
+          "Citric acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: सिट्रिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Citric acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3623,19 +3623,19 @@
       },
       "options": {
         "hi": [
+          "नाइट्रिक अम्ल",
           "लैक्टिक अम्ल",
           "सिट्रिक अम्ल",
-          "हाइड्रोक्लोरिक अम्ल",
-          "नाइट्रिक अम्ल"
+          "हाइड्रोक्लोरिक अम्ल"
         ],
         "en": [
+          "Nitric acid",
           "Lactic acid",
           "Citric acid",
-          "Hydrochloric acid",
-          "Nitric acid"
+          "Hydrochloric acid"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: लैक्टिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Lactic acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3651,19 +3651,19 @@
       },
       "options": {
         "hi": [
-          "लैक्टिक अम्ल",
-          "सिट्रिक अम्ल",
           "हाइड्रोक्लोरिक अम्ल",
-          "नाइट्रिक अम्ल"
+          "नाइट्रिक अम्ल",
+          "लैक्टिक अम्ल",
+          "सिट्रिक अम्ल"
         ],
         "en": [
-          "Lactic acid",
-          "Citric acid",
           "Hydrochloric acid",
-          "Nitric acid"
+          "Nitric acid",
+          "Lactic acid",
+          "Citric acid"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: लैक्टिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Lactic acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3679,19 +3679,19 @@
       },
       "options": {
         "hi": [
-          "लैक्टिक अम्ल",
           "सिट्रिक अम्ल",
           "हाइड्रोक्लोरिक अम्ल",
-          "नाइट्रिक अम्ल"
+          "नाइट्रिक अम्ल",
+          "लैक्टिक अम्ल"
         ],
         "en": [
-          "Lactic acid",
           "Citric acid",
           "Hydrochloric acid",
-          "Nitric acid"
+          "Nitric acid",
+          "Lactic acid"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लैक्टिक अम्ल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Lactic acid. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3735,19 +3735,19 @@
       },
       "options": {
         "hi": [
+          "हमेशा गैसीय",
           "क्षारीय",
           "अम्लीय",
-          "उदासीन",
-          "हमेशा गैसीय"
+          "उदासीन"
         ],
         "en": [
+          "Always gaseous",
           "Basic",
           "Acidic",
-          "Neutral",
-          "Always gaseous"
+          "Neutral"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: क्षारीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Basic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3763,19 +3763,19 @@
       },
       "options": {
         "hi": [
-          "क्षारीय",
-          "अम्लीय",
           "उदासीन",
-          "हमेशा गैसीय"
+          "हमेशा गैसीय",
+          "क्षारीय",
+          "अम्लीय"
         ],
         "en": [
-          "Basic",
-          "Acidic",
           "Neutral",
-          "Always gaseous"
+          "Always gaseous",
+          "Basic",
+          "Acidic"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: क्षारीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Basic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3791,19 +3791,19 @@
       },
       "options": {
         "hi": [
-          "क्षारीय",
           "अम्लीय",
           "उदासीन",
-          "हमेशा गैसीय"
+          "हमेशा गैसीय",
+          "क्षारीय"
         ],
         "en": [
-          "Basic",
           "Acidic",
           "Neutral",
-          "Always gaseous"
+          "Always gaseous",
+          "Basic"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: क्षारीय। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Basic. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3847,19 +3847,19 @@
       },
       "options": {
         "hi": [
+          "10",
           "5.6",
           "7.0",
-          "8.5",
-          "10"
+          "8.5"
         ],
         "en": [
+          "10",
           "5.6",
           "7.0",
-          "8.5",
-          "10"
+          "8.5"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: 5.6। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 5.6. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3875,19 +3875,19 @@
       },
       "options": {
         "hi": [
-          "5.6",
-          "7.0",
           "8.5",
-          "10"
+          "10",
+          "5.6",
+          "7.0"
         ],
         "en": [
-          "5.6",
-          "7.0",
           "8.5",
-          "10"
+          "10",
+          "5.6",
+          "7.0"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: 5.6। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 5.6. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3903,19 +3903,19 @@
       },
       "options": {
         "hi": [
-          "5.6",
           "7.0",
           "8.5",
-          "10"
+          "10",
+          "5.6"
         ],
         "en": [
-          "5.6",
           "7.0",
           "8.5",
-          "10"
+          "10",
+          "5.6"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: 5.6। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: 5.6. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3959,19 +3959,19 @@
       },
       "options": {
         "hi": [
+          "केवल क्वथनांक",
           "विलयन का लगभग pH",
           "केवल द्रव्यमान",
-          "केवल घनत्व",
-          "केवल क्वथनांक"
+          "केवल घनत्व"
         ],
         "en": [
+          "Only boiling point",
           "Approximate pH of a solution",
           "Only mass",
-          "Only density",
-          "Only boiling point"
+          "Only density"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: विलयन का लगभग pH। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Approximate pH of a solution. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -3987,19 +3987,19 @@
       },
       "options": {
         "hi": [
-          "विलयन का लगभग pH",
-          "केवल द्रव्यमान",
           "केवल घनत्व",
-          "केवल क्वथनांक"
+          "केवल क्वथनांक",
+          "विलयन का लगभग pH",
+          "केवल द्रव्यमान"
         ],
         "en": [
-          "Approximate pH of a solution",
-          "Only mass",
           "Only density",
-          "Only boiling point"
+          "Only boiling point",
+          "Approximate pH of a solution",
+          "Only mass"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: विलयन का लगभग pH। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Approximate pH of a solution. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4015,19 +4015,19 @@
       },
       "options": {
         "hi": [
-          "विलयन का लगभग pH",
           "केवल द्रव्यमान",
           "केवल घनत्व",
-          "केवल क्वथनांक"
+          "केवल क्वथनांक",
+          "विलयन का लगभग pH"
         ],
         "en": [
-          "Approximate pH of a solution",
           "Only mass",
           "Only density",
-          "Only boiling point"
+          "Only boiling point",
+          "Approximate pH of a solution"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: विलयन का लगभग pH। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Approximate pH of a solution. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4071,19 +4071,19 @@
       },
       "options": {
         "hi": [
+          "नमकीन ही",
           "खट्टा",
           "मीठा",
-          "कड़वा",
-          "नमकीन ही"
+          "कड़वा"
         ],
         "en": [
+          "Always salty",
           "Sour",
           "Sweet",
-          "Bitter",
-          "Always salty"
+          "Bitter"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: खट्टा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Sour. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4099,19 +4099,19 @@
       },
       "options": {
         "hi": [
-          "कड़वा",
-          "खट्टा",
           "मीठा",
-          "फल जैसा"
+          "फल जैसा",
+          "कड़वा",
+          "खट्टा"
         ],
         "en": [
-          "Bitter",
-          "Sour",
           "Sweet",
-          "Fruity"
+          "Fruity",
+          "Bitter",
+          "Sour"
         ]
       },
-      "correct": 0,
+      "correct": 2,
       "explanation": {
         "hi": "सही उत्तर: कड़वा। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Bitter. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4127,19 +4127,19 @@
       },
       "options": {
         "hi": [
-          "लाल",
           "नीला",
           "हरा",
-          "पीला"
+          "पीला",
+          "लाल"
         ],
         "en": [
-          "Red",
           "Blue",
           "Green",
-          "Yellow"
+          "Yellow",
+          "Red"
         ]
       },
-      "correct": 0,
+      "correct": 3,
       "explanation": {
         "hi": "सही उत्तर: लाल। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Red. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
@@ -4183,19 +4183,19 @@
       },
       "options": {
         "hi": [
+          "अत्यधिक अम्ल",
           "उदासीनता",
           "अम्लीयता",
-          "क्षारीयता",
-          "अत्यधिक अम्ल"
+          "क्षारीयता"
         ],
         "en": [
+          "Strong acid",
           "Neutrality",
           "Acidity",
-          "Basicity",
-          "Strong acid"
+          "Basicity"
         ]
       },
-      "correct": 0,
+      "correct": 1,
       "explanation": {
         "hi": "सही उत्तर: उदासीनता। यह उत्तर इसलिए सही है क्योंकि प्रश्न में पूछी गई अवधारणा के अनुसार यही विकल्प सही परिभाषा, गुण, प्रक्रिया या उदाहरण से मेल खाता है। अन्य विकल्प प्रश्न में दी गई स्थिति से मेल नहीं खाते।",
         "en": "Correct answer: Neutrality. This is correct because it matches the definition, property, process, or example required by the question. The other options do not fit the situation described in the question."
