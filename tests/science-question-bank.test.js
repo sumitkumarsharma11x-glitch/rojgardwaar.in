@@ -37,6 +37,15 @@ test("all 36 Science chapters have usable bilingual question banks", () => {
       const ids = new Set();
       const hindiPrompts = new Set();
       const answerCounts = [0, 0, 0, 0];
+      const declaredTopics = new Set((meta.topics || []).map(topic => topic.id));
+      const usedTopics = new Set(questions.map(q => q.topic).filter(Boolean));
+      assert.ok(usedTopics.size > 0, `${base}: question bank has no topic tags`);
+      for (const topicId of usedTopics) {
+        assert.ok(declaredTopics.has(topicId), `${base}: topic "${topicId}" is missing from meta.topics`);
+      }
+      for (const topicId of declaredTopics) {
+        assert.ok(usedTopics.has(topicId), `${base}: meta topic "${topicId}" has no matching questions`);
+      }
 
       for (const [i, q] of questions.entries()) {
         const label = `${base}/questions.json question ${i + 1}`;
