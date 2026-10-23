@@ -24,7 +24,7 @@
   "notes": {
     "hi": {
       "concept": "रासायनिक अभिक्रियाएँ एवं समीकरण को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
-      "example": "रासायनिक अभिक्रियाएँ एवं समीकरण का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
+      "example": "मैग्नीशियम रिबन को हवा में जलाने पर चमकीली सफेद लौ और सफेद मैग्नीशियम ऑक्साइड बनता है। समीकरण 2Mg + O₂ → 2MgO संतुलित है, क्योंकि दोनों ओर Mg और O परमाणुओं की संख्या बराबर है।",
       "sections": [
         {
           "heading": "रासायनिक अभिक्रिया की पहचान",
@@ -48,16 +48,17 @@
         }
       ],
       "keyPoints": [
-        "रासायनिक अभिक्रियाएँ एवं समीकरण की मूल परिभाषा समझें।",
-        "मुख्य गुणों को उदाहरणों के साथ जोड़ें।",
-        "समान अवधारणाओं के बीच अंतर पहचानें।",
-        "दैनिक जीवन के अनुप्रयोगों पर ध्यान दें।"
+        "रासायनिक अभिक्रिया में नए पदार्थ बनते हैं।",
+        "समीकरण संतुलित करते समय प्रत्येक तत्व के परमाणुओं की संख्या दोनों ओर बराबर रखें।",
+        "संयोजन, अपघटन, विस्थापन और द्विविस्थापन प्रमुख अभिक्रिया प्रकार हैं।",
+        "ऑक्सीकरण और अपचयन में इलेक्ट्रॉन/ऑक्सीजन-हाइड्रोजन के परिवर्तन को पहचानें।",
+        "ऊष्माक्षेपी अभिक्रिया ऊर्जा छोड़ती है; ऊष्माशोषी अभिक्रिया ऊर्जा लेती है।"
       ],
       "examFocus": [
-        "परिभाषा और मूल अवधारणा",
-        "मुख्य गुण और उदाहरण",
-        "तुलना तथा कारण आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "रासायनिक समीकरण संतुलित करना",
+        "अभिक्रिया के प्रकार पहचानना",
+        "ऑक्सीकरण और अपचयन की पहचान",
+        "ऊष्माक्षेपी और ऊष्माशोषी अभिक्रियाओं में अंतर"
       ],
       "examTraps": [
         "सिर्फ keyword देखकर उत्तर न चुनें।",
@@ -84,7 +85,7 @@
     },
     "en": {
       "concept": "Study Chemical Reactions and Equations through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
-      "example": "Learning Chemical Reactions and Equations through examples and applications makes concept-based questions easier to solve.",
+      "example": "When magnesium ribbon burns in air, it produces a bright white flame and white magnesium oxide. The equation 2Mg + O₂ → 2MgO is balanced because each side has equal numbers of Mg and O atoms.",
       "sections": [
         {
           "heading": "Identifying a chemical reaction",
@@ -108,16 +109,17 @@
         }
       ],
       "keyPoints": [
-        "Understand the core definition of Chemical Reactions and Equations.",
-        "Connect key properties with examples.",
-        "Distinguish closely related concepts.",
-        "Focus on practical applications."
+        "A chemical reaction forms new substances.",
+        "Balance equations by making the number of atoms of each element equal on both sides.",
+        "Combination, decomposition, displacement and double displacement are major reaction types.",
+        "Identify oxidation and reduction using electron transfer or oxygen/hydrogen changes.",
+        "Exothermic reactions release energy; endothermic reactions absorb it."
       ],
       "examFocus": [
-        "Definitions and core concepts",
-        "Key properties and examples",
-        "Comparison and reason-based questions",
-        "Application-based questions"
+        "Balancing chemical equations",
+        "Classifying reaction types",
+        "Identifying oxidation and reduction",
+        "Distinguishing exothermic from endothermic reactions"
       ],
       "examTraps": [
         "Do not select an option only because it contains a familiar keyword.",
