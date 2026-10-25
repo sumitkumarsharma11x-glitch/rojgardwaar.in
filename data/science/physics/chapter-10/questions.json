@@ -24,8 +24,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "प्रश्न “चुंबक के उन दो स्थानों को क्या कहते हैं जहाँ आकर्षण सबसे अधिक होता है” में “ध्रुवों (उत्तरी और दक्षिणी) को” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “मध्य-बिंदु को और किनारों को” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “What are the two places on a magnet where attraction is strongest called,” “Poles (north and south)” matches the relevant scientific principle or process. “The mid-point and The edges” are different concepts and do not fit this situation."
+        "hi": "चुंबक के दोनों सिरों पर चुंबकीय प्रभाव सबसे अधिक होता है; इन सिरों को उत्तर और दक्षिण ध्रुव कहते हैं।",
+        "en": "A bar magnet's magnetic effect is strongest near its two ends, called the north and south poles."
       }
     },
     {
@@ -192,8 +192,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "लकड़ी, प्लास्टिक, काँच, ताँबा जैसे पदार्थ अचुंबकीय हैं।",
-        "en": "For “Which of these cannot be attracted by a magnet,” “A piece of wood” matches the relevant scientific principle or process. “A nickel sheet and A piece of cobalt” are different concepts and do not fit this situation."
+        "hi": "लकड़ी सामान्यतः चुंबक से आकर्षित नहीं होती; निकेल और कोबाल्ट जैसे पदार्थ चुंबकीय होते हैं।",
+        "en": "Wood is not normally attracted to a magnet, whereas materials such as nickel and cobalt are magnetic."
       }
     },
     {
@@ -1256,8 +1256,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "टुकड़े हर हाल में द्विध्रुवीय रहते हैं, यद्यपि तीव्रता घटती है।",
-        "en": "For “A bar magnet is cut into four equal parts. How does the magnetic strength of each part compare with the original,” “Each part is a weaker magnet but retains both poles” matches the relevant scientific principle or process. “Each part is equally strong and The parts retain no poles” are different concepts and do not fit this situation."
+        "hi": "छड़ चुंबक को काटने पर हर टुकड़ा उत्तर और दक्षिण ध्रुव वाला छोटा चुंबक बनता है; अलग ध्रुव अकेले नहीं मिलते।",
+        "en": "Cutting a bar magnet produces smaller magnets, each with both north and south poles; isolated poles are not obtained."
       }
     },
     {
@@ -1508,8 +1508,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "चुंबकीय कंपास ने समुद्री यात्राओं की दिशा निर्धारित की।",
-        "en": "For “Since ancient times sailors and travellers have found direction using which instrument,” “The magnetic compass” matches the relevant scientific principle or process. “A microscope and A mirror” are different concepts and do not fit this situation."
+        "hi": "चुंबकीय कंपास की सुई पृथ्वी के चुंबकीय क्षेत्र के साथ संरेखित होकर दिशा बताती है।",
+        "en": "A magnetic compass indicates direction because its needle aligns with Earth's magnetic field."
       }
     },
     {
@@ -1788,8 +1788,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "कंपास ने दिशा-ज्ञान से महासागरों की यात्रा सुगम की।",
-        "en": "For “Navigation at sea became possible due to the earth's magnetism using which device,” “The magnetic compass” matches the relevant scientific principle or process. “SONAR and Radar” are different concepts and do not fit this situation."
+        "hi": "कंपास पृथ्वी के चुंबकीय क्षेत्र का उपयोग करके दिशा बताता है, जिससे समुद्री नेविगेशन में मदद मिली।",
+        "en": "A compass uses Earth's magnetic field to indicate direction, supporting navigation at sea."
       }
     },
     {
@@ -2488,8 +2488,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "प्रश्न “भौगोलिक अक्ष और चुंबकीय अक्ष के बीच कोण किसका कारण है” में “चुंबकीय दिक्पात का” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “नति का और गुरुत्व का” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “The angle between the geographic axis and the magnetic axis is the reason for what,” “Magnetic declination” matches the relevant scientific principle or process. “Dip and Gravity” are different concepts and do not fit this situation."
+        "hi": "भौगोलिक और चुंबकीय उत्तर में कोणीय अंतर चुंबकीय दिक्पात कहलाता है; नति चुंबकीय क्षेत्र और क्षैतिज तल के बीच का कोण है।",
+        "en": "The angular difference between geographic and magnetic north is magnetic declination; magnetic dip is the angle between the field and the horizontal."
       }
     },
     {
@@ -2600,8 +2600,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "स्थानीय चुंबकीय पदार्थ भू-क्षेत्र पर हावी हो जाते हैं।",
-        "en": "For “A large iron plate is brought beneath a suspended bar magnet. What happens to the magnet's resting orientation,” “The iron's attraction can disturb the orientation — the reading turns unreliable” matches the relevant scientific principle or process. “No effect and The magnet shows N-S more accurately” are different concepts and do not fit this situation."
+        "hi": "लोहे की प्लेट चुंबक के पास स्थानीय चुंबकीय प्रभाव पैदा कर सकती है, जिससे स्वतंत्र रूप से लटके चुंबक की दिशा बदल सकती है और मापन प्रभावित हो सकता है।",
+        "en": "An iron plate can create a strong local magnetic influence near the magnet, disturbing its resting orientation and making the reading unreliable."
       }
     },
     {
@@ -2964,8 +2964,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "1820 में ओरस्टेड ने धारा-चुंबकत्व संबंध का प्रयोग दिखाया।",
-        "en": "For “Who discovered that a compass needle deflects near a current-carrying wire,” “Oersted” matches the relevant scientific principle or process. “Darwin and Newton” are different concepts and do not fit this situation."
+        "hi": "हैंस क्रिश्चियन ओरस्टेड ने 1820 में दिखाया कि विद्युत धारा के पास कंपास सुई विचलित होती है।",
+        "en": "Hans Christian Ørsted showed in 1820 that an electric current deflects a nearby compass needle."
       }
     },
     {
@@ -3748,8 +3748,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "प्रश्न “किसी तार की कुंडली में धारा दिशा बदलने पर कुंडली के पास कंपास सुई का क्या होगा” में “सुई विपरीत दिशा में विचलित होगी” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “सुई टूटेगी और सुई वहीं रहेगी” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “What happens to a compass needle near a coil when the current direction in the coil is reversed,” “The needle deflects the opposite way” matches the relevant scientific principle or process. “The needle breaks and The needle stays put” are different concepts and do not fit this situation."
+        "hi": "कुंडली में धारा की दिशा उलटने पर उससे उत्पन्न चुंबकीय क्षेत्र भी उलटता है, इसलिए कंपास सुई विपरीत दिशा में विचलित होती है।",
+        "en": "Reversing the current reverses the coil's magnetic field, so a nearby compass needle deflects in the opposite direction."
       }
     },
     {
@@ -4084,8 +4084,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "प्रश्न “फ्लेमिंग का दक्षिण-हस्त नियम किस स्थिति में लगाया जाता है” में “चालक की गति से प्रेरित धारा की दिशा ज्ञात करने में (जनित्र)” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “प्रतिरोध निकालने में और धारावाही चालक पर बल ज्ञात करने में” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “When is Fleming's right-hand rule applied,” “To find the direction of induced current from a conductor's motion (generator)” matches the relevant scientific principle or process. “To calculate resistance and To find force on a current-carrying conductor” are different concepts and do not fit this situation."
+        "hi": "फ्लेमिंग का दायाँ-हाथ नियम जनित्र में गति से प्रेरित धारा की दिशा ज्ञात करने के लिए उपयोग होता है।",
+        "en": "Fleming's right-hand rule is used to determine the direction of induced current in a generator."
       }
     },
     {
@@ -4280,8 +4280,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "प्रश्न “विद्युत जनित्र किस ऊर्जा को किस ऊर्जा में बदलता है” में “गतिज को विद्युत” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “विद्युत को गतिज और प्रकाश को ऊष्मा” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “An electric generator converts which energy into which,” “Mechanical into electrical” matches the relevant scientific principle or process. “Electrical into mechanical and Light into heat” are different concepts and do not fit this situation."
+        "hi": "जनित्र यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलता है, आम तौर पर विद्युत-चुंबकीय प्रेरण के माध्यम से।",
+        "en": "A generator converts mechanical energy into electrical energy, commonly through electromagnetic induction."
       }
     },
     {
@@ -4336,8 +4336,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "1831 में फैराडे ने विद्युत-चुंबकीय प्रेरण की खोज की।",
-        "en": "For “Who discovered induced current,” “Michael Faraday” matches the relevant scientific principle or process. “Einstein and Edison” are different concepts and do not fit this situation."
+        "hi": "माइकल फैराडे ने 1831 में विद्युत-चुंबकीय प्रेरण की खोज की।",
+        "en": "Michael Faraday discovered electromagnetic induction in 1831."
       }
     },
     {
@@ -4364,8 +4364,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "फैराडे का प्रेरण-प्रयोग ही जनित्र का मूल है।",
-        "en": "For “The generator is based on which discovery,” “Electromagnetic induction” matches the relevant scientific principle or process. “Ohm's law and Gravitation” are different concepts and do not fit this situation."
+        "hi": "जनित्र विद्युत-चुंबकीय प्रेरण पर आधारित है: बदलता चुंबकीय फ्लक्स कुंडली में वोल्टेज प्रेरित करता है।",
+        "en": "A generator relies on electromagnetic induction: changing magnetic flux induces a voltage in a coil."
       }
     },
     {
@@ -4560,8 +4560,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "AC की दिशा चक्रीय रूप से बदलती रहती है।",
-        "en": "For “In domestic supply the current direction reverses repeatedly. What is such current called,” “Alternating current (AC)” matches the relevant scientific principle or process. “Root current and Zero induction” are different concepts and do not fit this situation."
+        "hi": "प्रत्यावर्ती धारा (AC) समय के साथ अपनी दिशा और मान बदलती है।",
+        "en": "Alternating current (AC) changes direction and magnitude periodically."
       }
     },
     {
@@ -4644,8 +4644,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "पंखे की मोटर विद्युत से घूर्णन बनाती है।",
-        "en": "For “A fan is the household form of which electrical machine,” “A motor” matches the relevant scientific principle or process. “A rectifier and A generator” are different concepts and do not fit this situation."
+        "hi": "पंखे में मोटर विद्युत ऊर्जा को घूर्णन की यांत्रिक ऊर्जा में बदलती है।",
+        "en": "A fan uses an electric motor to convert electrical energy into rotational mechanical energy."
       }
     },
     {
@@ -4700,8 +4700,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "प्रश्न “साइकिल की डायनेमो घुमाने पर लैंप जलता है। यह किसका उदाहरण है” में “विद्युत-चुंबकीय प्रेरण (लघु जनित्र)” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “मोटर प्रभाव और ओम का नियम” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “A lamp glows when a bicycle dynamo is spun. This is an example of what,” “Electromagnetic induction (a small generator)” matches the relevant scientific principle or process. “The motor effect and Ohm's law” are different concepts and do not fit this situation."
+        "hi": "साइकिल डायनेमो घूमने पर चुंबकीय फ्लक्स में बदलाव से विद्युत वोल्टेज प्रेरित होता है, जो लैंप जला सकता है।",
+        "en": "When a bicycle dynamo rotates, changing magnetic flux induces a voltage that can power the lamp."
       }
     },
     {
@@ -4924,8 +4924,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "प्रश्न “जनित्र में कुंडली घुमाने वाली मशीनी ऊर्जा कहाँ से आ सकती है — उदाहरण सहित बताइए।” में “जल, भाप या वायु टरबाइन से — जैसे जल-विद्युत गृह में” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “बैटरी से और बल्ब से” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “Where can the mechanical energy that spins a generator's coil come from — answer with an example.,” “From water, steam or wind turbines — as in a hydro power house” matches the relevant scientific principle or process. “From a battery and From a bulb” are different concepts and do not fit this situation."
+        "hi": "जल, भाप या हवा से चलने वाली टरबाइन जनित्र की कुंडली या रोटर घुमाकर यांत्रिक ऊर्जा देती है।",
+        "en": "Water, steam, or wind can turn a turbine, supplying the mechanical energy that drives a generator's rotor."
       }
     },
     {
@@ -5176,8 +5176,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "प्रश्न “पवन चक्की (विंड टरबाइन) विद्युत कैसे बनाती है” में “ब्लेड के घूर्णन से जनित्र की कुंडली घूमती है — प्रेरण से धारा” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “हवा से बैटरी चलती है और हवा रगड़ से बिजली” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “How does a wind turbine generate electricity,” “Blade rotation spins the generator coil — current by induction” matches the relevant scientific principle or process. “Wind runs a battery and Wind makes electricity by rubbing” are different concepts and do not fit this situation."
+        "hi": "हवा टरबाइन के ब्लेड घुमाती है; रोटर जनित्र चलाता है और विद्युत-चुंबकीय प्रेरण से विद्युत उत्पन्न होती है।",
+        "en": "Wind turns the turbine blades; the rotor drives a generator, which produces electricity by electromagnetic induction."
       }
     },
     {
@@ -5428,8 +5428,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "प्रश्न “जनित्र की कुंडली प्रति सेकंड 5 चक्र घूमती है। 2 सेकंड में कुल कितने पूर्ण चक्र पूरे होंगे” में “10 चक्र” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “20 चक्र और 5 चक्र” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “A generator's coil rotates 5 cycles per second. How many complete cycles finish in 2 s,” “10 cycles” matches the relevant scientific principle or process. “20 cycles and 5 cycles” are different concepts and do not fit this situation."
+        "hi": "5 चक्र प्रति सेकंड × 2 सेकंड = 10 पूर्ण चक्र।",
+        "en": "At 5 cycles per second for 2 seconds, the coil completes 5 × 2 = 10 cycles."
       }
     },
     {
@@ -5540,8 +5540,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "प्रश्न “प्रेरण-प्रयोग में कुंडली के फेरे 200 से 600 किए गए (गति व चुंबक वही)। प्रेरित वोल्टेज का नया मान पुराने का लगभग कितना गुना होगा” में “3 गुना” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “एक-तिहाई और 9 गुना” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “In an induction experiment the coil's turns are raised from 200 to 600 (same magnet, same speed). The new induced voltage is about how many times the old,” “3 times” matches the relevant scientific principle or process. “One-third and 9 times” are different concepts and do not fit this situation."
+        "hi": "फेरे 200 से 600 करने पर, बाकी स्थितियाँ समान हों तो प्रेरित वोल्टेज लगभग 600/200 = 3 गुना हो जाता है।",
+        "en": "With other conditions unchanged, increasing the turns from 200 to 600 makes the induced voltage approximately 600/200 = 3 times as large."
       }
     },
     {
@@ -5596,8 +5596,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "प्रश्न “एक कुंडली और गैल्वेनोमीटर के पास दो समान चुंबक विपरीत क्रम में एक साथ डाले गए (एक N-पहले, दूसरा S-पहले)। निकट गैल्वेनोमीटर का शुद्ध विचलन कैसा रहेगा” में “दोनों के प्रेरण प्रभाव एक-दूसरे को निरस्त करेंगे — शुद्ध विचलन लगभग शून्य” सही है क्योंकि यह संबंधित वैज्ञानिक सिद्धांत या प्रक्रिया से मेल खाता है। “दुगुना विचलन और एक ही दिशा में बड़ा विचलन” अलग अवधारणाएँ हैं, इसलिए इस परिस्थिति में सही विकल्प नहीं हैं।",
-        "en": "For “Two identical magnets are inserted together in opposite orientations (one N-first, the other S-first) near a coil with a galvanometer. What is the net deflection,” “The two inductions cancel — net deflection nearly zero” matches the relevant scientific principle or process. “Double deflection and A large one-way deflection” are different concepts and do not fit this situation."
+        "hi": "यदि दोनों समान चुंबकों के प्रेरण प्रभाव बराबर और विपरीत हों, तो वे लगभग निरस्त हो सकते हैं और शुद्ध गैल्वेनोमीटर विचलन लगभग शून्य होगा।",
+        "en": "If the two identical magnets induce equal and opposite effects, they approximately cancel, leaving near-zero net galvanometer deflection."
       }
     }
   ]
