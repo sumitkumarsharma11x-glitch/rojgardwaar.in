@@ -865,6 +865,20 @@
     "explanation": {
       "hi": "विभिन्नता से कुछ जीव बदले परिवेश में बेहतर ढल पाते हैं।",
       "en": "Variation helps some organisms adapt better to changing environments."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही। आनुवंशिक विभिन्नता के कारण कुछ जीव बदलती परिस्थितियों में दूसरों की तुलना में बेहतर जीवित रह और प्रजनन कर सकते हैं।",
+        "गलत: सोना इस संदर्भ में विभिन्नता का जैविक लाभ नहीं बताता।",
+        "गलत: भोजन करना जीवित रहने के लिए जरूरी हो सकता है, लेकिन विभिन्नता का मुख्य विकासवादी लाभ नहीं।",
+        "गलत: जल पीना जीवन-क्रिया है; प्रश्न बदलते परिवेश में अनुकूलन के बारे में है।"
+      ],
+      "en": [
+        "Correct. Genetic variation can allow some organisms to survive and reproduce better than others when conditions change.",
+        "Incorrect. Sleeping does not describe the biological advantage of variation in this context.",
+        "Incorrect. Eating can support survival, but it is not the main evolutionary benefit of variation.",
+        "Incorrect. Drinking water is a life process; the question asks about adaptation to changing environments."
+      ]
     }
   },
   {
@@ -893,6 +907,20 @@
     "explanation": {
       "hi": "लैंगिक जनन में दो जनकों की विशेषताओं का मिश्रण होने से विभिन्नता आती है।",
       "en": "Sexual reproduction mixes characteristics of two parents, creating variation."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत। अलैंगिक जनन में संतति सामान्यतः जनक से आनुवंशिक रूप से मिलती-जुलती होती है; उत्परिवर्तन से फिर भी अंतर आ सकते हैं।",
+        "सही। लैंगिक जनन में युग्मकों के आनुवंशिक पदार्थ का संयोजन संतति में नई विविधताएँ पैदा करता है।",
+        "पाठ्यपुस्तकीय तुलना में लैंगिक जनन विभिन्नता का प्रमुख स्रोत है; अलैंगिक जनन में भी उत्परिवर्तन से भिन्नता संभव है।",
+        "गलत। लैंगिक जनन में जनकों के आनुवंशिक पदार्थ के संयोजन से विभिन्नता आ सकती है।"
+      ],
+      "en": [
+        "Incorrect. Asexual offspring are generally genetically similar to the parent, although mutations can still create differences.",
+        "Correct. In sexual reproduction, combining genetic material from gametes creates new combinations in offspring.",
+        "In the standard comparison, sexual reproduction is a major source of variation; mutations can also create variation in asexual reproduction.",
+        "Incorrect. Combining genetic material from parents in sexual reproduction can produce variation."
+      ]
     }
   },
   {
@@ -921,6 +949,20 @@
     "explanation": {
       "hi": "कई यूकैरियोटिक जीवों में mitosis से बनने वाली कोशिकाओं में गुणसूत्र संख्या सामान्यतः जनक कोशिका जैसी रहती है। जीवाणु जैसे प्रोकैरियोट्स mitosis नहीं करते; वे binary fission से विभाजित होते हैं।",
       "en": "In many eukaryotes, mitosis produces cells that generally retain the parent cell's chromosome number. Prokaryotes such as bacteria do not undergo mitosis; they divide by binary fission."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत। कई यूकैरियोटिक जीवों में अलैंगिक जनन कोशिका विभाजन के बिना नहीं होता।",
+        "गलत। अर्धसूत्री विभाजन गुणसूत्र संख्या आधी करता है और सामान्यतः युग्मक निर्माण से जुड़ा है।",
+        "सही, कई यूकैरियोटिक जीवों में। समसूत्री विभाजन से सामान्यतः जनक कोशिका जैसी गुणसूत्र संख्या वाली कोशिकाएँ बनती हैं; प्रोकैरियोट्स binary fission करते हैं।",
+        "गलत। प्रश्न में कई यूकैरियोटिक जीवों के अलैंगिक जनन का सामान्य तरीका पूछा गया है; meiosis और mitosis दोनों एक साथ उत्तर नहीं।"
+      ],
+      "en": [
+        "Incorrect. In many eukaryotes, asexual reproduction still involves cell division.",
+        "Incorrect. Meiosis halves chromosome number and is commonly associated with gamete formation.",
+        "Correct for many eukaryotes. Mitosis generally produces cells with the same chromosome number; prokaryotes divide by binary fission.",
+        "Incorrect. The question asks for the common division in many eukaryotic asexual reproduction; meiosis and mitosis are not both the answer."
+      ]
     }
   },
   {
@@ -949,6 +991,20 @@
     "explanation": {
       "hi": "युग्मक अर्धसूत्री विभाजन (meiosis) से बनते हैं, जिसमें गुणसूत्र संख्या आधी हो जाती है।",
       "en": "Gametes are formed by meiosis, which halves the chromosome number."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत। संलयन दो युग्मकों के मिलने की प्रक्रिया है, स्वयं कोशिका विभाजन का प्रकार नहीं।",
+        "गलत। युग्मक निर्माण में कोशिका विभाजन शामिल होता है; सामान्यतः अर्धसूत्री विभाजन गुणसूत्र संख्या आधी करता है।",
+        "गलत। सामान्यतः समसूत्री विभाजन गुणसूत्र संख्या बनाए रखता है; लैंगिक जनन में युग्मक बनाने के लिए meiosis आवश्यक है।",
+        "सही। अर्धसूत्री विभाजन गुणसूत्र संख्या आधी करके निषेचन के बाद प्रजाति की सामान्य संख्या बहाल करने में मदद करता है।"
+      ],
+      "en": [
+        "Incorrect. Fusion is the joining of gametes, not a type of cell division.",
+        "Incorrect. Gamete formation involves cell division; meiosis generally halves chromosome number.",
+        "Incorrect. Mitosis generally preserves chromosome number; meiosis is used to produce haploid gametes in the standard sexual life cycle.",
+        "Correct. Meiosis halves chromosome number, helping restore the species' typical number after fertilisation."
+      ]
     }
   },
   {
@@ -977,6 +1033,20 @@
     "explanation": {
       "hi": "मनुष्य में शिशु का जन्म लैंगिक जनन है; शेष तीनों अलैंगिक विधियाँ हैं।",
       "en": "Birth of a baby in humans is sexual reproduction; the other three are asexual methods."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही। मनुष्य में अंडाणु और शुक्राणु के संलयन से युग्मनज बनता है और भ्रूण विकसित होकर शिशु बनता है।",
+        "गलत। यीस्ट में मुकुलन एक जनक से होता है और अलैंगिक जनन है।",
+        "गलत। ब्रायोफिलम की पत्ती से नया पौधा बनना वनस्पतिक/अलैंगिक जनन है।",
+        "गलत। कई कवकों में बीजाणु निर्माण अलैंगिक जनन की विधि है।"
+      ],
+      "en": [
+        "Correct. In humans, fusion of an egg and sperm forms a zygote, which develops into an embryo and eventually a baby.",
+        "Incorrect. Yeast budding involves one parent and is asexual reproduction.",
+        "Incorrect. A new plant from a Bryophyllum leaf is vegetative, asexual reproduction.",
+        "Incorrect. Spore formation is an asexual method in many fungi."
+      ]
     }
   },
   {
@@ -1005,6 +1075,20 @@
     "explanation": {
       "hi": "मुकुलन अलैंगिक जनन है; निषेचन और परागण लैंगिक जनन से जुड़े हैं।",
       "en": "Budding is asexual reproduction; fertilisation and pollination are part of sexual reproduction."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत। अंडोत्सर्ग अंडाशय से अंडाणु निकलने की प्रक्रिया है; यह अपने-आप नया जीव नहीं बनाता।",
+        "सही। मुकुलन में जनक के शरीर पर कली बनती है और उससे नया जीव विकसित हो सकता है।",
+        "गलत। निषेचन में युग्मकों का संलयन होता है और यह लैंगिक जनन का भाग है।",
+        "गलत। परागण परागकण का वर्तिकाग्र तक पहुँचना है; यह पुष्पीय पौधों के लैंगिक जनन का चरण है।"
+      ],
+      "en": [
+        "Incorrect. Ovulation is the release of an egg from an ovary; it does not itself produce a new organism.",
+        "Correct. In budding, a bud develops on the parent and can grow into a new individual.",
+        "Incorrect. Fertilisation joins gametes and is part of sexual reproduction.",
+        "Incorrect. Pollination transfers pollen to a stigma and is a step in sexual reproduction in flowering plants."
+      ]
     }
   },
   {
@@ -1033,6 +1117,20 @@
     "explanation": {
       "hi": "अलैंगिक जनन से आनुवंशिक रूप से समान संतति (क्लोन) बनती है।",
       "en": "Asexual reproduction produces genetically identical offspring called clones."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत। अलैंगिक जनन से बनने वाली संतति को क्लोन कहा जा सकता है; 'कोई नहीं' सही नहीं।",
+        "गलत। लैंगिक जनन में आनुवंशिक पदार्थ का संयोजन होता है, इसलिए संतति सामान्यतः बिल्कुल समान क्लोन नहीं होती।",
+        "सही। अलैंगिक जनन से बनी संतति सामान्यतः जनक की आनुवंशिक रूप से समान प्रति होती है; उत्परिवर्तन अपवाद पैदा कर सकते हैं।",
+        "गलत। दोनों प्रकार के जनन से संतति बनती है, लेकिन क्लोन सामान्यतः अलैंगिक जनन से जुड़े होते हैं।"
+      ],
+      "en": [
+        "Incorrect. Offspring from asexual reproduction can be called clones; 'none' is not correct.",
+        "Incorrect. Sexual reproduction combines genetic material, so offspring are generally not exact genetic clones.",
+        "Correct. Asexual offspring are generally genetically identical copies of the parent, although mutations can create exceptions.",
+        "Incorrect. Both types produce offspring, but clones are generally associated with asexual reproduction."
+      ]
     }
   },
   {
@@ -1061,6 +1159,20 @@
     "explanation": {
       "hi": "अलैंगिक जनन में एक ही जनक होने से संतति आनुवंशिक रूप से समान होती है।",
       "en": "With a single parent, asexual reproduction gives genetically identical offspring."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत। लैंगिक जनन में आनुवंशिक सामग्री का संयोजन होता है, इसलिए संतति में सामान्यतः विभिन्नता आती है।",
+        "गलत। पर-परागण पराग का एक फूल से दूसरे फूल तक पहुँचना है; यह अकेले संतति के आनुवंशिक रूप से समान होने की गारंटी नहीं देता।",
+        "गलत। निषेचन लैंगिक जनन का भाग है और दो युग्मकों का आनुवंशिक पदार्थ जोड़ता है।",
+        "सही। अलैंगिक जनन में एक जनक से संतति बनती है और वह सामान्यतः आनुवंशिक रूप से बहुत मिलती-जुलती होती है।"
+      ],
+      "en": [
+        "Incorrect. Sexual reproduction combines genetic material and generally produces variation.",
+        "Incorrect. Cross-pollination transfers pollen between flowers; it does not guarantee genetically identical offspring.",
+        "Incorrect. Fertilisation is part of sexual reproduction and combines genetic material from gametes.",
+        "Correct. Asexual reproduction uses one parent and usually produces genetically very similar offspring."
+      ]
     }
   },
   {
@@ -1089,6 +1201,20 @@
     "explanation": {
       "hi": "अनेक पीढ़ियों में संचित विभिन्नता अनुकूलन में सहायक होती है और नई जातियों की उत्पत्ति भी कर सकती है।",
       "en": "Variation accumulated over generations helps adaptation and can give rise to new species."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही। पीढ़ियों में विभिन्नता जमा होने और आबादियों के अलग-अलग विकसित होने से लंबे समय में नई जातियाँ उत्पन्न हो सकती हैं।",
+        "गलत। विभिन्नता का संचय केवल जीवनकाल घटने का अर्थ नहीं है; प्रभाव परिस्थितियों और लक्षणों पर निर्भर करता है।",
+        "गलत। विभिन्नता का संचय हमेशा आकार घटाता नहीं; कई प्रकार के लक्षण बदल सकते हैं।",
+        "गलत। विभिन्नता विकास और अनुकूलन को प्रभावित कर सकती है और लंबे समय में प्रजाति-निर्माण में योगदान दे सकती है।"
+      ],
+      "en": [
+        "Correct. Accumulated variation and divergence between populations can contribute to the formation of new species over long periods.",
+        "Incorrect. Accumulated variation does not simply mean a shorter life span; effects depend on traits and conditions.",
+        "Incorrect. Variation does not always reduce size; many different traits can change.",
+        "Incorrect. Variation can affect evolution and adaptation and may contribute to speciation over long periods."
+      ]
     }
   },
   {
@@ -1117,6 +1243,20 @@
     "explanation": {
       "hi": "लैंगिक जनन में दो जनकों की विशेषताओं का मिश्रण संतति में आता है।",
       "en": "In sexual reproduction, the offspring inherit a mix of both parents' characteristics."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत। अलैंगिक जनन में सामान्यतः एक जनक होता है; दो जनकों की विशेषताओं का मिश्रण इसकी परिभाषा नहीं।",
+        "सही। लैंगिक जनन में युग्मकों के जरिए दो जनकों की आनुवंशिक सामग्री संतति में आती है।",
+        "गलत। मुकुलन अलैंगिक जनन है और इसमें सामान्यतः एक ही जनक होता है।",
+        "गलत। कर्तन से नया पौधा बनना वनस्पतिक अलैंगिक जनन है, दो जनकों का मिश्रण नहीं।"
+      ],
+      "en": [
+        "Incorrect. Asexual reproduction generally involves one parent and does not combine traits from two parents.",
+        "Correct. Sexual reproduction combines genetic material from two parents through gametes.",
+        "Incorrect. Budding is asexual reproduction and generally involves one parent.",
+        "Incorrect. Growing a plant from a cutting is vegetative asexual reproduction, not a combination of two parents' traits."
+      ]
     }
   },
   {
