@@ -109,7 +109,7 @@
       "correct": 3,
       "explanation": {
         "hi": "पृथ्वी का गुरुत्वाकर्षण ही सेब को नीचे लाता है।",
-        "en": "For “Why does an apple fall only downwards from a tree,” “The earth pulls it down by gravitation” matches the relevant physical quantity or rule. “The air presses it down and The apple carries electricity” are different quantities or conditions, so they should not be substituted here."
+        "en": "Earth's gravitational force pulls the apple toward Earth's centre, so it falls downward."
       }
     },
     {
@@ -865,7 +865,7 @@
       "correct": 2,
       "explanation": {
         "hi": "गुरुत्वाकर्षण नीचे की ओर ही कार्य करता रहता है।",
-        "en": "For “Why does an object thrown up come back down,” “The earth's gravitation keeps pulling it down” matches the relevant physical quantity or rule. “The space above runs out and The object gets tired” are different quantities or conditions, so they should not be substituted here."
+        "en": "After an object is thrown upward, gravity continues to act downward, slows its upward motion, and then accelerates it back toward Earth."
       }
     },
     {
@@ -1285,7 +1285,7 @@
       "correct": 1,
       "explanation": {
         "hi": "प्रश्न “स्प्रिंग बैलेंस किसे मापता है” में “भार” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “घनत्व और द्रव्यमान” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
-        "en": "For “What does a spring balance measure,” “Weight” matches the relevant physical quantity or rule. “Density and Mass” are different quantities or conditions, so they should not be substituted here."
+        "en": "A spring balance measures force, commonly an object's weight. A balance designed for mass works differently."
       }
     },
     {
@@ -1677,7 +1677,7 @@
       "correct": 3,
       "explanation": {
         "hi": "भार गुरुत्वाकर्षण बल है: W = mg। द्रव्यमान kg में और g m/s² में हो तो भार न्यूटन में मिलता है।",
-        "en": "For “The mass of an object weighing 49 N is —,” “5 kg” matches the relevant physical quantity or rule. “49 kg and 4.9 kg” are different quantities or conditions, so they should not be substituted here."
+        "en": "Use W = mg. Taking g ≈ 9.8 m/s², m = 49 N ÷ 9.8 m/s² = 5 kg."
       }
     },
     {
@@ -1705,7 +1705,7 @@
       "correct": 0,
       "explanation": {
         "hi": "भार गुरुत्वाकर्षण बल है: W = mg। द्रव्यमान kg में और g m/s² में हो तो भार न्यूटन में मिलता है।",
-        "en": "For “The mass of an object weighing 29.4 N is —,” “3 kg” matches the relevant physical quantity or rule. “2.94 kg and 30 kg” are different quantities or conditions, so they should not be substituted here."
+        "en": "Use W = mg. Taking g ≈ 9.8 m/s², m = 29.4 N ÷ 9.8 m/s² = 3 kg."
       }
     },
     {
@@ -1733,7 +1733,7 @@
       "correct": 1,
       "explanation": {
         "hi": "भार गुरुत्वाकर्षण बल है: W = mg। द्रव्यमान kg में और g m/s² में हो तो भार न्यूटन में मिलता है।",
-        "en": "For “An object weighs 60 N on the earth — on the moon it weighs about —,” “10 N” matches the relevant physical quantity or rule. “6 N and 60 N” are different quantities or conditions, so they should not be substituted here."
+        "en": "The Moon's gravitational acceleration is about one-sixth of Earth's, so a 60 N Earth weight is approximately 10 N on the Moon."
       }
     },
     {
