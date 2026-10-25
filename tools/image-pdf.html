@@ -5,6 +5,82 @@
   <meta name="robots" content="index, follow">
 </head><body><header class="top"><div class="wrap"><a href="../index.html">← ROJGARDWAAR.IN</a></div></header><main class="wrap"><h1>Image to PDF & PDF to Image</h1><p class="muted">फाइल कन्वर्ट करें। प्रोसेसिंग आपके browser में होती है; बड़ी PDF के लिए memory और समय अधिक लग सकता है।</p><section class="panel"><h2>Images → PDF</h2><label for="images">एक या अधिक images चुनें</label><input id="images" type="file" accept="image/*" multiple><label for="paper">PDF page size</label><select id="paper"><option value="a4">A4</option><option value="letter">Letter</option></select><button id="toPdf">Download PDF</button><div id="pdfStatus" class="status" role="status" aria-live="polite"></div></section><section class="panel"><h2>PDF → JPG images</h2><label for="pdfFile">PDF फाइल चुनें</label><input id="pdfFile" type="file" accept="application/pdf,.pdf"><label for="scale">Image quality</label><select id="scale"><option value="1.5">Standard</option><option value="2">High</option><option value="3">Very high (more memory)</option></select><button id="toImages">Convert pages to JPG</button><div id="imgStatus" class="status" role="status" aria-live="polite"></div><div id="preview" class="preview"></div><div id="downloads"></div></section><div class="note">केवल अपनी या उपयोग करने की अनुमति वाली फाइलें अपलोड करें। इस टूल में फाइल सर्वर पर भेजने की जरूरत नहीं है। Converted pages को डाउनलोड करने से पहले पढ़ने योग्य होने की जाँच करें।</div></main>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js" defer></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js" defer></script><script>
-(()=>{const $=id=>document.getElementById(id);$('toPdf').addEventListener('click',async()=>{const files=Array.from($('images').files||[]);if(!files.length){$('pdfStatus').textContent='पहले images चुनें।';return}if(files.length>30){$('pdfStatus').textContent='एक बार में अधिकतम 30 images चुनें।';return}if(files.some(f=>f.size>15*1024*1024)){$('pdfStatus').textContent='हर image 15 MB से छोटी रखें। बड़ी image को पहले compress करें।';return}if(!window.jspdf?.jsPDF){$('pdfStatus').textContent='PDF library लोड नहीं हुई। इंटरनेट कनेक्शन जाँचें और refresh करें।';return}const {jsPDF}=window.jspdf,paper=$('paper').value;let pdf=null,processed=0,failed=0;for(let i=0;i<files.length;i++){const f=files[i];if(!f.type.startsWith('image/'))continue;const url=URL.createObjectURL(f);try{const img=new Image();await new Promise((res,rej)=>{img.onload=res;img.onerror=rej;img.src=url});if(!pdf)pdf=new jsPDF({orientation:img.naturalWidth>img.naturalHeight?'landscape':'portrait',unit:'pt',format:paper,compress:true});else pdf.addPage(paper,img.naturalWidth>img.naturalHeight?'landscape':'portrait');const pw=pdf.internal.pageSize.getWidth(),ph=pdf.internal.pageSize.getHeight(),ratio=Math.min(pw/img.naturalWidth,ph/img.naturalHeight),w=img.naturalWidth*ratio,h=img.naturalHeight*ratio;const c=document.createElement('canvas');c.width=img.naturalWidth;c.height=img.naturalHeight;c.getContext('2d').drawImage(img,0,0);pdf.addImage(c.toDataURL('image/jpeg',.9),'JPEG',(pw-w)/2,(ph-h)/2,w,h,undefined,'FAST');processed++}catch(e){failed++}finally{URL.revokeObjectURL(url)}}if(!pdf||processed===0){$('pdfStatus').textContent='चुनी गई images पढ़ी नहीं जा सकीं। JPG या PNG files आज़माएँ।';return}pdf.save('rojgardwaar-images.pdf');$('pdfStatus').textContent=processed+' image(s) PDF में जोड़ी गईं।'+(failed?' '+failed+' file(s) नहीं पढ़ी जा सकीं और छोड़ी गईं।':'')+' डाउनलोड की गई PDF खोलकर जाँचें।'});$('toImages').addEventListener('click',async()=>{const f=$('pdfFile').files[0];if(!f){$('imgStatus').textContent='पहले PDF चुनें।';return}if(f.size>40*1024*1024){$('imgStatus').textContent='PDF 40 MB से बड़ी है। छोटी या compress की हुई PDF चुनें।';return}if(!window.pdfjsLib){$('imgStatus').textContent='PDF library लोड नहीं हुई। इंटरनेट कनेक्शन जाँचें और refresh करें।';return}const lib=window.pdfjsLib;lib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';$('preview').innerHTML='';$('downloads').innerHTML='';$('imgStatus').textContent='PDF पढ़ी जा रही है…';try{const pdf=await lib.getDocument({data:await f.arrayBuffer()}).promise;if(pdf.numPages>80)throw new Error('सुरक्षा के लिए एक बार में अधिकतम 80 pages convert किए जा सकते हैं।');for(let n=1;n<=pdf.numPages;n++){const page=await pdf.getPage(n),vp=page.getViewport({scale:Number($('scale').value)}),c=document.createElement('canvas'),ctx=c.getContext('2d');c.width=Math.ceil(vp.width);c.height=Math.ceil(vp.height);await page.render({canvasContext:ctx,viewport:vp}).promise;const url=c.toDataURL('image/jpeg',.9),img=document.createElement('img');img.src=url;img.alt='PDF page '+n;$('preview').append(img);const a=document.createElement('a');a.href=url;a.download='rojgardwaar-page-'+String(n).padStart(2,'0')+'.jpg';a.textContent='Download page '+n;a.style.display='block';a.style.margin='5px 0';$('downloads').append(a)}$('imgStatus').textContent=pdf.numPages+' पेज JPG में तैयार हैं। हर पेज के नीचे Download लिंक है।'}catch(e){$('imgStatus').textContent='PDF convert नहीं हुई: '+e.message}})})();
+(()=>{'use strict';
+const $=id=>document.getElementById(id);
+const MAX_IMAGES=30,MAX_IMAGE_BYTES=15*1024*1024,MAX_PDF_BYTES=40*1024*1024,MAX_PDF_PAGES=30;
+let outputUrls=[];
+let busy=false;
+const revokeOutputs=()=>{for(const url of outputUrls)URL.revokeObjectURL(url);outputUrls=[];};
+const setBusy=value=>{busy=value;$('toPdf').disabled=value;$('toImages').disabled=value;$('toPdf').textContent=value?'कृपया प्रतीक्षा करें…':'Download PDF';$('toImages').textContent=value?'कृपया प्रतीक्षा करें…':'Convert pages to JPG';};
+const status=(id,text,kind='')=>{const el=$(id);el.textContent=text;el.style.color=kind==='error'?'#a11a1a':kind==='ok'?'#0b6b3a':'';};
+const supportedImage=f=>f && (['image/jpeg','image/png','image/webp'].includes(f.type)||(!f.type&&/\.(jpe?g|png|webp)$/i.test(f.name||'')));
+const loadImage=file=>new Promise((resolve,reject)=>{const url=URL.createObjectURL(file),img=new Image();img.onload=()=>resolve({img,url});img.onerror=()=>{URL.revokeObjectURL(url);reject(new Error('यह image खुल नहीं सकी। JPG, PNG या WebP file चुनें।'));};img.src=url;});
+const canvasBlob=canvas=>new Promise((resolve,reject)=>canvas.toBlob(blob=>blob?resolve(blob):reject(new Error('Image export नहीं हो सका। छोटी image आज़माएँ।')),'image/jpeg',0.9));
+$('toPdf').addEventListener('click',async()=>{
+ if(busy)return;
+ const files=Array.from($('images').files||[]);
+ if(!files.length){status('pdfStatus','पहले images चुनें।','error');return;}
+ if(files.length>MAX_IMAGES){status('pdfStatus,'एक बार में अधिकतम 30 images चुनें।','error');return;}
+ if(files.some(f=>!supportedImage(f))){status('pdfStatus','कृपया सिर्फ JPG, PNG या WebP images चुनें।','error');return;}
+ if(files.some(f=>f.size<=0||f.size>MAX_IMAGE_BYTES)){status('pdfStatus','हर image खाली नहीं होनी चाहिए और 15 MB से छोटी होनी चाहिए।','error');return;}
+ if(!window.jspdf?.jsPDF){status('pdfStatus','PDF library लोड नहीं हुई। इंटरनेट कनेक्शन जाँचें और refresh करें।','error');return;}
+ setBusy(true);status('pdfStatus','Images जाँची और PDF तैयार की जा रही है…');
+ try{
+  const {jsPDF}=window.jspdf,paper=$('paper').value;let pdf=null,processed=0;
+  for(let i=0;i<files.length;i++){
+   status('pdfStatus',`Image ${i+1}/${files.length} प्रोसेस हो रही है…`);
+   let loaded=null,canvas=null;
+   try{
+    loaded=await loadImage(files[i]);const img=loaded.img;
+    const maxSide=2400,ratio=Math.min(1,maxSide/Math.max(img.naturalWidth,img.naturalHeight));
+    canvas=document.createElement('canvas');canvas.width=Math.max(1,Math.round(img.naturalWidth*ratio));canvas.height=Math.max(1,Math.round(img.naturalHeight*ratio));
+    const ctx=canvas.getContext('2d');if(!ctx)throw new Error('Canvas उपलब्ध नहीं है।');
+    ctx.fillStyle='#fff';ctx.fillRect(0,0,canvas.width,canvas.height);ctx.drawImage(img,0,0,canvas.width,canvas.height);
+    const blob=await canvasBlob(canvas),dataUrl=await new Promise((resolve,reject)=>{const reader=new FileReader();reader.onload=()=>resolve(reader.result);reader.onerror=()=>reject(new Error('Image पढ़ी नहीं जा सकी।'));reader.readAsDataURL(blob);});
+    const landscape=img.naturalWidth>img.naturalHeight;
+    if(!pdf)pdf=new jsPDF({orientation:landscape?'landscape':'portrait',unit:'pt',format:paper,compress:true});
+    else pdf.addPage(paper,landscape?'landscape':'portrait');
+    const pw=pdf.internal.pageSize.getWidth(),ph=pdf.internal.pageSize.getHeight(),scale=Math.min(pw/canvas.width,ph/canvas.height),w=canvas.width*scale,h=canvas.height*scale;
+    pdf.addImage(dataUrl,'JPEG',(pw-w)/2,(ph-h)/2,w,h,undefined,'FAST');processed++;
+   }finally{if(loaded)URL.revokeObjectURL(loaded.url);if(canvas){canvas.width=1;canvas.height=1;}}
+  }
+  if(!pdf||!processed)throw new Error('चुनी गई images पढ़ी नहीं जा सकीं।');
+  pdf.save('rojgardwaar-images.pdf');status('pdfStatus',processed+' image(s) PDF में जोड़ी गईं। डाउनलोड की गई PDF खोलकर page order और clarity जाँचें।','ok');
+ }catch(e){status('pdfStatus',e&&e.message?e.message:'PDF नहीं बन सकी। छोटी या दूसरी images आज़माएँ।','error');}
+ finally{setBusy(false);}
+});
+$('toImages').addEventListener('click',async()=>{
+ if(busy)return;
+ const f=$('pdfFile').files[0];
+ if(!f){status('imgStatus','पहले PDF चुनें।','error');return;}
+ if(f.type&&f.type!=='application/pdf'&&!/\.pdf$/i.test(f.name||'')){status('imgStatus','कृपया PDF file चुनें।','error');return;}
+ if(f.size<=0||f.size>MAX_PDF_BYTES){status('imgStatus','PDF खाली नहीं होनी चाहिए और 40 MB से छोटी होनी चाहिए।','error');return;}
+ if(!window.pdfjsLib){status('imgStatus','PDF library लोड नहीं हुई। इंटरनेट कनेक्शन जाँचें और refresh करें।','error');return;}
+ setBusy(true);revokeOutputs();$('preview').replaceChildren();$('downloads').replaceChildren();status('imgStatus','PDF पढ़ी जा रही है…');
+ let pdf=null;
+ try{
+  const lib=window.pdfjsLib;lib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  pdf=await lib.getDocument({data:await f.arrayBuffer()}).promise;
+  if(pdf.numPages>MAX_PDF_PAGES)throw new Error('इस टूल में एक बार में अधिकतम 30 pages convert किए जा सकते हैं। बड़ी PDF को छोटे हिस्सों में बाँटें।');
+  const scale=Number($('scale').value);
+  for(let n=1;n<=pdf.numPages;n++){
+   status('imgStatus',`Page ${n}/${pdf.numPages} convert हो रहा है…`);
+   let page=null,canvas=null;
+   try{
+    page=await pdf.getPage(n);const viewport=page.getViewport({scale}),maxPixels=12000000,shrink=Math.min(1,Math.sqrt(maxPixels/(viewport.width*viewport.height))),vp=page.getViewport({scale:scale*shrink});
+    canvas=document.createElement('canvas');canvas.width=Math.max(1,Math.ceil(vp.width));canvas.height=Math.max(1,Math.ceil(vp.height));
+    const ctx=canvas.getContext('2d');if(!ctx)throw new Error('Canvas उपलब्ध नहीं है।');
+    await page.render({canvasContext:ctx,viewport:vp}).promise;
+    const blob=await canvasBlob(canvas),url=URL.createObjectURL(blob);outputUrls.push(url);
+    const img=document.createElement('img');img.src=url;img.alt='PDF page '+n;$('preview').append(img);
+    const a=document.createElement('a');a.href=url;a.download='rojgardwaar-page-'+String(n).padStart(2,'0')+'.jpg';a.textContent='Download page '+n;a.style.display='block';a.style.margin='5px 0';$('downloads').append(a);
+   }finally{if(page)page.cleanup();if(canvas){canvas.width=1;canvas.height=1;}}
+  }
+  status('imgStatus',pdf.numPages+' pages JPG में तैयार हैं। हर page के नीचे Download लिंक है।','ok');
+ }catch(e){revokeOutputs();$('preview').replaceChildren();$('downloads').replaceChildren();status('imgStatus',e&&e.message?e.message:'PDF convert नहीं हुई। छोटी या दूसरी PDF आज़माएँ।','error');}
+ finally{if(pdf)try{await pdf.destroy();}catch(e){}setBusy(false);}
+});
+window.addEventListener('pagehide',revokeOutputs);
+})();
 </script><footer style="margin-top:32px;padding:22px 0;border-top:1px solid #d5dff0;color:#52607a;font-size:14px"><div class="wrap"><strong>ROJGARDWAAR.IN</strong><p>Free application-document tools and preliminary eligibility information. Always follow the relevant official portal's instructions.</p><nav aria-label="Helpful links" style="display:flex;flex-wrap:wrap;gap:12px"><a href="../index.html">Home</a><a href="../form-tools.html">All Free Tools</a><a href="../eligibility.html">Eligibility Calculator</a><a href="../pages/about.html">About</a><a href="../pages/contact.html">Contact</a><a href="../pages/privacy-policy.html">Privacy Policy</a><a href="../pages/terms.html">Terms</a><a href="../pages/disclaimer.html">Disclaimer</a></nav></div></footer>
 </body></html>
