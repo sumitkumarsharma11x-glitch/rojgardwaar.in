@@ -868,10 +868,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: झिल्ली-बद्ध स्पष्ट केंद्रक अनुपस्थित होता है।",
-        "गलत: प्रोटीन संश्लेषण के लिए प्रोकैरियोटिक कोशिकाओं में राइबोसोम होते हैं।",
-        "गलत: प्रोकैरियोटिक कोशिकाओं में DNA मौजूद होता है।",
-        "गलत: कोशिका झिल्ली प्रोकैरियोटिक कोशिकाओं में भी होती है।"
+        "सही—प्रोकैरियोट में झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता।",
+        "गलत—प्रोकैरियोट में राइबोसोम होते हैं, जो प्रोटीन बनाते हैं।",
+        "गलत—जीवाणु जैसे प्रोकैरियोट में DNA होता है।",
+        "गलत—प्रोकैरियोट में कोशिका झिल्ली होती है।"
+      ],
+      "en": [
+        "Correct—prokaryotes lack a well-defined membrane-bound nucleus.",
+        "Incorrect—prokaryotes do have ribosomes for protein synthesis.",
+        "Incorrect—prokaryotes such as bacteria contain DNA.",
+        "Incorrect—prokaryotes do have a cell membrane."
       ]
     }
   },
@@ -904,10 +910,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: यूकैरियोटिक कोशिका में DNA होता है।",
-        "सही: झिल्ली-बद्ध केंद्रक और कोशिकांग इसकी प्रमुख विशेषताएँ हैं।",
-        "गलत: कोशिका झिल्ली दोनों प्रकार की कोशिकाओं में होती है; यह अकेली पहचान नहीं है।",
-        "गलत: यूकैरियोटिक जीव एककोशिकीय भी हो सकते हैं, जैसे अमीबा और यीस्ट।"
+        "गलत—यूकैरियोटिक कोशिकाओं में DNA होता है।",
+        "सही—झिल्ली-बद्ध केंद्रक और कोशिकांग यूकैरियोट की प्रमुख विशेषताएँ हैं।",
+        "गलत—कोशिका झिल्ली दोनों प्रकार की कोशिकाओं में होती है।",
+        "गलत—अमीबा और यीस्ट जैसे यूकैरियोट एककोशिकीय भी हो सकते हैं।"
+      ],
+      "en": [
+        "Incorrect—eukaryotic cells contain DNA.",
+        "Correct—a membrane-bound nucleus and organelles are key eukaryotic features.",
+        "Incorrect—both prokaryotic and eukaryotic cells have a cell membrane.",
+        "Incorrect—eukaryotes can be unicellular, such as Amoeba and yeast."
       ]
     }
   },
@@ -940,10 +952,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: DNA को झिल्ली से घेरने वाला स्पष्ट केंद्रक प्रोकैरियोट में नहीं होता।",
-        "गलत: यह प्रोकैरियोटिक कोशिका की सामान्य विशेषता नहीं है।",
-        "सही: प्रोकैरियोटिक कोशिका में केंद्रकीय झिल्ली अनुपस्थित होती है।",
-        "गलत: कोशिका भित्ति और केंद्रकीय झिल्ली अलग संरचनाएँ हैं; प्रोकैरियोट में केंद्रकीय झिल्ली नहीं होती।"
+        "गलत—प्रोकैरियोट में DNA को घेरने वाली केंद्रकीय झिल्ली नहीं होती।",
+        "गलत—केंद्रकीय झिल्ली प्रोकैरियोट में केवल विभाजन के समय भी नहीं बनती।",
+        "सही—प्रोकैरियोट का DNA न्यूक्लियॉइड क्षेत्र में रहता है।",
+        "गलत—केंद्रकीय झिल्ली कोशिका भित्ति के बाहर नहीं होती।"
+      ],
+      "en": [
+        "Incorrect—prokaryotes do not have a nuclear membrane enclosing DNA.",
+        "Incorrect—the nuclear membrane does not form during prokaryotic cell division.",
+        "Correct—prokaryotic DNA lies in the nucleoid region.",
+        "Incorrect—the nuclear membrane is not outside the cell wall."
       ]
     }
   },
@@ -976,10 +994,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रकाश संश्लेषण मुख्यतः हरितलवक में होता है।",
-        "गलत: पादप कोशिका को कठोरता कोशिका भित्ति से मिलती है।",
-        "गलत: यूकैरियोटिक कोशिका में DNA को केंद्रकीय झिल्ली घेरती है; यह राइबोसोम का काम नहीं है।",
-        "सही: राइबोसोम प्रोटीन संश्लेषण के स्थल हैं।"
+        "गलत—प्रकाश-संश्लेषण हरितलवक या कुछ अन्य प्रकाश-संश्लेषी प्रणालियों से जुड़ा है, राइबोसोम से नहीं।",
+        "गलत—बाहरी कठोरता कोशिका भित्ति देती है, राइबोसोम नहीं।",
+        "गलत—DNA को केंद्रक में रखना राइबोसोम का कार्य नहीं है।",
+        "सही—राइबोसोम अमीनो अम्ल जोड़कर प्रोटीन बनाते हैं।"
+      ],
+      "en": [
+        "Incorrect—photosynthesis occurs in chloroplasts or other photosynthetic systems, not at ribosomes.",
+        "Incorrect—the cell wall provides rigidity, not ribosomes.",
+        "Incorrect—ribosomes do not enclose DNA inside a nucleus.",
+        "Correct—ribosomes build proteins by linking amino acids."
       ]
     }
   },
@@ -1012,10 +1036,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: यूकैरियोटिक कोशिकाओं में झिल्ली-बद्ध कोशिकांग पाए जाते हैं।",
-        "गलत: जीवाणु प्रोकैरियोट हैं।",
-        "गलत: विषाणु कोशिका नहीं हैं और उनमें कोशिकांग नहीं होते।",
-        "गलत: प्रोकैरियोटिक कोशिकाओं में सामान्य झिल्ली-बद्ध कोशिकांग नहीं होते।"
+        "सही—यूकैरियोट में माइटोकॉन्ड्रिया और गॉल्जी जैसे झिल्ली-बद्ध कोशिकांग होते हैं।",
+        "गलत—जीवाणु प्रोकैरियोट हैं और इनमें ऐसे झिल्ली-बद्ध कोशिकांग नहीं होते।",
+        "गलत—विषाणु कोशिकीय जीव नहीं हैं और इनमें कोशिकांग नहीं होते।",
+        "गलत—प्रोकैरियोट में झिल्ली-बद्ध केंद्रक नहीं होता।"
+      ],
+      "en": [
+        "Correct—eukaryotes have membrane-bound organelles such as mitochondria and Golgi apparatus.",
+        "Incorrect—bacteria are prokaryotes and lack these membrane-bound organelles.",
+        "Incorrect—viruses are acellular and do not have cellular organelles.",
+        "Incorrect—prokaryotes lack a membrane-bound nucleus."
       ]
     }
   },
@@ -1048,10 +1078,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: अमीबा की कोशिका में कोशिका झिल्ली होती है।",
-        "सही: झिल्ली-बद्ध केंद्रक यूकैरियोटिक कोशिका की पहचान है।",
-        "गलत: अमीबा एककोशिकीय जीव है।",
-        "गलत: अमीबा में DNA होता है।"
+        "गलत—अमीबा में कोशिका झिल्ली होती है।",
+        "सही—अमीबा की कोशिका में झिल्ली-बद्ध केंद्रक होता है।",
+        "गलत—अमीबा एककोशिकीय है।",
+        "गलत—अमीबा में DNA होता है।"
+      ],
+      "en": [
+        "Incorrect—Amoeba has a cell membrane.",
+        "Correct—Amoeba has a membrane-bound nucleus.",
+        "Incorrect—Amoeba is unicellular.",
+        "Incorrect—Amoeba contains DNA."
       ]
     }
   },
@@ -1084,10 +1120,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: ऊर्जा उत्पादन इसका मुख्य कार्य नहीं है।",
-        "गलत: कोशिका झिल्ली पादप और जंतु दोनों कोशिकाओं में होती है।",
-        "सही: यह पदार्थों के आवागमन को नियंत्रित करती है।",
-        "गलत: झिल्ली मुख्यतः लिपिड और प्रोटीन से बनी होती है, केवल DNA से नहीं।"
+        "गलत—कोशिका झिल्ली का मुख्य कार्य ऊर्जा बनाना नहीं है।",
+        "गलत—कोशिका झिल्ली पादप और जंतु दोनों कोशिकाओं में होती है।",
+        "सही—यह पदार्थों के प्रवेश और निकास को नियंत्रित करती है।",
+        "गलत—कोशिका झिल्ली लिपिड और प्रोटीन से बनी होती है, केवल DNA से नहीं।"
+      ],
+      "en": [
+        "Incorrect—the cell membrane's main role is not energy production.",
+        "Incorrect—both plant and animal cells have a cell membrane.",
+        "Correct—it regulates movement of substances into and out of the cell.",
+        "Incorrect—the membrane is mainly made of lipids and proteins, not DNA alone."
       ]
     }
   },
@@ -1120,10 +1162,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रकाश ऊर्जा ग्रहण करने में हरितलवक का क्लोरोफिल भूमिका निभाता है।",
-        "गलत: प्रोटीन संश्लेषण राइबोसोम का मुख्य कार्य है।",
-        "गलत: पादप कोशिका की बाहरी कठोर भित्ति कोशिका भित्ति होती है।",
-        "सही: माइटोकॉन्ड्रिया ATP उत्पादन में प्रमुख भूमिका निभाता है।"
+        "गलत—प्रकाश को क्लोरोफिल से पकड़ना हरितलवक का कार्य है।",
+        "गलत—प्रोटीन संश्लेषण राइबोसोम करते हैं।",
+        "गलत—पादप कोशिका की बाहरी कठोर परत कोशिका भित्ति है।",
+        "सही—माइटोकॉन्ड्रिया कोशिकीय श्वसन और ATP उत्पादन में महत्वपूर्ण है।"
+      ],
+      "en": [
+        "Incorrect—capturing light for photosynthesis is associated with chlorophyll in chloroplasts.",
+        "Incorrect—ribosomes synthesize proteins.",
+        "Incorrect—the plant cell wall provides the rigid outer layer.",
+        "Correct—mitochondria are important in cellular respiration and ATP production."
       ]
     }
   },
@@ -1156,10 +1204,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: प्रकाश संश्लेषण हरितलवक में होता है।",
-        "गलत: गॉल्जी निकाय पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।",
-        "गलत: राइबोसोम प्रोटीन बनाते हैं।",
-        "गलत: लाइसोसोम पाचन-संबंधी एंजाइमों से जुड़ा होता है।"
+        "सही—हरितलवक में क्लोरोफिल होता है और प्रकाश-संश्लेषण होता है।",
+        "गलत—गॉल्जी निकाय पदार्थों का संशोधन और पैकेजिंग करता है।",
+        "गलत—राइबोसोम प्रोटीन बनाते हैं।",
+        "गलत—लाइसोसोम में पाचक एंजाइम होते हैं।"
+      ],
+      "en": [
+        "Correct—chloroplasts contain chlorophyll and carry out photosynthesis.",
+        "Incorrect—the Golgi apparatus modifies and packages materials.",
+        "Incorrect—ribosomes synthesize proteins.",
+        "Incorrect—lysosomes contain digestive enzymes."
       ]
     }
   },
@@ -1192,10 +1246,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: न्यूक्लियॉइड प्रोकैरियोटिक कोशिका में DNA वाला क्षेत्र है।",
-        "सही: संशोधन और पैकेजिंग गॉल्जी निकाय के प्रमुख कार्य हैं।",
-        "गलत: केंद्रक आनुवंशिक पदार्थ रखता है और कोशिकीय गतिविधियों के नियमन में भूमिका निभाता है।",
-        "गलत: कोशिका भित्ति सहारा और सुरक्षा देती है।"
+        "गलत—न्यूक्लियॉइड प्रोकैरियोट में DNA वाला क्षेत्र है।",
+        "सही—गॉल्जी निकाय पदार्थों को संशोधित, छाँट और पैकेज करता है।",
+        "गलत—केंद्रक आनुवंशिक पदार्थ रखता है और कोशिका गतिविधियों को नियंत्रित करने में भूमिका निभाता है।",
+        "गलत—कोशिका भित्ति सहारा और सुरक्षा देती है।"
+      ],
+      "en": [
+        "Incorrect—the nucleoid is the DNA-containing region in prokaryotes.",
+        "Correct—the Golgi apparatus modifies, sorts and packages materials.",
+        "Incorrect—the nucleus houses most eukaryotic DNA and influences cell activity.",
+        "Incorrect—the cell wall provides support and protection."
       ]
     }
   },
@@ -1228,10 +1288,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: केंद्रक आनुवंशिक पदार्थ रखता है।",
-        "गलत: गॉल्जी निकाय पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।",
-        "सही: कोशिका भित्ति कठोरता और सहारा देती है।",
-        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
+        "गलत—केंद्रक आनुवंशिक पदार्थ रखता है।",
+        "गलत—गॉल्जी निकाय पैकेजिंग में मदद करता है।",
+        "सही—कोशिका भित्ति सहारा, आकार और सुरक्षा देती है।",
+        "गलत—राइबोसोम प्रोटीन बनाते हैं।"
+      ],
+      "en": [
+        "Incorrect—the nucleus houses most genetic material in eukaryotes.",
+        "Incorrect—the Golgi apparatus modifies and packages materials.",
+        "Correct—the cell wall provides support, shape and protection.",
+        "Incorrect—ribosomes synthesize proteins."
       ]
     }
   },
@@ -1264,10 +1330,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: सामान्य गाल कोशिका में केंद्रक पाया जाता है।",
-        "गलत: जंतु कोशिका में कोशिका झिल्ली होती है।",
-        "गलत: कोशिकाद्रव्य कोशिका का सामान्य घटक है।",
-        "सही: मानव गाल की कोशिका में कोशिका भित्ति नहीं होती।"
+        "गलत—मानव गाल की कोशिका में केंद्रक सामान्यतः होता है।",
+        "गलत—कोशिका झिल्ली सभी सामान्य जंतु कोशिकाओं में होती है।",
+        "गलत—कोशिकाद्रव्य कोशिका का प्रमुख घटक है।",
+        "सही—जंतु कोशिका में कोशिका भित्ति नहीं होती।"
+      ],
+      "en": [
+        "Incorrect—a typical human cheek cell has a nucleus.",
+        "Incorrect—animal cells have a cell membrane.",
+        "Incorrect—cytoplasm is a major component of the cell.",
+        "Correct—animal cells do not have a cell wall."
       ]
     }
   },
@@ -1300,10 +1372,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है।",
-        "गलत: रिक्तिका में जल और घुले पदार्थ हो सकते हैं।",
-        "गलत: रिक्तिका का आकार और संख्या कोशिका के प्रकार के अनुसार बदल सकते हैं।",
-        "गलत: बड़ी केंद्रीय रिक्तिका पादप कोशिका की प्रमुख विशेषता है।"
+        "सही—परिपक्व पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है।",
+        "गलत—रिक्तिका में जल और घुले पदार्थ हो सकते हैं।",
+        "गलत—रिक्तिका का आकार कोशिका के प्रकार और अवस्था के अनुसार बदलता है।",
+        "गलत—रिक्तिकाएँ केवल जंतु कोशिका तक सीमित नहीं हैं।"
+      ],
+      "en": [
+        "Correct—a mature plant cell usually has a large central vacuole.",
+        "Incorrect—vacuoles can contain water and dissolved substances.",
+        "Incorrect—vacuole size varies by cell type and state.",
+        "Incorrect—vacuoles are not exclusive to animal cells."
       ]
     }
   },
@@ -1336,10 +1414,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: जाइलम पादप का संवहनी ऊतक है।",
-        "सही: उपकला ऊतक आवरण और सुरक्षा देता है।",
-        "गलत: पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है।",
-        "गलत: तंत्रिका ऊतक संकेतों का संचार करता है।"
+        "गलत—जाइलम पादप का संवहनी ऊतक है, जंतु ऊतक नहीं।",
+        "सही—उपकला ऊतक सतहों को ढकता और कई आंतरिक सतहों की परत बनाता है।",
+        "गलत—पेशीय ऊतक संकुचन और गति में मदद करता है।",
+        "गलत—तंत्रिका ऊतक संकेतों के संचार में मदद करता है।"
+      ],
+      "en": [
+        "Incorrect—xylem is a plant vascular tissue, not an animal tissue.",
+        "Correct—epithelial tissue covers surfaces and lines many internal structures.",
+        "Incorrect—muscle tissue supports contraction and movement.",
+        "Incorrect—nervous tissue transmits signals."
       ]
     }
   },
@@ -1372,10 +1456,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: तंत्रिका ऊतक सूचना और संकेतों का संचार करता है।",
-        "गलत: उपकला ऊतक आवरण बनाता है।",
-        "सही: रक्त एक तरल संयोजी ऊतक है।",
-        "गलत: पेशीय ऊतक संकुचन और गति से संबंधित है।"
+        "गलत—तंत्रिका ऊतक संकेतों का संचार करता है।",
+        "गलत—उपकला ऊतक सतहों को ढकता है।",
+        "सही—रक्त का प्लाज्मा मैट्रिक्स इसे तरल संयोजी ऊतक बनाता है।",
+        "गलत—पेशीय ऊतक संकुचन करता है।"
+      ],
+      "en": [
+        "Incorrect—nervous tissue transmits signals.",
+        "Incorrect—epithelial tissue covers surfaces.",
+        "Correct—blood's plasma matrix makes it a fluid connective tissue.",
+        "Incorrect—muscle tissue contracts to produce movement."
       ]
     }
   },
@@ -1408,10 +1498,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: कोशिका झिल्ली पादप और जंतु दोनों कोशिकाओं में होती है।",
-        "गलत: केंद्रक दोनों प्रकार की कई कोशिकाओं में होता है; यह विशिष्ट अंतर नहीं है।",
-        "गलत: माइटोकॉन्ड्रिया पादप और जंतु दोनों यूकैरियोटिक कोशिकाओं में होता है।",
-        "सही: कोशिका भित्ति पादप कोशिका को यांत्रिक सहारा और निश्चित आकार देती है; जंतु कोशिका में यह नहीं होती।"
+        "गलत—कोशिका झिल्ली पादप और जंतु दोनों कोशिकाओं में होती है।",
+        "गलत—केंद्रक यूकैरियोटिक पादप और जंतु कोशिकाओं दोनों में होता है।",
+        "गलत—माइटोकॉन्ड्रिया पादप और जंतु दोनों यूकैरियोटिक कोशिकाओं में पाए जाते हैं।",
+        "सही—कोशिका भित्ति पादप कोशिका को सहारा देती है और जंतु कोशिका में नहीं होती।"
+      ],
+      "en": [
+        "Incorrect—the cell membrane is present in both plant and animal cells.",
+        "Incorrect—both plant and animal eukaryotic cells have a nucleus.",
+        "Incorrect—mitochondria occur in both plant and animal eukaryotic cells.",
+        "Correct—the cell wall supports plant cells and is absent from animal cells."
       ]
     }
   },
@@ -1444,10 +1540,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: प्याज की पादप कोशिका में कोशिका भित्ति होती है; गाल की जंतु कोशिका में नहीं।",
-        "गलत: राइबोसोम दोनों प्रकार की कोशिकाओं में होते हैं।",
-        "गलत: कोशिका झिल्ली पादप और जंतु दोनों कोशिकाओं में होती है।",
-        "गलत: कोशिकाद्रव्य दोनों प्रकार की कोशिकाओं में पाया जाता है।"
+        "सही—प्याज की पादप कोशिका में कोशिका भित्ति होती है, गाल की जंतु कोशिका में नहीं।",
+        "गलत—राइबोसोम दोनों प्रकार की कोशिकाओं में पाए जाते हैं।",
+        "गलत—कोशिका झिल्ली दोनों प्रकार की कोशिकाओं में होती है।",
+        "गलत—कोशिकाद्रव्य दोनों प्रकार की कोशिकाओं में होता है।"
+      ],
+      "en": [
+        "Correct—onion plant cells have a cell wall; cheek animal cells do not.",
+        "Incorrect—ribosomes occur in both cell types.",
+        "Incorrect—both cell types have a cell membrane.",
+        "Incorrect—both cell types contain cytoplasm."
       ]
     }
   },
@@ -1480,10 +1582,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है; यह प्रकाश संश्लेषण नहीं करता।",
-        "सही: हरितलवक में क्लोरोफिल होता है और प्रकाश संश्लेषण में इसकी भूमिका है।",
-        "गलत: माइटोकॉन्ड्रिया ऊर्जा-उत्पादन से जुड़ा है और पादप व जंतु दोनों कोशिकाओं में पाया जाता है।",
-        "गलत: गॉल्जी उपकरण पदार्थों के संशोधन और पैकेजिंग में सहायता करता है।"
+        "गलत—लाइसोसोम पाचन में मदद करते हैं।",
+        "सही—हरितलवक में क्लोरोफिल होता है और प्रकाश-संश्लेषण होता है।",
+        "गलत—माइटोकॉन्ड्रिया कोशिकीय श्वसन में महत्वपूर्ण है।",
+        "गलत—गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।"
+      ],
+      "en": [
+        "Incorrect—lysosomes support intracellular digestion.",
+        "Correct—chloroplasts contain chlorophyll and carry out photosynthesis.",
+        "Incorrect—mitochondria are important in cellular respiration.",
+        "Incorrect—the Golgi apparatus modifies and packages materials."
       ]
     }
   },
@@ -1516,10 +1624,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: जंतु कोशिका की रिक्तिका सामान्यतः बड़ी केंद्रीय रिक्तिका जैसी नहीं होती।",
-        "गलत: रिक्तिका में क्लोरोफिल होना उसकी सामान्य विशेषता नहीं है।",
-        "सही: जंतु कोशिका की रिक्तिकाएँ यदि उपस्थित हों तो सामान्यतः पादप कोशिका की बड़ी केंद्रीय रिक्तिका से छोटी होती हैं।",
-        "गलत: रिक्तिकाएँ जंतु कोशिकाओं में हमेशा अनुपस्थित नहीं होतीं।"
+        "गलत—जंतु कोशिका की रिक्तिका हमेशा बड़ी नहीं होती।",
+        "गलत—रिक्तिका में क्लोरोफिल होना इसकी सामान्य विशेषता नहीं है।",
+        "सही—जंतु कोशिका की रिक्तिकाएँ, यदि मौजूद हों, सामान्यतः छोटी होती हैं।",
+        "गलत—जंतु कोशिकाओं में छोटी रिक्तिकाएँ हो सकती हैं।"
+      ],
+      "en": [
+        "Incorrect—an animal-cell vacuole is not always large.",
+        "Incorrect—chlorophyll is not a normal feature of vacuoles.",
+        "Correct—animal-cell vacuoles, when present, are generally small.",
+        "Incorrect—animal cells can have small vacuoles."
       ]
     }
   },
@@ -1552,10 +1666,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: केंद्रक, माइटोकॉन्ड्रिया और राइबोसोम जंतु कोशिकाओं में भी पाए जाते हैं।",
-        "गलत: कोशिका झिल्ली और कोशिकाद्रव्य पादप व जंतु दोनों कोशिकाओं में होते हैं।",
-        "गलत: गॉल्जी उपकरण यूकैरियोटिक कोशिकाओं में होता है; लाइसोसोम भी पादप-जंतु के बीच अकेला निर्णायक अंतर नहीं है।",
-        "सही: कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पादप कोशिका की प्रमुख विशेषताएँ हैं।"
+        "गलत—केंद्रक, माइटोकॉन्ड्रिया और राइबोसोम पादप और जंतु दोनों कोशिकाओं में पाए जाते हैं।",
+        "गलत—कोशिका झिल्ली और कोशिकाद्रव्य दोनों प्रकार की कोशिकाओं में होते हैं।",
+        "गलत—गॉल्जी निकाय यूकैरियोटिक पादप और जंतु कोशिकाओं में पाया जाता है।",
+        "सही—कोशिका भित्ति और हरितलवक पादप कोशिकाओं की विशेषताएँ हैं; बड़ी केंद्रीय रिक्तिका सामान्यतः पाई जाती है।"
+      ],
+      "en": [
+        "Incorrect—the nucleus, mitochondria and ribosomes occur in both plant and animal cells.",
+        "Incorrect—both cell types have a cell membrane and cytoplasm.",
+        "Incorrect—the Golgi apparatus occurs in plant and animal eukaryotic cells.",
+        "Correct—cell walls and chloroplasts are plant-cell features; a large central vacuole is also typical."
       ]
     }
   },
