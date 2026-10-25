@@ -24,8 +24,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "चुंबकीय बल ध्रुवों पर सांद्रित होता है।",
-        "en": "Magnetic force is concentrated at the poles."
+        "hi": "चुंबक के दोनों सिरों पर चुंबकीय प्रभाव सबसे अधिक होता है; इन सिरों को उत्तर और दक्षिण ध्रुव कहते हैं।",
+        "en": "A bar magnet's magnetic effect is strongest near its two ends, called the north and south poles."
       }
     },
     {
@@ -80,8 +80,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "विपरीत ध्रुवों में आकर्षण होता है।",
-        "en": "Unlike poles attract."
+        "hi": "चुंबक के ध्रुवों के पास चुंबकीय प्रभाव सबसे अधिक होता है; समान ध्रुव प्रतिकर्षित और विपरीत ध्रुव आकर्षित करते हैं।",
+        "en": "Magnetic effects are strongest near the poles; like poles repel and unlike poles attract."
       }
     },
     {
@@ -108,8 +108,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "प्रतिकर्षण केवल समान ध्रुवों में होता है।",
-        "en": "Repulsion occurs only between like poles."
+        "hi": "चुंबक के ध्रुवों के पास चुंबकीय प्रभाव सबसे अधिक होता है; समान ध्रुव प्रतिकर्षित और विपरीत ध्रुव आकर्षित करते हैं।",
+        "en": "Magnetic effects are strongest near the poles; like poles repel and unlike poles attract."
       }
     },
     {
@@ -192,8 +192,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "लकड़ी, प्लास्टिक, काँच, ताँबा जैसे पदार्थ अचुंबकीय हैं।",
-        "en": "Wood, plastic, glass and copper are non-magnetic."
+        "hi": "लकड़ी सामान्यतः चुंबक से आकर्षित नहीं होती; निकेल और कोबाल्ट जैसे पदार्थ चुंबकीय होते हैं।",
+        "en": "Wood is not normally attracted to a magnet, whereas materials such as nickel and cobalt are magnetic."
       }
     },
     {
@@ -277,7 +277,7 @@
       "correct": 1,
       "explanation": {
         "hi": "चुंबकीय क्षेत्र की तीव्रता टेस्ला में मापी जाती है।",
-        "en": "Magnetic field strength is measured in tesla."
+        "en": "A magnetic field is the region where a magnet or current experiences magnetic force; field lines indicate direction."
       }
     },
     {
@@ -612,8 +612,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "आकर्षण विपरीत ध्रुवों का प्रमाण है।",
-        "en": "Attraction is the signature of unlike poles."
+        "hi": "चुंबक के ध्रुवों के पास चुंबकीय प्रभाव सबसे अधिक होता है; समान ध्रुव प्रतिकर्षित और विपरीत ध्रुव आकर्षित करते हैं।",
+        "en": "Magnetic effects are strongest near the poles; like poles repel and unlike poles attract."
       }
     },
     {
@@ -1256,8 +1256,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "टुकड़े हर हाल में द्विध्रुवीय रहते हैं, यद्यपि तीव्रता घटती है।",
-        "en": "The pieces remain dipoles, though weaker."
+        "hi": "छड़ चुंबक को काटने पर हर टुकड़ा उत्तर और दक्षिण ध्रुव वाला छोटा चुंबक बनता है; अलग ध्रुव अकेले नहीं मिलते।",
+        "en": "Cutting a bar magnet produces smaller magnets, each with both north and south poles; isolated poles are not obtained."
       }
     },
     {
@@ -1313,7 +1313,7 @@
       "correct": 2,
       "explanation": {
         "hi": "बल-क्षेत्र स्पर्श के बिना ही प्रभाव डालता है।",
-        "en": "The field acts without any contact."
+        "en": "A magnetic field is the region where a magnet or current experiences magnetic force; field lines indicate direction."
       }
     },
     {
@@ -1508,8 +1508,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "चुंबकीय कंपास ने समुद्री यात्राओं की दिशा निर्धारित की।",
-        "en": "The magnetic compass guided sea voyages."
+        "hi": "चुंबकीय कंपास की सुई पृथ्वी के चुंबकीय क्षेत्र के साथ संरेखित होकर दिशा बताती है।",
+        "en": "A magnetic compass indicates direction because its needle aligns with Earth's magnetic field."
       }
     },
     {
@@ -1788,8 +1788,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "कंपास ने दिशा-ज्ञान से महासागरों की यात्रा सुगम की।",
-        "en": "The compass made ocean voyages navigable."
+        "hi": "कंपास पृथ्वी के चुंबकीय क्षेत्र का उपयोग करके दिशा बताता है, जिससे समुद्री नेविगेशन में मदद मिली।",
+        "en": "A compass uses Earth's magnetic field to indicate direction, supporting navigation at sea."
       }
     },
     {
@@ -2096,7 +2096,7 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "विषुवत पर क्षेत्र रेखाएँ क्षैतिज होती हैं।",
+        "hi": "चुंबकीय विषुवत रेखा पर चुंबकीय क्षेत्र लगभग क्षैतिज होता है, इसलिए चुंबकीय नति का कोण लगभग शून्य होता है।",
         "en": "At the equator the field lines are horizontal."
       }
     },
@@ -2124,7 +2124,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "ध्रुव पर क्षेत्र-रेखाएँ ऊर्ध्वाधर प्रवेश करती हैं।",
+        "hi": "चुंबक के ध्रुवों के पास चुंबकीय प्रभाव सबसे अधिक होता है; समान ध्रुव प्रतिकर्षित और विपरीत ध्रुव आकर्षित करते हैं।",
         "en": "At the poles the field lines enter vertically."
       }
     },
@@ -2404,7 +2404,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "क्षेत्र का विक्षेपण-कार्य ढाल जैसा ही है।",
+        "hi": "चुंबकीय क्षेत्र वह क्षेत्र है जहाँ चुंबक या धारा चुंबकीय बल अनुभव कर सकती है; क्षेत्र रेखाएँ दिशा दर्शाती हैं।",
         "en": "The field's deflecting action works like a shield."
       }
     },
@@ -2488,8 +2488,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "दिक्पात उसी कोण से परिभाषित है।",
-        "en": "Declination is defined by that very angle."
+        "hi": "भौगोलिक और चुंबकीय उत्तर में कोणीय अंतर चुंबकीय दिक्पात कहलाता है; नति चुंबकीय क्षेत्र और क्षैतिज तल के बीच का कोण है।",
+        "en": "The angular difference between geographic and magnetic north is magnetic declination; magnetic dip is the angle between the field and the horizontal."
       }
     },
     {
@@ -2544,8 +2544,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "प्रबल क्षेत्र अपक्षय (erosion) को घटाता है।",
-        "en": "A strong field reduces atmospheric erosion."
+        "hi": "चुंबकीय क्षेत्र वह क्षेत्र है जहाँ चुंबक या धारा चुंबकीय बल अनुभव कर सकती है; क्षेत्र रेखाएँ दिशा दर्शाती हैं।",
+        "en": "A magnetic field is the region where a magnet or current experiences magnetic force; field lines indicate direction."
       }
     },
     {
@@ -2600,8 +2600,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "स्थानीय चुंबकीय पदार्थ भू-क्षेत्र पर हावी हो जाते हैं।",
-        "en": "Local magnetic material overpowers the earth's field."
+        "hi": "लोहे की प्लेट चुंबक के पास स्थानीय चुंबकीय प्रभाव पैदा कर सकती है, जिससे स्वतंत्र रूप से लटके चुंबक की दिशा बदल सकती है और मापन प्रभावित हो सकता है।",
+        "en": "An iron plate can create a strong local magnetic influence near the magnet, disturbing its resting orientation and making the reading unreliable."
       }
     },
     {
@@ -2964,8 +2964,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "1820 में ओरस्टेड ने धारा-चुंबकत्व संबंध का प्रयोग दिखाया।",
-        "en": "In 1820 Oersted demonstrated the current-magnetism connection."
+        "hi": "हैंस क्रिश्चियन ओरस्टेड ने 1820 में दिखाया कि विद्युत धारा के पास कंपास सुई विचलित होती है।",
+        "en": "Hans Christian Ørsted showed in 1820 that an electric current deflects a nearby compass needle."
       }
     },
     {
@@ -3076,8 +3076,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "धारा बढ़ने पर क्षेत्र प्रबल होता है।",
-        "en": "A larger current makes a stronger field."
+        "hi": "विद्युत-चुंबक में कुंडली से धारा बहने पर चुंबकीय क्षेत्र बनता है; लोहे का कोर इसे मजबूत कर सकता है।",
+        "en": "An electromagnet forms a magnetic field when current flows through a coil; an iron core can strengthen it."
       }
     },
     {
@@ -3385,7 +3385,7 @@
       "correct": 0,
       "explanation": {
         "hi": "अस्थायी चुंबकत्व के लिए त्वरित निष्चुंबकन आवश्यक है।",
-        "en": "Temporary magnetism demands quick demagnetisation."
+        "en": "An electromagnet forms a magnetic field when current flows through a coil; an iron core can strengthen it."
       }
     },
     {
@@ -3440,8 +3440,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "धारा बढ़ने पर क्षेत्र तीव्रता बढ़ती है।",
-        "en": "Raising the current raises the field intensity."
+        "hi": "विद्युत-चुंबक में कुंडली से धारा बहने पर चुंबकीय क्षेत्र बनता है; लोहे का कोर इसे मजबूत कर सकता है।",
+        "en": "An electromagnet forms a magnetic field when current flows through a coil; an iron core can strengthen it."
       }
     },
     {
@@ -3636,7 +3636,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "विचलन क्षेत्र-तीव्रता का सीधा सूचक है।",
+        "hi": "सीधे धारावाही तार के आसपास चुंबकीय क्षेत्र बनता है; समान परिस्थितियों में धारा बढ़ने पर क्षेत्र की तीव्रता भी बढ़ती है।",
         "en": "Deflection is a direct indicator of field strength."
       }
     },
@@ -3664,8 +3664,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "स्थायी चुंबक के ध्रुव स्थिर रहते हैं।",
-        "en": "A permanent magnet's poles are fixed."
+        "hi": "चुंबक के ध्रुवों के पास चुंबकीय प्रभाव सबसे अधिक होता है; समान ध्रुव प्रतिकर्षित और विपरीत ध्रुव आकर्षित करते हैं।",
+        "en": "Magnetic effects are strongest near the poles; like poles repel and unlike poles attract."
       }
     },
     {
@@ -3748,8 +3748,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "धारा-दिशा पलटने से क्षेत्र-दिशा पलटती है।",
-        "en": "Reversing current reverses the field."
+        "hi": "कुंडली में धारा की दिशा उलटने पर उससे उत्पन्न चुंबकीय क्षेत्र भी उलटता है, इसलिए कंपास सुई विपरीत दिशा में विचलित होती है।",
+        "en": "Reversing the current reverses the coil's magnetic field, so a nearby compass needle deflects in the opposite direction."
       }
     },
     {
@@ -3776,8 +3776,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "फेरे घटने से क्षेत्र-योगदान घटता है।",
-        "en": "Fewer turns mean less field contribution."
+        "hi": "विद्युत-चुंबक में कुंडली से धारा बहने पर चुंबकीय क्षेत्र बनता है; लोहे का कोर इसे मजबूत कर सकता है।",
+        "en": "An electromagnet forms a magnetic field when current flows through a coil; an iron core can strengthen it."
       }
     },
     {
@@ -3805,7 +3805,7 @@
       "correct": 3,
       "explanation": {
         "hi": "चुंबकीय क्षेत्र संवेदनशील उपकरणों के कार्य में बाधा डालता है।",
-        "en": "Magnetic fields disturb sensitive equipment."
+        "en": "An electromagnet forms a magnetic field when current flows through a coil; an iron core can strengthen it."
       }
     },
     {
@@ -3916,7 +3916,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "नियंत्रित उठाना-गिराना अस्थायीपन से ही संभव है।",
+        "hi": "विद्युत-चुंबक में कुंडली से धारा बहने पर चुंबकीय क्षेत्र बनता है; लोहे का कोर इसे मजबूत कर सकता है।",
         "en": "Controlled lift-and-drop is possible only because of temporariness."
       }
     },
@@ -4000,7 +4000,7 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "मुड़ी उँगलियाँ क्षेत्र-वृत्तों की दिशा बताती हैं।",
+        "hi": "दाहिने हाथ के अंगूठे के नियम में अंगूठा सीधे तार में पारंपरिक धारा की दिशा बताता है और मुड़ी उँगलियाँ चुंबकीय क्षेत्र की दिशा।",
         "en": "The curled fingers show the direction of the field circles."
       }
     },
@@ -4084,8 +4084,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "दक्षिण-हस्त नियम प्रेरण (जनित्र) से जुड़ा है।",
-        "en": "The right-hand rule belongs to induction (generator)."
+        "hi": "फ्लेमिंग का दायाँ-हाथ नियम जनित्र में गति से प्रेरित धारा की दिशा ज्ञात करने के लिए उपयोग होता है।",
+        "en": "Fleming's right-hand rule is used to determine the direction of induced current in a generator."
       }
     },
     {
@@ -4197,7 +4197,7 @@
       "correct": 1,
       "explanation": {
         "hi": "स्टील की शेष-चुंबकत्व (retentivity) अधिक है — नियंत्रण खो जाता है।",
-        "en": "Steel's high retentivity spoils the control."
+        "en": "An electromagnet forms a magnetic field when current flows through a coil; an iron core can strengthen it."
       }
     },
     {
@@ -4252,8 +4252,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "मोटर धारा से घूर्णन बनाती है।",
-        "en": "A motor turns current into rotation."
+        "hi": "विद्युत मोटर विद्युत ऊर्जा को यांत्रिक गति में बदलती है; चुंबकीय क्षेत्र में धारावाही चालक पर बल लगता है।",
+        "en": "An electric motor converts electrical energy into mechanical motion; a current-carrying conductor experiences force in a magnetic field."
       }
     },
     {
@@ -4280,8 +4280,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "जनित्र घूर्णन से धारा बनाता है।",
-        "en": "A generator makes current from rotation."
+        "hi": "जनित्र यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलता है, आम तौर पर विद्युत-चुंबकीय प्रेरण के माध्यम से।",
+        "en": "A generator converts mechanical energy into electrical energy, commonly through electromagnetic induction."
       }
     },
     {
@@ -4336,8 +4336,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "1831 में फैराडे ने विद्युत-चुंबकीय प्रेरण की खोज की।",
-        "en": "In 1831 Faraday discovered electromagnetic induction."
+        "hi": "माइकल फैराडे ने 1831 में विद्युत-चुंबकीय प्रेरण की खोज की।",
+        "en": "Michael Faraday discovered electromagnetic induction in 1831."
       }
     },
     {
@@ -4364,8 +4364,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "फैराडे का प्रेरण-प्रयोग ही जनित्र का मूल है।",
-        "en": "Faraday's induction experiment is the generator's root."
+        "hi": "जनित्र विद्युत-चुंबकीय प्रेरण पर आधारित है: बदलता चुंबकीय फ्लक्स कुंडली में वोल्टेज प्रेरित करता है।",
+        "en": "A generator relies on electromagnetic induction: changing magnetic flux induces a voltage in a coil."
       }
     },
     {
@@ -4392,7 +4392,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "गैल्वेनोमीटर सूक्ष्म धारा का विचलन दर्शाता है।",
+        "hi": "गैल्वेनोमीटर छोटे विद्युत प्रवाह का पता लगाने और उसकी दिशा का संकेत देने के लिए उपयोग होता है.",
         "en": "A galvanometer shows a deflection for tiny currents."
       }
     },
@@ -4532,8 +4532,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "मोटर: विद्युत→गतिज; जनित्र: गतिज→विद्युत।",
-        "en": "Motor: electrical→mechanical; generator: mechanical→electrical."
+        "hi": "विद्युत मोटर विद्युत ऊर्जा को यांत्रिक गति में बदलती है; चुंबकीय क्षेत्र में धारावाही चालक पर बल लगता है।",
+        "en": "An electric motor converts electrical energy into mechanical motion; a current-carrying conductor experiences force in a magnetic field."
       }
     },
     {
@@ -4560,8 +4560,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "AC की दिशा चक्रीय रूप से बदलती रहती है।",
-        "en": "AC keeps reversing its direction cyclically."
+        "hi": "प्रत्यावर्ती धारा (AC) समय के साथ अपनी दिशा और मान बदलती है।",
+        "en": "Alternating current (AC) changes direction and magnitude periodically."
       }
     },
     {
@@ -4644,8 +4644,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "पंखे की मोटर विद्युत से घूर्णन बनाती है।",
-        "en": "The fan's motor turns electricity into rotation."
+        "hi": "पंखे में मोटर विद्युत ऊर्जा को घूर्णन की यांत्रिक ऊर्जा में बदलती है।",
+        "en": "A fan uses an electric motor to convert electrical energy into rotational mechanical energy."
       }
     },
     {
@@ -4700,8 +4700,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "गति से प्रेरित धारा — डायनेमो।",
-        "en": "Motion-induced current — a dynamo."
+        "hi": "साइकिल डायनेमो घूमने पर चुंबकीय फ्लक्स में बदलाव से विद्युत वोल्टेज प्रेरित होता है, जो लैंप जला सकता है।",
+        "en": "When a bicycle dynamo rotates, changing magnetic flux induces a voltage that can power the lamp."
       }
     },
     {
@@ -4924,8 +4924,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "प्राकृतिक गतिज स्रोत टरबाइन घुमाते हैं।",
-        "en": "Natural mechanical sources drive the turbines."
+        "hi": "जल, भाप या हवा से चलने वाली टरबाइन जनित्र की कुंडली या रोटर घुमाकर यांत्रिक ऊर्जा देती है।",
+        "en": "Water, steam, or wind can turn a turbine, supplying the mechanical energy that drives a generator's rotor."
       }
     },
     {
@@ -5036,8 +5036,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "बल धारा के अनुक्रमानुपाती है।",
-        "en": "The force is proportional to the current."
+        "hi": "विद्युत मोटर विद्युत ऊर्जा को यांत्रिक गति में बदलती है; चुंबकीय क्षेत्र में धारावाही चालक पर बल लगता है।",
+        "en": "An electric motor converts electrical energy into mechanical motion; a current-carrying conductor experiences force in a magnetic field."
       }
     },
     {
@@ -5148,7 +5148,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "मूल भौतिकी एक; प्रयोग विपरीत दिशा में।",
+        "hi": "विद्युत मोटर विद्युत ऊर्जा को यांत्रिक गति में बदलती है; चुंबकीय क्षेत्र में धारावाही चालक पर बल लगता है।",
         "en": "The core physics is one; the applications run opposite ways."
       }
     },
@@ -5176,8 +5176,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "गतिज ऊर्जा → जनित्र → विद्युत ऊर्जा।",
-        "en": "Kinetic energy → generator → electrical energy."
+        "hi": "हवा टरबाइन के ब्लेड घुमाती है; रोटर जनित्र चलाता है और विद्युत-चुंबकीय प्रेरण से विद्युत उत्पन्न होती है।",
+        "en": "Wind turns the turbine blades; the rotor drives a generator, which produces electricity by electromagnetic induction."
       }
     },
     {
@@ -5400,8 +5400,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "बल ∝ धारा: 6/2 = 3 गुना।",
-        "en": "Force ∝ current: 6/2 = 3 times."
+        "hi": "विद्युत मोटर विद्युत ऊर्जा को यांत्रिक गति में बदलती है; चुंबकीय क्षेत्र में धारावाही चालक पर बल लगता है।",
+        "en": "An electric motor converts electrical energy into mechanical motion; a current-carrying conductor experiences force in a magnetic field."
       }
     },
     {
@@ -5428,8 +5428,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "5 × 2 = 10 पूर्ण चक्र।",
-        "en": "5 × 2 = 10 complete cycles."
+        "hi": "5 चक्र प्रति सेकंड × 2 सेकंड = 10 पूर्ण चक्र।",
+        "en": "At 5 cycles per second for 2 seconds, the coil completes 5 × 2 = 10 cycles."
       }
     },
     {
@@ -5540,8 +5540,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "V ∝ फेरे: 600/200 = 3।",
-        "en": "V ∝ turns: 600/200 = 3."
+        "hi": "फेरे 200 से 600 करने पर, बाकी स्थितियाँ समान हों तो प्रेरित वोल्टेज लगभग 600/200 = 3 गुना हो जाता है।",
+        "en": "With other conditions unchanged, increasing the turns from 200 to 600 makes the induced voltage approximately 600/200 = 3 times as large."
       }
     },
     {
@@ -5596,8 +5596,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "विपरीत क्षेत्र-परिवर्तन एक-दूसरे को काट देते हैं।",
-        "en": "Opposite field changes cancel each other."
+        "hi": "यदि दोनों समान चुंबकों के प्रेरण प्रभाव बराबर और विपरीत हों, तो वे लगभग निरस्त हो सकते हैं और शुद्ध गैल्वेनोमीटर विचलन लगभग शून्य होगा।",
+        "en": "If the two identical magnets induce equal and opposite effects, they approximately cancel, leaving near-zero net galvanometer deflection."
       }
     }
   ]

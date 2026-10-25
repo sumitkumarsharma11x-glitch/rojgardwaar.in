@@ -1228,8 +1228,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "840 ÷ 4.2 = 200 कैलोरी।",
-        "en": "840 ÷ 4.2 = 200 calories."
+        "hi": "कैलोरी में बदलने के लिए जूल को 4.2 से भाग दें: 840 ÷ 4.2 = 200 कैलोरी।",
+        "en": "When current passes through resistance, electrical energy becomes heat; this effect is used in heaters and fuses."
       }
     },
     {
@@ -1480,7 +1480,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "लेपन रासायनिक प्रभाव का प्रमुख उपयोग है।",
+        "hi": "विद्युतलेपन में विद्युत धारा की सहायता से किसी वस्तु की सतह पर दूसरी धातु की पतली परत जमा की जाती है।",
         "en": "Plating is the chief application of the chemical effect."
       }
     },
@@ -1704,8 +1704,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "क्रोम चमकदार और जंग-रोधी है।",
-        "en": "Chromium is shiny and rust-resistant."
+        "hi": "क्रोम की परत सतह को चमकदार बनाती है और नीचे की धातु को जंग तथा घिसाव से बचाने में मदद करती है।",
+        "en": "Chrome plating gives a shiny finish and helps protect the underlying metal from corrosion and wear."
       }
     },
     {
@@ -1788,8 +1788,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "फिलामेंट का जलना तापीय प्रभाव है।",
-        "en": "The glowing filament is the heating effect."
+        "hi": "कुछ विलयनों से विद्युत धारा गुजरने पर रासायनिक परिवर्तन होते हैं; इसे विद्युत अपघटन जैसे प्रयोगों में देखा जाता है।",
+        "en": "Current through some solutions causes chemical changes, as seen in electrolysis."
       }
     },
     {
@@ -2096,8 +2096,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "लेपन से रूप-सौंदर्य, सुरक्षा और मजबूती — तीनों मिलते हैं।",
-        "en": "Plating gives looks, protection and durability together."
+        "hi": "विद्युतलेपन का उपयोग सजावट, जंग से सुरक्षा और सतह के घिसाव को कम करने के लिए किया जाता है।",
+        "en": "Electroplating is used for appearance, corrosion protection, and reducing surface wear."
       }
     },
     {
@@ -2376,8 +2376,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "धनाग्र एनोड कहलाता है।",
-        "en": "The positive electrode is the anode."
+        "hi": "विद्युतलेपन के सामान्य सेल में धनात्मक इलेक्ट्रोड एनोड कहलाता है; वास्तविक नामकरण सेल और प्रक्रिया के संदर्भ पर निर्भर करता है।",
+        "en": "In the electroplating setup described here, the positive electrode is the anode; electrode naming should be interpreted in the context of the cell and process."
       }
     },
     {
@@ -2600,8 +2600,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "ऋणायन धनाग्र की ओर जाते हैं।",
-        "en": "Negative ions head for the positive electrode."
+        "hi": "अपघटन में ऋणायन धनात्मक एनोड की ओर जाते हैं, जहाँ वे इलेक्ट्रॉन छोड़ सकते हैं।",
+        "en": "During electrolysis, anions move toward the positive anode, where they can lose electrons."
       }
     },
     {
@@ -2796,7 +2796,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "एनोड-घुलाव और कैथोड-जमाव संतुलित धातु-स्थानांतरण दिखाते हैं।",
+        "hi": "उपयुक्त विद्युतलेपन में एनोड की धातु घुलकर आयनों के रूप में विलयन में जाती है और कैथोड पर रखी वस्तु पर जमा होती है; इसलिए एनोड पतला और वस्तु परतदार हो सकती है।",
         "en": "Anode dissolution and cathode build-up show balanced metal transfer."
       }
     },
@@ -3104,8 +3104,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "इस्त्री तापीय प्रभाव से गर्म होती है।",
-        "en": "An iron works by the heating effect."
+        "hi": "विद्युत धारा अपने चारों ओर चुंबकीय क्षेत्र बनाती है; यह विद्युत और चुंबकत्व के बीच मूल संबंध है।",
+        "en": "An electric current produces a magnetic field around it, showing the fundamental link between electricity and magnetism."
       }
     },
     {
@@ -3245,7 +3245,7 @@
       "correct": 3,
       "explanation": {
         "hi": "गतिमान आवेश ही चुंबकीय प्रभाव पैदा करते हैं।",
-        "en": "Moving charges alone create the magnetic effect."
+        "en": "An electric current produces a magnetic field around it, showing the fundamental link between electricity and magnetism."
       }
     },
     {
@@ -3496,8 +3496,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "धारा की दिशा बदलने पर क्षेत्र की दिशा उलट जाती है।",
-        "en": "Reversing current reverses the field direction."
+        "hi": "कुंडली में धारा की दिशा उलटने पर विद्युत-चुंबक का चुंबकीय क्षेत्र उलटता है, इसलिए उत्तर और दक्षिण ध्रुव बदल जाते हैं।",
+        "en": "Reversing the current reverses an electromagnet's magnetic field, swapping its north and south poles."
       }
     },
     {
@@ -3552,8 +3552,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "धारा + क्षेत्र = बल = घूर्णन।",
-        "en": "Current + field = force = rotation."
+        "hi": "मोटर में चुंबकीय क्षेत्र के भीतर धारा-वहन करने वाली कुंडली पर बल लगता है, जिससे टॉर्क और घूर्णन पैदा होते हैं।",
+        "en": "A current-carrying coil in a magnetic field experiences a force that produces torque and rotation in a motor."
       }
     },
     {
@@ -4084,7 +4084,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "घूर्णन का एकमात्र स्रोत चुंबकीय बल है।",
+        "hi": "मोटर में चुंबकीय बल कुंडली पर टॉर्क पैदा करता है। यदि यह बल न लगे, तो धारा बहने पर भी कुंडली घूम नहीं पाएगी।",
         "en": "The sole source of rotation is the magnetic force."
       }
     },
@@ -4364,8 +4364,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "ऊँचाई से गिरता पानी टरबाइन घुमाता है।",
-        "en": "Water falling from height spins the turbine."
+        "hi": "जल-विद्युत गृह में गिरते या बहते पानी से टरबाइन घूमती है; टरबाइन जनित्र को चलाती है।",
+        "en": "In a hydroelectric plant, falling or flowing water turns a turbine, which drives the generator."
       }
     },
     {
@@ -4560,8 +4560,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "पारेषण लाइनें विद्युत को दूर-दूर तक ले जाती हैं।",
-        "en": "Transmission lines carry electricity over long distances."
+        "hi": "विद्युत संयंत्रों से उत्पन्न बिजली को पारेषण और वितरण लाइनों के जरिए घरों तक पहुँचाया जाता है।",
+        "en": "Electricity generated at power stations is delivered to homes through transmission and distribution lines."
       }
     },
     {
@@ -4616,7 +4616,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "कम खपत-समान प्रकाश = ऊर्जा बचत।",
+        "hi": "CFL और LED बल्ब समान रोशनी देने के लिए सामान्यतः पुराने तापदीप्त बल्बों से कम विद्युत ऊर्जा उपयोग करते हैं।",
         "en": "Less consumption for similar light = energy saving."
       }
     },
@@ -4644,8 +4644,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "अप्रयुक्त उपकरण बंद = सीधी बचत।",
-        "en": "Idle devices off = direct saving."
+        "hi": "उपयोग न होने पर लाइट और उपकरण बंद करने से अनावश्यक विद्युत खपत घटती है।",
+        "en": "Turning off lights and appliances when they are not needed reduces unnecessary electricity use."
       }
     },
     {
@@ -4672,8 +4672,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "पैनल को अधिकतम सूर्य-प्रकाश चाहिए।",
-        "en": "Panels need maximum sunlight."
+        "hi": "छत पर अक्सर खुली धूप मिलती है और पेड़ों या इमारतों की छाया कम होती है, इसलिए वहाँ सौर पैनल लगाए जाते हैं।",
+        "en": "Roofs often receive unobstructed sunlight with less shading from trees or buildings, making them useful locations for solar panels."
       }
     },
     {
@@ -4728,7 +4728,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "प्राकृतिक गैस जीवाश्म ईंधन है — अनवीनीकरणीय।",
+        "hi": "प्राकृतिक गैस जीवाश्म ईंधन है और सीमित भंडार में उपलब्ध है, इसलिए इसे नवीनीकरणीय स्रोत नहीं माना जाता।",
         "en": "Natural gas is a fossil fuel — non-renewable."
       }
     },
@@ -4812,7 +4812,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "सूर्य स्वच्छ और असीमित ऊर्जा-स्रोत है।",
+        "hi": "सौर ऊर्जा संचालन के दौरान ईंधन जलाए बिना ऊर्जा देती है और सूर्य से लगातार उपलब्ध होती है, हालांकि उपकरणों के निर्माण का पर्यावरणीय प्रभाव हो सकता है।",
         "en": "The sun is a clean and unlimited energy source."
       }
     },
@@ -4924,8 +4924,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "भू-गर्म स्रोत विशेष स्थानों पर ही मिलते हैं।",
-        "en": "Geothermal sources exist only at specific locations."
+        "hi": "भूतापीय ऊर्जा वहाँ अधिक व्यावहारिक होती है जहाँ भूमिगत गर्म पानी या भाप सतह के पास उपलब्ध हो।",
+        "en": "Geothermal power is most practical where underground hot water or steam is accessible near the surface."
       }
     },
     {
@@ -4980,8 +4980,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "सौर सेल का ईंधन प्रकाश ही है।",
-        "en": "A solar cell's fuel is light itself."
+        "hi": "सौर सेल प्रकाश से विद्युत उत्पन्न करते हैं; रात में सूर्य का प्रकाश न मिलने पर सामान्य सौर पैनल बिजली उत्पन्न नहीं करते।",
+        "en": "Solar cells generate electricity from light; without sunlight at night, ordinary solar panels do not generate power."
       }
     },
     {
@@ -5120,8 +5120,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "संरक्षण = बर्बादी रोकना, न कि ऊर्जा 'बनाना'।",
-        "en": "Conservation = stopping waste, not 'making' energy."
+        "hi": "ऊर्जा संरक्षण का अर्थ ऊर्जा की बर्बादी घटाना और उपलब्ध ऊर्जा का कुशल उपयोग करना है; ऊर्जा बनाई या नष्ट नहीं की जाती।",
+        "en": "Energy conservation means reducing waste and using energy efficiently; energy itself is not created or destroyed."
       }
     },
     {
@@ -5176,8 +5176,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "स्रोत का चुनाव ही बचत तय करता है।",
-        "en": "The choice of source decides the saving."
+        "hi": "सौर जल-तापक सूर्य की ऊर्जा का उपयोग करता है, जबकि विद्युत गीज़र बिजली खपत करता है। वास्तविक बचत स्थानीय लागत और उपयोग पर निर्भर करती है।",
+        "en": "A solar water heater uses energy from the Sun, while an electric geyser consumes electricity. Actual savings depend on local costs and usage."
       }
     },
     {
@@ -5204,7 +5204,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "कचरा ईंधन बनता है और शेष उर्वरक।",
+        "hi": "गोबर-गैस संयंत्र खाना पकाने के लिए बायोगैस देता है और बचा हुआ पचा पदार्थ खाद के रूप में खेत में इस्तेमाल हो सकता है।",
         "en": "Waste becomes fuel and the rest becomes fertiliser."
       }
     },
@@ -5260,8 +5260,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "पवन में दहन ही नहीं — शून्य धुआँ।",
-        "en": "Wind involves no combustion — zero smoke."
+        "hi": "पवन ऊर्जा के उत्पादन के दौरान ईंधन नहीं जलता, इसलिए संचालन के समय वायु प्रदूषण कम होता है; फिर भी निर्माण और स्थापना के पर्यावरणीय प्रभाव हो सकते हैं।",
+        "en": "Wind power burns no fuel during electricity generation, so operational air pollution is low, though manufacturing and installation still have environmental impacts."
       }
     },
     {
@@ -5288,7 +5288,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "सीमित आपूर्ति + बढ़ती माँग = महँगाई।",
+        "hi": "जीवाश्म ईंधन के भंडार सीमित हैं; माँग बढ़ने पर आपूर्ति और कीमतों पर दबाव बढ़ सकता है।",
         "en": "Limited supply + rising demand = higher prices."
       }
     },
@@ -5316,8 +5316,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "ज्वार की गतिज ऊर्जा टरबाइन घुमाती है।",
-        "en": "The kinetic energy of tides spins turbines."
+        "hi": "ज्वारीय ऊर्जा समुद्र के नियमित ज्वार-भाटा के कारण पानी की गति या ऊँचाई के अंतर से प्राप्त की जाती है।",
+        "en": "Tidal energy is obtained from the movement or height difference of seawater caused by regular tides."
       }
     },
     {

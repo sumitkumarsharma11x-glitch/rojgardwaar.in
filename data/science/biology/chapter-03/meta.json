@@ -15,7 +15,50 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "skeletal-system",
+      "name": {
+        "hi": "Skeletal System",
+        "en": "Skeletal System"
+      }
+    },
+    {
+      "id": "advanced-plant-tissues",
+      "name": {
+        "hi": "Advanced Plant Tissues",
+        "en": "Advanced Plant Tissues"
+      }
+    },
+    {
+      "id": "epithelial-connective-tissues",
+      "name": {
+        "hi": "Epithelial Connective Tissues",
+        "en": "Epithelial Connective Tissues"
+      }
+    },
+    {
+      "id": "joints-movement",
+      "name": {
+        "hi": "Joints Movement",
+        "en": "Joints Movement"
+      }
+    },
+    {
+      "id": "muscular-nervous-tissue",
+      "name": {
+        "hi": "Muscular Nervous Tissue",
+        "en": "Muscular Nervous Tissue"
+      }
+    },
+    {
+      "id": "organization-repair",
+      "name": {
+        "hi": "Organization Repair",
+        "en": "Organization Repair"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "समान उत्पत्ति, संरचना और कार्य वाली कोशिकाओं का समूह ऊतक कहलाता है। पादप ऊतक विभज्योतक और स्थायी ऊतक में बँटते हैं, जबकि जंतु ऊतक चार प्रकार के होते हैं — उपकला, संयोजी, पेशीय और तंत्रिका। हड्डियों का ढाँचा शरीर को आकार और गति देता है।",

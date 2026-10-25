@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "work",
+      "name": {
+        "hi": "कार्य",
+        "en": "Work"
+      }
+    },
+    {
+      "id": "kinetic-energy",
+      "name": {
+        "hi": "ऊर्जा के रूप",
+        "en": "Kinetic Energy"
+      }
+    },
+    {
+      "id": "potential-energy-conservation",
+      "name": {
+        "hi": "ऊर्जा संरक्षण",
+        "en": "Potential Energy Conservation"
+      }
+    },
+    {
+      "id": "power",
+      "name": {
+        "hi": "शक्ति",
+        "en": "Power"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "जब बल लगाने पर वस्तु बल की दिशा में विस्थापित होती है तो कार्य होता है। ऊर्जा कार्य करने की क्षमता है और उसके मुख्य रूप गतिज तथा स्थितिज ऊर्जा हैं। शक्ति इकाई समय में किया गया कार्य है।",

@@ -612,8 +612,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "घुमाव पथ को लंबा करता है, रस्सी को नहीं।",
-        "en": "Curves lengthen the path, never the rope."
+        "hi": "वास्तविक पथ की लंबाई दूरी है; प्रारंभिक और अंतिम बिंदुओं के बीच की सीधी रेखा का परिमाण विस्थापन है। इसलिए दूरी हमेशा विस्थापन के परिमाण के बराबर या उससे अधिक होती है.",
+        "en": "Distance is the length of the actual route; displacement is the magnitude of the straight-line change from start to finish. Distance is therefore always greater than or equal to the magnitude of displacement."
       }
     },
     {
@@ -1228,8 +1228,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "100 ÷ 20 = 5 मीटर/सेकंड।",
-        "en": "100 ÷ 20 = 5 m/s."
+        "hi": "दूरी पूरे तय किए गए पथ की लंबाई है और दिशा नहीं बताती; इसलिए रास्ता घुमावदार हो तो भी दूरी सभी हिस्सों को जोड़कर मिलती है।",
+        "en": "Average speed = total distance ÷ total time. Keep distance and time units consistent before calculating."
       }
     },
     {
@@ -1452,8 +1452,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "200 ÷ 25 = 8 मीटर/सेकंड।",
-        "en": "200 ÷ 25 = 8 m/s."
+        "hi": "औसत चाल = कुल दूरी ÷ कुल समय। दूरी और समय की इकाइयाँ पहले एक जैसी प्रणाली में रखें।",
+        "en": "Average speed = total distance ÷ total time. Keep distance and time units consistent before calculating."
       }
     },
     {
@@ -1536,8 +1536,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "36 × 5/18 = 10 मीटर/सेकंड।",
-        "en": "36 × 5/18 = 10 m/s."
+        "hi": "किमी/घंटा को मीटर/सेकंड में बदलने के लिए 5/18 से गुणा करें: 36 × 5/18 = 10 m/s.",
+        "en": "To convert km/h to m/s, multiply by 5/18. Thus 36 × 5/18 = 10 m/s."
       }
     },
     {
@@ -1564,8 +1564,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "90 × 5/18 = 25 मीटर/सेकंड।",
-        "en": "90 × 5/18 = 25 m/s."
+        "hi": "औसत चाल = कुल दूरी ÷ कुल समय। दूरी और समय की इकाइयाँ पहले एक जैसी प्रणाली में रखें।",
+        "en": "Average speed = total distance ÷ total time. Keep distance and time units consistent before calculating."
       }
     },
     {
@@ -1685,8 +1685,8 @@
       "topic": "speed-velocity",
       "difficulty": "medium",
       "question": {
-        "hi": "15 मीटर/सेकंड की चाल से चलती रेल 600 मीटर का पुल कितने समय में पार करेगी?",
-        "en": "At 15 m/s, in what time does a rail cross a 600-metre bridge?"
+        "hi": "15 मीटर/सेकंड की चाल से चलती रेल 600 मीटर की दूरी तय करने में कितना समय लेगी?",
+        "en": "How long does a train moving at 15 m/s take to travel 600 metres?"
       },
       "options": {
         "hi": [
@@ -1704,8 +1704,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "t = 600/15 = 40 सेकंड।",
-        "en": "t = 600/15 = 40 s."
+        "hi": "समय = दूरी ÷ चाल = 600 m ÷ 15 m/s = 40 s। पुल पार करने के प्रश्न में रेल की लंबाई भी जोड़नी पड़ती है; यहाँ कुल दूरी 600 m दी गई है।",
+        "en": "Time = distance ÷ speed = 600 m ÷ 15 m/s = 40 s. A true bridge-crossing problem must also include the train's length; here the stated travel distance is 600 m."
       }
     },
     {
@@ -2208,8 +2208,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "(मीटर/सेकंड) प्रति सेकंड = मीटर/सेकंड²।",
-        "en": "(m/s) per second = m/s²."
+        "hi": "त्वरण वेग के परिवर्तन की दर है: त्वरण = वेग में परिवर्तन ÷ समय। इसकी SI इकाई m/s² है।",
+        "en": "Acceleration is the rate of change of velocity: change in velocity ÷ time. Its SI unit is m/s²."
       }
     },
     {
@@ -2293,7 +2293,7 @@
       "correct": 1,
       "explanation": {
         "hi": "गति के विरुद्ध दिशा में त्वरण = मंदन।",
-        "en": "Acceleration opposite to the motion = retardation."
+        "en": "Velocity includes direction as well as speed; it can change when direction changes even if speed stays constant."
       }
     },
     {
@@ -2320,8 +2320,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "वेग-समय की ढाल = वेग-परिवर्तन/समय = त्वरण।",
-        "en": "v-t slope = velocity-change/time = acceleration."
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
+        "en": "Velocity includes direction as well as speed; it can change when direction changes even if speed stays constant."
       }
     },
     {
@@ -2348,8 +2348,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "(20 − 10)/5 = 2 मीटर/सेकंड²।",
-        "en": "(20 − 10)/5 = 2 m/s²."
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
+        "en": "Velocity includes direction as well as speed; it can change when direction changes even if speed stays constant."
       }
     },
     {
@@ -2376,8 +2376,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "विराम का अर्थ — शुरुआती वेग शून्य।",
-        "en": "Rest means the starting velocity is zero."
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
+        "en": "Velocity includes direction as well as speed; it can change when direction changes even if speed stays constant."
       }
     },
     {
@@ -2460,8 +2460,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "(16 − 0)/8 = 2 मीटर/सेकंड²।",
-        "en": "(16 − 0)/8 = 2 m/s²."
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
+        "en": "Velocity includes direction as well as speed; it can change when direction changes even if speed stays constant."
       }
     },
     {
@@ -2516,7 +2516,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "एकसमान त्वरण = वेग-वृद्धि की समान रफ्तार।",
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
         "en": "Uniform acceleration = an even pace of velocity growth."
       }
     },
@@ -2600,8 +2600,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "(10 − 0)/5 = 2 मीटर/सेकंड²।",
-        "en": "(10 − 0)/5 = 2 m/s²."
+        "hi": "औसत चाल = कुल दूरी ÷ कुल समय। दूरी और समय की इकाइयाँ पहले एक जैसी प्रणाली में रखें।",
+        "en": "Acceleration is the rate of change of velocity: change in velocity ÷ time. Its SI unit is m/s²."
       }
     },
     {
@@ -2656,8 +2656,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "(5 − 0)/5 = 1 मीटर/सेकंड²।",
-        "en": "(5 − 0)/5 = 1 m/s²."
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
+        "en": "Velocity includes direction as well as speed; it can change when direction changes even if speed stays constant."
       }
     },
     {
@@ -3356,8 +3356,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "ढाल = दूरी-परिवर्तन/समय = चाल।",
-        "en": "Slope = distance-change/time = speed."
+        "hi": "दूरी पूरे तय किए गए पथ की लंबाई है और दिशा नहीं बताती; इसलिए रास्ता घुमावदार हो तो भी दूरी सभी हिस्सों को जोड़कर मिलती है।",
+        "en": "Distance is the total path length and has no direction; add every part of the route, even when the path bends."
       }
     },
     {
@@ -3384,7 +3384,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "जितनी खड़ी चढ़ाई, उतनी तेज़ रफ्तार।",
+        "hi": "दूरी पूरे तय किए गए पथ की लंबाई है और दिशा नहीं बताती; इसलिए रास्ता घुमावदार हो तो भी दूरी सभी हिस्सों को जोड़कर मिलती है।",
         "en": "The steeper the climb, the faster the pace."
       }
     },
@@ -3468,8 +3468,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "मुड़ती ढाल = बदलती चाल।",
-        "en": "A bending slope = a changing speed."
+        "hi": "दूरी पूरे तय किए गए पथ की लंबाई है और दिशा नहीं बताती; इसलिए रास्ता घुमावदार हो तो भी दूरी सभी हिस्सों को जोड़कर मिलती है।",
+        "en": "Distance is the total path length and has no direction; add every part of the route, even when the path bends."
       }
     },
     {
@@ -3496,7 +3496,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "समतल वेग-रेखा: वेग स्थिर, त्वरण शून्य।",
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
         "en": "A flat velocity line: velocity fixed, acceleration zero."
       }
     },
@@ -3608,7 +3608,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "दूरी जमी जगह पर — रेखा समतल।",
+        "hi": "दूरी पूरे तय किए गए पथ की लंबाई है और दिशा नहीं बताती; इसलिए रास्ता घुमावदार हो तो भी दूरी सभी हिस्सों को जोड़कर मिलती है।",
         "en": "Distance stays put — the line stays flat."
       }
     },
@@ -3692,8 +3692,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "नीचे ढलान = वेग की गिरावट।",
-        "en": "A downhill slant = velocity falling."
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
+        "en": "Velocity includes direction as well as speed; it can change when direction changes even if speed stays constant."
       }
     },
     {
@@ -3972,8 +3972,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "ढाल = 6/3 = 2 मीटर/सेकंड²।",
-        "en": "Slope = 6/3 = 2 m/s²."
+        "hi": "वेग में चाल के साथ दिशा भी शामिल होती है; दिशा बदलने पर चाल समान रहते हुए भी वेग बदल सकता है।",
+        "en": "Velocity includes direction as well as speed; it can change when direction changes even if speed stays constant."
       }
     },
     {
@@ -4000,8 +4000,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "15 × 8 = 120 मीटर।",
-        "en": "15 × 8 = 120 m."
+        "hi": "दूरी पूरे तय किए गए पथ की लंबाई है और दिशा नहीं बताती; इसलिए रास्ता घुमावदार हो तो भी दूरी सभी हिस्सों को जोड़कर मिलती है।",
+        "en": "Distance is the total path length and has no direction; add every part of the route, even when the path bends."
       }
     },
     {

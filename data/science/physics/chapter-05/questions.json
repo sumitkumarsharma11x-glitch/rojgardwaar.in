@@ -361,7 +361,7 @@
       "correct": 0,
       "explanation": {
         "hi": "घर्षण गति के विपरीत है — ऋणात्मक कार्य।",
-        "en": "Friction opposes the motion — negative work."
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -389,7 +389,7 @@
       "correct": 1,
       "explanation": {
         "hi": "समान दिशा में कार्य जुड़ता है — धनात्मक।",
-        "en": "Same direction adds work — positive."
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -696,8 +696,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "F = 40/8 = 5 N।",
-        "en": "F = 40/8 = 5 N."
+        "hi": "भौतिकी में कार्य तब होता है जब बल के कारण बल की दिशा में विस्थापन हो; W = F × s (जब बल और विस्थापन समान दिशा में हों)।",
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -724,8 +724,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "s = 80/16 = 5 m।",
-        "en": "s = 80/16 = 5 m."
+        "hi": "भौतिकी में कार्य तब होता है जब बल के कारण बल की दिशा में विस्थापन हो; W = F × s (जब बल और विस्थापन समान दिशा में हों)।",
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -837,7 +837,7 @@
       "correct": 1,
       "explanation": {
         "hi": "दोनों कथन एक ही सिद्धांत के दो पहलू हैं।",
-        "en": "Both statements express the same principle."
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -1172,7 +1172,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "सभी ऊर्जाओं का मात्रक जूल है।",
+        "hi": "गतिज ऊर्जा गति के कारण होती है: KE = ½mv²। वेग दोगुना करने पर गतिज ऊर्जा चार गुना हो जाती है।",
         "en": "Every form of energy is measured in joules."
       }
     },
@@ -1200,8 +1200,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "KE = ½mv² — दोनों निर्धारक हैं।",
-        "en": "KE = ½mv² — both decide it."
+        "hi": "गतिज ऊर्जा गति के कारण होती है: KE = ½mv²। वेग दोगुना करने पर गतिज ऊर्जा चार गुना हो जाती है।",
+        "en": "Kinetic energy is due to motion: KE = ½mv². Doubling speed makes kinetic energy four times as large."
       }
     },
     {
@@ -1256,8 +1256,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "(v/2)² = v²/4 → KE एक चौथाई।",
-        "en": "(v/2)² = v²/4 → one-fourth the KE."
+        "hi": "गतिज ऊर्जा गति के कारण होती है: KE = ½mv²। वेग दोगुना करने पर गतिज ऊर्जा चार गुना हो जाती है।",
+        "en": "Kinetic energy is due to motion: KE = ½mv². Doubling speed makes kinetic energy four times as large."
       }
     },
     {
@@ -1396,8 +1396,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "ऊर्जा की कोई दिशा नहीं — अदिश।",
-        "en": "Energy has no direction — a scalar."
+        "hi": "गतिज ऊर्जा गति के कारण होती है: KE = ½mv²। वेग दोगुना करने पर गतिज ऊर्जा चार गुना हो जाती है।",
+        "en": "Kinetic energy is due to motion: KE = ½mv². Doubling speed makes kinetic energy four times as large."
       }
     },
     {
@@ -1761,7 +1761,7 @@
       "correct": 2,
       "explanation": {
         "hi": "½mv² सूत्र दोनों कथनों को सिद्ध करता है।",
-        "en": "The ½mv² formula establishes both statements."
+        "en": "Kinetic energy is due to motion: KE = ½mv². Doubling speed makes kinetic energy four times as large."
       }
     },
     {
@@ -1956,7 +1956,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "(3v)² = 9v² → KE नौ गुना।",
+        "hi": "गतिज ऊर्जा गति के कारण होती है: KE = ½mv²। वेग दोगुना करने पर गतिज ऊर्जा चार गुना हो जाती है।",
         "en": "(3v)² = 9v² → nine times the KE."
       }
     },
@@ -2012,8 +2012,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "½(m/2)(2v)² = 2 × ½mv² → दोगुनी।",
-        "en": "½(m/2)(2v)² = 2 × ½mv² → double."
+        "hi": "गतिज ऊर्जा गति के कारण होती है: KE = ½mv²। वेग दोगुना करने पर गतिज ऊर्जा चार गुना हो जाती है।",
+        "en": "Kinetic energy is due to motion: KE = ½mv². Doubling speed makes kinetic energy four times as large."
       }
     },
     {
@@ -2208,8 +2208,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "प्रत्येक ऊर्जा-रूप का मात्रक जूल ही है।",
-        "en": "Every form of energy shares the joule."
+        "hi": "स्थितिज ऊर्जा स्थिति या विन्यास के कारण संग्रहित ऊर्जा है; पृथ्वी के पास गुरुत्वीय स्थितिज ऊर्जा लगभग mgh होती है।",
+        "en": "Potential energy is stored due to position or configuration; near Earth, gravitational potential energy is approximately mgh."
       }
     },
     {
@@ -2320,8 +2320,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "जितनी ऊर्जा, उतना संभावित कार्य।",
-        "en": "As much energy, that much possible work."
+        "hi": "ऊर्जा कार्य करने की क्षमता है। यह गतिज, स्थितिज, ऊष्मीय, रासायनिक और विद्युत जैसे विभिन्न रूपों में हो सकती है।",
+        "en": "Energy is defined as the capacity to do work. It can appear in forms such as kinetic, potential, thermal, chemical, and electrical energy."
       }
     },
     {
@@ -2517,7 +2517,7 @@
       "correct": 1,
       "explanation": {
         "hi": "सौर ऊर्जा प्रकाश व ऊष्मा के रूप में आती है।",
-        "en": "Solar energy arrives as light and heat."
+        "en": "The Sun delivers energy to Earth mainly as electromagnetic radiation, which we experience as sunlight and thermal energy."
       }
     },
     {
@@ -2880,7 +2880,7 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "मोटर विद्युत लेकर पंखुड़ियाँ घुमाती (गतिज) है।",
+        "hi": "विद्युत पंखा विद्युत ऊर्जा को मोटर की मदद से यांत्रिक ऊर्जा में बदलता है, जिससे पंखे के ब्लेड घूमते हैं।",
         "en": "The motor takes electricity and spins the blades (kinetic)."
       }
     },
@@ -3216,8 +3216,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "शक्ति = कार्य ÷ समय।",
-        "en": "Power = work ÷ time."
+        "hi": "शक्ति कार्य करने की दर है: P = W/t। समान कार्य कम समय में हो तो शक्ति अधिक होती है।",
+        "en": "Power is the rate of doing work: P = W/t. The same work done in less time means greater power."
       }
     },
     {
@@ -3244,8 +3244,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "शक्ति का मात्रक वाट है।",
-        "en": "The unit of power is the watt."
+        "hi": "शक्ति कार्य करने की दर है: P = W/t। समान कार्य कम समय में हो तो शक्ति अधिक होती है।",
+        "en": "Power is the rate of doing work: P = W/t. The same work done in less time means greater power."
       }
     },
     {
@@ -3272,8 +3272,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "1 W = 1 J/s।",
-        "en": "1 W = 1 J/s."
+        "hi": "शक्ति कार्य करने या ऊर्जा स्थानांतरित होने की दर है। 1 वाट = 1 जूल प्रति सेकंड।",
+        "en": "Power is the rate of energy transfer or work done. One watt equals one joule per second (1 W = 1 J/s)."
       }
     },
     {
@@ -3300,8 +3300,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "1 kW = 1000 W।",
-        "en": "1 kW = 1000 W."
+        "hi": "'किलो' उपसर्ग का अर्थ एक हजार है, इसलिए 1 किलोवाट = 1000 वाट।",
+        "en": "The prefix kilo means one thousand, so 1 kilowatt equals 1000 watts."
       }
     },
     {
@@ -3412,7 +3412,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "वाट-रेटिंग = ऊर्जा खपत की दर।",
+        "hi": "100 W का अर्थ है कि सामान्य निर्धारित संचालन पर बल्ब लगभग 100 जूल विद्युत ऊर्जा प्रति सेकंड की दर से उपयोग करता है।",
         "en": "The watt rating = the rate of energy consumption."
       }
     },
@@ -3524,8 +3524,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "P = W/t — दोनों निर्धारक।",
-        "en": "P = W/t — both decide it."
+        "hi": "शक्ति कार्य करने की दर है: P = W/t। समान कार्य कम समय में हो तो शक्ति अधिक होती है।",
+        "en": "Power is the rate of doing work: P = W/t. The same work done in less time means greater power."
       }
     },
     {
@@ -3580,8 +3580,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "P = 100/5 = 20 W।",
-        "en": "P = 100/5 = 20 W."
+        "hi": "भौतिकी में कार्य तब होता है जब बल के कारण बल की दिशा में विस्थापन हो; W = F × s (जब बल और विस्थापन समान दिशा में हों)।",
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -3608,8 +3608,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "P = 1000/10 = 100 W।",
-        "en": "P = 1000/10 = 100 W."
+        "hi": "भौतिकी में कार्य तब होता है जब बल के कारण बल की दिशा में विस्थापन हो; W = F × s (जब बल और विस्थापन समान दिशा में हों)।",
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -3636,8 +3636,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "P = 500/50 = 10 W।",
-        "en": "P = 500/50 = 10 W."
+        "hi": "भौतिकी में कार्य तब होता है जब बल के कारण बल की दिशा में विस्थापन हो; W = F × s (जब बल और विस्थापन समान दिशा में हों)।",
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -3664,8 +3664,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "P = 600/20 = 30 W।",
-        "en": "P = 600/20 = 30 W."
+        "hi": "भौतिकी में कार्य तब होता है जब बल के कारण बल की दिशा में विस्थापन हो; W = F × s (जब बल और विस्थापन समान दिशा में हों)।",
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {
@@ -3692,8 +3692,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "P = 750/15 = 50 W।",
-        "en": "P = 750/15 = 50 W."
+        "hi": "भौतिकी में कार्य तब होता है जब बल के कारण बल की दिशा में विस्थापन हो; W = F × s (जब बल और विस्थापन समान दिशा में हों)।",
+        "en": "In physics, work is done when a force causes displacement along its direction; W = F × s when force and displacement are aligned."
       }
     },
     {

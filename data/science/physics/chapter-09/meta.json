@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "charge-and-current",
+      "name": {
+        "hi": "आवेश एवं धारा",
+        "en": "Charge And Current"
+      }
+    },
+    {
+      "id": "potential-difference-and-ohms-law",
+      "name": {
+        "hi": "विभवांतर एवं ओम का नियम",
+        "en": "Potential Difference And Ohms Law"
+      }
+    },
+    {
+      "id": "resistance-and-combinations",
+      "name": {
+        "hi": "प्रतिरोध एवं संयोजन",
+        "en": "Resistance And Combinations"
+      }
+    },
+    {
+      "id": "electric-power-and-safety",
+      "name": {
+        "hi": "विद्युत शक्ति एवं सुरक्षा",
+        "en": "Electric Power And Safety"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "विद्युत धारा आवेश का प्रवाह है जिसका मात्रक एम्पियर है। विभवांतर, प्रतिरोध और धारा का संबंध ओम का नियम V = IR देता है। प्रतिरोधों को श्रेणी और समांतर क्रम में जोड़ा जाता है और विद्युत शक्ति P = VI से निकलती है।",

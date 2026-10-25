@@ -10,7 +10,7 @@
   "mockQuestionCount": 30,
   "topics": [
     {
-      "id": "chemistry-chapter-09",
+      "id": "core",
       "name": {
         "hi": "धातुएँ एवं अधातुएँ",
         "en": "Metals and Non-metals"
@@ -24,7 +24,7 @@
   "notes": {
     "hi": {
       "concept": "धातुएँ एवं अधातुएँ को समझने के लिए परिभाषा, मुख्य गुण, सामान्य उदाहरण और दैनिक जीवन में उपयोग को क्रम से पढ़ें। प्रश्न हल करते समय पहले दिए गए पदार्थ/अभिक्रिया की पहचान करें और फिर संबंधित नियम या गुण लागू करें।",
-      "example": "धातुएँ एवं अधातुएँ का अध्ययन उदाहरण और अनुप्रयोग के साथ करने से अवधारणा आधारित प्रश्नों को समझना आसान होता है।",
+      "example": "लोहे में नमी और ऑक्सीजन की उपस्थिति में जंग लगती है। लोहे पर पेंट या जस्ता की परत चढ़ाने से उसका हवा और पानी से संपर्क घटता है और जंग लगने की प्रक्रिया धीमी होती है।",
       "sections": [
         {
           "heading": "धातुओं के सामान्य गुण",
@@ -48,16 +48,17 @@
         }
       ],
       "keyPoints": [
-        "धातुएँ एवं अधातुएँ की मूल परिभाषा समझें।",
-        "मुख्य गुणों को उदाहरणों के साथ जोड़ें।",
-        "समान अवधारणाओं के बीच अंतर पहचानें।",
-        "दैनिक जीवन के अनुप्रयोगों पर ध्यान दें।"
+        "धातुएँ सामान्यतः चमकदार और विद्युत की सुचालक होती हैं, लेकिन कुछ अपवाद होते हैं।",
+        "अधातुओं के गुण धातुओं से भिन्न होते हैं; सभी गुणों को बिना अपवाद के लागू न करें।",
+        "धातुओं की ऑक्सीजन, जल और अम्लों से अभिक्रियाएँ उनकी सक्रियता पर निर्भर करती हैं।",
+        "आयनिक यौगिक धनायन और ऋणायन के आकर्षण से बनते हैं।",
+        "जंग लगना संक्षारण का उदाहरण है; पेंटिंग और गैल्वनाइजिंग रोकथाम के उपाय हैं।"
       ],
       "examFocus": [
-        "परिभाषा और मूल अवधारणा",
-        "मुख्य गुण और उदाहरण",
-        "तुलना तथा कारण आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "धातु और अधातु के गुणों की तुलना",
+        "धातुओं की सक्रियता और उनकी अभिक्रियाएँ",
+        "आयनिक यौगिकों का निर्माण और गुण",
+        "संक्षारण तथा उसकी रोकथाम"
       ],
       "examTraps": [
         "सिर्फ keyword देखकर उत्तर न चुनें।",
@@ -84,7 +85,7 @@
     },
     "en": {
       "concept": "Study Metals and Non-metals through clear definitions, key properties, examples and real-world applications. When solving a question, identify the substance or process first and then apply the relevant rule or property.",
-      "example": "Learning Metals and Non-metals through examples and applications makes concept-based questions easier to solve.",
+      "example": "Iron rusts in the presence of moisture and oxygen. Painting or coating iron with zinc reduces contact with air and water and helps slow corrosion.",
       "sections": [
         {
           "heading": "General properties of metals",
@@ -108,16 +109,17 @@
         }
       ],
       "keyPoints": [
-        "Understand the core definition of Metals and Non-metals.",
-        "Connect key properties with examples.",
-        "Distinguish closely related concepts.",
-        "Focus on practical applications."
+        "Metals are generally lustrous and good conductors, though exceptions exist.",
+        "Non-metals have different properties; avoid treating every property as exception-free.",
+        "Reactions of metals with oxygen, water and acids depend on their reactivity.",
+        "Ionic compounds form through attraction between positive and negative ions.",
+        "Rusting is a form of corrosion; painting and galvanising can help prevent it."
       ],
       "examFocus": [
-        "Definitions and core concepts",
-        "Key properties and examples",
-        "Comparison and reason-based questions",
-        "Application-based questions"
+        "Comparing properties of metals and non-metals",
+        "Metal reactivity and reactions",
+        "Formation and properties of ionic compounds",
+        "Corrosion and its prevention"
       ],
       "examTraps": [
         "Do not select an option only because it contains a familiar keyword.",

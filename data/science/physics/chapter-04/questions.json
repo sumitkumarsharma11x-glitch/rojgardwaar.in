@@ -53,7 +53,7 @@
       "correct": 1,
       "explanation": {
         "hi": "गुरुत्वाकर्षण सदा आकर्षण करता है, कभी प्रतिकर्षण नहीं।",
-        "en": "Gravitation always attracts, never repels."
+        "en": "Gravitation is attraction between masses; the force becomes weaker as the distance increases."
       }
     },
     {
@@ -109,7 +109,7 @@
       "correct": 3,
       "explanation": {
         "hi": "पृथ्वी का गुरुत्वाकर्षण ही सेब को नीचे लाता है।",
-        "en": "The earth's gravitation brings the apple down."
+        "en": "Earth's gravitational force pulls the apple toward Earth's centre, so it falls downward."
       }
     },
     {
@@ -584,7 +584,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "समानुपाती गुणनफल से, व्युत्क्रमानुपाती दूरी-वर्ग से।",
+        "hi": "गुरुत्वाकर्षण द्रव्यमान वाली वस्तुओं के बीच आकर्षण है; दूरी बढ़ने पर बल कम होता है।",
         "en": "Proportional to the product; inversely proportional to distance-squared."
       }
     },
@@ -696,7 +696,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "गुरुत्वाकर्षण सार्वत्रिक है — हर वस्तु-युग्म पर।",
+        "hi": "गुरुत्वाकर्षण द्रव्यमान वाली वस्तुओं के बीच आकर्षण है; दूरी बढ़ने पर बल कम होता है।",
         "en": "Gravitation is universal — it acts on every pair."
       }
     },
@@ -781,7 +781,7 @@
       "correct": 3,
       "explanation": {
         "hi": "गुरुत्वाकर्षण कभी विकर्षण नहीं करता — केवल खिंचाव।",
-        "en": "Gravitation never repels — it only pulls."
+        "en": "Gravitation is attraction between masses; the force becomes weaker as the distance increases."
       }
     },
     {
@@ -865,7 +865,7 @@
       "correct": 2,
       "explanation": {
         "hi": "गुरुत्वाकर्षण नीचे की ओर ही कार्य करता रहता है।",
-        "en": "Gravitation keeps acting downwards throughout."
+        "en": "After an object is thrown upward, gravity continues to act downward, slows its upward motion, and then accelerates it back toward Earth."
       }
     },
     {
@@ -1144,8 +1144,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "भार = द्रव्यमान × गुरुत्वीय त्वरण।",
-        "en": "Weight = mass × gravitational acceleration."
+        "hi": "भार गुरुत्वाकर्षण बल है: W = mg। द्रव्यमान kg में और g m/s² में हो तो भार न्यूटन में मिलता है।",
+        "en": "Weight is gravitational force: W = mg. With mass in kg and g in m/s², weight is in newtons."
       }
     },
     {
@@ -1284,8 +1284,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "स्प्रिंग का खिंचाव बल (भार) बताता है।",
-        "en": "The spring's stretch indicates the force (weight)."
+        "hi": "स्प्रिंग बैलेंस बल मापता है; रोज़मर्रा के प्रयोग में इससे वस्तु का भार मापा जाता है। द्रव्यमान मापने वाला तुला अलग उपकरण है।",
+        "en": "A spring balance measures force, commonly an object's weight. A balance designed for mass works differently."
       }
     },
     {
@@ -1676,8 +1676,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "m = 49/9.8 = 5 kg।",
-        "en": "m = 49/9.8 = 5 kg."
+        "hi": "भार गुरुत्वाकर्षण बल है: W = mg। द्रव्यमान kg में और g m/s² में हो तो भार न्यूटन में मिलता है।",
+        "en": "Use W = mg. Taking g ≈ 9.8 m/s², m = 49 N ÷ 9.8 m/s² = 5 kg."
       }
     },
     {
@@ -1704,8 +1704,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "m = 29.4/9.8 = 3 kg।",
-        "en": "m = 29.4/9.8 = 3 kg."
+        "hi": "भार गुरुत्वाकर्षण बल है: W = mg। द्रव्यमान kg में और g m/s² में हो तो भार न्यूटन में मिलता है।",
+        "en": "Use W = mg. Taking g ≈ 9.8 m/s², m = 29.4 N ÷ 9.8 m/s² = 3 kg."
       }
     },
     {
@@ -1732,8 +1732,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "60 ÷ 6 = 10 N।",
-        "en": "60 ÷ 6 = 10 N."
+        "hi": "भार गुरुत्वाकर्षण बल है: W = mg। द्रव्यमान kg में और g m/s² में हो तो भार न्यूटन में मिलता है।",
+        "en": "The Moon's gravitational acceleration is about one-sixth of Earth's, so a 60 N Earth weight is approximately 10 N on the Moon."
       }
     },
     {
@@ -2153,7 +2153,7 @@
       "correct": 0,
       "explanation": {
         "hi": "दाब = क्षेत्रफल पर बल का घनत्व जैसा — प्रति एकांक क्षेत्रफल बल।",
-        "en": "Pressure = force per unit area."
+        "en": "Pressure = force ÷ area. The same force produces greater pressure over a smaller area."
       }
     },
     {
@@ -2180,8 +2180,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "दाब = बल ÷ क्षेत्रफल।",
-        "en": "Pressure = force ÷ area."
+        "hi": "दाब = बल ÷ क्षेत्रफल। समान बल छोटे क्षेत्र पर लगे तो दाब अधिक होता है।",
+        "en": "Pressure = force ÷ area. The same force produces greater pressure over a smaller area."
       }
     },
     {
@@ -2264,8 +2264,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "P = F/A — दोनों निर्धारक हैं।",
-        "en": "P = F/A — both decide it."
+        "hi": "दाब = बल ÷ क्षेत्रफल। समान बल छोटे क्षेत्र पर लगे तो दाब अधिक होता है।",
+        "en": "Pressure = force ÷ area. The same force produces greater pressure over a smaller area."
       }
     },
     {
@@ -2572,8 +2572,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "P = 200/4 = 50 Pa।",
-        "en": "P = 200/4 = 50 Pa."
+        "hi": "दाब = बल ÷ क्षेत्रफल। समान बल छोटे क्षेत्र पर लगे तो दाब अधिक होता है।",
+        "en": "Pressure = force ÷ area. The same force produces greater pressure over a smaller area."
       }
     },
     {
@@ -2600,8 +2600,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "P = 500/5 = 100 Pa।",
-        "en": "P = 500/5 = 100 Pa."
+        "hi": "दाब = बल ÷ क्षेत्रफल। समान बल छोटे क्षेत्र पर लगे तो दाब अधिक होता है।",
+        "en": "Pressure = force ÷ area. The same force produces greater pressure over a smaller area."
       }
     },
     {
@@ -2628,8 +2628,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "P = 60/0.2 = 300 Pa।",
-        "en": "P = 60/0.2 = 300 Pa."
+        "hi": "दाब = बल ÷ क्षेत्रफल। समान बल छोटे क्षेत्र पर लगे तो दाब अधिक होता है।",
+        "en": "Pressure = force ÷ area. The same force produces greater pressure over a smaller area."
       }
     },
     {
@@ -3020,8 +3020,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "P = 250/0.25 = 1000 Pa।",
-        "en": "P = 250/0.25 = 1000 Pa."
+        "hi": "दाब = बल ÷ क्षेत्रफल। समान बल छोटे क्षेत्र पर लगे तो दाब अधिक होता है।",
+        "en": "Pressure = force ÷ area. The same force produces greater pressure over a smaller area."
       }
     },
     {
@@ -3216,8 +3216,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "उत्प्लावकता वस्तु को ऊपर धकेलती है।",
-        "en": "Buoyancy pushes the object up."
+        "hi": "द्रव में डूबी वस्तु पर ऊपर की ओर उत्प्लावन बल लगता है; उसका मान विस्थापित द्रव के भार के बराबर होता है।",
+        "en": "A submerged object experiences an upward buoyant force equal to the weight of the fluid it displaces."
       }
     },
     {
@@ -3552,7 +3552,7 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "प्लवन-डूबन का निर्णय घनत्व-तुलना से होता है।",
+        "hi": "द्रव में डूबी वस्तु पर ऊपर की ओर उत्प्लावन बल लगता है; उसका मान विस्थापित द्रव के भार के बराबर होता है।",
         "en": "Float-or-sink is decided purely by the density comparison."
       }
     },
@@ -3636,7 +3636,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "प्लवन का नियम: विस्थापित द्रव-भार = वस्तु-भार।",
+        "hi": "भार गुरुत्वाकर्षण बल है: W = mg। द्रव्यमान kg में और g m/s² में हो तो भार न्यूटन में मिलता है।",
         "en": "Law of flotation: displaced fluid's weight = object's weight."
       }
     },
@@ -3665,7 +3665,7 @@
       "correct": 2,
       "explanation": {
         "hi": "500 − 400 = 100 N ऊपर की ओर।",
-        "en": "500 − 400 = 100 N upward."
+        "en": "A submerged object experiences an upward buoyant force equal to the weight of the fluid it displaces."
       }
     },
     {
@@ -3748,8 +3748,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "कम घनत्व वाला द्रव ऊपर रहता है।",
-        "en": "The lower-density liquid stays on top."
+        "hi": "द्रव में डूबी वस्तु पर ऊपर की ओर उत्प्लावन बल लगता है; उसका मान विस्थापित द्रव के भार के बराबर होता है।",
+        "en": "A submerged object experiences an upward buoyant force equal to the weight of the fluid it displaces."
       }
     },
     {

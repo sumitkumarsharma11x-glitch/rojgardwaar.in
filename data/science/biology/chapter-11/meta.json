@@ -15,7 +15,50 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "harmful-microbes",
+      "name": {
+        "hi": "Harmful Microbes",
+        "en": "Harmful Microbes"
+      }
+    },
+    {
+      "id": "microbial-world",
+      "name": {
+        "hi": "Microbial World",
+        "en": "Microbial World"
+      }
+    },
+    {
+      "id": "useful-microorganisms",
+      "name": {
+        "hi": "Useful Microorganisms",
+        "en": "Useful Microorganisms"
+      }
+    },
+    {
+      "id": "disease-dynamics",
+      "name": {
+        "hi": "Disease Dynamics",
+        "en": "Disease Dynamics"
+      }
+    },
+    {
+      "id": "immunity-prevention",
+      "name": {
+        "hi": "Immunity Prevention",
+        "en": "Immunity Prevention"
+      }
+    },
+    {
+      "id": "health-hygiene",
+      "name": {
+        "hi": "Health Hygiene",
+        "en": "Health Hygiene"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "स्वास्थ्य केवल रोग का अभाव नहीं बल्कि शारीरिक, मानसिक और सामाजिक कल्याण की अवस्था है। रोग संक्रामक (एक व्यक्ति से दूसरे को फैलने वाले) और असंक्रामक (जैसे मधुमेह) होते हैं। जीवाणु, विषाणु, कवक और प्रोटोजोआ जैसे सूक्ष्मजीव कभी उपयोगी (दही, एंटीबायोटिक) और कभी हानिकारक (टाइफाइड, कोविड) होते हैं।",

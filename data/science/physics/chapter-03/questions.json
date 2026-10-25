@@ -333,7 +333,7 @@
       "correct": 3,
       "explanation": {
         "hi": "हाथ का बल मिट्टी का आकार बदल देता है।",
-        "en": "The hand's force changes the clay's shape."
+        "en": "A force can change an object's shape. Pressing soft clay applies a force that deforms it."
       }
     },
     {
@@ -2152,8 +2152,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "द्वितीय नियम: बल = द्रव्यमान × त्वरण।",
-        "en": "Second law: force = mass × acceleration."
+        "hi": "न्यूटन का दूसरा नियम F = ma है, जहाँ F परिणामी बल, m द्रव्यमान और a त्वरण है।",
+        "en": "Newton's second law is written as F = ma for constant mass, where F is the net force, m is mass, and a is acceleration."
       }
     },
     {
@@ -2460,7 +2460,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "बल का SI मात्रक न्यूटन है।",
+        "hi": "न्यूटन (N) बल का SI मात्रक है। 1 N वह बल है जो 1 kg द्रव्यमान में 1 m/s² का त्वरण उत्पन्न करे।",
         "en": "The SI unit of force is the newton."
       }
     },
@@ -2516,8 +2516,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "m स्थिर हो तो a ∝ F।",
-        "en": "With m fixed, a ∝ F."
+        "hi": "a = F/m के अनुसार द्रव्यमान स्थिर हो तो त्वरण बल के समानुपाती होता है; बल स्थिर हो तो द्रव्यमान बढ़ने पर त्वरण घटता है।",
+        "en": "From a = F/m, for a fixed mass, acceleration is directly proportional to the net force. For a fixed force, acceleration is inversely proportional to mass."
       }
     },
     {
@@ -2656,8 +2656,8 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "a = 12/6 = 2 m/s²।",
-        "en": "a = 12/6 = 2 m/s²."
+        "hi": "बल धक्का या खिंचाव है जो गति, दिशा या आकार बदल सकता है; संतुलित बलों का कुल प्रभाव शून्य हो सकता है।",
+        "en": "A force is a push or pull that can change motion, direction or shape; balanced forces can have zero net effect."
       }
     },
     {
@@ -3468,8 +3468,8 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "धारावाहिक आकार द्रव/वायु का प्रतिरोध घटाता है।",
-        "en": "A streamlined shape cuts down fluid resistance."
+        "hi": "धारारेखीय आकार हवा या पानी के प्रतिरोध (ड्रैग) को घटाता है, जिससे मछलियों को तैरने और विमानों को अधिक कुशलता से चलने में मदद मिलती है।",
+        "en": "Streamlined shapes reduce drag (fluid resistance) as an object moves through air or water, helping fish swim and aircraft move more efficiently."
       }
     },
     {
@@ -3889,7 +3889,7 @@
       "correct": 2,
       "explanation": {
         "hi": "12 − 5 = 7 N आगे की ओर।",
-        "en": "12 − 5 = 7 N forward."
+        "en": "A force is a push or pull that can change motion, direction or shape; balanced forces can have zero net effect."
       }
     },
     {

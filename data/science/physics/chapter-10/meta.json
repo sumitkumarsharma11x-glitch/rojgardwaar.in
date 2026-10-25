@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "magnetism-and-magnetic-field",
+      "name": {
+        "hi": "चुंबण एवं चुंबकीय क्षेत्र",
+        "en": "Magnetism And Magnetic Field"
+      }
+    },
+    {
+      "id": "earths-magnetism",
+      "name": {
+        "hi": "पृथ्वी का चुंबकत्व",
+        "en": "Earths Magnetism"
+      }
+    },
+    {
+      "id": "electromagnet",
+      "name": {
+        "hi": "विद्युत-चुंबक",
+        "en": "Electromagnet"
+      }
+    },
+    {
+      "id": "motor-generator-effect",
+      "name": {
+        "hi": "मोटर-जनित्र प्रभाव",
+        "en": "Motor Generator Effect"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "चुंबक ऐसे पदार्थ हैं जो लोहे जैसी धातुओं को आकर्षित करते हैं और उनके चारों ओर चुंबकीय क्षेत्र होता है जिसे लोहे की छीलन से देखा जा सकता है। धारावाही तार के चारों ओर चुंबकीय क्षेत्र बनता है — यही विद्युत-चुंबकीय प्रभाव है जिससे विद्युत-चुंबक, मोटर और जनित्र काम करते हैं।",

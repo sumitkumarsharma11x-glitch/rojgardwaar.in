@@ -248,7 +248,7 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "किलोग्राम द्रव्यमान का SI मात्रक है।",
+        "hi": "किलोग्राम द्रव्यमान का SI मात्रक है। भार बल है और इसे न्यूटन में मापा जाता है; लंबाई मीटर में मापी जाती है।",
         "en": "The kilogram is the SI unit of mass."
       }
     },
@@ -1438,15 +1438,15 @@
       },
       "options": {
         "hi": [
-          "KG",
-          "Kg",
-          "kG",
+          "g",
+          "mg",
+          "km",
           "kg"
         ],
         "en": [
-          "KG",
-          "Kg",
-          "kG",
+          "g",
+          "mg",
+          "km",
           "kg"
         ]
       },
@@ -1467,15 +1467,15 @@
       "options": {
         "hi": [
           "K",
-          "k",
-          "°K",
-          "Ke"
+          "°C",
+          "°F",
+          "J"
         ],
         "en": [
           "K",
-          "k",
-          "°K",
-          "Ke"
+          "°C",
+          "°F",
+          "J"
         ]
       },
       "correct": 0,
@@ -1704,8 +1704,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "0.5 × 1000 = 500 ग्राम।",
-        "en": "0.5 × 1000 = 500 g."
+        "hi": "1 किलोग्राम = 1000 ग्राम, इसलिए 0.5 किलोग्राम = 0.5 × 1000 = 500 ग्राम।",
+        "en": "Since 1 kilogram equals 1000 grams, 0.5 kg = 0.5 × 1000 = 500 grams."
       }
     },
     {
@@ -2936,8 +2936,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "राशि पहचानो — लंबाई→स्केल, द्रव्यमान→तुला, समय→स्टॉपवॉच।",
-        "en": "Identify the quantity — length→scale, mass→balance, time→stopwatch."
+        "hi": "लंबाई के लिए मीटर स्केल, द्रव्यमान के लिए तुला और समय मापने के लिए स्टॉपवॉच उपयुक्त हैं।",
+        "en": "Use a metre scale to measure the table's length, a balance to measure the cotton's mass, and a stopwatch to measure the race time."
       }
     },
     {
@@ -3412,8 +3412,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "बारीक बँटवारा बारीक माप देती है।",
-        "en": "A finer division yields a finer measurement."
+        "hi": "लघुत्तम अंश छोटा होने पर स्केल अधिक सूक्ष्म रीडिंग दे सकता है। वास्तविक शुद्धता कैलिब्रेशन और सही तकनीक पर भी निर्भर करती है।",
+        "en": "A smaller smallest division generally allows finer readings and better resolution, although the actual accuracy also depends on calibration and measurement technique."
       }
     },
     {
@@ -3496,8 +3496,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "औसत संयोग-उतार-चढ़ाव को दबाता है।",
-        "en": "Averaging damps the chance swings."
+        "hi": "बार-बार मापन करके औसत लेने से संयोगवश होने वाले उतार-चढ़ाव का प्रभाव घट सकता है; इससे व्यवस्थित त्रुटि अपने-आप दूर नहीं होती।",
+        "en": "Repeating measurements and averaging them can reduce the effect of random variation. It does not automatically remove systematic error."
       }
     },
     {
@@ -3524,7 +3524,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "बिना मात्रक पाठ्यांक अधूरा — रिकॉर्ड अर्थहीन।",
+        "hi": "किसी मापन के साथ मात्रक लिखना आवश्यक है, क्योंकि केवल संख्या से मापी गई राशि स्पष्ट नहीं होती।",
         "en": "A unitless reading is incomplete — a meaningless record."
       }
     },
@@ -3748,7 +3748,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "जितने बारीक चिह्न, उतना बारीक निर्णय।",
+        "hi": "1 मिमी अंतराल वाला स्केल 1 सेमी अंतराल वाले स्केल से छोटी लंबाई में बदलाव पहचान सकता है, इसलिए सूक्ष्म मापन के लिए अधिक उपयुक्त है।",
         "en": "The finer the marks, the finer the verdict."
       }
     },
@@ -3804,7 +3804,7 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "लंबवत दृष्टि ही शुद्ध दृष्टि।",
+        "hi": "पैरालैक्स त्रुटि से बचने के लिए आँख को माप के निशान के ठीक ऊपर और स्केल के लंबवत रखना चाहिए।",
         "en": "The perpendicular gaze alone is the true gaze."
       }
     },
@@ -3860,7 +3860,7 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "फैलाव जितना, संगति उतनी कम।",
+        "hi": "पाठ्यांक 11.5, 12.8, 12.1 और 11.9 सेमी में फैलाव अधिक है, इसलिए मापन की परिशुद्धता कम दिखाई देती है।",
         "en": "The wider the spread, the weaker the consistency."
       }
     },

@@ -10,7 +10,7 @@
   "mockQuestionCount": 30,
   "topics": [
     {
-      "id": "chemistry-chapter-05",
+      "id": "core",
       "name": {
         "hi": "परमाणु, अणु एवं रासायनिक सूत्र",
         "en": "Atoms, Molecules and Chemical Formulae"
@@ -23,8 +23,8 @@
   },
   "notes": {
     "hi": {
-      "concept": "परमाणु तत्व की मूल रासायनिक इकाई है। अणु दो या अधिक परमाणुओं के संयोजन से बना कण हो सकता है। रासायनिक सूत्र पदार्थ में उपस्थित तत्वों और उनके परमाणुओं के अनुपात को दर्शाता है।",
-      "example": "H₂O में H के 2 और O के 1 परमाणु होते हैं।",
+      "concept": "परमाणु तत्व की मूल रासायनिक इकाई है। अणु दो या अधिक परमाणुओं के रासायनिक बंध से जुड़ने पर बन सकता है; जैसे H₂ और O₂ एक ही तत्व के परमाणुओं से बने अणु हैं, जबकि H₂O अलग-अलग तत्वों से बना यौगिक है। रासायनिक सूत्र पदार्थ में उपस्थित तत्वों और उनके परमाणुओं का अनुपात दर्शाता है। सूत्र में नीचे लिखा अंक उस तत्व के परमाणुओं की संख्या बताता है, जबकि सूत्र के आगे लिखा गुणांक पूरे अणु या सूत्र इकाई की संख्या बताता है। संयोजकता से सही सूत्र लिखने में मदद मिलती है।",
+      "example": "H₂O में दो हाइड्रोजन और एक ऑक्सीजन परमाणु होते हैं, जबकि CO₂ में एक कार्बन और दो ऑक्सीजन परमाणु होते हैं। Mg की संयोजकता 2 और Cl की 1 होने से मैग्नीशियम क्लोराइड का सूत्र MgCl₂ होता है।",
       "sections": [
         {
           "heading": "परमाणु और अणु",
@@ -48,14 +48,16 @@
         }
       ],
       "keyPoints": [
-        "मुख्य परिभाषाएँ और सूत्र याद रखें",
-        "अवधारणाओं के बीच अंतर स्पष्ट रखें",
-        "प्रश्न को ध्यान से पढ़कर विकल्प चुनें"
+        "परमाणु तत्व की रासायनिक पहचान से जुड़ी मूल इकाई है; अणु दो या अधिक परमाणुओं से बन सकता है।",
+        "रासायनिक सूत्र तत्वों और उनके परमाणुओं का अनुपात बताता है।",
+        "H₂, O₂ और N₂ सामान्य द्विपरमाणुक अणुओं के उदाहरण हैं।",
+        "सूत्र लिखते समय संयोजकता और सबसे सरल पूर्णांक अनुपात का ध्यान रखें।"
       ],
       "examFocus": [
-        "परिभाषा आधारित प्रश्न",
-        "अंतर एवं पहचान आधारित प्रश्न",
-        "अनुप्रयोग आधारित प्रश्न"
+        "परमाणु और अणु में अंतर",
+        "सूत्र में उपलिपि (subscript) से परमाणुओं की संख्या निकालना",
+        "संयोजकता से यौगिक का सूत्र लिखना",
+        "द्विपरमाणुक अणुओं की पहचान"
       ],
       "examTraps": [
         "Subscript केवल उसके ठीक पहले वाले तत्व पर लागू होता है।",
@@ -78,8 +80,8 @@
       "quickRevision": "प्रतीक पहचानें → संयोजकता देखें → परमाणु अनुपात संतुलित करें → सूत्र लिखें।"
     },
     "en": {
-      "concept": "An atom is the basic chemical unit of an element. A molecule may consist of two or more atoms chemically bonded together. A chemical formula represents the elements present in a substance and the ratio of their atoms.",
-      "example": "Study Atoms, Molecules and Chemical Formulae with definitions, examples, comparisons and applications so that the concept can be used to solve unfamiliar questions.",
+      "concept": "An atom is the basic chemical unit of an element. A molecule can form when two or more atoms bond chemically: H₂ and O₂ contain atoms of one element, whereas H₂O is a compound made from different elements. A chemical formula shows which elements are present and their atom ratio. A subscript gives the number of atoms of an element within a formula, while a coefficient in front multiplies the whole molecule or formula unit. Valency helps write a compound's correct formula.",
+      "example": "H₂O contains two hydrogen atoms and one oxygen atom, while CO₂ contains one carbon atom and two oxygen atoms. Magnesium has valency 2 and chlorine valency 1, so magnesium chloride is MgCl₂.",
       "sections": [
         {
           "heading": "Atoms and molecules",
@@ -103,16 +105,16 @@
         }
       ],
       "keyPoints": [
-        "Understand the core idea of Atoms, Molecules and Chemical Formulae.",
-        "Connect each major concept with an example.",
-        "Distinguish closely related terms and processes.",
-        "Apply the concept to simple real-life or exam situations."
+        "An atom is the basic unit associated with an element's chemical identity; molecules can contain two or more atoms.",
+        "A chemical formula shows which elements are present and their atom ratio.",
+        "H₂, O₂ and N₂ are common examples of diatomic molecules.",
+        "Use valency and the simplest whole-number ratio when writing formulae."
       ],
       "examFocus": [
-        "Core definitions and concepts",
-        "Important properties and examples",
-        "Comparison and reasoning questions",
-        "Application-based questions"
+        "Distinguishing atoms from molecules",
+        "Counting atoms from formula subscripts",
+        "Writing compound formulae using valency",
+        "Recognising common diatomic molecules"
       ],
       "examTraps": [
         "Do not choose an answer only because a familiar keyword appears.",

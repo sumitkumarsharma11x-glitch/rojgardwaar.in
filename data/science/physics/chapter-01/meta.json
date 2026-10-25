@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "need-for-measurement",
+      "name": {
+        "hi": "मापन की आवश्यकता",
+        "en": "Need For Measurement"
+      }
+    },
+    {
+      "id": "si-unit-system",
+      "name": {
+        "hi": "SI मात्रक प्रणाली",
+        "en": "Si Unit System"
+      }
+    },
+    {
+      "id": "length-mass-time",
+      "name": {
+        "hi": "लंबाई, द्रव्यमान एवं समय का मापन",
+        "en": "Length Mass Time"
+      }
+    },
+    {
+      "id": "error-precision",
+      "name": {
+        "hi": "त्रुटि एवं परिशुद्धता",
+        "en": "Error Precision"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "विज्ञान में हर भौतिक राशि को मापना आवश्यक है और मापन के लिए मानक मात्रक चाहिए। SI प्रणाली में सात मूल मात्रक हैं — मीटर, किलोग्राम, सेकंड, एम्पियर, केल्विन, मोल और कैंडेला। सही उपकरण, सही विधि और त्रुटि का ध्यान मिलकर विश्वसनीय मापन बनाते हैं।",

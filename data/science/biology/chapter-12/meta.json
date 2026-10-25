@@ -15,7 +15,50 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "environment-components",
+      "name": {
+        "hi": "Environment Components",
+        "en": "Environment Components"
+      }
+    },
+    {
+      "id": "ecosystem-structure",
+      "name": {
+        "hi": "Ecosystem Structure",
+        "en": "Ecosystem Structure"
+      }
+    },
+    {
+      "id": "food-chains-webs",
+      "name": {
+        "hi": "Food Chains Webs",
+        "en": "Food Chains Webs"
+      }
+    },
+    {
+      "id": "energy-flow-relations",
+      "name": {
+        "hi": "Energy Flow Relations",
+        "en": "Energy Flow Relations"
+      }
+    },
+    {
+      "id": "natural-resources-conservation",
+      "name": {
+        "hi": "Natural Resources Conservation",
+        "en": "Natural Resources Conservation"
+      }
+    },
+    {
+      "id": "pollution-waste-sustainability",
+      "name": {
+        "hi": "Pollution Waste Sustainability",
+        "en": "Pollution Waste Sustainability"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "सभी जीव और उनका भौतिक पर्यावरण मिलकर पारितंत्र बनाते हैं, जिसमें ऊर्जा सूर्य से निर्माताओं (पौधों) द्वारा ग्रहण कर खाद्य श्रृंखला से आगे बहती है। मानव गतिविधियों से अपशिष्ट, प्रदूषण और संसाधनों का क्षरण हो रहा है, इसलिए जल, वन और वन्यजीव संरक्षण आवश्यक है।",

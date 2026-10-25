@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "physical-change",
+      "name": {
+        "hi": "भौतिक परिवर्तन",
+        "en": "Physical Change"
+      }
+    },
+    {
+      "id": "chemical-change",
+      "name": {
+        "hi": "रासायनिक परिवर्तन",
+        "en": "Chemical Change"
+      }
+    },
+    {
+      "id": "rusting-and-prevention",
+      "name": {
+        "hi": "मोचन (जंग) एवं उसकी रोकथाम",
+        "en": "Rusting And Prevention"
+      }
+    },
+    {
+      "id": "chemical-changes-in-daily-life",
+      "name": {
+        "hi": "दैनिक जीवन के रासायनिक परिवर्तन",
+        "en": "Chemical Changes In Daily Life"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "परिवर्तन दो प्रकार के होते हैं — भौतिक, जिसमें केवल भौतिक गुण बदलते हैं और नया पदार्थ नहीं बनता, और रासायनिक, जिसमें नया पदार्थ बनता है। रासायनिक परिवर्तन प्रायः अनुक्रमणीय होते हैं और इनमें ऊर्जा का अवशोषण या उत्सर्जन होता है।",

@@ -15,7 +15,36 @@
   "mockQuestionCount": 30,
   "practiceQuestionTarget": 150,
   "mockTestTarget": 5,
-  "topics": [],
+  "topics": [
+    {
+      "id": "force-and-effects",
+      "name": {
+        "hi": "बल एवं उसके प्रभाव",
+        "en": "Force And Effects"
+      }
+    },
+    {
+      "id": "law-of-inertia",
+      "name": {
+        "hi": "प्रथम नियम — जड़त्व",
+        "en": "Law Of Inertia"
+      }
+    },
+    {
+      "id": "momentum-second-law",
+      "name": {
+        "hi": "द्वितीय नियम — संवेग",
+        "en": "Momentum Second Law"
+      }
+    },
+    {
+      "id": "action-reaction-friction",
+      "name": {
+        "hi": "तृतीय नियम एवं घर्षण",
+        "en": "Action Reaction Friction"
+      }
+    }
+  ],
   "notes": {
     "hi": {
       "concept": "बल वह प्रभाव है जो वस्तु की गति बदल सकता है, उसे विरामावस्था से चला सकता है या आकार बदल सकता है। न्यूटन के तीन नियम गति का पूरा वर्णन करते हैं — जड़त्व का नियम, संवेग-परिवर्तन का नियम और क्रिया-प्रतिक्रिया का नियम। घर्षण एक ऐसा बल है जो गति का विरोध करता है।",
