@@ -1262,29 +1262,43 @@
   {
     "id": "c03q031",
     "topic": "separation-and-mixtures",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "question": {
-      "hi": "निम्नलिखित में से सही उत्तर चुनिए: मिश्रण क्या है?",
-      "en": "Choose the correct answer: What is a mixture?"
+      "hi": "चाय से चायपत्ती अलग करने की उपयुक्त विधि क्या है?",
+      "en": "Which method is suitable for separating tea leaves from tea?"
     },
     "options": {
       "hi": [
-        "केवल एक यौगिक",
-        "केवल एक धातु",
-        "दो या अधिक पदार्थों का भौतिक मेल",
-        "एक ही तत्व का शुद्ध रूप"
+        "वाष्पीकरण",
+        "चुंबकीय पृथक्करण",
+        "छानना",
+        "आसवन"
       ],
       "en": [
-        "Only one compound",
-        "Only one metal",
-        "Physical combination of two or more substances",
-        "Pure form of one element"
+        "Evaporation",
+        "Magnetic separation",
+        "Filtration",
+        "Distillation"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "चायपत्ती ठोस है और द्रव चाय छलनी से गुजर सकती है।",
+      "en": "Tea leaves are solid and the liquid tea can pass through a strainer."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—वाष्पीकरण इस प्रश्न में सही नहीं है; चायपत्ती ठोस है और द्रव चाय छलनी से गुजर सकती है।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न में सही नहीं है; चायपत्ती ठोस है और द्रव चाय छलनी से गुजर सकती है।",
+        "सही—चायपत्ती ठोस है और द्रव चाय छलनी से गुजर सकती है।",
+        "गलत—आसवन इस प्रश्न में सही नहीं है; चायपत्ती ठोस है और द्रव चाय छलनी से गुजर सकती है।"
+      ],
+      "en": [
+        "Incorrect—Evaporation is not suitable here; Tea leaves are solid and the liquid tea can pass through a strainer.",
+        "Incorrect—Magnetic separation is not suitable here; Tea leaves are solid and the liquid tea can pass through a strainer.",
+        "Correct—Tea leaves are solid and the liquid tea can pass through a strainer.",
+        "Incorrect—Distillation is not suitable here; Tea leaves are solid and the liquid tea can pass through a strainer."
+      ]
     }
   },
   {
@@ -1292,83 +1306,125 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: मिश्रण क्या है?",
-      "en": "In the context of chemistry, answer: What is a mixture?"
+      "hi": "नमक, रेत और पानी से दोनों ठोस अलग पाने का पहला कदम क्या है?",
+      "en": "What is the first step to recover both solids from salt, sand and water?"
     },
     "options": {
       "hi": [
-        "एक ही तत्व का शुद्ध रूप",
-        "केवल एक यौगिक",
-        "केवल एक धातु",
-        "दो या अधिक पदार्थों का भौतिक मेल"
+        "मिश्रण को छानना",
+        "चुंबक लगाना",
+        "केवल ठंडा करना",
+        "पृथक्करण कीप में डालना"
       ],
       "en": [
-        "Pure form of one element",
-        "Only one compound",
-        "Only one metal",
-        "Physical combination of two or more substances"
+        "Filter the mixture",
+        "Use a magnet",
+        "Only cool it",
+        "Use a separating funnel"
       ]
     },
-    "correct": 3,
+    "correct": 0,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "छानने पर रेत रुकती है और नमक का विलयन छनकर निकलता है।",
+      "en": "Filtration retains sand while the salt solution passes through."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—छानने पर रेत रुकती है और नमक का विलयन छनकर निकलता है।",
+        "गलत—चुंबक लगाना इस प्रश्न में सही नहीं है; छानने पर रेत रुकती है और नमक का विलयन छनकर निकलता है।",
+        "गलत—केवल ठंडा करना इस प्रश्न में सही नहीं है; छानने पर रेत रुकती है और नमक का विलयन छनकर निकलता है।",
+        "गलत—पृथक्करण कीप में डालना इस प्रश्न में सही नहीं है; छानने पर रेत रुकती है और नमक का विलयन छनकर निकलता है।"
+      ],
+      "en": [
+        "Correct—Filtration retains sand while the salt solution passes through.",
+        "Incorrect—Use a magnet is not suitable here; Filtration retains sand while the salt solution passes through.",
+        "Incorrect—Only cool it is not suitable here; Filtration retains sand while the salt solution passes through.",
+        "Incorrect—Use a separating funnel is not suitable here; Filtration retains sand while the salt solution passes through."
+      ]
     }
   },
   {
     "id": "c03q033",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": {
-      "hi": "अभ्यास प्रश्न: मिश्रण क्या है?",
-      "en": "Practice question: What is a mixture?"
+      "hi": "नमक के घोल को साधारण फिल्टर पेपर से छानने पर नमक क्यों नहीं रुकता?",
+      "en": "Why does salt not remain on ordinary filter paper when salt solution is filtered?"
     },
     "options": {
       "hi": [
-        "दो या अधिक पदार्थों का भौतिक मेल",
-        "एक ही तत्व का शुद्ध रूप",
-        "केवल एक यौगिक",
-        "केवल एक धातु"
+        "नमक चुंबकीय है",
+        "पानी नमक नष्ट करता है",
+        "फिल्टर पेपर नमक बनाता है",
+        "घुला नमक पानी के साथ गुजरता है"
       ],
       "en": [
-        "Physical combination of two or more substances",
-        "Pure form of one element",
-        "Only one compound",
-        "Only one metal"
+        "Salt is magnetic",
+        "Water destroys salt",
+        "Filter paper creates salt",
+        "Dissolved salt passes with water"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+      "en": "Dissolved salt passes through filter pores with the solution."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—नमक चुंबकीय है इस प्रश्न में सही नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "गलत—पानी नमक नष्ट करता है इस प्रश्न में सही नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "गलत—फिल्टर पेपर नमक बनाता है इस प्रश्न में सही नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "सही—घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।"
+      ],
+      "en": [
+        "Incorrect—Salt is magnetic is not suitable here; Dissolved salt passes through filter pores with the solution.",
+        "Incorrect—Water destroys salt is not suitable here; Dissolved salt passes through filter pores with the solution.",
+        "Incorrect—Filter paper creates salt is not suitable here; Dissolved salt passes through filter pores with the solution.",
+        "Correct—Dissolved salt passes through filter pores with the solution."
+      ]
     }
   },
   {
     "id": "c03q034",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "easy",
     "question": {
-      "hi": "परीक्षा में पूछा जाए कि मिश्रण क्या है?",
-      "en": "If asked in an exam: What is a mixture?"
+      "hi": "हर भाग में समान संरचना वाला मिश्रण क्या कहलाता है?",
+      "en": "What is a mixture with uniform composition throughout called?"
     },
     "options": {
       "hi": [
-        "केवल एक धातु",
-        "दो या अधिक पदार्थों का भौतिक मेल",
-        "एक ही तत्व का शुद्ध रूप",
-        "केवल एक यौगिक"
+        "समांगी",
+        "विषमांगी",
+        "निलंबन ही",
+        "शुद्ध तत्व"
       ],
       "en": [
-        "Only one metal",
-        "Physical combination of two or more substances",
-        "Pure form of one element",
-        "Only one compound"
+        "Homogeneous",
+        "Heterogeneous",
+        "Only a suspension",
+        "Pure element"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "समांगी मिश्रण में घटक पूरे नमूने में समान रूप से वितरित होते हैं।",
+      "en": "A homogeneous mixture has components distributed uniformly throughout."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—समांगी मिश्रण में घटक पूरे नमूने में समान रूप से वितरित होते हैं।",
+        "गलत—विषमांगी इस प्रश्न में सही नहीं है; समांगी मिश्रण में घटक पूरे नमूने में समान रूप से वितरित होते हैं।",
+        "गलत—निलंबन ही इस प्रश्न में सही नहीं है; समांगी मिश्रण में घटक पूरे नमूने में समान रूप से वितरित होते हैं।",
+        "गलत—शुद्ध तत्व इस प्रश्न में सही नहीं है; समांगी मिश्रण में घटक पूरे नमूने में समान रूप से वितरित होते हैं।"
+      ],
+      "en": [
+        "Correct—A homogeneous mixture has components distributed uniformly throughout.",
+        "Incorrect—Heterogeneous is not suitable here; A homogeneous mixture has components distributed uniformly throughout.",
+        "Incorrect—Only a suspension is not suitable here; A homogeneous mixture has components distributed uniformly throughout.",
+        "Incorrect—Pure element is not suitable here; A homogeneous mixture has components distributed uniformly throughout."
+      ]
     }
   },
   {
@@ -1376,27 +1432,41 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "निम्नलिखित में से सही उत्तर चुनिए: मिश्रण के घटकों को सामान्यतः कैसे अलग किया जा सकता है?",
-      "en": "Choose the correct answer: How can components of a mixture generally be separated?"
+      "hi": "तेल और पानी को पृथक्करण कीप से अलग करना संभव क्यों है?",
+      "en": "Why can oil and water be separated using a separating funnel?"
     },
     "options": {
       "hi": [
-        "केवल विद्युत अपघटन से",
-        "कभी नहीं",
-        "भौतिक विधियों से",
-        "केवल रासायनिक अभिक्रिया से"
+        "तेल पूरी तरह घुलता है",
+        "वे अमिश्रणीय परतें बनाते हैं",
+        "दोनों ठोस हैं",
+        "तेल चुंबकीय है"
       ],
       "en": [
-        "Only by electrolysis",
-        "Never",
-        "By physical methods",
-        "Only by chemical reaction"
+        "Oil dissolves completely",
+        "They form immiscible layers",
+        "Both are solids",
+        "Oil is magnetic"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "अलग परतें और घनत्व का अंतर नीचे वाली परत को पहले निकालने देते हैं।",
+      "en": "Separate layers and density differences allow the lower layer to be drained first."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—तेल पूरी तरह घुलता है इस प्रश्न में सही नहीं है; अलग परतें और घनत्व का अंतर नीचे वाली परत को पहले निकालने देते हैं।",
+        "सही—अलग परतें और घनत्व का अंतर नीचे वाली परत को पहले निकालने देते हैं।",
+        "गलत—दोनों ठोस हैं इस प्रश्न में सही नहीं है; अलग परतें और घनत्व का अंतर नीचे वाली परत को पहले निकालने देते हैं।",
+        "गलत—तेल चुंबकीय है इस प्रश्न में सही नहीं है; अलग परतें और घनत्व का अंतर नीचे वाली परत को पहले निकालने देते हैं।"
+      ],
+      "en": [
+        "Incorrect—Oil dissolves completely is not suitable here; Separate layers and density differences allow the lower layer to be drained first.",
+        "Correct—Separate layers and density differences allow the lower layer to be drained first.",
+        "Incorrect—Both are solids is not suitable here; Separate layers and density differences allow the lower layer to be drained first.",
+        "Incorrect—Oil is magnetic is not suitable here; Separate layers and density differences allow the lower layer to be drained first."
+      ]
     }
   },
   {
@@ -1404,83 +1474,125 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: मिश्रण के घटकों को सामान्यतः कैसे अलग किया जा सकता है?",
-      "en": "In the context of chemistry, answer: How can components of a mixture generally be separated?"
+      "hi": "गंदले पानी में मिट्टी के कण नीचे बैठना क्या कहलाता है?",
+      "en": "What is the settling of soil particles in muddy water called?"
     },
     "options": {
       "hi": [
-        "केवल रासायनिक अभिक्रिया से",
-        "केवल विद्युत अपघटन से",
-        "कभी नहीं",
-        "भौतिक विधियों से"
+        "संघनन",
+        "उर्ध्वपातन",
+        "अवसादन",
+        "क्रिस्टलीकरण"
       ],
       "en": [
-        "Only by chemical reaction",
-        "Only by electrolysis",
-        "Never",
-        "By physical methods"
+        "Condensation",
+        "Sublimation",
+        "Sedimentation",
+        "Crystallisation"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+      "en": "Heavier insoluble particles settle under gravity."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—संघनन इस प्रश्न में सही नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—उर्ध्वपातन इस प्रश्न में सही नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "सही—गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न में सही नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।"
+      ],
+      "en": [
+        "Incorrect—Condensation is not suitable here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—Sublimation is not suitable here; Heavier insoluble particles settle under gravity.",
+        "Correct—Heavier insoluble particles settle under gravity.",
+        "Incorrect—Crystallisation is not suitable here; Heavier insoluble particles settle under gravity."
+      ]
     }
   },
   {
     "id": "c03q037",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": {
-      "hi": "अभ्यास प्रश्न: मिश्रण के घटकों को सामान्यतः कैसे अलग किया जा सकता है?",
-      "en": "Practice question: How can components of a mixture generally be separated?"
+      "hi": "तलछट को हिलाए बिना ऊपर का साफ द्रव दूसरे पात्र में डालना क्या है?",
+      "en": "What is carefully pouring the clear liquid above sediment into another vessel called?"
     },
     "options": {
       "hi": [
-        "भौतिक विधियों से",
-        "केवल रासायनिक अभिक्रिया से",
-        "केवल विद्युत अपघटन से",
-        "कभी नहीं"
+        "निस्यंदन",
+        "वाष्पीकरण",
+        "मंथन",
+        "निस्तारण"
       ],
       "en": [
-        "By physical methods",
-        "Only by chemical reaction",
-        "Only by electrolysis",
-        "Never"
+        "Filtration",
+        "Evaporation",
+        "Churning",
+        "Decantation"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "ऊपर का द्रव तलछट को छेड़े बिना उड़ेलना निस्तारण है।",
+      "en": "Pouring off the upper liquid without disturbing sediment is decantation."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—निस्यंदन इस प्रश्न में सही नहीं है; ऊपर का द्रव तलछट को छेड़े बिना उड़ेलना निस्तारण है।",
+        "गलत—वाष्पीकरण इस प्रश्न में सही नहीं है; ऊपर का द्रव तलछट को छेड़े बिना उड़ेलना निस्तारण है।",
+        "गलत—मंथन इस प्रश्न में सही नहीं है; ऊपर का द्रव तलछट को छेड़े बिना उड़ेलना निस्तारण है।",
+        "सही—ऊपर का द्रव तलछट को छेड़े बिना उड़ेलना निस्तारण है।"
+      ],
+      "en": [
+        "Incorrect—Filtration is not suitable here; Pouring off the upper liquid without disturbing sediment is decantation.",
+        "Incorrect—Evaporation is not suitable here; Pouring off the upper liquid without disturbing sediment is decantation.",
+        "Incorrect—Churning is not suitable here; Pouring off the upper liquid without disturbing sediment is decantation.",
+        "Correct—Pouring off the upper liquid without disturbing sediment is decantation."
+      ]
     }
   },
   {
     "id": "c03q038",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": {
-      "hi": "परीक्षा में पूछा जाए कि मिश्रण के घटकों को सामान्यतः कैसे अलग किया जा सकता है?",
-      "en": "If asked in an exam: How can components of a mixture generally be separated?"
+      "hi": "नमक के घोल से पानी भी वापस चाहिए, तो कौन-सी विधि चुनें?",
+      "en": "Which method should be used if water must also be recovered from salt solution?"
     },
     "options": {
       "hi": [
-        "कभी नहीं",
-        "भौतिक विधियों से",
-        "केवल रासायनिक अभिक्रिया से",
-        "केवल विद्युत अपघटन से"
+        "आसवन",
+        "हस्तचयन",
+        "चालनीकरण",
+        "हवा से उड़ाना"
       ],
       "en": [
-        "Never",
-        "By physical methods",
-        "Only by chemical reaction",
-        "Only by electrolysis"
+        "Distillation",
+        "Handpicking",
+        "Sieving",
+        "Winnowing"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "आसवन में पानी की भाप को ठंडा कर फिर द्रव के रूप में एकत्र किया जाता है।",
+      "en": "Distillation condenses water vapour and collects it again as liquid."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—आसवन में पानी की भाप को ठंडा कर फिर द्रव के रूप में एकत्र किया जाता है।",
+        "गलत—हस्तचयन इस प्रश्न में सही नहीं है; आसवन में पानी की भाप को ठंडा कर फिर द्रव के रूप में एकत्र किया जाता है।",
+        "गलत—चालनीकरण इस प्रश्न में सही नहीं है; आसवन में पानी की भाप को ठंडा कर फिर द्रव के रूप में एकत्र किया जाता है।",
+        "गलत—हवा से उड़ाना इस प्रश्न में सही नहीं है; आसवन में पानी की भाप को ठंडा कर फिर द्रव के रूप में एकत्र किया जाता है।"
+      ],
+      "en": [
+        "Correct—Distillation condenses water vapour and collects it again as liquid.",
+        "Incorrect—Handpicking is not suitable here; Distillation condenses water vapour and collects it again as liquid.",
+        "Incorrect—Sieving is not suitable here; Distillation condenses water vapour and collects it again as liquid.",
+        "Incorrect—Winnowing is not suitable here; Distillation condenses water vapour and collects it again as liquid."
+      ]
     }
   },
   {
@@ -1488,27 +1600,41 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "निम्नलिखित में से सही उत्तर चुनिए: नमक और पानी के विलयन से नमक प्राप्त करने के लिए कौन-सी विधि उपयुक्त है?",
-      "en": "Choose the correct answer: Which method is suitable for obtaining salt from a salt-water solution?"
+      "hi": "क्रिस्टलीकरण में नियंत्रित ठंडा करने का मुख्य लाभ क्या है?",
+      "en": "What is a main benefit of controlled cooling during crystallisation?"
     },
     "options": {
       "hi": [
-        "चुंबकीय पृथक्करण",
-        "अवसादन",
-        "वाष्पीकरण",
-        "निस्यंदन"
+        "घुला पदार्थ गैस बनता है",
+        "क्रिस्टल बढ़ने का अवसर मिलता है",
+        "मिश्रण चुंबकीय होता है",
+        "सभी अशुद्धियाँ हमेशा गायब हो जाती हैं"
       ],
       "en": [
-        "Magnetic separation",
-        "Sedimentation",
-        "Evaporation",
-        "Filtration"
+        "The dissolved substance becomes gas",
+        "Crystals have time to grow",
+        "The mixture becomes magnetic",
+        "All impurities always disappear"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "hi": "पानी वाष्प बनकर निकल जाता है, जबकि घुला हुआ नमक पीछे रह जाता है।",
-      "en": "Water evaporates as vapour while the dissolved salt remains behind."
+      "hi": "उचित दशाओं में धीरे क्रिस्टल बढ़ने से बेहतर आकार के क्रिस्टल बन सकते हैं।",
+      "en": "Under suitable conditions, slower growth can produce better-formed crystals."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—घुला पदार्थ गैस बनता है इस प्रश्न में सही नहीं है; उचित दशाओं में धीरे क्रिस्टल बढ़ने से बेहतर आकार के क्रिस्टल बन सकते हैं।",
+        "सही—उचित दशाओं में धीरे क्रिस्टल बढ़ने से बेहतर आकार के क्रिस्टल बन सकते हैं।",
+        "गलत—मिश्रण चुंबकीय होता है इस प्रश्न में सही नहीं है; उचित दशाओं में धीरे क्रिस्टल बढ़ने से बेहतर आकार के क्रिस्टल बन सकते हैं।",
+        "गलत—सभी अशुद्धियाँ हमेशा गायब हो जाती हैं इस प्रश्न में सही नहीं है; उचित दशाओं में धीरे क्रिस्टल बढ़ने से बेहतर आकार के क्रिस्टल बन सकते हैं।"
+      ],
+      "en": [
+        "Incorrect—The dissolved substance becomes gas is not suitable here; Under suitable conditions, slower growth can produce better-formed crystals.",
+        "Correct—Under suitable conditions, slower growth can produce better-formed crystals.",
+        "Incorrect—The mixture becomes magnetic is not suitable here; Under suitable conditions, slower growth can produce better-formed crystals.",
+        "Incorrect—All impurities always disappear is not suitable here; Under suitable conditions, slower growth can produce better-formed crystals."
+      ]
     }
   },
   {
@@ -1516,83 +1642,125 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: नमक और पानी के विलयन से नमक प्राप्त करने के लिए कौन-सी विधि उपयुक्त है?",
-      "en": "In the context of chemistry, answer: Which method is suitable for obtaining salt from a salt-water solution?"
+      "hi": "स्याही के रंग कागज पर अलग-अलग दूरी तक क्यों जाते हैं?",
+      "en": "Why do ink colours travel different distances on paper?"
     },
     "options": {
       "hi": [
-        "निस्यंदन",
-        "चुंबकीय पृथक्करण",
-        "अवसादन",
-        "वाष्पीकरण"
+        "सभी रंग समान रूप से उड़ते हैं",
+        "कागज रंगों को नया पदार्थ बनाता है",
+        "घटकों की गतिशीलता/आकर्षण अलग है",
+        "स्याही शुद्ध पदार्थ है"
       ],
       "en": [
-        "Filtration",
-        "Magnetic separation",
-        "Sedimentation",
-        "Evaporation"
+        "All colours evaporate equally",
+        "Paper makes new substances",
+        "Components differ in mobility/attraction",
+        "Ink is a pure substance"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "hi": "पानी वाष्प बनकर निकल जाता है, जबकि घुला हुआ नमक पीछे रह जाता है।",
-      "en": "Water evaporates as vapour while the dissolved salt remains behind."
+      "hi": "क्रोमैटोग्राफी में घटक स्थिर और चल अवस्थाओं के साथ अलग व्यवहार करते हैं।",
+      "en": "In chromatography, components interact differently with stationary and mobile phases."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—सभी रंग समान रूप से उड़ते हैं इस प्रश्न में सही नहीं है; क्रोमैटोग्राफी में घटक स्थिर और चल अवस्थाओं के साथ अलग व्यवहार करते हैं।",
+        "गलत—कागज रंगों को नया पदार्थ बनाता है इस प्रश्न में सही नहीं है; क्रोमैटोग्राफी में घटक स्थिर और चल अवस्थाओं के साथ अलग व्यवहार करते हैं।",
+        "सही—क्रोमैटोग्राफी में घटक स्थिर और चल अवस्थाओं के साथ अलग व्यवहार करते हैं।",
+        "गलत—स्याही शुद्ध पदार्थ है इस प्रश्न में सही नहीं है; क्रोमैटोग्राफी में घटक स्थिर और चल अवस्थाओं के साथ अलग व्यवहार करते हैं।"
+      ],
+      "en": [
+        "Incorrect—All colours evaporate equally is not suitable here; In chromatography, components interact differently with stationary and mobile phases.",
+        "Incorrect—Paper makes new substances is not suitable here; In chromatography, components interact differently with stationary and mobile phases.",
+        "Correct—In chromatography, components interact differently with stationary and mobile phases.",
+        "Incorrect—Ink is a pure substance is not suitable here; In chromatography, components interact differently with stationary and mobile phases."
+      ]
     }
   },
   {
     "id": "c03q041",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "easy",
     "question": {
-      "hi": "अभ्यास प्रश्न: नमक और पानी के विलयन से नमक प्राप्त करने के लिए कौन-सी विधि उपयुक्त है?",
-      "en": "Practice question: Which method is suitable for obtaining salt from a salt-water solution?"
+      "hi": "लोहे की बुरादे को गंधक से अलग करने का सरल तरीका क्या है?",
+      "en": "What is a simple way to separate iron filings from sulphur?"
     },
     "options": {
       "hi": [
-        "वाष्पीकरण",
-        "निस्यंदन",
-        "चुंबकीय पृथक्करण",
-        "अवसादन"
+        "पानी उबालना",
+        "छानना",
+        "हाथ से चुनना",
+        "चुंबक लगाना"
       ],
       "en": [
-        "Evaporation",
-        "Filtration",
-        "Magnetic separation",
-        "Sedimentation"
+        "Boil water",
+        "Filter",
+        "Handpick",
+        "Use a magnet"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "hi": "पानी वाष्प बनकर निकल जाता है, जबकि घुला हुआ नमक पीछे रह जाता है।",
-      "en": "Water evaporates as vapour while the dissolved salt remains behind."
+      "hi": "लोहा चुंबक से आकर्षित होता है, जबकि गंधक सामान्यतः नहीं।",
+      "en": "Iron is attracted to a magnet while sulphur generally is not."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—पानी उबालना इस प्रश्न में सही नहीं है; लोहा चुंबक से आकर्षित होता है, जबकि गंधक सामान्यतः नहीं।",
+        "गलत—छानना इस प्रश्न में सही नहीं है; लोहा चुंबक से आकर्षित होता है, जबकि गंधक सामान्यतः नहीं।",
+        "गलत—हाथ से चुनना इस प्रश्न में सही नहीं है; लोहा चुंबक से आकर्षित होता है, जबकि गंधक सामान्यतः नहीं।",
+        "सही—लोहा चुंबक से आकर्षित होता है, जबकि गंधक सामान्यतः नहीं।"
+      ],
+      "en": [
+        "Incorrect—Boil water is not suitable here; Iron is attracted to a magnet while sulphur generally is not.",
+        "Incorrect—Filter is not suitable here; Iron is attracted to a magnet while sulphur generally is not.",
+        "Incorrect—Handpick is not suitable here; Iron is attracted to a magnet while sulphur generally is not.",
+        "Correct—Iron is attracted to a magnet while sulphur generally is not."
+      ]
     }
   },
   {
     "id": "c03q042",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "easy",
     "question": {
-      "hi": "परीक्षा में पूछा जाए कि नमक और पानी के विलयन से नमक प्राप्त करने के लिए कौन-सी विधि उपयुक्त है?",
-      "en": "If asked in an exam: Which method is suitable for obtaining salt from a salt-water solution?"
+      "hi": "अनाज से दिखने वाले कंकड़ हाथ से निकालना कौन-सी विधि है?",
+      "en": "Removing visible stones from grain by hand is which method?"
     },
     "options": {
       "hi": [
-        "अवसादन",
-        "वाष्पीकरण",
-        "निस्यंदन",
-        "चुंबकीय पृथक्करण"
+        "हस्तचयन",
+        "आसवन",
+        "क्रोमैटोग्राफी",
+        "संघनन"
       ],
       "en": [
-        "Sedimentation",
-        "Evaporation",
-        "Filtration",
-        "Magnetic separation"
+        "Handpicking",
+        "Distillation",
+        "Chromatography",
+        "Condensation"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "hi": "पानी वाष्प बनकर निकल जाता है, जबकि घुला हुआ नमक पीछे रह जाता है।",
-      "en": "Water evaporates as vapour while the dissolved salt remains behind."
+      "hi": "दिखाई देने वाले बड़े अवांछित कणों के लिए हस्तचयन उपयोगी है।",
+      "en": "Handpicking is useful for visible, relatively large unwanted particles."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—दिखाई देने वाले बड़े अवांछित कणों के लिए हस्तचयन उपयोगी है।",
+        "गलत—आसवन इस प्रश्न में सही नहीं है; दिखाई देने वाले बड़े अवांछित कणों के लिए हस्तचयन उपयोगी है।",
+        "गलत—क्रोमैटोग्राफी इस प्रश्न में सही नहीं है; दिखाई देने वाले बड़े अवांछित कणों के लिए हस्तचयन उपयोगी है।",
+        "गलत—संघनन इस प्रश्न में सही नहीं है; दिखाई देने वाले बड़े अवांछित कणों के लिए हस्तचयन उपयोगी है।"
+      ],
+      "en": [
+        "Correct—Handpicking is useful for visible, relatively large unwanted particles.",
+        "Incorrect—Distillation is not suitable here; Handpicking is useful for visible, relatively large unwanted particles.",
+        "Incorrect—Chromatography is not suitable here; Handpicking is useful for visible, relatively large unwanted particles.",
+        "Incorrect—Condensation is not suitable here; Handpicking is useful for visible, relatively large unwanted particles."
+      ]
     }
   },
   {
@@ -1600,139 +1768,209 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "निम्नलिखित में से सही उत्तर चुनिए: रेत और पानी को अलग करने के लिए कौन-सी विधि उपयुक्त है?",
-      "en": "Choose the correct answer: Which method is suitable for separating sand and water?"
+      "hi": "हवा से भूसी और अनाज अलग करने में किस अंतर का उपयोग होता है?",
+      "en": "What difference is used when wind separates husk from grain?"
     },
     "options": {
       "hi": [
-        "क्रोमैटोग्राफी",
-        "उर्ध्वपातन",
-        "निस्यंदन",
-        "आसवन"
+        "घुलनशीलता",
+        "भार और हवा में उड़ने की क्षमता",
+        "चुंबकत्व",
+        "गलनांक"
       ],
       "en": [
-        "Chromatography",
-        "Sublimation",
-        "Filtration",
-        "Distillation"
+        "Solubility",
+        "Weight and ability to be carried by air",
+        "Magnetism",
+        "Melting point"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "हल्की भूसी हवा से दूर जा सकती है, भारी दाने पास गिरते हैं।",
+      "en": "Light husk is carried farther by air while heavier grains fall nearer."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—घुलनशीलता इस प्रश्न में सही नहीं है; हल्की भूसी हवा से दूर जा सकती है, भारी दाने पास गिरते हैं।",
+        "सही—हल्की भूसी हवा से दूर जा सकती है, भारी दाने पास गिरते हैं।",
+        "गलत—चुंबकत्व इस प्रश्न में सही नहीं है; हल्की भूसी हवा से दूर जा सकती है, भारी दाने पास गिरते हैं।",
+        "गलत—गलनांक इस प्रश्न में सही नहीं है; हल्की भूसी हवा से दूर जा सकती है, भारी दाने पास गिरते हैं।"
+      ],
+      "en": [
+        "Incorrect—Solubility is not suitable here; Light husk is carried farther by air while heavier grains fall nearer.",
+        "Correct—Light husk is carried farther by air while heavier grains fall nearer.",
+        "Incorrect—Magnetism is not suitable here; Light husk is carried farther by air while heavier grains fall nearer.",
+        "Incorrect—Melting point is not suitable here; Light husk is carried farther by air while heavier grains fall nearer."
+      ]
     }
   },
   {
     "id": "c03q044",
     "topic": "separation-and-mixtures",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "question": {
-      "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: रेत और पानी को अलग करने के लिए कौन-सी विधि उपयुक्त है?",
-      "en": "In the context of chemistry, answer: Which method is suitable for separating sand and water?"
+      "hi": "कण आकार के आधार पर छलनी से पृथक्करण क्या कहलाता है?",
+      "en": "What is separation by particle size using a sieve called?"
     },
     "options": {
       "hi": [
-        "आसवन",
-        "क्रोमैटोग्राफी",
-        "उर्ध्वपातन",
-        "निस्यंदन"
+        "निस्तारण",
+        "अवसादन",
+        "चालनीकरण",
+        "आसवन"
       ],
       "en": [
-        "Distillation",
-        "Chromatography",
-        "Sublimation",
-        "Filtration"
+        "Decantation",
+        "Sedimentation",
+        "Sieving",
+        "Distillation"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "छोटे कण छिद्रों से गुजरते हैं और बड़े कण छलनी पर रुकते हैं।",
+      "en": "Smaller particles pass through the openings while larger ones remain."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—निस्तारण इस प्रश्न में सही नहीं है; छोटे कण छिद्रों से गुजरते हैं और बड़े कण छलनी पर रुकते हैं।",
+        "गलत—अवसादन इस प्रश्न में सही नहीं है; छोटे कण छिद्रों से गुजरते हैं और बड़े कण छलनी पर रुकते हैं।",
+        "सही—छोटे कण छिद्रों से गुजरते हैं और बड़े कण छलनी पर रुकते हैं।",
+        "गलत—आसवन इस प्रश्न में सही नहीं है; छोटे कण छिद्रों से गुजरते हैं और बड़े कण छलनी पर रुकते हैं।"
+      ],
+      "en": [
+        "Incorrect—Decantation is not suitable here; Smaller particles pass through the openings while larger ones remain.",
+        "Incorrect—Sedimentation is not suitable here; Smaller particles pass through the openings while larger ones remain.",
+        "Correct—Smaller particles pass through the openings while larger ones remain.",
+        "Incorrect—Distillation is not suitable here; Smaller particles pass through the openings while larger ones remain."
+      ]
     }
   },
   {
     "id": "c03q045",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": {
-      "hi": "अभ्यास प्रश्न: रेत और पानी को अलग करने के लिए कौन-सी विधि उपयुक्त है?",
-      "en": "Practice question: Which method is suitable for separating sand and water?"
+      "hi": "किस मिश्रण को साधारण छानने से अलग करना सबसे कठिन है?",
+      "en": "Which mixture is least amenable to ordinary filtration?"
     },
     "options": {
       "hi": [
-        "निस्यंदन",
-        "आसवन",
-        "क्रोमैटोग्राफी",
-        "उर्ध्वपातन"
+        "पानी में रेत",
+        "चाय में पत्ती",
+        "पानी में मिट्टी",
+        "पानी में पूरी तरह घुली चीनी"
       ],
       "en": [
-        "Filtration",
-        "Distillation",
-        "Chromatography",
-        "Sublimation"
+        "Sand in water",
+        "Leaves in tea",
+        "Soil in water",
+        "Sugar completely dissolved in water"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "घुली चीनी विलयन के साथ फिल्टर से गुजरती है; उसे पाने के लिए विलायक हटाना पड़ता है।",
+      "en": "Dissolved sugar passes through the filter with solution; the solvent must be removed to recover it."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—पानी में रेत इस प्रश्न में सही नहीं है; घुली चीनी विलयन के साथ फिल्टर से गुजरती है; उसे पाने के लिए विलायक हटाना पड़ता है।",
+        "गलत—चाय में पत्ती इस प्रश्न में सही नहीं है; घुली चीनी विलयन के साथ फिल्टर से गुजरती है; उसे पाने के लिए विलायक हटाना पड़ता है।",
+        "गलत—पानी में मिट्टी इस प्रश्न में सही नहीं है; घुली चीनी विलयन के साथ फिल्टर से गुजरती है; उसे पाने के लिए विलायक हटाना पड़ता है।",
+        "सही—घुली चीनी विलयन के साथ फिल्टर से गुजरती है; उसे पाने के लिए विलायक हटाना पड़ता है।"
+      ],
+      "en": [
+        "Incorrect—Sand in water is not suitable here; Dissolved sugar passes through the filter with solution; the solvent must be removed to recover it.",
+        "Incorrect—Leaves in tea is not suitable here; Dissolved sugar passes through the filter with solution; the solvent must be removed to recover it.",
+        "Incorrect—Soil in water is not suitable here; Dissolved sugar passes through the filter with solution; the solvent must be removed to recover it.",
+        "Correct—Dissolved sugar passes through the filter with solution; the solvent must be removed to recover it."
+      ]
     }
   },
   {
     "id": "c03q046",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": {
-      "hi": "परीक्षा में पूछा जाए कि रेत और पानी को अलग करने के लिए कौन-सी विधि उपयुक्त है?",
-      "en": "If asked in an exam: Which method is suitable for separating sand and water?"
+      "hi": "समुद्री पानी से मीठा पानी आसवन द्वारा कैसे प्राप्त होता है?",
+      "en": "How does distillation produce fresh water from seawater?"
     },
     "options": {
       "hi": [
-        "उर्ध्वपातन",
-        "निस्यंदन",
-        "आसवन",
-        "क्रोमैटोग्राफी"
+        "पानी वाष्पित कर भाप संघनित की जाती है",
+        "नमक चुंबक से निकाला जाता है",
+        "छलनी नमक रोकती है",
+        "अधिक नमक मिलाया जाता है"
       ],
       "en": [
-        "Sublimation",
-        "Filtration",
-        "Distillation",
-        "Chromatography"
+        "Water is vaporised and the vapour condensed",
+        "Salt is removed by a magnet",
+        "A sieve retains salt",
+        "More salt is added"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "पानी भाप बनकर नमक से अलग होता है और संघनन पर फिर द्रव बनता है।",
+      "en": "Water vaporises away from salt and becomes liquid again on condensation."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—पानी भाप बनकर नमक से अलग होता है और संघनन पर फिर द्रव बनता है।",
+        "गलत—नमक चुंबक से निकाला जाता है इस प्रश्न में सही नहीं है; पानी भाप बनकर नमक से अलग होता है और संघनन पर फिर द्रव बनता है।",
+        "गलत—छलनी नमक रोकती है इस प्रश्न में सही नहीं है; पानी भाप बनकर नमक से अलग होता है और संघनन पर फिर द्रव बनता है।",
+        "गलत—अधिक नमक मिलाया जाता है इस प्रश्न में सही नहीं है; पानी भाप बनकर नमक से अलग होता है और संघनन पर फिर द्रव बनता है।"
+      ],
+      "en": [
+        "Correct—Water vaporises away from salt and becomes liquid again on condensation.",
+        "Incorrect—Salt is removed by a magnet is not suitable here; Water vaporises away from salt and becomes liquid again on condensation.",
+        "Incorrect—A sieve retains salt is not suitable here; Water vaporises away from salt and becomes liquid again on condensation.",
+        "Incorrect—More salt is added is not suitable here; Water vaporises away from salt and becomes liquid again on condensation."
+      ]
     }
   },
   {
     "id": "c03q047",
     "topic": "separation-and-mixtures",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question": {
-      "hi": "निम्नलिखित में से सही उत्तर चुनिए: निस्यंदन में किसका उपयोग किया जाता है?",
-      "en": "Choose the correct answer: What is used in filtration?"
+      "hi": "दो आपस में मिलने वाले द्रवों के क्वथनांक बहुत पास हों, तो कौन-सी विधि अधिक उपयुक्त हो सकती है?",
+      "en": "Which method may better separate two miscible liquids with very close boiling points?"
     },
     "options": {
       "hi": [
-        "थर्मामीटर",
-        "ब्यूरेट",
-        "छिद्रयुक्त फिल्टर",
-        "चुंबक"
+        "हस्तचयन",
+        "चालनीकरण",
+        "प्रभाजी आसवन",
+        "अवसादन"
       ],
       "en": [
-        "A thermometer",
-        "A burette",
-        "A porous filter",
-        "A magnet"
+        "Handpicking",
+        "Sieving",
+        "Fractional distillation",
+        "Sedimentation"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से पास क्वथनांक वाले द्रवों को बेहतर अलग करता है।",
+      "en": "A fractionating column improves separation through repeated vaporisation-condensation."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—हस्तचयन इस प्रश्न में सही नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से पास क्वथनांक वाले द्रवों को बेहतर अलग करता है।",
+        "गलत—चालनीकरण इस प्रश्न में सही नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से पास क्वथनांक वाले द्रवों को बेहतर अलग करता है।",
+        "सही—प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से पास क्वथनांक वाले द्रवों को बेहतर अलग करता है।",
+        "गलत—अवसादन इस प्रश्न में सही नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से पास क्वथनांक वाले द्रवों को बेहतर अलग करता है।"
+      ],
+      "en": [
+        "Incorrect—Handpicking is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Incorrect—Sieving is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Correct—A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Incorrect—Sedimentation is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation."
+      ]
     }
   },
   {
@@ -1740,27 +1978,41 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: निस्यंदन में किसका उपयोग किया जाता है?",
-      "en": "In the context of chemistry, answer: What is used in filtration?"
+      "hi": "नमक और रेत को पानी में मिलाने के बाद रेत पहले क्यों निकाल सकते हैं?",
+      "en": "Why can sand be removed first after salt and sand are mixed with water?"
     },
     "options": {
       "hi": [
-        "चुंबक",
-        "थर्मामीटर",
-        "ब्यूरेट",
-        "छिद्रयुक्त फिल्टर"
+        "रेत चुंबकीय हो जाती है",
+        "रेत अघुलनशील है और फिल्टर पर रुकती है",
+        "रेत नमक में बदलती है",
+        "रेत पानी से हल्की गैस है"
       ],
       "en": [
-        "A magnet",
-        "A thermometer",
-        "A burette",
-        "A porous filter"
+        "Sand becomes magnetic",
+        "Sand is insoluble and remains on the filter",
+        "Sand changes into salt",
+        "Sand is a gas lighter than water"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "रेत पानी में नहीं घुलती, इसलिए निस्यंदन से उसे नमक के घोल से अलग किया जा सकता है।",
+      "en": "Sand does not dissolve in water, so filtration separates it from the salt solution."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—रेत चुंबकीय हो जाती है इस प्रश्न में सही नहीं है; रेत पानी में नहीं घुलती, इसलिए निस्यंदन से उसे नमक के घोल से अलग किया जा सकता है।",
+        "सही—रेत पानी में नहीं घुलती, इसलिए निस्यंदन से उसे नमक के घोल से अलग किया जा सकता है।",
+        "गलत—रेत नमक में बदलती है इस प्रश्न में सही नहीं है; रेत पानी में नहीं घुलती, इसलिए निस्यंदन से उसे नमक के घोल से अलग किया जा सकता है।",
+        "गलत—रेत पानी से हल्की गैस है इस प्रश्न में सही नहीं है; रेत पानी में नहीं घुलती, इसलिए निस्यंदन से उसे नमक के घोल से अलग किया जा सकता है।"
+      ],
+      "en": [
+        "Incorrect—Sand becomes magnetic is not suitable here; Sand does not dissolve in water, so filtration separates it from the salt solution.",
+        "Correct—Sand does not dissolve in water, so filtration separates it from the salt solution.",
+        "Incorrect—Sand changes into salt is not suitable here; Sand does not dissolve in water, so filtration separates it from the salt solution.",
+        "Incorrect—Sand is a gas lighter than water is not suitable here; Sand does not dissolve in water, so filtration separates it from the salt solution."
+      ]
     }
   },
   {
@@ -1768,83 +2020,125 @@
     "topic": "separation-and-mixtures",
     "difficulty": "hard",
     "question": {
-      "hi": "अभ्यास प्रश्न: निस्यंदन में किसका उपयोग किया जाता है?",
-      "en": "Practice question: What is used in filtration?"
+      "hi": "कौन-सा उदाहरण भौतिक मिश्रण है, रासायनिक परिवर्तन नहीं?",
+      "en": "Which example is a physical mixture rather than a chemical change?"
     },
     "options": {
       "hi": [
-        "छिद्रयुक्त फिल्टर",
-        "चुंबक",
-        "थर्मामीटर",
-        "ब्यूरेट"
+        "हाइड्रोजन से पानी बनना",
+        "लोहे में जंग लगना",
+        "मोम जलना",
+        "रेत और लोहे की बुरादे मिलाना"
       ],
       "en": [
-        "A porous filter",
-        "A magnet",
-        "A thermometer",
-        "A burette"
+        "Water forming from hydrogen",
+        "Iron rusting",
+        "Wax burning",
+        "Mixing sand and iron filings"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "रेत और लोहे की बुरादे मिलाने पर नए पदार्थ नहीं बनते और घटक भौतिक रूप से अलग किए जा सकते हैं।",
+      "en": "Mixing sand and iron filings forms no new substance and the components can be separated physically."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—हाइड्रोजन से पानी बनना इस प्रश्न में सही नहीं है; रेत और लोहे की बुरादे मिलाने पर नए पदार्थ नहीं बनते और घटक भौतिक रूप से अलग किए जा सकते हैं।",
+        "गलत—लोहे में जंग लगना इस प्रश्न में सही नहीं है; रेत और लोहे की बुरादे मिलाने पर नए पदार्थ नहीं बनते और घटक भौतिक रूप से अलग किए जा सकते हैं।",
+        "गलत—मोम जलना इस प्रश्न में सही नहीं है; रेत और लोहे की बुरादे मिलाने पर नए पदार्थ नहीं बनते और घटक भौतिक रूप से अलग किए जा सकते हैं।",
+        "सही—रेत और लोहे की बुरादे मिलाने पर नए पदार्थ नहीं बनते और घटक भौतिक रूप से अलग किए जा सकते हैं।"
+      ],
+      "en": [
+        "Incorrect—Water forming from hydrogen is not suitable here; Mixing sand and iron filings forms no new substance and the components can be separated physically.",
+        "Incorrect—Iron rusting is not suitable here; Mixing sand and iron filings forms no new substance and the components can be separated physically.",
+        "Incorrect—Wax burning is not suitable here; Mixing sand and iron filings forms no new substance and the components can be separated physically.",
+        "Correct—Mixing sand and iron filings forms no new substance and the components can be separated physically."
+      ]
     }
   },
   {
     "id": "c03q050",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": {
-      "hi": "परीक्षा में पूछा जाए कि निस्यंदन में किसका उपयोग किया जाता है?",
-      "en": "If asked in an exam: What is used in filtration?"
+      "hi": "घोल गर्म करने पर विलायक उड़ जाए और ठोस बच जाए, तो कौन-सी विधि है?",
+      "en": "If heating removes the solvent and leaves the solid, which method is used?"
     },
     "options": {
       "hi": [
-        "ब्यूरेट",
-        "छिद्रयुक्त फिल्टर",
-        "चुंबक",
-        "थर्मामीटर"
+        "वाष्पीकरण",
+        "पृथक्करण कीप",
+        "चुंबकीय पृथक्करण",
+        "हस्तचयन"
       ],
       "en": [
-        "A burette",
-        "A porous filter",
-        "A magnet",
-        "A thermometer"
+        "Evaporation",
+        "Separating funnel",
+        "Magnetic separation",
+        "Handpicking"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "वाष्पीकरण में विलायक वाष्प बनकर निकल जाता है और कम वाष्पशील घुला ठोस बच सकता है।",
+      "en": "During evaporation, the solvent escapes as vapour and the less volatile dissolved solid may remain."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—वाष्पीकरण में विलायक वाष्प बनकर निकल जाता है और कम वाष्पशील घुला ठोस बच सकता है।",
+        "गलत—पृथक्करण कीप इस प्रश्न में सही नहीं है; वाष्पीकरण में विलायक वाष्प बनकर निकल जाता है और कम वाष्पशील घुला ठोस बच सकता है।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न में सही नहीं है; वाष्पीकरण में विलायक वाष्प बनकर निकल जाता है और कम वाष्पशील घुला ठोस बच सकता है।",
+        "गलत—हस्तचयन इस प्रश्न में सही नहीं है; वाष्पीकरण में विलायक वाष्प बनकर निकल जाता है और कम वाष्पशील घुला ठोस बच सकता है।"
+      ],
+      "en": [
+        "Correct—During evaporation, the solvent escapes as vapour and the less volatile dissolved solid may remain.",
+        "Incorrect—Separating funnel is not suitable here; During evaporation, the solvent escapes as vapour and the less volatile dissolved solid may remain.",
+        "Incorrect—Magnetic separation is not suitable here; During evaporation, the solvent escapes as vapour and the less volatile dissolved solid may remain.",
+        "Incorrect—Handpicking is not suitable here; During evaporation, the solvent escapes as vapour and the less volatile dissolved solid may remain."
+      ]
     }
   },
   {
     "id": "c03q051",
     "topic": "separation-and-mixtures",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question": {
-      "hi": "निम्नलिखित में से सही उत्तर चुनिए: निस्यंदन के बाद फिल्टर पर बचा ठोस पदार्थ क्या कहलाता है?",
-      "en": "Choose the correct answer: What is the solid left on the filter after filtration called?"
+      "hi": "नमक का घोल छानने पर नमक न मिले, तो सही सुधार क्या है?",
+      "en": "If filtration does not recover salt from salt solution, what is the correct improvement?"
     },
     "options": {
       "hi": [
-        "विलायक",
-        "विलेय",
-        "अवशेष",
-        "निस्यंद"
+        "और रेत मिलाएँ",
+        "घोल वाष्पित करें या क्रिस्टलीकरण करें",
+        "चुंबक लगाएँ",
+        "बड़ी छलनी लें"
       ],
       "en": [
-        "Solvent",
-        "Solute",
-        "Residue",
-        "Filtrate"
+        "Add more sand",
+        "Evaporate or crystallise the solution",
+        "Use a magnet",
+        "Use a larger sieve"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "नमक घुला है, इसलिए फिल्टर पर नहीं रुकेगा; विलायक हटाने या क्रिस्टल बनाने की जरूरत है।",
+      "en": "Dissolved salt will not remain on the filter; remove the solvent or form crystals."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—और रेत मिलाएँ इस प्रश्न में सही नहीं है; नमक घुला है, इसलिए फिल्टर पर नहीं रुकेगा; विलायक हटाने या क्रिस्टल बनाने की जरूरत है।",
+        "सही—नमक घुला है, इसलिए फिल्टर पर नहीं रुकेगा; विलायक हटाने या क्रिस्टल बनाने की जरूरत है।",
+        "गलत—चुंबक लगाएँ इस प्रश्न में सही नहीं है; नमक घुला है, इसलिए फिल्टर पर नहीं रुकेगा; विलायक हटाने या क्रिस्टल बनाने की जरूरत है।",
+        "गलत—बड़ी छलनी लें इस प्रश्न में सही नहीं है; नमक घुला है, इसलिए फिल्टर पर नहीं रुकेगा; विलायक हटाने या क्रिस्टल बनाने की जरूरत है।"
+      ],
+      "en": [
+        "Incorrect—Add more sand is not suitable here; Dissolved salt will not remain on the filter; remove the solvent or form crystals.",
+        "Correct—Dissolved salt will not remain on the filter; remove the solvent or form crystals.",
+        "Incorrect—Use a magnet is not suitable here; Dissolved salt will not remain on the filter; remove the solvent or form crystals.",
+        "Incorrect—Use a larger sieve is not suitable here; Dissolved salt will not remain on the filter; remove the solvent or form crystals."
+      ]
     }
   },
   {
@@ -1852,55 +2146,83 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: निस्यंदन के बाद फिल्टर पर बचा ठोस पदार्थ क्या कहलाता है?",
-      "en": "In the context of chemistry, answer: What is the solid left on the filter after filtration called?"
+      "hi": "समांगी मिश्रण का सही उदाहरण कौन-सा है?",
+      "en": "Which is a correct example of a homogeneous mixture?"
     },
     "options": {
       "hi": [
-        "निस्यंद",
-        "विलायक",
-        "विलेय",
-        "अवशेष"
+        "तेल-पानी की परतें",
+        "रेत और लोहे की बुरादे",
+        "पानी में पूरी तरह घुला नमक",
+        "मिट्टी मिला पानी"
       ],
       "en": [
-        "Filtrate",
-        "Solvent",
-        "Solute",
-        "Residue"
+        "Oil and water layers",
+        "Sand and iron filings",
+        "Salt completely dissolved in water",
+        "Muddy water"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "नमक का घोल पूरे नमूने में समान होता है।",
+      "en": "A salt solution is uniform throughout the sample."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—तेल-पानी की परतें इस प्रश्न में सही नहीं है; नमक का घोल पूरे नमूने में समान होता है।",
+        "गलत—रेत और लोहे की बुरादे इस प्रश्न में सही नहीं है; नमक का घोल पूरे नमूने में समान होता है।",
+        "सही—नमक का घोल पूरे नमूने में समान होता है।",
+        "गलत—मिट्टी मिला पानी इस प्रश्न में सही नहीं है; नमक का घोल पूरे नमूने में समान होता है।"
+      ],
+      "en": [
+        "Incorrect—Oil and water layers is not suitable here; A salt solution is uniform throughout the sample.",
+        "Incorrect—Sand and iron filings is not suitable here; A salt solution is uniform throughout the sample.",
+        "Correct—A salt solution is uniform throughout the sample.",
+        "Incorrect—Muddy water is not suitable here; A salt solution is uniform throughout the sample."
+      ]
     }
   },
   {
     "id": "c03q053",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": {
-      "hi": "अभ्यास प्रश्न: निस्यंदन के बाद फिल्टर पर बचा ठोस पदार्थ क्या कहलाता है?",
-      "en": "Practice question: What is the solid left on the filter after filtration called?"
+      "hi": "विषमांगी मिश्रण का सबसे अच्छा संकेत क्या है?",
+      "en": "What is the best indication of a heterogeneous mixture?"
     },
     "options": {
       "hi": [
-        "अवशेष",
-        "निस्यंद",
-        "विलायक",
-        "विलेय"
+        "हर जगह समान संरचना",
+        "केवल एक प्रकार के कण",
+        "हमेशा रंगहीन होना",
+        "अलग-अलग भागों में असमान संरचना"
       ],
       "en": [
-        "Residue",
-        "Filtrate",
-        "Solvent",
-        "Solute"
+        "Uniform composition everywhere",
+        "Only one kind of particle",
+        "Always colourless",
+        "Non-uniform composition in different parts"
       ]
     },
-    "correct": 0,
+    "correct": 3,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "विषमांगी मिश्रण के अलग भागों या चरणों की संरचना अलग हो सकती है।",
+      "en": "Different parts or phases of a heterogeneous mixture can have different compositions."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—हर जगह समान संरचना इस प्रश्न में सही नहीं है; विषमांगी मिश्रण के अलग भागों या चरणों की संरचना अलग हो सकती है।",
+        "गलत—केवल एक प्रकार के कण इस प्रश्न में सही नहीं है; विषमांगी मिश्रण के अलग भागों या चरणों की संरचना अलग हो सकती है।",
+        "गलत—हमेशा रंगहीन होना इस प्रश्न में सही नहीं है; विषमांगी मिश्रण के अलग भागों या चरणों की संरचना अलग हो सकती है।",
+        "सही—विषमांगी मिश्रण के अलग भागों या चरणों की संरचना अलग हो सकती है।"
+      ],
+      "en": [
+        "Incorrect—Uniform composition everywhere is not suitable here; Different parts or phases of a heterogeneous mixture can have different compositions.",
+        "Incorrect—Only one kind of particle is not suitable here; Different parts or phases of a heterogeneous mixture can have different compositions.",
+        "Incorrect—Always colourless is not suitable here; Different parts or phases of a heterogeneous mixture can have different compositions.",
+        "Correct—Different parts or phases of a heterogeneous mixture can have different compositions."
+      ]
     }
   },
   {
@@ -1908,27 +2230,41 @@
     "topic": "separation-and-mixtures",
     "difficulty": "hard",
     "question": {
-      "hi": "परीक्षा में पूछा जाए कि निस्यंदन के बाद फिल्टर पर बचा ठोस पदार्थ क्या कहलाता है?",
-      "en": "If asked in an exam: What is the solid left on the filter after filtration called?"
+      "hi": "एक रंग क्रोमैटोग्राफी में दो अलग धब्बों में बँट जाए, तो उचित निष्कर्ष क्या है?",
+      "en": "If one colour separates into two spots in chromatography, what is a reasonable conclusion?"
     },
     "options": {
       "hi": [
-        "विलेय",
-        "अवशेष",
-        "निस्यंद",
-        "विलायक"
+        "नमूने में दो या अधिक अलग व्यवहार करने वाले घटक हो सकते हैं",
+        "नमूना निश्चित रूप से शुद्ध है",
+        "कागज ने नया पदार्थ बनाया",
+        "सभी घटक समान गति से चलते हैं"
       ],
       "en": [
-        "Solute",
-        "Residue",
-        "Filtrate",
-        "Solvent"
+        "The sample may contain two or more components behaving differently",
+        "The sample is definitely pure",
+        "The paper created a new substance",
+        "All components travel at the same rate"
       ]
     },
-    "correct": 1,
+    "correct": 0,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "अलग धब्बे अलग गतिशीलता वाले घटकों का संकेत हैं; निष्कर्ष प्रयोग की स्थितियों पर निर्भर करता है।",
+      "en": "Separate spots indicate components with different mobility; interpretation depends on experimental conditions."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—अलग धब्बे अलग गतिशीलता वाले घटकों का संकेत हैं; निष्कर्ष प्रयोग की स्थितियों पर निर्भर करता है।",
+        "गलत—नमूना निश्चित रूप से शुद्ध है इस प्रश्न में सही नहीं है; अलग धब्बे अलग गतिशीलता वाले घटकों का संकेत हैं; निष्कर्ष प्रयोग की स्थितियों पर निर्भर करता है।",
+        "गलत—कागज ने नया पदार्थ बनाया इस प्रश्न में सही नहीं है; अलग धब्बे अलग गतिशीलता वाले घटकों का संकेत हैं; निष्कर्ष प्रयोग की स्थितियों पर निर्भर करता है।",
+        "गलत—सभी घटक समान गति से चलते हैं इस प्रश्न में सही नहीं है; अलग धब्बे अलग गतिशीलता वाले घटकों का संकेत हैं; निष्कर्ष प्रयोग की स्थितियों पर निर्भर करता है।"
+      ],
+      "en": [
+        "Correct—Separate spots indicate components with different mobility; interpretation depends on experimental conditions.",
+        "Incorrect—The sample is definitely pure is not suitable here; Separate spots indicate components with different mobility; interpretation depends on experimental conditions.",
+        "Incorrect—The paper created a new substance is not suitable here; Separate spots indicate components with different mobility; interpretation depends on experimental conditions.",
+        "Incorrect—All components travel at the same rate is not suitable here; Separate spots indicate components with different mobility; interpretation depends on experimental conditions."
+      ]
     }
   },
   {
@@ -1936,55 +2272,83 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "निम्नलिखित में से सही उत्तर चुनिए: निस्यंदन के बाद फिल्टर से होकर गुजरने वाला द्रव क्या कहलाता है?",
-      "en": "Choose the correct answer: What is the liquid that passes through the filter called?"
+      "hi": "दूध को मिश्रण क्यों माना जाता है?",
+      "en": "Why is milk considered a mixture?"
     },
     "options": {
       "hi": [
-        "विलेय",
-        "तलछट",
-        "निस्यंद",
-        "अवशेष"
+        "इसका कोई भौतिक गुण नहीं",
+        "इसमें पानी, वसा और अन्य घटक मौजूद हैं",
+        "इसमें केवल एक ही कण होता है",
+        "इसे किसी भी तरह अलग नहीं किया जा सकता"
       ],
       "en": [
-        "Solute",
-        "Sediment",
-        "Filtrate",
-        "Residue"
+        "It has no physical properties",
+        "It contains water, fat and other components",
+        "It contains only one particle",
+        "It cannot be separated in any way"
       ]
     },
-    "correct": 2,
+    "correct": 1,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "दूध में कई घटक फैले रहते हैं; यह एक शुद्ध तत्व या एकल यौगिक नहीं है।",
+      "en": "Milk contains several components and is not a pure element or single compound."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—इसका कोई भौतिक गुण नहीं इस प्रश्न में सही नहीं है; दूध में कई घटक फैले रहते हैं; यह एक शुद्ध तत्व या एकल यौगिक नहीं है।",
+        "सही—दूध में कई घटक फैले रहते हैं; यह एक शुद्ध तत्व या एकल यौगिक नहीं है।",
+        "गलत—इसमें केवल एक ही कण होता है इस प्रश्न में सही नहीं है; दूध में कई घटक फैले रहते हैं; यह एक शुद्ध तत्व या एकल यौगिक नहीं है।",
+        "गलत—इसे किसी भी तरह अलग नहीं किया जा सकता इस प्रश्न में सही नहीं है; दूध में कई घटक फैले रहते हैं; यह एक शुद्ध तत्व या एकल यौगिक नहीं है।"
+      ],
+      "en": [
+        "Incorrect—It has no physical properties is not suitable here; Milk contains several components and is not a pure element or single compound.",
+        "Correct—Milk contains several components and is not a pure element or single compound.",
+        "Incorrect—It contains only one particle is not suitable here; Milk contains several components and is not a pure element or single compound.",
+        "Incorrect—It cannot be separated in any way is not suitable here; Milk contains several components and is not a pure element or single compound."
+      ]
     }
   },
   {
     "id": "c03q056",
     "topic": "separation-and-mixtures",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question": {
-      "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: निस्यंदन के बाद फिल्टर से होकर गुजरने वाला द्रव क्या कहलाता है?",
-      "en": "In the context of chemistry, answer: What is the liquid that passes through the filter called?"
+      "hi": "मिश्रण में चुंबकीय धातु, रेत और पानी हों, तो कौन-सा क्रम उपयुक्त है?",
+      "en": "For a mixture of magnetic metal, sand and water, which sequence is suitable?"
     },
     "options": {
       "hi": [
-        "अवशेष",
-        "विलेय",
-        "तलछट",
-        "निस्यंद"
+        "पहले क्रिस्टलीकरण, फिर हस्तचयन",
+        "पहले वाष्पीकरण, फिर पृथक्करण कीप",
+        "पहले चुंबक से धातु हटाएँ, फिर छानें",
+        "पहले संघनन, फिर चालनीकरण"
       ],
       "en": [
-        "Residue",
-        "Solute",
-        "Sediment",
-        "Filtrate"
+        "Crystallise, then handpick",
+        "Evaporate, then use a separating funnel",
+        "Remove metal with a magnet, then filter",
+        "Condense, then sieve"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "चुंबक धातु हटाता है; निस्यंदन रेत रोककर पानी को गुजरने देता है।",
+      "en": "A magnet removes the metal; filtration retains sand while water passes through."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—पहले क्रिस्टलीकरण, फिर हस्तचयन इस प्रश्न में सही नहीं है; चुंबक धातु हटाता है; निस्यंदन रेत रोककर पानी को गुजरने देता है।",
+        "गलत—पहले वाष्पीकरण, फिर पृथक्करण कीप इस प्रश्न में सही नहीं है; चुंबक धातु हटाता है; निस्यंदन रेत रोककर पानी को गुजरने देता है।",
+        "सही—चुंबक धातु हटाता है; निस्यंदन रेत रोककर पानी को गुजरने देता है।",
+        "गलत—पहले संघनन, फिर चालनीकरण इस प्रश्न में सही नहीं है; चुंबक धातु हटाता है; निस्यंदन रेत रोककर पानी को गुजरने देता है।"
+      ],
+      "en": [
+        "Incorrect—Crystallise, then handpick is not suitable here; A magnet removes the metal; filtration retains sand while water passes through.",
+        "Incorrect—Evaporate, then use a separating funnel is not suitable here; A magnet removes the metal; filtration retains sand while water passes through.",
+        "Correct—A magnet removes the metal; filtration retains sand while water passes through.",
+        "Incorrect—Condense, then sieve is not suitable here; A magnet removes the metal; filtration retains sand while water passes through."
+      ]
     }
   },
   {
@@ -1992,83 +2356,125 @@
     "topic": "separation-and-mixtures",
     "difficulty": "hard",
     "question": {
-      "hi": "अभ्यास प्रश्न: निस्यंदन के बाद फिल्टर से होकर गुजरने वाला द्रव क्या कहलाता है?",
-      "en": "Practice question: What is the liquid that passes through the filter called?"
+      "hi": "पृथक्करण विधि चुनने से पहले कौन-सी बात जाँचना सबसे उपयोगी है?",
+      "en": "What is most useful to check before choosing a separation method?"
     },
     "options": {
       "hi": [
-        "निस्यंद",
-        "अवशेष",
-        "विलेय",
-        "तलछट"
+        "पात्र का रंग",
+        "घटकों के भौतिक गुण और घुलनशीलता",
+        "विकल्पों की लंबाई",
+        "मिश्रण के नाम में अक्षरों की संख्या"
       ],
       "en": [
-        "Filtrate",
-        "Residue",
-        "Solute",
-        "Sediment"
+        "Container colour",
+        "Physical properties and solubility of components",
+        "Length of options",
+        "Number of letters in the mixture's name"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "घुलनशीलता, आकार, घनत्व, चुंबकत्व और क्वथनांक सही विधि चुनने में मदद करते हैं।",
+      "en": "Solubility, size, density, magnetism and boiling points help determine the right method."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—पात्र का रंग इस प्रश्न में सही नहीं है; घुलनशीलता, आकार, घनत्व, चुंबकत्व और क्वथनांक सही विधि चुनने में मदद करते हैं।",
+        "सही—घुलनशीलता, आकार, घनत्व, चुंबकत्व और क्वथनांक सही विधि चुनने में मदद करते हैं।",
+        "गलत—विकल्पों की लंबाई इस प्रश्न में सही नहीं है; घुलनशीलता, आकार, घनत्व, चुंबकत्व और क्वथनांक सही विधि चुनने में मदद करते हैं।",
+        "गलत—मिश्रण के नाम में अक्षरों की संख्या इस प्रश्न में सही नहीं है; घुलनशीलता, आकार, घनत्व, चुंबकत्व और क्वथनांक सही विधि चुनने में मदद करते हैं।"
+      ],
+      "en": [
+        "Incorrect—Container colour is not suitable here; Solubility, size, density, magnetism and boiling points help determine the right method.",
+        "Correct—Solubility, size, density, magnetism and boiling points help determine the right method.",
+        "Incorrect—Length of options is not suitable here; Solubility, size, density, magnetism and boiling points help determine the right method.",
+        "Incorrect—Number of letters in the mixture's name is not suitable here; Solubility, size, density, magnetism and boiling points help determine the right method."
+      ]
     }
   },
   {
     "id": "c03q058",
     "topic": "separation-and-mixtures",
-    "difficulty": "hard",
+    "difficulty": "medium",
     "question": {
-      "hi": "परीक्षा में पूछा जाए कि निस्यंदन के बाद फिल्टर से होकर गुजरने वाला द्रव क्या कहलाता है?",
-      "en": "If asked in an exam: What is the liquid that passes through the filter called?"
+      "hi": "यदि लक्ष्य घुले ठोस के बजाय विलायक वापस पाना है, तो किस विधि को चुनना चाहिए?",
+      "en": "If the goal is to recover the solvent rather than the dissolved solid, which method should be chosen?"
     },
     "options": {
       "hi": [
-        "तलछट",
-        "निस्यंद",
-        "अवशेष",
-        "विलेय"
+        "केवल वाष्पीकरण",
+        "हस्तचयन",
+        "चालनीकरण",
+        "आसवन"
       ],
       "en": [
-        "Sediment",
-        "Filtrate",
-        "Residue",
-        "Solute"
+        "Evaporation only",
+        "Handpicking",
+        "Sieving",
+        "Distillation"
       ]
     },
-    "correct": 1,
+    "correct": 3,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "आसवन में वाष्प को संघनित करके विलायक वापस एकत्र किया जा सकता है।",
+      "en": "Distillation condenses the vapour so the solvent can be collected."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—केवल वाष्पीकरण इस प्रश्न में सही नहीं है; आसवन में वाष्प को संघनित करके विलायक वापस एकत्र किया जा सकता है।",
+        "गलत—हस्तचयन इस प्रश्न में सही नहीं है; आसवन में वाष्प को संघनित करके विलायक वापस एकत्र किया जा सकता है।",
+        "गलत—चालनीकरण इस प्रश्न में सही नहीं है; आसवन में वाष्प को संघनित करके विलायक वापस एकत्र किया जा सकता है।",
+        "सही—आसवन में वाष्प को संघनित करके विलायक वापस एकत्र किया जा सकता है।"
+      ],
+      "en": [
+        "Incorrect—Evaporation only is not suitable here; Distillation condenses the vapour so the solvent can be collected.",
+        "Incorrect—Handpicking is not suitable here; Distillation condenses the vapour so the solvent can be collected.",
+        "Incorrect—Sieving is not suitable here; Distillation condenses the vapour so the solvent can be collected.",
+        "Correct—Distillation condenses the vapour so the solvent can be collected."
+      ]
     }
   },
   {
     "id": "c03q059",
     "topic": "separation-and-mixtures",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "question": {
-      "hi": "निम्नलिखित में से सही उत्तर चुनिए: तेल और पानी जैसे अमिश्रणीय द्रवों को अलग करने के लिए कौन-सा उपकरण उपयोगी है?",
-      "en": "Choose the correct answer: Which apparatus is useful for separating immiscible liquids such as oil and water?"
+      "hi": "किस स्थिति में वाष्पीकरण अकेले पर्याप्त नहीं है, यदि दोनों घटक वापस चाहिए?",
+      "en": "When is evaporation alone insufficient if both components must be recovered?"
     },
     "options": {
       "hi": [
-        "क्रूसिबल",
-        "घड़ी कांच",
-        "पृथक्करण कीप",
-        "फिल्टर पेपर"
+        "नमक के घोल से पानी और नमक दोनों पाने हों",
+        "केवल रेत छाननी हो",
+        "कंकड़ हाथ से चुनने हों",
+        "लोहे को चुंबक से हटाना हो"
       ],
       "en": [
-        "Crucible",
-        "Watch glass",
-        "Separating funnel",
-        "Filter paper"
+        "Both water and salt must be recovered from salt solution",
+        "Only sand must be filtered",
+        "Pebbles must be handpicked",
+        "Iron must be removed with a magnet"
       ]
     },
-    "correct": 2,
+    "correct": 0,
     "explanation": {
-      "hi": "अमिश्रणीय द्रव अलग परतें बनाते हैं; पृथक्करण कीप से निचली, अधिक घनी परत पहले निकाली जा सकती है।",
-      "en": "Immiscible liquids form separate layers; a separating funnel drains the denser lower layer first."
+      "hi": "वाष्पीकरण में पानी उड़ जाता है; दोनों पाने के लिए पानी की भाप को संघनित कर एकत्र करना होगा।",
+      "en": "Evaporation lets water escape; recovering both requires condensing and collecting the water vapour."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—वाष्पीकरण में पानी उड़ जाता है; दोनों पाने के लिए पानी की भाप को संघनित कर एकत्र करना होगा।",
+        "गलत—केवल रेत छाननी हो इस प्रश्न में सही नहीं है; वाष्पीकरण में पानी उड़ जाता है; दोनों पाने के लिए पानी की भाप को संघनित कर एकत्र करना होगा।",
+        "गलत—कंकड़ हाथ से चुनने हों इस प्रश्न में सही नहीं है; वाष्पीकरण में पानी उड़ जाता है; दोनों पाने के लिए पानी की भाप को संघनित कर एकत्र करना होगा।",
+        "गलत—लोहे को चुंबक से हटाना हो इस प्रश्न में सही नहीं है; वाष्पीकरण में पानी उड़ जाता है; दोनों पाने के लिए पानी की भाप को संघनित कर एकत्र करना होगा।"
+      ],
+      "en": [
+        "Correct—Evaporation lets water escape; recovering both requires condensing and collecting the water vapour.",
+        "Incorrect—Only sand must be filtered is not suitable here; Evaporation lets water escape; recovering both requires condensing and collecting the water vapour.",
+        "Incorrect—Pebbles must be handpicked is not suitable here; Evaporation lets water escape; recovering both requires condensing and collecting the water vapour.",
+        "Incorrect—Iron must be removed with a magnet is not suitable here; Evaporation lets water escape; recovering both requires condensing and collecting the water vapour."
+      ]
     }
   },
   {
@@ -2076,27 +2482,41 @@
     "topic": "separation-and-mixtures",
     "difficulty": "medium",
     "question": {
-      "hi": "परमाणु एवं रसायन विज्ञान के संदर्भ में बताइए: तेल और पानी जैसे अमिश्रणीय द्रवों को अलग करने के लिए कौन-सा उपकरण उपयोगी है?",
-      "en": "In the context of chemistry, answer: Which apparatus is useful for separating immiscible liquids such as oil and water?"
+      "hi": "हस्तचयन सबसे उपयोगी कब होता है?",
+      "en": "When is handpicking most useful?"
     },
     "options": {
       "hi": [
-        "फिल्टर पेपर",
-        "क्रूसिबल",
-        "घड़ी कांच",
-        "पृथक्करण कीप"
+        "जब सभी घटक घुले हों",
+        "जब अवांछित कण स्पष्ट दिखें और अलग किए जा सकें",
+        "जब द्रवों के क्वथनांक समान हों",
+        "जब रंगहीन गैसें मिली हों"
       ],
       "en": [
-        "Filter paper",
-        "Crucible",
-        "Watch glass",
-        "Separating funnel"
+        "When all components are dissolved",
+        "When unwanted particles are visible and can be picked out",
+        "When liquids have identical boiling points",
+        "When colourless gases are mixed"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "hi": "अमिश्रणीय द्रव अलग परतें बनाते हैं; पृथक्करण कीप से निचली, अधिक घनी परत पहले निकाली जा सकती है।",
-      "en": "Immiscible liquids form separate layers; a separating funnel drains the denser lower layer first."
+      "hi": "हस्तचयन के लिए अलग करने वाले कण दिखाई देने और हाथ से उठाए जा सकने चाहिए।",
+      "en": "Handpicking works when the particles to remove are visible and can be picked out."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—जब सभी घटक घुले हों इस प्रश्न में सही नहीं है; हस्तचयन के लिए अलग करने वाले कण दिखाई देने और हाथ से उठाए जा सकने चाहिए।",
+        "सही—हस्तचयन के लिए अलग करने वाले कण दिखाई देने और हाथ से उठाए जा सकने चाहिए।",
+        "गलत—जब द्रवों के क्वथनांक समान हों इस प्रश्न में सही नहीं है; हस्तचयन के लिए अलग करने वाले कण दिखाई देने और हाथ से उठाए जा सकने चाहिए।",
+        "गलत—जब रंगहीन गैसें मिली हों इस प्रश्न में सही नहीं है; हस्तचयन के लिए अलग करने वाले कण दिखाई देने और हाथ से उठाए जा सकने चाहिए।"
+      ],
+      "en": [
+        "Incorrect—When all components are dissolved is not suitable here; Handpicking works when the particles to remove are visible and can be picked out.",
+        "Correct—Handpicking works when the particles to remove are visible and can be picked out.",
+        "Incorrect—When liquids have identical boiling points is not suitable here; Handpicking works when the particles to remove are visible and can be picked out.",
+        "Incorrect—When colourless gases are mixed is not suitable here; Handpicking works when the particles to remove are visible and can be picked out."
+      ]
     }
   },
   {
