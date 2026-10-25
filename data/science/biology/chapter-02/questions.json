@@ -275,8 +275,8 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "प्रश्न “कुत्ते किसे जन्म देते हैं” में “पिल्ले” सही है क्योंकि यह संबंधित जैविक संरचना या प्रक्रिया के कार्य से मेल खाता है। “बछड़े और बिलौटे” अलग कार्य या अवधारणाएँ बताते हैं, इसलिए वे इस प्रश्न का सही उत्तर नहीं हैं।",
-      "en": "For “What do dogs give birth to,” “Puppies” matches the function of the relevant biological structure or process. “Calves and Kittens” describe different functions or concepts, so they do not answer this question."
+      "hi": "कुत्ते स्तनधारी हैं। मादा कुत्ता गर्भावधि के बाद पिल्लों को जन्म देती है; पिल्ला कुत्ते के बच्चे को कहते हैं।",
+      "en": "Dogs are mammals. After pregnancy, a female dog gives birth to puppies; a puppy is a young dog."
     }
   },
   {
@@ -359,8 +359,8 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "प्रश्न “मनुष्य किसे जन्म देते हैं” में “शिशु” सही है क्योंकि यह संबंधित जैविक संरचना या प्रक्रिया के कार्य से मेल खाता है। “बिलौटे और पिल्ले” अलग कार्य या अवधारणाएँ बताते हैं, इसलिए वे इस प्रश्न का सही उत्तर नहीं हैं।",
-      "en": "For “What do humans give birth to,” “Babies” matches the function of the relevant biological structure or process. “Kittens and Puppies” describe different functions or concepts, so they do not answer this question."
+      "hi": "मनुष्य स्तनधारी हैं। सामान्य प्रजनन में गर्भावस्था के बाद मनुष्य शिशु को जन्म देते हैं।",
+      "en": "Humans are mammals. In typical reproduction, a human gives birth to a baby after pregnancy."
     }
   },
   {
@@ -1563,8 +1563,8 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "प्रश्न “मुकुलन (budding) किस जीव में होता है” में “यीस्ट” सही है क्योंकि यह संबंधित जैविक संरचना या प्रक्रिया के कार्य से मेल खाता है। “मनुष्य और गाय” अलग कार्य या अवधारणाएँ बताते हैं, इसलिए वे इस प्रश्न का सही उत्तर नहीं हैं।",
-      "en": "For “Budding occurs in which organism,” “Yeast” matches the function of the relevant biological structure or process. “Human and Cow” describe different functions or concepts, so they do not answer this question."
+      "hi": "यीस्ट में मुकुलन द्वारा अलैंगिक जनन होता है। मूल कोशिका की सतह पर छोटा उभार बनता है, बढ़ता है और अलग होकर नई कोशिका बन सकता है।",
+      "en": "Yeast can reproduce asexually by budding. A small outgrowth forms on the parent cell, grows, and may separate to become a new cell."
     }
   },
   {
@@ -1591,8 +1591,8 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "प्रश्न “हाइड्रा किस विधि से जनन करता है” में “मुकुलन” सही है क्योंकि यह संबंधित जैविक संरचना या प्रक्रिया के कार्य से मेल खाता है। “बीज निर्माण और परागण” अलग कार्य या अवधारणाएँ बताते हैं, इसलिए वे इस प्रश्न का सही उत्तर नहीं हैं।",
-      "en": "For “Hydra reproduces by which method,” “Budding” matches the function of the relevant biological structure or process. “Seed formation and Pollination” describe different functions or concepts, so they do not answer this question."
+      "hi": "हाइड्रा में अनुकूल परिस्थितियों में मुकुलन होता है। शरीर पर एक छोटा उभार बनता है, विकसित होता है और अलग होकर नया हाइड्रा बन सकता है।",
+      "en": "Under favourable conditions, Hydra reproduces by budding. A small outgrowth develops on its body and can detach to form a new Hydra."
     }
   },
   {
@@ -3467,8 +3467,8 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "प्रश्न “युग्मकों का निर्माण किस विभाजन से होता है” में “अर्धसूत्री विभाजन” सही है क्योंकि यह संबंधित जैविक संरचना या प्रक्रिया के कार्य से मेल खाता है। “समसूत्री विभाजन और केवल संलयन” अलग कार्य या अवधारणाएँ बताते हैं, इसलिए वे इस प्रश्न का सही उत्तर नहीं हैं।",
-      "en": "For “Gametes are formed by which division,” “Meiosis” matches the function of the relevant biological structure or process. “Mitosis and Only fusion” describe different functions or concepts, so they do not answer this question."
+      "hi": "मनुष्य में अर्धसूत्री विभाजन के दौरान गुणसूत्रों की संख्या आधी हो जाती है और अगुणित शुक्राणु या अंडाणु बनते हैं। निषेचन पर इनके केंद्रक मिलकर द्विगुणित गुणसूत्र संख्या बहाल करते हैं।",
+      "en": "In humans, meiosis halves the chromosome number and produces haploid sperm or eggs. At fertilization, their nuclei combine and restore the diploid chromosome number."
     }
   },
   {
