@@ -617,7 +617,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "निम्न में से कौन प्रोकैरियोटिक जीव का उदाहरण है?",
-      "en": "What is a key feature of a prokaryotic cell? 3"
+      "en": "Which of the following is an example of a prokaryotic organism?"
     },
     "options": {
       "hi": [
@@ -627,16 +627,16 @@
         "अमीबा"
       ],
       "en": [
-        "Amoeba",
-        "Human cell",
-        "Plant cell",
-        "Bacteria"
+        "Human",
+        "Bacterium",
+        "Yeast",
+        "Amoeba"
       ]
     },
     "correct": 1,
     "explanation": {
       "hi": "जीवाणु प्रोकैरियोटिक जीव हैं। उनकी कोशिका में झिल्ली-बद्ध केंद्रक नहीं होता, जबकि अमीबा, मानव और यीस्ट यूकैरियोटिक हैं।",
-      "en": "For “What is a key feature of a prokaryotic cell? 3,” “Human cell” matches the function of the relevant biological structure or process. “Amoeba and Plant cell” describe different functions or concepts, so they do not answer this question."
+      "en": "Bacteria are prokaryotes: their cells lack a membrane-bound nucleus. Amoeba, humans, and yeast are eukaryotes."
     },
     "optionExplanations": {
       "hi": [
@@ -653,7 +653,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "प्रोकैरियोटिक कोशिका में DNA मुख्यतः किस क्षेत्र में पाया जाता है?",
-      "en": "Which of the following should be considered the correct answer? 4"
+      "en": "In a prokaryotic cell, where is DNA mainly located?"
     },
     "options": {
       "hi": [
@@ -663,16 +663,16 @@
         "माइटोकॉन्ड्रिया के भीतर"
       ],
       "en": [
-        "A cell having a nucleoid",
-        "Bacteria",
-        "Acellular structure",
-        "Human cell"
+        "Inside the Golgi apparatus",
+        "Inside the nuclear membrane",
+        "In the nucleoid region",
+        "Inside the mitochondrion"
       ]
     },
     "correct": 2,
     "explanation": {
       "hi": "प्रोकैरियोट में DNA न्यूक्लियॉइड क्षेत्र में रहता है। यह क्षेत्र झिल्ली से घिरे केंद्रक की तरह अलग नहीं होता।",
-      "en": "For “Which of the following should be considered the correct answer? 4,” “Acellular structure” matches the function of the relevant biological structure or process. “A cell having a nucleoid and Bacteria” describe different functions or concepts, so they do not answer this question."
+      "en": "In prokaryotes, DNA is located mainly in the nucleoid region, which is not enclosed by a nuclear membrane."
     },
     "optionExplanations": {
       "hi": [
@@ -725,7 +725,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "प्रोकैरियोटिक कोशिका के बारे में कौन-सा कथन सही है?",
-      "en": "Which of the following should be considered the correct answer? 6"
+      "en": "Which statement about a prokaryotic cell is correct?"
     },
     "options": {
       "hi": [
@@ -735,16 +735,16 @@
         "उसमें कोशिका झिल्ली नहीं होती"
       ],
       "en": [
-        "Membrane-bound nucleus",
-        "Golgi apparatus",
-        "Ribosome",
-        "Chloroplast"
+        "It lacks a membrane-bound, well-defined nucleus",
+        "It has no ribosomes",
+        "It has no DNA",
+        "It has no cell membrane"
       ]
     },
     "correct": 0,
     "explanation": {
       "hi": "प्रोकैरियोटिक कोशिकाओं में DNA और राइबोसोम होते हैं, लेकिन झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता।",
-      "en": "For “Which of the following should be considered the correct answer? 6,” “Membrane-bound nucleus” matches the function of the relevant biological structure or process. “Golgi apparatus and Ribosome” describe different functions or concepts, so they do not answer this question."
+      "en": "Prokaryotic cells contain DNA and ribosomes but do not have a well-defined nucleus enclosed by a membrane."
     },
     "optionExplanations": {
       "hi": [
@@ -833,7 +833,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "राइबोसोम का मुख्य कार्य क्या है?",
-      "en": "What is a key feature of a prokaryotic cell? 9"
+      "en": "What is the main function of ribosomes?"
     },
     "options": {
       "hi": [
@@ -843,16 +843,16 @@
         "प्रोटीन संश्लेषण"
       ],
       "en": [
-        "Ribosomes in both prokaryotic and eukaryotic cells",
-        "DNA only in prokaryotes",
-        "Both have a membrane-bound nucleus",
-        "Nucleus only in eukaryotes"
+        "Photosynthesis",
+        "Providing a rigid outer layer to the cell",
+        "Enclosing DNA inside a nucleus",
+        "Protein synthesis"
       ]
     },
     "correct": 3,
     "explanation": {
       "hi": "राइबोसोम अमीनो अम्लों को जोड़कर प्रोटीन बनाते हैं। ये प्रोकैरियोटिक और यूकैरियोटिक दोनों कोशिकाओं में पाए जाते हैं।",
-      "en": "For “What is a key feature of a prokaryotic cell? 9,” “Nucleus only in eukaryotes” matches the function of the relevant biological structure or process. “Ribosomes in both prokaryotic and eukaryotic cells and DNA only in prokaryotes” describe different functions or concepts, so they do not answer this question."
+      "en": "Ribosomes link amino acids to make proteins. They are found in both prokaryotic and eukaryotic cells."
     },
     "optionExplanations": {
       "hi": [
@@ -977,7 +977,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "माइटोकॉन्ड्रिया का मुख्य संबंध किससे है?",
-      "en": "What is a key feature of a prokaryotic cell? 13"
+      "en": "What is the main role of mitochondria?"
     },
     "options": {
       "hi": [
@@ -987,16 +987,16 @@
         "कोशिकीय श्वसन और ATP उत्पादन"
       ],
       "en": [
-        "Human cell",
-        "Bacteria",
-        "Amoeba",
-        "Plant cell"
+        "Capturing light with chlorophyll",
+        "Protein synthesis",
+        "Building the cell's outer wall",
+        "Cellular respiration and ATP production"
       ]
     },
     "correct": 3,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ होती हैं, जिनसे ATP के रूप में उपयोगी ऊर्जा मिलती है।",
-      "en": "For “What is a key feature of a prokaryotic cell? 13,” “Plant cell” matches the function of the relevant biological structure or process. “Human cell and Bacteria” describe different functions or concepts, so they do not answer this question."
+      "en": "Mitochondria are the site of important steps in cellular respiration, which supplies usable energy in the form of ATP."
     },
     "optionExplanations": {
       "hi": [
@@ -1013,7 +1013,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "पादप कोशिका में प्रकाश संश्लेषण किस कोशिकांग में होता है?",
-      "en": "Which of the following should be considered the correct answer? 14"
+      "en": "In which organelle does photosynthesis occur in plant cells?"
     },
     "options": {
       "hi": [
@@ -1023,16 +1023,16 @@
         "लाइसोसोम"
       ],
       "en": [
-        "Acellular structure",
-        "Human cell",
-        "Bacteria",
-        "A cell having a nucleoid"
+        "Chloroplast",
+        "Golgi apparatus",
+        "Ribosome",
+        "Lysosome"
       ]
     },
     "correct": 0,
     "explanation": {
       "hi": "हरितलवक में क्लोरोफिल होता है, जो प्रकाश ऊर्जा को ग्रहण कर प्रकाश संश्लेषण में मदद करता है।",
-      "en": "For “Which of the following should be considered the correct answer? 14,” “Acellular structure” matches the function of the relevant biological structure or process. “Human cell and Bacteria” describe different functions or concepts, so they do not answer this question."
+      "en": "Chloroplasts contain chlorophyll, which captures light energy and helps drive photosynthesis."
     },
     "optionExplanations": {
       "hi": [
@@ -1085,7 +1085,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "किस संरचना से पादप कोशिका को आकार और यांत्रिक सहारा मिलता है?",
-      "en": "Which of the following should be considered the correct answer? 16"
+      "en": "Which structure gives a plant cell shape and mechanical support?"
     },
     "options": {
       "hi": [
@@ -1095,16 +1095,16 @@
         "राइबोसोम"
       ],
       "en": [
+        "Nucleus",
         "Golgi apparatus",
-        "Ribosome",
-        "Membrane-bound nucleus",
-        "Chloroplast"
+        "Cell wall",
+        "Ribosome"
       ]
     },
     "correct": 2,
     "explanation": {
       "hi": "पादप कोशिका की कोशिका भित्ति मुख्यतः सेल्यूलोज से बनी होती है और उसे आकार, सहारा तथा सुरक्षा देती है।",
-      "en": "For “Which of the following should be considered the correct answer? 16,” “Membrane-bound nucleus” matches the function of the relevant biological structure or process. “Golgi apparatus and Ribosome” describe different functions or concepts, so they do not answer this question."
+      "en": "The plant cell wall, made mainly of cellulose, provides shape, mechanical support, and protection."
     },
     "optionExplanations": {
       "hi": [
@@ -1193,7 +1193,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "त्वचा की बाहरी सतह को ढकने और सुरक्षा देने वाला जंतु ऊतक कौन-सा है?",
-      "en": "What is a key feature of a prokaryotic cell? 19"
+      "en": "Which animal tissue covers and protects the body's outer surface?"
     },
     "options": {
       "hi": [
@@ -1203,16 +1203,16 @@
         "तंत्रिका ऊतक"
       ],
       "en": [
-        "Both have a membrane-bound nucleus",
-        "Nucleus only in eukaryotes",
-        "Ribosomes in both prokaryotic and eukaryotic cells",
-        "DNA only in prokaryotes"
+        "Xylem",
+        "Epithelial tissue",
+        "Muscular tissue",
+        "Nervous tissue"
       ]
     },
     "correct": 1,
     "explanation": {
       "hi": "उपकला ऊतक शरीर की बाहरी सतह को ढकता है और कई आंतरिक अंगों तथा गुहाओं की परत बनाकर सुरक्षा देता है।",
-      "en": "For “What is a key feature of a prokaryotic cell? 19,” “Nucleus only in eukaryotes” matches the function of the relevant biological structure or process. “Both have a membrane-bound nucleus and Ribosomes in both prokaryotic and eukaryotic cells” describe different functions or concepts, so they do not answer this question."
+      "en": "Epithelial tissue covers the body's external surface and lines many internal organs and cavities, helping protect them."
     },
     "optionExplanations": {
       "hi": [
@@ -2256,7 +2256,7 @@
     "correct": 2,
     "explanation": {
       "hi": "हरितलवक में क्लोरोफिल प्रकाश ऊर्जा को ग्रहण करता है और प्रकाश संश्लेषण में मदद करता है।",
-      "en": "For “Which organelle or structure is associated with this function? (8),” “Chloroplast” matches the function of the relevant biological structure or process. “Ribosome and Mitochondria” describe different functions or concepts, so they do not answer this question."
+      "en": "Chloroplasts contain chlorophyll, which captures light energy and supports photosynthesis, converting light energy into chemical energy."
     },
     "optionExplanations": {
       "hi": [
@@ -2273,7 +2273,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "परिपक्व पादप कोशिका की बड़ी केंद्रीय रिक्तिका का एक प्रमुख कार्य क्या है?",
-      "en": "Which organelle or structure is associated with this function? (9)"
+      "en": "What is one major function of the large central vacuole in a mature plant cell?"
     },
     "options": {
       "hi": [
@@ -2283,16 +2283,16 @@
         "जल और घुले पदार्थों का भंडारण तथा तुर्गता बनाए रखना"
       ],
       "en": [
-        "Golgi apparatus",
-        "Nucleus",
-        "Vacuole",
-        "Ribosome"
+        "Carrying out photosynthesis",
+        "Keeping DNA inside the nucleus",
+        "Making proteins",
+        "Storing water and dissolved substances and maintaining turgor"
       ]
     },
     "correct": 3,
     "explanation": {
       "hi": "बड़ी केंद्रीय रिक्तिका जल और घुले पदार्थों का भंडारण करती है और कोशिका की तुर्गता बनाए रखने में मदद करती है।",
-      "en": "For “Which organelle or structure is associated with this function? (9),” “Ribosome” matches the function of the relevant biological structure or process. “Golgi apparatus and Nucleus” describe different functions or concepts, so they do not answer this question."
+      "en": "The large central vacuole stores water and dissolved substances and helps maintain cell turgor."
     },
     "optionExplanations": {
       "hi": [
@@ -2597,7 +2597,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "हरितलवक और माइटोकॉन्ड्रिया के कार्यों में सही अंतर कौन-सा है?",
-      "en": "Which organelle has this main function? (18)"
+      "en": "Which statement correctly distinguishes the functions of chloroplasts and mitochondria?"
     },
     "options": {
       "hi": [
@@ -2607,16 +2607,16 @@
         "दोनों केवल प्रोटीन बनाते हैं"
       ],
       "en": [
-        "Chloroplast",
-        "Mitochondria",
-        "Lysosome",
-        "Ribosome"
+        "Chloroplasts are involved in photosynthesis, while mitochondria are involved in cellular respiration",
+        "Mitochondria occur only in plant cells",
+        "Chloroplasts are commonly found in animal cells",
+        "Both only make proteins"
       ]
     },
     "correct": 0,
     "explanation": {
       "hi": "हरितलवक प्रकाश संश्लेषण और माइटोकॉन्ड्रिया कोशिकीय श्वसन/ATP उत्पादन में प्रमुख भूमिका निभाता है।",
-      "en": "For “Which organelle has this main function? (18),” “Chloroplast” matches the function of the relevant biological structure or process. “Mitochondria and Lysosome” describe different functions or concepts, so they do not answer this question."
+      "en": "Chloroplasts carry out photosynthesis, while mitochondria play a major role in cellular respiration and ATP production."
     },
     "optionExplanations": {
       "hi": [
@@ -2633,7 +2633,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "लाइसोसोम के बारे में कौन-सा कथन सही है?",
-      "en": "Which organelle has this main function? (19)"
+      "en": "Which statement about lysosomes is correct?"
     },
     "options": {
       "hi": [
@@ -2643,16 +2643,16 @@
         "वे कोशिका को बाहरी आकार देते हैं"
       ],
       "en": [
-        "Ribosome",
-        "Golgi apparatus",
-        "Vacuole",
-        "Nucleus"
+        "They are the only sites of protein production",
+        "They contain digestive enzymes",
+        "They carry out photosynthesis",
+        "They give the cell its outer shape"
       ]
     },
     "correct": 1,
     "explanation": {
       "hi": "लाइसोसोम में पाचक एंजाइम होते हैं जो कुछ पदार्थों और पुराने कोशिकीय घटकों को तोड़ने में मदद करते हैं।",
-      "en": "For “Which organelle has this main function? (19),” “Golgi apparatus” matches the function of the relevant biological structure or process. “Ribosome and Vacuole” describe different functions or concepts, so they do not answer this question."
+      "en": "Lysosomes contain digestive enzymes that help break down substances and worn-out cellular components."
     },
     "optionExplanations": {
       "hi": [
@@ -2957,7 +2957,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "हरी पत्ती की कोशिकाओं में प्रकाश संश्लेषण किस संरचना में होता है?",
-      "en": "If this function must be identified, which organelle is correct? (28)"
+      "en": "In which structure does photosynthesis occur in the cells of green leaves?"
     },
     "options": {
       "hi": [
@@ -2968,15 +2968,15 @@
       ],
       "en": [
         "Ribosome",
-        "Mitochondria",
-        "Lysosome",
-        "Chloroplast"
+        "Mitochondrion",
+        "Chloroplast",
+        "Lysosome"
       ]
     },
     "correct": 2,
     "explanation": {
       "hi": "हरितलवक में क्लोरोफिल होता है और वहीं प्रकाश संश्लेषण की प्रमुख प्रक्रियाएँ होती हैं।",
-      "en": "For “If this function must be identified, which organelle is correct? (28),” “Lysosome” matches the function of the relevant biological structure or process. “Ribosome and Mitochondria” describe different functions or concepts, so they do not answer this question."
+      "en": "Chloroplasts contain chlorophyll and are the main site of photosynthesis in green leaf cells."
     },
     "optionExplanations": {
       "hi": [
@@ -2993,7 +2993,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "परिपक्व पादप कोशिका में बड़ी रिक्तिका कोशिका के किस गुण को बनाए रखने में मदद करती है?",
-      "en": "If this function must be identified, which organelle is correct? (29)"
+      "en": "Which property of a mature plant cell is supported by its large vacuole?"
     },
     "options": {
       "hi": [
@@ -3003,16 +3003,16 @@
         "तुर्गता और भंडारण"
       ],
       "en": [
-        "Golgi apparatus",
-        "Nucleus",
-        "Vacuole",
-        "Ribosome"
+        "Absorbing light",
+        "Copying DNA",
+        "Protein synthesis",
+        "Turgor and storage"
       ]
     },
     "correct": 3,
     "explanation": {
       "hi": "रिक्तिका में जल और घुले पदार्थ होते हैं; यह तुर्गता बनाए रखने और भंडारण में मदद करती है।",
-      "en": "For “If this function must be identified, which organelle is correct? (29),” “Ribosome” matches the function of the relevant biological structure or process. “Golgi apparatus and Nucleus” describe different functions or concepts, so they do not answer this question."
+      "en": "The vacuole stores water and dissolved substances and helps maintain turgor in a mature plant cell."
     },
     "optionExplanations": {
       "hi": [
@@ -3317,7 +3317,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "पादप कोशिका में प्रकाश संश्लेषण और जंतु कोशिका में ऊर्जा-उत्पादन के प्रमुख कोशिकांगों का सही युग्म कौन-सा है?",
-      "en": "Which organelle best matches this description? (38)"
+      "en": "Which pair correctly identifies the organelles mainly involved in photosynthesis in plant cells and energy production by cellular respiration in plant and animal cells?"
     },
     "options": {
       "hi": [
@@ -3327,16 +3327,16 @@
         "गॉल्जी उपकरण और रिक्तिका"
       ],
       "en": [
-        "Ribosome",
-        "Lysosome",
-        "Chloroplast",
-        "Mitochondria"
+        "Chloroplast and mitochondrion",
+        "Lysosome and nucleus",
+        "Ribosome and cell wall",
+        "Golgi apparatus and vacuole"
       ]
     },
     "correct": 0,
     "explanation": {
       "hi": "हरितलवक प्रकाश संश्लेषण करता है; माइटोकॉन्ड्रिया पादप और जंतु दोनों यूकैरियोटिक कोशिकाओं में कोशिकीय श्वसन में प्रमुख है।",
-      "en": "For “Which organelle best matches this description? (38),” “Ribosome” matches the function of the relevant biological structure or process. “Lysosome and Chloroplast” describe different functions or concepts, so they do not answer this question."
+      "en": "Chloroplasts carry out photosynthesis; mitochondria are central to cellular respiration in both plant and animal eukaryotic cells."
     },
     "optionExplanations": {
       "hi": [
@@ -3353,7 +3353,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "लाइसोसोम को कोशिका के पाचन तंत्र से क्यों जोड़ा जाता है?",
-      "en": "Which organelle best matches this description? (39)"
+      "en": "Why are lysosomes associated with the cell's digestive system?"
     },
     "options": {
       "hi": [
@@ -3363,16 +3363,16 @@
         "क्योंकि वे कोशिका को आकार देते हैं"
       ],
       "en": [
-        "Ribosome",
-        "Vacuole",
-        "Nucleus",
-        "Golgi apparatus"
+        "Because they make chlorophyll",
+        "Because they contain enzymes that break down substances",
+        "Because they enclose DNA",
+        "Because they give the cell its shape"
       ]
     },
     "correct": 1,
     "explanation": {
       "hi": "लाइसोसोम के एंजाइम कई पदार्थों और पुराने कोशिकीय घटकों को तोड़ने में मदद करते हैं।",
-      "en": "For “Which organelle best matches this description? (39),” “Vacuole” matches the function of the relevant biological structure or process. “Ribosome and Nucleus” describe different functions or concepts, so they do not answer this question."
+      "en": "Lysosomal enzymes help digest a range of substances and break down worn-out cellular components."
     },
     "optionExplanations": {
       "hi": [
@@ -3588,7 +3588,7 @@
     "correct": 3,
     "explanation": {
       "hi": "पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है।",
-      "en": "For “Movement in the body is mainly produced by the contraction of:,” “Muscular tissue” matches the function of the relevant biological structure or process. “Epithelial tissue and Connective tissue” describe different functions or concepts, so they do not answer this question."
+      "en": "Muscular tissue contracts to produce movement. Skeletal muscles move body parts, while smooth and cardiac muscles perform other involuntary movements."
     },
     "optionExplanations": {
       "hi": [
@@ -3624,7 +3624,7 @@
     "correct": 0,
     "explanation": {
       "hi": "तंत्रिका ऊतक विद्युत संकेतों के माध्यम से सूचना का संचालन करता है।",
-      "en": "For “Which tissue conducts information through electrical signals,” “Nervous tissue” matches the function of the relevant biological structure or process. “Muscular tissue and Connective tissue” describe different functions or concepts, so they do not answer this question."
+      "en": "Nervous tissue carries information through electrical signals and chemical communication between nerve cells."
     },
     "optionExplanations": {
       "hi": [
@@ -3732,7 +3732,7 @@
     "correct": 3,
     "explanation": {
       "hi": "संयोजी ऊतक अंगों को आपस में जोड़ता और सहारा देता है।",
-      "en": "For “Which tissue mainly functions to connect and support the organs of the body,” “Connective tissue” matches the function of the relevant biological structure or process. “Epithelial tissue and Muscular tissue” describe different functions or concepts, so they do not answer this question."
+      "en": "Connective tissue supports, binds, and connects body structures; examples include tendons, ligaments, cartilage, and bone."
     },
     "optionExplanations": {
       "hi": [
@@ -4164,7 +4164,7 @@
     "correct": 3,
     "explanation": {
       "hi": "तंत्रिका ऊतक तंत्रिका आवेगों को संचरित करता है।",
-      "en": "For “Which animal tissue type is responsible for transmitting nerve impulses,” “Nervous tissue” matches the function of the relevant biological structure or process. “Connective tissue and Epithelial tissue” describe different functions or concepts, so they do not answer this question."
+      "en": "Nervous tissue transmits nerve impulses through specialized cells called neurons."
     },
     "optionExplanations": {
       "hi": [
