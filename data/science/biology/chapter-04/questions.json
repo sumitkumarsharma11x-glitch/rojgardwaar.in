@@ -4646,6 +4646,20 @@
       "explanation": {
         "hi": "TT या tt = समयुग्मजी (एक जैसे प्रतिरूप); Tt = विषमयुग्मजी (एक प्रभावी + एक अप्रभावी)।",
         "en": "TT or tt = homozygous (alike copies); Tt = heterozygous (one dominant + one recessive)."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: विषमयुग्मजी का अर्थ एक प्रभावी और एक अप्रभावी एलील होना भी हो सकता है; वह हमेशा अप्रभावी नहीं होता।",
+          "गलत: समयुग्मजी और विषमयुग्मजी में एलीलों की समानता/भिन्नता का स्पष्ट अंतर है।",
+          "सही: समयुग्मजी में किसी जीन के दोनों एलील समान होते हैं (TT या tt); विषमयुग्मजी में वे अलग होते हैं (Tt)।",
+          "गलत: समयुग्मजी में जीन मौजूद होते हैं; केवल दोनों एलील समान होते हैं।"
+        ],
+        "en": [
+          "Incorrect. A heterozygote may have one dominant and one recessive allele; it is not always recessive.",
+          "Incorrect. Homozygous and heterozygous have a clear difference in whether the alleles match.",
+          "Correct. Homozygous means the two alleles of a gene are the same (TT or tt); heterozygous means they differ (Tt).",
+          "Incorrect. Homozygous individuals have the gene; the two alleles are simply the same."
+        ]
       }
     },
     {
@@ -4674,6 +4688,20 @@
       "explanation": {
         "hi": "प्रत्येक F1 पौधे को जनकों से T और t मिलता है — सभी Tt; T प्रभावी होने से सब लंबे दिखते हैं।",
         "en": "Every F1 plant receives T from one parent and t from the other — all Tt; with T dominant, all appear tall."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: पूर्ण प्रभाविता में TT × tt से सभी F1, Tt होंगे; आधे-आधे लक्षण नहीं।",
+          "गलत: Tt में लंबाई का मध्यवर्ती रूप नहीं दिखता, यदि T पूर्ण प्रभावी है।",
+          "गलत: सभी F1 को T एलील मिलता है, इसलिए पूर्ण प्रभाविता में वे बौने नहीं होंगे।",
+          "सही: हर F1 को एक जनक से T और दूसरे से t मिलता है; सभी Tt और लंबे होंगे।"
+        ],
+        "en": [
+          "Incorrect. With complete dominance, TT × tt produces all Tt in F1, not half-and-half phenotypes.",
+          "Incorrect. Tt does not show intermediate height when T is completely dominant.",
+          "Incorrect. Every F1 receives T from one parent, so with complete dominance they are not dwarf.",
+          "Correct. Each F1 receives T from one parent and t from the other; all are Tt and tall."
+        ]
       }
     },
     {
@@ -4702,6 +4730,20 @@
       "explanation": {
         "hi": "F2 में TT, Tt, Tt, tt बनते हैं — तीन लंबे एक बौना; अर्थात् 3 : 1 लक्षण-प्ररूप अनुपात।",
         "en": "F2 yields TT, Tt, Tt, tt — three tall to one dwarf; the 3:1 phenotypic ratio."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: चार संभावित संयोजनों में TT, Tt, Tt लंबे और tt बौना होता है, इसलिए लक्षण-प्ररूप अनुपात 3:1 है।",
+          "गलत: 9:3 अनुपात द्विलक्षणी संकरण में 9:3:3:1 जैसे अनुपात का हिस्सा हो सकता है, इस एक-लक्षणी संकरण का नहीं।",
+          "गलत: 1:1 अनुपात सामान्यतः Tt × tt जैसे संकरण में आता है, Tt × Tt में नहीं।",
+          "गलत: 2:1 इस पूर्ण प्रभाविता वाले मोनोहाइब्रिड क्रॉस का मानक लक्षण-प्ररूप अनुपात नहीं।"
+        ],
+        "en": [
+          "Correct. Of the four combinations, TT, Tt and Tt are tall while tt is dwarf, giving a 3:1 phenotypic ratio.",
+          "Incorrect. A 9:3 pattern can occur as part of a dihybrid 9:3:3:1 ratio, not this monohybrid cross.",
+          "Incorrect. A 1:1 ratio is typical of a cross such as Tt × tt, not Tt × Tt.",
+          "Incorrect. 2:1 is not the standard phenotypic ratio for this complete-dominance monohybrid cross."
+        ]
       }
     },
     {
@@ -4730,6 +4772,20 @@
       "explanation": {
         "hi": "TT : Tt : tt = 1 : 2 : 1 — यही जीन-प्ररूप अनुपात है; लक्षण-प्ररूप 3 : 1 से इसे भ्रमित न करें।",
         "en": "TT : Tt : tt = 1 : 2 : 1 — the genotypic ratio; do not confuse it with the 3:1 phenotypic ratio."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: 3:1 इस संकरण का लक्षण-प्ररूप अनुपात है; जीन-प्ररूप अनुपात अलग होता है।",
+          "सही: संभावित जीन-प्ररूप TT, Tt और tt क्रमशः 1, 2 और 1 बार आते हैं।",
+          "गलत: 9:3:3:1 द्विलक्षणी संकरण का मानक लक्षण-प्ररूप अनुपात है।",
+          "गलत: यह तीन जीन-प्ररूपों की सही गणना नहीं दर्शाता।"
+        ],
+        "en": [
+          "Incorrect. 3:1 is the phenotypic ratio; the genotypic ratio is different.",
+          "Correct. The genotypes TT, Tt and tt occur in proportions 1, 2 and 1.",
+          "Incorrect. 9:3:3:1 is the standard phenotypic ratio for a dihybrid cross under independent assortment.",
+          "Incorrect. This does not represent the counts of the three genotypes."
+        ]
       }
     },
     {
@@ -4737,8 +4793,8 @@
       "topic": "heredity-variation",
       "difficulty": "medium",
       "question": {
-        "hi": "अप्रभावी (recessive) लक्षण कब प्रकट होता है?",
-        "en": "When does a recessive trait express itself?"
+        "hi": "पूर्ण प्रभाविता वाले सरल मेंडलियन उदाहरण में अप्रभावी लक्षण कब प्रकट होता है?",
+        "en": "In a simple Mendelian example with complete dominance, when does a recessive trait appear?"
       },
       "options": {
         "hi": [
@@ -4756,8 +4812,22 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "अप्रभावी लक्षण केवल समयुग्मजी अप्रभावी अवस्था (tt) में ही दिखता है; एक T आते ही वह ढक जाता है।",
-        "en": "A recessive trait appears only in the double-recessive state (tt); a single T masks it."
+        "hi": "पूर्ण प्रभाविता में अप्रभावी लक्षण सामान्यतः तभी दिखाई देता है जब दोनों एलील अप्रभावी हों (tt)। विषमयुग्मजी Tt में T का प्रभाव दिखता है; अपूर्ण प्रभाविता या सह-प्रभाविता में पैटर्न अलग हो सकता है।",
+        "en": "With complete dominance, a recessive trait generally appears when both alleles are recessive (tt). In heterozygous Tt, T is expressed; incomplete dominance and codominance follow different patterns."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: इस सरल पूर्ण-प्रभाविता मॉडल में F1 आम तौर पर विषमयुग्मजी होता है और अप्रभावी लक्षण छिपा रहता है।",
+          "गलत: एक प्रभावी एलील होने पर इस मॉडल में अप्रभावी लक्षण सामान्यतः प्रकट नहीं होता।",
+          "सही: दोनों एलील अप्रभावी होने पर (tt) अप्रभावी लक्षण दिखाई देता है।",
+          "गलत: अप्रभावी लक्षण कभी नहीं आता, यह गलत है; वह समयुग्मजी अप्रभावी अवस्था में दिख सकता है।"
+        ],
+        "en": [
+          "Incorrect. In this simple complete-dominance model, F1 is usually heterozygous and the recessive trait is masked.",
+          "Incorrect. With one dominant allele, the recessive trait generally does not appear in this model.",
+          "Correct. The recessive trait appears when both alleles are recessive (tt).",
+          "Incorrect. Recessive traits can appear in homozygous recessive individuals."
+        ]
       }
     },
     {
@@ -4786,6 +4856,20 @@
       "explanation": {
         "hi": "चार संततियों में एक tt होता है — यानी 25% बौने; 75% लंबे।",
         "en": "One of the four offspring is tt — 25% dwarf; the other 75% are tall."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: 50% बौने होने का अनुपात इस क्रॉस में नहीं; चार में से एक tt होता है।",
+          "गलत: 75% लंबे होते हैं, बौने नहीं।",
+          "गलत: सभी पौधे बौने नहीं; TT/Tt लंबे होते हैं।",
+          "सही: चार संभावित संयोजनों में एक tt होता है, इसलिए बौने पौधों का अपेक्षित अनुपात 25% है।"
+        ],
+        "en": [
+          "Incorrect. This cross does not produce 50% dwarf; one of four combinations is tt.",
+          "Incorrect. 75% are tall, not dwarf.",
+          "Incorrect. Not all plants are dwarf; TT and Tt are tall under complete dominance.",
+          "Correct. One of the four expected combinations is tt, so the expected dwarf proportion is 25%."
+        ]
       }
     },
     {
@@ -4814,6 +4898,20 @@
       "explanation": {
         "hi": "मेंडल ने लक्षणों को संचारित करने वाली इकाइयों को कारक कहा; आज ये जीन कहलाती हैं।",
         "en": "Mendel called the units transmitting traits 'factors'; today we know them as genes."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: मेंडल के 'कारक' वे वंशागत इकाइयाँ थीं जिन्हें आज जीन कहा जाता है।",
+          "गलत: प्रोटीन जीनों के उत्पाद हो सकते हैं, लेकिन मेंडल के कारक का आधुनिक नाम प्रोटीन नहीं।",
+          "गलत: वायरस रोगजनक कण/जीववैज्ञानिक इकाइयाँ हैं, वंशागत कारकों का सामान्य नाम नहीं।",
+          "गलत: कोशिका जीव की संरचनात्मक इकाई है; जीन उससे छोटा आनुवंशिक घटक है।"
+        ],
+        "en": [
+          "Correct. Mendel's 'factors' were hereditary units now called genes.",
+          "Incorrect. Proteins can be products of genes, but 'protein' is not the modern name for Mendel's factors.",
+          "Incorrect. Viruses are biological entities, not the general name for hereditary factors.",
+          "Incorrect. A cell is a structural unit of life; a gene is a smaller genetic unit."
+        ]
       }
     },
     {
@@ -4842,6 +4940,20 @@
       "explanation": {
         "hi": "लंबाई जीन के T और t रूप युग्मविकल्पी हैं — एक ही लक्षण के दो प्रतिरूप।",
         "en": "The T and t forms of the height gene are alleles — two versions of the one trait."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: युग्मविकल्पी अलग-अलग गुणसूत्र नहीं, एक ही जीन के वैकल्पिक रूप होते हैं।",
+          "सही: किसी जीन के अलग एलील, जैसे T और t, एक ही स्थान (locus) पर पाए जाते हैं और किसी लक्षण में अंतर ला सकते हैं।",
+          "गलत: दो पूरी तरह अलग जीन युग्मविकल्पी नहीं कहलाते।",
+          "गलत: कोशिकांग कोशिका की संरचनाएँ हैं; एलील DNA/जीन के रूप हैं।"
+        ],
+        "en": [
+          "Incorrect. Alleles are not separate chromosomes; they are alternative forms of the same gene.",
+          "Correct. Different alleles, such as T and t, occur at the same locus and can contribute to variation in a trait.",
+          "Incorrect. Two entirely different genes are not called alleles of one another.",
+          "Incorrect. Organelles are cell structures; alleles are versions of a gene/DNA sequence."
+        ]
       }
     },
     {
@@ -4870,6 +4982,20 @@
       "explanation": {
         "hi": "प्रत्येक जनक अपने युग्म में से एक गुणसूत्र यादृच्छिक रूप से देता है — इसी वियोजन से संतति को एक-एक प्रतिरूप मिलता है।",
         "en": "Each parent passes one chromosome of the pair at random — through this separation the young gets one copy apiece."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: सामान्य आनुवंशिक वंशागति में संतति के लिए तीन जनक नहीं होते।",
+          "गलत: सामान्य द्विगुणित जीव में प्रत्येक जनक से दोनों प्रतिरूप नहीं मिलते; एक-एक एलील मिलता है।",
+          "सही: सामान्यतः प्रत्येक जनक किसी जीन के एलीलों में से एक प्रति देता है; युग्मकों के निर्माण में समजात गुणसूत्र अलग होते हैं।",
+          "गलत: सामान्यतः संतति को माता और पिता दोनों से आनुवंशिक सामग्री मिलती है, केवल माता से नहीं।"
+        ],
+        "en": [
+          "Incorrect. Typical inheritance does not involve three parents.",
+          "Incorrect. In typical diploid inheritance, offspring do not receive both copies from one parent; they receive one allele from each.",
+          "Correct. Each parent generally contributes one allele copy; homologous chromosomes separate during gamete formation.",
+          "Incorrect. Offspring generally receive genetic material from both parents, not only the mother."
+        ]
       }
     },
     {
@@ -4898,6 +5024,20 @@
       "explanation": {
         "hi": "एक ही जाति के सदस्य भी रंग, ऊँचाई, रूप में भिन्न होते हैं — यही विविधता है।",
         "en": "Members of one species still differ in colour, height and form — that is variation."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: सभी जीवों की समानता विविधता नहीं; विविधता का अर्थ व्यक्तियों के बीच अंतर है।",
+          "गलत: एक जैसा भोजन होना विविधता की परिभाषा नहीं।",
+          "गलत: प्रश्न जीवों के भीतर/बीच जैविक अंतर के बारे में है, निर्जीव वस्तुओं के बारे में नहीं।",
+          "सही: एक ही जाति के व्यक्तियों में ऊँचाई, रंग, आकार या अन्य वंशागत/पर्यावरण-प्रभावित लक्षणों के अंतर विविधता कहलाते हैं।"
+        ],
+        "en": [
+          "Incorrect. Similarity among all organisms is not variation; variation means differences between individuals.",
+          "Incorrect. Eating the same food is not the definition of variation.",
+          "Incorrect. The question concerns biological differences among organisms, not non-living objects.",
+          "Correct. Differences in height, colour, size or other inherited/environment-influenced traits among individuals of one species are variation."
+        ]
       }
     },
     {
