@@ -3473,9 +3473,15 @@
     "optionExplanations": {
       "hi": [
         "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
-        "गलत: माइटोकॉन्ड्रिया कोशिकीय श्वसन से जुड़ा है।",
-        "सही: हरितलवक प्रकाश संश्लेषण का प्रमुख कोशिकांग है।",
-        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है।"
+        "गलत: माइटोकॉन्ड्रिया कोशिकीय श्वसन और ATP उत्पादन में प्रमुख है।",
+        "सही: हरितलवक में क्लोरोफिल होता है और प्रकाश-संश्लेषण की प्रमुख प्रक्रियाएँ होती हैं।",
+        "गलत: लाइसोसोम पाचक एंजाइमों से पदार्थों को तोड़ने में मदद करते हैं।"
+      ],
+      "en": [
+        "Incorrect. Ribosomes synthesize proteins.",
+        "Incorrect. Mitochondria play a major role in cellular respiration and ATP production.",
+        "Correct. Chloroplasts contain chlorophyll and are the main site of photosynthesis in green leaf cells.",
+        "Incorrect. Lysosomes help break down materials using digestive enzymes."
       ]
     }
   },
@@ -3497,8 +3503,8 @@
       "en": [
         "Absorbing light",
         "Copying DNA",
-        "Protein synthesis",
-        "Turgor and storage"
+        "Synthesizing proteins",
+        "Maintaining turgor and storing substances"
       ]
     },
     "correct": 3,
@@ -3508,10 +3514,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रकाश अवशोषण हरितलवक में क्लोरोफिल करता है।",
-        "गलत: DNA की प्रतिलिपि कोशिका विभाजन से पहले होती है, रिक्तिका का काम नहीं।",
+        "गलत: प्रकाश को क्लोरोफिल ग्रहण करता है, जो हरितलवक में पाया जाता है।",
+        "गलत: DNA की प्रतिकृति कोशिका विभाजन से पहले होती है; रिक्तिका का कार्य नहीं।",
         "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
-        "सही: केंद्रीय रिक्तिका भंडारण और तुर्गता में सहायता करती है।"
+        "सही: रिक्तिका जल और घुले पदार्थों का भंडारण करती है और तुर्गता बनाए रखने में मदद करती है।"
+      ],
+      "en": [
+        "Incorrect. Light is absorbed by chlorophyll in chloroplasts.",
+        "Incorrect. DNA replication occurs before cell division; it is not a vacuole function.",
+        "Incorrect. Ribosomes synthesize proteins.",
+        "Correct. The vacuole stores water and solutes and helps maintain turgor."
       ]
     }
   },
@@ -3532,9 +3544,9 @@
       ],
       "en": [
         "Lysosome",
-        "Nucleus",
         "Ribosome",
-        "Chloroplast"
+        "Chloroplast",
+        "Nucleus"
       ]
     },
     "correct": 0,
@@ -3544,10 +3556,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: लाइसोसोम का पाचन-कार्य पदार्थों और पुराने घटकों को तोड़ने में मदद करता है।",
+        "सही: लाइसोसोम के एंजाइम कुछ पदार्थों और पुराने कोशिकीय घटकों को विघटित करते हैं।",
         "गलत: राइबोसोम प्रोटीन बनाते हैं।",
-        "गलत: हरितलवक प्रकाश संश्लेषण करता है।",
-        "गलत: केंद्रक DNA और नियमन से जुड़ा है।"
+        "गलत: हरितलवक प्रकाश-संश्लेषण करता है।",
+        "गलत: केंद्रक अधिकांश DNA रखता है और जीन-अभिव्यक्ति के नियमन में भूमिका निभाता है।"
+      ],
+      "en": [
+        "Correct. Lysosomal enzymes break down certain substances and worn-out cell components.",
+        "Incorrect. Ribosomes synthesize proteins.",
+        "Incorrect. Chloroplasts carry out photosynthesis.",
+        "Incorrect. The nucleus contains most DNA and helps regulate gene expression."
       ]
     }
   },
@@ -3567,10 +3585,10 @@
         "रिक्तिका"
       ],
       "en": [
-        "Vacuole",
-        "Nucleus",
         "Ribosome",
-        "Golgi apparatus"
+        "Nucleus",
+        "Golgi apparatus",
+        "Vacuole"
       ]
     },
     "correct": 1,
@@ -3581,9 +3599,15 @@
     "optionExplanations": {
       "hi": [
         "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
-        "सही: केंद्रक आनुवंशिक पदार्थ रखता है और कोशिकीय नियमन में महत्वपूर्ण है।",
-        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
-        "गलत: रिक्तिका भंडारण और तुर्गता से जुड़ी है।"
+        "सही: केंद्रक में अधिकांश DNA होता है और जीन-अभिव्यक्ति कोशिका के कार्यों को प्रभावित करती है।",
+        "गलत: गॉल्जी उपकरण पदार्थों को संशोधित, छाँट और पैकेज करता है।",
+        "गलत: रिक्तिका भंडारण और तुर्गता में मदद करती है।"
+      ],
+      "en": [
+        "Incorrect. Ribosomes synthesize proteins.",
+        "Correct. The nucleus contains most DNA, and gene expression influences cell functions.",
+        "Incorrect. The Golgi apparatus modifies, sorts and packages substances.",
+        "Incorrect. Vacuoles support storage and turgor."
       ]
     }
   },
@@ -3604,9 +3628,9 @@
       ],
       "en": [
         "Vacuole",
-        "Golgi apparatus",
-        "Ribosome",
-        "Mitochondria"
+        "Cell wall",
+        "Mitochondrion",
+        "Golgi apparatus"
       ]
     },
     "correct": 2,
@@ -3616,10 +3640,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: रिक्तिका मुख्यतः भंडारण और तुर्गता से जुड़ी है।",
+        "गलत: रिक्तिका भंडारण और तुर्गता से जुड़ी है।",
         "गलत: कोशिका भित्ति सहारा और सुरक्षा देती है।",
-        "सही: माइटोकॉन्ड्रिया ATP उत्पादन में प्रमुख है।",
+        "सही: माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ ATP उत्पादन में मदद करती हैं।",
         "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।"
+      ],
+      "en": [
+        "Incorrect. Vacuoles support storage and turgor.",
+        "Incorrect. The cell wall provides support and protection.",
+        "Correct. Important stages of cellular respiration in mitochondria help produce ATP.",
+        "Incorrect. The Golgi apparatus modifies and packages substances."
       ]
     }
   },
@@ -3639,10 +3669,10 @@
         "राइबोसोम"
       ],
       "en": [
-        "Mitochondria",
-        "Ribosome",
-        "Chloroplast",
-        "Golgi apparatus"
+        "Cell wall",
+        "Cell membrane",
+        "Nucleus",
+        "Ribosome"
       ]
     },
     "correct": 3,
@@ -3653,9 +3683,15 @@
     "optionExplanations": {
       "hi": [
         "गलत: कोशिका भित्ति बाहरी सहारा देने वाली परत है।",
-        "गलत: कोशिका झिल्ली कोशिका की सीमा और पदार्थों के आवागमन का नियंत्रण करती है।",
-        "गलत: केंद्रक DNA रखता है।",
-        "सही: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
+        "गलत: कोशिका झिल्ली सीमा बनाती है और पदार्थों के आवागमन को नियंत्रित करती है।",
+        "गलत: केंद्रक अधिकांश DNA रखता है।",
+        "सही: राइबोसोम छोटे कोशिकीय ढाँचे हैं जो अमीनो अम्ल जोड़कर प्रोटीन बनाते हैं।"
+      ],
+      "en": [
+        "Incorrect. The cell wall is an outer supporting layer.",
+        "Incorrect. The cell membrane forms the boundary and regulates substance movement.",
+        "Incorrect. The nucleus contains most cellular DNA.",
+        "Correct. Ribosomes are small structures that build proteins by linking amino acids."
       ]
     }
   },
@@ -3675,10 +3711,10 @@
         "पूर्णतः अपारगम्य"
       ],
       "en": [
-        "Cell membrane",
-        "Nucleus",
-        "Chloroplast",
-        "Cell wall"
+        "Selectively permeable",
+        "Only rigid",
+        "Genetic material",
+        "Completely impermeable"
       ]
     },
     "correct": 0,
@@ -3688,10 +3724,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: चयनात्मक पारगम्यता पदार्थों के आवागमन के नियंत्रण को दर्शाती है।",
-        "गलत: झिल्ली का मुख्य गुण केवल कठोर होना नहीं है।",
-        "गलत: झिल्ली आनुवंशिक पदार्थ नहीं है।",
-        "गलत: झिल्ली पूर्णतः अपारगम्य नहीं होती।"
+        "सही: चयनात्मक पारगम्य झिल्ली कुछ पदार्थों को गुजरने देती है और अन्य के आवागमन को सीमित या नियंत्रित करती है।",
+        "गलत: चयनात्मक पारगम्यता का अर्थ केवल कठोर होना नहीं है।",
+        "गलत: झिल्ली आनुवंशिक पदार्थ नहीं है; वह कोशिका की सीमा बनाती है।",
+        "गलत: कोशिका झिल्ली पूर्णतः अपारगम्य नहीं होती, बल्कि पदार्थों का चयनात्मक नियंत्रण करती है।"
+      ],
+      "en": [
+        "Correct. A selectively permeable membrane allows some substances to pass and limits or regulates others.",
+        "Incorrect. Selective permeability does not mean the membrane is simply rigid.",
+        "Incorrect. The membrane is not genetic material; it forms the cell boundary.",
+        "Incorrect. The cell membrane is not completely impermeable; it selectively regulates movement."
       ]
     }
   },
@@ -3711,10 +3753,10 @@
         "यह सभी जंतु कोशिकाओं में पाई जाती है"
       ],
       "en": [
-        "Ribosome",
-        "Cell wall",
-        "Golgi apparatus",
-        "Nucleus"
+        "It stores most of the cell's DNA",
+        "It supports and protects plant cells and is absent in animal cells",
+        "It carries out protein synthesis",
+        "It is found in all animal cells"
       ]
     },
     "correct": 1,
@@ -3724,10 +3766,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: DNA का अधिकांश भाग यूकैरियोटिक कोशिका के केंद्रक में होता है।",
-        "सही: कोशिका भित्ति पादप कोशिका को सहारा देती है और जंतु कोशिका में अनुपस्थित होती है।",
+        "गलत: यूकैरियोटिक कोशिका का अधिकांश DNA केंद्रक में होता है।",
+        "सही: पादप कोशिका भित्ति सहारा और सुरक्षा देती है; जंतु कोशिकाओं में कोशिका भित्ति नहीं होती।",
         "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
         "गलत: जंतु कोशिकाओं में कोशिका भित्ति नहीं होती।"
+      ],
+      "en": [
+        "Incorrect. Most DNA in a eukaryotic cell is in the nucleus.",
+        "Correct. The plant cell wall provides support and protection and is absent in animal cells.",
+        "Incorrect. Ribosomes carry out protein synthesis.",
+        "Incorrect. Animal cells do not have a cell wall."
       ]
     }
   },
@@ -3747,10 +3795,10 @@
         "चिकनी ER प्रकाश संश्लेषण करती है"
       ],
       "en": [
-        "Lysosome",
-        "Endoplasmic reticulum",
-        "Chloroplast",
-        "Cell wall"
+        "It makes the cell wall",
+        "Both store only DNA",
+        "Rough ER helps make/process proteins while smooth ER helps synthesize lipids",
+        "Smooth ER carries out photosynthesis"
       ]
     },
     "correct": 2,
@@ -3760,10 +3808,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: कोशिका भित्ति निर्माण ER का मुख्य वर्णन नहीं है।",
-        "गलत: ER का मुख्य कार्य DNA संग्रहित करना नहीं है।",
-        "सही: खुरदरी ER प्रोटीन और चिकनी ER लिपिड निर्माण में मदद करती है।",
-        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।"
+        "गलत: कोशिका भित्ति बनाना ER का मुख्य कार्य नहीं है।",
+        "गलत: ER DNA का भंडारण करने वाला अंगक नहीं है।",
+        "सही: खुरदरी ER पर राइबोसोम होते हैं और यह कई प्रोटीनों के निर्माण/प्रसंस्करण में मदद करती है; चिकनी ER लिपिड संश्लेषण में भाग लेती है।",
+        "गलत: प्रकाश-संश्लेषण हरितलवक में होता है।"
+      ],
+      "en": [
+        "Incorrect. Making the cell wall is not the main function of the ER.",
+        "Incorrect. The ER is not an organelle for storing DNA.",
+        "Correct. Rough ER has ribosomes and helps make/process many proteins; smooth ER contributes to lipid synthesis.",
+        "Incorrect. Photosynthesis occurs in chloroplasts."
       ]
     }
   },
@@ -3783,10 +3837,10 @@
         "प्रोटीनों का संशोधन और पैकेजिंग"
       ],
       "en": [
-        "Golgi apparatus",
-        "Ribosome",
-        "Mitochondria",
-        "Nucleus"
+        "Photosynthesis",
+        "Storing most cellular DNA",
+        "Producing most ATP",
+        "Modifying and packaging proteins"
       ]
     },
     "correct": 3,
@@ -3796,10 +3850,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।",
-        "गलत: DNA मुख्यतः केंद्रक में होता है।",
-        "गलत: ATP उत्पादन में माइटोकॉन्ड्रिया प्रमुख है।",
-        "सही: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।"
+        "गलत: प्रकाश-संश्लेषण हरितलवक में होता है।",
+        "गलत: यूकैरियोटिक कोशिका का अधिकांश DNA केंद्रक में होता है।",
+        "गलत: कोशिकीय श्वसन और माइटोकॉन्ड्रिया ATP उत्पादन में प्रमुख हैं।",
+        "सही: गॉल्जी उपकरण कई प्रोटीनों और लिपिडों का संशोधन, छँटाई और पैकेजिंग करता है।"
+      ],
+      "en": [
+        "Incorrect. Photosynthesis occurs in chloroplasts.",
+        "Incorrect. Most DNA in a eukaryotic cell is in the nucleus.",
+        "Incorrect. Cellular respiration and mitochondria play major roles in ATP production.",
+        "Correct. The Golgi apparatus modifies, sorts and packages many proteins and lipids."
       ]
     }
   },
