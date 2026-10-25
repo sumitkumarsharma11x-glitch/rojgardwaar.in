@@ -333,7 +333,7 @@
       "correct": 3,
       "explanation": {
         "hi": "हाथ का बल मिट्टी का आकार बदल देता है।",
-        "en": "For “A potter presses the clay and its shape changes — this shows that —,” “Force can change shape” matches the relevant physical quantity or rule. “Force changes mass and Force changes colour” are different quantities or conditions, so they should not be substituted here."
+        "en": "A force can change an object's shape. Pressing soft clay applies a force that deforms it."
       }
     },
     {
@@ -2153,7 +2153,7 @@
       "correct": 0,
       "explanation": {
         "hi": "प्रश्न “न्यूटन के द्वितीय नियम का गणितीय रूप क्या है” में “F = ma” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “F = mv और F = m/v” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
-        "en": "For “What is the mathematical form of Newton's second law,” “F = ma” matches the relevant physical quantity or rule. “F = mv and F = m/v” are different quantities or conditions, so they should not be substituted here."
+        "en": "Newton's second law is written as F = ma for constant mass, where F is the net force, m is mass, and a is acceleration."
       }
     },
     {
@@ -2517,7 +2517,7 @@
       "correct": 1,
       "explanation": {
         "hi": "प्रश्न “a = F/m के अनुसार त्वरण किसके समानुपाती है” में “लगाए गए बल के” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “आयतन के और द्रव्यमान के” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
-        "en": "For “According to a = F/m, the acceleration is proportional to —,” “The applied force” matches the relevant physical quantity or rule. “The volume and The mass” are different quantities or conditions, so they should not be substituted here."
+        "en": "From a = F/m, for a fixed mass, acceleration is directly proportional to the net force. For a fixed force, acceleration is inversely proportional to mass."
       }
     },
     {
@@ -3469,7 +3469,7 @@
       "correct": 3,
       "explanation": {
         "hi": "प्रश्न “मछलियों और विमानों का धारावाहिक (streamlined) आकार किसलिए है” में “वायु/जल का घर्षण घटाने के लिए” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “घर्षण बढ़ाने के लिए और सुंदर दिखने के लिए” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
-        "en": "For “Why do fish and aircraft have streamlined shapes,” “To reduce friction with air/water” matches the relevant physical quantity or rule. “To increase friction and To look beautiful” are different quantities or conditions, so they should not be substituted here."
+        "en": "Streamlined shapes reduce drag (fluid resistance) as an object moves through air or water, helping fish swim and aircraft move more efficiently."
       }
     },
     {
