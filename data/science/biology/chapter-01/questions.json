@@ -845,7 +845,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "प्रोकैरियोटिक कोशिका के बारे में कौन-सा कथन सही है?",
-      "en": "Which statement about a prokaryotic cell is correct?"
+      "en": "A prokaryotic cell contains DNA and ribosomes, but it lacks a well-defined membrane-bound nucleus."
     },
     "options": {
       "hi": [
@@ -864,7 +864,7 @@
     "correct": 0,
     "explanation": {
       "hi": "प्रोकैरियोटिक कोशिकाओं में DNA और राइबोसोम होते हैं, लेकिन झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता।",
-      "en": "Prokaryotic cells contain DNA and ribosomes but do not have a well-defined nucleus enclosed by a membrane."
+      "en": "प्रोकैरियोटिक कोशिका में DNA और राइबोसोम होते हैं, लेकिन झिल्ली से घिरा स्पष्ट केंद्रक नहीं होता।"
     },
     "optionExplanations": {
       "hi": [
@@ -881,7 +881,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "यूकैरियोटिक कोशिका की पहचान किससे होती है?",
-      "en": "What is a key feature of a prokaryotic cell? 7"
+      "en": "Which feature best distinguishes a eukaryotic cell from a prokaryotic cell?"
     },
     "options": {
       "hi": [
@@ -899,8 +899,8 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "यूकैरियोटिक कोशिकाओं में झिल्ली-बद्ध केंद्रक और माइटोकॉन्ड्रिया जैसे कोशिकांग होते हैं।",
-      "en": "Membrane-bound organelles are a key feature of eukaryotic cells."
+      "hi": "यूकैरियोटिक कोशिका को प्रोकैरियोटिक कोशिका से अलग पहचानने वाली प्रमुख विशेषता कौन-सी है?",
+      "en": "यूकैरियोटिक कोशिकाओं में झिल्ली-बद्ध केंद्रक और माइटोकॉन्ड्रिया जैसे कोशिकांग होते हैं। प्रोकैरियोट में झिल्ली-बद्ध केंद्रक नहीं होता।"
     },
     "optionExplanations": {
       "hi": [
@@ -917,7 +917,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "प्रोकैरियोटिक कोशिका में केंद्रकीय झिल्ली के बारे में कौन-सा कथन सही है?",
-      "en": "Which of the following should be considered the correct answer? 8"
+      "en": "What is true of the nuclear membrane in a prokaryotic cell?"
     },
     "options": {
       "hi": [
@@ -935,8 +935,8 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "प्रोकैरियोट में केंद्रकीय झिल्ली नहीं होती; उसका DNA न्यूक्लियॉइड क्षेत्र में स्थित रहता है।",
-      "en": "In prokaryotes, DNA is not enclosed by a nuclear membrane."
+      "hi": "प्रोकैरियोटिक कोशिका में केंद्रकीय झिल्ली के बारे में कौन-सा कथन सही है?",
+      "en": "प्रोकैरियोट का DNA झिल्ली से घिरे केंद्रक के बजाय न्यूक्लियॉइड क्षेत्र में रहता है।"
     },
     "optionExplanations": {
       "hi": [
@@ -953,7 +953,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "राइबोसोम का मुख्य कार्य क्या है?",
-      "en": "What is the main function of ribosomes?"
+      "en": "Ribosomes perform which essential cellular task?"
     },
     "options": {
       "hi": [
@@ -971,8 +971,8 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "राइबोसोम अमीनो अम्लों को जोड़कर प्रोटीन बनाते हैं। ये प्रोकैरियोटिक और यूकैरियोटिक दोनों कोशिकाओं में पाए जाते हैं।",
-      "en": "Ribosomes link amino acids to make proteins. They are found in both prokaryotic and eukaryotic cells."
+      "hi": "राइबोसोम कौन-सा आवश्यक कोशिकीय कार्य करते हैं?",
+      "en": "राइबोसोम mRNA के निर्देशों के अनुसार अमीनो अम्लों को जोड़कर प्रोटीन बनाते हैं। ये प्रोकैरियोटिक और यूकैरियोटिक दोनों कोशिकाओं में पाए जाते हैं।"
     },
     "optionExplanations": {
       "hi": [
@@ -989,7 +989,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "झिल्ली-बद्ध कोशिकांगों का समूह सामान्यतः किस प्रकार की कोशिका में पाया जाता है?",
-      "en": "Which of the following should be considered the correct answer? 10"
+      "en": "Which type of cell generally contains membrane-bound organelles such as mitochondria and the Golgi apparatus?"
     },
     "options": {
       "hi": [
@@ -1007,8 +1007,8 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "यूकैरियोटिक कोशिकाओं में माइटोकॉन्ड्रिया, अंतर्द्रव्यी जालिका और गॉल्जी निकाय जैसे झिल्ली-बद्ध कोशिकांग पाए जाते हैं।",
-      "en": "A cell with a membrane-bound nucleus is eukaryotic."
+      "hi": "माइटोकॉन्ड्रिया और गॉल्जी निकाय जैसे झिल्ली-बद्ध कोशिकांग सामान्यतः किस प्रकार की कोशिका में होते हैं?",
+      "en": "यूकैरियोटिक कोशिकाओं में झिल्ली-बद्ध कोशिकांग होते हैं। प्रोकैरियोट में राइबोसोम होते हैं, लेकिन माइटोकॉन्ड्रिया और गॉल्जी निकाय जैसे कोशिकांग नहीं होते।"
     },
     "optionExplanations": {
       "hi": [
@@ -1025,7 +1025,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "अमीबा की कोशिका को यूकैरियोटिक क्यों कहा जाता है?",
-      "en": "What is a key feature of a prokaryotic cell? 11"
+      "en": "Why is Amoeba classified as a eukaryote even though it is unicellular?"
     },
     "options": {
       "hi": [
@@ -1043,8 +1043,8 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "अमीबा एक एककोशिकीय यूकैरियोट है। उसकी कोशिका में झिल्ली से घिरा स्पष्ट केंद्रक होता है।",
-      "en": "A prokaryotic cell lacks a well-defined membrane-bound nucleus."
+      "hi": "अमीबा एककोशिकीय होने के बावजूद यूकैरियोट क्यों कहलाता है?",
+      "en": "अमीबा एककोशिकीय है, लेकिन उसकी कोशिका में झिल्ली-बद्ध केंद्रक होता है। एककोशिकीय होना अपने-आप प्रोकैरियोट होने का अर्थ नहीं है।"
     },
     "optionExplanations": {
       "hi": [
@@ -1061,7 +1061,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिका झिल्ली के बारे में कौन-सा कथन सही है?",
-      "en": "Which of the following should be considered the correct answer? 12"
+      "en": "What is the main role of the cell membrane?"
     },
     "options": {
       "hi": [
@@ -1079,8 +1079,8 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "कोशिका झिल्ली चयनात्मक पारगम्य होती है और कोशिका में पदार्थों के प्रवेश तथा निकास को नियंत्रित करती है।",
-      "en": "In a eukaryotic cell, the nucleus is enclosed by a nuclear membrane."
+      "hi": "कोशिका झिल्ली का मुख्य कार्य क्या है?",
+      "en": "कोशिका झिल्ली चयनात्मक पारगम्य होती है और कोशिका में पदार्थों के प्रवेश तथा निकास को नियंत्रित करती है।"
     },
     "optionExplanations": {
       "hi": [
@@ -1097,7 +1097,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "माइटोकॉन्ड्रिया का मुख्य संबंध किससे है?",
-      "en": "What is the main role of mitochondria?"
+      "en": "Which organelle is strongly associated with cellular respiration and ATP production?"
     },
     "options": {
       "hi": [
@@ -1115,8 +1115,8 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ होती हैं, जिनसे ATP के रूप में उपयोगी ऊर्जा मिलती है।",
-      "en": "Mitochondria are the site of important steps in cellular respiration, which supplies usable energy in the form of ATP."
+      "hi": "कौन-सा कोशिकांग कोशिकीय श्वसन और ATP उत्पादन से प्रमुख रूप से जुड़ा है?",
+      "en": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ होती हैं, जिनसे ATP के रूप में उपयोगी ऊर्जा मिलती है। वे प्रकाश-संश्लेषण के लिए प्रकाश ग्रहण नहीं करते।"
     },
     "optionExplanations": {
       "hi": [
@@ -1151,8 +1151,8 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "हरितलवक में क्लोरोफिल होता है, जो प्रकाश ऊर्जा को ग्रहण कर प्रकाश संश्लेषण में मदद करता है।",
-      "en": "Chloroplasts contain chlorophyll, which captures light energy and helps drive photosynthesis."
+      "hi": "पादप कोशिका में प्रकाश-संश्लेषण किस कोशिकांग में होता है?",
+      "en": "हरितलवक में क्लोरोफिल होता है और पादप कोशिकाओं में प्रकाश-संश्लेषण मुख्यतः यहीं होता है।"
     },
     "optionExplanations": {
       "hi": [
@@ -1169,7 +1169,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "कोशिका के अंदर पदार्थों का संशोधन और पैकेजिंग करने वाला कोशिकांग कौन-सा है?",
-      "en": "What is a key feature of a prokaryotic cell? 15"
+      "en": "Which organelle modifies, sorts and packages many cell products for transport?"
     },
     "options": {
       "hi": [
@@ -1187,8 +1187,8 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "गॉल्जी निकाय कई पदार्थों का संशोधन, छँटाई और पैकेजिंग करके उन्हें उचित स्थान तक पहुँचाने में सहायता करता है।",
-      "en": "In prokaryotes, DNA lies in the nucleoid region."
+      "hi": "कौन-सा कोशिकांग कोशिका के कई पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है?",
+      "en": "गॉल्जी निकाय प्रोटीन और लिपिड का संशोधन, छँटाई और पैकेजिंग करके उन्हें कोशिका के भीतर या बाहर उचित स्थान तक पहुँचाने में मदद करता है।"
     },
     "optionExplanations": {
       "hi": [
@@ -1205,7 +1205,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "किस संरचना से पादप कोशिका को आकार और यांत्रिक सहारा मिलता है?",
-      "en": "Which structure gives a plant cell shape and mechanical support?"
+      "en": "Which structure gives a plant cell mechanical support and helps maintain its shape?"
     },
     "options": {
       "hi": [
@@ -1223,8 +1223,8 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "पादप कोशिका की कोशिका भित्ति मुख्यतः सेल्यूलोज से बनी होती है और उसे आकार, सहारा तथा सुरक्षा देती है।",
-      "en": "The plant cell wall, made mainly of cellulose, provides shape, mechanical support, and protection."
+      "hi": "कौन-सी संरचना पादप कोशिका को यांत्रिक सहारा देती और आकार बनाए रखने में मदद करती है?",
+      "en": "मुख्यतः सेल्यूलोज से बनी पादप कोशिका भित्ति, कोशिका झिल्ली के बाहर सहारा और सुरक्षा देती है।"
     },
     "optionExplanations": {
       "hi": [
@@ -1241,7 +1241,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "मानव गाल की कोशिका में कौन-सी संरचना सामान्यतः नहीं होती?",
-      "en": "What is a key feature of a prokaryotic cell? 17"
+      "en": "Which structure is normally absent from a human cheek cell?"
     },
     "options": {
       "hi": [
@@ -1259,8 +1259,8 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "मानव गाल की कोशिका जंतु कोशिका है। इसमें कोशिका झिल्ली, कोशिकाद्रव्य और केंद्रक होते हैं, लेकिन कोशिका भित्ति नहीं होती।",
-      "en": "Membrane-bound organelles are a key feature of eukaryotic cells."
+      "hi": "मानव गाल की कोशिका में सामान्यतः कौन-सी संरचना नहीं होती?",
+      "en": "गाल की कोशिका जंतु कोशिका है। इसमें कोशिका झिल्ली, कोशिकाद्रव्य और केंद्रक होते हैं, लेकिन कोशिका भित्ति नहीं होती।"
     },
     "optionExplanations": {
       "hi": [
@@ -1277,7 +1277,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "कौन-सा कथन रिक्तिका के बारे में सबसे सही है?",
-      "en": "Which of the following should be considered the correct answer? 18"
+      "en": "Which statement about vacuoles is most accurate?"
     },
     "options": {
       "hi": [
@@ -1295,8 +1295,8 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "परिपक्व पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है, जो जल और घुले पदार्थों के भंडारण तथा तुर्गता बनाए रखने में मदद करती है।",
-      "en": "In prokaryotes, DNA is not enclosed by a nuclear membrane."
+      "hi": "रिक्तिका के बारे में कौन-सा कथन सबसे सही है?",
+      "en": "परिपक्व पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है, जो जल और घुले पदार्थों का भंडारण तथा तुर्गता बनाए रखने में मदद करती है। रिक्तिकाएँ अलग-अलग कोशिकाओं में भिन्न हो सकती हैं।"
     },
     "optionExplanations": {
       "hi": [
@@ -1313,7 +1313,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "त्वचा की बाहरी सतह को ढकने और सुरक्षा देने वाला जंतु ऊतक कौन-सा है?",
-      "en": "Which animal tissue covers and protects the body's outer surface?"
+      "en": "Which animal tissue covers the body's outer surface and lines many internal surfaces?"
     },
     "options": {
       "hi": [
@@ -1331,8 +1331,8 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "उपकला ऊतक शरीर की बाहरी सतह को ढकता है और कई आंतरिक अंगों तथा गुहाओं की परत बनाकर सुरक्षा देता है।",
-      "en": "Epithelial tissue covers the body's external surface and lines many internal organs and cavities, helping protect them."
+      "hi": "कौन-सा जंतु ऊतक शरीर की बाहरी सतह को ढकता और कई आंतरिक सतहों की परत बनाता है?",
+      "en": "उपकला ऊतक शरीर की बाहरी सतह को ढकता है और कई अंगों तथा गुहाओं की परत बनाकर सुरक्षा और अलगाव में मदद करता है।"
     },
     "optionExplanations": {
       "hi": [
@@ -1349,7 +1349,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "रक्त को किस प्रकार के जंतु ऊतक में रखा जाता है?",
-      "en": "Which of the following should be considered the correct answer? 20"
+      "en": "How is blood classified among animal tissues?"
     },
     "options": {
       "hi": [
@@ -1367,8 +1367,8 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "रक्त को तरल संयोजी ऊतक माना जाता है क्योंकि इसका द्रव मैट्रिक्स प्लाज्मा होता है और यह पदार्थों के परिवहन तथा शरीर के विभिन्न भागों के बीच संबंध में मदद करता है।",
-      "en": "A cell with a membrane-bound nucleus is eukaryotic."
+      "hi": "जंतु ऊतकों में रक्त को किस प्रकार वर्गीकृत किया जाता है?",
+      "en": "रक्त एक तरल संयोजी ऊतक है। इसका प्लाज्मा मैट्रिक्स कोशिकाओं और घुले पदार्थों को शरीर में ले जाने में मदद करता है।"
     },
     "optionExplanations": {
       "hi": [
@@ -1385,7 +1385,7 @@
     "difficulty": "hard",
     "question": {
       "hi": "कौन-सी संरचना पादप कोशिका को कठोरता एवं निश्चित आकार देती है, परंतु जंतु कोशिका में अनुपस्थित होती है?",
-      "en": "Which structure gives rigidity and a fixed shape to a plant cell but is absent in an animal cell?"
+      "en": "Which structure gives plant cells rigidity but is absent from animal cells?"
     },
     "options": {
       "hi": [
@@ -1403,8 +1403,8 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "कोशिका भित्ति पादप कोशिका को कठोरता एवं आकार देती है और यह जंतु कोशिका में नहीं होती।",
-      "en": "The cell wall gives rigidity and shape to a plant cell and is absent in an animal cell."
+      "hi": "कौन-सी संरचना पादप कोशिकाओं को कठोरता देती है, लेकिन जंतु कोशिकाओं में नहीं होती?",
+      "en": "कोशिका भित्ति पादप कोशिकाओं को सहारा और सुरक्षा देती है; जंतु कोशिकाओं में कोशिका भित्ति नहीं होती।"
     },
     "optionExplanations": {
       "hi": [
@@ -1421,7 +1421,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "प्याज के छिलके की कोशिका में केंद्रक के अलावा कौन-सी अतिरिक्त संरचना दिखती है, जो गाल की कोशिका में नहीं होती?",
-      "en": "Besides the nucleus, which additional structure is seen in an onion peel cell that is absent in a cheek cell?"
+      "en": "Besides the nucleus, which structure is present in an onion-peel plant cell but absent from a cheek cell?"
     },
     "options": {
       "hi": [
@@ -1439,8 +1439,8 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "प्याज का छिलका पादप कोशिका है जिसमें कोशिका भित्ति होती है; गाल की कोशिका (जंतु कोशिका) में यह नहीं होती।",
-      "en": "Onion peel is a plant cell with a cell wall; a cheek cell (animal cell) lacks it."
+      "hi": "केंद्रक के अलावा कौन-सी संरचना प्याज के छिलके की पादप कोशिका में होती है, लेकिन गाल की कोशिका में नहीं?",
+      "en": "प्याज के छिलके की कोशिकाएँ पादप कोशिकाएँ हैं और उनमें कोशिका भित्ति होती है। गाल की कोशिकाएँ जंतु कोशिकाएँ हैं और उनमें कोशिका भित्ति नहीं होती।"
     },
     "optionExplanations": {
       "hi": [
@@ -1457,7 +1457,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कौन-सा कोशिकांग प्रकाश संश्लेषण के लिए उत्तरदायी है और केवल पादप कोशिका में पाया जाता है?",
-      "en": "Which organelle is responsible for photosynthesis and is found only in plant cells?"
+      "en": "Which organelle contains chlorophyll and carries out photosynthesis in plant cells?"
     },
     "options": {
       "hi": [
@@ -1475,8 +1475,8 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "हरितलवक में क्लोरोफिल होता है जो प्रकाश संश्लेषण में सहायक है और यह पादप कोशिका में पाया जाता है।",
-      "en": "Chloroplast contains chlorophyll which assists in photosynthesis, and is found in plant cells."
+      "hi": "कौन-सा कोशिकांग क्लोरोफिल रखता है और पादप कोशिकाओं में प्रकाश-संश्लेषण करता है?",
+      "en": "हरितलवक में क्लोरोफिल होता है और वह प्रकाश-संश्लेषण के लिए प्रकाश ऊर्जा ग्रहण करता है। हर पादप कोशिका में हरितलवक नहीं होता; उदाहरण के लिए प्याज के छिलके की सामान्य एपिडर्मल कोशिकाओं में यह प्रायः नहीं होता।"
     },
     "optionExplanations": {
       "hi": [
@@ -1493,7 +1493,7 @@
     "difficulty": "hard",
     "question": {
       "hi": "जंतु कोशिका की रिक्तिका, यदि उपस्थित हो, पादप कोशिका की रिक्तिका से किस प्रकार भिन्न होती है?",
-      "en": "If present, how does an animal cell's vacuole differ from a plant cell's vacuole?"
+      "en": "If an animal cell has vacuoles, how are they generally different from the large central vacuole of a mature plant cell?"
     },
     "options": {
       "hi": [
@@ -1511,8 +1511,8 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है जबकि जंतु कोशिका की रिक्तिकाएँ, यदि हों, छोटी होती हैं।",
-      "en": "A plant cell usually has a large central vacuole, whereas an animal cell's vacuoles, if present, tend to be small."
+      "hi": "यदि जंतु कोशिका में रिक्तिकाएँ हों, तो वे परिपक्व पादप कोशिका की बड़ी केंद्रीय रिक्तिका से सामान्यतः कैसे भिन्न होती हैं?",
+      "en": "परिपक्व पादप कोशिका में सामान्यतः एक बड़ी केंद्रीय रिक्तिका होती है; जंतु कोशिका की रिक्तिकाएँ, यदि हों, तो प्रायः छोटी होती हैं।"
     },
     "optionExplanations": {
       "hi": [
@@ -1529,7 +1529,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "निम्नलिखित में से कौन-सा संयोजन केवल पादप कोशिका में पाया जाता है?",
-      "en": "Which of the following combinations is found only in a plant cell?"
+      "en": "Which combination best identifies typical plant-cell features that animal cells lack?"
     },
     "options": {
       "hi": [
@@ -1547,8 +1547,8 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "कोशिका भित्ति, हरितलवक और सामान्यतः बड़ी केंद्रीय रिक्तिका पादप कोशिका की अतिरिक्त विशेषताएँ हैं।",
-      "en": "Cell wall, chloroplast and usually a large central vacuole are additional features of a plant cell."
+      "hi": "कौन-सा संयोजन पादप कोशिका की उन सामान्य विशेषताओं को सही पहचानता है जो जंतु कोशिकाओं में नहीं होतीं?",
+      "en": "सामान्य पादप कोशिकाओं में कोशिका भित्ति और हरितलवक होते हैं तथा प्रायः बड़ी केंद्रीय रिक्तिका होती है। जंतु कोशिकाओं में कोशिका भित्ति और हरितलवक नहीं होते।"
     },
     "optionExplanations": {
       "hi": [
