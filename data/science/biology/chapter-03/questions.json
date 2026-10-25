@@ -2126,6 +2126,20 @@
       "explanation": {
         "hi": "द्वार कोशिकाएँ जल की मात्रा घटकर फूलती-सिकुड़ती हैं और रंध्र छिद्र खोलती-बंद करती हैं।",
         "en": "Guard cells swell and shrink with water content, opening and closing the stomatal pore."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: सह-कोशिकाएँ फ्लोएम में चालनी नलिकाओं की सहायता करती हैं; रंध्र को नियंत्रित नहीं करतीं।",
+          "गलत: एपिडर्मल रोम सुरक्षा या जल-हानि कम करने में मदद कर सकते हैं, लेकिन रंध्र खोलने-बंद करने का मुख्य नियंत्रण नहीं।",
+          "सही: द्वार कोशिकाओं के तुर्गर में बदलाव से रंध्र छिद्र खुलता या बंद होता है।",
+          "गलत: कॉर्क कोशिकाएँ सुरक्षात्मक बाहरी ऊतक हैं; रंध्र का नियंत्रण उनका कार्य नहीं।"
+        ],
+        "en": [
+          "Incorrect. Companion cells support sieve tubes in phloem; they do not control stomata.",
+          "Incorrect. Trichomes can protect the surface or reduce water loss, but they do not directly control stomatal opening.",
+          "Correct. Changes in guard-cell turgor open or close the stomatal pore.",
+          "Incorrect. Cork cells form protective outer tissue; they do not control stomata."
+        ]
       }
     },
     {
@@ -2133,27 +2147,41 @@
       "topic": "advanced-plant-tissues",
       "difficulty": "medium",
       "question": {
-        "hi": "पत्तियों की सतह पर पाई जाने वाली मोम जैसी क्यूटिकुल परत का क्या कार्य है?",
-        "en": "What is the function of the waxy cuticle found on leaf surfaces?"
+        "hi": "पत्तियों पर पाई जाने वाली मोम जैसी क्यूटिकल परत का मुख्य कार्य क्या है?",
+        "en": "What is the main function of the waxy cuticle on leaves?"
       },
       "options": {
         "hi": [
           "कीटों को आकर्षित करना",
           "प्रकाश को अंदर लाना",
           "वायु-विनिमय बढ़ाना",
-          "जल की हानि (वाष्पोत्सर्जन) को घटाना"
+          "जल की हानि को कम करना"
         ],
         "en": [
           "Attracting insects",
           "Letting light inside",
           "Increasing gas exchange",
-          "Reducing water loss (transpiration)"
+          "Reducing water loss"
         ]
       },
       "correct": 3,
       "explanation": {
-        "hi": "जलीय पौधों को छोड़कर स्थलीय पौधों की पत्तियों पर मोमा क्यूटिकुल जल की हानि रोकती है।",
-        "en": "In land plants, the waxy cuticle on leaves checks loss of water."
+        "hi": "क्यूटिकल पत्ती की बाहरी सतह पर मोमी परत है जो वाष्पोत्सर्जन से जल-हानि कम करती है। इसकी मोटाई पौधे और वातावरण के अनुसार बदलती है; सभी जलीय पौधों में क्यूटिकल अनुपस्थित नहीं होती।",
+        "en": "The cuticle is a waxy layer on the leaf surface that reduces water loss by transpiration. Its thickness varies with plant and environment; it is not absent in every aquatic plant."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कीटों को आकर्षित करना फूलों के रंग, गंध या मकरंद से जुड़ा हो सकता है, क्यूटिकल का मुख्य काम नहीं।",
+          "गलत: क्यूटिकल प्रकाश अंदर लाने के लिए नहीं, मुख्यतः जल-हानि कम करने के लिए होती है।",
+          "गलत: क्यूटिकल जल-हानि कम करती है; गैस-विनिमय मुख्यतः रंध्रों से नियंत्रित होता है।",
+          "सही: मोमी क्यूटिकल वाष्पोत्सर्जन से जल-हानि कम करने में मदद करती है।"
+        ],
+        "en": [
+          "Incorrect. Attracting insects may involve flower colour, scent or nectar; it is not the cuticle's main role.",
+          "Incorrect. The cuticle is mainly for reducing water loss, not for letting light in.",
+          "Incorrect. The cuticle reduces water loss; gas exchange is mainly regulated by stomata.",
+          "Correct. The waxy cuticle helps reduce water loss through transpiration."
+        ]
       }
     },
     {
@@ -2182,6 +2210,20 @@
       "explanation": {
         "hi": "कॉर्क कोशिकाओं में सुबेरिन होता है जो जल-अपारगम्य (जलरोधी) बना देता है और कोशिकाएँ मृत हो जाती हैं।",
         "en": "Cork cells contain suberin, which makes them water-impermeable; the cells then die."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: सुबेरिन कॉर्क कोशिकाओं की भित्तियों को जल के प्रति कम पारगम्य बनाता है और बाहरी सुरक्षा में मदद करता है।",
+          "गलत: क्लोरोफिल प्रकाश-संश्लेषण का वर्णक है; कॉर्क कोशिकाओं की जलरोधी भित्ति का पदार्थ नहीं।",
+          "गलत: माइलिन तंत्रिका तंतुओं के चारों ओर पाया जाता है, कॉर्क कोशिका भित्ति का घटक नहीं।",
+          "गलत: लिग्निन कई कठोर पौध कोशिकाओं, जैसे स्क्लेरेन्काइमा और जाइलम, में पाया जाता है; कॉर्क की जलरोधी विशेषता सुबेरिन से जुड़ी है।"
+        ],
+        "en": [
+          "Correct. Suberin makes cork cell walls less permeable to water and supports their protective role.",
+          "Incorrect. Chlorophyll is a photosynthetic pigment, not the waterproofing material in cork walls.",
+          "Incorrect. Myelin is associated with nerve fibres, not cork cell walls.",
+          "Incorrect. Lignin occurs in many rigid plant cells such as sclerenchyma and xylem; cork's water-resistant property is associated with suberin."
+        ]
       }
     },
     {
@@ -2189,27 +2231,41 @@
       "topic": "advanced-plant-tissues",
       "difficulty": "hard",
       "question": {
-        "hi": "पेड़ के मोटे तने पर बनने वाली 'छाल' (bark) मुख्यतः किससे बनी होती है?",
-        "en": "The 'bark' formed on the thick trunk of a tree is mainly made of what?"
+        "hi": "पुराने तने की बाहरी सुरक्षात्मक कॉर्क परत मुख्यतः किससे बनी होती है?",
+        "en": "What mainly makes up the outer protective cork layer of an old stem?"
       },
       "options": {
         "hi": [
-          "जीवित विभज्योतक से",
-          "मृत कॉर्क कोशिकाओं से",
-          "पर्णहरित मृदूतक से",
-          "वायुकोशी ऊतक से"
+          "जीवित विभज्योतक कोशिकाएँ",
+          "मृत, सुबेरिन-युक्त कॉर्क कोशिकाएँ",
+          "पर्णहरित मृदूतक",
+          "वायुकोशी ऊतक"
         ],
         "en": [
-          "Living meristem",
-          "Dead cork cells",
+          "Living meristematic cells",
+          "Dead, suberin-rich cork cells",
           "Chlorenchyma",
           "Aerenchyma"
         ]
       },
       "correct": 1,
       "explanation": {
-        "hi": "बाह्य छाल कैम्बियम से बने कॉर्क की मृत, सुबेरिन-युक्त परतों से बनती है जो भीतरी जीवित ऊतकों की रक्षा करती है।",
-        "en": "The outer bark consists of dead, suberin-rich cork layers that protect the living tissue inside."
+        "hi": "कॉर्क कैम्बियम कॉर्क कोशिकाएँ बनाता है; परिपक्व कॉर्क कोशिकाएँ सामान्यतः मृत होती हैं और उनकी सुबेरिन-युक्त भित्तियाँ जल-हानि तथा चोट से सुरक्षा देती हैं। 'छाल' व्यापक शब्द है जिसमें कॉर्क के अलावा अन्य ऊतक भी शामिल हो सकते हैं।",
+        "en": "Cork cambium produces cork cells; mature cork cells are generally dead, and their suberin-rich walls protect against water loss and injury. 'Bark' is a broader term that can include other tissues besides cork."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कॉर्क कैम्बियम विभज्योतक है, लेकिन बाहरी कॉर्क परत परिपक्व कोशिकाओं से बनती है।",
+          "सही: मृत कॉर्क कोशिकाओं की सुबेरिन-युक्त भित्तियाँ बाहरी सुरक्षा और जल-हानि कम करने में मदद करती हैं।",
+          "गलत: पर्णहरित मृदूतक प्रकाश-संश्लेषण करता है और सामान्यतः हरी कोशिकाओं में होता है।",
+          "गलत: एरेन्काइमा बड़े वायु-स्थान वाला ऊतक है, कॉर्क की सुरक्षात्मक परत नहीं।"
+        ],
+        "en": [
+          "Incorrect. Cork cambium is meristematic, but the outer cork layer consists of mature cells.",
+          "Correct. Dead cork cells with suberin-rich walls protect the plant and reduce water loss.",
+          "Incorrect. Chlorenchyma performs photosynthesis and is found in green tissues.",
+          "Incorrect. Aerenchyma has large air spaces; it is not the protective cork layer."
+        ]
       }
     },
     {
@@ -2238,6 +2294,20 @@
       "explanation": {
         "hi": "घास के पर्वों के आधार में अंतरावेशित विभज्योतक सक्रिय रहता है, इसलिए काटे जाने पर भी पत्तियाँ दोबारा बढ़ती हैं।",
         "en": "The intercalary meristem at the base of grass nodes stays active, so leaves regrow even after cutting."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: शीर्षस्थ विभज्योतक पौधे के सिरों पर वृद्धि करता है, लेकिन घास के कटने के बाद पुनर्वृद्धि में आधार के पास का अंतरावेशित विभज्योतक खास भूमिका निभाता है।",
+          "गलत: पार्श्व विभज्योतक तने/जड़ की मोटाई बढ़ाता है।",
+          "सही: घास में अंतरावेशित विभज्योतक पर्वों/पर्वसंधियों के पास बना रह सकता है और कटाई के बाद नई पत्ती/तने की वृद्धि कर सकता है।",
+          "गलत: कॉर्क कैम्बियम सुरक्षात्मक कॉर्क ऊतक बनाता है; घास की पत्ती की पुनर्वृद्धि का कारण नहीं।"
+        ],
+        "en": [
+          "Incorrect. Apical meristem drives growth at tips, but intercalary meristem is especially important for regrowth of grasses after cutting.",
+          "Incorrect. Lateral meristem increases stem or root thickness.",
+          "Correct. Intercalary meristem near nodes/internode bases can remain active and regrow leaves or stems after cutting.",
+          "Incorrect. Cork cambium forms protective cork tissue; it does not explain regrowth of grass leaves."
+        ]
       }
     },
     {
@@ -2266,6 +2336,20 @@
       "explanation": {
         "hi": "उपकला कोशिकाएँ एक-दूसरे से चिपककर निरंतर परत बनाती हैं; बीच में अंतरकोशिकीय द्रव्य लगभग नहीं होता।",
         "en": "Epithelial cells form continuous sheets with almost no intercellular material between them."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: चौड़े अंतराल वाली व्यवस्था उपकला की निरंतर परत बनाने के काम से मेल नहीं खाती।",
+          "गलत: मैट्रिक्स में धँसी कोशिकाएँ उपास्थि जैसे संयोजी ऊतक की विशेषता हो सकती हैं।",
+          "गलत: उपकला कोशिकाएँ सामान्यतः जीवित होती हैं; वे मृत खोखली कोशिकाओं से नहीं बनी होतीं।",
+          "सही: उपकला कोशिकाएँ पास-पास सटी होती हैं और कम अंतरकोशिकीय पदार्थ के साथ सतत परत बनाती हैं।"
+        ],
+        "en": [
+          "Incorrect. Wide gaps do not fit the role of epithelium as a continuous covering sheet.",
+          "Incorrect. Cells embedded in a matrix are characteristic of connective tissues such as cartilage.",
+          "Incorrect. Epithelial cells are generally living; they are not a sheet of dead hollow cells.",
+          "Correct. Epithelial cells are closely packed and form continuous sheets with little intercellular material."
+        ]
       }
     },
     {
@@ -2294,6 +2378,20 @@
       "explanation": {
         "hi": "अत्यंत पतली शल्की उपकला से गैसों का विसरण सरल हो जाता है।",
         "en": "The very thin squamous epithelium makes diffusion of gases easy."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: एल्वियोलाइ की दीवार बहुत पतली सरल शल्की उपकला से बनी होती है, जिससे ऑक्सीजन और कार्बन डाइऑक्साइड का विसरण आसान होता है।",
+          "गलत: स्तंभाकार उपकला लंबी कोशिकाओं वाली होती है और एल्वियोलाइ की अत्यंत पतली दीवार के लिए उपयुक्त नहीं।",
+          "गलत: पक्षमाभीय उपकला में पक्ष्म होते हैं; यह श्वासनली जैसे मार्गों में मिलती है, एल्वियोलाइ में नहीं।",
+          "गलत: घनाकार उपकला गुर्दे की नलिकाओं जैसी जगहों पर मिलती है; एल्वियोलाइ में गैस-विनिमय हेतु पतली शल्की उपकला होती है।"
+        ],
+        "en": [
+          "Correct. Alveolar walls have very thin simple squamous epithelium, allowing oxygen and carbon dioxide to diffuse efficiently.",
+          "Incorrect. Columnar epithelium has taller cells and is not suited to the extremely thin alveolar wall.",
+          "Incorrect. Ciliated epithelium occurs in passages such as the trachea, not in alveoli.",
+          "Incorrect. Cuboidal epithelium lines structures such as kidney tubules; alveoli use thin squamous epithelium for gas exchange."
+        ]
       }
     },
     {
@@ -2322,6 +2420,20 @@
       "explanation": {
         "hi": "गुर्दे की नलिकाओं में घनाकार उपकला होती है जो अवशोषण और स्राव में सहायक है।",
         "en": "Kidney tubules are lined by cuboidal epithelium, which helps in absorption and secretion."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: शल्की उपकला बहुत पतली होती है और विसरण के लिए उपयुक्त है; गुर्दे की अधिकांश नलिकाएँ घनाकार उपकला से ढकी होती हैं।",
+          "सही: घनाकार उपकला की कोशिकाएँ लगभग घन जैसी होती हैं और गुर्दे की नलिकाओं में अवशोषण तथा स्राव में मदद करती हैं।",
+          "गलत: स्तंभाकार उपकला लंबी कोशिकाओं वाली होती है; यह आँत जैसे भागों में आम है।",
+          "गलत: बहुस्तरित उपकला कई परतों से बनी होती है और घर्षण से सुरक्षा देती है; गुर्दे की अधिकांश नलिकाओं की सामान्य परत नहीं।"
+        ],
+        "en": [
+          "Incorrect. Squamous epithelium is very thin and suited to diffusion; most kidney tubules are lined by cuboidal epithelium.",
+          "Correct. Cuboidal cells are roughly cube-shaped and help absorption and secretion in kidney tubules.",
+          "Incorrect. Columnar epithelium has tall cells and is common in places such as the intestine.",
+          "Incorrect. Stratified epithelium has multiple layers and protects against abrasion; it is not the usual lining of most kidney tubules."
+        ]
       }
     },
     {
@@ -2350,6 +2462,20 @@
       "explanation": {
         "hi": "आँत में स्तंभाकार उपकला होती है जिसका कार्य अवशोषण और स्राव है।",
         "en": "The intestine has columnar epithelium whose roles are absorption and secretion."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: घनाकार उपकला गुर्दे की नलिकाओं जैसे स्थानों पर आम है, आँत की मुख्य अवशोषक परत नहीं।",
+          "गलत: संवहनी ऊतक पौधों में परिवहन से जुड़ा है, मानव आँत की परत नहीं।",
+          "सही: आँत की भीतरी सतह सामान्यतः सरल स्तंभाकार उपकला से बनी होती है, जिसमें अवशोषण करने वाली कोशिकाएँ और कई क्षेत्रों में गोब्लेट कोशिकाएँ होती हैं।",
+          "गलत: शल्की उपकला पतली होती है और एल्वियोलाइ जैसे विसरण-स्थलों में मिलती है; आँत की सामान्य परत स्तंभाकार है।"
+        ],
+        "en": [
+          "Incorrect. Cuboidal epithelium commonly lines kidney tubules, not the main absorptive lining of the intestine.",
+          "Incorrect. Vascular tissue is a plant transport tissue, not the lining of the human intestine.",
+          "Correct. The intestinal lining is generally simple columnar epithelium, with absorptive cells and goblet cells in many regions.",
+          "Incorrect. Squamous epithelium suits thin diffusion surfaces such as alveoli; the usual intestinal lining is columnar."
+        ]
       }
     },
     {
@@ -2378,6 +2504,20 @@
       "explanation": {
         "hi": "श्वासनली की पक्षमाभीय उपकला की पक्षमें धूल-कणों और श्लेष्मा को ऊपर की ओर धकेलती रहती हैं।",
         "en": "The ciliated epithelium of the trachea constantly pushes dust particles and mucus upward."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: श्वासनली की उपकला की पहचान केवल मोटाई नहीं; पक्ष्म धूल और श्लेष्मा को ऊपर ले जाने में मदद करते हैं।",
+          "गलत: वसा स्राव श्वासनली की पक्षमाभीय उपकला का मुख्य कार्य नहीं।",
+          "गलत: रक्त निर्माण अस्थिमज्जा का कार्य है, श्वासनली की उपकला का नहीं।",
+          "सही: पक्ष्म श्लेष्मा में फँसे धूल-कणों को गले की ओर ले जाने में मदद करते हैं, जहाँ उन्हें निगला या बाहर निकाला जा सकता है।"
+        ],
+        "en": [
+          "Incorrect. Thickness alone is not the defining feature; cilia help move mucus and trapped particles upward.",
+          "Incorrect. Fat secretion is not the main function of the tracheal ciliated epithelium.",
+          "Incorrect. Blood-cell production is a bone-marrow function, not a tracheal epithelial function.",
+          "Correct. Cilia move mucus and trapped particles toward the throat, where they can be swallowed or expelled."
+        ]
       }
     },
     {
