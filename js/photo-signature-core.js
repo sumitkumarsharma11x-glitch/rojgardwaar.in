@@ -20,7 +20,7 @@
       return { ok: false, code: 'heic', message: 'HEIC/HEIF फोटो समर्थित नहीं है। फोन की सेटिंग में "Most Compatible/JPG" चुनें, या फोटो का screenshot लें। (HEIC not supported)' };
     }
     const typeOk = ALLOWED_TYPES.includes(file.type) || (!file.type && ALLOWED_EXT.test(name));
-    if (!typeOk) return { ok: false, code: 'type', message: 'सिर्फ JPG, JPEG या PNG फाइल चुनें। (Only JPG, JPEG or PNG files)' };
+    if (!typeOk) return { ok: false, code: 'type', message: 'सिर्फ JPG, PNG या WebP image चुनें। (Only JPG, PNG or WebP images)' };
     if (!(file.size > 0)) return { ok: false, code: 'empty', message: 'यह फाइल खाली है। (File is empty)' };
     if (file.size > LIMITS.maxFileBytes) return { ok: false, code: 'big', message: 'फाइल 20 MB से बड़ी है। कृपया छोटी फोटो चुनें। (File over 20 MB)' };
     return { ok: true };
