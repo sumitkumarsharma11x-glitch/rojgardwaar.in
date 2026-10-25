@@ -75,3 +75,111 @@
     display: grid !important;
   }
 }
+
+
+/* Header overflow fix: move the full navigation into the existing disclosure menu
+   before the logo, links and account actions can collide on tablet-sized screens. */
+@media (min-width: 701px) and (max-width: 1000px) {
+  .reference-header,
+  .reference-header .header-row {
+    height: 68px;
+  }
+  .reference-header .header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    min-width: 0;
+  }
+  .reference-header .brand-image {
+    flex: 0 1 220px;
+    width: min(220px, 42vw);
+    min-width: 0;
+    height: 54px;
+  }
+  .reference-header .reference-nav {
+    display: none !important;
+  }
+  .reference-header .mobile-menu-disclosure {
+    display: block !important;
+    position: relative;
+    flex: 0 0 40px;
+    z-index: 10010;
+  }
+  .reference-header .mobile-menu-disclosure > summary {
+    appearance: none;
+    -webkit-appearance: none;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #d7dce4;
+    border-radius: 10px;
+    background: #fff;
+    color: #172033;
+    cursor: pointer;
+    touch-action: manipulation;
+  }
+  .reference-header .mobile-menu-disclosure > summary::-webkit-details-marker,
+  .reference-header .mobile-menu-disclosure > summary::marker {
+    display: none;
+    content: "";
+  }
+  .reference-header .railway-menu-icon {
+    width: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .reference-header .railway-menu-icon i {
+    display: block;
+    width: 18px;
+    height: 2px;
+    margin: 0;
+    border-radius: 2px;
+    background: #172033;
+  }
+  .reference-header .mobile-menu-disclosure .mobile-ref-menu {
+    position: absolute;
+    top: 48px;
+    right: 0;
+    left: auto;
+    width: min(280px, calc(100vw - 30px));
+    z-index: 10020;
+    display: none;
+    padding: 8px 15px;
+    background: #fff;
+    border: 1px solid #e5e9ef;
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.18);
+  }
+  .reference-header .mobile-menu-disclosure[open] .mobile-ref-menu {
+    display: grid;
+  }
+  .reference-header .mobile-ref-menu a {
+    padding: 12px;
+    text-decoration: none;
+    color: #0d2f63;
+    font-weight: 600;
+    border-bottom: 1px solid #edf0f4;
+  }
+  .reference-header .mobile-ref-menu a:last-child {
+    border-bottom: 0;
+  }
+  .reference-header #rjd-account-chip {
+    margin-left: auto;
+    flex: 0 1 auto;
+    min-width: 0;
+    max-width: calc(100% - 280px);
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 6px;
+  }
+  .reference-header #rjd-account-chip .rjd-chip-link {
+    white-space: nowrap;
+  }
+}
