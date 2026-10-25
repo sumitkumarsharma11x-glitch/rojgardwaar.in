@@ -1286,6 +1286,20 @@
       "explanation": {
         "hi": "लिनियस ने प्रत्येक जीव को दो शब्दों वाला वैज्ञानिक नाम देने की पद्धति दी, इसीलिए उन्हें वर्गीकरण का जनक भी कहते हैं।",
         "en": "Linnaeus gave the system of two-word scientific names for every organism, and is also called the father of classification."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: डार्विन प्राकृतिक चयन और विकासवाद के लिए प्रसिद्ध हैं; द्विपद नामकरण की पद्धति लिनियस से जुड़ी है।",
+          "गलत: व्हिटेकर पाँच-जगत वर्गीकरण प्रस्तावित करने के लिए प्रसिद्ध हैं।",
+          "सही: कैरोलस लिनियस ने द्विपद नामकरण को व्यवस्थित रूप दिया, जिसमें वंश और विशिष्ट पद शामिल होते हैं।",
+          "गलत: मेंडल आनुवंशिकी के नियमों के लिए प्रसिद्ध हैं, वैज्ञानिक नामकरण के लिए नहीं।"
+        ],
+        "en": [
+          "Incorrect. Darwin is known for natural selection and evolution; binomial nomenclature is associated with Linnaeus.",
+          "Incorrect. Whittaker is known for proposing the five-kingdom classification.",
+          "Correct. Carolus Linnaeus systematised binomial nomenclature, which uses a genus name and a specific epithet.",
+          "Incorrect. Mendel is known for foundational genetics, not scientific naming."
+        ]
       }
     },
     {
@@ -1314,6 +1328,20 @@
       "explanation": {
         "hi": "जगत सबसे बड़ी और जाति सबसे छोटी श्रेणी है; क्रम याद रखें — जगत, संघ, वर्ग, गण, कुल, वंश, जाति।",
         "en": "Kingdom is the largest and species the smallest category; remember the order — Kingdom, Phylum, Class, Order, Family, Genus, Species."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: वर्ग, संघ से नीचे नहीं बल्कि संघ के बाद आता है; यहाँ वर्ग और संघ का क्रम उलटा है।",
+          "गलत: संघ जगत से छोटा होता है; सूची की शुरुआत ही उलटी है और गण/वर्ग का क्रम भी गलत है।",
+          "गलत: वर्ग को गण से पहले आना चाहिए; यहाँ गण पहले दिया गया है।",
+          "सही: बड़े से छोटे का क्रम जगत → संघ → वर्ग → गण → कुल → वंश → जाति है।"
+        ],
+        "en": [
+          "Incorrect. Class comes after phylum, not before it; the order of class and phylum is reversed here.",
+          "Incorrect. Phylum is below kingdom; the sequence begins incorrectly and order/class are also misplaced.",
+          "Incorrect. Class should precede order; this option puts order first.",
+          "Correct. From largest to smallest: Kingdom → Phylum → Class → Order → Family → Genus → Species."
+        ]
       }
     },
     {
@@ -1342,6 +1370,20 @@
       "explanation": {
         "hi": "जाति मूल श्रेणी है — इसके सदस्य समान होते हैं और आपस में प्रजनन कर सकते हैं।",
         "en": "Species is the basic unit — its members are alike and can interbreed."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही, लैंगिक जनन करने वाले जीवों की जैविक जाति अवधारणा में: सदस्य प्राकृतिक परिस्थितियों में परस्पर प्रजनन कर उपजाऊ संतति दे सकते हैं। अलैंगिक जीवों और जीवाश्मों के लिए अन्य मानदंड भी चाहिए।",
+          "गलत: गण एक बड़ी श्रेणी है, जाति से ऊपर आती है।",
+          "गलत: वंश में एक या अधिक निकट संबंधित जातियाँ हो सकती हैं, इसलिए यह जाति से बड़ी श्रेणी है।",
+          "गलत: कुल में कई संबंधित वंश हो सकते हैं, इसलिए यह जाति से बड़ी श्रेणी है।"
+        ],
+        "en": [
+          "Correct for the biological species concept in sexually reproducing organisms: members can interbreed naturally and produce fertile offspring. Asexual organisms and fossils require other criteria.",
+          "Incorrect. Order is a higher category than species.",
+          "Incorrect. A genus can include one or more closely related species, so it is a higher category.",
+          "Incorrect. A family can contain several related genera, so it is a higher category."
+        ]
       }
     },
     {
@@ -1370,6 +1412,20 @@
       "explanation": {
         "hi": "एक जाति के सदस्य आपस में प्रजनन कर उपजाऊ संतति दे सकते हैं — यही जाति की कसौटी है।",
         "en": "Members of one species can interbreed to produce fertile offspring — that is the test of a species."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: एक ही क्षेत्र में रहना जाति की पर्याप्त परिभाषा नहीं; अलग जातियाँ साथ रह सकती हैं।",
+          "सही, जैविक जाति अवधारणा में: प्राकृतिक परिस्थितियों में प्रजनन कर उपजाऊ संतति देना मुख्य कसौटी है; यह मानदंड सभी जीवों पर समान रूप से लागू नहीं होता।",
+          "गलत: एक जाति के सदस्यों का आकार अलग हो सकता है, जैसे नर-मादा या उम्र के अनुसार।",
+          "गलत: रंग एक जाति के भीतर भी बदल सकता है; अकेले रंग से जाति तय नहीं होती।"
+        ],
+        "en": [
+          "Incorrect. Living in the same area is not enough to define a species; different species can coexist.",
+          "Correct under the biological species concept: natural interbreeding producing fertile offspring is a key criterion, though it does not apply equally to all organisms.",
+          "Incorrect. Size can vary within a species, including by sex or age.",
+          "Incorrect. Colour can vary within a species and cannot define it by itself."
+        ]
       }
     },
     {
@@ -1396,8 +1452,22 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "पहला शब्द वंश (genus) और दूसरा जाति (species) होता है — जैसे Mangifera में Mangifera वंश है।",
-        "en": "The first word is the genus and the second the species — as in Mangifera, where Mangifera is the genus."
+        "hi": "वैज्ञानिक नाम के पहले शब्द में वंश (genus) का नाम होता है और दूसरे में विशिष्ट पद (specific epithet); दोनों मिलकर प्रजाति का द्विपद नाम बनाते हैं। उदाहरण: Mangifera indica।",
+        "en": "The first word is the genus name and the second is the specific epithet; together they form the species' binomial name. Example: Mangifera indica."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: जगत और वंश वर्गीकरण की अलग-अलग श्रेणियाँ हैं; वे वैज्ञानिक नाम के दो शब्द नहीं।",
+          "गलत: कुल और गण भी वर्गीकरण की श्रेणियाँ हैं, नाम के दो हिस्से नहीं।",
+          "सही: पहला शब्द वंश (genus) और दूसरा विशिष्ट पद (specific epithet) होता है; दोनों मिलकर द्विपद नाम बनाते हैं।",
+          "गलत: वर्ग और संघ टैक्सोनॉमिक श्रेणियाँ हैं, वैज्ञानिक नाम के शब्द नहीं।"
+        ],
+        "en": [
+          "Incorrect. Kingdom and genus are taxonomic ranks, not the two parts of a scientific name.",
+          "Incorrect. Family and order are ranks, not the two words in a binomial name.",
+          "Correct. The first word is the genus and the second is the specific epithet; together they form the binomial name.",
+          "Incorrect. Class and phylum are ranks, not the two words in a scientific name."
+        ]
       }
     },
     {
@@ -1426,6 +1496,20 @@
       "explanation": {
         "hi": "उदाहरण — Homo sapiens: वंश Homo बड़े अक्षर से, जाति sapiens छोटे अक्षर से, और पूरा नाम इटैलिक में लिखा जाता है।",
         "en": "Example — Homo sapiens: genus Homo with a capital, species sapiens in lower case, the whole name in italics."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: वैज्ञानिक नाम में वंश का पहला अक्षर बड़ा होता है, विशिष्ट पद छोटे अक्षर से लिखा जाता है।",
+          "गलत: वैज्ञानिक नाम को हमेशा अलग-अलग पंक्तियों में लिखना नियम नहीं; मुद्रित रूप में उसे इटैलिक करते हैं।",
+          "गलत: दूसरा शब्द बड़े अक्षर से नहीं, छोटे अक्षर से शुरू होता है।",
+          "सही: मुद्रित पाठ में दोनों शब्द इटैलिक होते हैं; वंश का पहला अक्षर बड़ा और विशिष्ट पद छोटे अक्षर से शुरू होता है। हस्तलिखित नाम में शब्दों को अलग-अलग रेखांकित किया जा सकता है।"
+        ],
+        "en": [
+          "Incorrect. The genus begins with a capital letter, while the specific epithet begins with a lowercase letter.",
+          "Incorrect. Scientific names do not have to be written on separate lines; printed names are italicised.",
+          "Incorrect. The second word begins with a lowercase letter, not a capital.",
+          "Correct. In print both words are italicised; the genus starts with a capital and the specific epithet with lowercase. Handwritten names may be underlined separately."
+        ]
       }
     },
     {
@@ -1454,6 +1538,20 @@
       "explanation": {
         "hi": "Mangifera indica आम का द्विपद नाम है — Mangifera वंश और indica जाति सूचक शब्द है।",
         "en": "Mangifera indica is the binomial name of the mango — Mangifera the genus and indica the species epithet."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: Mangifera indica आम का वैज्ञानिक नाम है; Mangifera वंश और indica विशिष्ट पद है।",
+          "गलत: केले का वंश Musa है, Mangifera नहीं।",
+          "गलत: पपीते का वंश Carica है, Mangifera नहीं।",
+          "गलत: नारियल का वैज्ञानिक नाम Cocos nucifera है।"
+        ],
+        "en": [
+          "Correct. Mangifera indica is the scientific name of mango; Mangifera is the genus and indica the specific epithet.",
+          "Incorrect. Banana belongs to the genus Musa, not Mangifera.",
+          "Incorrect. Papaya belongs to the genus Carica, not Mangifera.",
+          "Incorrect. Coconut's scientific name is Cocos nucifera."
+        ]
       }
     },
     {
@@ -1482,6 +1580,20 @@
       "explanation": {
         "hi": "बाघ का नाम Panthera tigris है; tigris जाति-वाचक शब्द है और Panthera वंश शेर-बाघ-तेंदुए साझा रखते हैं।",
         "en": "The tiger is Panthera tigris; tigris is the species epithet, while the genus Panthera is shared with lion and leopard."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: शेर का वैज्ञानिक नाम Panthera leo है।",
+          "सही: Panthera tigris बाघ का वैज्ञानिक नाम है; Panthera वंश और tigris विशिष्ट पद है।",
+          "गलत: चीते का वैज्ञानिक नाम Acinonyx jubatus है।",
+          "गलत: तेंदुए का वैज्ञानिक नाम Panthera pardus है।"
+        ],
+        "en": [
+          "Incorrect. The lion's scientific name is Panthera leo.",
+          "Correct. Panthera tigris is the tiger's scientific name; Panthera is the genus and tigris the specific epithet.",
+          "Incorrect. The cheetah's scientific name is Acinonyx jubatus.",
+          "Incorrect. The leopard's scientific name is Panthera pardus."
+        ]
       }
     },
     {
@@ -1510,6 +1622,20 @@
       "explanation": {
         "hi": "साझा पहला शब्द Panthera समान वंश दर्शाता है; दूसरा शब्द leo बनाम tigris उन्हें अलग जातियाँ बनाता है।",
         "en": "The shared first word Panthera marks the same genus; the second words leo versus tigris make them separate species."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: दोनों नामों में Panthera समान वंश दिखाता है।",
+          "गलत: leo और tigris अलग विशिष्ट पद हैं, इसलिए ये अलग जातियाँ हैं।",
+          "सही: दोनों का वंश Panthera समान है, लेकिन शेर और बाघ अलग-अलग जातियाँ हैं।",
+          "गलत: यहाँ वंश अलग नहीं; Panthera दोनों में समान है।"
+        ],
+        "en": [
+          "Incorrect. The shared word Panthera indicates the same genus.",
+          "Incorrect. Leo and tigris are different specific epithets, so they are different species.",
+          "Correct. Both share the genus Panthera, but lion and tiger are different species.",
+          "Incorrect. Their genera are not different; both are Panthera."
+        ]
       }
     },
     {
@@ -1538,6 +1664,20 @@
       "explanation": {
         "hi": "क्रम है — ...वर्ग → गण → कुल → वंश → जाति; अतः कुल गण के नीचे और वंश के ऊपर आता है।",
         "en": "The rung order is ...Class → Order → Family → Genus → Species; so family lies below order and above genus."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: संघ, जगत के नीचे और वर्ग से ऊपर आता है; कुल की स्थिति इससे बहुत नीचे है।",
+          "गलत: गण, वर्ग के नीचे होता है; कुल गण के बाद आता है।",
+          "गलत: वंश, कुल के नीचे और जाति के ऊपर आता है; कुल वंश से ऊपर है।",
+          "सही: बड़े से छोटे क्रम में गण → कुल → वंश → जाति आता है; इसलिए कुल गण के नीचे और वंश के ऊपर है।"
+        ],
+        "en": [
+          "Incorrect. Phylum is below kingdom and above class; family is much lower in the hierarchy.",
+          "Incorrect. Order is below class; family comes after order.",
+          "Incorrect. Genus is below family and above species; family is above genus.",
+          "Correct. From larger to smaller: Order → Family → Genus → Species; family is below order and above genus."
+        ]
       }
     },
     {
