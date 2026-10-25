@@ -2545,6 +2545,20 @@
     "explanation": {
       "hi": "अमीबा एककोशिकीय जीव है जो कोशिका विभाजन से जनन करता है।",
       "en": "Amoeba, a unicellular organism, reproduces by cell division."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: अमीबा एक कोशिकीय जीव है; वह सामान्यतः द्विखंडन में अपना DNA प्रतिकृत करके कोशिका को दो पुत्री कोशिकाओं में बाँटता है।",
+        "गलत: मुकुलन में जनक पर उभार बनता है, जो अमीबा के सामान्य जनन का तरीका नहीं।",
+        "गलत: बीजाणु निर्माण कुछ कवकों और अन्य जीवों में होता है; अमीबा सामान्यतः द्विखंडन करता है।",
+        "गलत: कर्तन पौधों का कायिक प्रवर्धन है, अमीबा का जनन नहीं।"
+      ],
+      "en": [
+        "Correct. Amoeba is unicellular and commonly reproduces by binary fission, dividing into two daughter cells after DNA replication.",
+        "Incorrect. Budding forms an outgrowth on a parent; it is not the usual reproductive method of Amoeba.",
+        "Incorrect. Spore formation occurs in some fungi and other organisms; Amoeba commonly divides by binary fission.",
+        "Incorrect. Cutting is a vegetative propagation method for plants, not Amoeba reproduction."
+      ]
     }
   },
   {
@@ -2573,6 +2587,20 @@
     "explanation": {
       "hi": "समसूत्री विभाजन में, सामान्य परिस्थितियों में, पुत्री कोशिकाओं की गुणसूत्र संख्या जनक कोशिका के समान रहती है। इससे वृद्धि और ऊतक-मरम्मत में कोशिकाएँ समान गुणसूत्र संख्या बनाए रख सकती हैं।",
       "en": "In typical mitosis, daughter cells retain the same chromosome number as the parent cell. This helps cells maintain chromosome number during growth and tissue repair."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: समसूत्री विभाजन में गुणसूत्र संख्या सामान्यतः आधी नहीं होती; यह अर्धसूत्री विभाजन की विशेषता है।",
+        "सही: सामान्य समसूत्री विभाजन में पुत्री कोशिकाएँ जनक कोशिका जैसी गुणसूत्र संख्या रखती हैं।",
+        "गलत: गुणसूत्र संख्या दोगुनी होना सामान्य समसूत्री विभाजन का परिणाम नहीं।",
+        "गलत: सामान्य परिस्थितियों में समसूत्री विभाजन गुणसूत्र संख्या को स्थिर रखता है; हर बार अलग नहीं करता।"
+      ],
+      "en": [
+        "Incorrect. Mitosis does not normally halve chromosome number; that is characteristic of meiosis.",
+        "Correct. In typical mitosis, daughter cells retain the same chromosome number as the parent cell.",
+        "Incorrect. Doubling chromosome number is not the usual outcome of mitosis.",
+        "Incorrect. Under typical conditions, mitosis maintains chromosome number rather than changing it every time."
+      ]
     }
   },
   {
@@ -2601,6 +2629,20 @@
     "explanation": {
       "hi": "अलैंगिक जनन से बनी समान संतति क्लोन कहलाती है।",
       "en": "Identical offspring of asexual reproduction are called clones."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: भ्रूण विकास की अवस्था है, आनुवंशिक रूप से समान संतति के लिए शब्द नहीं।",
+        "गलत: युग्मनज निषेचन के बाद बनने वाली पहली कोशिका है।",
+        "सही: क्लोन आनुवंशिक रूप से समान प्रतियाँ होती हैं; उत्परिवर्तन जैसे बदलाव छोटे अंतर पैदा कर सकते हैं।",
+        "गलत: संकर आम तौर पर अलग आनुवंशिक गुणों वाले जनकों से उत्पन्न संतति है।"
+      ],
+      "en": [
+        "Incorrect. An embryo is a developmental stage, not the term for genetically identical offspring.",
+        "Incorrect. A zygote is the first cell formed after fertilisation.",
+        "Correct. Clones are genetically identical copies, although mutations can create small differences.",
+        "Incorrect. A hybrid is generally offspring from parents with different genetic characteristics."
+      ]
     }
   },
   {
@@ -2629,6 +2671,20 @@
     "explanation": {
       "hi": "बीजाणु हल्के होते हैं और वायु की धाराओं से आसानी से फैलते हैं।",
       "en": "Spores are light and spread easily through air currents."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: कुछ बीजाणु मिट्टी में भी मिलते हैं, लेकिन उनका फैलाव केवल मिट्टी तक सीमित नहीं।",
+        "गलत: लकड़ी पर कवक बढ़ सकता है, पर बीजाणु केवल लकड़ी से नहीं फैलते।",
+        "गलत: धातु बीजाणुओं के फैलने का माध्यम मात्र नहीं; बीजाणु विभिन्न सतहों और माध्यमों से फैल सकते हैं।",
+        "सही: कई कवकों के हल्के बीजाणु वायु धाराओं से फैलते हैं; कुछ बीजाणु पानी, संपर्क या अन्य माध्यमों से भी फैल सकते हैं।"
+      ],
+      "en": [
+        "Incorrect. Some spores occur in soil, but their dispersal is not limited to soil.",
+        "Incorrect. Fungi may grow on wood, but spores do not spread only through wood.",
+        "Incorrect. Metal is not the sole dispersal medium; spores can move through different environments and surfaces.",
+        "Correct. Many fungal spores are light and disperse in air currents, though some spread by water, contact or other routes."
+      ]
     }
   },
   {
@@ -2657,6 +2713,20 @@
     "explanation": {
       "hi": "बीजाणु हल्के, प्रायः एककोशिकीय होते हैं और वायु से फैलते हैं।",
       "en": "Spores are light, usually unicellular, and disperse through air."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही, कई कवकों के बीजाणु हल्के और एककोशिकीय होते हैं, जिससे वे फैल सकते हैं; सभी बीजाणु हर जीव में एक जैसे नहीं होते।",
+        "गलत: बीजाणु सामान्यतः भारी और बहुकोशिकीय ही हों, ऐसा नहीं; कई बहुत छोटे और एककोशिकीय होते हैं।",
+        "गलत: बीजाणु जीवित प्रजनन/वितरण संरचनाएँ हो सकते हैं; उन्हें केवल मृत कहना गलत है।",
+        "गलत: बीजाणु ठोस पदार्थ के छोटे कण मात्र नहीं; वे विशेष जैविक संरचनाएँ हैं।"
+      ],
+      "en": [
+        "Correct for many fungal spores: they are light and unicellular, helping dispersal; spores vary across organisms.",
+        "Incorrect. Spores are not generally all heavy and multicellular; many are tiny and unicellular.",
+        "Incorrect. Spores can be living reproductive/dispersal structures; they are not simply dead.",
+        "Incorrect. Spores are specialized biological structures, not merely solid particles."
+      ]
     }
   },
   {
@@ -2664,27 +2734,41 @@
     "topic": "asexual-methods-organisms",
     "difficulty": "hard",
     "question": {
-      "hi": "लुई पाश्चर ने किस धारणा का खंडन किया?",
-      "en": "Which notion did Louis Pasteur disprove?"
+      "hi": "पाश्चर के स्वान-नेक फ्लास्क प्रयोगों ने किस धारणा को चुनौती दी कि सामान्य परिस्थितियों में सूक्ष्मजीव अपने-आप निर्जीव पदार्थ से उत्पन्न हो जाते हैं?",
+      "en": "Pasteur's swan-neck flask experiments challenged which idea that microorganisms arise spontaneously from non-living matter under ordinary conditions?"
     },
     "options": {
       "hi": [
         "प्रकाश संश्लेषण",
-        "स्वतः जनन (जीव निर्जीव से बनते हैं)",
+        "स्वतः जनन",
         "पृथ्वी गोल है",
         "रक्त परिसंचरण"
       ],
       "en": [
         "Photosynthesis",
-        "Spontaneous generation (life from non-living)",
-        "Earth is round",
+        "Spontaneous generation",
+        "The Earth is round",
         "Blood circulation"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "पाश्चर ने सिद्ध किया कि नया जीवन पहले से उपस्थित जीवन से ही बनता है, निर्जीव से नहीं।",
-      "en": "Pasteur proved that new life comes only from pre-existing life, not from non-living matter."
+      "hi": "पाश्चर के प्रयोगों ने दिखाया कि निष्क्रमित शोरबे में सूक्ष्मजीव तब नहीं उगते जब हवा तो प्रवेश कर सकती है, लेकिन धूल/सूक्ष्मजीव शोरबे तक नहीं पहुँचते। इससे सामान्य परिस्थितियों में स्वतः जनन के विचार को चुनौती मिली; यह पृथ्वी पर जीवन की बहुत प्रारंभिक उत्पत्ति के सभी प्रश्नों का अकेला उत्तर नहीं था।",
+      "en": "Pasteur's experiments showed that microbes did not grow in sterilized broth when air could enter but dust and microbes were kept from reaching the broth. This challenged spontaneous generation under ordinary conditions; it did not by itself answer every question about the earliest origin of life on Earth."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: प्रकाश संश्लेषण पौधों और कुछ अन्य जीवों की ऊर्जा-प्राप्ति प्रक्रिया है; यह प्रयोग का विषय नहीं था।",
+        "सही: प्रयोग ने सामान्य परिस्थितियों में सूक्ष्मजीवों के स्वतः निर्जीव पदार्थ से उत्पन्न होने की धारणा को चुनौती दी।",
+        "गलत: पृथ्वी के आकार का इस प्रयोग से संबंध नहीं था।",
+        "गलत: रक्त परिसंचरण इस प्रयोग का विषय नहीं था।"
+      ],
+      "en": [
+        "Incorrect. Photosynthesis is an energy-conversion process in plants and some other organisms; it was not the subject of this experiment.",
+        "Correct. The experiment challenged the idea that microorganisms spontaneously arise from non-living matter under ordinary conditions.",
+        "Incorrect. The shape of Earth was unrelated to this experiment.",
+        "Incorrect. Blood circulation was unrelated to this experiment."
+      ]
     }
   },
   {
@@ -2713,6 +2797,20 @@
     "explanation": {
       "hi": "यीस्ट एक एककोशिकीय कवक है जो मुकुलन से जनन करता है।",
       "en": "Yeast is a unicellular fungus that reproduces by budding."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: यीस्ट शैवाल नहीं, कवक समूह का जीव है।",
+        "गलत: यीस्ट सामान्यतः एककोशिकीय होता है, बहुकोशिकीय पादप नहीं।",
+        "सही: यीस्ट एककोशिकीय कवक है और कई परिस्थितियों में मुकुलन से जनन करता है।",
+        "गलत: यीस्ट जंतु नहीं है; यह कवक है।"
+      ],
+      "en": [
+        "Incorrect. Yeast is a fungus, not an alga.",
+        "Incorrect. Yeast is generally unicellular and is not a multicellular plant.",
+        "Correct. Yeast is a unicellular fungus and commonly reproduces by budding under suitable conditions.",
+        "Incorrect. Yeast is not an animal; it is a fungus."
+      ]
     }
   },
   {
@@ -2741,6 +2839,20 @@
     "explanation": {
       "hi": "मुकुलन में जनक के शरीर पर छोटा उभार बनता है जो बढ़कर नया जीव बन जाता है।",
       "en": "In budding, a small outgrowth appears on the parent that grows into a new organism."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: बीज पौधों के जनन से जुड़े हैं; मुकुलन में उभार बनता है।",
+        "गलत: फूल पौधों की प्रजनन संरचना है, मुकुलन में बनने वाला उभार नहीं।",
+        "गलत: फल फूल के बाद बन सकता है, लेकिन मुकुलन की संरचना नहीं है।",
+        "सही: मुकुलन में जनक के शरीर पर छोटा उभार/मुकुल बनता है, जो बढ़कर अलग हो सकता है।"
+      ],
+      "en": [
+        "Incorrect. Seeds are associated with plant reproduction; budding forms an outgrowth.",
+        "Incorrect. A flower is a plant reproductive structure, not the outgrowth formed in budding.",
+        "Incorrect. A fruit may develop after a flower, but it is not the structure formed in budding.",
+        "Correct. In budding, a small outgrowth or bud forms on the parent, grows and may detach."
+      ]
     }
   },
   {
@@ -2769,6 +2881,20 @@
     "explanation": {
       "hi": "मुकुल बड़ा होकर जनक से अलग होकर स्वतंत्र जीव बन जाता है।",
       "en": "The bud enlarges and separates from the parent to live independently."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: मुकुल बढ़ता है और कई जीवों में जनक से अलग होकर स्वतंत्र जीव बन सकता है।",
+        "गलत: बीज से अंकुरण अलग जनन/विकास प्रक्रिया है, मुकुलन का चरण नहीं।",
+        "गलत: निषेचन लैंगिक जनन में युग्मकों के संलयन से होता है।",
+        "गलत: परागण फूल वाले पौधों में पराग के स्थानांतरण की प्रक्रिया है।"
+      ],
+      "en": [
+        "Correct. The bud grows and, in many organisms, can detach from the parent to become an independent individual.",
+        "Incorrect. Germination from a seed is a different process, not a stage of budding.",
+        "Incorrect. Fertilisation is the fusion of gametes in sexual reproduction.",
+        "Incorrect. Pollination is pollen transfer in flowering plants."
+      ]
     }
   },
   {
@@ -2776,27 +2902,41 @@
     "topic": "asexual-methods-organisms",
     "difficulty": "medium",
     "question": {
-      "hi": "बीजाणुओं के अंकुरण के लिए क्या आवश्यक है?",
-      "en": "What is needed for spores to germinate?"
+      "hi": "कवक के बीजाणुओं के अंकुरण के लिए सामान्यतः क्या चाहिए?",
+      "en": "What is generally needed for fungal spores to germinate?"
     },
     "options": {
       "hi": [
         "केवल हवा का दबाव",
-        "नमी और पोषण",
+        "उपयुक्त नमी, तापमान और अनुकूल पोषक/पर्यावरणीय स्थितियाँ",
         "केवल प्रकाश",
         "केवल ध्वनि"
       ],
       "en": [
         "Only air pressure",
-        "Moisture and nutrients",
+        "Suitable moisture, temperature and favourable nutrient/environmental conditions",
         "Only light",
         "Only sound"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "बीजाणु नमी और पोषक तत्व मिलने पर अंकुरित होकर नया जीव बनाते हैं।",
-      "en": "Spores germinate into new organisms when they get moisture and nutrients."
+      "hi": "कई कवकीय बीजाणुओं को अंकुरण के लिए नमी और उपयुक्त तापमान चाहिए; आगे की वृद्धि के लिए उपयुक्त पोषक स्रोत और अन्य परिस्थितियाँ भी महत्वपूर्ण होती हैं। सटीक आवश्यकताएँ प्रजाति के अनुसार बदलती हैं।",
+      "en": "Many fungal spores need moisture and a suitable temperature to germinate; a suitable nutrient source and other conditions matter for subsequent growth. Exact requirements vary by species."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: केवल हवा का दबाव सामान्यतः बीजाणु अंकुरण की पर्याप्त शर्त नहीं है।",
+        "सही: नमी, उपयुक्त तापमान और प्रजाति के अनुकूल वातावरण बीजाणु अंकुरण/वृद्धि में मदद करते हैं।",
+        "गलत: सभी कवकीय बीजाणुओं को प्रकाश की आवश्यकता नहीं होती; कई अंधेरे में भी अंकुरित हो सकते हैं।",
+        "गलत: ध्वनि बीजाणु अंकुरण की सामान्य आवश्यक शर्त नहीं है।"
+      ],
+      "en": [
+        "Incorrect. Air pressure alone is not generally sufficient for spore germination.",
+        "Correct. Moisture, suitable temperature and species-appropriate conditions support germination and growth.",
+        "Incorrect. Not all fungal spores require light; many can germinate in darkness.",
+        "Incorrect. Sound is not a general requirement for spore germination."
+      ]
     }
   },
   {
