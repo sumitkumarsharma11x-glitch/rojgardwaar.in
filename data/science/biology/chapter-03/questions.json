@@ -4226,6 +4226,20 @@
       "explanation": {
         "hi": "छाती की वक्षास्थि से उड़ान पेशियाँ जुड़ती हैं; यही अस्थि शरीर के आकार को उड़ान के अनुकूल रखती है।",
         "en": "Flight muscles anchor to the breastbone (sternum), which also shapes the body for flight."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: पक्षियों की बड़ी उड़ान पेशियाँ उरोस्थि की कीलनुमा उभरी सतह (keel) सहित उससे जुड़ती हैं, जिससे पंख फड़फड़ाने के लिए बल मिलता है।",
+          "गलत: फीमर जाँघ की अस्थि है; उड़ान पेशियों का मुख्य जुड़ाव नहीं।",
+          "गलत: पटेला घुटने की अस्थि है।",
+          "गलत: क्लैविकल/हंसली कंधे की मेखला का भाग है, लेकिन बड़ी उड़ान पेशियों का मुख्य जुड़ाव उरोस्थि से होता है।"
+        ],
+        "en": [
+          "Correct. Major flight muscles attach to the sternum, especially its keel, which provides a large surface for generating wing power.",
+          "Incorrect. The femur is the thigh bone, not the main attachment for flight muscles.",
+          "Incorrect. The patella is the kneecap.",
+          "Incorrect. The clavicle is part of the shoulder girdle, but the major flight muscles attach mainly to the sternum."
+        ]
       }
     },
     {
@@ -4254,6 +4268,20 @@
       "explanation": {
         "hi": "पेशी संकुचित होकर अस्थि खींचती है और संधि उस खिंचाव को घूमने में बदल देती है — तीनों आवश्यक हैं।",
         "en": "Muscles contract and pull bones, and joints convert that pull into rotation — all three are essential."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अस्थियाँ अकेले सक्रिय बल नहीं बनातीं; पेशियों का संकुचन और संधियों की गति भी आवश्यक है।",
+          "सही: पेशियाँ बल पैदा करती हैं, अस्थियाँ लीवर की तरह काम करती हैं और संधियाँ गति की दिशा/सीमा तय करती हैं।",
+          "गलत: त्वचा शरीर को ढकती है; वह अकेले कंकाली गति नहीं कराती।",
+          "गलत: रक्त ऑक्सीजन और पोषक पदार्थ पहुँचाता है, लेकिन अस्थियों को सीधे नहीं चलाता।"
+        ],
+        "en": [
+          "Incorrect. Bones do not actively generate force alone; muscle contraction and joint movement are also needed.",
+          "Correct. Muscles generate force, bones act as levers, and joints allow/control the movement.",
+          "Incorrect. Skin covers the body; it does not by itself produce skeletal movement.",
+          "Incorrect. Blood delivers oxygen and nutrients but does not directly move bones."
+        ]
       }
     },
     {
@@ -4282,6 +4310,20 @@
       "explanation": {
         "hi": "अक्ष संधि में घूर्णन एक ही अक्ष पर होता है, जैसा गर्दन या अग्रभुजा में होता है।",
         "en": "In a pivot joint, rotation occurs around a single axis, as in the neck or forearm."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: फिसलनी संधि छोटी अस्थियों को एक-दूसरे पर सीमित सरकने देती है।",
+          "गलत: गेंद-गर्त संधि कई दिशाओं में गति देती है, केवल एक अक्ष पर नहीं।",
+          "सही: अक्ष संधि में एक अस्थि दूसरी के सापेक्ष एक अक्ष के चारों ओर घूमती है।",
+          "गलत: स्थिर संधि में गति नहीं या बहुत नगण्य होती है।"
+        ],
+        "en": [
+          "Incorrect. Gliding joints allow limited sliding between small bones.",
+          "Incorrect. Ball-and-socket joints allow movement in several directions, not just around one axis.",
+          "Correct. A pivot joint allows one bone to rotate around an axis relative to another.",
+          "Incorrect. Fixed joints allow no or negligible movement."
+        ]
       }
     },
     {
@@ -4310,6 +4352,20 @@
       "explanation": {
         "hi": "पसलियाँ उरोस्थि से उपास्थि के माध्यम से जुड़ती हैं; यह जोड़ अल्प गति देता है जो श्वसन के लिए पर्याप्त है।",
         "en": "Ribs join the sternum via cartilage; this slightly movable joint gives just enough play for breathing."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: पसलियाँ उरोस्थि से गेंद-गर्त संधि द्वारा नहीं जुड़तीं।",
+          "गलत: पसलियाँ उरोस्थि से जुड़ती हैं, इसलिए 'कोई संधि نہیں' درست نہیں؛ زیادہ تر جوڑ محدود حرکت دیتے ہیں۔",
+          "गलत: زیادہ تر پسلی-उरोस्थि جوڑ سانس کے دوران محدود حرکت دیتے ہیں؛ سب کو مکمل طور پر اٹل نہیں کہا جا سکتا۔",
+          "سही: पसलियों का उरोस्थि से उपास्थि के माध्यम से जुड़ाव सीमित गति देता है, जो छाती के फैलने-सिकुड़ने में मदद करता है۔"
+        ],
+        "en": [
+          "Incorrect. Ribs do not connect to the sternum through ball-and-socket joints.",
+          "Incorrect. Ribs do connect to the sternum; most of these connections permit limited movement.",
+          "Incorrect. Most rib-sternum connections allow limited movement during breathing, so they are not all completely immobile.",
+          "Correct. Rib connections to the sternum through cartilage allow limited movement that helps the chest expand and contract."
+        ]
       }
     },
     {
@@ -4338,6 +4394,20 @@
       "explanation": {
         "hi": "कंधा गेंद-गर्त संधि है — सभी दिशाओं में घूमता है; कोहनी कबंध संधि है — केवल एक तल में मुड़ती है।",
         "en": "The shoulder is a ball-and-socket joint rotating in all directions; the elbow is a hinge bending in one plane."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: कोहनी कबंध संधि है जो मुख्यतः एक तल में मुड़ती और सीधी होती है; कंधे की गेंद-गर्त संधि व्यापक गति देती है।",
+          "गलत: कोहनी में पेशियाँ मौजूद हैं; बाइसेप्स और ट्राइसेप्स गति कराती हैं।",
+          "गलत: कंधे की गति का कारण अस्थियों का नरम होना नहीं, बल्कि संधि का गेंद-गर्त प्रकार और आसपास की संरचनाएँ हैं।",
+          "गलत: कोहनी की उपास्थि मृत होने से गति सीमित नहीं होती; मुख्य अंतर संधि की संरचना है।"
+        ],
+        "en": [
+          "Correct. The elbow is a hinge joint that mainly bends and straightens in one plane; the shoulder's ball-and-socket joint allows wider movement.",
+          "Incorrect. The elbow has muscles, including biceps and triceps, that move it.",
+          "Incorrect. Shoulder mobility is due to its ball-and-socket structure and surrounding tissues, not softer bones.",
+          "Incorrect. The elbow's cartilage is not what limits its range; the main difference is joint structure."
+        ]
       }
     },
     {
@@ -4366,6 +4436,20 @@
       "explanation": {
         "hi": "रेखित पेशियाँ अस्थियों से जुड़ी होती हैं और हमारी इच्छा से संकुचित होती हैं — जैसे हाथ-पैर की पेशियाँ।",
         "en": "Striated muscles attach to bones and contract at our will — like the muscles of the limbs."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: रुधिर वाहिकाएँ पेशियों को रक्त देती हैं, लेकिन ऐच्छिक रेखित पेशियाँ मुख्यतः अस्थियों से जुड़कर गति कराती हैं।",
+          "सही: कंकाली रेखित पेशियाँ टेंडन द्वारा अस्थियों से जुड़ती हैं और इच्छा से गति कराती हैं।",
+          "गलत: हृदय से जुड़ी हृदयी पेशी अनैच्छिक होती है; ऐच्छिक रेखित पेशी का सामान्य उदाहरण हाथ-पैर की पेशियाँ हैं।",
+          "गलत: आँत की दीवार में मुख्यतः अरेखित/चिकनी पेशी होती है, जो अनैच्छिक रूप से काम करती है।"
+        ],
+        "en": [
+          "Incorrect. Blood vessels supply muscles, but voluntary striated muscles mainly attach to bones to produce movement.",
+          "Correct. Skeletal striated muscles attach to bones through tendons and produce voluntary movement.",
+          "Incorrect. Cardiac muscle in the heart is involuntary; limb muscles are typical voluntary striated muscles.",
+          "Incorrect. The intestinal wall mainly contains smooth muscle, which works involuntarily."
+        ]
       }
     },
     {
@@ -4394,6 +4478,20 @@
       "explanation": {
         "hi": "अरेखित पेशियाँ लहर की तरह क्रमशः संकुचित होती हैं — यही नाल-संचालन (peristalsis) भोजन को नीचे धकेलता है।",
         "en": "Smooth muscles contract in a wave — this peristalsis pushes the food onward."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: उपकला का स्राव पाचन में मदद करता है, लेकिन भोजन को आगे धकेलने की मुख्य गति पेशी संकुचन से होती है।",
+          "गलत: आँत की दीवार में मुख्यतः अरेखित/चिकनी पेशियाँ भोजन को आगे बढ़ाती हैं; रेखित पेशी इसका सामान्य स्रोत नहीं।",
+          "सही: चिकनी पेशियों की क्रमिक तरंगें (परिस्टाल्सिस) भोजन को आँत में आगे धकेलती हैं।",
+          "गलत: रक्त वाहिकाओं का दबाव भोजन को आँत में आगे नहीं बढ़ाता।"
+        ],
+        "en": [
+          "Incorrect. Epithelial secretions aid digestion, but the movement of food is mainly produced by muscle contractions.",
+          "Incorrect. Smooth muscle in the intestinal wall mainly moves food; striated muscle is not the usual source.",
+          "Correct. Sequential waves of smooth-muscle contraction (peristalsis) push food along the intestine.",
+          "Incorrect. Blood-vessel pressure does not propel food through the intestine."
+        ]
       }
     },
     {
@@ -4422,6 +4520,20 @@
       "explanation": {
         "hi": "हृदयी पेशी अनैच्छिक है — वह अपने आप, नियमित लय में संकुचित होती रहती है; हम उसे इच्छा से नहीं रोक सकते।",
         "en": "Cardiac muscle is involuntary — it beats automatically in a set rhythm and cannot be willed to stop."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: हृदय की पेशी उपकला नहीं, विशेष प्रकार की पेशी ऊतक है।",
+          "गलत: तंत्रिका तंत्र हृदय की लय को नियंत्रित कर सकता है, लेकिन हृदय की संकुचनशील कोशिकाएँ हृदयी पेशी होती हैं।",
+          "गलत: हृदयी पेशी अनैच्छिक है; हम सामान्यतः इसे सीधे इच्छा से शुरू या बंद नहीं कर सकते।",
+          "सही: हृदयी पेशी अनैच्छिक रूप से लयबद्ध संकुचन करती है और इसका अपना विद्युत-संचालन तंत्र भी होता है।"
+        ],
+        "en": [
+          "Incorrect. Heart muscle is a specialised muscle tissue, not epithelium.",
+          "Incorrect. The nervous system can modulate heart rhythm, but the contracting cells are cardiac muscle.",
+          "Incorrect. Cardiac muscle is involuntary; we cannot normally start or stop it directly at will.",
+          "Correct. Cardiac muscle contracts rhythmically and involuntarily and has its own electrical conduction system."
+        ]
       }
     },
     {
@@ -4450,6 +4562,20 @@
       "explanation": {
         "hi": "हृदयी पेशी कोशिकाएँ रेखित तो हैं पर शाखायुक्त होती हैं और आपस में जुड़ी होती हैं; नियंत्रण अनैच्छिक है।",
         "en": "Cardiac muscle cells are striated but branched and interconnected; their control is involuntary."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: हृदयी पेशी कोशिकाएँ रेखित, शाखायुक्त और आपस में जुड़ी होती हैं; वे अनैच्छिक रूप से संकुचित होती हैं।",
+          "गलत: ऐच्छिक और अशाखित संरचना हृदयी पेशी का सही वर्णन नहीं।",
+          "गलत: हृदयी पेशी रेखित होती है, अरेखित नहीं; सामान्यतः कोशिकाओं में एक केंद्रीय केंद्रक होता है, कभी-कभी दो।",
+          "गलत: हृदयी पेशी जीवित होती है और उसमें केंद्रक होता है।"
+        ],
+        "en": [
+          "Correct. Cardiac muscle cells are striated, branched and interconnected; they contract involuntarily.",
+          "Incorrect. Voluntary, unbranched cells do not correctly describe cardiac muscle.",
+          "Incorrect. Cardiac muscle is striated, not unstriated; cells usually have one central nucleus and sometimes two.",
+          "Incorrect. Cardiac muscle is living tissue and its cells contain nuclei."
+        ]
       }
     },
     {
@@ -4478,6 +4604,20 @@
       "explanation": {
         "hi": "अरेखित पेशी की कोशिकाएँ दोनों सिरों पर नुकीली, बीच में चौड़ी — तर्कुए सी — और एक ही केंद्रक वाली होती हैं।",
         "en": "Smooth muscle cells are pointed at both ends, widest in the middle — spindle-like — with a single nucleus."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: लंबी बेलनाकार बहुकेंद्रकी कोशिकाएँ कंकाली रेखित पेशी की विशेषता हैं।",
+          "सही: चिकनी पेशी कोशिकाएँ तर्कु के आकार की होती हैं—दोनों सिरों पर पतली, बीच में चौड़ी—और सामान्यतः एक केंद्रक होता है।",
+          "गलत: शाखायुक्त कोशिकाएँ हृदयी पेशी की विशेषता हैं; चिकनी पेशी सामान्यतः तर्कुए जैसी होती है।",
+          "गलत: चिकनी पेशी कोशिकाएँ जीवित और केंद्रकयुक्त होती हैं; वे गोल और केंद्रकहीन नहीं।"
+        ],
+        "en": [
+          "Incorrect. Long cylindrical multinucleate cells are characteristic of skeletal striated muscle.",
+          "Correct. Smooth muscle cells are spindle-shaped—tapered at both ends and wider in the middle—and usually have one nucleus.",
+          "Incorrect. Branched cells are characteristic of cardiac muscle; smooth muscle is generally spindle-shaped.",
+          "Incorrect. Smooth muscle cells are living and nucleated, not round and without nuclei."
+        ]
       }
     },
     {
