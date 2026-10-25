@@ -613,7 +613,7 @@
       "correct": 1,
       "explanation": {
         "hi": "घुमाव पथ को लंबा करता है, रस्सी को नहीं।",
-        "en": "For “A train goes from station A to B via a curved track through C. Which statement is correct,” “Distance A to B will be greater than or equal to displacement A to B” matches the relevant physical quantity or rule. “Distance will be zero and Displacement will always be greater” are different quantities or conditions, so they should not be substituted here."
+        "en": "The distance travelled along a curved track is the length of the route, while displacement is the straight-line change from the starting point to the endpoint. Distance is always greater than or equal to the magnitude of displacement."
       }
     },
     {
@@ -1537,7 +1537,7 @@
       "correct": 2,
       "explanation": {
         "hi": "प्रश्न “36 किमी/घंटा कितने मीटर/सेकंड होता है” में “10 मीटर/सेकंड” सही है क्योंकि यह संबंधित भौतिक राशि/नियम की परिभाषा से मेल खाता है। “360 मीटर/सेकंड और 3.6 मीटर/सेकंड” अलग राशियाँ या परिस्थितियाँ हैं, इसलिए उन्हें इस उत्तर के स्थान पर नहीं चुनना चाहिए।",
-        "en": "For “How many m/s is 36 km/h,” “10 m/s” matches the relevant physical quantity or rule. “360 m/s and 3.6 m/s” are different quantities or conditions, so they should not be substituted here."
+        "en": "To convert km/h to m/s, multiply by 5/18. Thus 36 × 5/18 = 10 m/s."
       }
     },
     {
@@ -1705,7 +1705,7 @@
       "correct": 0,
       "explanation": {
         "hi": "औसत चाल = कुल दूरी ÷ कुल समय। दूरी और समय की इकाइयाँ पहले एक जैसी प्रणाली में रखें।",
-        "en": "For “At 15 m/s, in what time does a rail cross a 600-metre bridge,” “40 seconds” matches the relevant physical quantity or rule. “4 seconds and 90 seconds” are different quantities or conditions, so they should not be substituted here."
+        "en": "Using time = distance ÷ speed, 600 m ÷ 15 m/s = 40 s. This assumes the 600 m is the total distance being asked about; if 'cross a 600 m bridge' means a train's entire length must clear the bridge, the train's length must also be added."
       }
     },
     {
