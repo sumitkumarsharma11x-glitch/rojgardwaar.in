@@ -3385,6 +3385,20 @@
     "explanation": {
       "hi": "पुष्पीय पादपों (angiosperms) में पुष्प जनन अंग है।",
       "en": "In angiosperms, the flower is the reproductive organ."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही। पुष्प में पुंकेसर और स्त्रीकेसर जैसे जनन अंग होते हैं; निषेचन के बाद बीज और कई पौधों में फल विकसित हो सकते हैं।",
+        "गलत: पत्ती मुख्यतः प्रकाश-संश्लेषण, गैस-विनिमय और वाष्पोत्सर्जन जैसे कार्य करती है।",
+        "गलत: जड़ जल/खनिज अवशोषण और पौधे को स्थिर रखने में मदद करती है; यह पुष्पीय पौधे का मुख्य जनन अंग नहीं।",
+        "गलत: तना सहारा और पदार्थों का परिवहन करता है; फूल जनन अंग है।"
+      ],
+      "en": [
+        "Correct. Flowers contain reproductive parts such as stamens and pistils; after fertilisation, seeds and in many plants fruits may develop.",
+        "Incorrect. Leaves mainly perform photosynthesis, gas exchange and transpiration.",
+        "Incorrect. Roots absorb water/minerals and anchor the plant; they are not the main reproductive organ of flowering plants.",
+        "Incorrect. Stems provide support and transport; the flower is the reproductive organ."
+      ]
     }
   },
   {
@@ -3413,6 +3427,20 @@
     "explanation": {
       "hi": "बाह्यदल कली अवस्था में पुष्प के भागों की रक्षा करते हैं।",
       "en": "Sepals protect the flower parts in the bud stage."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: फल अंडाशय से विकसित हो सकता है; बाह्यदल का मुख्य कार्य केवल फल बनाना नहीं।",
+        "सही: बाह्यदल कली अवस्था में विकसित होते पुष्प के अंदरूनी भागों की रक्षा करते हैं।",
+        "गलत: परागण परागकण का स्थानांतरण है; यह बाह्यदल का मुख्य कार्य नहीं।",
+        "गलत: बीज बीजांड से विकसित होता है; बाह्यदल बीज नहीं बनाता।"
+      ],
+      "en": [
+        "Incorrect. A fruit may develop from the ovary; fruit formation is not the main function of sepals.",
+        "Correct. Sepals protect the developing flower parts while the flower is in the bud stage.",
+        "Incorrect. Pollination is pollen transfer, not the main function of sepals.",
+        "Incorrect. Seeds develop from ovules; sepals do not produce seeds."
+      ]
     }
   },
   {
@@ -3441,6 +3469,20 @@
     "explanation": {
       "hi": "रंगीन दल परागणकों (कीट, पक्षी) को आकर्षित करते हैं।",
       "en": "Coloured petals attract pollinators such as insects and birds."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: भोजन बनाना मुख्यतः पत्तियों में प्रकाश-संश्लेषण से होता है, दल का मुख्य कार्य नहीं।",
+        "गलत: पुष्प के भागों को सहारा देने में डंठल और अन्य संरचनाएँ योगदान देती हैं; दल का प्रमुख कार्य आकर्षण है।",
+        "सही: रंग, आकार और गंध वाले दल कई परागणकों को आकर्षित कर सकते हैं, हालांकि सभी पुष्पों में दल रंगीन नहीं होते।",
+        "गलत: जल अवशोषण जड़ों का प्रमुख कार्य है; दल का मुख्य कार्य नहीं।"
+      ],
+      "en": [
+        "Incorrect. Food production mainly occurs through photosynthesis in leaves, not as the main function of petals.",
+        "Incorrect. The stalk and other structures support the flower; attraction is a major role of petals.",
+        "Correct. Petal colour, shape and scent can attract pollinators, though not all flowers have showy petals.",
+        "Incorrect. Water absorption is mainly a root function, not the main role of petals."
+      ]
     }
   },
   {
@@ -3469,6 +3511,20 @@
     "explanation": {
       "hi": "पुंकेसर (stamen) पुष्प का नर जनन अंग है।",
       "en": "The stamen is the male reproductive part of a flower."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: स्त्रीकेसर मादा जनन अंग है।",
+        "गलत: बाह्यदल कली की रक्षा करते हैं; वे नर जनन अंग नहीं।",
+        "गलत: दल परागणकों को आकर्षित करने में मदद कर सकते हैं; वे नर जनन अंग नहीं।",
+        "सही: पुंकेसर में तंतु और परागकोश होता है; परागकोश में परागकण बनते हैं।"
+      ],
+      "en": [
+        "Incorrect. The pistil is the female reproductive part.",
+        "Incorrect. Sepals protect the bud; they are not the male reproductive part.",
+        "Incorrect. Petals may attract pollinators; they are not the male reproductive part.",
+        "Correct. A stamen has a filament and anther; pollen grains form in the anther."
+      ]
     }
   },
   {
@@ -3497,6 +3553,20 @@
     "explanation": {
       "hi": "स्त्रीकेसर (pistil) पुष्प का मादा जनन अंग है।",
       "en": "The pistil is the female reproductive part of a flower."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: स्त्रीकेसर में वर्तिकाग्र, वर्तिका और अंडाशय जैसे भाग होते हैं; अंडाशय में बीजांड पाए जाते हैं।",
+        "गलत: पुंकेसर नर जनन अंग है और परागकण बनाता है।",
+        "गलत: बाह्यदल कली की रक्षा करते हैं।",
+        "गलत: दल परागणकों को आकर्षित कर सकते हैं, लेकिन मादा जनन अंग नहीं हैं।"
+      ],
+      "en": [
+        "Correct. The pistil includes the stigma, style and ovary; ovules are found in the ovary.",
+        "Incorrect. The stamen is the male reproductive part and produces pollen.",
+        "Incorrect. Sepals protect the bud.",
+        "Incorrect. Petals can attract pollinators but are not the female reproductive organ."
+      ]
     }
   },
   {
@@ -3525,6 +3595,20 @@
     "explanation": {
       "hi": "पुंकेसर के परागकोश में परागकण बनते हैं, जिनमें नर युग्मक होते हैं।",
       "en": "The anther of the stamen produces pollen grains containing male gametes."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: बाह्यदल पुष्प की कली की रक्षा करते हैं; परागकण वहाँ नहीं बनते।",
+        "सही: परागकोश पुंकेसर का भाग है और उसमें परागकण बनते हैं।",
+        "गलत: वर्तिकाग्र स्त्रीकेसर का वह भाग है जहाँ परागकण पहुँचते हैं; वह परागकण बनाने का स्थान नहीं।",
+        "गलत: अंडाशय में बीजांड होते हैं; परागकण परागकोश में बनते हैं।"
+      ],
+      "en": [
+        "Incorrect. Sepals protect the flower bud; pollen is not produced there.",
+        "Correct. The anther is part of the stamen and produces pollen grains.",
+        "Incorrect. The stigma is the part of the pistil that receives pollen; it does not produce pollen.",
+        "Incorrect. The ovary contains ovules; pollen grains form in the anther."
+      ]
     }
   },
   {
@@ -3553,6 +3637,20 @@
     "explanation": {
       "hi": "अंडाशय के बीजांड में अंडाणु (मादा युग्मक) होता है।",
       "en": "The ovule inside the ovary contains the egg cell (female gamete)."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: दल परागणकों को आकर्षित कर सकते हैं; अंडाणु दल में नहीं होता।",
+        "गलत: बाह्यदल कली की रक्षा करते हैं; अंडाणु वहाँ नहीं होता।",
+        "सही: बीजांड अंडाशय के भीतर होता है और उसमें मादा युग्मक/अंड कोशिका होती है।",
+        "गलत: परागकोश में परागकण बनते हैं; अंडाणु बीजांड में होता है।"
+      ],
+      "en": [
+        "Incorrect. Petals may attract pollinators; the egg cell is not located in a petal.",
+        "Incorrect. Sepals protect the bud; the egg cell is not located there.",
+        "Correct. The ovule is inside the ovary and contains the female gamete/egg cell.",
+        "Incorrect. Pollen grains form in the anther; the egg cell is in the ovule."
+      ]
     }
   },
   {
@@ -3581,6 +3679,20 @@
     "explanation": {
       "hi": "परागकणों का परागकोश से वर्तिकाग्र तक स्थानांतरण परागण कहलाता है।",
       "en": "Pollination is the transfer of pollen grains from the anther to the stigma."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: युग्मकों का संलयन निषेचन कहलाता है, परागण नहीं।",
+        "गलत: बीज का अंकुरण बीज से पौधे की वृद्धि है।",
+        "गलत: फल का पकना परागकण स्थानांतरण की परिभाषा नहीं।",
+        "सही: परागण परागकोश से परागकणों का वर्तिकाग्र तक पहुँचना है; इसके बाद अनुकूल स्थिति में निषेचन हो सकता है।"
+      ],
+      "en": [
+        "Incorrect. Fusion of gametes is fertilisation, not pollination.",
+        "Incorrect. Seed germination is the growth of a plant from a seed.",
+        "Incorrect. Fruit ripening is not the definition of pollen transfer.",
+        "Correct. Pollination is the transfer of pollen from anther to stigma; fertilisation may follow under suitable conditions."
+      ]
     }
   },
   {
@@ -3609,6 +3721,20 @@
     "explanation": {
       "hi": "स्व-परागण में पराग उसी पुष्प या उसी पौधे के दूसरे पुष्प के वर्तिकाग्र तक पहुँचता है।",
       "en": "In self-pollination, pollen reaches the stigma of the same flower or another flower of the same plant."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: स्व-परागण में पराग उसी पुष्प या उसी पौधे के दूसरे पुष्प के वर्तिकाग्र तक पहुँचता है।",
+        "गलत: दूसरे पौधे के पुष्प तक पराग पहुँचना पर-परागण है।",
+        "गलत: जल परागण का माध्यम हो सकता है, लेकिन यह स्व-परागण की परिभाषा नहीं।",
+        "गलत: पक्षी परागण में मदद कर सकते हैं, पर माध्यम से स्व-परागण या पर-परागण की परिभाषा तय नहीं होती।"
+      ],
+      "en": [
+        "Correct. In self-pollination, pollen reaches the stigma of the same flower or another flower on the same plant.",
+        "Incorrect. Transfer to a flower on a different plant is cross-pollination.",
+        "Incorrect. Water can be a pollination agent, but it does not define self-pollination.",
+        "Incorrect. Birds can act as pollinators, but the agent does not define self- versus cross-pollination."
+      ]
     }
   },
   {
@@ -3637,6 +3763,20 @@
     "explanation": {
       "hi": "पर-परागण में एक पौधे का पराग दूसरे पौधे के पुष्प के वर्तिकाग्र तक जाता है।",
       "en": "In cross-pollination, pollen goes from one plant to the stigma of a flower of another plant."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: केवल स्व-स्थानांतरण पर-परागण नहीं है; पर-परागण में अलग पौधे शामिल होते हैं।",
+        "सही: पर-परागण में एक पौधे के परागकण उसी प्रजाति के दूसरे पौधे के पुष्प के वर्तिकाग्र तक पहुँचते हैं।",
+        "गलत: उसी पुष्प में पराग का स्थानांतरण स्व-परागण है।",
+        "गलत: कीट परागण के माध्यम हो सकते हैं, लेकिन पर-परागण केवल कीटों से नहीं होता; हवा या अन्य माध्यम भी संभव हैं।"
+      ],
+      "en": [
+        "Incorrect. Self-transfer is not cross-pollination; cross-pollination involves different plants.",
+        "Correct. In cross-pollination, pollen from one plant reaches the stigma of a flower on another plant of the same species.",
+        "Incorrect. Transfer within the same flower is self-pollination.",
+        "Incorrect. Insects can pollinate, but cross-pollination is not limited to insects; wind and other agents can also be involved."
+      ]
     }
   },
   {
