@@ -1708,10 +1708,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: गाल की जंतु कोशिका में कोशिका भित्ति नहीं होती।",
-        "गलत: सामान्य गाल कोशिका में केंद्रक होता है।",
-        "गलत: कोशिका झिल्ली जंतु कोशिका की बाहरी सीमा बनाती है।",
-        "गलत: कोशिकाद्रव्य जंतु कोशिका में मौजूद होता है।"
+        "सही। गाल की कोशिका जंतु कोशिका है, इसलिए उसमें कठोर कोशिका भित्ति नहीं होती; उसकी बाहरी सीमा कोशिका झिल्ली होती है।",
+        "गलत। सामान्य गाल की उपकला कोशिका में केंद्रक होता है, जिसे उपयुक्त रंगाई के बाद देखा जा सकता है।",
+        "गलत। गाल की कोशिका में कोशिका झिल्ली होती है; यह पदार्थों के प्रवेश और निकास को नियंत्रित करती है।",
+        "गलत। कोशिकाद्रव्य गाल की कोशिका में मौजूद होता है और कई कोशिकीय क्रियाओं का स्थान है।"
+      ],
+      "en": [
+        "Correct. A cheek cell is an animal cell and has no rigid cell wall; its outer boundary is the cell membrane.",
+        "Incorrect. A typical cheek epithelial cell has a nucleus, which can be seen after suitable staining.",
+        "Incorrect. A cheek cell has a cell membrane that regulates movement of substances.",
+        "Incorrect. Cytoplasm is present in cheek cells and supports many cellular activities."
       ]
     }
   },
@@ -1720,8 +1726,8 @@
     "topic": "plant-cell-vs-animal-cell",
     "difficulty": "hard",
     "question": {
-      "hi": "पादप कोशिका और जंतु कोशिका के बीच अंतर बताने वाला कौन-सा कथन सही है?",
-      "en": "Which statement correctly distinguishes a plant cell from an animal cell?"
+      "hi": "सामान्य प्रकाश-संश्लेषी पादप कोशिका और जंतु कोशिका में अंतर बताने वाला कौन-सा कथन सही है?",
+      "en": "Which statement correctly distinguishes a typical photosynthetic plant cell from an animal cell?"
     },
     "options": {
       "hi": [
@@ -1744,10 +1750,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: माइटोकॉन्ड्रिया जंतु कोशिकाओं में भी पाया जाता है।",
-        "सही: पादप कोशिकाओं में कोशिका भित्ति और प्रकाश-संश्लेषी कोशिकाओं में हरितलवक पाए जाते हैं; जंतु कोशिकाओं में ये नहीं होते।",
-        "गलत: जंतु कोशिका में भी कोशिका भित्ति नहीं, बल्कि केंद्रक हो सकता है; कथन उलटा है।",
-        "गलत: दोनों कोशिकाओं में केंद्रक हो सकता है, इसलिए यह कथन सही अंतर नहीं बताता।"
+        "गलत। माइटोकॉन्ड्रिया पादप और जंतु दोनों की अधिकांश यूकैरियोटिक कोशिकाओं में पाए जाते हैं।",
+        "सही, सामान्य प्रकाश-संश्लेषी पादप कोशिका की तुलना में। पादप कोशिका में कोशिका भित्ति होती है और हरी कोशिकाओं में हरितलवक होते हैं; जंतु कोशिका में दोनों नहीं होते।",
+        "गलत। कोशिका भित्ति सामान्य पादप कोशिका की विशेषता है, जंतु कोशिका की नहीं।",
+        "गलत। सामान्य पादप और जंतु कोशिकाओं में केंद्रक होता है; 'हमेशा केंद्रक नहीं' कहना गलत है।"
+      ],
+      "en": [
+        "Incorrect. Mitochondria occur in most eukaryotic plant and animal cells.",
+        "Correct for the typical photosynthetic plant cell used in this comparison. Plant cells have walls and green plant cells have chloroplasts; animal cells have neither.",
+        "Incorrect. A cell wall is characteristic of typical plant cells, not animal cells.",
+        "Incorrect. Typical plant and animal cells have nuclei; saying both always lack them is false."
       ]
     }
   },
@@ -1780,10 +1792,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: हरितलवक जंतु कोशिका में नहीं होता।",
-        "गलत: बड़ी केंद्रीय रिक्तिका पादप कोशिका की सामान्य विशेषता है, दोनों में समान नहीं।",
-        "सही: सामान्य पादप और जंतु यूकैरियोटिक कोशिकाओं में केंद्रक पाया जाता है।",
-        "गलत: कोशिका भित्ति जंतु कोशिका में नहीं होती।"
+        "गलत। हरितलवक प्रकाश-संश्लेषी पादप कोशिकाओं में पाए जाते हैं, सामान्य जंतु कोशिकाओं में नहीं।",
+        "गलत। बड़ी केंद्रीय रिक्तिका परिपक्व पादप कोशिकाओं की सामान्य विशेषता है, जंतु कोशिकाओं की नहीं।",
+        "सही। सामान्य पादप और जंतु कोशिकाएँ यूकैरियोटिक होती हैं और उनमें झिल्ली से घिरा केंद्रक होता है।",
+        "गलत। जंतु कोशिकाओं में कोशिका भित्ति नहीं होती; उनके बाहर कोशिका झिल्ली होती है।"
+      ],
+      "en": [
+        "Incorrect. Chloroplasts occur in photosynthetic plant cells, not typical animal cells.",
+        "Incorrect. A large central vacuole is characteristic of many mature plant cells, not animal cells.",
+        "Correct. Typical plant and animal cells are eukaryotic and contain a membrane-bound nucleus.",
+        "Incorrect. Animal cells lack a cell wall; their outer boundary is the cell membrane."
       ]
     }
   },
@@ -1816,10 +1834,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: दोनों कोशिकाएँ पूरी तरह असंबंधित नहीं; उनमें कई साझा संरचनाएँ हैं।",
-        "गलत: दोनों में हर पहलू एक जैसा नहीं होता; कुछ महत्वपूर्ण संरचनात्मक अंतर हैं।",
-        "गलत: दोनों कोशिका प्रकार यूकैरियोटिक कोशिकाओं के रूप हैं और कई बुनियादी संरचनाएँ साझा करते हैं।",
-        "सही: दोनों कोशिकाओं की मूल योजना समान है, लेकिन पादप कोशिका में कोशिका भित्ति और सामान्यतः बड़ी केंद्रीय रिक्तिका जैसी अतिरिक्त संरचनाएँ होती हैं।"
+        "गलत। दोनों में कोशिका झिल्ली, कोशिकाद्रव्य और अनेक समान कोशिकांग होते हैं; वे पूरी तरह भिन्न नहीं हैं।",
+        "गलत। पादप कोशिका में कोशिका भित्ति और प्रायः बड़ी केंद्रीय रिक्तिका होती है, इसलिए हर पहलू समान नहीं है।",
+        "गलत। दोनों यूकैरियोटिक कोशिकाएँ हैं और कई मूल संरचनाएँ साझा करती हैं।",
+        "सही। दोनों की मूल कोशिकीय योजना समान है, लेकिन पादप कोशिका में भित्ति और कई कोशिकाओं में हरितलवक जैसी विशेष संरचनाएँ होती हैं।"
+      ],
+      "en": [
+        "Incorrect. Both share a cell membrane, cytoplasm and many organelles, so they are not completely different.",
+        "Incorrect. Plant cells have a wall and often a large central vacuole, so they are not identical in every respect.",
+        "Incorrect. Both are eukaryotic cells and share many basic structures.",
+        "Correct. Both share a basic cellular plan, while plant cells have features such as walls and, in photosynthetic cells, chloroplasts."
       ]
     }
   },
@@ -1852,10 +1876,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: कोशिका भित्ति का अभाव और छोटी रिक्तिका जंतु कोशिका के अनुरूप संकेत हैं, हालांकि केवल एक संकेत से हर नमूने की पहचान निश्चित नहीं होती।",
-        "गलत: सामान्य पादप कोशिका में कोशिका भित्ति होती है और अक्सर बड़ी केंद्रीय रिक्तिका होती है।",
-        "गलत: जीवाणु प्रोकैरियोटिक हैं; उनके संगठन में केंद्रक और कोशिकांगों के अंतर भी देखे जाते हैं।",
-        "गलत: प्रोकैरियोटिक एक व्यापक कोशिका प्रकार है; प्रश्न के दिए संकेत सामान्य जंतु कोशिका से अधिक मेल खाते हैं।"
+        "सही—दिए संकेत सामान्य जंतु कोशिका से मेल खाते हैं। जंतु कोशिका में कोशिका भित्ति नहीं होती और रिक्तिकाएँ छोटी हो सकती हैं।",
+        "गलत। सामान्य पादप कोशिका में कोशिका भित्ति होती है, जो इस नमूने में नहीं दिखाई गई।",
+        "गलत। अधिकांश जीवाणुओं में कोशिका भित्ति होती है और उनमें यूकैरियोटिक कोशिका जैसी झिल्ली-बद्ध रिक्तिका नहीं होती।",
+        "गलत। प्रोकैरियोटिक कोशिकाओं की पहचान केंद्रक के अभाव से भी होती है; दिए संकेत सामान्य जंतु कोशिका के अधिक अनुरूप हैं।"
+      ],
+      "en": [
+        "Correct as the most likely answer. Animal cells lack cell walls and may have small vacuoles.",
+        "Incorrect. A typical plant cell has a cell wall, which is absent in the described sample.",
+        "Incorrect. Most bacteria have cell walls and lack the membrane-bound vacuole typical of eukaryotic cells.",
+        "Incorrect. Prokaryotes are also distinguished by lacking a membrane-bound nucleus; the given clues better fit a typical animal cell."
       ]
     }
   },
@@ -1864,8 +1894,8 @@
     "topic": "plant-cell-vs-animal-cell",
     "difficulty": "easy",
     "question": {
-      "hi": "निम्नलिखित में से कौन-सी संरचना केवल पादप कोशिका तक सीमित नहीं है?",
-      "en": "Which of the following structures is NOT exclusive to plant cells?"
+      "hi": "सामान्य पादप और जंतु कोशिकाओं की तुलना में निम्न में से कौन-सी संरचना दोनों में पाई जाती है?",
+      "en": "When comparing typical plant and animal cells, which structure is found in both?"
     },
     "options": {
       "hi": [
@@ -1883,15 +1913,21 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "माइटोकॉन्ड्रिया दोनों पादप और जंतु कोशिकाओं में पाया जाता है, जबकि अन्य तीन पादप कोशिका तक सीमित हैं।",
-      "en": "Mitochondria are present in both plant and animal cells, unlike the other three which are limited to plant cells."
+      "hi": "माइटोकॉन्ड्रिया सामान्य पादप और जंतु कोशिकाओं में पाए जाते हैं। कोशिका भित्ति और हरितलवक जंतु कोशिकाओं में नहीं होते, हालांकि वे सभी जीवों में केवल पादपों तक सीमित नहीं हैं।",
+      "en": "Mitochondria occur in typical plant and animal cells. Animal cells lack cell walls and chloroplasts, although these structures are not exclusive to plants across all organisms."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: बड़ी केंद्रीय रिक्तिका सामान्यतः पादप कोशिका की विशेषता है।",
-        "सही: माइटोकॉन्ड्रिया पादप और जंतु दोनों कोशिकाओं में पाया जाता है।",
-        "गलत: कोशिका भित्ति जंतु कोशिका में नहीं होती और पादप कोशिका की प्रमुख विशेषता है।",
-        "गलत: हरितलवक जंतु कोशिकाओं में नहीं होता।"
+        "गलत। बड़ी केंद्रीय रिक्तिका सामान्यतः परिपक्व पादप कोशिका में होती है, जंतु कोशिका की सामान्य विशेषता नहीं।",
+        "सही। माइटोकॉन्ड्रिया पादप और जंतु दोनों कोशिकाओं में पाए जाते हैं और कोशिकीय श्वसन में भूमिका निभाते हैं।",
+        "यह विकल्प सही नहीं। कोशिका भित्ति जंतु कोशिका में नहीं होती, हालांकि पादपों के अलावा कवक और अनेक जीवाणुओं में भी कोशिका भित्ति होती है।",
+        "यह विकल्प सही नहीं। हरितलवक जंतु कोशिका में नहीं होता, हालांकि कुछ शैवालों में भी हरितलवक पाए जाते हैं।"
+      ],
+      "en": [
+        "Incorrect. A large central vacuole is typical of mature plant cells, not typical animal cells.",
+        "Correct. Mitochondria occur in both plant and animal cells and are involved in cellular respiration.",
+        "Not the intended answer. Animal cells lack cell walls, although fungi and many bacteria also have walls; cell walls are not exclusive to plants across all life.",
+        "Not the intended answer. Animal cells lack chloroplasts, although some algae also have chloroplasts."
       ]
     }
   },
@@ -1924,10 +1960,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: जीवाणु प्रोकैरियोट हैं और पादप कोशिका जैसी बड़ी केंद्रीय रिक्तिका उनकी सामान्य विशेषता नहीं है।",
-        "गलत: विषाणु कोशिका नहीं होते और उनमें कोशिकीय रिक्तिका नहीं होती।",
-        "सही: परिपक्व पादप कोशिका में सामान्यतः बड़ी केंद्रीय रिक्तिका होती है।",
-        "गलत: जंतु कोशिका में रिक्तिकाएँ हो सकती हैं, लेकिन सामान्यतः बड़ी केंद्रीय रिक्तिका नहीं होती।"
+        "गलत। जीवाणु प्रोकैरियोट होते हैं; बड़ी केंद्रीय रिक्तिका उनकी सामान्य कोशिकीय संरचना नहीं है।",
+        "गलत। विषाणु कोशिकाएँ नहीं हैं, इसलिए उनमें कोशिकीय रिक्तिका नहीं होती।",
+        "सही। कई परिपक्व पादप कोशिकाओं में बड़ी केंद्रीय रिक्तिका जल और घुले पदार्थ रखती है तथा तुर्गर बनाए रखने में मदद करती है।",
+        "गलत। जंतु कोशिकाओं में छोटी रिक्तिकाएँ या पुटिकाएँ हो सकती हैं, लेकिन बड़ी केंद्रीय रिक्तिका सामान्यतः नहीं होती।"
+      ],
+      "en": [
+        "Incorrect. Bacteria are prokaryotes; a large central vacuole is not a typical feature.",
+        "Incorrect. Viruses are not cells and do not contain cellular vacuoles.",
+        "Correct. Many mature plant cells have a large central vacuole that stores water and solutes and helps maintain turgor.",
+        "Incorrect. Animal cells can have small vacuoles or vesicles but generally lack a large central vacuole."
       ]
     }
   },
@@ -1936,8 +1978,8 @@
     "topic": "plant-cell-vs-animal-cell",
     "difficulty": "hard",
     "question": {
-      "hi": "निम्नलिखित में से कौन-सा युग्म कोशिका प्रकार और उसकी विशिष्ट संरचना का सही मिलान करता है?",
-      "en": "Which of the following pairs correctly matches a cell type with its exclusive structure?"
+      "hi": "सामान्य प्रकाश-संश्लेषी पादप कोशिका और जंतु कोशिका की तुलना में कौन-सा युग्म सही है?",
+      "en": "When comparing a typical photosynthetic plant cell with an animal cell, which pair is correct?"
     },
     "options": {
       "hi": [
@@ -1960,10 +2002,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: जंतु कोशिका में कोशिका भित्ति नहीं होती।",
-        "गलत: जंतु कोशिका में हरितलवक नहीं होता।",
-        "गलत: पादप कोशिकाओं में रिक्तिकाएँ होती हैं; रिक्तिका का अभाव सही मिलान नहीं है।",
-        "सही: हरितलवक पादप कोशिका की विशेषता है, विशेषकर प्रकाश-संश्लेषी ऊतकों में।"
+        "गलत। सामान्य जंतु कोशिका में कोशिका भित्ति नहीं होती।",
+        "गलत। हरितलवक प्रकाश-संश्लेषी पादप और कुछ शैवाल कोशिकाओं में होते हैं, सामान्य जंतु कोशिकाओं में नहीं।",
+        "गलत। पादप कोशिका में रिक्तिका का अभाव सामान्य लक्षण नहीं है; परिपक्व कोशिका में बड़ी रिक्तिका हो सकती है।",
+        "सही, दिए विकल्पों में। हरितलवक हरी पादप कोशिकाओं में प्रकाश-संश्लेषण करते हैं; सभी पादप कोशिकाओं, जैसे जड़ की कोशिकाओं, में हरितलवक नहीं होते।"
+      ],
+      "en": [
+        "Incorrect. Typical animal cells do not have a cell wall.",
+        "Incorrect. Chloroplasts occur in photosynthetic plants and some algae, not typical animal cells.",
+        "Incorrect. Plant cells are not characterized by absence of vacuoles; mature cells often have a large vacuole.",
+        "Correct among the given options. Chloroplasts photosynthesize in green plant cells; not all plant cells, such as root cells, have chloroplasts."
       ]
     }
   },
@@ -1996,10 +2044,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: प्याज के छिलके की पादप कोशिका और गाल की जंतु कोशिका की तुलना से कोशिका भित्ति जैसे अंतर समझे जाते हैं।",
-        "गलत: दोनों नमूने यूकैरियोटिक हैं; यह तुलना प्रोकैरियोट बनाम यूकैरियोट की नहीं है।",
-        "गलत: मुख्य उद्देश्य जीवित-मृत का वर्गीकरण नहीं, बल्कि पादप-जंतु कोशिका की संरचना की तुलना है।",
-        "गलत: नमूने कोशिकाएँ हैं, सरल और जटिल ऊतकों की तुलना नहीं।"
+        "सही। प्याज के छिलके की कोशिका में भित्ति स्पष्ट दिखती है, जबकि गाल की जंतु कोशिका में भित्ति नहीं होती।",
+        "गलत। प्याज के छिलके और गाल की कोशिकाएँ दोनों यूकैरियोटिक हैं; यह प्रोकैरियोट-यूकैरियोट तुलना नहीं है।",
+        "गलत। प्रयोग का मुख्य उद्देश्य जीवित-मृत कोशिकाओं का वर्गीकरण नहीं है।",
+        "गलत। इस प्रयोग में पादप और जंतु कोशिकाओं की संरचना की तुलना होती है, ऊतकों के सरल-जटिल वर्गों की नहीं।"
+      ],
+      "en": [
+        "Correct. Onion peel cells show a distinct wall, while cheek animal cells lack a wall.",
+        "Incorrect. Both onion peel and cheek cells are eukaryotic; this is not a prokaryote-eukaryote comparison.",
+        "Incorrect. The main purpose is not to classify cells as living or dead.",
+        "Incorrect. This practical compares plant and animal cell structure, not simple and complex tissue classes."
       ]
     }
   },
@@ -2032,10 +2086,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: जंतु कोशिकाओं में DNA और राइबोसोम होते हैं।",
-        "सही: जंतु कोशिका में कोशिका भित्ति और हरितलवक नहीं होते।",
-        "गलत: मानव जंतु कोशिका में सामान्यतः केंद्रक और कोशिकाद्रव्य होते हैं।",
-        "गलत: जंतु कोशिकाओं में कोशिका झिल्ली और माइटोकॉन्ड्रिया होते हैं।"
+        "गलत। जंतु कोशिकाओं में राइबोसोम और DNA होते हैं; ये कोशिकीय कार्यों के लिए जरूरी हैं।",
+        "सही। जंतु कोशिकाओं में कोशिका भित्ति और हरितलवक नहीं होते।",
+        "गलत। सामान्य गाल जैसी जंतु कोशिका में केंद्रक और कोशिकाद्रव्य दोनों होते हैं; कुछ विशेष कोशिकाएँ अपवाद हो सकती हैं।",
+        "गलत। सामान्य जंतु कोशिकाओं में कोशिका झिल्ली और माइटोकॉन्ड्रिया दोनों होते हैं।"
+      ],
+      "en": [
+        "Incorrect. Animal cells have ribosomes and DNA, which are essential for cellular functions.",
+        "Correct. Animal cells lack cell walls and chloroplasts.",
+        "Incorrect. Typical animal cells such as cheek cells have nuclei and cytoplasm; some specialized cells are exceptions.",
+        "Incorrect. Typical animal cells contain a cell membrane and mitochondria."
       ]
     }
   },
@@ -2068,10 +2128,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: पादप कोशिका हमेशा जंतु कोशिका से बड़ी नहीं होती; आकार कोशिका के प्रकार पर निर्भर करता है।",
-        "गलत: पादप कोशिका में माइटोकॉन्ड्रिया होता है; वह कोशिका भित्ति का विकल्प नहीं है।",
-        "सही: कोशिका भित्ति पादप कोशिका को सहारा और निश्चित आकार देती है।",
-        "गलत: केंद्रक आनुवंशिक पदार्थ रखता है, कठोरता देना इसका मुख्य कार्य नहीं है।"
+        "गलत। कोशिका का आकार प्रकार और कार्य पर निर्भर करता है; पादप कोशिका हमेशा बड़ी नहीं होती।",
+        "गलत। पादप कोशिकाओं में माइटोकॉन्ड्रिया होते हैं; कठोर आकार कोशिका भित्ति से जुड़ा है।",
+        "सही। कोशिका भित्ति यांत्रिक सहारा देती है और तुर्गर दबाव के साथ कोशिका के आकार को बनाए रखने में मदद करती है।",
+        "गलत। सामान्य पादप कोशिका में केंद्रक होता है; केंद्रक का अभाव कठोरता का कारण नहीं है।"
+      ],
+      "en": [
+        "Incorrect. Cell size depends on type and function; plant cells are not always larger.",
+        "Incorrect. Plant cells have mitochondria; their rigidity is associated with the cell wall.",
+        "Correct. The cell wall provides mechanical support and, together with turgor pressure, helps maintain shape.",
+        "Incorrect. Typical plant cells have a nucleus; lacking one is not the cause of rigidity."
       ]
     }
   },
@@ -2104,10 +2170,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: केंद्रक DNA रखता है और कोशिका की गतिविधियों के नियमन में भूमिका निभाता है।",
-        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
-        "गलत: कोशिका भित्ति सहारा देती है; भंडारण इसका मुख्य कार्य नहीं है।",
-        "सही: रिक्तिका जल, आयन और घुले पदार्थों के भंडारण में मदद करती है।"
+        "गलत। केंद्रक आनुवंशिक सूचना रखता है और कोशिकीय गतिविधियों के नियमन में भूमिका निभाता है, मुख्य भंडारण स्थान नहीं है।",
+        "गलत। राइबोसोम प्रोटीन संश्लेषण करते हैं; जल और आयनों का बड़ा भंडार नहीं हैं।",
+        "गलत। कोशिका भित्ति सहारा और आकार देती है; घुले पदार्थों के भंडारण का मुख्य स्थान नहीं है।",
+        "सही। बड़ी केंद्रीय रिक्तिका जल, आयन और अन्य घुले पदार्थ रखती है तथा कोशिका के तुर्गर में योगदान देती है।"
+      ],
+      "en": [
+        "Incorrect. The nucleus contains genetic information and helps regulate cell activities; it is not the main storage compartment.",
+        "Incorrect. Ribosomes synthesize proteins; they are not large stores of water and ions.",
+        "Incorrect. The cell wall provides support and shape; it is not the main store of dissolved substances.",
+        "Correct. The large central vacuole stores water, ions and other solutes and helps maintain cell turgor."
       ]
     }
   },
