@@ -5486,6 +5486,20 @@
       "explanation": {
         "hi": "आवास जीव का घर-क्षेत्र है — जैसे मछली का जल और ऊँट का रेगिस्तान।",
         "en": "A habitat is an organism's home ground — water for a fish, desert for a camel."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: आयु किसी जीव की उम्र बताती है, उसके रहने का स्थान नहीं।",
+          "गलत: भोजन आवास का एक हिस्सा हो सकता है, लेकिन आवास केवल भोजन नहीं है।",
+          "सही: आवास वह प्राकृतिक स्थान/परिवेश है जहाँ जीव रहता है और संसाधन, आश्रय तथा उपयुक्त परिस्थितियाँ पाता है।",
+          "गलत: रंग जीव का लक्षण है, आवास की परिभाषा नहीं।"
+        ],
+        "en": [
+          "Incorrect. Age tells how old an organism is, not where it lives.",
+          "Incorrect. Food can be part of a habitat, but habitat is more than food alone.",
+          "Correct. A habitat is the natural place/environment where an organism lives and finds resources, shelter and suitable conditions.",
+          "Incorrect. Colour is a trait of an organism, not the definition of habitat."
+        ]
       }
     },
     {
@@ -5514,6 +5528,20 @@
       "explanation": {
         "hi": "ऊँट की पलकें, मछली के पंख — ये अनुकूलन हैं जो अपने-अपने आवास में जीवन सुगम बनाते हैं।",
         "en": "A camel's eyelashes, a fish's fins — adaptations that ease life in their respective habitats."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: सोना व्यवहार है; अनुकूलन वह विशेषता है जो जीवित रहने/प्रजनन में मदद करती है।",
+          "गलत: परस्पर भोजन करना पारिस्थितिक संबंध हो सकता है, लेकिन अनुकूलन की परिभाषा नहीं।",
+          "गलत: एक स्थान से दूसरे स्थान जाना प्रवास/गति है; यह अपने-आप अनुकूलन की परिभाषा नहीं।",
+          "सही: संरचनात्मक, शारीरिक या व्यवहारिक विशेषताएँ जो किसी जीव को उसके वातावरण में सफल होने में मदद करती हैं, अनुकूलन कहलाती हैं।"
+        ],
+        "en": [
+          "Incorrect. Sleeping is a behaviour; an adaptation is a trait that helps survival or reproduction.",
+          "Incorrect. Feeding relationships can be ecological interactions, but they are not the definition of adaptation.",
+          "Incorrect. Moving from place to place is movement/migration, not by itself the definition of adaptation.",
+          "Correct. Structural, physiological or behavioural traits that help an organism succeed in its environment are adaptations."
+        ]
       }
     },
     {
@@ -5542,6 +5570,20 @@
       "explanation": {
         "hi": "मछली, झींगा, उल्ली जैसे जीव जलीय आवास के हैं; स्थलीय आवास ज़मीन पर होता है।",
         "en": "Fish, prawn, octopus live in aquatic habitats; terrestrial ones lie on land."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: जल में रहने वाले जीवों का आवास जलीय कहलाता है; इसमें मीठा जल और समुद्री जल दोनों शामिल हो सकते हैं।",
+          "गलत: वायवीय आवास हवा में रहने/गतिविधि से जुड़ा है, जल में रहने से नहीं।",
+          "गलत: भूमिगत आवास मिट्टी या जमीन के भीतर होता है।",
+          "गलत: स्थलीय आवास जमीन पर रहने वाले जीवों के लिए है।"
+        ],
+        "en": [
+          "Correct. A water-based habitat is aquatic and can include both freshwater and marine environments.",
+          "Incorrect. Aerial habitat relates to living or moving in the air, not in water.",
+          "Incorrect. An underground habitat is within soil or below the ground.",
+          "Incorrect. Terrestrial habitat refers to organisms living on land."
+        ]
       }
     },
     {
@@ -5570,6 +5612,20 @@
       "explanation": {
         "hi": "गलफड़े जल से घुली ऑक्सीजन लेते हैं — यह जलीय जीवन का मुख्य अनुकूलन है।",
         "en": "Gills extract oxygen dissolved in water — the prime adaptation for aquatic life."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अधिकांश मछलियाँ पानी में घुली ऑक्सीजन लेने के लिए गलफड़े इस्तेमाल करती हैं; फेफड़े सामान्य मछली संरचना नहीं।",
+          "सही: गलफड़ों की पतली सतह पर जल से ऑक्सीजन रक्त में विसरित होती है और कार्बन डाइऑक्साइड बाहर निकलती है।",
+          "गलत: कुछ जलीय जीव त्वचा से गैस-विनिमय करते हैं, लेकिन मछलियों की मुख्य श्वसन-संरचना गलफड़े हैं।",
+          "गलत: श्वासनली कीटों का श्वसन तंत्र है, मछली का नहीं।"
+        ],
+        "en": [
+          "Incorrect. Most fish use gills to take up dissolved oxygen; lungs are not the typical fish structure.",
+          "Correct. Across the thin gill surface, oxygen diffuses from water into blood and carbon dioxide leaves.",
+          "Incorrect. Some aquatic animals exchange gases through skin, but gills are the main respiratory structure of fish.",
+          "Incorrect. A tracheal system is used by insects, not fish."
+        ]
       }
     },
     {
@@ -5598,6 +5654,20 @@
       "explanation": {
         "hi": "संकरी-पतली देह जल को आसानी से काटती है — तेज़ और ऊर्जा-कुशल तैराकी धारारेखीय आकार का लाभ है।",
         "en": "The narrow tapering body cuts water easily — fast, energy-efficient swimming is the payoff of the stream shape."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: धारारेखीय आकार उड़ान का मुख्य अनुकूलन नहीं; मछली में यह जल-प्रतिरोध घटाता है।",
+          "गलत: मछली की देह जल में ऑक्सीजन नहीं बनाती; गलफड़े घुली ऑक्सीजन लेते हैं।",
+          "सही: आगे-पीछे पतला आकार पानी का प्रतिरोध कम करता है, जिससे तैरना अधिक कुशल होता है।",
+          "गलत: अधिकांश मछलियों के पंख और शरीर जमीन पर चलने के लिए नहीं बने।"
+        ],
+        "en": [
+          "Incorrect. Streamlining is not mainly for flight; in fish it reduces resistance in water.",
+          "Incorrect. A fish's body does not produce oxygen; gills take up dissolved oxygen.",
+          "Correct. A tapered shape reduces water resistance, making swimming more efficient.",
+          "Incorrect. Most fish bodies and fins are not adapted for walking on land."
+        ]
       }
     },
     {
@@ -5626,6 +5696,20 @@
       "explanation": {
         "hi": "पंख रुड़ी का काम करते हैं — मोड़ना, रुकना और संतुलन रखना।",
         "en": "Fins work like rudders — turning, stopping and keeping balance."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: पाचन पाचन तंत्र करता है; पंख भोजन नहीं पचाते।",
+          "गलत: पंखों का प्राथमिक कार्य जनन नहीं, गति और स्थिरता में सहायता करना है।",
+          "गलत: श्वसन गलफड़ों से होता है; पंख मुख्यतः गति, दिशा और संतुलन में मदद करते हैं।",
+          "सही: अलग-अलग पंख धक्का, दिशा-नियंत्रण, संतुलन और ब्रेक लगाने में मदद करते हैं।"
+        ],
+        "en": [
+          "Incorrect. Digestion is performed by the digestive system; fins do not digest food.",
+          "Incorrect. Fins are primarily for movement and stability, not reproduction.",
+          "Incorrect. Gills perform respiration; fins mainly aid movement, steering and balance.",
+          "Correct. Different fins help with propulsion, steering, balance and braking."
+        ]
       }
     },
     {
@@ -5654,6 +5738,20 @@
       "explanation": {
         "hi": "काँटे बनने से पत्ती-सतह लगभग समाप्त हो जाती है — वाष्पीकरण से जल की बचत होती है; भोजन तने में बनता है।",
         "en": "Becoming spines removes almost all leaf surface — water saved from vapour loss; food is made in the stem."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: काँटे पत्ती की सतह और वाष्पोत्सर्जन घटाते हैं; कैक्टस का हरा तना प्रकाश-संश्लेषण कर सकता है।",
+          "गलत: काँटे प्रकाश ग्रहण बढ़ाने के लिए नहीं; वे जल-हानि घटाने और रक्षा में मदद करते हैं।",
+          "गलत: गहरी जड़ें अलग अनुकूलन हैं; काँटों का बनना सीधे जड़ों को गहरा नहीं करता।",
+          "गलत: काँटे फूलों को सुंदर बनाने के लिए नहीं; वे जल-संरक्षण और शाकाहारियों से रक्षा में मदद करते हैं।"
+        ],
+        "en": [
+          "Correct. Spines reduce leaf surface and water loss; the green cactus stem can photosynthesise.",
+          "Incorrect. Spines are not for increasing light capture; they help reduce water loss and deter herbivores.",
+          "Incorrect. Deep roots are a separate adaptation; spines do not directly make roots deeper.",
+          "Incorrect. Spines do not make flowers attractive; they help conserve water and deter herbivores."
+        ]
       }
     },
     {
@@ -5682,6 +5780,20 @@
       "explanation": {
         "hi": "कूबड़ वसा का भंडार है, पानी का नहीं — यही वसा जरूरत पर ऊर्जा और उप-उत्पाद के रूप में जल देती है; 'कूबड़=पानी' एक प्रसिद्ध भ्रम है।",
         "en": "The hump stores fat, not water — on demand it yields energy plus metabolic water; 'hump = water' is a famous myth."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: ऊँट का कूबड़ सामान्यतः पानी नहीं, वसा जमा करता है।",
+          "सही: कूबड़ में वसा जमा होती है; उसे तोड़ने से ऊर्जा और कुछ चयापचयी जल मिल सकता है।",
+          "गलत: कूबड़ का मुख्य भंडार प्रोटीन नहीं, वसा है।",
+          "गलत: कूबड़ हवा का थैला नहीं है; यह वसा ऊतक का भंडार है।"
+        ],
+        "en": [
+          "Incorrect. A camel's hump stores fat, not water.",
+          "Correct. The hump stores fat; breaking it down provides energy and some metabolic water.",
+          "Incorrect. The main stored material is fat, not protein.",
+          "Incorrect. The hump is not an air sac; it is a fat store."
+        ]
       }
     },
     {
@@ -5689,8 +5801,8 @@
       "topic": "habitats-adaptations",
       "difficulty": "medium",
       "question": {
-        "hi": "ध्रुवीय भालू के शरीर की मोटी वसा-परत (blubber) क्या कार्य करती है?",
-        "en": "What does the thick fat layer (blubber) of a polar bear do?"
+        "hi": "ध्रुवीय भालू की त्वचा के नीचे की मोटी वसा-परत मुख्यतः क्या करती है?",
+        "en": "What is the main function of the thick subcutaneous fat layer in a polar bear?"
       },
       "options": {
         "hi": [
@@ -5708,8 +5820,22 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "बर्फीले आवास में वसा-परत शरीर की गर्मी रोकती है और भुखमरी के दिनों में ऊर्जा देती है।",
-        "en": "In an icy habitat the fat layer traps body heat and supplies energy through starving days."
+        "hi": "त्वचा के नीचे की वसा ऊष्मा-हानि कम करती है और ऊर्जा भंडार का काम करती है। 'ब्लबर' शब्द विशेष रूप से कई समुद्री स्तनधारियों की मोटी वसा-परत के लिए प्रयुक्त होता है; ध्रुवीय भालू के लिए 'subcutaneous fat' अधिक सटीक है।",
+        "en": "Subcutaneous fat reduces heat loss and serves as an energy reserve. The term 'blubber' is especially used for the thick fat layer of many marine mammals; 'subcutaneous fat' is more precise for a polar bear."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: वसा-परत शरीर को ठंडा करने के बजाय ऊष्मा-हानि कम करती है।",
+          "गलत: वसा-परत शरीर का रंग बदलने का मुख्य साधन नहीं।",
+          "सही: वसा-परत ऊष्मा को शरीर के भीतर बनाए रखने और ऊर्जा संचित करने में मदद करती है।",
+          "गलत: वसा-परत का मुख्य कार्य पानी में डुबाना नहीं; यह ऊष्मा-रोधन और ऊर्जा-संग्रह करती है।"
+        ],
+        "en": [
+          "Incorrect. The fat layer reduces heat loss rather than cooling the body.",
+          "Incorrect. The fat layer is not the main means of changing body colour.",
+          "Correct. The fat layer helps retain body heat and stores energy.",
+          "Incorrect. Its main role is not to make the bear sink; it insulates and stores energy."
+        ]
       }
     },
     {
@@ -5738,6 +5864,20 @@
       "explanation": {
         "hi": "खुरों वाले मजबूत पैर ढलानों पर चिपकने और कूदने में सहायक हैं — पहाड़ी आवास का अनुकूलन।",
         "en": "Strong hoofed legs grip and leap on slopes — the mountain-habitat adaptation."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: लंबे नाखून अकेले चट्टानों पर मजबूत पकड़ का सही वर्णन नहीं।",
+          "गलत: झिल्लीदार पैर बतख जैसे तैरने वाले जीवों में मदद करते हैं।",
+          "गलत: चौड़े-चपटे पैर कुछ नरम जमीन पर उपयोगी हो सकते हैं, लेकिन पहाड़ी बकरियों के खुरों की मुख्य विशेषता नहीं।",
+          "सही: मजबूत, दो भागों में बँटे खुर और पकड़ देने वाले पैड चट्टानों पर टिकने और चढ़ने में मदद करते हैं।"
+        ],
+        "en": [
+          "Incorrect. Long claws alone do not describe the strong grip needed on rocky slopes.",
+          "Incorrect. Webbed feet help swimming animals such as ducks.",
+          "Incorrect. Broad flat feet can help on soft ground, but they are not the defining feature of mountain-goat hooves.",
+          "Correct. Strong split hooves and gripping pads help mountain goats cling to and climb rocky slopes."
+        ]
       }
     },
     {
