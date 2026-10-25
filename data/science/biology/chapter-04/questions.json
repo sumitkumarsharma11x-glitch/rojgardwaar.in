@@ -446,6 +446,20 @@
       "explanation": {
         "hi": "अरैक्निडा वर्ग के सदस्यों (बिच्छू, मकड़ी) के चार जोड़े टाँगें होती हैं — कीटों के तीन से भिन्न।",
         "en": "Members of the class Arachnida (scorpion, spider) have four pairs of legs — unlike the three pairs of insects."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अनेक पैर मायरियापोडा जैसे जीवों में होते हैं, मकड़ी/बिच्छू में नहीं।",
+          "गलत: तीन जोड़े पैर कीटों की पहचान हैं।",
+          "सही: अरैक्निडा के वयस्कों में चार जोड़े पैर यानी आठ पैर होते हैं।",
+          "गलत: पाँच जोड़े पैर कई क्रस्टेशियनों में मिलते हैं, अरैक्निडा की सामान्य पहचान नहीं।"
+        ],
+        "en": [
+          "Incorrect. Many pairs of legs are typical of myriapods, not spiders or scorpions.",
+          "Incorrect. Three pairs of legs are characteristic of insects.",
+          "Correct. Adult arachnids have four pairs of legs, eight in total.",
+          "Incorrect. Five pairs occur in many crustaceans, not as the typical arachnid feature."
+        ]
       }
     },
     {
@@ -474,6 +488,20 @@
       "explanation": {
         "hi": "मोलस्का का अर्थ है 'नरम देह' — घोंघे की नरम देह कवच में और ऑक्टोपस की देह बाह्य कवच के बिना होती है।",
         "en": "Mollusca means 'soft body' — the snail's soft body sits in a shell while the octopus lacks an external shell."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: इकाइनोडर्मेटा में स्टारफिश और समुद्री अर्चिन आते हैं।",
+          "गलत: एनीलिडा में केंचुआ और जोंक जैसे खंडित जीव आते हैं।",
+          "गलत: निमेटोडा में गोलकृमि आते हैं।",
+          "सही: घोंघे और ऑक्टोपस मोलस्का में आते हैं; इनके शरीर में मांसल पैर और मेंटल जैसे लक्षण मिलते हैं, हालांकि कवच सभी में बाहरी नहीं होता।"
+        ],
+        "en": [
+          "Incorrect. Echinodermata includes starfish and sea urchins.",
+          "Incorrect. Annelida includes segmented animals such as earthworms and leeches.",
+          "Incorrect. Nematoda includes roundworms.",
+          "Correct. Snails and octopuses are molluscs; they share features such as a muscular foot and mantle, though an external shell is not present in all."
+        ]
       }
     },
     {
@@ -502,6 +530,20 @@
       "explanation": {
         "hi": "घोंघे-क्लैम जैसे मोलस्क की नरम देह के ऊपर प्रायः चूने का बना कठोर कवच रहता है।",
         "en": "In molluscs like snails and clams, a hard shell of lime usually covers the soft body."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही, अधिकांश मोलस्कों में: घोंघे और क्लैम जैसे जीवों में मेंटल चूने/कैल्शियम कार्बोनेट का कवच बनाता है; ऑक्टोपस जैसे अपवादों में बाहरी कवच नहीं होता।",
+          "गलत: रोएँदार त्वचा स्तनधारियों की विशेषता है, मोलस्कों की सामान्य विशेषता नहीं।",
+          "गलत: शल्क मछलियों और सरीसृपों में मिलते हैं; मोलस्कों की पहचान नहीं।",
+          "गलत: काइटिन का बाह्यकंकाल आर्थ्रोपोडा में होता है; मोलस्क का कवच सामान्यतः कैल्शियम कार्बोनेट का होता है।"
+        ],
+        "en": [
+          "Correct for most molluscs: in snails and clams, the mantle produces a calcium-carbonate shell; exceptions such as octopuses lack an external shell.",
+          "Incorrect. Hairy skin is characteristic of mammals, not molluscs.",
+          "Incorrect. Scales are found in fish and reptiles, not as the defining mollusc feature.",
+          "Incorrect. A chitinous exoskeleton is typical of arthropods; mollusc shells are generally calcium carbonate."
+        ]
       }
     },
     {
@@ -530,6 +572,20 @@
       "explanation": {
         "hi": "इकाइनोडर्मेटा का अर्थ है 'काँटेदार त्वचा'; स्टारफिश की त्वचा पर कैल्शियम के काँटे होते हैं और देह तारे जैसी होती है।",
         "en": "Echinodermata means 'spiny skin'; a starfish has calcium spines on its skin and a star-shaped body."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: पारंपरिक वर्गीकरण में सीलेंटरेटा/निडेरिया में हाइड्रा और जेलीफ़िश आते हैं।",
+          "सही: स्टारफिश इकाइनोडर्मेटा का समुद्री जीव है; वयस्कों में अक्सर पाँच-भागीय रेडियल सममिति और जल-संवहनी तंत्र होता है।",
+          "गलत: Pisces मछलियों के लिए पारंपरिक वर्ग नाम है; स्टारफिश मछली नहीं है।",
+          "गलत: मोलस्का में घोंघा, सीप और ऑक्टोपस आते हैं; स्टारफिश इकाइनोडर्म है।"
+        ],
+        "en": [
+          "Incorrect. Traditional Coelenterata/Cnidaria includes Hydra and jellyfish.",
+          "Correct. Starfish is a marine echinoderm; adults often have five-part radial symmetry and a water-vascular system.",
+          "Incorrect. Pisces is a traditional term for fishes; a starfish is not a fish.",
+          "Incorrect. Mollusca includes snails, clams and octopuses; starfish are echinoderms."
+        ]
       }
     },
     {
@@ -558,6 +614,20 @@
       "explanation": {
         "hi": "स्टारफिश, समुद्री अर्चिन जैसे इकाइनोडर्म सब समुद्री जीव हैं; इनके जीवन का संपूर्ण चक्र खारे जल में ही चलता है।",
         "en": "Starfish, sea urchins and other echinoderms are all marine; their entire life cycle runs in salt water."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: इकाइनोडर्मेटा के जीव समुद्री होते हैं, घने वनों में नहीं।",
+          "गलत: इकाइनोडर्मेटा के ज्ञात जीव मीठे जल में नहीं रहते; वे समुद्री हैं।",
+          "सही: स्टारफिश और समुद्री अर्चिन सहित इकाइनोडर्मेटा केवल समुद्री वातावरण में पाए जाते हैं।",
+          "गलत: रेगिस्तान स्थलीय वातावरण है; इकाइनोडर्म समुद्री जीव हैं।"
+        ],
+        "en": [
+          "Incorrect. Echinoderms are marine, not forest-dwelling animals.",
+          "Incorrect. Known echinoderms are not freshwater animals; they are marine.",
+          "Correct. Echinoderms, including starfish and sea urchins, are found only in marine environments.",
+          "Incorrect. A desert is terrestrial; echinoderms are marine animals."
+        ]
       }
     },
     {
@@ -586,6 +656,20 @@
       "explanation": {
         "hi": "कॉर्डेटा की पहचान नोटोकॉर्ड है — तंत्रिका रज्जु के नीचे पाई जाने वाली दृढ़ छड़; कशेरुकियों में यही रीढ़ की हड्डी बन जाती है।",
         "en": "Chordates are defined by the notochord — a stiff rod below the nerve cord; in vertebrates it develops into the vertebral column."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कवच सभी कॉर्डेटों में नहीं होता और यह संघ की परिभाषित संरचना नहीं।",
+          "गलत: वेष्टनी कुछ जीवों में होती है, लेकिन सभी कॉर्डेटों की अनिवार्य पहचान नहीं।",
+          "गलत: रीढ़ की हड्डी कशेरुकियों में होती है; कुछ कॉर्डेटों में रीढ़ नहीं होती, पर नोटोकॉर्ड जीवन के किसी चरण में होता है।",
+          "सही: नोटोकॉर्ड कॉर्डेटों की पहचान है; कशेरुकियों में विकास के दौरान इसके चारों ओर कशेरुक स्तंभ बनता है और नोटोकॉर्ड का अधिकांश भाग बदल जाता है।"
+        ],
+        "en": [
+          "Incorrect. A shell is not present in all chordates and is not the defining chordate structure.",
+          "Incorrect. Tentacles occur in some animals but are not required in all chordates.",
+          "Incorrect. A vertebral column occurs in vertebrates; some chordates lack a backbone but have a notochord at some life stage.",
+          "Correct. The notochord identifies chordates; in vertebrates, the vertebral column forms around it during development and most of the notochord is replaced."
+        ]
       }
     },
     {
@@ -614,6 +698,20 @@
       "explanation": {
         "hi": "मछलियों के गलफड़े (gills) जल में घुली ऑक्सीजन लेते और कार्बन डाइऑक्साइड छोड़ते हैं।",
         "en": "The gills of fish take in oxygen dissolved in water and release carbon dioxide."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: गलफड़ों की पतली सतह जल में घुली ऑक्सीजन को रक्त में पहुँचाती है और कार्बन डाइऑक्साइड बाहर निकालती है।",
+          "गलत: नाइट्रोजन पानी में मौजूद हो सकती है, लेकिन मछलियाँ ऊर्जा-प्राप्ति के लिए इसका श्वसन नहीं करतीं।",
+          "गलत: जलवाष्प गैस-विनिमय का मुख्य श्वसन गैस नहीं है।",
+          "गलत: मछलियाँ कार्बन डाइऑक्साइड को अपशिष्ट के रूप में छोड़ती हैं; वे इसे श्वसन के लिए नहीं लेतीं।"
+        ],
+        "en": [
+          "Correct. The thin gill surface transfers dissolved oxygen into the blood and releases carbon dioxide.",
+          "Incorrect. Nitrogen may be present in water, but fish do not use it for respiration.",
+          "Incorrect. Water vapour is not the main respiratory gas used by fish.",
+          "Incorrect. Fish release carbon dioxide as waste; they do not take it in for respiration."
+        ]
       }
     },
     {
@@ -621,8 +719,8 @@
       "topic": "animal-diversity",
       "difficulty": "medium",
       "question": {
-        "hi": "पिसेस (मछलियों) के हृदय के कक्ष कितने होते हैं?",
-        "en": "How many chambers does the heart of Pisces (fishes) have?"
+        "hi": "पारंपरिक स्कूल-वर्गीकरण में मछलियों के हृदय में कितने मुख्य कक्ष माने जाते हैं?",
+        "en": "In traditional school-level classification, how many main chambers are described in a fish's heart?"
       },
       "options": {
         "hi": [
@@ -640,8 +738,22 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "मछलियों का हृदय दो कक्षीय होता है — एक अलिंद और एक निलय; रुधिर शीतल रहता है।",
-        "en": "A fish's heart is two-chambered — one auricle and one ventricle; the blood stays cold."
+        "hi": "पारंपरिक पाठ्यपुस्तकीय वर्णन में मछली का हृदय दो मुख्य कक्षों—एक अलिंद और एक निलय—का होता है। मछलियाँ सामान्यतः एक्टोथर्म होती हैं; 'रक्त ठंडा रहता है' कहना वैज्ञानिक रूप से सटीक नहीं।",
+        "en": "In the traditional textbook description, a fish heart has two main chambers: one atrium and one ventricle. Fish are generally ectothermic; saying their blood 'stays cold' is not scientifically precise."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: चार कक्ष स्तनधारियों और पक्षियों के हृदय में होते हैं।",
+          "सही: सामान्य पाठ्यपुस्तकीय वर्णन में मछली के हृदय में एक अलिंद और एक निलय होते हैं।",
+          "गलत: तीन कक्ष उभयचरों और अधिकांश सरीसृपों के हृदय का पारंपरिक वर्णन है।",
+          "गलत: 'तीन और आधा' मानक कक्ष-संख्या नहीं है।"
+        ],
+        "en": [
+          "Incorrect. Four chambers are found in mammals and birds.",
+          "Correct. The standard textbook description gives fish one atrium and one ventricle.",
+          "Incorrect. Three chambers is the traditional description for amphibians and most reptiles.",
+          "Incorrect. 'Three and a half' is not a standard chamber count."
+        ]
       }
     },
     {
@@ -670,6 +782,20 @@
       "explanation": {
         "hi": "मेंढक-टोड की त्वचा नम और चिकनी होती है; शल्क नहीं होते — यही सरीसृपों से अंतर है जिनकी त्वचा शुष्क-शल्की होती है।",
         "en": "Frog and toad skin is moist and smooth, without scales — unlike reptiles whose skin is dry and scaly."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: मोटी सींगदार प्लेटें कुछ सरीसृपों में मिलती हैं; उभयचरों की त्वचा सामान्यतः नम होती है।",
+          "गलत: सूखी शल्की त्वचा सरीसृपों की पहचान है।",
+          "सही: उभयचरों की त्वचा सामान्यतः नम और शल्क-रहित होती है; कई प्रजातियाँ त्वचा से भी गैस-विनिमय करती हैं।",
+          "गलत: रोएँ स्तनधारियों की विशेषता हैं, उभयचरों की नहीं।"
+        ],
+        "en": [
+          "Incorrect. Thick horny plates occur in some reptiles; amphibian skin is generally moist.",
+          "Incorrect. Dry scaly skin is characteristic of reptiles.",
+          "Correct. Amphibian skin is generally moist and scaleless; many species also exchange gases through their skin.",
+          "Incorrect. Hair is characteristic of mammals, not amphibians."
+        ]
       }
     },
     {
@@ -698,6 +824,20 @@
       "explanation": {
         "hi": "शुष्क शल्की त्वचा और स्थल पर चर्मसार अंडे देने वाले ये जीव सरीसृप (रेप्टिलिया) वर्ग के हैं।",
         "en": "With dry scaly skin and leathery eggs laid on land, these are reptiles (class Reptilia)."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: Aves पक्षियों का वर्ग है।",
+          "गलत: Pisces पारंपरिक रूप से मछलियों के लिए प्रयुक्त वर्ग नाम है।",
+          "गलत: Amphibia में मेंढक और सैलामैंडर आते हैं, साँप और छिपकली नहीं।",
+          "सही: साँप, छिपकली और कछुए सरीसृप हैं; उनकी त्वचा सामान्यतः शुष्क और शल्की होती है।"
+        ],
+        "en": [
+          "Incorrect. Aves is the class of birds.",
+          "Incorrect. Pisces is a traditional term used for fishes.",
+          "Incorrect. Amphibia includes frogs and salamanders, not snakes and lizards.",
+          "Correct. Snakes, lizards and turtles are reptiles, typically with dry, scaly skin."
+        ]
       }
     },
     {
