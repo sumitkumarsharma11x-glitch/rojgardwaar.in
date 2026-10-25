@@ -5065,6 +5065,20 @@
     "explanation": {
       "hi": "भ्रूण (foetus) का विकास गर्भाशय (uterus) में होता है।",
       "en": "In humans, the embryo implants and develops in the uterus, where it receives support during pregnancy."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: निषेचन के बाद भ्रूण गर्भाशय की भीतरी परत में आरोपित होकर वहीं विकसित होता है।",
+        "गलत: अंडाशय अंडाणु और हार्मोन बनाते हैं; सामान्य भ्रूण-विकास का स्थान नहीं।",
+        "गलत: डिंबवाहिनी में सामान्यतः निषेचन होता है; भ्रूण बाद में गर्भाशय की ओर जाता है।",
+        "गलत: अंडकोश में वृषण होते हैं; यह भ्रूण-विकास का स्थान नहीं।"
+      ],
+      "en": [
+        "Correct. After fertilisation, the embryo implants in the uterine lining and develops there.",
+        "Incorrect. Ovaries produce eggs and hormones; they are not the usual site of embryo development.",
+        "Incorrect. Fertilisation usually occurs in the oviduct; the developing embryo later moves toward the uterus.",
+        "Incorrect. The scrotum contains the testes; it is not the site of embryo development."
+      ]
     }
   },
   {
@@ -5093,6 +5107,20 @@
     "explanation": {
       "hi": "मानव कायिक कोशिकाओं में 23 जोड़े अर्थात 46 गुणसूत्र होते हैं।",
       "en": "Human body cells have 23 pairs, i.e. 46 chromosomes."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: 92 गुणसूत्र सामान्य मानव कायिक कोशिका की संख्या नहीं है; सामान्य संख्या 46 है।",
+        "सही: सामान्य मानव कायिक कोशिका में 23 जोड़े यानी 46 गुणसूत्र होते हैं।",
+        "गलत: 23 गुणसूत्र सामान्यतः अगुणित युग्मकों में होते हैं, कायिक कोशिकाओं में नहीं।",
+        "गलत: 44 संख्या लिंग गुणसूत्रों को छोड़कर ऑटोसोम की संख्या है; कुल गुणसूत्र 46 होते हैं।"
+      ],
+      "en": [
+        "Incorrect. 92 is not the usual chromosome count of a human body cell; the usual count is 46.",
+        "Correct. A typical human somatic cell has 23 pairs, or 46 chromosomes.",
+        "Incorrect. 23 chromosomes are found in haploid gametes, not typical body cells.",
+        "Incorrect. 44 is the number of autosomes; the total including sex chromosomes is 46."
+      ]
     }
   },
   {
@@ -5121,6 +5149,20 @@
     "explanation": {
       "hi": "अर्धसूत्री विभाजन से युग्मक में गुणसूत्र आधे अर्थात 23 रह जाते हैं।",
       "en": "Meiosis halves the chromosome number, so a gamete has 23 chromosomes."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: 44 ऑटोसोम की संख्या है, युग्मक में कुल गुणसूत्रों की नहीं।",
+        "गलत: 92 सामान्य मानव युग्मक की संख्या नहीं; यह सामान्य द्विगुणित संख्या का दोगुना है।",
+        "सही: अर्धसूत्री विभाजन से बने मानव युग्मक में सामान्यतः 23 गुणसूत्र होते हैं।",
+        "गलत: 46 सामान्य द्विगुणित कायिक कोशिका की संख्या है; युग्मक अगुणित होते हैं।"
+      ],
+      "en": [
+        "Incorrect. 44 is the number of autosomes, not the total chromosome count in a gamete.",
+        "Incorrect. 92 is not the usual human gamete count; it is double the typical diploid number.",
+        "Correct. A human gamete produced by meiosis normally has 23 chromosomes.",
+        "Incorrect. 46 is the typical diploid number in body cells; gametes are haploid."
+      ]
     }
   },
   {
@@ -5149,6 +5191,20 @@
     "explanation": {
       "hi": "मनुष्य में अर्धसूत्री विभाजन के दौरान गुणसूत्रों की संख्या आधी हो जाती है और अगुणित शुक्राणु या अंडाणु बनते हैं। निषेचन पर इनके केंद्रक मिलकर द्विगुणित गुणसूत्र संख्या बहाल करते हैं।",
       "en": "In humans, meiosis halves the chromosome number and produces haploid sperm or eggs. At fertilization, their nuclei combine and restore the diploid chromosome number."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: समसूत्री विभाजन सामान्यतः गुणसूत्र संख्या बनाए रखता है; युग्मक निर्माण में अर्धसूत्री विभाजन होता है।",
+        "गलत: संलयन दो युग्मकों के मिलने की प्रक्रिया है, कोशिका विभाजन नहीं।",
+        "गलत: युग्मक निर्माण में कोशिका विभाजन होता है।",
+        "सही: अर्धसूत्री विभाजन गुणसूत्र संख्या आधी करता है और अगुणित युग्मक बनाता है।"
+      ],
+      "en": [
+        "Incorrect. Mitosis usually maintains chromosome number; meiosis produces gametes.",
+        "Incorrect. Fusion is the joining of gametes, not a type of cell division.",
+        "Incorrect. Cell division is involved in gamete formation.",
+        "Correct. Meiosis halves chromosome number and produces haploid gametes."
+      ]
     }
   },
   {
@@ -5177,6 +5233,20 @@
     "explanation": {
       "hi": "अंडोत्सर्ग अंडाशय से परिपक्व अंडाणु के निकलने की प्रक्रिया है।",
       "en": "Ovulation is the release of a mature egg from the ovary."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: अंडोत्सर्ग में अंडाशय से अंडाणु निकलता है; इसके बाद वह डिंबवाहिनी में प्रवेश कर सकता है।",
+        "गलत: शुक्राणु वृषण में बनते हैं, अंडोत्सर्ग से नहीं।",
+        "गलत: गर्भाशय का संकुचन अंडोत्सर्ग की परिभाषा नहीं है।",
+        "गलत: भ्रूण निषेचन के बाद विकसित होता है; अंडोत्सर्ग अंडाणु का निकलना है।"
+      ],
+      "en": [
+        "Correct. Ovulation releases an egg from the ovary, after which it can enter the oviduct.",
+        "Incorrect. Sperm are produced in the testes; this is not ovulation.",
+        "Incorrect. Uterine contraction is not the definition of ovulation.",
+        "Incorrect. An embryo develops after fertilisation; ovulation is the release of an egg."
+      ]
     }
   },
   {
@@ -5205,6 +5275,20 @@
     "explanation": {
       "hi": "अंडोत्सर्ग सामान्यतः मासिक चक्र के लगभग 14वें दिन होता है।",
       "en": "Ovulation usually occurs around the 14th day of the menstrual cycle."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: 28-दिन के सामान्य चक्र में सातवाँ दिन प्रायः अंडोत्सर्ग का अनुमानित समय नहीं।",
+        "सही, केवल औसत उदाहरण के रूप में: 28-दिन के चक्र में अंडोत्सर्ग लगभग मध्य में, करीब 14वें दिन हो सकता है; वास्तविक समय बदलता है।",
+        "गलत: पहला दिन मासिक रक्तस्राव शुरू होने का दिन माना जाता है, अंडोत्सर्ग का सामान्य अनुमान नहीं।",
+        "गलत: 28वाँ दिन चक्र के अंत के आसपास है; अंडोत्सर्ग सामान्यतः उससे पहले होता है।"
+      ],
+      "en": [
+        "Incorrect. In a typical 28-day cycle, day 7 is not the usual estimated time of ovulation.",
+        "Correct as an average example only: in a 28-day cycle, ovulation may occur near the middle, around day 14; actual timing varies.",
+        "Incorrect. Day 1 is counted as the first day of menstrual bleeding, not the usual estimate for ovulation.",
+        "Incorrect. Day 28 is near the end of the cycle; ovulation usually occurs earlier."
+      ]
     }
   },
   {
@@ -5233,6 +5317,20 @@
     "explanation": {
       "hi": "शुक्राणु और अंडाणु के संलयन से युग्मनज बनता है।",
       "en": "The fusion of sperm and egg forms a zygote."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: शुक्राणु निषेचन से पहले का नर युग्मक है।",
+        "गलत: भ्रूण-कोश पादपों में मादा युग्मकोद्भिद की संरचना है; मानव निषेचन का उत्पाद नहीं।",
+        "सही: शुक्राणु और अंडाणु के संलयन से युग्मनज बनता है, जो विभाजित होकर भ्रूण विकसित करता है।",
+        "गलत: अंडाणु मादा युग्मक है; निषेचन के बाद बनने वाली कोशिका युग्मनज है।"
+      ],
+      "en": [
+        "Incorrect. Sperm is the male gamete before fertilisation.",
+        "Incorrect. An embryo sac is part of the female gametophyte in flowering plants, not the product of human fertilisation.",
+        "Correct. Fusion of sperm and egg forms a zygote, which divides and develops into an embryo.",
+        "Incorrect. The egg is the female gamete; the cell formed after fertilisation is the zygote."
+      ]
     }
   },
   {
@@ -5261,6 +5359,20 @@
     "explanation": {
       "hi": "23+23 गुणसूत्रों के मिलने से युग्मनज में पुनः 46 गुणसूत्र हो जाते हैं।",
       "en": "The zygote again has 46 chromosomes (23 + 23)."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: 23 गुणसूत्र सामान्य मानव युग्मक में होते हैं; युग्मनज में दोनों युग्मकों के गुणसूत्र मिलते हैं।",
+        "गलत: 92 सामान्य युग्मनज की संख्या नहीं है।",
+        "गलत: 44 ऑटोसोम की संख्या है, कुल गुणसूत्रों की नहीं।",
+        "सही: 23 गुणसूत्र वाले शुक्राणु और 23 गुणसूत्र वाले अंडाणु के मिलने से सामान्यतः 46 गुणसूत्र वाला द्विगुणित युग्मनज बनता है।"
+      ],
+      "en": [
+        "Incorrect. 23 chromosomes are found in a typical human gamete; the zygote combines chromosomes from both gametes.",
+        "Incorrect. 92 is not the usual chromosome number of a human zygote.",
+        "Incorrect. 44 is the number of autosomes, not the total chromosome count.",
+        "Correct. A sperm with 23 chromosomes and an egg with 23 normally form a diploid zygote with 46 chromosomes."
+      ]
     }
   },
   {
@@ -5268,8 +5380,8 @@
     "topic": "human-reproductive-system",
     "difficulty": "medium",
     "question": {
-      "hi": "गर्भाशय की भित्ति में युग्मनज के स्थापित होने को क्या कहते हैं?",
-      "en": "What is the implantation of the zygote in the uterine wall called?"
+      "hi": "प्रारंभिक भ्रूण के गर्भाशय की भीतरी परत में जुड़कर स्थापित होने की प्रक्रिया क्या कहलाती है?",
+      "en": "What is the process called when the early embryo attaches to and embeds in the uterine lining?"
     },
     "options": {
       "hi": [
@@ -5282,13 +5394,27 @@
         "Implantation",
         "Ovulation",
         "Menarche",
-        "Abortion"
+        "Miscarriage"
       ]
     },
     "correct": 0,
     "explanation": {
-      "hi": "युग्मनज का गर्भाशय भित्ति में स्थापित होना आरोपण कहलाता है और इसी से गर्भावस्था शुरू होती है।",
-      "en": "Implantation is the attachment of the zygote to the uterine wall, which marks the beginning of pregnancy."
+      "hi": "आरोपण में प्रारंभिक भ्रूण, सामान्यतः ब्लास्टोसिस्ट अवस्था में, गर्भाशय की भीतरी परत से जुड़ता है। यह निषेचन और शुरुआती कोशिका-विभाजनों के बाद होता है; युग्मनज तुरंत गर्भाशय में आरोपित नहीं होता।",
+      "en": "During implantation, the early embryo, usually at the blastocyst stage, attaches to the uterine lining. This occurs after fertilisation and early cell divisions; the zygote does not implant immediately."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: प्रारंभिक भ्रूण/ब्लास्टोसिस्ट का गर्भाशय की भीतरी परत से जुड़ना आरोपण कहलाता है।",
+        "गलत: अंडोत्सर्ग अंडाशय से अंडाणु निकलने की प्रक्रिया है।",
+        "गलत: रजोदर्शन वह पहला मासिक धर्म है जो किशोरावस्था में शुरू होता है।",
+        "गलत: गर्भपात गर्भावस्था का समाप्त होना है; यह आरोपण की प्रक्रिया नहीं।"
+      ],
+      "en": [
+        "Correct. Implantation is the attachment of the early embryo/blastocyst to the uterine lining.",
+        "Incorrect. Ovulation is the release of an egg from the ovary.",
+        "Incorrect. Menarche is the first menstrual period, usually during puberty.",
+        "Incorrect. Miscarriage is the loss of a pregnancy, not the process of implantation."
+      ]
     }
   },
   {
@@ -5317,6 +5443,20 @@
     "explanation": {
       "hi": "मासिक धर्म सामान्यतः 3 से 7 दिन तक चलता है।",
       "en": "Menstrual bleeding commonly lasts about 3–7 days, although duration can vary from person to person and from cycle to cycle."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: मासिक रक्तस्राव सामान्यतः 28 दिन तक नहीं चलता; 28 दिन अक्सर चक्र की औसत लंबाई का उदाहरण है।",
+        "सही, सामान्य सीमा के रूप में: कई लोगों में रक्तस्राव लगभग 3–7 दिन चलता है, लेकिन अवधि व्यक्ति और चक्र के अनुसार बदल सकती है।",
+        "गलत: एक घंटा सामान्य मासिक रक्तस्राव की अवधि का वर्णन नहीं करता।",
+        "गलत: एक वर्ष सामान्य मासिक रक्तस्राव की अवधि नहीं है; रक्तस्राव कई दिनों तक चलता है।"
+      ],
+      "en": [
+        "Incorrect. Menstrual bleeding does not usually last 28 days; 28 days is often used as an example of cycle length.",
+        "Correct as a common range: bleeding often lasts about 3–7 days, but duration varies between people and cycles.",
+        "Incorrect. One hour does not describe the usual duration of menstrual bleeding.",
+        "Incorrect. Menstrual bleeding does not normally last a year; it typically lasts several days."
+      ]
     }
   },
   {
