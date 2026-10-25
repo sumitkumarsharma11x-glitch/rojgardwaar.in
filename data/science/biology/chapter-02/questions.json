@@ -5485,6 +5485,20 @@
     "explanation": {
       "hi": "मासिक चक्र सामान्यतः 21–35 दिन का होता है, प्रायः लगभग 28 दिन।",
       "en": "The menstrual cycle is usually 21–35 days, often about 28 days."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: तीन दिन पूरे मासिक चक्र की सामान्य अवधि नहीं है; यह रक्तस्राव की अवधि के आसपास हो सकता है।",
+        "गलत: एक वर्ष मासिक चक्र की अवधि नहीं है।",
+        "सही: वयस्कों में मासिक चक्र अक्सर 21–35 दिन के बीच होता है; 28 दिन एक सामान्य औसत उदाहरण है, हर व्यक्ति का चक्र समान नहीं।",
+        "गलत: सात दिन रक्तस्राव की अवधि हो सकती है, पूरे चक्र की नहीं।"
+      ],
+      "en": [
+        "Incorrect. Three days is not the usual length of the entire menstrual cycle; it may resemble bleeding duration.",
+        "Incorrect. One year is not a menstrual-cycle length.",
+        "Correct. Adult menstrual cycles often range from 21–35 days; 28 days is a common example, not a fixed rule for everyone.",
+        "Incorrect. Seven days may describe bleeding duration, not the entire cycle."
+      ]
     }
   },
   {
@@ -5513,6 +5527,20 @@
     "explanation": {
       "hi": "रजोनिवृत्ति (menopause) सामान्यतः लगभग 50 वर्ष की आयु में होती है।",
       "en": "Menopause usually occurs around the age of 50."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: 20 वर्ष सामान्य रजोनिवृत्ति की आयु से बहुत कम है।",
+        "गलत: 30 वर्ष सामान्य रजोनिवृत्ति की आयु से कम है; इतनी जल्दी होना चिकित्सकीय मूल्यांकन मांग सकता है।",
+        "गलत: 10 वर्ष रजोनिवृत्ति की सामान्य आयु नहीं; यह बचपन है।",
+        "सही: रजोनिवृत्ति अक्सर 45–55 वर्ष के बीच होती है; लगभग 50 वर्ष एक औसत अनुमान है और व्यक्तिगत अंतर सामान्य हैं।"
+      ],
+      "en": [
+        "Incorrect. Age 20 is much younger than the usual age of menopause.",
+        "Incorrect. Age 30 is earlier than typical menopause; menopause this early may need medical assessment.",
+        "Incorrect. Age 10 is childhood, not the usual age of menopause.",
+        "Correct. Menopause often occurs between 45 and 55; about 50 is an average estimate, and individual variation is normal."
+      ]
     }
   },
   {
@@ -5520,27 +5548,41 @@
     "topic": "human-reproductive-system",
     "difficulty": "hard",
     "question": {
-      "hi": "शिशु का लिंग (sex) कौन निर्धारित करता है?",
-      "en": "Who determines the sex of the baby?"
+      "hi": "सामान्य XX/XY गुणसूत्र पैटर्न में शिशु को X या Y गुणसूत्र देने वाला जनक कौन हो सकता है?",
+      "en": "In the typical XX/XY chromosome pattern, which parent's gamete can contribute either an X or a Y chromosome?"
     },
     "options": {
       "hi": [
-        "पिता",
-        "माता",
-        "दोनों समान रूप से",
-        "कोई नहीं"
+        "पिता का शुक्राणु",
+        "माता का अंडाणु",
+        "दोनों के सभी युग्मक हमेशा Y देते हैं",
+        "कोई गुणसूत्र योगदान नहीं देता"
       ],
       "en": [
-        "The father",
-        "The mother",
-        "Both equally",
-        "No one"
+        "The father's sperm",
+        "The mother's egg",
+        "All gametes from both parents always provide Y",
+        "No chromosome is contributed"
       ]
     },
     "correct": 0,
     "explanation": {
-      "hi": "माता सदैव X गुणसूत्र देती है, पिता X या Y—इसलिए पिता ही शिशु का लिंग निर्धारित करता है।",
-      "en": "The mother always gives an X chromosome; the father gives X or Y, so the father determines the baby's sex."
+      "hi": "सामान्य XX/XY पैटर्न में अंडाणु प्रायः X गुणसूत्र देता है, जबकि शुक्राणु X या Y दे सकता है। इसलिए निषेचन के समय गुणसूत्र संयोजन में शुक्राणु का योगदान XX या XY पैटर्न बनाने में भूमिका निभाता है। यह सामान्य पैटर्न का वर्णन है; जैविक लैंगिक विकास में विविधताएँ भी होती हैं।",
+      "en": "In the typical XX/XY pattern, the egg usually contributes an X chromosome, while sperm may contribute X or Y. The sperm's contribution therefore helps produce an XX or XY pattern at fertilisation. This describes the typical pattern; variations in sex development also exist."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: सामान्य XX/XY पैटर्न में शुक्राणु X या Y गुणसूत्र दे सकता है, जबकि अंडाणु सामान्यतः X देता है।",
+        "गलत: सामान्य XX/XY पैटर्न में अंडाणु X देता है; वह सामान्यतः Y नहीं देता।",
+        "गलत: सभी युग्मक Y नहीं देते; अंडाणु सामान्यतः X देता है और शुक्राणु X या Y दे सकता है।",
+        "गलत: निषेचन में दोनों युग्मक गुणसूत्रों सहित आनुवंशिक सामग्री देते हैं।"
+      ],
+      "en": [
+        "Correct. In the typical XX/XY pattern, sperm can contribute X or Y, while the egg usually contributes X.",
+        "Incorrect. In the typical XX/XY pattern, the egg contributes X, not Y.",
+        "Incorrect. Not all gametes contribute Y; eggs usually contribute X and sperm may contribute X or Y.",
+        "Incorrect. Both gametes contribute genetic material, including chromosomes, during fertilisation."
+      ]
     }
   },
   {
@@ -5569,6 +5611,20 @@
     "explanation": {
       "hi": "स्त्री में XX और पुरुष में XY लिंग गुणसूत्र होते हैं।",
       "en": "Females have XX and males have XY sex chromosomes."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: XO कुछ sex-chromosome variations में पाया जाता है, लेकिन सामान्य XX पैटर्न का नाम नहीं।",
+        "सही: सामान्य मानव गुणसूत्र पैटर्न में अधिकांश महिलाओं की कोशिकाओं में XX होता है, हालांकि विविधताएँ संभव हैं।",
+        "गलत: XY सामान्य मानव पुरुष गुणसूत्र पैटर्न है, महिला का सामान्य पैटर्न नहीं।",
+        "गलत: YY सामान्य मानव गुणसूत्र पैटर्न नहीं है।"
+      ],
+      "en": [
+        "Incorrect. XO occurs in some sex-chromosome variations; it is not the typical XX pattern.",
+        "Correct. In the typical human chromosome pattern, most females have XX, although variations exist.",
+        "Incorrect. XY is the typical male chromosome pattern, not the typical female pattern.",
+        "Incorrect. YY is not a typical human chromosome pattern."
+      ]
     }
   },
   {
@@ -5597,6 +5653,20 @@
     "explanation": {
       "hi": "मानव में गर्भकाल लगभग 9 माह का होता है।",
       "en": "Human pregnancy lasts about nine months, or roughly 40 weeks counted from the first day of the last menstrual period."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: एक माह सामान्य गर्भावस्था की अवधि से बहुत कम है।",
+        "गलत: 12 माह लगभग एक वर्ष है, जो मानव गर्भावस्था की सामान्य अवधि से अधिक है।",
+        "सही: गर्भावस्था लगभग 9 माह चलती है; चिकित्सकीय गणना में अंतिम मासिक धर्म के पहले दिन से लगभग 40 सप्ताह गिने जाते हैं।",
+        "गलत: तीन माह पूरी गर्भावस्था नहीं, केवल उसका लगभग एक त्रैमासिक है।"
+      ],
+      "en": [
+        "Incorrect. One month is far shorter than a typical human pregnancy.",
+        "Incorrect. Twelve months is about a year, longer than a typical human pregnancy.",
+        "Correct. Pregnancy lasts about nine months; clinical dating counts roughly 40 weeks from the first day of the last menstrual period.",
+        "Incorrect. Three months is roughly one trimester, not the whole pregnancy."
+      ]
     }
   },
   {
@@ -5625,6 +5695,20 @@
     "explanation": {
       "hi": "गर्भावस्था तीन त्रैमासिकों (trimesters) में बँटी होती है।",
       "en": "Pregnancy is commonly described in three trimesters, each covering approximately one-third of the pregnancy."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: गर्भावस्था को सामान्यतः तीन त्रैमासिकों में बाँटा जाता है, दो में नहीं।",
+        "गलत: सामान्य वर्गीकरण में चार त्रैमासिक नहीं होते।",
+        "गलत: पाँच त्रैमासिक मानक वर्गीकरण नहीं है।",
+        "सही: गर्भावस्था को तीन त्रैमासिकों में बाँटा जाता है; उनकी सटीक सप्ताह-सीमाएँ स्रोत के अनुसार थोड़ा अलग बताई जा सकती हैं।"
+      ],
+      "en": [
+        "Incorrect. Pregnancy is commonly divided into three trimesters, not two.",
+        "Incorrect. Four trimesters is not the standard classification.",
+        "Incorrect. Five trimesters is not the standard classification.",
+        "Correct. Pregnancy is divided into three trimesters; exact week boundaries may be described slightly differently by sources."
+      ]
     }
   },
   {
@@ -5632,8 +5716,8 @@
     "topic": "human-reproductive-system",
     "difficulty": "hard",
     "question": {
-      "hi": "विकासशील भ्रूण किस सप्ताह से 'foetus' कहलाता है?",
-      "en": "From about which week is the developing embryo called a foetus?"
+      "hi": "निषेचन के बाद मानव विकास में लगभग किस समय से भ्रूण (embryo) अवस्था के बाद foetal अवस्था शुरू मानी जाती है?",
+      "en": "About when after fertilisation does the fetal period begin, following the embryonic period?"
     },
     "options": {
       "hi": [
@@ -5643,7 +5727,7 @@
         "जन्म के बाद से"
       ],
       "en": [
-        "From about the 9th week",
+        "At about week 9",
         "From the first week",
         "From the second day",
         "After birth"
@@ -5651,8 +5735,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "लगभग 9वें सप्ताह से विकासशील भ्रूण को foetus कहा जाता है।",
-      "en": "From about the ninth week, the developing embryo is called a foetus."
+      "hi": "निषेचन के बाद पहले आठ सप्ताह को सामान्यतः embryonic period कहा जाता है; लगभग नौवें सप्ताह से जन्म तक fetal period माना जाता है। गर्भावस्था के सप्ताह अक्सर अंतिम मासिक धर्म से गिने जाते हैं, जो निषेचन-आधारित गिनती से लगभग दो सप्ताह आगे होती है।",
+      "en": "The first eight weeks after fertilisation are generally called the embryonic period; the fetal period begins around week nine and continues until birth. Pregnancy weeks are often counted from the last menstrual period, about two weeks earlier than fertilisation-based dating."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: निषेचन के बाद लगभग नौवें सप्ताह से fetal period शुरू होता है।",
+        "गलत: पहले सप्ताह में विकास बहुत प्रारंभिक अवस्था में होता है; fetal period शुरू नहीं हुआ होता।",
+        "गलत: दूसरे दिन भ्रूण विकास की बहुत शुरुआती अवस्था है।",
+        "गलत: foetal period जन्म से पहले का चरण है, जन्म के बाद का नहीं।"
+      ],
+      "en": [
+        "Correct. The fetal period begins around the ninth week after fertilisation.",
+        "Incorrect. The first week is an early stage of development, not the start of the fetal period.",
+        "Incorrect. Day two is a very early stage of development.",
+        "Incorrect. The fetal period is before birth, not after birth."
+      ]
     }
   },
   {
@@ -5681,6 +5779,20 @@
     "explanation": {
       "hi": "IVF में निषेचन शरीर के बाहर कल्चर डिश में कराया जाता है, इसलिए इसे 'test tube baby' कहते हैं।",
       "en": "In IVF, fertilisation occurs outside the body in a culture dish, hence the term 'test tube baby'."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: अंडाशय में अंडाणु बनते/परिपक्व होते हैं; IVF में निषेचन सामान्यतः शरीर के बाहर कराया जाता है।",
+        "सही: IVF में अंडाणु और शुक्राणु को प्रयोगशाला की नियंत्रित परिस्थिति में मिलाया जाता है; भ्रूण बाद में गर्भाशय में स्थानांतरित किया जा सकता है।",
+        "गलत: गर्भाशय भ्रूण के विकास का स्थान है; IVF में निषेचन वहीं होना आवश्यक नहीं।",
+        "गलत: प्राकृतिक निषेचन सामान्यतः डिंबवाहिनी में होता है; IVF में निषेचन शरीर के बाहर होता है।"
+      ],
+      "en": [
+        "Incorrect. Eggs develop in the ovary; in IVF, fertilisation is generally carried out outside the body.",
+        "Correct. In IVF, egg and sperm are brought together under controlled laboratory conditions; an embryo may later be transferred to the uterus.",
+        "Incorrect. The uterus is where an embryo develops; IVF fertilisation does not have to occur there.",
+        "Incorrect. Natural fertilisation usually occurs in the oviduct; IVF fertilisation occurs outside the body."
+      ]
     }
   },
   {
@@ -5709,6 +5821,20 @@
     "explanation": {
       "hi": "1978 में कोलकाता के सुभाष मुखोपाध्याय ने भारत का पहला टेस्ट ट्यूब बेबी (कनुप्रिया अग्रवाल) का प्रयोग किया।",
       "en": "In 1978, Subhash Mukhopadhyay of Kolkata pioneered India's first test tube baby (Kanupriya Agarwal)."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: पाश्चर सूक्ष्मजीव विज्ञान और किण्वन के कार्यों से प्रसिद्ध हैं, भारत के पहले टेस्ट-ट्यूब बेबी से नहीं।",
+        "गलत: मेंडल आनुवंशिकी के नियमों से जुड़े हैं।",
+        "सही, ऐतिहासिक श्रेय के संदर्भ में: सुभाष मुखोपाध्याय ने 1978 में भारत के शुरुआती IVF जन्मों में अग्रणी कार्य किया; उनके योगदान की मान्यता ऐतिहासिक रूप से देर से मिली।",
+        "गलत: पी. माहेश्वरी भारतीय वनस्पति भ्रूणविज्ञान से जुड़े हैं, IVF जन्म से नहीं।"
+      ],
+      "en": [
+        "Incorrect. Pasteur is known for microbiology and fermentation, not India's first test-tube baby.",
+        "Incorrect. Mendel is known for foundational work in genetics.",
+        "Correct in the historical attribution: Subhash Mukhopadhyay pioneered an early Indian IVF birth in 1978; recognition of his work came late.",
+        "Incorrect. P. Maheshwari is associated with Indian plant embryology, not the IVF birth."
+      ]
     }
   },
   {
@@ -5737,6 +5863,20 @@
     "explanation": {
       "hi": "यौवन में लड़कों की लंबाई तेजी से बढ़ती है, कंधे चौड़े होते हैं और आवाज भारी होती है।",
       "en": "During puberty, boys grow taller rapidly, their shoulders broaden and their voice deepens."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: बाल झड़ना यौवन का सामान्य परिभाषित परिवर्तन नहीं है।",
+        "गलत: आँखों का रंग सामान्यतः यौवन में नहीं बदलता।",
+        "गलत: नाखून बढ़ना सामान्य शरीर-क्रिया है, लड़कों के यौवन का विशिष्ट परिवर्तन नहीं।",
+        "सही: टेस्टोस्टेरोन और अन्य हार्मोन के प्रभाव से आवाज भारी हो सकती है, कंधे चौड़े हो सकते हैं और अन्य शारीरिक परिवर्तन होते हैं।"
+      ],
+      "en": [
+        "Incorrect. Hair loss is not a defining normal change of puberty.",
+        "Incorrect. Eye colour does not normally change during puberty.",
+        "Incorrect. Nail growth is a normal body process, not a specific pubertal change in boys.",
+        "Correct. Testosterone and other hormones can deepen the voice, broaden the shoulders and produce other physical changes."
+      ]
     }
   },
   {
