@@ -5064,8 +5064,22 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "माइलिन एक विद्युतरोधी (insulating) म्यान है जो आवेग को रास्ते में ऊर्जा-हानि के बिना तेज़ चलाता है।",
-        "en": "Myelin is an insulating sheath that speeds impulses along with no loss of energy on the way."
+        "hi": "माइलिन म्यान कई अक्षतंतुओं को विद्युतरोधी आवरण देती है। इससे आवेग नोड्स ऑफ रैनवियर के बीच saltatory conduction द्वारा तेजी से आगे बढ़ता है और आयन-संतुलन बहाल करने में ऊर्जा की बचत हो सकती है।",
+        "en": "The myelin sheath electrically insulates many axons. It enables rapid saltatory conduction between nodes of Ranvier and can reduce the energy needed to restore ion gradients."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: माइलिन आवेग को नोड से नोड तक छलाँग-जैसे संचरण में मदद करती है, जिससे गति बढ़ती है।",
+          "गलत: भोजन बनाना प्रकाश-संश्लेषी कोशिकाओं का कार्य है, माइलिन का नहीं।",
+          "गलत: पेशी को अस्थि से टेंडन जोड़ता है, माइलिन नहीं।",
+          "गलत: रक्त कोशिकाएँ मुख्यतः लाल अस्थिमज्जा में बनती हैं।"
+        ],
+        "en": [
+          "Correct. Myelin supports saltatory conduction from node to node, increasing conduction speed.",
+          "Incorrect. Food production is performed by photosynthetic cells, not myelin.",
+          "Incorrect. Tendons connect muscles to bones; myelin does not.",
+          "Incorrect. Blood cells are mainly produced in red bone marrow."
+        ]
       }
     },
     {
@@ -5094,6 +5108,20 @@
       "explanation": {
         "hi": "न्यूरॉन का एक्सॉन मीटरों लंबा हो सकता है (जैसे पैर की तंत्रिका में), इसलिए उसे शरीर की सबसे लंबी कोशिका माना जाता है।",
         "en": "A neuron's axon can run for metres (as in leg nerves), making it the longest cell of the body."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: लाल रक्त कोशिकाएँ छोटी होती हैं और उनमें केंद्रक नहीं होता; वे शरीर की सबसे लंबी कोशिका नहीं।",
+          "सही: न्यूरॉन का लंबा एक्सॉन शरीर के दूरस्थ भागों तक पहुँच सकता है; कुछ मोटर न्यूरॉनों के एक्सॉन लगभग एक मीटर तक लंबे हो सकते हैं।",
+          "गलत: एपिडर्मल कोशिकाएँ त्वचा की परत बनाती हैं और सामान्यतः न्यूरॉन के लंबे एक्सॉन जैसी लंबाई नहीं रखतीं।",
+          "गलत: पेशी तंतु भी लंबे हो सकते हैं, लेकिन सामान्य पाठ्यपुस्तकीय उत्तर सबसे लंबी कोशिका के लिए न्यूरॉन है।"
+        ],
+        "en": [
+          "Incorrect. Red blood cells are small and lack a nucleus; they are not the longest cell.",
+          "Correct. A neuron's axon can reach distant body regions; some motor-neuron axons can approach a metre in length.",
+          "Incorrect. Epidermal cells form skin layers and are not generally as long as a neuron's axon.",
+          "Incorrect. Muscle fibres can also be long, but the standard textbook answer for the longest cell is a neuron."
+        ]
       }
     },
     {
@@ -5122,6 +5150,20 @@
       "explanation": {
         "hi": "बाँह की पेशी ऐच्छिक पेशी है — हम चाहें तो बाँह उठाते हैं, चाहें तो नहीं; हृदय, आँत और वाहिकाएँ अनैच्छिक हैं।",
         "en": "The arm muscle is voluntary — we choose to raise the arm; the heart, gut and vessels are involuntary."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: हृदयी पेशी अनैच्छिक है; हम इसे सीधे इच्छा से नियंत्रित नहीं करते।",
+          "गलत: आँत की चिकनी पेशी अनैच्छिक संकुचन करती है।",
+          "सही: बाँह की कंकाली रेखित पेशियाँ सामान्यतः ऐच्छिक नियंत्रण में होती हैं।",
+          "गलत: रक्त वाहिकाओं की दीवार की चिकनी पेशी अनैच्छिक रूप से काम करती है।"
+        ],
+        "en": [
+          "Incorrect. Cardiac muscle is involuntary and cannot be directly controlled at will.",
+          "Incorrect. Smooth muscle in the intestine contracts involuntarily.",
+          "Correct. Skeletal striated muscles of the arm are generally under voluntary control.",
+          "Incorrect. Smooth muscle in blood-vessel walls works involuntarily."
+        ]
       }
     },
     {
@@ -5150,6 +5192,20 @@
       "explanation": {
         "hi": "पेशियों में संयोजी ऊतक की परतें तंतुओं को बंडलों में बाँधती हैं और उनमें वाहिकाएँ-तंत्रिकाएँ भी चलाती हैं।",
         "en": "Sheets of connective tissue bind muscle fibres into bundles and also carry vessels and nerves within."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: तंत्रिका ऊतक संकेत ले जाता है, पेशी तंतुओं को बंडलों में बाँधने वाला आवरण नहीं।",
+          "गलत: उपकला ऊतक सतहों को ढकता है; पेशी के भीतर बंडल बनाने वाली परतें संयोजी ऊतक की होती हैं।",
+          "गलत: विभज्योतक पौधों का सक्रिय विभाजन करने वाला ऊतक है, पशु पेशियों का आवरण नहीं।",
+          "सही: एंडोमाइसियम, पेरिमाइसियम और एपिमाइसियम जैसी संयोजी परतें पेशी तंतुओं और बंडलों को घेरती हैं।"
+        ],
+        "en": [
+          "Incorrect. Nervous tissue carries signals; it does not form the wrapping around muscle bundles.",
+          "Incorrect. Epithelium covers surfaces; connective-tissue layers wrap muscle fibres and bundles.",
+          "Incorrect. Meristem is a dividing plant tissue, not the covering of animal muscle.",
+          "Correct. Connective-tissue layers such as endomysium, perimysium and epimysium surround muscle fibres and bundles."
+        ]
       }
     },
     {
@@ -5178,6 +5234,20 @@
       "explanation": {
         "hi": "कोशिका में प्रोटीन तंतु (एक्टिन/मायोसिन) एकांतरित रूप से जमे होते हैं; प्रकाश पड़ने पर यही धारीदार रेखांकन दिखता है।",
         "en": "Actin and myosin filaments alternate regularly inside the cell, creating the striped look under light."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: एक्टिन और मायोसिन तंतु नियमित सार्कोमियरों में व्यवस्थित होते हैं, जिससे प्रकाश और अंधेरी धारियाँ दिखाई देती हैं।",
+          "गलत: वसा की बूंदें रेखित पेशी की धारियों का कारण नहीं।",
+          "गलत: रक्त कणिकाएँ पेशी तंतुओं के भीतर इस प्रकार पंक्तिबद्ध नहीं होतीं कि धारियाँ बनें।",
+          "गलत: उपास्थि के वलय पेशी की सूक्ष्म धारियों का कारण नहीं।"
+        ],
+        "en": [
+          "Correct. Actin and myosin filaments are arranged regularly in sarcomeres, producing alternating light and dark bands.",
+          "Incorrect. Rows of fat droplets do not cause muscle striations.",
+          "Incorrect. Blood cells are not arranged inside muscle fibres to create striations.",
+          "Incorrect. Cartilage rings do not cause the microscopic bands in muscle."
+        ]
       }
     },
     {
@@ -5206,6 +5276,20 @@
       "explanation": {
         "hi": "एक ही कार्य के लिए विशेषीकृत, समरूप कोशिकाओं के समूह को ऊतक कहते हैं — जैसे पेशी ऊतक, उपकला ऊतक।",
         "en": "A group of similar cells specialised for one function is a tissue — e.g. muscle tissue, epithelial tissue."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अंग कई ऊतकों से मिलकर बनता है; वह ऊतक से उच्च स्तर का संगठन है।",
+          "सही: ऊतक समान/संबंधित कार्य करने वाली कोशिकाओं का संगठित समूह होता है; संयोजी ऊतक जैसे कुछ प्रकारों में कोशिकाएँ और मैट्रिक्स अधिक विविध हो सकते हैं।",
+          "गलत: भिन्न कोशिकाओं का कोई भी मिश्रण अपने-आप ऊतक नहीं कहलाता; संगठन और कार्य महत्वपूर्ण हैं।",
+          "गलत: एक अकेली कोशिका ऊतक नहीं होती; ऊतक कोशिकाओं का समूह है।"
+        ],
+        "en": [
+          "Incorrect. An organ is made of multiple tissues and is a higher level of organisation than tissue.",
+          "Correct. A tissue is an organised group of cells with related structure/function; some tissues such as connective tissue have more varied cells and matrix.",
+          "Incorrect. Any random mixture of different cells is not automatically a tissue; organisation and function matter.",
+          "Incorrect. A single cell is not a tissue; a tissue is a group of cells."
+        ]
       }
     },
     {
@@ -5234,6 +5318,20 @@
       "explanation": {
         "hi": "कोशिकाएँ मिलकर ऊतक, ऊतक मिलकर अंग, और अंग मिलकर अंग-तंत्र बनाते हैं — यही संगठन का क्रम है।",
         "en": "Cells form tissues, tissues form organs, and organs form organ systems — this is the hierarchy of organisation."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अंग कोशिका से बड़ा संगठन-स्तर है; क्रम उलटा है।",
+          "गलत: ऊतक अंग से पहले बनता है, बाद में नहीं।",
+          "सही: कोशिका → ऊतक → अंग → अंग-तंत्र सही क्रम है; कई अंग-तंत्र मिलकर जीव बनाते हैं।",
+          "गलत: कोशिका ऊतक की मूल इकाई है, इसलिए ऊतक पहले नहीं आता।"
+        ],
+        "en": [
+          "Incorrect. An organ is a higher level of organisation than a cell; the sequence is reversed.",
+          "Incorrect. Tissues form organs, not the other way around.",
+          "Correct. Cell → tissue → organ → organ system is the correct sequence; organ systems together make an organism.",
+          "Incorrect. Cells are the basic units of tissues, so tissue does not come first."
+        ]
       }
     },
     {
@@ -5262,6 +5360,20 @@
       "explanation": {
         "hi": "अंग में एक से अधिक प्रकार के ऊतक व्यवस्थित रूप से मिले रहते हैं — जैसे हृदय में पेशी, उपकला, संयोजी और तंत्रिका ऊतक।",
         "en": "An organ contains more than one tissue type arranged together — e.g. the heart has muscular, epithelial, connective and nervous tissue."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अंग केवल पेशियों से नहीं बनता; उसमें कई प्रकार के ऊतक व्यवस्थित होते हैं।",
+          "गलत: रक्त का समूह अकेले सामान्य अंग नहीं बनाता।",
+          "गलत: सामान्य अंगों में कई ऊतक मिलकर कार्य करते हैं; केवल एक ऊतक से अंग की पूरी संरचना नहीं बनती।",
+          "सही: अंग विभिन्न ऊतकों का व्यवस्थित संयोजन है जो मिलकर विशेष कार्य करता है, जैसे हृदय रक्त पंप करता है।"
+        ],
+        "en": [
+          "Incorrect. An organ is not made only of muscles; it contains several organised tissue types.",
+          "Incorrect. A mass of blood alone is not a typical organ.",
+          "Incorrect. Most organs contain multiple tissue types working together, not just one tissue.",
+          "Correct. An organ is an organised combination of tissues performing a specific function, such as the heart pumping blood."
+        ]
       }
     },
     {
@@ -5290,6 +5402,20 @@
       "explanation": {
         "hi": "भोजन के पाचन में सहयोगी ये अंग पाचन तंत्र के घटक हैं।",
         "en": "These organs cooperate in digesting food and form parts of the digestive system."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: आमाशय और आँत भोजन का पाचन/अवशोषण करते हैं और यकृत पाचन में पित्त आदि द्वारा सहायता करता है।",
+          "गलत: श्वसन तंत्र वायु के आदान-प्रदान से जुड़ा है।",
+          "गलत: उत्सर्जन तंत्र अपशिष्ट हटाता है; यकृत की कई भूमिकाएँ हैं, पर इन तीनों का मुख्य वर्ग पाचन तंत्र है।",
+          "गलत: परिसंचरण तंत्र हृदय और रक्त वाहिकाओं से संबंधित है।"
+        ],
+        "en": [
+          "Correct. The stomach and intestine digest/absorb food, and the liver supports digestion by producing bile and other substances.",
+          "Incorrect. The respiratory system handles gas exchange.",
+          "Incorrect. The excretory system removes wastes; although the liver has several roles, these organs are mainly grouped under digestion.",
+          "Incorrect. The circulatory system involves the heart and blood vessels."
+        ]
       }
     },
     {
@@ -5318,6 +5444,20 @@
       "explanation": {
         "hi": "जड़, तना, पत्ती, फूल पौधे के अंग हैं; जाइलम ऊतक है, मृदूतक ऊतक है और द्वार कोशिका केवल एक कोशिका।",
         "en": "Root, stem, leaf and flower are plant organs; xylem and parenchyma are tissues, a guard cell is just one cell."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: मृदूतक पौधे का सरल स्थायी ऊतक है, पूरा अंग नहीं।",
+          "सही: पत्ती पौधे का अंग है जिसमें कई ऊतक मिलकर प्रकाश-संश्लेषण, गैस-विनिमय और वाष्पोत्सर्जन करते हैं।",
+          "गलत: द्वार कोशिका एपिडर्मिस की एक विशेषीकृत कोशिका है, पूरा अंग नहीं।",
+          "गलत: जाइलम संवहन ऊतक है, पूरा अंग नहीं।"
+        ],
+        "en": [
+          "Incorrect. Parenchyma is a simple permanent plant tissue, not an entire organ.",
+          "Correct. A leaf is a plant organ in which several tissues work together in photosynthesis, gas exchange and transpiration.",
+          "Incorrect. A guard cell is one specialised epidermal cell, not an organ.",
+          "Incorrect. Xylem is a conducting tissue, not an organ."
+        ]
       }
     },
     {
