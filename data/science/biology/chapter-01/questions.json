@@ -2619,10 +2619,10 @@
         "लाइसोसोम"
       ],
       "en": [
-        "Ribosome",
+        "Ribosomes",
         "Mitochondria",
-        "Chloroplast",
-        "Lysosome"
+        "Chloroplasts",
+        "Lysosomes"
       ]
     },
     "correct": 2,
@@ -2632,10 +2632,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
-        "गलत: माइटोकॉन्ड्रिया कोशिकीय श्वसन में ATP बनाता है।",
-        "सही: हरितलवक प्रकाश संश्लेषण का प्रमुख कोशिकांग है।",
-        "गलत: लाइसोसोम पाचन एंजाइमों से जुड़ा है।"
+        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं, प्रकाश ऊर्जा नहीं पकड़ते।",
+        "गलत: माइटोकॉन्ड्रिया कोशिकीय श्वसन में ATP बनाने में मदद करते हैं।",
+        "सही: हरितलवक में क्लोरोफिल प्रकाश ऊर्जा ग्रहण करता है और प्रकाश-संश्लेषण में उपयोग होता है।",
+        "गलत: लाइसोसोम पाचक एंजाइमों से पदार्थों के विघटन में मदद करते हैं।"
+      ],
+      "en": [
+        "Incorrect. Ribosomes synthesize proteins; they do not capture light energy.",
+        "Incorrect. Mitochondria help produce ATP during cellular respiration.",
+        "Correct. Chlorophyll in chloroplasts captures light energy used in photosynthesis.",
+        "Incorrect. Lysosomes help break down materials using digestive enzymes."
       ]
     }
   },
@@ -2656,9 +2662,9 @@
       ],
       "en": [
         "Carrying out photosynthesis",
-        "Keeping DNA inside the nucleus",
-        "Making proteins",
-        "Storing water and dissolved substances and maintaining turgor"
+        "Storing DNA in the nucleus",
+        "Synthesizing proteins",
+        "Storing water and solutes and helping maintain turgor"
       ]
     },
     "correct": 3,
@@ -2668,10 +2674,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।",
-        "गलत: DNA मुख्यतः केंद्रक में होता है।",
+        "गलत: प्रकाश-संश्लेषण हरितलवक में होता है।",
+        "गलत: DNA मुख्यतः केंद्रक में होता है, रिक्तिका में नहीं।",
         "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
-        "सही: रिक्तिका भंडारण और तुर्गता में महत्वपूर्ण है।"
+        "सही: बड़ी केंद्रीय रिक्तिका जल और घुले पदार्थों का भंडारण करती है और तुर्गता बनाए रखने में मदद करती है।"
+      ],
+      "en": [
+        "Incorrect. Photosynthesis occurs in chloroplasts.",
+        "Incorrect. Most DNA is in the nucleus, not the vacuole.",
+        "Incorrect. Ribosomes synthesize proteins.",
+        "Correct. The large central vacuole stores water and solutes and helps maintain turgor."
       ]
     }
   },
@@ -2691,10 +2703,10 @@
         "कोशिका भित्ति को कठोर बनाना"
       ],
       "en": [
-        "Lysosome",
-        "Ribosome",
-        "Chloroplast",
-        "Nucleus"
+        "Digestion of materials and breakdown of worn-out cell components",
+        "Photosynthesis",
+        "Replication of DNA",
+        "Making the cell wall rigid"
       ]
     },
     "correct": 0,
@@ -2704,10 +2716,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: लाइसोसोम कोशिका के भीतर पाचन और पुराने घटकों के विघटन में मदद करते हैं।",
-        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।",
-        "गलत: DNA की प्रतिलिपि केंद्रक में होती है (यूकैरियोटिक कोशिकाओं में)।",
-        "गलत: कोशिका भित्ति की कठोरता उसके संरचनात्मक पदार्थों से आती है।"
+        "सही: लाइसोसोम के पाचक एंजाइम कुछ बड़े अणुओं, अपशिष्ट और पुराने कोशिकीय घटकों को तोड़ते हैं।",
+        "गलत: प्रकाश-संश्लेषण हरितलवक में होता है।",
+        "गलत: DNA प्रतिकृति DNA की नकल बनाने की प्रक्रिया है; लाइसोसोम का मुख्य कार्य नहीं।",
+        "गलत: कोशिका भित्ति की मजबूती उसके संरचनात्मक पदार्थों से आती है, लाइसोसोम के एंजाइमों से नहीं।"
+      ],
+      "en": [
+        "Correct. Lysosomal enzymes break down some macromolecules, waste and worn-out cell components.",
+        "Incorrect. Photosynthesis occurs in chloroplasts.",
+        "Incorrect. DNA replication copies DNA; it is not the main role of lysosomes.",
+        "Incorrect. Cell-wall strength comes from its structural materials, not lysosomal enzymes."
       ]
     }
   },
@@ -2740,10 +2758,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: राइबोसोम प्रोटीन बनाते हैं।",
-        "सही: केंद्रक में अधिकांश DNA होता है और यह नियमन में महत्वपूर्ण है।",
-        "गलत: गॉल्जी उपकरण संशोधन और पैकेजिंग करता है।",
-        "गलत: रिक्तिका भंडारण और जल-संतुलन से जुड़ी है।"
+        "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।",
+        "सही: सामान्य यूकैरियोटिक कोशिका का अधिकांश DNA केंद्रक में होता है और जीन-अभिव्यक्ति के नियमन में इसकी भूमिका होती है।",
+        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है।",
+        "गलत: रिक्तिका भंडारण और जल-संतुलन में मदद करती है।"
+      ],
+      "en": [
+        "Incorrect. Ribosomes synthesize proteins.",
+        "Correct. Most DNA in a typical eukaryotic cell is in the nucleus, which has a role in regulating gene expression.",
+        "Incorrect. The Golgi apparatus modifies, sorts and packages substances.",
+        "Incorrect. Vacuoles support storage and water balance."
       ]
     }
   },
@@ -2763,10 +2787,10 @@
         "यह प्रोटीनों की पैकेजिंग करता है"
       ],
       "en": [
-        "Golgi apparatus",
-        "Vacuole",
-        "Mitochondria",
-        "Ribosome"
+        "It provides external rigidity to the cell",
+        "It carries out photosynthesis",
+        "It helps produce ATP during cellular respiration",
+        "It packages proteins"
       ]
     },
     "correct": 2,
@@ -2776,10 +2800,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: बाहरी कठोरता पादप कोशिका में कोशिका भित्ति देती है।",
-        "गलत: प्रकाश संश्लेषण हरितलवक में होता है।",
-        "सही: माइटोकॉन्ड्रिया कोशिकीय श्वसन और ATP निर्माण में प्रमुख है।",
-        "गलत: प्रोटीनों की पैकेजिंग गॉल्जी उपकरण से जुड़ी है।"
+        "गलत: बाहरी कठोरता मुख्यतः पादप कोशिका की कोशिका भित्ति देती है।",
+        "गलत: प्रकाश-संश्लेषण हरितलवक में होता है।",
+        "सही: माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण अवस्थाएँ होती हैं, जो पोषक पदार्थों की ऊर्जा को ATP में उपलब्ध कराने में मदद करती हैं।",
+        "गलत: कई प्रोटीनों की छँटाई और पैकेजिंग गॉल्जी उपकरण करता है।"
+      ],
+      "en": [
+        "Incorrect. External rigidity is mainly provided by the plant cell wall.",
+        "Incorrect. Photosynthesis occurs in chloroplasts.",
+        "Correct. Mitochondria carry out key stages of cellular respiration that help transfer energy from nutrients into ATP.",
+        "Incorrect. The Golgi apparatus sorts and packages many proteins."
       ]
     }
   },
@@ -2799,10 +2829,10 @@
         "वे प्रोटीन संश्लेषण करते हैं"
       ],
       "en": [
-        "Chloroplast",
-        "Mitochondria",
-        "Golgi apparatus",
-        "Ribosome"
+        "They enclose DNA inside the nucleus",
+        "They form the cell membrane and control transport",
+        "They occur only in plant cells",
+        "They synthesize proteins"
       ]
     },
     "correct": 3,
@@ -2812,10 +2842,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: DNA को केंद्रकीय झिल्ली केंद्रक में घेरती है।",
+        "गलत: DNA को यूकैरियोटिक कोशिका में केंद्रकीय आवरण घेरता है।",
         "गलत: पदार्थों का चयनात्मक आवागमन कोशिका झिल्ली नियंत्रित करती है।",
-        "गलत: राइबोसोम पादप और जंतु कोशिकाओं सहित प्रोकैरियोट में भी पाए जाते हैं।",
-        "सही: राइबोसोम प्रोटीन बनाते हैं।"
+        "गलत: राइबोसोम पादप, जंतु और प्रोकैरियोटिक कोशिकाओं में पाए जाते हैं।",
+        "सही: राइबोसोम mRNA के निर्देशों के अनुसार अमीनो अम्ल जोड़कर प्रोटीन बनाते हैं।"
+      ],
+      "en": [
+        "Incorrect. In eukaryotic cells, the nuclear envelope surrounds the DNA-containing nucleus.",
+        "Incorrect. The cell membrane controls selective transport.",
+        "Incorrect. Ribosomes occur in plant, animal and prokaryotic cells.",
+        "Correct. Ribosomes link amino acids according to mRNA instructions to make proteins."
       ]
     }
   },
@@ -2835,10 +2871,10 @@
         "वह केवल DNA को गुजरने देती है"
       ],
       "en": [
-        "Cell membrane",
-        "Cell wall",
-        "Nucleus",
-        "Chloroplast"
+        "It selectively regulates the entry and exit of substances",
+        "It always makes the cell rigid",
+        "It allows every substance to pass without control",
+        "It allows only DNA to pass"
       ]
     },
     "correct": 0,
@@ -2848,10 +2884,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: झिल्ली पदार्थों के प्रवेश और निकास को चुनिंदा रूप से नियंत्रित करती है।",
+        "सही: कोशिका झिल्ली कुछ पदार्थों को गुजरने देती है और दूसरों के आवागमन को सीमित या नियंत्रित करती है।",
         "गलत: कठोरता मुख्यतः पादप कोशिका की कोशिका भित्ति से जुड़ी है।",
-        "गलत: झिल्ली का आवागमन पूरी तरह अनियंत्रित नहीं होता।",
-        "गलत: झिल्ली केवल DNA के लिए नहीं होती; कई प्रकार के पदार्थों का आवागमन नियंत्रित करती है।"
+        "गलत: चयनात्मक पारगम्यता का अर्थ अनियंत्रित आवागमन नहीं है।",
+        "गलत: झिल्ली केवल DNA के लिए नहीं होती; अनेक प्रकार के पदार्थों का आवागमन नियंत्रित होता है।"
+      ],
+      "en": [
+        "Correct. The membrane allows some substances to cross and restricts or regulates others.",
+        "Incorrect. Rigidity is mainly associated with the plant cell wall.",
+        "Incorrect. Selective permeability does not mean unrestricted movement.",
+        "Incorrect. The membrane regulates many types of substances, not only DNA."
       ]
     }
   },
@@ -2871,10 +2913,10 @@
         "DNA को दोहराना"
       ],
       "en": [
-        "Ribosome",
-        "Golgi apparatus",
-        "Cell wall",
-        "Nucleus"
+        "Synthesizing proteins",
+        "Providing support, protection and shape",
+        "Producing ATP",
+        "Replicating DNA"
       ]
     },
     "correct": 1,
@@ -2885,9 +2927,15 @@
     "optionExplanations": {
       "hi": [
         "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
-        "सही: कोशिका भित्ति सहारा, सुरक्षा और आकार देती है।",
-        "गलत: ATP निर्माण कोशिकीय श्वसन से जुड़ा है।",
-        "गलत: DNA प्रतिकृति कोशिका विभाजन से पहले होती है; कोशिका भित्ति का मुख्य कार्य नहीं।"
+        "सही: सेल्यूलोज-समृद्ध कोशिका भित्ति पादप कोशिका को यांत्रिक सहारा, सुरक्षा और आकार देती है तथा तुर्गर दबाव का सामना करने में मदद करती है।",
+        "गलत: ATP का अधिकांश उत्पादन कोशिकीय श्वसन से जुड़ा है, जिसमें माइटोकॉन्ड्रिया प्रमुख है।",
+        "गलत: DNA प्रतिकृति कोशिका भित्ति का कार्य नहीं है।"
+      ],
+      "en": [
+        "Incorrect. Ribosomes synthesize proteins.",
+        "Correct. The cellulose-rich cell wall gives plant cells support, protection and shape and helps them resist turgor pressure.",
+        "Incorrect. Most ATP production is linked to cellular respiration, in which mitochondria play a major role.",
+        "Incorrect. DNA replication is not a function of the cell wall."
       ]
     }
   },
@@ -2907,10 +2955,10 @@
         "यह केवल बाहरी कठोर आवरण है"
       ],
       "en": [
-        "Endoplasmic reticulum",
-        "Chloroplast",
-        "Cell wall",
-        "Lysosome"
+        "It stores all genetic material",
+        "It captures light energy only",
+        "It forms a network of membrane-bound tubes and sacs inside the cell",
+        "It is only the rigid outer covering"
       ]
     },
     "correct": 2,
@@ -2920,10 +2968,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: अधिकांश DNA केंद्रक में होता है।",
+        "गलत: अधिकांश DNA यूकैरियोटिक कोशिका के केंद्रक में होता है।",
         "गलत: प्रकाश ऊर्जा हरितलवक में क्लोरोफिल ग्रहण करता है।",
-        "सही: ER का झिल्लीदार जाल आंतरिक परिवहन और संश्लेषण में सहायता करता है।",
-        "गलत: बाहरी कठोर आवरण कोशिका भित्ति है, ER नहीं।"
+        "सही: ER झिल्लीदार नलिकाओं और थैलियों का जाल है, जो प्रोटीन/लिपिड के निर्माण-प्रसंस्करण और आंतरिक परिवहन में मदद करता है।",
+        "गलत: कठोर बाहरी आवरण कोशिका भित्ति है; ER कोशिका के अंदर होता है।"
+      ],
+      "en": [
+        "Incorrect. Most DNA in a eukaryotic cell is in the nucleus.",
+        "Incorrect. Chlorophyll in chloroplasts captures light energy.",
+        "Correct. The ER is a network of membrane-bound tubes and sacs involved in protein/lipid processing and intracellular transport.",
+        "Incorrect. The rigid outer covering is the cell wall; the ER is inside the cell."
       ]
     }
   },
@@ -2943,10 +2997,10 @@
         "यह पदार्थों को संशोधित, छाँट और पैकेज करता है"
       ],
       "en": [
-        "Mitochondria",
-        "Golgi apparatus",
-        "Ribosome",
-        "Nucleus"
+        "It is the only site of protein synthesis",
+        "It is the main store of cellular DNA",
+        "It is the main source of ATP",
+        "It modifies, sorts and packages substances"
       ]
     },
     "correct": 3,
@@ -2956,10 +3010,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं।",
-        "गलत: DNA का मुख्य भंडार यूकैरियोटिक कोशिका में केंद्रक है।",
-        "गलत: ATP उत्पादन में माइटोकॉन्ड्रिया प्रमुख है।",
-        "सही: गॉल्जी उपकरण पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है।"
+        "गलत: प्रोटीन संश्लेषण राइबोसोम करते हैं; गॉल्जी उपकरण कई प्रोटीनों को बाद में संशोधित और पैकेज करता है।",
+        "गलत: यूकैरियोटिक कोशिका का अधिकांश DNA केंद्रक में होता है।",
+        "गलत: ATP उत्पादन में कोशिकीय श्वसन और माइटोकॉन्ड्रिया प्रमुख भूमिका निभाते हैं।",
+        "सही: गॉल्जी उपकरण प्रोटीन और लिपिड जैसे पदार्थों को संशोधित, छाँट और उचित स्थान तक पहुँचाने के लिए पैकेज करता है।"
+      ],
+      "en": [
+        "Incorrect. Ribosomes synthesize proteins; the Golgi apparatus later modifies and packages many of them.",
+        "Incorrect. Most DNA in a eukaryotic cell is in the nucleus.",
+        "Incorrect. Cellular respiration and mitochondria play major roles in ATP production.",
+        "Correct. The Golgi apparatus modifies, sorts and packages substances such as proteins and lipids for delivery."
       ]
     }
   },
