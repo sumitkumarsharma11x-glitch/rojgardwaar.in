@@ -88,3 +88,20 @@ A full re-fetch and structural scan of `data/science/biology/chapter-01/question
 - Reviewed and rewrote the option explanations for questions `ch1_q141`–`ch1_q250` in batches, with bilingual option order aligned where discrepancies were found; questions `ch1_q219`, `ch1_q142`, `ch1_q146`, `ch1_q148`, `ch1_q155`, and `ch1_q156` also had wording/order clarifications.
 
 Remaining in this guide: the general explanation-length heuristic still flags 145 Hindi and 136 English explanations under 180 characters. This is a triage signal, not a proof of factual error. Scientific fact verification and deeper explanation review still require a separate pass; the 150/150 option-explanation result must not be misrepresented as full scientific certification.
+
+
+## Second completed option-explanation coverage milestone — Biology guide 2 (all 150 questions)
+A fresh re-fetch and structural scan of `data/science/biology/chapter-02/questions.json` confirms:
+- 150/150 questions now have four non-empty Hindi option explanations and four non-empty English option explanations.
+- 0 questions are missing the expected option-explanation arrays.
+- 0 structural issues found in bilingual stems, four options per language and answer-index range (0–3).
+- Completed in batches across `ch2_q201`–`ch2_q350`; targeted wording corrections include cutting/layering conditions, the distinction between grafting and genetic hybridisation, fungal spore conditions, Pasteur's experiment, pollination examples, ovule→seed/ovary→fruit, implantation, typical XX/XY wording, fetal-period timing, male urethra/semen wording, and safe/legal framing of abortion.
+- One important factual correction: the question about bird pollination no longer presents hibiscus as a definite bird-pollination example; it now uses coral tree (Erythrina) as the candidate example.
+- One more important correction: ovary→fruit and ovule→seed are now explicitly distinguished.
+
+This is a completed option-explanation and targeted correction pass, not a complete source-cited scientific certification of all 150 questions. General explanation depth, syllabus mapping and primary-source citations still need review.
+
+## Current option-explanation coverage verified in the two Biology guides
+- Biology guide 1: 150/150 complete; zero missing option-explanation arrays; zero structural issues.
+- Biology guide 2: 150/150 complete; zero missing option-explanation arrays; zero structural issues.
+- Combined: 300/300 questions across these two guides have four Hindi and four English option-specific explanations (2,400 option explanations total). The remaining 5,450 questions across the other 34 guides have not yet completed this pass.
