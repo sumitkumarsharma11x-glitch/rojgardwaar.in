@@ -5906,6 +5906,20 @@
       "explanation": {
         "hi": "मेंढक जल के पास रहता है — नम त्वचा और जल में अंडे देने के कारण वह दोनों जगहों से जुड़ा है।",
         "en": "The frog stays near water — its moist skin and water-laid eggs tie it to both worlds."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: मेंढक उभयचर है; वह वयस्क अवस्था में स्थल पर भी रह सकता है, लेकिन प्रजनन और लार्वा विकास सामान्यतः जल से जुड़े होते हैं।",
+          "गलत: मेंढक केवल पेड़ों पर रहने वाला जीव नहीं; सभी में वृक्षवासी जीवन नहीं होता।",
+          "गलत: वयस्क मेंढक केवल जल में नहीं रहता; वह स्थल पर भी आ सकता है।",
+          "गलत: मेंढक पूरी तरह स्थलीय नहीं; उसका जीवन-चक्र जल और स्थल दोनों से जुड़ा है।"
+        ],
+        "en": [
+          "Correct. A frog is an amphibian; adults can live on land, while reproduction and larval development are generally linked to water.",
+          "Incorrect. Frogs do not all live only in trees; not all are arboreal.",
+          "Incorrect. Adult frogs do not live only in water; they can also live on land.",
+          "Incorrect. Frogs are not entirely terrestrial; their life cycle involves both water and land."
+        ]
       }
     },
     {
@@ -5934,6 +5948,20 @@
       "explanation": {
         "hi": "रात्रिचर होना रेगिस्तान का क्लासिक अनुकूलन है — ठंडी रात में घूमने से जल की बचत होती है।",
         "en": "Being nocturnal is the classic desert adaptation — roaming in the cool night saves body water."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कुछ शिकारी रात में भी सक्रिय होते हैं; मुख्य कारण दिन की गर्मी और जल-हानि से बचना है।",
+          "सही: दिन में बिल में रहने से तेज़ गर्मी से बचाव होता है और रात की ठंडक में भोजन खोजने पर जल-हानि कम हो सकती है।",
+          "गलत: यह केवल अंधेरा पसंद करने का मामला नहीं; यह ताप और जल-संतुलन का अनुकूलन है।",
+          "गलत: दिन में भोजन हमेशा अनुपलब्ध नहीं होता; मुख्य कारण कठोर गर्मी से बचना है।"
+        ],
+        "en": [
+          "Incorrect. Some predators are active at night too; the main reason is avoiding daytime heat and water loss.",
+          "Correct. Burrowing by day avoids intense heat; foraging in cooler nights can reduce water loss.",
+          "Incorrect. It is not simply a preference for darkness; it is an adaptation for heat and water balance.",
+          "Incorrect. Food is not always unavailable by day; avoiding extreme heat is the main reason."
+        ]
       }
     },
     {
@@ -5960,8 +5988,22 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "एककोशिकीय से मानव तक सब जीव ऊर्जा के लिए श्वसन करते हैं; प्रकाश-संश्लेषण केवल हरे पौधों में।",
-        "en": "From single-celled life to humans, all respire for energy; photosynthesis belongs only to green plants."
+        "hi": "सभी जीवित कोशिकाएँ पोषक पदार्थों से ऊर्जा मुक्त करने वाली कोशिकीय श्वसन प्रक्रियाएँ करती हैं। यह प्रक्रिया ऑक्सीजन के साथ (वायवीय) या कुछ जीवों में बिना ऑक्सीजन (अवायवीय) हो सकती है।",
+        "en": "All living cells carry out cellular respiration processes that release energy from nutrients. This can occur with oxygen (aerobic) or, in some organisms, without oxygen (anaerobic)."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अंडे देना केवल कुछ जीवों का जनन तरीका है, सभी जीवों का नहीं।",
+          "गलत: प्रकाश-संश्लेषण केवल कुछ जीव करते हैं, सभी जीव नहीं।",
+          "सही: सभी जीवित कोशिकाएँ ऊर्जा मुक्त करने के लिए कोशिकीय श्वसन करती हैं; यह वायवीय या अवायवीय हो सकता है।",
+          "गलत: फूलना/फूल बनाना केवल कुछ पौधों का लक्षण है, सभी जीवों का नहीं।"
+        ],
+        "en": [
+          "Incorrect. Egg-laying is a reproductive method of some organisms, not all living beings.",
+          "Incorrect. Only some organisms photosynthesise; not all do.",
+          "Correct. All living cells carry out cellular respiration to release energy; it can be aerobic or anaerobic.",
+          "Incorrect. Flowering occurs only in some plants, not all organisms."
+        ]
       }
     },
     {
@@ -5990,6 +6032,20 @@
       "explanation": {
         "hi": "जीव अपने शरीर के भीतर से नई कोशिकाएँ जोड़कर बढ़ते हैं — वृद्धि जीवन की मूल पहचान है।",
         "en": "Living beings grow by adding new cells from within — growth is a basic signature of life."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: उत्सर्जन शरीर से अपशिष्ट हटाने की प्रक्रिया है, आकार बढ़ने की नहीं।",
+          "गलत: प्रजनन से नई संतति बनती है; एक बच्चे का बड़ा होना वृद्धि है।",
+          "गलत: चालन/गति स्थान बदलने या संकेत पहुँचाने से जुड़ी है; आकार बढ़ना वृद्धि है।",
+          "सही: शरीर के आकार, द्रव्यमान या कोशिका-संख्या में वृद्धि जीवन की वृद्धि-प्रक्रिया है।"
+        ],
+        "en": [
+          "Incorrect. Excretion removes wastes; it does not mean increasing in size.",
+          "Incorrect. Reproduction produces offspring; an individual child's increase in size is growth.",
+          "Incorrect. Movement or conduction involves changing position or transmitting signals; increasing size is growth.",
+          "Correct. An increase in body size, mass or cell number is the life process of growth."
+        ]
       }
     },
     {
@@ -6018,6 +6074,20 @@
       "explanation": {
         "hi": "जड़ें-तने होते हुए भी स्पर्श की अनुभूति और तुरंत प्रतिक्रिया पौधे के जीवित होने का संकेत देती है।",
         "en": "Despite having no nerves, sensing touch and reacting instantly marks the plant as living."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: स्पर्श एक उद्दीपन है और पत्तियों का मुड़ना पौधे की अनुक्रिया है; इसमें पौध कोशिकाओं के तुर्गर में बदलाव शामिल होता है।",
+          "गलत: उत्सर्जन अपशिष्ट हटाना है, स्पर्श के प्रति त्वरित प्रतिक्रिया नहीं।",
+          "गलत: पत्तियों का मुड़ना जनन नहीं है।",
+          "गलत: पत्तियों का मुड़ना वृद्धि नहीं, उद्दीपन के प्रति प्रतिक्रिया है।"
+        ],
+        "en": [
+          "Correct. Touch is a stimulus and leaf folding is the plant's response; changes in cell turgor are involved.",
+          "Incorrect. Excretion removes waste; it is not a rapid response to touch.",
+          "Incorrect. Leaf folding is not reproduction.",
+          "Incorrect. Leaf folding is a response to a stimulus, not growth."
+        ]
       }
     },
     {
@@ -6046,6 +6116,20 @@
       "explanation": {
         "hi": "उत्सर्जन जीवन-प्रक्रियाओं में बने निकम्मे-हानिकारक पदार्थों को बाहर करना है — मानव में मूत्र-प्रणाली द्वारा।",
         "en": "Excretion is throwing out the useless-harmful by-products of life processes — via the urinary system in humans."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: भोजन का पाचन भोजन को छोटे अणुओं में तोड़ता है; यह उत्सर्जन नहीं।",
+          "सही: उत्सर्जन में चयापचय से बने अपशिष्ट पदार्थ शरीर से बाहर निकाले जाते हैं; मानव में गुर्दे इसका प्रमुख भाग हैं।",
+          "गलत: ऑक्सीजन लेना श्वसन का हिस्सा है, उत्सर्जन की परिभाषा नहीं।",
+          "गलत: जल सोखना अवशोषण है; उत्सर्जन अपशिष्ट हटाता है।"
+        ],
+        "en": [
+          "Incorrect. Digestion breaks food into smaller molecules; it is not excretion.",
+          "Correct. Excretion removes metabolic wastes from the body; the kidneys are a major part of this process in humans.",
+          "Incorrect. Taking in oxygen is part of respiration, not the definition of excretion.",
+          "Incorrect. Absorbing water is absorption; excretion removes waste."
+        ]
       }
     },
     {
@@ -6053,8 +6137,8 @@
       "topic": "habitats-adaptations",
       "difficulty": "medium",
       "question": {
-        "hi": "रेगिस्तानी पौधों की जड़ें प्रायः बहुत गहरी जाती हैं — इससे लाभ क्या है?",
-        "en": "Desert plant roots usually go very deep — what is the benefit?"
+        "hi": "कुछ रेगिस्तानी पौधों की गहरी मुख्य-जड़ (taproot) का क्या लाभ होता है?",
+        "en": "What is the advantage of a deep taproot in some desert plants?"
       },
       "options": {
         "hi": [
@@ -6072,8 +6156,22 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "गहरी मुख्य-जड़ें सतही सुखाव से नीचे छिपे भूजल तक पहुँचती हैं — रेगिस्तान में जल-प्राप्ति का यही अनुकूलन है।",
-        "en": "Deep taproots pass the dry surface to the hidden water table — the desert adaptation for water supply."
+        "hi": "कुछ रेगिस्तानी पौधों की गहरी मुख्य-जड़ गहराई में मौजूद जल तक पहुँच सकती है। सभी रेगिस्तानी पौधों की जड़ें गहरी नहीं होतीं; कई प्रजातियों में सतह के पास फैली जड़ें थोड़ी वर्षा का पानी जल्दी सोखती हैं।",
+        "en": "A deep taproot in some desert plants can reach water deeper in the soil. Not all desert plants have deep roots; many have shallow, spreading roots that rapidly absorb brief rainfall."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: गहरी जड़ का मुख्य लाभ कीट भगाना नहीं है।",
+          "गलत: जड़ें मिट्टी से जल और खनिज लेती हैं; वे हवा से सीधे ऑक्सीजन लेकर जल की जरूरत पूरी नहीं करतीं।",
+          "सही: गहरी मुख्य-जड़ कुछ प्रजातियों को मिट्टी की गहराई में उपलब्ध जल तक पहुँचने देती है।",
+          "गलत: पत्तियों को ठंडा करना इस जड़-अनुकूलन का सीधा मुख्य कार्य नहीं।"
+        ],
+        "en": [
+          "Incorrect. Deterring insects is not the main benefit of a deep root.",
+          "Incorrect. Roots take up water and minerals from soil; they do not replace water uptake by taking oxygen directly from air.",
+          "Correct. A deep taproot lets some species reach water deeper in the soil.",
+          "Incorrect. Cooling leaves is not the direct main function of this root adaptation."
+        ]
       }
     },
     {
@@ -6100,8 +6198,22 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "वातावरण के कारण जीवन में अर्जित गुण जनन कोशिकाओं तक नहीं पहुँचते — केवल जन्यु लक्षण ही संतान में जाते हैं।",
-        "en": "Qualities acquired from the environment during life never reach the germ cells — only inherited traits pass to offspring."
+        "hi": "ऊँचाई पर कम ऑक्सीजन के अनुकूलन के रूप में जीवनकाल में साँस लेने की क्षमता या रक्त-सम्बंधी प्रतिक्रियाएँ बदल सकती हैं। ऐसा अर्जित अनुकूलन सामान्यतः उसी रूप में आनुवंशिक लक्षण बनकर संतति को नहीं मिलता, हालांकि ऊँचाई पर जन्मे/पले लोगों में वंशागत और विकासात्मक दोनों प्रभाव हो सकते हैं।",
+        "en": "At high altitude, breathing capacity and blood-related responses can change as acclimatisation. Such an acquired adjustment generally is not inherited directly as a genetic trait, although people born or raised at altitude can show both inherited and developmental effects."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: बच्चों के कमजोर पैदा होने का कोई सामान्य नियम नहीं; यह प्रश्न अर्जित और वंशागत लक्षण का अंतर पूछता है।",
+          "गलत: पहाड़ी हवा विषैली नहीं; वहाँ ऑक्सीजन का आंशिक दाब कम होता है।",
+          "गलत: जीन केवल पहाड़ पर रहने से अपने-आप इस अर्जित क्षमता के अनुरूप नहीं बदल जाते।",
+          "सही: जीवनकाल में अर्जित acclimatisation सामान्यतः सीधे वंशागत आनुवंशिक लक्षण के रूप में नहीं जाती।"
+        ],
+        "en": [
+          "Incorrect. Children are not generally born weak; the question concerns acquired versus inherited traits.",
+          "Incorrect. Mountain air is not toxic; oxygen partial pressure is lower at altitude.",
+          "Incorrect. Genes do not automatically change just because someone lives in the mountains.",
+          "Correct. Acclimatisation acquired during life is generally not passed directly as an inherited genetic trait."
+        ]
       }
     },
     {
@@ -6128,8 +6240,22 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "भोजन का ऑक्सीजन में विघटन (श्वसन) ही ऊर्जा की देनदार प्रक्रिया है — सभी जीवों में।",
-        "en": "Breaking down food with oxygen (respiration) is the energy-paying process — in every organism."
+        "hi": "कोशिकीय श्वसन में पोषक अणुओं, जैसे ग्लूकोज़, की ऊर्जा उपयोगी रूप में मुक्त होती है। वायवीय श्वसन में ऑक्सीजन उपयोग होती है, जबकि कुछ जीव अवायवीय मार्गों से भी ऊर्जा प्राप्त करते हैं।",
+        "en": "Cellular respiration releases usable energy from nutrients such as glucose. Aerobic respiration uses oxygen, while some organisms obtain energy through anaerobic pathways."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: कोशिकीय श्वसन पोषक पदार्थों से उपयोगी ऊर्जा मुक्त करता है।",
+          "गलत: पानी जीवन के लिए आवश्यक है, लेकिन पीना अपने-आप भोजन से ऊर्जा मुक्त करने की प्रक्रिया नहीं।",
+          "गलत: नींद शरीर को आराम देती है, लेकिन ऊर्जा का स्रोत भोजन का कोशिकीय विघटन है।",
+          "गलत: सूर्य-स्नान से सभी जीव ऊर्जा नहीं लेते; केवल प्रकाश-संश्लेषी जीव प्रकाश ऊर्जा को रासायनिक ऊर्जा में बदलते हैं।"
+        ],
+        "en": [
+          "Correct. Cellular respiration releases usable energy from nutrients.",
+          "Incorrect. Water is essential for life, but drinking it is not the process that releases energy from food.",
+          "Incorrect. Sleep provides rest, but energy is released by cellular breakdown of nutrients.",
+          "Incorrect. Not all organisms obtain energy from sunlight; only photosynthetic organisms convert light into chemical energy."
+        ]
       }
     },
     {
@@ -6158,6 +6284,20 @@
       "explanation": {
         "hi": "दरारों से भरी त्वचा जल-संरक्षण की उलटी स्थिति है — जल-संरक्षण के लिए मोमी/शल्की आवरण चाहिए; शेष युग्म सही हैं।",
         "en": "Cracked skin is the opposite of water conservation — waxy or scaly coverings do that; the other pairs are correct."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: जल-कीट के कुछ पैरों की झिल्ली तैरने में मदद कर सकती है; यह सही अनुकूलन-युग्म है।",
+          "सही उत्तर: दरारों से भरी त्वचा जल-हानि घटाने के बजाय बढ़ा सकती है; यह जल-संरक्षण के अनुकूलन का गलत युग्म है।",
+          "गलत: मछली की धारारेखीय देह जल-प्रतिरोध कम करके तैरने में मदद करती है।",
+          "गलत: कई उड़ने वाले पक्षियों की कुछ अस्थियों में वायु-गुहाएँ भार घटाने में मदद कर सकती हैं; यह सामान्य अनुकूलन का उदाहरण है।"
+        ],
+        "en": [
+          "Incorrect. Webbed legs in some aquatic insects can aid swimming; this is a plausible adaptation pair.",
+          "Correct choice: cracked skin can increase water loss rather than conserve water, so this is the incorrect adaptation pair.",
+          "Incorrect. A streamlined fish body reduces water resistance and aids swimming.",
+          "Incorrect. Air spaces in some bones of many flying birds can reduce weight; this is a recognised adaptation."
+        ]
       }
     }
   ]
