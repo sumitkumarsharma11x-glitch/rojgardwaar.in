@@ -866,6 +866,20 @@
       "explanation": {
         "hi": "सरीसृपों का हृदय प्रायः तीन-कक्षीय होता है, पर मगरमच्छ का हृदय चार कक्षों वाला है — यही इस वर्ग का प्रसिद्ध अपवाद है।",
         "en": "Reptile hearts are generally three-chambered, but the crocodile's heart has four chambers — the famous exception of this class."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: मगरमच्छों का हृदय चार कक्षों वाला होता है, जो सरीसृपों में अपवाद है।",
+          "गलत: कछुओं का हृदय सामान्यतः तीन कक्षों वाला माना जाता है, जिसमें निलय का विभाजन अपूर्ण होता है।",
+          "गलत: साँपों का हृदय सामान्यतः तीन कक्षों वाला होता है।",
+          "गलत: छिपकलियों का हृदय सामान्यतः तीन कक्षों वाला होता है।"
+        ],
+        "en": [
+          "Correct. Crocodilians have a four-chambered heart, an exception among reptiles.",
+          "Incorrect. Turtles are generally described as having a three-chambered heart with an incompletely divided ventricle.",
+          "Incorrect. Snakes generally have a three-chambered heart.",
+          "Incorrect. Lizards generally have a three-chambered heart."
+        ]
       }
     },
     {
@@ -894,6 +908,20 @@
       "explanation": {
         "hi": "उंगलियों के बीच की झिल्ली चपटी तथा चौड़ी सतह बनाती है जिससे बतख पानी को धकेलकर आसानी से तैरती है।",
         "en": "The membrane between the toes forms a broad paddle surface, letting the duck push water and swim easily."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: बतख के जालीदार पैर पेड़ों की शाखाओं को पकड़ने के लिए विशेष रूप से नहीं बने।",
+          "सही: उँगलियों के बीच की झिल्ली पैर का सतह-क्षेत्र बढ़ाती है, जिससे बतख पानी को पीछे धकेलकर आगे तैर सकती है।",
+          "गलत: बतख शिकार पकड़ सकती है, लेकिन जालीदार पैर का मुख्य लाभ तैरना है।",
+          "गलत: उड़ान में पंख मुख्य भूमिका निभाते हैं; जालीदार पैर पानी में पैडल की तरह काम करते हैं।"
+        ],
+        "en": [
+          "Incorrect. Duck webbed feet are not specialised mainly for gripping branches.",
+          "Correct. The membrane increases foot surface area, allowing a duck to push water backward and swim forward.",
+          "Incorrect. Ducks can catch prey, but the main advantage of webbed feet is swimming.",
+          "Incorrect. Wings provide flight; webbed feet act like paddles in water."
+        ]
       }
     },
     {
@@ -922,6 +950,20 @@
       "explanation": {
         "hi": "पक्षी और स्तनधारी दोनों का हृदय चार-कक्षीय होता है — शुद्ध और अशुद्ध रुधिर पूर्णतः अलग रहता है।",
         "en": "Both birds and mammals have four-chambered hearts — oxygenated and deoxygenated blood stay fully separate."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: दो कक्ष मछलियों के हृदय का सामान्य पाठ्यपुस्तकीय वर्णन है।",
+          "गलत: तीन कक्ष उभयचरों और अधिकांश सरीसृपों का सामान्य वर्णन है।",
+          "सही: पक्षियों के हृदय में दो अलिंद और दो निलय होते हैं, जिससे ऑक्सीजनयुक्त और ऑक्सीजनरहित रक्त अलग रहता है।",
+          "गलत: एक कक्षीय हृदय पक्षियों की संरचना नहीं है।"
+        ],
+        "en": [
+          "Incorrect. Two chambers are the standard textbook description for fish hearts.",
+          "Incorrect. Three chambers is the general description for amphibians and most reptiles.",
+          "Correct. Birds have two atria and two ventricles, keeping oxygenated and deoxygenated blood separate.",
+          "Incorrect. Birds do not have a one-chambered heart."
+        ]
       }
     },
     {
@@ -950,6 +992,20 @@
       "explanation": {
         "hi": "स्तन ग्रंथियाँ जो शावकों को दूध पिलाती हैं, केवल स्तनधारियों में पाई जाती हैं — इसी से इनका नाम पड़ा।",
         "en": "Mammary glands, which suckle the young with milk, occur only in mammals — the group is named after them."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: शल्क मछलियों और सरीसृपों में मिलते हैं, स्तनधारियों की सबसे अनूठी पहचान नहीं।",
+          "गलत: गलफड़े मछलियों और कुछ जलीय जीवों में श्वसन के लिए होते हैं; स्तनधारी फेफड़ों से साँस लेते हैं।",
+          "गलत: पंख पक्षियों की पहचान हैं; सभी स्तनधारियों में पंख नहीं होते।",
+          "सही: स्तन ग्रंथियाँ दूध बनाती हैं जिससे मादा स्तनधारी अपने शिशुओं को पोषण देती हैं; यह समूह की प्रमुख परिभाषित विशेषता है।"
+        ],
+        "en": [
+          "Incorrect. Scales occur in fish and reptiles and are not the defining feature of mammals.",
+          "Incorrect. Gills are used by fish and some aquatic animals; mammals breathe with lungs.",
+          "Incorrect. Wings characterise birds, not mammals as a group.",
+          "Correct. Mammary glands produce milk to nourish young and are a defining feature of mammals."
+        ]
       }
     },
     {
@@ -957,8 +1013,8 @@
       "topic": "animal-diversity",
       "difficulty": "medium",
       "question": {
-        "hi": "शुद्ध और अशुद्ध रुधिर को पूर्णतः अलग रखने वाला हृदय किन दो वर्गों के जीवों में होता है?",
-        "en": "A heart keeping oxygenated and deoxygenated blood fully separate occurs in the animals of which two classes?"
+        "hi": "मानक कशेरुकी वर्गीकरण में सामान्यतः किन दो वर्गों का हृदय चार-कक्षीय होता है? (मगरमच्छ सरीसृपों का अपवाद है।)",
+        "en": "In standard vertebrate classification, which two classes generally have four-chambered hearts? (Crocodilians are an exception among reptiles.)"
       },
       "options": {
         "hi": [
@@ -976,8 +1032,22 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "चार-कक्षीय हृदय केवल पक्षियों और स्तनधारियों में होता है — दोनों गर्म-रुधिर वर्ग हैं।",
-        "en": "Only birds and mammals possess a four-chambered heart — both are warm-blooded classes."
+        "hi": "पक्षियों और स्तनधारियों में सामान्यतः चार-कक्षीय हृदय होता है, जिससे दोनों प्रकार का रक्त अलग रहता है। मगरमच्छ भी चार-कक्षीय हृदय वाले सरीसृप हैं, इसलिए सरीसृपों को बिना अपवाद तीन-कक्षीय कहना सही नहीं।",
+        "en": "Birds and mammals generally have four-chambered hearts, separating the two blood streams. Crocodilians also have four-chambered hearts, so it is not correct to say all reptiles have three chambers without exception."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: पक्षियों और स्तनधारियों में सामान्यतः चार-कक्षीय हृदय होता है; मगरमच्छ सरीसृपों में अपवाद हैं।",
+          "गलत: मछलियों का हृदय सामान्यतः दो-कक्षीय होता है और अधिकांश सरीसृपों में तीन कक्ष होते हैं।",
+          "गलत: मछलियों का हृदय सामान्यतः दो-कक्षीय और उभयचरों का तीन-कक्षीय होता है।",
+          "गलत: उभयचरों का हृदय सामान्यतः तीन-कक्षीय होता है; यह जोड़ा मानक उत्तर नहीं।"
+        ],
+        "en": [
+          "Correct. Birds and mammals generally have four-chambered hearts; crocodilians are an exception among reptiles.",
+          "Incorrect. Fish generally have two-chambered hearts, and most reptiles have three.",
+          "Incorrect. Fish generally have two chambers and amphibians three.",
+          "Incorrect. Amphibians generally have three chambers, so this is not the standard pair."
+        ]
       }
     },
     {
@@ -1004,8 +1074,22 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "पक्षी और स्तनधारी अपने शरीर-ताप को स्थिर रखते हैं — यही गर्म-रुधिरता है; मछली, उभयचर, सरीसृप शीतल-रुधिर हैं।",
-        "en": "Birds and mammals hold their body temperature steady — that is warm-bloodedness; fish, amphibians and reptiles are cold-blooded."
+        "hi": "पक्षी और स्तनधारी शरीर के तापमान को अपेक्षाकृत स्थिर रखने के लिए चयापचय और शरीर-क्रियाओं को नियंत्रित करते हैं। इसे सामान्यतः एंडोथर्मी कहा जाता है; वास्तविक तापमान कुछ बदल सकता है।",
+        "en": "Birds and mammals regulate metabolism and body processes to keep body temperature relatively stable. This is generally called endothermy; actual temperature can still vary somewhat."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: परिवेश का तापमान बदलने पर शरीर का तापमान लगातार उसी के अनुसार बदलना एक्टोथर्मी से अधिक मेल खाता है।",
+          "सही: एंडोथर्म जीव शरीर-ताप को अपेक्षाकृत स्थिर रखते हैं, भले ही परिवेश का ताप बदले।",
+          "गलत: गर्म-रुधिरता का अर्थ केवल गर्मियों में सक्रिय रहना नहीं।",
+          "गलत: केवल रक्त गर्म होना परिभाषा नहीं; शरीर-ताप के नियमन को देखना होता है।"
+        ],
+        "en": [
+          "Incorrect. Body temperature that changes closely with the surroundings is more characteristic of ectothermy.",
+          "Correct. Endotherms keep body temperature relatively stable even when environmental temperature changes.",
+          "Incorrect. Warm-bloodedness does not mean being active only in summer.",
+          "Incorrect. The definition is not simply having warm blood; it concerns regulation of body temperature."
+        ]
       }
     },
     {
@@ -1034,6 +1118,20 @@
       "explanation": {
         "hi": "वर्गीकरण मूल संरचनात्मक लक्षणों पर होता है — बाल और दुग्ध-ग्रंथियाँ पाए जाने से प्लैटिपस अंडे देने के बावजूद स्तनधारी है; यह अपवाद है।",
         "en": "Classification rests on core structural traits — having hair and milk glands makes the platypus a mammal despite egg-laying; it is an exception."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: जल में रहना स्तनधारी होने का निर्णायक लक्षण नहीं; कई गैर-स्तनधारी भी जल में रहते हैं।",
+          "गलत: प्लैटिपस के पंख नहीं होते।",
+          "सही: प्लैटिपस अंडे देता है, लेकिन उसके शरीर पर बाल होते हैं और मादा दूध बनाती है; ये स्तनधारी के प्रमुख लक्षण हैं।",
+          "गलत: हृदय की कक्ष-संख्या अकेले स्तनधारी वर्ग की परिभाषा नहीं; प्लैटिपस का हृदय स्तनधारियों जैसा चार-कक्षीय होता है।"
+        ],
+        "en": [
+          "Incorrect. Living in water does not define mammals; many non-mammals are aquatic.",
+          "Incorrect. The platypus does not have wings.",
+          "Correct. The platypus lays eggs but has hair and mammary glands that produce milk, key mammalian traits.",
+          "Incorrect. Heart-chamber count alone does not define mammals; the platypus has a four-chambered mammalian heart."
+        ]
       }
     },
     {
@@ -1062,6 +1160,20 @@
       "explanation": {
         "hi": "ये तीनों लक्षण — संधित पाँव, काइटिन कवच, खुला परिसंचरण — आर्थ्रोपोडा की निशानी हैं।",
         "en": "All three traits — jointed legs, chitinous coat, open circulation — are signatures of Arthropoda."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: एनीलिडा में खंडित शरीर होता है, लेकिन काइटिनयुक्त बाह्यकंकाल और जोड़दार उपांग इसकी पहचान नहीं।",
+          "गलत: इकाइनोडर्मेटा में जल-संवहनी तंत्र और कांटेदार त्वचा होती है; जोड़दार पैर नहीं।",
+          "गलत: मोलस्का में नरम शरीर और मेंटल जैसे लक्षण होते हैं; काइटिनयुक्त जोड़दार बाह्यकंकाल नहीं।",
+          "सही: जोड़दार उपांग, काइटिनयुक्त बाह्यकंकाल और खुला परिसंचरण आर्थ्रोपोडा के सामान्य लक्षण हैं।"
+        ],
+        "en": [
+          "Incorrect. Annelids are segmented, but jointed appendages and a chitinous exoskeleton are not their defining features.",
+          "Incorrect. Echinoderms have a water-vascular system and spiny skin, not jointed legs.",
+          "Incorrect. Molluscs have a soft body and mantle; they do not have the typical jointed chitinous exoskeleton.",
+          "Correct. Jointed appendages, a chitinous exoskeleton and open circulation are typical arthropod traits."
+        ]
       }
     },
     {
@@ -1090,6 +1202,20 @@
       "explanation": {
         "hi": "जोंक आर्थ्रोपोडा नहीं, बल्कि एनीलिडा की सदस्य है (खंडित देह); शेष तीनों युग्म सही हैं।",
         "en": "The leech is not an arthropod but a member of Annelida (segmented body); the other three pairs are correct."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही उत्तर: यह युग्म गलत है; जोंक एनीलिडा का खंडित कृमि है, आर्थ्रोपोड नहीं।",
+          "गलत: नीरिस समुद्री खंडित कृमि है और एनीलिडा में आता है।",
+          "गलत: स्पंजिला मीठे पानी का स्पंज है, जो पोरिफेरा में आता है।",
+          "गलत: प्लैनेरिया चपटा कृमि है, जो प्लेटीहेल्मिन्थीज में आता है।"
+        ],
+        "en": [
+          "Correct choice: this pair is wrong; a leech is a segmented annelid, not an arthropod.",
+          "Incorrect. Nereis is a marine segmented worm in Annelida.",
+          "Incorrect. Spongilla is a freshwater sponge in Porifera.",
+          "Incorrect. Planaria is a flatworm in Platyhelminthes."
+        ]
       }
     },
     {
@@ -1118,6 +1244,20 @@
       "explanation": {
         "hi": "आवास के बजाय संरचना और कार्य तय करते हैं — फेफड़े, बाल, स्तन ग्रंथियाँ और चार-कक्षीय हृदय व्हेल-डॉल्फिन को स्तनधारी बनाते हैं।",
         "en": "Structure and function decide, not habitat — lungs, hair, mammary glands and a four-chambered heart make whales and dolphins mammals."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: आकार बड़ा होना मछली/स्तनधारी वर्ग का आधार नहीं।",
+          "सही: व्हेल और डॉल्फिन फेफड़ों से साँस लेते हैं और अपने बच्चों को दूध पिलाते हैं; इसलिए वे स्तनधारी हैं, मछलियाँ नहीं।",
+          "गलत: व्हेल और डॉल्फिन जीवित शिशु जन्म देती हैं, अंडे नहीं।",
+          "गलत: व्हेल और डॉल्फिन के पास पूँछ होती है; उनकी पूँछ की क्षैतिज फ्लूक तैरने में मदद करती है।"
+        ],
+        "en": [
+          "Incorrect. Large body size does not determine whether an animal is a fish or mammal.",
+          "Correct. Whales and dolphins breathe with lungs and nurse their young, so they are mammals, not fish.",
+          "Incorrect. Whales and dolphins give birth to live young rather than laying eggs.",
+          "Incorrect. Whales and dolphins have tails; their horizontal flukes help them swim."
+        ]
       }
     },
     {
