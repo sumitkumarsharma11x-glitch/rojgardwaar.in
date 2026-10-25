@@ -303,35 +303,35 @@
     },
     "options": {
       "hi": [
-        "दोनों—रक्त",
         "श्लाइडेन—जंतु; श्वान—पादप",
-        "दोनों—जीवाणु",
-        "श्लाइडेन—पादप; श्वान—जंतु"
+        "विरचो—पादप; श्लाइडेन—जंतु",
+        "श्लाइडेन—पादप; श्वान—जंतु",
+        "दोनों ने केवल प्राकृतिक चयन का अध्ययन किया"
       ],
       "en": [
-        "Both—blood",
         "Schleiden—animals; Schwann—plants",
-        "Both—bacteria",
-        "Schleiden—plants; Schwann—animals"
+        "Virchow—plants; Schleiden—animals",
+        "Schleiden—plants; Schwann—animals",
+        "Both studied only natural selection"
       ]
     },
-    "correct": 3,
+    "correct": 2,
     "explanation": {
-      "hi": "श्लाइडेन ने पादपों और श्वान ने जंतुओं के कोशिकीय संगठन पर काम किया। दोनों के योगदान को जोड़ने से कोशिका सिद्धांत का दायरा अलग-अलग जीव समूहों तक विस्तृत हुआ।",
-      "en": "Schleiden studied plant cellular organization and Schwann studied animals. Their combined contributions extended cell theory across different groups of living organisms."
+      "hi": "श्लाइडेन ने पादपों और श्वान ने जंतुओं के कोशिकीय संगठन का अध्ययन किया। उनके योगदान को साथ रखने से कोशिका सिद्धांत का दायरा दोनों समूहों तक विस्तृत हुआ। विरचो का प्रसिद्ध योगदान यह विचार था कि नई कोशिकाएँ पहले से मौजूद कोशिकाओं से बनती हैं।",
+      "en": "Schleiden studied plant cellular organization and Schwann studied animals. Their combined contributions extended cell theory across both groups. Virchow is associated with the principle that new cells arise from pre-existing cells."
     },
     "optionExplanations": {
       "hi": [
-        "यह विकल्प दोनों वैज्ञानिकों के वास्तविक योगदान को नहीं बताता।",
-        "यह जोड़ा उल्टा है।",
-        "यह विकल्प उनके प्रसिद्ध योगदान का सही मिलान नहीं है।",
-        "सही—श्लाइडेन पादपों और श्वान जंतुओं से जुड़े हैं।"
+        "गलत: यह जोड़ा दोनों वैज्ञानिकों के योगदान को उलट देता है—श्लाइडेन पादपों से और श्वान जंतुओं से जुड़े हैं।",
+        "गलत: विरचो का प्रमुख योगदान पूर्ववर्ती कोशिकाओं से नई कोशिकाओं के बनने के सिद्धांत से जुड़ा है; श्लाइडेन पादपों से जुड़े हैं।",
+        "सही: श्लाइडेन पादपों और श्वान जंतुओं के कोशिकीय संगठन के अध्ययन से जुड़े हैं।",
+        "गलत: प्राकृतिक चयन का सिद्धांत डार्विन से जुड़ा है, इन दोनों वैज्ञानिकों के कोशिका सिद्धांत वाले योगदान से नहीं।"
       ],
       "en": [
-        "This does not identify their recognized contributions.",
-        "This reverses the pair.",
-        "This is not the accepted match for their major contributions.",
-        "Correct—Schleiden is associated with plants and Schwann with animals."
+        "Incorrect. This reverses their contributions: Schleiden is associated with plants and Schwann with animals.",
+        "Incorrect. Virchow is associated with the principle that new cells arise from existing cells; Schleiden studied plants.",
+        "Correct. Schleiden is associated with plant cellular organization and Schwann with animal cellular organization.",
+        "Incorrect. Natural selection is associated with Darwin, not with these scientists' contributions to cell theory."
       ]
     }
   },
@@ -340,40 +340,40 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "त्वचा की कई कोशिकाएँ मिलकर एक सुरक्षात्मक परत बनाती हैं। कोशिका से शरीर तक संगठन का कौन-सा क्रम सही है?",
-      "en": "Many skin cells work together to form a protective layer. Which order of organization from cell to body is correct?"
+      "hi": "कोशिका से पूरे जीव तक जैविक संगठन का सही क्रम कौन-सा है?",
+      "en": "Which sequence correctly shows biological organization from a cell to a whole organism?"
     },
     "options": {
       "hi": [
-        "ऊतक और अंग",
-        "केवल कोशिका भित्ति",
-        "केवल DNA",
-        "केवल रक्त"
+        "अंग → ऊतक → कोशिका → अंग-तंत्र → जीव",
+        "कोशिका → अंग → ऊतक → जीव → अंग-तंत्र",
+        "कोशिका → ऊतक → अंग → अंग-तंत्र → जीव",
+        "कोशिका → अंग-तंत्र → ऊतक → अंग → जीव"
       ],
       "en": [
-        "Tissues and organs",
-        "Only the cell wall",
-        "Only DNA",
-        "Only blood"
+        "Organ → tissue → cell → organ system → organism",
+        "Cell → organ → tissue → organism → organ system",
+        "Cell → tissue → organ → organ system → organism",
+        "Cell → organ system → tissue → organ → organism"
       ]
     },
-    "correct": 0,
+    "correct": 2,
     "explanation": {
-      "hi": "समान या संबंधित कार्य करने वाली कोशिकाएँ ऊतक बनाती हैं; कई ऊतक मिलकर अंग बना सकते हैं। त्वचा एक अंग है, जिसमें उपकला सहित अनेक ऊतक होते हैं—इसलिए कोशिका से अंग तक का संगठन चरणबद्ध है।",
-      "en": "Cells with related functions form tissues, and multiple tissues can form an organ. Skin is an organ containing several tissues, including epithelial tissue, so organization from cell to organ occurs in levels."
+      "hi": "बहुकोशिकीय जीवों में समान/संबंधित कार्य करने वाली कोशिकाएँ ऊतक बनाती हैं; कई ऊतक मिलकर अंग बनाते हैं, अंग मिलकर अंग-तंत्र बनाते हैं, और अंग-तंत्र पूरे जीव में समन्वित कार्य करते हैं। इसलिए सही क्रम कोशिका → ऊतक → अंग → अंग-तंत्र → जीव है।",
+      "en": "In multicellular organisms, cells with related functions form tissues; tissues combine into organs, organs into organ systems, and organ systems work together in the organism. The correct order is cell → tissue → organ → organ system → organism."
     },
     "optionExplanations": {
       "hi": [
-        "सही—कोशिकाएँ ऊतक बनाती हैं और ऊतक मिलकर अंग का हिस्सा बनते हैं।",
-        "कोशिका भित्ति पादप कोशिकाओं में होती है; यह शरीर-संगठन का क्रम नहीं है।",
-        "DNA आनुवंशिक पदार्थ है, संगठन का स्तर नहीं।",
-        "रक्त एक संयोजी ऊतक है, लेकिन सभी कोशिकाएँ केवल रक्त नहीं बनातीं।"
+        "गलत: यह क्रम उलटा है; ऊतक कोशिकाओं से बनता है, कोशिका ऊतक से नहीं।",
+        "गलत: अंग ऊतक से बनता है और अंग-तंत्र अंगों से; दिए क्रम में ये स्तर उलटे हैं।",
+        "सही: कोशिका से ऊतक, ऊतक से अंग, अंग से अंग-तंत्र और फिर पूरे जीव का संगठन होता है।",
+        "गलत: अंग-तंत्र ऊतक से पहले नहीं आता; वह कई अंगों के समन्वित समूह का स्तर है।"
       ],
       "en": [
-        "Correct—cells form tissues, and tissues contribute to organs.",
-        "A cell wall occurs in plant cells; it is not a level of body organization.",
-        "DNA is genetic material, not a level of organization.",
-        "Blood is a connective tissue, but cells do not all form only blood."
+        "Incorrect. This sequence is reversed; tissues are made of cells, not the other way around.",
+        "Incorrect. Organs are made of tissues and organ systems of organs; these levels are out of order here.",
+        "Correct. Cells form tissues, tissues form organs, organs form organ systems, and these together make the organism.",
+        "Incorrect. An organ system does not come before tissues; it is a coordinated group of organs."
       ]
     }
   },
