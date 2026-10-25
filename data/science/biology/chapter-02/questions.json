@@ -2965,6 +2965,20 @@
     "explanation": {
       "hi": "समसूत्री विभाजन में गुणसूत्र संख्या जनक के समान रहती है।",
       "en": "Mitosis keeps the chromosome number the same as the parent."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: सामान्य समसूत्री विभाजन में गुणसूत्र संख्या दोगुनी नहीं होती; यह जनक कोशिका जैसी रहती है।",
+        "गलत: समसूत्री विभाजन से बनने वाली पुत्री कोशिकाओं में गुणसूत्र समाप्त नहीं हो जाते।",
+        "सही: सामान्य समसूत्री विभाजन में पुत्री कोशिकाएँ जनक कोशिका के समान गुणसूत्र संख्या बनाए रखती हैं।",
+        "गलत: गुणसूत्र संख्या आधी होना अर्धसूत्री विभाजन की विशेषता है, समसूत्री विभाजन की नहीं।"
+      ],
+      "en": [
+        "Incorrect. Typical mitosis does not double chromosome number; it preserves the parent's number.",
+        "Incorrect. Daughter cells produced by mitosis do not lose all chromosomes.",
+        "Correct. In typical mitosis, daughter cells retain the same chromosome number as the parent cell.",
+        "Incorrect. Halving chromosome number is characteristic of meiosis, not mitosis."
+      ]
     }
   },
   {
@@ -2993,6 +3007,20 @@
     "explanation": {
       "hi": "अलैंगिक जनन तेज होता है, इसलिए अनुकूल परिस्थितियों में जनसंख्या तेजी से बढ़ती है।",
       "en": "Asexual reproduction is fast, so populations grow rapidly under favourable conditions."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: अनुकूल परिस्थितियों में अलैंगिक जनन कई जीवों में तेजी से हो सकता है; केवल धीमा होना इसकी विशेषता नहीं।",
+        "गलत: अलैंगिक जनन केवल बीज से नहीं होता; कई जीव बिना बीज के जनन करते हैं।",
+        "गलत: परागण फूल वाले पौधों के लैंगिक जनन का चरण है, अलैंगिक जनन का नहीं।",
+        "सही: एक जनक से संतति बनने के कारण अनुकूल परिस्थितियों में कई जीव कम समय में संख्या बढ़ा सकते हैं।"
+      ],
+      "en": [
+        "Incorrect. Asexual reproduction can be rapid in many organisms under favourable conditions; slowness is not its defining feature.",
+        "Incorrect. Asexual reproduction does not require seeds; many organisms reproduce without them.",
+        "Incorrect. Pollination is a step in sexual reproduction in flowering plants, not asexual reproduction.",
+        "Correct. Because offspring can arise from one parent, many organisms can increase in number quickly under favourable conditions."
+      ]
     }
   },
   {
@@ -3000,27 +3028,41 @@
     "topic": "asexual-methods-organisms",
     "difficulty": "hard",
     "question": {
-      "hi": "कवकों से कौन-सी उपयोगी औषधि प्राप्त होती है?",
-      "en": "Which useful medicine is obtained from fungi?"
+      "hi": "कवक से खोजी गई कौन-सी औषधि एक प्रसिद्ध प्रतिजैविक है?",
+      "en": "Which well-known antibiotic was discovered from a fungus?"
     },
     "options": {
       "hi": [
-        "पेनिसिलिन जैसे प्रतिजैविक",
+        "पेनिसिलिन",
         "केवल विटामिन C",
         "केवल लोहा",
         "केवल कैल्शियम"
       ],
       "en": [
-        "Antibiotics like penicillin",
-        "Only vitamin C",
-        "Only iron",
-        "Only calcium"
+        "Penicillin",
+        "Vitamin C only",
+        "Iron only",
+        "Calcium only"
       ]
     },
     "correct": 0,
     "explanation": {
-      "hi": "कवकों से पेनिसिलिन और अमोक्सिसिलिन जैसे प्रतिजैविक प्राप्त होते हैं।",
-      "en": "Antibiotics like penicillin and amoxicillin are derived from fungi."
+      "hi": "पेनिसिलिन की खोज Penicillium कवक से हुई थी। अमोक्सिसिलिन पेनिसिलिन परिवार का अर्ध-संश्लेषित प्रतिजैविक है, इसलिए उसे सीधे कवक से प्राप्त पदार्थ कहना सटीक नहीं।",
+      "en": "Penicillin was discovered from the Penicillium fungus. Amoxicillin is a semisynthetic antibiotic in the penicillin family, so it is not precise to say it is directly obtained from the fungus."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: पेनिसिलिन की खोज Penicillium कवक से हुई थी और इसने जीवाणु संक्रमणों के उपचार में बड़ा योगदान दिया।",
+        "गलत: विटामिन C इस प्रश्न में पूछे गए कवक से खोजे गए प्रसिद्ध प्रतिजैविक का उदाहरण नहीं।",
+        "गलत: लोहा एक खनिज तत्व है, कवक से खोजा गया प्रतिजैविक नहीं।",
+        "गलत: कैल्शियम एक खनिज है, प्रतिजैविक नहीं।"
+      ],
+      "en": [
+        "Correct. Penicillin was discovered from Penicillium and became important in treating bacterial infections.",
+        "Incorrect. Vitamin C is not the well-known fungus-discovered antibiotic asked about.",
+        "Incorrect. Iron is a mineral element, not an antibiotic discovered from a fungus.",
+        "Incorrect. Calcium is a mineral, not an antibiotic."
+      ]
     }
   },
   {
@@ -3049,6 +3091,20 @@
     "explanation": {
       "hi": "स्पंज एक सरल बहुकोशिकीय जीव है जो अलैंगिक जनन करता है।",
       "en": "Sponge is a simple multicellular organism that reproduces asexually."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: स्पंज स्तनधारी नहीं, जलीय अकशेरुकी जीव हैं।",
+        "सही: स्पंज सरल बहुकोशिकीय जंतु हैं; कुछ प्रजातियाँ मुकुलन या विखंडन जैसे अलैंगिक तरीकों से भी जनन कर सकती हैं।",
+        "गलत: स्पंज एककोशिकीय जीवाणु नहीं; उनका शरीर अनेक कोशिकाओं से बना होता है।",
+        "गलत: स्पंज पौधे नहीं हैं और फूल नहीं बनाते।"
+      ],
+      "en": [
+        "Incorrect. Sponges are aquatic invertebrates, not mammals.",
+        "Correct. Sponges are simple multicellular animals; some species can also reproduce asexually by budding or fragmentation.",
+        "Incorrect. Sponges are not unicellular bacteria; their bodies contain many cells.",
+        "Incorrect. Sponges are animals, not flowering plants."
+      ]
     }
   },
   {
@@ -3056,27 +3112,41 @@
     "topic": "asexual-methods-organisms",
     "difficulty": "medium",
     "question": {
-      "hi": "बीजाणु किस संरचना में बनते हैं?",
-      "en": "In what structure are spores formed?"
+      "hi": "ब्रेड मोल्ड (Rhizopus) में बीजाणु सामान्यतः किस संरचना के भीतर बनते हैं?",
+      "en": "In bread mould (Rhizopus), in which structure are spores typically formed?"
     },
     "options": {
       "hi": [
         "फल में",
         "बीज में",
-        "थैली जैसी संरचना में",
+        "थैली जैसी बीजाणुधानी (स्पोरैन्जियम) में",
         "फूल में"
       ],
       "en": [
-        "In the fruit",
-        "In the seed",
-        "In a sac-like structure",
-        "In the flower"
+        "In a fruit",
+        "In a seed",
+        "In a sac-like sporangium",
+        "In a flower"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "कवकों में बीजाणु थैली जैसी संरचना में बनते हैं।",
-      "en": "In fungi, spores are formed in a sac-like structure."
+      "hi": "ब्रेड मोल्ड Rhizopus में बीजाणु बीजाणुधानी (sporangium) नामक थैली जैसी संरचना में बनते हैं। यह कथन इसी कवक के बारे में है; सभी कवकों में बीजाणु बनने की संरचना एक जैसी नहीं होती।",
+      "en": "In bread mould Rhizopus, spores form inside a sac-like structure called a sporangium. This statement applies to this fungus; spore-producing structures are not identical in all fungi."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: फल फूल वाले पौधों की संरचना है; Rhizopus में बीजाणु फल में नहीं बनते।",
+        "गलत: बीज पौधों के जनन से संबंधित हैं; Rhizopus बीज नहीं बनाता।",
+        "सही: Rhizopus में बीजाणु थैली जैसी बीजाणुधानी में बनते हैं।",
+        "गलत: फूल पौधों की जनन संरचना है; ब्रेड मोल्ड में फूल नहीं होते।"
+      ],
+      "en": [
+        "Incorrect. A fruit is a flowering-plant structure; Rhizopus spores do not form in a fruit.",
+        "Incorrect. Seeds are associated with plant reproduction; Rhizopus does not produce seeds.",
+        "Correct. Rhizopus spores form in a sac-like sporangium.",
+        "Incorrect. Flowers are reproductive structures of plants; bread mould does not have flowers."
+      ]
     }
   },
   {
@@ -3105,6 +3175,20 @@
     "explanation": {
       "hi": "जीवाणु कोशिका विभाजन से दो नए जीवाणुओं में बँट जाता है।",
       "en": "A bacterium divides into two new bacteria by cell division."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: जीवाणु बीज नहीं बनाते; वे सामान्यतः द्विखंडन से विभाजित होते हैं।",
+        "गलत: परागण फूल वाले पौधों में पराग के स्थानांतरण की प्रक्रिया है।",
+        "गलत: निषेचन जीवाणुओं के सामान्य जनन की विधि नहीं है।",
+        "सही: द्विखंडन में एक जीवाणु कोशिका विभाजित होकर दो पुत्री कोशिकाएँ बनाती है।"
+      ],
+      "en": [
+        "Incorrect. Bacteria do not produce seeds; they commonly divide by binary fission.",
+        "Incorrect. Pollination transfers pollen in flowering plants.",
+        "Incorrect. Fertilisation is not the usual reproductive method in bacteria.",
+        "Correct. In binary fission, one bacterial cell divides to form two daughter cells."
+      ]
     }
   },
   {
@@ -3133,6 +3217,20 @@
     "explanation": {
       "hi": "मुकुलन अलैंगिक जनन है, इसमें केवल एक जनक होता है।",
       "en": "Budding is an asexual method of reproduction and usually involves one parent organism."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: मुकुलन अलैंगिक जनन है और सामान्यतः एक जनक जीव से नया जीव बनता है।",
+        "गलत: दो जनकों की आनुवंशिक भागीदारी लैंगिक जनन से जुड़ी है।",
+        "गलत: तीन जनक मुकुलन की परिभाषा नहीं है।",
+        "गलत: मुकुलन में चार जनक नहीं होते; यह एक जनक से होने वाला जनन है।"
+      ],
+      "en": [
+        "Correct. Budding is asexual reproduction and generally produces a new individual from one parent.",
+        "Incorrect. Genetic contribution from two parents is associated with sexual reproduction.",
+        "Incorrect. Three parents is not the definition of budding.",
+        "Incorrect. Budding does not involve four parents; it is a one-parent method."
+      ]
     }
   },
   {
@@ -3140,27 +3238,41 @@
     "topic": "asexual-methods-organisms",
     "difficulty": "medium",
     "question": {
-      "hi": "अलैंगिक जनन से बनी संतति आनुवंशिक रूप से कैसी होती है?",
-      "en": "Offspring produced by asexual reproduction are genetically how?"
+      "hi": "अलैंगिक जनन से बनी संतति सामान्यतः आनुवंशिक रूप से कैसी होती है?",
+      "en": "How is offspring from asexual reproduction generally related genetically to its parent?"
     },
     "options": {
       "hi": [
         "कभी-कभी समान",
-        "समान",
+        "लगभग समान, उत्परिवर्तन संभव",
         "भिन्न",
         "केवल आधी समान"
       ],
       "en": [
         "Sometimes similar",
-        "Identical",
+        "Almost identical, though mutations can occur",
         "Different",
         "Only half similar"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "अलैंगिक जनन की संतति आनुवंशिक रूप से समान होती है।",
-      "en": "Asexual reproduction produces offspring from one parent; offspring are often genetically very similar, although mutations can occur."
+      "hi": "अलैंगिक जनन में संतति सामान्यतः जनक की आनुवंशिक रूप से लगभग समान प्रति होती है। DNA प्रतिकृति में होने वाले उत्परिवर्तन या अन्य दुर्लभ बदलाव अंतर पैदा कर सकते हैं, इसलिए 'हमेशा पूर्णतः समान' कहना बहुत निरपेक्ष होगा।",
+      "en": "Asexual offspring are generally near-genetic copies of the parent. Mutations during DNA replication or other rare changes can create differences, so saying they are always perfectly identical would be too absolute."
+    },
+    "optionExplanations": {
+      "hi": [
+        "यह विकल्प बहुत अस्पष्ट है; सामान्य नियम यह है कि अलैंगिक संतति जनक से आनुवंशिक रूप से बहुत मिलती-जुलती होती है।",
+        "सही: संतति सामान्यतः लगभग समान होती है, हालांकि उत्परिवर्तन से अंतर संभव हैं।",
+        "गलत: आनुवंशिक रूप से भिन्न होना अलैंगिक जनन का सामान्य परिणाम नहीं, हालांकि बदलाव संभव हैं।",
+        "गलत: 'आधी समान' लैंगिक जनन में आनुवंशिक योगदान के सरलीकृत विचार से मिलता है; अलैंगिक जनन में एक जनक योगदान देता है।"
+      ],
+      "en": [
+        "This is too vague; the general rule is that asexual offspring are genetically very similar to the parent.",
+        "Correct. Offspring are generally near-identical, although mutations can cause differences.",
+        "Incorrect. Genetic difference is not the usual outcome of asexual reproduction, though changes are possible.",
+        "Incorrect. 'Half similar' loosely resembles a simplified description of sexual inheritance; asexual reproduction involves one parent."
+      ]
     }
   },
   {
@@ -3189,6 +3301,20 @@
     "explanation": {
       "hi": "निषेचन लैंगिक जनन की प्रक्रिया है; शेष तीनों अलैंगिक हैं।",
       "en": "Fertilisation is part of sexual reproduction; the other three are asexual."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: बीजाणु निर्माण कई जीवों में अलैंगिक जनन का तरीका है।",
+        "गलत: कायिक प्रवर्धन अलैंगिक जनन है, जिसमें तना, जड़ या पत्ती से नया पौधा बन सकता है।",
+        "सही: निषेचन में युग्मकों का संलयन होता है और यह लैंगिक जनन का भाग है।",
+        "गलत: मुकुलन अलैंगिक जनन है, जिसमें जनक पर उभार बनता है।"
+      ],
+      "en": [
+        "Incorrect. Spore formation is an asexual reproductive method in many organisms.",
+        "Incorrect. Vegetative propagation is asexual reproduction from parts such as stems, roots or leaves.",
+        "Correct. Fertilisation fuses gametes and is part of sexual reproduction.",
+        "Incorrect. Budding is asexual reproduction in which an outgrowth forms on the parent."
+      ]
     }
   },
   {
@@ -3196,27 +3322,41 @@
     "topic": "asexual-methods-organisms",
     "difficulty": "medium",
     "question": {
-      "hi": "प्रशीतन से भोजन अधिक समय तक सुरक्षित क्यों रहता है?",
-      "en": "Why does refrigeration keep food safe longer?"
+      "hi": "प्रशीतन भोजन को जल्दी खराब होने से कैसे बचाने में मदद करता है?",
+      "en": "How does refrigeration help keep food from spoiling quickly?"
     },
     "options": {
       "hi": [
-        "केवल भोजन मीठा हो जाता है",
-        "केवल भोजन सूख जाता है",
-        "केवल भोजन गर्म हो जाता है",
-        "कम ताप पर कवक और जीवाणुओं का जनन रुक जाता है"
+        "भोजन को मीठा बना देता है",
+        "भोजन से सारा पानी निकाल देता है",
+        "भोजन को गर्म करता है",
+        "कम तापमान पर कई सूक्ष्मजीवों की वृद्धि और प्रजनन धीमा हो जाता है"
       ],
       "en": [
-        "Food only becomes sweet",
-        "Food only dries",
-        "Food only heats up",
-        "Low temperature stops reproduction of fungi and bacteria"
+        "It makes food sweet",
+        "It removes all water from food",
+        "It heats the food",
+        "Low temperature slows the growth and reproduction of many microbes"
       ]
     },
     "correct": 3,
     "explanation": {
-      "hi": "कम तापमान पर कवकों और जीवाणुओं का जनन रुक जाने से भोजन खराब नहीं होता।",
-      "en": "Low temperature stops fungi and bacteria from reproducing, so food does not spoil."
+      "hi": "कम तापमान कई जीवाणुओं और कवकों की वृद्धि तथा प्रजनन को धीमा करता है, इसलिए भोजन देर से खराब हो सकता है। प्रशीतन सभी सूक्ष्मजीवों को नहीं मारता और भोजन को अनिश्चित समय तक सुरक्षित नहीं रखता।",
+      "en": "Low temperature slows the growth and reproduction of many bacteria and fungi, so food may spoil more slowly. Refrigeration does not kill all microbes or preserve food indefinitely."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: प्रशीतन का उद्देश्य भोजन को मीठा बनाना नहीं है।",
+        "गलत: फ्रिज भोजन का सारा पानी नहीं निकालता; वह तापमान कम करता है।",
+        "गलत: प्रशीतन भोजन को ठंडा करता है, गर्म नहीं।",
+        "सही: कम तापमान कई सूक्ष्मजीवों की वृद्धि धीमी करता है, जिससे खराब होने की गति कम होती है।"
+      ],
+      "en": [
+        "Incorrect. Refrigeration does not make food sweet.",
+        "Incorrect. A refrigerator does not remove all water; it lowers temperature.",
+        "Incorrect. Refrigeration cools food rather than heating it.",
+        "Correct. Low temperature slows many microbes, reducing the rate at which food spoils."
+      ]
     }
   },
   {
