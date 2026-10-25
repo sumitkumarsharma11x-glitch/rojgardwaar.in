@@ -4226,6 +4226,20 @@
       "explanation": {
         "hi": "फर्न की पत्तियों के नीचे धब्बेदार बीजाणु-थैले (sori) दिखते हैं जिनसे सूक्ष्म बीजाणु गिरते हैं।",
         "en": "Spotted spore sacs (sori) on the fern's leaf underside release the tiny spores."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: फर्न की पत्तियों के नीचे सोरी (sori) नामक समूहों में स्पोरैन्जिया होते हैं, जिनमें बीजाणु बनते हैं।",
+          "गलत: तने के भीतर बीजाणु-थैले नहीं, फर्न की पत्तियों के नीचे सोरी सामान्य पहचान है।",
+          "गलत: फर्न फूल नहीं बनाते; वे बीजाणुओं से जनन करते हैं।",
+          "गलत: जड़ पर बीजाणु बनने की बजाय फर्न में सामान्यतः पत्तियों के नीचे स्पोरैन्जिया होते हैं।"
+        ],
+        "en": [
+          "Correct. On fern leaves, clusters called sori contain sporangia where spores form.",
+          "Incorrect. Spore sacs are not typically inside the stem; sori under the fronds are the common feature.",
+          "Incorrect. Ferns do not produce flowers; they reproduce by spores.",
+          "Incorrect. Fern sporangia are typically on the fronds, not on the roots."
+        ]
       }
     },
     {
@@ -4254,6 +4268,20 @@
       "explanation": {
         "hi": "फल-कवच के अभाव में शंकुओं में खुले बीज = जिम्नोस्पर्म की निशानी; फल में बंद बीज एंजियोस्पर्म बनाते हैं।",
         "en": "Seeds exposed in cones with no fruit coat = gymnosperm hallmark; seeds sealed in fruit mark angiosperms."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: एंजियोस्पर्म में बीज अंडाशय से बने फल के भीतर बंद होते हैं।",
+          "सही: जिम्नोस्पर्म में बीजांड अंडाशय से घिरे नहीं होते; शंकुओं पर अनावृत बीज विकसित होते हैं।",
+          "गलत: टेरिडोफाइटा बीज नहीं बनाते; वे बीजाणु बनाते हैं।",
+          "गलत: ब्रायोफाइटा बीज नहीं बनाते और वास्तविक संवहन ऊतक भी नहीं रखते।"
+        ],
+        "en": [
+          "Incorrect. Angiosperm seeds are enclosed in fruits derived from ovaries.",
+          "Correct. Gymnosperm ovules are not enclosed in an ovary; naked seeds develop on cone structures.",
+          "Incorrect. Pteridophytes do not produce seeds; they produce spores.",
+          "Incorrect. Bryophytes do not produce seeds and lack true vascular tissue."
+        ]
       }
     },
     {
@@ -4261,8 +4289,8 @@
       "topic": "plant-diversity",
       "difficulty": "hard",
       "question": {
-        "hi": "देह-जटिलता बढ़ने का सही क्रम (सरल से जटिल की ओर) कौन-सा है?",
-        "en": "Which is the correct sequence of increasing body complexity (simple to complex)?"
+        "hi": "पारंपरिक स्कूल-पुस्तक वर्गीकरण में सरल देह-विन्यास से अधिक विभेदित संवहनी/बीजधारी पौधों तक समूहों का कौन-सा क्रम दिया जाता है? (यह आधुनिक विकास-वृक्ष का सीधा क्रम नहीं है।)",
+        "en": "In traditional school-textbook classification, which sequence runs from simple body plans to more differentiated vascular/seed plants? (This is not a direct modern evolutionary tree.)"
       },
       "options": {
         "hi": [
@@ -4280,8 +4308,22 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "सरल थैलस से लेकर फूल-फल वाले जटिल पौधों तक क्रम है — थैलो → ब्रायो → टेरिडो → जिम्नो → एंजियो।",
-        "en": "From a simple thallus to complex flowering plants the order runs — thallo → bryo → pterido → gymno → angio."
+        "hi": "पारंपरिक शिक्षण क्रम थैलोफाइटा → ब्रायोफाइटा → टेरिडोफाइटा → जिम्नोस्पर्म → एंजियोस्पर्म है। ध्यान दें कि थैलोफाइटा आधुनिक वर्गीकरण में एक प्राकृतिक एकल समूह नहीं है और विकास को हमेशा एक सीढ़ी के रूप में नहीं दिखाया जाता।",
+        "en": "The traditional teaching sequence is Thallophyta → Bryophyta → Pteridophyta → Gymnosperms → Angiosperms. Note that Thallophyta is not a single natural group in modern taxonomy, and evolution is not always represented as a simple ladder."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: ब्रायोफाइटा को थैलोफाइटा से पहले रखने से पारंपरिक शिक्षण क्रम उलट जाता है और एंजियोस्पर्म/टेरिडोफाइटा भी गलत क्रम में हैं।",
+          "गलत: टेरिडोफाइटा को ब्रायोफाइटा से पहले रखा गया है और थैलोफाइटा छूटा है।",
+          "सही: यह पारंपरिक स्कूल-पुस्तक क्रम है; इसे आधुनिक विकास-वृक्ष का शाब्दिक प्रतिनिधित्व नहीं समझना चाहिए।",
+          "गलत: यह क्रम अधिक विभेदित बीजधारी पौधों से सरल समूहों की ओर उलटा है।"
+        ],
+        "en": [
+          "Incorrect. This reverses the traditional teaching sequence and misorders angiosperms and pteridophytes.",
+          "Incorrect. Pteridophytes are placed before bryophytes and thallophytes are omitted.",
+          "Correct. This is the traditional school-textbook sequence; it should not be treated as a literal modern evolutionary tree.",
+          "Incorrect. This reverses the sequence from more differentiated seed plants toward simpler groups."
+        ]
       }
     },
     {
@@ -4310,6 +4352,20 @@
       "explanation": {
         "hi": "शैवाल, मॉस और फर्न बीज नहीं बनाते — बीजाणुओं से बढ़ते हैं; जिम्नोस्पर्म/एंजियोस्पर्म बीज से बढ़ते हैं।",
         "en": "Algae, mosses and ferns make no seeds — they grow from spores; gymnosperms and angiosperms grow from seeds."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: एंजियोस्पर्म बीज बनाते हैं, बीजाणु-आधारित जनन उनकी सामान्य पहचान नहीं।",
+          "गलत: जिम्नोस्पर्म नग्न बीज बनाते हैं।",
+          "गलत: जिम्नोस्पर्म बीज बनाते हैं, बीजाणुओं से स्वतंत्र पौधा नहीं बढ़ाते।",
+          "सही, पारंपरिक वर्गीकरण में: शैवाल/थैलोफाइटा, ब्रायोफाइटा और टेरिडोफाइटा बीज नहीं बनाते और बीजाणुओं से जनन कर सकते हैं।"
+        ],
+        "en": [
+          "Incorrect. Angiosperms produce seeds; spore reproduction is not their defining method.",
+          "Incorrect. Gymnosperms produce naked seeds.",
+          "Incorrect. Gymnosperms produce seeds rather than relying on spores as their main dispersal unit.",
+          "Correct in traditional classification: algae/Thallophyta, Bryophyta and Pteridophyta do not make seeds and can reproduce by spores."
+        ]
       }
     },
     {
@@ -4338,6 +4394,20 @@
       "explanation": {
         "hi": "फर्न = टेरिडोफाइटा — पूर्ण देह-विभाजन + जाइलम-फ्लोएम + बीजाणु-प्रजनन; यही तीन लक्षण मिलकर पहचान देते हैं।",
         "en": "Fern = pteridophyte — full body differentiation + xylem-phloem + spore reproduction; together these three clinch the ID."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: फर्न में सच्ची जड़, तना, पत्ती और जाइलम-फ्लोएम होते हैं, लेकिन बीज के बजाय बीजाणु बनते हैं।",
+          "गलत: फूल, फल और दो भ्रूणपत्र एंजियोस्पर्म के लक्षण हैं।",
+          "गलत: राइज़ॉइड और थैलस ब्रायोफाइट/शैवाल जैसे समूहों के लक्षण हैं; फर्न में सच्ची जड़ें होती हैं।",
+          "गलत: नग्न बीज और शंकु जिम्नोस्पर्म की पहचान हैं।"
+        ],
+        "en": [
+          "Correct. Ferns have true roots, stems, leaves and xylem-phloem, but produce spores rather than seeds.",
+          "Incorrect. Flowers, fruits and two cotyledons are angiosperm traits.",
+          "Incorrect. Rhizoids and a thallus are associated with bryophytes/algae; ferns have true roots.",
+          "Incorrect. Naked seeds and cones characterise gymnosperms."
+        ]
       }
     },
     {
@@ -4366,6 +4436,20 @@
       "explanation": {
         "hi": "मेंडल ने मटर के पौधों पर प्रयोग कर आनुवंशिकता के नियम दिए; इसीलिए उन्हें आनुवंशिकी का जनक कहते हैं।",
         "en": "Mendel derived the laws of inheritance from pea-plant experiments; hence he is called the father of genetics."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: लिनियस नामकरण और वर्गीकरण से जुड़े हैं, आनुवंशिकता के प्रयोगों से नहीं।",
+          "सही: मेंडल ने मटर के संकरण प्रयोगों से वंशागति के पैटर्न और नियमों का वर्णन किया।",
+          "गलत: व्हिटेकर पाँच-जगत वर्गीकरण के लिए जाने जाते हैं।",
+          "गलत: हुक ने कोशिकाओं के प्रारंभिक वर्णन में योगदान दिया; वंशागति के नियम मेंडल से जुड़े हैं।"
+        ],
+        "en": [
+          "Incorrect. Linnaeus is associated with naming and classification, not the inheritance experiments.",
+          "Correct. Mendel described patterns and laws of inheritance from pea-plant crosses.",
+          "Incorrect. Whittaker is known for the five-kingdom classification.",
+          "Incorrect. Hooke contributed to early cell description; inheritance laws are associated with Mendel."
+        ]
       }
     },
     {
@@ -4394,6 +4478,20 @@
       "explanation": {
         "hi": "मटर के पौधे में स्पष्ट विपरीत लक्षणों वाली किस्में उपलब्ध थीं और जीवन-चक्र छोटा था — यही कारण चुनाव का था।",
         "en": "Pea plants offered varieties with clearly contrasting traits and a short life cycle — the reason for the choice."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: धान पर कृषि-अध्ययन हुए हैं, लेकिन मेंडल के प्रसिद्ध आनुवंशिक प्रयोग मटर पर थे।",
+          "गलत: सरसों में फूल होते हैं, पर मेंडल के क्लासिक प्रयोगों का पौधा नहीं था।",
+          "सही: मेंडल ने Pisum sativum (मटर) का उपयोग किया क्योंकि उसमें स्पष्ट विपरीत लक्षण और नियंत्रित परागण संभव था।",
+          "गलत: गेहूँ महत्वपूर्ण फसल है, लेकिन मेंडल के क्लासिक प्रयोग मटर पर हुए।"
+        ],
+        "en": [
+          "Incorrect. Rice has been studied in agriculture, but Mendel's famous inheritance experiments used peas.",
+          "Incorrect. Mustard has flowers, but it was not the plant used in Mendel's classic experiments.",
+          "Correct. Mendel used Pisum sativum (garden pea) because it had clear contrasting traits and allowed controlled pollination.",
+          "Incorrect. Wheat is an important crop, but Mendel's classic experiments used peas."
+        ]
       }
     },
     {
@@ -4422,6 +4520,20 @@
       "explanation": {
         "hi": "लंबा-बौना, गोल-झुर्रुआ जैसे सात स्पष्ट विपरीत लक्षण, आत्मपरागण की सुविधा और छोटा जीवन-चक्र — ये गुण मटर को आदर्श बनाते हैं।",
         "en": "Seven clear contrasting traits (tall-dwarf, round-wrinkled), easy self-pollination and a short life cycle made the pea ideal."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: मटर को नियमित पानी चाहिए; जल के बिना जीवित रहना उसके चयन का कारण नहीं था।",
+          "गलत: रंगीन फूल अकेले चयन का कारण नहीं; विपरीत लक्षणों और नियंत्रित संकरण की सुविधा अधिक महत्वपूर्ण थी।",
+          "गलत: बहुत बड़ा होना लाभ नहीं था; मटर का छोटा जीवन-चक्र और आसानी से संभालना उपयोगी था।",
+          "सही: स्पष्ट विपरीत लक्षण, स्वपरागण और नियंत्रित परपरागण की सुविधा तथा अपेक्षाकृत छोटा जीवन-चक्र मटर को उपयुक्त बनाते थे।"
+        ],
+        "en": [
+          "Incorrect. Peas need water; surviving without water was not the reason for choosing them.",
+          "Incorrect. Colourful flowers alone were not the reason; contrasting traits and controlled crosses mattered more.",
+          "Incorrect. Being very large was not the advantage; the pea's short life cycle and ease of handling helped.",
+          "Correct. Clear contrasting traits, self-pollination, controlled cross-pollination and a relatively short life cycle made peas suitable."
+        ]
       }
     },
     {
@@ -4429,8 +4541,8 @@
       "topic": "heredity-variation",
       "difficulty": "easy",
       "question": {
-        "hi": "प्रभावी (dominant) लक्षण की परिभाषा क्या है?",
-        "en": "How is a dominant trait defined?"
+        "hi": "पूर्ण प्रभाविता वाले सरल मेंडलियन संकरण में प्रभावी लक्षण किसे कहते हैं?",
+        "en": "In a simple Mendelian cross with complete dominance, what is a dominant trait?"
       },
       "options": {
         "hi": [
@@ -4448,8 +4560,22 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "प्रभावी लक्षण युग्मविकल्पी में से स्वयं प्रकट हो जाता है; अप्रभावी (recessive) लक्षण उसके सामने छिप जाता है।",
-        "en": "Of a pair, the dominant trait expresses itself; the recessive partner stays hidden before it."
+        "hi": "पूर्ण प्रभाविता में विषमयुग्मजी (जैसे Tt) में प्रभावी एलील का लक्षण दिखाई देता है और अप्रभावी एलील का लक्षण छिपा रहता है। यह नियम हर आनुवंशिक लक्षण पर लागू नहीं होता; अपूर्ण प्रभाविता और सह-प्रभाविता भी होती हैं।",
+        "en": "With complete dominance, the dominant allele's trait appears in a heterozygote (such as Tt), while the recessive allele's trait is masked. This does not apply to every trait; incomplete dominance and codominance also occur."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: पूर्ण प्रभाविता में विषमयुग्मजी में प्रभावी एलील का लक्षण दिखाई देता है।",
+          "गलत: प्रभावी लक्षण केवल बीज में नहीं; लक्षण पौधे या जीव के कई भागों में हो सकते हैं।",
+          "गलत: वंशागति में एलील संतति तक पहुँच सकते हैं; कोई लक्षण कभी वंश में नहीं आता, यह सही परिभाषा नहीं।",
+          "गलत: F1 में छिपा रहने वाला लक्षण सरल पूर्ण प्रभाविता में अप्रभावी कहलाता है।"
+        ],
+        "en": [
+          "Correct. With complete dominance, the dominant allele's trait is expressed in a heterozygote.",
+          "Incorrect. Dominant traits are not limited to seeds; traits can affect many parts of an organism.",
+          "Incorrect. Alleles can pass to offspring; 'never reaches progeny' is not a definition.",
+          "Incorrect. A trait hidden in F1 under complete dominance is called recessive."
+        ]
       }
     },
     {
@@ -4476,8 +4602,22 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "Tt का जीन-प्ररूप भिन्न है पर लक्षण-प्ररूप (लंबा) TT जैसा ही — आंतरिक बनाम बाह्य का यही अंतर है।",
-        "en": "Tt differs in genotype yet matches TT in phenotype (tall) — internal makeup versus outward appearance."
+        "hi": "जीन-प्ररूप (genotype) किसी जीव के एलील/आनुवंशिक संयोजन को दर्शाता है, जैसे TT या Tt। लक्षण-प्ररूप (phenotype) दिखाई देने वाला या मापा जा सकने वाला गुण है, जो जीनों के साथ वातावरण से भी प्रभावित हो सकता है।",
+        "en": "Genotype is an organism's allele/genetic combination, such as TT or Tt. Phenotype is the observable or measurable trait, which can be influenced by genes and the environment."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: जीन-प्ररूप और लक्षण-प्ररूप संबंधित हैं, लेकिन एक ही चीज़ नहीं।",
+          "सही: जीन-प्ररूप आनुवंशिक संयोजन है; लक्षण-प्ररूप दिखाई देने वाला/मापा जाने वाला गुण है, जिस पर वातावरण भी असर डाल सकता है।",
+          "गलत: पौधों और जंतुओं दोनों में जीन-प्ररूप होता है।",
+          "गलत: लक्षण-प्ररूप पौधों और जंतुओं दोनों में होता है।"
+        ],
+        "en": [
+          "Incorrect. Genotype and phenotype are related but not the same thing.",
+          "Correct. Genotype is the genetic combination; phenotype is the observable/measurable trait and can also be affected by environment.",
+          "Incorrect. Both plants and animals have genotypes.",
+          "Incorrect. Both plants and animals have phenotypes."
+        ]
       }
     },
     {
