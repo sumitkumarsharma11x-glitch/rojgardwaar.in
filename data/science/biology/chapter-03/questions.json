@@ -3386,6 +3386,20 @@
       "explanation": {
         "hi": "जहाँ दो या अधिक अस्थियाँ आपस में मिलती हैं, वहाँ संधि बनती है।",
         "en": "A joint is formed where two or more bones meet."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: संधि वह स्थान है जहाँ दो या अधिक अस्थियाँ मिलती हैं; संधियाँ स्थिर या अलग-अलग मात्रा में चलायमान हो सकती हैं।",
+          "गलत: रक्त वाहिकाओं का जुड़ाव अस्थियों के बीच संधि नहीं कहलाता।",
+          "गलत: त्वचा की सिलवट संधि की परिभाषा नहीं है।",
+          "गलत: पेशी का भाग संधि नहीं; संधि अस्थियों के मिलने का स्थान है।"
+        ],
+        "en": [
+          "Correct. A joint is where two or more bones meet; joints may be fixed or allow different degrees of movement.",
+          "Incorrect. A junction between blood vessels is not a joint between bones.",
+          "Incorrect. A fold of skin is not the definition of a joint.",
+          "Incorrect. A part of a muscle is not a joint; a joint is where bones meet."
+        ]
       }
     },
     {
@@ -3414,6 +3428,20 @@
       "explanation": {
         "hi": "कंधे में बाँह की गोल सिर अस्थि कंधे की गड्ढे में घुमती है — गेंद-गर्त संधि, जो हर दिशा में गति देती है।",
         "en": "In the shoulder, the ball-shaped head of the arm bone rotates in a socket — a ball-and-socket joint allowing movement in all directions."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कंधे में केवल एक तल में मुड़ने वाली कबंध संधि नहीं; वहाँ व्यापक दिशा में गति संभव है।",
+          "सही: ह्यूमरस का गोल सिर स्कैपुला की ग्लेनॉइड गुहा में बैठता है, जिससे बाँह कई दिशाओं में घूम सकती है।",
+          "गलत: अक्ष संधि एक अक्ष के चारों ओर घूर्णन देती है, जैसे गर्दन की atlas-axis संधि।",
+          "गलत: कंधा स्थिर संधि नहीं; यह शरीर की सबसे अधिक चलायमान संधियों में से है।"
+        ],
+        "en": [
+          "Incorrect. The shoulder is not a hinge joint restricted mainly to one plane; it allows movement in several directions.",
+          "Correct. The humeral head fits into the glenoid cavity of the scapula, allowing the arm to move in several directions.",
+          "Incorrect. A pivot joint allows rotation around one axis, as in the atlas-axis joint of the neck.",
+          "Incorrect. The shoulder is not fixed; it is one of the body's most mobile joints."
+        ]
       }
     },
     {
@@ -3442,6 +3470,20 @@
       "explanation": {
         "hi": "कोहनी दरवाज़े के कबंध की तरह केवल एक ही तल में मुड़ती-सीधी होती है, इसलिए यह कबंध संधि है।",
         "en": "The elbow bends and straightens in one plane like a door hinge — hence a hinge joint."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: गेंद-गर्त संधि कई दिशाओं में गति देती है, जैसे कंधा और कूल्हा।",
+          "गलत: अक्ष संधि मुख्यतः एक अक्ष के चारों ओर घूर्णन देती है।",
+          "सही: कोहनी मुख्यतः मोड़ने और सीधा करने की गति करती है, इसलिए इसे कबंध संधि कहा जाता है।",
+          "गलत: फिसलनी संधियाँ छोटी अस्थियों के बीच सीमित सरकाव देती हैं, जैसे कलाई की कई संधियाँ।"
+        ],
+        "en": [
+          "Incorrect. Ball-and-socket joints allow movement in several directions, as at the shoulder and hip.",
+          "Incorrect. A pivot joint mainly permits rotation around one axis.",
+          "Correct. The elbow mainly bends and straightens, so it is classified as a hinge joint.",
+          "Incorrect. Gliding joints allow limited sliding between small bones, as in many wrist joints."
+        ]
       }
     },
     {
@@ -3470,6 +3512,20 @@
       "explanation": {
         "hi": "कूल्हे में जंघिका का गोल सिर श्रोणि की गड्ढे में जुड़ता है — गेंद-गर्त संधि।",
         "en": "In the hip, the ball of the femur fits into the socket of the pelvis — a ball-and-socket joint."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कूल्हा चलायमान है; स्थिर संधि जैसी खोपड़ी की स्यूचर नहीं।",
+          "गलत: फिसलनी संधियाँ कलाई/टखने की कुछ छोटी अस्थियों के बीच होती हैं।",
+          "गलत: कूल्हा केवल एक तल में मुड़ने वाली कबंध संधि नहीं है।",
+          "सही: फीमर का गोल सिर श्रोणि की एसीटैबुलम गुहा में बैठता है, जिससे कई दिशाओं में गति संभव होती है।"
+        ],
+        "en": [
+          "Incorrect. The hip is mobile, unlike fixed skull sutures.",
+          "Incorrect. Gliding joints occur between some small wrist and ankle bones.",
+          "Incorrect. The hip is not a hinge joint limited to one plane.",
+          "Correct. The femoral head fits into the acetabulum of the pelvis, allowing movement in several directions."
+        ]
       }
     },
     {
@@ -3498,6 +3554,20 @@
       "explanation": {
         "hi": "घुटना भी कोहनी की तरह एक ही तल में मुड़ता है — कबंध संधि।",
         "en": "Like the elbow, the knee bends in one plane only — a hinge joint."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: घुटना मुख्यतः मोड़ने और सीधा करने की गति करता है; इसे संशोधित कबंध संधि माना जाता है, जिसमें सीमित घूर्णन भी संभव है।",
+          "गलत: घुटना स्थिर नहीं; चलने, बैठने और दौड़ने में यह मुड़ता है।",
+          "गलत: गेंद-गर्त संधि कंधे और कूल्हे में होती है, घुटने में नहीं।",
+          "गलत: अक्ष संधि गर्दन में सिर घुमाने जैसी गति देती है; घुटने का मुख्य वर्गीकरण कबंध है।"
+        ],
+        "en": [
+          "Correct. The knee mainly bends and straightens; it is a modified hinge joint, with some limited rotation possible.",
+          "Incorrect. The knee is not fixed; it bends during walking, sitting and running.",
+          "Incorrect. Ball-and-socket joints occur at the shoulder and hip, not the knee.",
+          "Incorrect. Pivot joints allow rotation such as turning the head; the knee is mainly classified as a hinge joint."
+        ]
       }
     },
     {
@@ -3526,6 +3596,20 @@
       "explanation": {
         "hi": "कपाल की अस्थियाँ दाँतों की रूपरेखा जैसी सिलवटों (sutures) से पूर्णतः जुड़ी रहती हैं; ये अचल संधियाँ मस्तिष्क की ढाल बनाती हैं।",
         "en": "Skull bones are locked by saw-toothed sutures; these immovable joints form a helmet for the brain."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कपाल की अधिकांश स्यूचर संधियाँ स्वतंत्र गति नहीं देतीं।",
+          "सही: कपाल की अधिकांश अस्थियाँ रेशेदार स्यूचर से जुड़ी रहती हैं, जो मस्तिष्क की रक्षा के लिए मजबूत ढाँचा बनाती हैं।",
+          "गलत: कपाल की अधिकांश स्यूचर अर्धचलायमान नहीं; वे स्थिर संधियाँ हैं।",
+          "गलत: गेंद-गर्त संधियाँ कंधे/कूल्हे में होती हैं, कपाल की अधिकांश अस्थियों के बीच नहीं।"
+        ],
+        "en": [
+          "Incorrect. Most skull sutures do not allow free movement.",
+          "Correct. Most skull bones are joined by fibrous sutures, forming a strong protective case for the brain.",
+          "Incorrect. Most skull sutures are not slightly movable; they are fixed joints.",
+          "Incorrect. Ball-and-socket joints occur at the shoulder and hip, not between most skull bones."
+        ]
       }
     },
     {
@@ -3554,6 +3638,20 @@
       "explanation": {
         "hi": "गर्दन में पहली और दूसरी कशेरुकाएँ मिलकर अक्ष संधि बनाती हैं जिससे सिर अपने अक्ष पर घूमता है।",
         "en": "The first and second neck vertebrae form a pivot joint that lets the head rotate on its axis."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: गेंद-गर्त संधि कंधे और कूल्हे में होती है; सिर को 'नहीं' में घुमाने का मुख्य तंत्र नहीं।",
+          "गलत: गर्दन की पहली-दूसरी कशेरुका संधि चलायमान है, स्थिर नहीं।",
+          "सही: एटलस और एक्सिस कशेरुकाओं के बीच अक्ष संधि सिर को दाएँ-बाएँ घुमाने देती है।",
+          "गलत: कबंध संधि मुख्यतः आगे-पीछे मोड़ती है, जैसे कोहनी।"
+        ],
+        "en": [
+          "Incorrect. Ball-and-socket joints are at the shoulder and hip; they are not the main joint for the head's 'no' movement.",
+          "Incorrect. The joint between the first two cervical vertebrae is mobile, not fixed.",
+          "Correct. The pivot joint between the atlas and axis lets the head rotate side to side.",
+          "Incorrect. Hinge joints mainly bend and straighten, as at the elbow."
+        ]
       }
     },
     {
@@ -3582,6 +3680,20 @@
       "explanation": {
         "hi": "कलाई-व टखने की छोटी अस्थियाँ एक-दूसरे पर सरकती हैं; ऐसी फिसलनी संधियाँ सीमित सरकाव देती हैं।",
         "en": "The small wrist and ankle bones slide over one another; such gliding joints allow limited sliding motion."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कबंध संधि मुख्यतः एक तल में मोड़ती है, जैसे कोहनी।",
+          "गलत: गेंद-गर्त संधि कई दिशाओं में गति देती है, जैसे कंधा।",
+          "गलत: अक्ष संधि एक अक्ष के चारों ओर घूर्णन देती है, जैसे गर्दन में।",
+          "सही: कलाई की कई इंटरकार्पल संधियाँ छोटी अस्थियों के बीच सीमित सरकाव की अनुमति देती हैं।"
+        ],
+        "en": [
+          "Incorrect. Hinge joints mainly bend in one plane, as at the elbow.",
+          "Incorrect. Ball-and-socket joints allow movement in several directions, as at the shoulder.",
+          "Incorrect. Pivot joints allow rotation around one axis, as in the neck.",
+          "Correct. Many intercarpal joints in the wrist allow limited sliding between small bones."
+        ]
       }
     },
     {
@@ -3610,6 +3722,20 @@
       "explanation": {
         "hi": "कबंध संधि दरवाज़े के कबंध की तरह एक ही तल में खुलती-बंद होती है, जैसे कोहनी और घुटना।",
         "en": "A hinge joint opens and closes in one plane like a door hinge, as at the elbow and knee."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: कबंध संधि मुख्यतः एक तल में मोड़ने और सीधा करने की गति देती है।",
+          "गलत: कबंध संधि चलायमान होती है; स्थिर संधियाँ गति नहीं देतीं।",
+          "गलत: केवल घूर्णन अक्ष संधि की विशेषता है।",
+          "गलत: सभी दिशाओं में गति गेंद-गर्त संधि की विशेषता है।"
+        ],
+        "en": [
+          "Correct. A hinge joint mainly allows bending and straightening in one plane.",
+          "Incorrect. Hinge joints are movable; fixed joints do not allow movement.",
+          "Incorrect. Rotation alone is characteristic of a pivot joint.",
+          "Incorrect. Movement in many directions is characteristic of a ball-and-socket joint."
+        ]
       }
     },
     {
@@ -3638,6 +3764,20 @@
       "explanation": {
         "hi": "गोल सिर गड्ढे में घूमती है, इसलिए ऐसी संधि में अग्र-पश्च, ऊपर-नीचे और घूर्णन — तीनों गतियाँ संभव हैं।",
         "en": "The ball swivels in the socket, so forward-back, up-down and rotational movements are all possible."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: केवल एक तल में गति कबंध संधि की विशेषता है।",
+          "सही: गेंद-गर्त संधि में गोल सिर गुहा में घूमता है, जिससे मोड़ना, फैलाना और घूर्णन जैसी कई दिशाओं की गति संभव होती है।",
+          "गलत: गेंद-गर्त संधि बहुत चलायमान होती है, स्थिर नहीं।",
+          "गलत: केवल एक अक्ष के चारों ओर घूर्णन अक्ष संधि की विशेषता है; गेंद-गर्त संधि कई दिशाओं में गति देती है।"
+        ],
+        "en": [
+          "Incorrect. Movement in one plane is characteristic of a hinge joint.",
+          "Correct. The ball rotates within the socket, allowing movement in multiple directions such as flexion, extension and rotation.",
+          "Incorrect. Ball-and-socket joints are highly mobile, not fixed.",
+          "Incorrect. Rotation around a single axis is characteristic of a pivot joint; ball-and-socket joints move in several directions."
+        ]
       }
     },
     {
