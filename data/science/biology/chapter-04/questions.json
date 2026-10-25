@@ -2126,6 +2126,20 @@
       "explanation": {
         "hi": "वर्ग, गण से ऊपर की श्रेणी है और उसमें अनेक गण समाहित होते हैं — जैसे स्तनधारी वर्ग में अनेक गण।",
         "en": "Class sits above order and contains many orders — as the mammal class holds several orders."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: व्यापकता जीव पर निर्भर नहीं; वर्ग टैक्सोनॉमिक क्रम में गण से ऊपर है।",
+          "गलत: गण, वर्ग के नीचे आता है और उसमें संबंधित कुल होते हैं।",
+          "सही: वर्ग में अनेक गण शामिल होते हैं, इसलिए वर्ग गण से अधिक व्यापक श्रेणी है।",
+          "गलत: वर्ग और गण अलग स्तर हैं; वे बराबर नहीं।"
+        ],
+        "en": [
+          "Incorrect. The hierarchy does not depend on the organism; class is above order.",
+          "Incorrect. Order is below class and includes related families.",
+          "Correct. A class contains multiple orders, so it is broader than an order.",
+          "Incorrect. Class and order are distinct ranks, not equal."
+        ]
       }
     },
     {
@@ -2154,6 +2168,20 @@
       "explanation": {
         "hi": "टैक्सोनोमी के तीन कार्य हैं — पहचान (identification), वर्गीकरण और नामकरण।",
         "en": "Taxonomy does three jobs — identification, classification and nomenclature of organisms."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: शिकार करना टैक्सोनोमी का उद्देश्य नहीं।",
+          "गलत: जीवों को पालना जीव-पालन/कृषि का कार्य है, टैक्सोनोमी का नहीं।",
+          "गलत: चित्र बनाना पहचान में मदद कर सकता है, लेकिन टैक्सोनोमी का पूरा कार्य नहीं।",
+          "सही: टैक्सोनोमी में जीवों की पहचान, उन्हें वर्गों में रखना और वैज्ञानिक नाम देना शामिल है।"
+        ],
+        "en": [
+          "Incorrect. Hunting organisms is not the purpose of taxonomy.",
+          "Incorrect. Rearing organisms is animal husbandry/agriculture, not taxonomy.",
+          "Incorrect. Drawing can support identification but is not the whole task of taxonomy.",
+          "Correct. Taxonomy includes identifying organisms, classifying them and assigning scientific names."
+        ]
       }
     },
     {
@@ -2182,6 +2210,20 @@
       "explanation": {
         "hi": "एक ही जीव के अनेक स्थानीय नाम और एक नाम के अनेक अर्थ — वैज्ञानिक नाम इस अराजकता को समाप्त कर विश्वभर में एकरूपता लाता है।",
         "en": "One creature, many local names; one name, many creatures — the scientific name ends this chaos with worldwide uniformity."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: स्थानीय नाम भाषा और क्षेत्र के अनुसार बदलते हैं; स्वीकृत वैज्ञानिक नाम वैज्ञानिकों को एक ही जीव पर स्पष्ट संवाद करने देते हैं।",
+          "गलत: वैज्ञानिक नामकरण केवल किसी सामान्य कानूनी आवश्यकता के कारण नहीं अपनाया गया।",
+          "गलत: स्थानीय नाम लिखे जा सकते हैं, लेकिन वे अलग-अलग क्षेत्रों में भिन्न और अस्पष्ट हो सकते हैं।",
+          "गलत: वैज्ञानिक नाम स्थानीय नामों को सुंदर/बदसूरत कहने के लिए नहीं, बल्कि सटीक पहचान के लिए हैं।"
+        ],
+        "en": [
+          "Correct. Local names vary by language and region; accepted scientific names let scientists communicate clearly about the same organism.",
+          "Incorrect. Scientific naming was not adopted merely because a law requires it.",
+          "Incorrect. Local names can be written, but they may vary across regions and cause ambiguity.",
+          "Incorrect. Scientific names are for precise identification, not because local names sound bad."
+        ]
       }
     },
     {
@@ -2208,8 +2250,22 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "'द्विपद' का अर्थ ही दो शब्द है — वंश और जाति; यही नाम संपूर्ण विश्व में उस जीव की पहचान है।",
-        "en": "'Binomial' itself means two words — genus and species; this name identifies the organism worldwide."
+        "hi": "द्विपद नाम में दो भाग होते हैं: वंश (genus) का नाम और विशिष्ट पद (specific epithet)। दोनों मिलकर किसी जाति का वैज्ञानिक नाम बनाते हैं।",
+        "en": "A binomial name has two parts: the genus name and the specific epithet. Together they form the scientific name of a species."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: एक शब्द वाला नाम द्विपद नहीं होगा।",
+          "सही: द्विपद का अर्थ दो भाग है—वंश का नाम और विशिष्ट पद।",
+          "गलत: तीन शब्द द्विपद नामकरण की मानक संरचना नहीं।",
+          "गलत: चार शब्द द्विपद नामकरण की मानक संरचना नहीं।"
+        ],
+        "en": [
+          "Incorrect. A one-word name would not be binomial.",
+          "Correct. Binomial means two parts—the genus name and the specific epithet.",
+          "Incorrect. Three words are not the standard binomial structure.",
+          "Incorrect. Four words are not the standard binomial structure."
+        ]
       }
     },
     {
@@ -2238,6 +2294,20 @@
       "explanation": {
         "hi": "लिनियस का वर्गीकरण दो जगतों — पादप (Plantae) और जंतु (Animalia) — पर आधारित था; बाद में यह अपर्याप्त सिद्ध हुआ।",
         "en": "Linnaeus's scheme rested on two kingdoms — Plantae and Animalia; it later proved inadequate."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: छह-जगत मॉडल लिनियस के मूल दो-जगत वर्गीकरण का वर्णन नहीं।",
+          "गलत: तीन जगत लिनियस का मूल वर्गीकरण नहीं था।",
+          "सही: लिनियस ने पौधों और जंतुओं के दो जगतों का वर्गीकरण किया; सूक्ष्मजीवों के ज्ञान से बाद में मॉडल बदले।",
+          "गलत: पाँच-जगत वर्गीकरण बाद में आर.एच. व्हिटेकर ने प्रस्तावित किया।"
+        ],
+        "en": [
+          "Incorrect. A six-kingdom model is not Linnaeus's original classification.",
+          "Incorrect. Three kingdoms were not Linnaeus's original scheme.",
+          "Correct. Linnaeus classified organisms into two kingdoms, plants and animals; later discoveries led to revised systems.",
+          "Incorrect. The five-kingdom classification was proposed later by R. H. Whittaker."
+        ]
       }
     },
     {
@@ -2266,6 +2336,20 @@
       "explanation": {
         "hi": "व्हिटेकर ने जीवों को पाँच जगतों — मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी और एनिमेलिया — में बाँटा।",
         "en": "Whittaker divided organisms into five kingdoms — Monera, Protista, Fungi, Plantae and Animalia."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: मेंडल आनुवंशिकी के नियमों से जुड़े हैं, पाँच-जगत वर्गीकरण से नहीं।",
+          "गलत: हुक ने कोशिकाओं के वर्णन में ऐतिहासिक योगदान दिया, पाँच-जगत मॉडल नहीं बनाया।",
+          "गलत: लिनियस द्विपद नामकरण और दो-जगत वर्गीकरण से जुड़े हैं।",
+          "सही: आर.एच. व्हिटेकर ने 1969 में पाँच-जगत वर्गीकरण प्रस्तावित किया।"
+        ],
+        "en": [
+          "Incorrect. Mendel is associated with genetics, not the five-kingdom system.",
+          "Incorrect. Hooke contributed to the early description of cells, not the five-kingdom model.",
+          "Incorrect. Linnaeus is associated with binomial naming and a two-kingdom scheme.",
+          "Correct. R. H. Whittaker proposed the five-kingdom classification in 1969."
+        ]
       }
     },
     {
@@ -2294,6 +2378,20 @@
       "explanation": {
         "hi": "पाँच जगत हैं — मोनेरा (प्रोकैरियोट), प्रोटिस्टा (एककोशिकीय यूकैरियोट), फंजाई (कवक), प्लांटी (पादप) और एनिमेलिया (प्राणी)।",
         "en": "The five kingdoms are Monera (prokaryotes), Protista (unicellular eukaryotes), Fungi, Plantae and Animalia."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: व्हिटेकर के ऐतिहासिक पाँच-जगत मॉडल में मोनेरा, प्रोटिस्टा, फंजाई, प्लांटी और एनिमेलिया शामिल हैं। आधुनिक वर्गीकरण में मोनेरा को अलग समूहों में बाँटा गया है।",
+          "गलत: 'वायरल' व्हिटेकर के पाँच जगतों में नहीं है; वायरस अकोशिकीय हैं।",
+          "गलत: यह सूची पाँच औपचारिक जगतों के बजाय अलग-अलग समूहों को मिलाती है।",
+          "गलत: वायरस व्हिटेकर के पाँच-जगत मॉडल का एक जगत नहीं है।"
+        ],
+        "en": [
+          "Correct. Whittaker's historical five-kingdom model includes Monera, Protista, Fungi, Plantae and Animalia. Modern classification separates the former Monera into different groups.",
+          "Incorrect. 'Viral' is not one of Whittaker's five kingdoms; viruses are acellular.",
+          "Incorrect. This list mixes groups rather than giving the five formal kingdoms.",
+          "Incorrect. Viruses are not one of Whittaker's five kingdoms."
+        ]
       }
     },
     {
@@ -2322,6 +2420,20 @@
       "explanation": {
         "hi": "वायरस किसी जगत में नहीं रखा गया क्योंकि वे विशिष्ट जीव-लक्षणों से रहित, कोशिका-रहित संरचनाएँ हैं।",
         "en": "Viruses are placed in no kingdom because they are acellular structures lacking definitive living characters."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: प्रोटिस्टा व्हिटेकर के पाँच जगतों में से एक है।",
+          "सही: वायरस अकोशिकीय हैं और व्हिटेकर के पाँच-जगत वर्गीकरण में किसी जगत में नहीं रखे गए।",
+          "गलत: फंजाई पाँच-जगत मॉडल का एक जगत है।",
+          "गलत: मोनेरा ऐतिहासिक पाँच-जगत मॉडल का एक जगत है, यद्यपि आधुनिक वर्गीकरण इसे अलग करता है।"
+        ],
+        "en": [
+          "Incorrect. Protista is one of Whittaker's five kingdoms.",
+          "Correct. Viruses are acellular and were not placed in any of the five kingdoms in Whittaker's system.",
+          "Incorrect. Fungi is one of the five kingdoms.",
+          "Incorrect. Monera is one of the historical five kingdoms, though modern classification treats its members differently."
+        ]
       }
     },
     {
@@ -2350,6 +2462,20 @@
       "explanation": {
         "hi": "कोशिका का प्रकार (प्रोकैरियोटिक/यूकैरियोटिक), शरीर का संगठन (एककोशिकी/बहुकोशिकी) और पोषण का तरीका — ये तीन मुख्य आधार रहे।",
         "en": "Type of cell (prokaryotic/eukaryotic), body organisation (unicellular/multicellular) and mode of nutrition — these were the three main bases."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: रंग अकेले जीवों के विकासीय संबंध या कोशिका-संगठन नहीं बताता।",
+          "गलत: आवास वर्गीकरण का अकेला आधार नहीं; अलग-अलग समूह एक ही आवास में रह सकते हैं।",
+          "सही: व्हिटेकर ने कोशिका-संरचना, शरीर-संगठन और पोषण-विधि के साथ अन्य संबंधी लक्षणों पर भी विचार किया।",
+          "गलत: आकार अकेले पाँच-जगत वर्गीकरण के लिए पर्याप्त नहीं।"
+        ],
+        "en": [
+          "Incorrect. Colour alone does not show evolutionary relationships or cell organisation.",
+          "Incorrect. Habitat alone is insufficient; different groups can share the same habitat.",
+          "Correct. Whittaker considered cell structure, body organisation and mode of nutrition along with other related features.",
+          "Incorrect. Size alone is not sufficient for five-kingdom classification."
+        ]
       }
     },
     {
@@ -2378,6 +2504,20 @@
       "explanation": {
         "hi": "मोनेरा में बैक्टीरिया जैसे प्रोकैरियोटिक जीव आते हैं — इनकी कोशिकाओं में संगठित केंद्रक नहीं होता।",
         "en": "Monera contains prokaryotic organisms like bacteria — their cells lack an organised nucleus."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: मोनेरा के जीव प्रोकैरियोटिक होते हैं, यूकैरियोटिक नहीं।",
+          "गलत: बैक्टीरिया जीवित कोशिकीय जीव हैं; मोनेरा को निर्जीव कहना गलत है।",
+          "गलत: बहुकोशिकीय यूकैरियोटिक जीव प्लांटी, फंजाई या एनिमेलिया जैसे जगतों में आते हैं।",
+          "सही: व्हिटेकर के पाँच-जगत मॉडल में मोनेरा में एककोशिकीय प्रोकैरियोट आते हैं जिनकी कोशिका में झिल्ली-बद्ध केंद्रक नहीं होता।"
+        ],
+        "en": [
+          "Incorrect. Monerans are prokaryotic, not eukaryotic.",
+          "Incorrect. Bacteria are living cellular organisms; Monera is not non-living.",
+          "Incorrect. Multicellular eukaryotes belong to kingdoms such as Plantae, Fungi or Animalia.",
+          "Correct. In Whittaker's five-kingdom model, Monera includes unicellular prokaryotes whose cells lack a membrane-bound nucleus."
+        ]
       }
     },
     {
