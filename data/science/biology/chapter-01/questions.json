@@ -3892,10 +3892,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: हरितलवक प्रकाश संश्लेषण और माइटोकॉन्ड्रिया कोशिकीय श्वसन से जुड़ा है।",
-        "गलत: लाइसोसोम पाचन और केंद्रक DNA/नियमन से जुड़ा है।",
-        "गलत: राइबोसोम प्रोटीन बनाते हैं; कोशिका भित्ति सहारा देती है।",
-        "गलत: गॉल्जी उपकरण पैकेजिंग और रिक्तिका भंडारण/तुर्गता से जुड़ी है।"
+        "सही: हरितलवक प्रकाश-संश्लेषण करता है और माइटोकॉन्ड्रिया कोशिकीय श्वसन में प्रमुख भूमिका निभाता है।",
+        "गलत: लाइसोसोम पदार्थों को तोड़ते हैं और केंद्रक DNA रखता है; ये दोनों प्रक्रियाओं का सही युग्म नहीं।",
+        "गलत: राइबोसोम प्रोटीन बनाते हैं और कोशिका भित्ति सहारा देती है।",
+        "गलत: गॉल्जी उपकरण संशोधन/पैकेजिंग करता है और रिक्तिका भंडारण/तुर्गता में मदद करती है।"
+      ],
+      "en": [
+        "Correct. Chloroplasts carry out photosynthesis and mitochondria play a major role in cellular respiration.",
+        "Incorrect. Lysosomes break down materials and the nucleus contains DNA; this is not the pair for the two processes asked about.",
+        "Incorrect. Ribosomes synthesize proteins and the cell wall provides support.",
+        "Incorrect. The Golgi apparatus modifies/packages substances, while the vacuole supports storage and turgor."
       ]
     }
   },
@@ -3915,10 +3921,10 @@
         "क्योंकि वे कोशिका को आकार देते हैं"
       ],
       "en": [
-        "Because they make chlorophyll",
-        "Because they contain enzymes that break down substances",
-        "Because they enclose DNA",
-        "Because they give the cell its shape"
+        "They make chlorophyll",
+        "They contain enzymes that digest substances",
+        "They enclose DNA",
+        "They give the cell its shape"
       ]
     },
     "correct": 1,
@@ -3928,10 +3934,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: क्लोरोफिल और प्रकाश संश्लेषण हरितलवक से जुड़े हैं।",
-        "सही: लाइसोसोम में पाचक एंजाइम होते हैं।",
-        "गलत: DNA को यूकैरियोटिक कोशिका में केंद्रकीय झिल्ली घेरती है।",
-        "गलत: कोशिका को आकार देने में कोशिका भित्ति और अन्य संरचनाएँ भूमिका निभाती हैं।"
+        "गलत: क्लोरोफिल हरितलवक में होता है और प्रकाश ऊर्जा ग्रहण करता है।",
+        "सही: लाइसोसोम में पाचक एंजाइम होते हैं जो कुछ पदार्थों और पुराने कोशिकीय घटकों को तोड़ते हैं।",
+        "गलत: यूकैरियोटिक कोशिका में DNA का अधिकांश भाग केंद्रक में होता है।",
+        "गलत: कोशिका का आकार कई संरचनाओं से प्रभावित होता है; लाइसोसोम का मुख्य काम पाचन है।"
+      ],
+      "en": [
+        "Incorrect. Chlorophyll is found in chloroplasts and captures light energy.",
+        "Correct. Lysosomes contain digestive enzymes that break down certain substances and worn-out cell components.",
+        "Incorrect. Most DNA in a eukaryotic cell is in the nucleus.",
+        "Incorrect. Cell shape depends on several structures; digestion is the main role of lysosomes."
       ]
     }
   },
@@ -3952,8 +3964,8 @@
       ],
       "en": [
         "Nucleus",
-        "Chloroplast",
-        "Lysosome",
+        "Golgi apparatus",
+        "Central vacuole",
         "Ribosome"
       ]
     },
@@ -3964,10 +3976,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत: केंद्रक DNA रखता है।",
-        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन और पैकेजिंग करता है।",
-        "सही: केंद्रीय रिक्तिका भंडारण और तुर्गता में मदद करती है।",
+        "गलत: केंद्रक अधिकांश DNA रखता है।",
+        "गलत: गॉल्जी उपकरण पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है।",
+        "सही: केंद्रीय रिक्तिका जल और घुले पदार्थों का भंडारण करती है तथा तुर्गता बनाए रखने में मदद करती है।",
         "गलत: राइबोसोम प्रोटीन संश्लेषण करते हैं।"
+      ],
+      "en": [
+        "Incorrect. The nucleus contains most of the cell's DNA.",
+        "Incorrect. The Golgi apparatus modifies, sorts and packages substances.",
+        "Correct. The central vacuole stores water and solutes and helps maintain turgor pressure.",
+        "Incorrect. Ribosomes synthesize proteins."
       ]
     }
   },
@@ -4000,10 +4018,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
-        "सही: उपकला ऊतक शरीर की सतहों को ढकता है और सुरक्षा देता है। यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
+        "गलत: संयोजी ऊतक जोड़ने, सहारा देने और कभी-कभी पदार्थों के परिवहन में मदद करता है।",
+        "गलत: पेशीय ऊतक संकुचन करके गति उत्पन्न करता है।",
+        "गलत: तंत्रिका ऊतक संकेतों का संचार करता है।",
+        "सही: उपकला ऊतक बाहरी सतहों को ढकता है और कई आंतरिक गुहाओं की परत बनाकर सुरक्षा देता है।"
+      ],
+      "en": [
+        "Incorrect. Connective tissue connects, supports and sometimes transports materials.",
+        "Incorrect. Muscular tissue contracts to produce movement.",
+        "Incorrect. Nervous tissue transmits signals.",
+        "Correct. Epithelial tissue covers body surfaces and lines many internal cavities, providing protection."
       ]
     }
   },
@@ -4036,10 +4060,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: रक्त एक तरल संयोजी ऊतक है जो शरीर को जोड़ने और सहारा देने में सहायक है। रक्त प्लाज्मा सहित एक तरल संयोजी ऊतक है; यह गैसों, पोषक पदार्थों और अपशिष्टों के परिवहन में मदद करता है।",
-        "यह विकल्प सही उत्तर नहीं है: अस्थि कठोर संयोजी ऊतक है जो सहारा और सुरक्षा देता है; यह उपकला ऊतक नहीं है।",
-        "यह विकल्प सही उत्तर नहीं है: उपास्थि लचीला संयोजी ऊतक है जो जोड़ों और कुछ अन्य भागों में सहारा देता है।",
-        "यह विकल्प सही उत्तर नहीं है: त्वचा एक अंग है जिसमें कई ऊतक होते हैं; इसकी बाहरी परत उपकला ऊतक से बनी होती है।"
+        "सही: रक्त तरल संयोजी ऊतक है; प्लाज़्मा और कोशिकाएँ पदार्थों के परिवहन और रक्षा में मदद करती हैं।",
+        "गलत: अस्थि कठोर संयोजी ऊतक है, तरल नहीं।",
+        "गलत: उपास्थि लचीला ठोस संयोजी ऊतक है।",
+        "गलत: त्वचा एक अंग है जिसमें कई ऊतक होते हैं; यह तरल संयोजी ऊतक नहीं है।"
+      ],
+      "en": [
+        "Correct. Blood is a fluid connective tissue; its plasma and cells support transport and defence.",
+        "Incorrect. Bone is a firm connective tissue, not a fluid one.",
+        "Incorrect. Cartilage is a flexible, solid connective tissue.",
+        "Incorrect. Skin is an organ containing several tissues, not a fluid connective tissue."
       ]
     }
   },
@@ -4072,10 +4102,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "यह संख्या सही नहीं है: जंतु ऊतक के मान्य मुख्य प्रकार उपकला, संयोजी, पेशीय और तंत्रिका—कुल चार हैं।",
-        "सही: जंतु ऊतक चार प्रकार के होते हैं, उपकला, संयोजी, पेशीय और तंत्रिका।",
-        "यह संख्या सही नहीं है: जंतु ऊतक के मान्य मुख्य प्रकार उपकला, संयोजी, पेशीय और तंत्रिका—कुल चार हैं।",
-        "यह संख्या सही नहीं है: जंतु ऊतक के मान्य मुख्य प्रकार उपकला, संयोजी, पेशीय और तंत्रिका—कुल चार हैं।"
+        "गलत: पारंपरिक वर्गीकरण में जंतु ऊतक के चार मुख्य प्रकार माने जाते हैं।",
+        "सही: चार मुख्य प्रकार उपकला, संयोजी, पेशीय और तंत्रिका ऊतक हैं।",
+        "गलत: दो कहना पेशीय ऊतक सहित कई अलग प्रकारों को छोड़ देगा।",
+        "गलत: तीन कहना तंत्रिका ऊतक को छोड़ देगा।"
+      ],
+      "en": [
+        "Incorrect. The standard classification recognizes four main animal tissue types.",
+        "Correct. The four main types are epithelial, connective, muscular and nervous tissue.",
+        "Incorrect. Two would leave out several distinct tissue types.",
+        "Incorrect. Three would omit nervous tissue from the standard four-type classification."
       ]
     }
   },
@@ -4108,10 +4144,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "यह विकल्प सही उत्तर नहीं है: अरेखित/चिकनी पेशी आंत, आमाशय और रक्त वाहिकाओं जैसे आंतरिक अंगों की दीवारों में पाई जाती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "सही: हृदयक पेशी एक विशेष प्रकार का पेशीय ऊतक है जो हृदय में पाया जाता है। हृदयक पेशी हृदय की दीवार में पाई जाती है और अनैच्छिक रूप से लयबद्ध संकुचन करती है।",
-        "यह विकल्प सही उत्तर नहीं है: रेखित पेशी में धारियाँ दिखती हैं; कंकाल से जुड़ी रेखित पेशी सामान्यतः इच्छानुसार गति करती है।"
+        "गलत: अरेखित/चिकनी पेशी आंत और रक्त वाहिकाओं जैसे अंगों में मिलती है।",
+        "गलत: उपकला ऊतक सतहों को ढकता है; यह पेशीय ऊतक नहीं है।",
+        "सही: हृदयक पेशी हृदय की दीवार में होती है और अनैच्छिक, लयबद्ध संकुचन करती है।",
+        "गलत: रेखित कंकाली पेशी सामान्यतः हड्डियों से जुड़ी होती है और इच्छानुसार गति में भाग लेती है।"
+      ],
+      "en": [
+        "Incorrect. Unstriated or smooth muscle occurs in structures such as the gut and blood-vessel walls.",
+        "Incorrect. Epithelial tissue covers surfaces; it is not muscle tissue.",
+        "Correct. Cardiac muscle is in the heart wall and contracts involuntarily and rhythmically.",
+        "Incorrect. Striated skeletal muscle is generally attached to bones and supports voluntary movement."
       ]
     }
   },
@@ -4144,10 +4186,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
-        "सही: पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है। इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।"
+        "गलत: उपकला ऊतक ढकने और सुरक्षा देने का काम करता है।",
+        "गलत: संयोजी ऊतक जोड़ने और सहारा देने का काम करता है।",
+        "गलत: तंत्रिका ऊतक संकेतों का संचार करता है और पेशियों को सक्रिय कर सकता है, लेकिन संकुचन स्वयं पेशीय ऊतक करता है।",
+        "सही: पेशीय ऊतक संकुचन करके बल और गति उत्पन्न करता है; कंकाली, चिकनी और हृदयक पेशियों के कार्य अलग होते हैं।"
+      ],
+      "en": [
+        "Incorrect. Epithelial tissue covers surfaces and provides protection.",
+        "Incorrect. Connective tissue connects and supports body parts.",
+        "Incorrect. Nervous tissue transmits signals and can activate muscles, but muscular tissue produces contraction.",
+        "Correct. Muscular tissue contracts to generate force and movement; skeletal, smooth and cardiac muscles have different roles."
       ]
     }
   },
@@ -4180,10 +4228,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "सही: तंत्रिका ऊतक विद्युत संकेतों के माध्यम से सूचना का संचालन करता है। यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
-        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।"
+        "सही: तंत्रिका ऊतक न्यूरॉन के जरिए संकेतों का संचार करता है, जिससे सूचना शरीर के हिस्सों तक पहुँचती है।",
+        "गलत: पेशीय ऊतक संकुचन करके गति उत्पन्न करता है।",
+        "गलत: संयोजी ऊतक जोड़ने, सहारा देने और परिवहन में मदद करता है।",
+        "गलत: उपकला ऊतक सतहों को ढकता है और सुरक्षा देता है।"
+      ],
+      "en": [
+        "Correct. Nervous tissue conducts signals through neurons, helping transmit information between body regions.",
+        "Incorrect. Muscular tissue contracts to produce movement.",
+        "Incorrect. Connective tissue connects, supports and helps transport materials.",
+        "Incorrect. Epithelial tissue covers surfaces and provides protection."
       ]
     }
   },
@@ -4216,10 +4270,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक संकेतों का संचालन करता है; ढकने या संकुचन का मुख्य कार्य इसका नहीं है।",
-        "सही: अस्थि और उपास्थि संयोजी ऊतक के प्रकार हैं जो शरीर को सहारा देते हैं। यह ऊतक शरीर के भागों को जोड़ने, सहारा देने या पदार्थों के परिवहन में मदद करता है; रक्त, अस्थि और उपास्थि इसके उदाहरण हैं।",
-        "यह विकल्प सही उत्तर नहीं है: यह ऊतक शरीर की सतह और आंतरिक गुहाओं को ढकता है तथा सुरक्षा/अवशोषण जैसे कार्य करता है।",
-        "यह विकल्प सही उत्तर नहीं है: इस ऊतक की कोशिकाएँ संकुचन कर सकती हैं, जिससे शरीर या अंगों में गति होती है।"
+        "गलत: तंत्रिका ऊतक संकेतों का संचालन करता है।",
+        "सही: अस्थि और उपास्थि संयोजी ऊतक हैं; वे सहारा देते हैं और शरीर की संरचना बनाए रखने में मदद करते हैं।",
+        "गलत: उपकला ऊतक सतहों को ढकता है।",
+        "गलत: पेशीय ऊतक संकुचन द्वारा गति उत्पन्न करता है।"
+      ],
+      "en": [
+        "Incorrect. Nervous tissue conducts signals.",
+        "Correct. Bone and cartilage are connective tissues that support the body and help maintain its structure.",
+        "Incorrect. Epithelial tissue covers surfaces.",
+        "Incorrect. Muscular tissue produces movement through contraction."
       ]
     }
   },
