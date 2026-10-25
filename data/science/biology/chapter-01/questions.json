@@ -2105,7 +2105,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "कोशिका की गतिविधियों के नियमन और DNA को सुरक्षित रखने में कौन-सी संरचना प्रमुख भूमिका निभाती है?",
-      "en": "Which organelle or structure is associated with this function? (1)"
+      "en": "Which structure contains most of a eukaryotic cell's DNA and helps regulate cell activities?"
     },
     "options": {
       "hi": [
@@ -2124,7 +2124,7 @@
     "correct": 3,
     "explanation": {
       "hi": "केंद्रक में अधिकांश आनुवंशिक पदार्थ होता है और यह कोशिका की गतिविधियों के नियमन में महत्वपूर्ण है।",
-      "en": "The nucleus contains genetic material and controls cell activities."
+      "en": "The nucleus contains most of a eukaryotic cell's DNA. Gene activity influences which proteins are made and, in turn, many cell functions."
     },
     "optionExplanations": {
       "hi": [
@@ -2141,7 +2141,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिकीय श्वसन के दौरान ATP बनाने में कौन-सा कोशिकांग प्रमुख भूमिका निभाता है?",
-      "en": "Which organelle or structure is associated with this function? (2)"
+      "en": "Which organelle carries out important stages of cellular respiration that produce ATP?"
     },
     "options": {
       "hi": [
@@ -2160,7 +2160,7 @@
     "correct": 0,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ होती हैं और ATP बनता है।",
-      "en": "Mitochondria play a major role in energy production."
+      "en": "Mitochondria carry out important stages of cellular respiration and help supply ATP for cellular work."
     },
     "optionExplanations": {
       "hi": [
@@ -2177,7 +2177,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "प्रोटीन संश्लेषण का प्रमुख स्थल कौन-सा है?",
-      "en": "Which organelle or structure is associated with this function? (3)"
+      "en": "Where does protein synthesis take place?"
     },
     "options": {
       "hi": [
@@ -2196,7 +2196,7 @@
     "correct": 1,
     "explanation": {
       "hi": "राइबोसोम mRNA के निर्देशों के अनुसार अमीनो अम्लों को जोड़कर प्रोटीन बनाते हैं।",
-      "en": "Ribosomes are the main site of protein synthesis."
+      "en": "Ribosomes translate messenger RNA instructions and link amino acids to form proteins."
     },
     "optionExplanations": {
       "hi": [
@@ -2213,7 +2213,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिका में पदार्थों के प्रवेश और निकास को चयनात्मक रूप से नियंत्रित कौन करता है?",
-      "en": "Which organelle or structure is associated with this function? (4)"
+      "en": "Which structure selectively regulates what enters and leaves a cell?"
     },
     "options": {
       "hi": [
@@ -2232,7 +2232,7 @@
     "correct": 2,
     "explanation": {
       "hi": "कोशिका झिल्ली चयनात्मक पारगम्य होती है और पदार्थों के आवागमन को नियंत्रित करती है।",
-      "en": "The cell membrane is selectively permeable and regulates movement of substances."
+      "en": "The selectively permeable cell membrane regulates the movement of substances into and out of the cell."
     },
     "optionExplanations": {
       "hi": [
@@ -2249,7 +2249,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "पादप कोशिका को यांत्रिक सहारा और आकार देने वाली संरचना कौन-सी है?",
-      "en": "Which organelle or structure is associated with this function? (5)"
+      "en": "Which structure provides mechanical support and helps maintain the shape of a plant cell?"
     },
     "options": {
       "hi": [
@@ -2268,7 +2268,7 @@
     "correct": 3,
     "explanation": {
       "hi": "पादप कोशिका की कोशिका भित्ति मुख्यतः सेल्यूलोज से बनी होती है और उसे सहारा व कठोरता देती है।",
-      "en": "The cell wall gives a plant cell rigidity and shape."
+      "en": "The cellulose-rich plant cell wall provides mechanical support, protection and shape."
     },
     "optionExplanations": {
       "hi": [
@@ -2285,7 +2285,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "प्रोटीन और लिपिड के निर्माण तथा कोशिका के भीतर पदार्थों के परिवहन में कौन-सी संरचना भाग लेती है?",
-      "en": "Which organelle or structure is associated with this function? (6)"
+      "en": "Which structure supports protein and lipid synthesis and transport within the cell?"
     },
     "options": {
       "hi": [
@@ -2304,7 +2304,7 @@
     "correct": 0,
     "explanation": {
       "hi": "अंतर्द्रव्यी जालिका (ER) का खुरदरा भाग राइबोसोम के साथ प्रोटीन निर्माण में और चिकना भाग लिपिड निर्माण में मदद करता है; यह आंतरिक परिवहन में भी भूमिका निभाती है।",
-      "en": "The ER helps transport materials within the cell."
+      "en": "Rough ER has ribosomes and supports the production and handling of many proteins; smooth ER contributes to lipid synthesis. The ER network also supports intracellular transport."
     },
     "optionExplanations": {
       "hi": [
@@ -2321,7 +2321,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिका के भीतर कई पदार्थों का संशोधन, छँटाई और पैकेजिंग कौन करता है?",
-      "en": "Which organelle or structure is associated with this function? (7)"
+      "en": "Which organelle modifies, sorts and packages many substances for delivery?"
     },
     "options": {
       "hi": [
@@ -2340,7 +2340,7 @@
     "correct": 1,
     "explanation": {
       "hi": "गॉल्जी उपकरण पदार्थों को संशोधित करता है, उन्हें छाँटता है और उचित स्थान तक पहुँचाने के लिए पैकेज करता है।",
-      "en": "The Golgi apparatus participates in modification and packaging."
+      "en": "The Golgi apparatus modifies and sorts proteins and lipids, then packages them for delivery to appropriate destinations."
     },
     "optionExplanations": {
       "hi": [
@@ -2357,7 +2357,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "पादप कोशिका में प्रकाश ऊर्जा को रासायनिक ऊर्जा में बदलने वाली प्रक्रिया किस कोशिकांग में होती है?",
-      "en": "Which organelle or structure is associated with this function? (8)"
+      "en": "In plant cells, which organelle captures light energy for photosynthesis?"
     },
     "options": {
       "hi": [
@@ -2376,7 +2376,7 @@
     "correct": 2,
     "explanation": {
       "hi": "हरितलवक में क्लोरोफिल प्रकाश ऊर्जा को ग्रहण करता है और प्रकाश संश्लेषण में मदद करता है।",
-      "en": "Chloroplasts contain chlorophyll, which captures light energy and supports photosynthesis, converting light energy into chemical energy."
+      "en": "Chlorophyll in chloroplasts captures light energy used in photosynthesis to build energy-rich molecules."
     },
     "optionExplanations": {
       "hi": [
@@ -2429,7 +2429,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "लाइसोसोम में मौजूद पाचक एंजाइम मुख्यतः किस काम में सहायता करते हैं?",
-      "en": "Which organelle or structure is associated with this function? (10)"
+      "en": "What is a major role of the digestive enzymes inside lysosomes?"
     },
     "options": {
       "hi": [
@@ -2448,7 +2448,7 @@
     "correct": 0,
     "explanation": {
       "hi": "लाइसोसोम के एंजाइम कुछ बड़े अणुओं, अपशिष्ट पदार्थों और पुराने कोशिकीय घटकों को तोड़ने में मदद करते हैं।",
-      "en": "Lysosomes contain digestive enzymes and help digest waste materials."
+      "en": "Lysosomal enzymes break down certain macromolecules, waste materials and worn-out cell components."
     },
     "optionExplanations": {
       "hi": [
@@ -2465,7 +2465,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "किस कोशिकांग में कोशिका का अधिकांश DNA पाया जाता है और जहाँ से कोशिकीय गतिविधियों का नियमन होता है?",
-      "en": "Which organelle has this main function? (11)"
+      "en": "In a typical eukaryotic cell, where is most DNA located and gene activity organized?"
     },
     "options": {
       "hi": [
@@ -2484,7 +2484,7 @@
     "correct": 1,
     "explanation": {
       "hi": "यूकैरियोटिक कोशिका के केंद्रक में अधिकांश DNA होता है; जीनों की गतिविधि कोशिका के कार्यों को प्रभावित करती है।",
-      "en": "The nucleus contains genetic material and controls cell activities."
+      "en": "Most eukaryotic DNA is housed in the nucleus. Gene activity helps regulate cell functions, although not every cellular process is controlled by the nucleus alone."
     },
     "optionExplanations": {
       "hi": [
@@ -2501,7 +2501,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "माइटोकॉन्ड्रिया को कोशिका का ऊर्जा-उत्पादन केंद्र क्यों कहा जाता है?",
-      "en": "Which organelle has this main function? (12)"
+      "en": "Why are mitochondria often called the cell's energy-producing organelles?"
     },
     "options": {
       "hi": [
@@ -2520,7 +2520,7 @@
     "correct": 2,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की प्रक्रियाओं से ATP बनता है, जो कोशिका के कई कार्यों के लिए ऊर्जा उपलब्ध कराता है।",
-      "en": "Mitochondria play a major role in energy production."
+      "en": "Mitochondria carry out key stages of cellular respiration that help transfer energy from nutrients into ATP, a usable energy carrier."
     },
     "optionExplanations": {
       "hi": [
@@ -2537,7 +2537,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "राइबोसोम के बारे में कौन-सा कथन सही है?",
-      "en": "Which organelle has this main function? (13)"
+      "en": "Which statement about ribosomes is correct?"
     },
     "options": {
       "hi": [
@@ -2556,7 +2556,7 @@
     "correct": 3,
     "explanation": {
       "hi": "राइबोसोम प्रोटीन संश्लेषण करते हैं और प्रोकैरियोटिक तथा यूकैरियोटिक दोनों प्रकार की कोशिकाओं में पाए जाते हैं।",
-      "en": "Ribosomes are the main site of protein synthesis."
+      "en": "Ribosomes synthesize proteins and are found in both prokaryotic and eukaryotic cells."
     },
     "optionExplanations": {
       "hi": [
@@ -2573,7 +2573,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिका झिल्ली की चयनात्मक पारगम्यता का क्या अर्थ है?",
-      "en": "Which organelle has this main function? (14)"
+      "en": "What does selective permeability of the cell membrane mean?"
     },
     "options": {
       "hi": [
@@ -2592,7 +2592,7 @@
     "correct": 0,
     "explanation": {
       "hi": "चयनात्मक पारगम्यता का अर्थ है कि झिल्ली कुछ पदार्थों को गुजरने देती है और कुछ के आवागमन को सीमित या नियंत्रित करती है।",
-      "en": "The cell membrane is selectively permeable and regulates movement of substances."
+      "en": "Selective permeability means the membrane allows some substances to cross more readily than others and regulates their movement."
     },
     "optionExplanations": {
       "hi": [
@@ -2609,7 +2609,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "पादप कोशिका में सेल्यूलोज-समृद्ध कोशिका भित्ति का मुख्य लाभ क्या है?",
-      "en": "Which organelle has this main function? (15)"
+      "en": "What is the main benefit of the cellulose-rich cell wall in a plant cell?"
     },
     "options": {
       "hi": [
@@ -2628,7 +2628,7 @@
     "correct": 1,
     "explanation": {
       "hi": "सेल्यूलोज से बनी कोशिका भित्ति पादप कोशिका को यांत्रिक सहारा, सुरक्षा और आकार देती है।",
-      "en": "The cell wall gives a plant cell rigidity and shape."
+      "en": "The cell wall provides mechanical support, protection and shape; it helps a plant cell resist internal turgor pressure."
     },
     "optionExplanations": {
       "hi": [
@@ -2645,7 +2645,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "अंतर्द्रव्यी जालिका (ER) को कोशिका के आंतरिक परिवहन तंत्र से क्यों जोड़ा जाता है?",
-      "en": "Which organelle has this main function? (16)"
+      "en": "Why is the endoplasmic reticulum often described as part of the cell's internal transport network?"
     },
     "options": {
       "hi": [
@@ -2664,7 +2664,7 @@
     "correct": 2,
     "explanation": {
       "hi": "ER झिल्लियों का जाल है जो कोशिका के भीतर पदार्थों के संश्लेषण और परिवहन में मदद करता है।",
-      "en": "The ER helps transport materials within the cell."
+      "en": "The endoplasmic reticulum is a membrane network involved in synthesis and movement of materials. Rough ER is associated with many proteins; smooth ER helps synthesize lipids."
     },
     "optionExplanations": {
       "hi": [
@@ -2681,7 +2681,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "गॉल्जी उपकरण के बारे में कौन-सा कथन सबसे सही है?",
-      "en": "Which organelle has this main function? (17)"
+      "en": "Which statement best describes the Golgi apparatus?"
     },
     "options": {
       "hi": [
@@ -2700,7 +2700,7 @@
     "correct": 3,
     "explanation": {
       "hi": "गॉल्जी उपकरण प्रोटीन और लिपिड जैसे पदार्थों का संशोधन, छँटाई और पैकेजिंग करता है।",
-      "en": "The Golgi apparatus participates in modification and packaging."
+      "en": "The Golgi apparatus modifies, sorts and packages many proteins and lipids for transport to specific destinations."
     },
     "optionExplanations": {
       "hi": [
@@ -2789,7 +2789,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "केंद्रीय रिक्तिका के कारण परिपक्व पादप कोशिका को कौन-सा लाभ मिलता है?",
-      "en": "Which organelle has this main function? (20)"
+      "en": "How does the large central vacuole benefit a mature plant cell?"
     },
     "options": {
       "hi": [
@@ -2808,7 +2808,7 @@
     "correct": 2,
     "explanation": {
       "hi": "केंद्रीय रिक्तिका में जल और घुले पदार्थ जमा हो सकते हैं; इससे कोशिका की तुर्गता बनाए रखने में मदद मिलती है।",
-      "en": "Lysosomes contain digestive enzymes and help digest waste materials."
+      "en": "The central vacuole stores water and dissolved substances and helps maintain turgor pressure, supporting the plant cell's shape."
     },
     "optionExplanations": {
       "hi": [
@@ -2825,7 +2825,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "यदि किसी कोशिका में DNA केंद्रकीय झिल्ली से घिरा है, तो यह संरचना किसमें स्थित है?",
-      "en": "If this function must be identified, which organelle is correct? (21)"
+      "en": "If most of a cell's DNA is enclosed by a nuclear membrane, where is it located?"
     },
     "options": {
       "hi": [
@@ -2844,7 +2844,7 @@
     "correct": 3,
     "explanation": {
       "hi": "यूकैरियोटिक कोशिका में अधिकांश DNA झिल्ली-बद्ध केंद्रक में रहता है।",
-      "en": "The nucleus contains genetic material and controls cell activities."
+      "en": "In a typical eukaryotic cell, most DNA is located inside the membrane-bound nucleus."
     },
     "optionExplanations": {
       "hi": [
@@ -2861,7 +2861,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "मांसपेशी कोशिकाओं को लगातार काम करने के लिए ATP चाहिए। किस कोशिकांग की भूमिका विशेष रूप से महत्वपूर्ण है?",
-      "en": "If this function must be identified, which organelle is correct? (22)"
+      "en": "Muscle cells need a steady supply of ATP. Which organelle is especially important in producing it?"
     },
     "options": {
       "hi": [
@@ -2880,7 +2880,7 @@
     "correct": 0,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया कोशिकीय श्वसन में ATP उत्पादन के लिए महत्वपूर्ण है।",
-      "en": "Mitochondria play a major role in energy production."
+      "en": "Mitochondria support ATP production through cellular respiration, which helps meet the energy demands of active muscle cells."
     },
     "optionExplanations": {
       "hi": [
@@ -2897,7 +2897,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिका में अमीनो अम्लों को जोड़कर प्रोटीन बनाने वाली संरचना कौन-सी है?",
-      "en": "If this function must be identified, which organelle is correct? (23)"
+      "en": "Which cell structure joins amino acids to build proteins?"
     },
     "options": {
       "hi": [
@@ -2916,7 +2916,7 @@
     "correct": 1,
     "explanation": {
       "hi": "राइबोसोम mRNA के निर्देशों के अनुसार अमीनो अम्लों को जोड़कर प्रोटीन बनाते हैं।",
-      "en": "Ribosomes are the main site of protein synthesis."
+      "en": "Ribosomes read messenger RNA instructions and link amino acids in the sequence specified to build a protein."
     },
     "optionExplanations": {
       "hi": [
@@ -2933,7 +2933,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "यदि किसी कोशिका को बाहर से पोषक पदार्थ लेने और अपशिष्ट बाहर निकालने की मात्रा नियंत्रित करनी हो, तो कौन-सी संरचना मुख्य भूमिका निभाएगी?",
-      "en": "If this function must be identified, which organelle is correct? (24)"
+      "en": "Which structure helps control nutrient entry and waste exit from a cell?"
     },
     "options": {
       "hi": [
@@ -2952,7 +2952,7 @@
     "correct": 2,
     "explanation": {
       "hi": "कोशिका झिल्ली चयनात्मक पारगम्य है और पदार्थों के प्रवेश व निकास को नियंत्रित करती है।",
-      "en": "The cell membrane is selectively permeable and regulates movement of substances."
+      "en": "The cell membrane regulates exchange between the cell and its surroundings; transport also depends on concentration gradients and specific membrane proteins."
     },
     "optionExplanations": {
       "hi": [
@@ -2969,7 +2969,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "पादप कोशिका में कौन-सी संरचना कोशिका झिल्ली के बाहर सहारा देने वाली परत बनाती है?",
-      "en": "If this function must be identified, which organelle is correct? (25)"
+      "en": "Which layer outside a plant cell's membrane provides support and protection?"
     },
     "options": {
       "hi": [
@@ -2988,7 +2988,7 @@
     "correct": 3,
     "explanation": {
       "hi": "पादप कोशिका की कोशिका भित्ति झिल्ली के बाहर होती है और सहारा व सुरक्षा देती है।",
-      "en": "The cell wall gives a plant cell rigidity and shape."
+      "en": "The plant cell wall lies outside the plasma membrane and provides support, shape and protection."
     },
     "optionExplanations": {
       "hi": [
@@ -3005,7 +3005,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "किस कोशिकीय संरचना का खुरदरा भाग राइबोसोम से जुड़ा होता है?",
-      "en": "If this function must be identified, which organelle is correct? (26)"
+      "en": "Which cell structure has a rough region studded with ribosomes?"
     },
     "options": {
       "hi": [
@@ -3024,7 +3024,7 @@
     "correct": 0,
     "explanation": {
       "hi": "खुरदरी अंतर्द्रव्यी जालिका की सतह पर राइबोसोम लगे होते हैं; यह प्रोटीन निर्माण और परिवहन में सहायता करती है।",
-      "en": "The ER helps transport materials within the cell."
+      "en": "Rough endoplasmic reticulum has ribosomes attached to its surface and is involved in making and processing many proteins."
     },
     "optionExplanations": {
       "hi": [
@@ -3041,7 +3041,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिका से बाहर भेजे जाने वाले कई प्रोटीनों की अंतिम छँटाई और पैकेजिंग में कौन-सा कोशिकांग भाग लेता है?",
-      "en": "If this function must be identified, which organelle is correct? (27)"
+      "en": "Which organelle helps sort and package many proteins that will be sent out of the cell?"
     },
     "options": {
       "hi": [
@@ -3060,7 +3060,7 @@
     "correct": 1,
     "explanation": {
       "hi": "गॉल्जी उपकरण पदार्थों को संशोधित, छाँट और पैकेज करता है, ताकि वे उचित स्थान तक पहुँचें।",
-      "en": "The Golgi apparatus participates in modification and packaging."
+      "en": "The Golgi apparatus processes, sorts and packages many proteins into vesicles for delivery."
     },
     "optionExplanations": {
       "hi": [
@@ -3149,7 +3149,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिका के भीतर पुराने घटकों और कुछ अपशिष्ट पदार्थों को तोड़ने में कौन-सा कोशिकांग सहायता करता है?",
-      "en": "If this function must be identified, which organelle is correct? (30)"
+      "en": "Which organelle helps break down worn-out cell components and certain wastes?"
     },
     "options": {
       "hi": [
@@ -3168,7 +3168,7 @@
     "correct": 0,
     "explanation": {
       "hi": "लाइसोसोम में पाचक एंजाइम होते हैं जो कुछ पदार्थों और पुराने कोशिकीय घटकों को विघटित करते हैं।",
-      "en": "Lysosomes contain digestive enzymes and help digest waste materials."
+      "en": "Lysosomes contain digestive enzymes that break down certain substances and worn-out cellular components."
     },
     "optionExplanations": {
       "hi": [
@@ -3185,7 +3185,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कौन-सा कोशिकांग आनुवंशिक निर्देशों के माध्यम से कोशिका के कार्यों के नियमन में प्रमुख है?",
-      "en": "Which organelle best matches this description? (31)"
+      "en": "Which organelle houses most genetic instructions that influence cell function in a eukaryote?"
     },
     "options": {
       "hi": [
@@ -3204,7 +3204,7 @@
     "correct": 1,
     "explanation": {
       "hi": "केंद्रक में DNA होता है; जीनों की गतिविधि कोशिका के कार्यों को प्रभावित करती है।",
-      "en": "The nucleus contains genetic material and controls cell activities."
+      "en": "The nucleus houses most of the cell's DNA; gene expression influences cellular activity."
     },
     "optionExplanations": {
       "hi": [
@@ -3221,7 +3221,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "ATP के उत्पादन को कोशिकीय श्वसन से जोड़ने वाला कोशिकांग कौन-सा है?",
-      "en": "Which organelle best matches this description? (32)"
+      "en": "Which organelle links cellular respiration with much of a eukaryotic cell's ATP production?"
     },
     "options": {
       "hi": [
@@ -3240,7 +3240,7 @@
     "correct": 2,
     "explanation": {
       "hi": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन की महत्वपूर्ण प्रक्रियाएँ ATP बनाने में मदद करती हैं।",
-      "en": "Mitochondria play a major role in energy production."
+      "en": "Mitochondria carry out key stages of cellular respiration and help produce ATP."
     },
     "optionExplanations": {
       "hi": [
@@ -3257,7 +3257,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "किस संरचना को प्रोटीन बनाने वाली छोटी कणिकाओं के रूप में कोशिका में पाया जा सकता है?",
-      "en": "Which organelle best matches this description? (33)"
+      "en": "Which tiny cell structures act as the sites of protein synthesis?"
     },
     "options": {
       "hi": [
@@ -3276,7 +3276,7 @@
     "correct": 3,
     "explanation": {
       "hi": "राइबोसोम कोशिका में छोटे कणों के रूप में पाए जाते हैं और प्रोटीन संश्लेषण करते हैं।",
-      "en": "Ribosomes are the main site of protein synthesis."
+      "en": "Ribosomes are small structures that build proteins by linking amino acids according to messenger RNA instructions."
     },
     "optionExplanations": {
       "hi": [
@@ -3293,7 +3293,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "पदार्थों के आवागमन को चुनिंदा ढंग से नियंत्रित करने के कारण कोशिका झिल्ली को क्या कहा जाता है?",
-      "en": "Which organelle best matches this description? (34)"
+      "en": "What term describes a membrane that controls the passage of different substances selectively?"
     },
     "options": {
       "hi": [
@@ -3312,7 +3312,7 @@
     "correct": 0,
     "explanation": {
       "hi": "चयनात्मक पारगम्य झिल्ली कुछ पदार्थों के आवागमन को अनुमति देती है और अन्य को सीमित या नियंत्रित करती है।",
-      "en": "The cell membrane is selectively permeable and regulates movement of substances."
+      "en": "A selectively permeable membrane allows some substances to pass more readily than others and regulates exchange."
     },
     "optionExplanations": {
       "hi": [
@@ -3329,7 +3329,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "कोशिका भित्ति के बारे में कौन-सा कथन सही है?",
-      "en": "Which organelle best matches this description? (35)"
+      "en": "Which statement about the cell wall is correct?"
     },
     "options": {
       "hi": [
@@ -3348,7 +3348,7 @@
     "correct": 1,
     "explanation": {
       "hi": "पादप कोशिका की सेल्यूलोज-समृद्ध भित्ति सहारा और सुरक्षा देती है; जंतु कोशिका में कोशिका भित्ति नहीं होती।",
-      "en": "The cell wall gives a plant cell rigidity and shape."
+      "en": "The plant cell wall provides support and protection. Animal cells do not have a cell wall."
     },
     "optionExplanations": {
       "hi": [
@@ -3365,7 +3365,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "खुरदरी और चिकनी अंतर्द्रव्यी जालिका के कार्यों में सही अंतर क्या है?",
-      "en": "Which organelle best matches this description? (36)"
+      "en": "What is a key functional difference between rough and smooth endoplasmic reticulum?"
     },
     "options": {
       "hi": [
@@ -3384,7 +3384,7 @@
     "correct": 2,
     "explanation": {
       "hi": "खुरदरी ER पर राइबोसोम होते हैं और यह प्रोटीन निर्माण/परिवहन में सहायता करती है; चिकनी ER लिपिड निर्माण में भूमिका निभाती है।",
-      "en": "The ER helps transport materials within the cell."
+      "en": "Rough ER has ribosomes and supports the synthesis and handling of many proteins; smooth ER lacks attached ribosomes and contributes to lipid synthesis."
     },
     "optionExplanations": {
       "hi": [
@@ -3401,7 +3401,7 @@
     "difficulty": "medium",
     "question": {
       "hi": "गॉल्जी उपकरण का कौन-सा कार्य सही है?",
-      "en": "Which organelle best matches this description? (37)"
+      "en": "Which function is correctly associated with the Golgi apparatus?"
     },
     "options": {
       "hi": [
@@ -3420,7 +3420,7 @@
     "correct": 3,
     "explanation": {
       "hi": "गॉल्जी उपकरण कई प्रोटीनों और लिपिडों का संशोधन, छँटाई और पैकेजिंग करता है।",
-      "en": "The Golgi apparatus participates in modification and packaging."
+      "en": "The Golgi apparatus modifies, sorts and packages many proteins and lipids for transport."
     },
     "optionExplanations": {
       "hi": [
@@ -3509,7 +3509,7 @@
     "difficulty": "easy",
     "question": {
       "hi": "किस संरचना के भीतर जल और घुले पदार्थ जमा हो सकते हैं और जो पादप कोशिका की तुर्गता में मदद करती है?",
-      "en": "Which organelle best matches this description? (40)"
+      "en": "Which structure stores water and dissolved substances and helps maintain turgor in plant cells?"
     },
     "options": {
       "hi": [
@@ -3528,7 +3528,7 @@
     "correct": 2,
     "explanation": {
       "hi": "केंद्रीय रिक्तिका जल और घुले पदार्थों का भंडारण करती है तथा कोशिका की तुर्गता बनाए रखने में मदद करती है।",
-      "en": "Lysosomes contain digestive enzymes and help digest waste materials."
+      "en": "The central vacuole stores water and dissolved substances and helps maintain turgor pressure in mature plant cells."
     },
     "optionExplanations": {
       "hi": [
