@@ -2966,6 +2966,20 @@
       "explanation": {
         "hi": "बैक्टीरिया प्रोकैरियोट हैं — केंद्रक-पदार्थ झिल्ली से घिरा नहीं होता; यही मौलिक भिन्नता उन्हें अलग जगत का अधिकारी बनाती है।",
         "en": "Bacteria are prokaryotes — nuclear material is not membrane-bound; this fundamental difference earns them a separate kingdom."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: बैक्टीरिया में कोशिका झिल्ली होती है; वह पदार्थों के आवागमन को नियंत्रित करती है।",
+          "गलत: अधिकांश बैक्टीरिया में कोशिका भित्ति होती है, हालांकि कुछ अपवाद हैं।",
+          "सही: बैक्टीरिया प्रोकैरियोट हैं; उनका DNA झिल्ली से घिरे संगठित केंद्रक में नहीं होता।",
+          "गलत: बैक्टीरिया में राइबोसोम होते हैं, जो प्रोटीन संश्लेषण करते हैं।"
+        ],
+        "en": [
+          "Incorrect. Bacteria have a cell membrane that regulates movement of substances.",
+          "Incorrect. Most bacteria have a cell wall, although exceptions exist.",
+          "Correct. Bacteria are prokaryotes; their DNA is not enclosed in a membrane-bound nucleus.",
+          "Incorrect. Bacteria have ribosomes that synthesise proteins."
+        ]
       }
     },
     {
@@ -2973,8 +2987,8 @@
       "topic": "five-kingdoms",
       "difficulty": "medium",
       "question": {
-        "hi": "डायटम (सिलिका-कवक जैसे सूक्ष्म शैवाल) किस जगत में वर्गीकृत हैं?",
-        "en": "Diatoms (microscopic silica-shelled algae) are classified in which kingdom?"
+        "hi": "सिलिका-युक्त कवच वाले सूक्ष्म शैवाल डायटम पारंपरिक पाँच-जगत वर्गीकरण में कहाँ रखे जाते हैं?",
+        "en": "In the traditional five-kingdom classification, where are microscopic algae called diatoms, with silica shells, placed?"
       },
       "options": {
         "hi": [
@@ -2992,8 +3006,22 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "एककोशिकीय होने के कारण डायटम जैसे सूक्ष्म शैवाल प्रोटिस्टा में रखे जाते हैं, भले ही वे प्रकाश-संश्लेषण करते हों।",
-        "en": "Being unicellular, microscopic algae like diatoms go to Protista even though they photosynthesise."
+        "hi": "डायटम एककोशिकीय यूकैरियोटिक प्रकाश-संश्लेषक जीव हैं। व्हिटेकर के पारंपरिक पाँच-जगत मॉडल में इन्हें प्रोटिस्टा में रखा जाता है; आधुनिक वर्गीकरण में यूकैरियोटों के संबंध अधिक सूक्ष्म समूहों में दर्शाए जाते हैं।",
+        "en": "Diatoms are unicellular eukaryotic photosynthetic organisms. In Whittaker's traditional five-kingdom model they are placed in Protista; modern classification represents eukaryotic relationships in more detailed groups."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: प्लांटी में पारंपरिक रूप से बहुकोशिकीय पादप रखे जाते हैं; डायटम एककोशिकीय यूकैरियोट हैं।",
+          "गलत: मोनेरा में प्रोकैरियोट होते हैं, जबकि डायटम में केंद्रक होता है।",
+          "गलत: कवक परपोषी होते हैं; डायटम प्रकाश-संश्लेषण करते हैं।",
+          "सही: पारंपरिक पाँच-जगत मॉडल में डायटम जैसे एककोशिकीय यूकैरियोट प्रोटिस्टा में रखे जाते हैं।"
+        ],
+        "en": [
+          "Incorrect. Plantae traditionally contains multicellular plants; diatoms are unicellular eukaryotes.",
+          "Incorrect. Monera contains prokaryotes, while diatoms have a nucleus.",
+          "Incorrect. Fungi are heterotrophic; diatoms photosynthesise.",
+          "Correct. In the traditional five-kingdom model, unicellular eukaryotes such as diatoms are placed in Protista."
+        ]
       }
     },
     {
@@ -3022,6 +3050,20 @@
       "explanation": {
         "hi": "पोषण-विधि को व्हिटेकर का मुख्य आधार माना गया — पौधे स्वपोषी, कवक अवशोषण-पोषी; इसी भिन्नता से फंजाई अलग जगत बना।",
         "en": "Nutrition was Whittaker's chief axis — plants autotrophic, fungi absorptive; this difference created the separate kingdom Fungi."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: पौधों से अलग, कवक सामान्यतः क्लोरोफिल रहित परपोषी होते हैं और कार्बनिक पदार्थों को बाहर पचाकर अवशोषित करते हैं।",
+          "गलत: कवक कई स्थानों पर रहते हैं, जिनमें नम वातावरण और जल के पास के स्थान भी शामिल हैं।",
+          "गलत: कवक कोशिकाओं से बने होते हैं; उनकी कोशिका-भित्ति में काइटिन होता है।",
+          "गलत: कई कवक सूक्ष्म होते हैं; बड़ा आकार जगत अलग करने का आधार नहीं।"
+        ],
+        "en": [
+          "Correct. Unlike plants, fungi are generally chlorophyll-less heterotrophs that digest organic matter externally and absorb nutrients.",
+          "Incorrect. Fungi live in many environments, including moist habitats and places near water.",
+          "Incorrect. Fungi are cellular organisms with cell walls containing chitin.",
+          "Incorrect. Many fungi are microscopic; size is not the basis for a separate kingdom."
+        ]
       }
     },
     {
@@ -3050,6 +3092,20 @@
       "explanation": {
         "hi": "दोनों अंतर एक साथ केवल दूसरे विकल्प में सही हैं — हरितलवक का अभाव और काइटिन भित्ति।",
         "en": "Only the second option holds both differences together — absence of chlorophyll and chitinous wall."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कवकों में सामान्यतः क्लोरोफिल नहीं होता और उनकी भित्ति में काइटिन होता है, सेल्युलोज नहीं।",
+          "सही: कवक सामान्यतः क्लोरोफिल-रहित होते हैं और उनकी कोशिका-भित्ति में काइटिन होता है; पौधों में सेल्युलोज प्रमुख घटक है।",
+          "गलत: कवक यूकैरियोट हैं; पौधे भी यूकैरियोट हैं, प्रोकैरियोट नहीं।",
+          "गलत: कवक सामान्यतः परपोषी हैं और पौधे सामान्यतः स्वपोषी; विकल्प ने यह उलट दिया है।"
+        ],
+        "en": [
+          "Incorrect. Fungi generally lack chlorophyll and have chitin in their walls, not cellulose as the main wall material.",
+          "Correct. Fungi generally lack chlorophyll and have chitinous cell walls; cellulose is a major component of plant cell walls.",
+          "Incorrect. Fungi are eukaryotes; plants are also eukaryotic, not prokaryotic.",
+          "Incorrect. Fungi are generally heterotrophic and plants generally autotrophic; this option reverses them."
+        ]
       }
     },
     {
@@ -3078,6 +3134,20 @@
       "explanation": {
         "hi": "बहुकोशिकीयता + स्वपोषण + सेल्युलोज भित्ति = पादप जगत की तीनों निशानियाँ।",
         "en": "Multicellularity + autotrophy + cellulose walls = the three signatures of the plant kingdom."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: प्रोटिस्टा पारंपरिक वर्गीकरण में मुख्यतः एककोशिकीय यूकैरियोटों का समूह है।",
+          "गलत: कवक में काइटिन भित्ति और परपोषी पोषण होता है।",
+          "सही: बहुकोशिकीय, स्वपोषी और सेल्युलोज-युक्त कोशिका-भित्ति वाला जीव सामान्यतः प्लांटी में आता है; कुछ परजीवी पौधे अपवाद हैं।",
+          "गलत: जंतुओं में कोशिका-भित्ति नहीं होती और वे परपोषी होते हैं।"
+        ],
+        "en": [
+          "Incorrect. In traditional classification, Protista mainly includes unicellular eukaryotes.",
+          "Incorrect. Fungi have chitinous walls and heterotrophic nutrition.",
+          "Correct. A multicellular, autotrophic organism with cellulose walls generally belongs to Plantae, though some parasitic plants are exceptions.",
+          "Incorrect. Animals lack cell walls and are heterotrophic."
+        ]
       }
     },
     {
@@ -3085,8 +3155,8 @@
       "topic": "five-kingdoms",
       "difficulty": "medium",
       "question": {
-        "hi": "'प्रोटोजोआ' कहलाने वाले अमीबा-जैसे जीव आधुनिक वर्गीकरण में कहाँ गए?",
-        "en": "Where did Amoeba-like organisms, once called 'protozoa', go in modern classification?"
+        "hi": "व्हिटेकर के पारंपरिक पाँच-जगत स्कूल-वर्गीकरण में अमीबा-जैसे 'प्रोटोजोआ' कहाँ रखे जाते हैं?",
+        "en": "In Whittaker's traditional five-kingdom school classification, where are Amoeba-like 'protozoa' placed?"
       },
       "options": {
         "hi": [
@@ -3104,8 +3174,22 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "पुराने 'प्रोटोजोआ' (अमीबा, पैरामीशियम) अब प्रोटिस्टा जगत में रखे जाते हैं — एककोशिकीय यूकैरियोट होने से।",
-        "en": "The old 'protozoa' (Amoeba, Paramecium) now sit in Protista — for being unicellular eukaryotes."
+        "hi": "पारंपरिक पाँच-जगत मॉडल में अमीबा और पैरामीशियम जैसे एककोशिकीय यूकैरियोट प्रोटिस्टा में रखे जाते हैं। आधुनिक वर्गीकरण में 'प्रोटिस्टा' एकल प्राकृतिक/मोनोफाइलेटिक समूह नहीं माना जाता और इन जीवों को अधिक विशिष्ट यूकैरियोट समूहों में रखा जाता है।",
+        "en": "In the traditional five-kingdom model, unicellular eukaryotes such as Amoeba and Paramecium are placed in Protista. Modern classification does not treat 'Protista' as one natural/monophyletic group and places these organisms in more specific eukaryotic groups."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अमीबा-जैसे जीवों में केंद्रक होता है; वे जंतु जगत के बहुकोशिकीय जंतु नहीं।",
+          "गलत: कवक परपोषी होते हैं और अमीबा की तरह गति करने वाले प्रोटिस्ट नहीं।",
+          "गलत: मोनेरा में प्रोकैरियोट आते हैं, जबकि अमीबा यूकैरियोट है।",
+          "सही: पारंपरिक पाँच-जगत मॉडल में अमीबा जैसे एककोशिकीय यूकैरियोट प्रोटिस्टा में रखे जाते हैं।"
+        ],
+        "en": [
+          "Incorrect. Amoeba has a nucleus and is not a multicellular animal in Animalia.",
+          "Incorrect. Fungi are heterotrophs and are not Amoeba-like motile protists.",
+          "Incorrect. Monera contains prokaryotes, while Amoeba is eukaryotic.",
+          "Correct. In the traditional five-kingdom model, unicellular eukaryotes such as Amoeba are placed in Protista."
+        ]
       }
     },
     {
@@ -3134,6 +3218,20 @@
       "explanation": {
         "hi": "स्लाइम-मोल्ड प्रोटिस्टा के सदस्य हैं; यीस्ट फंजाई का, स्पाइरोगाइरा थैलोफाइटा (पादप) का और साइनोबैक्टीरिया मोनेरा का सदस्य है।",
         "en": "Slime moulds are protists; yeast belongs to Fungi, Spirogyra to Thallophyta (plants) and cyanobacteria to Monera."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: व्हिटेकर के पारंपरिक पाँच-जगत मॉडल में स्लाइम-मोल्ड प्रोटिस्टा में रखे जाते हैं; अन्य युग्म गलत हैं।",
+          "गलत: सायनोबैक्टीरिया प्रोकैरियोट हैं और ऐतिहासिक मॉडल में मोनेरा में रखे जाते हैं।",
+          "गलत: यीस्ट कवक है, प्रोटिस्टा नहीं।",
+          "गलत: स्पाइरोगाइरा प्रकाश-संश्लेषक शैवाल है; पारंपरिक स्कूल वर्गीकरण में इसे पादप जगत/थैलोफाइटा में रखा जाता है, मोनेरा में नहीं।"
+        ],
+        "en": [
+          "Correct. In Whittaker's traditional five-kingdom model, slime moulds are placed in Protista; the other pairs are incorrect.",
+          "Incorrect. Cyanobacteria are prokaryotes and were placed in Monera in the historical model.",
+          "Incorrect. Yeast is a fungus, not a protist.",
+          "Incorrect. Spirogyra is a photosynthetic alga; traditional school classification places it in Plantae/Thallophyta, not Monera."
+        ]
       }
     },
     {
@@ -3162,6 +3260,20 @@
       "explanation": {
         "hi": "मोनेरा के प्रोकैरियोटिक जीव संगठित केंद्रक जैसी जटिलता से रहित हैं — इसीलिए सबसे सरल कहलाते हैं।",
         "en": "Monera's prokaryotes lack complexities like an organised nucleus — hence called the simplest."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: प्लांटी में यूकैरियोटिक पौधे आते हैं, जो कोशिकीय संगठन में मोनेरा से अधिक जटिल हैं।",
+          "सही: व्हिटेकर के पाँच-जगत मॉडल में मोनेरा के प्रोकैरियोटों में झिल्ली-बद्ध केंद्रक नहीं होता, इसलिए उन्हें सबसे सरल कोशिकीय संगठन वाला समूह माना गया।",
+          "गलत: कवक यूकैरियोट हैं और उनकी कोशिकाओं में केंद्रक होता है।",
+          "गलत: जंतु बहुकोशिकीय यूकैरियोट हैं और जटिल ऊतक/अंग रखते हैं।"
+        ],
+        "en": [
+          "Incorrect. Plantae contains eukaryotic plants with more complex cellular organisation than Monera.",
+          "Correct. In Whittaker's five-kingdom model, Moneran prokaryotes lack a membrane-bound nucleus and were considered the simplest cellular group.",
+          "Incorrect. Fungi are eukaryotes with nuclei.",
+          "Incorrect. Animals are multicellular eukaryotes with complex tissues and organs."
+        ]
       }
     },
     {
@@ -3190,6 +3302,20 @@
       "explanation": {
         "hi": "यीस्ट एककोशिकीय कवक है — हरितलवक नहीं, काइटिन भित्ति, अवशोषण-पोषण; अतः फंजाई में।",
         "en": "Yeast is a unicellular fungus — no chlorophyll, chitin wall, absorptive feeding; hence Fungi."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: प्रोटिस्टा में अमीबा जैसे जीव आते हैं; यीस्ट कवक है।",
+          "गलत: यीस्ट पौधा नहीं; इसमें क्लोरोफिल नहीं होता और यह अवशोषण से पोषण लेता है।",
+          "सही: यीस्ट एककोशिकीय कवक है; इसकी कोशिका-भित्ति में काइटिन/ग्लूकान होते हैं और यह अवशोषण-पोषी है।",
+          "गलत: यीस्ट यूकैरियोट है, मोनेरा के प्रोकैरियोट जैसा नहीं।"
+        ],
+        "en": [
+          "Incorrect. Protista includes organisms such as Amoeba; yeast is a fungus.",
+          "Incorrect. Yeast is not a plant; it lacks chlorophyll and obtains nutrients by absorption.",
+          "Correct. Yeast is a unicellular fungus with a cell wall containing chitin/glucans and absorptive nutrition.",
+          "Incorrect. Yeast is eukaryotic, not a prokaryote in Monera."
+        ]
       }
     },
     {
@@ -3218,6 +3344,20 @@
       "explanation": {
         "hi": "प्रोकैरियोट/यूकैरियोट और स्वपोषी/परपोषी का संयोजन ही जगत-निर्धारण की रीढ़ है — बाकी लक्षण गौण हैं।",
         "en": "The prokaryote/eukaryote and autotroph/heterotroph combinations form the backbone of kingdom-assignment; other traits are secondary."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: गति की गति अकेले जगत तय करने का मुख्य आधार नहीं।",
+          "गलत: आकार अनेक जीवों में बदलता है और अकेले वर्गीकरण नहीं करता।",
+          "गलत: रंग अक्सर बदलता है और अकेले जगत निर्धारित नहीं करता।",
+          "सही: व्हिटेकर ने कोशिका-प्रकार, शरीर-संगठन और पोषण-विधि सहित कई लक्षणों को मिलाकर जगतों का वर्गीकरण किया।"
+        ],
+        "en": [
+          "Incorrect. Speed of movement alone is not the main basis for kingdom assignment.",
+          "Incorrect. Size varies widely and cannot classify kingdoms by itself.",
+          "Incorrect. Colour often varies and does not determine a kingdom by itself.",
+          "Correct. Whittaker combined several traits, including cell type, body organisation and mode of nutrition, to classify kingdoms."
+        ]
       }
     },
     {
