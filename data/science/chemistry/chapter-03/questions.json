@@ -23,8 +23,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "मिश्रण में दो या अधिक पदार्थ भौतिक रूप से साथ होते हैं और सामान्यतः अपने अलग-अलग गुण बनाए रखते हैं। नया पदार्थ बनना मिश्रण की परिभाषा नहीं है।",
+      "en": "A mixture contains two or more substances physically combined; the components generally retain their own properties. Formation of a new substance is not the defining feature of a mixture."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—मिश्रण में दो या अधिक पदार्थ भौतिक रूप से साथ होते हैं।",
+        "गलत—एक तत्व का शुद्ध रूप मिश्रण नहीं, शुद्ध पदार्थ है।",
+        "गलत—मिश्रण में यौगिकों के साथ तत्व भी हो सकते हैं; यह केवल एक यौगिक तक सीमित नहीं है।",
+        "गलत—मिश्रण में धातुएँ ही नहीं, द्रव, गैसें और अधातु भी हो सकते हैं।"
+      ],
+      "en": [
+        "Correct—two or more substances are physically combined in a mixture.",
+        "Incorrect—a pure element is a pure substance, not a mixture.",
+        "Incorrect—a mixture is not restricted to a single compound; it may contain different substances.",
+        "Incorrect—mixtures are not limited to metals; they can contain liquids, gases and non-metals."
+      ]
     }
   },
   {
@@ -51,8 +65,22 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "मिश्रण में पदार्थ भौतिक रूप से साथ रहते हैं; सामान्यतः उनके घटक अपने-अपने रासायनिक गुण बनाए रखते हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "मिश्रण के घटक सामान्यतः अपने गुण बनाए रखते हैं, इसलिए उन्हें आकार, घुलनशीलता, घनत्व या क्वथनांक जैसे भौतिक गुणों के अंतर से अलग किया जा सकता है।",
+      "en": "Mixture components generally retain their properties, so physical methods can separate them using differences such as particle size, solubility, density or boiling point."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—मिश्रण के घटकों को उपयुक्त भौतिक विधियों से अलग किया जा सकता है।",
+        "सही—घटकों के भौतिक गुणों के अंतर का उपयोग पृथक्करण में किया जाता है।",
+        "गलत—सामान्य पृथक्करण के लिए रासायनिक अभिक्रिया आवश्यक नहीं होती।",
+        "गलत—विद्युत अपघटन कुछ रासायनिक प्रक्रियाओं में उपयोग होता है; यह मिश्रण अलग करने की सामान्य विधि नहीं है।"
+      ],
+      "en": [
+        "Incorrect—mixture components can often be separated by suitable physical methods.",
+        "Correct—separation uses differences in the components' physical properties.",
+        "Incorrect—a chemical reaction is not generally required to separate a mixture.",
+        "Incorrect—electrolysis is used for certain chemical decompositions, not as the general method for separating mixtures."
+      ]
     }
   },
   {
@@ -79,8 +107,22 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "पानी वाष्प बनकर निकल जाता है, जबकि घुला हुआ नमक पीछे रह जाता है।",
-      "en": "Water evaporates as vapour while the dissolved salt remains behind."
+      "hi": "नमक पानी में घुला हुआ है, इसलिए साधारण निस्यंदन से नमक नहीं रुकेगा। पानी को वाष्पित करने पर नमक पीछे रह जाता है; पानी भी चाहिए तो आसवन बेहतर है।",
+      "en": "Salt is dissolved in water, so ordinary filtration will not retain it. Evaporating the water leaves the salt behind; distillation is preferable if the water must also be collected."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—चुंबक नमक को पानी से अलग नहीं करता, क्योंकि नमक सामान्य परिस्थितियों में चुंबकीय नहीं है।",
+        "गलत—अवसादन में अघुलनशील कण बैठते हैं; घुला हुआ नमक नहीं बैठता।",
+        "सही—पानी वाष्पित हो जाता है और नमक पीछे रह जाता है।",
+        "गलत—निस्यंदन अघुलनशील ठोस कण रोकता है, घुले हुए नमक को नहीं।"
+      ],
+      "en": [
+        "Incorrect—a magnet does not separate dissolved salt from water because salt is not ordinarily magnetic.",
+        "Incorrect—sedimentation settles suspended insoluble particles; dissolved salt remains in solution.",
+        "Correct—water evaporates and the dissolved salt remains behind.",
+        "Incorrect—filtration retains insoluble particles, not salt dissolved in water."
+      ]
     }
   },
   {
@@ -107,8 +149,22 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "रेत पानी में अघुलनशील रहती है। फिल्टर के छिद्र पानी को गुजरने देते हैं और रेत के कण रोकते हैं।",
+      "en": "Sand remains insoluble in water. The pores of a filter allow water through while retaining the sand particles."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—आसवन तब उपयोगी है जब वाष्प को संघनित करके द्रव भी एकत्र करना हो; इस मिश्रण के लिए निस्यंदन सरल है।",
+        "गलत—क्रोमैटोग्राफी घुले हुए घटकों, जैसे रंगों, को अलग करने में उपयोगी है।",
+        "गलत—उर्ध्वपातन उन ठोस पदार्थों के लिए है जो गर्म करने पर सीधे ठोस से गैस बनते हैं।",
+        "सही—निस्यंदन अघुलनशील रेत को पानी से अलग करता है।"
+      ],
+      "en": [
+        "Incorrect—distillation is useful when vapour is condensed to recover a liquid; filtration is simpler for this mixture.",
+        "Incorrect—chromatography is useful for separating dissolved components such as dyes.",
+        "Incorrect—sublimation applies to solids that pass directly into vapour on heating.",
+        "Correct—filtration separates insoluble sand from water."
+      ]
     }
   },
   {
@@ -135,8 +191,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "निस्यंदन में छिद्रयुक्त माध्यम, जैसे फिल्टर पेपर, द्रव को गुजरने देता है और पर्याप्त बड़े अघुलनशील कणों को रोकता है।",
+      "en": "Filtration uses a porous medium, such as filter paper, that lets the liquid pass while retaining sufficiently large insoluble particles."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—फिल्टर पेपर या अन्य छिद्रयुक्त माध्यम निस्यंदन में कणों को रोकता है।",
+        "गलत—चुंबक केवल चुंबकीय पदार्थों को आकर्षित करने के लिए उपयोगी है।",
+        "गलत—थर्मामीटर तापमान मापता है, मिश्रण को छानता नहीं।",
+        "गलत—ब्यूरेट द्रव की नियंत्रित मात्रा देने के लिए प्रयोगशाला में उपयोग होती है; यह फिल्टर नहीं है।"
+      ],
+      "en": [
+        "Correct—a filter paper or another porous medium retains particles during filtration.",
+        "Incorrect—a magnet is useful for attracting magnetic materials, not for ordinary filtration.",
+        "Incorrect—a thermometer measures temperature; it does not filter a mixture.",
+        "Incorrect—a burette delivers measured liquid volumes; it is not a filter."
+      ]
     }
   },
   {
@@ -163,8 +233,22 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "फिल्टर पर रुका हुआ अघुलनशील ठोस अवशेष कहलाता है। फिल्टर से होकर निकला द्रव निस्यंद कहलाता है।",
+      "en": "The insoluble solid retained on the filter is called the residue. The liquid that passes through is the filtrate."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—विलेय वह पदार्थ है जो किसी विलायक में घुलता है।",
+        "सही—फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—निस्यंद वह द्रव है जो फिल्टर से होकर निकलता है।",
+        "गलत—विलायक वह माध्यम है जिसमें विलेय घुलता है; यह फिल्टर पर रुके ठोस का नाम नहीं है।"
+      ],
+      "en": [
+        "Incorrect—a solute is the substance dissolved in a solvent.",
+        "Correct—the solid retained on the filter is the residue.",
+        "Incorrect—the filtrate is the liquid that passes through the filter.",
+        "Incorrect—the solvent is the medium in which a solute dissolves, not the retained solid."
+      ]
     }
   },
   {
@@ -191,8 +275,22 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "रेत पानी में अघुलनशील है; फिल्टर पानी को गुजरने देता है, लेकिन रेत के कण रोकता है।",
-      "en": "Sand is insoluble in water; the filter lets water pass while retaining sand particles."
+      "hi": "फिल्टर से होकर निकलने वाला द्रव निस्यंद कहलाता है, जबकि फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+      "en": "The liquid that passes through the filter is called the filtrate, while the solid retained on the filter is the residue."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—विलेय घुला हुआ पदार्थ है, फिल्टर से निकलने वाले द्रव का नाम नहीं।",
+        "गलत—तलछट वह पदार्थ है जो द्रव में नीचे बैठ जाता है।",
+        "सही—फिल्टर से होकर गुजरने वाला द्रव निस्यंद कहलाता है।",
+        "गलत—अवशेष फिल्टर पर रुका ठोस होता है।"
+      ],
+      "en": [
+        "Incorrect—a solute is the dissolved substance, not the name for the liquid passing through a filter.",
+        "Incorrect—sediment is material that settles at the bottom of a liquid.",
+        "Correct—the liquid passing through the filter is the filtrate.",
+        "Incorrect—the residue is the solid retained on the filter."
+      ]
     }
   },
   {
@@ -219,8 +317,22 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "अमिश्रणीय द्रव अलग परतें बनाते हैं; पृथक्करण कीप से निचली, अधिक घनी परत पहले निकाली जा सकती है।",
-      "en": "Immiscible liquids form separate layers; a separating funnel drains the denser lower layer first."
+      "hi": "तेल और पानी आपस में नहीं मिलते और अलग परतें बनाते हैं। पृथक्करण कीप से अधिक घनत्व वाली निचली परत को पहले निकाला जा सकता है।",
+      "en": "Oil and water are immiscible and form separate layers. A separating funnel allows the denser lower layer to be drained first."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—फिल्टर पेपर तेल और पानी की अलग परतों को इस तरह नियंत्रित ढंग से अलग करने का उपयुक्त उपकरण नहीं है।",
+        "गलत—क्रूसिबल पदार्थों को तेज गर्म करने के लिए उपयोग होता है।",
+        "गलत—घड़ी कांच छोटे नमूने रखने या वाष्पीकरण में सहायक है, परतों को निकालने का उपकरण नहीं।",
+        "सही—पृथक्करण कीप अमिश्रणीय द्रवों की परतों को अलग करने में उपयोगी है।"
+      ],
+      "en": [
+        "Incorrect—filter paper is not the suitable apparatus for controlled separation of two liquid layers.",
+        "Incorrect—a crucible is used to heat substances strongly.",
+        "Incorrect—a watch glass can hold small samples or aid evaporation, but it does not drain liquid layers.",
+        "Correct—a separating funnel is designed to separate layers of immiscible liquids."
+      ]
     }
   },
   {
@@ -247,8 +359,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “दो मिश्रणीय द्रवों के क्वथनांक अलग हों तो उन्हें किस विधि से अलग किया जा सकता है” है। “आसवन” उस संकेत से मेल खाता है; “निस्यंदन और अवसादन” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “If two miscible liquids have different boiling points, which method can separate them.” “Distillation” matches that clue; “Filtration and Sedimentation” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "दो मिश्रणीय द्रवों को उनके क्वथनांक या वाष्पशीलता के अंतर के आधार पर आसवन से अलग किया जा सकता है। क्वथनांक बहुत पास हों तो अंश आसवन अधिक उपयुक्त हो सकता है।",
+      "en": "Miscible liquids can be separated by distillation using differences in boiling point or volatility. If their boiling points are close, fractional distillation may be more suitable."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—आसवन में वाष्प बनाकर और फिर संघनित करके द्रव घटक अलग किए जाते हैं।",
+        "गलत—निस्यंदन अघुलनशील ठोस और द्रव को अलग करता है, मिश्रणीय द्रवों को नहीं।",
+        "गलत—अवसादन उन कणों के बैठने पर निर्भर करता है जो द्रव में निलंबित हों।",
+        "गलत—चुंबकीय पृथक्करण चुंबकीय गुणों के अंतर पर निर्भर करता है, क्वथनांक पर नहीं।"
+      ],
+      "en": [
+        "Correct—distillation separates liquid components by vaporising and then condensing them.",
+        "Incorrect—filtration separates an insoluble solid from a liquid, not two miscible liquids.",
+        "Incorrect—sedimentation relies on suspended particles settling out of a liquid.",
+        "Incorrect—magnetic separation relies on magnetic properties, not boiling-point differences."
+      ]
     }
   },
   {
@@ -275,8 +401,22 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "आसवन में द्रव को वाष्पित करके फिर संघनित किया जाता है; पृथक्करण वाष्पशीलता और क्वथन व्यवहार पर निर्भर करता है।",
-      "en": "Distillation vaporises a liquid and condenses the vapour; separation depends on volatility and boiling behaviour."
+      "hi": "आसवन में मिश्रण के किसी द्रव घटक को वाष्पित करके वाष्प को ठंडा कर संघनित किया जाता है। इसलिए क्वथनांक और वाष्पशीलता का अंतर महत्वपूर्ण है।",
+      "en": "In distillation, a liquid component is vaporised and the vapour is cooled to condense it. Differences in boiling point and volatility are therefore important."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—चुंबकीयता आसवन का आधार नहीं है।",
+        "सही—क्वथनांक और वाष्पशीलता का अंतर यह निर्धारित करने में मदद करता है कि कौन-सा घटक पहले वाष्पित होगा।",
+        "गलत—रंग में अंतर होना आसवन के लिए आवश्यक नहीं है।",
+        "गलत—कणों का आकार आसवन में मुख्य पृथक्करण आधार नहीं है।"
+      ],
+      "en": [
+        "Incorrect—magnetism is not the basis of distillation.",
+        "Correct—boiling point and volatility help determine which component vaporises more readily.",
+        "Incorrect—a colour difference is not required for distillation.",
+        "Incorrect—particle size is not the main basis for separation by distillation."
+      ]
     }
   },
   {
