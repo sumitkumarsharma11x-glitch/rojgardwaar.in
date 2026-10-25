@@ -5064,8 +5064,22 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "दो जनकों के जीन मिलने के अनगिनत संयोजन और डीएनए कॉपी में आने वाली सूक्ष्म गलतियाँ — दोनों विविधता के स्रोत हैं।",
-        "en": "Countless combinations of two parents' genes and tiny DNA-copying slips — both feed variation."
+        "hi": "लैंगिक जनन में अलग-अलग जनकों के एलीलों के नए संयोजन बनते हैं; DNA प्रतिकृति के दौरान उत्परिवर्तन भी विविधता ला सकते हैं। अलैंगिक जनन में भी उत्परिवर्तन से भिन्नता हो सकती है।",
+        "en": "Sexual reproduction creates new combinations of alleles from different parents; mutations during DNA replication can also create variation. Mutations can cause variation in asexual reproduction too."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: लैंगिक जनन में जीन-संयोजन और DNA प्रतिकृति में उत्परिवर्तन दोनों विविधता के स्रोत हैं।",
+          "गलत: व्यायाम से शरीर में अर्जित बदलाव अपने-आप वंशागत DNA परिवर्तन नहीं बन जाते।",
+          "गलत: जलवायु चयन-दबाव डाल सकती है, लेकिन अकेले वही हर नई संतति में आनुवंशिक विविधता नहीं बनाती।",
+          "गलत: भोजन शरीर के विकास को प्रभावित कर सकता है, लेकिन अकेले भोजन आनुवंशिक विविधता का मुख्य स्रोत नहीं।"
+        ],
+        "en": [
+          "Correct. Sexual gene combinations and mutations during DNA replication are both sources of variation.",
+          "Incorrect. Exercise-acquired changes do not automatically become inherited DNA changes.",
+          "Incorrect. Climate can create selection pressures, but it does not by itself create genetic variation in every offspring.",
+          "Incorrect. Food can affect development, but food alone is not the main source of genetic variation."
+        ]
       }
     },
     {
@@ -5094,6 +5108,20 @@
       "explanation": {
         "hi": "यदि पर्यावरण में प्रतिकूल बदलाव आए तो विविध लक्षणों वाली आबादी में से कुछ जीव उसे झेल लेते हैं — जाति बची रहती है।",
         "en": "Should the environment turn hostile, some members of a varied population withstand it — the species persists."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: विविधता सभी जीवों को समान नहीं बनाती; यह व्यक्तियों के बीच अंतर है।",
+          "सही: बदलते पर्यावरण में अलग-अलग लक्षणों वाले कुछ जीव बेहतर जीवित रह सकते हैं और प्रजनन कर सकते हैं, जिससे आबादी को लाभ होता है।",
+          "गलत: विविधता प्रजनन को अनिवार्य रूप से नहीं रोकती; यह आबादी में प्राकृतिक अंतर है।",
+          "गलत: विविधता प्राकृतिक चयन और आबादी के अनुकूलन की क्षमता में महत्वपूर्ण भूमिका निभाती है।"
+        ],
+        "en": [
+          "Incorrect. Variation does not make all organisms identical; it means differences among individuals.",
+          "Correct. In a changing environment, some individuals with particular traits may survive and reproduce better, benefiting the population.",
+          "Incorrect. Variation does not inherently stop reproduction; it is natural difference within a population.",
+          "Incorrect. Variation is important to natural selection and a population's ability to adapt over generations."
+        ]
       }
     },
     {
@@ -5101,8 +5129,8 @@
       "topic": "heredity-variation",
       "difficulty": "easy",
       "question": {
-        "hi": "मानव नर (पुरुष) के लिंग-गुणसूत्र कौन-से होते हैं?",
-        "en": "Which are the sex chromosomes of a human male?"
+        "hi": "सामान्य मानव XX/XY गुणसूत्र पैटर्न में, अधिकांश पुरुषों का लिंग-गुणसूत्र संयोजन क्या होता है?",
+        "en": "In the typical human XX/XY chromosome pattern, what sex-chromosome combination do most males have?"
       },
       "options": {
         "hi": [
@@ -5120,8 +5148,22 @@
       },
       "correct": 2,
       "explanation": {
-        "hi": "पुरुष में एक X और एक Y गुणसूत्र होता है; स्त्री में दोनों X होते हैं।",
-        "en": "A male has one X and one Y chromosome; a female has two X chromosomes."
+        "hi": "सामान्य XX/XY पैटर्न में अधिकांश पुरुषों की कोशिकाओं में XY होता है और अधिकांश महिलाओं की कोशिकाओं में XX। लिंग-विकास में गुणसूत्रीय और जैविक विविधताएँ भी होती हैं।",
+        "en": "In the typical XX/XY pattern, most males have XY and most females have XX. Chromosomal and biological variations in sex development also exist."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: XO कुछ sex-chromosome variations में मिलता है, सामान्य पुरुष पैटर्न नहीं।",
+          "गलत: XX सामान्यतः महिला पैटर्न है, हालांकि विविधताएँ मौजूद हैं।",
+          "सही: सामान्य XX/XY पैटर्न में अधिकांश पुरुषों में XY होता है।",
+          "गलत: YY सामान्य मानव पैटर्न नहीं है।"
+        ],
+        "en": [
+          "Incorrect. XO occurs in some sex-chromosome variations, not the typical male pattern.",
+          "Incorrect. XX is the typical female pattern, though variations exist.",
+          "Correct. In the typical XX/XY pattern, most males have XY.",
+          "Incorrect. YY is not a typical human chromosome pattern."
+        ]
       }
     },
     {
@@ -5129,8 +5171,8 @@
       "topic": "heredity-variation",
       "difficulty": "easy",
       "question": {
-        "hi": "मानव मादा (स्त्री) के लिंग-गुणसूत्र कौन-से होते हैं?",
-        "en": "Which are the sex chromosomes of a human female?"
+        "hi": "सामान्य मानव XX/XY गुणसूत्र पैटर्न में, अधिकांश महिलाओं का लिंग-गुणसूत्र संयोजन क्या होता है?",
+        "en": "In the typical human XX/XY chromosome pattern, what sex-chromosome combination do most females have?"
       },
       "options": {
         "hi": [
@@ -5148,8 +5190,22 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "स्त्री में दोनों लिंग-गुणसूत्र X होते हैं — इसीलिए अंडे में सदैव X ही जाता है।",
-        "en": "Both sex chromosomes of a female are X — hence her egg always carries an X."
+        "hi": "सामान्य XX/XY पैटर्न में अधिकांश महिलाओं की कोशिकाओं में XX होता है और अधिकांश पुरुषों की कोशिकाओं में XY। यह सामान्य पैटर्न है; जैविक विविधताएँ भी होती हैं।",
+        "en": "In the typical XX/XY pattern, most females have XX and most males have XY. This is the typical pattern; biological variations also exist."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: YY सामान्य मानव गुणसूत्र संयोजन नहीं है।",
+          "गलत: XYY कुछ sex-chromosome variations में हो सकता है, सामान्य महिला पैटर्न नहीं।",
+          "गलत: XY सामान्य पुरुष पैटर्न है, सामान्य महिला पैटर्न नहीं।",
+          "सही: सामान्य XX/XY पैटर्न में अधिकांश महिलाओं का संयोजन XX होता है।"
+        ],
+        "en": [
+          "Incorrect. YY is not a typical human chromosome combination.",
+          "Incorrect. XYY can occur as a sex-chromosome variation, not the typical female pattern.",
+          "Incorrect. XY is the typical male pattern, not the typical female pattern.",
+          "Correct. In the typical XX/XY pattern, most females have XX."
+        ]
       }
     },
     {
@@ -5157,27 +5213,41 @@
       "topic": "heredity-variation",
       "difficulty": "hard",
       "question": {
-        "hi": "संतान का लिंग निर्धारण में वास्तव में किसके शुक्राणु पर निर्भर करता है?",
-        "en": "The sex of the child in fact depends on whose gamete?"
+        "hi": "सामान्य XX/XY मॉडल में, निषेचन के समय X या Y गुणसूत्र कौन-सा युग्मक दे सकता है?",
+        "en": "In the typical XX/XY model, which gamete can contribute either an X or a Y chromosome at fertilisation?"
       },
       "options": {
         "hi": [
-          "पिता के शुक्राणु पर (X या Y वहन करने पर)",
-          "दोनों पर समान रूप से",
-          "निर्भर नहीं करता",
-          "माता के अंडे पर"
+          "शुक्राणु",
+          "अंडाणु",
+          "दोनों युग्मक हमेशा Y देते हैं",
+          "कोई भी युग्मक गुणसूत्र नहीं देता"
         ],
         "en": [
-          "The father's sperm (carrying either X or Y)",
-          "Equally on both",
-          "It depends on neither",
-          "The mother's egg"
+          "Sperm",
+          "Egg",
+          "Both gametes always contribute Y",
+          "Neither gamete contributes a chromosome"
         ]
       },
       "correct": 0,
       "explanation": {
-        "hi": "माता का अंडा तो सदैव X देता है; पिता का शुक्राणु X दे तो कन्या (XX), Y दे तो पुत्र (XY) — अतः निर्णायक पिता है।",
-        "en": "The mother's egg always gives an X; the father's sperm gives X for a girl (XX) or Y for a boy (XY) — the father is decisive."
+        "hi": "सामान्य XX/XY पैटर्न में अंडाणु X देता है और शुक्राणु X या Y दे सकता है। यह गुणसूत्र संयोजन का सामान्य मॉडल है; किसी बच्चे के लिंग के लिए किसी व्यक्ति को दोष देना वैज्ञानिक या उचित नहीं है।",
+        "en": "In the typical XX/XY pattern, the egg contributes X and sperm can contribute X or Y. This describes the usual chromosomal model; blaming any person for a child's sex is neither scientific nor appropriate."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: सामान्य मॉडल में शुक्राणु X या Y दे सकता है; अंडाणु सामान्यतः X देता है।",
+          "गलत: सामान्य XX/XY मॉडल में अंडाणु X देता है, Y नहीं।",
+          "गलत: दोनों युग्मक हमेशा Y नहीं देते; अंडाणु सामान्यतः X देता है।",
+          "गलत: दोनों युग्मक गुणसूत्र और आनुवंशिक सामग्री देते हैं।"
+        ],
+        "en": [
+          "Correct. In the typical model, sperm can carry X or Y; the egg usually carries X.",
+          "Incorrect. In the typical XX/XY model, the egg carries X, not Y.",
+          "Incorrect. Both gametes do not always carry Y; the egg usually carries X.",
+          "Incorrect. Both gametes contribute chromosomes and genetic material."
+        ]
       }
     },
     {
@@ -5185,8 +5255,8 @@
       "topic": "heredity-variation",
       "difficulty": "medium",
       "question": {
-        "hi": "मानव में पुत्र या पुत्री होने की प्रायिकता कितनी होती है?",
-        "en": "What is the probability of a human child being a boy or a girl?"
+        "hi": "सरल XX/XY मॉडल में, पुत्र या पुत्री होने की संभावना को सामान्यतः कैसे समझाया जाता है?",
+        "en": "In the simplified XX/XY model, how is the chance of a boy or girl usually explained?"
       },
       "options": {
         "hi": [
@@ -5204,8 +5274,22 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "X-शुक्राणु और Y-शुक्राणु बनने की संख्या बराबर होती है, इसलिए दोनों लिंग की संभावना समान 50% रहती है।",
-        "en": "X-bearing and Y-bearing sperms form in equal numbers, so each sex has an equal 50% chance."
+        "hi": "सरल मॉडल में X और Y वाले शुक्राणु से लगभग समान संभावना मानी जाती है, इसलिए हर गर्भधारण में दोनों परिणामों की संभावना लगभग आधी-आधी बताई जाती है। वास्तविक जन्मों में अनुपात बिल्कुल 50:50 नहीं होता और थोड़ा बदल सकता है।",
+        "en": "In the simplified model, X-bearing and Y-bearing sperm are treated as having roughly equal chances, so each outcome is described as about one-half per conception. Actual birth ratios are not exactly 50:50 and can vary slightly."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: 75% और 25% का अनुपात सरल XX/XY मॉडल से नहीं निकलता।",
+          "सही: सरल मॉडल में दोनों परिणामों की संभावना लगभग 50%–50% समझाई जाती है, हालांकि वास्तविक जन्म-अनुपात बिल्कुल बराबर नहीं होता।",
+          "गलत: 75% पुत्री और 25% पुत्र का अनुपात मानक मॉडल नहीं।",
+          "गलत: कोई निश्चित बारी-बारी क्रम नहीं चलता; प्रत्येक गर्भधारण स्वतंत्र घटना है।"
+        ],
+        "en": [
+          "Incorrect. A 75%/25% ratio does not follow from the simplified XX/XY model.",
+          "Correct. The simplified model treats both outcomes as roughly 50% each, although actual birth ratios are not exactly equal.",
+          "Incorrect. A 75% girl/25% boy ratio is not the standard model.",
+          "Incorrect. Outcomes do not alternate in a fixed sequence; each conception is an independent event."
+        ]
       }
     },
     {
@@ -5234,6 +5318,20 @@
       "explanation": {
         "hi": "स्त्री का लिंग-युग्म XX है, अतः हर अंडे में X ही जाता है; Y तो केवल शुक्राणु से आ सकता है।",
         "en": "A female's pair is XX, so every egg carries an X; a Y can only come from the sperm."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: सामान्य XX पैटर्न में अंडाणु एक X गुणसूत्र देता है; 'कोई नहीं' सही नहीं।",
+          "गलत: सामान्य XX/XY पैटर्न में अंडाणु Y नहीं देता।",
+          "सही: सामान्य XX पैटर्न में अंडाणु में X गुणसूत्र होता है।",
+          "गलत: सामान्य XX पैटर्न में अंडाणु X या Y में से बदल-बदलकर नहीं देता; X ही देता है।"
+        ],
+        "en": [
+          "Incorrect. In the typical XX pattern, an egg contributes one X chromosome; it does not contribute none.",
+          "Incorrect. In the typical XX/XY pattern, an egg does not contribute Y.",
+          "Correct. In the typical XX pattern, an egg carries an X chromosome.",
+          "Incorrect. In the typical XX pattern, the egg does not alternate between X and Y; it carries X."
+        ]
       }
     },
     {
@@ -5260,8 +5358,22 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "शुक्राणु (X/Y) और अंडे (X) के मिलने पर ही युग्म तय हो जाता है — लिंग निषेचन के क्षण निर्धारित है।",
-        "en": "The pairing of sperm (X/Y) with the egg (X) settles the combo — sex is fixed at the moment of fertilisation."
+        "hi": "सामान्य XX/XY मॉडल में निषेचन के समय शुक्राणु का X या Y गुणसूत्र अंडाणु के X से मिलकर गुणसूत्र संयोजन बनाता है। जैविक लैंगिक विकास में अन्य गुणसूत्रीय/हार्मोनल विविधताएँ भी हो सकती हैं।",
+        "en": "In the typical XX/XY model, the sperm's X or Y chromosome combines with the egg's X at fertilisation. Other chromosomal and hormonal variations in sex development also occur."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: भोजन का प्रकार निषेचन के बाद गुणसूत्र संयोजन तय नहीं करता।",
+          "गलत: जन्म के समय लक्षण दिखाई दे सकते हैं, लेकिन सामान्य गुणसूत्र संयोजन निषेचन के समय बनता है।",
+          "गलत: पाँचवें माह में विकास जारी रहता है, लेकिन सामान्य गुणसूत्र संयोजन पहले ही बन चुका होता है।",
+          "सही: सामान्य XX/XY मॉडल में शुक्राणु और अंडाणु के मिलने पर गुणसूत्र संयोजन बनता है।"
+        ],
+        "en": [
+          "Incorrect. Food type does not determine the chromosome combination after fertilisation.",
+          "Incorrect. Some traits are observed at birth, but the typical chromosome combination is established at fertilisation.",
+          "Incorrect. Development continues in the fifth month, but the typical chromosome combination was already established.",
+          "Correct. In the typical XX/XY model, the chromosome combination is formed when sperm and egg unite."
+        ]
       }
     },
     {
@@ -5288,8 +5400,22 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "जीवनकाल में अर्जित (acquired) परिवर्तन जनन कोशिकाओं के डीएनए में नहीं लिखे जाते; केवल जन्यु लक्षण ही संतान को मिलते हैं।",
-        "en": "Changes acquired during a lifetime are not written into the DNA of germ cells; only inherited traits reach offspring."
+        "hi": "तैरने के अभ्यास से मांसपेशियाँ मजबूत हो सकती हैं, लेकिन यह अर्जित बदलाव सामान्यतः जनन कोशिकाओं के DNA में वंशागत निर्देश के रूप में नहीं जुड़ता। संतति को जीन मिलते हैं; कौशल का सीधा हस्तांतरण नहीं होता।",
+        "en": "Swimming practice can strengthen muscles, but this acquired change generally does not become an inherited instruction in the DNA of germ cells. Offspring inherit genes, not the skill itself."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: अभ्यास से बढ़ी मांसपेशियाँ सामान्यतः जनन कोशिकाओं के DNA को उस तरह नहीं बदलतीं कि वही अर्जित मांसपेशी-सामर्थ्य संतति को विरासत में मिले।",
+          "गलत: बाँहों का विकास जीन और वातावरण दोनों से प्रभावित होता है; जीन की भूमिका होती है।",
+          "गलत: तैरना निषेध नहीं; यह उदाहरण अर्जित बनाम वंशागत लक्षण का अंतर बताता है।",
+          "गलत: जीन सामान्यतः जन्म के बाद इस तरह नहीं बदलते कि अर्जित कौशल विरासत बन जाए।"
+        ],
+        "en": [
+          "Correct. Training-acquired muscle changes generally do not alter germ-cell DNA so that the same acquired muscle strength is inherited.",
+          "Incorrect. Arm development is influenced by both genes and environment; genes do play a role.",
+          "Incorrect. Swimming is not forbidden; it illustrates acquired versus inherited traits.",
+          "Incorrect. Genes do not normally change after birth in a way that makes an acquired skill inheritable."
+        ]
       }
     },
     {
@@ -5297,27 +5423,41 @@
       "topic": "heredity-variation",
       "difficulty": "medium",
       "question": {
-        "hi": "निम्न में से कौन-सा मानवीय लक्षण जन्यु (inherited) है, अर्जित नहीं?",
-        "en": "Which of the following human traits is inherited, not acquired?"
+        "hi": "निम्न में से कौन-सा लक्षण सामान्यतः वंशागत होता है, केवल अभ्यास से अर्जित नहीं?",
+        "en": "Which of these traits is generally inherited rather than acquired solely through practice?"
       },
       "options": {
         "hi": [
-          "मोटी हो गई बाहें",
-          "कान की पतली निचली पत्ती (free earlobe)",
+          "व्यायाम से मोटी हुई बाँहें",
+          "ABO रक्त-समूह",
           "तेज चलने की आदत",
-          "साइकिल चलाना"
+          "साइकिल चलाने का कौशल"
         ],
         "en": [
-          "Thickened arms",
-          "Free earlobe",
+          "Arms thickened through exercise",
+          "ABO blood group",
           "The habit of walking fast",
-          "Cycling"
+          "Cycling skill"
         ]
       },
       "correct": 1,
       "explanation": {
-        "hi": "कान-पत्ती का जुड़ा होना या मुक्त होना जीनों से तय होता है; साइकिल चलाने जैसे गुण अनुभव से अर्जित होते हैं।",
-        "en": "Whether the earlobe is attached or free is gene-decided; skills like cycling are acquired by experience."
+        "hi": "ABO रक्त-समूह माता-पिता से मिले एलीलों से निर्धारित होता है। व्यायाम से बढ़ी मांसपेशियाँ, चलने की आदत और साइकिल चलाने का कौशल जीवनकाल में अर्जित होते हैं।",
+        "en": "ABO blood group is determined by alleles inherited from parents. Exercise-built muscles, walking habits and cycling skill are acquired during life."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: व्यायाम से बढ़ी मांसपेशियाँ जीवनकाल में अर्जित बदलाव हैं; वे सीधे उसी रूप में संतति को नहीं मिलतीं।",
+          "सही: ABO रक्त-समूह वंशागत एलीलों से निर्धारित होता है।",
+          "गलत: तेज चलने की आदत अभ्यास और व्यवहार से बनती है।",
+          "गलत: साइकिल चलाना सीखा हुआ कौशल है, सीधे वंशागत लक्षण नहीं।"
+        ],
+        "en": [
+          "Incorrect. Muscle thickening from exercise is an acquired change and is not passed directly to offspring in that form.",
+          "Correct. ABO blood group is determined by inherited alleles.",
+          "Incorrect. Walking fast as a habit develops through behaviour and practice.",
+          "Incorrect. Cycling is a learned skill, not a directly inherited trait."
+        ]
       }
     },
     {
