@@ -57,3 +57,14 @@ The GitHub connector returned no workflow runs and no combined status entries fo
 - Final policy-page and AdSense readiness review.
 
 Do not describe the full bank as “scientifically verified” or “AdSense-ready” until evidence for every gate has been recorded. AdSense approval itself cannot be guaranteed.
+
+
+## Additional repository sitemap/robots verification
+Parsed the repository branch's `sitemap.xml` as text:
+- 15 `<loc>` URLs found and 15 `<lastmod>` fields.
+- No duplicate URLs detected.
+- No Science URLs included (appropriate while the Science content is still under review).
+- All `lastmod` values match the expected `YYYY-MM-DD` format.
+- `robots.txt` contains `User-agent: *`, `Allow: /`, and the sitemap URL.
+
+This is a repository-file structural check only. It does not verify that the live server returns these exact files, that all 15 URLs return HTTP 200, or that every sitemap URL has a matching canonical tag.
