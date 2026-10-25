@@ -68,3 +68,13 @@ Parsed the repository branch's `sitemap.xml` as text:
 - `robots.txt` contains `User-agent: *`, `Allow: /`, and the sitemap URL.
 
 This is a repository-file structural check only. It does not verify that the live server returns these exact files, that all 15 URLs return HTTP 200, or that every sitemap URL has a matching canonical tag.
+
+
+## Additional question-level improvement batch — Biology guide 1, questions 211–220
+Updated `data/science/biology/chapter-01/questions.json`:
+- Rewrote the four option explanations in Hindi and English for `ch1_q211` through `ch1_q220`, replacing vague boilerplate with option-specific tissue concepts.
+- Clarified `ch1_q219` stem and options to ask directly which tissue covers body surfaces and lines cavities, removing an ambiguous option (“none of the above”) that did not fit the original wording.
+- Preserved/rechecked answer indices and bilingual stems.
+- Re-fetched the edited file and parsed JSON. All 10 target questions have four non-empty Hindi and four non-empty English option explanations; correct indices remain in the 0–3 range.
+
+This is a verified batch of 10 questions, not a claim that the other questions in the 150-question guide or the full 5,750-question bank are fully reviewed.
