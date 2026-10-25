@@ -4225,6 +4225,20 @@
     "explanation": {
       "hi": "बीज वायु, जल और जंतुओं द्वारा प्रकीर्णित होते हैं।",
       "en": "Seeds are dispersed by wind, water and animals."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही। बीज वायु, जल और जंतुओं जैसे अलग-अलग माध्यमों से मूल पौधे से दूर पहुँच सकते हैं; इससे प्रतिस्पर्धा कम हो सकती है।",
+        "गलत: कुछ बीज वायु से फैलते हैं, लेकिन सभी बीज केवल वायु से नहीं फैलते।",
+        "गलत: ध्वनि बीज प्रकीर्णन का सामान्य माध्यम नहीं है।",
+        "गलत: प्रकाश अकेले बीजों को सामान्यतः एक स्थान से दूसरे स्थान तक नहीं पहुँचाता।"
+      ],
+      "en": [
+        "Correct. Seeds can be dispersed away from the parent by agents such as wind, water and animals, which can reduce competition.",
+        "Incorrect. Some seeds are wind-dispersed, but not all seeds rely only on wind.",
+        "Incorrect. Sound is not a usual seed-dispersal agent.",
+        "Incorrect. Light alone does not normally transport seeds from place to place."
+      ]
     }
   },
   {
@@ -4253,6 +4267,20 @@
     "explanation": {
       "hi": "जल, वायु और उपयुक्त तापमान मिलने पर बीज अंकुरित होता है।",
       "en": "A seed germinates when it gets water, air and suitable temperature."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: मिट्टी का रंग बीज अंकुरण की सार्वभौमिक आवश्यक शर्त नहीं है।",
+        "सही। अधिकांश बीजों को अंकुरण शुरू करने के लिए जल, ऑक्सीजन/वायु और उपयुक्त तापमान चाहिए; प्रकाश की आवश्यकता प्रजाति के अनुसार बदल सकती है।",
+        "गलत: सभी बीजों को अंकुरण के लिए प्रकाश आवश्यक नहीं; कई बीज अंधेरे में भी अंकुरित होते हैं।",
+        "गलत: ध्वनि बीज अंकुरण की सामान्य आवश्यक शर्त नहीं है।"
+      ],
+      "en": [
+        "Incorrect. Soil colour is not a universal requirement for seed germination.",
+        "Correct. Most seeds need water, oxygen/air and a suitable temperature to begin germination; light requirements vary by species.",
+        "Incorrect. Light is not required by every seed; many seeds germinate in darkness.",
+        "Incorrect. Sound is not a general requirement for seed germination."
+      ]
     }
   },
   {
@@ -4281,6 +4309,20 @@
     "explanation": {
       "hi": "पी. माहेश्वरी को 'भारतीय भ्रूण विज्ञान के जनक' के रूप में जाना जाता है।",
       "en": "P. Maheshwari is known as the 'Father of Indian Embryology'."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: रॉबर्ट हुक ने कोशिकाओं के वर्णन में ऐतिहासिक योगदान दिया; यह उपाधि उनसे संबंधित नहीं।",
+        "गलत: मेंडल आनुवंशिकी के नियमों से जुड़े हैं।",
+        "सही: पी. माहेश्वरी भारतीय वनस्पति भ्रूणविज्ञान के विकास में अग्रणी थे और उन्हें इस उपाधि से जाना जाता है।",
+        "गलत: पाश्चर सूक्ष्मजीव विज्ञान और किण्वन आदि के कार्यों के लिए प्रसिद्ध हैं।"
+      ],
+      "en": [
+        "Incorrect. Robert Hooke made an important historical contribution to describing cells, but this title is not associated with him.",
+        "Incorrect. Mendel is known for foundational work in genetics.",
+        "Correct. P. Maheshwari was a pioneer in Indian plant embryology and is known by this title.",
+        "Incorrect. Pasteur is known for work involving microbiology and fermentation, among other contributions."
+      ]
     }
   },
   {
@@ -4309,6 +4351,20 @@
     "explanation": {
       "hi": "कृत्रिम संकरण में स्व-परागण रोकने के लिए पहले पुंकेसर हटाए जाते हैं।",
       "en": "In artificial hybridisation, stamens are removed first to prevent self-pollination."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: पानी देना पौधों की देखभाल का भाग है, पर कृत्रिम संकरण का पहला विशिष्ट कदम नहीं।",
+        "गलत: फल तोड़ना संकरण के लिए परागण नियंत्रित करने का कदम नहीं।",
+        "गलत: जड़ काटना कृत्रिम संकरण की मानक प्रक्रिया नहीं है।",
+        "सही, चुने गए मादा पुष्प के द्विलिंगी होने पर: परागण से पहले पुंकेसर हटाकर स्व-परागण रोका जाता है; फिर इच्छित पराग लगाया जाता है।"
+      ],
+      "en": [
+        "Incorrect. Watering is plant care, not the defining first step of controlled hybridisation.",
+        "Incorrect. Plucking fruit does not control pollination for hybridisation.",
+        "Incorrect. Cutting roots is not the standard procedure for artificial hybridisation.",
+        "Correct when the selected female parent flower is bisexual: stamens are removed before pollen release to prevent self-pollination, then desired pollen is applied."
+      ]
     }
   },
   {
@@ -4337,6 +4393,20 @@
     "explanation": {
       "hi": "परागण परागकणों का स्थानांतरण है, जबकि निषेचन नर और मादा युग्मकों का संलयन है।",
       "en": "Pollination is the transfer of pollen, while fertilisation is the fusion of gametes."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही। परागण परागकण का परागकोश से वर्तिकाग्र तक पहुँचना है; निषेचन नर और मादा युग्मकों का संलयन है।",
+        "गलत: परागण और निषेचन संबंधित लेकिन अलग प्रक्रियाएँ हैं; परागण निषेचन से पहले हो सकता है।",
+        "गलत: परागण केवल जल में नहीं; हवा, कीट, पक्षी और अन्य माध्यम भी पराग पहुँचा सकते हैं।",
+        "गलत: निषेचन केवल वायु में नहीं होता; यह पुष्प के भीतर युग्मकों के संलयन की प्रक्रिया है।"
+      ],
+      "en": [
+        "Correct. Pollination transfers pollen from anther to stigma; fertilisation is the fusion of male and female gametes.",
+        "Incorrect. Pollination and fertilisation are related but distinct; pollination can precede fertilisation.",
+        "Incorrect. Pollination does not occur only in water; wind, insects, birds and other agents can transfer pollen.",
+        "Incorrect. Fertilisation does not occur only in air; it is gamete fusion within the reproductive process."
+      ]
     }
   },
   {
@@ -4365,6 +4435,20 @@
     "explanation": {
       "hi": "परागण परागकोश से परागकणों का वर्तिकाग्र तक पहुँचना है; यह निषेचन से पहले की प्रक्रिया है।",
       "en": "Maize is mainly wind-pollinated: wind carries pollen from the anthers to the receptive silks (stigmas) of the female flowers."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: मक्का सामान्यतः पक्षियों द्वारा परागित नहीं होता; उसका पराग हल्का होता है और हवा से फैलता है।",
+        "सही: मक्का वायु-परागित है; हवा परागकोश से पराग को मादा पुष्प के रेशमी वर्तिकाग्रों (silks) तक पहुँचा सकती है।",
+        "गलत: मक्का में सामान्यतः जल परागण नहीं होता।",
+        "गलत: कीट कुछ फसलों में परागण करते हैं, लेकिन मक्का मुख्यतः वायु द्वारा परागित होता है।"
+      ],
+      "en": [
+        "Incorrect. Maize is not generally bird-pollinated; its pollen is carried by wind.",
+        "Correct. Maize is wind-pollinated; wind can carry pollen to the silks (stigmas) of female flowers.",
+        "Incorrect. Water pollination is not typical for maize.",
+        "Incorrect. Insects pollinate many crops, but maize is mainly wind-pollinated."
+      ]
     }
   },
   {
@@ -4372,8 +4456,8 @@
     "topic": "sexual-reproduction-plants",
     "difficulty": "hard",
     "question": {
-      "hi": "पपीते में प्रायः किस प्रकार का परागण होता है?",
-      "en": "Which type of pollination usually occurs in papaya?"
+      "hi": "पपीते की ऐसी प्रजाति/किस्म में जहाँ नर और मादा पुष्प अलग-अलग पौधों पर हों, बीज बनने के लिए सामान्यतः किसकी आवश्यकता होती है?",
+      "en": "In a papaya type where male and female flowers occur on separate plants, what is generally needed for seed formation?"
     },
     "options": {
       "hi": [
@@ -4383,16 +4467,30 @@
         "केवल स्व-परागण"
       ],
       "en": [
-        "Only water pollination",
+        "Water pollination only",
         "No pollination",
         "Cross-pollination",
-        "Only self-pollination"
+        "Self-pollination only"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "पपीते में नर और मादा पुष्प प्रायः अलग-अलग पौधों पर होते हैं, इसलिए पर-परागण होता है।",
-      "en": "In papaya, male and female flowers are often on different trees, so cross-pollination occurs."
+      "hi": "जब नर और मादा पुष्प अलग-अलग पौधों पर होते हैं, तो परागकण को नर पुष्प से मादा पुष्प के वर्तिकाग्र तक पहुँचना पड़ता है; यह पर-परागण है। पपीते की सभी किस्मों में पुष्प व्यवस्था एक जैसी नहीं होती, इसलिए कथन को इस स्थिति तक सीमित रखा गया है।",
+      "en": "When male and female flowers occur on separate plants, pollen must move from a male flower to the stigma of a female flower; this is cross-pollination. Papaya flower arrangements vary by type, so the question is limited to this condition."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: जल परागण इस प्रश्न की सामान्य पुष्पीय स्थिति का उत्तर नहीं है।",
+        "गलत: मादा पुष्प के बीजांड तक नर युग्मक पहुँचने के लिए परागण आवश्यक है।",
+        "सही: अलग-अलग नर और मादा पौधों में पराग दूसरे पौधे के पुष्प तक जाता है, इसलिए पर-परागण होता है।",
+        "गलत: अलग नर और मादा पौधों पर स्व-परागण संभव नहीं।"
+      ],
+      "en": [
+        "Incorrect. Water pollination is not the usual answer for the flowering condition described.",
+        "Incorrect. Pollination is needed for pollen to reach the female flower's reproductive structures.",
+        "Correct. When male and female flowers are on separate plants, pollen moves between plants, so cross-pollination occurs.",
+        "Incorrect. Self-pollination cannot occur between separate male and female plants."
+      ]
     }
   },
   {
@@ -4421,6 +4519,20 @@
     "explanation": {
       "hi": "स्त्रीकेसर के तीन भाग वर्तिकाग्र, वर्तिका और अंडाशय हैं।",
       "en": "The pistil has three parts—stigma, style and ovary."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: तंतु और परागकोश पुंकेसर के भाग हैं, स्त्रीकेसर के नहीं।",
+        "गलत: बाह्यदल और दल पुष्पावरण के भाग हैं; तंतु पुंकेसर का भाग है।",
+        "गलत: परागकोश पुंकेसर का भाग है, जबकि स्त्रीकेसर में वर्तिकाग्र, वर्तिका और अंडाशय होते हैं।",
+        "सही: स्त्रीकेसर के तीन मुख्य भाग वर्तिकाग्र, वर्तिका और अंडाशय हैं।"
+      ],
+      "en": [
+        "Incorrect. Filament and anther are parts of the stamen, not the pistil.",
+        "Incorrect. Sepals and petals are floral envelope parts; the filament belongs to the stamen.",
+        "Incorrect. The anther is part of the stamen; the pistil consists of stigma, style and ovary.",
+        "Correct. The three main parts of the pistil are stigma, style and ovary."
+      ]
     }
   },
   {
@@ -4449,6 +4561,20 @@
     "explanation": {
       "hi": "पुंकेसर तंतु और परागकोश से मिलकर बनता है।",
       "en": "The stamen consists of a filament and an anther."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: पुंकेसर में तंतु होता है जो परागकोश को सहारा देता है; परागकोश में परागकण बनते हैं।",
+        "गलत: वर्तिकाग्र और वर्तिका स्त्रीकेसर के भाग हैं।",
+        "गलत: अंडाशय और बीजांड स्त्रीकेसर के भाग हैं।",
+        "गलत: बाह्यदल और दल पुष्पावरण के भाग हैं, पुंकेसर के नहीं।"
+      ],
+      "en": [
+        "Correct. The stamen has a filament that supports the anther, where pollen grains form.",
+        "Incorrect. Stigma and style are parts of the pistil.",
+        "Incorrect. Ovary and ovule are parts of the pistil.",
+        "Incorrect. Sepal and petal are parts of the flower's outer/inner envelope, not the stamen."
+      ]
     }
   },
   {
@@ -4456,27 +4582,41 @@
     "topic": "sexual-reproduction-plants",
     "difficulty": "hard",
     "question": {
-      "hi": "परागण न होने पर पुष्पीय पादप में क्या होगा?",
-      "en": "What will happen in a flowering plant if pollination does not occur?"
+      "hi": "अधिकांश पुष्पीय पौधों में, यदि परागण और उसके बाद निषेचन न हो, तो सामान्यतः क्या होगा?",
+      "en": "In most flowering plants, if pollination and subsequent fertilisation do not occur, what generally happens?"
     },
     "options": {
       "hi": [
-        "कुछ नहीं बदलेगा",
-        "फल और बीज नहीं बनेंगे",
-        "केवल फल बनेंगे",
-        "केवल पत्तियाँ बढ़ेंगी"
+        "कुछ नहीं बदलेगा; सभी फल वैसे ही बनेंगे",
+        "सामान्यतः बीज नहीं बनेंगे और फल बनना भी अक्सर रुक जाएगा",
+        "केवल फल बनेंगे, बीज नहीं",
+        "केवल पत्तियाँ बढ़ेंगी और पौधा मर जाएगा"
       ],
       "en": [
-        "Nothing will change",
-        "Fruits and seeds will not form",
-        "Only fruits will form",
-        "Only leaves will grow"
+        "Nothing changes; all fruits form as usual",
+        "Seeds generally will not form, and fruit development often will not occur",
+        "Only fruits form, without seeds",
+        "Only leaves grow and the plant dies"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "परागण के बिना निषेचन नहीं होगा और फल-बीज नहीं बनेंगे।",
-      "en": "Without pollination there is no fertilisation, so fruits and seeds will not form."
+      "hi": "अधिकांश पुष्पीय पौधों में निषेचन के बाद बीजांड बीज और अंडाशय फल में विकसित होता है। परागण/निषेचन न होने पर सामान्यतः बीज नहीं बनते और फल-विकास नहीं होता, हालांकि कुछ पौधों में बिना निषेचन फल बनने (parthenocarpy) जैसे अपवाद हैं।",
+      "en": "In most flowering plants, after fertilisation the ovules develop into seeds and the ovary develops into fruit. Without pollination/fertilisation, seeds generally do not form and fruit development often fails, though exceptions such as parthenocarpy exist."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: अधिकांश पौधों में बीज और सामान्य फल-विकास के लिए परागण/निषेचन जरूरी होते हैं; कुछ अपवाद हैं।",
+        "सही: अधिकांश पुष्पीय पौधों में निषेचन के बिना बीज नहीं बनते और फल-विकास अक्सर नहीं होता, हालांकि parthenocarpy जैसे अपवाद हैं।",
+        "गलत: बीज के बिना फल बनना कुछ पौधों में संभव है, लेकिन इसे सभी पुष्पीय पौधों का सामान्य परिणाम नहीं कहा जा सकता।",
+        "गलत: परागण न होने का अर्थ यह नहीं कि पौधा मर जाएगा; पत्तियाँ और अन्य अंग बढ़ सकते हैं।"
+      ],
+      "en": [
+        "Incorrect. Pollination/fertilisation are needed for seeds and normal fruit development in most plants, though exceptions exist.",
+        "Correct. In most flowering plants, seeds do not form without fertilisation and fruit development often fails, with exceptions such as parthenocarpy.",
+        "Incorrect. Seedless fruit can develop in some plants, but this is not the general outcome for all flowering plants.",
+        "Incorrect. Lack of pollination does not mean the plant will die; leaves and other organs can continue growing."
+      ]
     }
   },
   {
