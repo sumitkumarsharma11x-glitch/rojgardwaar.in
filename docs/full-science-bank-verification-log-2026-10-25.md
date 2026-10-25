@@ -105,3 +105,20 @@ This is a completed option-explanation and targeted correction pass, not a compl
 - Biology guide 1: 150/150 complete; zero missing option-explanation arrays; zero structural issues.
 - Biology guide 2: 150/150 complete; zero missing option-explanation arrays; zero structural issues.
 - Combined: 300/300 questions across these two guides have four Hindi and four English option-specific explanations (2,400 option explanations total). The remaining 5,450 questions across the other 34 guides have not yet completed this pass.
+
+
+## Third completed option-explanation coverage milestone — Biology guide 3 (all 150 questions)
+Fresh re-fetch and structural scan of `data/science/biology/chapter-03/questions.json` confirms:
+- 150/150 questions have four non-empty Hindi option explanations and four non-empty English option explanations.
+- 0 missing option-explanation arrays; 0 structural issues in bilingual stems, four options per language and correct-index range.
+- Targeted wording fixes were made for the X-ray appearance of bones (bones generally appear white/light because they attenuate more X-rays), the scope of bird bone air spaces, the limited regeneration of mature CNS neurons, the growth-plate and tissue-matrix explanations, and the myelin sheath's effect on conduction speed/energy.
+- The batch covers `ch3_q301`–`ch3_q450`.
+
+## Current verified option-explanation coverage (three Biology guides)
+- Biology guide 1: 150/150 questions complete.
+- Biology guide 2: 150/150 questions complete.
+- Biology guide 3: 150/150 questions complete.
+- Combined: 450/450 questions have four non-empty Hindi and four non-empty English option explanations = 3,600 option-specific explanations.
+- Remaining across the full 5,750-question bank: 5,300 questions in the other 33 guides still need this full option-explanation pass.
+
+These are verified coverage/structure milestones plus targeted factual corrections, not a source-cited scientific certification of all 450 questions. General explanation depth, complete per-question NCERT mapping, semantic duplicate review, remaining 33 guides and live production checks remain open.
