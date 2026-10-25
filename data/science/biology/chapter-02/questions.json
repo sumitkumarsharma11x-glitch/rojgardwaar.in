@@ -3805,6 +3805,20 @@
     "explanation": {
       "hi": "गेहूँ, मक्का और चावल में वायु द्वारा परागण होता है।",
       "en": "Wheat, maize and rice are pollinated by wind."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: गेंदा और गुलाब के पुष्प सामान्यतः कीटों से परागित होते हैं, वायु से नहीं।",
+        "गलत: कोरल ट्री के चमकीले पुष्पों में पक्षी परागण हो सकता है; यह वायु परागण का सामान्य उदाहरण नहीं।",
+        "सही: गेहूँ, मक्का और चावल घास कुल के पौधे हैं और सामान्यतः वायु द्वारा परागित होते हैं।",
+        "गलत: सूरजमुखी और गुड़हल सामान्यतः कीट परागण से जुड़े उदाहरण हैं।"
+      ],
+      "en": [
+        "Incorrect. Marigold and rose are generally insect-pollinated, not wind-pollinated.",
+        "Incorrect. Coral tree's showy flowers can be bird-pollinated; it is not a standard wind-pollination example.",
+        "Correct. Wheat, maize and rice are grasses and are generally wind-pollinated.",
+        "Incorrect. Sunflower and hibiscus are generally associated with insect pollination."
+      ]
     }
   },
   {
@@ -3833,6 +3847,20 @@
     "explanation": {
       "hi": "Vallisneria और Hydrilla जैसे जलीय पादपों में जल द्वारा परागण होता है।",
       "en": "Aquatic plants like Vallisneria and Hydrilla are pollinated by water."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: गेहूँ और चावल वायु परागित घासें हैं, जल परागण के सामान्य उदाहरण नहीं।",
+        "गलत: सूरजमुखी सामान्यतः कीटों से परागित होता है।",
+        "गलत: गुड़हल सामान्यतः कीटों द्वारा परागित होता है।",
+        "सही: Vallisneria और Hydrilla जलीय पौधों के उदाहरण हैं जिनमें जल परागण हो सकता है।"
+      ],
+      "en": [
+        "Incorrect. Wheat and rice are wind-pollinated grasses, not standard examples of water pollination.",
+        "Incorrect. Sunflower is generally pollinated by insects.",
+        "Incorrect. Hibiscus is generally insect-pollinated.",
+        "Correct. Vallisneria and Hydrilla are aquatic plants in which water pollination can occur."
+      ]
     }
   },
   {
@@ -3861,6 +3889,20 @@
     "explanation": {
       "hi": "कीट परागित पुष्प चमकीले, सुगंधित और मकरंद युक्त होते हैं।",
       "en": "Insect-pollinated flowers are brightly coloured, fragrant and nectar-bearing."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही, कई कीट-परागित पुष्प रंग, गंध या मकरंद से परागणकों को आकर्षित करते हैं; हर प्रजाति में सभी लक्षण होना जरूरी नहीं।",
+        "गलत: कुछ पुष्प हरे या कम सुगंध वाले हो सकते हैं, लेकिन यह कीट-परागण की सामान्य आकर्षण-रणनीति नहीं।",
+        "गलत: केवल छोटा और हल्का होना कीट परागण की विशिष्ट पहचान नहीं।",
+        "गलत: पंखदार वर्तिकाग्र वायु परागित पुष्पों में पराग पकड़ने के लिए सामान्य अनुकूलन है।"
+      ],
+      "en": [
+        "Correct for many insect-pollinated flowers: colour, scent or nectar attracts pollinators, although not every species has all these traits.",
+        "Incorrect. Some flowers may be green or unscented, but this is not the common attraction strategy described here.",
+        "Incorrect. Being small and light alone is not a defining feature of insect pollination.",
+        "Incorrect. A feathery stigma is a common adaptation in wind-pollinated flowers for trapping airborne pollen."
+      ]
     }
   },
   {
@@ -3868,27 +3910,41 @@
     "topic": "sexual-reproduction-plants",
     "difficulty": "hard",
     "question": {
-      "hi": "पक्षी द्वारा परागण किन पुष्पों में होता है?",
-      "en": "Which flowers are pollinated by birds?"
+      "hi": "निम्न में से कौन-सा पुष्प पक्षियों द्वारा परागण का बेहतर उदाहरण है?",
+      "en": "Which of the following is a better example of bird pollination?"
     },
     "options": {
       "hi": [
         "Vallisneria और Hydrilla",
-        "कॉरल ट्री और गुड़हल",
+        "कोरल ट्री (Erythrina)",
         "गेहूँ और मक्का",
         "चावल और गन्ना"
       ],
       "en": [
         "Vallisneria and Hydrilla",
-        "Coral tree and hibiscus",
+        "Coral tree (Erythrina)",
         "Wheat and maize",
         "Rice and sugarcane"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "कॉरल ट्री और गुड़हल के पुष्प पक्षियों (जैसे सनबर्ड) द्वारा परागित होते हैं।",
-      "en": "Coral tree and hibiscus flowers are pollinated by birds such as sunbirds."
+      "hi": "कोरल ट्री (Erythrina) के कुछ पुष्प पक्षियों, जैसे सनबर्ड, से परागित हो सकते हैं। गुड़हल को सामान्यतः कीट-परागित उदाहरण माना जाता है, इसलिए उसे पक्षी परागण का निश्चित उदाहरण कहना भ्रामक होगा।",
+      "en": "Some coral tree (Erythrina) flowers can be pollinated by birds such as sunbirds. Hibiscus is generally treated as an insect-pollinated example, so listing it as a definite bird-pollination example would be misleading."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: ये जलीय पौधे जल परागण के उदाहरण हैं।",
+        "सही: कोरल ट्री के कुछ पुष्प पक्षियों को आकर्षित कर सकते हैं और पक्षी परागण में भाग ले सकते हैं।",
+        "गलत: गेहूँ और मक्का सामान्यतः वायु परागित हैं।",
+        "गलत: चावल और गन्ना घास कुल के पौधे हैं और सामान्यतः वायु परागित होते हैं।"
+      ],
+      "en": [
+        "Incorrect. These aquatic plants are examples associated with water pollination.",
+        "Correct. Some coral tree flowers attract birds, which can transfer pollen between flowers.",
+        "Incorrect. Wheat and maize are generally wind-pollinated.",
+        "Incorrect. Rice and sugarcane are grasses and are generally wind-pollinated."
+      ]
     }
   },
   {
@@ -3917,6 +3973,20 @@
     "explanation": {
       "hi": "वायु परागित पुष्पों में परागकण हल्के, छोटे और बड़ी संख्या में बनते हैं।",
       "en": "Wind-pollinated flowers produce light, small pollen in large numbers."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: काँटेदार होना वायु परागित परागकणों की सामान्य आवश्यक विशेषता नहीं।",
+        "गलत: परागकण हमेशा बड़े नहीं होते; वायु द्वारा फैलने के लिए वे अक्सर छोटे और हल्के होते हैं।",
+        "सही: अनेक वायु-परागित पौधे छोटे, हल्के परागकण बड़ी संख्या में बनाते हैं, जिससे कुछ पराग वर्तिकाग्र तक पहुँच सके।",
+        "गलत: भारी और चिपचिपे परागकण वायु में दूर तक फैलने के लिए कम अनुकूल होते हैं।"
+      ],
+      "en": [
+        "Incorrect. Spiny surfaces are not a general requirement for wind-pollinated pollen.",
+        "Incorrect. Pollen is not always large; wind-dispersed pollen is often small and light.",
+        "Correct. Many wind-pollinated plants produce large amounts of small, light pollen so some can reach a stigma.",
+        "Incorrect. Heavy, sticky pollen is less suited to long-distance dispersal by wind."
+      ]
     }
   },
   {
@@ -3945,6 +4015,20 @@
     "explanation": {
       "hi": "नर युग्मक का अंडाणु से संलयन निषेचन कहलाता है।",
       "en": "Fertilisation is the fusion of the male gamete with the egg cell."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: पराग का स्थानांतरण परागण है, निषेचन नहीं।",
+        "गलत: बीज अंकुरण में बीज से भ्रूण का विकास शुरू होता है; यह युग्मक संलयन नहीं।",
+        "गलत: फल का बनना निषेचन के बाद का विकास है, निषेचन की परिभाषा नहीं।",
+        "सही: निषेचन में नर और मादा युग्मक मिलकर युग्मनज बनाते हैं।"
+      ],
+      "en": [
+        "Incorrect. Transfer of pollen is pollination, not fertilisation.",
+        "Incorrect. Seed germination is the start of growth from a seed, not the fusion of gametes.",
+        "Incorrect. Fruit formation is a development that can follow fertilisation; it is not the definition of fertilisation.",
+        "Correct. Fertilisation is the fusion of male and female gametes to form a zygote."
+      ]
     }
   },
   {
@@ -3973,6 +4057,20 @@
     "explanation": {
       "hi": "पराग नलिका वर्तिकाग्र से वर्तिका होते हुए अंडाशय तक बढ़ती है।",
       "en": "The pollen tube grows from the stigma down through the style into the ovary."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: परागकण अंकुरित होकर पराग नलिका बनाता है, जो वर्तिकाग्र से वर्तिका होते हुए अंडाशय की ओर बढ़ती है।",
+        "गलत: दल पुष्प का आकर्षक भाग है; पराग नलिका का मार्ग नहीं।",
+        "गलत: बाह्यदल कली की रक्षा करते हैं; पराग नलिका उनके भीतर से अंडाशय तक नहीं जाती।",
+        "गलत: जड़ पौधे का जल/खनिज अवशोषण करने वाला भाग है; पराग नलिका पुष्प के भीतर बढ़ती है।"
+      ],
+      "en": [
+        "Correct. A pollen grain germinates and forms a pollen tube that grows from the stigma through the style toward the ovary.",
+        "Incorrect. Petals are often the showy parts of a flower; they are not the route of the pollen tube.",
+        "Incorrect. Sepals protect the bud; the pollen tube grows through the pistil, not through a sepal.",
+        "Incorrect. Roots absorb water and minerals; the pollen tube grows within the flower."
+      ]
     }
   },
   {
@@ -4001,6 +4099,20 @@
     "explanation": {
       "hi": "निषेचित अंडा युग्मनज कहलाता है, जो बाद में भ्रूण बनता है।",
       "en": "The fertilised egg is called a zygote, which later develops into an embryo."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: फल सामान्यतः अंडाशय से विकसित होता है, निषेचित अंडा नहीं।",
+        "सही: नर और मादा युग्मक के संलयन से युग्मनज बनता है, जो विभाजित होकर भ्रूण बनाता है।",
+        "गलत: भ्रूण युग्मनज के बाद की विकास अवस्था है।",
+        "गलत: बीज सामान्यतः बीजांड से विकसित होता है, जबकि निषेचित अंडा युग्मनज कहलाता है।"
+      ],
+      "en": [
+        "Incorrect. The fruit generally develops from the ovary, not from the fertilised egg itself.",
+        "Correct. Fusion of male and female gametes forms a zygote, which divides and develops into an embryo.",
+        "Incorrect. The embryo is a later developmental stage after the zygote.",
+        "Incorrect. The seed generally develops from the ovule, while the fertilised egg is called a zygote."
+      ]
     }
   },
   {
@@ -4029,6 +4141,20 @@
     "explanation": {
       "hi": "निषेचन के बाद अंडाशय फल में विकसित होता है।",
       "en": "After fertilisation, the ovary develops into the fruit."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: पत्ती प्रकाश-संश्लेषण और गैस-विनिमय जैसे कार्य करती है; अंडाशय पत्ती नहीं बनता।",
+        "गलत: जड़ भ्रूणीय जड़ से विकसित होती है; अंडाशय सामान्यतः फल बनता है।",
+        "सही: निषेचन के बाद अंडाशय सामान्यतः फल में विकसित होता है; अंडाशय की दीवार फलभित्ति बनाती है।",
+        "गलत: बीजांड बीज बनता है; अंडाशय फल में विकसित होता है।"
+      ],
+      "en": [
+        "Incorrect. A leaf performs photosynthesis and gas exchange; the ovary does not become a leaf.",
+        "Incorrect. Roots develop from the embryonic root; the ovary generally develops into fruit.",
+        "Correct. After fertilisation, the ovary generally develops into a fruit, and its wall forms the fruit wall.",
+        "Incorrect. The ovule develops into a seed; the ovary develops into the fruit."
+      ]
     }
   },
   {
@@ -4055,8 +4181,22 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "निषेचन के बाद बीजांड बीज में विकसित होते हैं।",
-      "en": "Fertilisation is the fusion of male and female gametes to form a zygote, which develops into an embryo."
+      "hi": "निषेचन के बाद बीजांड सामान्यतः बीज में विकसित होता है। बीज में भ्रूण और उसके पोषण/सुरक्षा से जुड़ी संरचनाएँ होती हैं; अंडाशय सामान्यतः फल में विकसित होता है।",
+      "en": "After fertilisation, the ovule generally develops into a seed. The seed contains an embryo and structures for its nourishment or protection; the ovary generally develops into the fruit."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: फल सामान्यतः अंडाशय से विकसित होता है, बीजांड से नहीं।",
+        "गलत: दल पुष्प का भाग है; निषेचन के बाद बीजांड दल में नहीं बदलता।",
+        "गलत: बाह्यदल पुष्प का भाग है और बीजांड से बीज नहीं बनता।",
+        "सही: निषेचन के बाद बीजांड सामान्यतः बीज में विकसित होता है।"
+      ],
+      "en": [
+        "Incorrect. The fruit generally develops from the ovary, not from the ovule.",
+        "Incorrect. A petal is part of the flower; an ovule does not become a petal after fertilisation.",
+        "Incorrect. A sepal is part of the flower; an ovule does not become a sepal.",
+        "Correct. After fertilisation, the ovule generally develops into a seed."
+      ]
     }
   },
   {
