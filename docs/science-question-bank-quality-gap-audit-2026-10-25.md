@@ -13,6 +13,13 @@ This audit separates structural checks from actual academic validation. A valid 
 
 The checked bank files support a total of **5,750**, not 5,780. Do not add 30 questions merely to match the larger claim; reconcile the source of that number first.
 
+## Fresh structural scan observations (25 October 2026)
+A second scan parsed all 36 chapter question-bank files (5,750 questions total). JSON parsing errors: 0. Structural checks found no invalid correct-index, bilingual prompt absence, or four-option distinctness issue in the fetched data. This is structural validation only, not a science fact-check.
+
+A fresh normalized-length heuristic flagged 5,075 Hindi and 4,962 English explanations under 180 characters. These numbers differ from the initial workbook because the fresh scan used a different normalization/measurement pass; treat them as triage signals, not grades. The fresh pass also flagged 1,072 questions for possible weak distractors using broad rules (generic options, very short options, or extreme option-length imbalance). These are review candidates, not confirmed errors. Numeric options, terminology choices, and legitimate concise options can trigger false positives.
+
+The scan confirmed the 5,750 total and the option-explanation gaps: 5,600 Hindi and 5,710 English question entries lack four non-empty option-explanation strings under the expected schema.
+
 ## Structural scan observations
 - All 36 expected bank files were found and parsed during the scan.
 - The scan found explanation fields on all questions.
