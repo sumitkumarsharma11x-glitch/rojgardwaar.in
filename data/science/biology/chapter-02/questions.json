@@ -2125,6 +2125,20 @@
     "explanation": {
       "hi": "ब्रायोफिलम की पत्तियों पर छोटे पादपक निकलकर नए पौधे बनते हैं।",
       "en": "Bryophyllum leaves bear tiny plantlets that grow into new plants."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: चावल सामान्यतः बीज से उगाया जाता है; पत्ती से नए पौधे बनना इसका सामान्य उदाहरण नहीं।",
+        "गलत: मक्का सामान्यतः बीज से उगता है, पत्ती से कायिक प्रवर्धन नहीं करता।",
+        "सही: ब्रायोफिलम की पत्ती के किनारों पर कलिकाएँ छोटे पादपक बनाती हैं, जो अलग होकर नए पौधे बन सकते हैं।",
+        "गलत: गेहूँ सामान्यतः बीज से उगता है; पत्ती से पौधा बनना इसका सामान्य उदाहरण नहीं।"
+      ],
+      "en": [
+        "Incorrect. Rice is generally grown from seed, not by producing plantlets from leaves.",
+        "Incorrect. Maize is generally grown from seed and is not a common example of leaf propagation.",
+        "Correct. Buds along Bryophyllum leaf margins form plantlets that can detach and grow into new plants.",
+        "Incorrect. Wheat is generally grown from seed, not by leaf propagation."
+      ]
     }
   },
   {
@@ -2153,6 +2167,20 @@
     "explanation": {
       "hi": "निचले आधे भाग की पत्तियाँ हटाने से जल की हानि कम होती है और रोपण आसान होता है।",
       "en": "Removing lower-half leaves reduces water loss and makes planting easier."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: पत्तियाँ हटाने का उद्देश्य सजावट नहीं; इससे कटिंग का जल-संतुलन और रोपण बेहतर हो सकता है।",
+        "गलत: पत्तियाँ हटाना सीधे फल बढ़ाने की विधि नहीं है।",
+        "गलत: पत्तियाँ हटाने का उद्देश्य रंग बदलना नहीं है।",
+        "सही: निचली पत्तियाँ हटाने से मिट्टी में दबने वाली पत्तियाँ सड़ने का जोखिम घटता है और वाष्पोत्सर्जन से जल-हानि कम हो सकती है।"
+      ],
+      "en": [
+        "Incorrect. Removing leaves is not for decoration; it can help manage water loss and planting.",
+        "Incorrect. Removing leaves does not directly increase fruit production.",
+        "Incorrect. Changing colour is not the purpose of leaf removal.",
+        "Correct. Removing lower leaves prevents buried leaves from rotting and can reduce water loss through transpiration."
+      ]
     }
   },
   {
@@ -2181,6 +2209,20 @@
     "explanation": {
       "hi": "कायिक प्रवर्धन बिना बीज के होता है—नया पौधा कायिक भागों से बनता है।",
       "en": "Vegetative propagation occurs without seeds — the new plant arises from vegetative parts."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही। कायिक प्रवर्धन में नया पौधा तने, जड़ या पत्ती जैसे कायिक भाग से बनता है; बीज आवश्यक नहीं।",
+        "गलत: तना कायिक प्रवर्धन का सामान्य स्रोत हो सकता है।",
+        "गलत: कुछ विधियों में जड़ से भी नया पौधा बन सकता है।",
+        "गलत: कुछ पौधों में पत्ती से भी नया पौधा बन सकता है, जैसे ब्रायोफिलम।"
+      ],
+      "en": [
+        "Correct. Vegetative propagation produces a new plant from a vegetative part such as a stem, root or leaf; a seed is not required.",
+        "Incorrect. A stem can be a source for vegetative propagation.",
+        "Incorrect. Some plants can produce new growth from roots.",
+        "Incorrect. Some plants, such as Bryophyllum, can produce new plantlets from leaves."
+      ]
     }
   },
   {
@@ -2209,6 +2251,20 @@
     "explanation": {
       "hi": "आलू और अदरक दोनों अपने भूमिगत तने से नए पौधे बनाते हैं।",
       "en": "Both potato and ginger produce new plants from their underground stems."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: आलू और अदरक दोनों बढ़ते हैं; उनके भूमिगत तनों पर कलिकाएँ नए अंकुर बना सकती हैं।",
+        "सही: आलू का कंद और अदरक का राइजोम दोनों रूपांतरित भूमिगत तने हैं, जिनसे कलियों द्वारा नए पौधे बन सकते हैं।",
+        "गलत: दोनों का सामान्य कायिक प्रवर्धन केवल बीज से नहीं होता।",
+        "गलत: नए पौधे केवल फूल से नहीं बनते; भूमिगत तनों की कलियाँ भी अंकुरित होती हैं।"
+      ],
+      "en": [
+        "Incorrect. Both grow; buds on their underground stems can produce new shoots.",
+        "Correct. A potato tuber and ginger rhizome are modified underground stems whose buds can grow into new plants.",
+        "Incorrect. Their common vegetative propagation is not only by seed.",
+        "Incorrect. New plants do not arise only from flowers; buds on underground stems can sprout."
+      ]
     }
   },
   {
@@ -2216,27 +2272,41 @@
     "topic": "vegetative-propagation",
     "difficulty": "hard",
     "question": {
-      "hi": "कायिक प्रवर्धित पौधे रोगों के प्रति अधिक संवेदनशील क्यों हो सकते हैं?",
-      "en": "Why can vegetatively propagated plants be more vulnerable to diseases?"
+      "hi": "यदि किसी रोगजनक से एक क्लोन संवेदनशील हो, तो आनुवंशिक रूप से समान कायिक फसल में बड़े नुकसान का जोखिम क्यों हो सकता है?",
+      "en": "If a pathogen can infect one clone, why can a genetically uniform vegetative crop face a risk of widespread loss?"
     },
     "options": {
       "hi": [
-        "क्योंकि वे बीज से बनते हैं",
-        "क्योंकि उनमें परागण होता है",
-        "क्योंकि वे आनुवंशिक रूप से समान होते हैं",
-        "क्योंकि उनमें विभिन्नता होती है"
+        "क्योंकि सभी पौधे अलग-अलग प्रजातियों के होते हैं",
+        "क्योंकि सभी पौधे रोग से पूरी तरह सुरक्षित होते हैं",
+        "क्योंकि आनुवंशिक समानता के कारण कई पौधों में वही संवेदनशीलता हो सकती है",
+        "क्योंकि कायिक प्रवर्धन में कोई जीवित कोशिका नहीं होती"
       ],
       "en": [
-        "Because they come from seeds",
-        "Because pollination occurs",
-        "Because they are genetically identical",
-        "Because they show variation"
+        "Because all plants are different species",
+        "Because all plants are completely protected from disease",
+        "Because genetic uniformity can make many plants share the same susceptibility",
+        "Because vegetative propagation has no living cells"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "आनुवंशिक समानता के कारण एक ही रोग पूरी फसल को प्रभावित कर सकता है।",
-      "en": "Genetic uniformity means a single disease can affect the whole crop."
+      "hi": "कायिक प्रवर्धन से बने पौधे अक्सर आनुवंशिक रूप से बहुत समान होते हैं। यदि उनमें किसी रोग के प्रति समान संवेदनशीलता हो, तो रोग अनुकूल परिस्थितियों में बड़े हिस्से की फसल को प्रभावित कर सकता है; यह हर फसल में अनिवार्य परिणाम नहीं है।",
+      "en": "Plants produced vegetatively are often genetically very similar. If they share susceptibility to a pathogen, favourable conditions can allow disease to affect a large part of the crop; this is a risk, not an inevitable outcome."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: एक ही क्लोन से उगे पौधे सामान्यतः अलग-अलग प्रजातियों के नहीं होते।",
+        "गलत: आनुवंशिक समानता रोग से पूर्ण सुरक्षा नहीं देती।",
+        "सही: यदि कई पौधों में वही संवेदनशीलता हो, तो एक रोग उन सभी को प्रभावित कर सकता है।",
+        "गलत: कायिक प्रवर्धन जीवित पौध ऊतक से होता है।"
+      ],
+      "en": [
+        "Incorrect. Plants grown from the same clone are generally not different species.",
+        "Incorrect. Genetic uniformity does not guarantee complete protection from disease.",
+        "Correct. If many plants share the same susceptibility, one pathogen may affect them all.",
+        "Incorrect. Vegetative propagation uses living plant tissue."
+      ]
     }
   },
   {
@@ -2265,6 +2335,20 @@
     "explanation": {
       "hi": "यीस्ट में मुकुलन द्वारा अलैंगिक जनन होता है। मूल कोशिका की सतह पर छोटा उभार बनता है, बढ़ता है और अलग होकर नई कोशिका बन सकता है।",
       "en": "Yeast can reproduce asexually by budding. A small outgrowth forms on the parent cell, grows, and may separate to become a new cell."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: मनुष्य लैंगिक जनन करते हैं; यीस्ट जैसी कोशिकाओं में होने वाला मुकुलन मानव जनन विधि नहीं है।",
+        "गलत: गाय स्तनधारी है और लैंगिक जनन करती है।",
+        "गलत: आम का पौधा सामान्यतः बीज या कायिक विधियों से प्रवर्धित होता है; मुकुलन इसका सामान्य उदाहरण नहीं।",
+        "सही: यीस्ट में जनक कोशिका पर छोटा उभार बनता है, बढ़ता है और नई कोशिका बन सकता है।"
+      ],
+      "en": [
+        "Incorrect. Humans reproduce sexually; budding as seen in yeast is not the human reproductive method.",
+        "Incorrect. Cows are mammals and reproduce sexually.",
+        "Incorrect. Mango is generally propagated by seed or horticultural vegetative methods, not as a standard budding example in this context.",
+        "Correct. In yeast, a small outgrowth forms on the parent cell, grows and can become a new cell."
+      ]
     }
   },
   {
@@ -2293,6 +2377,20 @@
     "explanation": {
       "hi": "हाइड्रा में अनुकूल परिस्थितियों में मुकुलन होता है। शरीर पर एक छोटा उभार बनता है, विकसित होता है और अलग होकर नया हाइड्रा बन सकता है।",
       "en": "Under favourable conditions, Hydra reproduces by budding. A small outgrowth develops on its body and can detach to form a new Hydra."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही: हाइड्रा के शरीर पर कली जैसी वृद्धि बनती है, बढ़ती है और अलग होकर नया हाइड्रा बन सकती है।",
+        "गलत: हाइड्रा पौधा नहीं है, इसलिए बीज नहीं बनाता।",
+        "गलत: परागण फूल वाले पौधों की प्रक्रिया है, हाइड्रा की नहीं।",
+        "गलत: निषेचन लैंगिक जनन से जुड़ा है; प्रश्न हाइड्रा के सामान्य अलैंगिक जनन की विधि पूछता है।"
+      ],
+      "en": [
+        "Correct. A bud forms on Hydra, grows and may detach to become a new individual.",
+        "Incorrect. Hydra is an animal and does not produce seeds.",
+        "Incorrect. Pollination is a process in flowering plants, not Hydra.",
+        "Incorrect. Fertilisation is part of sexual reproduction; the question asks for Hydra's common asexual method."
+      ]
     }
   },
   {
@@ -2321,6 +2419,20 @@
     "explanation": {
       "hi": "कवकों (जैसे ब्रेड पर लगने वाला फफूँद) में बीजाणु निर्माण होता है।",
       "en": "Fungi, such as bread mould, reproduce by spore formation."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: सरीसृप सामान्यतः लैंगिक जनन करते हैं; वे बीजाणु बनाने वाले समूह नहीं हैं।",
+        "सही: कई कवक बीजाणु बनाते हैं, जो अनुकूल परिस्थितियों में अंकुरित होकर नया कवक विकसित कर सकते हैं।",
+        "गलत: स्तनधारी बीजाणु निर्माण द्वारा जनन नहीं करते।",
+        "गलत: पक्षी अंडे देते हैं; बीजाणु निर्माण उनका जनन तरीका नहीं है।"
+      ],
+      "en": [
+        "Incorrect. Reptiles generally reproduce sexually; they are not a spore-forming group.",
+        "Correct. Many fungi produce spores that can germinate and grow into fungi under suitable conditions.",
+        "Incorrect. Mammals do not reproduce by spore formation.",
+        "Incorrect. Birds reproduce by laying eggs, not by producing spores."
+      ]
     }
   },
   {
@@ -2349,6 +2461,20 @@
     "explanation": {
       "hi": "वायु में उपस्थित बीजाणु नम ब्रेड पर बैठकर फफूँद बनाते हैं।",
       "en": "Spores in the air settle on moist bread and grow into mould."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: नमक अकेले फफूँद नहीं बनाता; अधिकांश फफूँद को उपयुक्त नमी और पोषक सतह चाहिए।",
+        "गलत: शक्कर भोजन स्रोत हो सकती है, लेकिन अपने-आप फफूँद नहीं बनाती।",
+        "सही: वायु में मौजूद फफूँद के बीजाणु नम ब्रेड पर जमकर अनुकूल परिस्थितियों में बढ़ सकते हैं।",
+        "गलत: पानी नमी देता है, लेकिन फफूँद का स्रोत सामान्यतः बीजाणु होते हैं।"
+      ],
+      "en": [
+        "Incorrect. Salt alone does not produce mould; mould generally needs suitable moisture and a food source.",
+        "Incorrect. Sugar can be a food source, but it does not create mould by itself.",
+        "Correct. Mould spores in the air can settle on moist bread and grow under favourable conditions.",
+        "Incorrect. Water supplies moisture, but mould generally originates from spores."
+      ]
     }
   },
   {
@@ -2377,6 +2503,20 @@
     "explanation": {
       "hi": "जीवाणु कोशिका विभाजन द्वारा अलैंगिक जनन करते हैं।",
       "en": "Bacteria commonly reproduce by binary fission, in which one cell divides into two daughter cells."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत: जीवाणु बीज नहीं बनाते; वे सामान्यतः द्विखंडन जैसे कोशिका-विभाजन से बढ़ते हैं।",
+        "गलत: परागण फूल वाले पौधों की प्रक्रिया है, जीवाणुओं की नहीं।",
+        "गलत: निषेचन जीवाणुओं के सामान्य जनन की विधि नहीं है।",
+        "सही: जीवाणु सामान्यतः द्विखंडन द्वारा एक कोशिका से दो संतति कोशिकाएँ बनाते हैं।"
+      ],
+      "en": [
+        "Incorrect. Bacteria do not produce seeds; they commonly reproduce by cell division such as binary fission.",
+        "Incorrect. Pollination is a process in flowering plants, not bacteria.",
+        "Incorrect. Fertilisation is not the usual reproductive method in bacteria.",
+        "Correct. Bacteria commonly reproduce by binary fission, where one cell divides into two daughter cells."
+      ]
     }
   },
   {
