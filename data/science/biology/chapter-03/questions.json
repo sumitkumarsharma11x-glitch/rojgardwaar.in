@@ -4646,6 +4646,20 @@
       "explanation": {
         "hi": "रेखित पेशी तंतु बहुत लंबे बेलनाकार कोशिकाएँ हैं जिनमें कई केंद्रक परिधि की ओर रहते हैं।",
         "en": "Striated muscle fibres are very long cylindrical cells with many nuclei placed towards the periphery."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: शाखायुक्त कोशिकाएँ हृदयी पेशी की विशेषता हैं; कंकाली रेखित पेशी सामान्यतः लंबी और अशाखित होती है।",
+          "गलत: कंकाली रेखित पेशी कोशिकाएँ जीवित और बहुकेंद्रकी होती हैं।",
+          "सही: कंकाली रेखित पेशी तंतु लंबे, बेलनाकार, अशाखित और बहुकेंद्रकी होते हैं; इनके केंद्रक प्रायः परिधि पर होते हैं।",
+          "गलत: छोटी तर्कु-आकार और एककेंद्रकी कोशिकाएँ अरेखित पेशी की विशेषता हैं।"
+        ],
+        "en": [
+          "Incorrect. Branched cells are characteristic of cardiac muscle; skeletal striated fibres are generally long and unbranched.",
+          "Incorrect. Skeletal striated muscle fibres are living and multinucleate.",
+          "Correct. Skeletal striated muscle fibres are long, cylindrical, unbranched and multinucleate, with nuclei usually near the periphery.",
+          "Incorrect. Short spindle-shaped uninucleate cells are characteristic of smooth muscle."
+        ]
       }
     },
     {
@@ -4674,6 +4688,20 @@
       "explanation": {
         "hi": "टेंडन पेशी के अंत को अस्थि से जोड़ता है और संकुचन का पूरा बल अस्थि तक स्थानांतरित करता है।",
         "en": "The tendon ties the muscle's end to the bone and transfers the whole force of contraction to it."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: उपास्थि संधियों में सतहों को चिकना करती है, पेशी का बल सीधे अस्थि तक पहुँचाने वाली संरचना नहीं।",
+          "गलत: तंत्रिका संकेत पहुँचाती है; पेशी-संकुचन का यांत्रिक बल टेंडन से अस्थि तक जाता है।",
+          "गलत: लिगामेंट अस्थि को अस्थि से जोड़ता है और संधि को स्थिर करता है।",
+          "सही: टेंडन पेशी को अस्थि से जोड़ता है और संकुचन का खिंचाव अस्थि तक पहुँचाता है।"
+        ],
+        "en": [
+          "Incorrect. Cartilage smooths joint surfaces; it does not directly transmit muscle force to bone.",
+          "Incorrect. Nerves carry signals; the mechanical force of contraction reaches bone through a tendon.",
+          "Incorrect. A ligament connects bone to bone and stabilises a joint.",
+          "Correct. A tendon connects muscle to bone and transmits the pull of contraction."
+        ]
       }
     },
     {
@@ -4681,27 +4709,41 @@
       "topic": "muscular-nervous-tissue",
       "difficulty": "medium",
       "question": {
-        "hi": "हृदय की पेशी जीवन भर बिना थके कार्य करती है — इसका कारण क्या है?",
-        "en": "The heart muscle works lifelong without tiring — why?"
+        "hi": "हृदय की पेशी सामान्य परिस्थितियों में लगातार लयबद्ध काम कैसे कर पाती है?",
+        "en": "How can cardiac muscle maintain continuous rhythmic activity under normal conditions?"
       },
       "options": {
         "hi": [
-          "यह निर्धारित लय में संकुचित होती है और प्रत्येक चक्र में उसे विश्राम-अवधि मिलती है",
-          "यह कभी संकुचित नहीं होती",
-          "उसमें केंद्रक नहीं होते",
-          "वह अस्थि से बनी होती है"
+          "लयबद्ध संकुचन-विश्राम चक्र, समृद्ध रक्त/ऑक्सीजन आपूर्ति और बहुत अधिक ऊर्जा-उत्पादन क्षमता के कारण",
+          "क्योंकि वह कभी संकुचित नहीं होती",
+          "क्योंकि उसमें केंद्रक नहीं होते",
+          "क्योंकि वह अस्थि से बनी होती है"
         ],
         "en": [
-          "It contracts in a set rhythm and gets a rest phase in every cycle",
-          "It never contracts",
-          "It has no nuclei",
-          "It is made of bone"
+          "Because it has rhythmic contraction-relaxation cycles, rich blood/oxygen supply and high energy-production capacity",
+          "Because it never contracts",
+          "Because it has no nuclei",
+          "Because it is made of bone"
         ]
       },
       "correct": 0,
       "explanation": {
-        "hi": "हृदयी पेशी लयबद्ध संकुचन-विश्राम चक्र में चलती है; हर धड़कन के बीच का विश्राम-क्षण उसे थकने नहीं देता।",
-        "en": "Cardiac muscle cycles rhythmically between contraction and rest; the brief rest between beats prevents fatigue."
+        "hi": "हृदयी पेशी में बहुत-से माइटोकॉन्ड्रिया, अच्छी रक्त-आपूर्ति और प्रत्येक धड़कन के बीच विश्राम-अवधि होती है। ये विशेषताएँ सामान्य परिस्थितियों में लगातार काम करने में मदद करती हैं; इसका अर्थ यह नहीं कि बीमारी या ऑक्सीजन की कमी में हृदय-पेशी कभी थक या क्षतिग्रस्त नहीं हो सकती।",
+        "en": "Cardiac muscle has many mitochondria, a rich blood supply and a relaxation phase between beats. These features support sustained work under normal conditions; they do not mean it can never become fatigued or damaged during illness or oxygen deprivation."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: लयबद्ध चक्र, प्रचुर ऑक्सीजन/रक्त आपूर्ति और ऊर्जा-उत्पादन क्षमता मिलकर हृदय-पेशी के निरंतर काम में मदद करते हैं।",
+          "गलत: हृदय-पेशी हर धड़कन में संकुचित होती है; यही रक्त पंप करती है।",
+          "गलत: हृदयी पेशी कोशिकाओं में केंद्रक होते हैं, सामान्यतः एक और कभी-कभी दो।",
+          "गलत: हृदय अस्थि से नहीं, विशेष हृदयी पेशी से बना है।"
+        ],
+        "en": [
+          "Correct. Rhythmic cycles, abundant oxygen/blood supply and energy production together support sustained cardiac work.",
+          "Incorrect. Cardiac muscle contracts with each beat; that contraction pumps blood.",
+          "Incorrect. Cardiac muscle cells contain nuclei, usually one and sometimes two.",
+          "Incorrect. The heart is made of specialised cardiac muscle, not bone."
+        ]
       }
     },
     {
@@ -4730,6 +4772,20 @@
       "explanation": {
         "hi": "तंत्रिका ऊतक संचार-तंत्र का आधार है और यह मुख्यतः मस्तिष्क, मेरुरज्जु तथा तंत्रिकाओं में सघन रहता है।",
         "en": "Nervous tissue forms the communication network, concentrated in the brain, spinal cord and nerves."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: यकृत और फेफड़ों में तंत्रिका आपूर्ति होती है, लेकिन तंत्रिका ऊतक का मुख्य केंद्र इन अंगों तक सीमित नहीं।",
+          "सही: केंद्रीय तंत्रिका तंत्र में मस्तिष्क और मेरुरज्जु होते हैं; तंत्रिकाएँ शरीर के विभिन्न भागों से सूचना लाती-ले जाती हैं।",
+          "गलत: आँत और आमाशय में तंत्रिकाएँ मौजूद हैं, लेकिन वहाँ पाचन ऊतक भी प्रमुख हैं; तंत्रिका ऊतक का मुख्य नेटवर्क मस्तिष्क, मेरुरज्जु और तंत्रिकाएँ हैं।",
+          "गलत: त्वचा में संवेदना ग्रहण करने वाली तंत्रिकाएँ हो सकती हैं, पर बाल स्वयं तंत्रिका ऊतक नहीं हैं।"
+        ],
+        "en": [
+          "Incorrect. The liver and lungs receive nerve supply, but the main nervous system is not limited to these organs.",
+          "Correct. The central nervous system includes the brain and spinal cord; nerves carry information to and from body regions.",
+          "Incorrect. The gut and stomach have nerves, but also contain digestive tissues; the main nervous network includes the brain, spinal cord and nerves.",
+          "Incorrect. Skin contains sensory nerve endings, but hair itself is not nervous tissue."
+        ]
       }
     },
     {
@@ -4758,6 +4814,20 @@
       "explanation": {
         "hi": "डेंड्राइट शाखाएँ उद्दीपन ग्रहण कर कोशिका-शरीर तक पहुँचाती हैं।",
         "en": "The dendritic branches pick up stimuli and pass them to the cell body."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: माइलिन म्यान कई एक्सॉन को विद्युत-रोधक आवरण देती है; वह मुख्य ग्रहण करने वाली शाखा नहीं।",
+          "गलत: सिनैप्स दो कोशिकाओं के बीच संचार-स्थल है, न्यूरॉन का वह भाग नहीं जो सामान्यतः सूचना ग्रहण करता है।",
+          "सही: डेंड्राइट शाखाएँ अन्य कोशिकाओं से संकेत ग्रहण कर कोशिका-शरीर की ओर ले जाती हैं।",
+          "गलत: एक्सॉन सामान्यतः आवेग को कोशिका-शरीर से दूर दूसरे न्यूरॉन या प्रभावक तक ले जाता है।"
+        ],
+        "en": [
+          "Incorrect. The myelin sheath insulates many axons; it is not the main receiving branch.",
+          "Incorrect. A synapse is a communication junction between cells, not the neuron part that typically receives input.",
+          "Correct. Dendrites receive signals from other cells and carry them toward the cell body.",
+          "Incorrect. The axon generally carries impulses away from the cell body toward another neuron or an effector."
+        ]
       }
     },
     {
@@ -4786,6 +4856,20 @@
       "explanation": {
         "hi": "आवेग डेंड्राइट से ग्रहण होकर कोशिका-शरीर से होता हुआ एक्सॉन के अंत तक जाता है, जहाँ से वह अगली कोशिका को सौंपा जाता है।",
         "en": "The impulse is received by the dendrite, passes through the cell body and travels to the axon tip, where it is handed to the next cell."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: यह क्रम उलटा है; एक्सॉन सामान्यतः कोशिका-शरीर से दूर आवेग ले जाता है।",
+          "गलत: पेशी प्रभावक हो सकती है, लेकिन वह न्यूरॉन के भीतर आवेग के क्रम का भाग नहीं।",
+          "गलत: सामान्य न्यूरॉन में सूचना-प्रवाह की दिशा होती है, हालांकि वास्तविक नेटवर्क जटिल होते हैं।",
+          "सही: सामान्य क्रम में डेंड्राइट संकेत ग्रहण करते हैं, कोशिका-शरीर उसे एकीकृत करता है और एक्सॉन आवेग आगे ले जाता है।"
+        ],
+        "en": [
+          "Incorrect. This sequence is reversed; the axon usually carries impulses away from the cell body.",
+          "Incorrect. A muscle can be an effector, but it is not part of the impulse pathway within a neuron.",
+          "Incorrect. A typical neuron has a direction of signal flow, although real neural networks are complex.",
+          "Correct. Typically, dendrites receive input, the cell body integrates it, and the axon carries the impulse onward."
+        ]
       }
     },
     {
@@ -4814,6 +4898,20 @@
       "explanation": {
         "hi": "कई लंबे एक्सॉन मिलकर बंडल बनाते हैं जिन्हें तंत्रिका कहा जाता है — जैसे विद्युत के तारों का केबल।",
         "en": "Many long axons bundle together to form a nerve — like a cable of electrical wires."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: एक परिधीय तंत्रिका में अनेक न्यूरॉनों के एक्सॉन/तंत्रिका तंतु संयोजी ऊतक की परतों के साथ बंडल में व्यवस्थित होते हैं।",
+          "गलत: एक अकेली कोशिका न्यूरॉन कहलाती है, पूरी तंत्रिका नहीं।",
+          "गलत: पेशी संकुचन करके बल उत्पन्न करती है; तंत्रिका तंतुओं का बंडल नहीं।",
+          "गलत: रक्त वाहिका रक्त ले जाती है; तंत्रिका आवेग ले जाने वाले तंतुओं का बंडल है।"
+        ],
+        "en": [
+          "Correct. A peripheral nerve contains bundles of axons/nerve fibres organised with connective-tissue coverings.",
+          "Incorrect. A single cell is a neuron, not an entire nerve.",
+          "Incorrect. Muscle produces force by contraction; it is not a bundle of nerve fibres.",
+          "Incorrect. A blood vessel carries blood; a nerve carries signals through nerve fibres."
+        ]
       }
     },
     {
@@ -4842,6 +4940,20 @@
       "explanation": {
         "hi": "दो न्यूरॉन के बीच सूक्ष्म अंतराल होता है — सिनैप्स — जहाँ रसायन के द्वारा आवेग अगले न्यूरॉन तक पहुँचता है।",
         "en": "Between two neurons lies a tiny gap — the synapse — where chemicals carry the impulse to the next neuron."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: माइलिन म्यान एक्सॉन को ढकती है और कई न्यूरॉनों में आवेग-संचरण तेज करती है; यह न्यूरॉनों के बीच का जोड़ नहीं।",
+          "सही: सिनैप्स वह जंक्शन है जहाँ एक न्यूरॉन दूसरे न्यूरॉन या प्रभावक कोशिका तक संकेत पहुँचाता है; रासायनिक सिनैप्स में न्यूरोट्रांसमीटर काम करते हैं।",
+          "गलत: डेंड्राइट न्यूरॉन का ग्रहण करने वाला भाग है, दो न्यूरॉनों के बीच का जंक्शन नहीं।",
+          "गलत: कोशिका-शरीर में केंद्रक होता है; यह दो न्यूरॉनों के बीच का संक्रमण-स्थल नहीं।"
+        ],
+        "en": [
+          "Incorrect. The myelin sheath covers an axon and speeds conduction in many neurons; it is not the junction between neurons.",
+          "Correct. A synapse is the junction where one neuron communicates with another neuron or an effector; chemical synapses use neurotransmitters.",
+          "Incorrect. A dendrite is a receiving part of a neuron, not the junction between two neurons.",
+          "Incorrect. The cell body contains the nucleus; it is not the junction between neurons."
+        ]
       }
     },
     {
@@ -4870,6 +4982,20 @@
       "explanation": {
         "hi": "न्यूरॉन के कोशिका-शरीर मस्तिष्क व मेरुरज्जु में सघन रहते हैं, जबकि लंबे एक्सॉन तंत्रिकाओं के रूप में शरीर भर में फैलते हैं।",
         "en": "Neuron cell bodies cluster in the brain and spinal cord, while their long axons run through nerves all over the body."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: त्वचा की बाह्य परत में मुख्यतः उपकला कोशिकाएँ होती हैं; अधिकांश न्यूरॉन कोशिका-शरीर वहाँ नहीं होते।",
+          "गलत: यकृत में तंत्रिका आपूर्ति होती है, पर न्यूरॉन कोशिका-शरीरों का मुख्य केंद्र नहीं।",
+          "सही: अधिकांश केंद्रीय न्यूरॉन कोशिका-शरीर मस्तिष्क और मेरुरज्जु में होते हैं; कुछ कोशिका-शरीर परिधीय गैन्ग्लिया में भी पाए जाते हैं।",
+          "गलत: रक्त प्लाज्मा में न्यूरॉन कोशिका-शरीर नहीं तैरते।"
+        ],
+        "en": [
+          "Incorrect. The outer skin is mainly epithelial cells; most neuron cell bodies are not located there.",
+          "Incorrect. The liver has nerve supply but is not the main location of neuron cell bodies.",
+          "Correct. Most central neuron cell bodies are in the brain and spinal cord; some are also found in peripheral ganglia.",
+          "Incorrect. Neuron cell bodies do not float in blood plasma."
+        ]
       }
     },
     {
@@ -4898,6 +5024,20 @@
       "explanation": {
         "hi": "तंत्रिका ऊतक विद्युत-रासायनिक आवेगों से पलक झपकते सूचना शरीर के एक सिरे से दूसरे सिरे तक पहुँचाता है।",
         "en": "Using electro-chemical impulses, nervous tissue relays information from one end of the body to the other in a blink."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: अस्थियों को जोड़ना संयोजी ऊतक और लिगामेंट जैसे ढाँचे का कार्य है।",
+          "गलत: भोजन भंडारण मृदूतक/वसा जैसे ऊतकों का कार्य है, तंत्रिका ऊतक का नहीं।",
+          "गलत: रक्त कोशिकाएँ मुख्यतः लाल अस्थिमज्जा में बनती हैं।",
+          "सही: तंत्रिका आवेग और सिनैप्टिक संचार शरीर के विभिन्न भागों तक संवेदना, आदेश और प्रतिक्रिया की सूचना पहुँचाते हैं।"
+        ],
+        "en": [
+          "Incorrect. Connecting bones is a role of connective tissues such as ligaments.",
+          "Incorrect. Food storage is a role of tissues such as parenchyma or adipose tissue, not nervous tissue.",
+          "Incorrect. Blood cells are mainly produced in red bone marrow.",
+          "Correct. Nerve impulses and synaptic communication carry sensory, command and response information between body regions."
+        ]
       }
     },
     {
