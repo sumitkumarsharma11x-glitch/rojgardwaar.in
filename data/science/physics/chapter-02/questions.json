@@ -612,8 +612,8 @@
       },
       "correct": 1,
       "explanation": {
-        "hi": "घुमाव पथ को लंबा करता है, रस्सी को नहीं।",
-        "en": "The distance travelled along a curved track is the length of the route, while displacement is the straight-line change from the starting point to the endpoint. Distance is always greater than or equal to the magnitude of displacement."
+        "hi": "वास्तविक पथ की लंबाई दूरी है; प्रारंभिक और अंतिम बिंदुओं के बीच की सीधी रेखा का परिमाण विस्थापन है। इसलिए दूरी हमेशा विस्थापन के परिमाण के बराबर या उससे अधिक होती है.",
+        "en": "Distance is the length of the actual route; displacement is the magnitude of the straight-line change from start to finish. Distance is therefore always greater than or equal to the magnitude of displacement."
       }
     },
     {
@@ -1685,8 +1685,8 @@
       "topic": "speed-velocity",
       "difficulty": "medium",
       "question": {
-        "hi": "15 मीटर/सेकंड की चाल से चलती रेल 600 मीटर का पुल कितने समय में पार करेगी?",
-        "en": "At 15 m/s, in what time does a rail cross a 600-metre bridge?"
+        "hi": "15 मीटर/सेकंड की चाल से चलती रेल 600 मीटर की दूरी तय करने में कितना समय लेगी?",
+        "en": "How long does a train moving at 15 m/s take to travel 600 metres?"
       },
       "options": {
         "hi": [
@@ -1704,8 +1704,8 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "औसत चाल = कुल दूरी ÷ कुल समय। दूरी और समय की इकाइयाँ पहले एक जैसी प्रणाली में रखें।",
-        "en": "Using time = distance ÷ speed, 600 m ÷ 15 m/s = 40 s. This assumes the 600 m is the total distance being asked about; if 'cross a 600 m bridge' means a train's entire length must clear the bridge, the train's length must also be added."
+        "hi": "समय = दूरी ÷ चाल = 600 m ÷ 15 m/s = 40 s। पुल पार करने के प्रश्न में रेल की लंबाई भी जोड़नी पड़ती है; यहाँ कुल दूरी 600 m दी गई है।",
+        "en": "Time = distance ÷ speed = 600 m ÷ 15 m/s = 40 s. A true bridge-crossing problem must also include the train's length; here the stated travel distance is 600 m."
       }
     },
     {
