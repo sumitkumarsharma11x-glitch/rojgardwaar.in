@@ -3683,15 +3683,15 @@
     "optionExplanations": {
       "hi": [
         "सही—रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—आसवन इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—चुंबकीय पृथक्करण इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—क्रिस्टलीकरण इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।"
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।"
       ],
       "en": [
         "Correct—Sand is insoluble in water and remains on the filter.",
-        "Incorrect—distillation is not suitable here; Sand is insoluble in water and remains on the filter.",
-        "Incorrect—magnetic separation is not suitable here; Sand is insoluble in water and remains on the filter.",
-        "Incorrect—crystallisation is not suitable here; Sand is insoluble in water and remains on the filter."
+        "Incorrect—distillation does not match the goal here; Sand is insoluble in water and remains on the filter.",
+        "Incorrect—magnetic separation does not match the goal here; Sand is insoluble in water and remains on the filter.",
+        "Incorrect—crystallisation does not match the goal here; Sand is insoluble in water and remains on the filter."
       ]
     }
   },
@@ -3724,15 +3724,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—छानना इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
-        "गलत—हस्तचयन इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
-        "गलत—चालनीकरण इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
         "सही—पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।"
       ],
       "en": [
-        "Incorrect—filtration is not suitable here; Water evaporates and the less volatile salt can remain.",
-        "Incorrect—handpicking is not suitable here; Water evaporates and the less volatile salt can remain.",
-        "Incorrect—sieving is not suitable here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—filtration does not match the goal here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—handpicking does not match the goal here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—sieving does not match the goal here; Water evaporates and the less volatile salt can remain.",
         "Correct—Water evaporates and the less volatile salt can remain."
       ]
     }
@@ -3766,16 +3766,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—केवल वाष्पीकरण इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
-        "गलत—हस्तचयन इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
+        "गलत—केवल वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
         "सही—आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
-        "गलत—चुंबक लगाना इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।"
+        "गलत—चुंबक लगाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।"
       ],
       "en": [
-        "Incorrect—evaporation alone is not suitable here; Distillation condenses water vapour so it can be collected.",
-        "Incorrect—handpicking is not suitable here; Distillation condenses water vapour so it can be collected.",
+        "Incorrect—evaporation alone does not match the goal here; Distillation condenses water vapour so it can be collected.",
+        "Incorrect—handpicking does not match the goal here; Distillation condenses water vapour so it can be collected.",
         "Correct—Distillation condenses water vapour so it can be collected.",
-        "Incorrect—using a magnet is not suitable here; Distillation condenses water vapour so it can be collected."
+        "Incorrect—using a magnet does not match the goal here; Distillation condenses water vapour so it can be collected."
       ]
     }
   },
@@ -3808,16 +3808,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—छानना इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
+        "गलत—छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
         "सही—दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
-        "गलत—चालनीकरण इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
-        "गलत—हस्तचयन इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।"
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।"
       ],
       "en": [
-        "Incorrect—filtration is not suitable here; The immiscible liquids form separate layers that can be drained separately.",
+        "Incorrect—filtration does not match the goal here; The immiscible liquids form separate layers that can be drained separately.",
         "Correct—The immiscible liquids form separate layers that can be drained separately.",
-        "Incorrect—sieving is not suitable here; The immiscible liquids form separate layers that can be drained separately.",
-        "Incorrect—handpicking is not suitable here; The immiscible liquids form separate layers that can be drained separately."
+        "Incorrect—sieving does not match the goal here; The immiscible liquids form separate layers that can be drained separately.",
+        "Incorrect—handpicking does not match the goal here; The immiscible liquids form separate layers that can be drained separately."
       ]
     }
   },
@@ -3850,16 +3850,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—वाष्पीकरण इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
+        "गलत—वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
         "सही—लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
-        "गलत—पृथक्करण कीप इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
-        "गलत—निस्तारण इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।"
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
+        "गलत—निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।"
       ],
       "en": [
-        "Incorrect—evaporation is not suitable here; Iron is attracted to a magnet whereas sand generally is not.",
+        "Incorrect—evaporation does not match the goal here; Iron is attracted to a magnet whereas sand generally is not.",
         "Correct—Iron is attracted to a magnet whereas sand generally is not.",
-        "Incorrect—separating funnel is not suitable here; Iron is attracted to a magnet whereas sand generally is not.",
-        "Incorrect—decantation is not suitable here; Iron is attracted to a magnet whereas sand generally is not."
+        "Incorrect—separating funnel does not match the goal here; Iron is attracted to a magnet whereas sand generally is not.",
+        "Incorrect—decantation does not match the goal here; Iron is attracted to a magnet whereas sand generally is not."
       ]
     }
   },
@@ -3893,15 +3893,15 @@
     "optionExplanations": {
       "hi": [
         "सही—हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—आसवन इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—क्रोमैटोग्राफी इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—क्रिस्टलीकरण इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।"
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
+        "गलत—क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।"
       ],
       "en": [
         "Correct—Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—distillation is not suitable here; Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—chromatography is not suitable here; Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—crystallisation is not suitable here; Light husk is carried farther by air while heavier grain falls nearer."
+        "Incorrect—distillation does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer.",
+        "Incorrect—chromatography does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer.",
+        "Incorrect—crystallisation does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer."
       ]
     }
   },
@@ -3934,15 +3934,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—आसवन इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
-        "गलत—वाष्पीकरण इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
-        "गलत—पृथक्करण कीप इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
+        "गलत—वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
         "सही—कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।"
       ],
       "en": [
-        "Incorrect—distillation is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain.",
-        "Incorrect—evaporation is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain.",
-        "Incorrect—separating funnel is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain.",
+        "Incorrect—distillation does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain.",
+        "Incorrect—evaporation does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain.",
+        "Incorrect—separating funnel does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain.",
         "Correct—Particle-size differences let smaller grains pass through while larger pieces remain."
       ]
     }
@@ -3976,16 +3976,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—उर्ध्वपातन इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
-        "गलत—क्रोमैटोग्राफी इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—उर्ध्वपातन इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
         "सही—गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
-        "गलत—चुंबकीय पृथक्करण इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।"
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।"
       ],
       "en": [
-        "Incorrect—sublimation is not suitable here; Heavier insoluble particles settle under gravity.",
-        "Incorrect—chromatography is not suitable here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—sublimation does not match the goal here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—chromatography does not match the goal here; Heavier insoluble particles settle under gravity.",
         "Correct—Heavier insoluble particles settle under gravity.",
-        "Incorrect—magnetic separation is not suitable here; Heavier insoluble particles settle under gravity."
+        "Incorrect—magnetic separation does not match the goal here; Heavier insoluble particles settle under gravity."
       ]
     }
   },
@@ -4018,16 +4018,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—क्रिस्टलीकरण इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
-        "गलत—आसवन इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
         "सही—ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
-        "गलत—चालनीकरण इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।"
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।"
       ],
       "en": [
-        "Incorrect—crystallisation is not suitable here; The upper liquid is carefully poured off, leaving sediment behind.",
-        "Incorrect—distillation is not suitable here; The upper liquid is carefully poured off, leaving sediment behind.",
+        "Incorrect—crystallisation does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind.",
+        "Incorrect—distillation does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind.",
         "Correct—The upper liquid is carefully poured off, leaving sediment behind.",
-        "Incorrect—sieving is not suitable here; The upper liquid is carefully poured off, leaving sediment behind."
+        "Incorrect—sieving does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind."
       ]
     }
   },
@@ -4060,16 +4060,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—चुंबकीय पृथक्करण इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
         "सही—घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
-        "गलत—हस्तचयन इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
-        "गलत—निस्तारण इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।"
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
+        "गलत—निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।"
       ],
       "en": [
-        "Incorrect—magnetic separation is not suitable here; Components interact differently with paper and solvent, so they travel different distances.",
+        "Incorrect—magnetic separation does not match the goal here; Components interact differently with paper and solvent, so they travel different distances.",
         "Correct—Components interact differently with paper and solvent, so they travel different distances.",
-        "Incorrect—handpicking is not suitable here; Components interact differently with paper and solvent, so they travel different distances.",
-        "Incorrect—decantation is not suitable here; Components interact differently with paper and solvent, so they travel different distances."
+        "Incorrect—handpicking does not match the goal here; Components interact differently with paper and solvent, so they travel different distances.",
+        "Incorrect—decantation does not match the goal here; Components interact differently with paper and solvent, so they travel different distances."
       ]
     }
   },
@@ -4083,13 +4083,13 @@
     },
     "options": {
       "hi": [
-        "यह संभव नहीं; वाष्पीकरण उपयोगी है",
+        "वाष्पीकरण",
         "छानना पर्याप्त है",
         "चुंबक नमक रोक लेगा",
         "हस्तचयन करना"
       ],
       "en": [
-        "not possible this way; evaporation is useful",
+        "evaporation",
         "filtration is sufficient",
         "a magnet will retain salt",
         "handpick it"
@@ -4103,15 +4103,15 @@
     "optionExplanations": {
       "hi": [
         "सही—घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
-        "गलत—छानना पर्याप्त है इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
-        "गलत—चुंबक नमक रोक लेगा इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
-        "गलत—हस्तचयन करना इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।"
+        "गलत—छानना पर्याप्त है इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "गलत—चुंबक नमक रोक लेगा इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "गलत—हस्तचयन करना इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।"
       ],
       "en": [
         "Correct—Dissolved salt passes through filter pores with the solution.",
-        "Incorrect—filtration is sufficient is not suitable here; Dissolved salt passes through filter pores with the solution.",
-        "Incorrect—a magnet will retain salt is not suitable here; Dissolved salt passes through filter pores with the solution.",
-        "Incorrect—handpick it is not suitable here; Dissolved salt passes through filter pores with the solution."
+        "Incorrect—filtration is sufficient does not match the goal here; Dissolved salt passes through filter pores with the solution.",
+        "Incorrect—a magnet will retain salt does not match the goal here; Dissolved salt passes through filter pores with the solution.",
+        "Incorrect—handpick it does not match the goal here; Dissolved salt passes through filter pores with the solution."
       ]
     }
   },
@@ -4144,15 +4144,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—पहले क्रिस्टलीकरण इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
-        "गलत—पहले चुंबक इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
-        "गलत—पहले क्रोमैटोग्राफी इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
+        "गलत—पहले क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
+        "गलत—पहले चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
+        "गलत—पहले क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
         "सही—रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।"
       ],
       "en": [
-        "Incorrect—crystallisation first is not suitable here; Sand remains insoluble and is retained while the salt solution passes through.",
-        "Incorrect—magnet first is not suitable here; Sand remains insoluble and is retained while the salt solution passes through.",
-        "Incorrect—chromatography first is not suitable here; Sand remains insoluble and is retained while the salt solution passes through.",
+        "Incorrect—crystallisation first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through.",
+        "Incorrect—magnet first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through.",
+        "Incorrect—chromatography first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through.",
         "Correct—Sand remains insoluble and is retained while the salt solution passes through."
       ]
     }
@@ -4186,15 +4186,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—केवल चुंबक इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
-        "गलत—केवल फटकना इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
-        "गलत—केवल निस्तारण इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल फटकना इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
         "सही—चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।"
       ],
       "en": [
-        "Incorrect—magnet alone is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
-        "Incorrect—winnowing alone is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
-        "Incorrect—decantation alone is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—magnet alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—winnowing alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—decantation alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
         "Correct—Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate."
       ]
     }
@@ -4228,16 +4228,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—हस्तचयन इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
-        "गलत—चालनीकरण इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
         "सही—प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
-        "गलत—अवसादन इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।"
+        "गलत—अवसादन इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।"
       ],
       "en": [
-        "Incorrect—handpicking is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation.",
-        "Incorrect—sieving is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Incorrect—handpicking does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Incorrect—sieving does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation.",
         "Correct—A fractionating column improves separation through repeated vaporisation-condensation.",
-        "Incorrect—sedimentation is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation."
+        "Incorrect—sedimentation does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation."
       ]
     }
   },
@@ -4266,20 +4266,20 @@
     "correct": 1,
     "explanation": {
       "hi": "घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-      "en": "Dissolved sugar passes through a filter; removing solvent or crystallising can recover it."
+      "en": "Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar."
     },
     "optionExplanations": {
       "hi": [
-        "गलत—साधारण छानना इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
+        "गलत—साधारण छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
         "सही—घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-        "गलत—चुंबकीय पृथक्करण इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-        "गलत—पृथक्करण कीप इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।"
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।"
       ],
       "en": [
-        "Incorrect—ordinary filtration is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Correct—Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Incorrect—magnetic separation is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Incorrect—separating funnel is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it."
+        "Incorrect—ordinary filtration does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Correct—Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Incorrect—magnetic separation does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Incorrect—separating funnel does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar."
       ]
     }
   },
@@ -4313,15 +4313,15 @@
     "optionExplanations": {
       "hi": [
         "सही—घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
-        "गलत—विषमांगी मिश्रण इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
-        "गलत—शुद्ध तत्व इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
-        "गलत—अमिश्रणीय द्रव इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।"
+        "गलत—विषमांगी मिश्रण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
+        "गलत—शुद्ध तत्व इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
+        "गलत—अमिश्रणीय द्रव इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।"
       ],
       "en": [
         "Correct—Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
-        "Incorrect—heterogeneous mixture is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
-        "Incorrect—pure element is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
-        "Incorrect—immiscible liquids is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition."
+        "Incorrect—heterogeneous mixture does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
+        "Incorrect—pure element does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
+        "Incorrect—immiscible liquids does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition."
       ]
     }
   },
@@ -4355,15 +4355,15 @@
     "optionExplanations": {
       "hi": [
         "सही—अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—समांगी मिश्रण इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—शुद्ध तत्व इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—एकल यौगिक इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।"
+        "गलत—समांगी मिश्रण इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
+        "गलत—शुद्ध तत्व इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
+        "गलत—एकल यौगिक इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।"
       ],
       "en": [
         "Correct—Separate layers show that composition is not uniform throughout.",
-        "Incorrect—homogeneous mixture is not suitable here; Separate layers show that composition is not uniform throughout.",
-        "Incorrect—pure element is not suitable here; Separate layers show that composition is not uniform throughout.",
-        "Incorrect—single compound is not suitable here; Separate layers show that composition is not uniform throughout."
+        "Incorrect—homogeneous mixture does not match the goal here; Separate layers show that composition is not uniform throughout.",
+        "Incorrect—pure element does not match the goal here; Separate layers show that composition is not uniform throughout.",
+        "Incorrect—single compound does not match the goal here; Separate layers show that composition is not uniform throughout."
       ]
     }
   },
@@ -4396,15 +4396,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—निस्यंद इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
-        "गलत—आसुत इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
-        "गलत—विलायक इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—निस्यंद इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—आसुत इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—विलायक इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
         "सही—निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।"
       ],
       "en": [
-        "Incorrect—filtrate is not suitable here; The solid left on the filter during filtration is called the residue.",
-        "Incorrect—distillate is not suitable here; The solid left on the filter during filtration is called the residue.",
-        "Incorrect—solvent is not suitable here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—filtrate does not match the goal here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—distillate does not match the goal here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—solvent does not match the goal here; The solid left on the filter during filtration is called the residue.",
         "Correct—The solid left on the filter during filtration is called the residue."
       ]
     }
@@ -4438,16 +4438,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—अवशेष इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
-        "गलत—तलछट इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
+        "गलत—अवशेष इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
+        "गलत—तलछट इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
         "सही—वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
-        "गलत—निस्यंद इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।"
+        "गलत—निस्यंद इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।"
       ],
       "en": [
-        "Incorrect—residue is not suitable here; The liquid collected after vapour condenses is called the distillate.",
-        "Incorrect—sediment is not suitable here; The liquid collected after vapour condenses is called the distillate.",
+        "Incorrect—residue does not match the goal here; The liquid collected after vapour condenses is called the distillate.",
+        "Incorrect—sediment does not match the goal here; The liquid collected after vapour condenses is called the distillate.",
         "Correct—The liquid collected after vapour condenses is called the distillate.",
-        "Incorrect—filtrate is not suitable here; The liquid collected after vapour condenses is called the distillate."
+        "Incorrect—filtrate does not match the goal here; The liquid collected after vapour condenses is called the distillate."
       ]
     }
   },
@@ -4462,13 +4462,13 @@
     "options": {
       "hi": [
         "हमेशा छानना",
-        "केवल पानी मिलाना पर्याप्त नहीं; दूसरा भौतिक गुण देखें",
+        "दूसरा भौतिक गुण देखें",
         "हमेशा चुंबक",
         "हस्तचयन ही"
       ],
       "en": [
         "always filtration",
-        "adding water alone is insufficient; consider another physical property",
+        "consider another physical property",
         "always a magnet",
         "handpicking only"
       ]
@@ -4480,16 +4480,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—हमेशा छानना इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
+        "गलत—हमेशा छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
         "सही—यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
-        "गलत—हमेशा चुंबक इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
-        "गलत—हस्तचयन ही इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।"
+        "गलत—हमेशा चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
+        "गलत—हस्तचयन ही इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।"
       ],
       "en": [
-        "Incorrect—always filtration is not suitable here; If both components dissolve, solubility and filtration alone will not separate them.",
+        "Incorrect—always filtration does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them.",
         "Correct—If both components dissolve, solubility and filtration alone will not separate them.",
-        "Incorrect—always a magnet is not suitable here; If both components dissolve, solubility and filtration alone will not separate them.",
-        "Incorrect—handpicking only is not suitable here; If both components dissolve, solubility and filtration alone will not separate them."
+        "Incorrect—always a magnet does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them.",
+        "Incorrect—handpicking only does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them."
       ]
     }
   },
@@ -4522,16 +4522,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—और विलायक मिलाना इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
+        "गलत—और विलायक मिलाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
         "सही—बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
-        "गलत—चुंबक लगाना इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
-        "गलत—केवल छानना इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।"
+        "गलत—चुंबक लगाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
+        "गलत—केवल छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।"
       ],
       "en": [
-        "Incorrect—add more solvent is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
+        "Incorrect—add more solvent does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
         "Correct—A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
-        "Incorrect—use a magnet is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
-        "Incorrect—only filter is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form."
+        "Incorrect—use a magnet does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
+        "Incorrect—only filter does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form."
       ]
     }
   },
@@ -4546,15 +4546,15 @@
     "options": {
       "hi": [
         "निस्यंदन",
-        null,
-        null,
-        null
+        "आसवन",
+        "चुंबकीय पृथक्करण",
+        "क्रिस्टलीकरण"
       ],
       "en": [
         "filtration",
-        null,
-        null,
-        null
+        "distillation",
+        "magnetic separation",
+        "crystallisation"
       ]
     },
     "correct": 0,
@@ -4565,15 +4565,15 @@
     "optionExplanations": {
       "hi": [
         "सही—रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।"
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।"
       ],
       "en": [
         "Correct—Sand is insoluble in water and remains on the filter.",
-        "Incorrect—undefined is not suitable here; Sand is insoluble in water and remains on the filter.",
-        "Incorrect—undefined is not suitable here; Sand is insoluble in water and remains on the filter.",
-        "Incorrect—undefined is not suitable here; Sand is insoluble in water and remains on the filter."
+        "Incorrect—distillation does not match the goal here; Sand is insoluble in water and remains on the filter.",
+        "Incorrect—magnetic separation does not match the goal here; Sand is insoluble in water and remains on the filter.",
+        "Incorrect—crystallisation does not match the goal here; Sand is insoluble in water and remains on the filter."
       ]
     }
   },
@@ -4587,15 +4587,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "छानना",
+        "हस्तचयन",
+        "चालनीकरण",
         "वाष्पीकरण"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "filtration",
+        "handpicking",
+        "sieving",
         "evaporation"
       ]
     },
@@ -4606,15 +4606,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
         "सही—पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Water evaporates and the less volatile salt can remain.",
-        "Incorrect—undefined is not suitable here; Water evaporates and the less volatile salt can remain.",
-        "Incorrect—undefined is not suitable here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—filtration does not match the goal here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—handpicking does not match the goal here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—sieving does not match the goal here; Water evaporates and the less volatile salt can remain.",
         "Correct—Water evaporates and the less volatile salt can remain."
       ]
     }
@@ -4629,16 +4629,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "केवल वाष्पीकरण",
+        "हस्तचयन",
         "आसवन",
-        null
+        "चुंबक लगाना"
       ],
       "en": [
-        null,
-        null,
+        "evaporation alone",
+        "handpicking",
         "distillation",
-        null
+        "using a magnet"
       ]
     },
     "correct": 2,
@@ -4648,16 +4648,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
+        "गलत—केवल वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
         "सही—आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।"
+        "गलत—चुंबक लगाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Distillation condenses water vapour so it can be collected.",
-        "Incorrect—undefined is not suitable here; Distillation condenses water vapour so it can be collected.",
+        "Incorrect—evaporation alone does not match the goal here; Distillation condenses water vapour so it can be collected.",
+        "Incorrect—handpicking does not match the goal here; Distillation condenses water vapour so it can be collected.",
         "Correct—Distillation condenses water vapour so it can be collected.",
-        "Incorrect—undefined is not suitable here; Distillation condenses water vapour so it can be collected."
+        "Incorrect—using a magnet does not match the goal here; Distillation condenses water vapour so it can be collected."
       ]
     }
   },
@@ -4671,16 +4671,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "छानना",
+        "चालनीकरण",
         "पृथक्करण कीप",
-        null
+        "हस्तचयन"
       ],
       "en": [
-        null,
-        null,
+        "filtration",
+        "sieving",
         "separating funnel",
-        null
+        "handpicking"
       ]
     },
     "correct": 2,
@@ -4690,16 +4690,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
+        "गलत—छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
         "सही—दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।"
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; The immiscible liquids form separate layers that can be drained separately.",
-        "Incorrect—undefined is not suitable here; The immiscible liquids form separate layers that can be drained separately.",
+        "Incorrect—filtration does not match the goal here; The immiscible liquids form separate layers that can be drained separately.",
+        "Incorrect—sieving does not match the goal here; The immiscible liquids form separate layers that can be drained separately.",
         "Correct—The immiscible liquids form separate layers that can be drained separately.",
-        "Incorrect—undefined is not suitable here; The immiscible liquids form separate layers that can be drained separately."
+        "Incorrect—handpicking does not match the goal here; The immiscible liquids form separate layers that can be drained separately."
       ]
     }
   },
@@ -4713,16 +4713,16 @@
     },
     "options": {
       "hi": [
-        null,
+        "वाष्पीकरण",
         "चुंबकीय पृथक्करण",
-        null,
-        null
+        "पृथक्करण कीप",
+        "निस्तारण"
       ],
       "en": [
-        null,
+        "evaporation",
         "magnetic separation",
-        null,
-        null
+        "separating funnel",
+        "decantation"
       ]
     },
     "correct": 1,
@@ -4732,16 +4732,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
+        "गलत—वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
         "सही—लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।"
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
+        "गलत—निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Iron is attracted to a magnet whereas sand generally is not.",
+        "Incorrect—evaporation does not match the goal here; Iron is attracted to a magnet whereas sand generally is not.",
         "Correct—Iron is attracted to a magnet whereas sand generally is not.",
-        "Incorrect—undefined is not suitable here; Iron is attracted to a magnet whereas sand generally is not.",
-        "Incorrect—undefined is not suitable here; Iron is attracted to a magnet whereas sand generally is not."
+        "Incorrect—separating funnel does not match the goal here; Iron is attracted to a magnet whereas sand generally is not.",
+        "Incorrect—decantation does not match the goal here; Iron is attracted to a magnet whereas sand generally is not."
       ]
     }
   },
@@ -4756,15 +4756,15 @@
     "options": {
       "hi": [
         "फटकना",
-        null,
-        null,
-        null
+        "आसवन",
+        "क्रोमैटोग्राफी",
+        "क्रिस्टलीकरण"
       ],
       "en": [
         "winnowing",
-        null,
-        null,
-        null
+        "distillation",
+        "chromatography",
+        "crystallisation"
       ]
     },
     "correct": 0,
@@ -4775,15 +4775,15 @@
     "optionExplanations": {
       "hi": [
         "सही—हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।"
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
+        "गलत—क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।"
       ],
       "en": [
         "Correct—Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—undefined is not suitable here; Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—undefined is not suitable here; Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—undefined is not suitable here; Light husk is carried farther by air while heavier grain falls nearer."
+        "Incorrect—distillation does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer.",
+        "Incorrect—chromatography does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer.",
+        "Incorrect—crystallisation does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer."
       ]
     }
   },
@@ -4797,15 +4797,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "आसवन",
+        "वाष्पीकरण",
+        "पृथक्करण कीप",
         "चालनीकरण"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "distillation",
+        "evaporation",
+        "separating funnel",
         "sieving"
       ]
     },
@@ -4816,15 +4816,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
+        "गलत—वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
         "सही—कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain.",
-        "Incorrect—undefined is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain.",
-        "Incorrect—undefined is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain.",
+        "Incorrect—distillation does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain.",
+        "Incorrect—evaporation does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain.",
+        "Incorrect—separating funnel does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain.",
         "Correct—Particle-size differences let smaller grains pass through while larger pieces remain."
       ]
     }
@@ -4839,15 +4839,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "उर्ध्वपातन",
+        "क्रोमैटोग्राफी",
+        "चुंबकीय पृथक्करण",
         "अवसादन"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "sublimation",
+        "chromatography",
+        "magnetic separation",
         "sedimentation"
       ]
     },
@@ -4858,15 +4858,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—उर्ध्वपातन इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
         "सही—गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Heavier insoluble particles settle under gravity.",
-        "Incorrect—undefined is not suitable here; Heavier insoluble particles settle under gravity.",
-        "Incorrect—undefined is not suitable here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—sublimation does not match the goal here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—chromatography does not match the goal here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—magnetic separation does not match the goal here; Heavier insoluble particles settle under gravity.",
         "Correct—Heavier insoluble particles settle under gravity."
       ]
     }
@@ -4881,16 +4881,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "क्रिस्टलीकरण",
+        "आसवन",
         "निस्तारण",
-        null
+        "चालनीकरण"
       ],
       "en": [
-        null,
-        null,
+        "crystallisation",
+        "distillation",
         "decantation",
-        null
+        "sieving"
       ]
     },
     "correct": 2,
@@ -4900,16 +4900,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
         "सही—ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।"
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; The upper liquid is carefully poured off, leaving sediment behind.",
-        "Incorrect—undefined is not suitable here; The upper liquid is carefully poured off, leaving sediment behind.",
+        "Incorrect—crystallisation does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind.",
+        "Incorrect—distillation does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind.",
         "Correct—The upper liquid is carefully poured off, leaving sediment behind.",
-        "Incorrect—undefined is not suitable here; The upper liquid is carefully poured off, leaving sediment behind."
+        "Incorrect—sieving does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind."
       ]
     }
   },
@@ -4923,16 +4923,16 @@
     },
     "options": {
       "hi": [
-        null,
+        "चुंबकीय पृथक्करण",
         "कागज क्रोमैटोग्राफी",
-        null,
-        null
+        "हस्तचयन",
+        "निस्तारण"
       ],
       "en": [
-        null,
+        "magnetic separation",
         "paper chromatography",
-        null,
-        null
+        "handpicking",
+        "decantation"
       ]
     },
     "correct": 1,
@@ -4942,16 +4942,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
         "सही—घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।"
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
+        "गलत—निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Components interact differently with paper and solvent, so they travel different distances.",
+        "Incorrect—magnetic separation does not match the goal here; Components interact differently with paper and solvent, so they travel different distances.",
         "Correct—Components interact differently with paper and solvent, so they travel different distances.",
-        "Incorrect—undefined is not suitable here; Components interact differently with paper and solvent, so they travel different distances.",
-        "Incorrect—undefined is not suitable here; Components interact differently with paper and solvent, so they travel different distances."
+        "Incorrect—handpicking does not match the goal here; Components interact differently with paper and solvent, so they travel different distances.",
+        "Incorrect—decantation does not match the goal here; Components interact differently with paper and solvent, so they travel different distances."
       ]
     }
   },
@@ -4965,16 +4965,16 @@
     },
     "options": {
       "hi": [
-        "यह संभव नहीं; वाष्पीकरण उपयोगी है",
-        null,
-        null,
-        null
+        "वाष्पीकरण",
+        "छानना पर्याप्त है",
+        "चुंबक नमक रोक लेगा",
+        "हस्तचयन करना"
       ],
       "en": [
-        "not possible this way; evaporation is useful",
-        null,
-        null,
-        null
+        "evaporation",
+        "filtration is sufficient",
+        "a magnet will retain salt",
+        "handpick it"
       ]
     },
     "correct": 0,
@@ -4985,15 +4985,15 @@
     "optionExplanations": {
       "hi": [
         "सही—घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।"
+        "गलत—छानना पर्याप्त है इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "गलत—चुंबक नमक रोक लेगा इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "गलत—हस्तचयन करना इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।"
       ],
       "en": [
         "Correct—Dissolved salt passes through filter pores with the solution.",
-        "Incorrect—undefined is not suitable here; Dissolved salt passes through filter pores with the solution.",
-        "Incorrect—undefined is not suitable here; Dissolved salt passes through filter pores with the solution.",
-        "Incorrect—undefined is not suitable here; Dissolved salt passes through filter pores with the solution."
+        "Incorrect—filtration is sufficient does not match the goal here; Dissolved salt passes through filter pores with the solution.",
+        "Incorrect—a magnet will retain salt does not match the goal here; Dissolved salt passes through filter pores with the solution.",
+        "Incorrect—handpick it does not match the goal here; Dissolved salt passes through filter pores with the solution."
       ]
     }
   },
@@ -5008,15 +5008,15 @@
     "options": {
       "hi": [
         "पहले निस्यंदन",
-        null,
-        null,
-        null
+        "पहले क्रिस्टलीकरण",
+        "पहले चुंबक",
+        "पहले क्रोमैटोग्राफी"
       ],
       "en": [
         "filtration first",
-        null,
-        null,
-        null
+        "crystallisation first",
+        "magnet first",
+        "chromatography first"
       ]
     },
     "correct": 0,
@@ -5027,15 +5027,15 @@
     "optionExplanations": {
       "hi": [
         "सही—रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।"
+        "गलत—पहले क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
+        "गलत—पहले चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
+        "गलत—पहले क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।"
       ],
       "en": [
         "Correct—Sand remains insoluble and is retained while the salt solution passes through.",
-        "Incorrect—undefined is not suitable here; Sand remains insoluble and is retained while the salt solution passes through.",
-        "Incorrect—undefined is not suitable here; Sand remains insoluble and is retained while the salt solution passes through.",
-        "Incorrect—undefined is not suitable here; Sand remains insoluble and is retained while the salt solution passes through."
+        "Incorrect—crystallisation first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through.",
+        "Incorrect—magnet first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through.",
+        "Incorrect—chromatography first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through."
       ]
     }
   },
@@ -5049,15 +5049,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "केवल चुंबक",
+        "केवल फटकना",
+        "केवल निस्तारण",
         "पानी मिलाना, छानना और फिर विलायक हटाना"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "magnet alone",
+        "winnowing alone",
+        "decantation alone",
         "add water, filter, then remove the solvent"
       ]
     },
@@ -5068,15 +5068,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल फटकना इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
         "सही—चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
-        "Incorrect—undefined is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
-        "Incorrect—undefined is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—magnet alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—winnowing alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—decantation alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
         "Correct—Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate."
       ]
     }
@@ -5091,16 +5091,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "हस्तचयन",
+        "चालनीकरण",
         "प्रभाजी आसवन",
-        null
+        "अवसादन"
       ],
       "en": [
-        null,
-        null,
+        "handpicking",
+        "sieving",
         "fractional distillation",
-        null
+        "sedimentation"
       ]
     },
     "correct": 2,
@@ -5110,16 +5110,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
         "सही—प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।"
+        "गलत—अवसादन इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation.",
-        "Incorrect—undefined is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Incorrect—handpicking does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Incorrect—sieving does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation.",
         "Correct—A fractionating column improves separation through repeated vaporisation-condensation.",
-        "Incorrect—undefined is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation."
+        "Incorrect—sedimentation does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation."
       ]
     }
   },
@@ -5133,35 +5133,35 @@
     },
     "options": {
       "hi": [
-        null,
+        "साधारण छानना",
         "वाष्पीकरण या क्रिस्टलीकरण",
-        null,
-        null
+        "चुंबकीय पृथक्करण",
+        "पृथक्करण कीप"
       ],
       "en": [
-        null,
+        "ordinary filtration",
         "evaporation or crystallisation",
-        null,
-        null
+        "magnetic separation",
+        "separating funnel"
       ]
     },
     "correct": 1,
     "explanation": {
       "hi": "घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-      "en": "Dissolved sugar passes through a filter; removing solvent or crystallising can recover it."
+      "en": "Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar."
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
+        "गलत—साधारण छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
         "सही—घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।"
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Correct—Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Incorrect—undefined is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Incorrect—undefined is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it."
+        "Incorrect—ordinary filtration does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Correct—Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Incorrect—magnetic separation does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Incorrect—separating funnel does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar."
       ]
     }
   },
@@ -5175,16 +5175,16 @@
     },
     "options": {
       "hi": [
-        null,
+        "विषमांगी मिश्रण",
         "समांगी मिश्रण",
-        null,
-        null
+        "शुद्ध तत्व",
+        "अमिश्रणीय द्रव"
       ],
       "en": [
-        null,
+        "heterogeneous mixture",
         "homogeneous mixture",
-        null,
-        null
+        "pure element",
+        "immiscible liquids"
       ]
     },
     "correct": 1,
@@ -5194,16 +5194,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
+        "गलत—विषमांगी मिश्रण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
         "सही—घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।"
+        "गलत—शुद्ध तत्व इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
+        "गलत—अमिश्रणीय द्रव इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
+        "Incorrect—heterogeneous mixture does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
         "Correct—Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
-        "Incorrect—undefined is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
-        "Incorrect—undefined is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition."
+        "Incorrect—pure element does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
+        "Incorrect—immiscible liquids does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition."
       ]
     }
   },
@@ -5218,15 +5218,15 @@
     "options": {
       "hi": [
         "विषमांगी मिश्रण",
-        null,
-        null,
-        null
+        "समांगी मिश्रण",
+        "शुद्ध तत्व",
+        "एकल यौगिक"
       ],
       "en": [
         "heterogeneous mixture",
-        null,
-        null,
-        null
+        "homogeneous mixture",
+        "pure element",
+        "single compound"
       ]
     },
     "correct": 0,
@@ -5237,15 +5237,15 @@
     "optionExplanations": {
       "hi": [
         "सही—अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।"
+        "गलत—समांगी मिश्रण इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
+        "गलत—शुद्ध तत्व इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
+        "गलत—एकल यौगिक इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।"
       ],
       "en": [
         "Correct—Separate layers show that composition is not uniform throughout.",
-        "Incorrect—undefined is not suitable here; Separate layers show that composition is not uniform throughout.",
-        "Incorrect—undefined is not suitable here; Separate layers show that composition is not uniform throughout.",
-        "Incorrect—undefined is not suitable here; Separate layers show that composition is not uniform throughout."
+        "Incorrect—homogeneous mixture does not match the goal here; Separate layers show that composition is not uniform throughout.",
+        "Incorrect—pure element does not match the goal here; Separate layers show that composition is not uniform throughout.",
+        "Incorrect—single compound does not match the goal here; Separate layers show that composition is not uniform throughout."
       ]
     }
   },
@@ -5259,15 +5259,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "निस्यंद",
+        "आसुत",
+        "विलायक",
         "अवशेष"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "filtrate",
+        "distillate",
+        "solvent",
         "residue"
       ]
     },
@@ -5278,15 +5278,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—निस्यंद इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—आसुत इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—विलायक इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
         "सही—निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; The solid left on the filter during filtration is called the residue.",
-        "Incorrect—undefined is not suitable here; The solid left on the filter during filtration is called the residue.",
-        "Incorrect—undefined is not suitable here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—filtrate does not match the goal here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—distillate does not match the goal here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—solvent does not match the goal here; The solid left on the filter during filtration is called the residue.",
         "Correct—The solid left on the filter during filtration is called the residue."
       ]
     }
@@ -5301,16 +5301,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "अवशेष",
+        "तलछट",
         "आसुत",
-        null
+        "निस्यंद"
       ],
       "en": [
-        null,
-        null,
+        "residue",
+        "sediment",
         "distillate",
-        null
+        "filtrate"
       ]
     },
     "correct": 2,
@@ -5320,16 +5320,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
+        "गलत—अवशेष इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
+        "गलत—तलछट इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
         "सही—वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।"
+        "गलत—निस्यंद इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; The liquid collected after vapour condenses is called the distillate.",
-        "Incorrect—undefined is not suitable here; The liquid collected after vapour condenses is called the distillate.",
+        "Incorrect—residue does not match the goal here; The liquid collected after vapour condenses is called the distillate.",
+        "Incorrect—sediment does not match the goal here; The liquid collected after vapour condenses is called the distillate.",
         "Correct—The liquid collected after vapour condenses is called the distillate.",
-        "Incorrect—undefined is not suitable here; The liquid collected after vapour condenses is called the distillate."
+        "Incorrect—filtrate does not match the goal here; The liquid collected after vapour condenses is called the distillate."
       ]
     }
   },
@@ -5343,16 +5343,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        "केवल पानी मिलाना पर्याप्त नहीं; दूसरा भौतिक गुण देखें",
-        null
+        "हमेशा छानना",
+        "हमेशा चुंबक",
+        "दूसरा भौतिक गुण देखें",
+        "हस्तचयन ही"
       ],
       "en": [
-        null,
-        null,
-        "adding water alone is insufficient; consider another physical property",
-        null
+        "always filtration",
+        "always a magnet",
+        "consider another physical property",
+        "handpicking only"
       ]
     },
     "correct": 2,
@@ -5362,16 +5362,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
+        "गलत—हमेशा छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
+        "गलत—हमेशा चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
         "सही—यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।"
+        "गलत—हस्तचयन ही इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; If both components dissolve, solubility and filtration alone will not separate them.",
-        "Incorrect—undefined is not suitable here; If both components dissolve, solubility and filtration alone will not separate them.",
+        "Incorrect—always filtration does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them.",
+        "Incorrect—always a magnet does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them.",
         "Correct—If both components dissolve, solubility and filtration alone will not separate them.",
-        "Incorrect—undefined is not suitable here; If both components dissolve, solubility and filtration alone will not separate them."
+        "Incorrect—handpicking only does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them."
       ]
     }
   },
@@ -5385,16 +5385,16 @@
     },
     "options": {
       "hi": [
-        null,
+        "और विलायक मिलाना",
         "पहले विलयन को सांद्र करना",
-        null,
-        null
+        "चुंबक लगाना",
+        "केवल छानना"
       ],
       "en": [
-        null,
+        "add more solvent",
         "concentrate the solution first",
-        null,
-        null
+        "use a magnet",
+        "only filter"
       ]
     },
     "correct": 1,
@@ -5404,16 +5404,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
+        "गलत—और विलायक मिलाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
         "सही—बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।"
+        "गलत—चुंबक लगाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
+        "गलत—केवल छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
+        "Incorrect—add more solvent does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
         "Correct—A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
-        "Incorrect—undefined is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
-        "Incorrect—undefined is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form."
+        "Incorrect—use a magnet does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
+        "Incorrect—only filter does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form."
       ]
     }
   },
@@ -5428,15 +5428,15 @@
     "options": {
       "hi": [
         "निस्यंदन",
-        null,
-        null,
-        null
+        "आसवन",
+        "चुंबकीय पृथक्करण",
+        "क्रिस्टलीकरण"
       ],
       "en": [
         "filtration",
-        null,
-        null,
-        null
+        "distillation",
+        "magnetic separation",
+        "crystallisation"
       ]
     },
     "correct": 0,
@@ -5447,15 +5447,15 @@
     "optionExplanations": {
       "hi": [
         "सही—रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।"
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत पानी में अघुलनशील है और फिल्टर पर रुकती है।"
       ],
       "en": [
         "Correct—Sand is insoluble in water and remains on the filter.",
-        "Incorrect—undefined is not suitable here; Sand is insoluble in water and remains on the filter.",
-        "Incorrect—undefined is not suitable here; Sand is insoluble in water and remains on the filter.",
-        "Incorrect—undefined is not suitable here; Sand is insoluble in water and remains on the filter."
+        "Incorrect—distillation does not match the goal here; Sand is insoluble in water and remains on the filter.",
+        "Incorrect—magnetic separation does not match the goal here; Sand is insoluble in water and remains on the filter.",
+        "Incorrect—crystallisation does not match the goal here; Sand is insoluble in water and remains on the filter."
       ]
     }
   },
@@ -5469,15 +5469,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "छानना",
+        "हस्तचयन",
+        "चालनीकरण",
         "वाष्पीकरण"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "filtration",
+        "handpicking",
+        "sieving",
         "evaporation"
       ]
     },
@@ -5488,15 +5488,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।",
         "सही—पानी वाष्प बनकर निकलता है और कम वाष्पशील नमक बच सकता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Water evaporates and the less volatile salt can remain.",
-        "Incorrect—undefined is not suitable here; Water evaporates and the less volatile salt can remain.",
-        "Incorrect—undefined is not suitable here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—filtration does not match the goal here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—handpicking does not match the goal here; Water evaporates and the less volatile salt can remain.",
+        "Incorrect—sieving does not match the goal here; Water evaporates and the less volatile salt can remain.",
         "Correct—Water evaporates and the less volatile salt can remain."
       ]
     }
@@ -5511,15 +5511,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "केवल वाष्पीकरण",
+        "हस्तचयन",
+        "चुंबक लगाना",
         "आसवन"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "evaporation alone",
+        "handpicking",
+        "using a magnet",
         "distillation"
       ]
     },
@@ -5530,15 +5530,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
+        "गलत—केवल वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
+        "गलत—चुंबक लगाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।",
         "सही—आसवन में पानी की भाप को संघनित करके वापस एकत्र किया जाता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Distillation condenses water vapour so it can be collected.",
-        "Incorrect—undefined is not suitable here; Distillation condenses water vapour so it can be collected.",
-        "Incorrect—undefined is not suitable here; Distillation condenses water vapour so it can be collected.",
+        "Incorrect—evaporation alone does not match the goal here; Distillation condenses water vapour so it can be collected.",
+        "Incorrect—handpicking does not match the goal here; Distillation condenses water vapour so it can be collected.",
+        "Incorrect—using a magnet does not match the goal here; Distillation condenses water vapour so it can be collected.",
         "Correct—Distillation condenses water vapour so it can be collected."
       ]
     }
@@ -5553,16 +5553,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "छानना",
+        "चालनीकरण",
         "पृथक्करण कीप",
-        null
+        "हस्तचयन"
       ],
       "en": [
-        null,
-        null,
+        "filtration",
+        "sieving",
         "separating funnel",
-        null
+        "handpicking"
       ]
     },
     "correct": 2,
@@ -5572,16 +5572,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
+        "गलत—छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
         "सही—दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।"
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; दोनों अमिश्रणीय द्रव अलग परतें बनाते हैं जिन्हें अलग-अलग निकाला जा सकता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; The immiscible liquids form separate layers that can be drained separately.",
-        "Incorrect—undefined is not suitable here; The immiscible liquids form separate layers that can be drained separately.",
+        "Incorrect—filtration does not match the goal here; The immiscible liquids form separate layers that can be drained separately.",
+        "Incorrect—sieving does not match the goal here; The immiscible liquids form separate layers that can be drained separately.",
         "Correct—The immiscible liquids form separate layers that can be drained separately.",
-        "Incorrect—undefined is not suitable here; The immiscible liquids form separate layers that can be drained separately."
+        "Incorrect—handpicking does not match the goal here; The immiscible liquids form separate layers that can be drained separately."
       ]
     }
   },
@@ -5595,16 +5595,16 @@
     },
     "options": {
       "hi": [
-        null,
+        "वाष्पीकरण",
         "चुंबकीय पृथक्करण",
-        null,
-        null
+        "पृथक्करण कीप",
+        "निस्तारण"
       ],
       "en": [
-        null,
+        "evaporation",
         "magnetic separation",
-        null,
-        null
+        "separating funnel",
+        "decantation"
       ]
     },
     "correct": 1,
@@ -5614,16 +5614,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
+        "गलत—वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
         "सही—लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।"
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।",
+        "गलत—निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; लोहा चुंबक से आकर्षित होता है जबकि रेत सामान्यतः नहीं।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Iron is attracted to a magnet whereas sand generally is not.",
+        "Incorrect—evaporation does not match the goal here; Iron is attracted to a magnet whereas sand generally is not.",
         "Correct—Iron is attracted to a magnet whereas sand generally is not.",
-        "Incorrect—undefined is not suitable here; Iron is attracted to a magnet whereas sand generally is not.",
-        "Incorrect—undefined is not suitable here; Iron is attracted to a magnet whereas sand generally is not."
+        "Incorrect—separating funnel does not match the goal here; Iron is attracted to a magnet whereas sand generally is not.",
+        "Incorrect—decantation does not match the goal here; Iron is attracted to a magnet whereas sand generally is not."
       ]
     }
   },
@@ -5638,15 +5638,15 @@
     "options": {
       "hi": [
         "फटकना",
-        null,
-        null,
-        null
+        "आसवन",
+        "क्रोमैटोग्राफी",
+        "क्रिस्टलीकरण"
       ],
       "en": [
         "winnowing",
-        null,
-        null,
-        null
+        "distillation",
+        "chromatography",
+        "crystallisation"
       ]
     },
     "correct": 0,
@@ -5657,15 +5657,15 @@
     "optionExplanations": {
       "hi": [
         "सही—हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।"
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
+        "गलत—क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; हल्की भूसी हवा से दूर उड़ती है जबकि भारी अनाज अपेक्षाकृत पास गिरता है।"
       ],
       "en": [
         "Correct—Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—undefined is not suitable here; Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—undefined is not suitable here; Light husk is carried farther by air while heavier grain falls nearer.",
-        "Incorrect—undefined is not suitable here; Light husk is carried farther by air while heavier grain falls nearer."
+        "Incorrect—distillation does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer.",
+        "Incorrect—chromatography does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer.",
+        "Incorrect—crystallisation does not match the goal here; Light husk is carried farther by air while heavier grain falls nearer."
       ]
     }
   },
@@ -5680,15 +5680,15 @@
     "options": {
       "hi": [
         "चालनीकरण",
-        null,
-        null,
-        null
+        "आसवन",
+        "वाष्पीकरण",
+        "पृथक्करण कीप"
       ],
       "en": [
         "sieving",
-        null,
-        null,
-        null
+        "distillation",
+        "evaporation",
+        "separating funnel"
       ]
     },
     "correct": 0,
@@ -5699,15 +5699,15 @@
     "optionExplanations": {
       "hi": [
         "सही—कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।"
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
+        "गलत—वाष्पीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।",
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; कण आकार का अंतर छोटे कणों को छिद्रों से गुजरने और बड़े कणों को रुकने देता है।"
       ],
       "en": [
         "Correct—Particle-size differences let smaller grains pass through while larger pieces remain.",
-        "Incorrect—undefined is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain.",
-        "Incorrect—undefined is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain.",
-        "Incorrect—undefined is not suitable here; Particle-size differences let smaller grains pass through while larger pieces remain."
+        "Incorrect—distillation does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain.",
+        "Incorrect—evaporation does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain.",
+        "Incorrect—separating funnel does not match the goal here; Particle-size differences let smaller grains pass through while larger pieces remain."
       ]
     }
   },
@@ -5721,15 +5721,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "उर्ध्वपातन",
+        "क्रोमैटोग्राफी",
+        "चुंबकीय पृथक्करण",
         "अवसादन"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "sublimation",
+        "chromatography",
+        "magnetic separation",
         "sedimentation"
       ]
     },
@@ -5740,15 +5740,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—उर्ध्वपातन इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।",
         "सही—गुरुत्व के कारण भारी अघुलनशील कण नीचे बैठते हैं।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Heavier insoluble particles settle under gravity.",
-        "Incorrect—undefined is not suitable here; Heavier insoluble particles settle under gravity.",
-        "Incorrect—undefined is not suitable here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—sublimation does not match the goal here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—chromatography does not match the goal here; Heavier insoluble particles settle under gravity.",
+        "Incorrect—magnetic separation does not match the goal here; Heavier insoluble particles settle under gravity.",
         "Correct—Heavier insoluble particles settle under gravity."
       ]
     }
@@ -5763,16 +5763,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "क्रिस्टलीकरण",
+        "आसवन",
         "निस्तारण",
-        null
+        "चालनीकरण"
       ],
       "en": [
-        null,
-        null,
+        "crystallisation",
+        "distillation",
         "decantation",
-        null
+        "sieving"
       ]
     },
     "correct": 2,
@@ -5782,16 +5782,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
+        "गलत—क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
+        "गलत—आसवन इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
         "सही—ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।"
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; ऊपर का द्रव सावधानी से उड़ेलकर तलछट को पीछे छोड़ा जाता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; The upper liquid is carefully poured off, leaving sediment behind.",
-        "Incorrect—undefined is not suitable here; The upper liquid is carefully poured off, leaving sediment behind.",
+        "Incorrect—crystallisation does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind.",
+        "Incorrect—distillation does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind.",
         "Correct—The upper liquid is carefully poured off, leaving sediment behind.",
-        "Incorrect—undefined is not suitable here; The upper liquid is carefully poured off, leaving sediment behind."
+        "Incorrect—sieving does not match the goal here; The upper liquid is carefully poured off, leaving sediment behind."
       ]
     }
   },
@@ -5805,16 +5805,16 @@
     },
     "options": {
       "hi": [
-        null,
+        "चुंबकीय पृथक्करण",
         "कागज क्रोमैटोग्राफी",
-        null,
-        null
+        "हस्तचयन",
+        "निस्तारण"
       ],
       "en": [
-        null,
+        "magnetic separation",
         "paper chromatography",
-        null,
-        null
+        "handpicking",
+        "decantation"
       ]
     },
     "correct": 1,
@@ -5824,16 +5824,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
         "सही—घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।"
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।",
+        "गलत—निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घटक कागज और विलायक के साथ अलग व्यवहार करते हैं, इसलिए अलग दूरी तक चलते हैं।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Components interact differently with paper and solvent, so they travel different distances.",
+        "Incorrect—magnetic separation does not match the goal here; Components interact differently with paper and solvent, so they travel different distances.",
         "Correct—Components interact differently with paper and solvent, so they travel different distances.",
-        "Incorrect—undefined is not suitable here; Components interact differently with paper and solvent, so they travel different distances.",
-        "Incorrect—undefined is not suitable here; Components interact differently with paper and solvent, so they travel different distances."
+        "Incorrect—handpicking does not match the goal here; Components interact differently with paper and solvent, so they travel different distances.",
+        "Incorrect—decantation does not match the goal here; Components interact differently with paper and solvent, so they travel different distances."
       ]
     }
   },
@@ -5847,16 +5847,16 @@
     },
     "options": {
       "hi": [
-        null,
-        "यह संभव नहीं; वाष्पीकरण उपयोगी है",
-        null,
-        null
+        "छानना पर्याप्त है",
+        "वाष्पीकरण",
+        "चुंबक नमक रोक लेगा",
+        "हस्तचयन करना"
       ],
       "en": [
-        null,
-        "not possible this way; evaporation is useful",
-        null,
-        null
+        "filtration is sufficient",
+        "evaporation",
+        "a magnet will retain salt",
+        "handpick it"
       ]
     },
     "correct": 1,
@@ -5866,16 +5866,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "गलत—छानना पर्याप्त है इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
         "सही—घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।"
+        "गलत—चुंबक नमक रोक लेगा इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।",
+        "गलत—हस्तचयन करना इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुला नमक फिल्टर के छिद्रों से विलयन के साथ गुजरता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Dissolved salt passes through filter pores with the solution.",
+        "Incorrect—filtration is sufficient does not match the goal here; Dissolved salt passes through filter pores with the solution.",
         "Correct—Dissolved salt passes through filter pores with the solution.",
-        "Incorrect—undefined is not suitable here; Dissolved salt passes through filter pores with the solution.",
-        "Incorrect—undefined is not suitable here; Dissolved salt passes through filter pores with the solution."
+        "Incorrect—a magnet will retain salt does not match the goal here; Dissolved salt passes through filter pores with the solution.",
+        "Incorrect—handpick it does not match the goal here; Dissolved salt passes through filter pores with the solution."
       ]
     }
   },
@@ -5890,15 +5890,15 @@
     "options": {
       "hi": [
         "पहले निस्यंदन",
-        null,
-        null,
-        null
+        "पहले क्रिस्टलीकरण",
+        "पहले चुंबक",
+        "पहले क्रोमैटोग्राफी"
       ],
       "en": [
         "filtration first",
-        null,
-        null,
-        null
+        "crystallisation first",
+        "magnet first",
+        "chromatography first"
       ]
     },
     "correct": 0,
@@ -5909,15 +5909,15 @@
     "optionExplanations": {
       "hi": [
         "सही—रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।"
+        "गलत—पहले क्रिस्टलीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
+        "गलत—पहले चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।",
+        "गलत—पहले क्रोमैटोग्राफी इस प्रश्न के लक्ष्य से मेल नहीं खाता; रेत अघुलनशील रहती है और फिल्टर पर रुकती है, जबकि नमक का घोल निकल जाता है।"
       ],
       "en": [
         "Correct—Sand remains insoluble and is retained while the salt solution passes through.",
-        "Incorrect—undefined is not suitable here; Sand remains insoluble and is retained while the salt solution passes through.",
-        "Incorrect—undefined is not suitable here; Sand remains insoluble and is retained while the salt solution passes through.",
-        "Incorrect—undefined is not suitable here; Sand remains insoluble and is retained while the salt solution passes through."
+        "Incorrect—crystallisation first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through.",
+        "Incorrect—magnet first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through.",
+        "Incorrect—chromatography first does not match the goal here; Sand remains insoluble and is retained while the salt solution passes through."
       ]
     }
   },
@@ -5931,15 +5931,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "केवल चुंबक",
+        "केवल फटकना",
+        "केवल निस्तारण",
         "पानी मिलाना, छानना और फिर विलायक हटाना"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "magnet alone",
+        "winnowing alone",
+        "decantation alone",
         "add water, filter, then remove the solvent"
       ]
     },
@@ -5950,15 +5950,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल फटकना इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
+        "गलत—केवल निस्तारण इस प्रश्न के लक्ष्य से मेल नहीं खाता; चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।",
         "सही—चीनी पानी में घुलती है और रेत नहीं; छानने के बाद विलयन से चीनी प्राप्त की जा सकती है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
-        "Incorrect—undefined is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
-        "Incorrect—undefined is not suitable here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—magnet alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—winnowing alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
+        "Incorrect—decantation alone does not match the goal here; Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate.",
         "Correct—Sugar dissolves in water but sand does not; sugar can be recovered from the filtrate."
       ]
     }
@@ -5973,16 +5973,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "हस्तचयन",
+        "चालनीकरण",
         "प्रभाजी आसवन",
-        null
+        "अवसादन"
       ],
       "en": [
-        null,
-        null,
+        "handpicking",
+        "sieving",
         "fractional distillation",
-        null
+        "sedimentation"
       ]
     },
     "correct": 2,
@@ -5992,16 +5992,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
+        "गलत—हस्तचयन इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
+        "गलत—चालनीकरण इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
         "सही—प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।"
+        "गलत—अवसादन इस प्रश्न के लक्ष्य से मेल नहीं खाता; प्रभाजी स्तंभ बार-बार वाष्पीकरण-संघनन से निकट क्वथनांक वाले द्रवों का पृथक्करण बेहतर करता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation.",
-        "Incorrect—undefined is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Incorrect—handpicking does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation.",
+        "Incorrect—sieving does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation.",
         "Correct—A fractionating column improves separation through repeated vaporisation-condensation.",
-        "Incorrect—undefined is not suitable here; A fractionating column improves separation through repeated vaporisation-condensation."
+        "Incorrect—sedimentation does not match the goal here; A fractionating column improves separation through repeated vaporisation-condensation."
       ]
     }
   },
@@ -6015,35 +6015,35 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
+        "साधारण छानना",
+        "चुंबकीय पृथक्करण",
         "वाष्पीकरण या क्रिस्टलीकरण",
-        null
+        "पृथक्करण कीप"
       ],
       "en": [
-        null,
-        null,
+        "ordinary filtration",
+        "magnetic separation",
         "evaporation or crystallisation",
-        null
+        "separating funnel"
       ]
     },
     "correct": 2,
     "explanation": {
       "hi": "घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-      "en": "Dissolved sugar passes through a filter; removing solvent or crystallising can recover it."
+      "en": "Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar."
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
+        "गलत—साधारण छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
+        "गलत—चुंबकीय पृथक्करण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
         "सही—घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।"
+        "गलत—पृथक्करण कीप इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुली चीनी फिल्टर से गुजरती है; विलायक हटाने या क्रिस्टल बनाने से चीनी मिल सकती है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Incorrect—undefined is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Correct—Dissolved sugar passes through a filter; removing solvent or crystallising can recover it.",
-        "Incorrect—undefined is not suitable here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover it."
+        "Incorrect—ordinary filtration does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Incorrect—magnetic separation does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Correct—Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar.",
+        "Incorrect—separating funnel does not match the goal here; Dissolved sugar passes through a filter; removing solvent or crystallising can recover sugar."
       ]
     }
   },
@@ -6057,16 +6057,16 @@
     },
     "options": {
       "hi": [
-        null,
+        "विषमांगी मिश्रण",
         "समांगी मिश्रण",
-        null,
-        null
+        "शुद्ध तत्व",
+        "अमिश्रणीय द्रव"
       ],
       "en": [
-        null,
+        "heterogeneous mixture",
         "homogeneous mixture",
-        null,
-        null
+        "pure element",
+        "immiscible liquids"
       ]
     },
     "correct": 1,
@@ -6076,16 +6076,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
+        "गलत—विषमांगी मिश्रण इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
         "सही—घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।"
+        "गलत—शुद्ध तत्व इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।",
+        "गलत—अमिश्रणीय द्रव इस प्रश्न के लक्ष्य से मेल नहीं खाता; घुले नमक का वितरण समान होता है और नमूने के अलग भागों की संरचना लगभग समान रहती है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
+        "Incorrect—heterogeneous mixture does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
         "Correct—Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
-        "Incorrect—undefined is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
-        "Incorrect—undefined is not suitable here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition."
+        "Incorrect—pure element does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition.",
+        "Incorrect—immiscible liquids does not match the goal here; Dissolved salt is distributed uniformly, so different portions have nearly the same composition."
       ]
     }
   },
@@ -6100,15 +6100,15 @@
     "options": {
       "hi": [
         "विषमांगी मिश्रण",
-        null,
-        null,
-        null
+        "समांगी मिश्रण",
+        "शुद्ध तत्व",
+        "एकल यौगिक"
       ],
       "en": [
         "heterogeneous mixture",
-        null,
-        null,
-        null
+        "homogeneous mixture",
+        "pure element",
+        "single compound"
       ]
     },
     "correct": 0,
@@ -6119,15 +6119,15 @@
     "optionExplanations": {
       "hi": [
         "सही—अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।"
+        "गलत—समांगी मिश्रण इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
+        "गलत—शुद्ध तत्व इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।",
+        "गलत—एकल यौगिक इस प्रश्न के लक्ष्य से मेल नहीं खाता; अलग परतें बताती हैं कि मिश्रण की संरचना हर जगह समान नहीं है।"
       ],
       "en": [
         "Correct—Separate layers show that composition is not uniform throughout.",
-        "Incorrect—undefined is not suitable here; Separate layers show that composition is not uniform throughout.",
-        "Incorrect—undefined is not suitable here; Separate layers show that composition is not uniform throughout.",
-        "Incorrect—undefined is not suitable here; Separate layers show that composition is not uniform throughout."
+        "Incorrect—homogeneous mixture does not match the goal here; Separate layers show that composition is not uniform throughout.",
+        "Incorrect—pure element does not match the goal here; Separate layers show that composition is not uniform throughout.",
+        "Incorrect—single compound does not match the goal here; Separate layers show that composition is not uniform throughout."
       ]
     }
   },
@@ -6141,15 +6141,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "निस्यंद",
+        "आसुत",
+        "विलायक",
         "अवशेष"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "filtrate",
+        "distillate",
+        "solvent",
         "residue"
       ]
     },
@@ -6160,15 +6160,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—निस्यंद इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—आसुत इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
+        "गलत—विलायक इस प्रश्न के लक्ष्य से मेल नहीं खाता; निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।",
         "सही—निस्यंदन में फिल्टर पर बचा ठोस अवशेष कहलाता है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; The solid left on the filter during filtration is called the residue.",
-        "Incorrect—undefined is not suitable here; The solid left on the filter during filtration is called the residue.",
-        "Incorrect—undefined is not suitable here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—filtrate does not match the goal here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—distillate does not match the goal here; The solid left on the filter during filtration is called the residue.",
+        "Incorrect—solvent does not match the goal here; The solid left on the filter during filtration is called the residue.",
         "Correct—The solid left on the filter during filtration is called the residue."
       ]
     }
@@ -6183,15 +6183,15 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        null,
+        "अवशेष",
+        "तलछट",
+        "निस्यंद",
         "आसुत"
       ],
       "en": [
-        null,
-        null,
-        null,
+        "residue",
+        "sediment",
+        "filtrate",
         "distillate"
       ]
     },
@@ -6202,15 +6202,15 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
+        "गलत—अवशेष इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
+        "गलत—तलछट इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
+        "गलत—निस्यंद इस प्रश्न के लक्ष्य से मेल नहीं खाता; वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।",
         "सही—वाष्प को ठंडा करके जो द्रव एकत्र होता है उसे आसुत कहते हैं।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; The liquid collected after vapour condenses is called the distillate.",
-        "Incorrect—undefined is not suitable here; The liquid collected after vapour condenses is called the distillate.",
-        "Incorrect—undefined is not suitable here; The liquid collected after vapour condenses is called the distillate.",
+        "Incorrect—residue does not match the goal here; The liquid collected after vapour condenses is called the distillate.",
+        "Incorrect—sediment does not match the goal here; The liquid collected after vapour condenses is called the distillate.",
+        "Incorrect—filtrate does not match the goal here; The liquid collected after vapour condenses is called the distillate.",
         "Correct—The liquid collected after vapour condenses is called the distillate."
       ]
     }
@@ -6225,16 +6225,16 @@
     },
     "options": {
       "hi": [
-        null,
-        null,
-        "केवल पानी मिलाना पर्याप्त नहीं; दूसरा भौतिक गुण देखें",
-        null
+        "हमेशा छानना",
+        "हमेशा चुंबक",
+        "दूसरा भौतिक गुण देखें",
+        "हस्तचयन ही"
       ],
       "en": [
-        null,
-        null,
-        "adding water alone is insufficient; consider another physical property",
-        null
+        "always filtration",
+        "always a magnet",
+        "consider another physical property",
+        "handpicking only"
       ]
     },
     "correct": 2,
@@ -6244,16 +6244,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
+        "गलत—हमेशा छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
+        "गलत—हमेशा चुंबक इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
         "सही—यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।"
+        "गलत—हस्तचयन ही इस प्रश्न के लक्ष्य से मेल नहीं खाता; यदि दोनों घटक घुल जाएँ तो केवल घुलनशीलता और छानना उन्हें अलग नहीं करेंगे।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; If both components dissolve, solubility and filtration alone will not separate them.",
-        "Incorrect—undefined is not suitable here; If both components dissolve, solubility and filtration alone will not separate them.",
+        "Incorrect—always filtration does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them.",
+        "Incorrect—always a magnet does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them.",
         "Correct—If both components dissolve, solubility and filtration alone will not separate them.",
-        "Incorrect—undefined is not suitable here; If both components dissolve, solubility and filtration alone will not separate them."
+        "Incorrect—handpicking only does not match the goal here; If both components dissolve, solubility and filtration alone will not separate them."
       ]
     }
   },
@@ -6267,16 +6267,16 @@
     },
     "options": {
       "hi": [
-        null,
+        "और विलायक मिलाना",
         "पहले विलयन को सांद्र करना",
-        null,
-        null
+        "चुंबक लगाना",
+        "केवल छानना"
       ],
       "en": [
-        null,
+        "add more solvent",
         "concentrate the solution first",
-        null,
-        null
+        "use a magnet",
+        "only filter"
       ]
     },
     "correct": 1,
@@ -6286,16 +6286,16 @@
     },
     "optionExplanations": {
       "hi": [
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
+        "गलत—और विलायक मिलाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
         "सही—बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
-        "गलत—undefined इस मिश्रण के लिए उपयुक्त नहीं है; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।"
+        "गलत—चुंबक लगाना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।",
+        "गलत—केवल छानना इस प्रश्न के लक्ष्य से मेल नहीं खाता; बहुत पतले विलयन में विलेय कम होता है; क्रिस्टल बनने के लिए पर्याप्त सांद्रता की जरूरत हो सकती है।"
       ],
       "en": [
-        "Incorrect—undefined is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
+        "Incorrect—add more solvent does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
         "Correct—A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
-        "Incorrect—undefined is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
-        "Incorrect—undefined is not suitable here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form."
+        "Incorrect—use a magnet does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form.",
+        "Incorrect—only filter does not match the goal here; A very dilute solution contains little solute; sufficient concentration may be needed for crystals to form."
       ]
     }
   }
