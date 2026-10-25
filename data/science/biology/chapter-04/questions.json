@@ -1706,6 +1706,20 @@
       "explanation": {
         "hi": "जगत में असंख्य जीव हैं पर समानता कम; जाति में बहुत कम सदस्य पर समानता सर्वाधिक — सीढ़ी जाते ही समानता घनी होती जाती है।",
         "en": "A kingdom holds countless but dissimilar members; a species holds very few but nearly identical ones — similarity tightens as you descend."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: नीचे की श्रेणियों में जीव अधिक निकट संबंधित होते हैं और सामान्यतः साझा लक्षण अधिक होते हैं, जबकि सम्मिलित समूह छोटा होता है।",
+          "गलत: समानताएँ बढ़ने पर सदस्य संख्या सामान्यतः घटती है; दोनों एक साथ नहीं बढ़ते।",
+          "गलत: अलग-अलग श्रेणियों में शामिल जीवों की संख्या और समानता बदलती है।",
+          "गलत: बड़े से छोटे की ओर जाने पर सामान्यतः समानता बढ़ती है और सदस्य संख्या घटती है, उलटा नहीं।"
+        ],
+        "en": [
+          "Correct. Lower ranks include more closely related organisms with more shared traits, while the group becomes smaller.",
+          "Incorrect. As similarity increases, membership generally decreases; both do not increase together.",
+          "Incorrect. The number and similarity of organisms change across taxonomic ranks.",
+          "Incorrect. Moving from broad to narrow ranks generally increases similarity and reduces membership, not the reverse."
+        ]
       }
     },
     {
@@ -1734,6 +1748,20 @@
       "explanation": {
         "hi": "वंश, जाति से ठीक ऊपर और कुल से ठीक नीचे की श्रेणी है।",
         "en": "Genus sits just above species and just below family."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: गण, कुल से ऊपर आता है; वंश और कुल के बीच का क्रम नहीं।",
+          "सही: वंश, कुल के नीचे और जाति से ऊपर होता है।",
+          "गलत: वर्ग और संघ के बीच वंश नहीं आता; वंश बहुत छोटी श्रेणी है।",
+          "गलत: जगत और संघ के बीच वंश नहीं आता; ये व्यापक श्रेणियाँ हैं।"
+        ],
+        "en": [
+          "Incorrect. Order is above family; genus does not sit between order and family.",
+          "Correct. Genus lies below family and above species.",
+          "Incorrect. Genus does not sit between class and phylum; it is a much narrower rank.",
+          "Incorrect. Genus does not sit between kingdom and phylum; those are broad ranks."
+        ]
       }
     },
     {
@@ -1762,6 +1790,20 @@
       "explanation": {
         "hi": "लाखों प्रजातियों के बीच वर्गीकरण ही समानता-भिन्नता पहचानने, नामकरण और अध्ययन को सरल बनाता है।",
         "en": "Amid millions of species, classification alone makes spotting similarities, naming and study manageable."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: जीवों को समान नहीं माना जाता; वर्गीकरण उनकी समानता और भिन्नता को व्यवस्थित करता है।",
+          "गलत: वर्गीकरण केवल सुंदर नाम देने के लिए नहीं, बल्कि पहचान, संबंध और अध्ययन को व्यवस्थित करने के लिए है।",
+          "सही: बहुत बड़ी जैव-विविधता को समूहों में रखने से पहचान, तुलना और वैज्ञानिक अध्ययन आसान होता है।",
+          "गलत: नामकरण आवश्यक है ताकि वैज्ञानिक अलग-अलग भाषाओं में भी एक ही जीव को स्पष्ट रूप से पहचान सकें।"
+        ],
+        "en": [
+          "Incorrect. Organisms are not all alike; classification organises their similarities and differences.",
+          "Incorrect. Classification is not just for attractive names; it organises identification, relationships and study.",
+          "Correct. Grouping immense biodiversity makes identification, comparison and scientific study easier.",
+          "Incorrect. Naming allows scientists to identify the same organism clearly across languages."
+        ]
       }
     },
     {
@@ -1790,6 +1832,20 @@
       "explanation": {
         "hi": "आवास वर्गीकरण का आधार नहीं है — एक ही आवास में भिन्न संघ के अनेक जीव रहते हैं; संरचनात्मक लक्षण ही आधार हैं।",
         "en": "Habitat is not a classificatory basis — many phyla share one habitat; structural characters are the basis."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: नोटोकॉर्ड की उपस्थिति/अनुपस्थिति कॉर्डेटा और गैर-कॉर्डेटा के विभाजन में महत्वपूर्ण संरचनात्मक लक्षण है।",
+          "गलत: देह-गुहा का प्रकार कई पशु समूहों को अलग करने में उपयोगी है।",
+          "गलत: सममिति—असममित, त्रिज्य या द्विपार्श्विक—वर्गीकरण में उपयोगी संरचनात्मक लक्षण है।",
+          "सही: आवास अकेले संघ तय नहीं करता; एक ही आवास में अनेक संघों के जीव रह सकते हैं, इसलिए शरीर-संरचना जैसे लक्षण अधिक उपयोगी हैं।"
+        ],
+        "en": [
+          "Incorrect. Presence or absence of a notochord is an important structural feature separating chordates from non-chordates.",
+          "Incorrect. Body-cavity type helps distinguish several animal groups.",
+          "Incorrect. Symmetry— asymmetrical, radial or bilateral—is a useful structural feature in classification.",
+          "Correct. Habitat alone does not determine phylum; many phyla share habitats, so structural traits are more useful."
+        ]
       }
     },
     {
@@ -1818,6 +1874,20 @@
       "explanation": {
         "hi": "मनुष्य-मछली की भाँति बायाँ-दायाँ आधा समान होता है — केवल मध्य-तल से; यह द्विपार्श्विक सममिति है।",
         "en": "As in humans and fish, left and right halves match — only through the midline plane; this is bilateral symmetry."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: द्विपार्श्विक सममिति में केवल एक विशेष मध्य तल देह को लगभग समान बाएँ और दाएँ दर्पण-अर्धों में बाँटता है।",
+          "गलत: तीन बराबर भागों में बँटना द्विपार्श्विक सममिति की परिभाषा नहीं।",
+          "गलत: अंगों का पुनर्जनन सममिति से अलग जैविक गुण है।",
+          "गलत: किसी भी तल से दो समान अर्ध बनना त्रिज्य सममिति से मिलता-जुलता है, द्विपार्श्विक नहीं।"
+        ],
+        "en": [
+          "Correct. Bilateral symmetry means one particular midline plane divides the body into roughly matching left and right mirror halves.",
+          "Incorrect. Division into three equal parts is not the definition of bilateral symmetry.",
+          "Incorrect. Regeneration is a separate biological property, not symmetry.",
+          "Incorrect. Matching halves across many planes resembles radial symmetry, not bilateral symmetry."
+        ]
       }
     },
     {
@@ -1846,6 +1916,20 @@
       "explanation": {
         "hi": "हाइड्रा की देह केंद्र से गुजरने वाले किसी भी तल से समान अर्धों में बँटती है — यह त्रिज्य सममिति है।",
         "en": "Hydra's body splits into equal halves by any plane passing through the axis — that is radial symmetry."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: मेंढक द्विपार्श्विक सममिति वाला कशेरुकी है।",
+          "सही: हाइड्रा की देह केंद्रीय अक्ष के चारों ओर व्यवस्थित होती है और कई अनुदैर्ध्य तलों से समान भागों में बाँटी जा सकती है।",
+          "गलत: केंचुआ द्विपार्श्विक सममिति वाला खंडित कृमि है।",
+          "गलत: मनुष्य द्विपार्श्विक सममिति वाला कशेरुकी है।"
+        ],
+        "en": [
+          "Incorrect. A frog is a bilaterally symmetrical vertebrate.",
+          "Correct. Hydra is organised around a central axis and can be divided into similar parts by several longitudinal planes.",
+          "Incorrect. An earthworm is a bilaterally symmetrical segmented worm.",
+          "Incorrect. Humans are bilaterally symmetrical vertebrates."
+        ]
       }
     },
     {
@@ -1874,6 +1958,20 @@
       "explanation": {
         "hi": "अधिकांश स्पंजों की देह किसी तल से समान अर्धों में नहीं बँटती — यही असममिति है; शेष तीनों में किसी न किसी सममिति है।",
         "en": "Most sponges cannot be divided into equal halves by any plane — true asymmetry; the other three show some symmetry."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: हाइड्रा में त्रिज्य सममिति होती है।",
+          "गलत: केंचुए में द्विपार्श्विक सममिति होती है।",
+          "सही: अधिकांश स्पंजों में नियमित सममिति नहीं होती, इसलिए उन्हें असममित कहा जाता है; कुछ स्पंजों में सीमित सममिति हो सकती है।",
+          "गलत: वयस्क स्टारफिश में सामान्यतः पाँच-भागीय त्रिज्य सममिति होती है।"
+        ],
+        "en": [
+          "Incorrect. Hydra has radial symmetry.",
+          "Incorrect. Earthworms have bilateral symmetry.",
+          "Correct. Most sponges lack regular symmetry and are described as asymmetrical, though some have limited symmetry.",
+          "Incorrect. Adult starfish typically show five-part radial symmetry."
+        ]
       }
     },
     {
@@ -1881,27 +1979,41 @@
       "topic": "classification-hierarchy",
       "difficulty": "medium",
       "question": {
-        "hi": "सही देह-गुहा (true coelom) से क्या तात्पर्य है?",
-        "en": "What is meant by a true coelom?"
+        "hi": "सही देह-गुहा (true coelom) किससे पूरी तरह अस्तरित होती है?",
+        "en": "What fully lines a true coelom?"
       },
       "options": {
         "hi": [
-          "देह के बाहर की खाली जगह",
-          "रुधिर वाहिकाओं का जाल",
-          "कोशिकाओं के बीच का जल",
-          "ऊतकों से निर्मित पूर्ण देह-गुहा जो भीतर के अंगों को स्थान देती है"
+          "देह के बाहर की त्वचा",
+          "केवल रुधिर वाहिकाएँ",
+          "मेसोडर्म से बना ऊतक",
+          "कोशिकाओं के बीच का जल"
         ],
         "en": [
-          "Empty space outside the body",
-          "A network of blood vessels",
-          "Water between cells",
-          "A full body cavity lined by tissue that houses the internal organs"
+          "The external skin",
+          "Blood vessels only",
+          "Tissue derived from mesoderm",
+          "Water between cells"
         ]
       },
-      "correct": 3,
+      "correct": 2,
       "explanation": {
-        "hi": "सही सीलोम देह-भित्ति की परतों से ढका हुआ गुहा है जिसमें पाचन-अंग जैसे अंग सुरक्षित रहते हैं।",
-        "en": "A true coelom is a cavity fully lined by body-wall tissue, housing and cushioning organs like the gut."
+        "hi": "सही सीलोम वह देह-गुहा है जो मेसोडर्म से बनी परत से पूरी तरह अस्तरित होती है। यह आंतरिक अंगों को स्थान देती है और उनके विकास/गतियों में मदद करती है।",
+        "en": "A true coelom is a body cavity completely lined by tissue derived from mesoderm. It provides space for internal organs and supports their development and movement."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: बाहरी त्वचा शरीर की सतह है; वह देह-गुहा के भीतर का पूर्ण अस्तर नहीं।",
+          "गलत: केवल रक्त वाहिकाएँ देह-गुहा को अस्तरित नहीं करतीं।",
+          "सही: सही सीलोम मेसोडर्म से बनी परत से पूरी तरह अस्तरित होती है।",
+          "गलत: कोशिकाओं के बीच का जल अपने-आप true coelom नहीं बनाता।"
+        ],
+        "en": [
+          "Incorrect. External skin is the body surface, not the complete lining of the body cavity.",
+          "Incorrect. Blood vessels alone do not line a true coelom.",
+          "Correct. A true coelom is fully lined by mesoderm-derived tissue.",
+          "Incorrect. Water between cells does not by itself constitute a true coelom."
+        ]
       }
     },
     {
@@ -1930,6 +2042,20 @@
       "explanation": {
         "hi": "गोलकृमियों (निमेटोडा) में देह-गुहा पूर्ण ऊतक-आवरण से ढकी नहीं होती — इसलिए उसे कूट-सीलोम कहते हैं।",
         "en": "In roundworms (Nematoda) the body cavity is not fully lined by tissue — hence it is called a pseudocoelom."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: निमेटोडा में कूट-सीलोम होता है, जो मेसोडर्म से पूरी तरह अस्तरित नहीं होता।",
+          "गलत: एनीलिडा में सामान्यतः सच्चा सीलोम होता है।",
+          "गलत: मोलस्का में सामान्यतः सच्चा सीलोम होता है, हालांकि वह कुछ समूहों में सीमित हो सकता है।",
+          "गलत: प्लेटीहेल्मिन्थीज को एसीलोमेट माना जाता है; उनमें सच्ची देह-गुहा नहीं होती।"
+        ],
+        "en": [
+          "Correct. Nematodes have a pseudocoelom that is not completely lined by mesoderm.",
+          "Incorrect. Annelids generally have a true coelom.",
+          "Incorrect. Molluscs generally have a true coelom, although it is reduced in some groups.",
+          "Incorrect. Platyhelminthes are considered acoelomate; they lack a true body cavity."
+        ]
       }
     },
     {
@@ -1937,27 +2063,41 @@
       "topic": "classification-hierarchy",
       "difficulty": "medium",
       "question": {
-        "hi": "द्विस्तरीय (diploblastic) जीवों की पहचान क्या है?",
-        "en": "How are diploblastic animals identified?"
+        "hi": "द्विस्तरीय (diploblastic) जीवों के भ्रूण में कौन-से दो जनन स्तर होते हैं?",
+        "en": "Which two germ layers are present in diploblastic animals?"
       },
       "options": {
         "hi": [
-          "देह भित्ति में तीन कोशिका-स्तर होते हैं",
-          "देह भित्ति में दो कोशिका-स्तर होते हैं — बाह्य और भीतरी",
-          "देह में कोई स्तर नहीं होता",
-          "देह भित्ति चार स्तरों की होती है"
+          "एक्टोडर्म और एंडोडर्म",
+          "एक्टोडर्म, मेसोडर्म और एंडोडर्म",
+          "मेसोडर्म और एंडोडर्म",
+          "चार जनन स्तर"
         ],
         "en": [
-          "Their body wall has three cell layers",
-          "Their body wall has two cell layers — outer and inner",
-          "Their body has no layers",
-          "Their body wall has four layers"
+          "Ectoderm and endoderm",
+          "Ectoderm, mesoderm and endoderm",
+          "Mesoderm and endoderm",
+          "Four germ layers"
         ]
       },
-      "correct": 1,
+      "correct": 0,
       "explanation": {
-        "hi": "सीलेंटरेटा जैसे जीवों में केवल दो जनन स्तर होते हैं; तीन स्तर वाले जीव त्रिस्तरीय कहलाते हैं (प्लेटीहेल्मिन्थीज से आगे के अधिकांश जीव)।",
-        "en": "Animals like coelenterates have just two germ layers; three-layered animals are triploblastic (most animals from flatworms onwards)."
+        "hi": "द्विस्तरीय जीवों में एक्टोडर्म और एंडोडर्म होते हैं; उनके बीच जेली-जैसा मेसोग्लिया हो सकता है, लेकिन यह तीसरा जनन स्तर नहीं है।",
+        "en": "Diploblastic animals have ectoderm and endoderm; a jelly-like mesoglea may lie between them, but it is not a third germ layer."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: द्विस्तरीय जीवों में बाहरी एक्टोडर्म और भीतरी एंडोडर्म होते हैं।",
+          "गलत: तीन जनन स्तर—एक्टोडर्म, मेसोडर्म और एंडोडर्म—त्रिस्तरीय जीवों में होते हैं।",
+          "गलत: इसमें बाहरी एक्टोडर्म नहीं है, इसलिए यह दो जनन स्तरों का सही युग्म नहीं।",
+          "गलत: द्विस्तरीय का अर्थ दो जनन स्तर है, चार नहीं।"
+        ],
+        "en": [
+          "Correct. Diploblastic animals have outer ectoderm and inner endoderm.",
+          "Incorrect. Three germ layers—ectoderm, mesoderm and endoderm—occur in triploblastic animals.",
+          "Incorrect. This pair omits the outer ectoderm and is not the correct two-layer combination.",
+          "Incorrect. Diploblastic means two germ layers, not four."
+        ]
       }
     },
     {
