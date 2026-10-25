@@ -20,7 +20,7 @@ $('toPdf').addEventListener('click',async()=>{
  if(busy)return;
  const files=Array.from($('images').files||[]);
  if(!files.length){status('pdfStatus','पहले images चुनें।','error');return;}
- if(files.length>MAX_IMAGES){status('pdfStatus,'एक बार में अधिकतम 30 images चुनें।','error');return;}
+ if(files.length>MAX_IMAGES){status('pdfStatus','एक बार में अधिकतम 30 images चुनें।','error');return;}
  if(files.some(f=>!supportedImage(f))){status('pdfStatus','कृपया सिर्फ JPG, PNG या WebP images चुनें।','error');return;}
  if(files.some(f=>f.size<=0||f.size>MAX_IMAGE_BYTES)){status('pdfStatus','हर image खाली नहीं होनी चाहिए और 15 MB से छोटी होनी चाहिए।','error');return;}
  if(!window.jspdf?.jsPDF){status('pdfStatus','PDF library लोड नहीं हुई। इंटरनेट कनेक्शन जाँचें और refresh करें।','error');return;}
