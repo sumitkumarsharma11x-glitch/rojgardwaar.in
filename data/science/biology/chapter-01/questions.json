@@ -4,34 +4,40 @@
     "topic": "cell-theory",
     "difficulty": "easy",
     "question": {
-      "hi": "कोशिका सिद्धांत के अनुसार सभी सजीव किससे बने होते हैं?",
-      "en": "According to cell theory, all living organisms are made of what?"
+      "hi": "एक नई खोज में वैज्ञानिक को एक ऐसा जीव मिलता है जो सिर्फ एक कोशिका से बना है। कौन-सा निष्कर्ष कोशिका सिद्धांत से सबसे अच्छी तरह मेल खाता है?",
+      "en": "A scientist discovers an organism made of just one cell. Which conclusion best fits cell theory?"
     },
     "options": {
       "hi": [
-        "कोशिकाएँ",
-        "अंग-तंत्र",
-        "अंग",
-        "ऊतक"
+        "उसकी एक कोशिका ही पूरे जीव की जीवन-क्रियाएँ करती है",
+        "उसमें छिपे हुए अनेक अंग-तंत्र अवश्य हैं",
+        "वह जीव नहीं, क्योंकि जीव को ऊतक चाहिए",
+        "उसकी कोशिका केवल प्रजनन करती है"
       ],
       "en": [
-        "Cells",
-        "Organ system",
-        "Organ",
-        "Tissue"
+        "Its single cell carries out the organism’s life processes",
+        "It must contain many hidden organ systems",
+        "It is not alive because organisms need tissues",
+        "Its cell only performs reproduction"
       ]
     },
     "correct": 0,
     "explanation": {
-      "hi": "सभी सजीव एक या अधिक कोशिकाओं से बने होते हैं।",
-      "en": "All living organisms are made of one or more cells."
+      "hi": "एककोशिकीय जीव में एक कोशिका ही पोषण, ऊर्जा-प्राप्ति, उत्सर्जन और प्रजनन जैसी आवश्यक क्रियाएँ करती है। इससे पता चलता है कि बहुकोशिकीय शरीर जैसा बड़ा संगठन जीवन की अनिवार्य शर्त नहीं है।",
+      "en": "In a unicellular organism, one cell carries out essential functions such as nutrition, energy use, excretion and reproduction. Complex multicellular organization is therefore not a requirement for life."
     },
     "optionExplanations": {
       "hi": [
-        "सही: सभी सजीव एक या अधिक कोशिकाओं से बने होते हैं।",
-        "अंग-तंत्र कई अंगों से मिलकर बनता है; यह मूल इकाई नहीं है।",
-        "अंग विभिन्न ऊतकों से बनता है; यह कोशिका से अधिक जटिल है।",
-        "ऊतक कोशिकाओं के समूह से बनता है; यह कोशिका से अधिक जटिल स्तर है।"
+        "सही—एक कोशिका पूरे जीव का काम करती है।",
+        "अंग-तंत्र बहुकोशिकीय शरीर के संगठन का स्तर है; हर जीव में यह नहीं होता।",
+        "जीवाणु और अमीबा जैसे एककोशिकीय जीव भी जीवित होते हैं।",
+        "एक कोशिका केवल प्रजनन तक सीमित नहीं; वह जीवन की कई क्रियाएँ करती है।"
+      ],
+      "en": [
+        "Correct—one cell performs the organism’s functions.",
+        "Organ systems are a level of multicellular organization, not a requirement for every organism.",
+        "Unicellular organisms such as bacteria and Amoeba are living organisms.",
+        "A cell is not limited to reproduction; it performs many life processes."
       ]
     }
   },
@@ -40,34 +46,40 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "पादपों के कोशिकीय संगठन से किस वैज्ञानिक का योगदान जुड़ा है?",
-      "en": "Which scientist is associated with the cellular organization of plants?"
+      "hi": "पादप कोशिकाओं पर श्लाइडेन के अध्ययन और जंतु कोशिकाओं पर श्वान के अध्ययन को साथ रखने से कौन-सा व्यापक निष्कर्ष निकला?",
+      "en": "What broad conclusion emerged when Schleiden’s work on plants was considered alongside Schwann’s work on animals?"
     },
     "options": {
       "hi": [
-        "विरचो",
-        "श्लाइडेन",
-        "डार्विन",
-        "श्वान"
+        "केवल पादप कोशिकाओं से बने हैं",
+        "पादप और जंतु दोनों कोशिकीय संगठन रखते हैं",
+        "जंतु कोशिकाओं में DNA नहीं होता",
+        "हर कोशिका का आकार और आकृति समान होती है"
       ],
       "en": [
-        "Virchow",
-        "Schleiden",
-        "Darwin",
-        "Schwann"
+        "Only plants are made of cells",
+        "Both plants and animals have cellular organization",
+        "Animal cells do not contain DNA",
+        "Every cell has the same size and shape"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "श्लाइडेन का योगदान पादपों के कोशिकीय संगठन के अध्ययन से जुड़ा है।",
-      "en": "Schleiden contributed through studies of the cellular organization of plants."
+      "hi": "श्लाइडेन ने पादपों और श्वान ने जंतुओं के कोशिकीय संगठन पर काम किया। इन योगदानों ने इस विचार को मजबूत किया कि पादप और जंतु दोनों कोशिकाओं से बने हैं; इसका अर्थ यह नहीं कि उनकी सभी कोशिकाएँ एक जैसी होती हैं।",
+      "en": "Schleiden studied plants and Schwann studied animals. Their work helped establish that both are made of cells; it does not mean that every plant and animal cell is identical."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: विरचो का कथन नई कोशिकाओं के पूर्ववर्ती कोशिकाओं से बनने से जुड़ा है।",
-        "सही: श्लाइडेन ने पादपों के कोशिकीय संगठन पर कार्य किया।",
-        "गलत: डार्विन प्राकृतिक चयन द्वारा विकासवाद के लिए प्रसिद्ध हैं।",
-        "गलत: श्वान का योगदान जंतुओं के कोशिकीय संगठन से जुड़ा था।"
+        "यह निष्कर्ष पादपों को ही कोशिकीय मानता है, इसलिए अधूरा है।",
+        "सही—दोनों वैज्ञानिकों के योगदान ने कोशिका सिद्धांत को मजबूत किया।",
+        "जंतु कोशिकाओं में DNA होता है; सामान्यतः वह केंद्रक में पाया जाता है।",
+        "कोशिकाओं का आकार और आकृति उनके कार्य के अनुसार बदल सकता है।"
+      ],
+      "en": [
+        "This excludes animals from cellular organization, so it is incomplete.",
+        "Correct—the two scientists’ work helped strengthen cell theory.",
+        "Animal cells contain DNA, usually housed in the nucleus.",
+        "Cell shape and size vary with function."
       ]
     }
   },
@@ -76,8 +88,8 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "जंतुओं के कोशिकीय संगठन से किस वैज्ञानिक का योगदान जुड़ा है?",
-      "en": "Which scientist is associated with the cellular organization of animals?"
+      "hi": "यदि किसी इतिहास-प्रश्न में पूछा जाए कि जंतुओं के कोशिकीय संगठन का अध्ययन किस वैज्ञानिक से जुड़ा है, तो कौन-सा उत्तर सही है?",
+      "en": "If a history-of-science question asks who is associated with studying the cellular organization of animals, which answer is correct?"
     },
     "options": {
       "hi": [
@@ -95,15 +107,21 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "श्वान का योगदान जंतुओं के कोशिकीय संगठन से जुड़ा है।",
-      "en": "Schwann contributed through studies of the cellular organization of animals."
+      "hi": "थियोडोर श्वान ने जंतुओं के ऊतकों और कोशिकाओं के अध्ययन से कोशिका सिद्धांत के विकास में योगदान दिया। याद रखने का उपयोगी अंतर: श्लाइडेन—पादप, श्वान—जंतु; विरचो—नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से।",
+      "en": "Theodor Schwann contributed to cell theory through work on animal tissues and cells. A useful distinction is Schleiden—plants, Schwann—animals, Virchow—cells arise from pre-existing cells."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: मेंडल आनुवंशिकी के नियमों के लिए प्रसिद्ध हैं।",
-        "गलत: विरचो का योगदान पूर्ववर्ती कोशिकाओं से नई कोशिका बनने के विचार से जुड़ा है।",
-        "सही: श्वान ने जंतुओं के कोशिकीय संगठन और कोशिका सिद्धांत में योगदान दिया।",
-        "गलत: श्लाइडेन का प्रमुख योगदान पादपों के अध्ययन से जुड़ा है।"
+        "मेंडल आनुवंशिकी के नियमों से जुड़े हैं।",
+        "विरचो का प्रमुख योगदान पूर्ववर्ती कोशिकाओं से नई कोशिकाओं के बनने के विचार से जुड़ा है।",
+        "सही—श्वान का कार्य जंतुओं के कोशिकीय संगठन से जुड़ा है।",
+        "श्लाइडेन का प्रमुख योगदान पादपों के कोशिकीय संगठन से जुड़ा है।"
+      ],
+      "en": [
+        "Mendel is known for foundational work in genetics.",
+        "Virchow is associated with the idea that new cells arise from existing cells.",
+        "Correct—Schwann’s work concerned cellular organization in animals.",
+        "Schleiden’s major contribution concerned plants."
       ]
     }
   },
@@ -112,34 +130,40 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "नई कोशिका के स्रोत के बारे में किस वैज्ञानिक ने महत्वपूर्ण कथन दिया?",
-      "en": "Which scientist made an important statement about the origin of new cells?"
+      "hi": "घाव भरते समय नई कोशिकाएँ बनती हैं। कोशिका सिद्धांत के किस विचार से यह प्रक्रिया सबसे सीधे जुड़ती है?",
+      "en": "New cells form as a wound heals. Which idea of cell theory is most directly connected to this process?"
     },
     "options": {
       "hi": [
-        "श्लाइडेन",
-        "डार्विन",
-        "श्वान",
-        "विरचो"
+        "श्लाइडेन का पादप कोशिकाओं पर काम",
+        "डार्विन का प्राकृतिक चयन",
+        "श्वान का जंतु कोशिकाओं पर काम",
+        "विरचो का विचार कि नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं"
       ],
       "en": [
-        "Schleiden",
-        "Darwin",
-        "Schwann",
-        "Virchow"
+        "Schleiden’s work on plant cells",
+        "Darwin’s natural selection",
+        "Schwann’s work on animal cells",
+        "Virchow’s idea that new cells arise from pre-existing cells"
       ]
     },
     "correct": 3,
     "explanation": {
-      "hi": "विरचो ने नई कोशिकाओं के पूर्ववर्ती कोशिकाओं से बनने की बात जोड़ी।",
-      "en": "Virchow added that new cells arise from pre-existing cells."
+      "hi": "घाव भरने में आसपास की कोशिकाएँ विभाजित होकर नई कोशिकाएँ बनाती हैं। विरचो का सिद्धांत इसी बात पर जोर देता है कि नई कोशिकाएँ पहले से मौजूद कोशिकाओं से उत्पन्न होती हैं; यह शरीर की मरम्मत को कोशिकीय स्तर पर समझाता है।",
+      "en": "During wound healing, nearby cells divide to produce new cells. Virchow’s principle emphasizes that new cells arise from pre-existing cells, helping explain tissue repair at the cellular level."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: श्लाइडेन का कार्य मुख्यतः पादपों के कोशिकीय संगठन से जुड़ा था।",
-        "गलत: डार्विन विकासवाद और प्राकृतिक चयन से जुड़े हैं।",
-        "गलत: श्वान का योगदान जंतुओं के कोशिकीय संगठन से जुड़ा था।",
-        "सही: विरचो ने कहा कि नई कोशिकाएँ पहले से मौजूद कोशिकाओं से उत्पन्न होती हैं।"
+        "श्लाइडेन का योगदान महत्वपूर्ण है, पर यह विकल्प घाव में नई कोशिकाओं के स्रोत को नहीं बताता।",
+        "प्राकृतिक चयन आबादियों में पीढ़ियों के दौरान परिवर्तन समझाता है, घाव की तत्काल मरम्मत नहीं।",
+        "श्वान ने जंतु कोशिकाओं के अध्ययन में योगदान दिया, पर प्रश्न नई कोशिकाओं के स्रोत के बारे में है।",
+        "सही—नई कोशिकाएँ विभाजन के जरिए पहले से मौजूद कोशिकाओं से बनती हैं।"
+      ],
+      "en": [
+        "Schleiden’s contribution is important, but this does not identify the source of new cells in a wound.",
+        "Natural selection explains changes in populations over generations, not immediate wound repair.",
+        "Schwann contributed to the study of animal cells, but the question asks where new cells come from.",
+        "Correct—new cells form by division of pre-existing cells."
       ]
     }
   },
@@ -148,34 +172,40 @@
     "topic": "cell-theory",
     "difficulty": "easy",
     "question": {
-      "hi": "कोशिका की सबसे उपयुक्त परिभाषा क्या है?",
-      "en": "What is the best description of a cell?"
+      "hi": "किसी कोशिका को हटाने से यदि उसके ऊतक का कार्य बाधित हो जाए, तो यह कोशिका की किस विशेषता को दर्शाता है?",
+      "en": "If removing cells disrupts a tissue’s function, which feature of cells does this illustrate?"
     },
     "options": {
       "hi": [
-        "जीवन की मूल संरचनात्मक और क्रियात्मक इकाई",
-        "केवल बाहरी आवरण",
-        "एक पूरा अंग",
-        "केवल आनुवंशिक पदार्थ"
+        "कोशिका जीवन की संरचनात्मक और क्रियात्मक मूल इकाई है",
+        "कोशिका केवल बाहरी आवरण है",
+        "कोशिका हमेशा एक पूरा अंग होती है",
+        "कोशिका में आनुवंशिक पदार्थ नहीं होता"
       ],
       "en": [
-        "The basic structural and functional unit of life",
-        "Only the outer covering",
-        "A whole organ",
-        "Only genetic material"
+        "The cell is the basic structural and functional unit of life",
+        "A cell is only an outer covering",
+        "A cell is always a complete organ",
+        "A cell contains no genetic material"
       ]
     },
     "correct": 0,
     "explanation": {
-      "hi": "कोशिका जीवन की मूल संरचनात्मक और क्रियात्मक इकाई है।",
-      "en": "The cell is the basic structural and functional unit of life."
+      "hi": "ऊतक कोशिकाओं के संगठित समूह से बनते हैं और उनका कार्य कोशिकाओं की संरचना तथा गतिविधि पर निर्भर करता है। इसलिए कोशिका को केवल निर्माण-सामग्री नहीं, बल्कि जीवन की क्रियात्मक इकाई भी कहा जाता है।",
+      "en": "Tissues are organized groups of cells, and their function depends on cellular structure and activity. A cell is therefore not merely building material; it is also a functional unit of life."
     },
     "optionExplanations": {
       "hi": [
-        "सही: कोशिका जीवन की मूल संरचनात्मक और क्रियात्मक इकाई है।",
-        "गलत: बाहरी आवरण केवल एक भाग है; कोशिका में कई संरचनाएँ और क्रियाएँ होती हैं।",
-        "गलत: अंग शरीर की विशिष्ट संरचना है, सबसे मूल इकाई नहीं।",
-        "गलत: आनुवंशिक पदार्थ कोशिका के घटकों में से एक है, कोशिका की पूरी परिभाषा नहीं।"
+        "सही—कोशिकाएँ ऊतक की संरचना बनाती हैं और उसके कार्य में योगदान देती हैं।",
+        "कोशिका में झिल्ली, कोशिकाद्रव्य और अन्य घटक होते हैं; वह केवल बाहरी आवरण नहीं है।",
+        "अंग अनेक ऊतकों से बनते हैं; कोशिका अंग से छोटा संगठन-स्तर है।",
+        "अधिकांश कोशिकाओं में आनुवंशिक पदार्थ होता है; उसकी स्थिति कोशिका के प्रकार पर निर्भर करती है।"
+      ],
+      "en": [
+        "Correct—cells build tissues and contribute to their functions.",
+        "A cell has a membrane, cytoplasm and other components; it is not just an outer covering.",
+        "Organs are made of multiple tissues; a cell is a lower level of organization.",
+        "Most cells contain genetic material; its location depends on cell type."
       ]
     }
   },
@@ -184,34 +214,40 @@
     "topic": "cell-theory",
     "difficulty": "easy",
     "question": {
-      "hi": "एककोशिकीय जीव में आवश्यक जीवन-क्रियाएँ मुख्यतः कहाँ होती हैं?",
-      "en": "Where do essential life processes mainly occur in a unicellular organism?"
+      "hi": "एक अमीबा को भोजन मिलता है, वह बढ़ता है और विभाजित होता है। यह उदाहरण किस निष्कर्ष को सबसे अच्छी तरह दिखाता है?",
+      "en": "An Amoeba obtains food, grows and divides. What does this example best demonstrate?"
     },
     "options": {
       "hi": [
-        "केवल केंद्रक",
-        "एक ही कोशिका",
-        "केवल कोशिका भित्ति",
-        "केवल ऊतक"
+        "जीवन-क्रियाओं के लिए ऊतक अनिवार्य हैं",
+        "एक कोशिका एक पूरे जीव की आवश्यक क्रियाएँ कर सकती है",
+        "केंद्रक अकेले पूरा जीव है",
+        "एककोशिकीय जीवों में कोशिकाद्रव्य नहीं होता"
       ],
       "en": [
-        "Only the nucleus",
-        "A single cell",
-        "Only the cell wall",
-        "Only tissue"
+        "Tissues are essential for all life processes",
+        "One cell can carry out the essential functions of an entire organism",
+        "The nucleus alone is the whole organism",
+        "Unicellular organisms have no cytoplasm"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "एककोशिकीय जीव में एक ही कोशिका पूरा जीव होती है।",
-      "en": "In a unicellular organism, the single cell constitutes the whole organism."
+      "hi": "अमीबा एककोशिकीय यूकैरियोट है। उसकी एक कोशिका भोजन ग्रहण करने, पदार्थों का परिवहन, ऊर्जा-उपयोग, वृद्धि और प्रजनन जैसी क्रियाएँ करती है; इसलिए ऊतक या अंग हर जीव के लिए आवश्यक नहीं हैं।",
+      "en": "Amoeba is a unicellular eukaryote. Its single cell performs functions such as feeding, transport, energy use, growth and reproduction, so tissues and organs are not essential in every organism."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: केंद्रक कोशिका का एक भाग है; सभी जीवन-क्रियाएँ केवल केंद्रक में नहीं होतीं।",
-        "सही: एककोशिकीय जीव में वही एक कोशिका जीवन की आवश्यक क्रियाएँ करती है।",
-        "गलत: कोशिका भित्ति कुछ कोशिकाओं में होती है और अकेले जीवन की सभी क्रियाएँ नहीं करती।",
-        "गलत: ऊतक बहुकोशिकीय जीवों में कोशिकाओं के समूह से बनता है; एककोशिकीय जीव में ऊतक नहीं होता।"
+        "ऊतक बहुकोशिकीय जीवों में बनते हैं; अमीबा में ऊतक नहीं होते।",
+        "सही—अमीबा की एक कोशिका पूरे जीव के रूप में कार्य करती है।",
+        "केंद्रक कोशिका का हिस्सा है; अमीबा में कोशिकाद्रव्य और कोशिका झिल्ली भी होते हैं।",
+        "अमीबा में कोशिकाद्रव्य होता है, जहाँ अनेक कोशिकीय प्रक्रियाएँ होती हैं।"
+      ],
+      "en": [
+        "Tissues occur in multicellular organisms; Amoeba does not have tissues.",
+        "Correct—the single Amoeba cell functions as the whole organism.",
+        "The nucleus is only one part of the cell; Amoeba also has cytoplasm and a cell membrane.",
+        "Amoeba has cytoplasm, where many cellular processes occur."
       ]
     }
   },
@@ -220,34 +256,40 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "कोशिका सिद्धांत का कौन-सा कथन सही है?",
-      "en": "Which statement of cell theory is correct?"
+      "hi": "एक विद्यार्थी कहता है, “हर नई कोशिका अपने-आप बन सकती है; उसे किसी पुरानी कोशिका की जरूरत नहीं।” कोशिका सिद्धांत के अनुसार सबसे उचित सुधार क्या है?",
+      "en": "A student says, “Every new cell can appear on its own; it does not need an older cell.” What is the best correction according to cell theory?"
     },
     "options": {
       "hi": [
         "हर कोशिका एक अंग है",
-        "सभी कोशिकाएँ समान आकार की होती हैं",
+        "सभी कोशिकाओं का आकार समान है",
         "नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं",
-        "सभी कोशिकाएँ पादप हैं"
+        "सभी कोशिकाएँ पादप कोशिकाएँ हैं"
       ],
       "en": [
         "Every cell is an organ",
-        "All cells are of the same size",
+        "All cells have the same size",
         "New cells arise from pre-existing cells",
         "All cells are plant cells"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "कोशिका सभी सजीवों की मूल संरचनात्मक और क्रियात्मक इकाई है; कुछ जीव एक कोशिका के होते हैं और कुछ अनेक कोशिकाओं के।",
-      "en": "This is a key statement of cell theory."
+      "hi": "विरचो से जुड़ा सिद्धांत बताता है कि नई कोशिकाएँ पहले से मौजूद कोशिकाओं के विभाजन से बनती हैं। यह कोशिका निर्माण को निरंतर जैविक प्रक्रिया के रूप में समझाता है, न कि बिना स्रोत के अचानक उत्पन्न होने वाली घटना के रूप में।",
+      "en": "The principle associated with Virchow states that new cells arise by division of pre-existing cells. Cell formation is therefore an ongoing biological process, not a spontaneous appearance without a cellular source."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: कोशिका और अंग अलग संगठन-स्तर हैं; हर कोशिका अंग नहीं होती।",
-        "गलत: कोशिकाओं का आकार और रूप अलग-अलग हो सकता है।",
-        "सही: नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं।",
-        "गलत: सजीवों में पादप और जंतु सहित कई समूह हैं; सभी कोशिकाएँ पादप नहीं हैं।"
+        "कोशिका अंग से छोटी इकाई है; हर कोशिका अंग नहीं होती।",
+        "कोशिकाओं का आकार और आकृति अलग-अलग हो सकते हैं।",
+        "सही—नई कोशिका बनने के लिए पूर्ववर्ती कोशिका स्रोत होती है।",
+        "जंतु, पादप, कवक और अनेक अन्य जीवों में भी कोशिकाएँ होती हैं।"
+      ],
+      "en": [
+        "A cell is smaller than an organ; a cell is not itself an organ.",
+        "Cells can vary in size and shape.",
+        "Correct—a pre-existing cell is the source of a new cell.",
+        "Animals, plants, fungi and many other organisms are made of cells."
       ]
     }
   },
@@ -256,8 +298,8 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "श्लाइडेन और श्वान के योगदान का सही मिलान कौन-सा है?",
-      "en": "Which correctly matches the contributions of Schleiden and Schwann?"
+      "hi": "जीव विज्ञान के इतिहास की समयरेखा बनाते समय कौन-सा जोड़ा पादप और जंतु कोशिकाओं के अध्ययन को सही वैज्ञानिकों से जोड़ता है?",
+      "en": "When making a history-of-biology timeline, which pair correctly links plant and animal cell studies to the scientists?"
     },
     "options": {
       "hi": [
@@ -267,23 +309,29 @@
         "श्लाइडेन—पादप; श्वान—जंतु"
       ],
       "en": [
-        "Both — blood",
+        "Both—blood",
         "Schleiden—animals; Schwann—plants",
-        "Both — bacteria",
+        "Both—bacteria",
         "Schleiden—plants; Schwann—animals"
       ]
     },
     "correct": 3,
     "explanation": {
-      "hi": "श्लाइडेन का कार्य पादपों और श्वान का कार्य जंतुओं से संबंधित था।",
-      "en": "Schleiden worked on plants and Schwann on animals."
+      "hi": "श्लाइडेन ने पादपों और श्वान ने जंतुओं के कोशिकीय संगठन पर काम किया। दोनों के योगदान को जोड़ने से कोशिका सिद्धांत का दायरा अलग-अलग जीव समूहों तक विस्तृत हुआ।",
+      "en": "Schleiden studied plant cellular organization and Schwann studied animals. Their combined contributions extended cell theory across different groups of living organisms."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: दोनों का योगदान रक्त के अध्ययन तक सीमित नहीं था।",
-        "गलत: श्लाइडेन पादपों और श्वान जंतुओं के कोशिकीय संगठन से जुड़े हैं, उलटा नहीं।",
-        "गलत: उनका संयुक्त योगदान केवल जीवाणुओं तक सीमित नहीं था।",
-        "सही: श्लाइडेन—पादप; श्वान—जंतु।"
+        "यह विकल्प दोनों वैज्ञानिकों के वास्तविक योगदान को नहीं बताता।",
+        "यह जोड़ा उल्टा है।",
+        "यह विकल्प उनके प्रसिद्ध योगदान का सही मिलान नहीं है।",
+        "सही—श्लाइडेन पादपों और श्वान जंतुओं से जुड़े हैं।"
+      ],
+      "en": [
+        "This does not identify their recognized contributions.",
+        "This reverses the pair.",
+        "This is not the accepted match for their major contributions.",
+        "Correct—Schleiden is associated with plants and Schwann with animals."
       ]
     }
   },
@@ -292,8 +340,8 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "बहुकोशिकीय जीवों में विशिष्ट कोशिकाएँ क्या बना सकती हैं?",
-      "en": "What can specialized cells form in multicellular organisms?"
+      "hi": "त्वचा की कई कोशिकाएँ मिलकर एक सुरक्षात्मक परत बनाती हैं। कोशिका से शरीर तक संगठन का कौन-सा क्रम सही है?",
+      "en": "Many skin cells work together to form a protective layer. Which order of organization from cell to body is correct?"
     },
     "options": {
       "hi": [
@@ -311,15 +359,21 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "बहुकोशिकीय जीवों में विशिष्ट कोशिकाएँ ऊतक और अंग बनाने में संगठित हो सकती हैं।",
-      "en": "In multicellular organisms, specialized cells can organize into tissues and organs."
+      "hi": "समान या संबंधित कार्य करने वाली कोशिकाएँ ऊतक बनाती हैं; कई ऊतक मिलकर अंग बना सकते हैं। त्वचा एक अंग है, जिसमें उपकला सहित अनेक ऊतक होते हैं—इसलिए कोशिका से अंग तक का संगठन चरणबद्ध है।",
+      "en": "Cells with related functions form tissues, and multiple tissues can form an organ. Skin is an organ containing several tissues, including epithelial tissue, so organization from cell to organ occurs in levels."
     },
     "optionExplanations": {
       "hi": [
-        "सही: विशिष्ट कोशिकाएँ संगठित होकर ऊतक और आगे अंग बना सकती हैं।",
-        "गलत: कोशिका भित्ति पादप कोशिकाओं की एक संरचना है, कोशिकाओं का समूह नहीं।",
-        "गलत: DNA आनुवंशिक पदार्थ है, कोशिकाओं द्वारा बनाए जाने वाला ऊतक या अंग नहीं।",
-        "गलत: रक्त एक प्रकार का ऊतक है, लेकिन बहुकोशिकीय जीवों में कोशिकाएँ अनेक प्रकार की संरचनाएँ बनाती हैं।"
+        "सही—कोशिकाएँ ऊतक बनाती हैं और ऊतक मिलकर अंग का हिस्सा बनते हैं।",
+        "कोशिका भित्ति पादप कोशिकाओं में होती है; यह शरीर-संगठन का क्रम नहीं है।",
+        "DNA आनुवंशिक पदार्थ है, संगठन का स्तर नहीं।",
+        "रक्त एक संयोजी ऊतक है, लेकिन सभी कोशिकाएँ केवल रक्त नहीं बनातीं।"
+      ],
+      "en": [
+        "Correct—cells form tissues, and tissues contribute to organs.",
+        "A cell wall occurs in plant cells; it is not a level of body organization.",
+        "DNA is genetic material, not a level of organization.",
+        "Blood is a connective tissue, but cells do not all form only blood."
       ]
     }
   },
@@ -328,34 +382,40 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "पूर्ववर्ती कोशिका से नई कोशिका बनने का विचार किससे जुड़ा है?",
-      "en": "Who is associated with the idea that new cells arise from pre-existing cells?"
+      "hi": "यदि किसी सूक्ष्मदर्शी स्लाइड में कोशिका विभाजन के बाद दो नई कोशिकाएँ दिखें, तो कोशिका सिद्धांत का कौन-सा कथन इस अवलोकन की व्याख्या करता है?",
+      "en": "If a microscope slide shows two new cells after cell division, which statement of cell theory explains the observation?"
     },
     "options": {
       "hi": [
-        "लिनियस",
-        "विरचो",
-        "पाश्चर",
-        "डार्विन"
+        "लिनियस ने वर्गीकरण किया",
+        "विरचो—नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं",
+        "पाश्चर ने किण्वन का अध्ययन किया",
+        "डार्विन ने प्राकृतिक चयन का सिद्धांत दिया"
       ],
       "en": [
-        "Linnaeus",
-        "Virchow",
-        "Pasteur",
-        "Darwin"
+        "Linnaeus developed biological classification",
+        "Virchow—new cells arise from pre-existing cells",
+        "Pasteur studied fermentation",
+        "Darwin proposed natural selection"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "पूर्ववर्ती कोशिका से नई कोशिका बनने का विचार विरचो से जुड़ा है।",
-      "en": "The idea that new cells arise from pre-existing cells is associated with Virchow."
+      "hi": "कोशिका विभाजन में एक पूर्ववर्ती कोशिका से नई कोशिकाएँ बनती हैं। विरचो का विचार इसी अवलोकन से मेल खाता है; दूसरे वैज्ञानिकों के योगदान महत्वपूर्ण हैं, पर वे इस खास कोशिकीय कथन का उत्तर नहीं हैं।",
+      "en": "Cell division produces new cells from a pre-existing cell. Virchow’s principle matches this observation; the other scientists made important contributions, but not to this specific cell-theory statement."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: लिनियस वर्गीकरण के लिए प्रसिद्ध हैं, इस कथन के लिए नहीं।",
-        "सही: विरचो का विचार है कि नई कोशिकाएँ पूर्ववर्ती कोशिकाओं से बनती हैं।",
-        "गलत: पाश्चर सूक्ष्मजीवों और रोगाणु सिद्धांत पर अपने काम के लिए प्रसिद्ध हैं।",
-        "गलत: डार्विन प्राकृतिक चयन द्वारा विकासवाद से जुड़े हैं।"
+        "लिनियस का काम जीवों के वर्गीकरण से जुड़ा है।",
+        "सही—यह विरचो के सिद्धांत का सार है।",
+        "पाश्चर सूक्ष्मजीवों और किण्वन के अध्ययन से जुड़े हैं।",
+        "डार्विन प्राकृतिक चयन द्वारा विकासवाद से जुड़े हैं।"
+      ],
+      "en": [
+        "Linnaeus is associated with biological classification.",
+        "Correct—this is the essence of Virchow’s principle.",
+        "Pasteur is associated with microorganisms and fermentation.",
+        "Darwin is associated with evolution by natural selection."
       ]
     }
   },
@@ -364,8 +424,8 @@
     "topic": "cell-theory",
     "difficulty": "easy",
     "question": {
-      "hi": "निम्न में से कौन कोशिका सिद्धांत का कथन नहीं है?",
-      "en": "Which is NOT a statement of cell theory?"
+      "hi": "कौन-सा कथन कोशिका सिद्धांत का हिस्सा नहीं है, भले ही वह पहली नजर में आकर्षक लगे?",
+      "en": "Which statement is NOT part of cell theory, even if it may sound plausible at first?"
     },
     "options": {
       "hi": [
@@ -377,21 +437,27 @@
       "en": [
         "New cells arise from pre-existing cells",
         "Living organisms are made of cells",
-        "All cells are of the same size",
+        "All cells have the same size",
         "The cell is the basic unit of life"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "सभी कोशिकाओं का आकार समान होना कोशिका सिद्धांत का कथन नहीं है।",
-      "en": "All cells having the same size is not a statement of cell theory."
+      "hi": "कोशिकाओं का आकार और आकृति उनके कार्य के अनुसार बदलते हैं—जैसे तंत्रिका कोशिका लंबी हो सकती है, जबकि लाल रक्त कोशिका छोटी और चपटी होती है। कोशिका सिद्धांत कोशिका को जीवन की मूल इकाई मानता है, सभी कोशिकाओं को एक जैसा नहीं।",
+      "en": "Cell size and shape vary with function—for example, a neuron can be long, while a red blood cell is small and flattened. Cell theory identifies the cell as the basic unit of life; it does not claim that all cells are identical."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: नई कोशिकाओं का पूर्ववर्ती कोशिकाओं से बनना कोशिका सिद्धांत से जुड़ा है।",
-        "गलत: सजीवों का कोशिकाओं से बने होना कोशिका सिद्धांत का भाग है।",
-        "सही: कोशिकाओं का आकार अलग-अलग हो सकता है; समान आकार होना सिद्धांत का कथन नहीं है।",
-        "गलत: कोशिका जीवन की मूल इकाई है, कोशिका सिद्धांत का केंद्रीय विचार है।"
+        "यह कोशिका सिद्धांत का प्रमुख कथन है।",
+        "यह कोशिका सिद्धांत का प्रमुख कथन है।",
+        "सही—कोशिकाएँ आकार और आकृति में भिन्न होती हैं।",
+        "यह कोशिका सिद्धांत का प्रमुख कथन है।"
+      ],
+      "en": [
+        "This is a central statement of cell theory.",
+        "This is a central statement of cell theory.",
+        "Correct—cells differ in size and shape.",
+        "This is a central statement of cell theory."
       ]
     }
   },
@@ -400,8 +466,8 @@
     "topic": "cell-theory",
     "difficulty": "easy",
     "question": {
-      "hi": "ऊतक किस मूल संरचनात्मक इकाई से बने होते हैं?",
-      "en": "What basic structural unit forms tissues?"
+      "hi": "यदि किसी ऊतक की कोशिकाओं को अलग कर दिया जाए, तो उनका सामूहिक कार्य प्रभावित हो सकता है। इससे कौन-सा संबंध स्पष्ट होता है?",
+      "en": "If the cells of a tissue are separated, their coordinated function may be disrupted. Which relationship does this reveal?"
     },
     "options": {
       "hi": [
@@ -419,15 +485,21 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "ऊतक कोशिकाओं के समूह से बनता है। इसलिए ऊतक की मूल संरचनात्मक इकाई कोशिका है। कई कोशिकाएँ मिलकर एक विशेष कार्य करती हैं और ऊतक बनाती हैं।",
-      "en": "A tissue is made of a group of cells. The cell is therefore the basic structural unit from which tissues are formed; groups of cells work together to perform a particular function."
+      "hi": "ऊतक कोशिकाओं का संगठित समूह है जो मिलकर एक विशेष कार्य करता है। अलग-अलग कोशिकाएँ जीवित रह सकती हैं या नहीं, यह ऊतक और कोशिका के प्रकार पर निर्भर करता है; मुख्य बात उनका समन्वित संगठन है।",
+      "en": "A tissue is an organized group of cells working together for a particular function. Whether separated cells survive depends on the cell and tissue type; the key idea is their coordinated organization."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: जीव पूरा सजीव है, ऊतक की मूल इकाई नहीं।",
-        "गलत: ऊतक स्वयं कई कोशिकाओं से बनता है; यह उसकी मूल इकाई नहीं है।",
-        "गलत: अंग कई ऊतकों से बनते हैं और कोशिका से अधिक जटिल हैं।",
-        "सही: ऊतक कोशिकाओं के समूह से बनता है।"
+        "जीव पूरे जीव का स्तर है, कोशिकाओं से बना ऊतक नहीं।",
+        "ऊतक वही समूह है जिसके घटक कोशिकाएँ हैं; प्रश्न मूल इकाई पूछता है।",
+        "अंग कई ऊतकों से मिलकर बनता है।",
+        "सही—कोशिका ऊतक की मूल संरचनात्मक इकाई है।"
+      ],
+      "en": [
+        "An organism is the whole living individual, not the basic unit within a tissue.",
+        "A tissue is the group itself; the question asks for its basic unit.",
+        "An organ is made of multiple tissues.",
+        "Correct—the cell is the basic structural unit of a tissue."
       ]
     }
   },
@@ -436,8 +508,8 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "वृद्धि के दौरान किसका निर्माण आवश्यक है?",
-      "en": "What is necessary to be produced during growth?"
+      "hi": "बढ़ते हुए पौधे की जड़ में नई कोशिकाएँ बनती हैं। वृद्धि के लिए यह प्रक्रिया क्यों जरूरी है?",
+      "en": "New cells form in the growing root of a plant. Why is this process important for growth?"
     },
     "options": {
       "hi": [
@@ -448,22 +520,28 @@
       ],
       "en": [
         "Formation of new cells",
-        "Only storage of water",
+        "Only water storage",
         "Only light absorption",
         "Blood circulation"
       ]
     },
     "correct": 0,
     "explanation": {
-      "hi": "नई कोशिकाओं का निर्माण वृद्धि में सहायक होता है।",
-      "en": "Growth requires the formation of new cells, which supports tissue growth, development, and repair."
+      "hi": "जड़ के विभज्योतक क्षेत्र में कोशिका विभाजन से कोशिकाओं की संख्या बढ़ती है, जिससे जड़ लंबी हो सकती है। बाद में कई कोशिकाएँ विशेष कार्यों के लिए विभेदित भी होती हैं; वृद्धि केवल जल भरने का परिणाम नहीं है।",
+      "en": "Cell division in the root meristem increases cell number, allowing the root to grow longer. Many cells later differentiate for specialized functions, so growth is not simply a result of water storage."
     },
     "optionExplanations": {
       "hi": [
-        "सही: वृद्धि में कोशिकाओं का विभाजन और नई कोशिकाओं का निर्माण महत्वपूर्ण भूमिका निभाते हैं।",
-        "गलत: जल भंडारण कुछ कोशिकीय संरचनाओं का कार्य है, लेकिन यह वृद्धि का एकमात्र आवश्यक घटक नहीं।",
-        "गलत: प्रकाश अवशोषण विशेष प्रक्रियाओं में उपयोगी है; यह सभी जीवों की वृद्धि का सामान्य उत्तर नहीं।",
-        "गलत: रक्त परिसंचरण जंतुओं की एक शारीरिक प्रक्रिया है, सभी जीवों की वृद्धि का सामान्य आधार नहीं।"
+        "सही—विभज्योतक में कोशिका विभाजन कोशिकाओं की संख्या बढ़ाता है।",
+        "जल का भंडारण कुछ कोशिकाओं का कार्य हो सकता है, पर वह अकेले वृद्धि की व्याख्या नहीं करता।",
+        "प्रकाश अवशोषण मुख्यतः प्रकाश-संश्लेषी ऊतकों से जुड़ा है, जड़ की सामान्य वृद्धि से नहीं।",
+        "पौधों में रक्त परिसंचरण नहीं होता; वे पदार्थों का परिवहन जाइलम और फ्लोएम से करते हैं।"
+      ],
+      "en": [
+        "Correct—cell division in meristems increases the number of cells.",
+        "Water storage is a function of some cells, but does not alone explain growth.",
+        "Light absorption is associated with photosynthetic tissues, not ordinary root growth.",
+        "Plants do not have blood circulation; xylem and phloem transport materials."
       ]
     }
   },
@@ -472,34 +550,40 @@
     "topic": "cell-theory",
     "difficulty": "easy",
     "question": {
-      "hi": "जीव के संरचनात्मक संगठन की मूल इकाई क्या है?",
-      "en": "What is the basic unit of structural organization in an organism?"
+      "hi": "एक पत्ती की कोशिकाएँ, पत्ती का ऊतक और पूरी पत्ती—इनमें सबसे छोटे से सबसे बड़े संगठन का सही क्रम कौन-सा है?",
+      "en": "For cells in a leaf, leaf tissue and the whole leaf, which order runs from smallest to largest level of organization?"
     },
     "options": {
       "hi": [
-        "अंग-तंत्र",
-        "कोशिका",
-        "अंग",
-        "ऊतक"
+        "अंग-तंत्र → अंग → ऊतक → कोशिका",
+        "कोशिका → ऊतक → अंग",
+        "अंग → कोशिका → ऊतक",
+        "ऊतक → कोशिका → अंग"
       ],
       "en": [
-        "Organ system",
-        "Cell",
-        "Organ",
-        "Tissue"
+        "Organ system → organ → tissue → cell",
+        "Cell → tissue → organ",
+        "Organ → cell → tissue",
+        "Tissue → cell → organ"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "कोशिका जीव की सबसे छोटी संरचनात्मक और क्रियात्मक इकाई है। कोशिकाएँ मिलकर ऊतक, ऊतक मिलकर अंग और अंग मिलकर अंग-तंत्र बना सकते हैं।",
-      "en": "The cell is the smallest structural and functional unit of a living organism. Cells can form tissues, tissues form organs, and organs can work together in organ systems."
+      "hi": "कोशिकाएँ मिलकर ऊतक बनाती हैं और कई ऊतक मिलकर अंग बनाते हैं। पत्ती एक पादप अंग है जिसमें विभिन्न ऊतक मिलकर प्रकाश-संश्लेषण, गैस-विनिमय और पदार्थ-परिवहन में योगदान देते हैं।",
+      "en": "Cells form tissues, and multiple tissues form an organ. A leaf is a plant organ whose different tissues contribute to photosynthesis, gas exchange and transport."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: अंग-तंत्र कई अंगों से बनता है।",
-        "सही: कोशिका जीव के संरचनात्मक संगठन की मूल इकाई है।",
-        "गलत: अंग कई ऊतकों से बनता है; यह कोशिका से उच्च संगठन स्तर है।",
-        "गलत: ऊतक कोशिकाओं से और अंग ऊतकों से बनते हैं।"
+        "यह क्रम उल्टा है—अंग-तंत्र सबसे बड़ा स्तर है।",
+        "सही—कोशिका से ऊतक और फिर अंग बनता है।",
+        "अंग को कोशिका से पहले रखना संगठन का क्रम बिगाड़ता है।",
+        "ऊतक कोशिकाओं से बनता है, इसलिए पहला चरण उल्टा है।"
+      ],
+      "en": [
+        "This order is reversed; an organ system is the larger level.",
+        "Correct—cells form tissues, which form organs.",
+        "Placing the organ before the cell reverses the hierarchy.",
+        "Tissues are made of cells, so the first step is reversed."
       ]
     }
   },
@@ -508,34 +592,40 @@
     "topic": "cell-theory",
     "difficulty": "medium",
     "question": {
-      "hi": "कोशिका सिद्धांत किस प्रकार के संगठन को स्पष्ट करता है?",
-      "en": "What type of organization does cell theory explain?"
+      "hi": "कोशिका सिद्धांत जीव विज्ञान में इतना उपयोगी क्यों है?",
+      "en": "Why is cell theory so useful in biology?"
     },
     "options": {
       "hi": [
-        "केवल रक्त समूह",
-        "केवल हड्डी की कठोरता",
-        "सजीवों का कोशिकीय संगठन",
-        "केवल जल की अवस्था"
+        "यह केवल रक्त समूह समझाता है",
+        "यह केवल हड्डी की कठोरता समझाता है",
+        "यह सजीवों के कोशिकीय संगठन का साझा आधार देता है",
+        "यह केवल जल की अवस्थाएँ समझाता है"
       ],
       "en": [
-        "Only blood group",
-        "Only the hardness of bone",
-        "Cellular organisation of living organisms",
-        "Only the state of water"
+        "It explains only blood groups",
+        "It explains only bone hardness",
+        "It provides a common basis for the cellular organization of living things",
+        "It explains only states of water"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "कोशिका सिद्धांत सजीवों के कोशिकीय संगठन को स्पष्ट करता है।",
-      "en": "Cell theory explains the cellular organization of living organisms."
+      "hi": "कोशिका सिद्धांत अलग-अलग जीवों को एक साझा जैविक विचार से जोड़ता है: जीवन की संरचना और क्रियाएँ कोशिकाओं पर आधारित हैं। इससे वृद्धि, ऊतक-मरम्मत और कोशिका विभाजन जैसे विषयों को एक ही ढाँचे में समझा जा सकता है।",
+      "en": "Cell theory connects diverse organisms through a common biological idea: the structure and functions of life depend on cells. It provides a framework for understanding growth, tissue repair and cell division."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: रक्त समूह कोशिका सिद्धांत का केंद्रीय विषय नहीं है।",
-        "गलत: हड्डी की कठोरता ऊतक-विज्ञान का एक विशिष्ट विषय है, कोशिका सिद्धांत का सार नहीं।",
-        "सही: कोशिका सिद्धांत सजीवों के कोशिकीय संगठन और कोशिका की मूल भूमिका को स्पष्ट करता है।",
-        "गलत: जल की अवस्था कोशिका सिद्धांत का विषय नहीं है।"
+        "रक्त समूह कोशिका सिद्धांत का एक छोटा अनुप्रयोग हो सकता है, लेकिन यह इसका पूरा उद्देश्य नहीं।",
+        "हड्डी की कठोरता मुख्यतः ऊतक की संरचना और खनिजों से जुड़ी है।",
+        "सही—यह सजीवों के कोशिकीय संगठन को समझने का व्यापक आधार है।",
+        "जल की अवस्थाएँ भौतिकी और रसायन विज्ञान का विषय हैं।"
+      ],
+      "en": [
+        "Blood groups may involve cell biology, but this is not the purpose of cell theory.",
+        "Bone hardness relates to tissue structure and minerals.",
+        "Correct—cell theory is a broad framework for understanding cellular organization.",
+        "States of water are primarily a topic in physics and chemistry."
       ]
     }
   },
@@ -544,34 +634,40 @@
     "topic": "prokaryotic-vs-eukaryotic-cell",
     "difficulty": "easy",
     "question": {
-      "hi": "प्रोकैरियोटिक कोशिका की प्रमुख पहचान कौन-सी है?",
-      "en": "What is a key feature of a prokaryotic cell? 1"
+      "hi": "जीवाणु की कोशिका में DNA मौजूद है, फिर भी उसे प्रोकैरियोटिक क्यों कहा जाता है?",
+      "en": "A bacterial cell contains DNA, so why is it still called prokaryotic?"
     },
     "options": {
       "hi": [
-        "केवल बहुकोशिकीय जीवों में पाया जाना",
-        "झिल्ली से घिरा स्पष्ट केंद्रक",
-        "झिल्ली-बद्ध कोशिकांगों की उपस्थिति",
-        "झिल्ली-बद्ध स्पष्ट केंद्रक का अभाव"
+        "क्योंकि वह केवल बहुकोशिकीय जीवों में पाया जाता है",
+        "क्योंकि उसमें झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता",
+        "क्योंकि उसमें झिल्ली-बद्ध कोशिकांग होते हैं",
+        "क्योंकि उसमें अनिवार्य रूप से हरितलवक होता है"
       ],
       "en": [
-        "A large membrane-bound nucleus",
-        "Being only multicellular",
-        "Absence of a well-defined membrane-bound nucleus",
-        "Compulsory presence of chloroplast"
+        "Because it occurs only in multicellular organisms",
+        "Because it lacks a well-defined membrane-bound nucleus",
+        "Because it has membrane-bound organelles",
+        "Because it must contain chloroplasts"
       ]
     },
-    "correct": 3,
+    "correct": 1,
     "explanation": {
-      "hi": "प्रोकैरियोटिक कोशिका में DNA एक न्यूक्लियॉइड क्षेत्र में रहता है, जिसके चारों ओर केंद्रकीय झिल्ली नहीं होती। जीवाणु इसके सामान्य उदाहरण हैं।",
-      "en": "A prokaryotic cell lacks a well-defined membrane-bound nucleus."
+      "hi": "प्रोकैरियोटिक कोशिका में DNA होता है, लेकिन वह झिल्ली से घिरे स्पष्ट केंद्रक में बंद नहीं होता; वह न्यूक्लियॉइड क्षेत्र में रहता है। “केंद्रक नहीं” का अर्थ “DNA नहीं” नहीं है—यह एक आम परीक्षा-जाल है।",
+      "en": "A prokaryotic cell contains DNA, but it is not enclosed in a membrane-bound nucleus; it lies in the nucleoid region. “No nucleus” does not mean “no DNA”—a common exam trap."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: प्रोकैरियोटिक जीव एककोशिकीय हो सकते हैं; केवल बहुकोशिकीय होना उनकी पहचान नहीं है।",
-        "गलत: झिल्ली से घिरा स्पष्ट केंद्रक यूकैरियोटिक कोशिका की पहचान है।",
-        "गलत: सामान्य झिल्ली-बद्ध कोशिकांग, जैसे माइटोकॉन्ड्रिया और गॉल्जी निकाय, यूकैरियोटिक कोशिकाओं में पाए जाते हैं।",
-        "सही: प्रोकैरियोटिक कोशिका में झिल्ली-बद्ध स्पष्ट केंद्रक नहीं होता।"
+        "जीवाणु एककोशिकीय होते हैं; प्रोकैरियोट केवल बहुकोशिकीय जीवों तक सीमित नहीं।",
+        "सही—झिल्ली-बद्ध स्पष्ट केंद्रक का अभाव इसकी प्रमुख पहचान है।",
+        "प्रोकैरियोट में झिल्ली-बद्ध केंद्रक और अधिकांश झिल्ली-बद्ध कोशिकांग नहीं होते।",
+        "जीवाणुओं में हरितलवक नहीं होता; प्रकाश-संश्लेषी जीवाणु भी हरितलवक के बिना प्रकाश-संश्लेषण कर सकते हैं।"
+      ],
+      "en": [
+        "Bacteria are unicellular; prokaryotes are not limited to multicellular organisms.",
+        "Correct—the absence of a well-defined membrane-bound nucleus is a key feature.",
+        "Prokaryotes lack a membrane-bound nucleus and most membrane-bound organelles.",
+        "Bacteria do not have chloroplasts; some photosynthetic bacteria function without them."
       ]
     }
   },
@@ -580,34 +676,40 @@
     "topic": "prokaryotic-vs-eukaryotic-cell",
     "difficulty": "easy",
     "question": {
-      "hi": "किस कोशिका में झिल्ली से घिरा स्पष्ट केंद्रक पाया जाता है?",
-      "en": "Which of the following should be considered the correct answer? 2"
+      "hi": "एक कोशिका में DNA है, लेकिन DNA के चारों ओर झिल्ली-बद्ध केंद्रक नहीं दिखता। यह किस प्रकार की कोशिका होने का सबसे मजबूत संकेत है?",
+      "en": "A cell contains DNA, but no membrane-bound nucleus is visible around it. What type of cell does this most strongly suggest?"
     },
     "options": {
       "hi": [
-        "यूकैरियोटिक कोशिका",
+        "प्रोकैरियोटिक कोशिका",
         "केवल विषाणु",
-        "हर प्रकार की प्रोकैरियोटिक कोशिका",
-        "जीवाणु की कोशिका"
+        "हर प्रकार की प्रोकैरियोटिक कोशिका में केंद्रक होता है",
+        "केवल कोशिका भित्ति"
       ],
       "en": [
-        "Nucleoid",
-        "Complete absence of nucleus",
-        "Only the cell wall",
-        "A well-defined nucleus enclosed by a membrane"
+        "A prokaryotic cell",
+        "Only a virus",
+        "Every prokaryotic cell has a nucleus",
+        "Only a cell wall"
       ]
     },
     "correct": 0,
     "explanation": {
-      "hi": "यूकैरियोटिक कोशिका में DNA केंद्रकीय झिल्ली से घिरे केंद्रक में व्यवस्थित रहता है। पादप, जंतु और अमीबा की कोशिकाएँ इसके उदाहरण हैं।",
-      "en": "In a eukaryotic cell, the nucleus is enclosed by a nuclear membrane."
+      "hi": "प्रोकैरियोट में आनुवंशिक पदार्थ न्यूक्लियॉइड क्षेत्र में रहता है, जबकि यूकैरियोट में सामान्यतः झिल्ली-बद्ध केंद्रक होता है। केवल DNA की उपस्थिति से यूकैरियोटिक होना तय नहीं होता; केंद्रक की व्यवस्था देखना जरूरी है।",
+      "en": "In prokaryotes, genetic material lies in the nucleoid region, whereas eukaryotes generally have a membrane-bound nucleus. The presence of DNA alone does not make a cell eukaryotic; the organization of the nucleus matters."
     },
     "optionExplanations": {
       "hi": [
-        "सही: यूकैरियोटिक कोशिका में झिल्ली से घिरा स्पष्ट केंद्रक होता है।",
-        "गलत: विषाणु कोशिका नहीं होते; वे कोशिकीय संरचना से रहित होते हैं।",
-        "गलत: प्रोकैरियोटिक कोशिकाओं में स्पष्ट झिल्ली-बद्ध केंद्रक नहीं होता।",
-        "गलत: जीवाणु प्रोकैरियोट हैं और उनमें झिल्ली-बद्ध केंद्रक नहीं होता।"
+        "सही—DNA का झिल्ली-बद्ध केंद्रक में बंद न होना प्रोकैरियोट का संकेत है।",
+        "विषाणु कोशिकाएँ नहीं हैं; उन्हें कोशिका प्रकार के रूप में वर्गीकृत नहीं किया जाता।",
+        "यह कथन उल्टा है—प्रोकैरियोट में झिल्ली-बद्ध केंद्रक नहीं होता।",
+        "कोशिका भित्ति कई कोशिकाओं में होती है, लेकिन इससे केंद्रक का प्रकार तय नहीं होता।"
+      ],
+      "en": [
+        "Correct—the lack of a membrane-bound nucleus indicates a prokaryote.",
+        "Viruses are not cells and are not classified as a cell type.",
+        "This reverses the defining feature; prokaryotes lack a membrane-bound nucleus.",
+        "A cell wall occurs in several cell types and does not determine nuclear organization."
       ]
     }
   },
@@ -616,34 +718,40 @@
     "topic": "prokaryotic-vs-eukaryotic-cell",
     "difficulty": "easy",
     "question": {
-      "hi": "निम्न में से कौन प्रोकैरियोटिक जीव का उदाहरण है?",
-      "en": "Which of the following is an example of a prokaryotic organism?"
+      "hi": "इनमें से किस नमूने में प्रोकैरियोटिक कोशिका मिलने की सबसे अधिक संभावना है?",
+      "en": "Which sample is most likely to contain prokaryotic cells?"
     },
     "options": {
       "hi": [
-        "मानव",
-        "जीवाणु",
-        "यीस्ट",
-        "अमीबा"
+        "मानव की त्वचा",
+        "जीवाणु की कॉलोनी",
+        "यीस्ट का नमूना",
+        "अमीबा का नमूना"
       ],
       "en": [
-        "Human",
-        "Bacterium",
-        "Yeast",
-        "Amoeba"
+        "Human skin",
+        "A bacterial colony",
+        "A yeast sample",
+        "An Amoeba sample"
       ]
     },
     "correct": 1,
     "explanation": {
-      "hi": "जीवाणु प्रोकैरियोटिक जीव हैं। उनकी कोशिका में झिल्ली-बद्ध केंद्रक नहीं होता, जबकि अमीबा, मानव और यीस्ट यूकैरियोटिक हैं।",
-      "en": "Bacteria are prokaryotes: their cells lack a membrane-bound nucleus. Amoeba, humans, and yeast are eukaryotes."
+      "hi": "जीवाणु प्रोकैरियोट होते हैं और उनमें झिल्ली-बद्ध केंद्रक नहीं होता। मानव, यीस्ट और अमीबा यूकैरियोट हैं; यीस्ट एककोशिकीय होने के बावजूद यूकैरियोट है—इसलिए “एककोशिकीय = प्रोकैरियोट” मानना गलत है।",
+      "en": "Bacteria are prokaryotes and lack a membrane-bound nucleus. Humans, yeast and Amoeba are eukaryotes; yeast is unicellular but still eukaryotic, so “unicellular = prokaryotic” is incorrect."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: मानव की कोशिकाएँ यूकैरियोटिक होती हैं।",
-        "सही: जीवाणु प्रोकैरियोटिक होते हैं।",
-        "गलत: यीस्ट एक कवक है और उसकी कोशिका यूकैरियोटिक होती है।",
-        "गलत: अमीबा एक एककोशिकीय यूकैरियोट है और उसमें स्पष्ट केंद्रक होता है।"
+        "मानव की कोशिकाएँ यूकैरियोटिक हैं।",
+        "सही—जीवाणु प्रोकैरियोट हैं।",
+        "यीस्ट एककोशिकीय होते हुए भी यूकैरियोट है।",
+        "अमीबा एककोशिकीय यूकैरियोट है।"
+      ],
+      "en": [
+        "Human cells are eukaryotic.",
+        "Correct—bacteria are prokaryotes.",
+        "Yeast is eukaryotic despite being unicellular.",
+        "Amoeba is a unicellular eukaryote."
       ]
     }
   },
@@ -652,8 +760,8 @@
     "topic": "prokaryotic-vs-eukaryotic-cell",
     "difficulty": "medium",
     "question": {
-      "hi": "प्रोकैरियोटिक कोशिका में DNA मुख्यतः किस क्षेत्र में पाया जाता है?",
-      "en": "In a prokaryotic cell, where is DNA mainly located?"
+      "hi": "प्रोकैरियोटिक कोशिका में DNA किस स्थान पर पाया जाता है, जहाँ उसके चारों ओर केंद्रकीय झिल्ली नहीं होती?",
+      "en": "In a prokaryotic cell, where is DNA found without being enclosed by a nuclear membrane?"
     },
     "options": {
       "hi": [
@@ -665,21 +773,27 @@
       "en": [
         "Inside the Golgi apparatus",
         "Inside the nuclear membrane",
-        "In the nucleoid region",
-        "Inside the mitochondrion"
+        "The nucleoid region",
+        "Inside a mitochondrion"
       ]
     },
     "correct": 2,
     "explanation": {
-      "hi": "प्रोकैरियोट में DNA न्यूक्लियॉइड क्षेत्र में रहता है। यह क्षेत्र झिल्ली से घिरे केंद्रक की तरह अलग नहीं होता।",
-      "en": "In prokaryotes, DNA is located mainly in the nucleoid region, which is not enclosed by a nuclear membrane."
+      "hi": "प्रोकैरियोटिक कोशिका में DNA मुख्यतः न्यूक्लियॉइड क्षेत्र में रहता है। यह झिल्ली से घिरा केंद्रक नहीं है; इसके विपरीत, यूकैरियोटिक कोशिका में अधिकांश DNA केंद्रक में व्यवस्थित होता है।",
+      "en": "In a prokaryotic cell, DNA is mainly located in the nucleoid region. This is not a membrane-enclosed nucleus; by contrast, most DNA in eukaryotic cells is organized in the nucleus."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: गॉल्जी निकाय झिल्ली-बद्ध कोशिकांग है और प्रोकैरियोट में नहीं पाया जाता।",
-        "गलत: प्रोकैरियोट में DNA को घेरने वाली केंद्रकीय झिल्ली नहीं होती।",
-        "सही: DNA न्यूक्लियॉइड क्षेत्र में पाया जाता है।",
-        "गलत: प्रोकैरियोटिक कोशिका में माइटोकॉन्ड्रिया नहीं होता।"
+        "गॉल्जी निकाय यूकैरियोटिक कोशिकाओं का झिल्ली-बद्ध अंगक है।",
+        "प्रोकैरियोट में केंद्रकीय झिल्ली नहीं होती।",
+        "सही—न्यूक्लियॉइड DNA वाला क्षेत्र है।",
+        "जीवाणु जैसे प्रोकैरियोट में माइटोकॉन्ड्रिया नहीं होते।"
+      ],
+      "en": [
+        "The Golgi apparatus is a membrane-bound organelle of eukaryotes.",
+        "Prokaryotes do not have a nuclear membrane.",
+        "Correct—the nucleoid is the DNA-containing region.",
+        "Prokaryotes such as bacteria do not have mitochondria."
       ]
     }
   },
@@ -688,34 +802,40 @@
     "topic": "prokaryotic-vs-eukaryotic-cell",
     "difficulty": "easy",
     "question": {
-      "hi": "कौन-सी संरचना प्रोकैरियोटिक और यूकैरियोटिक दोनों कोशिकाओं में पाई जाती है?",
-      "en": "What is a key feature of a prokaryotic cell? 5"
+      "hi": "यदि किसी कोशिका में केंद्रक और माइटोकॉन्ड्रिया नहीं हैं, लेकिन प्रोटीन बनाने वाले राइबोसोम हैं, तो कौन-सा निष्कर्ष सबसे उचित है?",
+      "en": "If a cell has no nucleus or mitochondria but does contain protein-making ribosomes, which conclusion is most reasonable?"
     },
     "options": {
       "hi": [
-        "माइटोकॉन्ड्रिया",
-        "झिल्ली-बद्ध केंद्रक",
-        "गॉल्जी निकाय",
-        "राइबोसोम"
+        "उसमें न्यूक्लियॉइड नहीं हो सकता",
+        "उसमें हरितलवक और गॉल्जी निकाय अवश्य होंगे",
+        "वह यूकैरियोटिक है क्योंकि उसमें राइबोसोम हैं",
+        "वह प्रोकैरियोटिक हो सकती है; राइबोसोम दोनों प्रकार की कोशिकाओं में पाए जाते हैं"
       ],
       "en": [
-        "Nucleoid region",
-        "Chloroplast",
-        "Vacuole",
-        "Golgi apparatus"
+        "It cannot have a nucleoid",
+        "It must contain chloroplasts and a Golgi apparatus",
+        "It is eukaryotic because it has ribosomes",
+        "It may be prokaryotic; ribosomes occur in both cell types"
       ]
     },
     "correct": 3,
     "explanation": {
-      "hi": "राइबोसोम प्रोटीन संश्लेषण करते हैं और दोनों प्रकार की कोशिकाओं में पाए जाते हैं।",
-      "en": "In prokaryotes, DNA lies in the nucleoid region."
+      "hi": "राइबोसोम प्रोटीन संश्लेषण करते हैं और प्रोकैरियोटिक तथा यूकैरियोटिक दोनों कोशिकाओं में पाए जाते हैं। केंद्रक और माइटोकॉन्ड्रिया का अभाव प्रोकैरियोटिक कोशिका के अनुरूप है; केवल राइबोसोम देखकर कोशिका को यूकैरियोटिक नहीं कहा जा सकता।",
+      "en": "Ribosomes make proteins and occur in both prokaryotic and eukaryotic cells. The absence of a nucleus and mitochondria is consistent with a prokaryote; ribosomes alone do not make a cell eukaryotic."
     },
     "optionExplanations": {
       "hi": [
-        "गलत: माइटोकॉन्ड्रिया यूकैरियोटिक कोशिकाओं का कोशिकांग है।",
-        "गलत: झिल्ली-बद्ध केंद्रक यूकैरियोटिक कोशिका की विशेषता है।",
-        "गलत: गॉल्जी निकाय सामान्यतः यूकैरियोटिक कोशिकाओं में पाया जाता है।",
-        "सही: दोनों प्रकार की कोशिकाओं में राइबोसोम होते हैं।"
+        "प्रोकैरियोट में DNA न्यूक्लियॉइड क्षेत्र में रह सकता है।",
+        "हरितलवक और गॉल्जी निकाय सभी कोशिकाओं में नहीं होते।",
+        "राइबोसोम यूकैरियोट के साथ-साथ प्रोकैरियोट में भी पाए जाते हैं।",
+        "सही—यह लक्षण प्रोकैरियोटिक कोशिका से मेल खाते हैं।"
+      ],
+      "en": [
+        "A prokaryote can have DNA in a nucleoid region.",
+        "Chloroplasts and Golgi apparatus are not present in every cell.",
+        "Ribosomes occur in prokaryotes as well as eukaryotes.",
+        "Correct—these features are consistent with a prokaryotic cell."
       ]
     }
   },
