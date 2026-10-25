@@ -79,3 +79,14 @@ NCERT's current online textbook portal must be used with the correct class, subj
 
 ## Status
 Targeted verification has identified concrete content-quality defects. The full 5,750-question scientific audit, complete 36-guide NCERT mapping, live website tests and final AdSense readiness remain open. Do not claim these are complete until evidence is recorded.
+
+
+## Follow-up fixes applied in the verification branch
+- Chemistry guide 2 Hindi example now matches the English example: burning magnesium produces magnesium oxide.
+- Corrected the Hindi wording for chemical changes and clarified that many are not easily reversible rather than making an absolute claim.
+- Replaced the unclear rusting heading with “लोहे में जंग लगना एवं उसकी रोकथाम”.
+- Clarified the quicklime + water example and cautioned against treating colour/gas/temperature signs alone as proof of a chemical change.
+- Rewrote Chemistry question `chem2_q103` explanation in both languages and added four option-specific explanations per language.
+- Re-fetched the edited files and confirmed both JSON files parse, the Hindi/English magnesium example is aligned, and `chem2_q103` has four Hindi and four English option explanations.
+
+These fixes address the named examples only. They do not certify the rest of Chemistry guide 2 or the other 5,550+ questions. Full-bank academic review and CI still remain open.
