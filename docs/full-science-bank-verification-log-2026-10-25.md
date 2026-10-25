@@ -78,3 +78,13 @@ Updated `data/science/biology/chapter-01/questions.json`:
 - Re-fetched the edited file and parsed JSON. All 10 target questions have four non-empty Hindi and four non-empty English option explanations; correct indices remain in the 0–3 range.
 
 This is a verified batch of 10 questions, not a claim that the other questions in the 150-question guide or the full 5,750-question bank are fully reviewed.
+
+
+## Completed option-explanation coverage — Biology guide 1 (all 150 questions)
+A full re-fetch and structural scan of `data/science/biology/chapter-01/questions.json` on this branch confirms:
+- 150/150 questions have four non-empty Hindi option explanations and four non-empty English option explanations.
+- 0 questions are missing the expected four-option explanation arrays.
+- 0 structural issues in the scan for bilingual question stems, four options per language, and a correct index in the 0–3 range.
+- Reviewed and rewrote the option explanations for questions `ch1_q141`–`ch1_q250` in batches, with bilingual option order aligned where discrepancies were found; questions `ch1_q219`, `ch1_q142`, `ch1_q146`, `ch1_q148`, `ch1_q155`, and `ch1_q156` also had wording/order clarifications.
+
+Remaining in this guide: the general explanation-length heuristic still flags 145 Hindi and 136 English explanations under 180 characters. This is a triage signal, not a proof of factual error. Scientific fact verification and deeper explanation review still require a separate pass; the 150/150 option-explanation result must not be misrepresented as full scientific certification.
