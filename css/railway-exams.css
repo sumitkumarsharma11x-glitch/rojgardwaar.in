@@ -77,9 +77,11 @@
 }
 
 
-/* Header overflow fix: move the full navigation into the existing disclosure menu
-   before the logo, links and account actions can collide on tablet-sized screens. */
-@media (min-width: 701px) and (max-width: 1000px) {
+/* Header overflow fix: widen the header and collapse navigation before account actions collide. */
+@media (min-width: 701px) and (max-width: 1200px) {
+  .reference-header .ref-container {
+    width: min(1280px, calc(100% - 40px));
+  }
   .reference-header,
   .reference-header .header-row {
     height: 68px;
