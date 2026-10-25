@@ -5486,6 +5486,20 @@
       "explanation": {
         "hi": "जाइलम कोशिकाओं का एक समूह (ऊतक) है जो केवल जल-परिवहन का कार्य करता है; जड़, पत्ती, फूल विभिन्न ऊतकों से बने अंग हैं।",
         "en": "Xylem is a group of cells (tissue) doing only water transport; root, leaf and flower are organs built of many tissues."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: जड़ पौधे का अंग है, जिसमें कई ऊतक मिलकर जल/खनिज अवशोषण और सहारा देते हैं।",
+          "गलत: पत्ती पौधे का अंग है, जिसमें कई ऊतक प्रकाश-संश्लेषण और गैस-विनिमय करते हैं।",
+          "सही: जाइलम एक संवहन ऊतक है जो जल और खनिजों के परिवहन में मदद करता है।",
+          "गलत: फूल पौधे का प्रजनन अंग है, ऊतक नहीं।"
+        ],
+        "en": [
+          "Incorrect. A root is an organ containing multiple tissues for absorption and anchorage.",
+          "Incorrect. A leaf is an organ with tissues for photosynthesis and gas exchange.",
+          "Correct. Xylem is a conducting tissue that transports water and minerals.",
+          "Incorrect. A flower is a plant reproductive organ, not a tissue."
+        ]
       }
     },
     {
@@ -5514,6 +5528,20 @@
       "explanation": {
         "hi": "विभिन्न ऊतक विभिन्न कार्य विशेषज्ञता से करते हैं — पेशी गति, तंत्रिका संचार, रक्त परिवहन — यही श्रम-विभाजन है।",
         "en": "Different tissues specialise in different jobs — muscle for movement, nerve for signalling, blood for transport — this is division of labour."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: सभी कोशिकाओं का एक ही काम करना विशेषज्ञता और कार्य-विभाजन को नहीं दर्शाता।",
+          "गलत: बहुकोशिकीय जीव में कोशिकाएँ विभिन्न कार्य करती हैं; वे निष्क्रिय नहीं होतीं।",
+          "गलत: केवल प्रजनन कोशिकाएँ नहीं, बल्कि अनेक ऊतक जीवन-क्रियाओं में भाग लेते हैं।",
+          "सही: अलग-अलग कोशिका-समूह/ऊतक विशिष्ट कार्य करते हैं, जैसे पेशी गति, तंत्रिका संकेत और रक्त परिवहन।"
+        ],
+        "en": [
+          "Incorrect. If all cells did the same job, that would not represent specialisation or division of labour.",
+          "Incorrect. Cells in multicellular organisms perform many functions; they are not inactive.",
+          "Incorrect. Many tissues, not only reproductive cells, carry out essential life functions.",
+          "Correct. Different cell groups/tissues specialise in functions such as movement, signalling and transport."
+        ]
       }
     },
     {
@@ -5540,8 +5568,22 @@
       },
       "correct": 0,
       "explanation": {
-        "hi": "पौधों में विभज्योतक केवल कुछ निश्चित क्षेत्रों (जड़-तने के शीर्ष, पर्वाधार) में होता है, इसलिए वृद्धि स्थानीयकृत रहती है; प्राणियों में वृद्धि अधिक समव्यापी होती है।",
-        "en": "In plants, meristem occurs only at fixed spots (root/shoot tips, node bases), so growth is localised; in animals growth is more uniform."
+        "hi": "पौधों में प्राथमिक लंबाई-वृद्धि मुख्यतः शीर्षस्थ विभज्योतक और कुछ पौधों में अंतरावेशित विभज्योतक पर होती है; मोटाई की वृद्धि पार्श्व विभज्योतक कराता है। वृद्धि पूरे पौधे में समान नहीं होती, बल्कि विभज्योतक क्षेत्रों में केंद्रित रहती है।",
+        "en": "Primary length growth in plants occurs mainly at apical meristems and, in some plants, intercalary meristems; lateral meristems increase girth. Growth is not uniform throughout the plant but concentrated in meristematic regions."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: जड़/तने के शीर्ष और कुछ पौधों में पर्वाधार जैसे विभज्योतक क्षेत्रों में कोशिका-विभाजन केंद्रित रहता है।",
+          "गलत: वृद्धि केवल पत्तियों में नहीं होती; जड़ और तने के शीर्ष भी बढ़ते हैं।",
+          "गलत: पौधे वृद्धि करते हैं; विभज्योतक सक्रिय विभाजन करता है।",
+          "गलत: पौधों में वृद्धि समान रूप से हर भाग में नहीं होती; यह विभज्योतक क्षेत्रों पर निर्भर करती है।"
+        ],
+        "en": [
+          "Correct. Cell division is concentrated in meristematic regions such as root/shoot tips and, in some plants, intercalary regions.",
+          "Incorrect. Growth is not restricted to leaves; root and shoot tips also grow.",
+          "Incorrect. Plants do grow, with meristems providing new cells.",
+          "Incorrect. Plant growth is not uniform in every part; it depends on meristematic regions."
+        ]
       }
     },
     {
@@ -5570,6 +5612,20 @@
       "explanation": {
         "hi": "पौधा एक स्थान पर जड़ से स्थिर रहता है अतः उसे दृढ़ सहारा देने वाले ऊतक चाहिए; प्राणी भोजन-रक्षा हेतु घूमते हैं अतः उन्हें गति व संचार के ऊतक चाहिए।",
         "en": "A plant is anchored and needs strong support tissues; animals roam for food and safety and need tissues for movement and quick communication."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: प्राणियों में अनेक ऊतक होते हैं, जैसे उपकला, संयोजी, पेशीय और तंत्रिका ऊतक।",
+          "सही: पौधों और प्राणियों की जीवन-शैली तथा कार्य अलग हैं; इसलिए सहारा, परिवहन, गति और संचार के ऊतकों का अनुपात/विशेषीकरण अलग होता है।",
+          "गलत: दोनों में कोशिका-स्तर पर कुछ समानताएँ हैं, लेकिन उनके ऊतक और कार्य पूरी तरह समान नहीं।",
+          "गलत: पौधों में भी विभज्योतक, मृदूतक, संवहन और सुरक्षात्मक ऊतक होते हैं।"
+        ],
+        "en": [
+          "Incorrect. Animals have many tissues, including epithelial, connective, muscular and nervous tissue.",
+          "Correct. Plant and animal lifestyles differ, so the types and specialisation of support, transport, movement and signalling tissues differ.",
+          "Incorrect. They share some cellular features, but their tissues and functions are not identical.",
+          "Incorrect. Plants have meristematic, parenchyma, vascular and protective tissues."
+        ]
       }
     },
     {
@@ -5598,6 +5654,20 @@
       "explanation": {
         "hi": "विदरक ऊतक त्वचा व पेशियों के बीच का लचीला जोड़ और भराव है जो संक्रमण से लड़ने में भी सहायक है।",
         "en": "Areolar tissue is the flexible link and filler between skin and muscle that also helps fight infection."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: उपास्थि नाक, कान और जोड़ों जैसे भागों में सहारा देती है; त्वचा-पेशी के बीच का सामान्य भराव ऊतक नहीं।",
+          "गलत: तंत्रिका ऊतक संकेत ले जाता है, ढीला भराव और जोड़ने का मुख्य ऊतक नहीं।",
+          "सही: विदरक ऊतक ढीला संयोजी ऊतक है जो त्वचा को नीचे की संरचनाओं से जोड़ता और अंगों के बीच जगह भरता है।",
+          "गलत: अस्थि कठोर संयोजी ऊतक है, त्वचा-पेशी के बीच का ढीला भराव नहीं।"
+        ],
+        "en": [
+          "Incorrect. Cartilage supports structures such as the nose, ear and joints; it is not the loose filler between skin and muscle.",
+          "Incorrect. Nervous tissue transmits signals, not the main loose packing tissue.",
+          "Correct. Areolar tissue is loose connective tissue that attaches skin to underlying structures and fills spaces between organs.",
+          "Incorrect. Bone is hard connective tissue, not loose packing tissue between skin and muscle."
+        ]
       }
     },
     {
@@ -5626,6 +5696,20 @@
       "explanation": {
         "hi": "लंबी अस्थियों के सिरों पर उपास्थि की वृद्धि-पट्टिका रहती है जो नई कोशिकाएँ जोड़ती है; ये कोशिकाएँ बाद में अस्थीभूत हो जाती हैं।",
         "en": "A cartilaginous growth plate at bone ends adds new cells that later ossify, lengthening the bone."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कॉर्क बाहरी सुरक्षा ऊतक है; बच्चों की लंबी अस्थियों की वृद्धि-पट्टिका नहीं।",
+          "गलत: रक्त ऊतक वृद्धि-पट्टिका नहीं बनाता।",
+          "गलत: वसा ऊतक ऊर्जा-संचय करता है, अस्थि की लंबाई नहीं बढ़ाता।",
+          "सही: लंबी अस्थियों के सिरों पर एपिफिसियल वृद्धि-पट्टिका उपास्थि की बनी होती है; वहाँ कोशिका-विभाजन और बाद में अस्थीकरण से लंबाई बढ़ती है।"
+        ],
+        "en": [
+          "Incorrect. Cork is protective outer tissue, not the growth plate of a child's long bone.",
+          "Incorrect. Blood tissue does not form the growth plate.",
+          "Incorrect. Adipose tissue stores energy; it does not lengthen bones.",
+          "Correct. The epiphyseal growth plate at the ends of long bones is cartilage; cell division and later ossification increase bone length."
+        ]
       }
     },
     {
@@ -5633,27 +5717,41 @@
       "topic": "organization-repair",
       "difficulty": "medium",
       "question": {
-        "hi": "तंत्रिका कोशिकाओं की गंभीर क्षति के बाद कार्य अक्सर स्थायी रूप से बिगड़ जाता है — कारण?",
-        "en": "Why does function often remain permanently impaired after serious damage to nerve cells?"
+        "hi": "केंद्रीय तंत्रिका तंत्र (मस्तिष्क/मेरुरज्जु) की गंभीर न्यूरॉन-क्षति की मरम्मत अक्सर कठिन क्यों होती है?",
+        "en": "Why is repair of severe neuron damage in the central nervous system (brain/spinal cord) often difficult?"
       },
       "options": {
         "hi": [
-          "क्योंकि नए न्यूरॉन बनाने की उनकी क्षमता लगभग नहीं के बराबर है",
+          "क्योंकि परिपक्व केंद्रीय न्यूरॉनों की पुनर्जनन क्षमता सीमित होती है",
           "क्योंकि न्यूरॉन बहुत छोटे होते हैं",
-          "क्योंकि न्यूरॉन मृत होते हैं",
-          "क्योंकि उनमें कोई कार्य नहीं होता"
+          "क्योंकि सभी न्यूरॉन मृत होते हैं",
+          "क्योंकि न्यूरॉन कोई कार्य नहीं करते"
         ],
         "en": [
-          "Because their ability to form new neurons is almost nil",
+          "Because mature central neurons have limited regenerative capacity",
           "Because neurons are very small",
-          "Because neurons are dead",
-          "Because they have no function"
+          "Because all neurons are dead",
+          "Because neurons have no function"
         ]
       },
       "correct": 0,
       "explanation": {
-        "hi": "परिपक्व न्यूरॉन प्रायः विभाजित नहीं होते; एक बार नष्ट होने पर उनका पुनर्निर्माण सामान्यतः नहीं हो पाता — इसीलिए मेरुरज्जु की गंभीर चोटें स्थायी होती हैं।",
-        "en": "Mature neurons rarely divide; once destroyed they are generally not replaced — which is why serious spinal injuries are permanent."
+        "hi": "परिपक्व केंद्रीय न्यूरॉन सामान्यतः आसानी से विभाजित होकर प्रतिस्थापित नहीं होते और केंद्रीय तंत्रिका तंत्र में पुनर्विकास सीमित रहता है। फिर भी परिधीय तंत्रिकाओं में कुछ पुनर्जनन संभव है और न्यूरोजेनेसिस के सीमित उदाहरण भी हैं; इसलिए 'कभी नहीं' कहना सही नहीं।",
+        "en": "Mature central neurons generally do not readily divide to replace themselves, and regeneration in the central nervous system is limited. Some regeneration can occur in peripheral nerves and limited neurogenesis exists, so saying it never happens would be inaccurate."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: परिपक्व केंद्रीय न्यूरॉनों की मरम्मत/पुनर्जनन सीमित होता है, इसलिए गंभीर क्षति लंबे समय तक प्रभाव डाल सकती है।",
+          "गलत: आकार अकेला पुनर्जनन की कठिनाई का कारण नहीं।",
+          "गलत: न्यूरॉन जीवित कोशिकाएँ हैं; वे संकेतों का संचार करती हैं।",
+          "गलत: न्यूरॉन संवेदना, गति और अन्य कार्यों के लिए आवश्यक संकेत-संचार करते हैं।"
+        ],
+        "en": [
+          "Correct. Mature central neurons have limited repair/regeneration, so severe damage can have long-lasting effects.",
+          "Incorrect. Size alone does not explain limited regeneration.",
+          "Incorrect. Neurons are living cells that transmit signals.",
+          "Incorrect. Neurons are essential for sensory, motor and other signalling functions."
+        ]
       }
     },
     {
@@ -5682,6 +5780,20 @@
       "explanation": {
         "hi": "हृदय अंग है, रुधिर ऊतक और न्यूरॉन कोशिका; हृदय+वाहिकाएँ+रक्त मिलकर परिसंचरण तंत्र बनाते हैं।",
         "en": "Heart is an organ, blood a tissue, neuron a cell; heart + vessels + blood together form the circulatory system."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: हृदय एक अंग है; यह अकेले अंग-तंत्र नहीं।",
+          "सही: परिसंचरण तंत्र में हृदय, रक्त और रक्त वाहिकाएँ मिलकर पदार्थों का परिवहन करते हैं।",
+          "गलत: रक्त द्रव संयोजी ऊतक है, अंग-तंत्र नहीं।",
+          "गलत: न्यूरॉन एक कोशिका है, अंग-तंत्र नहीं।"
+        ],
+        "en": [
+          "Incorrect. The heart is an organ, not an entire organ system.",
+          "Correct. The circulatory system includes the heart, blood and blood vessels to transport substances.",
+          "Incorrect. Blood is a fluid connective tissue, not an organ system.",
+          "Incorrect. A neuron is a cell, not an organ system."
+        ]
       }
     },
     {
@@ -5710,6 +5822,20 @@
       "explanation": {
         "hi": "दोनों संघन तंतुमय संयोजी ऊतक हैं — टेंडन में कोलेजन, लिगामेंट में कोलेजन सहित इलास्टिन अधिक।",
         "en": "Both are dense fibrous connective tissues — tendon collagen-rich, ligament collagen plus abundant elastin."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: तंत्रिका ऊतक संकेतों का संचार करता है; टेंडन और लिगामेंट दोनों संयोजी ऊतक हैं।",
+          "गलत: उपकला ऊतक सतहों को ढकता है; टेंडन और लिगामेंट का वर्ग नहीं।",
+          "सही: टेंडन और लिगामेंट घने तंतुमय संयोजी ऊतक हैं; टेंडन पेशी-अस्थि और लिगामेंट अस्थि-अस्थि जोड़ता है।",
+          "गलत: पेशी ऊतक संकुचन करता है; टेंडन/लिगामेंट संयोजी ऊतक हैं।"
+        ],
+        "en": [
+          "Incorrect. Nervous tissue transmits signals; tendons and ligaments are connective tissues.",
+          "Incorrect. Epithelium covers surfaces; it is not the category of tendons and ligaments.",
+          "Correct. Tendons and ligaments are dense fibrous connective tissues; tendons connect muscle to bone and ligaments connect bone to bone.",
+          "Incorrect. Muscle tissue contracts; tendons and ligaments are connective tissues."
+        ]
       }
     },
     {
@@ -5738,6 +5864,20 @@
       "explanation": {
         "hi": "जाइलम और फ्लोएम का संयुक्त बंडल संवहन बंडल कहलाता है जो पत्तियों में नसों के रूप में स्पष्ट दिखता है।",
         "en": "A combined strand of xylem and phloem is a vascular bundle, visible in leaves as veins."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: रंध्र पत्ती की सतह पर गैस-विनिमय के छिद्र हैं।",
+          "गलत: क्यूटिकल पत्ती की बाहरी मोमी परत है।",
+          "गलत: माइलिन तंत्रिका तंतुओं का आवरण है, पौधों की पत्ती का भाग नहीं।",
+          "सही: जाइलम और फ्लोएम का संयुक्त समूह संवहन बंडल कहलाता है; पत्ती की नसों में ये साथ-साथ होते हैं।"
+        ],
+        "en": [
+          "Incorrect. Stomata are pores on leaf surfaces for gas exchange.",
+          "Incorrect. The cuticle is the waxy outer layer of a leaf.",
+          "Incorrect. Myelin covers nerve fibres and is not a leaf structure.",
+          "Correct. A combined strand of xylem and phloem is a vascular bundle; these tissues run together in leaf veins."
+        ]
       }
     },
     {
