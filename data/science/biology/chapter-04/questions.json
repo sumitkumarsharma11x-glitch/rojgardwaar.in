@@ -3806,6 +3806,20 @@
       "explanation": {
         "hi": "शंकुओं के भीतर बीज खुले रूप में विकसित होते हैं; फल का निर्माण नहीं होता।",
         "en": "Seeds develop exposed inside the cones; no fruit is formed."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कंद आलू जैसे पौधों का भंडारण अंग है, जिम्नोस्पर्म शंकु का उत्पाद नहीं।",
+          "गलत: फल अंडाशय से बनता है; जिम्नोस्पर्म में बीज अंडाशय में बंद नहीं होते।",
+          "सही: जिम्नोस्पर्म में बीज शंकु की संरचनाओं पर अनावृत रहते हैं, फल के भीतर बंद नहीं होते।",
+          "गलत: पंखुड़ियाँ फूल का भाग हैं; जिम्नोस्पर्म में एंजियोस्पर्म जैसे फूल नहीं होते।"
+        ],
+        "en": [
+          "Incorrect. A tuber is a storage organ, as in potato, not a product of gymnosperm cones.",
+          "Incorrect. Fruit develops from an ovary; gymnosperm seeds are not enclosed in an ovary.",
+          "Correct. Gymnosperm seeds remain exposed on cone structures rather than enclosed in a fruit.",
+          "Incorrect. Petals are parts of flowers; gymnosperms do not have angiosperm-type flowers."
+        ]
       }
     },
     {
@@ -3834,6 +3848,20 @@
       "explanation": {
         "hi": "एंजियोस्पर्म के बीज अंडाशय-व्युत्पन्न फल के भीतर सुरक्षित रहते हैं — इसीलिए 'आवृतबीज' कहलाते हैं।",
         "en": "Angiosperm seeds stay protected inside a fruit derived from the ovary — hence 'covered seeds'."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: एंजियोस्पर्म के बीज शंकुओं में खुले नहीं रहते; वे फल में बंद होते हैं।",
+          "गलत: पानी में तैरना बीज की विशेषता हो सकती है, लेकिन एंजियोस्पर्म की परिभाषा नहीं।",
+          "गलत: नग्न बीज जिम्नोस्पर्म की पहचान है।",
+          "सही: एंजियोस्पर्म में बीजांड अंडाशय में होता है और निषेचन के बाद अंडाशय फल बनता है, जो बीज को ढकता है।"
+        ],
+        "en": [
+          "Incorrect. Angiosperm seeds are not exposed on cones; they are enclosed in fruit.",
+          "Incorrect. Floating in water can be a seed trait, but it does not define angiosperms.",
+          "Incorrect. Naked seeds are characteristic of gymnosperms.",
+          "Correct. In angiosperms, ovules are inside the ovary, which develops into fruit after fertilisation and encloses the seeds."
+        ]
       }
     },
     {
@@ -3862,6 +3890,20 @@
       "explanation": {
         "hi": "फूल बनाना और फल में बीज ढकना केवल एंजियोस्पर्म की विशेषता है।",
         "en": "Bearing flowers and enclosing seeds in fruits is exclusive to angiosperms."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही: फूल एंजियोस्पर्म की पहचान है और फल सामान्यतः उनके अंडाशय से बनता है।",
+          "गलत: टेरिडोफाइटा में फर्न जैसे पौधे आते हैं, जो बीजाणु बनाते हैं, फूल/फल नहीं।",
+          "गलत: ब्रायोफाइटा में मॉस और लिवरवर्ट आते हैं; इनमें फूल और फल नहीं बनते।",
+          "गलत: जिम्नोस्पर्म बीज बनाते हैं, लेकिन फल और सच्चे फूल नहीं बनाते।"
+        ],
+        "en": [
+          "Correct. Flowers characterise angiosperms, and fruit generally develops from their ovary.",
+          "Incorrect. Pteridophytes such as ferns produce spores, not flowers and fruits.",
+          "Incorrect. Bryophytes such as mosses and liverworts do not produce flowers or fruits.",
+          "Incorrect. Gymnosperms produce seeds but not fruits or true flowers."
+        ]
       }
     },
     {
@@ -3890,6 +3932,20 @@
       "explanation": {
         "hi": "भ्रूण में एक भ्रूणपत्र = एकबीजपत्री (गेहूँ), दो = द्विबीजपत्री (चना) — यही विभाजन-आधार है।",
         "en": "One cotyledon in the embryo = monocot (wheat); two = dicot (gram) — that is the dividing basis."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: बीज का रंग एकबीजपत्री/द्विबीजपत्री का आधार नहीं।",
+          "सही: पारंपरिक स्कूल वर्गीकरण में भ्रूणपत्रों की संख्या के आधार पर एकबीजपत्री और द्विबीजपत्री बताए जाते हैं।",
+          "गलत: तने की मोटाई प्रजाति और उम्र से बदलती है; यह मुख्य वर्गीकरण आधार नहीं।",
+          "गलत: जड़ की लंबाई पर्यावरण और विकास से बदलती है; यह मुख्य आधार नहीं।"
+        ],
+        "en": [
+          "Incorrect. Seed colour is not the basis for monocot/dicot classification.",
+          "Correct. In traditional school classification, monocots and dicots are distinguished by the number of cotyledons in the embryo.",
+          "Incorrect. Stem thickness varies with species and age; it is not the main criterion.",
+          "Incorrect. Root length varies with environment and growth; it is not the main criterion."
+        ]
       }
     },
     {
@@ -3918,6 +3974,20 @@
       "explanation": {
         "hi": "गेहूँ, मक्का, धान के बीज में एक ही भ्रूणपत्र होता है — अतः एकबीजपत्री।",
         "en": "Wheat, maize and rice seeds hold a single cotyledon — hence monocots."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: बीजाणुजन्य पौधे बीज नहीं बनाते; गेहूँ और मक्का बीज बनाने वाले एंजियोस्पर्म हैं।",
+          "गलत: गेहूँ और मक्का एकबीजपत्री हैं, द्विबीजपत्री नहीं।",
+          "सही: गेहूँ और मक्का के भ्रूण में एक भ्रूणपत्र होता है, इसलिए पारंपरिक वर्गीकरण में वे एकबीजपत्री हैं।",
+          "गलत: नग्नबीजी पौधों में बीज अंडाशय/फल में बंद नहीं होते; गेहूँ और मक्का एंजियोस्पर्म हैं।"
+        ],
+        "en": [
+          "Incorrect. Spore-producing plants do not make seeds; wheat and maize are seed-producing angiosperms.",
+          "Incorrect. Wheat and maize are monocots, not dicots.",
+          "Correct. Wheat and maize embryos have one cotyledon, so they are classified as monocots in the traditional scheme.",
+          "Incorrect. Gymnosperms have seeds not enclosed in fruit; wheat and maize are angiosperms."
+        ]
       }
     },
     {
@@ -3946,6 +4016,20 @@
       "explanation": {
         "hi": "इनके बीजों में दो भ्रूणपत्र होते हैं — ये द्विबीजपत्री एंजियोस्पर्म हैं।",
         "en": "Their seeds carry two cotyledons — they are dicot angiosperms."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: जिम्नोस्पर्म में नग्न बीज होते हैं; चना, मटर और आम एंजियोस्पर्म हैं।",
+          "गलत: पर्णहरी शैवाल पौधों की इन बीज-श्रेणियों में नहीं आते।",
+          "गलत: चना, मटर और आम पारंपरिक स्कूल वर्गीकरण में द्विबीजपत्री हैं, एकबीजपत्री नहीं।",
+          "सही: चना, मटर और आम के भ्रूण में दो भ्रूणपत्र होते हैं; पारंपरिक वर्गीकरण में ये द्विबीजपत्री एंजियोस्पर्म हैं।"
+        ],
+        "en": [
+          "Incorrect. Gymnosperms have naked seeds; gram, pea and mango are angiosperms.",
+          "Incorrect. Green algae are not in these seed-plant categories.",
+          "Incorrect. Gram, pea and mango are dicots in the traditional school classification, not monocots.",
+          "Correct. The embryos of gram, pea and mango have two cotyledons; they are dicot angiosperms in the traditional classification."
+        ]
       }
     },
     {
@@ -3974,6 +4058,20 @@
       "explanation": {
         "hi": "इन तीनों समूहों में बीज नहीं बनते — जननांग छिपे होते हैं और बीजाणु से वृद्धि होती है।",
         "en": "These three groups make no seeds — reproductive organs stay hidden and growth occurs via spores."
+      },
+      "optionExplanations": {
+        "hi": [
+          "सही, पारंपरिक वर्गीकरण में: थैलोफाइटा, ब्रायोफाइटा और टेरिडोफाइटा को क्रिप्टोगैम कहा जाता है; ये बीज नहीं बनाते, बल्कि बीजाणु द्वारा जनन करते हैं। आधुनिक वर्गीकरण में थैलोफाइटा एक प्राकृतिक एकल समूह नहीं है।",
+          "गलत: जिम्नोस्पर्म बीज बनाते हैं, इसलिए क्रिप्टोगैम नहीं।",
+          "गलत: एंजियोस्पर्म फूल और फल में बंद बीज बनाते हैं।",
+          "गलत: जिम्नोस्पर्म और एंजियोस्पर्म दोनों बीजधारी पौधे हैं, इसलिए फैनेरोगैम कहलाते हैं।"
+        ],
+        "en": [
+          "Correct in traditional classification: Thallophyta, Bryophyta and Pteridophyta are called cryptogams; they do not produce seeds and reproduce by spores. In modern taxonomy, Thallophyta is not a single natural group.",
+          "Incorrect. Gymnosperms produce seeds and are not cryptogams.",
+          "Incorrect. Angiosperms produce flowers and seeds enclosed in fruits.",
+          "Incorrect. Both gymnosperms and angiosperms are seed plants, traditionally called phanerogams."
+        ]
       }
     },
     {
@@ -4002,6 +4100,20 @@
       "explanation": {
         "hi": "जिम्नोस्पर्म और एंजियोस्पर्म में बीज बनते हैं जिनके जननांग स्पष्ट दिखते हैं — यही फैनेरोगैम हैं।",
         "en": "Gymnosperms and angiosperms bear seeds with clearly visible reproductive organs — the phanerogams."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: बीजाणु से बढ़ना क्रिप्टोगैम की विशेषता है; फैनेरोगैम बीज बनाते हैं।",
+          "सही: पारंपरिक वर्गीकरण में जिम्नोस्पर्म और एंजियोस्पर्म फैनेरोगैम हैं क्योंकि वे बीज बनाते हैं और उनके जनन अंग स्पष्ट होते हैं।",
+          "गलत: जिम्नोस्पर्म और एंजियोस्पर्म दोनों में जड़ें होती हैं।",
+          "गलत: फैनेरोगैम में स्थलीय पौधे शामिल हैं; वे सभी जलीय नहीं।"
+        ],
+        "en": [
+          "Incorrect. Spore reproduction characterises cryptogams; phanerogams produce seeds.",
+          "Correct. In traditional classification, gymnosperms and angiosperms are phanerogams because they produce seeds and have visible reproductive structures.",
+          "Incorrect. Both gymnosperms and angiosperms have roots.",
+          "Incorrect. Phanerogams include terrestrial plants; they are not all aquatic."
+        ]
       }
     },
     {
@@ -4030,6 +4142,20 @@
       "explanation": {
         "hi": "थैलोफाइटा-ब्रायोफाइटा में संवहन ऊतक नहीं; टेरिडोफाइटा से आगे के सभी पौधों में जाइलम-फ्लोएम पाए जाते हैं।",
         "en": "Thallophytes and bryophytes lack vascular tissue; from pteridophytes onwards all plants have xylem and phloem."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: पारंपरिक थैलोफाइटा में वास्तविक जाइलम-फ्लोएम नहीं होते।",
+          "गलत: ब्रायोफाइटा में वास्तविक जाइलम-फ्लोएम अनुपस्थित होते हैं।",
+          "सही: टेरिडोफाइटा पहले पारंपरिक पादप समूह हैं जिनमें वास्तविक जाइलम और फ्लोएम होते हैं; वे बीजाणु बनाते हैं, बीज नहीं।",
+          "गलत: शैवाल समूहों में वास्तविक जाइलम-फ्लोएम नहीं होते।"
+        ],
+        "en": [
+          "Incorrect. Traditional Thallophyta lacks true xylem and phloem.",
+          "Incorrect. Bryophytes lack true xylem and phloem.",
+          "Correct. Pteridophytes are the first traditional plant group with true xylem and phloem; they produce spores, not seeds.",
+          "Incorrect. Algal groups do not have true xylem and phloem."
+        ]
       }
     },
     {
@@ -4037,8 +4163,8 @@
       "topic": "plant-diversity",
       "difficulty": "medium",
       "question": {
-        "hi": "मॉस-लिवरवर्ट सामान्यतः कैसे स्थानों पर उगते हैं?",
-        "en": "Mosses and liverworts usually grow in what kind of places?"
+        "hi": "मॉस और लिवरवर्ट सामान्यतः किस प्रकार के स्थानों पर अधिक पाए जाते हैं?",
+        "en": "In what kinds of places are mosses and liverworts commonly found?"
       },
       "options": {
         "hi": [
@@ -4056,8 +4182,22 @@
       },
       "correct": 3,
       "explanation": {
-        "hi": "संवहन ऊतक न होने और जल-आवश्यकता के कारण ब्रायोफाइटा नम-छायादार भूमि पर ही जीवित रह पाते हैं।",
-        "en": "Lacking vascular tissue and needing water, bryophytes survive only on moist shady ground."
+        "hi": "ब्रायोफाइट सामान्यतः नम, छायादार स्थानों में अधिक मिलते हैं क्योंकि निषेचन के लिए जल आवश्यक होता है और उनमें वास्तविक संवहन ऊतक नहीं होते। फिर भी कुछ प्रजातियाँ अधिक सूखे या खुले आवासों में भी जीवित रह सकती हैं।",
+        "en": "Bryophytes are commonly found in moist, shady places because water is needed for fertilisation and they lack true vascular tissue. Some species can still survive in drier or more exposed habitats."
+      },
+      "optionExplanations": {
+        "hi": [
+          "गलत: कुछ ब्रायोफाइट समुद्रतटीय स्थानों में मिल सकते हैं, लेकिन खारा समुद्री जल उनका सामान्य प्रमुख आवास नहीं।",
+          "गलत: कुछ प्रजातियाँ चट्टानों पर उग सकती हैं, पर तीखी धूप सभी के लिए सामान्य अनुकूल स्थिति नहीं।",
+          "गलत: कई ब्रायोफाइट नम स्थान पसंद करते हैं; शुष्क रेगिस्तान उनका सामान्य आवास नहीं, हालांकि अपवाद हैं।",
+          "सही: अनेक मॉस और लिवरवर्ट नम तथा छायादार स्थानों में पाए जाते हैं, जहाँ पानी उपलब्ध रहता है।"
+        ],
+        "en": [
+          "Incorrect. Some bryophytes occur near coasts, but salty seawater is not their usual main habitat.",
+          "Incorrect. Some species grow on rocks, but intense sun is not the usual favourable condition for all.",
+          "Incorrect. Many bryophytes prefer moist habitats; deserts are not their usual habitat, though exceptions exist.",
+          "Correct. Many mosses and liverworts occur in moist, shady places where water is available."
+        ]
       }
     },
     {
