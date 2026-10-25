@@ -443,8 +443,22 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "आसवन में द्रव को वाष्पित करके फिर संघनित किया जाता है; पृथक्करण वाष्पशीलता और क्वथन व्यवहार पर निर्भर करता है।",
-      "en": "Distillation vaporises a liquid and condenses the vapour; separation depends on volatility and boiling behaviour."
+      "hi": "आसवन में वाष्प को ठंडा करके द्रव में बदलना संघनन कहलाता है। वाष्पीकरण और संघनन, आसवन के दो अलग चरण हैं。",
+      "en": "In distillation, cooling vapour so that it returns to liquid is condensation. Evaporation and condensation are separate stages of the process."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—उर्ध्वपातन में कुछ ठोस सीधे गैस बनते हैं, द्रव चरण से नहीं गुजरते।",
+        "गलत—गलन में ठोस द्रव बनता है; यहाँ वाष्प से द्रव बनने की बात है।",
+        "सही—वाष्प ठंडी होकर द्रव में बदलती है, जिसे संघनन कहते हैं।",
+        "गलत—वाष्पीकरण में द्रव वाष्प बनता है, यह उलटी दिशा की प्रक्रिया है。"
+      ],
+      "en": [
+        "Incorrect—sublimation is when certain solids pass directly into gas without becoming liquid.",
+        "Incorrect—melting changes a solid into a liquid; the question asks about vapour becoming liquid.",
+        "Correct—vapour cools and changes back into liquid; this is condensation.",
+        "Incorrect—evaporation changes liquid into vapour, the reverse direction."
+      ]
     }
   },
   {
@@ -471,8 +485,22 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "आसवन में द्रव को वाष्पित करके फिर संघनित किया जाता है; पृथक्करण वाष्पशीलता और क्वथन व्यवहार पर निर्भर करता है।",
-      "en": "Distillation vaporises a liquid and condenses the vapour; separation depends on volatility and boiling behaviour."
+      "hi": "अंश आसवन में बार-बार वाष्पीकरण और संघनन से ऐसे मिश्रणीय द्रव अलग किए जाते हैं जिनके क्वथनांक पास-पास हों।",
+      "en": "Fractional distillation uses repeated vaporisation and condensation to separate miscible liquids whose boiling points are close."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—ठोस और पानी के मिश्रण में ठोस घुला है या अघुलनशील, यह देखकर वाष्पीकरण या निस्यंदन चुना जा सकता है।",
+        "गलत—चुंबकीय गुण का अंतर चुंबक से पृथक्करण के लिए उपयोगी है।",
+        "गलत—अमिश्रणीय द्रव सामान्यतः अलग परतें बनाते हैं; उन्हें पृथक्करण कीप से अलग किया जा सकता है।",
+        "सही—पास-पास क्वथनांक वाले मिश्रणीय द्रवों के पृथक्करण में अंश आसवन अधिक उपयोगी है।"
+      ],
+      "en": [
+        "Incorrect—the method for a solid-water mixture depends on whether the solid is dissolved or insoluble.",
+        "Incorrect—magnetic properties are used for magnetic separation.",
+        "Incorrect—immiscible liquids form layers and can often be separated with a separating funnel.",
+        "Correct—fractional distillation is useful for miscible liquids with close boiling points."
+      ]
     }
   },
   {
@@ -499,8 +527,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "क्रोमैटोग्राफी में घटक माध्यमों के साथ अलग-अलग व्यवहार करते हैं, इसलिए वे अलग दूरी तक चलते हैं।",
-      "en": "In chromatography, components interact differently with the media and therefore travel different distances."
+      "hi": "क्रोमैटोग्राफी में मिश्रण के घटक स्थिर और गतिशील माध्यम के साथ अलग-अलग व्यवहार करते हैं, इसलिए वे अलग दूरी तक जाते हैं।",
+      "en": "In chromatography, mixture components interact differently with the stationary and mobile phases, so they travel different distances."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—घुले हुए रंगीन घटक कागज या अन्य माध्यम पर अलग-अलग दूरी तक जा सकते हैं।",
+        "गलत—लोहे और रेत को सामान्यतः चुंबक से अलग करना अधिक सीधा तरीका है।",
+        "गलत—तेल और पानी की अलग परतों के लिए पृथक्करण कीप उपयुक्त है।",
+        "गलत—पत्थर और रेत जैसे बड़े ठोस कण आकार के आधार पर छाने जा सकते हैं।"
+      ],
+      "en": [
+        "Correct—dissolved coloured components can travel different distances through a suitable medium.",
+        "Incorrect—a magnet is a more direct method for separating iron filings from sand.",
+        "Incorrect—a separating funnel is suitable for separate layers of oil and water.",
+        "Incorrect—stones and sand can be separated by size, for example by sieving or handpicking."
+      ]
     }
   },
   {
@@ -527,8 +569,22 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “स्याही में उपस्थित विभिन्न रंगों को अलग करने के लिए कौन-सी विधि उपयोगी है” है। “क्रोमैटोग्राफी” उस संकेत से मेल खाता है; “चुंबकीय पृथक्करण और निस्यंदन” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “Which method is useful for separating different colours present in ink.” “Chromatography” matches that clue; “Magnetic separation and Filtration” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "स्याही के अलग-अलग रंगीन घटकों की पहचान और पृथक्करण के लिए कागज क्रोमैटोग्राफी उपयोगी हो सकती है।",
+      "en": "Paper chromatography can help separate and reveal different coloured components in ink."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—चुंबकीय पृथक्करण चुंबकीय पदार्थों के लिए है, रंगीन घुले घटकों के लिए नहीं।",
+        "सही—स्याही के रंगीन घटक कागज पर अलग-अलग दूरी तक चल सकते हैं।",
+        "गलत—साधारण निस्यंदन अघुलनशील ठोस रोकता है; घुले रंग प्रायः फिल्टर से गुजर जाते हैं।",
+        "गलत—अवसादन में निलंबित कण नीचे बैठते हैं, घुले रंग अलग नहीं होते।"
+      ],
+      "en": [
+        "Incorrect—magnetic separation is for magnetic materials, not dissolved dyes.",
+        "Correct—ink dyes may travel different distances on paper and form separate spots.",
+        "Incorrect—ordinary filtration retains insoluble solids; dissolved dyes generally pass through.",
+        "Incorrect—sedimentation settles suspended particles; it does not separate dissolved dyes."
+      ]
     }
   },
   {
@@ -555,8 +611,22 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “लोहे के बुरादे और रेत के मिश्रण को किससे अलग किया जा सकता है” है। “चुंबक” उस संकेत से मेल खाता है; “आसवन और पृथक्करण कीप” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “Iron filings and sand can be separated using what.” “A magnet” matches that clue; “Distillation and Separating funnel” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "लोहे के बुरादे चुंबक से आकर्षित होते हैं, जबकि रेत सामान्यतः नहीं। इसी चुंबकीय गुण के अंतर से मिश्रण अलग किया जा सकता है।",
+      "en": "Iron filings are attracted to a magnet while sand generally is not, so the difference in magnetic properties can separate them."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—आसवन द्रव को वाष्पित और संघनित करने पर आधारित है।",
+        "गलत—पृथक्करण कीप अमिश्रणीय द्रवों की परतें अलग करती है।",
+        "सही—चुंबक लोहे के बुरादे को आकर्षित करता है और रेत को पीछे छोड़ सकता है।",
+        "गलत—फिल्टर पेपर मुख्यतः अघुलनशील ठोस-द्रव मिश्रणों में उपयोगी है, सूखे लोहे-रेत को अलग करने का सबसे अच्छा तरीका नहीं।"
+      ],
+      "en": [
+        "Incorrect—distillation relies on vaporisation and condensation of liquids.",
+        "Incorrect—a separating funnel is designed for layers of immiscible liquids.",
+        "Correct—a magnet attracts the iron filings and can leave the sand behind.",
+        "Incorrect—filter paper is mainly useful for insoluble solid-liquid mixtures, not the best method for a dry iron-sand mixture."
+      ]
     }
   },
   {
@@ -583,8 +653,22 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “चावल और पत्थरों के मिश्रण से बड़े पत्थर अलग करने की सरल विधि क्या है” है। “हाथ से चुनना” उस संकेत से मेल खाता है; “आसवन और क्रोमैटोग्राफी” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "जब पत्थर चावल से स्पष्ट रूप से बड़े हों और हाथ से पहचाने जा सकें, तो हाथ से चुनना सरल और प्रभावी है।",
+      "en": "When stones are visibly larger than the rice and can be picked out, handpicking is a simple and effective method."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—आसवन द्रवों के वाष्पीकरण और संघनन पर आधारित है।",
+        "गलत—क्रोमैटोग्राफी घुले हुए घटकों को अलग करने के लिए उपयोगी है।",
+        "गलत—संघनन वाष्प को द्रव में बदलता है, चावल से पत्थर नहीं हटाता।",
+        "सही—बड़े और आसानी से पहचाने जाने वाले पत्थर हाथ से चुने जा सकते हैं।"
+      ],
+      "en": [
+        "Incorrect—distillation separates liquid components through vaporisation and condensation.",
+        "Incorrect—chromatography separates components dissolved in a mobile phase.",
+        "Incorrect—condensation changes vapour into liquid; it does not sort rice and stones.",
+        "Correct—large, visible stones can be picked out by hand."
+      ]
     }
   },
   {
@@ -611,8 +695,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “अनाज से हल्के भूसे को अलग करने में कौन-सी विधि उपयोगी है” है। “फटकना” उस संकेत से मेल खाता है; “निस्यंदन और आसवन” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “Which method is useful for separating lighter husk from grains.” “Winnowing” matches that clue; “Filtration and Distillation” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "फटकने में हवा हल्के भूसे को दूर ले जाती है जबकि अपेक्षाकृत भारी अनाज नीचे गिरता है।",
+      "en": "In winnowing, moving air carries away the lighter husk while the heavier grains fall down."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—हवा हल्के भूसे को अनाज से अलग करने में मदद करती है।",
+        "गलत—निस्यंदन छिद्रयुक्त फिल्टर से द्रव और अघुलनशील ठोस अलग करता है।",
+        "गलत—आसवन द्रवों को वाष्पीकरण और संघनन से अलग करता है।",
+        "गलत—उर्ध्वपातन कुछ ठोसों के सीधे गैस बनने पर आधारित है।"
+      ],
+      "en": [
+        "Correct—air carries the lighter husk away from the heavier grains.",
+        "Incorrect—filtration separates a liquid from insoluble solid particles using a porous filter.",
+        "Incorrect—distillation separates liquid components by vaporisation and condensation.",
+        "Incorrect—sublimation is the direct change of certain solids into gas."
+      ]
     }
   },
   {
@@ -639,8 +737,22 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “विभिन्न आकार के ठोस कणों को अलग करने के लिए कौन-सी विधि उपयोगी है” है। “छानना” उस संकेत से मेल खाता है; “क्रोमैटोग्राफी और आसवन” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “Which method is useful for separating solid particles of different sizes.” “Sieving” matches that clue; “Chromatography and Distillation” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "छानने में अलग-अलग आकार की छलनी से छोटे कण गुजर सकते हैं जबकि बड़े कण रुक जाते हैं।",
+      "en": "Sieving uses a mesh that allows smaller particles through while retaining larger particles."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—क्रोमैटोग्राफी घुले घटकों के अलग-अलग माध्यमीय व्यवहार पर आधारित है।",
+        "सही—छलनी के छिद्रों के आकार के कारण अलग आकार के ठोस कण अलग होते हैं।",
+        "गलत—आसवन क्वथनांक/वाष्पशीलता के अंतर का उपयोग करता है।",
+        "गलत—संघनन वाष्प को द्रव में बदलने की प्रक्रिया है।"
+      ],
+      "en": [
+        "Incorrect—chromatography separates dissolved components based on their differing interactions with phases.",
+        "Correct—the mesh size allows smaller solid particles through and retains larger ones.",
+        "Incorrect—distillation uses differences in boiling behaviour or volatility.",
+        "Incorrect—condensation changes vapour into liquid."
+      ]
     }
   },
   {
@@ -667,8 +779,22 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “अवसादन में भारी अघुलनशील कण क्या करते हैं” है। “नीचे बैठ जाते हैं” उस संकेत से मेल खाता है; “घुल जाते हैं और ऊपर तैरने लगते हैं” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “What do heavier insoluble particles do during sedimentation.” “Settle at the bottom” matches that clue; “Dissolve and Float upward” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "अवसादन में पर्याप्त भारी, अघुलनशील निलंबित कण गुरुत्वाकर्षण के कारण पात्र के तल पर जमा होते हैं।",
+      "en": "During sedimentation, sufficiently heavy insoluble suspended particles settle at the bottom under gravity."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—घुलना तब होता है जब पदार्थ विलायक में घुलता है; अवसादन में कण निलंबित रहते हुए नीचे बैठते हैं।",
+        "गलत—भारी कण सामान्यतः ऊपर नहीं तैरते; तैरना घनत्व और अन्य परिस्थितियों पर निर्भर करता है।",
+        "सही—अवसादन में भारी अघुलनशील कण नीचे बैठकर तलछट बनाते हैं।",
+        "गलत—वाष्प बनना ताप और वाष्पशीलता से जुड़ा है, अवसादन की परिभाषा नहीं।"
+      ],
+      "en": [
+        "Incorrect—dissolving means forming a solution; sedimentation is the settling of suspended particles.",
+        "Incorrect—heavier particles generally settle rather than float upward, though floating depends on density and conditions.",
+        "Correct—heavy insoluble particles settle and form sediment at the bottom.",
+        "Incorrect—forming vapour is related to vaporisation, not sedimentation."
+      ]
     }
   },
   {
@@ -695,8 +821,22 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “ऊपर के साफ द्रव को तलछट से अलग करने की प्रक्रिया क्या कहलाती है” है। “निथारना” उस संकेत से मेल खाता है; “उर्ध्वपातन और आसवन” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “What is the process of separating the clear upper liquid from sediment called.” “Decantation” matches that clue; “Sublimation and Distillation” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "निथारने में तलछट को नीचे बैठने दिया जाता है और ऊपर का साफ द्रव सावधानी से दूसरे पात्र में उड़ेल दिया जाता है।",
+      "en": "In decantation, sediment is allowed to settle and the clear upper liquid is carefully poured into another container."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—उर्ध्वपातन कुछ ठोसों का सीधे गैस में बदलना है।",
+        "गलत—आसवन में वाष्पीकरण और फिर वाष्प का संघनन शामिल होता है।",
+        "गलत—क्रोमैटोग्राफी घुले घटकों को अलग करती है।",
+        "सही—ऊपर के साफ द्रव को तलछट से अलग उड़ेलना निथारना कहलाता है।"
+      ],
+      "en": [
+        "Incorrect—sublimation is the direct change of certain solids into gas.",
+        "Incorrect—distillation involves vaporising a liquid and condensing the vapour.",
+        "Incorrect—chromatography separates components of a mixture based on different interactions with phases.",
+        "Correct—carefully pouring off the clear liquid above sediment is decantation."
+      ]
     }
   },
   {
@@ -723,8 +863,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “रेत और नमक के मिश्रण को अलग करने का सही पहला कदम क्या होगा” है। “पानी मिलाकर नमक घोलना” उस संकेत से मेल खाता है; “चुंबक लगाना और सीधे आसवन करना” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "पानी मिलाने पर नमक घुल जाता है, जबकि रेत अघुलनशील रहती है। फिर रेत को निस्यंदन से हटाया जा सकता है और नमक के घोल से नमक प्राप्त किया जा सकता है।",
+      "en": "Adding water dissolves the salt while sand remains insoluble. The sand can then be filtered off, and salt can be recovered from the solution."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—नमक पानी में घुलता है, इसलिए उसे रेत से अलग करने की प्रक्रिया का पहला चरण पानी मिलाना है।",
+        "गलत—नमक और रेत में से कोई भी सामान्यतः चुंबक से अलग नहीं होगा।",
+        "गलत—सीधे आसवन से पहले नमक को रेत से अलग करने की आवश्यकता का समाधान नहीं होता; पानी मिलाकर घुलनशीलता का अंतर उपयोगी है।",
+        "गलत—हाथ से चुनना सूक्ष्म रेत और नमक के कणों को भरोसेमंद ढंग से अलग नहीं कर सकता।"
+      ],
+      "en": [
+        "Correct—salt dissolves in water, making water addition the first step to separate it from sand.",
+        "Incorrect—neither salt nor sand is ordinarily separated from the other by a magnet.",
+        "Incorrect—direct distillation does not exploit the key solubility difference that separates salt from sand.",
+        "Incorrect—handpicking cannot reliably separate fine sand and salt grains."
+      ]
     }
   },
   {
@@ -751,8 +905,22 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “रेत-नमक-पानी के मिश्रण में नमक का पानी से पृथक्करण किससे किया जा सकता है” है। “वाष्पीकरण” उस संकेत से मेल खाता है; “छानना और निस्यंदन” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "रेत को छानकर अलग करने के बाद नमक पानी में घुला रहता है। पानी वाष्पित करने पर नमक बचता है; पानी भी वापस चाहिए तो आसवन चुनें।",
+      "en": "After filtering out sand, salt remains dissolved in water. Evaporation recovers the salt; choose distillation if the water must also be recovered."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—छानना बड़े अघुलनशील ठोस को हटाता है, घुले नमक को नहीं।",
+        "सही—वाष्पीकरण में पानी निकल जाता है और नमक पीछे रह जाता है।",
+        "गलत—निस्यंदन भी घुले हुए नमक को पानी से अलग नहीं कर सकता।",
+        "गलत—नमक को चुंबक से पानी से अलग नहीं किया जा सकता।"
+      ],
+      "en": [
+        "Incorrect—sieving does not remove salt dissolved in water.",
+        "Correct—evaporation removes water as vapour and leaves the salt behind.",
+        "Incorrect—filtration cannot separate dissolved salt from water.",
+        "Incorrect—magnetic separation does not separate dissolved salt from water."
+      ]
     }
   },
   {
@@ -779,8 +947,22 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “यदि नमक को वापस ठोस रूप में प्राप्त करना हो, तो कौन-सी विधि उपयुक्त है” है। “क्रिस्टलीकरण” उस संकेत से मेल खाता है; “चुंबकीय पृथक्करण और अवसादन” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “If salt is to be recovered as a solid, which method is suitable.” “Crystallization” matches that clue; “Magnetic separation and Sedimentation” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "क्रिस्टलीकरण से विलयन में घुले ठोस को क्रिस्टलों के रूप में प्राप्त किया जा सकता है और उपयुक्त परिस्थितियों में उसकी शुद्धता सुधर सकती है।",
+      "en": "Crystallisation can recover a dissolved solid as crystals and, under suitable conditions, improve its purity."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—चुंबकीय पृथक्करण केवल तब उपयोगी है जब घटक के चुंबकीय गुण अलग हों।",
+        "गलत—अवसादन निलंबित अघुलनशील कणों के बैठने पर आधारित है; घुला नमक तलछट नहीं बनता।",
+        "सही—क्रिस्टलीकरण घुले ठोस को क्रिस्टलों के रूप में प्राप्त करने की विधि है।",
+        "गलत—निस्यंदन घुले नमक को फिल्टर पर नहीं रोकता।"
+      ],
+      "en": [
+        "Incorrect—magnetic separation works when components differ in magnetic properties.",
+        "Incorrect—sedimentation settles suspended insoluble particles; dissolved salt does not simply settle as sediment.",
+        "Correct—crystallisation recovers a dissolved solid in crystal form.",
+        "Incorrect—filtration does not retain salt that is dissolved in water."
+      ]
     }
   },
   {
@@ -807,8 +989,22 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “शुद्ध पदार्थ की एक महत्वपूर्ण विशेषता क्या है” है। “उसकी संरचना निश्चित होती है” उस संकेत से मेल खाता है; “उसकी संरचना हमेशा बदलती रहती है और उसमें अनिवार्य रूप से दो तत्व होते हैं” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “What is an important characteristic of a pure substance.” “It has a fixed composition” matches that clue; “Its composition always changes and It must contain two elements” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "शुद्ध पदार्थ का संघटन निश्चित होता है; मिश्रण में घटकों का अनुपात बदल सकता है। शुद्ध पदार्थ तत्व या यौगिक हो सकता है।",
+      "en": "A pure substance has a fixed composition, whereas the proportions of components in a mixture can vary. A pure substance may be an element or a compound."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—संघटन का लगातार बदलना शुद्ध पदार्थ की विशेषता नहीं है।",
+        "गलत—शुद्ध पदार्थ तत्व भी हो सकता है; उसमें दो तत्व होना आवश्यक नहीं।",
+        "गलत—छानना केवल कुछ विषमांगी मिश्रणों के लिए उपयोगी है, शुद्ध पदार्थ की परिभाषा नहीं।",
+        "सही—शुद्ध पदार्थ की निश्चित संरचना/संघटन होता है।"
+      ],
+      "en": [
+        "Incorrect—a pure substance does not have a composition that continually changes.",
+        "Incorrect—a pure substance can be an element, so it need not contain two elements.",
+        "Incorrect—filtration is a separation method for certain mixtures, not the defining feature of a pure substance.",
+        "Correct—a pure substance has a fixed composition."
+      ]
     }
   },
   {
@@ -835,8 +1031,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “विलयन किस प्रकार का मिश्रण है” है। “समांगी मिश्रण” उस संकेत से मेल खाता है; “विषमांगी मिश्रण और केवल ठोस मिश्रण” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "In a mixture, substances are physically combined and generally retain their own chemical properties."
+      "hi": "विलयन समांगी मिश्रण होता है क्योंकि उसके घटक पूरे नमूने में समान रूप से वितरित रहते हैं। उदाहरण के लिए, पूरी तरह घुली चीनी का पानी।",
+      "en": "A solution is homogeneous because its components are uniformly distributed throughout the sample, as in sugar completely dissolved in water."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—विलयन में संरचना नमूने के अलग-अलग भागों में समान रहती है।",
+        "गलत—विषमांगी मिश्रण में संरचना हर जगह समान नहीं होती या अलग चरण दिख सकते हैं।",
+        "गलत—विलयन केवल ठोस मिश्रण नहीं होता; ठोस, द्रव या गैस के विलयन हो सकते हैं।",
+        "गलत—विलयन केवल गैसीय मिश्रण भी नहीं होता; चीनी का पानी द्रव विलयन है।"
+      ],
+      "en": [
+        "Correct—a solution has uniform composition throughout the sample.",
+        "Incorrect—a heterogeneous mixture is not uniform throughout or may show separate phases.",
+        "Incorrect—solutions are not restricted to solid mixtures; many are liquid solutions.",
+        "Incorrect—solutions are not restricted to gaseous mixtures; sugar water is a liquid solution."
+      ]
     }
   },
   {
@@ -863,8 +1073,22 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “चीनी के पानी में चीनी क्या कहलाती है” है। “विलेय” उस संकेत से मेल खाता है; “अवशेष और विलायक” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “In sugar water, what is sugar called.” “Solute” matches that clue; “Residue and Solvent” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "चीनी पानी में घुलने वाला पदार्थ है, इसलिए वह विलेय कहलाती है। पानी वह विलायक है जिसमें चीनी घुलती है।",
+      "en": "Sugar is the substance dissolved in water, so it is the solute. Water is the solvent in which the sugar dissolves."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—अवशेष फिल्टर पर बचा ठोस होता है; घुली चीनी का नाम नहीं।",
+        "सही—विलयन में घुलने वाले पदार्थ को विलेय कहते हैं।",
+        "गलत—पानी विलायक है क्योंकि उसमें चीनी घुलती है।",
+        "गलत—निस्यंद फिल्टर से गुजरने वाला द्रव है।"
+      ],
+      "en": [
+        "Incorrect—residue is the solid retained on a filter, not the name for dissolved sugar.",
+        "Correct—the substance that dissolves in a solution is called the solute.",
+        "Incorrect—water is the solvent because the sugar dissolves in it.",
+        "Incorrect—filtrate is the liquid passing through a filter."
+      ]
     }
   },
   {
@@ -891,8 +1115,22 @@
     },
     "correct": 2,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “चीनी के पानी में पानी क्या कहलाता है” है। “विलायक” उस संकेत से मेल खाता है; “तलछट और अवशेष” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “In sugar water, what is water called.” “Solvent” matches that clue; “Sediment and Residue” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "चीनी-पानी के विलयन में पानी वह माध्यम है जिसमें चीनी घुलती है, इसलिए पानी विलायक कहलाता है।",
+      "en": "In sugar water, water is the medium in which sugar dissolves, so water is the solvent."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—तलछट वह अघुलनशील पदार्थ है जो नीचे बैठता है; चीनी-पानी में पानी तलछट नहीं है।",
+        "गलत—अवशेष फिल्टर पर रुका ठोस होता है, विलायक नहीं।",
+        "सही—चीनी पानी में घुलती है, इसलिए पानी विलायक है।",
+        "गलत—चीनी विलेय है; पानी में घुलने वाला पदार्थ।"
+      ],
+      "en": [
+        "Incorrect—sediment is insoluble material that settles; water in sugar solution is not sediment.",
+        "Incorrect—residue is material retained on a filter, not the solvent.",
+        "Correct—sugar dissolves in water, so water is the solvent.",
+        "Incorrect—sugar is the solute, the substance dissolved in water."
+      ]
     }
   },
   {
@@ -919,8 +1157,22 @@
     },
     "correct": 3,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “समुद्री जल से पीने योग्य पानी प्राप्त करने के लिए कौन-सी प्रक्रिया उपयोगी है” है। “आसवन” उस संकेत से मेल खाता है; “निस्यंदन मात्र और चुंबकीय पृथक्करण” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “Which process is useful for obtaining fresh water from seawater.” “Distillation” matches that clue; “Filtration alone and Magnetic separation” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "समुद्री जल में नमक घुला होता है और साधारण फिल्टर उसे नहीं रोकता। आसवन में पानी वाष्पित कर संघनित किया जाता है, जिससे नमक पीछे रह जाता है।",
+      "en": "Salt is dissolved in seawater, so an ordinary filter will not remove it. Distillation vaporises and condenses the water, leaving most dissolved salts behind."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—साधारण निस्यंदन घुले नमक को नहीं हटाता; यह अघुलनशील कण रोकता है।",
+        "गलत—नमक को समुद्री जल से अलग करने के लिए चुंबकीय गुण उपयोगी नहीं हैं।",
+        "गलत—हाथ से चुनना द्रव में घुले पदार्थों के लिए उपयुक्त नहीं।",
+        "सही—आसवन से पानी की वाष्प को संघनित कर मीठा पानी एकत्र किया जा सकता है।"
+      ],
+      "en": [
+        "Incorrect—ordinary filtration does not remove dissolved salts; it retains insoluble particles.",
+        "Incorrect—magnetic properties are not useful for separating dissolved salt from seawater.",
+        "Incorrect—handpicking is not suitable for substances dissolved in a liquid.",
+        "Correct—distillation condenses water vapour so fresh water can be collected separately."
+      ]
     }
   },
   {
@@ -947,8 +1199,22 @@
     },
     "correct": 0,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “क्रिस्टलीकरण का एक प्रमुख लाभ क्या है” है। “घुले हुए ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करना” उस संकेत से मेल खाता है; “लोहे को चुंबक से अलग करना और केवल गैसों को अलग करना” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “What is a major advantage of crystallization.” “Obtaining a dissolved solid as relatively pure crystals” matches that clue; “Separating iron with a magnet and Separating only gases” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "क्रिस्टलीकरण में विलयन से ठोस के क्रिस्टल बनते हैं। उचित विलयन और परिस्थितियों का चयन करने पर अशुद्धियाँ पीछे रह सकती हैं, इसलिए शुद्धता सुधर सकती है।",
+      "en": "Crystallisation forms solid crystals from a solution. With a suitable solution and conditions, impurities may remain behind, improving purity."
+    },
+    "optionExplanations": {
+      "hi": [
+        "सही—क्रिस्टलीकरण घुले ठोस को अपेक्षाकृत शुद्ध क्रिस्टलों के रूप में प्राप्त करने में मदद करता है।",
+        "गलत—लोहे को चुंबक से अलग करना चुंबकीय पृथक्करण है।",
+        "गलत—क्रिस्टलीकरण केवल गैसों को अलग करने की विधि नहीं है।",
+        "गलत—बड़े पत्थर हाथ से चुनना या छानना आसान है; यह क्रिस्टलीकरण नहीं।"
+      ],
+      "en": [
+        "Correct—crystallisation can recover a dissolved solid as relatively pure crystals.",
+        "Incorrect—separating iron with a magnet is magnetic separation.",
+        "Incorrect—crystallisation is not a method for separating only gases.",
+        "Incorrect—large stones are removed by handpicking or sieving, not crystallisation."
+      ]
     }
   },
   {
@@ -975,8 +1241,22 @@
     },
     "correct": 1,
     "explanation": {
-      "hi": "यहाँ प्रश्न का संकेत “पृथक्करण की सही विधि चुनने का आधार क्या होना चाहिए” है। “घटकों के भौतिक गुणों में अंतर” उस संकेत से मेल खाता है; “केवल पात्र का आकार और केवल मिश्रण का रंग” अलग परिभाषाओं या स्थितियों को दर्शाते हैं और इसलिए इस प्रश्न का उत्तर नहीं हैं।",
-      "en": "The key clue is “What should be the basis for choosing a suitable separation method.” “Difference in physical properties of the components” matches that clue; “Only the size of the container and Only the colour of the mixture” refer to different definitions or conditions, so they do not answer this question."
+      "hi": "पृथक्करण की विधि चुनने से पहले घटकों की घुलनशीलता, कण आकार, घनत्व, चुंबकीय गुण और क्वथनांक जैसे अंतर देखें।",
+      "en": "Choose a separation method by examining differences in properties such as solubility, particle size, density, magnetism and boiling point."
+    },
+    "optionExplanations": {
+      "hi": [
+        "गलत—पात्र का आकार अपने आप में मिश्रण के घटकों को अलग करने का सिद्धांत नहीं है।",
+        "सही—भौतिक गुणों में अंतर उपयुक्त पृथक्करण विधि चुनने का आधार है।",
+        "गलत—रंग कभी-कभी पहचान में मदद कर सकता है, लेकिन हर मिश्रण के लिए केवल रंग पर्याप्त आधार नहीं है।",
+        "गलत—मिश्रण का नाम नहीं, उसके घटकों के वास्तविक गुण तय करते हैं कि कौन-सी विधि काम करेगी।"
+      ],
+      "en": [
+        "Incorrect—the container's size alone does not provide the principle for separating components.",
+        "Correct—differences in physical properties guide the choice of a suitable separation method.",
+        "Incorrect—colour may help identify components, but it is not a sufficient basis for every separation.",
+        "Incorrect—the actual properties of the components, not merely the mixture's name, determine the suitable method."
+      ]
     }
   },
   {
