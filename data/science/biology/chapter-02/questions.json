@@ -1717,19 +1717,19 @@
     },
     "options": {
       "hi": [
-        "जनक कोशिका के समान",
         "जनक कोशिका की आधी",
+        "जनक कोशिका के समान",
         "जनक कोशिका की दोगुनी",
         "हर बार अलग"
       ],
       "en": [
-        "The same as the parent cell",
         "Half that of the parent cell",
+        "The same as the parent cell",
         "Double that of the parent cell",
         "Different every time"
       ]
     },
-    "correct": 0,
+    "correct": 1,
     "explanation": {
       "hi": "समसूत्री विभाजन में, सामान्य परिस्थितियों में, पुत्री कोशिकाओं की गुणसूत्र संख्या जनक कोशिका के समान रहती है। इससे वृद्धि और ऊतक-मरम्मत में कोशिकाएँ समान गुणसूत्र संख्या बनाए रख सकती हैं।",
       "en": "In typical mitosis, daughter cells retain the same chromosome number as the parent cell. This helps cells maintain chromosome number during growth and tissue repair."
