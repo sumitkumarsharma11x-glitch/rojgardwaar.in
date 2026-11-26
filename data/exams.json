@@ -202,7 +202,7 @@
       "officialNotificationUrl": "https://ssc.gov.in/",
       "applyUrl": "https://ssc.gov.in/",
       "description": "Lower Division Clerk, Data Entry Operator, Postal Assistant",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "ssc",
       "verifiedForCurrentCycle": false,
       "verificationStatus": "official-text-seen-via-mirror-only",
@@ -210,7 +210,8 @@
         "start": "2026-09-07",
         "end": "2026-10-07"
       },
-      "verificationNote": "Notice dated 07-09-2026: age 18-27 as on 01-08-2026 (born 02-08-1999 to 01-08-2008); applications 07-09-2026 to 07-10-2026. The notice text was seen only on a third-party mirror, so the record stays unverified until the ssc.gov.in copy and the qualification/relaxation clauses are checked."
+      "verificationNote": "Notice dated 07-09-2026: age 18-27 as on 01-08-2026 (born 02-08-1999 to 01-08-2008); applications 07-09-2026 to 07-10-2026. The notice text was seen only on a third-party mirror, so the record stays unverified until the ssc.gov.in copy and the qualification/relaxation clauses are checked.",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified."
     },
     {
       "id": "ssc-mts-2026",
@@ -232,10 +233,12 @@
       "officialNotificationUrl": "https://ssc.gov.in/",
       "applyUrl": "https://ssc.gov.in/",
       "description": "Multi Tasking Staff in various central government offices",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "ssc",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified.",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "ssc-gd-2026",
@@ -288,7 +291,8 @@
       "verificationReason": "UPSC CSE has attempt limits (6 for General, 9 for OBC, unlimited for SC/ST) that this calculator does not track.",
       "examCategory": "upsc",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "upsc-cds-2026",
@@ -448,10 +452,12 @@
       "officialNotificationUrl": "https://www.ibps.in/",
       "applyUrl": "https://www.ibps.in/",
       "description": "Probationary Officer in participating public sector banks",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "banking",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified.",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "ibps-clerk-2026",
@@ -473,10 +479,12 @@
       "officialNotificationUrl": "https://www.ibps.in/",
       "applyUrl": "https://www.ibps.in/",
       "description": "Clerk in participating public sector banks",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "banking",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified.",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "sbi-po-2026",
@@ -498,10 +506,12 @@
       "officialNotificationUrl": "https://sbi.co.in/",
       "applyUrl": "https://sbi.co.in/",
       "description": "Probationary Officer in State Bank of India",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "banking",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified.",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "sbi-clerk-2026",
@@ -523,10 +533,12 @@
       "officialNotificationUrl": "https://sbi.co.in/",
       "applyUrl": "https://sbi.co.in/",
       "description": "Junior Associate in State Bank of India",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "banking",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified.",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "afcat-2026",
@@ -658,10 +670,12 @@
       "officialNotificationUrl": "https://mppsc.mp.gov.in/",
       "applyUrl": "https://mppsc.mp.gov.in/",
       "description": "State Administrative Service, Police Service, Forest Service",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "state",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified.",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "uppsc-pcs-2026",
@@ -683,10 +697,12 @@
       "officialNotificationUrl": "https://uppsc.up.nic.in/",
       "applyUrl": "https://uppsc.up.nic.in/",
       "description": "Various Group A and B posts in Uttar Pradesh",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "state",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified.",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "rpsc-ras-2026",
@@ -708,10 +724,12 @@
       "officialNotificationUrl": "https://rpsc.rajasthan.gov.in/",
       "applyUrl": "https://rpsc.rajasthan.gov.in/",
       "description": "Rajasthan Administrative Service, Police Service, other state services",
-      "requiresVerification": false,
+      "requiresVerification": true,
       "examCategory": "state",
       "verifiedForCurrentCycle": false,
-      "verificationStatus": "needs-current-cycle-official-audit"
+      "verificationStatus": "needs-current-cycle-official-audit",
+      "verificationReason": "This record has not completed the full official-notification and condition review. No eligibility decision is made until the exact cycle rules are verified.",
+      "verificationNote": "Pending official verification as of 2026-11-27. Treat stored values as unverified screening data only."
     },
     {
       "id": "rrb-technician-iti-screening",
@@ -1143,5 +1161,7 @@
     "B.E. / B.Tech": 3,
     "Post-Graduation": 4,
     "Professional Qualification": 2
-  }
+  },
+  "datasetStatus": "screening-only-pending-official-review",
+  "safetyReviewDate": "2026-11-27"
 }

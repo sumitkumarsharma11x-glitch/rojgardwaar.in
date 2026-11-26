@@ -190,6 +190,14 @@ test('REPRODUCIBLE CASE: DOB 17-09-1999, General, Graduation, All exams', () => 
   assert.ok(s.byType.verification >= 1); // the dataset currently has no fully audited current-cycle records
   assert.equal(s.openNow, 0);
 });
+test('all current dataset records fail closed until official verification is complete', () => {
+  const results = E.evaluateAll(data.exams, prof('1999-09-17'), TODAY);
+  assert.equal(results.length, 33);
+  for (const result of results) {
+    assert.equal(result.verified, false, result.exam.id);
+    assert.equal(result.statusType, 'verification', result.exam.id);
+  }
+});
 test('summary: filters are consistent with counts for every status', () => {
   const results = E.evaluateAll(data.exams, prof('1999-09-17', { qualification: '10th Pass', category: 'OBC' }), TODAY);
   const s = E.summarize(results);
