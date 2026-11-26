@@ -48,6 +48,9 @@ function validate(data) {
       if (!b.id || !b.label || !Array.isArray(b.posts)) errors.push(`${label}: each ageBand needs id, label and posts[].`);
       if (b.posts && b.posts.some(p => !p.name)) errors.push(`${label}: every post needs a name.`);
     }
+    if (exam.verifiedForCurrentCycle !== true && exam.requiresVerification !== true) {
+      errors.push(`${label}: unverified records must set requiresVerification=true so the calculator fails closed.`);
+    }
     if (exam.verifiedForCurrentCycle === true) {
       const problems = E.evidenceProblems(exam);
       for (const p of problems) errors.push(`${label}: cannot be marked verified — ${p}.`);

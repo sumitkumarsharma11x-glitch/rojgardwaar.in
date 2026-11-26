@@ -104,5 +104,7 @@ test('page makes no network requests and loads no external code', () => {
   const js = require('node:fs').readFileSync(require('node:path').join(__dirname, '..', 'js', 'photo-signature-core.js'), 'utf8');
   for (const src of [html, js]) assert.doesNotMatch(src, /\bfetch\s*\(|XMLHttpRequest|sendBeacon|WebSocket|localStorage|sessionStorage/);
   assert.doesNotMatch(html, /<script[^>]+src="https?:/i);
-  assert.doesNotMatch(html, /<link[^>]+href="https?:/i);
+  // A canonical URL is metadata, not a network-loaded resource.
+  assert.match(html, /<link[^>]+rel="canonical"[^>]+href="https?:/i);
+  assert.doesNotMatch(html, /<link\\b(?=[^>]*\\brel=["'](?:stylesheet|preconnect|dns-prefetch|modulepreload)["'])[^>]*\\bhref=["']https?:/i);
 });

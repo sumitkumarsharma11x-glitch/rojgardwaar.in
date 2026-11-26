@@ -4,13 +4,25 @@ const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
 const { validate } = require('../scripts/validate-exams.js');
-const base = { id: 'a', exam: 'A', organization: 'O', examCategory: 'ssc', qualification: 'Graduation', minAge: 18, maxAge: 30, ageCutoffDate: '2026-08-01', officialNotificationUrl: 'https://x.gov.in/n.pdf', applyUrl: 'https://x.gov.in/', relaxation: { OBC: 3 } };
-const ev = { verifiedForCurrentCycle: true, verificationStatus: 'verified', verificationCheckedAt: '2026-10-15', verificationSourceTitle: 't', verificationNotes: 'n' };
+const base = { id: 'a', exam: 'A', organization: 'O', examCategory: 'ssc', qualification: 'Graduation', minAge: 18, maxAge: 30, ageCutoffDate: '2026-08-01', officialNotificationUrl: 'https://x.gov.in/n.pdf', applyUrl: 'https://x.gov.in/', relaxation: { OBC: 3 }, requiresVerification: true };
+const ev = { verifiedForCurrentCycle: true, verificationStatus: 'verified', verificationCheckedAt: '2026-10-15', verificationSourceTitle: 't', verificationNotes: 'n', requiresVerification: false };
 const errs = exams => validate({ exams }).errors;
 
 test('real dataset passes', () => {
   const d = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'data', 'exams.json'), 'utf8'));
   assert.deepEqual(validate(d).errors, []);
+});
+test('all live dataset records fail closed until fully verified', () => {
+  const d = JSON.parse(fs.readFileSync(path.join(__dirname, '..', 'data', 'exams.json'), 'utf8'));
+  assert.equal(d.exams.length, 33);
+  for (const exam of d.exams) {
+    assert.equal(exam.verifiedForCurrentCycle, false, exam.id);
+    assert.equal(exam.requiresVerification, true, exam.id);
+  }
+});
+test('rejects unverified record without fail-closed flag', () => {
+  const unsafe = { ...base, requiresVerification: false };
+  assert.ok(errs([unsafe]).some(e => /unverified records must set requiresVerification=true/.test(e)));
 });
 test('rejects empty / missing exams array', () => { assert.ok(validate({}).errors.length); assert.ok(validate({ exams: [] }).errors.length); });
 test('rejects duplicate ids', () => assert.ok(errs([base, { ...base }]).some(e => /duplicate/.test(e))));
