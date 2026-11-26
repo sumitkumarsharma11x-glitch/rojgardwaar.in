@@ -106,5 +106,5 @@ test('page makes no network requests and loads no external code', () => {
   assert.doesNotMatch(html, /<script[^>]+src="https?:/i);
   // A canonical URL is metadata, not a network-loaded resource.
   assert.match(html, /<link[^>]+rel="canonical"[^>]+href="https?:/i);
-  assert.doesNotMatch(html, /<link\\b(?=[^>]*\\brel=["'](?:stylesheet|preconnect|dns-prefetch|modulepreload)["'])[^>]*\\bhref=["']https?:/i);
+  assert.doesNotMatch(html, /<link\b(?=[^>]*\brel=["'](?:stylesheet|preconnect|dns-prefetch|modulepreload)["'])[^>]*\bhref=["']https?:/i);
 });
